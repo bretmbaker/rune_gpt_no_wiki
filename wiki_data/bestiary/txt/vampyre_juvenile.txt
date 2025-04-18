@@ -1,0 +1,57 @@
+Name: Vampyre Juvenile
+Combat Level: 45
+Size: 1x1
+Info:
+- Description: A juvenile vampyre. It looks really hungry!A juvenile vampyre, held in a powerful spell.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 60 xp
+- Category: Vampyres
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Immune
+- Monster ID: 4436,4437,4438,4439
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Brimstone key (1/705[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 60
+Attack: 40
+Strength: 30
+Defence: 30
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

@@ -1,0 +1,4 @@
+Item: Elysian sigil
+Summary: The elysian sigil can be attached to a blessed spirit shield to make an elysian spirit shield. To attach the sigil to the blessed spirit shield, players need 90 Prayer and 85 Smithing. It is a very rare drop from the Corporeal Beast. Players without the required skill levels to create the shield may ask Abbot Langley in the Edgeville Monastery to combine the sigil and the blessed spirit shield, for a fee of 1,500,000 coins.
+Sources:
+- Corporeal Beast (Level 785, Quantity: 1, Rarity: 1/4,095)

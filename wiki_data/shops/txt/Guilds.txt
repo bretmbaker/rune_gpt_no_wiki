@@ -1,0 +1,53 @@
+[Shop: Guilds]
+
+Guildsare special institutions often containing resources or stores sellingarmourorweaponswhich cannot be bought in any other store. Entry to different guilds require either a certain amount ofquest points, a certainskilllevel, or completion of a specificquest. Note that guilds with a skill requirement may be accessed if the skill is temporarilyboostedto meet the requirement.
+
+TheFishing Guild,Mining Guild, andWoodcutting Guildall provide a +7 skill boost in their respective skill while players are inside the guild's doors. These skill boosts are only triggered when players enter through the guild's doors, and are cancelled by leaving through any entrances or by teleporting out.
+
+List of guilds[edit|edit source]
+
+Free-to-play[edit|edit source]
+
+Listed below are the guilds which may be accessed in thefree-to-playversion ofOld School RuneScape.
+
+Guild Name | Requirement(s) | Leagueregion
+
+Champions' Guild | 32Quest points | Misthalin✓
+
+Cooks' Guild | Level 32Cooking,Chef's hatorCooking skillcapeequipped | Misthalin✓
+
+Crafting Guild | Level 40Crafting,Brown apronorCrafting skillcapeequipped | Asgarnia✓
+
+Mining Guild | Level 60Mining | Asgarnia✓
+
+Members[edit|edit source]
+
+Listed below are the guilds which can only be accessed in themembersversion ofOld School RuneScape.
+
+Guild Name | Requirement(s) | Leagueregion
+
+Farming Guild | Level 45Farming | Kourend✓
+
+Fishing Guild | Level 68Fishing | Kandarin✓
+
+Hunter Guild | Level 46Hunter | Varlamore✓
+
+Heroes' Guild | Completion of theHeroes' Quest | Asgarnia✓
+
+Legends' Guild | Completion of theLegends' Quest | Kandarin✓
+
+Myths' Guild | Completion ofDragon Slayer II | &
+
+Wizards' Guild | Level 66Magic | Kandarin✓
+
+Ranging Guild | Level 40Ranged | Kandarin✓
+
+Warriors' Guild | Either total level 130 inAttackandStrength, or level 99 in either Attack or Strength | Asgarnia✓
+
+Woodcutting Guild | Level 60Woodcutting | Kourend✓
+
+v•t•eGuilds
+
+Free-to-play | Champions'CookingCraftingMining
+
+Members | FarmingFishingHeroes'HunterLegends'Myths'RangingWarriors'Wizards'Woodcutting

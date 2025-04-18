@@ -1,0 +1,55 @@
+[Weapon: Gilded Plateskirt]
+
+
+TheGilded plateskirtis a part ofgilded equipment. A gilded plateskirt has the same stats as arune plateskirt, except it weighs 1 kg more. A gilded plateskirt can be received fromhard,eliteandmastertierTreasure Trails.
+
+
+[Infobox]
+Released: 26 October2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Rune plateskirt with gold plate.
+General Store Value: 64,000 coins
+High alch: 38,400 coins
+Low alch: 25,600 coins
+Weight: 9.071 kg
+Grand Exchange Value: 1,694,411 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 70
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +51
+- Slash: +49
+- Crush: +47
+- Magic: -4
+- Ranged: +49
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/32,257.5 | 
+Reward casket (hard) | N/A | 1 | 1/35,750 | 
+Reward casket (master) | N/A | 1 | 1/149,776 | 

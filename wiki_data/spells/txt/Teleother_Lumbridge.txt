@@ -1,0 +1,117 @@
+[Spell: Teleother_Lumbridge]
+
+Teleother Lumbridge
+
+
+
+
+
+
+
+Released | 14 March2005(Update)
+
+Members | Yes
+
+Level | 74
+
+Spellbook | Standard
+
+Type | Teleport
+
+Experience | 84
+
+Runes | 111
+
+Casting speed | 10 ticks
+
+Description | Teleports target to Lumbridge
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Teleother Lumbridgeis amember's spell which requires aMagiclevel of 74 and teleports the target player, who must haveAccept Aidon, toLumbridge. A window will pop for the person being teleported asking them if they wished to be teleported. It is used to send you to Lumbridge once you have completedTutorial Island.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+111 | 327
+
+Combo runes
+
+111 | 331
+
+111 | 431
+
+111 | 349
+
+Main-hands
+
+11Alt | 322
+
+Off-hands
+
+11 | 322
+
+Destination[edit|edit source]
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+v•t•eTeleportation spells
+
+Standard | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Arceuus | Arceuus HomeArceuus LibraryDraynor ManorKebos BattlefrontMind AltarRespawn pointSalve GraveyardFenkenstrain's CastleWest ArdougneHarmony IslandForgotten CemeteryBarrowsApe Atoll DungeonTarget
+
+Ancient | Edgeville HomePaddewwaSenntistenKharyrllLassarDareeyakCarrallangerAnnakarlGhorrockTarget
+
+Lunar | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTargetTele GroupMoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau |  | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTarget | Tele Group | MoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau
+
+ | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTarget
+
+Tele Group | MoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau

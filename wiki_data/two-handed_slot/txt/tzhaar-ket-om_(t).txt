@@ -1,0 +1,53 @@
+[Weapon: Tzhaar-Ket-Om (T)]
+
+
+TheTzhaar-ket-om (t)is aTzhaar-ket-omwith aTzhaar-ket-om ornament kitattached to it. The attached ornament kit gives no additional bonuses, and is only used to add aesthetics to the maul. It costs315,137for both the parts to make the Tzhaar-ket-om (t).
+While the maul is untradeable in its ornamented state, it can be dismantled anytime, returning the tradeable Tzhaar-ket-om and ornament kit.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle
+Examine: A maul of obsidian with trim and spikes.
+General Store Value: 50,001 coins
+High alch: 30,000 coins
+Low alch: 20,000 coins
+Weight: 3.628 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +80
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +85
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 7 ticks (4.2s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

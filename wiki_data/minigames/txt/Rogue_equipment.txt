@@ -1,0 +1,46 @@
+[Minigame: Rogue_equipment]
+
+Rogue equipmentis set ofskilling equipmentobtained from arogue's equipment crate, which are obtained from successfully opening thewall safesat the end of theRogues' Denminigame. As they are untradeable, the set effectively requires level 50AgilityandThievingto wear.
+
+The set of clothing can be stored in anarmour casewithin thecostume roomof aplayer-owned house.Note:Like most untradeable items, the pieces will always be kept on death, except over level 20Wilderness. These itemscannotbe reclaimed fromPerdu.
+
+While wearing pieces of the rogue armour, there is a chance ofpickpocketingtwice the loot from anNPC, with the full set guaranteeing double loot with the exception ofcoin pouches, where the set instead has chance to give you one coin pouch as well as an amount of coins equal to the value of that pouch, rather than just two pouches. Each piece increases the chance of receiving double loot by 15%, unless all five components are worn together, in which case the odds of doubling the loot becomes 100%.[1]The rogue armour pieces are interchangeable for the sake of its set effect, only the number of pieces worn determines the overall activation rate.[2]
+
+Equippedpieces | Activationchance
+
+1 | 15%
+
+2 | 30%
+
+3 | 45%
+
+4 | 60%
+
+5 | 100%
+
+Experience drops remain unaffected when the rogue armour set effect doubles the loot of a pickpocket.
+
+The set effect does not affect stealing from chests, stalls, or activities such asPyramid PlunderorUnderwater Agility and Thieving.
+
+Components[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Rogue mask | 0 | 0 | 0 | 0 | 0 | 5 | 5 | 5 | 5 | 5 | 0 | 0% | 0 | 0 | 0.453 | 
+
+ | Rogue top | 0 | 0 | 0 | 0 | 0 | 10 | 10 | 10 | 10 | 10 | 0 | 0% | 0 | 0 | 0.453 | 
+
+ | Rogue gloves | 0 | 0 | 0 | 0 | 0 | 2 | 2 | 2 | 2 | 2 | 0 | 0% | 0 | 0 | 0.453 | 
+
+ | Rogue trousers | 0 | 0 | 0 | 0 | 0 | 7 | 7 | 7 | 7 | 7 | 0 | 0% | 0 | 0 | 0.453 | 
+
+ | Rogue boots | 0 | 0 | 0 | 0 | 0 | 2 | 2 | 2 | 2 | 2 | 0 | 0% | 0 | 0 | 0.453 | 
+
+Totals | 0 | 0 | 0 | 0 | 0 | 26 | 26 | 26 | 26 | 26 | 0 | 0% | 0 | 0 | 2.265 | N/A
+
+Gallery[edit|edit source]
+
+Rogue armour on body type A.Rogue armour on body type B.
+

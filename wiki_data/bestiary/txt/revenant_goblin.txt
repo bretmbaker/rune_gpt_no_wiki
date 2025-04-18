@@ -1,0 +1,104 @@
+Name: Revenant goblin
+Combat Level: 15
+Size: 1x1
+Info:
+- Description: The ghost of a goblin slain long ago.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 14 xp
+- Category: Revenants, Ghosts
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 7931
+- Link: MOID
+
+Location:
+- Area: Revenant Cave
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Amulet of avarice (1/48,867.28; 1/26,877.28[d 1])
+- Craw's bow (u) (1/97,734.56; 1/53,754.56[d 1])
+- Thammaron's sceptre (u) (1/97,734.56; 1/53,754.56[d 1])
+- Viggora's chainmace (u) (1/97,734.56; 1/53,754.56[d 1])
+- Amulet of avarice (1/9,772.72; 1/5,374.72[d 1])
+- Craw's bow (u) (1/19,545.45; 1/10,749.45[d 1])
+- Thammaron's sceptre (u) (1/19,545.45; 1/10,749.45[d 1])
+- Viggora's chainmace (u) (1/19,545.45; 1/10,749.45[d 1])
+- Ancient emblem (1/4,886.67; 1/16,126[d 1])
+- Ancient totem (1/7,330; 1/4,031.5[d 2])
+- Ancient statuette (1/14,660; 1/8,063[d 2])
+- Ancient crystal (1/9,773.33; 1/5,375.33[d 2])
+- Ancient medallion (1/29,320; 1/16,126[d 2])
+- Ancient effigy (1/29,320; 1/16,126[d 2])
+- Ancient relic (1/29,320; 1/16,126[d 2])
+- Bracelet of ethereum (uncharged) (1/115.19)
+- Battlestaff (1/345.56)
+- Rune full helm (1/863.89)
+- Rune platebody (1/863.89)
+- Rune platelegs (1/863.89)
+- Rune kiteshield (1/863.89)
+- Rune warhammer (1/863.89)
+- Dragon platelegs (1/3,455.57)
+- Dragon plateskirt (1/3,455.57)
+- Dragon dagger (1/1,727.79)
+- Dragon longsword (1/1,727.79)
+- Dragon med helm (1/2,255.38; Never[d 1])
+- Blighted super restore(4) (1/575.93)
+- Blighted manta ray (1/431.95)
+- Coal (1/287.96)
+- Adamantite bar (1/287.96)
+- Runite ore (1/431.95)
+- Runite bar (1/575.93)
+- Black dragonhide (1/431.95)
+- Mahogany plank (1/575.93)
+- Yew logs (1/431.95)
+- Magic logs (1/863.89)
+- Uncut dragonstone (1/1,727.79)
+- Yew seed (1/7,330; 1/4,031.5[d 1])
+- Magic seed (1/7,330; 1/4,031.5[d 2])
+- Coins (1/1.06)
+- Revenant cave teleport (1/345.56)
+- Dragonstone bolt tips (1/575.93)
+- Onyx bolt tips (1/575.93)
+- Law rune (1/345.56)
+- Death rune (1/345.56)
+- Blood rune (1/345.56)
+- Blighted ancient ice sack (1/23.5)
+- Blighted entangle sack (1/11.75)
+- Blighted teleport spell sack (1/23.5)
+- Blighted vengeance sack (1/23.5)
+- Blighted manta ray (1/15.67)
+- Blighted anglerfish (1/15.67)
+- Blighted karambwan (1/23.5)
+- Blighted super restore(4) (1/47)
+- Revenant cave teleport (1/47)
+- Looting bag (1/10)
+- Goblin champion scroll (1/5,000)
+- Larran's key (1/1,367)
+- Slayer's enchantment (1/309)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 14
+Attack: 13
+Strength: 14
+Defence: 14
+Magic: 12
+Ranged: 15
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

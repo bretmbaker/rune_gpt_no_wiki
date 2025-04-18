@@ -1,0 +1,4 @@
+Item: Guthan's warspear
+Summary: Guthan's warspear is a two-handed melee weapon that is part of Guthan the Infested's set of barrows equipment and requires 70 Attack to wield. It is the second most accurate spear in game, surpassed only by the Zamorakian spear/hasta, which has +85 Stab. However, it is slower than most spears, having an attack rate of 5 ticks, rather than 4 ticks, and it cannot be poisoned.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

@@ -1,0 +1,2 @@
+Item: Goopy snake
+Summary: Goopy snakes[1] can be found jumping out of the Pool of Slime beneath the Ectofuntus. Unlike most NPCs, they cannot be examined, and serve no purpose.

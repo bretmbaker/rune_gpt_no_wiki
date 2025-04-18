@@ -1,0 +1,54 @@
+[Weapon: White Cavalier]
+
+
+Thewhite cavalieris a piece of headwear. There are no requirements for wearing this cavalier, and they do not confer combat bonuses upon the player.
+A cavalier of any colour is a potential reward fromhardTreasure Trails.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: All for one and one for all!
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 0.08 kg
+Grand Exchange Value: 8,126 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 93
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

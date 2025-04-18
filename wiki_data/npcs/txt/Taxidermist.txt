@@ -1,0 +1,2 @@
+Item: Taxidermist
+Summary: The taxidermist in Canifis can skin and stuff special creatures for players, giving them possibility of mounting them in their Skill Hall in their house. These special items are things like big fish that can be caught rarely while Fishing or the heads of Slayer monsters randomly dropped while fighting their respective monsters.

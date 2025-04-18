@@ -1,0 +1,55 @@
+[Weapon: Slayer Cape#Untrimmed]
+
+
+ASlayer capeis theCape of Accomplishmentfor players who have achieved level 99 in theSlayerskill. The cape can be purchased for 99,000coinsfromDuradel(orKuradalafter completion ofWhile Guthix Sleeps), inShilo Village. Slayer capes are black in colour, and have a red trim if the player has more than one level 99 skill. As Duradel is in Shilo Village, players must have completed theShilo Villagequestin order to buy the cape.
+Like allskill capes, the Slayer cape gives +9 to all defensive stats, and also a +4 bonus to prayer if it is trimmed, which requires a separate skill at level 99. The cape is automatically trimmed if this condition is met.
+
+
+[Infobox]
+Released: 18 October2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Worn options: Boost
+Examine: The cape worn by Slayer masters.
+General Store Value: 99,000 coins
+High alch: 59,400 coins
+Low alch: 39,600 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +9
+- Crush: +9
+- Magic: +9
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Date | Changes
+26 March2025(update|poll) | The Slayer cape's perk now guarantees the same location from tasks assigned byKonar quo Maten. Previously, the perk would guarantee the task, but not the location.
+15 November2023(update) | The Slayer cape's perk now works withSpria.
+2 December2020(update|poll) | The Slayer cape can now be shown to Slayer Masters to bypass the required Combat level for Slayer task assignment.
+3 December2015(update|poll) | The Slayer cape grants a slim chance of being able to persuade a Slayer Master to reassign your last task.

@@ -1,0 +1,7 @@
+Item: Awakener's orb
+Summary: Awakener's orbs are items dropped by The Leviathan, The Whisperer, Vardorvis, and Duke Sucellus. They are used to access stronger, awakened variants of the four bosses. Apart from having higher stats, the bosses now absorb any stat drains and have new and/or modified mechanics in their fight.
+Sources:
+- Duke Sucellus (Level 538; 758; 1099, Quantity: 1, Rarity: 1/48.5)
+- The Leviathan (Level 593; 798; 1157, Quantity: 1, Rarity: 1/53.6)
+- Vardorvis (Level 572; 784; 1136, Quantity: 1, Rarity: 1/80.6)
+- The Whisperer (Level 587; 791; 1146, Quantity: 1, Rarity: 1/34.5)

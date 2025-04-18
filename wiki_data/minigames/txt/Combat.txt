@@ -1,0 +1,97 @@
+[Minigame: Combat]
+
+Combatis an event inRuneScapein which two or more characters and/ormonstersorNPCsfight.
+
+Combat skills[edit|edit source]
+
+Damage calculating[edit|edit source]
+
+Below is a brief explanation of the threecombat stylesthat can be used.
+
+Inmeleecombat, the maximum damage is determined byStrength, along with the strength bonuses provided by equipment. Accuracy is determined byAttackand the attack bonuses provided by weapons and other equipment. See the articleMelee damage-per-secondfor more information on calculating Melee damage output.
+
+ForRangedcombat, both theRangedlevel and the type of ammunition determine the maximum damage. The accuracy is determined by the Ranged level and the equipment used. See the articleRanged damage-per-secondfor more information on calculating Ranged damage output.
+
+Magic-baseddamage is typically based on the selectedMagiccombat spell, not by Magic level (exceptions includeMagic Dart,powered staves, andsalamanders). Magic accuracy is affected by both the equipment bonuses and by the Magic level. See the article onMagic damage-per-secondfor more information on calculating Magic damage output.
+
+Even though each level is designated for one style of combat, multiple styles of combat can be used in one fight, since players have the ability to switch weapons at will and at any time. The act of using two or more combat styles in a fight to gain an advantage is called "hybridding". While not usually popular or effective inPvPor low levelWildernesscombat, hybridding is a necessary tactic in high level Wilderness combat. The purpose of hybridding is to maintain the advantage over your enemy and bypass protectionprayers.
+
+Experience gain[edit|edit source]
+
+Players gain combat skill experience from dealing damage. The normal value is 4 experience per damage in ranged and melee combat styles, and 2 experience per damage in Magic combat style. However, certain high defence monsters have higher experience per hitpoint damage ratio.[1]The normal value for hitpoint experience gained is 1.33 experience per damage done.
+
+Magic spells also grant experience for the spell cast even if the spell splashes. Defensive mode in Magic and Ranged are also an exception. If a player uses Magic on defensive mode, the normal value is 1.33 experience to Magic and 1 experience to Defence per damage dealt, plus casting experience. For ranging with long range, the normal value is 2 Ranged experience and 2 Defence experience per damage dealt. If a player is using a melee weapon such as an abyssal whip or spear that shares experience between Attack, Strength, and Defence, then the normal value is 1.33 experience per damage done to Attack, Strength, and Defence.
+
+Some monsters give increased experience. The normal amount of experience is multiplied by a constant based on the stats of the monster itself. If a monster has a multiplier, the bonus experience gained will be in the following skills:Attack,Strength,Defence,Ranged,Magic,Hitpoints, andSlayer. The formula for calculating the multiplier is:
+
+where the Average terms are defined as:
+
+Some monsters have manually defined experience bonuses that ignore the formula. For example,Great Olmgives no bonus experience despite its high stats.
+
+Fighting a player in PvP situations, e.g.Clan Wars,Wildernessor in aPvP World, can give increased experience.[2]The normal amount of experience is multiplied by a multiplier based on theCombat levelof the opponent. The formula for calculating the multiplier is:
+
+Opponent combat level | Bonus
+
+3 - 19 | +0 %
+
+20 - 39 | +2.5 %
+
+40 - 59 | +5 %
+
+60 - 79 | +7.5 %
+
+80 - 99 | +10 %
+
+100 - 126 | +12.5 %
+
+Defensive skills[edit|edit source]
+
+Hitpointsis the level that limits the health of a player or monster. This is the skill which essentially decides a battle, as an individual loses when their hitpoints hit 0. Since this skill is the deciding factor in Combat, there are various methods of adjusting your hitpoints.
+
+Hitpoints are primarily restored through the use offood, drinks, and somepotions.Magicis also commonly used such asblood spellsor from the passive effect of theSanguinesti staff. There are some roundabout methods of healing, including healing others throughbutterfliesand Magic, or going to anNPCfor healing, such as amonk, but these methods are often ineffective and uncommon.It is possible to boost your hitpoints past the current maximum, through the use ofSaradomin brewsor some foods. While the majority of these boosts are temporary and your hitpoints would gradually reset to their regular level, they can be significant in a fight.
+
+Defenceis the second skill which plays an active role in nearly all combat situations, except whensafespottingor any other instance where the opponent cannotretaliate. Defence as a skill doesn't directly reduce the damage taken per hit. Instead, it causes the attacker to be more likely to fail their attack, resulting in a hit of 0 forMeleeandRangedattacks or splashing forMagicattacks. However, if the attack is asuccessful hit, Defence will not reduce the amount of damage that will be dealt (which is a random number ranging from 1 to the attacker's max hit with 1 being twice as likely to be chosen than any other number). Because training in the defensive style reduces the damage dealt and therefore XP gained per hour, Defence is not as popular a combat skill to train. In this way, Defence could be equated to "evasiveness". The only way to reduce the damage taken from a successful hit is to wear specific equipment with damage reducing effects (such asJusticiar Armour)  or to utiliseprotection prayerswhen battling other players or monsters that hit through prayer.
+
+WhileDefenceis responsible for reducing the accuracy of most hits, it is only 30% effective againstMagicspells. Instead, 70% of the reduction of accuracy for a spell is determined by your own Magic level. To guard well against Magic, you would need a sizable Magic level yourself.
+
+Monstermagic defence is not affected by their Defence level, only Magic level and Magic defence bonus. SeeMagic.
+
+Prayer[edit|edit source]
+
+Prayer, the final combat skill, is optional to use. However, it is allowed in all combat situations, except in instances where it is specifically forbidden (for example, during the boss fight inDream Mentor).Prayerallows the use of prayers, which are temporary passive boosts which a player can activate at will. Prayer effects include increasingstatswhile active,protecting itemsupondeath, providing increasedHitpointsregeneration, and even the ability todeal damage upon death. Prayer is a unique system; while prayers are active, the player'sPrayer pointsare slowly drained at a rate dependent on both the type of prayer and any prayer bonuses provided by equipment, and prayers can no longer be used when all prayer points have been drained. Like with Hitpoints, increasing your Prayer level increases your maximum Prayer points and allows access to a larger variety of prayers. But unlike Hitpoints, prayer points do not regenerate over time (outside of theDemonic Ruins) and can only be restored by praying at an altar, consuming potions, or using certainSpecial attacks.
+
+Other factors[edit|edit source]
+
+While skills are an important aspect of Combat, damage done and received is mostly determined by external traits, and there is a multitude of other factors which contribute to the fight.
+
+Armour and weaponry[edit|edit source]
+
+Generally, armour boosts a player's defensive capabilities by reducing the accuracy of incoming attacks, and weaponry boosts a player's offensive capabilities. However, armour may also provide offensive bonuses, and weapons usually provide minor defensive bonuses. For maximum effectiveness, players should use the best equipment available to them, since bonuses provided by equipment are at least as important as levels in combat skills.
+
+TheElysian spirit shield,Dinh's bulwark, andJusticiar armourset effect are currently the only pieces of armour that provide general damage absorption abilities. Certain shields and potions can reduce the damage taken fromDragonfireandIcy breath, and theNeitiznot shieldreduces damage taken fromice troll femalesandthrower trolls.
+
+Skill boosts[edit|edit source]
+
+Stat increases are available to anybody through the use ofpotionsand certainfooditems. Through skill boosts, one can temporarily increase a combat statistic to a higher level. These boosts can cause your combat stats to exceed the cap of 99.
+
+Special attacks[edit|edit source]
+
+Special attacksare specific to someweaponsthat player can wield. Special attacks consume a set percentage of the special attack bar in exchange for an effect specific to the weapon, which may include extra damage, additional hits, stat drains, and many others.
+
+Attack speed[edit|edit source]
+
+All weapons inRuneScapehave a specificspeed, which determines the interval between successive hits. Fast weapons tend to not be as accurate or powerful as their counterparts. Fast, inaccurate weapons are ideal against enemies with low Defence, while slower, more accurate weapons fare better against enemies with high Defence.
+
+References[edit|edit source]
+
+v•t•eCombat Mechanics
+
+Combat | Attack rangeAttack speedAuto RetaliateAutocastCombat triangleSpecial attacksHitsplatTankingMagical meleeMagical rangedRanged magicRanged meleeTypeless
+
+Maximum hit | Maximum magic hitMaximum melee hitMaximum ranged hitMonster maximum hit
+
+Damage per second | Damage per second/MeleeDamage per second/RangedDamage per second/Magic
+
+Mechanics | AggressivenessBuffsElemental weaknessFlinchingHit delayRetaliationRetreatSafespotSpawningSuccessful hitMaximum damage capFlat armourToleranceWander radiusPJ timerRed-X
+
+Other | Single-way combatMulticombat areaSingles-plus combatPlayer killing

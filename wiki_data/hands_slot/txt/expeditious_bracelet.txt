@@ -1,0 +1,61 @@
+[Weapon: Expeditious Bracelet]
+
+
+Theexpeditious braceletis anopal braceletenchanted with theLvl-1 Enchantspell.
+When worn, the bracelet provides a 25% chance for a monster killed to count as two kills toward the player'sSlayer taskwithout granting additional experience. The use of this is to speed up Slayer tasks the player does not particularly like doing. Note that the bracelet needs to be wornonlyat the moment you defeat your opponent for the effect to occur, so for the rest of the fight, players may wear other bracelets or gloves such asBarrows gloves.
+
+
+[Infobox]
+Released: 2 February2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Check, Break, Drop
+Worn options: Check
+Examine: Allows one slayer kill to count as two.
+General Store Value: 1,150 coins
+High alch: 690 coins
+Low alch: 460 coins
+Weight: 0.25 kg
+Grand Exchange Value: 1,141 coins
+Grand Exchange Daily Buy Limit: 15,000
+Grand Exchange Daily Trades Volume: 35,211
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Slayer task/Jellies(Melee)
+1 | Slayer task/Jellies(Ranged)
+1 | Slayer task/Waterfiends(Melee)
+1 | Slayer training(Melee)
+1 | Slayer training(Magic (Barrage))
+1 | Slayer training(Ranged)
+1 | Slayer training(Ranged (Wilderness))

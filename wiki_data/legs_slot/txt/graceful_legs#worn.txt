@@ -1,0 +1,60 @@
+[Weapon: Graceful Legs#Worn]
+
+
+Thegraceful legsare part of thegraceful outfit, costing 60marks of gracefromGracein theRogues' Den. When worn, they reduceweightby 6 kg and increases therun energyrestoration rate by 4%; this is increased to 30% when the full outfit is worn.
+This item can be stored in themagic wardrobeof acostume room.
+
+
+[Infobox]
+Released: 5 December2013(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: You have graceful legs. How nice.
+General Store Value: 60 coins
+High alch: 36 coins
+Low alch: 24 coins
+Weight: 0.9 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyss/Strategies(Graceful)
+2 | Abyss/Strategies(Defence)
+1 | Blast mine/Strategies
+1 | Fishing Trawler/Strategies
+1 | Hallowed Sepulchre/Strategies(Agility)
+1 | Sorceress's Garden
+2 | Sulliuscep/Strategies
+1 | Volcanic Mine(Solo)
+2 | Wintertodt/Strategies(Solo)
+1 | Zalcano/Strategies(Mining)

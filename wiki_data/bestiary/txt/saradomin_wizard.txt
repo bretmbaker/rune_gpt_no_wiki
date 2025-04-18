@@ -1,0 +1,42 @@
+Name: Saradomin wizard
+Combat Level: 108
+Size: 1x1
+Info:
+- Description: A follower of Saradomin.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 2955
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Fire battlestaff (1/128)
+- Cosmic rune (1/128)
+- Law rune (1/128)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 120
+Attack: 100
+Strength: 80
+Defence: 80
+Magic: 80
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

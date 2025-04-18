@@ -1,0 +1,58 @@
+[Weapon: Iron Platelegs]
+
+
+Iron platelegsaremeleeleg armour made ofiron. There is noDefencerequirement to wear them, as is the same withbronze armour. As such, it is recommended to skip bronze tier items and start out with iron tier items. They have the same defensive stats as aniron plateskirtbut weigh more.
+They can be made at level 31Smithingwith 3iron bars, granting 75 experience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: These look pretty heavy.
+General Store Value: 280 coins
+High alch: 168 coins
+Low alch: 112 coins
+Weight: 9.071 kg
+Grand Exchange Value: 178 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 4,995
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +11
+- Slash: +10
+- Crush: +10
+- Magic: -4
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Animated Iron Armour | 23 | 1 | 9/10 | 
+Broken armour | 1 | 1 | 57/200 | 
+Combat path starter kit | N/A | 1 | Always | N/A
+Ice giantRegular | 53 | 1 | 1/128 | 
+Simple lockbox | N/A | 1 | 32/10,850 | 

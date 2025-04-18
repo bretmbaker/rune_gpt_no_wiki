@@ -1,0 +1,73 @@
+[Weapon: Masori Body]
+
+
+TheMasori bodyis obtained as a rare drop from theTombs of Amascut. It is part of theMasori armourset, and requires level 80Rangedand 30Defenceto equip. As with the rest of the armour set, the body boasts the highestrangedattack bonus of any item in thebody slot.
+The body can be upgraded into afortified variantby attaching fourArmadylean platesonto it, increasing the Defence level to equip it to level 80. This process requires level 90Crafting, and is irreversible.
+
+
+[Infobox]
+Released: 24 August2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Ancient armour once worn by a powerful ranger.
+General Store Value: 1,200,000 coins
+High alch: 720,000 coins
+Low alch: 480,000 coins
+Weight: 8 kg
+Grand Exchange Value: 57,638,237 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 381
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -4
+- Ranged: +43
+
+Defence Bonuses:
+- Stab: +37
+- Slash: +35
+- Crush: +38
+- Magic: +25
+- Ranged: +33
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +4
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Tombs of Amascut) | N/A | 1 | 2/24 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Artio/Strategies(Ranged)
+2 | Barbarian Assault/Strategies(Ranged (high level))
+3 | Callisto/Strategies(Ranged)
+1 | Chompy bird hunting/Strategy
+1 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | Fortis Colosseum/Strategies(High efficiency)
+2 | General Graardor/Strategies(Solo (Ranged 6:0))
+3 | General Graardor/Strategies(Ranged Attacker)
+1 | Nightmare Zone/Strategies(Ranged)
+2 | Phantom Muspah/Strategies(Magic & Ranged)
+2 | Slayer task/Jellies(Ranged)
+2 | Slayer training(Ranged)
+2 | Tombs of Amascut/Strategies(Ranged switch)
+2 | Tormented Demon/Strategies(Ranged switch)
+2 | Ultimate Ironman Guide/Equipment

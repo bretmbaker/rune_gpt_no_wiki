@@ -1,0 +1,47 @@
+[Weapon: Fremennik Sea Boots 1]
+
+
+TheFremennik sea boots 1are a piece of footwear obtained by completing theeasy Fremennik Diary. The boots are given out byThorodin, and can be reclaimed from him if lost. Its stats are identical to that ofIron boots, however the Fremennik sea boots 1 weigh less.
+A number of other benefitsare always active upon claiming rewards from the easy tier of the Fremennik diary.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Teleport, Drop
+Worn options: Teleport
+Examine: Sturdy boots for northern winters.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.4 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +4
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot

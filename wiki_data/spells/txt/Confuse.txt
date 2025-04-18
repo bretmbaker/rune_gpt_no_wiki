@@ -1,0 +1,113 @@
+[Spell: Confuse]
+
+Confuse
+
+
+
+
+
+
+
+Released | 4 January2001(Update)
+
+Members | No
+
+Level | 3
+
+Spellbook | Standard
+
+Type | Combat
+
+Experience | 13
+
+Runes | 231
+
+Casting speed | 5 ticks
+
+Description | Reduces your opponent's attack by 5%
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Confuseis a low-levelMagicspell. When cast on an opponent, theirAttacklevel is reduced by 5%. The spell givesexperiencewhether it hits or misses, making it a popular way to gain experience cheaply. The spell can only be cast if an opponent's stats haven't already been lowered, meaning you can not stack stat-reduction with multiple spells in a row.
+
+The spell grants 13 Magic experience and requires threewater, twoearth, and onebody runein order to be cast.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+123 | 30
+
+Combo runes
+
+132 | 38
+
+13 | 332
+
+132 | 74
+
+123 | 315
+
+123 | 384
+
+Main-hands
+
+12Alt | 15
+
+13Alt | 20
+
+1 | 5
+
+Main and off-hands
+
+120.05 | 119
+
+13 | 20
+
+1Alt | 5
+
+10.05Alt | 109
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

@@ -1,0 +1,4 @@
+Item: Steam battlestaff
+Summary: A steam battlestaff is a steam elemental staff which provides unlimited amounts of water and fire runes as well as the autocast option when equipped. It requires 30 Attack and 30 Magic to wield.
+Sources:
+- K'ril Tsutsaroth (Level 650, Quantity: 1, Rarity: 1/127)

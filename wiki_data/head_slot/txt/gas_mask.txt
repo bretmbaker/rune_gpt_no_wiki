@@ -1,0 +1,54 @@
+[Weapon: Gas Mask]
+
+
+Thegas maskis aquest itemused inPlague CityandBiohazard. It is made by givingdwellberriestoAlrenainEast Ardougne. The mask allows players to enterWest Ardougnewithout being affected by the plague. Gas masks are also dropped by themournerswho are present inMourning's End Part I.
+Gas masks serve as a way to protect player from damage in theSmokey DungeonandSmoke Devil Dungeon. The mask also reduces damage from the clouds whilstsulphur mininginLovakengj, which makes them useful even after their intended quest use.
+
+
+[Infobox]
+Released: 27 August2002(Update)
+Members: Yes
+Quest item: Plague City
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Stops me from breathing nasty stuff!
+General Store Value: 2 coins
+High alch: 1 coin
+Low alch: 0 coins
+Weight: 0.255 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Closed Chest (Mourner Headquarters) | N/A | 1 | Always | N/A
+Cupboard (Edmond's house) | N/A | 1 | Always | N/A
+MournerLevel 108 | 108 | 1 | Always | 
+MournerLevel 11 | 11 | 1 | Always | 

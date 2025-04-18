@@ -1,0 +1,55 @@
+[Weapon: Prospector Jacket]
+
+
+Theprospector jacketis one part of theprospector outfitand is a reward from theMotherlode Minein exchange for 60Golden nuggetsor fromVolcanic Minefor 39,000 points. The jacket gives a Mining experience boost of 0.8%.
+Alternatively, a player can use theVarrock armour 4from the eliteVarrockAchievement diaryto receive the experience bonus.
+
+
+[Infobox]
+Released: 24 April2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Helps you when you're mining.
+General Store Value: 60 coins
+High alch: 36 coins
+Low alch: 24 coins
+Weight: 1.36 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Blast mine/Strategies
+3 | Guardians of the Rift/Strategies(Runecrafting)
+2 | Volcanic Mine(Solo)
+1 | Volcanic Mine(Group)
+5 | Zalcano/Strategies(Mining)

@@ -1,0 +1,2 @@
+Item: Claude
+Summary: Claude is a kitten that can be found fighting rats in the Ardougne Rat Pits along with Topsy. Claude will occasionally be killed by the rats they are fighting, but will respawn after a short amount of time. Claude may be a pun on the word "clawed", which owes to its examine text.

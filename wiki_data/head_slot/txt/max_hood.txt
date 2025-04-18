@@ -1,0 +1,46 @@
+[Weapon: Max Hood]
+
+
+Themax hoodis one of the rarest hoods inRunescape. It can be obtained fromMacwhen a player purchases aMax cape. It is available to players who have attained at least 99 in all 23skills. Players may buy a set of the hood and the cape from Mac for 2,277,000 coins, which is 99,000 coins times 23, the number of skills. The hood itself provides absolutely no offensive or defensive bonuses and may be worn for purely aesthetic purposes.
+While the hood is bought with the skillcape, it is not needed to perform theemoteassociated with it; the skillcape is the only essential item. Conversely, the max hood must be in the player's inventory when they are combining a max cape with other cape slot items, such as thefire cape.
+
+
+[Infobox]
+Released: 15 October2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: The hood worn by only the most experienced players.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

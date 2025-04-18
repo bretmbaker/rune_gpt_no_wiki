@@ -1,0 +1,54 @@
+[Weapon: Osmumten%27S Fang (Or)]
+
+
+Osmumten's fang (or)is a cosmetic variant ofOsmumten's fangwith acursed phalanxattached to it. It retains all the effects of the original variant.
+In order to receive the cursed phalanx, players must complete a raid at level 500+ with zero deaths for all party members.
+
+
+[Infobox]
+Released: 8 September2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle, Drop
+Examine: A deadly sword created long ago.
+General Store Value: 1,100,000 coins
+High alch: 660,000 coins
+Low alch: 440,000 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +105
+- Slash: +75
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +103
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence

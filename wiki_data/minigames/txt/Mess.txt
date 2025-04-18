@@ -1,0 +1,98 @@
+[Minigame: Mess]
+
+ | This is a non-combat activity.Players should not expect to take damage or risk death from this activity.However, anydeathis still considereddangerousfor the purposes ofhardcore statusanditem retrieval services.
+
+Mess
+
+
+
+
+
+Released | 7 January2016(Update)
+
+Members | Yes
+
+Location | Hosidius
+
+Leagueregion | Kourend✓
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | building
+
+
+
+TheMessis a building directly south of theGreat Kourendstatue, in which theHosidiuscooks feed the soldiers ofShayzien. The Mess is managed byEweseyand twoservery assistants. Players can gainCookingexperience by cooking and serving food to the soldiers.
+
+The Mess is a great area forIronmanaccounts to train their Cooking skill and is also one of the best training methods forUltimate Ironmanaccounts.
+
+Getting there[edit|edit source]
+
+Using aXeric's talismanteleport to Xeric's Heart and running south.CastingKourend Castle Teleportand running south.Kharedst's memoirsteleport to Lunch by the Lancalliums (requires completion ofThe Depths of Despair) and run west.Teleporting to thespirit treeplanted in the Hosidiusspirit tree patch(requires 83 Farming) and running north-west.Using a Xeric's talisman teleport to Xeric's Lookout and running north-east.UsingTeleport to House(if house is in Hosidius) or a redirected house teleport to Hosidius and running north-west.Skills necklaceteleport to theWoodcutting Guildand run north.Using theGroupinginterface to teleport toTithe Farmand running north-west.
+
+The Kitchen[edit|edit source]
+
+Players will have to make three types of food based on the interface on the top-left corner of the player's game client:servery meat pie,servery pineapple pizza, andservery stew. The interface shows which food will gain more of the soldiers' appreciation, which gives a greater amount of Cooking experience. Empty bar means lower rewards and full bar means higher rewards. When one type of food is cooked and served, the appreciation for it will lower while increasing the appreciation for the other two food items. Players will have to obtain the ingredients and cook the food from the various areas within the Mess kitchen area.
+
+Below are parts of the kitchen that can be interacted with in order to create the food to serve the soldiers:
+
+Food cupboard. Containsservery flour,servery pineapple,servery potato,servery cheeseandservery tomato.Utensil cupboard. Containsservery dishes,bowls, andknives.Sink. Here players can fillbowlswith water to later createservery stewor combine with servery flour to createservery pastry doughorservery pizza base.Meat table. Containsservery raw meat.Clay oven. This is where players will cook the food.Buffet tables. This is where players will serve the food. There is no difference between the two tables when serving food.
+
+Excess foods or utensils may be deposited back into the appropriate cupboards.
+
+Making the Food[edit|edit source]
+
+The following below are the steps to create each type of food alongside the required Cooking level.
+
+Servery Meat Pie (20 Cooking)[edit|edit source]
+
+Items required:servery raw meat,servery dish,servery flour,bowl
+
+Fill a bowl with water.Use thebowl of wateron theservery flour, and createservery pastry dough.Use the servery pastry dough on theservery dishto create aservery pie shell.Cook aservery raw meat, and use the resultingservery cooked meaton the servery pie shell to create aservery uncooked pie.Cook it at the clay oven to create aservery meat pie.
+
+About 160 Cooking experience is gained when turning in a servery meat pie.
+
+Servery Stew (25 Cooking)[edit|edit source]
+
+Items required:servery raw meat,servery potato,bowl
+
+Fill a bowl with water.Cook aservery raw meat, and use the resultingservery cooked meaton the bowl of water to create aservery incomplete stew.Use aservery potatoon it to create aservery uncooked stew.Cook it at the clay oven to create aservery stew.
+
+About 168 Cooking experience is gained when turning in a servery stew.
+
+Servery Pineapple Pizza (65 Cooking)[edit|edit source]
+
+Items required:servery tomato,servery pineapple,servery cheese,servery flour,bowl,knife
+
+Fill a bowl with water.Use thebowl of wateron theservery flour, and createservery pizza base.Use theservery tomatoon the pizza base to create aservery incomplete pizza.Use theservery cheeseon the incomplete pizza to create aservery uncooked pizza.Cook it at the clay oven to create aservery plain pizza.Use the knife to slice theservery pineappleto createservery pineapple chunks, and use it on the plain pizza.
+
+About 369 Cooking experience is gained when turning in a servery pineapple pizza.
+
+Strategies[edit|edit source]
+
+Servery Meat Pies[edit|edit source]
+
+Get 14 servery flours from the food cupboard and 14 bowls from the utensil cupboard. Fill the bowls with water at the sink.Repeatedly use the water on the flour, or vice versa, while holding the 1 key to make 14 servery pastry doughs. Use one of the bowls on the Utensil Cupboard to instantly return them all.Get 14 servery dishes from the utensil cupboard and use them on the servery pastry doughs to make 14 servery pie shells.Get 14 servery raw meats from the meat table and cook them all into servery meat.Use the servery meats on the servery pie shells to make 14 servery uncooked pies.Cook the servery uncooked pies.(Optional) If you plan to continue making meat pies, it's easy to withdraw-50 of either flours or bowls now to avoid Withdraw-X and typing out 14 again.Use the Servery Meat Pies on the buffet table.Switch to a different world so you don't have to deal with reduced appreciation and repeat.
+
+Each full inventory will award approximately 2,300 Cooking experience, depending on appreciation. With perfect clicks, it is possible to get above 60,000 experience per hour using this method. At lower levels, expect to get around 48,000-55,000 experience per hour, depending on Cooking level and concentration levels. This method of training Cooking is outclassed in experience rates by servery stews, which only requires an additional five levels.
+
+Servery Stews[edit|edit source]
+
+Get 14 bowls from the utensil cupboard. Fill the bowls with water.Get 14 servery raw meats from the meat table and cook them.Combine the bowls of water with the servery meats to make 14 servery incomplete stews.Get 14 servery potatoes from the food cabinet and combine them with the servery incomplete stews to create 14 servery uncooked stews.Cook the 14 servery uncooked stews.(Optional) If you plan to continue making stews, it's easy to withdraw-50 bowls now to avoid Withdraw-X and typing out 14 again.Use the Servery Stews on the buffet table.Switch to a different world so you don't have to deal with reduced appreciation and repeat.
+
+Each full inventory will award approximately 2,400 Cooking experience, depending on appreciation. With perfect clicks, it is possible to get above 72,000 experience per hour using this method. It is possible to achieve around 94,000 experience per hour by dropping the meat and unfinished stews before cooking them, and picking them up one at a time to use on the range. Cook the meat before filling the bowls for this method to work. At lower levels, expect to get around 60,000-69,000 experience per hour, depending on Cooking level and concentration levels. It becomes impossible to burn the servery stews at level 58 Cooking. Some players may find it advantageous to wait until those levels as a result.
+
+Servery Pineapple Pizzas[edit|edit source]
+
+Start by getting two knives from the servery utensil cupboard. Technically only one is needed, but by having only 26 slots in your inventory instead of 27, items can be taken from the cupboards without having to use the 'Take-X' option after the pizza base is made.Get 13 servery flours from the food cupboard and 13 bowls from the utensil cupboard. Fill the bowls with water. If you're able, you can castHumidifyto save some time here.Repeatedly use the flour on the water, or vice versa, while holding down the "2" button to make 13 servery pizza bases. Use one of the bowls on the Utensil Cupboard to instantly return them all.Get 13 servery tomatoes from the food cupboard and use them on the servery pizza bases to get 13 servery incomplete pizzas.Get 13 servery cheeses from the food cupboard and use them on the servery incomplete pizzas to get 13 servery uncooked pizzas.Get 13 pineapples from the food cupboard and use a knife on each of them to get 13 servery pineapple chunks.Cook the 13 servery uncooked pizzas.Use the pineapple chunks on the servery plain pizzas to get 13 servery pineapple pizzas(Optional) If you plan to continue making pizzas, it's easy to withdraw-50 of either flours or bowls now to avoid Withdraw-X and typing out 13 again.Use the servery pineapple pizzas on the buffet table.Switch to a different world so you don't have to deal with reduced appreciation and repeat.
+
+Each full inventory will award approximately 5,000 Cooking experience, depending on the appreciation. With perfect clicks, it is possible to get above 200,000 experience per hour using this method. At lower levels, expect to get around 165,000-180,000 experience per hour, depending on the Cooking level and concentration levels. It becomes impossible to burn the servery plain pizza starting at level 68 Cooking. However, few pizzas are burned between levels 65 and 68, thus it is recommended to begin cooking pizzas right away.
+

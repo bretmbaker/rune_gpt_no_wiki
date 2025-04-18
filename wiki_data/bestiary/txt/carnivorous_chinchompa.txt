@@ -1,0 +1,41 @@
+Name: Carnivorous chinchompa
+Combat Level: 2
+Info:
+- Description: It looks fluffy and cute; it's probably deadly.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 2911
+- Link: MOID
+
+Location:
+- Area: Red chinchompa hunting ground[1]
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for Carnivorous chinchompa:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 1
+Attack: 2
+Strength: 2
+Defence: 2
+Magic: 2
+Ranged: 2
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,4 @@
+Item: Zamorak hilt
+Summary: The Zamorak hilt is dropped by K'ril Tsutsaroth, in the God Wars Dungeon as a rare drop. When attached to a completed godsword blade, which can be created by combining the three godsword blade shards, it creates the Zamorak godsword.
+Sources:
+- K'ril Tsutsaroth (Level 650, Quantity: 1, Rarity: 1/508)

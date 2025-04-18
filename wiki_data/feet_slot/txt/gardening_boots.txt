@@ -1,0 +1,53 @@
+[Weapon: Gardening Boots]
+
+
+Gardening bootsare boots that can be obtained as a fairly rare drop fromfarmers. They are purely cosmetic and do not provide stat bonuses, nor do they provide any bonuses to theFarmingskill.
+
+
+[Infobox]
+Released: 6 June2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A pair of gardening boots.
+General Store Value: 25 coins
+High alch: 15 coins
+Low alch: 10 coins
+Weight: 0.34 kg
+Grand Exchange Value: 5,752 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 12
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+FarmerMembers-only | 7 | 1 | 2/128 | 

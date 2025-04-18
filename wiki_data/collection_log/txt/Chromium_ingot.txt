@@ -1,0 +1,7 @@
+Item: Chromium ingot
+Summary: Chromium ingots are metal bars dropped by the Leviathan, the Whisperer, Vardorvis, and Duke Sucellus. They can also be smelted via a mixture of runite and adamant ores at the Blast Furnace. They are used in the process of creating the four ancient rings, each requiring three ingots.
+Sources:
+- Duke Sucellus (Level 538; 758; 1099, Quantity: 1, Rarity: 3/720)
+- The Leviathan (Level 593; 798; 1157, Quantity: 1, Rarity: 3/768)
+- Vardorvis (Level 572; 784; 1136, Quantity: 1, Rarity: 3/1,088)
+- The Whisperer (Level 587; 791; 1146, Quantity: 1, Rarity: 3/512)

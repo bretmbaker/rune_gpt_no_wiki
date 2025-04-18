@@ -1,0 +1,4 @@
+Item: Mystic vigour prayer scroll
+Summary: The mystic vigour prayer scroll is a possible reward from looting Branda the Fire Queen of the Royal Titans. Reading it requires level 63 Prayer, which in turn consumes the scroll and unlocks the Mystic Vigour prayer, which replaces Mystic Might within the prayer book.
+Sources:
+- Branda the Fire Queen (Level 350, Quantity: 1, Rarity: 1/75; Never)

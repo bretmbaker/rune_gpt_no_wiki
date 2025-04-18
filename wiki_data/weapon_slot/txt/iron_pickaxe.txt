@@ -1,0 +1,76 @@
+[Weapon: Iron Pickaxe]
+
+
+Theiron pickaxeis apickaxethat mines on a 7-tickcycle, 1-tick faster than thebronze pickaxe. It can be used in combat or tominerocks. As with all pickaxes, players cannotsmithan iron pickaxe.
+
+
+[Infobox]
+Released: 27 May2003(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Used for mining.
+General Store Value: 140 coins
+High alch: 84 coins
+Low alch: 56 coins
+Weight: 2.267 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 158 coins
+Grand Exchange Daily Buy Limit: 40
+Grand Exchange Daily Trades Volume: 1,989
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +5
+- Slash: -2
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +7
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Spike | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Impale | Stab | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Adventurer JonGetting started Mining | N/A | 1 | Always | N/A
+Ammonite Crab | 25 | 1 | 5/128 | 
+Frost Crab | 15 | 1 | 10/180 | 
+Giant lobster | 45 | 1 | 5/128 | 
+Guard (H.A.M. Storerooms) | 20 | 1 | 9/500 | 
+H.A.M. Guard | 12; 18; 22 | 1 | 3/110 | 
+H.A.M. Member | 15 | 1 | 3/100 | 
+Iron pickaxe (Chambers of Xeric) | N/A | 1 | Always | N/A
+Ogre Coffin | 20 | 1 | 3/100 | 
+Possessed pickaxeRegular | 50 | 1 | Always | 
+Possessed pickaxeCatacombs of Kourend | 50 | 1 | 475/500 | 
+Reward casket (beginner) | N/A | 1 | 11/492 | 
+Rock Crab | 13 | 1 | 5/128 | 
+Sand Crab | 15 | 1 | 5/128 | 
+Scavenger beast |  | 1 | 2 × 1/18 | 

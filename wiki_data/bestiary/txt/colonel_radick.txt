@@ -1,0 +1,47 @@
+Name: Colonel Radick
+Combat Level: 38
+Size: 1x1
+Info:
+- Description: A military man.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4406
+- Link: MOID
+
+Location:
+- Area: Yanille West gate
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Steel med helm (1/128)
+- Chaos rune (1/128)
+- Blood rune (1/128)
+- Nature rune (1/128)
+- Steel arrow (1/128)
+- Iron ore (1/128)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 65
+Attack: 25
+Strength: 25
+Defence: 25
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

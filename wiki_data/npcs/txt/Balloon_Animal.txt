@@ -1,0 +1,2 @@
+Item: Balloon Animal
+Summary: Balloon Animals are encountered during the Prison random event. Players must pull the level besides the barriers to see an image of the balloon animal they must pop to obtain the correct prison key. If the correct key is given to Prison Pete one of the three barriers will be removed, if an incorrect key is given another barrier will appear should you have less than 3 barriers left.

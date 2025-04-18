@@ -1,0 +1,37 @@
+Name: Evelot
+Combat Level: 148
+Size: 1x1
+Info:
+- Description: A member of the Khazard Army.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 12047
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 160
+Attack: 160
+Strength: 150
+Defence: 120
+Magic: 80
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

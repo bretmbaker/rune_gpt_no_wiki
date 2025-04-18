@@ -1,0 +1,105 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Druidic Ritual (#18)
+
+
+
+
+
+Released | 27 February 2002 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Paul Gower
+
+
+
+Druidic Ritual is a novice quest that serves as the introduction to the Herblore skill . It takes place entirely in the vicinity of Taverley and is a fairly short quest.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Kaqemeex in the stone circle north of Taverley . Show on map
+
+Official difficulty | Novice
+
+Official length | Very Short
+
+Description | The Druids north of Taverley need help making a potion to reclaim the stone circle south of Varrock.
+
+Requirements | None
+
+Items required | Raw bear meat Raw rat meat Raw beef Raw chicken
+
+Recommended | 10 Combat level
+
+Enemies to defeat | None
+
+League notes | Unlocking Misthalin ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+The stone circle [ edit | edit source ]
+
+Items required: None.
+
+Speak to Kaqemeex , in the stone circle north of Taverley , which is on a hill to the east side of the road to Burthorpe , and he will tell you that the stone circle south of Varrock used to belong to them but was taken over by the dark wizards . He then tells you that you must speak to Sanfew .
+
+Sanfew [ edit | edit source ]
+
+Items required: raw rat meat , raw bear meat , raw beef and raw chicken
+
+Go back south down the road and speak to Sanfew, located upstairs in the big octagonal Herblore shop marked with a herb (which is located two buildings south of the long building containing the Crystal chest ), and tell Sanfew that you were sent to help with the ritual to purify the stone circle in Varrock. Sanfew will then tell you that he needs you to place raw rat meat , raw bear meat , raw beef and raw chicken in the Cauldron of Thunder .
+
+The fastest way to obtain these items is to either buy them at the Grand Exchange or teleport to Varrock and run east out of the city. Kill the giant rat next to the south-east mine, then the bear slightly south of the mine. Continue south towards Lumbridge and kill a chicken , then a cow in the pasture . If you don't want to go all the way to Varrock, you can kill the bear near the building just west of ice mountain . The chicken and cow at the farm just south-east of the southern entrance to Falador . Lastly, the giant rat near the graveyard that is just north of the church below Port Sarim .
+
+If you do not wish to spend the time to hunt these animals, or are an Ironman and cannot use the Grand Exchange, you can purchase all four of the meat from Rufus' Meat Emporium if you have the route to Canifis unlocked.
+
+Enchanting the meat [ edit | edit source ]
+
+Items required: Raw bear meat , Raw rat meat , Raw chicken and Raw beef .
+
+The Cauldron of Thunder is located in Taverley Dungeon . If you are a lower level, it is advised you bring food with you for the next part. Head south of Taverley and down the ladder. When you are down there, keep walking north, past the level 22 and level 25 skeletons until you see two level 19 suits of armour on stands next to a gate.
+
+Kill or ignore it and walk in. You will now see a cauldron. Use the raw meats in your inventory on the Cauldron of Thunder , and you will notice they will turn blue. The meats will change into their enchanted versions: enchanted bear , enchanted chicken , enchanted rat , and enchanted beef .
+
+Going back [ edit | edit source ]
+
+Items required: Enchanted bear , enchanted chicken , enchanted rat and enchanted beef .
+
+Leave the dungeon the same way you entered and speak to Sanfew . He will take the meats and tell you to speak to Kaqemeex . Kaqemeex will thank you then tell you about the skill of Herblore .
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+4 Quest points 250 Herblore experience (Herblore Level 3. 26 Herblore XP away from Herblore Level 4) The ability to use the Herblore skill
+
+Required for completing [ edit | edit source ]
+
+Completion of Druidic Ritual is required for the following:
+
+A Kingdom Divided A Taste of Hope Barbarian Herblore Eadgar's Ruse Fairytale II - Cure a Queen Grim Tales Heroes' Quest Jungle Potion Recruitment Drive Shades of Mort'ton Song of the Elves The Dig Site Watchtower
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+v • t • e Druidic Ritual
+
+NPCs | Kaqemeex Sanfew Enemies Suit of armour |  | Kaqemeex Sanfew | Enemies | Suit of armour
+
+ | Kaqemeex Sanfew
+
+Enemies | Suit of armour
+
+Items | Raw meat Bear Beef Chicken Rat Enchanted meat Bear Beef Chicken Rat | Raw meat | Bear Beef Chicken Rat | Enchanted meat | Bear Beef Chicken Rat
+
+Raw meat | Bear Beef Chicken Rat
+
+Enchanted meat | Bear Beef Chicken Rat
+
+Locations | Taverley Taverley Dungeon
+
+Related | Quick guide Transcript Herblore training

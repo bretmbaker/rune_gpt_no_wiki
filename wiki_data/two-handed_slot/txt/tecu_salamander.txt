@@ -1,0 +1,66 @@
+[Weapon: Tecu Salamander]
+
+
+Thetecu salamanderis the strongestsalamanderthat can be caught using theHunterskill at level 79 Hunter, granting 344 Hunterexperience, which can be found south-east ofRalos' Rise. Catching a matured tecu salamander is rare, as players often receiveimmature tecu salamandersinstead; when an adult is captured, a message in the game chat will stateThe salamander is fully grown, you could use this as a weapon.
+Tecu salamanders require level 80Attack,Magic, andRangedto wield.Irit taris used as ammunition for the salamander. Similar to other tiers of salamander, Tecu salamanders are lost on death.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Release
+Examine: I thought this would be slimier.
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 6 kg
+Grand Exchange Value: 189,741 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 183
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +77
+- Crush: +0
+- Magic: +0
+- Ranged: +87
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +91
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Scorch | Slash | Aggressive | 5 ticks (3.0s) | 1 tile |  | +3 Strength
+ | Flare | Standard | Accurate | 4 ticks (2.4s) | 1 tile |  | None
+ | Blaze | Magic | Defensive | 5 ticks (3.0s) | 1 tile |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Tecu salamander (Hunter) | 79 | 1 | 1/1,000 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Kalphite Queen/Strategies(Flinching)

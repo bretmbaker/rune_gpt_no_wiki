@@ -1,0 +1,49 @@
+[Weapon: Guam Tar]
+
+
+Guam taris an item used as food, or "ammunition", forswamp lizardswhen used as a weapon. It is also optionally used as bait for huntingswamp lizardsto increase the catch rate by 3%.
+Guam tar can be made at level 19Herbloreby using 15swamp taron aguam leaforground guam, whilst having apestle and mortarin the inventory. This process yields 15 guam tar, and grants 30 Herblore experience.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A thick, foul-smelling, tar-like substance with a green tinge.
+General Store Value: 3 coins
+High alch: 1 coin
+Low alch: 1 coin
+Weight: 0 kg
+Grand Exchange Value: 3 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 135,550
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +16
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

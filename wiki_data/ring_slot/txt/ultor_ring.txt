@@ -1,0 +1,157 @@
+[Weapon: Ultor Ring]
+
+
+Theultor ringis one of fourancient ringswhich currently boasts the highest strength bonus of any ring, surpassing theimbued berserker ringby +4. The ring requires players to have killedVardorvisat least once to wear, which is done duringDesert Treasure II - The Fallen Empire; attempting to wear it otherwise will result in the messageThe ring slips off your finger. The power within it seems unfamiliar.
+The ring requires level 90Magicand 80Craftingto create (both being boostable), as well as having learnt how to combine Fremennik ring icons with ancient vestiges viaPeer the Seer.
+
+
+[Infobox]
+Released: 26 July2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: An occult ring that grants immense physical power.
+General Store Value: 140,000 coins
+High alch: 84,000 coins
+Low alch: 56,000 coins
+Weight: 0.012 kg
+Grand Exchange Value: 185,674,509 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 518
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +12
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+1 | Abyssal Sire/Strategies(Phase 1 Melee)
+1 | Adamant dragon/Strategies(Melee)
+1 | Alchemical Hydra/Strategies(Melee)
+1 | Amoxliatl/Strategies(Melee)
+2 | Ancient Wyvern/Strategies(Prayer)
+1 | Ancient Wyvern/Strategies(Melee)
+1 | Araxxor/Strategies(Melee)
+1 | Aviansie/Strategies(Ranged)
+1 | Barbarian Assault/Strategies(Melee (high level))
+1 | Basilisk Knight/Strategies(Melee)
+1 | Calvar'ion/Strategies(Melee)
+1 | Cerberus/Strategies(Melee)
+1 | Chambers of Xeric/Challenge Mode(Melee)
+2 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+2 | Chambers of Xeric/Strategies(Melee)
+1 | Chaos Elemental/Strategies(Melee)
+1 | Chompington(Melee)
+1 | Corporeal Beast/Strategies(Dolo)
+1 | Corporeal Beast/Strategies(Melee masses)
+2 | Corporeal Beast/Strategies(Fewer stat drains)
+1 | Corporeal Beast/Strategies(Team melee)
+1 | Corporeal Beast/Strategies(Solo melee)
+1 | Corporeal Beast/Strategies(Solo melee)
+1 | Dark beast/Strategies(Melee)
+1 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | Down Do Specs(Melee)
+1 | Drake/Strategies(Melee)
+2 | Duke Sucellus/Strategies(Melee)
+1 | Fortis Colosseum/Strategies(High efficiency)
+1 | Fortis Colosseum/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Melee)
+1 | Galvek Speed-Trialist(Melee)
+2 | General Graardor/Strategies(Advanced Tank)
+1 | General Graardor/Strategies(Melee Attacker)
+2 | Giant Mole/Strategies(Dharok's)
+1 | Giant Mole/Strategies(Melee)
+1 | Glough Speed-Trialist(Melee)
+1 | Green dragon/Strategies(Melee)
+1 | Grotesque Guardians/Strategies(Melee)
+1 | Hespori/Strategies(Best-in-slot)
+3 | K'ril Tsutsaroth/Strategies(Melee Tank)
+3 | K'ril Tsutsaroth/Strategies(Solo Melee)
+2 | K'ril Tsutsaroth/Strategies(Melee)
+2 | Kalphite Queen/Strategies(Pre-diary Method)
+1 | Kalphite Queen/Strategies(High DPS (Phase One))
+2 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+1 | Kalphite Queen/Strategies(Verac the Defiled's)
+1 | King Black Dragon/Strategies(Melee BIS smuggle)
+1 | King Black Dragon/Strategies(4-item melee)
+1 | Krystilia/Strategies(Melee)
+1 | Lizardman shaman/Strategies(Melee)
+1 | Metal dragons/Strategies(Melee)
+1 | Mithril dragon/Strategies(Melee)
+3 | Mithril dragon/Strategies(Melee tank)
+1 | Moons of Peril/Strategies(Moons of Peril Armour)
+2 | Nex/Strategies(Hybrid)
+1 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+1 | Nightmare Zone/Strategies(Melee)
+1 | Nightmare Zone/Strategies(Melee (Guthan's))
+1 | Nightmare Zone/Strategies(Melee (Dharok's))
+1 | Nightmare Zone/Strategies(Melee (Prayer))
+1 | The Nightmare/Strategies(Melee)
+2 | Phantom Muspah/Strategies(Melee)
+1 | Phosani's Nightmare/Strategies(Melee)
+1 | Revenants/Strategies(Melee)
+1 | Royal Titans/Strategies(Best-in-slot)
+1 | Royal Titans/Strategies(Minimal gear switching)
+1 | Rune dragon/Strategies(Melee)
+1 | Sarachnis/Strategies(Melee)
+3 | Sarachnis/Strategies(Melee tank)
+1 | Scurrius/Strategies(Melee (high level))
+1 | Skeletal Wyvern/Strategies(Melee)
+1 | Skotizo/Strategies(Melee)
+1 | Slayer task/Fossil Island wyverns(Melee)
+2 | Slayer task/Fossil Island wyverns(Prayer)
+1 | Slayer task/Gargoyles(Melee)
+1 | Slayer task/Jellies(Melee)
+1 | Slayer task/Nechryael(Melee)
+1 | Slayer task/Suqah(Melee (South))
+1 | Slayer task/Trolls(Melee (Mountain trolls))
+1 | Slayer task/Trolls(Melee (Ice trolls))
+1 | Slayer task/Waterfiends(Melee)
+1 | Slayer task/Wyrms(Melee)
+1 | Slayer training(Melee)
+1 | Spindel/Strategies(Melee)
+1 | The Hueycoatl/Strategies(Melee)
+1 | Theatre of Blood/Hard Mode(Melee)
+1 | Theatre of Blood/Strategies(Learner)
+1 | Theatre of Blood/Strategies(Melee)
+2 | Thermonuclear smoke devil/Strategies(Melee)
+1 | Tombs of Amascut/Strategies(Melee switch)
+1 | Tormented Demon/Strategies(Melee switch)
+2 | TzHaar Fight Cave/Strategies(Melee)
+1 | TzHaar Fight Cave/Strategies(Ranged (Atlatl))
+1 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+1 | Ultimate Ironman Guide/Equipment
+2 | Vardorvis/Strategies(Melee)
+1 | Venenatis/Strategies(Melee)
+1 | Vet'ion/Strategies(Melee)
+1 | Vorkath/Strategies(Melee)
+2 | Vyrewatch Sentinel/Strategies(DPS)
+1 | Vyrewatch Sentinel/Strategies(AFK Prayer)

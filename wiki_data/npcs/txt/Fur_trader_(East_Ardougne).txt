@@ -1,0 +1,2 @@
+Item: Fur trader (East Ardougne)
+Summary: The Fur trader runs the Ardougne Fur Stall. in the East Ardougne market. If stock is stolen from his stall, he refuses to do business for 10 minutes. He buys bear furs for 3 coins each.

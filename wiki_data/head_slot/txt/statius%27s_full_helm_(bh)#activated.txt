@@ -1,0 +1,45 @@
+[Weapon: Statius%27S Full Helm (Bh)#Activated]
+
+
+Statius's full helm (bh)is a piece of armour requiring 78Defenceto wear, and is purchased from theBounty Hunter Storefor 400Bounty Hunterpoints. When worn alongsideStatius's platebody (bh)andplatelegs (bh), the accuracy of meleespecial attacksare increased by 15%. It can be converted into itscorrupted variantby speaking to aCorrupted Warrior.
+As with allAncient Warriors' equipmentfrom Bounty Hunter, it is initially inactive upon purchase and must be charged with 5,000,000 coins before it can be used by the player. In addition, it can only be used withinDaimon's Crater,Castle Wars,Clan Wars, andSoul Wars; attempting to attack anything outside the listed areas will result in the player being interrupted from doing so.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Uncharge, Drop
+Examine: A powerful helmet.
+General Store Value: 250,000 coins
+Alchemy: Not alchemisable
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +6
+- Magic: -6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +52
+- Slash: +50
+- Crush: +47
+- Magic: -1
+- Ranged: +55
+
+Other Bonuses:
+- Strength: +3
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

@@ -1,0 +1,149 @@
+[Weapon: Aranea Boots]
+
+
+Aranea bootsare a pair of boots dropped byaraxytes. With no requirements to wear, they are currently the best-in-slot boots forone-defence puresandzerkers, due to the tribrid stats they have, with a ranged attack bonus between that ofmixed hide bootsandblessed dragonhide boots, a magic attack bonus equal toinfinity boots, and a melee strength bonus equal todragon boots.
+The boots have a special web-negating mechanic that allows players to pass throughwebsin various locations without the need of aslash weapon. Additionally, the boots also negate certain special attacks once every 8ticks(4.8 seconds) from arachnid bosses; when this occurs, a game message will stateYour Aranea boots let you avoid the spider-based attack.
+
+
+[Infobox]
+Released: 28 August2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Boots that are surrounded with spider folicles. Great web resistance!
+General Store Value: 150,000 coins
+High alch: 90,000 coins
+Low alch: 60,000 coins
+Weight: 1 kg
+Grand Exchange Value: 5,572,615 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 2,172
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: +6
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+AraxyteLevel 146 | 146 | 1 | 1/2,000;1/800 | 
+AraxyteLevel 96 | 96 | 1 | 1/4,000;1/1,600 | 
+Dreadborn Araxyte | 281 | 1 | 1/400 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Abyssal Sire/Strategies(Phase 2 Ranged)
+4 | Adamant dragon/Strategies(Ranged)
+2 | Adamant dragon/Strategies(Magic)
+2 | Adamant dragon/Strategies(Magic)
+2 | Alchemical Hydra/Strategies(Melee)
+3 | Alchemical Hydra/Strategies(Ranged)
+2 | Amoxliatl/Strategies(Melee)
+2 | Ancient Wyvern/Strategies(Magic)
+4 | Ancient Wyvern/Strategies(Ranged)
+1 | Araxxor/Strategies(Ranged)
+2 | Araxxor/Strategies(Melee)
+3 | Aviansie/Strategies(Ranged)
+2 | Barrows/Strategies(Magic equipment)
+4 | Brutal black dragon/Strategies(Ranged)
+2 | Chambers of Xeric/Strategies(Melee)
+3 | Commander Zilyana/Strategies(Ranged)
+2 | Commander Zilyana/Strategies(Magic)
+2 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+4 | Deranged archaeologist/Strategies(Magic)
+2 | Fortis Colosseum/Strategies(High efficiency)
+2 | Fortis Colosseum/Strategies(Ranged)
+2 | Fortis Colosseum/Strategies(Mage)
+2 | Fortis Colosseum/Strategies(Budget)
+2 | Fortis Colosseum/Strategies(Melee)
+2 | General Graardor/Strategies(Solo (Magic))
+4 | Giant Mole/Strategies(Ranged)
+2 | Giant Mole/Strategies(Magic)
+4 | Giant Mole/Strategies(Ranged Void)
+2 | Grotesque Guardians/Strategies(Melee)
+3 | Grotesque Guardians/Strategies(Ranged switches)
+2 | Hespori/Strategies(Mage)
+2 | K'ril Tsutsaroth/Strategies(Magic)
+2 | Kalphite Queen/Strategies(Max Mage (0 switches))
+2 | Kraken/Strategies(Magic)
+2 | Kree'arra/Strategies(Magic)
+2 | Metal dragons/Strategies(Magic)
+4 | Metal dragons/Strategies(Ranged)
+2 | The Mimic/Strategies(Magic)
+4 | The Mimic/Strategies(Ranged)
+2 | Mithril dragon/Strategies(Magic)
+5 | Mithril dragon/Strategies(Ranged)
+2 | Nex/Strategies(Hybrid)
+4 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+2 | Phantom Muspah/Strategies(Magic & Ranged)
+2 | Royal Titans/Strategies(Best-in-slot)
+1 | Royal Titans/Strategies(Mid-game)
+1 | Royal Titans/Strategies(Minimal gear switching)
+3 | Rune dragon/Strategies(Magic)
+1 | Sarachnis/Strategies(Melee)
+2 | Sarachnis/Strategies(Melee tank)
+2 | Scurrius/Strategies(Magic (high level))
+2 | Scurrius/Strategies(Melee (high level))
+4 | Scurrius/Strategies(Range (high level))
+4 | Skeletal Wyvern/Strategies(Ranged (Void))
+4 | Skeletal Wyvern/Strategies(Ranged)
+2 | Skeletal Wyvern/Strategies(Magic)
+4 | Skeleton (Ape Atoll)(Magic)
+4 | Skotizo/Strategies(Ranged)
+2 | Slayer task/Fossil Island wyverns(Magic)
+4 | Slayer task/Fossil Island wyverns(Ranged)
+2 | Slayer task/Gargoyles(Ranged)
+4 | Slayer task/Jellies(Ranged)
+2 | Slayer task/Nechryael(Melee)
+2 | Slayer task/Trolls(Magic (Ice trolls))
+2 | Slayer training(Melee)
+2 | Slayer training(Magic (Barrage))
+4 | Slayer training(Ranged)
+2 | Smoke devil/Strategies
+2 | The Bane of Demons(Magic)
+3 | The Hueycoatl/Strategies(Melee)
+2 | Theatre of Blood/Strategies(Learner)
+2 | Theatre of Blood/Strategies(Melee)
+2 | Thermonuclear smoke devil/Strategies(Melee)
+2 | Thermonuclear smoke devil/Strategies(Magic)
+2 | Tombs of Amascut/Strategies(Melee switch)
+2 | Tormented Demon/Strategies(Melee switch)
+2 | Tormented Demon/Strategies(Magic switch)
+3 | Tormented Demon/Strategies(Ranged switch)
+1 | TzHaar Fight Cave/Strategies(Pure)
+3 | TzHaar Fight Cave/Strategies(Ranged)
+3 | TzHaar Fight Cave/Strategies(Magic)
+1 | TzHaar Fight Cave/Strategies(Ranged (Atlatl))
+4 | Vardorvis/Strategies(Melee)
+2 | Vorkath/Strategies(Melee)
+4 | Vorkath/Strategies(Ranged (crossbow))
+2 | The Whisperer/Strategies(Magic)
+4 | Zulrah/Strategies(Ranged)
+2 | Zulrah/Strategies(Magic)

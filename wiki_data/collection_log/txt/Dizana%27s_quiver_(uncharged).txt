@@ -1,0 +1,4 @@
+Item: Dizana's quiver
+Summary: Dizana's quiver is an item that requires level 75 Ranged to equip. It provides the best in slot ranged attack bonus for the cape slot, and is awarded for defeating Sol Heredit in the Fortis Colosseum.
+Sources:
+- Rewards Chest (Fortis Colosseum) Wave 12 (Level N/A, Quantity: 1, Rarity: Always)

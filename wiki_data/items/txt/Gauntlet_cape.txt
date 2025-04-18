@@ -1,0 +1,1 @@
+Thegauntlet capeis a cosmetic cape that is obtained after completing theCorrupted Gauntlet, after which it will automatically appear inside the players' inventory. If a player has one in theirbankorcape rack, they will not receive another. The cape is lost upon death if not protected.

@@ -1,0 +1,73 @@
+[Weapon: Granite Hammer]
+
+
+Thegranite hammeris awarhammerdropped by theGrotesque Guardiansthat can be found on theSlayer Tower's rooftop. Level 50Attackand 50Strengthis required to wield it.
+It acts as arock hammerin the inventory and when equipped - it will automatically smashgargoyleseven if the player does not have the gargoyle smasher perk unlocked.
+
+
+[Infobox]
+Released: 26 October2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Hammer time.
+General Store Value: 64,000 coins
+High alch: 38,400 coins
+Low alch: 25,600 coins
+Weight: 5 kg
+Grand Exchange Value: 489,539 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 820
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +57
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +56
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing the granite hammer's special attack.
+The granite hammer has aspecial attack,Hammer Blow, which consumes 60% of the player's special attack energy, and deals an attack with 50% increased accuracy, while guaranteeing 5 additional damage to that attack.
+Even if the special attack misses, the target will still take a minimum of 5 damage from it. This excludes NPCs that are immune to normal forms of attack, such asvyrewatchandslayer monstersthe player does not have theSlayerlevel to harm.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Grotesque Guardians |  | 1 | 2 × 1/750 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Barbarian Assault/Strategies(Melee (mid level))
+4 | Scurrius/Strategies(Melee (mid level))

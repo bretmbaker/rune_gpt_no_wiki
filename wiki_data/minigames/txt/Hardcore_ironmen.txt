@@ -1,0 +1,80 @@
+[Minigame: Hardcore_ironmen]
+
+Ironman Modeis an account type, released on13 October2014, that requires the player to be almost entirely self-sufficient. Ironmen are locked out of or restricted in most forms of interactions with other players such astrading, theGrand Exchange,PvP, and almost all other group activities. Attempting to trade with a Ironman will yield the chatbox message "[Player name] is an Ironman. [He/She/They] stands[sic]alone."
+
+Ironman Mode can only be enabled at the end ofTutorial Islandby speaking to theIronman tutorbefore being teleported by theMagic Instructor. There will be an option to convert it to a standard account (or to a regular Ironman in the case of a Hardcore or Ultimate Ironman) at any point after the tutorial by talking to the tutors inLumbridge, but this conversion is permanent, and an account cannot be remade an Ironman. After confirming to toggle Ironman Mode off, there will be a 7-day waiting period before the toggle will take effect, during which time the player may cancel the change if they change their mind or if their account had been hijacked; the change is also cancelled if a Hardcore Ironman dies during the waiting period to become a standard account.
+
+Players may also choose to downgrade an Ironman with a 90-day waiting period by talking to theIronman tutorin Lumbridge. This requires a skill total level of 1,000 to set, and a warning will appear upon login to remind players should they wish to reverse the process.
+
+Standard Ironman andUltimate Ironmanwere both released on13 October2014.
+
+Hardcore Ironmanwas later released on10 November2016.
+
+Group IronmanandHardcore Group Ironmanwere both released on6 October2021.
+
+Unranked Group Ironmanwas released on26 May2022.
+
+Distinctions[edit|edit source]
+
+There are six types of Ironman accounts: A standard Ironman, a Hardcore Ironman, an Ultimate Ironman, a Group Ironman, a Hardcore Group Ironman and Unranked Group Ironman. Each type has their own armour (equivalent toiron equipment) and a chat badge to denote their status:
+
+Chat badge | Armour
+
+Standard Ironman | Ironman armour
+
+Hardcore Ironman | Hardcore ironman armour
+
+Ultimate Ironman | Ultimate ironman armour
+
+Group Ironman | Group ironman armour
+
+Hardcore Group Ironman | Hardcore group ironman armour
+
+Unranked Group Ironman | Unranked group ironman armour
+
+There are also fiveHiScoresfor Ironman Mode: One each for normal, Hardcore, Ultimate and Group and Hardcore Group Ironman accounts.
+
+Restrictions[edit|edit source]
+
+Standard[edit|edit source]
+
+Ironman players areNOTable to do the following:
+
+Trade with other players (except certain quest items fromShield of ArravandHeroes' Quest, as well asbonds).Use theGrand Exchangeto buy or sell any item except forbonds, which are purchasable (but not sellable) via a unique Ironman-only interface.Pick up drops from other players' kills.No loot will drop whatsoever if another player has attacked that monster. Even zero points of damage dealt by another player will prevent the Ironman from getting any loot. This does not apply if that monster was weakened by other monsters. In addition, if the monster attacks other players too much, the ironman will not get loot to prevent tanking.Achievement Diarytasks involving monster kills cannot be earned if assisted by another player, e.g. having another player assist in killing theGiant Molefor theFalador Hard Diary.No loot will drop whatsoever if another player has used agoading potionto draw aggressiveness from monsters.Pick up fallen players' items fromPvP.The guaranteedbonesdrop is an exception.Loot dropped on the ground will not be able to be picked up. Other non-Iron players may pick it up.Loot within aloot keywill not be able to be collected from aloot chest, however unopened loot keys may be transferred to non-Iron players via a separate player-versus-player death.Gain experience from player-versus-player encounters (baseMagicexperience from castingspellsis still gained, however).Use theAccept Aidfeature.Enter another player'splayer-owned house.Buy items from other players through overstockedshopsor take advantage of higher sell prices of understocked shops.Receive items via balloons in theFalador Party Room.Group activities inNightmare Zone, and resource rewards from the reward chest (excludingscroll of redirection).Receive rewards from groupbosseswhen fought alongside other players, excluding the following exceptions:Theskilling bossesTempoross,Wintertodt, andZalcano.ThemulticombatwildernessbossesCallisto,Venenatis, andVet'ion.TheraidsChambers of Xeric,Theatre of Blood, andTombs of Amascut.Moons of PerilNexNightmareThe Forinthy Surge buff fromRevenant maledictusThe Hueycoatl
+
+Hardcore[edit|edit source]
+
+Hardcore Ironmanplayers will only haveone life, in addition to the standard restrictions given to all Ironmen. If a Hardcore Ironman dies, they will be converted to astandard Ironman. In addition, their experience and total level on the Hardcore IronmanHiScorestable will be locked, with their nameslashed across like this.
+
+Safe deaths, such as those inminigames, willnotcause the player to become a standard Ironman. The following activities are deemed safe:
+
+Barbarian Assault[h 1]Camelot training room[h 1]Castle WarsChambers of Xeric[h 1]Clan WarsDream WorldduringLunar Diplomacy[h 1]Emir's ArenaFishing Trawler[h 1]The Fremennik Trials- 4th phase of the duel withKoschei the DeathlessInferno[h 1]Last Man StandingMagic Training Arena[h 1]Nightmare Zone[h 1]Pest Control[h 1]Death within aplayer-owned house[h 1]PvM Arena[h 1]Replay ofGloughboss fightSoul WarsTzHaar Fight Cave[h 1]TzHaar Fight PitRandom Event[h 1]Rogues' Den(maze)[h 1]Zulrah- Resurrection reward fromElite Western Provinces Diaryonly
+
+When a Hardcore Ironman dies, the following message appears in their chatbox:You have fallen as a Hardcore Ironman, your Hardcore status has been revoked.[sic]
+
+For Hardcore Group Ironman only,there are no safe PvM deaths.The group has a shared pool ofone life per player; for example, a group of 3 players shares 3 lives between them and will lose Hardcore status after losing the third life. Lives can be lost by any player, and multiple lives can be lost by a single player.
+
+Deaths that would normally be considered "safe" for solo Hardcore Ironmen areNOTsafe for Group Hardcore Ironmen. This means that each death in minigames such asBarbarian Assault,TzHaar Fight Cave, orChambers of Xericwill result in a loss of a life for the group. The only exception to this is theFremennik Trialsfight withKoschei the Deathless(4th phase). Hardcore Group Ironmen should take extra care to use the exit potion when leaving theNightmare Zone, since dying will result in the loss of a life for the group. They should also use extra caution in minigames such asPest Controlas other players can provoke monsters such assplattersand cause them to detonate close to you.
+
+PvP minigames such asLast Man Standing,Clan Wars,Castle Warsand any type of death inSoul Warsare still safe deaths for Hardcore Group Ironmen.
+
+Furthermore, Hardcore Group Ironmen are unable to challengeNexwith members outside of their group, regardless of Group Prestige.
+
+Ultimate[edit|edit source]
+
+Ultimate Ironmenhave a number of extra restrictions in addition to those of an Ironman, all centred around the inability to store items in abank:
+
+Storage:
+
+Cannot withdraw, deposit or note items at a bank. They are still able to unnote items at banks.Cannot createitem setsusing theGrand Exchange.Cannot receive resources fromManaging Miscellaniaor dailybuckets of sandfromBert.Cannot send items withCoal Trucks, theDwarven BoatmanorDaeyalt essenceto the bank.Cannot send theirServantto the bank or theSawmill.Cannot store anything in theseed vault.Cannot store duplicate items in the POH Costume Room, or withdraw items before first depositing the entire set an item belongs to.Cannot utilise thelooting bag's mechanics on aPvP worldoutside of the Wilderness.
+
+Death:
+
+Cannot protect their 3 most valuable items on death.Cannot take advantage of the Protect Item prayer.Cannot utilise graves, instead, their items will drop directly to the ground. Inside instances and theGod Wars Dungeonitems will still be put outside, with supplies dropped on the floor. Item retrieval services work as normal, with the exception of at Zulrah.Items dropped on death will remain where they are for an hour after death until despawning. This timer pauses when logged out.Ultimate Ironmen may always retrieve items for free fromZul-Gwenwynig, and do not have an interface to reclaim their items from. Instead being given directly into the inventory when reclaimed.Untradeable items are always dropped on death, if killed in the Wilderness most items are converted into coins and dropped for the player who killed the Ultimate Ironman.
+
+Group[edit|edit source]
+
+Ironmen and bonds[edit|edit source]
+
+Ironmen can getbondsas gifts from other players or through the official Old School website. They can also turn untradeable bonds into tradeable bonds, and can give bonds to other players by using the item on them. Ironmen are able to buy bonds from the Grand Exchange, which disallows them from buying or selling any other item via a unique interface.
+

@@ -1,0 +1,121 @@
+[Spell: Ardougne_Teleport]
+
+Ardougne Teleport
+
+
+
+
+
+
+
+Released | 27 August2002(Update)
+
+Members | Yes
+
+Level | 51
+
+Spellbook | Standard
+
+Type | Teleport
+
+Experience | 61
+
+Runes | 22
+
+Casting speed | 4 ticks
+
+Quest | Plague City
+
+Lectern | Teak eagle
+
+Description | Teleports you to Ardougne
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Ardougne Teleportteleports the caster toEast Ardougnemarket. This spell can only be cast after reading theArdougne teleport scroll, which is a quest completion reward from thePlague Cityquest. Once the player reads the scroll they will memorise the spell Ardougne Teleport and the scroll will crumble to dust. If a player loses this scroll, they can go back toEdmondin north-west of East Ardougne to get a new one. Casting the spell is a requirement for theMedium Ardougne Diary.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+22 | 274
+
+Combo runes
+
+22 | 482
+
+22 | 464
+
+22 | 510
+
+Main-hands
+
+2Alt | 264
+
+Off-hands
+
+2 | 264
+
+Destination[edit|edit source]
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+v•t•eTeleportation spells
+
+Standard | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Arceuus | Arceuus HomeArceuus LibraryDraynor ManorKebos BattlefrontMind AltarRespawn pointSalve GraveyardFenkenstrain's CastleWest ArdougneHarmony IslandForgotten CemeteryBarrowsApe Atoll DungeonTarget
+
+Ancient | Edgeville HomePaddewwaSenntistenKharyrllLassarDareeyakCarrallangerAnnakarlGhorrockTarget
+
+Lunar | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTargetTele GroupMoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau |  | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTarget | Tele Group | MoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau
+
+ | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTarget
+
+Tele Group | MoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau

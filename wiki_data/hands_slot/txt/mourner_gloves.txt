@@ -1,0 +1,53 @@
+[Weapon: Mourner Gloves]
+
+
+Mourner glovesare received by killing a level 11MournerduringMourning's End Part I. The mourner will throw a potion at theplayerthat lowers all combat stats to 20.
+They are part of themourner outfit. Like most of the Mourner equipment, the gloves do not need repair.
+
+
+[Infobox]
+Released: 19 July2005(Update)
+Members: Yes
+Quest item: Mourning's End Part I
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: These will keep my hands warm!
+General Store Value: 20 coins
+High alch: 12 coins
+Low alch: 8 coins
+Weight: 0.226 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Closed Chest (Mourner Headquarters) | N/A | 1 | Always | N/A
+MournerLevel 108 | 108 | 1 | Always | 
+MournerLevel 11 | 11 | 1 | Always | 

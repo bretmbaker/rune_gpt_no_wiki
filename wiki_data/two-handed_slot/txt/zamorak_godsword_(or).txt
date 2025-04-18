@@ -1,0 +1,55 @@
+[Weapon: Zamorak Godsword (Or)]
+
+
+TheZamorak godsword (or)is aZamorak godswordwith aZamorak godsword ornament kitattached to it. The attached ornament kit gives no additional bonuses, and is only used to add aesthetics to the godsword. It costs16,414,779for both the parts to make the Zamorak godsword (or).
+While the godsword is untradeable in its ornamented state, it can be dismantled anytime, returning the tradeable godsword and ornament kit.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle
+Destroy: You remove the kit from the item.
+Examine: An ornamented, terrifying, heavy sword.
+General Store Value: 1,250,000 coins
+High alch: 750,000 coins
+Low alch: 500,000 coins
+Weight: 10 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +132
+- Crush: +80
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +132
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +8
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence

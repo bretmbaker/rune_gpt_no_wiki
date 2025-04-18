@@ -1,0 +1,221 @@
+Clue scroll (master)
+A clue scroll (master) is the highest tier of clue scroll . It can be between 6 and 8 steps long, and rewards a master reward casket upon completion. After completing 100 master clues, the player will be awarded the scroll sack .
+Players can obtain a master clue scroll from the following methods:
+By bringing one each of the easy , medium , hard , and elite clue scrolls to Watson , who is located in the large, fenced-in house west of the Forthos Ruin in Hosidius . Clue scrolls may be handed in individually. It should be noted that if you have an incomplete master scroll and attempt to obtain a new scroll, Watson will take all lower tier scrolls but NOT give you a master scroll until either you complete the original scroll or discard it.
+As a potential reward from completing any easy, medium, hard or elite treasure trails, with the chances of obtaining them being 1/50, 1/30, 1/15, and 1/5 respectively.
+Like elite and hard clue scrolls, master clue scrolls also have combat encounters. They include a Brassican Mage , Double agent or three Ancient Wizards (in multi-combat areas). As their tier suggests, master clues require numerous high-levelled items, requirements, and quests in order to complete them.
+It should be noted that if a player dies in the Wilderness with a clue scroll in above level 20, it will disappear whether it's a PvP death or not , unless it is an item kept on death, or if that player has a clue box . Players will find that the clue scroll will be gone upon returning to their loot otherwise. However, when dying in the Wilderness with a clue box, the clue will stay in the inventory while the clue box is lost. Players may find it beneficial to carry a Wilderness Sword (to cut webs), Royal Seed Pod / Teleport Crystal , and/or an Explorer's Ring , as clue scrolls are always kept above these items; these however will be lost upon death and duplicates are easily obtainable. In lower Wilderness however (level 20 or lower) in PvP death, the unprotected clue will stay on the ground for up to 1 hour. The same goes for reward caskets. If you die in lower Wilderness due to a monster you will always keep the clue whether protected or not.
+Contents
+1 Types of clues
+2 Requirements 2.1 Skill requirements 2.2 Quest requirements 2.3 Item requirements (Emote clues) 2.4 Item requirements (Falo the Bard) 2.5 Other requirements
+2.1 Skill requirements
+2.2 Quest requirements
+2.3 Item requirements (Emote clues)
+2.4 Item requirements (Falo the Bard)
+2.5 Other requirements
+3 Possible rewards
+4 Item sources
+5 Changes 5.1 Gallery (historical)
+5.1 Gallery (historical)
+6 References
+Types of clues [ edit | edit source ]
+Please note that it is possible to receive the same clue more than once.
+Falo the Bard
+Sherlock
+Anagrams
+Coordinates
+Puzzle box
+Light box
+Cryptic clues
+Emote clues
+Hot & Cold
+Requirements [ edit | edit source ]
+Skill requirements [ edit | edit source ]
+Certain clues will require items that need a certain skill requirement in order to wear, wield or access. The table below shows the highest skill requirement, in order to complete every master clue. Quest skill requirements are not noted in this table. Sherlock may also give you skill challenges which require certain skill levels to complete. Temporary skill boosts can be used for non-combat skill challenges.
+Quest requirements [ edit | edit source ]
+Some clues require access to areas or NPCs which may require quests. Some only require to start the quest in order to gain access.
+Item requirements (Emote clues) [ edit | edit source ]
+'Minimum level requirements' indicates the level required to equip all items on the list in order to complete their respective clue steps.
+Any quantities below indicate how many of each item is required to fill all available master STASH units.
+^ The Abyssal whip (or) , Volcanic abyssal whip , Frozen abyssal whip , Abyssal tentacle and Abyssal tentacle (or) can also be used and stored for this clue step.
+^ The Guardian boots can also be used and stored for this clue step.
+^ Requires any one complete set
+^ The Climbing boots (g) can also be used and stored for this clue step.
+^ Variants such as the infernal axe and crystal axe can be used and stored for the emote clue at the Enchanted Valley .
+^ Variants such as the infernal pickaxe , dragon pickaxe (upgraded) , and dragon pickaxe (or) can be used and stored for the emote clue at the Soul Altar .
+Item requirements (Falo the Bard) [ edit | edit source ]
+This is a list of all items that Falo the Bard may ask you to show.
+^ The book must be completed. Any book will be accepted.
+^ The Bow of faerdhinen (c) and all colour variations can also be used for this clue step.
+^ The uncharged version can also be used for this clue step.
+^ The Ghommal's avernic defender 5 , Ghommal's avernic defender 6 and Trouver variations can be used for this clue step.
+^ A broken anchor does not work .
+^ Trimmed , god , and heraldic variants do not work .
+Other requirements [ edit | edit source ]
+Possible rewards [ edit | edit source ]
+The average loot roll is worth 146,250.00 . On average, master clues are worth 877,505.00 .
+As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (master) .
+Item sources [ edit | edit source ]
+Changes [ edit | edit source ]
+A restriction has been removed which prevented players from receiving a master clue for 30 seconds after they last received one.
+Clue Scrolls dropped by a player now last one hour on the ground rather than two minutes. This does not change existing behaviour for Clue Scrolls dropped by NPCs or other entities. Additionally, you are now told if you would have gotten a clue but didn't because you already have one.
+The item was graphically updated.
+The item's value was increased from 1 to 20.
+All clue scrolls now have a right-click 'Check steps' option that will allow you to see exactly how many steps you have completed so far.
+Gallery (historical) [ edit | edit source ]
+References [ edit | edit source ]
+^ "Poll 71 and Darkmeyer Updates" . Old School RuneScape News. Jagex.  18 June 2020. Archived from the original .
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Explore
+Large spade
+Clueless scroll
+Uri transform
+Heavy casket
+Scroll sack
+All clue scrolls
+Beginner clue scrolls
+Easy clue scrolls
+Medium clue scrolls
+Hard clue scrolls
+Elite clue scrolls
+Master clue scrolls
+Anagrams
+Challenge scrolls
+Ciphers
+Coordinates
+Cryptics
+Emote clues
+Hot/Cold
+Light boxes
+Maps
+Puzzle boxes
+Arthur the Clue Hunter
+Cecilia
+Charlie the Tramp
+Falo the Bard
+Jorral
+Reldo
+Sherlock
+Strange casket
+Uri
+Watson
+Ancient Wizard
+Armadylean guard
+Bandosian guard
+Brassican Mage
+Double agent
+The Mimic
+Third Age Mage
+Third Age Ranger
+Third Age Warrior
+Saradomin wizard
+Zamorak wizard
+Emote items
+Rewards
+STASH
+Noticeboard (Watson's house)
+S.t.a.s.h chart
+World map
+Items
+Untradeable items
+Members' items
+Items appearing in drop table
+Treasure Trails
+Navigation menu
+Personal tools
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Namespaces
+Article
+Discussion
+Views
+Read
+Edit
+Edit source
+History
+Refresh
+Discord
+Discord
+Navigation
+Main page
+About us
+Random page
+Contact us
+Donate
+Recent changes
+13m ago - MeneerPjoeterBliep
+13m ago - Hewatt
+28m ago - Hewatt
+54m ago - WMC
+Guides
+Recent updates
+List of quests
+Achievement diaries
+Combat achievements
+Skill training
+Money making
+Calculators
+DPS calculator
+New player guide
+User-created guides
+Community
+User help
+Active discussions
+OSRS Wiki Clan
+Policies
+More RuneScape
+RuneScape Wiki
+RSC Wiki
+Dragonwilds Wiki
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+New files
+Browse properties
+This page was last modified on 28 February 2025, at 21:58.
+Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.
+Privacy policy
+About the Old School RuneScape Wiki
+Disclaimers
+Terms of Use
+Contact Weird Gloop
+Mobile view

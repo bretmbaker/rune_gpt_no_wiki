@@ -1,0 +1,79 @@
+[Weapon: Moonlight Antler Bolts]
+
+
+Moonlight antler boltsare ranged ammunition for thehunters' sunlight crossbow. They can be created at level 72Fletchingby using achiselon amoonlight antelope antler; each antler produces 12 bolts and 12 Fletching experience.
+Unlike other arrows and bolts,Weapon poisonis not able to be applied to them.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Bolts made from the antlers of a moonlight antelope.
+General Store Value: 31 coins
+High alch: 18 coins
+Low alch: 12 coins
+Weight: 0 kg
+Grand Exchange Value: 208 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 1,457,809
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +60
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Ancient Wyvern/Strategies(Ranged)
+4 | Araxxor/Strategies(Melee)
+1 | Aviansie/Strategies(Ranged)
+2 | Barrows/Strategies(Ranged (Ahrim))
+1 | Basilisk Knight/Strategies(Ranged/Prayer)
+1 | Basilisk Knight/Strategies(Ranged)
+2 | Brutal black dragon/Strategies(Ranged)
+3 | Chaos Fanatic/Strategies(Ranged)
+1 | Commander Zilyana/Strategies(Ranged)
+1 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+3 | Dagannoth Kings/Strategies(Range)
+3 | Demonic gorilla/Strategies(upgrades and downgrades)
+1 | Drake/Strategies(Ranged)
+4 | Grotesque Guardians/Strategies(Ranged switches)
+3 | King Black Dragon/Strategies(Crossbow)
+3 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+2 | Revenants/Strategies(Ranged)
+1 | Royal Titans/Strategies(Mid-game)
+1 | Royal Titans/Strategies(Minimal gear switching)
+2 | Scurrius/Strategies(Range (mid level))
+2 | Skeletal Wyvern/Strategies(Ranged)
+2 | Slayer task/Fossil Island wyverns(Ranged)
+1 | Slayer task/Gargoyles(Ranged)
+3 | Slayer task/Suqah(Ranged (North))
+4 | Tormented Demon/Strategies(Ranged switch)
+3 | Zulrah/Strategies(Ranged)

@@ -1,0 +1,55 @@
+[Weapon: Scythe (Halloween Event)]
+
+
+Thescytheis an untradeableevent reward. It can be obtained by completing one of theHalloweenholiday eventsthat occur once per year.
+The scythe is not particularly powerful, as it is intended to be a decorativeweapon. It has very low bonuses and a slow attack speed. Notably, it has several unique attack animations.
+
+
+[Infobox]
+Released: 31 October2003(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destroy
+Destroy: You can get a replacement from Diango or Thessalia.
+Examine: It's a Scythe.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 3.175 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +3
+- Slash: +8
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +3
+- Crush: +1
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Reap | Slash | Accurate | 7 ticks (4.2s) | 1 tile |  | +3 Attack
+ | Chop | Slash | Aggressive |  | +3 Strength
+ | Jab | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence

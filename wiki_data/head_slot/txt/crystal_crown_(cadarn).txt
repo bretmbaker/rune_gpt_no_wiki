@@ -1,0 +1,45 @@
+[Weapon: Crystal Crown (Cadarn)]
+
+
+TheCadarn crystal crownis a purely cosmetic crown made by using thecrystal of Cadarnon any variant of thecrystal crown.
+The crown's colours, based on that of theCadarn Clan, may be changed to other colours of theElven Clansby buying crystals fromLliann's WaresinPrifddinas, which cost 500,000 coins each.
+
+
+[Infobox]
+Released: 25 July2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A crown fit for the most wealthy of elves.
+General Store Value: 250,000,000 coins
+Alchemy: Not alchemisable
+Weight: 0.3 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

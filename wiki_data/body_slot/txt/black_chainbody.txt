@@ -1,0 +1,69 @@
+[Weapon: Black Chainbody]
+
+
+Theblack chainbodyis stronger than thesteel chainbody, and can be worn by players with 10Defence. Players can purchase this item at theKeldagrimandFaladorChainmail shops. This item cannot be made using theSmithingskill, and has the same bonuses as awhite chainbody, except it lacks aprayer bonus.
+Sold atWayne's Chainsshop in southern Falador for 1,440 coins, and atSaro's armour shop in Keldagrim for 1,872 coins.
+
+
+[Infobox]
+Released: 8 December2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A series of connected metal rings.
+General Store Value: 1,440 coins
+High alch: 864 coins
+Low alch: 576 coins
+Weight: 6.803 kg
+Grand Exchange Value: 2,481 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 573
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +22
+- Slash: +32
+- Crush: +39
+- Magic: -3
+- Ranged: +24
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black Chest (black) | N/A | 1 | 5/141.11;5/133.27 | 
+Black Chest (brown) | N/A | 1 | 5/141.02;5/133.19 | 
+Black Chest (crimson) | N/A | 1 | 5/141.07;5/133.23 | 
+Black Chest (purple) | N/A | 1 | 5/141.15;5/133.31 | 
+Black Chest (red) | N/A | 1 | 5/140.98;5/131.15 | 
+Former Vampyre | N/A | 1(noted) | 8/256 | 
+Gang boss | 76; 83 | 1 | 8/256 | 
+Gangster | 45; 50 | 1 | 8/256 | 
+Reward casket (beginner) | N/A | 1 | 11/8,856 | 
+Vampyre Juvinate | N/A | 1(noted) | 8/256 | 
+Zombie (Tarn's Lair)High level | 81–100 | 1 | 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Free-to-play melee training(Meleegear)

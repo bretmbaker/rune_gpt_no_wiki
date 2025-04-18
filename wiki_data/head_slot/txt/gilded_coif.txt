@@ -1,0 +1,55 @@
+[Weapon: Gilded Coif]
+
+
+Agilded coifis part of thegilded dragonhide armourset that can be obtained as a rare reward fromeliteTreasure Trails. It requires 40 ranged to equip. It has worse offensive stats thanRobin Hood hat, but better defensive stats.
+The coif isnotrequired in assembling agilded dragonhide set.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Made with 100% golden dragonhide.
+General Store Value: 2,000 coins
+High alch: 1,200 coins
+Low alch: 800 coins
+Weight: 0.9 kg
+Grand Exchange Value: 1,003,095 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 14
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -1
+- Ranged: +4
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +7
+- Crush: +8
+- Magic: +4
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/14,662.5 | 
+Reward casket (master) | N/A | 1 | 1/13,616 | 

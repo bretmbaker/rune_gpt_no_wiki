@@ -1,0 +1,2 @@
+Item: Pouncer
+Summary: Pouncer is a ghostly dog who is summoned to Eve's party during the 2020 Halloween event. If players attempt to pet it, the chatbox will state "You try to pet Pouncer, but your hands go straight through him."

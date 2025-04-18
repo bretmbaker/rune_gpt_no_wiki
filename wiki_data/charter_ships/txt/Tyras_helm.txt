@@ -1,0 +1,99 @@
+[Page: Tyras_helm]
+
+Tyras helm
+
+Released | 22 August2006(Update)
+
+Members | Yes
+
+Quest item | No
+
+Properties
+
+Tradeable | Yes
+
+Equipable | Yes
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Wear, Drop
+
+Examine | As used by King Tyras' personal guard.
+
+Values
+
+Value | 550 coins
+
+High alch | 330 coins
+
+Low alch | 220 coins
+
+Weight | 0.907 kg
+
+Grand Exchange
+
+Exchange | 1,347coins (info)
+
+Buy limit | 150
+
+Daily volume | 6
+
+View real-time prices
+
+Loading...
+
+Advanced data
+
+Item ID | 9629
+
+Link | MOID
+
+Thetyras helmis a helmet that can be worn with aDefencelevel of 5. It is nearly identical in statistics to thesteel full helm, although it provides a slightly better ranged attack bonus. To obtain a Tyras helm, the player can either buy one fromTrader Stan's Trading Postor from another player. The helmcannotbe smithed.
+
+Combat stats[edit|edit source]
+
+Attack bonuses |  |
+
+|  |  |  |
+
++0 | +0 | +0 | -6 | -2
+
+Defence bonuses
+
+|  |  |  |
+
++9 | +10 | +7 | -1 | +9
+
+Other bonuses | Slot
+
+|  |  |  |
+
++0 | +0 | +0% | +0 | List
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Trader Stan's Trading Post(1) | Port Sarim | 25 | 2m | 1,375 | 82 | 2.0% |  |
+
+Trader Stan's Trading Post(2) | Port Phasmatys | 25 | 2m | 1,375 | 82 | 2.0% |  |
+
+Trader Stan's Trading Post(3) | Musa Point | 25 | 2m | 1,375 | 82 | 2.0% |  |
+
+Trader Stan's Trading Post(4) | Brimhaven | 25 | 2m | 1,375 | 82 | 2.0% |  |
+
+Trader Stan's Trading Post(5) | Port Khazard | 25 | 2m | 1,375 | 82 | 2.0% |  |
+
+Trader Stan's Trading Post(6) | Corsair Cove | 25 | 2m | 1,375 | 82 | 2.0% |  |
+
+Trader Stan's Trading Post(7) | Port Tyras | 25 | 2m | 1,375 | 82 | 2.0% |  |
+
+Trader Stan's Trading Post(8) | Catherby | 25 | 2m | 1,375 | 82 | 2.0% |  |
+
+Trader Stan's Trading Post(9) | Prifddinas | 25 | 2m | 1,375 | 82 | 2.0% |  |
+
+Trader Stan's Trading Post(10) | Mos Le'Harmless | 25 | 2m | 1,375 | 82 | 2.0% |  |
+
+Trader Stan's Trading Post(11) | Ship Yard | 25 | 2m | 1,375 | 82 | 2.0% |  |

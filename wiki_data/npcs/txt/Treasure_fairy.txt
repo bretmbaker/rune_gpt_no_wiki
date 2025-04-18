@@ -1,0 +1,2 @@
+Item: Treasure fairy
+Summary: The treasure fairy is a fairy who gives a treasure stone to every player in the games room at the time of summoning. This magic stone can be used to locate the fairy, as with each step closer the stone is to the fairy, the warmer it becomes. When feeling the stone on the exact location of the fairy, it spawns.

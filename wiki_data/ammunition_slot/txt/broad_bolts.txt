@@ -1,0 +1,76 @@
+[Weapon: Broad Bolts]
+
+
+Broad bolts(orBroad-tipped bolts) are bolts used for acrossbow. They provide the sameranged strengthasadamant bolts(+100). Players can buy a set of 250 for 35Slayer reward pointsfrom anySlayer master. Broad bolts, or theirarrow equivalents, are required by players who intend to slayTurothorKurasksusingRanged.
+Broad bolts require 55Slayerand 61Rangedto equip. They can be fired only by arune crossbow,dragon hunter crossbow,dragon crossbow,Armadyl crossbow, orZaryte crossbow.
+
+
+[Infobox]
+Released: 6 January2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Crossbow bolts with broad tips.
+General Store Value: 55 coins
+High alch: 33 coins
+Low alch: 22 coins
+Weight: 0 kg
+Grand Exchange Value: 46 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 1,322,010
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +100
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Ancient Wyvern/Strategies(Ranged)
+5 | Araxxor/Strategies(Melee)
+4 | Artio/Strategies(Ranged)
+3 | Aviansie/Strategies(Ranged - Low Risk)
+5 | Basilisk Knight/Strategies(Ranged/Prayer)
+5 | Brutal black dragon/Strategies(Ranged)
+5 | Callisto/Strategies(Ranged)
+5 | Chaos Elemental/Strategies(Ranged)
+4 | General Graardor/Strategies(Ranged Tank)
+3 | Green dragon/Strategies(Ranged)
+3 | Hunter training(Staff of the dead)
+3 | Kree'arra/Strategies(Ranged Tank)
+5 | Lizardman shaman/Strategies(Ranged)
+4 | Metal dragons/Strategies(Ranged)
+2 | Nightmare Zone/Strategies(Ranged)
+5 | Revenants/Strategies(Ranged)
+4 | Skeletal Wyvern/Strategies(Ranged (Void))
+5 | Skeletal Wyvern/Strategies(Ranged)
+3 | Skotizo/Strategies(Ranged)
+5 | Slayer task/Fossil Island wyverns(Ranged)
+3 | Slayer task/Wyrms(Ranged)
+3 | TzHaar Fight Cave/Strategies(Ranged)
+3 | TzHaar Fight Cave/Strategies(Early-game iron)

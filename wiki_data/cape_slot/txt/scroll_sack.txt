@@ -1,0 +1,52 @@
+[Weapon: Scroll Sack]
+
+
+Thescroll sackis obtained after completing 100masterTreasure Trails. It is a large sack containing manyclue scrolls, with aspadeon the side of it.
+It can be stored in thetreasure chestin a player-owned house. If lost, it can be re-obtained by speaking toWatsonor by completing another master clue scroll.
+
+
+[Infobox]
+Released: 4 October2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: Watson can replace your sack.
+Examine: Gosh, you really seem to love clue scrolls.
+General Store Value: 5 coins
+High alch: 3 coins
+Low alch: 2 coins
+Weight: 0.435 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (master) | N/A | 1 | Always | 

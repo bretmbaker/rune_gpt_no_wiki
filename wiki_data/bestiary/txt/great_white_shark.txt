@@ -1,0 +1,37 @@
+Name: Great white shark
+Combat Level: 160
+Size: 2x2
+Info:
+- Description: Jaws with such strength they can rip apart metal cages.
+
+Slayer Info:
+
+Immunities:
+- Poison: ? (edit)
+- Venom: ? (edit)
+- Monster ID: beta14256
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 250
+Attack: 100
+Strength: None
+Defence: None
+Magic: None
+Ranged: None
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,88 @@
+[Weapon: Black Spear#(Unp)]
+
+
+Ablack spearis a two-handedmeleeweaponrequiring 10Attackto wield. Black spears are obtained as a gift from turningvampyre Juvinatesintohumansor from lootingShades of Mort'tonminigamechests in theShade Catacombs. As with mostspears, it can bepoisoned.
+As with allblackandwhite equipment, the black spear cannot be made from raw materials using theSmithingskill.
+
+
+[Infobox]
+Released: 17 May2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A black tipped spear.
+General Store Value: 650 coins
+High alch: 390 coins
+Low alch: 260 coins
+Weight: 2.267 kg
+Grand Exchange Value: 2,791 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 93
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +15
+- Slash: +15
+- Crush: +15
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +16
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Lunge | Stab | Controlled | 4 ticks (2.4s) | 1 tile |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Controlled |  | +1 Attack, Strength, Defence
+ | Pound | Crush | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black Chest (black) | N/A | 1 | 4/141.11 | 
+Black Chest (brown) | N/A | 1 | 4/141.02 | 
+Black Chest (crimson) | N/A | 1 | 4/141.07 | 
+Black Chest (purple) | N/A | 1 | 4/141.15 | 
+Black Chest (red) | N/A | 1 | 4/140.98 | 
+Bronze Chest (black) | N/A | 1 | 1/3,057.97;1/3,059.75 | 
+Bronze Chest (brown) | N/A | 1 | 1/3,056.3;1/3,057.97 | 
+Bronze Chest (crimson) | N/A | 1 | 1/3,055.5;1/3,057.12 | 
+Bronze Chest (purple) | N/A | 1 | 1/3,058.84;1/3,060.7 | 
+Bronze Chest (red) | N/A | 1 | 1/3,055.5;1/3,057.12 | 
+Former Vampyre | N/A | 1(noted) | 5/256 | 
+Silver Chest (black) | N/A | 1 | 6/152.6 | 
+Silver Chest (brown) | N/A | 1 | 6/152.46 | 
+Silver Chest (crimson) | N/A | 1 | 6/152.53 | 
+Silver Chest (purple) | N/A | 1 | 6/152.67 | 
+Silver Chest (red) | N/A | 1 | 6/152.39 | 
+Steel Chest (black) | N/A | 1 | 1/134.46;1/129.29 | 
+Steel Chest (black) | N/A | 1 | 1/134.46;1/129.29 | 
+Steel Chest (brown) | N/A | 1 | 1/134.39;1/129.22 | 
+Steel Chest (brown) | N/A | 1 | 1/134.39;1/129.22 | 
+Steel Chest (crimson) | N/A | 1 | 1/134.43;1/129.25 | 
+Steel Chest (crimson) | N/A | 1 | 1/134.43;1/129.25 | 
+Steel Chest (purple) | N/A | 1 | 1/134.5;1/129.33 | 
+Steel Chest (purple) | N/A | 1 | 1/134.5;1/129.33 | 
+Steel Chest (red) | N/A | 1 | 1/134.35;1/129.19 | 
+Steel Chest (red) | N/A | 1 | 1/134.35;1/129.19 | 
+Vampyre Juvinate | N/A | 1(noted) | 5/256 | 

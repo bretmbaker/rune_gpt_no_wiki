@@ -1,0 +1,54 @@
+[Weapon: Iron Pickaxe (Nz)]
+
+
+Aniron pickaxe (nz)is aNightmare Zoneexclusive version of theiron pickaxe, and shares its combat stats. It spawns on the ground during a Nightmare Zone session only ifSlagilithis present and the player'sAttackis lower than 20. This is because a pickaxe is the only way to damage Slagilith.
+As with all items with the (nz) suffix, it cannot be taken outside of the Nightmare Zone, and if discarded, can be retrieved from the same place it spawned.
+
+
+[Infobox]
+Released: 5 September2013(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Discard
+Examine: For use in the Nightmare Zone. Doesn't work for mining.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +5
+- Slash: -2
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +7
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Spike | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Impale | Stab | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence

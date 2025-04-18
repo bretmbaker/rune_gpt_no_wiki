@@ -1,0 +1,4 @@
+Item: Giant egg sac
+Summary: A giant egg sac is an item obtained as a drop from Sarachnis, which can be opened with a knife while standing inside a bank (right click egg sac in bank interface, then click empty) to obtain 100 red spiders' eggs, which is worth 37,100. This means opening a full giant egg sac results in a profit of 1,679.
+Sources:
+- Sarachnis (Level 318, Quantity: 1, Rarity: 1/20)

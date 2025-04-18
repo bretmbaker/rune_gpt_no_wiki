@@ -1,0 +1,145 @@
+[Spell: Teleport_to_House]
+
+Teleport to House
+
+
+
+
+
+
+
+Released | 31 May2006(Update)
+
+Members | Yes
+
+Level | 40
+
+Spellbook | Standard
+
+Type | Teleport
+
+Experience | 30
+
+Runes | 111
+
+Casting speed | 4 ticks
+
+Quest | No
+
+Lectern | Mahogany eagle
+
+Description | Teleports you to your house
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Teleport to House, also known as 'House Teleport', teleports the caster inside theirplayer-owned house, right next to the exit portal (or within the house), regardless of the 'location' of the house (Rimmington,Taverley,Brimhaven, etc.).
+
+When adventuring, a player could bring runes or tablets for this spell to guard againstdyingfrompoisonand fully heal themselves instead. Dying in a player-owned house will cause the player torespawnoutside the house portal,NOTlose any items, and have all stats restored to default levels.
+
+Players can toggle their defaultplayer-owned houseteleport toBuilding Modevia the POHsettingsmenu.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+111 | 142
+
+Combo runes
+
+11 | 141
+
+111 | 246
+
+111 | 164
+
+111 | 191
+
+111 | 260
+
+Main-hands
+
+11Alt | 137
+
+11Alt | 137
+
+1 | 132
+
+Main and off-hands
+
+11 | 137
+
+1Alt | 132
+
+Changes[edit|edit source]
+
+Date | Changes
+
+30 November2022(update|poll) | Players can now toggle their defaultplayer-owned houseteleport toBuilding Modevia the POHsettingsmenu.
+
+2 March2022(update) | A new right-click option "Group" was added, allowing Group Ironman players to teleport to their teammates house.
+
+2 August2018(update) | The Teleport to house spell and tablet now have right-click options to teleport either inside or outside of the house.
+
+10 September2015(update|poll) | Teleport to House can be toggled between placing the player inside the house or outside by the house portal. This option can be found in the house options in the settings tab.
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+v•t•eTeleportation spells
+
+Standard | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Arceuus | Arceuus HomeArceuus LibraryDraynor ManorKebos BattlefrontMind AltarRespawn pointSalve GraveyardFenkenstrain's CastleWest ArdougneHarmony IslandForgotten CemeteryBarrowsApe Atoll DungeonTarget
+
+Ancient | Edgeville HomePaddewwaSenntistenKharyrllLassarDareeyakCarrallangerAnnakarlGhorrockTarget
+
+Lunar | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTargetTele GroupMoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau |  | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTarget | Tele Group | MoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau
+
+ | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTarget
+
+Tele Group | MoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau

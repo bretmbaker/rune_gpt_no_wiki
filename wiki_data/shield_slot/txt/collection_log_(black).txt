@@ -1,0 +1,47 @@
+[Weapon: Collection Log (Black)]
+
+
+Theblack collection logis a variant of thecollection logobtained by selecting the "Create-book" option on theblack staff of collection, which requires having registered 700 collection log items.
+
+
+[Infobox]
+Released: 29 January2025(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Read, Collections overview, Destroy
+Worn options: Collection Log, Collections Overview
+Destroy: You can create another one from your staff of collection.
+Examine: A record of rewards and loot obtained all throughout Gielinor.
+General Store Value: 6 coins
+High alch: 3 coins
+Low alch: 2 coins
+Weight: 0.51 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

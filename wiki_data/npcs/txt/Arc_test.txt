@@ -1,0 +1,2 @@
+Item: Arc test
+Summary: arc_test_01 and arc_test_02 are the names of two unused non-player characters found in the game files. They were added with the release of the Kebos Lowlands. Presumably, they were created by Jagex moderators in order to test the Arceuus spellbook in some capacity.

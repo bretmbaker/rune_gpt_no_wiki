@@ -1,0 +1,65 @@
+[Weapon: 3Rd Age Amulet]
+
+
+The3rd age amuletis a part of the3rd age mage set. Requiring level 65Magicand 30Defenceto wear, it has the highest magic attack bonus of any neck-slot item.
+The 3rd age amulet is a possible reward fromhard,eliteandmastertierTreasure Trailsand cannot be made through any skills.
+
+
+[Infobox]
+Released: 5 December2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Fabulously ancient mage protection enchanted in the 3rd Age.
+General Store Value: 50,500 coins
+High alch: 30,300 coins
+Low alch: 20,200 coins
+Weight: 0.003 kg
+Grand Exchange Value: 91,642,084 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 13
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +10
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Mimic | N/A | 1 | 1/5,244;1/5,750 | 
+Reward casket (elite) | N/A | 1 | 1/249,262.5 | 
+Reward casket (hard) | N/A | 1 | 1/211,250 | 
+Reward casket (master) | N/A | 1 | 1/313,168 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Ancient Wyvern/Strategies(Magic)
+2 | Kalphite Queen/Strategies(Max Mage (0 switches))
+3 | Slayer task/Fossil Island wyverns(Magic)
+2 | Smoke devil/Strategies

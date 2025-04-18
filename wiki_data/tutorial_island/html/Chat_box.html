@@ -1,0 +1,3745 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en-GB">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Chat Interface - OSRS Wiki
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3287414e82e6b14c0708ac3110baf1d3","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chat_Interface","wgTitle":"Chat Interface","wgCurRevisionId":14879565,"wgRevisionId":14879565,"wgArticleId":40681,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Interface"],"wgPageViewLanguage":"en-gb","wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgRelevantPageName":"Chat_Interface","wgRelevantArticleId":40681,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Chat_box","simpleBatchUploadMaxFilesPerBatch":{"*":1000},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en-GB","pageLanguageDir":"ltr","pageVariantFallbacks":"en-gb"},"wgMFDisplayWikibaseDescriptions":{"search":false,"watchlist":false,"tagline":false},"wgPopupsFlags":6,"wgInternalRedirectTargetUrl":"/w/Chat_Interface","wgEditSubmitButtonLabelPublish":false,"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"]};
+RLSTATE={"ext.gadget.switch-infobox-styles":"ready","ext.gadget.articlefeedback-styles":"ready","ext.gadget.stickyTableHeaders":"ready","ext.gadget.falseSubpage":"ready","ext.gadget.headerTargetHighlight":"ready","site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.embedVideo.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","mediawiki.page.media","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.gadget.rsw-util","ext.gadget.switch-infobox","ext.gadget.exchangePages","ext.gadget.GECharts","ext.gadget.compare","ext.gadget.autosort","ext.gadget.highlightTable","ext.gadget.titleparenthesis","ext.gadget.tooltips","ext.gadget.topIcons","ext.gadget.Username","ext.gadget.countdown","ext.gadget.autocollapse","ext.gadget.checkboxList","ext.gadget.Charts","ext.gadget.navbox-tracking","ext.gadget.sidebar-tracking","ext.gadget.wikisync","ext.gadget.smwlistsfull","ext.gadget.jsonDoc","ext.gadget.articlefeedback","ext.gadget.calc","ext.gadget.infoboxQty","ext.gadget.calculatorNS","ext.gadget.dropDisplay","ext.gadget.mmgkc","ext.gadget.fightcaverotations","ext.gadget.livePricesMMG","ext.gadget.contributions","ext.gadget.skinTogglesNew","ext.gadget.utcclock","ext.gadget.relativetime","ext.gadget.sectionAnchors","ext.gadget.audioplayer","ext.gadget.musicmap","ext.gadget.equipment","ext.gadget.redirect-mobilediff","ext.gadget.dropdown","ext.gadget.newPage","ext.gadget.purge","ext.gadget.ReferenceTooltips","ext.gadget.fileDownload","ext.gadget.oswf","ext.gadget.searchfocus","ext.gadget.tilemarkers","ext.gadget.loadout","ext.gadget.leaguefilter","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.embedVideo.overlay","ext.checkUser.clientHints","ext.popups","ext.smw.purge"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+  </script>
+  <link href="/load.php?lang=en-gb&amp;modules=ext.embedVideo.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/load.php?lang=en-gb&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/load.php?lang=en-gb&amp;modules=ext.gadget.articlefeedback-styles%2CfalseSubpage%2CheaderTargetHighlight%2CstickyTableHeaders%2Cswitch-infobox-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/load.php?lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link as="font" crossorigin="" href="/images/PT-Serif_Bold.woff2?4af08" rel="preload" type="font/woff2">
+   <link as="font" crossorigin="" href="/images/IBMPlexSans-Regular.woff2?4af08" rel="preload" type="font/woff2">
+    <link as="font" crossorigin="" href="/images/IBMPlexSans-Italic.woff2?4af08" rel="preload" type="font/woff2">
+     <link as="font" crossorigin="" href="/images/IBMPlexSans-Bold.woff2?4af08" rel="preload" type="font/woff2"/>
+     <meta content="MediaWiki 1.41.5" name="generator"/>
+     <meta content="max-image-preview:standard" name="robots"/>
+     <meta content="telephone=no" name="format-detection"/>
+     <meta content="The Chat Interface is a panel in the GUI in which various messages throughout Old School RuneScape are displayed. These messages include public and private player chat, as well as game messages. The content displayed in the chat interface can be filtered using the six buttons that run across the bottom of the chat panel." name="description"/>
+     <meta content="The Chat Interface is a panel in the GUI in which various messages throughout Old School RuneScape are displayed. These messages include public and private player chat, as well as game messages. The content displayed in the chat interface can be filtered using the six buttons that run across the bottom of the chat panel." property="og:description"/>
+     <meta content="Old School RuneScape Wiki" property="og:site_name"/>
+     <meta content="Chat Interface - OSRS Wiki" property="og:title"/>
+     <meta content="article" property="og:type"/>
+     <meta content="https://oldschool.runescape.wiki/w/Chat_Interface" property="og:url"/>
+     <meta content="https://oldschool.runescape.wiki/images/Wiki.png" property="og:image"/>
+     <meta content="135" property="og:image:width"/>
+     <meta content="135" property="og:image:height"/>
+     <meta content="width=1000" name="viewport"/>
+     <link href="/w/Chat_Interface?action=edit" rel="alternate" title="Edit" type="application/x-wiki"/>
+     <link href="/opensearch_desc.php" rel="search" title="Old School RuneScape Wiki (en-gb)" type="application/opensearchdescription+xml"/>
+     <link href="https://oldschool.runescape.wiki/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+     <link href="https://oldschool.runescape.wiki/w/Chat_Interface" rel="canonical"/>
+     <link href="https://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"/>
+     <script>
+      window.ramp = window.ramp || {};
+              window.ramp.que = window.ramp.que || [];
+     </script>
+     <script async="" src="//cdn.intergient.com/1024919/74153/ramp_config.js">
+     </script>
+     <script>
+      // Determine ad placement location (contact Jayden/Cook for issues)
+                window.addEventListener('DOMContentLoaded', () => {
+                    const body = document.getElementsByClassName('mw-body')[0];
+                    if (body) {
+                        const sidebar = document.getElementById('mw-panel');
+                        const footer = document.getElementsByClassName('mw-footer')[0];
+  
+                        // Create the elements we will be adding to the page
+                        let wrapper = document.createElement('div');
+                        wrapper.className = 'adplacement';
+                        let placement = document.createElement('div');
+                        let adScript = document.createElement('script');
+  
+                        let reportLink = document.createElement('a');
+                        reportLink.href = 'https://discord.gg/axSGh7GJkq'
+                        reportLink.style.textAlign = 'center';
+                        reportLink.style.display = 'block';
+                        reportLink.style.color = '#777777';
+                        reportLink.style.textDecoration = 'none';
+                        reportLink.style.textTransform = 'uppercase';
+                        reportLink.style.fontSize = '9px';
+                        reportLink.style.fontFamily = 'Helvetica, Arial, sans-serif';
+                        reportLink.style.marginTop = '1em';
+                        reportLink.setAttribute('target', '_blank');
+                        reportLink.innerText = 'Report Ad';
+  
+                        if (body.clientHeight > 1700 && sidebar) {
+                            // If the page body is over a certain height, and sidebar exists, add a sidebar placement.
+                            wrapper.style.paddingBottom = '25px';
+                            wrapper.style.marginTop = '1em';
+                            // wrapper.style.overflow = 'hidden';
+                            // wrapper.style.maxWidth = '160px';
+  
+                            placement.id = 'wgl-sidebar';
+                            placement.id = 'pwDeskSkyBtf1';
+                            placement.setAttribute('data-pw-desk', 'sky_btf');
+  
+                            wrapper.append(placement);
+                            wrapper.append(reportLink);
+                            sidebar.append(wrapper);
+  
+                            // Init the placement
+                            adScript.textContent = `
+                              window.ramp.que.push(function () {
+                                  window.ramp.addTag("pwDeskSkyBtf1");
+                              })
+                            `
+                            console.debug('[WGL] Adding sidebar placement');
+                            sidebar.append(adScript);
+                        } else if (footer) {
+                            // Else, add a footer placement.
+                            wrapper.style.paddingBottom = '25px';
+  
+                            placement.id = 'pwDeskLbBtf1';
+                            placement.setAttribute('data-pw-desk', 'leaderboard_btf');
+  
+                            wrapper.append(placement);
+                            wrapper.append(reportLink);
+                            footer.prepend(wrapper);
+  
+                            // Init the placement
+                            adScript.textContent = `
+                              window.ramp.que.push(function () {
+                                  window.ramp.addTag("pwDeskLbBtf1");
+                              })
+                            `
+                            console.debug('[WGL] Adding footer placement');
+                            footer.append(adScript);
+                        }
+                    }
+                });
+     </script>
+    </link>
+   </link>
+  </link>
+ </head>
+ <body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Chat_Interface rootpage-Chat_Interface skin-vector action-view wgl-lightmode wgl-theme-light">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading mw-first-heading" id="firstHeading">
+    <span class="mw-page-title-main">
+     Chat Interface
+    </span>
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Old School RuneScape Wiki
+    </div>
+    <div id="contentSub">
+     <div id="mw-content-subtitle">
+      <span class="mw-redirectedfrom">
+       (Redirected from
+       <a class="mw-redirect" href="/w/Chat_box?redirect=no" title="Chat box">
+        Chat box
+       </a>
+       )
+      </span>
+     </div>
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Jump to search
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="en-GB">
+     <div class="mw-parser-output">
+      <div class="noexcerpt noprint nomobile navigation-not-searchable rs-external-header-links" style="display:none">
+       <span class="rs-header-icon rs-header-icon-rs" data-interwiki="rsw" data-page="Chat" data-wikiname="The RuneScape Wiki">
+        Chat
+       </span>
+       <span class="rs-header-icon rs-header-icon-rsc" data-interwiki="classicrsw" data-page="Chat" data-wikiname="The RuneScape Classic Wiki">
+        Chat
+       </span>
+      </div>
+      <figure typeof="mw:File/Frame">
+       <a class="mw-file-description" href="/w/File:Chat_Interface.png">
+        <img class="mw-file-element" data-file-height="164" data-file-width="518" decoding="async" height="164" loading="lazy" src="/images/Chat_Interface.png?cef8d" width="518"/>
+       </a>
+       <figcaption>
+        The ingame Chat interface
+       </figcaption>
+      </figure>
+      <p>
+       The
+       <b>
+        Chat Interface
+       </b>
+       is a panel in the
+       <a href="/w/Interface" title="Interface">
+        GUI
+       </a>
+       in which various messages throughout
+       <i>
+        <a href="/w/Old_School_RuneScape" title="Old School RuneScape">
+         Old School RuneScape
+        </a>
+       </i>
+       are displayed. These messages include public and private player chat, as well as game messages. The content displayed in the chat interface can be filtered using the six buttons that run across the bottom of the chat panel.
+      </p>
+      <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation">
+       <input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/>
+       <div class="toctitle" dir="ltr" lang="en-GB">
+        <h2 id="mw-toc-heading">
+         Contents
+        </h2>
+        <span class="toctogglespan">
+         <label class="toctogglelabel" for="toctogglecheckbox">
+         </label>
+        </span>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Filters">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Filters
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#All">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             All
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Game">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Game
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Public">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Public
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Private">
+            <span class="tocnumber">
+             1.4
+            </span>
+            <span class="toctext">
+             Private
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Channel">
+            <span class="tocnumber">
+             1.5
+            </span>
+            <span class="toctext">
+             Channel
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Clan">
+            <span class="tocnumber">
+             1.6
+            </span>
+            <span class="toctext">
+             Clan
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Trade/Group">
+            <span class="tocnumber">
+             1.7
+            </span>
+            <span class="toctext">
+             Trade/Group
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#Chat_input">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Chat input
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#Settings">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Settings
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#Reporting_abuse">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Reporting abuse
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#Chat_effects">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Chat effects
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-13">
+           <a href="#Colour_effects">
+            <span class="tocnumber">
+             5.1
+            </span>
+            <span class="toctext">
+             Colour effects
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-14">
+           <a href="#Text_effects">
+            <span class="tocnumber">
+             5.2
+            </span>
+            <span class="toctext">
+             Text effects
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#Commands">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Commands
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#Badges/Icons">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Badges/Icons
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-17">
+         <a href="#Changes">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Changes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-18">
+         <a href="#Trivia">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           Trivia
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Filters">
+        Filters
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=1&amp;veaction=edit" title="Edit section: Filters">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=1" title="Edit section's source code: Filters">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       There are six filter buttons (also known as tab buttons) that allow the player to filter content that appears in the chat panel, both to view only a specific type of content, and to exclude a specific type of content. Clicking or tapping on one of these buttons will display only the content relating to that filter. For instance, the
+       <b>
+        Trade
+       </b>
+       filter is useful when selling in crowded worlds because it allows the player to see only Trade Requests being made. To show the entire chat with no filters, the
+       <b>
+        All
+       </b>
+       button may be pressed. Right-clicking or long-pressing on a button will show options to control the sub-categories of that content that are shown both when that button is selected and when the All button is selected.
+      </p>
+      <h3>
+       <span class="mw-headline" id="All">
+        All
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=2&amp;veaction=edit" title="Edit section: All">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=2" title="Edit section's source code: All">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        All
+       </b>
+       tab shows all available content, excluding any that are filtered by active filter settings.
+      </p>
+      <ul>
+       <li>
+        The
+        <b>
+         Set chat mode: Public (/@p)
+        </b>
+        option will set your chat box to type in the general public chat, visible to nearby players. This option can be used to undo the selection of one of the below modes.
+       </li>
+       <li>
+        The
+        <b>
+         Set chat mode: Channel (/@f)
+        </b>
+        option will set your chat box to type only in the connected
+        <a href="/w/Chat-channel" title="Chat-channel">
+         chat-channel
+        </a>
+        .
+       </li>
+       <li>
+        The
+        <b>
+         Set chat mode: Clan (/@c)
+        </b>
+        option will set your chat box to type only in the connected
+        <a href="/w/Clan" title="Clan">
+         clan
+        </a>
+        chat channel.
+       </li>
+       <li>
+        The
+        <b>
+         Set chat mode: Guest Clan (/@gc)
+        </b>
+        will set your chat box to type only in the connected guest clan chat channel.
+       </li>
+       <li>
+        The
+        <b>
+         Set chat mode: Group (/@g)
+        </b>
+        option will set your chat box to type only in the group chat channel. This option is visible only to
+        <a class="mw-redirect" href="/w/Group_ironman" title="Group ironman">
+         group ironman
+        </a>
+        players.
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Game">
+        Game
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=3&amp;veaction=edit" title="Edit section: Game">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=3" title="Edit section's source code: Game">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        Game
+       </b>
+       tab shows game messages that appear as a result of taking actions such as drinking
+       <a href="/w/Potions" title="Potions">
+        potions
+       </a>
+       , chopping
+       <a href="/w/Trees" title="Trees">
+        trees
+       </a>
+       , and more.
+      </p>
+      <ul>
+       <li>
+        The
+        <b>
+         Filter
+        </b>
+        option will toggle between two modes:
+        <ul>
+         <li>
+          The
+          <b>
+           On
+          </b>
+          mode will display all game messages (i.e. "You swing your axe at the tree." or "You get some logs." as mentioned above).
+         </li>
+         <li>
+          The
+          <b>
+           Filtered
+          </b>
+          mode will only display major messages to the player such as level advancements, or alerts.
+         </li>
+        </ul>
+       </li>
+       <li>
+        The
+        <b>
+         Configure filter
+        </b>
+        option will offer a minor variation to the Filtered mode, whereupon boss kill-count messages may be included or excluded from the Filtered mode.
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Public">
+        Public
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=4&amp;veaction=edit" title="Edit section: Public">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=4" title="Edit section's source code: Public">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        Public
+       </b>
+       tab shows public messages sent by yourself and nearby players. These messages are accompanied by text above that player displaying the same message. There are five different filter options, as well as an option to filter by content, and an autochat option.
+      </p>
+      <ul>
+       <li>
+        The
+        <b>
+         Show autochat
+        </b>
+        option will show only auto-chatted messages.
+       </li>
+       <li>
+        The
+        <b>
+         Show standard
+        </b>
+        option will show all public messages.
+       </li>
+       <li>
+        The
+        <b>
+         Show friends
+        </b>
+        option will only show public messages from
+        <a href="/w/Friends_List" title="Friends List">
+         Friends
+        </a>
+        .
+       </li>
+       <li>
+        The
+        <b>
+         Show none
+        </b>
+        option will cease the display of all public messages on the screen.
+       </li>
+       <li>
+        The
+        <b>
+         Hide
+        </b>
+        option will filter all public messages from the chat panel but will allow public messages above players' heads
+       </li>
+       <li>
+        The
+        <b>
+         Filter public chat
+        </b>
+        function will filter out any messages that do not contain a certain word or words. To set a filter, click "Filter public chat" and then type the desired filter. To clear the filter, click "Filter public chat", and press enter on the blank prompt.
+       </li>
+       <li>
+        The
+        <b>
+         Autochat
+        </b>
+        function will automatically chat a set message about every four seconds. To set up autochat, click "Setup your autochat", then type in the desired phrase you wish to autochat. After the message is entered, the game will begin to chat automatically. There is then a new option to "Pause autochat". When clicked, it will Pause the autochat, and an option to "Resume autochat" will be added. To clear autochat, click "Setup your autochat", and press enter when the blank prompt appears.
+       </li>
+       <li>
+        The
+        <b>
+         Clear history
+        </b>
+        option will clear everything contained in the public tab from the moment you were logged in.
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Private">
+        Private
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=5&amp;veaction=edit" title="Edit section: Private">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=5" title="Edit section's source code: Private">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        Private
+       </b>
+       tab shows private messages sent to you by other players, messages you sent to other players, and login/logout messages if configured to appear in this tab.
+      </p>
+      <ul>
+       <li>
+        The
+        <b>
+         Show all
+        </b>
+        option will show all private messages received. Anyone can see you as online, even if you are not friends with them.
+       </li>
+       <li>
+        The
+        <b>
+         Show friends
+        </b>
+        option filters out all private messages from players who are not on your Friends List. Players not in your friends list will see you as offline.
+       </li>
+       <li>
+        The
+        <b>
+         Show none
+        </b>
+        option will cease to show any received private messages. Everyone will see you as offline.
+       </li>
+       <li>
+        The
+        <b>
+         Clear history
+        </b>
+        option will clear everything contained in the private tab from the moment you were logged in.
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Channel">
+        Channel
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=6&amp;veaction=edit" title="Edit section: Channel">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=6" title="Edit section's source code: Channel">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        Channel
+       </b>
+       tab shows messages sent in the connected
+       <a href="/w/Chat-channel" title="Chat-channel">
+        chat-channel
+       </a>
+       .
+      </p>
+      <ul>
+       <li>
+        The
+        <b>
+         Show all
+        </b>
+        option will show all chat-channel messages received.
+       </li>
+       <li>
+        The
+        <b>
+         Show friends
+        </b>
+        option filters out all Chat-channel messages from players who are not on your Friends List.
+       </li>
+       <li>
+        The
+        <b>
+         Show none
+        </b>
+        option will cease to show any received Chat-channel messages.
+       </li>
+       <li>
+        The
+        <b>
+         Clear history
+        </b>
+        option will clear everything contained in the chat channel from the moment you were logged in.
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Clan">
+        Clan
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=7&amp;veaction=edit" title="Edit section: Clan">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=7" title="Edit section's source code: Clan">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        Clan
+       </b>
+       tab shows messages sent in the connected
+       <a href="/w/Clan" title="Clan">
+        clan
+       </a>
+       and guest clan, including announcements such as player levels or combat achievements, but not for the guest clan.
+      </p>
+      <ul>
+       <li>
+        The
+        <b>
+         Show all
+        </b>
+        option will show all
+        <a href="/w/Clan" title="Clan">
+         clan
+        </a>
+        messages received.
+       </li>
+       <li>
+        The
+        <b>
+         Show friends
+        </b>
+        option filters out all clan messages from players who are not on your Friends List.
+       </li>
+       <li>
+        The
+        <b>
+         Show none
+        </b>
+        option will cease to show any received clan messages.
+       </li>
+       <li>
+        The
+        <b>
+         Clear history
+        </b>
+        option will clear everything contained in the clan chat channel from the moment you were logged in.
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Trade/Group">
+        Trade/Group
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=8&amp;veaction=edit" title="Edit section: Trade/Group">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=8" title="Edit section's source code: Trade/Group">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       This tab will be labelled "Group" if you are a
+       <a class="mw-redirect" href="/w/Group_ironman" title="Group ironman">
+        Group ironman
+       </a>
+       or "Trade" if you are any other account type.
+      </p>
+      <ul>
+       <li>
+        The
+        <b>
+         Show all
+        </b>
+        option will show all trade requests received or messages from your group.
+       </li>
+       <li>
+        The
+        <b>
+         Show friends
+        </b>
+        option filters out all trade requests from players who are not on your Friends List, or messages sent by players not on your Friends list.
+       </li>
+       <li>
+        The
+        <b>
+         Show none
+        </b>
+        option will filter all received trade requests or messages from your group.
+       </li>
+       <li>
+        The
+        <b>
+         Clear history
+        </b>
+        option will clear everything contained in the trade or group tab from the moment you were logged in.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Chat_input">
+        Chat input
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=9&amp;veaction=edit" title="Edit section: Chat input">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=9" title="Edit section's source code: Chat input">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The chat input line is where messages that are about to be sent will be displayed as they are typed. It is located below the area where messages from the currently selected filter are displayed. The chat input is preceded by the player's name and their
+       <a href="#Badges/Icons">
+        badge
+       </a>
+       if they have one.
+      </p>
+      <p>
+       The chat input directs messages to a specific chat. By default this is the Public chat, but alternate chat modes may be activated, which will cause messages submitted through the chat input to be sent to that channel. This occurs even if that tab is not activated. If a chat mode other than Public is selected, the chat mode will be indicated after the player's name and before the typed text.
+      </p>
+      <p>
+       The following commands may be entered in the chat input to activate a given chat mode, and optionally send a message after changing the mode. These have the same effect as selecting a mode via options on the
+       <a href="#All">
+        All
+       </a>
+       tab. To send a message after changing the mode, type the command and then the message; for example, both "/@fHello" and "/@f Hello" will switch to the Channel mode and send the message "Hello" in the connected chat-channel.
+      </p>
+      <ul>
+       <li>
+        <b>
+         /@p
+        </b>
+        :
+        <i>
+         None
+        </i>
+        / Public
+       </li>
+       <li>
+        <b>
+         /@f
+        </b>
+        : Channel
+       </li>
+       <li>
+        <b>
+         /@c
+        </b>
+        : Clan
+       </li>
+       <li>
+        <b>
+         //@
+        </b>
+        : Clan
+       </li>
+       <li>
+        <b>
+         /@gc
+        </b>
+        : Guest clan
+       </li>
+       <li>
+        <b>
+         /@g
+        </b>
+        : Group
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Settings">
+        Settings
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=10&amp;veaction=edit" title="Edit section: Settings">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=10" title="Edit section's source code: Settings">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/w/Settings#Chat" title="Settings">
+        Settings § Chat
+       </a>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Reporting_abuse">
+        Reporting abuse
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=11&amp;veaction=edit" title="Edit section: Reporting abuse">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=11" title="Edit section's source code: Reporting abuse">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a class="mw-redirect" href="/w/Rules_of_RuneScape" title="Rules of RuneScape">
+        Rules of RuneScape
+       </a>
+      </div>
+      <p>
+       If someone is engaging in rule-breaking, they can be
+       <a href="/w/Code_of_Conduct" title="Code of Conduct">
+        reported
+       </a>
+       by doing either of the following:
+      </p>
+      <ul>
+       <li>
+        Right-click on the offender, and select the appropriate rule they have broken.
+       </li>
+       <li>
+        Alternatively, if they have recently spoken in the chat, right-click their name in the chat box, and select the appropriate rule they have broken.
+       </li>
+       <li>
+        Click the 'Report' button, enter in the offender's name, and select the appropriate rule they have broken.
+       </li>
+      </ul>
+      <p>
+       After successfully reporting the rule-breaker, the message
+       <span style="color:white; font-family: RuneScape; font-size:12pt; text-shadow:0.5px 0.5px 0px #000;; background:rgba(0,0,0,0.4);padding:2px 5px;border-radius:1.5px;;">
+        Thank-you, your abuse report has been received.
+       </span>
+       will be displayed as confirmation. In addition, whenever your macroing (botting) report has been reviewed and actioned, you'll receive an inbox message directly in your Message Centre.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Chat_effects">
+        Chat effects
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=12&amp;veaction=edit" title="Edit section: Chat effects">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=12" title="Edit section's source code: Chat effects">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Public messages can have various effects other than the standard yellow text.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Colour_effects">
+        Colour effects
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=13&amp;veaction=edit" title="Edit section: Colour effects">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=13" title="Edit section's source code: Colour effects">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        <i>
+         <b>
+          yellow:
+         </b>
+        </i>
+        - Turns text yellow (default).
+       </li>
+       <li>
+        <i>
+         <b>
+          red:
+         </b>
+        </i>
+        - Turns text red.
+       </li>
+       <li>
+        <i>
+         <b>
+          green:
+         </b>
+        </i>
+        - Turns text green.
+       </li>
+       <li>
+        <i>
+         <b>
+          cyan:
+         </b>
+        </i>
+        - Turns text cyan (closest to light blue or aqua).
+       </li>
+       <li>
+        <i>
+         <b>
+          purple:
+         </b>
+        </i>
+        - Turns text purple.
+       </li>
+       <li>
+        <i>
+         <b>
+          white:
+         </b>
+        </i>
+        - Turns text white.
+       </li>
+       <li>
+        <i>
+         <b>
+          flash1:
+         </b>
+        </i>
+        - Text flashes between red and yellow text.
+       </li>
+       <li>
+        <i>
+         <b>
+          flash2:
+         </b>
+        </i>
+        - Text flashes between cyan and blue text.
+       </li>
+       <li>
+        <i>
+         <b>
+          flash3:
+         </b>
+        </i>
+        - Text flashes between light and dark green text.
+       </li>
+       <li>
+        <i>
+         <b>
+          glow1:
+         </b>
+        </i>
+        - Text fades from red to orange to yellow to green to cyan.
+       </li>
+       <li>
+        <i>
+         <b>
+          glow2:
+         </b>
+        </i>
+        - Text fades from red to magenta to blue to dark red.
+       </li>
+       <li>
+        <i>
+         <b>
+          glow3:
+         </b>
+        </i>
+        - Text fades from white to green to white to cyan.
+       </li>
+       <li>
+        <i>
+         <b>
+          rainbow:
+         </b>
+        </i>
+        - Turns text into a rainbow colour.
+       </li>
+       <li>
+        <i>
+         <b>
+          pattern:
+         </b>
+        </i>
+        - Allows players to send chat messages in multiple colours, where a pattern of 1-to-8 colours will be stretched across the length of the text.
+        <ul>
+         <li>
+          Letters and numbers that one wishes to use in the pattern must be inputted
+          <i>
+           before
+          </i>
+          the colon.
+          <br/>
+          For example, "patternq3q3q3q3:I am a bumblebee!!!" will result in the message alternating between black (denoted by 'q') and yellow (denoted by '3') four times from left-to-right
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <figure class="mw-halign-center" typeof="mw:File/Thumb">
+       <a class="mw-file-description" href="/w/File:Bounty_Hunter_Changes_%26_Forestry_Beta_(5).png">
+        <img class="mw-file-element" data-file-height="100" data-file-width="640" decoding="async" height="100" loading="lazy" src="/images/Bounty_Hunter_Changes_%26_Forestry_Beta_%285%29.png?a76b6" width="640"/>
+       </a>
+       <figcaption>
+        The colour key for the "pattern" command.
+       </figcaption>
+      </figure>
+      <h3>
+       <span class="mw-headline" id="Text_effects">
+        Text effects
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=14&amp;veaction=edit" title="Edit section: Text effects">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=14" title="Edit section's source code: Text effects">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        <i>
+         <b>
+          wave:
+         </b>
+        </i>
+        - Text moves up and down like a wave.
+       </li>
+       <li>
+        <i>
+         <b>
+          wave2:
+         </b>
+        </i>
+        - Text waves diagonally.
+       </li>
+       <li>
+        <i>
+         <b>
+          shake:
+         </b>
+        </i>
+        - Text shakes wackily.
+       </li>
+       <li>
+        <i>
+         <b>
+          slide:
+         </b>
+        </i>
+        - Text slides in from above and slides out below.
+       </li>
+       <li>
+        <i>
+         <b>
+          scroll:
+         </b>
+        </i>
+        - Text scrolls from right to left.
+       </li>
+      </ul>
+      <p>
+       Players can combine colour and text effects by typing
+       <code>
+        colour:effect:Message
+       </code>
+       . The colour must be written before the effect.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Commands">
+        Commands
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=15&amp;veaction=edit" title="Edit section: Commands">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=15" title="Edit section's source code: Commands">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Players have access to a limited set of commands through the chat interface:
+      </p>
+      <ul>
+       <li>
+        <b>
+         ::wiki &lt;search term&gt;
+        </b>
+        - Typing in a search term opens the Old School RuneScape Wiki in a new window in the player's default web browser.
+       </li>
+       <li>
+        <b>
+         ::bank
+        </b>
+        - Causes the player to exclaim "
+        <i>
+         Hey, everyone, I just tried to do something very silly!
+        </i>
+        "
+       </li>
+       <li>
+        <b>
+         ::displayfps
+        </b>
+        - Shows the client's current frames per second and memory usage (KB).
+       </li>
+       <li>
+        <b>
+         ::mouseovertext
+        </b>
+        - Toggles the visibility of mouse-over text on the top-left screen.
+       </li>
+       <li>
+        <b>
+         ::renderself
+        </b>
+        - Toggles the player's character model visibility to themselves.
+       </li>
+       <li>
+        <b>
+         ::toggleantidrag
+        </b>
+        - (
+        <a href="/w/New_Official_Client" title="New Official Client">
+         New Official Client
+        </a>
+        only) Toggles anti-drag, preventing items in your inventory from being moved unless Shift is held.
+       </li>
+       <li>
+        <b>
+         ::toggleroof or ::toggleroofs
+        </b>
+        - Toggles roofs on or off. When using this command it is only temporary; doing it in the
+        <a href="/w/Settings" title="Settings">
+         Settings
+        </a>
+        menu is permanent and will persist between sessions.
+       </li>
+       <li>
+        <b>
+         ::uiquality
+        </b>
+        - (New Official Client only) This code changes the interface scaling algorithm by adding a number after it. 0 for nearest neighbour. 1 for linear. 2 for bicubic.
+       </li>
+       <li>
+        <b>
+         ::setwindowsize [x] [y]
+        </b>
+        - (New Official Client only) Sets your game window to the specified size.
+       </li>
+       <li>
+        <b>
+         ::zbuf [x]
+        </b>
+        - Changes the method to determine what objects are closest to the camera if set to 1, disables with 0.
+       </li>
+       <li>
+        <b>
+         ::getdrawdistance
+        </b>
+        - Outputs the current rendering distance.
+       </li>
+       <li>
+        <b>
+         ::setdrawdistance [x]
+        </b>
+        - Sets the rendering distance to the parsed value, in the range 25-90.
+       </li>
+       <li>
+        <b>
+         ::[emote name]
+        </b>
+        - Triggers the
+        <a class="mw-redirect" href="/w/Emote" title="Emote">
+         emote
+        </a>
+        if one exists; input is case insensitive.
+        <code>
+         !
+        </code>
+        can alternatively be used as a prefix instead of
+        <code>
+         ::
+        </code>
+        .
+       </li>
+      </ul>
+      <p>
+       Further commands are offered by some
+       <a href="/w/Game_client" title="Game client">
+        game clients
+       </a>
+       such as
+       <a href="/w/RuneLite" title="RuneLite">
+        RuneLite
+       </a>
+       , often prefixed with a
+       <span style="white-space:nowrap">
+        <kbd class="keypress">
+         !
+        </kbd>
+       </span>
+       .
+       <a href="/w/Jagex_Moderator" title="Jagex Moderator">
+        Jagex Moderators
+       </a>
+       have an extended command set that serves to make testing content and running community events easier.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Badges/Icons">
+        Badges/Icons
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=16&amp;veaction=edit" title="Edit section: Badges/Icons">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=16" title="Edit section's source code: Badges/Icons">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       These badges/icons may appear in your chat interface:
+      </p>
+      <ul>
+       <li>
+        <span class="mw-default-size" typeof="mw:File">
+         <a class="mw-file-description" href="/w/File:Jagex_moderator_emblem.png">
+          <img class="mw-file-element" data-file-height="11" data-file-width="13" decoding="async" height="11" loading="lazy" src="/images/Jagex_moderator_emblem.png?093b0" width="13"/>
+         </a>
+        </span>
+        <a href="/w/Jagex_Moderator" title="Jagex Moderator">
+         Jagex Moderator
+        </a>
+       </li>
+       <li>
+        <span class="mw-default-size" typeof="mw:File">
+         <a class="mw-file-description" href="/w/File:Player_moderator_emblem.png">
+          <img class="mw-file-element" data-file-height="11" data-file-width="13" decoding="async" height="11" loading="lazy" src="/images/Player_moderator_emblem.png?9963c" width="13"/>
+         </a>
+        </span>
+        <a href="/w/Player_Moderator" title="Player Moderator">
+         Player Moderator
+        </a>
+       </li>
+       <li>
+        <span class="mw-default-size" typeof="mw:File">
+         <a class="mw-file-description" href="/w/File:Ironman_chat_badge.png">
+          <img class="mw-file-element" data-file-height="13" data-file-width="10" decoding="async" height="13" loading="lazy" src="/images/Ironman_chat_badge.png?a0a83" width="10"/>
+         </a>
+        </span>
+        <a class="mw-redirect" href="/w/Ironman_mode#Standard" title="Ironman mode">
+         Standard ironman
+        </a>
+       </li>
+       <li>
+        <span class="mw-default-size" typeof="mw:File">
+         <a class="mw-file-description" href="/w/File:Hardcore_ironman_chat_badge.png">
+          <img class="mw-file-element" data-file-height="13" data-file-width="10" decoding="async" height="13" loading="lazy" src="/images/Hardcore_ironman_chat_badge.png?a1753" width="10"/>
+         </a>
+        </span>
+        <a class="mw-redirect" href="/w/Ironman_mode#Hardcore" title="Ironman mode">
+         Hardcore ironman
+        </a>
+       </li>
+       <li>
+        <span class="mw-default-size" typeof="mw:File">
+         <a class="mw-file-description" href="/w/File:Ultimate_ironman_chat_badge.png">
+          <img class="mw-file-element" data-file-height="13" data-file-width="13" decoding="async" height="13" loading="lazy" src="/images/Ultimate_ironman_chat_badge.png?5bb1b" width="13"/>
+         </a>
+        </span>
+        <a class="mw-redirect" href="/w/Ironman_mode#Ultimate" title="Ironman mode">
+         Ultimate ironman
+        </a>
+       </li>
+       <li>
+        <span class="mw-default-size" typeof="mw:File">
+         <a class="mw-file-description" href="/w/File:Group_ironman_chat_badge.png">
+          <img class="mw-file-element" data-file-height="13" data-file-width="10" decoding="async" height="13" loading="lazy" src="/images/Group_ironman_chat_badge.png?15b3d" width="10"/>
+         </a>
+        </span>
+        <a class="mw-redirect" href="/w/Group_ironman" title="Group ironman">
+         Group ironman
+        </a>
+       </li>
+       <li>
+        <span class="mw-default-size" typeof="mw:File">
+         <a class="mw-file-description" href="/w/File:Hardcore_group_ironman_chat_badge.png">
+          <img class="mw-file-element" data-file-height="13" data-file-width="10" decoding="async" height="13" loading="lazy" src="/images/Hardcore_group_ironman_chat_badge.png?a5abd" width="10"/>
+         </a>
+        </span>
+        <a class="mw-redirect" href="/w/Hardcore_group_ironman" title="Hardcore group ironman">
+         Hardcore group ironman
+        </a>
+       </li>
+       <li>
+        <span class="mw-default-size" typeof="mw:File">
+         <a class="mw-file-description" href="/w/File:Unranked_group_ironman_chat_badge.png">
+          <img class="mw-file-element" data-file-height="13" data-file-width="10" decoding="async" height="13" loading="lazy" src="/images/Unranked_group_ironman_chat_badge.png?789d2" width="10"/>
+         </a>
+        </span>
+        <a class="mw-redirect" href="/w/Unranked_group_iron" title="Unranked group iron">
+         Unranked group ironman
+        </a>
+       </li>
+       <li>
+        <span class="mw-default-size" typeof="mw:File">
+         <a class="mw-file-description" href="/w/File:Leagues_chat_badge.png">
+          <img class="mw-file-element" data-file-height="12" data-file-width="9" decoding="async" height="12" loading="lazy" src="/images/Leagues_chat_badge.png?b3932" width="9"/>
+         </a>
+        </span>
+        <a href="/w/Leagues" title="Leagues">
+         Leagues
+        </a>
+        player
+       </li>
+       <li>
+        <span class="mw-default-size" typeof="mw:File">
+         <a class="mw-file-description" href="/w/File:Speedrunning_World_chat_badge.png">
+          <img class="mw-file-element" data-file-height="13" data-file-width="11" decoding="async" height="13" loading="lazy" src="/images/Speedrunning_World_chat_badge.png?49532" width="11"/>
+         </a>
+        </span>
+        <a href="/w/Quest_Speedrunning" title="Quest Speedrunning">
+         Quest Speedrunning
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Changes">
+        Changes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=17&amp;veaction=edit" title="Edit section: Changes">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=17" title="Edit section's source code: Changes">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="wikitable mw-collapsible sortable" style="max-width:800px">
+       <tbody>
+        <tr>
+         <th>
+          Date
+         </th>
+         <th class="unsortable">
+          Changes
+         </th>
+        </tr>
+        <tr>
+         <td data-sort-value="26 March 2025">
+          <a href="/w/26_March" title="26 March">
+           26 March
+          </a>
+          <a href="/w/2025" title="2025">
+           2025
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Poll_83_QoL_Changes" title="Update:Poll 83 QoL Changes">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Whenever your macroing (botting) report has been reviewed and actioned, you'll receive an inbox message directly in your Message Centre.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="29 January 2025">
+          <a href="/w/29_January" title="29 January">
+           29 January
+          </a>
+          <a href="/w/2025" title="2025">
+           2025
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Bounty_Hunter_Changes,_Collection_Log_Updates_%26_Emote_Improvements" title="Update:Bounty Hunter Changes, Collection Log Updates &amp; Emote Improvements">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           <a class="mw-redirect" href="/w/Emote" title="Emote">
+            Emote
+           </a>
+           can now be triggered using chat commands, either via the
+           <code>
+            ::
+           </code>
+           or
+           <code>
+            !
+           </code>
+           prefix.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="1 June 2023">
+          <a href="/w/1_June" title="1 June">
+           1 June
+          </a>
+          <a href="/w/2023" title="2023">
+           2023
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Bounty_Hunter_Changes_%26_Forestry_Beta" title="Update:Bounty Hunter Changes &amp; Forestry Beta">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Added the "rainbow" and "pattern" chat effect commands.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="">
+          Date unknown
+          <br/>
+         </td>
+         <td>
+          <p>
+           Using the chat command to toggle roofs now only persists for the current session.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="16 December 2021">
+          <a href="/w/16_December" title="16 December">
+           16 December
+          </a>
+          <a href="/w/2021" title="2021">
+           2021
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Christmas_2021" title="Update:Christmas 2021">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           The option text for switching Chat Mode to your Group Iron Man group has been corrected.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="17 November 2021">
+          <a href="/w/17_November" title="17 November">
+           17 November
+          </a>
+          <a href="/w/2021" title="2021">
+           2021
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Duel_Arena_Changes" title="Update:Duel Arena Changes">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           The messages sent when drinking alcoholic beverages (in game!) have been added to the spam filter.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="21 April 2021">
+          <a href="/w/21_April" title="21 April">
+           21 April
+          </a>
+          <a href="/w/2021" title="2021">
+           2021
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Fishing_Trawler_Improvements_and_Equipment_Rebalance:_Part_One" title="Update:Fishing Trawler Improvements and Equipment Rebalance: Part One">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Added rendering support for
+           <code>
+            U+2014 EM DASH
+           </code>
+           (
+           <samp>
+            —
+           </samp>
+           ).
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="4 May 2017">
+          <a href="/w/4_May" title="4 May">
+           4 May
+          </a>
+          <a href="/w/2017" title="2017">
+           2017
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Skotos_%26_Dark_Claws" title="Update:Skotos &amp; Dark Claws">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <ul>
+           <li>
+            The message when adding ore to the Blast Furnace can now be disabled.
+           </li>
+           <li>
+            Tokkul is no longer included in untradeable drop notifications.
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="13 October 2016">
+          <a href="/w/13_October" title="13 October">
+           13 October
+          </a>
+          <a href="/w/2016" title="2016">
+           2016
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:The_Ourania_Altar" title="Update:The Ourania Altar">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Some messages on Rogues' Den reward traps are now filtered.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="2 June 2016">
+          <a href="/w/2_June" title="2 June">
+           2 June
+          </a>
+          <a href="/w/2016" title="2016">
+           2016
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:The_Woodcutting_Guild" title="Update:The Woodcutting Guild">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Prevented the "A magical force stops you from moving." message from spamming the chat window when trying to auto-retaliate against an NPC whilst frozen.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="10 December 2015">
+          <a href="/w/10_December" title="10 December">
+           10 December
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Key_Update_%26_Seaweed" title="Update:Key Update &amp; Seaweed">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Filtered game messages when drinking Sanfew Serum.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="5 November 2015">
+          <a href="/w/5_November" title="5 November">
+           5 November
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Skilling_Pets_%26_Deadman_Tweaks" title="Update:Skilling Pets &amp; Deadman Tweaks">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           The chatbox has been optimised during update timer countdowns and broadcast notifications.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="22 October 2015">
+          <a href="/w/22_October" title="22 October">
+           22 October
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Abyssal_Bludgeon_Buff" title="Update:Abyssal Bludgeon Buff">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           The Report Abuse menu has new options, like 'Offensive Name', and rewording other rules for consistency with Jagex's other products.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="8 October 2015">
+          <a href="/w/8_October" title="8 October">
+           8 October
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Smoke_Battlestaff_Buff" title="Update:Smoke Battlestaff Buff">
+           update
+          </a>
+          |
+          <a href="/w/Poll:Old_School_Content_Poll_36:_Skilling_Pets" title="Poll:Old School Content Poll 36: Skilling Pets">
+           poll
+          </a>
+          )
+         </td>
+         <td>
+          <ul>
+           <li>
+            Added a toggle that allows you to have private messages remain visible even when your chatbox is hidden.
+           </li>
+           <li>
+            Added messages for attaching a crossbow stock to limbs and stringing a crossbow to the chat filter.
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="24 September 2015">
+          <a href="/w/24_September" title="24 September">
+           24 September
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:New_Animations_%26_Barbarian_Assault_Changes" title="Update:New Animations &amp; Barbarian Assault Changes">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <ul>
+           <li>
+            Added game messages related to making pottery to the game filter.
+           </li>
+           <li>
+            Making swamp tar now consistently filters game messages.
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="17 September 2015">
+          <a href="/w/17_September" title="17 September">
+           17 September
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Angler%27s_Outfit_%26_Slayer" title="Update:Angler's Outfit &amp; Slayer">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Added messages for mixing a guthix balance potion to the game filter.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="23 July 2015">
+          <a href="/w/23_July" title="23 July">
+           23 July
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Big_Cats_%26_WWF" title="Update:Big Cats &amp; WWF">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           More challenge messages at the
+           <a href="/w/Duel_Arena" title="Duel Arena">
+            Duel Arena
+           </a>
+           will now appear under the
+           <a class="mw-selflink-fragment" href="#Trade">
+            trade chat tab
+           </a>
+           .
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="18 June 2015">
+          <a href="/w/18_June" title="18 June">
+           18 June
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Multiple_Clues_%26_Midsummer" title="Update:Multiple Clues &amp; Midsummer">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <ul>
+           <li>
+            The chatbox is now correctly opaque after closing the text-input box.
+           </li>
+           <li>
+            Fixed right-aligned and/or invisible username bug in chatbox.
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="11 June 2015">
+          <a href="/w/11_June" title="11 June">
+           11 June
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Clear_Private_Chat_%26_More" title="Update:Clear Private Chat &amp; More">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <ul>
+           <li>
+            You can now clear your private message history by right clicking the private chat stone beneath the chatbox and selecting 'clear history'.
+           </li>
+           <li>
+            The transparent chat-box arrow buttons can no longer be clicked through.
+           </li>
+           <li>
+            Optimised the chat box to improve FPS.
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="7 May 2015">
+          <a href="/w/7_May" title="7 May">
+           7 May
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Slayer_Partners_%26_Teleports" title="Update:Slayer Partners &amp; Teleports">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Some falconry related messages are now caught by the spam filter.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="30 April 2015">
+          <a href="/w/30_April" title="30 April">
+           30 April
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Mutagens,_Mo_%26_Much_More" title="Update:Mutagens, Mo &amp; Much More">
+           update
+          </a>
+          |
+          <a href="/w/Poll:Old_School_Content_Poll_32:_Resizable_Mode" title="Poll:Old School Content Poll 32: Resizable Mode">
+           poll
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           A coloured notification now appears in the chatbox when you get teleblocked.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="19 March 2015">
+          <a href="/w/19_March" title="19 March">
+           19 March
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Boss_Pets,_Sets,_Chat_%26_More" title="Update:Boss Pets, Sets, Chat &amp; More">
+           update
+          </a>
+          |
+          <a href="/w/Poll:Old_School_Content_Poll_30:_Near_Miss_Poll" title="Poll:Old School Content Poll 30: Near Miss Poll">
+           poll
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           When interacting with NPCs you will now be able to use your keyboard to skip through chat dialogue and select chat options. You can use the spacebar to continue through dialogue and the numbers on your keyboard to select different chat options.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="5 February 2015">
+          <a href="/w/5_February" title="5 February">
+           5 February
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:The_Dragon_Defender" title="Update:The Dragon Defender">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <ul>
+           <li>
+            "10 of your tokens crumble away." has been added to the game filter.
+           </li>
+           <li>
+            "It heals some health" messages have been added to the game filter for more types of food.
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="29 January 2015">
+          <a href="/w/29_January" title="29 January">
+           29 January
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Ignore_lists,_1v1s_%26_More" title="Update:Ignore lists, 1v1s &amp; More">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           When adding players to your ignore list their recently sent messages will now be hidden.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="2 October 2014">
+          <a href="/w/2_October" title="2 October">
+           2 October
+          </a>
+          <a href="/w/2014" title="2014">
+           2014
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Content_Poll_25_-_Batch_1" title="Update:Content Poll 25 - Batch 1">
+           update
+          </a>
+          |
+          <a href="/w/Poll:Old_School_Content_Poll_25" title="Poll:Old School Content Poll 25">
+           poll
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Added a toggle allowing you to decide whether "user has logged in/out" messages will disappear.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="11 September 2014">
+          <a href="/w/11_September" title="11 September">
+           11 September
+          </a>
+          <a href="/w/2014" title="2014">
+           2014
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Optional_Randoms_%26_Goblins" title="Update:Optional Randoms &amp; Goblins">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <ul>
+           <li>
+            The message that notifies a player when a friend logs in or out will now disappear after 10 seconds.
+           </li>
+           <li>
+            Jewellery teleport messages are re-coloured for better visilibility.
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="17 July 2014">
+          <a href="/w/17_July" title="17 July">
+           17 July
+          </a>
+          <a href="/w/2014" title="2014">
+           2014
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Boss_Pets_and_Spawn_Rates" title="Update:Boss Pets and Spawn Rates">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           More messages have been added to the game filter including hunting chinchompas, smashing gargoyles and eating food.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="10 July 2014">
+          <a href="/w/10_July" title="10 July">
+           10 July
+          </a>
+          <a href="/w/2014" title="2014">
+           2014
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:The_Game_Filter_is_Here!" title="Update:The Game Filter is Here!">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           The game filter option was added to the chat interface. This can be used to hide many of the unnecessary of repetitive game messages.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="26 June 2014">
+          <a href="/w/26_June" title="26 June">
+           26 June
+          </a>
+          <a href="/w/2014" title="2014">
+           2014
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Midsummer_Event" title="Update:Midsummer Event">
+           update
+          </a>
+          |
+          <a href="/w/Poll:Old_School_feature_poll_-_Rewarding_Rewards" title="Poll:Old School feature poll - Rewarding Rewards">
+           poll
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           An extra right-click option has been added to the public chat button that allows you to pause your autochat and start it up again without having to re-type the message.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="22 May 2014">
+          <a href="/w/22_May" title="22 May">
+           22 May
+          </a>
+          <a href="/w/2014" title="2014">
+           2014
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Chat_update_and_%27Operate%27" title="Update:Chat update and 'Operate'">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           The "autochat" feature has been added, along with options to hide, show, and set up the autochat functionality.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="8 May 2014">
+          <a href="/w/8_May" title="8 May">
+           8 May
+          </a>
+          <a href="/w/2014" title="2014">
+           2014
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Your_banks,_it_has_tabs!" title="Update:Your banks, it has tabs!">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Private messages are now recognised as chat by the report abuse feature.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="3 April 2014">
+          <a href="/w/3_April" title="3 April">
+           3 April
+          </a>
+          <a href="/w/2014" title="2014">
+           2014
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Chaos_Elemental_Pet_%26_World_Map" title="Update:Chaos Elemental Pet &amp; World Map">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Your own public chat is now visible when Public is set to Friends.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="31 May 2013">
+          <a href="/w/31_May" title="31 May">
+           31 May
+          </a>
+          <a href="/w/2013" title="2013">
+           2013
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Patch_Notes_(31_May_2013)" title="Update:Patch Notes (31 May 2013)">
+           update
+          </a>
+          |
+          <a href="/w/Poll:Old_School_feature_poll_4_%E2%80%93_May_2013" title="Poll:Old School feature poll 4 – May 2013">
+           poll
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           The chatbox now applies text-wrapping to long messages.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="21 March 2013">
+          <a href="/w/21_March" title="21 March">
+           21 March
+          </a>
+          <a href="/w/2013" title="2013">
+           2013
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Patch_Notes_(21_March_2013)" title="Update:Patch Notes (21 March 2013)">
+           update
+          </a>
+          |
+          <a href="/w/Poll:Old_School_feature_poll_1_%E2%80%93_March_2013" title="Poll:Old School feature poll 1 – March 2013">
+           poll
+          </a>
+          )
+         </td>
+         <td>
+          <ul>
+           <li>
+            Right-clicking on chat messages from your friends will more easily let you reply to them.
+           </li>
+           <li>
+            Pressing 'tab' will reply to the last private message sent to you.
+           </li>
+          </ul>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <h2>
+       <span class="mw-headline" id="Trivia">
+        Trivia
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Chat_Interface?section=18&amp;veaction=edit" title="Edit section: Trivia">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Chat_Interface?action=edit&amp;section=18" title="Edit section's source code: Trivia">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        Using a colour pattern will affect the overhead text of following special attacks, as well as certain responses to NPCs (such as petting the Myth's Guild dog). This is undone by sending a normal chat message.
+       </li>
+       <li>
+        A number of chat messages are displayed after an account has been logged in for a prolonged period of time.
+        <ul>
+         <li>
+          After 4 hours:
+          <span style="color:purple; font-family: RuneScape; font-size:12pt; text-shadow:0.5px 0.5px 0px #000;; ;">
+           You've been playing for a while, consider taking a break from your screen.
+          </span>
+         </li>
+         <li>
+          After 5 hours and 30 minutes:
+          <span style="color:purple; font-family: RuneScape; font-size:12pt; text-shadow:0.5px 0.5px 0px #000;; ;">
+           You will be logged out in approximately 30 minutes. Make sure you move to a safe area or log out now.
+          </span>
+         </li>
+         <li>
+          After 5 hours and 50 minutes:
+          <span style="color:purple; font-family: RuneScape; font-size:12pt; text-shadow:0.5px 0.5px 0px #000;; ;">
+           You will be logged out in approximately 10 minutes. Make sure you move to a safe area or log out now.
+          </span>
+         </li>
+         <li>
+          After 5 hours and 55 minutes:
+          <span style="color:purple; font-family: RuneScape; font-size:12pt; text-shadow:0.5px 0.5px 0px #000;; ;">
+           You will be logged out in approximately 5 minutes. Make sure you move to a safe area or log out now.
+          </span>
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <table class="navbox &lt;mw:editsection nowraplinks mw-collapsible mw-collapsed navbox-autocollapse" data-navbox-name="Interface">
+       <tbody>
+        <tr>
+         <th class="navbox-title" colspan="2">
+          <div style="float:left;text-align:left">
+           <div class="navbar plainlinks noprint navbar-mini" style="font-weight:normal;font-size:x-small;white-space:nowrap;">
+            <a href="/w/Template:Interface" title="Template:Interface">
+             <span style="" title="View this template">
+              v
+             </span>
+            </a>
+            <span style="font-size:80%">
+             •
+            </span>
+            <span class="autoconfirmed-show" style="display:none">
+             <a class="text" href="https://oldschool.runescape.wiki/w/Template_talk:Interface">
+              <span style="" title="Discussion about this template">
+               t
+              </span>
+             </a>
+             <span style="font-size:80%">
+              •
+             </span>
+            </span>
+            <a class="text" href="https://oldschool.runescape.wiki/w/Template:Interface?action=edit">
+             <span style="" title="Edit this template">
+              e
+             </span>
+            </a>
+           </div>
+          </div>
+          <div class="navbox-title-name">
+           <a href="/w/Interface" title="Interface">
+            Interface
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Interface#Control_Panel" title="Interface">
+           Control Panel
+          </a>
+         </th>
+         <td class="navbox-list navbox-parent" style="padding:0">
+          <table class="navbox-subgroup nowraplinks">
+           <tbody>
+            <tr class="navbox-group">
+             <th class="navbox-group-title">
+              Top
+             </th>
+             <td class="navbox-list">
+              <ul>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Combat_Options" title="Combat Options">
+                   <img class="mw-file-element" data-file-height="19" data-file-width="19" decoding="async" height="19" loading="lazy" src="/images/Combat_icon.png?93d63" width="19"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Combat_Options" title="Combat Options">
+                 Combat Options
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Stats" title="Stats">
+                   <img class="mw-file-element" data-file-height="22" data-file-width="24" decoding="async" height="22" loading="lazy" src="/images/Skills_icon.png?a8e9f" width="24"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Stats" title="Stats">
+                 Stats
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Character_Summary" title="Character Summary">
+                   <img class="mw-file-element" data-file-height="21" data-file-width="21" decoding="async" height="21" loading="lazy" src="/images/Character_Summary_icon.png?19b09" width="21"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Character_Summary" title="Character Summary">
+                 Character Summary
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Quest_List" title="Quest List">
+                   <img class="mw-file-element" data-file-height="21" data-file-width="21" decoding="async" height="21" loading="lazy" src="/images/Quest_point_icon.png?dc356" width="21"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Quest_List" title="Quest List">
+                 Quest List
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Achievement_Diaries" title="Achievement Diaries">
+                   <img class="mw-file-element" data-file-height="21" data-file-width="21" decoding="async" height="21" loading="lazy" src="/images/Achievement_Diaries_icon.png?b4e0c" width="21"/>
+                  </a>
+                 </span>
+                </span>
+                <a class="mw-redirect" href="/w/Achievement_Diaries" title="Achievement Diaries">
+                 Achievement Diaries
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Kourend_Favour" title="Kourend Favour">
+                   <img class="mw-file-element" data-file-height="21" data-file-width="21" decoding="async" height="21" loading="lazy" src="/images/Kourend_Favour_icon.png?6b650" width="21"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Kourend_Favour" title="Kourend Favour">
+                 Kourend Favour
+                </a>
+                <i>
+                 (removed)
+                </i>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Adventure_Paths" title="Adventure Paths">
+                   <img class="mw-file-element" data-file-height="21" data-file-width="21" decoding="async" height="21" loading="lazy" src="/images/Adventure_Paths_icon.png?d6d46" width="21"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Adventure_Paths" title="Adventure Paths">
+                 Adventure Paths
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Inventory" title="Inventory">
+                   <img class="mw-file-element" data-file-height="27" data-file-width="25" decoding="async" height="27" loading="lazy" src="/images/Inventory.png?d4795" width="25"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Inventory" title="Inventory">
+                 Inventory
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Worn_Equipment" title="Worn Equipment">
+                   <img class="mw-file-element" data-file-height="31" data-file-width="26" decoding="async" height="31" loading="lazy" src="/images/Worn_Equipment.png?124cf" width="26"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Worn_Equipment" title="Worn Equipment">
+                 Worn Equipment
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Equipment_Stats" title="Equipment Stats">
+                   <img class="mw-file-element" data-file-height="28" data-file-width="27" decoding="async" height="28" loading="lazy" src="/images/Equipment_Stats.png?9f3c9" width="27"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Equipment_Stats" title="Equipment Stats">
+                 Equipment Stats
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Items_kept_on_death" title="Items kept on death">
+                   <img class="mw-file-element" data-file-height="30" data-file-width="31" decoding="async" height="30" loading="lazy" src="/images/Items_kept_on_death.png?dd21d" width="31"/>
+                  </a>
+                 </span>
+                </span>
+                <a class="mw-redirect" href="/w/Items_kept_on_death" title="Items kept on death">
+                 Items kept on death
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Guide_prices" title="Guide prices">
+                   <img class="mw-file-element" data-file-height="31" data-file-width="25" decoding="async" height="31" loading="lazy" src="/images/Guide_prices.png?ce39c" width="25"/>
+                  </a>
+                 </span>
+                </span>
+                <a class="mw-redirect" href="/w/Guide_prices" title="Guide prices">
+                 Guide prices
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Call_follower" title="Call follower">
+                   <img class="mw-file-element" data-file-height="22" data-file-width="28" decoding="async" height="22" loading="lazy" src="/images/Call_follower.png?9b8f7" width="28"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Call_follower" title="Call follower">
+                 Call follower
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Prayer" title="Prayer">
+                   <img class="mw-file-element" data-file-height="29" data-file-width="25" decoding="async" height="29" loading="lazy" src="/images/Prayer_tab_icon.png?107e9" width="25"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Prayer" title="Prayer">
+                 Prayer
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Spellbook" title="Spellbook">
+                   <img class="mw-file-element" data-file-height="23" data-file-width="24" decoding="async" height="23" loading="lazy" src="/images/Spellbook.png?78262" width="24"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Spellbook" title="Spellbook">
+                 Spellbook
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+            <tr class="navbox-group">
+             <th class="navbox-group-title">
+              Bottom
+             </th>
+             <td class="navbox-list">
+              <ul>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Friends_List" title="Friends List">
+                   <img class="mw-file-element" data-file-height="22" data-file-width="22" decoding="async" height="22" loading="lazy" src="/images/Friends_List.png?e4d52" width="22"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Friends_List" title="Friends List">
+                 Friends List
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Ignore_List" title="Ignore List">
+                   <img class="mw-file-element" data-file-height="22" data-file-width="22" decoding="async" height="22" loading="lazy" src="/images/Ignore_List.png?d3ac5" width="22"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Ignore_List" title="Ignore List">
+                 Ignore List
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Account_Management" title="Account Management">
+                   <img class="mw-file-element" data-file-height="27" data-file-width="27" decoding="async" height="27" loading="lazy" src="/images/Account_Management.png?6b012" width="27"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Account_Management" title="Account Management">
+                 Account Management
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Account_Management#Account" title="Account Management">
+                   <img class="mw-file-element" data-file-height="16" data-file-width="16" decoding="async" height="16" loading="lazy" src="/images/Account_Management_-_Account_icon.png?54c01" width="16"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Account_Management#Account" title="Account Management">
+                 Account
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Account_Management#Community" title="Account Management">
+                   <img class="mw-file-element" data-file-height="14" data-file-width="18" decoding="async" height="14" loading="lazy" src="/images/Account_Management_-_Community_icon.png?54c01" width="18"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Account_Management#Community" title="Account Management">
+                 Community
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Account_Management#Links" title="Account Management">
+                   <img class="mw-file-element" data-file-height="16" data-file-width="16" decoding="async" height="16" loading="lazy" src="/images/Account_Management_-_Links_icon.png?34fed" width="16"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Account_Management#Links" title="Account Management">
+                 Links
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Chat-channel" title="Chat-channel">
+                   <img class="mw-file-element" data-file-height="26" data-file-width="22" decoding="async" height="26" loading="lazy" src="/images/Chat-channel.png?740f6" width="22"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Chat-channel" title="Chat-channel">
+                 Chat-channel
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Clans" title="Clans">
+                   <img class="mw-file-element" data-file-height="26" data-file-width="22" decoding="async" height="26" loading="lazy" src="/images/Your_Clan_icon.png?29427" width="22"/>
+                  </a>
+                 </span>
+                </span>
+                <a class="mw-redirect" href="/w/Clans" title="Clans">
+                 Clans
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Grouping" title="Grouping">
+                   <img class="mw-file-element" data-file-height="31" data-file-width="30" decoding="async" height="31" loading="lazy" src="/images/Grouping_icon.png?30f91" width="30"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Grouping" title="Grouping">
+                 Grouping
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Logout_button" title="Logout button">
+                   <img class="mw-file-element" data-file-height="30" data-file-width="21" decoding="async" height="30" loading="lazy" src="/images/Logout.png?c7c45" width="21"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Logout_button" title="Logout button">
+                 Logout
+                </a>
+                <sup>
+                 (
+                 <a href="/w/World_switching" title="World switching">
+                  World switching
+                 </a>
+                 )
+                </sup>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Settings" title="Settings">
+                   <img class="mw-file-element" data-file-height="23" data-file-width="23" decoding="async" height="23" loading="lazy" src="/images/Settings.png?99265" width="23"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Settings" title="Settings">
+                 Settings
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Emotes" title="Emotes">
+                   <img class="mw-file-element" data-file-height="27" data-file-width="18" decoding="async" height="27" loading="lazy" src="/images/Emotes_button.png?2212b" width="18"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Emotes" title="Emotes">
+                 Emotes
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Music" title="Music">
+                   <img class="mw-file-element" data-file-height="25" data-file-width="21" decoding="async" height="25" loading="lazy" src="/images/Music.png?bde60" width="21"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Music" title="Music">
+                 Music
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Minimap" title="Minimap">
+           Minimap
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <span typeof="mw:File">
+             <a href="/w/Compass" title="Compass">
+              <img class="mw-file-element" data-file-height="43" data-file-width="43" decoding="async" height="30" loading="lazy" src="/images/thumb/Compass.png/30px-Compass.png?c5022" srcset="/images/Compass.png?c5022 2x" width="30"/>
+             </a>
+            </span>
+            <a class="mw-redirect" href="/w/Compass" title="Compass">
+             Compass
+            </a>
+           </li>
+           <li>
+            <span typeof="mw:File">
+             <a href="/w/Minimap#Hitpoints_orb" title="Minimap">
+              <img class="mw-file-element" data-file-height="34" data-file-width="34" decoding="async" height="30" loading="lazy" src="/images/thumb/Hitpoints_orb.png/30px-Hitpoints_orb.png?35952" srcset="/images/Hitpoints_orb.png?35952 2x" width="30"/>
+             </a>
+            </span>
+            <a href="/w/Hitpoints" title="Hitpoints">
+             Hitpoints
+            </a>
+           </li>
+           <li>
+            <span typeof="mw:File">
+             <a href="/w/Minimap#Prayer_orb" title="Minimap">
+              <img class="mw-file-element" data-file-height="34" data-file-width="34" decoding="async" height="30" loading="lazy" src="/images/thumb/Prayer_orb.png/30px-Prayer_orb.png?ebe33" srcset="/images/Prayer_orb.png?ebe33 2x" width="30"/>
+             </a>
+            </span>
+            <a class="mw-redirect" href="/w/Quick_prayers" title="Quick prayers">
+             Quick prayers
+            </a>
+           </li>
+           <li>
+            <span typeof="mw:File">
+             <a href="/w/Run_energy" title="Run energy">
+              <img class="mw-file-element" data-file-height="34" data-file-width="34" decoding="async" height="30" loading="lazy" src="/images/thumb/Run_energy_orb.png/30px-Run_energy_orb.png?b0ebe" srcset="/images/Run_energy_orb.png?b0ebe 2x" width="30"/>
+             </a>
+            </span>
+            <a class="mw-redirect" href="/w/Run_energy" title="Run energy">
+             Run energy
+            </a>
+           </li>
+           <li>
+            <span typeof="mw:File">
+             <a href="/w/Special_attack" title="Special attack">
+              <img class="mw-file-element" data-file-height="34" data-file-width="34" decoding="async" height="30" loading="lazy" src="/images/thumb/Special_attack_orb.png/30px-Special_attack_orb.png?27d06" srcset="/images/Special_attack_orb.png?27d06 2x" width="30"/>
+             </a>
+            </span>
+            <a class="mw-redirect" href="/w/Special_attack" title="Special attack">
+             Special attack
+            </a>
+           </li>
+           <li>
+            <span typeof="mw:File">
+             <a href="/w/Activity_Adviser" title="Activity Adviser">
+              <img class="mw-file-element" data-file-height="34" data-file-width="34" decoding="async" height="30" loading="lazy" src="/images/thumb/Activity_Adviser_orb.png/30px-Activity_Adviser_orb.png?01d25" srcset="/images/Activity_Adviser_orb.png?01d25 2x" width="30"/>
+             </a>
+            </span>
+            <a href="/w/Activity_Adviser" title="Activity Adviser">
+             Activity Adviser
+            </a>
+           </li>
+           <li>
+            <span typeof="mw:File">
+             <a href="/w/Minimap#Store_orb" title="Minimap">
+              <img class="mw-file-element" data-file-height="34" data-file-width="34" decoding="async" height="30" loading="lazy" src="/images/thumb/Store_orb.png/30px-Store_orb.png?851da" srcset="/images/Store_orb.png?851da 2x" width="30"/>
+             </a>
+            </span>
+            <a href="/w/Minimap#Store_orb" title="Minimap">
+             Store orb
+            </a>
+           </li>
+           <li>
+            <span typeof="mw:File">
+             <a href="/w/World_map" title="World map">
+              <img class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="30" loading="lazy" src="/images/World_map_icon.png?6dae2" width="30"/>
+             </a>
+            </span>
+            <a href="/w/World_map" title="World map">
+             World map
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span class="mw-default-size" typeof="mw:File">
+              <a href="/w/Wiki_lookup" title="Wiki lookup">
+               <img class="mw-file-element" data-file-height="14" data-file-width="40" decoding="async" height="14" loading="lazy" src="/images/Wiki_lookup.png?88e7e" width="40"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Wiki_lookup" title="Wiki lookup">
+             Wiki lookup
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          Other
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a class="mw-selflink selflink">
+             Chat Interface
+            </a>
+           </li>
+           <li>
+            <a href="/w/Choose_Option" title="Choose Option">
+             Choose Option
+            </a>
+           </li>
+           <li>
+            <a href="/w/Debug_Console" title="Debug Console">
+             Debug Console
+            </a>
+           </li>
+           <li>
+            <a href="/w/Game_controls" title="Game controls">
+             Game controls
+            </a>
+           </li>
+           <li>
+            <a href="/w/Main_Menu" title="Main Menu">
+             Main Menu
+            </a>
+           </li>
+           <li>
+            <a href="/w/Trading" title="Trading">
+             Trading interface
+            </a>
+           </li>
+           <li>
+            <a href="/w/Welcome_Screen" title="Welcome Screen">
+             Welcome Screen
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <!-- 
+NewPP limit report
+Parsed by mediawiki‐67596d4656‐sr98h
+Cached time: 20250413031923
+Cache expiry: 172800
+Reduced expiry: false
+Complications: [show‐toc]
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.077 seconds
+Real time usage: 0.083 seconds
+Preprocessor visited node count: 2484/1000000
+Post‐expand include size: 45197/8388608 bytes
+Template argument size: 13375/8388608 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.007/10.000 seconds
+Lua memory usage: 1109959/367001600 bytes
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   30.750      1 -total
+ 30.71%    9.444      2 Template:Navbox
+ 29.82%    9.169      1 Template:Interface
+ 26.09%    8.023     34 Template:Subject_changes
+ 20.18%    6.206      1 Template:External
+  8.33%    2.561      2 Template:Main
+  7.16%    2.203      1 Template:Ctg
+  3.96%    1.217      1 Template:Key_press
+  3.82%    1.174      5 Template:Mes
+  3.80%    1.169     29 Template:Plink
+-->
+      <!-- Saved in parser cache with key en_osrswiki:pcache:idhash:40681-0!canonical and timestamp 20250413031923 and revision id 14879565. Rendering was triggered because: page-view
+ -->
+     </div>
+     <div class="printfooter" data-nosnippet="">
+      Retrieved from "
+      <a dir="ltr" href="https://oldschool.runescape.wiki/w/Chat_Interface?oldid=14879565">
+       https://oldschool.runescape.wiki/w/Chat_Interface?oldid=14879565
+      </a>
+      "
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/w/Special:Categories" title="Special:Categories">
+       Category
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/w/Category:Interface" title="Category:Interface">
+         Interface
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" id="p-personal" role="navigation">
+     <h3 class="vector-menu-heading" id="p-personal-label">
+      <span class="vector-menu-heading-label">
+       Personal tools
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        <span title="The user page for the IP address you are editing as">
+         Not logged in
+        </span>
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/w/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+         <span>
+          Talk
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/w/Special:MyContributions" title="A list of edits made from this IP address [y]">
+         <span>
+          Contributions
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/Special:CreateAccount?returnto=Chat+Interface" title="You are encouraged to create an account and log in; however, it is not mandatory">
+         <span>
+          Create account
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/Special:UserLogin?returnto=Chat+Interface" title="You are encouraged to log in; however, it is not mandatory [o]">
+         <span>
+          Log in
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" id="p-namespaces" role="navigation">
+      <h3 class="vector-menu-heading" id="p-namespaces-label">
+       <span class="vector-menu-heading-label">
+        Namespaces
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/w/Chat_Interface" title="View the content page [c]">
+          <span>
+           Article
+          </span>
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/w/Talk:Chat_Interface" rel="discussion" title="Discussion about the content page [t]">
+          <span>
+           Discussion
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <label class="vector-menu-heading" id="p-variants-label">
+       <span class="vector-menu-heading-label">
+        British English
+       </span>
+      </label>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" id="p-views" role="navigation">
+      <h3 class="vector-menu-heading" id="p-views-label">
+       <span class="vector-menu-heading-label">
+        Views
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/w/Chat_Interface">
+          <span>
+           Read
+          </span>
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-ve-edit">
+         <a accesskey="v" href="/w/Chat_Interface?veaction=edit" title="Edit this page [v]">
+          <span>
+           Edit
+          </span>
+         </a>
+        </li>
+        <li class="collapsible mw-list-item" id="ca-edit">
+         <a accesskey="e" href="/w/Chat_Interface?action=edit" title="Edit the source code of this page [e]">
+          <span>
+           Edit source
+          </span>
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/Chat_Interface?action=history" title="Past revisions of this page [h]">
+          <span>
+           History
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="vector-menu mw-portlet mw-portlet-cactions vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <label class="vector-menu-heading" id="p-cactions-label">
+       <span class="vector-menu-heading-label">
+        More
+       </span>
+      </label>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="is-disabled mw-list-item" id="ca-purge">
+         <a href="/w/Chat_Interface?action=purge">
+          <span>
+           Refresh
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+      <div class="vector-typeahead-search-container">
+       <div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+        <form action="/" class="cdx-search-input cdx-search-input--has-end-button" id="searchform">
+         <div class="cdx-search-input__input-wrapper" data-search-loc="header-navigation" id="simpleSearch">
+          <div class="cdx-text-input cdx-text-input--has-start-icon">
+           <input accesskey="f" aria-label="Search the OSRS Wiki" autocapitalize="sentences" class="cdx-text-input__input" id="searchInput" name="search" placeholder="Search the OSRS Wiki" title="Search the wiki [f]" type="search"/>
+           <span class="cdx-text-input__icon cdx-text-input__start-icon">
+           </span>
+          </div>
+          <input name="title" type="hidden" value="Special:Search"/>
+         </div>
+         <button class="cdx-button cdx-search-input__end-button">
+          Search
+         </button>
+        </form>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="vector-legacy-sidebar" id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/" title="Visit the main page">
+     </a>
+    </div>
+    <nav aria-labelledby="p-Discord-label" class="vector-menu mw-portlet mw-portlet-Discord vector-menu-portal portal" id="p-Discord" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Discord-label">
+      <span class="vector-menu-heading-label">
+       Discord
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-Discord">
+        <a href="https://discord.gg/96a5V2EGh2" rel="nofollow" target="_blank">
+         <span>
+          Discord
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Navigation-label" class="vector-menu mw-portlet mw-portlet-Navigation vector-menu-portal portal" id="p-Navigation" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Navigation-label">
+      <span class="vector-menu-heading-label">
+       Navigation
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-Main-page">
+        <a href="/">
+         <span>
+          Main page
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-About-us">
+        <a href="/w/RuneScape:About">
+         <span>
+          About us
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Random-page">
+        <a href="/w/Special:Random/main">
+         <span>
+          Random page
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Contact-us">
+        <a href="/w/RuneScape:Contact_us">
+         <span>
+          Contact us
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Donate">
+        <a href="https://patreon.com/runescapewiki" rel="nofollow" target="_blank">
+         <span>
+          Donate
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Recent_changes-label" class="vector-menu mw-portlet mw-portlet-Recent_changes emptyPortlet vector-menu-portal portal" id="p-Recent_changes" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Recent_changes-label">
+      <span class="vector-menu-heading-label">
+       Recent changes
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+      </ul>
+     </div>
+     <div class="rc-sidebar-item">
+      <a class="rc-sidebar-page" href="/w/Fossil_Island">
+       Fossil Island
+      </a>
+      <p class="rc-sidebar-user">
+       <a href="/?diff=14884713">
+        5m
+        <span class="rc-sidebar-ago">
+         ago
+        </span>
+       </a>
+       -
+       <a href="/w/Special:Contributions/Fixer">
+        Fixer
+       </a>
+      </p>
+     </div>
+     <div class="rc-sidebar-item">
+      <a class="rc-sidebar-page" href="/w/Kebos_Lowlands">
+       Kebos Lowlands
+      </a>
+      <p class="rc-sidebar-user">
+       <a href="/?diff=14884711">
+        6m
+        <span class="rc-sidebar-ago">
+         ago
+        </span>
+       </a>
+       -
+       <a href="/w/Special:Contributions/Fixer">
+        Fixer
+       </a>
+      </p>
+     </div>
+     <div class="rc-sidebar-item">
+      <a class="rc-sidebar-page" href="/w/Sins_of_the_Father">
+       Sins of the Father
+      </a>
+      <p class="rc-sidebar-user">
+       <a href="/?diff=14884710">
+        7m
+        <span class="rc-sidebar-ago">
+         ago
+        </span>
+       </a>
+       -
+       <a href="/w/Special:Contributions/Fixer">
+        Fixer
+       </a>
+      </p>
+     </div>
+     <div class="rc-sidebar-item">
+      <a class="rc-sidebar-page" href="/w/Hunter_training">
+       Hunter training
+      </a>
+      <p class="rc-sidebar-user">
+       <a href="/?diff=14884709">
+        9m
+        <span class="rc-sidebar-ago">
+         ago
+        </span>
+       </a>
+       -
+       <a href="/w/Special:Contributions/Crabby">
+        Crabby
+       </a>
+      </p>
+     </div>
+     <div class="rc-sidebar-item rc-sidebar-more">
+      <a class="rc-sidebar-page" href="/w/Special:RecentChanges">
+       Show more...
+      </a>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Guides-label" class="vector-menu mw-portlet mw-portlet-Guides vector-menu-portal portal" id="p-Guides" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Guides-label">
+      <span class="vector-menu-heading-label">
+       Guides
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-Recent-updates">
+        <a href="/w/2025">
+         <span>
+          Recent updates
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-List-of-quests">
+        <a href="/w/Quests/List">
+         <span>
+          List of quests
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Achievement-diaries">
+        <a href="/w/Achievement_Diary">
+         <span>
+          Achievement diaries
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Combat-achievements">
+        <a href="/w/Combat_Achievements">
+         <span>
+          Combat achievements
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Skill-training">
+        <a href="/w/Skill_training_guides">
+         <span>
+          Skill training
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Money-making">
+        <a href="/w/Money_making_guide">
+         <span>
+          Money making
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Calculators">
+        <a href="/w/Calculators">
+         <span>
+          Calculators
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-DPS-calculator">
+        <a href="https://tools.runescape.wiki/osrs-dps/" target="_blank">
+         <span>
+          DPS calculator
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-New-player-guide">
+        <a href="/w/New_player_guide">
+         <span>
+          New player guide
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-User-created-guides">
+        <a href="/w/RuneScape:Supplemental_guides">
+         <span>
+          User-created guides
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Community-label" class="vector-menu mw-portlet mw-portlet-Community vector-menu-portal portal" id="p-Community" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Community-label">
+      <span class="vector-menu-heading-label">
+       Community
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-User-help">
+        <a href="/w/RuneScape:User_help">
+         <span>
+          User help
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Active-discussions">
+        <a href="/w/RuneScape:Active_discussions">
+         <span>
+          Active discussions
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-OSRS-Wiki-Clan">
+        <a href="/w/RuneScape:Clan_Chat">
+         <span>
+          OSRS Wiki Clan
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Policies">
+        <a href="/w/RuneScape:Policies">
+         <span>
+          Policies
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-More_RuneScape-label" class="vector-menu mw-portlet mw-portlet-More_RuneScape vector-menu-portal portal" id="p-More_RuneScape" role="navigation">
+     <h3 class="vector-menu-heading" id="p-More_RuneScape-label">
+      <span class="vector-menu-heading-label">
+       More RuneScape
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-RuneScape-Wiki">
+        <a href="https://runescape.wiki/w/RuneScape_Wiki">
+         <span>
+          RuneScape Wiki
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-RSC-Wiki">
+        <a href="https://classic.runescape.wiki/w/RuneScape_Classic_Wiki">
+         <span>
+          RSC Wiki
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 class="vector-menu-heading" id="p-tb-label">
+      <span class="vector-menu-heading-label">
+       Tools
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/w/Special:WhatLinksHere/Chat_Interface" title="A list of all wiki pages that link here [j]">
+         <span>
+          What links here
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/w/Special:RecentChangesLinked/Chat_Interface" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         <span>
+          Related changes
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/w/Special:SpecialPages" title="A list of all special pages [q]">
+         <span>
+          Special pages
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="javascript:print();" rel="alternate" title="Printable version of this page [p]">
+         <span>
+          Printable version
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/Chat_Interface?oldid=14879565" title="Permanent link to this revision of this page">
+         <span>
+          Permanent link
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/Chat_Interface?action=info" title="More information about this page">
+         <span>
+          Page information
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item">
+        <a href="/w/Special:NewFiles">
+         <span>
+          New files
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-smwbrowselink">
+        <a href="/w/Special:Browse/:Chat-5FInterface" rel="search">
+         <span>
+          Browse properties
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 9 April 2025, at 02:37.
+    </li>
+    <li id="footer-info-copyright">
+     Content on this site is licensed under
+     <a class="external" href="https://creativecommons.org/licenses/by-nc-sa/3.0/" rel="nofollow">
+      CC BY-NC-SA 3.0
+     </a>
+     ;
+     <a href="https://meta.weirdgloop.org/w/Project:Copyrights">
+      additional terms apply
+     </a>
+     .
+     <br/>
+     <i>
+      RuneScape
+     </i>
+     and
+     <i>
+      RuneScape Old School
+     </i>
+     are the trademarks of
+     <a href="http://jagex.com">
+      Jagex Limited
+     </a>
+     and are used with the permission of Jagex.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a href="https://weirdgloop.org/privacy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/w/RuneScape:About">
+      About the Old School RuneScape Wiki
+     </a>
+    </li>
+    <li id="footer-places-disclaimers">
+     <a href="/w/RuneScape:General_disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-tou">
+     <a href="https://weirdgloop.org/terms">
+      Terms of Use
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="/w/Special:Contact">
+      Contact Weird Gloop
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="https://oldschool.runescape.wiki/w/Chat_Interface?mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">
+      <img alt="CC BY-NC-SA 3.0" height="31" loading="lazy" src="https://meta.weirdgloop.org/images/Creative_Commons_footer.png" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://weirdgloop.org" target="_blank">
+      <img alt="A Weird Gloop wiki" height="31" loading="lazy" src="https://meta.weirdgloop.org/images/Weird_Gloop_footer.png" srcset="https://meta.weirdgloop.org/images/Weird_Gloop_footer@2x.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mediawiki-67596d4656-jnpjl","wgBackendResponseTime":45,"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.077","walltime":"0.083","ppvisitednodes":{"value":2484,"limit":1000000},"postexpandincludesize":{"value":45197,"limit":8388608},"templateargumentsize":{"value":13375,"limit":8388608},"expansiondepth":{"value":8,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   30.750      1 -total"," 30.71%    9.444      2 Template:Navbox"," 29.82%    9.169      1 Template:Interface"," 26.09%    8.023     34 Template:Subject_changes"," 20.18%    6.206      1 Template:External","  8.33%    2.561      2 Template:Main","  7.16%    2.203      1 Template:Ctg","  3.96%    1.217      1 Template:Key_press","  3.82%    1.174      5 Template:Mes","  3.80%    1.169     29 Template:Plink"]},"scribunto":{"limitreport-timeusage":{"value":"0.007","limit":"10.000"},"limitreport-memusage":{"value":1109959,"limit":367001600}},"cachereport":{"origin":"mediawiki-67596d4656-sr98h","timestamp":"20250413031923","ttl":172800,"transientcontent":false}}});});
+  </script>
+  <script async="" src="//cdn.intergient.com/ramp_core.js">
+  </script>
+ </body>
+</html>

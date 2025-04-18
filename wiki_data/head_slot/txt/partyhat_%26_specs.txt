@@ -1,0 +1,49 @@
+[Weapon: Partyhat %26 Specs]
+
+
+Thepartyhat & specsis acquired by taking both ablue partyhatandsagacious spectaclestoPatchyonMos Le'Harmless. Doing so requires the completion ofCabin Feverand abook o' piracy. Players can also take it back to Patchy to revert it into the original items. It costs 500coinsto attach the items together and 600 coins to take them apart. It resembles the look of theWise Old ManinDraynor Village.
+It can be stored in thetreasure chestof aplayer-owned house.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I have the sudden urge to rob the bank...
+General Store Value: 1,800 coins
+High alch: 1,080 coins
+Low alch: 720 coins
+Weight: 0.453 kg
+Grand Exchange Value: 1,014,303 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 71
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

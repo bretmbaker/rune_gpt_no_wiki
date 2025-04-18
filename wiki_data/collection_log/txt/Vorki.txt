@@ -1,0 +1,4 @@
+Item: Vorki
+Summary: 
+Sources:
+- Vorkath Post-quest (Level 732, Quantity: 1, Rarity: 1/3,000)

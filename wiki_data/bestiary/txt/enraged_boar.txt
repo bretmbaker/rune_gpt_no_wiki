@@ -1,0 +1,42 @@
+Name: Enraged Boar
+Combat Level: 12
+Size: 2x2
+Info:
+- Description: That's one nasty and angry looking piggy.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 11227
+- Link: MOID
+
+Location:
+- Area: Southern island of The Node
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Clue scroll (beginner) (1/128)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 25
+Attack: 7
+Strength: 7
+Defence: 5
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,72 @@
+Name: Kalphite Worker
+Combat Level: 28
+Size: 2x2
+Info:
+- Description: I don't think insect repellent will work...
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 40 xp
+- Category: Kalphite
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 955,956,961
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Iron javelin (1/128)
+- Steel longsword (1/128)
+- Cosmic rune (1/128)
+- Grimy guam leaf (1/73.1)
+- Grimy marrentill (1/97.5)
+- Grimy tarromin (1/130)
+- Grimy harralander (1/167.2)
+- Grimy ranarr weed (1/212.8)
+- Grimy irit leaf (1/292.6)
+- Grimy avantoe (1/390.1)
+- Grimy kwuarm (1/468.1)
+- Grimy cadantine (1/585.1)
+- Grimy lantadyme (1/780.2)
+- Grimy dwarf weed (1/780.2)
+- Waterskin(4) (21/128)
+- Nothing (1/128.23; Never[d 1])
+- Uncut sapphire (1/256; 1/130[d 2])
+- Uncut emerald (1/512; 1/260[d 2])
+- Uncut ruby (1/1,024; 1/520[d 2])
+- Uncut diamond (1/4,096; 1/2,080[d 2])
+- Chaos talisman (1/2,730.67; 1/1,386.67[d 2][d 3])
+- Nature talisman (1/2,730.67; 1/1,386.67[d 2][d 3])
+- Loop half of key (1/8,192; 1/4,160[d 2])
+- Tooth half of key (1/8,192; 1/4,160[d 2])
+- Rune javelin (1/8,192; 1/4,160[d 2])
+- Rune spear (1/131,072; 1/7,800[d 2][d 4])
+- Shield left half (1/262,144; 1/15,600[d 2][d 4])
+- Dragon spear (1/349,525.33; 1/20,800[d 2][d 4])
+- Ensouled kalphite head (1/250)
+- Brimstone key (1/1,136[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 40
+Attack: 20
+Strength: 20
+Defence: 20
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

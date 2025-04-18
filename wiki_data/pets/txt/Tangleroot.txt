@@ -1,0 +1,233 @@
+[Pet: Tangleroot]
+
+Thetanglerootis a skillingpetthat can be obtained when checking the health (for patches that have this option, likefruit trees) or when harvesting the final crop (for patches without a "Check-health" option) of afarming patch. It may also be obtained while playing theTithe Farmminigameor from killing theHespori. The chances of getting it are dependent on the player'sFarminglevel and the crop the player is harvesting.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+Unlike pets such as therock golem, an incoming farming resource such as a herb orhespori seedwill take precedence over the farming pet. If the player already has a follower and the remaining inventory slots are then filled by an incoming farming resource, the playerwill notreceive the pet[1]and must instead claim it fromProbitainEast Ardougnefor a reclaim token, costing 1,000,000coins. Should the player obtain the pet while harvestinggiant seaweed, the pet will not be lost upondrowning.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Variants[edit|edit source]
+
+Players can change the tangleroot's appearance by using variousseedson it.This will consume the seed.To revert the tangleroot to its original form, players must use anacornon it. The different appearances will remain permanently toggleable.
+
+Seed | Seed cost | Image | Chat head | Seed | Seed cost | Image | Chat head
+
+Acorn | −118 |  |  | Crystal acorn | 0 |  | 
+
+Dragonfruit | −218,266 |  |  | Guam | −29 |  | 
+
+Redwood | −26,081 |  |  | White lily | −4,173 |  | 
+
+These seeds may be obtained by:
+
+Checkingseed nestsfor acorns, dragonfruit, and redwood seeds.Defeating certain monsters with theseed drop tablefor guam seeds, or bypickpocketingamaster farmer.Defeating and farmingHesporifor white lily seeds.Catchingcrystal implingsor opening theelven crystal chestfor crystal acorns. Completion of theSong of the Elvesquest is also required to obtain them. (Crystal acornscannotbe traded with other players.)
+
+Drop rates[edit|edit source]
+
+The pet chance is rolled primarily during a patch'scheck-healthstage; if the patch does not have an option to check health, it instead rolls during thefinalharvest.[2]
+
+A player's actual chances of receiving it is1 inB- (Lvl* 25), whereBis the base chance andLvlis the player's Farming level.[2]
+
+The fastest method on average to receive Tangleroot is by frequently farmingcactus,belladonna,hespori,giant seaweed, andmushrooms, as well as doing regular tree runs. Although using only trees takes the least amount of time spent on Farming (thus being more efficient), it is extremely slow in real time, taking upwards of two years on average with daily tree runs.
+
+Even though Tangleroot is obtainable from theTithe Farm, it is extremely unlikely: in terms of probability, it would take nearly 3 billion Farming experience on average, equivalent to 25,000 hours of playing.
+
+To find the pet chance for a method at a given level, refer to theskill pet chance calculator.
+
+Level | Patch | Produce | Base chance[2]
+
+1 | Allotment | Potato | 281,040
+
+2 | Flower | Marigolds | 281,040
+
+3 | Hops | Barley | 112,416[3]
+
+4 | Hops | Hammerstone | 112,416[4]
+
+5 | Allotment | Onion | 281,040
+
+7 | Allotment | Cabbage | 281,040
+
+8 | Hops | Asgarnian | 89,933[3]
+
+9 | Herb | Guam | 98,364
+
+10 | Bush | Redberries | 44,966
+
+11 | Flower | Rosemary | 281,040
+
+12 | Allotment | Tomato | 281,040
+
+13 | Hops | Jute | 89,933[3]
+
+14 | Herb | Marrentill | 98,364
+
+15 | Tree | Oak | 22,483
+
+16 | Hops | Yanillian | 74,944[3]
+
+19 | Herb | Tarromin | 98,364
+
+20 | Allotment | Sweetcorn | 224,832
+
+21 | Hops | Krandorian | 64,238[3]
+
+22 | Bush | Cadava berries | 37,472
+
+23 | Seaweed | Giant seaweed | 7,500[5]
+
+24 | Flower | Nasturtiums | 281,040
+
+25 | Flower | Woad leaf | 281,040
+
+26 | Flower | Limpwurt root | 224,832
+
+26 | Herb | Harralander | 98,364
+
+27 | Fruit tree | Apple | 9,000
+
+28 | Hops | Wildblood | 56,208[3]
+
+29 | Herb | Goutweed | 98,364
+
+30 | Tree | Willow | 16,059
+
+31 | Allotment | Strawberry | 187,360
+
+32 | Herb | Ranarr | 98,364
+
+33 | Fruit tree | Banana | 9,000
+
+34 | Tithe Farm | Tithe Farm | 7,494,389
+
+35 | Hardwood tree | Teak | 5,000[6]
+
+36 | Bush | Dwellberries | 32,119
+
+36 | Vine | Grapes | 385,426
+
+38 | Herb | Toadflax | 98,364
+
+39 | Fruit tree | Orange | 9,000
+
+42 | Fruit tree | Curry | 9,000
+
+44 | Herb | Irit | 98,364
+
+45 | Tree | Maple | 14,052
+
+47 | Allotment | Watermelon | 160,594
+
+48 | Bush | Jangerberries | 28,104
+
+50 | Herb | Avantoe | 98,364
+
+51 | Fruit tree | Pineapple | 9,000
+
+53 | Mushroom | Mushrooms | 7,500
+
+55 | Cactus | Cactus | 7,000
+
+55 | Hardwood tree | Mahogany | 5,000[6]
+
+56 | Herb | Kwuarm | 98,364
+
+57 | Fruit tree | Papaya | 9,000
+
+58 | Flower | White lily | 281,040
+
+59 | Bush | White berries | 28,104
+
+60 | Tree | Yew | 11,242
+
+61 | Allotment | Snape grass | 173,977[7]
+
+62 | Herb | Snapdragon | 98,364
+
+63 | Belladonna | Nightshade | 8,000
+
+64 | Cactus | Potato cactus | 160,594[7]
+
+65 | Hespori | Hespori | 7,000
+
+67 | Herb | Cadantine | 98,364
+
+68 | Fruit tree | Palm | 9,000
+
+70 | Bush | Poison ivy | 28,104
+
+72 | Calquat | Calquat tree | 6,000
+
+73 | Herb | Lantadyme | 98,364
+
+74 | Crystal tree | Crystal tree | 9,000[8]
+
+75 | Tree | Magic | 9,368
+
+79 | Herb | Dwarf weed | 98,364
+
+81 | Fruit tree | Dragonfruit | 9,000
+
+83 | Spirit tree | Spirit tree | 5,000
+
+85 | Celastrus tree | Celastrus tree | 9,000[7]
+
+85 | Herb | Torstol | 98,364
+
+90 | Redwood tree | Redwood tree | 5,000[7]
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+16 April2020 | HotfixThe herb variant's dialogue was changed to remove references to 73 and 420, which are references to anOld School RuneScapememe andcannabis, respectively.
+
+16 April2020(update|poll) | Tangleroot was given the ability to change its appearance, with each new variant having unique dialogue.The normal tangleroot's inventory icon wasgraphically updated.
+
+Gallery (historical)[edit|edit source]
+
+ | 
+
+ | 
+
+1 September 2016 –16 April 2020 | 16 April 2020 –present
+
+Trivia[edit|edit source]
+
+The pet is likely a reference to theTanglefoot, fought duringFairytale I - Growing Pains, andGroot, a character fromMarvel Comics. Groot is a talking tree in Marvel'sGuardians of the Galaxyfilm, who is only capable of saying "I am Groot",  "We are Groot", or "I love you guys".The examine text is a reference to the line said by the entTreebeardinThe Lord of the Rings.Even though it is possible to get the pet underwater at seaweeds, it is not possible to re-enter the underwater area with a pet.
+
+References[edit|edit source]
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan

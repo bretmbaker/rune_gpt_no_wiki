@@ -1,0 +1,54 @@
+[Weapon: Armadyl Platelegs]
+
+
+TheArmadyl platelegsare a reward from completinghardTreasure Trails. Its stats are almost the same as those ofrune platelegs, however, the Armadyl platelegs offer a +1Prayer bonus.
+This item will count as anArmadyl itemin theGod Wars Dungeon.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Rune platelegs in the colours of Armadyl.
+General Store Value: 64,000 coins
+High alch: 38,400 coins
+Low alch: 25,600 coins
+Weight: 9.071 kg
+Grand Exchange Value: 38,216 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 58
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +51
+- Slash: +49
+- Crush: +47
+- Magic: -4
+- Ranged: +49
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

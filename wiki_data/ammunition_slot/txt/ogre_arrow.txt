@@ -1,0 +1,49 @@
+[Weapon: Ogre Arrow]
+
+
+Ogre arrowsare used for hunting large game birds such asChompy birdsandJubbly birds. These arrows can only be fired fromogre bowsorcomposite ogre bows. Ogre arrows are required inBig Chompy Bird Huntingand theFreeing Skrach Uglogweesub-quest ofRecipe for Disaster.
+Ogre arrows require level 5Fletchingto make, and are made usingachey tree logs. Achey tree logs are fletched into a number ofogre arrow shafts(between 2 to 6), and flighted with 4featherseach to makeflighted ogre arrows. Achiselis then used on a set ofwolf bonesto produce between 2 to 6wolfbone arrowtips, which are then attached to the flighted arrows to obtain ogre arrows. In addition to any experience gained from making the materials used, 1.0 Fletchingexperienceis gained per wolfbone arrowtip attached to a flighted arrow.
+
+
+[Infobox]
+Released: 18 May2004(Update)
+Members: Yes
+Quest item: Big Chompy Bird Hunting
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A large ogre arrow with a bone tip.
+General Store Value: 25 coins
+High alch: 15 coins
+Low alch: 10 coins
+Weight: 0 kg
+Grand Exchange Value: 176 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 249,731
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +22
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

@@ -1,0 +1,47 @@
+[Weapon: Digsite Pendant#(4)]
+
+
+Adigsite pendantis aruby necklacethat has been enchanted using theLvl-3 Enchantspell. It requires completion ofThe Dig Sitequest and the spell learnt from one of the archaeologists to make or use. Digsite pendants cannot be recharged and crumble to dust when all charges have been used.
+Unlike most goldjewellery, this necklace cannot be enchanted until the spell has been learnt from one of the archaeologists cleaning finds in themuseum. To learn how to enchant a ruby necklace, a player must first participate in cleaninguncleaned findsuntil aclean necklaceis found in the sample; the chance of this is 1/51. If given to any of the archaeologists in the museum's cleaning area, the archaeologist will teach the player how to replicate the enchantment spell. This requires either 49Magicor anenchant ruby or topaztablet.
+
+
+[Infobox]
+Released: 29 May2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Rub, Drop
+Worn options: Digsite, Fossil Island, Lithkren Dungeon
+Examine: An enchanted necklace.
+General Store Value: 2,400 coins
+High alch: 1,440 coins
+Low alch: 960 coins
+Weight: 0.01 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

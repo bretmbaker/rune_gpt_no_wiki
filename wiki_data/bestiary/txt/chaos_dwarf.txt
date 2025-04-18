@@ -1,0 +1,65 @@
+Name: Chaos dwarf
+Combat Level: 48
+Size: 1x1
+Info:
+- Description: A dwarf gone bad.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 61 xp
+- Category: Dwarves
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 291
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guide is available for Chaos dwarf:
+
+Notable Drops:
+- Mithril longsword (1/128)
+- Mithril sq shield (1/128)
+- Death rune (1/128)
+- Water rune (1/128)
+- Coins (11/128)
+- Coal (1/128)
+- Cheese (1/128)
+- Tomato (1/128)
+- Nothing (1/51.29; Never[d 1])
+- Uncut sapphire (1/102.4; 1/52[d 2])
+- Uncut emerald (1/204.8; 1/104[d 2])
+- Uncut ruby (1/409.6; 1/208[d 2])
+- Uncut diamond (1/1,638.4; 1/832[d 2])
+- Chaos talisman(m) (1/1,092.27; 1/554.67[d 2][d 3])
+- Nature talisman(m) (1/1,092.27; 1/554.67[d 2][d 3])
+- Loop half of key(m) (1/3,276.8; 1/1,664[d 2])
+- Tooth half of key(m) (1/3,276.8; 1/1,664[d 2])
+- Rune javelin(m) (1/3,276.8; 1/1,664[d 2])
+- Rune spear(m) (1/52,428.8; 1/3,120[d 2][d 4])
+- Shield left half(m) (1/104,857.6; 1/6,240[d 2][d 4])
+- Dragon spear(m) (1/139,810.13; 1/8,320[d 2][d 4])
+- Looting bag(m) (1/3[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 61
+Attack: 38
+Strength: 42
+Defence: 28
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,63 @@
+[Weapon: Dragon Full Helm]
+
+
+Thedragon full helmis ahelmetthat requires 60Defenceto equip. The dragon full helm gives better defence bonuses than itsmedium helmcounterpart. Due to its high price, and lack of prayer or strength bonuses, it is more often used as a sign of wealth, rather than in combat.
+A dragon full helm can be combined with adragon full helm ornament kitto make a gold-trimmeddragon full helm (g). This cosmetic enhancement won't change the stats in any way.
+
+
+[Infobox]
+Released: 3 July2007(Update)
+Also called: DFH
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Protects your head and looks impressive too.
+General Store Value: 150,000 coins
+High alch: 90,000 coins
+Low alch: 60,000 coins
+Weight: 2 kg
+Grand Exchange Value: 72,973,660 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 56
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +45
+- Slash: +48
+- Crush: +41
+- Magic: -1
+- Ranged: +46
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chewed bones | N/A | 1 | 1/256 | 
+Mithril dragon | 304 | 1 | 1/32,768 | 
+
+
+[Used in Recommended Equipment]
+Date | Changes
+21 April2021(update) | The helmet's ranged attack bonus has been decreased from -2 to -3.
+25 January2018(update|poll) | The spikes on the helmet wererecolouredfrom a grey colour to match the white colour seen on other dragon armour.
+13 July2017(update) | Brutal black dragonsno longer drop the dragon full helm, as a part of a balancing change. Their drop rate was 1/32,768.

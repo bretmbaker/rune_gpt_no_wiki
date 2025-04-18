@@ -1,0 +1,62 @@
+[Weapon: Mud Pie]
+
+
+Amud pieis a special type ofpiethat does not restoreHitpoints, and instead can be used as an equipableweaponforPvP. The pie does no damage and is not stackable, but can be thrown at other players to reduces the target's currentrun energyby 25%, rounded down.[1]Mud pies have no effect onNPCs. When throwing a mud pie, apie dishwill drop underneath the target. As mud pies are considered a thrown weapon, a player targeted by mud pies should wear armour with high Ranged defence to lower their accuracy.
+It can be obtained by baking araw mud pieon acooking range, requiring level 29Cookingand granting 128 experience when successful. When cooking there is a chance to fail, resulting inburnt pie. Theburn ratedecreases as the player'sCookinglevel increases, and it will stop burning entirely at Cooking level 63. Alternatively, casting theBake Piespell from thelunar spellbookwill always create a pie without burning it.
+
+
+[Infobox]
+Released: 20 February2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: All the good of the earth.
+General Store Value: 54 coins
+High alch: 32 coins
+Low alch: 21 coins
+Weight: 0.001 kg
+Grand Exchange Value: 1,323 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 110
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -50
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 4 ticks (2.4s) | 6 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 3 ticks (1.8s) | 6 tiles |  | None
+ | Longrange | Light | Longrange | 4 ticks (2.4s) | 8 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Baby impling jar | N/A | 1 | 1/100 | 
+Baby impling | 17; 27 | 1 | 1/100 | 

@@ -1,0 +1,40 @@
+Name: Swordchick
+Combat Level: 46
+Size: 1x1
+Info:
+- Description: Definitely not a chicken or a swordfish.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3603
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Tea flask (1/10)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 35
+Attack: 41
+Strength: 42
+Defence: 45
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

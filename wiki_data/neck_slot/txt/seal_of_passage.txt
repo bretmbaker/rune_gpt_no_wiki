@@ -1,0 +1,47 @@
+[Weapon: Seal Of Passage]
+
+
+Aseal of passageis aneckwear slotitem that is required to be worn or held in the inventory in order to talk to or trade withanyoneonLunar Isle, except for'Birds-Eye' Jack, the banker available afterDream Mentor. Without it, players attempting to speak with anyone will be forcibly teleported from Lunar Isle back toRellekka.
+The seal of passage is obtained at the beginning of theLunar Diplomacyquestby talking toBrundt the Chieftainin the longhall inRellekka.Brundt the Chieftainwill replace it for free if the player destroys it or loses it. It is always lost ondeath. Because of this, it is recommended for players planning to return to Lunar Isle via Rellekka to destroy their seal of passage after each visit, as they can get a free replacement from Brundt if they do not have one banked as Rellekka is a long way from a bank if a player forgets their seal. IfThe Fremennik Islesis started,Maria Gunnarswill transport the player toNeitiznotwhere there is abankto use. If a player loses their seal during theFremennik Exilesquest, they may have to talk toBrundtsouth-east of Rellekka to reobtain it.
+
+
+[Infobox]
+Released: 24 July2006(Update)
+Members: Yes
+Quest item: Lunar Diplomacy
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: Brundt the Chieftain will probably have another lying around somewhere anyway...
+Examine: A seal of passage issued by Brundt the Chieftain of the Fremennik.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 4.535 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

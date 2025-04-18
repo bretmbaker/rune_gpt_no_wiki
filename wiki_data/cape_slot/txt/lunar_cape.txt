@@ -1,0 +1,47 @@
+[Weapon: Lunar Cape]
+
+
+Thelunar capeis thecapeof thelunar equipmentset, requiring 65Magicand 40Defenceto equip. During theLunar Diplomacyquest,Pauline Polarisgives it to the player once they correctly guess her name, Jane Blud-Hagic-Maid. After the quest is completed it is purchased from theOneiromancerorPerdu'sLost Property shop. It can be stored in amagic wardrobein a player-owned house.
+As with all lunar equipment, it is always lost on death.
+
+
+[Infobox]
+Released: 24 July2006(Update)
+Members: Yes
+Quest item: Lunar diplomacy
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: The Oneiromancer might be able to help you get another.
+Examine: Oooo pretty!
+General Store Value: 2 coins
+High alch: 1 coin
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +1
+- Magic: +0
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

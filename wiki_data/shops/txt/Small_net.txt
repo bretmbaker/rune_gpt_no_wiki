@@ -1,0 +1,171 @@
+[Shop: Small_net]
+
+Small fishing net
+
+
+
+
+
+
+
+Released | 11 June2001(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Options | Drop
+
+Examine | Useful for catching small fish.
+
+
+
+Values
+
+
+
+Value | 5 coins
+
+High alch | 3 coins
+
+Low alch | 2 coins
+
+Weight | 4.535 kg
+
+Respawn time | 100 ticks (60 seconds)
+
+
+
+Grand Exchange
+
+
+
+Exchange | 245coins (info)
+
+Buy limit | 40
+
+Daily volume | 13,107
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 303
+
+Link | MOID
+
+
+
+Asmall fishing netis used to catchfishsuch asshrimps,anchovies,karambwanji,minnows, andmonkfish. Nets can be purchased from variousfishing shopsfor 5coins. It can also be obtained for free from either theFishing tutorsouth ofLumbridgenear the coast east of theswamp, or from theSpirit Anglerat theRuins of Unkah.
+
+Hunting[edit|edit source]
+
+The small fishing net, used along with arope, can also be used in theHunterskillto captureswamp lizardsandsalamanders.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Forgotten Soul | 20 | 1 | 8/128 | 
+
+Small fishing net (scenery) | N/A | 1 | Always | 
+
+Spawns[edit|edit source]
+
+Location | Members | Spawns | Map | Leagueregion
+
+Fishing Guild |  | 1 | Show map | Kandarin✓
+
+Lumbridge Swamp- by theFishing tutor |  | 2 | Show map | Misthalin✓
+
+Corsair Cove Dungeon |  | 1 | Show map | Kandarin✓
+
+Ruins of Camdozaal- nearfishing spot |  | 1 | Show map | Asgarnia✓
+
+Wilderness-western Ruins |  | 1 | Show map | Wilderness✓
+
+Burgh de Rott- southernmost house |  | 1 | Show map | Morytania✓
+
+Isle of Souls- near spinning wheel |  | 1 | Show map | Misthalin✓
+
+Ruins of Unkah- near Gita Prymes |  | 1 | Show map | Desert✓
+
+Sunset Coast[i 1] |  | 1 | Show map | Varlamore✓
+
+Shipwreck Cove[i 2] |  | 1 | Show map | Varlamore✓
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Arnold's Eclectic Supplies. | Piscatoris Fishing Colony | 2 | 6s | 5 | 2 | 2.0% |  | 
+
+Etceteria Fish | Etceteria | 5 | 1m | 6 | 3 | 3.0% |  | 
+
+Fishing Guild Shop. | Fishing Guild | 5 | 1m | 5 | 3 | 1.0% |  | 
+
+Fremennik Fish Monger | Rellekka | 5 | 1m | 6 | 3 | 3.0% |  | 
+
+Gerrant's Fishy Business. | Port Sarim | 5 | 1m | 5 | 3 | 1.0% |  | 
+
+Harry's Fishing Shop. | Catherby | 5 | 1m | 5 | 3 | 1.0% |  | 
+
+Ishmael's Fish He Sells | Ruins of Unkah | 5 | 1m | 5 | 3 | 1.0% |  | 
+
+Island Fishmonger | Miscellania | 5 | 1m | 6 | 3 | 3.0% |  | 
+
+Lovecraft's Tackle | Witchaven | 5 | 1m | 5 | 2 | 2.0% |  | 
+
+Picaria's Fishing Shop | Sunset Coast | 5 | 1m | 5 | 3 | 1.0% |  | 
+
+Tynan's Fishing Supplies | Port Piscarilius | 5 | 1m | 5 | 4 | 1.0% |  | 
+
+Warrens Fish Monger | The Warrens | 5 | 1m | 6 | 3 | 3.0% |  | 
+
+Changes[edit|edit source]
+
+Date | Changes
+
+16 March2022(update|poll) | A small fishing net can now be found in the entrance building of theFishing Guild.
+
+13 December2018(update) | Iron players can now take the net found in the Ruins in the Wilderness and in Lumbridge Swamp.
+
+Trivia[edit|edit source]
+
+Prior to theChristmas Event 2018 update, ironmen were not able to pick up small fishing nets thatspawnedon the ground, including the ones in the Wilderness near theBandit Campand in theLumbridge Swamp, due to preventing an exploit taking priority over the fix.[1][2]Iron players who disconnect whilst using small nets in a hunter activity are currently unable to pick the net back up upon logging back in. Ropes remain unaffected.
+
+References[edit|edit source]
+
+v•t•eFishing equipment
+
+Nets | SmallBigDrift
+
+Rods | Fishing(Pearl)Oily(Pearl)Fly fishing(Pearl)Barbarian(Pearl)
+
+Harpoons | HarpoonBarb-tailDragon(or)Infernal(or)CrystalTrailblazerEcho
+
+Bait | Fishing baitDark fishing baitDesert baitCave wormsFeather(stripy)SandwormsKing wormFish chunksRaw karambwanji
+
+Other | Fishbowl and netLobster potKarambwan vesselRod with net

@@ -1,0 +1,143 @@
+[Minigame: Clue_box]
+
+Clue box
+
+
+
+
+
+
+
+Released | 25 September2014(Update)
+
+Members | Yes
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Drop
+
+Examine | Protects your clue scroll if you die.
+
+
+
+Values
+
+
+
+Value | 10 coins
+
+High alch | 6 coins
+
+Low alch | 4 coins
+
+Weight | 0.005 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 239,250coins (info)
+
+Buy limit | 50
+
+Daily volume | 131
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 12789
+
+Link | MOID
+
+
+
+Aclue boxallows a player to keep a singleclue scrollorreward casketon death in theWildernesswhen it is held in their inventory. It can be purchased fromJustine's stuff for the Last Shopper Standingfor 5Last Man Standingpoints. A scroll/casket protected by a clue box is keptin additionto other items normally kept on death. However, a clue box isalways lost on death, even if the box would normally be kept, and also even if it didn't protect a scroll/casket.
+
+Only the bottom-right most scroll/casket is protected (carrying multiple clue boxes does not produce additional effects). TheItems Kept on Deathinterface does not distinguish the scroll/casket a clue box would protect. However, the interface does indicate that the box would always be lost.
+
+Clue boxes do not protect clues forUltimate Ironmanplayers.
+
+It is recommended to avoid opening areward casketin the Wilderness while holding a clue box, as the clue box will still be lost on death along with any non-protected items gained after the casket is opened.
+
+If you die with both a clue scroll and atorn clue scroll, both will be protected.
+
+Cost vs. risk assessment[edit|edit source]
+
+To determine if a clue box is worth holding, its value must be weighed against the potential value of the scroll/casket it protects. If it is more valuable than the average expected value of the item it protects, it should not be taken. The table below compares the average expected value of each tier of reward casket against theGrand Exchangevalue of a clue box (239,250) accordingly.
+
+Reward casket | Avg. value of loot | Profit if killed once | Recommended
+
+ | Hard | 172,143.49 | −67,106.51 | No
+
+ | Elite | 416,526.73 | 177,276.73 | Yes
+
+ | Master | 880,898.20 | 641,648.20 | Yes
+
+This recommendation may not be reliable for players who can obtain new clue boxes more quickly than the scrolls/caskets they would protect, or players looking to fill slots in theCollection Log(such players may value the potential reward rolls more than the Grand Exchange value). Conversely, aniron playerwho struggles with theLast Man Standingminigame may never choose to use a clue box as the effort may be better spent on obtaining another clue scroll.
+
+It also must be considered that the cost or effort put into obtaining a clue box itself may be better spent on equipment or supplies used to prevent death in the first place. Althoughruneandblack dragonhidearmour combined and high-healing foods may not guarantee a saved scroll/casket every time, they may be more cost or time efficient in the long run.
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Justine's stuff for the Last Shopper Standing | Last Man Standinglobby | ∞ | N/A | 5 | N/A | 0.0% |  | N/A
+
+v•t•eLast Man Standing
+
+Exclusive gameplay items | WeaponsMorrigan's javelinStatius's warhammerVesta's longswordZuriel's staffPotionsSaradomin brewSuper restoreSanfew serumRanging potionSuper combat potionOtherRune pouchBloody keyBloodier key | Weapons | Morrigan's javelinStatius's warhammerVesta's longswordZuriel's staff | Potions | Saradomin brewSuper restoreSanfew serumRanging potionSuper combat potion | Other | Rune pouchBloody keyBloodier key
+
+Weapons | Morrigan's javelinStatius's warhammerVesta's longswordZuriel's staff
+
+Potions | Saradomin brewSuper restoreSanfew serumRanging potionSuper combat potion
+
+Other | Rune pouchBloody keyBloodier key
+
+Rewards | Deadman armourDeadman's chestDeadman's legsDeadman's capeHalosArmadylBandosSerenAncientBrassicaOrnament kitsGranite clamp(Granite maul (clamp),Granite maul (ornate handle, clamp))Steam staff upgrade kit(Battlestaff) (Mystic staff)Lava staff upgrade kit(Battlestaff) (Mystic staff)Dragon pickaxe upgrade kit(Pickaxe)Ward upgrade kit(Malediction) (Odium)Green dark bow paintYellow dark bow paintWhite dark bow paintBlue dark bow paintVolcanic whip mixFrozen whip mixVictor's capesVictor's cape (1)Victor's cape (10)Victor's cape (50)Victor's cape (100)Victor's cape (500)Victor's cape (1000)OtherWilderness crabs teleportTrouver parchmentSwift bladeGuthixian icon(Staff of balance)Saradomin's tear(Saradomin's blessed sword)Clue boxOrnate maul handleMagic shortbow scroll(Bow)Ring of wealth scroll(Ring)Target teleport scroll | Deadman armour | Deadman's chestDeadman's legsDeadman's cape | Halos | ArmadylBandosSerenAncientBrassica | Ornament kits | Granite clamp(Granite maul (clamp),Granite maul (ornate handle, clamp))Steam staff upgrade kit(Battlestaff) (Mystic staff)Lava staff upgrade kit(Battlestaff) (Mystic staff)Dragon pickaxe upgrade kit(Pickaxe)Ward upgrade kit(Malediction) (Odium)Green dark bow paintYellow dark bow paintWhite dark bow paintBlue dark bow paintVolcanic whip mixFrozen whip mix | Victor's capes | Victor's cape (1)Victor's cape (10)Victor's cape (50)Victor's cape (100)Victor's cape (500)Victor's cape (1000) | Other | Wilderness crabs teleportTrouver parchmentSwift bladeGuthixian icon(Staff of balance)Saradomin's tear(Saradomin's blessed sword)Clue boxOrnate maul handleMagic shortbow scroll(Bow)Ring of wealth scroll(Ring)Target teleport scroll
+
+Deadman armour | Deadman's chestDeadman's legsDeadman's cape
+
+Halos | ArmadylBandosSerenAncientBrassica
+
+Ornament kits | Granite clamp(Granite maul (clamp),Granite maul (ornate handle, clamp))Steam staff upgrade kit(Battlestaff) (Mystic staff)Lava staff upgrade kit(Battlestaff) (Mystic staff)Dragon pickaxe upgrade kit(Pickaxe)Ward upgrade kit(Malediction) (Odium)Green dark bow paintYellow dark bow paintWhite dark bow paintBlue dark bow paintVolcanic whip mixFrozen whip mix
+
+Victor's capes | Victor's cape (1)Victor's cape (10)Victor's cape (50)Victor's cape (100)Victor's cape (500)Victor's cape (1000)
+
+Other | Wilderness crabs teleportTrouver parchmentSwift bladeGuthixian icon(Staff of balance)Saradomin's tear(Saradomin's blessed sword)Clue boxOrnate maul handleMagic shortbow scroll(Bow)Ring of wealth scroll(Ring)Target teleport scroll
+
+Scenery | ChestDead treeFog markerScoreboard
+
+Other | LisaJustineWizardJustine's stuff for the Last Shopper StandingLast Man Standing (music track)Rune berserker shield(failed poll)Vending shrine(removed)
+
+Historical gameplay items | Item packsAdamant arrow packRune arrow packElemental rune packCatalytic rune packOtherAncient magicks tabletSpearSurvival tokenSuper energyPrayer potionStamina potion | Item packs | Adamant arrow packRune arrow packElemental rune packCatalytic rune pack | Other | Ancient magicks tabletSpearSurvival tokenSuper energyPrayer potionStamina potion
+
+Item packs | Adamant arrow packRune arrow packElemental rune packCatalytic rune pack
+
+Other | Ancient magicks tabletSpearSurvival tokenSuper energyPrayer potionStamina potion

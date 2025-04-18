@@ -1,0 +1,1 @@
+Secateurs attachmentsare a stackable item used inWoodcutting. When in the inventory or stored in aforestry kit, they will increase the amount ofleavesgained when cutting trees (a 1/4 chance for every log cut) by an additional leaf, consuming a Secateurs attachment.

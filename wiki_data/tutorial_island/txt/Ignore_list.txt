@@ -1,0 +1,11 @@
+[Page: Ignore List]
+
+TheIgnore Listtab is found in theFriends Listtab by clicking on the red sad face on the top right of the tab.
+It is used to block messages from certain players. A player "ignoring" a specific person cannot hear that person in public or private chat. However, unlike turning Private Chat "off", the player doing the ignoring does not appear offline to the person being ignored.
+Should players wish to return to theFriends List, they may click on the yellow smiley face while in the ignore list tab.
+The maximum amount of ignored players is 100 forfree-to-playplayers and 400 formembers. The list can be purged daily of permanently banned or muted accounts by turning on the option in thesettingsmenu.
+Two new options have been added allowing players to have permanently banned or muted accounts removed from theirIgnore list.
+If your friends or ignore list is empty, there will now be some text displayed rather than showing a blank space.
+When adding players to your ignore list their recently sent messages will now be hidden.
+The Friends and Ignore lists will now hold 400 names.
+9mago-Crabby

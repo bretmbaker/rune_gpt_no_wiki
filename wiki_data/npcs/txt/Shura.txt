@@ -1,0 +1,2 @@
+Item: Shura
+Summary: Shura is a siren who acts as an Item Retrieval Service for players to reclaim their lost items after a death when fighting The Nightmare. Retrieving items costs 60,000 coins. Note that if the player dies a second time anywhere without reclaiming the items Shura is holding, they will be permanently lost, unless the death occurs within a safe minigame, such as the TzHaar Fight Cave.

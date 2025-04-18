@@ -1,0 +1,151 @@
+[Spell: Flames_of_Zamorak]
+
+Flames of Zamorak
+
+
+
+
+
+
+
+Released | 22 September2003(Update)
+
+Members | Yes
+
+Level | 60
+
+Spellbook | Standard
+
+Type | Combat
+
+Experience | 35
+
+Element | God
+
+Base max hit | •20Charged & Zamorak cape worn:•30
+
+Runes | 142
+
+Casting speed | 5 ticks
+
+Quest | Mage Arena
+
+Description | Summons the power of Zamorak
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Flames of Zamorakis acombat spellin thestandard spellbook, requiring 60Magicand the completion ofMage Arena Ito cast. In addition, players must also be wielding aZamorak staff,staff of the dead,Thammaron's sceptre (a),accursed sceptre (a), ortoxic staff of the dead; all but the first are able toautocastthe spell.
+
+Initially, the spell can only be cast within theMage Arenaagainst thebattle mages. Upon casting the spell 100 times (regardless of whether it was asuccessful hitor not), the spell becomes usable outside the arena.
+
+Flames of Zamorak has a maximum hit of 20. Upon a successful hit, the spell reduces the target'sMagiclevel by 1 + 5%.[1]This decrease does not stack nor will it reapply itself until the opponent returns to their base Magic level. Since Magic level affectsmagic defence, this causes subsequent attacks to be more accurate; however, the spell's max hit will not be increased.
+
+Like the othergod spells, the maximum hit is temporarily increased to 30 while theChargespell is active and the respectivegod capeis worn.
+
+Damage[edit|edit source]
+
+Calculator[edit|edit source]
+
+Please input the data and submit the form.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+421 | 665
+
+Combo runes
+
+421 | 669
+
+214 | 753
+
+24 | 856
+
+214 | 1,045
+
+421 | 783
+
+Off-hands
+
+21 | 645
+
+Note that since Flames of Zamorak requires a Zamorak staff, staff of the dead, Thammaron's sceptre (a), accursed sceptre (a), or toxic staff of the dead, rune-providing staves cannot be used. However, a tome of fire can be worn to provide infinite fire runes. This does not grant the damage boost from the tome and will not consume its charges. Also, the staff of the dead and the toxic staff of the dead provide a (1/7) chance to negate rune cost.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+5 June2024(update) | The spell is no longer classified as afire spell, as it was not intended to benefit from theelemental weaknessadjustments that were part ofProject Rebalance.
+
+5 January2017(update) | The spell was made into a fire spell for the purpose of dealing increased damage against theice demon.
+
+References[edit|edit source]
+
+v•t•eMage Arena
+
+Inhabitants | KolodionLundailGundaiChamber guardianBattle mage
+
+God staves | GuthixSaradominZamorak
+
+God capes | Guthix(max)Saradomin(max)Zamorak(max)
+
+God spells | Claws of GuthixSaradomin StrikeFlames of ZamorakCharge
+
+Scenery | BarrelColumnSparkling poolStatue of GuthixStatue of SaradominStatue of Zamorak
+
+Related | Mage Arena IMage Arena IIMage bank
+
+v•t•eMage Arena I
+
+NPCs | KolodionChamber guardianBattle mage
+
+God staves | GuthixSaradominZamorak
+
+God capes | Guthix(max)Saradomin(max)Zamorak(max)
+
+God spells | Claws of GuthixSaradomin StrikeFlames of ZamorakCharge
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

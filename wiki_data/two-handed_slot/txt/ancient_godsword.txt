@@ -1,0 +1,78 @@
+[Weapon: Ancient Godsword]
+
+
+Theancient godswordis one of the five variants of theGodswordcreated by using anancient hilt, obtained fromNex, on a completedgodsword blade. As with all godsword variants, it requires level 75Attackto wield.
+The design of the hilt bears theZarosiansymbol and was created under Nex's orders after her escape from theAncient Prison. Though the hilt was created, it never saw usage, as the four armies of the gods joined forces to imprison Nex once more before the weapon could be completed.
+
+
+[Infobox]
+Released: 5 January2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Dismantle, Drop
+Examine: A mysterious, heavy sword.
+General Store Value: 1,250,000 coins
+High alch: 750,000 coins
+Low alch: 500,000 coins
+Weight: 10 kg
+Grand Exchange Value: 32,294,598 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 371
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +132
+- Crush: +80
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +132
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +8
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player usesBlood Sacrifice, the ancient godsword's special attack.
+Like all godswords, the ancient godsword has aspecial attack:Blood Sacrifice. In addition to doubled accuracy, it inflicts damage with a 10% higher maximum hit than a normal attack, consuming 50% of the player's special attack energy.
+Upon asuccessful hit, the target will be marked for sacrifice and will have eight ticks (4.8 seconds) to move at least five tiles away from the attacker. If the target fails to do so, they will take 25 magic damage, and the attacker will be healed for 15% of the target's max Hitpoints level, up to a cap of 25 against NPCs and 15 against players. The sacrifice must deal the full 25 damage in order to receive the full healing effect, otherwise the attacker will only be healed for the damage done by the sacrifice up to the max of 15%. PrayingProtect from Magicwill notreduce the sacrifice damage.
+The magic damage will always hit 0 oncyclopesin theWarriors' Guild, as with all non-melee damage there.
+It is possible to stack the special attack on the same target, dealing 25 damage before the effect of the second special attack activates, resulting in a total damage of 50.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Araxxor/Strategies(Melee)
+3 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | General Graardor/Strategies(Advanced Tank)
+4 | K'ril Tsutsaroth/Strategies(Solo Melee)
+3 | Kalphite Queen/Strategies(High DPS (Phase One))
+1 | Kalphite Queen/Strategies(Max Mage (0 switches))
+2 | Sulliuscep/Strategies
+2 | Sulliuscep/Strategies
+3 | Vardorvis/Strategies(Melee)

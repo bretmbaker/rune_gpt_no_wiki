@@ -1,0 +1,55 @@
+[Weapon: Nature Tiara]
+
+
+Anature tiarais ahead slotitem used to trainRunecraft. It is created at theNature Altarby using atiaraornature talismanon the altar with both in your inventory. This consumes the nature talisman, and yields 45 Runecraftexperience. Accessing the Nature Altar throughGuardians of the Riftcannotbe used for imbuement.
+When a nature tiara is equipped, themysterious ruinsto the Nature Altar will have a left-click "Enter" option, freeing up an inventory slot that the nature talisman would otherwise occupy.
+
+
+[Infobox]
+Released: 13 June2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A tiara infused with the properties of nature.
+General Store Value: 100 coins
+High alch: 60 coins
+Low alch: 40 coins
+Weight: 1 kg
+Grand Exchange Value: 25 coins
+Grand Exchange Daily Buy Limit: 40
+Grand Exchange Daily Trades Volume: 2,581
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Magpie impling jar | N/A | 1 | 1/21 | 
+Magpie impling | 65; 75 | 1 | 1/21 | 

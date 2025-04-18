@@ -1,0 +1,49 @@
+[Weapon: Opal Bolts]
+
+
+Opal boltsarebronze boltstipped withopal bolt tips. Opal bolts can be created through theFletchingskill for players of level 11 or above. Use achiselon a cutopalto make 12 opal bolt tips. Attaching opal bolt tips also requires a Fletching level of 11, and for each opal bolt tip attached to a bronze bolt, a player is granted 1.6 Fletching experience. Once the opal bolt tips have been attached, the bronze bolts become opal bolts.
+Opal bolts can be enchanted through the spellEnchant Crossbow Bolt (Opal)by a player with level 4Magic. The spell enchants 10 opal bolts at a time, and once they are enchanted they becomeenchanted opal boltsand gain a special ability.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Opal tipped Bronze crossbow bolts.
+General Store Value: 7 coins
+High alch: 4 coins
+Low alch: 2 coins
+Weight: 0 kg
+Grand Exchange Value: 45 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 48,853
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +14
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

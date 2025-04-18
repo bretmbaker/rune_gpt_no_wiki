@@ -1,0 +1,22 @@
+[Minigame: Smol_heredit]
+
+Smol Hereditis apetthat can be obtained from completing theFortis Colosseumby defeatingSol Heredit. The pet is the child of the Sol Heredit. Players may also exchangeDizana's quiversby speaking toMinimusfor an additional 1/200 chance at receiving the pet.
+
+Unlike other boss pets which are generally a tertiary drop after defeating the boss, Smol Heredit is not, being awarded as a main drop if rolled on.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Rewards Chest (Fortis Colosseum)Wave 12 | N/A | 1 | 1/200 | 
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+

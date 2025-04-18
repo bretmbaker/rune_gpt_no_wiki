@@ -1,0 +1,4 @@
+Item: Baby mole
+Summary: 
+Sources:
+- Giant Mole (Level 230, Quantity: 1, Rarity: 1/3,000)

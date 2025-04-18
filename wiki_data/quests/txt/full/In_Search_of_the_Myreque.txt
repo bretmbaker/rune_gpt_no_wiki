@@ -1,0 +1,139 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+In Search of the Myreque (#68)
+
+
+
+
+
+Released | 10 January 2005 ( Update )
+
+Also called | ISOM, In Search
+
+Members | Yes
+
+Quest series | Myreque , #1
+
+Lead developer(s) | Tytn H
+
+
+
+In Search of the Myreque is a quest taking place in Morytania . The enigmatic stranger Vanstrom Klause asks you to deliver weapons to an organisation called the Myreque , but things do not turn out to be as they seem.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Vanstrom Klause at the Hair of the Dog tavern in Canifis . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | Canifis is experiencing an upsurge in new faces and a new stranger has appeared with a job to track down some local heroes known only as "The Myreque". The Myreque are fighting a desperate battle against the darkness of Morytania and he wishes to take them weapons to aid in the battle. Can you help him out?
+
+Requirements | Completion of the following quests: Nature Spirit Priest in Peril The Restless Ghost 25 Agility ( boostable ) The ability to defeat a level 97 foe ( safespottable )
+
+Items required | A steel longsword 2 steel swords A steel mace A steel warhammer A steel dagger 225 steel nails Note: It takes 9 steel bars to make all of steel items required (excluding nails, which can be purchased at the Sawmill ; including nails, the amount is 24 steel bars). 39 Smithing is needed to smith these steel items. To make it a bit easier to obtain these as an Ironman, one can buy the two swords, longsword, and dagger from the Varrock Swordshop , mace from Flynn's Mace Market in Falador and the warhammer from Keldagrim's Vigr's Warhammers . A Druid pouch containing at least 5 charges Note: The pouch takes 3 per fill (need 6 Mort myre fungus or 3 Mort myre pear or Mort myre stem to have enough charges). A hammer or Imcando hammer 6 planks 10 coins or a ring of charos (a)
+
+Recommended | 45 Combat level 43 Prayer (for Protect from Melee ) The Silver sickle (b) to fill the druid pouch and to collect fungi Prayer potions Food Mort'ton teleports
+
+Enemies to defeat | Skeleton Hellhound (level 97)
+
+League notes | Unlocking Morytania ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Starting out [ edit | edit source ]
+
+Speak to Vanstrom Klause , a man in maroon-brown clothes, in the north-east corner of the Hair of the Dog tavern in Canifis . You can use a fairy ring with the code C K S to get there. He tells you about the Myreque , an organisation fighting vampyres , which is currently low on weapons and needs an arsenal of steel weapons to survive; Vanstrom doesn't have the time to bring the weapons to his friends he has never actually met yet. If you agree to help Vanstrom, he will also tell you about a boatman in Mort'ton who is rumoured to be able to show you the Myreque hideout.
+
+Mort'ton [ edit | edit source ]
+
+Items required: Druid pouch (must have 5 charges), blessed silver sickle (if refilling the pouch), 6 normal planks , a hammer , 225 steel nails , combat gear (for level 97 Skeleton Hellhound ), 10 coins or ring of charos (a) , steel longsword , 2 steel swords , steel mace , steel warhammer , steel dagger (all the steel weapons must be held in your inventory at the same time). You will also need the planks, unless you have completed the Shades of Mort'ton quest and opened the general store.
+
+Note: The end of this quest culminates in a small boss fight against a level 97 Skeleton Hellhound . Players should be prepared to fight once entering the Myreque Hideout. The beast isn't especially difficult for mid-leveled players, but lower-leveled players should be prepared.
+
+Go to Mort'ton . You can walk on foot, but beware that the ghasts on the way will drain charges from your Druid pouch . Make sure to have plenty of charges because five items are needed in your pouch when you reach your destination. A way around this is to take six Mort myre fungus so that you can fill the pouch twice once you arrive in Mort'ton. Alternative methods of reaching Mort'ton include the Swamp Boaty located at The Hollows , reachable on foot or with fairy ring B K R (closer to Canifis), B I P (west of Mort'ton through the winding path; 50 Agility needed), a Mort'ton teleport , the Grouping teleport to Shades of Mort'ton , or a Barrows teleport .
+
+Convincing Cyreg Paddlehorn [ edit | edit source ]
+
+Find Cyreg Paddlehorn . He is located on the eastern edge of Mort'ton, near his boat at the bridge leading to the Barrows. Attempt to persuade him to bring you to the Myreque . Cyreg will be very secretive about how to find them though, so you will have to choose the correct sequence of responses to make him feel guilty in order for him to allow you to use his boat. The steel weapons must all be in the inventory to continue dialogue, so Ironmen may choose to come back with the planks if inventory space is a challenge. Choose the following responses in this order:
+
+Well, I guess they'll just die without weapons... (2) Resourceful enough to get their own steel weapons? (2) If you don't tell me, their deaths are on your head! (3) What kind of man are you to say that you don't care? (3)
+
+He will decline to take you himself, allowing you to take it yourself instead, but you must have six wooden planks . They are sold in Razmire Builders Merchants , Mort'ton 's general store , but you must have (partially) completed Shades of Mort'ton and cured Razmire Keelgan with Serum 208 to use it. Do not repair the bridge before talking to Cyreg (if you already have, you will still need to bring the planks and nails). When you give him three of the planks, he will give you directions and you can now finally board the boat, though he won't let you travel unless you are carrying your druid pouch with at least five charges. (A blessed silver sickle is recommended to refill your pouch.) Also, be sure to take the Swamp Boaty by paying the 10 gold or using the ring of charos (a) , or you won't be able to proceed later on in the quest.
+
+Myreque [ edit | edit source ]
+
+Once you land at The Hollows , go north, avoiding the ghasts , until you see a strange tree. Climb up to see a damaged rope bridge . Mend the bridge as you walk along, which requires 75 steel nails per plank (225 steel nails total) and three planks , and then climb down the other side of the bridge.
+
+Go north to the strange-looking hollow tree and talk to Curpile Fyod out front. Tell him you've brought the weapons for the Myreque and then answer some questions for him to prove that you are indeed telling the truth. If you fail to answer the questions correctly, you will be knocked unconscious and wake up at the boat again, but luckily the bridge will require no building the second time and your druid pouch will not need the full five charges to re-board the boat. Here are the answers to the possible questions:
+
+Question | Answer
+
+Name the only female member of the Myreque. | Sani Piliu
+
+Who is the leader of the Myreque in Mort Myre? | Veliaf Hurtz
+
+What is the name of the boatman who helps the Myreque? | Cyreg Paddlehorn
+
+Which member of the Myreque was originally a scholar? | Polmafi Ferdygris
+
+Who is the youngest member of the Myreque? | Ivan Strom
+
+What vampyre family rules over Morytania? | Drakan
+
+When you have correctly answered the guard's questions, circle around his tree to the north, and you will see a set of doors in the earth (they are unlocked after you've answered the questions). Enter and proceed to follow the path to the north west. Halfway up there is an alcove to the east and on the southern wall of this alcove is the cave entrance to enter (this texture can be a little hard to see, its in the south eastern corner of the alcove).
+
+Start off by talking to Veliaf ; then, talk to all of the others before coming back to Veliaf. It isn't necessary to actually ask any questions of them (you don't need any more info to finish the quest); just say, "I'll be back later", and talk to another one.
+
+Go back and talk to Veliaf again. He will now accept your weapons, however...
+
+Vanstrom Klause [ edit | edit source ]
+
+When finished, give the weapons to Veliaf . A cutscene ensues where a strange mist envelopes the room, and Veliaf realises that it is a vampyre . The mist shifts, revealing Vanstrom Klause , the stranger you were trying to help. He transforms into his vampyre form and kills Sani Piliu and Harold Evans with Blood Burst. After performing the murders, Vanstrom disappears, before summoning a level 97 Skeleton Hellhound (his "little gift") to finish off the remaining members. In order to regain the Myreque 's trust after having lured Vanstrom to them, you must kill the hellhound.
+
+The hellhound only has 55 Hitpoints , but hits fairly hard; lower levels should bring food . Magic is extremely effective compared to Melee , as it has no Magic Defence . If you have access to Protect from Melee , the fight will be much easier. If using Magic you can safespot the hellhound by getting it stuck on the south side of the chair located on the eastern side of the room.
+
+Talk to Veliaf Hurtz, who'll say he needs to speak to his superior in order to instate you into the Myreque; you can also ask him more questions about the Myreque and Vanstrom. Finally, ask him how to leave the hideout; he tells you about a secret passage to Canifis . Leave the chamber, and search the wall at the end of the tunnel; it will open. Now, climb up the ladder.
+
+You will surface south of the tavern. The nearby trapdoor leads back to the cave, which you can use as an alternate route back to Mort'ton in the future.
+
+Proceed back into the tavern and seek out Vanstrom Klause , only to find that Vanstrom isn't there but only a Stranger . Speak to him to complete the quest.
+
+Rewards [ edit | edit source ]
+
+2 Quest points 600 Attack experience 600 Defence experience 600 Strength experience 600 Hitpoints experience 600 Crafting experience Access to the Hollows
+
+Unlocks:
+
+Skeleton Hellhound accessible in the Nightmare Zone . Lore associated in-game Membership of The Myreque .
+
+Required for completing [ edit | edit source ]
+
+Completion of In Search of the Myreque is required for the following:
+
+In Aid of the Myreque Morytania Diary (Medium)
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+22 March 2006 ( update ) | The quest was renamed back from "In search of the Myreque" to "In Search of the Myreque".
+
+26 January - 25 June 2005 | The quest was renamed from "In Search of the Myreque" to "In search of the Myreque".
+
+v • t • e In Search of the Myreque
+
+NPCs | Vanstrom Klause Cyreg Paddlehorn Curpile Fyod Veliaf Hurtz Sani Piliu Ivan Strom Polmafi Ferdygris Harold Evans Radigad Ponfit Stranger Calsidiu Enemies Skeleton Hellhound |  | Vanstrom Klause Cyreg Paddlehorn Curpile Fyod Veliaf Hurtz Sani Piliu Ivan Strom Polmafi Ferdygris Harold Evans Radigad Ponfit Stranger Calsidiu | Enemies | Skeleton Hellhound
+
+ | Vanstrom Klause Cyreg Paddlehorn Curpile Fyod Veliaf Hurtz Sani Piliu Ivan Strom Polmafi Ferdygris Harold Evans Radigad Ponfit Stranger Calsidiu
+
+Enemies | Skeleton Hellhound
+
+Music | Stillness
+
+Related | Quick guide

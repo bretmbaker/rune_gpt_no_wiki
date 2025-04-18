@@ -1,0 +1,5 @@
+Item: Youngllef
+Summary: 
+Sources:
+- Reward Chest (The Gauntlet) (Level N/A, Quantity: 1, Rarity: 1/2,000)
+- Reward Chest (The Gauntlet) (Corrupted) (Level N/A, Quantity: 1, Rarity: 1/800)

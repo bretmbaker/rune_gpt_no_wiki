@@ -1,0 +1,6 @@
+Item: Mole claw
+Summary: Mole claws are dropped by the Giant Mole that lurks below Falador Park. It is also dropped by molanisks and experiment No.2s. Like the mole skins, mole claws can be traded to Wyson the gardener for bird nests.
+Sources:
+- Experiment No.2 (Level 109, Quantity: 1, Rarity: 1/128)
+- Giant Mole (Level 230, Quantity: 1, Rarity: Always)
+- Molanisk (Level 51, Quantity: 1, Rarity: 1/128)

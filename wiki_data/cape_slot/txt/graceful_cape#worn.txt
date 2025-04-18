@@ -1,0 +1,60 @@
+[Weapon: Graceful Cape#Worn]
+
+
+Thegraceful capeis part of thegraceful outfit, costing 40marks of gracefromGracein theRogues' Den. When worn, it reducesweightby 4 kg and increases therun energyrestoration rate by 3%; this is increased to 30% when the full outfit is worn.
+Anagility capecan be used in its place, acting as a substitute for the set effect.
+
+
+[Infobox]
+Released: 5 December2013(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A sign of your grace.
+General Store Value: 40 coins
+High alch: 24 coins
+Low alch: 16 coins
+Weight: 0.8 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyss/Strategies(Graceful)
+2 | Blast mine/Strategies
+1 | Fishing Trawler/Strategies
+3 | Guardians of the Rift/Strategies(Runecrafting)
+1 | Hallowed Sepulchre/Strategies(Agility)
+1 | Sorceress's Garden
+2 | Sulliuscep/Strategies
+1 | Volcanic Mine(Solo)
+2 | Wintertodt/Strategies(Solo)
+4 | Zalcano/Strategies(Mining)

@@ -1,0 +1,2 @@
+Item: Sandwich lady
+Summary: The sandwich lady is a random event. She appears anywhere to offer players a selection from her tray of food. Players have to be sure to take the one she offers.

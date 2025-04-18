@@ -1,0 +1,66 @@
+[Weapon: Bronze Longsword]
+
+
+Thebronze longswordis alongswordmade ofbronze. It is the weakest longsword available, and any player can wield it. It requires 2bronze barsand level 6Smithingto make, granting 25 experience. The bronze longsword is available for purchase atVarrock SwordshopinVarrock. It is rarely used due to the existence of theiron longsword, which is stronger and has the same requirements. It can be found as a drop from various monsters.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A razor sharp longsword.
+General Store Value: 40 coins
+High alch: 24 coins
+Low alch: 16 coins
+Weight: 1.814 kg
+Grand Exchange Value: 68 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 3,922
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +4
+- Slash: +5
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +3
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +7
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chaos druid | 13 | 1 | 1/128 | 
+Rusty swordPOH repair | 1 | 1 | 7/100 | 
+Rusty swordTindel Marchant | N/A | 1 | 7/100 | 
+The Whisperer | 587; 791; 1146 | 16; 24(noted) | 1/100 | 
+Zombie (Entrana Dungeon) | 25 | 1 | 1/128 | 
+ZombieLevel 13 | 13 | 1 | 1/128 | 

@@ -1,0 +1,1 @@
+Climbing ropesare items used in theCastle Warsminigame. They can be picked up from the tables on theground floor1floorof the team's castle, and can be used on the enemy castle battlements, allowing players to climb onto the castle's outer walls. Climbing ropes will disappear from the walls after a short time, and are not used often by players.

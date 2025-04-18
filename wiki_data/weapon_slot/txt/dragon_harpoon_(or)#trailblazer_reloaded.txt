@@ -1,0 +1,54 @@
+[Weapon: Dragon Harpoon (Or)#Trailblazer Reloaded]
+
+
+Thedragon harpoon (or)is adragon harpoonwith aTrailblazer tool ornament kitadded onto it. The kit gives no additional bonuses, and is only used to add aesthetics to the harpoon. It can be stored in atackle box.
+Players can select the "Change-Style" option to alternate between the Trailblazer Reloaded variant and the original Trailblazer variant.
+
+
+[Infobox]
+Released: 6 January2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Revert, Change-Style, Drop
+Examine: A very powerful harpoon in the colours of the Trailblazer League.
+General Store Value: 55,000 coins
+High alch: 33,000 coins
+Low alch: 22,000 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +38
+- Slash: +32
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +42
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence

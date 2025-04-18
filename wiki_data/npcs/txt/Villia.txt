@@ -1,0 +1,2 @@
+Item: Villia
+Summary: Villia is a historian and a customer at the Arceuus Library. She seeks certain texts within the library, and will ask the player to retrieve them. She will give players a book of arcane knowledge once a text is turned in.

@@ -1,0 +1,274 @@
+[Minigame: Death]
+
+ | Dying
+
+A player dying after reaching 0 Hitpoints.
+
+
+
+Deathoccurs when aplayer'sHitpointsreach zero; a message in theChat Interfacewill inform them:Oh dear, you are dead!. In a standard death, a player will appear at the lastrespawn pointthey set prior to dying, keeping onlythe three most valuable itemsthat they were carrying at the time of death, providing they were notskulled. All other items are placed in aGraveat the location of death. Players have 15 minutes to return to this gravestone and recover these items for a small fee before they are sent toDeath's Office, which can be more expensive but will hold the items indefinitely.
+
+Players should be aware that there aremanyexceptions to this behavior and should ensure they understand the mechanics before entering locations where they can lose everything they are carrying, such as theWildernessor instances with anItem Retrieval Service.
+
+Types of Death[edit|edit source]
+
+Death is typically referred to as either aSafeorUnsafedeath.
+
+ASafe deathis handled in way that does not incur the usual penalties for death. Players do not lose items,solo Hardcore ironmendo not lose the hardcore status and items stored in adeathbankare not destroyed. This is most common insafe minigamessuch asCastle WarsorPest Control.
+
+AnUnsafe deathwill cause players to lose items according to the area's rules, hardcore players lose status, and items stored in adeathbankwill be destroyed. The types of items lost, ability to recover them and the cost to recover them can differ greatly depending on the location this death occurred.
+
+Respawning[edit|edit source]
+
+When players die anunsafedeath they will respawn at one of severalrespawn points. By default, players respawn inLumbridge, and additional options for respawn locations can be unlocked throughquestsand one-time fees. Players who die inminigamesorraidsmay have alternate spawn locations.
+
+Falador: AfterRecruitment Drive, by talking toSir Tiffy CashieninFalador Park.Camelot: AfterKing's Ransomand theKnight Waves Training Grounds, by talking toMerlin.Edgeville: After payingKrystiliain the jailhouse inEdgevillea one-time fee of 5 millioncoins.Prifddinas: AfterSong of the Elves, talk toCrefyddin the1stfloor[UK]2ndfloor[US]of theTower of Voices.Ferox Enclave: After payingFeroxin theFerox Enclavea one-time fee of 5 million coins.Kourend Castle: AfterA Kingdom Divided, by talking toAsteros Arceuus.Civitas illa Fortis: After reaching Challenger rank at theFortis Colosseum(requiring 5,000glory), by talking toGloria.
+
+Keeping Items (Simplified)[edit|edit source]
+
+Note: There are many exceptions to these rules, and this is only meant to give a simplified introduction to the mechanic.
+
+When players die anunsafedeath.
+
+Items kept on deathare calculated. This is usually between 0 to 4 items depending on circumstance.If a player isnotskulled, they keep the three most valuable items they are carrying, this is based upon the highest effectiveGrand Exchangeoralchemyvaluein gold.If a player has theProtect Itemprayer active at the time of death, they keep one additional item, even if they are skulled.Other items depend on the location of death. When dying...In mostPvMPotions and food are dropped on the ground as aSupply pilefor other players. This behavior can be disabled in the "Gameplay" section of the settings interface with the "Food/Potions can form supply piles on death" checkbox.All other items are placed in aGraveat the death location. These items can be reclaimed for a fee by running back to this location within 15 minutes.After 15 minutes, these items are stored indefinitely inDeath's Officeand are typically more expensive to recover. Players may also pay this recovery fee to have death retrieve the items immediately without waiting.Enabling the "Gameplay" setting "Auto-equip worn items from gravestone" can make recovering gravestones in frustrating locations much simpler.In aPvMinstance with anItem Retrieval ServiceAll non-protected items are stored in that associated interface, usually retrieved by paying a fee to a specific NPC or Chest nearby the entrance.Warning: Items already in any Item Retrieval Service anywhere inGielinorare deleted uponany unsafe death. Always recover these items before entering dangerous locations!InPvPbelow 20WildernessMostuntradable itemsgo to a player's Grave at the death location.Warning: All other non-protected items are lost to the player that killed you. Untradableequipmentmay be converted to coins or tradable components and dropped for the killer.InPvPabove 20WildernessWarning: All non-protected items are lost to the player that killed you. All untradable items are converted into coins or tradable components and dropped for the killer.
+
+View items kept on death[edit|edit source]
+
+Players should frequently familiarize themselves with what items they are risking by navigating to the "Worn Equipment" interface tab and clicking "View items kept on death". This interface has more comprehensive coverage of the rules listed above.
+
+Exceptions[edit|edit source]
+
+Players should be aware that many exceptions to these rules exist. Items like theGiantsoul amuletcan bealways kept on death, while some arenever kept on death, like theLooting bag. Living creatures such asSalamandersrun away and will not be left in gravestones.Ornamental KitsandTrouver parchmentcan allow players to keep more items on death. Some itemsbreakand require additional repair fees.Bagslike theCoal bagwill drop all items they are carrying on the ground.  SomeRaidsallow multiple deaths before a player loses items to a deathbank.Ultimate ironmeneven follow different item-loss rules to standardIronmen.These are just a few examples of how varied and complex death mechanics can be.
+
+Item Recovery Fees[edit|edit source]
+
+From agravestone[edit|edit source]
+
+Mostitemsworthless than100,000can be reclaimed for free, but items worth more have a fee depending on the item's value:
+
+No fee for items worth less than 100k1,000for each reclaimed item between 100k and 1m10,000for each reclaimed item between 1m and 10m100,000for each reclaimed item equal to or above 10mThe total combined fees are capped at500,000Ironmenget a 50% discount when reclaiming items from their grave.
+
+Players have 15 minutes afterrespawningto return to their grave and collect any items inside. The 15-minute timer does not count down when a player is logged out,idlefor more than 10 seconds, or has the grave interface open.
+
+FromDeath's Office[edit|edit source]
+
+After 15 minutes have passed, items are sent toDeath's Officewhere the reclamation fee is 5% for items worth100,000or more. These items will be stored indefinitely.Ironmenget a 50% discount when reclaiming items either from their grave or Death's Office; putting the reclamation fee at 2.5%. Players can opt to have death collect these items immediately without waiting.
+
+From anItem Retrieval Service[edit|edit source]
+
+Varies widely, see theItem Retrieval Servicepage.
+
+Scenarios[edit|edit source]
+
+Protected Items[edit|edit source]
+
+When players die anunsafedeath, they will lose everything except for designatedItems Kept on Death. These items are decided selected in order of value, with the highest value determined first by effectiveGrand Exchangevalue, and then byalchemyvalueif the item lacks an effective Grand Exchange value.
+
+By default, the number of protected items is three. If a player isskulledthe number of protected items is zero. TheProtect Itemprayer always protects an additional item, no matter the skull status of a player. Players may modify an untradable item with aTrouver parchmentto automatically protect it on death both inside and outside the wilderness, although a PvP death will consume the enchantment. Additionally someOrnamented itemsautomatically count as protected when outside the wilderness.
+
+Some untradable items such as theGiantsoul amuletorBonecrusherwill also always be kept in a non-PvP death. If an item is both one of the three highest valued and an untradeable item, it will still take up one of the three slots for tradeable items.
+
+Player versus Monster death outside the Wilderness and instances[edit|edit source]
+
+Should a player die outside theWildernessin the shared overworld to a monster, and the player has not suffered anyplayer-versus-playerdamage recently, they will keep theirthree most valuable items. All the remaining items will be stored in agravewhere they died. Food and potions may instead appear as a supply pile underneath the grave, if the option is enabled in the "Gameplay" section of the settings.
+
+The grave will be visible for 15 minutes of the player being logged in, during which time players can reclaim the items from it for a fee. After 15 minutes lapse, the grave will despawn and any items left in it will be sent toDeath's Office. Items worth less than100,000are free to reclaim, but items worth more come with a 5% reclamation fee. Ironman accounts get a 50% discount when reclaiming items from both graves and Death's Office. Players can also pay the item retrieval fee using any items they don't wish to keep.
+
+Should a player die a second time with an active grave, all items dropped on the second death will be added to the current grave.
+
+Player versus Monster death outside the Wilderness and in instances[edit|edit source]
+
+Should a player die in aninstancewith anItem Retrieval Serviceavailable, the player will keep theirthree most valuable items(out of both tradeable and untradeable items) and all the other items will be stored with the object or NPC that hosts the retrieval service. If the player dies while any of their items are in an item reclaimer, those items will be permanently lost. If the player dies in an instance without an item reclaimer (e.g.Skotizo,Kraken,Corporeal Beastand manyquest bosses), they will keep their three most valuable items and untradeable items equipped or in their inventory, and all other items will be in a gravestone outside the instance.
+
+Player versus Monster death inside the Wilderness[edit|edit source]
+
+If the player dies in theWildernessbelow level 20 without receiving any damage from other players recently, they will experience a normal death.
+
+If the player dies above 20 Wilderness, most unprotected untradeables will be converted into a small fraction of their value in coins, which are then sent to the player's gravestone. There are many exceptions to this rule however, depending on the type of item left unprotected. Charged items for example will turn into their tradeable form and be sent to the gravestone, along with the charges it contained. If the untradeable item has a broken state and has been locked via using atrouver parchment, the broken version will be sent to the gravestone, while losing its locked status. Items that function as storage containers will be converted to coins in most cases, but send the items it stored to the player's grave. Some items that convert into coins in case of a PvP death, such as thebarrelchest anchor, will be sent to the gravestone instead when dying to a monster in the deep Wilderness, rather than turn into coins.
+
+If the player dies anywhere within theRevenant Caveswithout receiving any damage from other players, their death will be treated as aplayer-versus-playerdeath, and they will keep only theirthree most valuable items. The rest of the items will be converted into their tradeable form or converted into a fraction of their value in coins if they have no tradeable form and will be visible to all players immediately. These items will sit for 60 minutes up for grabs by all players, after which point they will despawn permanently.
+
+Player versus Player death inside the Wilderness[edit|edit source]
+
+If the player dies after having taken damage from another player inside theWilderness, they will undergo a death different from normal deaths listed above, with overall losses being much greater. If the player dies after taking any player damage below 20 Wilderness, the player will onlykeeptheir three most valuable protected items. Any untradeable items will either be converted into their tradeable form and be offered to the killer, or break, and the repair cost will be offered to the killer in coins and the broken item will remain in the victim's inventory. If an untradeable item does not have a tradeable form or a broken form, it will be stored in agravewhere the victim died. The rest of the tradeable items will only appear to the killer for one minute. After that period, they will become visible to all players for four minutes. After four minutes the items will disappear to everyone, and any remaining items will be removed from the game.
+
+If the player dies after taking player damage above 20 Wilderness, almost the same type of death as above occurs. However, the broken items will not remain in the victim's inventory and will be permanently lost, while the repair cost will be dropped for the killer. Other untradeable items (that do not have a tradeable form) will be converted to coins and granted to the killer. If the untradeable item has a broken state and has been locked via using atrouver parchment, it will be kept upon death but loses its locked status and the killer still obtains the repair cost in coins.
+
+Player versus Player death outside the Wilderness[edit|edit source]
+
+If a player receives damage from another player, but then exits theWildernessand dies shortly after without banking, healing, or logging out either to a monster or poison, they will not undergo a normal death. Rather, unprotected untradeables will be dropped on the floor where the player can pick them back up. The dropped items will be visible to the killer for one minute, and then visible to all players for 60 minutes after.
+
+Player versus Player death in PvP worlds[edit|edit source]
+
+Dying to another player in aPvP worldoutside of theWildernesshas the same consequences as a PvP death, depending if they died above or below level 20 Wilderness, including out of the Wilderness.
+
+Exceptions[edit|edit source]
+
+There are several items to which the above rules do not neatly apply.
+
+Themagic shortbow (i)only loses its imbued status from PvP deaths.Thering of wealth (i)will always lose its imbued status on death even when it is protected, and50,000coins will be dropped to the killer if it is aPvPdeath.Theclue boxwill always be lost on death, even if its effect would be useless or redundant, such as outside theWilderness.Thelooting bagis always lost on death, and its contents are treated as unprotected items.Any untradeable item protected by atrouver parchmentwill not be lost on death beyond 20 Wilderness, but will lose the protection granted by the parchment.Thedragonfire shield,dragonfire wardandancient wyvern shieldwill lose their charges if not protected.Theherb sackandgem bagwill always empty their contents on death.Certain items with no ground state (i.e. cannot be dropped) will always be lost on death, includingFlamtaer bag,lunar equipment,ring of charos,chronicle,steel gauntletsand its enchanted forms, themagic butterfly netandjar generator, and the degraded version of theamulet of the damned.Stacks ofamulet of glory (6)worth over100,000will have a 10% fee to reclaim from death's office.
+
+Breakable items[edit|edit source]
+
+Upon death within theWilderness(below level 20), certain untradeable items will become broken and will be kept upon death in this state. These can be repaired by using the items onPerdu(or anarmour standat a respawn point onPvP worlds); a repair fee must be paid in order for the items to be usable again.
+
+If a player dies with these items past level 20 Wilderness, they are lost completely. However, this can be avoided by bringing the item and atrouver parchmentto Perdu, who will lock the item to the player. He will charge an additional 500,000 coins (50,000 coins forbronzetoadamant defenders) to do so. Once an item is locked, it will have an(l)suffix added to its name.Upon dying past level 20 Wilderness, the item will be kept in its unbroken state, but will lose its locked status.As an exception to this rule, therune pouchcan be locked with the trouver parchment but will not be broken below level 20 Wilderness.
+
+Upon deathoutsideof the Wilderness inPvMencounters (including instances), any locked items will stay with the player. If any of those locked items are equipped, they will stay equipped after respawning; meaning the player will not have to re-equip them. As well, the item(s)will notlose its locked status. This is very useful in certain PvM situations. For example, if one died while equipped with a full set of locked elite void, the player would respawn with the full set already equipped and the items wouldkeeptheir locked status.
+
+Players who kill another player below level 20 Wilderness who has the following items in the list below will receive coins equivalent to the repair cost for their untradeable items.
+
+Item | Repair cost
+
+ | Barronite mace | 10,500
+
+ | Fire cape | 150,000
+
+ | Infernal cape | 225,000
+
+ | Ava's assembler | 240,000
+
+ | Masori assembler | 75,000
+
+ | Imbued guthix cape | 75,000
+
+ | Imbued saradomin cape | 75,000
+
+ | Imbued zamorak cape | 75,000
+
+ | Fire max cape | 150,000
+
+ | Infernal max cape | 99,000
+
+ | Assembler max cape | 99,000
+
+ | Masori assembler max cape | 99,000
+
+ | Imbued guthix max cape | 99,000
+
+ | Imbued saradomin max cape | 99,000
+
+ | Imbued zamorak max cape | 99,000
+
+ | Bronze defender | 1,000
+
+ | Iron defender | 2,000
+
+ | Steel defender | 2,500
+
+ | Black defender | 5,000
+
+ | Mithril defender | 15,000
+
+ | Adamant defender | 25,000
+
+ | Rune defender | 35,000
+
+ | Dragon defender | 240,000
+
+ | Avernic defender | 1,000,000
+
+ | Void melee helm | 160,000
+
+ | Void mage helm | 160,000
+
+ | Void ranger helm | 160,000
+
+ | Void knight top | 180,000
+
+ | Elite void top | 250,000
+
+ | Void knight robe | 180,000
+
+ | Elite void robe | 250,000
+
+ | Void knight gloves | 120,000
+
+ | Void knight mace | 20,000
+
+ | Decorative armour (gold) | 5,000
+
+ | Decorative magic armour | 5,000
+
+ | Decorative ranged armour | 5,000
+
+ | Guthix halo | 25,000
+
+ | Saradomin halo | 25,000
+
+ | Zamorak halo | 25,000
+
+ | Armadyl halo | 25,000
+
+ | Bandos halo | 25,000
+
+ | Seren halo | 25,000
+
+ | Ancient halo | 25,000
+
+ | Brassica halo | 25,000
+
+ | Fighter hat | 45,000
+
+ | Ranger hat | 45,000
+
+ | Healer hat | 45,000
+
+ | Runner hat | 45,000
+
+ | Fighter torso | 150,000
+
+ | Penance skirt | 20,000
+
+ | Blood ancient sceptre | 267,396
+
+ | Ice ancient sceptre | 267,396
+
+ | Smoke ancient sceptre | 267,396
+
+ | Shadow ancient sceptre | 267,396
+
+Ornamented breakable items[edit|edit source]
+
+Special rules exist for breakable items that have an ornament kit attached to them. If a player kills another player below level 20 Wilderness who possesses one of the following items, they will receive the corresponding ornament kit as well an amount of coins equal to the repair costs of the broken base item.  However, if the ornamented breakable item is locked by way of a trouver parchment, the PKer will receive the ornament kit together with the locking fee for the breakable item instead.
+
+In all cases, players will lose their ornament kit upon a PvP death if the item is left unprotected. Nevertheless, they may still hold on to a broken version of the original item at Wilderness levels below 20, or even to the original item itself if it had been locked with a trouver parchment, regardless of the Wilderness level the death occurs in. If an item is left unprotected and unlocked above level 20 Wilderness however, its owner will receive nothing upon death.
+
+Item | Bounty
+
+ | Rune defender (t) | 35,000+
+
+ | Dragon defender (t) | 40,000+
+
+ | Void melee helm (or) | 40,000+
+
+ | Void mage helm (or) | 40,000+
+
+ | Void ranger helm (or) | 40,000+
+
+ | Void knight top (or) | 45,000+
+
+ | Void knight robe (or) | 45,000+
+
+ | Elite void top (or) | 50,000+
+
+ | Elite void robe (or) | 50,000+
+
+ | Void knight gloves (or) | 30,000+
+
+Death animation[edit|edit source]
+
+Animation overridesare available for dying, which can be toggled by speaking toDeathinhis officeand asking him to change how you die.
+
+The interface allows players to select one or more animations that play out upon death. If multiple are selected, one of the selected animations will be chosen at random.
+
+Name | Unlocked by | Animation
+
+Leagues IV - Trailblazer Reloaded | Unlocked upon consuming theTrailblazer reloaded death scroll, which can be bought as aTrailblazer Reloaded Leaguereward. | 
+
+Leagues V - Raging Echoes | Unlocked upon consuming theRaging echoes death scroll, which can be bought as aRaging Echoes Leaguereward. | 
+
+Historical death mechanics[edit|edit source]
+
+On release ofOld School RuneScape, players always keptonlytheir three most valuable items, regardless of whether they are untradeable. Due to network issues with the game servers, at least partially caused byDDoSattacks, the time for the items to appear for others and despawn was incrementally increased to 60 minutes and untradeable items were made always protected.[1][2][3]As these changes were meant as a temporary relief, Jagex considered new ways to re-implement more punishing death mechanics[4][5]and eventually settled on the current paid gravestone system[6], similar to the one used inRuneScape. This system makes deaths more punishing while largely ensuring players do not lose their items to disconnection issues.[7]
+

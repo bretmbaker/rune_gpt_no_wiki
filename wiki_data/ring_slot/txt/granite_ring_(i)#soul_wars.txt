@@ -1,0 +1,56 @@
+[Weapon: Granite Ring (I)#Soul Wars]
+
+
+Thegranite ring (i)is an imbued version of the regulargranite ringfrom theNightmare ZoneandSoul Warsminigames. It requires 50Defenceand 50Strengthto equip. The imbue upgrade costs either 500,000Nightmare Zonepoints or 250,000 with thehard tierofCombat Achievements, 200Zeal Tokens, or by using ascroll of imbuingpurchased from theEmir's Arena.
+The upgrade doubles all defensive bonuses, including the negativeMagic defencebonus.
+
+
+[Infobox]
+Released: 26 October2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Uncharge, Drop
+Examine: A solid ring.
+General Store Value: 15,000 coins
+High alch: 9,000 coins
+Low alch: 6,000 coins
+Weight: 3 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +4
+- Crush: +4
+- Magic: -4
+- Ranged: +16
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Barbarian Assault/Strategies(Ranged (mid level))
+3 | Barbarian Assault/Strategies(Melee (mid level))
+3 | Budget Cutter
+3 | Gout tuber/Strategies(Tank)
+5 | TzHaar Fight Cave/Strategies(Ranged)
+5 | TzHaar Fight Cave/Strategies(Magic)

@@ -1,0 +1,45 @@
+[Weapon: Saradomin Max Cape]
+
+
+TheSaradomin max capeis the result of combining aSaradomin capewith amax cape, during which themax hoodrequired to be in the player's inventory will automatically convert to theSaradomin max hood.
+Like the other max cape variants (a max cape combined with anothercape slotitem), the Saradomin max cape does not have the max cape's stats or perks; it only acts as a cosmetic upgrade to the Saradomin cape with the following exceptions when worn:
+
+
+[Infobox]
+Released: 19 November2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: The cape worn by only the most experienced players.
+General Store Value: 99,000 coins
+Alchemy: Not alchemisable
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +10
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +2
+- Magic: +10
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

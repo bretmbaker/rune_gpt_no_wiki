@@ -1,0 +1,69 @@
+[Weapon: Blisterwood Flail]
+
+
+Theblisterwood flailis a one-handed melee weapon created during theSins of the Fatherquest by combining ablisterwood sicklewith theIvandis flail. Should the flail be lost before quest completion, it can be reclaimed from Veliaf Hurtz in the Icyene Graveyard for 40,000 gp.
+This flail requires anAttacklevel of 50 to wield, and gives a 25% damage and 5% accuracy bonus againstvampyres.[1]Though it canautocastspells, it is outclassed as a high-prayer bonus magic weapon by anycrozier, and no spells are capable of dealing damage to vampyres.
+
+
+[Infobox]
+Released: 4 June2020(Update)
+Members: Yes
+Quest item: Sins of the Father
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Bloom, Drop
+Worn options: Bloom
+Examine: A legendary flail that has been enhanced with blisterwood.
+General Store Value: 40,000 coins
+Alchemy: Not alchemisable
+Weight: 0.001 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +30
+- Slash: +44
+- Crush: +68
+- Magic: +8
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +4
+- Crush: +2
+- Magic: +8
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +46
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Special Attack]
+A player performs the blisterwood flail's special attack,Retainer.
+The blisterwood flail retains theIvandis flail's special attack,Retainer, which traps avampyre juvenileorjuvinatethat has less than 50% hitpoints remaining, preventing it from retaliating for 30 seconds. This consumes 10% of the player's special attack energy.
+Even if the attack fails to activate, stating eitherThis spell can only be used on vampyre juveniles or vampyre juvinates.orThis spell only works against vampyres with less than half of their health remaining., it will still incur the normal attack delay, so take care not to accidentally use it in those circumstances.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Volcanic Mine(Solo)
+2 | Volcanic Mine(Group)
+1 | Vyrewatch Sentinel/Strategies(DPS)
+1 | Vyrewatch Sentinel/Strategies(AFK Prayer)

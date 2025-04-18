@@ -1,0 +1,2 @@
+Item: Hendor
+Summary: Hendor is the owner of the ore store Hendor's Awesome Ores in the Mining Guild. He only sells ores that are traded to him. Therefore, the only way his store is restocked is if players sell ores to him.

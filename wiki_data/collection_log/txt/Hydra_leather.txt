@@ -1,0 +1,4 @@
+Item: Hydra leather
+Summary: Hydra leather is dropped by the Alchemical Hydra. It is used to make ferocious gloves, by placing it on the piece of machinery just south-west of the large pool in Lithkren Vault, requiring Dragon Slayer II and a hammer. The gloves can be reverted to leather using the same machinery.
+Sources:
+- Alchemical Hydra (Level 426, Quantity: 1, Rarity: 1/514)

@@ -1,0 +1,109 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Getting Ahead (#147)
+
+
+
+
+
+Released | 25 November 2020 ( Update )
+
+Members | Yes
+
+Quest series | Twisted Tales
+
+Lead developer(s) | Mod Ed
+
+
+
+Getting Ahead is an intermediate quest , and is the first of the Twisted Tales , which are short, standalone quests taking place in Great Kourend and the Kebos Lowlands .
+
+In Getting Ahead, players are tasked with bringing back the head of a deadly beast terrorizing a local farm.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Gordon on his farm south of the Farming Guild . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | Gordon and Mary are two small-town farmers with a big problem – some heinous beastie keeps taking their livestock! Luckily they've hit upon a solution. They just need some brave adventurer to venture into the creature's lair and bring them back its head. We can't envisage any complications with such a routine matter, right?
+
+Requirements | 30 Crafting ( not boostable ) ( required to start ) 26 Construction ( not boostable ) ( required to start )
+
+Items required | Bear fur , grey wolf fur , or Fur (a Grizzly bear and bear cub spawn west of the farm and two black bears spawn east of the farm) Soft clay or a pickaxe you can use Clay rocks are found in the Kebos Lowlands mine passed during the quest; Gordon's house has a water source and a bucket spawn; There is a Bronze pickaxe spawn at the mine, stuck in some rocks. Hammer (obtainable near the cattle gate) Saw (obtainable in the shed north of the house) 2 normal planks (obtainable near the cave entrance) At least 6 nails of any kind (iron nails can be found in the workbench north of the house, and more than 6 is recommended in case you bend a few) Knife (obtainable on the kitchen table in the house) Red dye (obtainable from the shelves in the house) Pot of flour (obtainable upstairs in the house) Needle (obtainable upstairs in the house) Thread (obtainable upstairs in the house)
+
+Recommended | 45 Combat level Fast travel to the Farming Guild ( Skills necklace , Battlefront Teleport , Farming Cape or Fairy Rings to C I R ) Combat equipment to fight a level 82 beast.
+
+Enemies to defeat | Headless Beast (level-82)
+
+League notes | Kourend ✓ — location requirement
+
+Walkthrough [ edit | edit source ]
+
+A Strange Event [ edit | edit source ]
+
+Start the quest by speaking to Gordon in his and his wife's farm , just south of the Farming Guild . Ask him if he needs a hand with anything, and he'll tell you that some strange beast has been stealing his livestock, and is seeking an adventurer to help them, as the Shayzien soldiers are too busy dealing with lizardmen to help. Agree to help him, and he'll tell you he doesn't exactly know where the beast is, but he'll tell you to try asking his wife, Mary , who is in their house.
+
+Mary will tell you that the beast only comes in the night, so they've never had the chance to get a proper look at it. She suggests, however, that if the beast was coated in flour, it might be easier to track down.
+
+If you don't already have a pot of flour , go upstairs and take one. While here, take the needle and thread as well, as you'll need them later. Talk to Gordon again, who will tell you that the beast has been mainly targeting their cattle, and he had built a gate by their pen to try to keep it out. Use the pot of flour on the southern gate (just north of the bridge), and you'll begin to see a trail of flour going southward. Before tracking the beast, take the hammer by the gate to use towards the end of the quest.
+
+A Strange Beast [ edit | edit source ]
+
+Follow the trail of flour, which ends at the Kebos Lowlands mine . Before entering the cave, take the two planks by the broken rowboat and mine some clay, as it will be used later. Enter the cave to do battle with the Headless Beast .
+
+The Headless Beast uses melee attacks, and has a special attack in which it slams the ground, resulting in a large rock crashing on the player. The rock can be avoided by stepping away before it hits the ground. The beast can be safespotted by trapping it around the pond, where it will never perform the special attack.
+
+Upon killing the beast, search the skeleton nearby to receive Neilan's journal , revealing the beast was the work of a necromancer from the mainland. Return to Gordon, who refuses to pay you as you can't prove you've killed the beast.
+
+A Strange Fake [ edit | edit source ]
+
+Talk to Mary, who suggests to have you make a fake head via the use of clay modelling to fool her husband. Use a knife and a piece of soft clay to create a clay head , and return to Gordon. (If you need to soften the clay you mined at the Kebos Lowlands mine then take advantage of the bucket spawn and the sink which are in the same room as Mary.) Still not convinced, add bear fur to the head (while having a needle and thread ) to create a fur head and speak to him again. He will remain unconvinced, so add a red dye (found by searching the shelves next to the stairs in the house) to create a bloody head .
+
+The bloody head will finally convince him, and he asks that you mount the head in his house. A Mounted Head Space will appear by the staircase in the house. Players will need a hammer , saw , nails of any kind, and two planks .
+
+A hammer can be found by the gate where you poured the flour, while the saw can be found by the small barn with the ancient machinery . The workbench inside can also be searched for twenty iron nails . Planks can be found just west of the entrance to the Headless Beast Cave. After mounting the bloody head, return to Gordon once more.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 3,000 coins — If not claimed at quest completion due to no available inventory space, talk to Gordon again after the quest for the reward. 4,000 Crafting experience 3,200 Construction experience Access to a tannery in the Kebos Lowlands (speak to Mary to access tanning services)
+
+Unlocks:
+
+Headless Beast accessible in the Nightmare Zone .
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Pre-release gallery [ edit | edit source ]
+
+A tweet from the Old School RuneScape Twitter announcing the beginning of the poll Twisted Tales - Getting Ahead . A tweet from the Old School RuneScape Twitter announcing the passing of the quest in the aforementioned poll.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+Date unknown | A typo was fixed in Gordon 's greeting (Getting Ahead quest dialogue). Previously, Gordon greeted by saying "Not to bad, thanks." This was corrected to "Not too bad, thanks."
+
+Trivia [ edit | edit source ]
+
+The name of the quest is a pun, as the player must get a head, albeit a fake one, to complete the quest. This quest is similar in premise to A Porcine of Interest , which was released two months prior. In both quests, the player helps a troubled farmer kill a beast that is threatening their livestock and brings back something to prove their deed. Besides the clay head, Gordon can be shown certain other items to attempt to prove the bear was killed, resulting in additional dialogue where he is unconvinced by them. Using Neilan's journal causes him to say anyone could have written it. Using big bones causes him to say the bones could have been from anywhere. Using an ensouled bear head causes him to say the beast was more than just a mere bear, and he tells you to get back to work finding the real head. Using the Bearhead from Mountain Daughter causes him to say the head is part of a costume. The fur head has various additional crafting dialogues. Using a vial of blood or a blood pint on the fur head brings up dialogue about it being a waste, and to try using something else. Using raw bear meat on the fur head results in the chatbox stating " Whatever you're trying to do here definitely won't work. "
+
+v • t • e Getting Ahead
+
+NPCs | Gordon Mary Sergeant Neilan Redmark Enemies Headless Beast |  | Gordon Mary Sergeant Neilan Redmark | Enemies | Headless Beast
+
+ | Gordon Mary Sergeant Neilan Redmark
+
+Enemies | Headless Beast
+
+Items | Neilan's journal Clay head Fur head Bloody head
+
+Scenery | Shelves Skeleton
+
+Related | Quick guide Transcript Mounted Head Space Mounted Head

@@ -1,0 +1,48 @@
+[Weapon: Rainbow Jumper#Non-Binary]
+
+
+Therainbow jumperis anevent itemunlocked by speaking toGilbertin the flower field south-east ofBarbarian Village, after which it can be obtained fromDiangoor retrieved from atoy boxbuilt in thecostume room. It was originally received as a reward for completing the2023 Pride event.
+There are nine unique versions of the jumper representing different variants ofsexual orientationorgender identity, whose colours can be changed at any time by right-clicking the "Change" option on the jumper. When switched to another style other than the pride (rainbow) style, the item is renamed to acolourful jumper.
+
+
+[Infobox]
+Released: 7 June2023(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Change-style, Destroy
+Worn options: Change-style
+Destroy: You can get a replacement from Diango.
+Examine: Colourful, warm and fashionable!
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.3 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

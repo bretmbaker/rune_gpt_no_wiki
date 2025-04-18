@@ -1,0 +1,118 @@
+[Minigame: Void_Knight_(Pest_Control)]
+
+Void Knight
+
+
+
+
+
+
+
+Released | 18 April2006(Update)
+
+Members | Yes
+
+Combat level | N/A
+
+Examine | A powerful knight of balance.
+
+Leagueregion | Asgarnia✓
+
+
+
+Combat info
+
+
+
+Max hit | 0 (Does not attack)
+
+Aggressive | No
+
+Poisonous | No
+
+Attack style | None
+
+Attack speed | Does not attack
+
+
+
+Combat stats
+
+
+
+ |  |  |  |  | 
+
+200[1] | 1 | 1 | 50 | 50 | 1
+
+
+
+Aggressive stats
+
+
+
+ |  |  |  |  | 
+
++0 | +0 | +0 | +0 | +0 | +0
+
+
+
+Melee defence
+
+
+
+ |  | 
+
++100 | +100 | +100
+
+
+
+Magic defence
+
+
+
+ | 
+
++100 | No elemental weakness
+
+
+
+Ranged defence
+
+
+
+ |  | 
+
++100 | +100 | +100
+
+
+
+Immunities
+
+
+
+Poison | ?(edit)
+
+Venom | ?(edit)
+
+
+
+Open in DPS calculator
+
+Advanced data
+
+
+
+Monster ID | 2950
+
+Link | MOID
+
+
+
+TheVoid Knightis found at the centre of the island during the minigamePest Control. The knight has 200hitpointsand will be attacked byDefilers,ShiftersandTorchers. If the knight dies, the minigame round will be lost, therefore the knight must be protected while the player destroys the fourportals. The only way to heal the knight is by destroying the portals, each of which will restore up to 50 hitpoints.
+
+The knight that must be defended is randomly selected at the start of every game of Pest Control.
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.
+

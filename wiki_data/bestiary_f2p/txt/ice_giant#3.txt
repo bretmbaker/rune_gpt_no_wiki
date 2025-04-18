@@ -1,0 +1,189 @@
+Name: Ice giant
+Combat Level: 53
+Size: 2x2
+Info:
+- Description: He's got icicles in his beard.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 70 xp
+- Category: Ice Giants
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 2085
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Iron platelegs (1/128)
+- Mithril mace (1/128)
+- Mithril sq shield (1/128)
+- Water rune (1/128)
+- Cosmic rune (1/128)
+- Death rune (1/128)
+- Blood rune(m) (1/128)
+- Limpwurt seed(m) (1/122.4)
+- Strawberry seed(m) (1/128)
+- Marrentill seed(m) (1/134.1)
+- Jangerberry seed(m) (1/182.3)
+- Tarromin seed(m) (1/197.3)
+- Wildblood seed(m) (1/202)
+- Watermelon seed(m) (1/266.2)
+- Harralander seed(m) (1/299.4)
+- Snape grass seed(m) (1/419.2)
+- Ranarr seed(m) (1/429.9)
+- Whiteberry seed(m) (1/493.2)
+- Mushroom spore(m) (1/578.2)
+- Toadflax seed(m) (1/621)
+- Belladonna seed(m) (1/931.6)
+- Irit seed(m) (1/931.6)
+- Poison ivy seed(m) (1/1,289.8)
+- Avantoe seed(m) (1/1,397.3)
+- Cactus seed(m) (1/1,397.3)
+- Kwuarm seed(m) (1/1,863.1)
+- Potato cactus seed(m) (1/2,096)
+- Snapdragon seed(m) (1/3,353.6)
+- Cadantine seed(m) (1/4,192)
+- Lantadyme seed(m) (1/5,589.3)
+- Dwarf weed seed(m) (1/8,384)
+- Torstol seed(m) (1/16,768)
+- Mithril ore (1/128)
+- Banana (1/128)
+- Nothing (1/64.12; Never[d 1])
+- Uncut sapphire (1/128; 1/65[d 2])
+- Uncut emerald (1/256; 1/130[d 2])
+- Uncut ruby (1/512; 1/260[d 2])
+- Uncut diamond (1/2,048; 1/1,040[d 2])
+- Chaos talisman(m) (1/1,365.33; 1/693.33[d 2][d 3])
+- Nature talisman(m) (1/1,365.33; 1/693.33[d 2][d 3])
+- Loop half of key(m) (1/4,096; 1/2,080[d 2])
+- Tooth half of key(m) (1/4,096; 1/2,080[d 2])
+- Rune javelin(m) (1/4,096; 1/2,080[d 2])
+- Rune spear(m) (1/65,536; 1/3,900[d 2][d 4])
+- Shield left half(m) (1/131,072; 1/7,800[d 2][d 4])
+- Dragon spear(m) (1/174,762.67; 1/10,400[d 2][d 4])
+- Ice giant ribs(m) (1/4[d 1])
+- Ensouled giant head(m) (1/21)
+- Clue scroll (beginner) (1/40)
+- Looting bag(m) (1/3[d 2])
+- Long bone(m) (1/400)
+- Giant champion scroll(m) (1/5,000)
+- Curved bone(m) (1/5,012.5)
+- Larran's key(m) (1/318)
+- Slayer's enchantment(m) (1/264)
+- Mithril platelegs (1/62)
+- Adamant dagger (1/62)
+- Adamant mace (1/62)
+- Adamant sq shield (1/62)
+- Adamant kiteshield (1/62)
+- Rune dagger (1/62)
+- Cosmic rune (1/62)
+- Chaos rune (1/62)
+- Death rune (1/62)
+- Limpwurt seed (1/36.5)
+- Strawberry seed (1/38.2)
+- Marrentill seed (1/40)
+- Jangerberry seed (1/54.3)
+- Tarromin seed (1/58.8)
+- Wildblood seed (1/60.2)
+- Watermelon seed (1/79.3)
+- Harralander seed (1/89.3)
+- Snape grass seed (1/125)
+- Ranarr seed (1/128.2)
+- Whiteberry seed (1/147)
+- Mushroom spore (1/172.4)
+- Toadflax seed (1/185.1)
+- Belladonna seed (1/277.7)
+- Irit seed (1/277.7)
+- Poison ivy seed (1/384.5)
+- Avantoe seed (1/416.5)
+- Cactus seed (1/416.5)
+- Kwuarm seed (1/555.4)
+- Potato cactus seed (1/624.8)
+- Snapdragon seed (1/999.6)
+- Cadantine seed (1/1,249.5)
+- Lantadyme seed (1/1,666.1)
+- Dwarf weed seed (1/2,499.1)
+- Torstol seed (1/4,998.2)
+- Mithril ore (1/62)
+- Nothing (1/31.06; Never[d 1])
+- Uncut sapphire (1/62; 1/31.48[d 2])
+- Uncut emerald (1/124; 1/62.97[d 2])
+- Uncut ruby (1/248; 1/125.94[d 2])
+- Uncut diamond (1/992; 1/503.75[d 2])
+- Chaos talisman (1/661.33; 1/335.83[d 2])
+- Loop half of key (1/1,984; 1/1,007.5[d 2])
+- Tooth half of key (1/1,984; 1/1,007.5[d 2])
+- Rune javelin (1/1,984; 1/1,007.5[d 2])
+- Rune spear (1/31,744; 1/1,889.06[d 2][d 3])
+- Shield left half (1/63,488; 1/3,778.13[d 2][d 3])
+- Dragon spear (1/84,650.67; 1/5,037.5[d 2][d 3])
+- Looting bag (1/3[d 1])
+- Ensouled giant head (1/21)
+- Long bone (1/400)
+- Giant champion scroll (1/5,000)
+- Curved bone (1/5,012.5)
+- Larran's key (1/130)
+- Slayer's enchantment (1/240)
+- Blighted anglerfish (~1/10.1)
+- Blighted manta ray (~1/10.1)
+- Blighted karambwan (~1/15.2)
+- Blighted teleport spell sack (~1/15.2)
+- Blighted ancient ice sack (~1/15.2)
+- Blighted vengeance sack (~1/15.2)
+- Blighted entangle sack (~1/7.6)
+- Blighted super restore(4) (~1/30.4)
+- Revenant cave teleport (~1/30.4)
+- Dareeyak teleport (tablet) (~1/152.1)
+- Wilderness crabs teleport (~1/152.1)
+- Carrallanger teleport (tablet) (~1/152.1)
+- Paddewwa teleport (tablet) (~1/152.1)
+- Annakarl teleport (tablet) (~1/152.1)
+- Lassar teleport (tablet) (~1/152.1)
+- Kharyrll teleport (tablet) (~1/152.1)
+- Senntisten teleport (tablet) (~1/152.1)
+- Ghorrock teleport (tablet) (~1/152.1)
+- Target teleport (~1/152.1)
+- Magic shortbow scroll (~1/380.1)
+- Ring of wealth scroll (~1/380.1)
+- Trouver parchment (~1/1,520.5)
+- Looting bag note (~1/1,520.5)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 70
+Attack: 40
+Strength: 40
+Defence: 40
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 29
+Strength bonus: 31
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 3
+Crush: 2
+
+[Magic defence]
+Magic: 0
+Elemental weakness: 100% weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

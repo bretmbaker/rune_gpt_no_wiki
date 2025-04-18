@@ -1,0 +1,100 @@
+Name: Wallasalki
+Combat Level: 98
+Size: 1x1
+Info:
+- Description: A fearsome magical water creature.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 5938
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Grimy guam leaf (1/51.2)
+- Grimy marrentill (1/68.3)
+- Grimy tarromin (1/91)
+- Grimy harralander (1/117)
+- Grimy ranarr weed (1/148.9)
+- Grimy irit leaf (1/204.8)
+- Grimy avantoe (1/273.1)
+- Grimy kwuarm (1/327.7)
+- Grimy cadantine (1/409.6)
+- Grimy lantadyme (1/546.1)
+- Grimy dwarf weed (1/546.1)
+- Toadflax seed (1/642.7)
+- Irit seed (1/944)
+- Belladonna seed (1/974.5)
+- Poison ivy seed (1/1,373.1)
+- Avantoe seed (1/1,373.1)
+- Cactus seed (1/1,438.5)
+- Potato cactus seed (1/2,013.9)
+- Kwuarm seed (1/2,013.9)
+- Snapdragon seed (1/3,020.8)
+- Cadantine seed (1/4,315.4)
+- Lantadyme seed (1/6,041.6)
+- Snape grass seed (1/7,552)
+- Dwarf weed seed (1/10,069.3)
+- Torstol seed (1/15,104)
+- Air talisman (1/112)
+- Body talisman (1/112)
+- Earth talisman (1/112)
+- Fire talisman (1/112)
+- Mind talisman (1/112)
+- Water talisman (1/112)
+- Cosmic talisman (1/280)
+- Chaos talisman (1/373.3)
+- Nature talisman (1/373.3)
+- Nothing (1/256.47; Never[d 1])
+- Uncut sapphire (1/512; 1/260[d 2])
+- Uncut emerald (1/1,024; 1/520[d 2])
+- Uncut ruby (1/2,048; 1/1,040[d 2])
+- Uncut diamond (1/8,192; 1/4,160[d 2])
+- Nature talisman (1/5,461.33; 1/2,773.33[d 2])
+- Loop half of key (1/16,384; 1/8,320[d 2])
+- Tooth half of key (1/16,384; 1/8,320[d 2])
+- Rune javelin (1/16,384; 1/8,320[d 2])
+- Rune spear (1/262,144; 1/15,600[d 2][d 3])
+- Shield left half (1/524,288; 1/31,200[d 2][d 3])
+- Dragon spear (1/699,050.67; 1/41,600[d 2][d 3])
+- Clue scroll (medium) (1/128[d 1][1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 120
+Attack: 1
+Strength: 1
+Defence: 80
+Magic: 100
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 100
+Slash: 150
+Crush: 175
+
+[Magic defence]
+Magic: 250
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: -10
+Standard: -10
+Heavy: -10

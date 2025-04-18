@@ -1,0 +1,56 @@
+[Weapon: Mithril Defender#Locked]
+
+
+Themithril defenderis adefendermade ofmithril. It can be obtained by killingcyclopeson the top floor of theWarriors' Guild, but only if you have shown ablack defendertoKamfreena. It is held in the shield slot and requires 20AttackandDefenceto wield.
+If the player dies below level 20Wilderness, it will remain in the player's inventory. However, the item will be unusable and must be repaired with 15,000 coins by using the item onPerdu.
+
+
+[Infobox]
+Released: 13 June2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A defensive weapon.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +10
+- Slash: +9
+- Crush: +8
+- Magic: -3
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +10
+- Slash: +9
+- Crush: +8
+- Magic: -3
+- Ranged: -2
+
+Other Bonuses:
+- Strength: +3
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+CyclopsWarriors' Guild Rooftop | 56; 76 | 1 | 2/100 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Skotizo/Strategies(Melee)

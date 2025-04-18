@@ -1,0 +1,74 @@
+[Weapon: Staff]
+
+
+Astaffis a cheapmagic weaponwhich provides modest magical bonuses and theautocastoption when equipped. Due to not possessing anyelementalfeatures and offering poor combat stats, it is only useful as very cheap option for autocasting.
+The staff can most easily be purchased fromZaff's staff shopinVarrock. It can also be bought on theGrand Exchange, obtained through other players or dropped by various enemies.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: It's a slightly magical stick.
+General Store Value: 15 coins
+High alch: 9 coins
+Low alch: 6 coins
+Weight: 1.814 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 77 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 2,540
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: -1
+- Crush: +7
+- Magic: +4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +4
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +3
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Barbarian (Barbarian Camp)Low level | 9; 10 | 1 | 4/128 | 
+BarbarianLow level | 8; 9; 10 | 1 | 4/128 | 
+Broken staff | N/A | 1 | 57/100 | 
+Combat path starter kit | N/A | 1 | Always | N/A
+Dark wizardLow level | 7; 11 | 1 | 8/128 | 
+Dark wizardHigh level | 20; 22; 23 | 1 | 4/128 | 
+Infernal Mage | 66 | 1 | 8/128 | 
+Malevolent Mage | 162 | 1 | 8/128 | 
+Necromancer (Great Kourend) | 68 | 1 | 2/52 | 
+Necromancer | 26 | 1 | 8/128 | 
+Wizard | 9 | 1 | 8/128 | 

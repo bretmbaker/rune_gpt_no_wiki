@@ -1,0 +1,54 @@
+[Weapon: Abyssal Tentacle (Or)]
+
+
+Theabyssal tentacle (or)is anabyssal tentaclewith ashattered relics variety ornament kitadded onto it. The kit gives no additional bonuses, and is only used to add aesthetics to the tentacle.
+Whilst in its ornamented state, the item can be reverted anytime, returning the abyssal tentacle and kit.
+
+
+[Infobox]
+Released: 16 March2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Check, Dissolve, Dismantle kit
+Worn options: Check
+Examine: A weapon plucked from the shattered abyss, embedded in a spiked chain.
+General Store Value: 289,800 coins
+High alch: 173,880 coins
+Low alch: 115,920 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +90
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +86
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Flick | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lash | Slash | Controlled |  | +1 Attack, Strength, Defence
+ | Deflect | Slash | Defensive |  | +3 Defence

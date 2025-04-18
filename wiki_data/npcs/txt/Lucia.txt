@@ -1,0 +1,2 @@
+Item: Lucia
+Summary: Lucia is a street urchin in Civitas illa Fortis, south-west of the bazaar. She can tell the player which houses are currently unoccupied as part of the stealing valuables activity at the cost of 15 valuables (or free for those with the Gladiator rank at the Fortis Colosseum).

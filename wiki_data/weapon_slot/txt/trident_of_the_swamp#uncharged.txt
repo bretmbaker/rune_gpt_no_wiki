@@ -1,0 +1,108 @@
+[Weapon: Trident Of The Swamp#Uncharged]
+
+
+Thetrident of the swampis apowered staffrequiring 78Magicto wield. It is a direct upgrade of thetrident of the seas, made with level 59Craftingby using amagic fangon it with achisel, which is a reversible process. However, unlike its predecessor, the trident can only be listed for sale on theGrand Exchangewhen it is fully uncharged.
+The trident possesses apassive effectwhereinsuccessful hitswith either the built-in spell or a manually-cast combat spell have a 25% chance of inflictingvenomon the opponent. If the player is wearing aserpentine helm, the chance is increased to 100% if the target is a monster. If using a manually-cast spell, the staff must contain at least one charge for it to be able to apply venom, although this will not use up any charges.
+
+
+[Infobox]
+Released: 8 January2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Check, Dismantle, Drop
+Worn options: Check
+Examine: It needs to be charged with death runes, chaos runes, fire runes and Zulrah's scales.
+General Store Value: 78,000 coins
+High alch: 46,800 coins
+Low alch: 31,200 coins
+Weight: 1.814 kg
+Grand Exchange Value: 5,242,484 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 1,294
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +25
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +15
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Magic | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Magic
+ | Accurate | Magic | Accurate | 7 tiles |  | +3 Magic
+ | Longrange | Magic | Longrange | 9 tiles |  | +1 Magic, +3 Defence
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyssal Sire/Strategies(Phase 1 Magic)
+3 | Adamant dragon/Strategies(Magic)
+2 | Ancient Wyvern/Strategies(Magic)
+3 | Artio/Strategies(Magic)
+3 | Barbarian Assault/Strategies(Magic)
+3 | Barrows/Strategies(Magic equipment)
+1 | Barrows/Strategies(Tank & Lower level)
+3 | Callisto/Strategies(Magic)
+3 | Chambers of Xeric/Challenge Mode(Magic)
+3 | Chambers of Xeric/Challenge Mode/Strategies(Magic)
+4 | Chambers of Xeric/Challenge Mode/Strategies(Vespula)
+3 | Chambers of Xeric/Strategies(Magic)
+3 | Chambers of Xeric/Strategies(Melee Vanguard)
+4 | Chambers of Xeric/Strategies(Baby Muttadile)
+3 | Chambers of Xeric/Strategies(Great Olm)
+3 | Crazy archaeologist/Strategies(Magic)
+3 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Dagannoth Kings/Strategies(Magic (Rex only))
+3 | Deranged archaeologist/Strategies(Magic)
+5 | Drake/Strategies(Magic)
+3 | Fortis Colosseum/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(Budget)
+3 | Fortis Colosseum/Strategies(Melee)
+3 | General Graardor/Strategies(Solo (Magic))
+3 | Kraken/Strategies(Magic)
+3 | Lava dragon/Strategies(Magic)
+3 | Metal dragons/Strategies(Magic)
+3 | The Mimic/Strategies(Magic)
+4 | Mithril dragon/Strategies(Magic)
+3 | The Nightmare/Strategies(Mage)
+4 | Phantom Muspah/Strategies(Magic & Ranged)
+3 | Phosani's Nightmare/Strategies(Mage)
+2 | Revenants/Strategies(Magic)
+4 | Rune dragon/Strategies(Magic)
+3 | Scorpia/Strategies(Magic)
+2 | Slayer task/Fossil Island wyverns(Magic)
+2, 3 | Theatre of Blood/Hard Mode(Magic)
+2, 3 | Theatre of Blood/Strategies(Magic)
+2 | Theatre of Blood/Strategies(Mage Nylocas Vasilias)
+4 | Thermonuclear smoke devil/Strategies(Magic)
+3 | Tombs of Amascut/Strategies(Magic switch)
+3 | Tombs of Amascut/Strategies(Akkha)
+3 | Tombs of Amascut/Strategies(Wardens (Phase 2))
+5 | Tormented Demon/Strategies(Magic switch)
+2 | Ultimate Ironman Guide/Equipment
+2 | The Whisperer/Strategies(Magic)
+3 | Zulrah/Strategies(Magic)

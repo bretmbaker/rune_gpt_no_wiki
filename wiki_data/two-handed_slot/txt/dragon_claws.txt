@@ -1,0 +1,81 @@
+[Weapon: Dragon Claws]
+
+
+Dragon clawsare a two-handed melee weapon obtained as a rare reward from theChambers of Xeric, and require level 60Attackto equip. They are notable for their special attack, which can quickly deal a high amount of damage, making them a popular weapon forPKing.
+They are a possible reward when opening achestwith abloody keyin theLast Man Standingminigame.
+
+
+[Infobox]
+Released: 5 January2017(Update)
+Also called: Dclaws
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A set of fighting claws.
+General Store Value: 205,000 coins
+High alch: 123,000 coins
+Low alch: 82,000 coins
+Weight: 0.907 kg
+Grand Exchange Value: 68,133,950 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 1,386
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +41
+- Slash: +57
+- Crush: -4
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +13
+- Slash: +26
+- Crush: +7
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +56
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+Slice and DiceA player performing the dragon claws' special attack,Slice and Dice.
+These claws feature aspecial attack,Slice and Dice, which drains 50% of the special attack bar and hits an enemy four times in succession, which is commonly used byPKersas a finisher. The damage calculation rolls against the opponent's slash defence.[1]
+The damage dealt by the special attack depends on which of the four strikes miss. All fractions described below are rounded down. Due to a lack of sources, there may be minor errors in this description:
+Each of the four attacks has the same accuracy as an ordinary attack, until one of the attacks manages to successfully hit. After an attack hits, all remaining attacks will also successfully hit the target. All successful hits will deal damage, as described below."4-2-1-1". If the first attack hits, then its max hit will be 1 point less than the max hit of an ordinary attack. The minimum hit will be half of the ordinary max hit. The second hit will deal half of the first hit. The third hit will deal half of the second. The fourth hit will deal 1 more damage than the third hit.[2]A realistic example of a full attack is 35–17–8–9."0-4-2-2". If the first hit is 0 and the second one hits, then the second hit will deal between about 3/8 and 7/8 of the ordinary maximum hit. The remaining hits will follow the same process as above. An example of this situation is 0–30–15–16."0-0-3-3". If the first two attacks hit 0–0, the third attack will deal between about 1/4 and 3/4 of the ordinary max hit. The fourth hit still matches the third hit as usual. For example, 0–0–22–23."0-0-0-5". If the claws' first 3 hits are zeros, the last hit (if successful) will deal between 0.25x and 1.25x ordinary damage. e.g.: 0–0–0–46."0-0-0-0". If all hits miss, there is a ~2/3 chance of dealing 2 damage (1-1-0-0, 0-0-1-1, 1-0-1-0, or 0-1-0-1) and a ~1/3 chance of hitting 0–0–0–0.
+The shorthand names, like "4-2-1-1", give a rough idea of the total damage dealt, but are not fully accurate. The expected total damage is as follows[3]:
+If all attacks hit, the damage dealt is between 1x and 2x the ordinary max hit. This is 3 times more damage, on average, than an ordinary successful attack.If the second strike is the first to hit, the total is between 0.75x and 1.75x of the ordinary max hit, or about 2.5x of the ordinary successful hit.If the third strike is the first to hit, the total is between 0.5x and 1.5x of the ordinary max hit, or about 2x of the ordinary successful hit.If the fourth strike is the first to hit, the total is between 0.25x and 1.25x of the ordinary max hit, or about 1.5x of the ordinary successful hit.
+Against a weak enemy, where a hit is nearly guaranteed, a special attack from the dragon claws will deal about 3x as much as a normal attack.
+Against an enemy with extremely high defence, where most or all player attacks will typically miss, the expected damage can scale to as high as 9x the damage of a normal attack, because the repeated accuracy checks give a high chance of hitting an opponent that is normally very resistant.
+In practice, against most bosses, the average damage will be somewhere in between. For example, if the player has 50% accuracy with claws at a certain boss, then the special attack does as much damage on average as about five normal attacks.
+If the player is on aSlayertask (and using aSlayer helmetorBlack mask) wearing maximum strength gear, the highest possible hit sequence is 49–24–12–13, totalling up to98. Against players, the highest sequence is 44-22-11-12, totalling up to89. Althoughdragon daggercan hit higher (up to 108 and 100 respectively), its special attack rolls the two hits independently and it is less accurate, making high hits less consistent. Similarly, whilecrystal halberdcan also hit very high in one special attack against a large monster, its slower attack speed and independent rolls make it perform worse on average.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ancient chest | N/A | 1 | 3/69 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1, 4 | Tombs of Amascut/Strategies(Core (Phase 2))

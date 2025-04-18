@@ -1,0 +1,51 @@
+Name: Vespula
+Combat Level: N/A[1]
+Size: 5x5
+Info:
+- Description: Queen of the Abyssal Vespine. Her lifeforce is sustained by her connection to the Abyss.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 7530,7531,7532
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 200
+Attack: 150
+Strength: 150
+Defence: 88
+Magic: 88
+Ranged: 150
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: -8
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: -8
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 70
+Elemental weakness: 50% weakness
+
+[Ranged defence]
+Light: 20
+Standard: 60
+Heavy: 60

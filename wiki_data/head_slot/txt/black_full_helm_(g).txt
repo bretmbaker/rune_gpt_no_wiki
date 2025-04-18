@@ -1,0 +1,54 @@
+[Weapon: Black Full Helm (G)]
+
+
+Black full helm (g)is a part ofblack gold-trimmed armourand a reward fromeasyTreasure Trails. It has the same stats as a normalBlack full helm, and requires level 10Defenceto wear. This itemcannotbe made via theSmithingskill.
+This item can be stored in thetreasure chestof acostume room, as part of theblack gold-trimmed armour.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 5 May2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Black full helmet with gold trim.
+General Store Value: 1,056 coins
+High alch: 633 coins
+Low alch: 422 coins
+Weight: 2.721 kg
+Grand Exchange Value: 83,822 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 103
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +12
+- Slash: +13
+- Crush: +10
+- Magic: -1
+- Ranged: +12
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 1/1,404 | 

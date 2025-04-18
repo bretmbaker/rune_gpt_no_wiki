@@ -1,0 +1,1 @@
+Attack mixis abarbarian potionthatboostsa player'sAttacklevel by 12%, rounded down to the nearest level, and heals 3Hitpoints. It can be made by addingroeorcaviarto anattack potion(2), requiring level 4Herbloreand giving 8experience. This mix can only be created after completing theHerblorepart ofBarbarian trainingwithOtto Godblessed.

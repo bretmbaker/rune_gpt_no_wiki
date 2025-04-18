@@ -1,0 +1,1 @@
+Antipoison mixis abarbarian potionthat curespoison, provides immunity to poison for 90 seconds, and heals 3Hitpoints. It is made by addingroeorcaviarto anantipoison(2), requiring level 6Herbloreand giving 12experience. Adding caviarwill notincrease the amount of health restored. This mix can only be created after completing theHerblorepart ofBarbarian trainingwithOtto Godblessed.

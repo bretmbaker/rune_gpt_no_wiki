@@ -1,0 +1,79 @@
+[Weapon: Treasonous Ring]
+
+
+Thetreasonous ringis a ring dropped byVenenatisandSpindel.
+It can be imbued into atreasonous ring (i)using 650,000Nightmare Zonereward points or 325,000 with thehard tierofCombat Achievements, 260Soul Warszeal tokens, or ascroll of imbuing, purchased for 200Emir's Arenareward points, doubling the stab attack and stab defence bonuses to +8.
+
+
+[Infobox]
+Released: 26 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A razor sharp ring.
+General Store Value: 50,000 coins
+High alch: 30,000 coins
+Low alch: 20,000 coins
+Weight: 0.4 kg
+Grand Exchange Value: 88,780 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 473
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +4
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Spindel | 302 | 1 | 1/716 | 
+Venenatis | 464 | 1 | 1/512 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Alchemical Hydra/Strategies(Melee)
+5 | Ancient Wyvern/Strategies(Prayer)
+4 | Ancient Wyvern/Strategies(Melee)
+5 | Galvek Speed-Trialist(Melee)
+5 | Glough Speed-Trialist(Melee)
+2 | Gout tuber/Strategies(Tank)
+5 | Grotesque Guardians/Strategies(Melee)
+2 | King Black Dragon/Strategies(Melee BIS smuggle)
+2 | King Black Dragon/Strategies(4-item melee)
+4 | Metal dragons/Strategies(Melee)
+5 | Mithril dragon/Strategies(Melee)
+5 | Mithril dragon/Strategies(Melee tank)
+5 | Nightmare Zone/Strategies(Melee (Prayer))
+5 | Rune dragon/Strategies(Melee)
+4 | Sarachnis/Strategies(Melee)
+4 | Slayer task/Fossil Island wyverns(Melee)
+5 | Slayer task/Fossil Island wyverns(Prayer)
+4 | Slayer task/Suqah(Melee (South))
+4 | Slayer task/Trolls(Melee (Mountain trolls))
+4 | Slayer task/Trolls(Melee (Ice trolls))

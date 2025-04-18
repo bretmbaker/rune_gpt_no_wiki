@@ -1,0 +1,37 @@
+Name: Whale
+Combat Level: 196
+Size: 4x4
+Info:
+- Description: ? (edit)
+
+Slayer Info:
+
+Immunities:
+- Poison: ? (edit)
+- Venom: ? (edit)
+- Monster ID: beta14282,beta14283
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 360
+Attack: 50
+Strength: None
+Defence: 100
+Magic: None
+Ranged: 25
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

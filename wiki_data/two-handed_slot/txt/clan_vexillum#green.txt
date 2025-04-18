@@ -1,0 +1,54 @@
+[Weapon: Clan Vexillum#Green]
+
+
+Clan vexillumsare banners that players can obtain from theClerkin theClan Hub. Players must be in aclanto claim a clan vexillum andclan cloak. Unlike clan vexillums inRuneScape, clan vexillums inOld School RuneScapecannot be placed on the ground for others to see, nor do they have any teleport options.
+The clan motif that is on the vexillum can be customised in theClan Settingsinterface by those with the appropriate clan permissions. Upon closing of the customisation interface, the new clan motif will automatically update for all clan members.
+
+
+[Infobox]
+Released: 26 May2021(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destroy
+Destroy: The Clerk at the Clan Hub gives these out.
+Examine: While this is equipped, you'll see an option for recruiting people into your clan.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Lunge | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Swipe | Slash | Aggressive |  | +3 Strength
+ | Pound | Crush | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Stab | Defensive |  | +3 Defence

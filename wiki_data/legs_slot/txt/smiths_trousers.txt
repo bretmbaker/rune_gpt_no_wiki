@@ -1,0 +1,46 @@
+[Weapon: Smiths Trousers]
+
+
+Thesmiths trousersis a piece of theSmiths' Uniformset that can be purchased from theGiants' Foundryreward shopfor 4,000Foundry Reputation.
+The trousers gives a 20% chance of speeding up anvil smithing actions by 1 tick; it also gives a 20% chance to give increased progress onpreformsin theGiants' Foundry. Wearing the full set will increase this chance to 100%.
+
+
+[Infobox]
+Released: 8 June2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Is that a bit of dried blood on the waist?
+General Store Value: 340 coins
+High alch: 204 coins
+Low alch: 136 coins
+Weight: 0.71 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

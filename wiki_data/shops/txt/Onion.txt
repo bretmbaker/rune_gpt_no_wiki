@@ -1,0 +1,267 @@
+[Shop: Onion]
+
+Onion
+
+
+
+
+
+
+
+Released | 28 February2001(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Edible | Yes
+
+Options | Eat, Drop
+
+Examine | A strong smelling onion.
+
+
+
+Values
+
+
+
+Value | 3 coins
+
+High alch | 1 coin
+
+Low alch | 1 coin
+
+Weight | 0.15 kg
+
+Respawn time | 100 ticks (60 seconds)
+
+
+
+Grand Exchange
+
+
+
+Exchange | 79coins (info)
+
+Buy limit | 13,000
+
+Daily volume | 73,958
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 1957
+
+Link | MOID
+
+
+
+Onionsare afooditem that can be picked from fields aroundGielinoror grown through theFarmingskillat level 5 withonion seeds. They heal 1hitpointwhen eaten. When eaten, the messageYou eat the onion.is displayed. If eaten at full health, a message will appear saying,It's always sad to see a grown [man/woman/person] cry.. If eaten below full health, the messageIt makes your eyes water, but it does heal some health.is displayed instead. When picking onions from fields,membersmay randomly receive 1 onion seed.
+
+They are used in the following recipes:
+
+Mushroom potatoUgthanki kebabVegetable batta,veg ball,worm hole(Gnome cooking)Garden pie(temporarily boostsFarming level by 3)
+
+Onions are purchasable from various stores for3coinseach.Hudoat theGrand Treehas a stock of 10;Cobado's Groceriesa stock of 10; and theGreengrocersofMiscellaniaa stock of 10, to name a few.
+
+Unlimited onions can be taken fromteak lardersinside aplayer-owned house. They can also be gathered from theTheatre of Bloodchestif the player died during certain fights. An onion spawns on the1stfloor[UK]2ndfloor[US]of theLumbridge General Store.
+
+Members can store up to 10 onions in anempty sack, creating asack of onions. 1 sack of onions is needed to protect growingcabbagesandAsgarnian hops. Adding onions to acompost binmakes regularcompost.
+
+Two onions are used in creatingyellow dyeby taking them to eitherAggieorAli the dyer.
+
+Uses in quests[edit|edit source]
+
+Prince Ali Rescue: 2 × onions to makeyellow dyeWitch's Potion: 1 × onionGoblin Diplomacy: 2 × onions to make yellow dyeGhosts Ahoy: 2-6 × onions to make yellow dyesMourning's End Part I: 2 × onions to make yellow dyeGarden of Tranquillity: Onions are not directly needed for any specific purpose, but the player must grow one successful allotment ofonionsin order forLyrato give themyellowandpink orchid seeds.Enlightened Journey: 2 × onions to make yellow dyeEagles' Peak: 2 × onions to make yellow dyeLand of the Goblins: 2 × onions to make yellow dye
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Chopped onion |  | None | None | 1 ×Bowl1 ×Onion
+
+ | Half made batta (vegetable) |  | 28 | 40 | 1 ×Half baked batta2 ×Tomato1 ×Cheese1 ×Dwellberries1 ×Onion1 ×Cabbage
+
+ | Half made bowl (veg ball) |  | 35 | 50 | 1 ×Half baked bowl2 ×Potato2 ×Onion
+
+ | Half made bowl (worm hole) |  | 30 | 50 | 1 ×Half baked bowl4 ×King worm2 ×Onion
+
+ | Kebab mix |  | 1 | 0 | 1 ×Ugthanki & tomato1 ×Onion
+
+ | Onion & tomato |  | None | None | 1 ×Chopped tomato1 ×Onion
+
+ | Onions(10) |  | None | None | 1 ×Empty sack10 ×Onion
+
+ | Part garden pie (onion) |  | 34 | 0 | 1 ×Onion1 ×Part garden pie (tomato)
+
+ | Ugthanki & onion |  | None | None | 1 ×Chopped ugthanki1 ×Onion
+
+ | Yellow dye(Aggie) |  | None | None | 2 ×Onion5 ×Coins
+
+ | Yellow dye(Ali the dyer) |  | None | None | 2 ×Onion25 ×Coins
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Mystery boxMembers | N/A | 1 | 1/15 | 
+
+Mystery boxEntrana | N/A | 1 | 1/15 | 
+
+Onion (scenery) | N/A | 1 | Common | 
+
+Onion plant | 5 | 1 | Always | 
+
+Teak larder | N/A | 1 | Always | 
+
+Veg stall | 2 | 1 | 1/5 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Agelus' Farm Shop | Ortus Farm | 0 | 1m | 3 | 2 | 1.0% |  | 
+
+Alice's Farming shop. | Farm west ofPort Phasmatys | 0 | 1m | 3 | 2 | 1.0% |  | 
+
+Chest (Theatre of Blood) | Theatre of Blood | ∞ | N/A | N/A | N/A | 0.0% |  | 
+
+Cobado's Groceries | Civitas illa Fortis | 10 | 1m | 3 | 2 | 1.0% |  | 
+
+Faustus' Fruit and Veg | Aldarin | 10 | 1m | 3 | 2 | 1.0% |  | 
+
+Grand Tree Groceries | Grand Tree | 10 | 1m | 3 | 1 | 1.0% |  | 
+
+Greengrocer of Miscellania | Miscellania | 10 | 1m | 3 | 2 | 2.0% |  | 
+
+Island Greengrocer | Etceteria | 10 | 1m | 3 | 2 | 2.0% |  | 
+
+Miscellanian Food Shop | Miscellania and Etceteria Dungeon | 5 | 1m | 3 | 1 | 2.0% |  | 
+
+Prifddinas Foodstuffs | Prifddinas | 10 | 1m | 3 | 2 | 1.0% |  | 
+
+Richard's Farming shop. | North ofEast Ardougne | 0 | 1m | 3 | 2 | 1.0% |  | 
+
+Sarah's Farming shop. | South Falador Farm | 0 | 1m | 3 | 2 | 1.0% |  | 
+
+Vanessa's Farming shop. | Catherby | 0 | 1m | 3 | 2 | 1.0% |  | 
+
+Item spawns[edit|edit source]
+
+Location | Members | Spawns | Map | Leagueregion
+
+Lumbridge General Store-1stfloor[UK]2ndfloor[US] |  | 1 | Show map | Misthalin✓
+
+Mistrock |  | 1 | Show map | Varlamore✓
+
+Fields[edit|edit source]
+
+Onions picked up in a field will respawn after 50ticks(30 seconds).
+
+Location | Members | Spawns | Map | Leagueregion
+
+Fred the Farmer's farmhouse (north-west ofLumbridge) |  | 12 | Show map | Misthalin✓
+
+South ofMount Quidamortem |  | 9 | Show map | Kourend✓
+
+Rellekka |  | 7 | Show map | Fremennik✓
+
+Prifddinas(Crwys district) |  | 16 | Show map | Tirannwn✓
+
+Feldip Hills |  | 3 | Show map | Kandarin✓
+
+Rimmington |  | 15 | Show map | Asgarnia✓
+
+Hosidius |  | 28 | Show map | Kourend✓
+
+South of theFarming Guild |  | 12 | Show map | Kourend✓
+
+North-westHosidius |  | 10 | Show map | Kourend✓
+
+Changes[edit|edit source]
+
+Date | Changes
+
+11 July2005(update) | An "Eat" option was added.
+
+v•t•eFarmingproduce
+
+Allotments | PotatoOnionCabbageTomatoSweetcornStrawberryWatermelonSnape grass
+
+Flowers | MarigoldsRosemaryNasturtiumsWoad leafLimpwurt rootWhite lily
+
+Herbs | Guam leafMarrentillTarrominHarralanderGoutweedRanarr weedToadflaxIritAvantoeKwuarmSnapdragonCadantineLantadymeDwarf weedTorstol
+
+Hops | BarleyHammerstoneAsgarnianJute fibreYanillianKrandorianWildblood
+
+Bushes | RedberriesCadava berriesDwellberriesJangerberriesWhite berriesPoison ivy berries
+
+Trees | Willow branchLeavesAnyOakWillowMapleYewMagicRootsOakWillowMapleYewMagic |  | Willow branch | Leaves | AnyOakWillowMapleYewMagic | Roots | OakWillowMapleYewMagic
+
+ | Willow branch
+
+Leaves | AnyOakWillowMapleYewMagic
+
+Roots | OakWillowMapleYewMagic
+
+Fruit trees | AppleBananaOrangeCurry leafPineapplePapayaCoconutDragonfruit
+
+Special produce | Giant seaweedGrapesZamorak's grapesMushroomCactus spineCave nightshadePotato cactusCalquat fruitWhite tree fruitCelastrus barkWeeds
+
+Tithe Farm | GolovanovaBologanoLogavano
+
+Baskets | EmptyApplesBananasOrangesTomatoesStrawberries
+
+Sacks | EmptyPotatoesOnionsCabbages
+
+v•t•eKebabs
+
+Kebab | KebabDrunken DwarfKebab (scenery)
+
+Ugthanki kebab | UgthankiUgthanki kebab(smelling)OnionTomatoChopped onionChopped tomatoOnion & tomatoUgthanki & tomatoUgthanki & onionKebab mixRaw ugthanki meatUgthanki meatPitta breadPitta doughBurnt pitta bread
+
+Super kebab | Super kebabRed hot sauce
+
+Varlamorian kebab | Varlamorian kebab
+
+Kebab sellers | Ali the Kebab sellerEmelioKarimKjut
+
+Event | Kristmas kebabSpecial super hot kebab
+
+v•t•ePies
+
+Finished | RedberryMeatMudAppleGardenFishBotanicalMushroomAdmiralDragonfruitWildSummer
+
+Raw/uncooked | RedberryMeatMudAppleGardenFishBotanicalMushroomAdmiralDragonfruitWildSummer
+
+Part | Pie shellMud (compost)Mud (water)Garden (tomato)Garden (onion)Fish (trout)Fish (cod)Admiral (salmon)Admiral (tuna)Wild (raw bear meat)Wild (raw chompy)Summer (strawberry)Summer (watermelon)
+
+Ingredients | Pastry doughRedberriesCooked meatCompostClayCooking appleTomatoOnionCabbageTroutCodPotatoGolovanova fruit topSulliuscep capSalmonTunaDragonfruitRaw bear meatRaw chompyRaw rabbitStrawberryWatermelon
+
+Related | Pie recipe bookPie dishPumpkin pie(unobtainable)WaterRangeBake Pie(Lunar spell)

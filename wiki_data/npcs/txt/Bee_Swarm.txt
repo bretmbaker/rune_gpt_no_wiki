@@ -1,0 +1,2 @@
+Item: Bee Swarm
+Summary: Bee Swarms are NPCs that may appear in the Fortis Colosseum when the "Bees!" handicap is active. They will slowly converge on the player and deal up to 20 unblockable poison damage every tick and inflict poison starting at 1 damage. The Bee Swarm will not take recoil damage, such as from a ring of suffering (ri).

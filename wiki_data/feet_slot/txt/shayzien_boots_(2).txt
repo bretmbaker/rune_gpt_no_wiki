@@ -1,0 +1,51 @@
+[Weapon: Shayzien Boots (2)]
+
+
+TheShayzien boots (2)are boots that require 20Defenceto equip, and are part of theShayzien armour (tier 2)set.
+It is dropped by thetier 2 soldierat theCombat Ringin theShayzien Encampment. It can also be created at an anvil with 57Smithingand 1lovakite bar.
+
+
+[Infobox]
+Released: 7 January2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Dress like a tier 2 Shayzien soldier.
+General Store Value: 35 coins
+High alch: 21 coins
+Low alch: 14 coins
+Weight: 1.36 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -2
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +4
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Soldier (tier 2) | 48 | 1 | Always | 

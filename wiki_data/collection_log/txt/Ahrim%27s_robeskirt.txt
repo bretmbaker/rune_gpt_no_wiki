@@ -1,0 +1,4 @@
+Item: Ahrim's robeskirt
+Summary: Ahrim's robe skirt is a piece of magic armour worn in the legwear slot which is part of Ahrim the Blighted's set of barrows equipment. To wear Ahrim's robe skirt, a player must have 70 Defence and 70 Magic.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

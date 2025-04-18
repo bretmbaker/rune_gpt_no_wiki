@@ -1,0 +1,64 @@
+[Weapon: Excalibur]
+
+
+Excaliburis a one-handedswordand aquest itemobtained from theMerlin's Crystalquestand used in theHoly Grailquest. It requires 20Attackto wield and has similarstatsto theadamant longsword, except for 6 lessstrength bonusand 1 more magic defence.
+In the Merlin's Crystal quest, the player must use Excalibur on the crystal to smash and freeMerlin. It is obtained fromLady of the Lakeafter she tests the purity of the players spirit when giving abeggarbreadatGrum's Gold ExchangeinPort Sarim.
+
+
+[Infobox]
+Released: 27 February2002(Update)
+Members: Yes
+Quest item: Merlin's Crystal,Holy Grail
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: This used to belong to King Arthur.
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +20
+- Slash: +29
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +3
+- Crush: +2
+- Magic: +1
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +25
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing the Excalibur's special attack,Sanctuary.
+Excalibur has aspecial attack,Sanctuary, which temporarily increases the player'sDefenceby 8 and consumes 100% special attack energy.
+
+
+[Used in Recommended Equipment]
+Date | Changes
+14 June2004(update) | The item was given a special attack,Sanctuary.

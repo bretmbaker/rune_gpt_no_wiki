@@ -1,0 +1,51 @@
+[Shop: Square_shield]
+
+Square shield
+
+
+
+
+
+
+
+Slot | Shield slot
+
+Type | Melee
+
+
+
+Asquare shieldorsq shieldis a type of metalshieldwith a rectangular shape.
+
+Compared to thekiteshield, both have very strongSlashdefence. However square shields are strong againstStabattacks and weak toCrushattacks while kiteshields are vice versa. This is similar to the relation betweenplatebodiesandchainbodies; however, kiteshields will have the same or superior Stab defence to their square counterparts. While they provide less overall defence than a kiteshield, they weigh slightly less, take fewer bars to make, do not provide negative Magic defence, and have no negative Ranged attack bonus.
+
+Square Shields[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze sq shield | 0 | 0 | 0 | -6 | 0 | 5 | 6 | 4 | 0 | 5 | 0 | 0% | 0 | 0 | 3.628 | 
+
+ | Iron sq shield | 0 | 0 | 0 | -6 | 0 | 8 | 9 | 7 | 0 | 8 | 0 | 0% | 0 | 0 | 3.628 | 
+
+ | Steel sq shield | 0 | 0 | 0 | -6 | 0 | 12 | 13 | 11 | 0 | 12 | 0 | 0% | 0 | 0 | 3.628 | 
+
+ | Black sq shield | 0 | 0 | 0 | -6 | 0 | 15 | 16 | 14 | 0 | 15 | 0 | 0% | 0 | 0 | 3.628 | 
+
+ | White sq shield | 0 | 0 | 0 | -6 | 0 | 15 | 16 | 14 | 0 | 15 | 0 | 0% | 0 | 1 | 3.628 | 
+
+ | Mithril sq shield | 0 | 0 | 0 | -6 | 0 | 17 | 19 | 15 | 0 | 17 | 0 | 0% | 0 | 0 | 3.175 | 
+
+ | Adamant sq shield | 0 | 0 | 0 | -6 | 0 | 24 | 26 | 22 | 0 | 24 | 0 | 0% | 0 | 0 | 4.082 | 
+
+ | Rune sq shield | 0 | 0 | 0 | -6 | 0 | 38 | 40 | 36 | 0 | 38 | 0 | 0% | 0 | 0 | 3.628 | 
+
+ | Dragon sq shield | 0 | 0 | 0 | -6 | 0 | 50 | 52 | 48 | 0 | 50 | 0 | 0% | 0 | 0 | 3.175 | 
+
+v•t•eSquare shield
+
+Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)
+
+Gold-trimmed | GildedDragon
+
+Other | Anti-dragonDragonfire

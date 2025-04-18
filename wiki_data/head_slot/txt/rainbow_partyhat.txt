@@ -1,0 +1,47 @@
+[Weapon: Rainbow Partyhat]
+
+
+Arainbow partyhatis an untradeable event item rewarded after completing aChristmas event.
+If destroyed, a replacement can be obtained fromDiangoinDraynor Villageor from thetoy boxof acostume room.
+
+
+[Infobox]
+Released: 17 December2013(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: This hat was produced by Shanty Claws; you can get another from Diango.
+Examine: A colourful hat produced by Shanty Claws.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.056 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

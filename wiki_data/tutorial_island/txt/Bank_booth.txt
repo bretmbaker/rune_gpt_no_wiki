@@ -1,0 +1,9 @@
+[Page: Bank booth]
+
+Bank boothsare found throughout Gielinor in the majority ofbanksand allow access to the banking system.Bankerscan be found behind most booths. Players can left-click the booth to access the bank or right-click the booth and "Collect" to gain access to theirGrand Exchangelistings where they can withdraw completed trades. However, players cannot make or cancel Grand Exchange offers from this menu.
+Several bank booths are permanently closed. These cannot be used.
+The one tick delay present when you used bank booths rather than bankers in Port Phasmatys has been removed – on top of this, a bank booth in Port Phasmatys was not giving a message for players not using an amulet of ghostspeak; this has been fixed.
+Platinum Tokens - stackable, tradeable items worth 1,000 coins each - were added. Players can use any bank booth, bank chest, or banker to convert one to the other.
+A "collect-all" button has been added to the collection interface on bank booths.
+Left-click to bank is now available on bank booths.
+8mago-Crabby

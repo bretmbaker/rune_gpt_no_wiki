@@ -1,0 +1,44 @@
+[Weapon: Carpenter%27S Trousers]
+
+
+TheCarpenter's trousersare acquired fromAmy, the leader ofMahogany Homes, in exchange for 600Carpenter points. The trousers grant 0.6% bonusConstructionexperience. This is increased to 2.5% when wearing the fullCarpenter's outfit. It can be stored in amagic wardrobein a player-owned house.
+
+
+[Infobox]
+Released: 26 August2020(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: The trousers of a superior builder.
+General Store Value: 340 coins
+Alchemy: Not alchemisable
+Weight: 0.71 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

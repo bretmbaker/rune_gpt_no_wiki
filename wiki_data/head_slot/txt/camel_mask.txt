@@ -1,0 +1,46 @@
+[Weapon: Camel Mask]
+
+
+Thecamel maskis a hat that can be made during and after theEnakhra's Lamentquest, although it plays no role in the quest itself. It gives no stat bonuses, and is merely worn for aesthetic purposes.
+Players can make one by going to the middle floor ofEnakhra's Templeand using a single piece ofsoft clayon the pedestal in the middle of the room. There is no limit to how many masks you can own.
+
+
+[Infobox]
+Released: 23 January2006(Update)
+Members: Yes
+Quest item: Enakhra's Lament
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Blend in in the desert.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.5 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

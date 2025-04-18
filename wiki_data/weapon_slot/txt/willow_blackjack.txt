@@ -1,0 +1,62 @@
+[Weapon: Willow Blackjack]
+
+
+Thewillow blackjackis amelee weaponthat has no level requirement to wield and is mainly used to knockout certainNPCs. A willow blackjack can be obtained by completing the blackjack section of theRogue Traderminiquestor fromAli the OperatorduringThe Feudquest. Alternatively, it can be bought from theBlackjack sellerinPollnivneachdirectly behindAli the Kebab selleror as a reward forThe Feudquest. When fighting with a blackjack, there is a slight chance tostunthe opponent.
+There are three NPCs that can be knocked out:Villagers,BanditsandMenaphite Thugs, all located in Pollnivneach. While there is no level requirement to knock out a villager, the Bandits require level 45Thieving(or 55 for scimitar wielding ones),  and the Menaphite Thugs level 65Thieving.
+
+
+[Infobox]
+Released: 4 April2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A handy little club made out of willow.
+General Store Value: 600 coins
+High alch: 360 coins
+Low alch: 240 coins
+Weight: 1.814 kg
+Grand Exchange Value: 176 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 73
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +8
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Bandit champion | 70 | 1 | Always | 
+Tough Guy | 75 | 1 | Always | 

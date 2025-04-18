@@ -1,0 +1,7 @@
+[Page: Bronze pickaxe]
+
+Infobox:
+Bronze pickaxeReleased4 January2001(Update)MembersNoQuest itemNoPropertiesTradeableYesEquipableYesStackableNoNoteableYesOptionsWield, DropExamineUsed for mining.ValuesValue1 coinHigh alch0 coinsLow alch0 coinsWeight2.267 kgRespawn time100 ticks (60 seconds)Grand ExchangeExchange66coins (info)Buy limit40Daily volume3,141View real-time pricesLoading...Advanced dataItem ID1265LinkMOID
+
+Description:
+Abronze pickaxeis apickaxemade ofbronze. It is given to players during theMiningpart ofTutorial Islandand is part of the starting gear given to the player when leaving Tutorial Island. It mines on an 8-tickcycle, making it the slowest pickaxe.

@@ -1,0 +1,100 @@
+[Weapon: Trident Of The Seas#Partially Charged]
+
+
+Thetrident of the seasis apowered staffrequiring 75Magicto wield, available as a task-only drop fromcave krakens(or thekrakenboss) with level 87Slayer; normal cave krakens can drop an uncharged trident, whereas the kraken boss can drop a fully charged one. Similar toBarrows equipment, the trident is only tradeable when either uncharged or fully charged.
+The trident of the seas has the same effect indrift net fishingas themerfolk trident,[1]though it does not have the ability to holdpufferfishcharges (convenient for breathingunderwater).
+
+
+[Infobox]
+Released: 30 January2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Check, Drop
+Worn options: Check
+Examine: It needs to be charged with death runes, chaos runes, fire runes and coins.
+General Store Value: 68,000 coins
+High alch: 40,800 coins
+Low alch: 27,200 coins
+Weight: 1.814 kg
+Grand Exchange Value: 38,718 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 802
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +15
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Magic | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Magic
+ | Accurate | Magic | Accurate | 7 tiles |  | +3 Magic
+ | Longrange | Magic | Longrange | 9 tiles |  | +1 Magic, +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Cave kraken | 127 | 1 | 1/200 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Abyssal Sire/Strategies(Phase 1 Magic)
+3 | Adamant dragon/Strategies(Magic)
+3 | Ancient Wyvern/Strategies(Magic)
+4 | Artio/Strategies(Magic)
+4 | Barbarian Assault/Strategies(Magic)
+4 | Callisto/Strategies(Magic)
+5 | Chambers of Xeric/Challenge Mode/Strategies(Vespula)
+4 | Chambers of Xeric/Strategies(Magic)
+4 | Chambers of Xeric/Strategies(Great Olm)
+4 | Crazy archaeologist/Strategies(Magic)
+4 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Dagannoth Kings/Strategies(Magic (Rex only))
+3 | Deranged archaeologist/Strategies(Magic)
+4 | Kraken/Strategies(Magic)
+2 | Krystilia/Strategies(Magic)
+4 | Lava dragon/Strategies(Magic)
+4 | Metal dragons/Strategies(Magic)
+4 | The Mimic/Strategies(Magic)
+5 | Mithril dragon/Strategies(Magic)
+4 | The Nightmare/Strategies(Mage)
+2 | Pay-to-play Prayer training(High Magic defence)
+4 | Phantom Muspah/Strategies(Magic & Ranged)
+4 | Phosani's Nightmare/Strategies(Mage)
+2 | Revenants/Strategies(Magic)
+4 | Rune dragon/Strategies(Magic)
+4 | Scorpia/Strategies(Magic)
+2 | Scurrius/Strategies(Magic (mid level))
+4 | Scurrius/Strategies(Magic (high level))
+3 | Slayer task/Fossil Island wyverns(Magic)
+4 | Tombs of Amascut/Strategies(Magic switch)
+5 | Tormented Demon/Strategies(Magic switch)
+3 | Ultimate Ironman Guide/Equipment
+3 | The Whisperer/Strategies(Magic)
+4 | Zulrah/Strategies(Magic)

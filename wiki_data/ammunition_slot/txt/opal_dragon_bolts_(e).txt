@@ -1,0 +1,54 @@
+[Weapon: Opal Dragon Bolts (E)]
+
+
+Opal dragon bolts (e)areopal dragon boltsthat are enchanted via theEnchant Crossbow Bolt (Opal)spell by a player with level 4Magic. The spell enchants 10 bolts per cast, and uses 1cosmicand 2air runes. These bolts can only be used with aDragon crossbowor better.
+Enchanted opal dragon bolts have a chance (5%) of triggering theLucky Lightningeffect, which results in a lightning bolt striking your opponent and causing extra damage equal to 10% of your visible ranged level. For example, at 112 ranged level, the extra damage is 11.
+
+
+[Infobox]
+Released: 4 January2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Enchanted Dragon crossbow bolts, tipped with opal.
+General Store Value: 580 coins
+High alch: 348 coins
+Low alch: 232 coins
+Weight: 0 kg
+Grand Exchange Value: 3,338 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 384,906
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +122
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Vorkath/Strategies(Ranged (crossbow))

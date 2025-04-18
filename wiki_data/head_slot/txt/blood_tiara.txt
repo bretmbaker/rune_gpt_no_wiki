@@ -1,0 +1,49 @@
+[Weapon: Blood Tiara]
+
+
+Ablood tiarais ahead slotitem used inRunecraft. It is created at theBlood Altarby using atiaraorblood talismanon the altar with both in your inventory. This consumes the blood talisman and yields 52.5 Runecraftexperience. Accessing the Blood Altar throughGuardians of the Riftcannotbe used for imbuement.
+While a blood tiara is equipped, themysterious ruinsto the Blood Altar have a left-click "Enter" option, freeing up an inventory slot that the blood talisman would otherwise occupy.
+
+
+[Infobox]
+Released: 23 March2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A tiara infused with the properties of blood.
+General Store Value: 500 coins
+High alch: 300 coins
+Low alch: 200 coins
+Weight: 1 kg
+Grand Exchange Value: 187,945 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 21
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

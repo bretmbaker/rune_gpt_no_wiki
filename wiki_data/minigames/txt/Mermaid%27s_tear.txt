@@ -1,0 +1,151 @@
+[Minigame: Mermaid%27s_tear]
+
+Mermaid's tear
+
+
+
+
+
+
+
+Released | 7 September2017(Update)
+
+Members | Yes
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | No
+
+Equipable | No
+
+Stackable | Yes
+
+Noteable | No
+
+Options | Drop
+
+Examine | Not sure how it doesn't dissolve...
+
+
+
+Values
+
+
+
+Value | 1 coin
+
+High alch | 0 coins
+
+Low alch | 0 coins
+
+Weight | 0 kg
+
+
+
+Advanced data
+
+
+
+Item ID | 21656
+
+Link | MOID
+
+
+
+Mermaid's tearsare a form of currency found in theunderwatersection ofFossil Island. They can be obtained by looting various chests and clams around the eastern part under the water.
+
+Mermaid tears can be exchanged for items inMairin's Market, such asunidentified fossils, amerfolk trident,bowls of fish, orseaweed spores.
+
+Based on purchasing theMerfolk trident, which costs2,269,584 coinson the Grand Exchange, each mermaid tear is worth an average of5,674 coins.
+
+Upon reaching 0% oxygen, a random amount of tears between 10 and 20 will be lost, regardless of how many tears the players have in their inventory at the time.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Chest (Underwater) |  | 1 | 2/17 | 
+
+Clam |  | 1 | 2/17 | 
+
+Gallery[edit|edit source]
+
+One mermaid's tearTwo mermaid's tearsThree mermaid's tearsFour mermaid's tearsFive mermaid's tears
+
+Trivia[edit|edit source]
+
+Speaking withMairinreveals that mermaid tears are actually pearls which is why they don't dissolve in water.
+
+v•t•eCurrencies
+
+Tradeable | CoinsArchery ticketsNumulitesPlatinum tokensTrading sticks
+
+Untradeable | Agility arena ticketsAnima-infused barkAbyssal pearlsBarronite shardsBlood moneyBrimhaven voucherCastle wars ticketsEcto-tokensFrog tokensGolden nuggetsGlistening tearsHallowed marksMarks of graceMolch pearlsMermaid's tearsParamaya ticketsReward tokenStardustTermitesTokkulUnidentified mineralsWarrior guild tokens
+
+Virtual | Aga resinBounty Hunter pointsCarpenter pointsFoundry ReputationHonour pointsLast Man Standing pointsLeague PointsLye resinMox resinNightmare Zone reward pointsPieces of eightPizazz pointsPlauditsSlayer reward pointsQuest Speedrunning pointsVoid Knight commendation pointsZeal Tokens
+
+Discontinued | Survival tokensBounty Hunter pointsAgility arena ticket (discontinued)
+
+v•t•eFossil Island
+
+Museum Camp | Fossil StorageFossil Island bankFossil Island General StoreNotice boardNPCsCharlesDavidDogFossil CollectorJardricPeterJohnJohnMattimeoPetrified PeteShop keeperItemsFossil Island fossilsNumuliteSceneryBroken spinning wheel(built)Chest pieces(built)Fire pit(built)Half-built Loom(built)Ring of Stones(built)Table parts(built) |  | Fossil StorageFossil Island bankFossil Island General StoreNotice board | NPCs | CharlesDavidDogFossil CollectorJardricPeterJohnJohnMattimeoPetrified PeteShop keeper | Items | Fossil Island fossilsNumulite | Scenery | Broken spinning wheel(built)Chest pieces(built)Fire pit(built)Half-built Loom(built)Ring of Stones(built)Table parts(built)
+
+ | Fossil StorageFossil Island bankFossil Island General StoreNotice board
+
+NPCs | CharlesDavidDogFossil CollectorJardricPeterJohnJohnMattimeoPetrified PeteShop keeper
+
+Items | Fossil Island fossilsNumulite
+
+Scenery | Broken spinning wheel(built)Chest pieces(built)Fire pit(built)Half-built Loom(built)Ring of Stones(built)Table parts(built)
+
+Mushroom Forest | Mycelium poolWyvern CaveNPCsAncient ZygomiteIreneHerbiboarMazSquirrelWeveAmmonite CrabItemsPyrophosphiteCalcite |  | Mycelium poolWyvern Cave | NPCs | Ancient ZygomiteIreneHerbiboarMazSquirrelWeveAmmonite Crab | Items | PyrophosphiteCalcite
+
+ | Mycelium poolWyvern Cave
+
+NPCs | Ancient ZygomiteIreneHerbiboarMazSquirrelWeveAmmonite Crab
+
+Items | PyrophosphiteCalcite
+
+Tar Swamp | BellshroomSulliuscepSpine mushroomNPCsHoop SnakeCharles CharlingtonTar MonsterDeranged archaeologistItemsHoop snakeSulliuscep capUncooked mushroom pieMushroom pieBreadcrumbsArchaeologist's diary |  | BellshroomSulliuscepSpine mushroom | NPCs | Hoop SnakeCharles CharlingtonTar MonsterDeranged archaeologist | Items | Hoop snakeSulliuscep capUncooked mushroom pieMushroom pieBreadcrumbsArchaeologist's diary
+
+ | BellshroomSulliuscepSpine mushroom
+
+NPCs | Hoop SnakeCharles CharlingtonTar MonsterDeranged archaeologist
+
+Items | Hoop snakeSulliuscep capUncooked mushroom pieMushroom pieBreadcrumbsArchaeologist's diary
+
+Fossil Island Volcano | Volcanic MinePetrified Pete's Ore ShopNPCsLava beastPetrified PeteItemsSoda ashVolcanic ashVolcanic mine teleportCalcitePyrophosphiteIron ore fragmentSilver ore fragmentCoal fragmentGold ore fragmentMithril ore fragmentAdamantite ore fragmentRunite ore fragmentLarge rockAsh covered tomeHeat-proof vesselOre packDragon pickaxe (broken)SceneryAsh pileBoulder (Volcanic Mine) |  | Volcanic MinePetrified Pete's Ore Shop | NPCs | Lava beastPetrified Pete | Items | Soda ashVolcanic ashVolcanic mine teleportCalcitePyrophosphiteIron ore fragmentSilver ore fragmentCoal fragmentGold ore fragmentMithril ore fragmentAdamantite ore fragmentRunite ore fragmentLarge rockAsh covered tomeHeat-proof vesselOre packDragon pickaxe (broken) | Scenery | Ash pileBoulder (Volcanic Mine)
+
+ | Volcanic MinePetrified Pete's Ore Shop
+
+NPCs | Lava beastPetrified Pete
+
+Items | Soda ashVolcanic ashVolcanic mine teleportCalcitePyrophosphiteIron ore fragmentSilver ore fragmentCoal fragmentGold ore fragmentMithril ore fragmentAdamantite ore fragmentRunite ore fragmentLarge rockAsh covered tomeHeat-proof vesselOre packDragon pickaxe (broken)
+
+Scenery | Ash pileBoulder (Volcanic Mine)
+
+Underwater | Mairin's MarketPile of FishbowlsPlant doorClamChestHoleNPCsMerniaMairinCetoAnnettePuffer FishHarlequin FishParadise FishRed FantailFish shoalLobstrosityItemsMermaid's tearGlistening tearPufferfishDrift netMerfolk tridentSeaweed sporeBowl of fish |  | Mairin's MarketPile of FishbowlsPlant doorClamChestHole | NPCs | MerniaMairinCetoAnnettePuffer FishHarlequin FishParadise FishRed FantailFish shoalLobstrosity | Items | Mermaid's tearGlistening tearPufferfishDrift netMerfolk tridentSeaweed sporeBowl of fish
+
+ | Mairin's MarketPile of FishbowlsPlant doorClamChestHole
+
+NPCs | MerniaMairinCetoAnnettePuffer FishHarlequin FishParadise FishRed FantailFish shoalLobstrosity
+
+Items | Mermaid's tearGlistening tearPufferfishDrift netMerfolk tridentSeaweed sporeBowl of fish
+
+House on the Hill | Mycelium Transportation SystemStone chestStrange MachineStrange blocksStrange stoneNPCsSkekaItemsAncient wyvern shieldSmall enriched boneMedium enriched boneLarge enriched boneRare enriched boneFossil island note bookAncient diary |  | Mycelium Transportation SystemStone chestStrange MachineStrange blocksStrange stone | NPCs | Skeka | Items | Ancient wyvern shieldSmall enriched boneMedium enriched boneLarge enriched boneRare enriched boneFossil island note bookAncient diary
+
+ | Mycelium Transportation SystemStone chestStrange MachineStrange blocksStrange stone
+
+NPCs | Skeka
+
+Items | Ancient wyvern shieldSmall enriched boneMedium enriched boneLarge enriched boneRare enriched boneFossil island note bookAncient diary
+
+Other | Wilhelm
+
+Music | FossilisedLagoonLava is MinePreservationPreserved

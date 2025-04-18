@@ -1,0 +1,37 @@
+Name: Crystalline Bat
+Combat Level: 33
+Size: 2x2
+Info:
+- Description: They'll be gone when the morning comes.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 9028
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 14
+Attack: 24
+Strength: 68
+Defence: 2
+Magic: 2
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,54 @@
+[Weapon: Enchanted Robe]
+
+
+Theenchanted robeis the leg piece of theenchanted robesset. It requires 20Defenceand 40Magicto wear. It is a reward fromhardTreasure Trails.
+The full set consists of thehat,robe topand the enchanted robe. There are no matching boots or gloves to go with these robes.
+
+
+[Infobox]
+Released: 20 February2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Enchanted Wizards robes.
+General Store Value: 80,000 coins
+High alch: 48,000 coins
+Low alch: 32,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 49,243 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 313
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +15
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

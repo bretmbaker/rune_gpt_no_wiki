@@ -1,0 +1,55 @@
+[Weapon: Diamond Bracelet]
+
+
+Thediamond braceletis abraceletthat players can make by using agold baron afurnacewith adiamondand abracelet mouldin theirinventory. It requires aCraftinglevel of 58, and gives 95 experience when made. It offers nocombatbonuses when worn.
+Memberscan castLvl-4 Enchanton a diamond bracelet to change it into anAbyssal bracelet. This requires level 57Magic, and grants 67 experience.
+
+
+[Infobox]
+Released: 30 April2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I wonder if this is valuable.
+General Store Value: 3,825 coins
+High alch: 2,295 coins
+Low alch: 1,530 coins
+Weight: 0.25 kg
+Grand Exchange Value: 1,969 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 403,250
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Casket (Reward pool) | N/A | 3–4(noted) | 9/230 | 
+Casket (Reward pool) | N/A | 3–8(noted) | 1/230 | 

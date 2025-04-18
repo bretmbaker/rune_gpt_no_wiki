@@ -1,0 +1,1 @@
+Ablue iconis an item worn by players during a game ofSoul Wars, as well as the minigame's tutorial. The icon, alongside ablue cape, are automatically equipped by players in the blue team upon the start of a game. When a game of Soul Wars ends or the player leaves the tutorial, both the cape and icon are removed from the player.

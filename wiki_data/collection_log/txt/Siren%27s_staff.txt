@@ -1,0 +1,4 @@
+Item: Siren's staff
+Summary: The siren's staff is an item dropped by The Whisperer. It is one of four components used to create the soulreaper axe, alongside the executioner's axe head, eye of the duke, and Leviathan's lure.
+Sources:
+- The Whisperer (Level 587; 791; 1146, Quantity: 1, Rarity: 1/512)

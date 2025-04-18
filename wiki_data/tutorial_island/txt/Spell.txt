@@ -1,0 +1,3 @@
+[Page: List of spells]
+
+This is a completelist of spellsin the game, including magic from theAncient,Lunar, andArceuus spellbooks. Casting acombat spellgrants the spell's baseexperienceplus 2Magicand 1.33Hitpointsexperience for each point ofdamagethe spell caused; "splashing" the spell (casting the spell but failing) grants only its base Magic experience and no Hitpoints experience.

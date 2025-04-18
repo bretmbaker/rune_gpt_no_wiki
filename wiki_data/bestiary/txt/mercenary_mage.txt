@@ -1,0 +1,39 @@
+Name: Mercenary mage
+Combat Level: 112
+Size: 1x1
+Info:
+- Description: A spellcasting mercenary who works for the highest bidder.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 13537
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 150
+Attack: 40
+Strength: 40
+Defence: 90
+Magic: 150
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

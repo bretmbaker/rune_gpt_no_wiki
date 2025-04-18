@@ -1,0 +1,51 @@
+[Weapon: Helmet Of The Moon]
+
+
+Thehelmet of the moonis an item obtainable as a rare drop from themoon chest. It is identical to the helmet worn byChosen Aluinus, and wearing it whilst investigating the greencampfireatShipwreck Covewill result in unique dialogue from them.
+The helmet's melee defence stats are the same as aniron full helm, but with improved magic attack and defence, akin to thegnome hatsand their equivalents. Additionally, the +3 prayer bonus puts it in line withhalos. Offensively, its stats are slightly inferior to amitrebut without prayer and magic requirements.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A helmet forged from moonlight.
+General Store Value: 2,000 coins
+High alch: 1,200 coins
+Low alch: 800 coins
+Weight: 0.35 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +7
+- Crush: +5
+- Magic: +3
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (moon key) | N/A | 1 | 1/500.1 | 

@@ -1,0 +1,58 @@
+[Weapon: Trailblazer Reloaded Torch]
+
+
+TheTrailblazer reloaded torchis a cosmetic reward that is obtained alongside purchasing thetier 3 Trailblazer Reloaded Relic Hunter, which costs 18,000 League points from theLeagues Reward Shop.
+This item can be stored in thearmour caseof acostume room. It can also be displayed (with the rest of the tier 3 Trailblazer Reloaded Relic Hunter outfit) by using it on furniture built in theLeague hall'soutfit stand space.
+
+
+[Infobox]
+Released: 29 November2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Worn options: Trailblazer Relic Emote, Trailblazer Area Emote
+Examine: The torch of a Trailblazer Reloaded Relic Hunter.
+General Store Value: 15,000 coins
+High alch: 9,000 coins
+Low alch: 6,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 461,876 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 11
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Crush | Defensive |  | +3 Defence

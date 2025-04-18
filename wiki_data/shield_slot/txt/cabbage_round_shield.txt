@@ -1,0 +1,54 @@
+[Weapon: Cabbage Round Shield]
+
+
+Acabbage round shieldis obtained as a possible reward frommediumTreasure Trails. TheBrassican Magecan be seen wielding a cabbage round shield.
+It requires level 30Defenceto equip with similar stats to anadamant sq shieldexcept for -2 toRanged attack bonus.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: An adamant shield shaped like a cabbage.
+General Store Value: 3,000 coins
+High alch: 1,800 coins
+Low alch: 1,200 coins
+Weight: 4.535 kg
+Grand Exchange Value: 13,676 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 130
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +24
+- Slash: +26
+- Crush: +22
+- Magic: +0
+- Ranged: +24
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 

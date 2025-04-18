@@ -1,0 +1,98 @@
+[Weapon: Diamond Bolts (E)]
+
+
+Diamond bolts (e)areadamant boltstipped with enchanteddiamond.Diamond boltscan be enchanted by using the spellEnchant Crossbow Bolt (Diamond)by a player with 57Magic. The spell enchants 10 diamond bolts per cast and uses 2law runes, 1cosmic rune, and 10earth runes.
+Diamond bolts (e) have a 10% chance (5% chance against another player) of triggering theArmour Piercingeffect. This increases the maximum damage by 15% (26% when under the effect of theZaryte crossbow) for that hit and guarantees it will be asuccessful hit.[1][2][3][4][5]The maximum hit is calculated based on current ranged level, so if your ranged level is reduced (e.g. by brewing down) your max hit will go down too. A twinkling sound can be heard when this activates.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Also called: Enchanted diamond bolts
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Enchanted Diamond tipped Adamantite Crossbow Bolts.
+General Store Value: 211 coins
+High alch: 126 coins
+Low alch: 84 coins
+Weight: 0 kg
+Grand Exchange Value: 74 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 5,509,481
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +105
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Spindel | 302 | 60 | 5/128 | 
+Venenatis | 464 | 300 | 5/126 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Adamant dragon/Strategies(Ranged)
+4 | Ancient Wyvern/Strategies(Ranged)
+2 | Aviansie/Strategies(Ranged)
+5 | Basilisk Knight/Strategies(Ranged/Prayer)
+5 | Basilisk Knight/Strategies(Ranged)
+3 | Brutal black dragon/Strategies(Ranged)
+4 | Chaos Elemental/Strategies(Ranged)
+5 | Chaos Fanatic/Strategies(Ranged)
+2 | Commander Zilyana/Strategies(Ranged)
+4 | Dagannoth Kings/Strategies(Range)
+2 | Drake/Strategies(Ranged)
+2 | General Graardor/Strategies(Solo (Ranged 6:0))
+2 | General Graardor/Strategies(Ranged Tank)
+2 | General Graardor/Strategies(Ranged Attacker)
+5 | Giant Mole/Strategies(Ranged)
+1 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+2 | King Black Dragon/Strategies(Crossbow)
+2 | King Black Dragon/Strategies(Ranged BIS smuggle)
+2 | Kree'arra/Strategies(Chinchompas)
+2 | Kree'arra/Strategies(Ranged Tank)
+2 | Metal dragons/Strategies(Ranged)
+3 | The Mimic/Strategies(Ranged)
+3 | Mithril dragon/Strategies(Ranged)
+3 | Phantom Muspah/Strategies(Ranged)
+3 | Phantom Muspah/Strategies(Magic & Ranged)
+4 | Revenants/Strategies(Ranged)
+2 | Royal Titans/Strategies(Best-in-slot)
+2 | Royal Titans/Strategies(Mid-game)
+2 | Rune dragon/Strategies(Ranged)
+2 | Skeletal Wyvern/Strategies(Ranged (Void))
+3 | Skeletal Wyvern/Strategies(Ranged)
+2 | Skotizo/Strategies(Ranged)
+4 | Slayer task/Fossil Island wyverns(Ranged)
+4 | Spindel/Strategies(Ranged)
+3 | TzHaar Fight Cave/Strategies(Ranged)
+3 | TzHaar Fight Cave/Strategies(Early-game iron)
+4 | Venenatis/Strategies(Ranged)
+2 | Vorkath/Strategies(Ranged (crossbow))

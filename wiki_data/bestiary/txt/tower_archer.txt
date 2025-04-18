@@ -1,0 +1,53 @@
+Name: Tower Archer
+Combat Level: 19
+Size: 1x1
+Info:
+- Description: Defender of the north tower.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 6065
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 30
+Attack: 10
+Strength: 10
+Defence: 10
+Magic: 1
+Ranged: 20
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 16
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 6
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 12
+Standard: 12
+Heavy: 12

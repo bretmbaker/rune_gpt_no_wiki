@@ -1,0 +1,54 @@
+[Weapon: Saradomin Halo#Locked]
+
+
+TheSaradomin halois an item worn in the head slot that can be bought from (or sold to)Lanthusfor 75castle wars tickets.
+The Saradomin halo acts as aSaradominitem and thus prevents Saradomin followers from attacking its wearer in theGod Wars Dungeon. It also allows players to be constantly attacked byBanditsat theBandit Campin theKharidian Desert, as it is agod item.
+
+
+[Infobox]
+Released: 3 July2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Halo with the protection of Saradomin.
+General Store Value: 150,000 coins
+High alch: 90,000 coins
+Low alch: 60,000 coins
+Weight: 0.3 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +11
+- Slash: +12
+- Crush: +10
+- Magic: +11
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Abyss/Strategies(Defence)
+5 | Maniacal monkey/Strategies(Magic - Ice Burst)
+5 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+4 | TzHaar Fight Cave/Strategies(Pure)

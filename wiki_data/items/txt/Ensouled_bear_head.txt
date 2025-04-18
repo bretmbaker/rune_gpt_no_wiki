@@ -1,0 +1,1 @@
+Anensouled bear headis an item which can be dropped bybears. It is used to gainPrayerexperience by using the level 16MagicspellBasic Reanimationfrom theArceuus spellbook. When a player reanimates an ensouled bear head, areanimated bearwill appear and grant 480 Prayer experience after being killed.

@@ -1,0 +1,134 @@
+[Weapon: Avernic Defender#Locked]
+
+
+TheAvernic defenderis adefenderwielded in theshield slot, requiring 70AttackandDefenceto wield. It is obtained by combining adragon defenderwith anAvernic defender hilt. This process can be reversed to return the dragon defender, but the hilt will bedestroyedin the process. This defender boasts the higheststrength bonusof any shield slot equipment, being 1 higher than thedragonfire shield. It also has the highestmeleeattack bonusesof any shield slot equipment. The defensive bonuses are comparable to that of anadamant kiteshield.
+Ghommal's hilt 5or6can be attached to it, creatingGhommal's avernic defender 5or6respectively, giving the bonuses of the Avernic defender and the additional benefits of the hilt. This process is reversible, returning both the hilt and the defender.
+
+
+[Infobox]
+Released: 7 June2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle, Drop
+Examine: A defensive weapon.
+General Store Value: 2,500,000 coins
+High alch: 1,500,000 coins
+Low alch: 1,000,000 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +30
+- Slash: +29
+- Crush: +28
+- Magic: -5
+- Ranged: -4
+
+Defence Bonuses:
+- Stab: +30
+- Slash: +29
+- Crush: +28
+- Magic: -5
+- Ranged: -4
+
+Other Bonuses:
+- Strength: +8
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+1 | Abyssal Sire/Strategies(Phase 1 Melee)
+1 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+1 | Adamant dragon/Strategies(Melee)
+1 | Alchemical Hydra/Strategies(Melee)
+1 | Amoxliatl/Strategies(Melee)
+1 | Araxxor/Strategies(Melee)
+1 | Barbarian Assault/Strategies(Melee (high level))
+1 | Calvar'ion/Strategies(Melee)
+1 | Cerberus/Strategies(Melee)
+1 | Chambers of Xeric/Challenge Mode(Melee)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+1 | Chambers of Xeric/Strategies(Melee)
+1 | Chaos Elemental/Strategies(Melee)
+1 | Chompington(Melee)
+1 | Corporeal Beast/Strategies(Solo melee)
+2 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+1 | Dark beast/Strategies(Melee)
+1 | Demonic gorilla/Strategies(upgrades and downgrades)
+1 | Down Do Specs(Melee)
+1 | Drake/Strategies(Melee)
+1 | Duke Sucellus/Strategies(Melee)
+1 | Fortis Colosseum/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Melee)
+3 | General Graardor/Strategies(Solo (Melee))
+4 | General Graardor/Strategies(Advanced Tank)
+1 | General Graardor/Strategies(Melee Attacker)
+1 | Giant Mole/Strategies(Melee)
+1 | Glough Speed-Trialist(Melee)
+1 | Grotesque Guardians/Strategies(Melee)
+1 | Hespori/Strategies(Best-in-slot)
+5 | K'ril Tsutsaroth/Strategies(Melee Tank)
+1 | K'ril Tsutsaroth/Strategies(Solo Melee)
+1 | K'ril Tsutsaroth/Strategies(Melee)
+1 | Kalphite Queen/Strategies(Pre-diary Method)
+1 | Kalphite Queen/Strategies(High DPS (Phase One))
+1 | King Black Dragon/Strategies(Melee BIS smuggle)
+1 | Krystilia/Strategies(Melee)
+1 | Lava dragon/Strategies(Melee)
+1 | Lizardman shaman/Strategies(Melee)
+1 | Metal dragons/Strategies(Melee)
+1 | Mithril dragon/Strategies(Melee)
+1 | Moons of Peril/Strategies(Moons of Peril Armour)
+1 | Nex/Strategies(Hybrid)
+1 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+1 | Nightmare Zone/Strategies(Melee)
+1 | Nightmare Zone/Strategies(Melee (Prayer))
+1 | The Nightmare/Strategies(Melee)
+1 | Phantom Muspah/Strategies(Melee)
+1 | Phosani's Nightmare/Strategies(Melee)
+1 | Revenants/Strategies(Melee)
+1 | Royal Titans/Strategies(Best-in-slot)
+1 | Royal Titans/Strategies(Minimal gear switching)
+1 | Rune dragon/Strategies(Melee)
+1 | Sarachnis/Strategies(Melee)
+1 | Scurrius/Strategies(Melee (high level))
+1 | Skotizo/Strategies(Melee)
+1 | Slayer task/Gargoyles(Melee)
+1 | Slayer task/Jellies(Melee)
+1 | Slayer task/Nechryael(Melee)
+1 | Slayer task/Suqah(Melee (South))
+1 | Slayer task/Trolls(Melee (Mountain trolls))
+1 | Slayer task/Waterfiends(Melee)
+1 | Slayer task/Wyrms(Melee)
+1 | Slayer training(Melee)
+1 | Spindel/Strategies(Melee)
+1 | The Hueycoatl/Strategies(Melee)
+1 | Theatre of Blood/Hard Mode(Melee)
+1 | Theatre of Blood/Strategies(Learner)
+1 | Theatre of Blood/Strategies(Melee)
+1 | Thermonuclear smoke devil/Strategies(Melee)
+1 | Tombs of Amascut/Strategies(Melee switch)
+1 | Tormented Demon/Strategies(Melee switch)
+1 | TzHaar Fight Cave/Strategies(Melee)
+1 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+1 | Ultimate Ironman Guide/Equipment
+1 | Ultimate Ironman Guide/Slayer
+1 | Vardorvis/Strategies(Melee)
+1 | Venenatis/Strategies(Melee)
+1 | Vet'ion/Strategies(Melee)
+1 | Vorkath/Strategies(Melee)
+1 | Vyrewatch Sentinel/Strategies(DPS)
+1 | Vyrewatch Sentinel/Strategies(AFK Prayer)

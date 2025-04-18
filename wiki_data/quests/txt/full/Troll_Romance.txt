@@ -1,0 +1,159 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Troll Romance (#67)
+
+
+
+
+
+Released | 5 January 2005 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Simon S
+
+
+
+Troll Romance is a quest revolving around the troll Ug and his unrequited love for another troll, Aga .
+
+Details [ edit | edit source ]
+
+Start point | Speak to Ug at the Troll Stronghold . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | Ug loves Aga, but Aga is together with Arrg. Since Arrg is a lot stronger than Ug, Ug can't follow the regular mating ritual, which involves ripping the opponent into pieces. Will you be able to find out what will impress the troll female more than a display of violence? Will you survive the journey to help a lonely troll find love?
+
+Requirements | 28 Agility ( boostable ) Completion of the following quests: Troll Stronghold Death Plateau The ability to defeat a level 113 troll
+
+Items required | An iron bar Maple or yew logs Rope Climbing boots (not needed if using Trollheim Teleport ) Wax (can be made ahead of time) A bucket of wax (use insect repellent on a beehive followed by a bucket ) A cake tin Swamp tar
+
+Recommended | 50 Combat level Teleportation runes to Trollheim if completed Eadgar's Ruse A Games necklace A Slayer ring A Dramen staff or Lunar staff and partial completion of Fairytale II - Cure a Queen for access to Fairy rings Prayer potions and decent food for the fight with Arrg A Gem bag to store the reward
+
+Enemies to defeat | Arrg (level 113) ( safespottable ; difficult to reach) Note: This fight is not a safe death.
+
+Ironman concerns | 45 Woodcutting ( boostable ) to cut a maple log OR Enough combat stats and supplies to get a 1/128 drop of yew logs from Swamp Crabs (Requires completion of Priest in Peril ). OR Enough supply of Serum 208 to get a 1/128 drop of maple logs from curing Afflicted (Requires completion of Priest in Peril ). OR Throne of Miscellania completed to obtain maple logs from managing Miscellania . OR 50 Firemaking ( not boostable ) to get a maple/yew log from Reward Cart via Wintertodt . OR High enough combat stats to kill Giant Mole for a 1/12.8 drop of yew logs. 15 Smithing ( boostable ) to smelt an iron bar OR collect a spawn in level 18 Wilderness to the west of the Graveyard of Shadows . OR collect a spawn at Sunset Coast (Requires completion of Children of the Sun ).
+
+League notes | Asgarnia ✓ — location requirement Kandarin ✓ — location requirement (for a bucket of wax )
+
+Walkthrough [ edit | edit source ]
+
+The mountain map on the right shows a number of relevant locations for the Troll Romance quest:
+
+Trollheim Teleport destination requires Eadgar's Ruse Slayer ring teleport location Fairy ring with code A J R requires partial completion of Fairytale II - Cure a Queen to use Shortcut to the Stronghold Lower Level Stronghold main entrance Burthorpe Games Room (Teleport here with a games necklace or the Grouping interface.) Tenzing Dunstan Cave entrance to Trollweiss Mountain Arena for the big fight
+
+In the remainder of the walkthrough, the map numbers will be referenced in the relevant parts of the text.
+
+Consider starting Eadgar's Ruse before heading to Troll Stronghold to save time running back and forth.
+
+Ug's woes [ edit | edit source ]
+
+Speak to Ug , a weeping troll  found inside the stronghold . To get to the stronghold in this manner, use the Trollheim Teleport or walk to the western entrance in the mountains. From the teleport location ( 1 on the map), go to the south-west path. Walk past some trolls , and take a ramp on the north-western side of that area ( 5 on the map). After entering the stronghold, use the stairs at the northern side of the corridor. Once down, take the southern corridor. At the end of the corridor, go through the door leading west. Ug is in the southern part of the room.
+
+If using slayer rings ( 2 on the map), or the fairy ring ( 3 on the map) walk from the teleport location north-east to the shortcut ( 4 on the map; requires climbing boots to use) and enter the stronghold. Follow the corridor north and use the stairs in the north-eastern corner. Once up the stairs travel south down the corridor, go through the door leading west. Ug is in the southern portion of the west room.
+
+Talk to Ug to learn that he is very much in love with Aga , who, unfortunately, loves Arrg , a much stronger troll than is Ug. Offer your help; Ug will gladly accept it, promising he maybe won't eat you.
+
+You should talk to Aga , who is in the room north of Ug, accompanied by the fearsome Arrg.
+
+If you want, compliment Aga about her being big and hairy, then enquire about her love life. She is a very romantic troll: whilst Arrg is big and strong, she does not know whether he loves her. He promised to bring her a rare and beautiful Trollweiss flower, but has not done so yet. She has never heard of Ug.
+
+Talk to an angry Arrg to discover that he does not seem to be very much in love with Aga ('she good cook and wash but talk too many') and has many girlfriends. He also has no knowledge of the Trollweiss location, only promising Aga the flower to shut her up.
+
+Go talk to Ug again to tell him Aga's desire for a Trollweiss flower. He concludes he stands no chance, for no such flower has been found for years, nor will you be able to find one. He says that one who has lived their whole life in the mountains would know where to find Trollweiss , giving you an idea.
+
+Mystery of the flower [ edit | edit source ]
+
+Items required: maple or yew logs , iron bar , rope , cake tin , swamp tar , bucket of wax .
+
+A person that is knowledgeable about the mountains is Tenzing the sherpa. He lives on the path from Burthorpe to the stronghold ( 7 on the map). Use the games necklace or grouping interface to teleport to Burthorpe. From the teleport location, go west and then north-west up the path. At the wounded soldier , go south-west on the winding mountain path to Tenzing's hut ( 7 on the map).
+
+Tenzing explains that Trollweiss used to grow everywhere but has been disappearing lately. It definitely remains in the ice troll area, but that is very dangerous and impossible to reach. You would have to reach a certain plateau at the bottom of a slope that has been snowed over. He mentions that a sled may be useful for getting to that plateau, although you would not be able to get back up. Dunstan knows more about making a sled, as he has often helped Tenzing with his boots.
+
+Dunstan is the Burthorpe smith, whose house is north-east of the Burthorpe Castle ( 8 on the map). Talk to him and ask for a sled. He says you are too old to be playing in the snow, but you explain that you need to reach a particular location on Trollweiss Mountain . He will agree to help you as you have often helped his family. After some thinking, he requests that you bring him the following materials: maple or yew logs , an iron bar and a coil of rope . If you want, ask him about his son , who has been training with the Imperial Guard and promoted to the rank of sergeant.
+
+Bring him the materials. Dunstan fashions you a sled but it still has to be waxed in order to smoothen and protect the wood. He says you can mix some swamp tar with wax in a cake tin to achieve the desired effect. You can get tar from the Lumbridge Swamp and suggests the wax is found near bees . Get some swamp tar and a bucket of wax . The latter can be obtained from the beehives south of Camelot . (An empty bucket spawns nearby.) You require insect repellent , found in the house north of Catherby bank, in order to do so.
+
+With an empty cake tin in your inventory, use the swamp tar on the bucket of wax to get wax (in the cake tin). Note that it has to be done in that order. Use the wax on the sled to make a waxed sled, making it possible to ride it. The next task is to go up Trollweiss Mountain , past the ice trolls' realm.
+
+Fetching the flowers [ edit | edit source ]
+
+Items required: Sled (waxed).
+
+Recommended: Food, energy potions, prayer potions.
+
+Return to Trollheim using the Trollheim Teleport spell, via Fairy rings (code A J R ), the Slayer Ring , or make the long walk. Exit the Trollheim maze on the north-western side and take the narrow path leading north, then west, then north again to a dungeon entrance just past the ice gates and the troll child .
+
+The dungeon entrance does not show up on the minimap and can be hard to find; it faces east and is labelled 9 on the map. Do not enter the ice gate east of the child.
+
+It will be snowing around the area of the cave. Do not spend too much time standing in the snowing area as all your stats will slowly decrease by 1.
+
+Enter this cave and walk through it to the north-western corner. Beware of the ice trolls which have a strong melee attack. In the north-western corner is the exit (marked red on the minimap): a narrow crevasse. It's hard to see. It's the little alcove just before the very end. There are no trolls near the crevasse inside the cave, so you can wait here to rest as needed.
+
+When outside, walk south past the ice wolves to an opening in the rocks at which point you can walk no longer. Click the slope once to ride the sled due south to crash into a rock just east of the flower patch. You'll see the circular area with a red dot and a central rock; unequip the sled and walk in. (Be careful not to sled down the second slope further south, or else you will have to climb the entire mountain again.)
+
+If you teleport away while using the sled and you have full inventory, you will lose it and have to get a new one!
+
+Pick the rare flowers . Teleport out to prepare for the final battle, or if you brought combat items, you can return to Ug by riding the sled down the rest of the mountain, going through the tunnel coming out on Rellekka's side and running back to the shortcut ( 4 on the map). This requires climbing boots .
+
+Facing Arrg's wrath [ edit | edit source ]
+
+Items required: Trollweiss , equipment and supplies for fighting Arrg.
+
+Note: The fight with Arrg is not a safe death for Hardcore Ironmen .
+
+Return to Ug and give him the Trollweiss. (You are not able to talk to him if you have the flower in your hand.) Ug will be very glad to receive the flowers, but he is afraid of Arrg , so he cannot give Aga the Trollweiss directly. The only option is to battle Arrg.
+
+Go to the room north of Ug where Arrg is still around. Prepare for battle before talking to him. Protect from Melee is very useful, but he also uses Ranged indiscriminately and can occasionally hit through protection prayers. Like most trolls, Arrg has very high strength for his combat level and he has a max hit of 38 in both styles.
+
+Talk to Arrg and defend Aga's honour. You will challenge him to a duel, but not in front of the lady. The two of you are transported into the Troll arena ( 10 on the map).
+
+Fighting Arrg [ edit | edit source ]
+
+Arrg attacks immediately after the teleport, so be prepared. Note: You will automatically retaliate. Arrg has a strong melee attack and can hit through protection prayers . He can also throw rocks, so make sure to keep food on hand. He is level 113 and does not have very high defence or hitpoints.
+
+There are multiple safespots for Arrg. He can be safespotted at the west gate of the arena. However, unlike Dad , Arrg is small enough to fit between the mountain walls and attack you. Therefore, Arrg must be lured to the raised land at the north-west of the arena. To lure him, turn on Protect from Melee, run to about the centre of the raised land, and wait for Arrg to catch up. Once he is on the raised land, run to the gate and he should get stuck on the mountain wall. The second safespot is at the northern end of the Arena, lure Arrg to the gate and then simply run onto the raised ground to the west and he will get stuck on the end. A third option is to trap him behind any of the spectators standing on the elevations as he will get stuck behind them. Now Arrg cannot attack you at all and you can safely kill him with magic or ranged. Arrg disappears after a few minutes and he will reappear at the spot where Ug is, so even if you safespot him, you need to kill him quickly. (Note: if you die while in combat with Arrg, you can return to the troll arena to fight him again. He will follow the player around, but will not attack the player first. This makes it easy to get into a safe-spot to try again.).
+
+Defeat Arrg; he will dramatically shout his name and fall to the ground. Victorious, return to Ug. Head west out of the arena until you reach the secret entrance ( 4 on the map). Otherwise, return via Trollheim. (Arrg will have lost his macho attitude and cringe before you.)
+
+Tell Ug about the demise of Arrg. Since you are very strong and nice, he gives you some 'pretty rocks' in thanks. Rather unfortunately, he is still too scared to talk to Aga, upon which you call him useless and compare him to your toothless grandmother. This will convince him to finally win over the lady troll. She will eat the flower and become his girlfriend, making him weep tears of joy.
+
+Congratulations, quest complete!!
+
+Rewards [ edit | edit source ]
+
+2 Quest points 8,000 Agility experience 4,000 Strength experience 1 uncut diamond , 2 uncut rubies and 4 uncut emeralds A sled (required to complete a hard and two elite clue scroll steps) Sledding route from Trollweiss Mountain
+
+Unlocks:
+
+Arrg accessible in the Nightmare Zone .
+
+Required for completing [ edit | edit source ]
+
+Completion of Troll Romance is required for the following:
+
+The Curse of Arrav
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Trivia [ edit | edit source ]
+
+When threatened Arrg says "This concept of love confuses and infuriates us!". This is a quote from Omicronian Leader Lrrr in the Futurama episode " Love and Rocket ". When speaking to Tenzing about the location of the Trollweiss he mentions global warming (i.e. climate change), referring to the area being inaccessible due to a lot of snow. When picking up the Trollweiss flower with no available inventory space your character will say in dialogue "I know it's only a flower, but I haven't got enough space..." When speaking to Dunstan about the sled, he ends with "Thank you, come again." This is a reference to Apu from The Simpsons . The game tells you "That's probably not a good idea..." when attempting to use Trollweiss on Aga. Trollweiss is a reference to the Edelweiss flower found in the European Alps. Unlike most other trolls in Gielinor , the trolls involved in this quest do not seem to be named after the first things they tried to eat.
+
+v • t • e Troll Romance
+
+NPCs | Ug Aga Arrg Tenzing Dunstan
+
+Items | Trollweiss Insect repellent Wax Bucket of wax Sled (unwaxed) Sled
+
+Locations | Trollweiss Mountain Trollweiss Dungeon
+
+Music | Romancing the Crone Hell's Bells
+
+Related | Quick guide Transcript

@@ -1,0 +1,72 @@
+Name: Artio
+Combat Level: 320
+Size: 3x3
+Info:
+- Description: She looks mad that her forest has died.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 518 xp
+- Category: Bears, Bosses
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 11992
+- Link: MOID
+
+Location:
+- Area: Hunter's End
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for Artio:
+
+Notable Drops:
+- Dragon 2h sword (1/358[2])
+- Dragon pickaxe (1/358[2])
+- Claws of callisto (1/618[2])
+- Tyrannical ring (1/716[2])
+- Voidwaker hilt (1/912[2])
+- Grimy toadflax (1/128)
+- Coins (21/128)
+- Dark fishing bait (1/128)
+- Yew seed (1/128)
+- Magic seed (1/128)
+- Palm tree seed (1/128)
+- Blighted anglerfish (1/18)
+- Blighted karambwan (1/18)
+- Blighted super restore(3) (1/18)
+- Blighted super restore(4) (1/18)
+- Ranging potion(2) (1/18)
+- Super combat potion(2) (1/18)
+- Looting bag (1/3)
+- Brimstone key (1/56[d 1])
+- Long bone (1/400)
+- Curved bone (1/5,012.5)
+- Clue scroll (elite) (1/100; 1/50[d 3][d 2])
+- Callisto cub (1/2,800[2])
+- Larran's key (1/55)
+- Slayer's enchantment (1/30)
+
+Combat Achievements:
+- Callisto Adept: Kill Callisto 10 times. (Hard (3 pts))
+- Callisto Veteran: Kill Callisto 20 times. (Elite (4 pts))
+
+[Combat stats]
+Hitpoints: 450
+Attack: 250
+Strength: 270
+Defence: 150
+Magic: 90
+Ranged: 120
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

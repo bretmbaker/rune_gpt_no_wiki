@@ -1,0 +1,40 @@
+[Page: Blast Furnace]
+
+TheBlast Furnaceis a members-onlyminigamesituated inKeldagrimthat involvessmeltingbarsin bulk. Thefurnacehere only requires half as much coal compared to a usual one, which is useful when smelting high-tieroresthat require more coal.
+The Blast Furnace is located inKeldagrim. To enter Keldagrim, the player must have started theThe Giant Dwarfquestby speaking to the Dwarven Boatman within the mines east of Rellekka. The map on the right shows a path the player can take walking fromSeers' Village/Camelotto the mines east of Rellekka. Once the player has visited Keldagrim at least once, they can return viamine cartfrom theDwarven Minesunder theIce Mountainor theGrand Exchange, or use theGrouping teleportto teleport right outside the Blast Furnace building.
+TheFairy ringsystem can be used in two ways: Either travel to ringDKRto go immediately west of theGrand Exchange, use its underwall tunnel north of the ring (requires 21Agility) and then the mine cart, or travel to ringDKS, which puts the player a short walk to the south-west to the Keldagrim entrance.
+Near the water pump and the coffer is a bank chest, which players can use to more efficiently use the furnace. Note that time spent with the bank chest interface openwilldeplete the coins in the coffer.
+There are 15 Blast FurnaceworldsonOld School RuneScape, all of which make soloing the Blast Furnace easy as there are five different dwarves—Dumpy,Stumpy,Pumpy,Numpty, andThumpy—operating the mechanics of the Blast Furnace, so the player only has to focus on running the ores to the conveyor belt. There is an additional72,000 coinsfee per hour (12gp/tick) to use the Blast Furnace on these worlds, which is deposited in the coffer near the bank chest.
+As ore and coal in the blast furnace are not lost when hopping worlds, it is possible to deposit ore onto the conveyor belt on a non-Blast Furnace world and pedal manually to deposit it into the melting pot, and then hop to a blast furnace world to retrieve bars without utilising the blast furnace coffer. Although this strategy reduces cost, the cost of using the official blast furnace worlds is minimal compared to the cost of the ores involved, making this highly impractical for nearly all players.
+The followingmoney making guidesare available for Blast Furnace:
+FullSmithingexperienceis gained from smelting thebars. There is also ananvilnearby to smith on, requiring level 60 Smithing to access.
+At the Blast Furnace, the following Smithing experience rates can be gained producing bars. The tables assume that the player is wearingice glovesand, when applicable, has acoal bagorgoldsmith gauntletsin their inventory, leaving 27 inventory slots occupied by ore. Hybrid bar patterns utilise 26 inventory slots for ore, as they need both the coal bag and the goldsmith gauntlets.
+For better rates, use the Barbarianvial smashperk unlocked throughAlfred Grimhand's Barcrawlwhen sipping energy restores and stamina potions.
+Raw materials can be obtained in two ways:
+The official Blast Furnace worlds provide a great level of convenience and are the de-facto way to use the Blast Furnace. It is unlikely to find a player run furnace and, at most, the stations are used to train other skills.
+The process for operating the Blast Furnace on an official world is as follows:
+Manually operating the Blast Furnace requires 30 Agility, Crafting, Firemaking, and Strength. The process for operating the Blast Furnace manually is as follows:
+Using the no-payment world hopping strategy requires 30 Agility. The process for the World Hoppping strategy is as follows:
+TheOre seller., run byOrdan, is one of many of thestores in Keldagrimand can be found immediately west of the conveyor belt. The shop is restocked bydwarvesthat regularly enter the room and deliver a number (around 30) of one type of ore to the shop, rather than restocking 1 of every ore periodically. When the shop stocks 100 of a particular ore type the extra are "sent to storage".
+The Blast Furnace is now a safe zone onPvP worlds, due to occasional incidents of luring around the bank chest.
+Overheating the blast furnace will now instead break all parts of the machine and disable it temporarily, rather than damaging the player.
+Pumping at the Blast Furnace will now continue giving players Strength experience, even if the pipes are broken.
+Items dropped in the Blast Furnace room will now only ever appear to the person who dropped them.
+The total amount of Blast Furnacethemed worldswas increased from 7 to 15.
+Box trapsmay no longer be placed at Blast Furnace.
+The Blast Furnace Bar Stock interface has been replaced with the new Make-all interface.
+You can now examine the Blast Furnace's Melting pot in order to check which ores, and how many, have been added to the Blast Furnace.
+Two more dwarves were added to the themed worlds to repair broken pipes, cogs, and the drive belt. The hourly fee was raised to 72,000 coins.
+The message when adding ore to the Blast Furnace can now be disabled.
+Three dwarves were added to Blast Furnace themed worlds, and will operate the furnace for an hourly fee of 60,000 coins.
+Adeposit boxhas been added to the Blast Furnace room.
+Cannons can no longer be set up in the blast furnace.
+Wearingice gloveswhen at the Blast Furnace will now allow you to pick up bars without cooling them first.
+Players who intentionally overheat by using the pump too much at Blast Furnace will now be kicked out temporarily.
+Ensured that maximums of coal and tin of 254 are enforced in the Blast Furnace.
+The Blast Furnace Foreman gained right-click options to pay for access to the Blast Furnace.
+A trading post has been added to the Blast Furnace Bank.
+Abank chesthas been added to the Blast Furnace room.
+The historical bar stock; replaced with Make-X
+Blast Furnace maintenance plan
+The building where the Blast Furnace resides

@@ -1,0 +1,39 @@
+Name: Kharazi monodon
+Combat Level: 64
+Size: 3x3
+Info:
+- Description: A creature as mysterious as the jungle it is named after.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: beta14270,beta14271
+- Link: MOID
+
+Location:
+- Area: The Kharazi Strait
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 60
+Attack: 1
+Strength: 1
+Defence: 70
+Magic: 1
+Ranged: 65
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

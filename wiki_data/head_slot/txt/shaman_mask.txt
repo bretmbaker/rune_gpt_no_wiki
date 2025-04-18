@@ -1,0 +1,54 @@
+[Weapon: Shaman Mask]
+
+
+Theshaman maskis obtained as a rare drop fromOgress WarriorsandShamansin theCorsair Cove Dungeon. It shares the same defence bonuses as aniron full helm, but with the shaman mask's -2 Ranged attack, it possesses an additional +1Ranged attack bonusthan the iron full helm's -3 Ranged attack.
+
+
+[Infobox]
+Released: 7 December2017(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: The mask worn by ogre shamans.
+General Store Value: 8,000 coins
+High alch: 4,800 coins
+Low alch: 3,200 coins
+Weight: 2.721 kg
+Grand Exchange Value: 17,779 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 129
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +7
+- Crush: +5
+- Magic: -1
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ogress Shaman | 82 | 1 | 1/1,200 | 
+Ogress Warrior | 82 | 1 | 1/1,200 | 

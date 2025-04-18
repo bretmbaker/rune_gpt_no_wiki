@@ -1,0 +1,51 @@
+Name: Witch's experiment
+Combat Level: 19
+Size: 1x1
+Info:
+- Description: Looks unnatural.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 3996,6394
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 21
+Attack: 18
+Strength: 10
+Defence: 19
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

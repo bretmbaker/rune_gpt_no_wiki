@@ -1,0 +1,45 @@
+[Weapon: Corrupted Vesta%27S Chainbody (Bh)#Activated]
+
+
+Corrupted vesta's chainbody (bh)is a piece of armour requiring 20Defenceto wear, and is obtained by convertingVesta's chainbody (bh)via aCorrupted Warrior. When worn alongsideCorrupted vesta's plateskirt (bh), the accuracy of meleespecial attacksare increased by 15%.
+When in inactive form, it must be charged with 1,500,000 coins before it can be used by the player. In addition, it can only be used withinDaimon's Crater,Castle Wars,Clan Wars, andSoul Wars; attempting to attack anything outside the listed areas will result in the player being interrupted from doing so.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Uncharge, Drop
+Examine: A powerful chainbody.
+General Store Value: 500,000 coins
+Alchemy: Not alchemisable
+Weight: 6.803 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +14
+- Slash: +14
+- Crush: +4
+- Magic: -28
+- Ranged: -14
+
+Defence Bonuses:
+- Stab: +18
+- Slash: +21
+- Crush: +23
+- Magic: -10
+- Ranged: +21
+
+Other Bonuses:
+- Strength: +5
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

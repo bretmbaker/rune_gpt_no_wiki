@@ -1,0 +1,45 @@
+[Weapon: Jaguar Mask]
+
+
+Thejaguar maskis an item obtained by speaking to theHead ButleratVilla Lucensafter completion ofDeath on the Isle. It is one of five animal masks that the player may have been given to wear whilst playing the part of a butler during the quest.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: Death on the Isle
+Tradeable: No
+Equipable: No
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get another from the Villa Lucens Head Butler.
+Examine: A rather interesting mask of a jaguar.
+General Store Value: 30 coins
+Alchemy: Not alchemisable
+Weight: 0.1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

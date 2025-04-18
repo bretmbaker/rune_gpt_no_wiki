@@ -1,0 +1,61 @@
+[Weapon: Hosidius Banner]
+
+
+TheHosidius banneris a possible reward frommediumTreasure Trails. The symbol represents the House ofHosidiusinGreat Kourend.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A banner made of redwood bearing the Hosidius sigil.
+General Store Value: 70 coins
+High alch: 42 coins
+Low alch: 28 coins
+Weight: 2.267 kg
+Grand Exchange Value: 1,811 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 61
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +12
+- Slash: +12
+- Crush: +12
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +12
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 

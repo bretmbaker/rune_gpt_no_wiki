@@ -1,0 +1,54 @@
+[Weapon: Enchanted Lyre(I)]
+
+
+Anenchanted lyre(i)is anenchanted lyrethat contains infiniteteleportcharges toRellekka. When thehard Fremennik Diaryis completed, the lyre can also teleport toWaterbirth Island, and gains the ability to teleport toJatizsoandNeitiznotafter completion of theelite Fremennik Diary.
+Players can imbue their un-enchantedlyreafter completion ofThe Fremennik Trialsby offeringFossegrimena one-off offering of 1,000raw sharks,raw bass,raw manta rays, andraw sea turtles, costing2,670,000 coins. Fossegrimen will accept both noted and un-noted offerings, and they can be given in increments; she will inform players of the remaining amount required to imbue the lyre. Should players lose the imbued lyre, they can obtain another un-enchanted lyre and summon Fossegrimen, where she will imbue the lyre free of charge.
+
+
+[Infobox]
+Released: 30 May2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Play, Equip, Drop
+Worn options: Rellekka, Waterbirth Island, Neitiznot, Jatiszo[sic]
+Examine: This will teleport me to the Fremennik province when I play it.
+General Store Value: 1,000 coins
+High alch: 600 coins
+Low alch: 400 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Punch | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Kick | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

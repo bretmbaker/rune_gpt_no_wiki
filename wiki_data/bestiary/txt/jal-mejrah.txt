@@ -1,0 +1,43 @@
+Name: Jal-MejRah
+Combat Level: 85
+Size: 2x2
+Info:
+- Description: A dangerous flying creature.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 25 xp
+- Category: TzHaar
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Burn: Immune to normal burns
+- Monster ID: 7692
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 25
+Attack: 0
+Strength: 0
+Defence: 55
+Magic: 120
+Ranged: 120
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

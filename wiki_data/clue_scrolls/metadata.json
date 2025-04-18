@@ -1,0 +1,3580 @@
+{
+  "Clue_scroll_(medium)": {
+    "source": "Clue_scroll_(medium)",
+    "sections": [
+      {
+        "section_title": "Clue scroll (medium)",
+        "content": [
+          "\"A set of instructions to be followed\""
+        ]
+      },
+      {
+        "section_title": "\"A clue!\"",
+        "content": [
+          "\"A piece of the world map,but where?\"",
+          "\"Perhaps someone at the observatory can teach me to navigate?\"",
+          "\"It points to great treasure!\""
+        ]
+      },
+      {
+        "section_title": "Medium clue scrolls offer coordinate clues along with more complex puzzles than easy clues, and occasionally a monster ranging from a chicken to a Market Guard may be fought. However, there are no clue steps that bring you to the Wilderness .",
+        "content": [
+          "They can take between 3 and 5 steps to complete."
+        ]
+      },
+      {
+        "section_title": "A medium clue scroll can be given to Watson along with an easy, hard and elite clue scrolls in order to receive a master clue scroll .",
+        "content": [
+          "Contents"
+        ]
+      },
+      {
+        "section_title": "1 Types of clues",
+        "content": [
+          "2 Requirements 2.1 Skill requirements 2.2 Additional requirements for ironmen 2.3 Quest requirements 2.4 Music requirements 2.5 Item requirements",
+          "2.1 Skill requirements",
+          "2.2 Additional requirements for ironmen",
+          "2.3 Quest requirements",
+          "2.4 Music requirements",
+          "2.5 Item requirements",
+          "3 Possible rewards",
+          "4 Item sources 4.1 Shop locations",
+          "4.1 Shop locations",
+          "5 Changes 5.1 Gallery (historical)",
+          "5.1 Gallery (historical)",
+          "6 Trivia",
+          "7 References"
+        ]
+      },
+      {
+        "section_title": "Please note that it is possible to receive the same clue more than once.",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Coordinates",
+          "Maps",
+          "Cipher",
+          "Music",
+          "Requirements [ edit | edit source ]",
+          "Skill requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Certain clues will require items that need a certain skill requirement in order to wear, wield or access. The table below shows the highest skill requirement, in order to complete every medium clue. Quest skill requirements are not noted in this table.",
+        "content": [
+          "Additional requirements for ironmen [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Note, that a clue step requiring adamant boots is blocked for ironmen.",
+        "content": [
+          "Quest requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Some clues require access to areas which may require quests. Some only require to start the quest in order to access the area.",
+        "content": [
+          "Music requirements [ edit | edit source ]",
+          "Item requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "'Minimum level requirements' indicates the level required to equip all items on the list in order to complete their respective clue steps.",
+        "content": [
+          "Any quantities below indicate how many of each item is required to fill all available medium STASH units.",
+          "^ Not required for Ironman Mode players.",
+          "Possible rewards [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "On average, medium clues are worth 167,185.00 , or 46,377.00 when the ranger boots are excluded.",
+        "content": [
+          "As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (medium) .",
+          "Item sources [ edit | edit source ]",
+          "Shop locations [ edit | edit source ]",
+          "Changes [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Clue Scrolls dropped by a player now last one hour on the ground rather than two minutes. This does not change existing behaviour for Clue Scrolls dropped by NPCs or other entities. Additionally, you are now told if you would have gotten a clue but didn't because you already have one.",
+        "content": [
+          "The item was graphically updated."
+        ]
+      },
+      {
+        "section_title": "The medium clue answer regarding the number of gravestones in Lumbridge now includes the Jarvis gravestone for those who let him die during the Halloween event.",
+        "content": [
+          "The item's value was increased from 1 to 20."
+        ]
+      },
+      {
+        "section_title": "A medium level clue which sent you into the Wilderness was changed to send you elsewhere.",
+        "content": [
+          "Gallery (historical) [ edit | edit source ]",
+          "Trivia [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "After the update of 18 June 2015 it is now possible to have one clue scroll of each tier at a time, while previously the player could not get any clue scroll at all until completing or dropping the current one in order to receive a new one of the same difficulty.",
+        "content": [
+          "References [ edit | edit source ]",
+          "^ Jagex. Mod Ash's Twitter account . 17 April 2018.  Archived from the original on 23 March 2019. Mod Ash: \"The chance is 1/256, btw.\"",
+          "^ Jagex. Mod Ash's Twitter account . 25 April 2019.  Archived from the original on 30 May 2020. Mod Ash: \"Interestingly, yes, that one is blocked for Iron players. The code does not say why.\""
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map",
+          "Items",
+          "Untradeable items",
+          "Members' items",
+          "Items appearing in drop table",
+          "Items dropped by monster"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "28m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 7 November 2024, at 08:22.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Clue_scroll_(hard)": {
+    "source": "Clue_scroll_(hard)",
+    "sections": [
+      {
+        "section_title": "A hard clue scroll can be given to Watson along with an easy , medium and elite clue scrolls in order to receive a master clue scroll .",
+        "content": [
+          "Contents"
+        ]
+      },
+      {
+        "section_title": "1 Types of clues",
+        "content": [
+          "2 Requirements 2.1 Skill requirements 2.2 Additional Ironman requirements 2.3 Quest requirements 2.4 Music requirements 2.5 Item requirements",
+          "2.1 Skill requirements",
+          "2.2 Additional Ironman requirements",
+          "2.3 Quest requirements",
+          "2.4 Music requirements",
+          "2.5 Item requirements",
+          "3 Possible rewards",
+          "4 Item sources",
+          "5 Changes 5.1 Gallery (historical)",
+          "5.1 Gallery (historical)",
+          "6 Trivia",
+          "7 References"
+        ]
+      },
+      {
+        "section_title": "Please note that it is possible to receive the same clue more than once.",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls"
+        ]
+      },
+      {
+        "section_title": "Puzzle box",
+        "content": [
+          "Coordinates"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Maps",
+          "Ciphers",
+          "Music",
+          "Requirements [ edit | edit source ]",
+          "Skill requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Certain clues will require items that need a certain skill requirement in order to wear, wield or access. The table below shows the highest skill requirement, in order to complete every hard clue. Quest skill requirements are not noted in this table.",
+        "content": [
+          "Additional Ironman requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Players playing the ironman mode need to meet some more skill requirements to be able to solve all the clues, with the amulet of glory being the only exception: it is possible to receive an amulet of glory (t) from hard clues .",
+        "content": [
+          "Quest requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Some clues require access to areas or NPCs which may require quests. Some only require to start the quest in order to access the area or NPC.",
+        "content": [
+          "Music requirements [ edit | edit source ]",
+          "Item requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "'Minimum level requirements' indicates the level required to equip all items on the list in order to complete their respective clue steps.",
+        "content": [
+          "Any quantities below indicate how many of each item is required to fill all available hard STASH units.",
+          "Possible rewards [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "The average loot roll is worth 34,507.00 . On average, hard clues are worth 172,535.00 . The 1/15 chance of receiving a master clue scroll adds another 58,500.00 , for a total expected value per clue of 231,035.00 .",
+        "content": [
+          "As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (hard) .",
+          "Item sources [ edit | edit source ]",
+          "The below rates have rarities provided by Jagex.",
+          "Changes [ edit | edit source ]",
+          "The item was graphically updated.",
+          "The item's value was increased from 1 to 20."
+        ]
+      },
+      {
+        "section_title": "The item was renamed from \"Clue scroll\" to \"Clue scroll (hard)\".",
+        "content": [
+          "Gallery (historical) [ edit | edit source ]",
+          "Trivia [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "After the update of 18 June 2015 it is now possible to have one clue scroll of each tier at a time, while previously the player could not get any clue scroll at all until completing or dropping their current one.",
+        "content": [
+          "References [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map",
+          "Items",
+          "Untradeable items",
+          "Members' items",
+          "Items appearing in drop table",
+          "Items dropped by monster"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "28m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 26 March 2025, at 15:53.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Puzzle_box": {
+    "source": "Puzzle_box",
+    "sections": [
+      {
+        "section_title": "Solved puzzles [ edit | edit source ]",
+        "content": [
+          "Changes [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "The item was renamed from \"Puzzle box\" to \"Puzzle box (difficulty)\".",
+        "content": [
+          "References [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map",
+          "Items",
+          "Unbankable items",
+          "Untradeable items",
+          "Members' items"
+        ]
+      },
+      {
+        "section_title": "Pages that contain switch infobox data",
+        "content": [
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "29m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 9 September 2023, at 17:41.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Clue_scroll_(elite)": {
+    "source": "Clue_scroll_(elite)",
+    "sections": [
+      {
+        "section_title": "An elite clue scroll can be given to Watson along with an easy, medium, and hard clue scroll to receive a master clue scroll .",
+        "content": [
+          "Contents"
+        ]
+      },
+      {
+        "section_title": "1 Types of clues",
+        "content": [
+          "2 Requirements 2.1 Skill requirements 2.2 Quest requirements 2.3 Music requirements 2.4 Item requirements",
+          "2.1 Skill requirements",
+          "2.2 Quest requirements",
+          "2.3 Music requirements",
+          "2.4 Item requirements",
+          "3 Possible rewards",
+          "4 Item sources",
+          "5 Changes 5.1 Gallery (historical)",
+          "5.1 Gallery (historical)",
+          "6 Trivia",
+          "7 References"
+        ]
+      },
+      {
+        "section_title": "Note that it is possible to receive the same clue more than once.",
+        "content": [
+          "Anagrams",
+          "Sherlock",
+          "Challenge scrolls"
+        ]
+      },
+      {
+        "section_title": "Puzzle box",
+        "content": [
+          "Coordinates"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Maps",
+          "Requirements [ edit | edit source ]",
+          "Skill requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Some clues will require items that have a certain skill requirement in order to wear, wield or access. The table below shows the highest skill requirement, in order to complete every elite clue. Quest skill requirements are not noted in this table. Sherlock may also give you skill challenges which require certain skill levels to complete. Temporary skill boosts can be used for most non-combat skill challenges.",
+        "content": [
+          "Quest requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Some clues require access to areas or NPCs which may require quests. Some only require to start the quest in order to gain access.",
+        "content": [
+          "Music requirements [ edit | edit source ]",
+          "Item requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "'Minimum level requirements' indicates the level required to equip all items on the list in order to complete their respective clue steps.",
+        "content": [
+          "Any quantities below indicate how many of each item is required to fill all available elite STASH units."
+        ]
+      },
+      {
+        "section_title": "^ The Dragon boots (g) and Primordial boots can also be stored and used for this clue step.",
+        "content": [
+          "Possible rewards [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "The average loot roll is worth 83,205.00 . On average, elite clues are worth 416,025.00 .",
+        "content": [
+          "As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (elite) .",
+          "Item sources [ edit | edit source ]",
+          "The below rates have rarities provided by Jagex.",
+          "Changes [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Clue Scrolls dropped by a player now last one hour on the ground rather than two minutes. This does not change existing behaviour for Clue Scrolls dropped by NPCs or other entities. Additionally, you are now told if you would have gotten a clue but didn't because you already have one.",
+        "content": [
+          "Two new elite Treasure Trail steps were added.",
+          "The item was graphically updated.",
+          "Possible amount of steps changed from 9-12 to 5-7.",
+          "The item's value was increased from 1 to 20."
+        ]
+      },
+      {
+        "section_title": "Clue scroll stages no longer increase when bouncing different clue scrolls.",
+        "content": [
+          "Crafting anything with leather no longer completes an elite skill challenge."
+        ]
+      },
+      {
+        "section_title": "Fixed a typo on an elite clue scroll.",
+        "content": [
+          "Gallery (historical) [ edit | edit source ]",
+          "Trivia [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "After the update of 18 June 2015 it is now possible to have one clue scroll of each tier at a time, while previously the player could not get any clue scroll at all until completing or dropping the current one.",
+        "content": [
+          "Upon release, elite treasure trails were 9-12 steps long. Due to complaints about the substantial jump in the number of steps required, it was changed to 5-7 steps in an update on 13 July 2017 ."
+        ]
+      },
+      {
+        "section_title": "The cryptic clue \" Green is the colour of my death as the winter-guise, I swoop towards the ground. \" is part of the lyrics to the song December Flower by In Flames .",
+        "content": [
+          "References [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map",
+          "Items",
+          "Untradeable items",
+          "Members' items",
+          "Items appearing in drop table",
+          "Items dropped by monster"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "28m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 31 March 2025, at 10:33.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Cipher_clues": {
+    "source": "Cipher_clues",
+    "sections": [
+      {
+        "section_title": "To solve a more difficult shift (26 combinations) here is a method: we must first count the number of times a letter appears within the cipher. For this example, the clue \"BMJ UIF LFCBC TFMMFS\" will be used. Make a list of the letters and how many times they appear:",
+        "content": [
+          "B = 2",
+          "M = 3",
+          "J = 1",
+          "U = 1",
+          "I = 1",
+          "F = 4",
+          "L = 1",
+          "C = 2",
+          "T = 1",
+          "S = 1",
+          "As we can see, \"F\" is the most common letter within the cipher. Now, the letter \"E\" is the most common letter in the English language, so we always presume the most common letter in the cipher is \"E\" as our starting letter. It may turn out to not be the case, but it's a good place to start. So, because \"F\" is our most common letter in the cipher - we can presume \"F\" = \"E\". Once this presumption is made, we write out the entire alphabet in the correct order.",
+          "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+          "Next, under the letter \"E\", we write \"F\" because we think that letter \"F\" in the cipher is equal to \"E\" in the alphabet, and then fill out the rest of the alphabet starting from \"F\" and then looping back to the start once we reach \"Z\" to give us all letters like such:",
+          "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+          "B C D E F G H I J K L M N O P Q R S T U V W X Y Z A"
+        ]
+      },
+      {
+        "section_title": "Now, in this example - our presumption that \"e\" is equal to \"f\" on the grounds the \"f\" is the most common letter in the cipher and that \"e\" is the most common letter in English was true - and \"e\" became our key to the cipher. However, in others it may not be so easy. For example - in the clue \"ZCZL\", \"e\" is not the key as that returns the answer \"EHEQ\". While it is possible it is doubly encrypted, we should explore other alternate keys instead. The next port of call if \"e\" is not the key is to use vowels, namely \"A, E, I, O, U and Y\" - as every word in English contains at least one of those letters. If we try using \"A\" as the key to the cipher, we get \"Adam\" - which is correct. However, if this was not the case - you should work your way through all vowels. If one of these is not the key, then go through the rest of the letters periodically until you find your solution.",
+        "content": [
+          "X Marks the Spot [ edit | edit source ]",
+          "Medium Ciphers [ edit | edit source ]",
+          "Hard Ciphers [ edit | edit source ]",
+          "Kalphite Lair entrance (north-west of fairy ring B I Q )"
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Guides",
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "29m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 24 March 2025, at 00:56.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Treasure_Trails_Guide_Anagrams": {
+    "source": "Treasure_Trails_Guide_Anagrams",
+    "sections": [
+      {
+        "section_title": "The anagrams in clue scrolls do not correspond with the number of spaces in a name; an anagram with no spaces may have an answer with a name corresponding with one or more spaces.",
+        "content": [
+          "Contents",
+          "1 Beginner Anagrams",
+          "2 Medium Anagrams",
+          "3 Hard Anagrams",
+          "4 Elite Anagrams",
+          "5 Master Anagrams",
+          "Beginner Anagrams [ edit | edit source ]",
+          "Medium Anagrams [ edit | edit source ]",
+          "Note: If players failed to save Jarvis during the 2017 Halloween event , the answer is '20' instead of '19'.",
+          "Hard Anagrams [ edit | edit source ]",
+          "(Requires completion of Shadow of the Storm quest to open the trapdoor.)"
+        ]
+      },
+      {
+        "section_title": "(On Examine: A clue suggested by Marfn.)",
+        "content": [
+          "Elite Anagrams [ edit | edit source ]",
+          "Master Anagrams [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Guides",
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "17m ago - MeneerPjoeterBliep",
+          "17m ago - Hewatt",
+          "32m ago - Hewatt",
+          "58m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 23 January 2022, at 20:54.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Clue_scroll_(beginner)": {
+    "source": "Clue_scroll_(beginner)",
+    "sections": [
+      {
+        "section_title": "Beginner clue scrolls are not required to be given to Watson in exchange for a master clue scroll . In addition, beginner clue scrolls will not give master clue scrolls as a reward.",
+        "content": [
+          "Contents",
+          "1 Drop trick mechanics"
+        ]
+      },
+      {
+        "section_title": "3.1 Emote clues",
+        "content": [
+          "3.2 Charlie the Tramp Tasks",
+          "4 Possible rewards",
+          "5 Item sources",
+          "6 Changes",
+          "7 References",
+          "Drop trick mechanics [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Anagram clues",
+        "content": [
+          "Charlie the Tramp tasks"
+        ]
+      },
+      {
+        "section_title": "Map clues",
+        "content": [
+          "Item Requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "There are six items that are used in various Beginner emote clues . All of these items can be purchased from other players:",
+        "content": [
+          "Ironmen may require level 5 Crafting for the gold ring and level 6 Crafting for the gold necklace , as well as the relatively high Mining and Smithing levels to make the necessary gold bars . However, the bars and jewellery can also be obtained via other methods, such as quests , random events , and ground spawns, possibly requiring the magic spell telekinetic grab .",
+          "Charlie the Tramp Tasks [ edit | edit source ]",
+          "Charlie the Tramp tasks require the player to give Charlie the Tramp a specific item he requests. Charlie will always request one of the eight following items:",
+          "Possible rewards [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "The average loot roll is worth 3,969.00 . On average, beginner clues are worth 7,939.00 .",
+        "content": [
+          "As well as unique Treasure Trails rewards, players may also receive a variety of items. A more detailed overview of all possible rewards can be found at reward casket (beginner) .",
+          "Item sources [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "With the current price of implings, the average cost to obtain a beginner clue is approximately 48,600 from a Young impling jar or 71,250 from a Baby impling jar . This ignores all other loot obtained from the jars, easy clues, and/or caskets.",
+        "content": [
+          "Changes [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Clue Scrolls dropped by a player now last 61 minutes on the ground rather than two minutes. This does not change existing behaviour for Clue Scrolls dropped by NPCs or other entities. Additionally, you are now told if you would have gotten a clue but didn't because you already have one.",
+        "content": [
+          "Charlie the Tramp now accepts pre-made items.",
+          "Explore emote unlocked upon opening one's 600th (or more) beginner casket.",
+          "References [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "^ Jagex. Mod Ash's Twitter account . 24 July 2021.  Archived from the original on 29 July 2021. Mod Ash: \"10 hours, applies to all accounts doing beginner clues.\"",
+        "content": [
+          "^ Jagex. Mod Ash's Twitter account . 16 March 2020.  Archived from the original on 26 May 2020. Mod Ash: \"While other tiers have equal chances of each length being chosen, beginners have a 10% chance of being 1-step, and 45% chances of 2 and 3 steps.\""
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map",
+          "Items",
+          "Untradeable items",
+          "Free-to-play items",
+          "Items appearing in drop table",
+          "Items dropped by monster"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "28m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 1 February 2025, at 01:05.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Clue_scroll_(easy)": {
+    "source": "Clue_scroll_(easy)",
+    "sections": [
+      {
+        "section_title": "Clue scroll (easy)",
+        "content": [
+          "A set of instructions to be followed."
+        ]
+      },
+      {
+        "section_title": "A clue!",
+        "content": [
+          "Part of the world map, but where?",
+          "It points to great treasure!"
+        ]
+      },
+      {
+        "section_title": "Cryptic clues",
+        "content": [
+          "Maps",
+          "Music"
+        ]
+      },
+      {
+        "section_title": "Easy clue scrolls can be between 2 and 4 steps long.",
+        "content": [
+          "Contents",
+          "1 Entrana method",
+          "2 Requirements 2.1 Skill requirements 2.2 Quest requirements 2.3 Music requirements 2.4 Item requirements",
+          "2.1 Skill requirements",
+          "2.2 Quest requirements",
+          "2.3 Music requirements",
+          "2.4 Item requirements",
+          "3 Possible rewards",
+          "4 Item sources",
+          "5 Changes 5.1 Gallery (historical)",
+          "5.1 Gallery (historical)",
+          "6 References",
+          "7 Trivia",
+          "Entrana method [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Non-shared clue uniques cannot be obtained if opening caskets on Entrana. This may be relevant for ironmen who may wish to obtain Flared trousers (required for a master clue step) and Bob shirts (required for an elite clue step), among others.",
+        "content": [
+          "Requirements [ edit | edit source ]",
+          "Skill requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Certain clues will require items that need a certain skill requirement in order to wear or wield. The table below shows the highest skill requirement, in order to complete every easy clue.",
+        "content": [
+          "Quest requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Some clues require access to areas which may require quests. Some only require to start the quest in order to access the area.",
+        "content": [
+          "Music requirements [ edit | edit source ]",
+          "Item requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "'Minimum level requirements' indicates the level required to equip all items on the list in order to complete their respective clue steps.",
+        "content": [
+          "Any quantities below indicate how many of each item is required to fill all available easy STASH units.",
+          "Possible rewards [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "The average loot roll is worth 14,733.00 . On average, easy clues are worth 44,199.00 .",
+        "content": [
+          "As well as the unique Treasure Trails rewards, players may also receive a variety of items such as black armour , black weapons , willow shortbows , coifs , leather armour , yew shortbows , salmon , trout and steel pickaxes .",
+          "Item sources [ edit | edit source ]",
+          "The below rates have rarities provided by Jagex.",
+          "Changes [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Clue Scrolls dropped by a player now last one hour on the ground rather than two minutes. This does not change existing behaviour for Clue Scrolls dropped by NPCs or other entities. Additionally, you are now told if you would have gotten a clue but didn't because you already have one.",
+        "content": [
+          "The item was graphically updated.",
+          "The item's value was increased from 1 to 20."
+        ]
+      },
+      {
+        "section_title": "The item was renamed from \"Clue scroll\" to \"Clue scroll (easy)\".",
+        "content": [
+          "Gallery (historical) [ edit | edit source ]",
+          "References [ edit | edit source ]",
+          "^ Jagex. Mod Ash's Twitter account . 8 July 2016.  Archived from the original on 26 May 2020. Mod Ash: \"HAM kit doesn't reduce getting caught, but each piece makes you slightly less likely to be ejected after being caught.\"",
+          "^ Jagex. Mod Ash's Twitter account . 5 January 2019.  Archived from the original on 26 May 2020. Mod Ash: \"It is the case, and I've been recommending people go there for prayerbook pages for years.\"",
+          "^ Jagex. Mod Ash's Twitter account . 23 December 2020.  Archived from the original on 12 January 2021."
+        ]
+      },
+      {
+        "section_title": "^ Jagex. Mod Tide's Twitter account . 24 May 2019.  Archived from the original on 24 May 2019. Mod Tide: \"I know its been a while since the clue expansion but here is the information on clue scroll drop rates and loot chances! If anything changes I will keep you posted.\"",
+        "content": [
+          "Trivia [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map",
+          "Items",
+          "Untradeable items",
+          "Members' items",
+          "Items appearing in drop table",
+          "Items dropped by monster"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "28m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 15 December 2024, at 06:00.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Clue_scroll_(master)": {
+    "source": "Clue_scroll_(master)",
+    "sections": [
+      {
+        "section_title": "By bringing one each of the easy , medium , hard , and elite clue scrolls to Watson , who is located in the large, fenced-in house west of the Forthos Ruin in Hosidius . Clue scrolls may be handed in individually. It should be noted that if you have an incomplete master scroll and attempt to obtain a new scroll, Watson will take all lower tier scrolls but NOT give you a master scroll until either you complete the original scroll or discard it.",
+        "content": [
+          "As a potential reward from completing any easy, medium, hard or elite treasure trails, with the chances of obtaining them being 1/50, 1/30, 1/15, and 1/5 respectively."
+        ]
+      },
+      {
+        "section_title": "It should be noted that if a player dies in the Wilderness with a clue scroll in above level 20, it will disappear whether it's a PvP death or not , unless it is an item kept on death, or if that player has a clue box . Players will find that the clue scroll will be gone upon returning to their loot otherwise. However, when dying in the Wilderness with a clue box, the clue will stay in the inventory while the clue box is lost. Players may find it beneficial to carry a Wilderness Sword (to cut webs), Royal Seed Pod / Teleport Crystal , and/or an Explorer's Ring , as clue scrolls are always kept above these items; these however will be lost upon death and duplicates are easily obtainable. In lower Wilderness however (level 20 or lower) in PvP death, the unprotected clue will stay on the ground for up to 1 hour. The same goes for reward caskets. If you die in lower Wilderness due to a monster you will always keep the clue whether protected or not.",
+        "content": [
+          "Contents"
+        ]
+      },
+      {
+        "section_title": "2 Requirements 2.1 Skill requirements 2.2 Quest requirements 2.3 Item requirements (Emote clues) 2.4 Item requirements (Falo the Bard) 2.5 Other requirements",
+        "content": [
+          "2.1 Skill requirements",
+          "2.2 Quest requirements"
+        ]
+      },
+      {
+        "section_title": "2.3 Item requirements (Emote clues)",
+        "content": [
+          "2.4 Item requirements (Falo the Bard)",
+          "2.5 Other requirements",
+          "3 Possible rewards",
+          "4 Item sources",
+          "5 Changes 5.1 Gallery (historical)",
+          "5.1 Gallery (historical)",
+          "6 References"
+        ]
+      },
+      {
+        "section_title": "Please note that it is possible to receive the same clue more than once.",
+        "content": [
+          "Falo the Bard",
+          "Sherlock",
+          "Anagrams",
+          "Coordinates"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot & Cold",
+          "Requirements [ edit | edit source ]",
+          "Skill requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Certain clues will require items that need a certain skill requirement in order to wear, wield or access. The table below shows the highest skill requirement, in order to complete every master clue. Quest skill requirements are not noted in this table. Sherlock may also give you skill challenges which require certain skill levels to complete. Temporary skill boosts can be used for non-combat skill challenges.",
+        "content": [
+          "Quest requirements [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "'Minimum level requirements' indicates the level required to equip all items on the list in order to complete their respective clue steps.",
+        "content": [
+          "Any quantities below indicate how many of each item is required to fill all available master STASH units."
+        ]
+      },
+      {
+        "section_title": "^ The Guardian boots can also be used and stored for this clue step.",
+        "content": [
+          "^ Requires any one complete set"
+        ]
+      },
+      {
+        "section_title": "^ Variants such as the infernal pickaxe , dragon pickaxe (upgraded) , and dragon pickaxe (or) can be used and stored for the emote clue at the Soul Altar .",
+        "content": [
+          "Item requirements (Falo the Bard) [ edit | edit source ]",
+          "This is a list of all items that Falo the Bard may ask you to show.",
+          "^ The book must be completed. Any book will be accepted."
+        ]
+      },
+      {
+        "section_title": "^ The Ghommal's avernic defender 5 , Ghommal's avernic defender 6 and Trouver variations can be used for this clue step.",
+        "content": [
+          "^ A broken anchor does not work .",
+          "^ Trimmed , god , and heraldic variants do not work .",
+          "Other requirements [ edit | edit source ]",
+          "Possible rewards [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "The average loot roll is worth 146,250.00 . On average, master clues are worth 877,505.00 .",
+        "content": [
+          "As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (master) .",
+          "Item sources [ edit | edit source ]",
+          "Changes [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Clue Scrolls dropped by a player now last one hour on the ground rather than two minutes. This does not change existing behaviour for Clue Scrolls dropped by NPCs or other entities. Additionally, you are now told if you would have gotten a clue but didn't because you already have one.",
+        "content": [
+          "The item was graphically updated.",
+          "The item's value was increased from 1 to 20."
+        ]
+      },
+      {
+        "section_title": "All clue scrolls now have a right-click 'Check steps' option that will allow you to see exactly how many steps you have completed so far.",
+        "content": [
+          "Gallery (historical) [ edit | edit source ]",
+          "References [ edit | edit source ]",
+          "^ \"Poll 71 and Darkmeyer Updates\" . Old School RuneScape News. Jagex.  18 June 2020. Archived from the original ."
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map",
+          "Items",
+          "Untradeable items",
+          "Members' items",
+          "Items appearing in drop table"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "28m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 28 February 2025, at 21:58.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Treasure_Trails": {
+    "source": "Treasure_Trails",
+    "sections": [
+      {
+        "section_title": "If players die to a monster outside of the Wilderness they will always keep their clue scroll, whether protected or not, as it is an untradeable item.",
+        "content": [
+          "Treasure Trails will require players to travel all across Gielinor in order to complete them, so meeting the minimum requirements and having plenty of teleportation on hand will help make them easier to clear.",
+          "Contents",
+          "1 Difficulty levels",
+          "2 Solving the Treasure Trails",
+          "3 Antagonists",
+          "4 STASH units",
+          "5 Rewards 5.1 Universal rewards 5.2 Beginner rewards 5.3 Easy rewards 5.4 Medium rewards 5.5 Hard rewards 5.6 Elite rewards 5.7 Master rewards 5.8 Average rewards value 5.9 Milestone rewards",
+          "5.1 Universal rewards",
+          "5.2 Beginner rewards",
+          "5.3 Easy rewards",
+          "5.4 Medium rewards",
+          "5.5 Hard rewards",
+          "5.6 Elite rewards",
+          "5.7 Master rewards",
+          "5.8 Average rewards value",
+          "5.9 Milestone rewards",
+          "6 Ranks",
+          "7 Changes",
+          "8 References",
+          "Difficulty levels [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Some clues will require access to areas which may require quests, will require items that need a certain skill requirement in order to wear, wield or access, or will give a skill challenge that requires a certain level in that skill. The table below links to pages with all requirements. Temporary skill boosts can be used for most non-combat skill challenges.",
+        "content": [
+          "Solving the Treasure Trails [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "See the table below for links to the pages with solutions for each clue.",
+        "content": [
+          "Antagonists [ edit | edit source ]",
+          "In hard and higher-levelled Treasure Trails, some steps will require the player to fight a random enemy based on the Treasure Trail's tier when the correct spot is dug at, as indicated with the list below:",
+          "STASH units [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "STASH units (short for \"Store Things And Stuff Here\"), also known as hidey holes, are storage units for emote clue items, saving bank space and bank trips, especially for players who complete many Treasure Trails.",
+        "content": [
+          "There are 107 STASH units in total found throughout RuneScape . These locations are initially labelled as inconspicuous bushes/crates/holes/rocks, and, once built, become usable STASH units. Players can check which units they've already built/filled by visiting Watson and reading the noticeboard within his house , or by building a S.t.a.s.h chart in a player-owned house .",
+          "A Hammer & Saw are required in order to build a STASH unit."
+        ]
+      },
+      {
+        "section_title": "Depending on the scenery the emote clue is located in, STASH may differ in appearance to appear as inconspicuous as possible. For a list of the locations of all STASH units as well as its building materials, visit this page .",
+        "content": [
+          "Rewards [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "There are a total of 638 unique rewards from all tiers of clue scrolls. The tier of items and their average value tends to increase with higher tiers of clue scrolls, with exceptions for sought-after items in lower tiers such as the medium tier reward of ranger boots . All tiers except for beginner can reward items from the universal drop table. Starting with the hard tier, rewards may also include items from the mega rare tables, such as gilded equipment or 3rd age equipment .",
+        "content": [
+          "Universal rewards [ edit | edit source ]",
+          "Universal rewards are only available from easy Treasure Trails and above.",
+          "Beginner rewards [ edit | edit source ]",
+          "As well as unique Treasure Trails rewards, players may also receive a variety of items. A more detailed overview of all possible rewards can be found at reward casket (beginner) .",
+          "Easy rewards [ edit | edit source ]",
+          "As well as the unique Treasure Trails rewards, players may also receive a variety of items such as black armour , black weapons , willow shortbows , coifs , leather armour , yew shortbows , salmon , trout and steel pickaxes .",
+          "Medium rewards [ edit | edit source ]",
+          "As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (medium) .",
+          "Hard rewards [ edit | edit source ]",
+          "As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (hard) .",
+          "Elite rewards [ edit | edit source ]",
+          "As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (elite) .",
+          "Master rewards [ edit | edit source ]",
+          "As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (master) .",
+          "Average rewards value [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Opening a Reward casket generates a certain number of rolls on the relevant loot tables. The table below shows the expected gold values per loot roll, and the expected gold values per completed clue taking into account the average number of generated rolls.",
+        "content": [
+          "Milestone rewards [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "There are milestone rewards for each tier of clue scrolls. Each can be obtained by completing a specific amount of clue scrolls of that tier:",
+        "content": [
+          "Beginner: Explore \u2014 600 scrolls",
+          "Easy: Large spade \u2014 500"
+        ]
+      },
+      {
+        "section_title": "Medium: Clueless scroll \u2014 400",
+        "content": [
+          "Hard: Uri transform \u2014 300",
+          "Elite: Heavy casket \u2014 200",
+          "Master: Scroll sack \u2014 100"
+        ]
+      },
+      {
+        "section_title": "If any of the items are lost, they can be re-obtained by completing another clue scroll of its tier.",
+        "content": [
+          "Ranks [ edit | edit source ]",
+          "A player may check the amount of Treasure Trails they have completed by clicking on the Treasure Trail Statistics or by checking the adventure log in their player-owned house . These interfaces also show the player's Treasure Trails rank.",
+          "Changes [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Players are now informed if they would have received a clue scroll drop but did not because they already have it.",
+        "content": [
+          "Two new elite Treasure Trail steps were added."
+        ]
+      },
+      {
+        "section_title": "Clue scrolls are now universally dropped in addition to other drops rather than instead of them.",
+        "content": [
+          "References [ edit | edit source ]",
+          "^ Jagex. Mod Ash's Twitter account . 9 May 2019.  Archived from the original on 15 July 2019. Mod Ash: \"They only give F2P items.\""
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map",
+          "Barbarian Assault",
+          "Fortis Colosseum",
+          "Inferno",
+          "Mage Arena",
+          "Nightmare Zone",
+          "Pest Control",
+          "Tackle organised crime",
+          "Temple Trekking",
+          "TzHaar Fight Cave",
+          "TzHaar-Ket-Rak's Challenges",
+          "Bounty Hunter",
+          "Castle Wars",
+          "Clan Wars",
+          "Emir's Arena",
+          "Soul Wars",
+          "TzHaar Fight Pit",
+          "Last Man Standing",
+          "Brimhaven Agility Arena",
+          "Fishing Trawler",
+          "Forestry",
+          "Giants' Foundry",
+          "Gnome Ball",
+          "Gnome Restaurant",
+          "Guardians of the Rift",
+          "Hallowed Sepulchre",
+          "Impetuous Impulses",
+          "Mage Training Arena",
+          "Mahogany Homes",
+          "Mastering Mixology",
+          "Pyramid Plunder",
+          "Ranging Guild",
+          "Rogues' Den",
+          "Sorceress's Garden",
+          "Stealing artefacts",
+          "The Mess",
+          "Tithe Farm",
+          "Trouble Brewing",
+          "Volcanic Mine",
+          "Shades of Mort'ton",
+          "Tai Bwo Wannai Cleanup",
+          "The Gauntlet",
+          "Warriors' Guild",
+          "Burthorpe Games Room ( Games Zone )",
+          "Rat Pits",
+          "Tears of Guthix",
+          "Chambers of Xeric",
+          "Theatre of Blood",
+          "Tombs of Amascut",
+          "Champions' Challenge",
+          "Shooting Stars"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Blast mine",
+          "Camdozaal Vault",
+          "Chompy bird hunting",
+          "Creature Creation",
+          "Dorgesh-Kaan market trading",
+          "Keldagrim tasks",
+          "Managing Miscellania",
+          "Shayzien Combat Ring",
+          "Stealing valuables",
+          "Underwater Agility and Thieving",
+          "Wise Old Man tasks",
+          "Activities",
+          "Distractions and Diversions"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Free-to-play minigames",
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "28m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 2 April 2025, at 19:23.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Cryptic_clues": {
+    "source": "Cryptic_clues",
+    "sections": [
+      {
+        "section_title": "Treasure Trails/Guide/Cryptic clues",
+        "content": [
+          "ttgcr"
+        ]
+      },
+      {
+        "section_title": "Clue juggling can make this process quicker if solving many master clue scrolls.",
+        "content": [
+          "Contents"
+        ]
+      },
+      {
+        "section_title": "Lucky for you, A man called Reldo may have a clue.",
+        "content": [
+          "Players can immediately start the search without speaking to Reldo if they already own a strange device ."
+        ]
+      },
+      {
+        "section_title": "Easy Cryptic clues [ edit | edit source ]",
+        "content": [
+          "Thanks, Cecilia"
+        ]
+      },
+      {
+        "section_title": "Medium Cryptic clues [ edit | edit source ]",
+        "content": [
+          "Search for some crates in one of the houses.",
+          "Kill a Rellekka marketplace guard to obtain the key. ( Note: Starting the Horror from the Deep quest and speaking to Gunnjorn to obtain the Lighthouse key is required! Level 35 Agility is required to talk to Gunnjorn. You must also repair the bridge with two wooden planks , a hammer and 60 steel nails .)",
+          "Thanks, Cecilia",
+          "Kill any chicken to obtain a key. ( Note: The closest chicken is just by the entrance of the Ranging Guild , west of Seers' Village .)",
+          "Kill a guard dog at Handelmort Mansion to obtain the key.",
+          "Kill any pirate located around Brimhaven to obtain the key.",
+          "Answer: 5096",
+          "Answer: 6859",
+          "Kill a barbarian in Barbarian Village , Barbarian Outpost or the Blue Moon Inn to receive the key.",
+          "Kill a monk in Ardougne Monastery to obtain the key."
+        ]
+      },
+      {
+        "section_title": "Hard Cryptic Clues [ edit | edit source ]",
+        "content": [
+          "Walking from the land of many unimportant things leads to a choice of paths.",
+          "Answer: 8",
+          "Thanks, Cecilia",
+          "And dig by the gate to be my friend.",
+          "(He's a long way from home.)",
+          "Answer: 13112221",
+          "Feel free to quarrel and wind me up and dig while you shoot their heads."
+        ]
+      },
+      {
+        "section_title": "Players with 51 Agility can use the shortcut pipe from Edgeville Dungeon to direct access the clue location; a slash weapon or knife is not required in this case.",
+        "content": [
+          "Come see the fur which is right near me.",
+          "Often found with rod on mushroom.",
+          "Try checking the bookcase to find an answer.",
+          "Fortunately you do not have to go as far as to stand in a draft.",
+          "Search the crate, just west of the Air elementals , inside the Elemental Workshop . Note: A battered key is required to enter to workshop."
+        ]
+      },
+      {
+        "section_title": "Elite Cryptic clues [ edit | edit source ]",
+        "content": [
+          "Note: Killing Cerberus will count, but hellhounds inside the God Wars Dungeon will not count.",
+          "Or faster: from the Slayer ring teleport, east, jump west past mages, get pushed by wall crushers, south, south, west, west, south, search the tile (floor) to deactivate the log trap and jump over, south, south, \"go down\", but you'll fall right where the toad batta is.",
+          "Players need to slide down to where Trollweiss grows on Trollweiss Mountain ."
+        ]
+      },
+      {
+        "section_title": "Lucky for you, A man called Jorral may have a clue.",
+        "content": [
+          "For a list of all possible locations, see here .",
+          "Paddewwa , Edgeville Dungeon , near the earth warriors .",
+          "1 floor 2 floor of the Rogues' Castle in the deep Wilderness .",
+          "1 floor 2 floor of the Canifis Slayer Tower , just before the Infernal Mage ."
+        ]
+      },
+      {
+        "section_title": "A ring of visibility or a ring of shadows and ghostspeak amulet are required to make progress through the clue.",
+        "content": [
+          "Players with level 91 Agility can attach a long rope , purchased from the Darkmeyer General Store , to the rock next to the blue hat to instantly climb down the large cliff."
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Guides",
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "28m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 29 June 2022, at 03:40.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Emote_clues": {
+    "source": "Emote_clues",
+    "sections": [
+      {
+        "section_title": "Treasure Trails/Guide/Emote clues",
+        "content": [
+          "ttge"
+        ]
+      },
+      {
+        "section_title": "Emote clues involve equipping certain items in a particular location and performing an emote . These types of clues are featured in all levels of Treasure Trails . Once the emote has been performed, Uri will appear and give the player the next clue (or the reward, if the emote clue was the final step of the Treasure Trail). If the player has been requested to do another emote before talking to Uri, and they forgot to do it, he will say, I don't believe we have any business... but will not leave. The player can still perform the second emote and then talk to Uri to finish the clue. Easy clues require performing one emote, medium clues require performing two, and hard and above clues require performing one emote, then fighting an enemy such as the Double Agent . Elite clues do not involve fighting the Double Agent .",
+        "content": [
+          "Note that wearing any version of a required item different than the standard one will not work (for example, a Rune platebody (t) will not work in place of a Rune platebody )."
+        ]
+      },
+      {
+        "section_title": "For players who do Treasure Trails frequently, it is not recommended to keep items for all emote clues banked, as hundreds of different items are used across the Treasure Trail levels which take up significant bank space. Players with the appropriate construction level can build STASH units to store emote clue items near where the emote clue is located, saving bank space.",
+        "content": [
+          "A list of items used in each level of Treasure Trail can be found here .",
+          "Contents"
+        ]
+      },
+      {
+        "section_title": "6 Master Emote clues",
+        "content": [
+          "7 References"
+        ]
+      },
+      {
+        "section_title": "Beginner Emote clues [ edit | edit source ]",
+        "content": [
+          "Equip a gold ring and a gold necklace .",
+          "Equip a chef's hat and a red cape .",
+          "Equip a bronze axe and leather boots ."
+        ]
+      },
+      {
+        "section_title": "Easy Emote clues [ edit | edit source ]",
+        "content": [
+          "Equip a studded leather body , bronze platelegs and a normal staff with no orb .",
+          "Equip a coif , an iron platebody and leather gloves .",
+          "Equip an iron chain body , leather chaps and coif .",
+          "Equip iron platelegs , an emerald amulet and an oak longbow .",
+          "Equip a blue wizard hat , a bronze two-handed sword and HAM boots .",
+          "Have nothing equipped at all when you do.",
+          "Equip a coif , steel plateskirt and a sapphire necklace .",
+          "Equip a white apron , green gnome boots and leather gloves .",
+          "Equip an iron medium helmet , emerald ring and a white apron .",
+          "Equip a blue gnome robe top , HAM robe bottom and an unenchanted tiara .",
+          "Equip an emerald ring , a sapphire amulet , and a bronze chain body .",
+          "Equip an iron chain body , a sapphire ring and a longbow .",
+          "Equip a pink skirt , pink robe top and a body tiara .",
+          "Equip a steel full helmet , steel platebody and an iron plateskirt .",
+          "Equip a bronze dagger , iron full helmet and a gold ring .",
+          "Equip an air tiara and a staff of water .",
+          "Equip a desert shirt , leather gloves and leather boots .",
+          "Equip a desert shirt , green gnome robe bottoms and a steel axe .",
+          "Equip a cowl , a blue wizard robe top and an iron scimitar .",
+          "Equip bronze platelegs , a steel pickaxe and a steel medium helmet .",
+          "Have nothing equipped at all when you do.",
+          "Equip a gold necklace , a gold ring and a bronze spear .",
+          "Equip a green gnome hat , cream gnome top and leather chaps .",
+          "Equip an iron platebody , studded leather chaps and a bronze full helmet .",
+          "Equip a black axe , a coif and a ruby ring .",
+          "Equip a blue gnome robetop , a turquoise gnome robe bottom and an oak shortbow .",
+          "Equip a hard leather body , leather chaps and a bronze axe .",
+          "Equip a Mithril pickaxe, Black platebody and an Iron Kiteshield.",
+          "Equip a black cape , leather chaps and a steel mace .",
+          "Equip studded leather chaps , an iron kiteshield and a steel longsword .",
+          "Equip an emerald necklace , blue skirt , and turquoise gnome robe top .",
+          "Equip a green gnome robe top , HAM robe bottom and an iron warhammer ."
+        ]
+      },
+      {
+        "section_title": "Medium Emote clues [ edit | edit source ]",
+        "content": [
+          "Equip green d'hide chaps , a ring of dueling and a mithril med helm .",
+          "Equip an adamant platebody , adamant full helm and adamant platelegs .",
+          "Equip a green hat snakeskin boots and an iron pickaxe .",
+          "Equip a steel platebody , maple shortbow and a Wilderness cape ."
+        ]
+      },
+      {
+        "section_title": "While level 35 Agility is required to enter the arena itself, the clue can be completed without it. Upon entering from the gate, walk into the building located to the south. Inside the building, walk to the most south-eastern corner, and do the emote. The Team cape i , Team cape x and Team cape zero can also be used.",
+        "content": [
+          "Equip a brown apron , leather boots and leather gloves .",
+          "Equip a green d'hide body and chaps and a steel square shield .",
+          "Equip an adamant halberd , blue mystic robe bottom and a diamond ring .",
+          "Equip an adamant warhammer , mithril boots and a ring of life .",
+          "Equip blue gnome boots , a hard leather body and an unblessed silver sickle .",
+          "Equip an adamant sword , a sapphire amulet and an adamant plateskirt .",
+          "Equip an adamant sq shield , a bone dagger and mithril platebody .",
+          "Cry on top of the western tree in the Gnome Agility Arena. Indicate 'no' before you talk to me.",
+          "Equip a steel kiteshield , ring of forging , and green d'hide chaps .",
+          "Equip a bruise blue snelm , an air staff and a bronze square shield .",
+          "Equip a green gnome robe top , mithril platelegs and an iron two-handed sword .",
+          "Equip an air staff , bronze full helm and an amulet of power .",
+          "You need a rope to enter this cave the first time.",
+          "You always need a light source in the caves, except when you have built the fire of eternal light .",
+          "If using the Lumbridge Castle basement to access the caves via the northern entrance, you will need to step one square south of the cave entrance as the square next to the entrance does not work when you dance.",
+          "Two STASH units are provided, one near each of the main entrances. Building one of them will automatically build the other one.",
+          "Equip a steel longsword , blue d'hide body and blue mystic gloves .",
+          "Equip a brown apron , adamantite medium helm and snakeskin chaps .",
+          "Equip a mithril plate skirt , maple longbow and no boots.",
+          "Equip a maple longbow , green d'hide chaps and an iron med helm .",
+          "Equip purple gloves , a steel kiteshield and a mithril full helm .",
+          "Equip a mithril chainbody , green dragonhide chaps and a ruby amulet ."
+        ]
+      },
+      {
+        "section_title": "Otherwise, players must navigate through the Observatory Dungeon to reach this clue.",
+        "content": [
+          "Equip a ruby amulet , a mithril scimitar and a Wilderness cape .",
+          "Equip blue dragonhide vambraces , adamant boots and an adamant dagger .",
+          "Note: You cannot get this step playing Ironman Mode .",
+          "Equip a maple longbow , a ruby amulet and some steel platelegs .",
+          "Equip a blue wizard hat , a blue wizard robe and wear nothing on your legs."
+        ]
+      },
+      {
+        "section_title": "Hard Emote clues [ edit | edit source ]",
+        "content": [
+          "Equip any vestment stole and a heraldic rune shield .",
+          "Note: An axe and machete are required to enter the Kharazi Jungle , or players may also use two vines on either side of the jungle that require 79 Agility .",
+          "Equip a blue mystic hat , bone spear and rune platebody .",
+          "Equip an elemental shield , blue d'hide chaps and a rune warhammer .",
+          "Equip a blue d'hide body , blue d'hide vambraces and no jewellery.",
+          "Equip a blue mystic robe top , and any rune heraldic shield .",
+          "Equip a ring of life , an uncharged amulet of glory and an adamant two-handed sword .",
+          "Equip a mystic fire staff , a diamond bracelet and rune boots .",
+          "Equip a rune spear , rune platelegs and any rune heraldic helm .",
+          "Note : You need to complete Big Chompy Bird Hunting and Jungle Potion to start Zogre Flesh Eaters.",
+          "Equip a rune full helmet , blue d'hide chaps and a fire battlestaff .",
+          "Bring rope if you haven't completed the Mountain Daughter quest. Go up the top path, and use on the boulder ( fairy ring code: A J R ).",
+          "Equip mithril platelegs , a ring of life , and a rune axe .",
+          "Have no items equipped when you do.",
+          "Equip any headband and crozier ."
+        ]
+      },
+      {
+        "section_title": "The Wilderness Volcano is located in the north-east corner of the Wilderness . Players should be cautious of player killers and dangerous monsters. A Clue Box may also be helpful.",
+        "content": [
+          "Equip a diamond ring , amulet of power , and nothing on your chest and legs.",
+          "Equip rune platelegs, an iron platebody and blue d'hide vambraces .",
+          "Equip an adamant square shield , blue dragon vambraces and a rune pickaxe .",
+          "Equip a rune longsword , rune platebody and a rune plateskirt ."
+        ]
+      },
+      {
+        "section_title": "Elite Emote clues [ edit | edit source ]",
+        "content": [
+          "Equip black d'hide chaps , a spotted cape and a rolling pin .",
+          "Equip Legend's cape , a dragon battleaxe and an amulet of glory .",
+          "Equip a completed prayer book .",
+          "Equip any piece of sunfire fanatic armour .",
+          "Equip a rune crossbow , climbing boots and any mitre .",
+          "Equip a seercull , a combat bracelet , and helm of neitiznot .",
+          "Equip rune boots , a proselyte hauberk and a dragonstone ring .",
+          "Equip a granite shield , splitbark body , and any rune heraldic helm .",
+          "The rune heraldic helm is the rune helm from Treasure Trails , not the painted heraldic armour from player-owned houses !",
+          "Equip splitbark legs , dragon boots and a rune longsword .",
+          "Equip a Castle wars bracelet , a dragonstone amulet and a ring of forging .",
+          "Equip blue d'hide vambraces , a dragon spear and a rune plateskirt .",
+          "Make sure to bring a sled, otherwise you won't be able to complete the step. The poisoned dragon spear or rune plateskirt versions do not work.",
+          "Equip a Farmer's strawhat , Shayzien body (5) , and Pyromancer robes .",
+          "Equip only a black salamander .",
+          "Equip a dragon spear and red d'hide chaps .",
+          "Equip a lava battlestaff , black d'hide vambraces and a mind shield ."
+        ]
+      },
+      {
+        "section_title": "Master Emote clues [ edit | edit source ]",
+        "content": [
+          "Equip Bryophyta's staff and a nature tiara .",
+          "Equip a Zamorak full helm and the Shadow sword .",
+          "Equip a dragon battleaxe , a slayer helm of any kind and a dragon defender or avernic defender .",
+          "Equip a charged crystal bow .",
+          "Equip a set of full black dragonhide armour .",
+          "Equip only flared trousers .",
+          "Lockpick required to enter",
+          "The fire max cape , infernal cape , and infernal max cape work in place of a fire cape.",
+          "Equip Iban's staff , a black mystic top , and a black mystic bottom .",
+          "Note that the temple cannot be entered until the Regicide quest is started.",
+          "Equip any full barrows set .",
+          "Equip a death tiara , a legend's cape and any ring of wealth .",
+          "Equip a Zamorak godsword .",
+          "Zamorak godsword (or) can be used as substitute.",
+          "Partial completion of Garden of Tranquillity is required.",
+          "Equip arclight or emberlight along with the amulet of the damned .",
+          "Equip a dragon axe .",
+          "Equip a dragon plateskirt , climbing boots and a dragon chainbody .",
+          "Wear a dragon sq shield , splitbark body and any boater .",
+          "Equip a pharaoh's sceptre and a full set of menaphite robes .",
+          "Equip a Hueycoatl hide coif and some Hueycoatl hide vambraces .",
+          "References [ edit | edit source ]",
+          "^ Jagex. Mod Ash's Twitter account . 25 April 2019.  Archived from the original on 30 May 2020. Mod Ash: \"Interestingly, yes, that one is blocked for Iron players. The code does not say why.\""
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Guides",
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "28m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 20 April 2023, at 01:36.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Map_clues": {
+    "source": "Map_clues",
+    "sections": [
+      {
+        "section_title": "Maps are sorted by boxes and then by X, and then from left to right based on the location of the mark.",
+        "content": [
+          "Contents",
+          "1 Beginner Maps",
+          "2 Easy Maps",
+          "3 Medium Maps",
+          "4 Hard Maps",
+          "5 Elite Maps",
+          "Beginner Maps [ edit | edit source ]",
+          "Easy Maps [ edit | edit source ]",
+          "Medium Maps [ edit | edit source ]",
+          "Hard Maps [ edit | edit source ]",
+          "Warning:",
+          "Beware of level 145 dark warriors . This area is also a hotspot for player killers .",
+          "Elite Maps [ edit | edit source ]",
+          "Fairy ring code C L R is close to it. If you haven't completed Monkey Madness II then bring a ninja monkey greegree or Kruk greegree when using the fairy ring.",
+          "Fairy ring code B J S (76 Agility )"
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Guides",
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "29m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Dragonwilds Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 23 January 2022, at 20:57.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  },
+  "Coordinate_clues": {
+    "source": "Coordinate_clues",
+    "sections": [
+      {
+        "section_title": "During a Treasure Trail , a coordinate clue is a clue scroll that contains a set of coordinates. Much like the real-world longitude and latitude geographic coordinate system , where angular coordinates correspond to your north-south and east-west position, coordinates in Old School RuneScape indicate a precise point somewhere on the surface where the next clue scroll, or potentially the treasure casket, is buried. Coordinates are presented in the following format:",
+        "content": [
+          "03 degrees 00 minutes north/south 02 degrees 00 minutes east/west",
+          "In Old School RuneScape , one square of space is equivalent to 15/8 (1.875) minutes of arc. 0\u00b000' degrees north and 0\u00b000' degrees east is located in the middle of the Observatory ."
+        ]
+      },
+      {
+        "section_title": "These quests, which must be finished or partially completed, include: Bone Voyage , Regicide , Legends' Quest , Nature Spirit , The Grand Tree , Fairytale II - Cure a Queen , Troll Stronghold , Cabin Fever , The Fremennik Trials , and Watchtower . Some coordinates will also require a certain skill levels to complete the clue, though the required level is low.",
+        "content": [
+          "Medium Coordinates [ edit | edit source ]",
+          "Quick links: 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25",
+          "01 degrees 13 minutes east",
+          "01.13E",
+          "13 degrees 58 minutes east",
+          "13.58E",
+          "09 degrees 28 minutes east",
+          "09.28E",
+          "23 degrees 15 minutes east",
+          "23.15E",
+          "24 degrees 16 minutes east",
+          "24.16E",
+          "17 degrees 43 minutes east",
+          "17.43E",
+          "14 degrees 15 minutes east",
+          "14.15E",
+          "08 degrees 01 minutes east",
+          "08.01E",
+          "24 degrees 24 minutes west",
+          "24.24W",
+          "07 degrees 28 minutes east",
+          "07.28E",
+          "12 degrees 07 minutes east",
+          "12.07E",
+          "33 degrees 26 minutes east",
+          "33.26E",
+          "22 degrees 30 minutes east",
+          "22.30E",
+          "06 degrees 20 minutes east",
+          "06.20E",
+          "03 degrees 41 minutes west",
+          "03.41W",
+          "13 degrees 35 minutes east",
+          "13.35E",
+          "12 degrees 46 minutes east",
+          "12.46E",
+          "12 degrees 45 minutes east",
+          "12.45E",
+          "04 degrees 28 minutes east",
+          "04.28E",
+          "23 degrees 05 minutes east",
+          "23.05E",
+          "01 degrees 46 minutes west",
+          "01.46W",
+          "27 degrees 15 minutes east",
+          "27.15E",
+          "21 degrees 16 minutes east",
+          "21.16E",
+          "30 degrees 56 minutes east",
+          "30.56E",
+          "15 degrees 00 minutes east",
+          "15.00E",
+          "04 degrees 48 minutes east",
+          "04.48E",
+          "01 degrees 39 minutes west",
+          "01.39W",
+          "02 degrees 15 minutes east",
+          "02.15E",
+          "Rope",
+          "01 degrees 50 minutes west",
+          "01.50W",
+          "17 degrees 39 minutes east",
+          "17.39E",
+          "04 degrees 31 minutes east",
+          "04.31E",
+          "20 Agility for Shortcut",
+          "31 degrees 20 minutes east",
+          "31.20E",
+          "00 degrees 45 minutes west",
+          "00.45W",
+          "30 degrees 54 minutes east",
+          "30.54E",
+          "02 degrees 24 minutes west",
+          "02.24W",
+          "14 degrees 58 minutes east",
+          "14.58E",
+          "34 degrees 37 minutes east",
+          "34.37E",
+          "30 degrees 07 minutes west",
+          "30.07W",
+          "9 degrees 13 minutes east",
+          "9.13E",
+          "07 degrees 31 minutes east",
+          "07.31E",
+          "37 degrees 16 minutes west",
+          "37.16W",
+          "03 degrees 01 minutes east",
+          "03.01E",
+          "41 degrees 33 minutes east",
+          "41.33E",
+          "Hard Coordinates [ edit | edit source ]",
+          "Quick links: 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25",
+          "07 degrees 13 minutes west",
+          "07.13W",
+          "From Tyras Camp: go north past the dense forest, walk a few steps east and go south past the stick traps. Also can use fairy ring B J S and run north to Tyras Camp (requires 76 ).",
+          "From Lletya : go out of the city, past the trip wire, south over the leaf trap, past the Elf Tracker , west through the dense forest, over a second trip wire, north through another dense forest, then west and south past the stick trap.",
+          "08 degrees 05 minutes west",
+          "08.05W",
+          "From Lletya : Pass the tree, go west across the tripwire, continue west through the dense forest. Turn north and up the path to Prifddinas . Before the bridge and the water, head west through the dense forest. Then, keep going west past the leaves pitfall trap, then south-west past a stick trap.",
+          "From Port Tyras : Go north through dense forest then east; go south through dense forest; step over tripwire; go east through the dense forest then north-west for quite a while; jump over the leaves. Finally, continue west till you arrive at an elven lamp next to mushrooms. Head south down the small path to the pond. Pass the stick trap and dig by the north-east edge of the pond."
+        ]
+      },
+      {
+        "section_title": "This clue can be frustrating due to the frequency of activating the stick traps, which deal significant amounts of damage. There is a better success rate of passing the trap by turning off run and walking past the trap.",
+        "content": [
+          "It's recommended to follow this map in order to not get lost.",
+          "20 degrees 01 minutes east",
+          "20.01E",
+          "29 degrees 58 minutes east",
+          "29.58E",
+          "08 degrees 05 minutes east",
+          "08.05E",
+          "Partial completion of Fairytale II - Cure a Queen",
+          "Either a dramen or lunar staff",
+          "34 degrees 33 minutes east",
+          "34.33E",
+          "34 degrees 30 minutes east",
+          "34.30E",
+          "22 degrees 45 minutes east",
+          "22.45E",
+          "03 degrees 11 minutes east",
+          "03.11E",
+          "20 coins if Watchtower has not been completed, or if you have used the bridge to cross back (if you used the bridge to cross back, but have 71 , you don't need the coins)",
+          "04 degrees 24 minutes east",
+          "04.24E",
+          "16 degrees 16 minutes east",
+          "16.16E",
+          "03 degrees 09 minutes west",
+          "03.09W",
+          "31 degrees 15 minutes east",
+          "31.15E",
+          "10 degrees 05 minutes east",
+          "10.05E",
+          "21 degrees 48 minutes east",
+          "21.48E",
+          "15 degrees 07 minutes east",
+          "15.07E",
+          "12 degrees 26 minutes east",
+          "12.26E",
+          "In the middle of the Kharazi Jungle , next to the water pool. Remember to bring Radimus notes if you have not completed Legends' Quest . One can use fairy ring C K R and run south.",
+          "31 degrees 16 minutes east",
+          "31.16E",
+          "15 degrees 56 minutes east",
+          "15.56E",
+          "10 degrees 28 minutes east",
+          "10.28E",
+          "32 degrees 13 minutes west",
+          "32.13W",
+          "21 degrees 01 minutes east",
+          "21.01E",
+          "14 degrees 07 minutes east",
+          "14.07E",
+          "22 degrees 45 minutes east",
+          "22.45E",
+          "12 degrees 54 minutes east",
+          "12.54E",
+          "27 degrees 01 minutes east",
+          "27.01E",
+          "19 degrees 13 minutes east",
+          "19.13E",
+          "26 degrees 56 minutes east",
+          "26.56E",
+          "03 degrees 05 minutes west",
+          "03.05W",
+          "30 degrees 01 minutes west",
+          "30.01W",
+          "08 degrees 30 minutes east",
+          "08.30E",
+          "16 degrees 33 minutes east",
+          "16.33E",
+          "20 degrees 26 minutes east",
+          "20.26E",
+          "27 degrees 13 minutes east",
+          "27.13E",
+          "21 degrees 58 minutes east",
+          "21.58E",
+          "30 degrees 37 minutes west",
+          "30.37W",
+          "25 degrees 07 minutes east",
+          "25.07E",
+          "21 degrees 52 minutes east",
+          "21.52E",
+          "15 degrees 48 minutes east",
+          "15.48E",
+          "41 degrees 35 minutes east",
+          "41.35E",
+          "17 degrees 54 minutes east",
+          "17.54E",
+          "19 degrees 18 minutes east",
+          "19.18E",
+          "26 degrees 33 minutes east",
+          "26.33E",
+          "Easily reached by casting Annakarl Teleport or using its magic tablet equivalent .",
+          "41 degrees 33 minutes east",
+          "41.33E",
+          "02 degrees 01 minutes east",
+          "02.01E",
+          "16 degrees 33 minutes east",
+          "16.33E",
+          "26 degrees 24 minutes east",
+          "26.24E",
+          "22 degrees 28 minutes east",
+          "22.28E",
+          "18 degrees 43 minutes east",
+          "18.43E",
+          "17 degrees 05 minutes east",
+          "17.05E",
+          "23 degrees 24 minutes east",
+          "23.24E",
+          "Elite Coordinates [ edit | edit source ]",
+          "Quick links: 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26",
+          "02 degrees 35 minutes west",
+          "02.35W",
+          "35 degrees 50 minutes east",
+          "35.50E",
+          "27 degrees 35 minutes west",
+          "27.35W",
+          "11 degrees 52 minutes east",
+          "11.52E",
+          "27 degrees 09 minutes west",
+          "27.09W",
+          "42 degrees 50 minutes east",
+          "42.50E",
+          "08 degrees 07 minutes west",
+          "08.07W",
+          "13 degrees 26 minutes east",
+          "13.26E",
+          "6 degrees 48 minutes west",
+          "6.48W",
+          "26 degrees 56 minutes east",
+          "26.56E",
+          "02 degrees 13 minutes east",
+          "02.13E",
+          "03 degrees 48 minutes west",
+          "03.48W",
+          "09 degrees 07 minutes east",
+          "09.07E",
+          "35 degrees 24 minutes east",
+          "35.24E",
+          "10 degrees 48 minutes west",
+          "10.48W",
+          "43 degrees 22 minutes east",
+          "43.22E",
+          "24 degrees 31 minutes east",
+          "24.31E",
+          "30 degrees 54 minutes west",
+          "30.54W",
+          "20 degrees 50 minutes west",
+          "20.50W",
+          "43 degrees 11 minutes east",
+          "43.11E",
+          "36 degrees 20 minutes east",
+          "36.20E",
+          "15 degrees 30 minutes east",
+          "15.30E",
+          "27 degrees 26 minutes east",
+          "27.26E",
+          "08 degrees 01 minutes east",
+          "08.01E",
+          "10 degrees 33 minutes east",
+          "10.33E",
+          "19 degrees 05 minutes east",
+          "19.05E",
+          "12 degrees 05 minutes east",
+          "12.05E",
+          "02 degrees 31 minutes west",
+          "02.31W",
+          "07 degrees 41 minutes west",
+          "07.41W",
+          "08 degrees 07 minutes east",
+          "08.07E",
+          "03 degrees 52 minutes west",
+          "03.52W",
+          "24 degrees 13 minutes east",
+          "24.13E",
+          "Bandosian guard",
+          "or Antifire potion is recommended to bring for some protection against dragonfire attacks.",
+          "29 degrees 01 minutes east",
+          "29.01E",
+          "11 degrees 43 minutes west",
+          "11.43W",
+          "23 degrees 22 minutes east",
+          "23.22E",
+          "13 degrees 30 minutes east",
+          "13.30E",
+          "18 degrees 50 minutes east",
+          "18.50E",
+          "Bandosian guard",
+          "29 degrees 22 minutes east",
+          "29.22E",
+          "35 degrees 00 minutes east",
+          "35.00E",
+          "01 degrees 22 minutes east",
+          "01.22E",
+          "Master Coordinates [ edit | edit source ]",
+          "Quick links: 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25",
+          "From Lletya : Pass the tree, go west across the tripwire, continue west through the dense forest. Turn north and up the path to Prifddinas . Before the bridge and the water, head west through the dense forest. Then, keep going west past the leaves pitfall trap, then south-west past a stick trap.",
+          "From Port Tyras : Go north through dense forest then east; go south through dense forest; step over tripwire; go east through the dense forest then north-west for quite a while; jump over the leaves. Finally, continue west till you arrive at an elven lamp next to mushrooms. Head south down the small path to the pond. Pass the stick trap and dig by the north-east edge of the pond."
+        ]
+      },
+      {
+        "section_title": "This clue can be frustrating due to the frequency of activating the stick traps, which deal significant amounts of damage. There is a better success rate of passing the trap by turning off run and walking past the trap.",
+        "content": [
+          "It's recommended to follow this map in order to not get lost.",
+          "08 degrees 54 minutes west",
+          "08.54W",
+          "43 degrees 26 minutes east",
+          "43.26E",
+          "12 degrees 18 minutes east",
+          "12.18E",
+          "09 degrees 07 minutes east",
+          "09.07E",
+          "36 degrees 56 minutes east",
+          "36.56E",
+          "04 degrees 16 minutes west",
+          "04.16W",
+          "35 degrees 18 minutes east",
+          "35.18E",
+          "20 degrees 58 minutes west",
+          "20.58W",
+          "12 degrees 30 minutes east",
+          "12.30E",
+          "36 degrees 22 minutes east",
+          "36.22E",
+          "20 degrees 09 minutes east",
+          "20.09E",
+          "15 degrees 26 minutes east",
+          "15.26E",
+          "30 degrees 54 minutes west",
+          "30.54W",
+          "03 degrees 03 minutes east",
+          "03.03E",
+          "37 degrees 15 minutes west",
+          "37.15W",
+          "23 degrees 11 minutes west",
+          "23.11W",
+          "Players can make the ancient wizards unaggressive by going up the stairs and climbing down immediately.",
+          "15 degrees 58 minutes east",
+          "15.58E",
+          "7 degrees 26 degrees west",
+          "7.26.W",
+          "21 degrees 13 minutes west",
+          "21.13W",
+          "10 degrees 56 minutes west",
+          "10.56W",
+          "31 degrees 11 minutes west",
+          "31.11W",
+          "23 degrees 22 minutes east",
+          "23.22E",
+          "27 degrees 00 minutes east",
+          "27.00E",
+          "18 degrees 22 minutes east",
+          "18.22E",
+          "Changes [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Coordinate clues no longer require a chart , watch , or sextant in the player's inventory or bank in order to complete.",
+        "content": [
+          "Trivia [ edit | edit source ]",
+          "Assuming Gielinor is canonically on an Earth-sized planet, the continent's width (from the west shore of Lunar Isle to the east shore of Mos Le'Harmless ) is approximately 56\u00b0 10' 12\" (6,234 km or 3,874 miles). The continent's length from the north tip of the Iceberg to the south shore of the Pest Control Island is approximately 47\u00b0 48' 00\" (5,285 km or 3,284 miles).",
+          "References [ edit | edit source ]"
+        ]
+      },
+      {
+        "section_title": "Master",
+        "content": [
+          "Explore",
+          "Large spade"
+        ]
+      },
+      {
+        "section_title": "Clueless scroll",
+        "content": [
+          "Uri transform",
+          "Heavy casket",
+          "Scroll sack"
+        ]
+      },
+      {
+        "section_title": "Master clue scrolls",
+        "content": [
+          "Anagrams",
+          "Challenge scrolls",
+          "Ciphers",
+          "Coordinates",
+          "Cryptics"
+        ]
+      },
+      {
+        "section_title": "Emote clues",
+        "content": [
+          "Hot/Cold"
+        ]
+      },
+      {
+        "section_title": "Light boxes",
+        "content": [
+          "Maps"
+        ]
+      },
+      {
+        "section_title": "Arthur the Clue Hunter",
+        "content": [
+          "Cecilia",
+          "Charlie the Tramp",
+          "Falo the Bard",
+          "Jorral",
+          "Reldo",
+          "Sherlock",
+          "Strange casket",
+          "Uri",
+          "Watson",
+          "Ancient Wizard",
+          "Armadylean guard",
+          "Bandosian guard",
+          "Brassican Mage",
+          "Double agent",
+          "The Mimic",
+          "Third Age Mage",
+          "Third Age Ranger",
+          "Third Age Warrior",
+          "Saradomin wizard",
+          "Zamorak wizard",
+          "Emote items",
+          "Rewards",
+          "STASH",
+          "Noticeboard (Watson's house)",
+          "S.t.a.s.h chart",
+          "World map"
+        ]
+      },
+      {
+        "section_title": "Treasure Trails",
+        "content": [
+          "Guides",
+          "Pages with maps",
+          "Navigation menu",
+          "Personal tools",
+          "Not logged in",
+          "Talk",
+          "Contributions",
+          "Create account",
+          "Log in",
+          "Namespaces",
+          "Article",
+          "Discussion",
+          "Views",
+          "Read",
+          "Edit",
+          "Edit source",
+          "History",
+          "Refresh",
+          "Discord",
+          "Discord",
+          "Navigation",
+          "Main page",
+          "About us",
+          "Random page",
+          "Contact us",
+          "Donate",
+          "Recent changes",
+          "13m ago - MeneerPjoeterBliep",
+          "13m ago - Hewatt",
+          "28m ago - Hewatt",
+          "54m ago - WMC",
+          "Guides",
+          "Recent updates",
+          "List of quests",
+          "Achievement diaries",
+          "Combat achievements",
+          "Skill training",
+          "Money making",
+          "Calculators",
+          "DPS calculator",
+          "New player guide",
+          "User-created guides",
+          "Community",
+          "User help",
+          "Active discussions",
+          "OSRS Wiki Clan",
+          "Policies",
+          "More RuneScape",
+          "RuneScape Wiki",
+          "RSC Wiki",
+          "Tools",
+          "What links here",
+          "Related changes",
+          "Special pages",
+          "Printable version",
+          "Permanent link",
+          "Page information",
+          "New files",
+          "Browse properties",
+          "This page was last modified on 3 April 2025, at 10:05.",
+          "Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+          "Privacy policy",
+          "About the Old School RuneScape Wiki",
+          "Disclaimers",
+          "Terms of Use",
+          "Contact Weird Gloop",
+          "Mobile view"
+        ]
+      }
+    ]
+  }
+}

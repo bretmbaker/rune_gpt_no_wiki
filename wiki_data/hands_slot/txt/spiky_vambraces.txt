@@ -1,0 +1,52 @@
+[Weapon: Spiky Vambraces]
+
+
+Spiky vambracesareleather armourworn on the forearms, most commonly by low-level warriors, and often rangers (as there is no magic penalty), in place ofleather vambraces. They have the same stats as leather vambraces, except for a +2Strengthbonus. To make spiky vambraces, usekebbit clawson leather vambraces. This grants 6Craftingexperience. Level 32 Crafting is required to make any vambraces into spiked vambraces.
+Like the leather vambraces they are created from, this variant also has no skill requirements to be worn.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Attack at your own risk.
+General Store Value: 160 coins
+High alch: 96 coins
+Low alch: 64 coins
+Weight: 0.226 kg
+Grand Exchange Value: 11 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 2
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +4
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +1
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Used in Recommended Equipment]

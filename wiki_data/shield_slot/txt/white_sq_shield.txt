@@ -1,0 +1,49 @@
+[Weapon: White Sq Shield]
+
+
+Thewhite sq shieldis aWhite Knightsquare shieldthat requires 10Defenceand the completion of theWanted!questto wield. It has the same bonuses as ablack sq shield, with an added +1prayer bonus.
+Players can purchase it fromSir Vyvinafter achieving therankof Page (300black knightkills). It can also be bought on the Grand Exchange or obtained through trading other players.
+
+
+[Infobox]
+Released: 17 October2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A medium square shield.
+General Store Value: 1,152 coins
+High alch: 691 coins
+Low alch: 460 coins
+Weight: 3.628 kg
+Grand Exchange Value: 1,924 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 7
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +15
+- Slash: +16
+- Crush: +14
+- Magic: +0
+- Ranged: +15
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Shield slot

@@ -1,0 +1,49 @@
+[Weapon: Trailblazer Hood (T3)]
+
+
+Thetier 3 Trailblazer hoodis a tradeable cosmetic item. It is part of thetier 3 Trailblazer Relic Hunter, which can be purchased for 15,000 League points from theLeagues Reward Shop.
+This item can be stored in thearmour caseof acostume room. It can also be displayed (with the rest of the outfit and theTrailblazer cane) by using it on furniture built in theLeague hall'soutfit stand space.
+
+
+[Infobox]
+Released: 6 January2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: The headgear of a trailblazer relic hunter.
+General Store Value: 150,000 coins
+High alch: 90,000 coins
+Low alch: 60,000 coins
+Weight: 0.453 kg
+Grand Exchange Value: 728,099 coins
+Grand Exchange Daily Buy Limit: 5
+Grand Exchange Daily Trades Volume: 9
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

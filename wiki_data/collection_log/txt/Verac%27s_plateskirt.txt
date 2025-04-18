@@ -1,0 +1,4 @@
+Item: Verac's plateskirt
+Summary: Verac's plateskirt is melee armour worn in the legwear slot that is part of Verac the Defiled's set of Barrows equipment. To wear Verac's plateskirt, a player must have 70 Defence.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

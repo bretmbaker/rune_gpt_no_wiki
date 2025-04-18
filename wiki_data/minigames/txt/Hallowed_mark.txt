@@ -1,0 +1,145 @@
+[Minigame: Hallowed_mark]
+
+Hallowed mark
+
+
+
+
+
+
+
+Released | 4 June2020(Update)
+
+Members | Yes
+
+Quest item | No
+
+Leagueregion | Morytania✓
+
+
+
+Properties
+
+
+
+Tradeable | No
+
+Equipable | No
+
+Stackable | Yes
+
+Noteable | No
+
+Options | Drop
+
+Examine | Currency from a previous age.
+
+
+
+Values
+
+
+
+Value | 4,800 coins
+
+Alchemy | Not alchemisable
+
+Weight | 0 kg
+
+
+
+Advanced data
+
+
+
+Item ID | 24711
+
+Link | MOID
+
+
+
+Hallowed marksare the reward currency gained by lootingcoffinswithin theHallowed SepulchreinDarkmeyer. These can be used at theMysterious Hallowed Goodsshop.
+
+Hallowed marks were the currency ofHallowvaleduring theSecond Ageand earlyThird Age.[1]
+
+If used to purchaseHallowed sacks, the only reward with tradeable outputs, they are worth approximately795.33.
+
+Uses[edit|edit source]
+
+Reward | Cost in | Description
+
+ | Hallowed crystal shard | 1 | Used to teleport to the Hallowed Sepulchre lobby. They can be purchased from theMysterious Hallowed Goodsshop.
+
+ | Hallowed token | 10 | This token, when consumed within the Hallowed Sepulchre, will add an extra minute to the remaining time.
+
+ | Hallowed sack | 100 | When opened, hallowed sacks give loot found in coffins within the Hallowed Sepulchre.
+
+ | Hallowed grapple | 100 | This grapple, when equipped in the ammo slot, will always succeed grappling aPillarin the Hallowed Sepulchre.This grapple cannot be used anywhere outside of the crypt.
+
+ | Hallowed focus | 100 | This focus, when equipped in the off-hand slot, will remove the chance of failure when conjuringPortal Framesin the Hallowed Sepulchre.
+
+ | Hallowed symbol | 100 | This symbol, when equipped in the necklace slot, will halve the number of sacrifices required to aSaradomin Brazierin the Hallowed Sepulchre.
+
+ | Hallowed hammer | 100 | This hammer will never break nails when repairingBroken Bridgesin the Hallowed Sepulchre.
+
+ | Hallowed ring | 250 | This ring, when equipped in the ring slot, will prevent the user from losing time and taking damage when they fail an obstacle.It will "teleport them in the nick of time" and send them back to the start of the obstacle avoiding the time penalty, and eliminating the need to bring food.
+
+ | Dark dye | 300 | This dye can be used on any piece of thegraceful outfitto recolour it black and red.A total of 6 Dark dyes are needed to recolour the full graceful set, costing a total of1,800hallowed marks.
+
+ | Dark acorn | 3,000 | This acorn, when used on theGiant Squirrelpet, will turn it into ablack and red versionto match the dark graceful set.It is a permanent unlock and can be toggled back to its original colour at any time.
+
+ | Private instances | 200 | Through a dialogue option with theMysterious Stranger, this one-time payment unlocks private instances which alleviate the problem of other players setting off traps and ruining the initial pattern. This can be toggled off and on.
+
+Item sources[edit|edit source]
+
+Hallowed marks can be obtained from bothcoffins, as well as theGrand Hallowed Coffinat varying rates.[2]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Coffin (Hallowed Sepulchre) | 66 | 1–6 | Always | 
+
+Grand Hallowed Coffin | 66 | 8–10 | Always | 
+
+Gallery[edit|edit source]
+
+One hallowed markTwo hallowed marksThree hallowed marksFour hallowed marksFive hallowed marksTwenty five hallowed marks
+
+References[edit|edit source]
+
+v•t•eHallowed Sepulchre
+
+Obstacles | StatuesWizard StatueKnight StatueCrossbowman StatuePriest StatueSkilling challengesPillarBridgeSaradomin BrazierPortal FrameOtherStrange TilePlatformStairs | Statues | Wizard StatueKnight StatueCrossbowman StatuePriest Statue | Skilling challenges | PillarBridgeSaradomin BrazierPortal Frame | Other | Strange TilePlatformStairs
+
+Statues | Wizard StatueKnight StatueCrossbowman StatuePriest Statue
+
+Skilling challenges | PillarBridgeSaradomin BrazierPortal Frame
+
+Other | Strange TilePlatformStairs
+
+NPCs | Mysterious StrangerDarkmeyer SlaveDarkmeyer Slave (non-interactive)BatSpiderOwlJusticiar's servantsKnight of the LionKnight of the OwlKnight of the UnicornKnight of the WolfArchpriest of the UnicornPlayer spoofsc4ssi4nc0lect0r890fishrunner82Jynmad melvin96r2t2pnsh0Tyweast side49 |  | Mysterious StrangerDarkmeyer SlaveDarkmeyer Slave (non-interactive)BatSpiderOwl | Justiciar's servants | Knight of the LionKnight of the OwlKnight of the UnicornKnight of the WolfArchpriest of the Unicorn | Player spoofs | c4ssi4nc0lect0r890fishrunner82Jynmad melvin96r2t2pnsh0Tyweast side49
+
+ | Mysterious StrangerDarkmeyer SlaveDarkmeyer Slave (non-interactive)BatSpiderOwl
+
+Justiciar's servants | Knight of the LionKnight of the OwlKnight of the UnicornKnight of the WolfArchpriest of the Unicorn
+
+Player spoofs | c4ssi4nc0lect0r890fishrunner82Jynmad melvin96r2t2pnsh0Tyweast side49
+
+Rewards | Hallowed markHallowed crystal shardGameplay itemsHallowed tokenHallowed grappleHallowed focusHallowed symbolHallowed hammerHallowed ringMiscellaneousDark dyeDark acornHallowed sackMysterious pageRing of enduranceStrange hallowed tomeStrange old lockpick |  | Hallowed markHallowed crystal shard | Gameplay items | Hallowed tokenHallowed grappleHallowed focusHallowed symbolHallowed hammerHallowed ring | Miscellaneous | Dark dyeDark acornHallowed sackMysterious pageRing of enduranceStrange hallowed tomeStrange old lockpick
+
+ | Hallowed markHallowed crystal shard
+
+Gameplay items | Hallowed tokenHallowed grappleHallowed focusHallowed symbolHallowed hammerHallowed ring
+
+Miscellaneous | Dark dyeDark acornHallowed sackMysterious pageRing of enduranceStrange hallowed tomeStrange old lockpick
+
+Other | StrategiesMagical ObeliskCoffinGrand Hallowed CoffinNoticeboardMysterious Hallowed GoodsWell Hallowed AirWatch Your Step
+
+v•t•eCurrencies
+
+Tradeable | CoinsArchery ticketsNumulitesPlatinum tokensTrading sticks
+
+Untradeable | Agility arena ticketsAnima-infused barkAbyssal pearlsBarronite shardsBlood moneyBrimhaven voucherCastle wars ticketsEcto-tokensFrog tokensGolden nuggetsGlistening tearsHallowed marksMarks of graceMolch pearlsMermaid's tearsParamaya ticketsReward tokenStardustTermitesTokkulUnidentified mineralsWarrior guild tokens
+
+Virtual | Aga resinBounty Hunter pointsCarpenter pointsFoundry ReputationHonour pointsLast Man Standing pointsLeague PointsLye resinMox resinNightmare Zone reward pointsPieces of eightPizazz pointsPlauditsSlayer reward pointsQuest Speedrunning pointsVoid Knight commendation pointsZeal Tokens
+
+Discontinued | Survival tokensBounty Hunter pointsAgility arena ticket (discontinued)

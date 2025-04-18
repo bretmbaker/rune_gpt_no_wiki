@@ -1,0 +1,54 @@
+[Weapon: Enchanted Top]
+
+
+Theenchanted topis a part of theenchanted robesset worn in the chest slot. It requires 20Defenceand 40Magicto wear. It can be obtained fromhardTreasure Trails.
+The full set contains theenchanted hat, robe top and therobe bottom. There are no matching boots or gloves to go with these robes.
+
+
+[Infobox]
+Released: 20 February2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Enchanted Wizards robes.
+General Store Value: 120,000 coins
+High alch: 72,000 coins
+Low alch: 48,000 coins
+Weight: 2.721 kg
+Grand Exchange Value: 75,445 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 374
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +20
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +20
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

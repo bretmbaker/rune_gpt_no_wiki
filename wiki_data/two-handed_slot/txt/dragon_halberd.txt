@@ -1,0 +1,77 @@
+[Weapon: Dragon Halberd]
+
+
+Thedragon halberdis the third strongesthalberdinOld School RuneScape, and can only be equipped with 60Attack, 30Strength, and completion of theRegicidequest. Like all halberds, the dragon halberd is a two-handed weapon and can attack at arangeof 2 tiles, making it useful as ameleeweapon type that can be used tosafespotmonsters.
+Like most halberds, it has similar damage-per-second to itstwo-handed swordcounterpart, due to bearing the sameattack speedand similarcombat stats. Specifically, compared to thedragon 2h sword, the dragon halberd trades 4strength bonusin exchange for 3 additional slashattack bonusand some defensive bonuses, alongside the unique range bonus. Furthermore, its special attack,Sweep, also bears resemblance to the dragon 2h sword's special,Powerstab, because it hits multiple targets at once.
+
+
+[Infobox]
+Released: 20 September2004(Update)
+Members: Yes
+Quest item: Yes
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A dragon halberd.
+General Store Value: 250,000 coins
+High alch: 150,000 coins
+Low alch: 100,000 coins
+Weight: 3.175 kg
+Grand Exchange Value: 148,917 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 7,950
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +70
+- Slash: +95
+- Crush: +0
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: -1
+- Slash: +4
+- Crush: +5
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +89
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Jab | Stab | Controlled | 7 ticks (4.2s) | 2 tiles |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Aggressive |  | +3 Strength
+ | Fend | Stab | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player uses the dragon halberd's special attack,Sweep.
+A player uses the dragon halberd's special attack on a large monster.
+The dragon halberd has aspecial attackcalledSweep, consuming 30% of the player's special attack energy. In addition to a 10% damage boost, if used against "large" monsters (anything that is larger than 1x1, such as mostBossmonsters), the special attack will deal an additional second hit onto them, although with 25% reduced accuracy. It can also hit 10 NPCs in amulti-combat areain a 3x1 area centred on the main target. InPvP, it can only hit three players. This can deal very high damage in multi-combat situations where there are many enemies in close vicinity.
+Sweep's accuracy rolls against the opponent's slash defence roll.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward Chest (The Gauntlet) | N/A | 1(noted) | 2 × 1/24 | 
+Reward Chest (The Gauntlet)(Corrupted) | N/A | 1–2(noted) | 3 × 0.5/24 | 
+Reward casket (master) | N/A | 1 | 1/30.3 | 
+Zulrah | 725 | 1 | 2 × 2/248 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Greater Nechryael/Strategies(Bursting/Barraging)
+3 | Slayer task/Nechryael(Magic)

@@ -1,0 +1,182 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Biohazard (#38)
+
+
+
+
+
+Released | 23 October 2002 ( Update )
+
+Members | Yes
+
+Quest series | Elf , #2
+
+Lead developer(s) | Tom W
+
+
+
+Biohazard continues the storyline after the Plague City quest. The plot deepens as Elena finally gets a chance to process her plague samples . Buried under these samples lies a well-hidden secret.
+
+Details [ edit | edit source ]
+
+Start point | Talk to Elena in her house in East Ardougne . Show on map
+
+Official difficulty | Novice
+
+Official length | Short
+
+Description | This is the second part of an ongoing adventure. Help Elena discover the truth about the infamous Ardougne plague.
+Smuggle test samples across Ardougne to Elena's old mentor.
+
+Requirements | Completion of Plague City
+
+Items required | Pigeon cage (Can be obtained during the quest. Found behind Jerico's house) Priest gown top and bottom (can be obtained during the quest for a total of 12 coins from Asyff's Fancy Clothes Store ) Gas mask (can be obtained for free from the cupboard in Edmond and Alrena 's house in East Ardougne )
+
+Recommended | 10 Combat level Stamina or energy potions Fast travel to several locations Rimmington ( Rimmington teleport , Teleport to House if your house is in Rimmington, Explorer's Ring 2 , Skills necklace to the Crafting Guild or Rat Pits minigame teleport) Varrock ( Varrock teleport , Chronicle or Combat bracelet to the Champions' Guild) Ardougne ( Ardougne teleport )
+
+Enemies to defeat | Mourner (level 13)
+
+League notes | Asgarnia ✓ — location requirement Kandarin ✓ — location requirement Unlocking Fremennik ✓ will auto-complete the quest Unlocking Tirannwn ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Confiscated [ edit | edit source ]
+
+Items required: None.
+
+To begin, talk to Elena in East Ardougne , directly west of the shortcut log. She suggests talking to her father's friend, Jerico , who keeps communication with West Ardougne via his pigeons.
+
+Sneaking back [ edit | edit source ]
+
+Items required: Pigeon cage , bird feed , Gas Mask
+
+Speak to Jerico , who lives in a house just south of the northern bank of East Ardougne and just north of the chapel . Click on the cupboard on the north wall. Search it and you will find the required bird feed, then go behind the house to grab a pigeon cage .
+
+OPTIONAL: If you are planning on doing One Small Favour , grab and bank an extra 5 pigeon cages. The cages are fairly close to the quest objective so this isn't necessary.
+
+Speak to Omart , who can be found west of Ceril Carnillean 's house in East Ardougne , just south-west of the castle . When you talk to him, he says that although he can move you over the wall, it is too risky as the watchtower guards are too close to the wall. The guards need to be distracted so that you can find an opportunity to enter the city.
+
+Head to the small watchtower along the wall, directly north of Omart . Stand in the corner where the two spiked fences meet, put the bird feed on either fence, then click the cage in your inventory.
+
+Go back and talk to Omart , who will call out to his assistant, Kilron , to throw over the rope ladder. Climb over the ladder into West Ardougne (you must have the gas mask equipped otherwise you will not be able to progress any further with the storyline).
+
+Infiltrating the Mourner HQ [ edit | edit source ]
+
+Head to the Mourners' headquarters located in the north-eastern corner of the city. Try to enter, but you will not be allowed in due to the mourners eating their stew, you need to find a way to distract them. Go around the headquarters to the northern part, where you can see a cauldron being cooked in the backyard. Squeeze through a gap in the fence into the backyard, and pick up the rotten apple laying on the ground just to the west of the fence hole.
+
+Right click on the rotten apple and use it on the stew that is brewing in the cauldron. Squeeze back through the fence and walk around to the front of the building, and attempt to go inside again. One of the mourners will tell you that you're not permitted inside because several mourners are ill with food poisoning and are waiting for a doctor.
+
+Head to nurse Sarah 's house - the large building south-west of the West Ardougne church. Search the cupboard in the northern part of her house to obtain a medical gown . Equip the gown, and go back to the headquarters. The professional attire will easily fool the mourners into letting you into their base. For all subsequent visits to the headquarters during the quest, the gown must be worn at all times.
+
+Go upstairs and kill a mourner. A key will automatically be placed in the player's inventory. Use the key on the gate to get inside the caged room. Search the crate third from the left on the northern wall to find Elena 's distillator .
+
+Note for Skillers: After talking to the mourner, he will start attacking. A ring of recoil will quickly take him out and the key will appear in your inventory, without the need to do any damage.
+
+Go back to Elena by climbing down the manhole in the middle of the city and climbing the mud pile, and give her the distillator. Alternatively head back to Kilron at the south-eastern corner of West Ardougne . He will help the player get back over into East Ardougne .
+
+Touch Paper from Chemist [ edit | edit source ]
+
+Items required: Falador teleport or amulet of glory (optional), brown apron (optional) or House teleport if your house is located in Rimmington
+
+After talking to Elena and obtaining from her the Liquid honey , ethenea , sulphuric broline , and the plague sample , make your way to Rimmington via teleportation (note: the chemicals and plague sample will no longer get deleted).
+
+There are several ways to reach Rimmington:
+
+Walking south from Falador , or walking west from Port Sarim . Casting Teleport To House if the player-owned house is in Rimmington. A skills necklace can be used to teleport to the nearby Crafting Guild . A ring of the elements can be used to teleport to the crossroads south of the air altar . The fairy ring to the south on Mudskipper Point , AIQ . The ship from Corsair Cove , available after starting The Corsair Curse quest. The ship from Ardougne and Brimhaven , costing 30 coins (halved by Ring of Charos (a) and completing Cabin Fever ). The Balloon transport system can be used to drop the player off just north of the Crafting Guild .
+
+Go to the Chemist in western Rimmington.
+
+You will need to have the plague sample in your inventory to talk to him about this quest. He will then give you the touch paper needed to continue.
+
+Foresight [ edit | edit source ]
+
+Items required: Liquid honey , ethenea , sulphuric broline , and the plague sample .
+
+The chemist states that the Varrock guards are looking out for someone carrying suspicious materials. He recommends using his 3 errands runners to smuggle the items into Varrock.
+
+Chancy the gambler, Da Vinci the artist, and Hops the drinker are located right outside the chemist's house crowding around a fire. Talk to each of them to give them their respective vials. If you give the wrong vial to someone, give the remaining vials to the others, speak to them all in Varrock, then return to Elena to get new vials before repeating this step.
+
+Helper | Sample Vial | Reason
+
+Da Vinci | Ethenea | Da Vinci cannot use the ethenea to create a "work of art".
+
+Chancy | Liquid honey | Owing to its low value, Chancy cannot wager the liquid honey in a gamble.
+
+Hops | Sulphuric broline | Hops will not drink it because of its poisonous nature.
+
+So far, so good [ edit | edit source ]
+
+Items required: 12 coins or a priest gown top and bottom, the plague sample and touch paper .
+
+Go to Varrock and equip a priest gown set (you can buy one from Thessalia's Fine Clothes for 10 coins or Fancy dress shop owner to the north of Guidor for 12 coins), and proceed to the fenced area to the south-east. You can also speak to the Fancy dress shop owner and he will give you an old priest gown that is not good enough for sale (after reobtaining the vials).
+
+Head to the fenced-in enclosure in south-eastern Varrock. The guard will search you when you try and pass through the gate. The guard will confiscate the vials if you try and pass with them but the plague sample is safe to bring through .
+
+Go to the Dancing Donkey Inn (inside the gated area) with the plague sample and talk to Hops, Da Vinci, and Chancy to get the vials back. Having a full inventory will require you to obtain a new set from the chemist.
+
+Warning: Do not pass back through the gate at this point or your vials will be confiscated on return!
+
+If you did not bring the plague sample or papers with you, you can go to Varrock east bank and retrieve them, drop the vials at the gate, quickly run to Varrock east bank for the items, and quickly run back to pick up the vials.
+
+Telekinetic grab no longer works to grab the contents, if you try you're told you can't cast this spell on that object. So make sure to have both priest gown items before you enter.
+
+Secrets [ edit | edit source ]
+
+Items required: The plague sample , touch paper , a priest gown .
+
+If at this point you've forgotten your priest gown , you can obtain one for free by talking to Asyff in the Fancy Clothes Store . Equip your priest gown and head to Guidor 's house in the south-eastern corner of the gated area. Talk to Guidor to give him the vials and sample, and tell him that Elena has sent a sample that needs to be processed. After analysing it, he will come to a surprising conclusion. He tells you that the plague is just a lie.
+
+Return to Ardougne [ edit | edit source ]
+
+Return to Ardougne , and talk to Elena. When you tell her that Guidor found nothing in his results, she suggests that the plague must be a hoax and that you should speak to the person on top of this - King Lathas of East Ardougne . King Lathas is located just south of Elena's house, in his throne-room on the 1 st floor [ UK ] 2 nd floor [ US ] of the East Ardougne Castle .
+
+When told that the plague is in fact a hoax, the King replies that he did it for the best of his people, and that it protects them from a "far greater danger". He then tells the player about the journey of King Tyras - the king of West Ardougne and King Lathas's brother - towards the west and that he has been corrupted by the dark lord after drinking from the Chalice of Eternity. Hence, the wall has been erected between the cities to protect East Ardougne and in turn, all of RuneScape .
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+3 Quest points 1,250 Thieving experience Use of the Combat Training Camp north of the city. Players can attack a total of six training dummies in the camp for 50 attack experience each. The ability to travel freely through the West Ardougne gate. The ability to use the West Ardougne Teleport in the Arceuus spellbook and teletab.
+
+Required for completing [ edit | edit source ]
+
+Completion of Biohazard is required for the following:
+
+Recipe for Disaster : Freeing the Lumbridge Guide Underground Pass Ardougne Diary (Easy)
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+25 July 2019 ( update ) | Teleporting with the plague sample and vials no longer breaks them. The errand boy hands over the vials faster. Talking to the Chemist or Guidor does not affect quest items.
+
+Trivia [ edit | edit source ]
+
+Da Vinci is a reference to the famous multi-talented Italian, Leonardo da Vinci . The name of the man who helps you get over the wall, Jerico , could be a reference to Jericho's wall . The Dancing Donkey Inn is likely an allusion to the Inn of the Prancing Pony where Frodo and Sam go to meet Gandalf in The Lord of the Rings : The Fellowship of the Ring .
+
+v • t • e Biohazard
+
+NPCs | Elena Jerico Mourner Mourner (boss) Omart Kilron Nurse Sarah Chemist Guidor Julie King Lathas Guard Helpers Da Vinci Hops Chancy |  | Elena Jerico Mourner Mourner (boss) Omart Kilron Nurse Sarah Chemist Guidor Julie King Lathas Guard | Helpers | Da Vinci Hops Chancy
+
+ | Elena Jerico Mourner Mourner (boss) Omart Kilron Nurse Sarah Chemist Guidor Julie King Lathas Guard
+
+Helpers | Da Vinci Hops Chancy
+
+Items | Bird feed Pigeon cage Rotten apple Medical gown Key Distillator Plague sample Touch paper Priest gown Top Bottom Chemicals Liquid honey Sulphuric broline Ethenea Discontinued Lathas' amulet |  | Bird feed Pigeon cage Rotten apple Medical gown Key Distillator Plague sample Touch paper | Priest gown | Top Bottom | Chemicals | Liquid honey Sulphuric broline Ethenea | Discontinued | Lathas' amulet
+
+ | Bird feed Pigeon cage Rotten apple Medical gown Key Distillator Plague sample Touch paper
+
+Priest gown | Top Bottom
+
+Chemicals | Liquid honey Sulphuric broline Ethenea
+
+Discontinued | Lathas' amulet
+
+Locations | West Ardougne Rimmington Dancing Donkey Inn Combat Training Camp Mourner Headquarters
+
+Miscellaneous | Quick guide Transcript

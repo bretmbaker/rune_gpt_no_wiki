@@ -1,0 +1,53 @@
+[Page: Khazard_Teleport]
+
+Khazard Teleport
+
+Released | 24 July2006(Update)
+
+Members | Yes
+
+Level | 78
+
+Spellbook | Lunar
+
+Type | Teleport
+
+Experience | 80
+
+Runes | 422
+
+Casting speed | 4 ticks
+
+Description | Teleports you to Port Khazard
+
+Animation
+
+Sound effect
+
+Khazard Teleportteleports the caster toPort Khazard. As with allLunar spells, the questLunar Diplomacymust be completed to cast this spell.
+
+This is one of the few teleports that cannot be put in aplayer-owned houseportal chamberorportal nexus.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+422 | 598
+
+Combo runes
+
+224 | 1,014
+
+224 | 978
+
+224 | 1,070
+
+Main-hands
+
+22Alt | 578
+
+Off-hands
+
+22 | 578
+
+Destination[edit|edit source]

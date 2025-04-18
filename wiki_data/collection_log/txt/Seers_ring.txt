@@ -1,0 +1,4 @@
+Item: Seers ring
+Summary: The Seers ring is one of the four Fremennik rings, and is dropped by the Dagannoth Prime in the Waterbirth Island Dungeon.
+Sources:
+- Dagannoth Prime (Level 303, Quantity: 1, Rarity: 1/128)

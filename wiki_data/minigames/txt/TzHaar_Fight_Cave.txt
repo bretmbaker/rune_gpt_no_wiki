@@ -1,0 +1,279 @@
+[Minigame: TzHaar_Fight_Cave]
+
+ | This is a safe  activity.If youdiehere, you will not lose any of your items, including those stored inside anItem Retrieval Service(deathbank).Warning:It is still dangerous forHardcore group ironplayers.
+
+ | This article has astrategy guide.All information on mechanics and strategy will be on this page.
+
+TzHaar Fight Cave
+
+
+
+
+
+Released | 4 October2005(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Mor Ul Rek
+
+Leagueregion | Karamja✓
+
+Participants | 1
+
+Reward currency | Tokkul
+
+Tutorial | No
+
+Music | TzHaar!
+
+
+
+Map
+
+
+
+TheTzHaar Fight Cave, commonly referred to as theFight Caves, is a combat minigame in the outer area ofMor Ul Rek, located within theKaramjavolcano. Fully completing it is considered an early major challenge players will take on in Old School Runescape. 
+It involves single-handedly fighting off 63 waves of TzHaar creatures, including a boss fight against one of the strongest monsters in the game:TzTok-Jad. Players will be rewarded withTokkulfor playing this minigame, and if they manage to defeat TzTok-Jad, they will be rewarded with thefire cape.
+
+Up until this update, theKalphite Queenhad been thestrongest monsterinRuneScape. However, the introduction of the TzHaar Fight Cave introduced 2 new monsters, the level-360Ket-Zekand the level-702TzTok-Jad, both of which are higher in level, and more powerful.
+
+Location[edit|edit source]
+
+Deep under the ground ofKaramja, a new species of creature has been discovered. To find the entrance to this underground city, players must go into theCrandor and Karamja Dungeon. Once there, players will see a cave, which leads to Mor Ul Rek.
+
+Getting there[edit|edit source]
+
+Using the "TzHaar Fight Pit"minigame teleport.Using theBLPfairy ring and running north.
+
+Slayer[edit|edit source]
+
+Killing TzTok-Jad can be unlocked as a slayer task for 100 slayer points at Duradel, Nieve or Chaeldar. Defeating waves 1-62 of the fight caves gives 11,520 slayer experience. Jad gives another 25,250 experience.  Although optional, the four Yt-HurKot spawns can be killed on wave 63 for 60 slayer experience each.  This totals out to 36,770 (up to 37,010) experience for all of the fight caves.
+
+Monsters[edit|edit source]
+
+The TzHaar Fight Cave pits adventurers against a succession of monsters, each harder than the last. The final boss is the powerful level-702 TzTok-Jad, but to get to him, players must battle past 6 other types of monsters ranging from level-22 up to level-360.
+
+The monsters are in order of appearance:
+
+Lvl | Image | Name | HP |  |  | Attack(s) | Max Hit | Notes
+
+22 |  | Tz-Kih | 10 | 15 | 15 | Melee | 4 | DrainsPrayerwhileMelee'ing; useRangedor hit-and-run tactic to kill.
+
+45 |  | Tz-Kek | 20 | 30 | 30 | Melee | 7 | Recoils damage of 1 when attacked withMelee.
+
+22 |  | Tz-Kek | 10 | 15 | 30 | Melee | 4 | 2 appear after a 45 is killed.
+
+90 |  | Tok-Xil | 40 | 60 | 60 | Ranged,Melee | 13 | See thewave breakdownfor when to usePrayer.
+
+180 |  | Yt-MejKot | 80 | 120 | 120 | Melee | 25 | Can heal itself and other monsters that are below half their maximum hp
+
+360 |  | Ket-Zek | 160 | 240 | 240 | Magic,Melee | 54 | RangewithProtect from Magicon, and stay out of itsMeleerange.
+
+702 |  | TzTok-Jad | 250 | 480 | 480 | Magic,Ranged,Melee | 97 | Seebelow.
+
+108 |  | Yt-HurKot | 60 | 60 | 120 | Melee | 14 | 4 will spawn when TzTok-Jad falls below half HP. They will heal Jad if they are within melee range of it, or if they are in combat with the player and are within 4 tiles of Jad. Will sometimes heal themselves or adjacent Yt-HurKot that are below half hp if they cannot reach Jad.See theMonsters wiki pagefor techniques.
+
+TzTok-Jad[edit|edit source]
+
+At the final wave (wave 63), TzTok-Jad will emerge from where the orange Ket-Zek spawned and engage the player.
+
+Despite Jad's fairly low health, it is not to be underestimated - its attacks are immensely accurate and often deals massive damage, having a max hit of 95 for its magic attack and 97 for both melee and ranged, which can easily kill lower-leveled players in a single hit.
+
+Upon reaching half of its health, Jad will summon fourYt-HurKotinto the arena, who will make their way to it in order to heal it back to full health. If they successfully restore all of Jad's health before being killed, another set of healers will spawn when it reaches 50% or less health.
+
+Rewards[edit|edit source]
+
+If one is successful in defeatingTzTok-Jad, they will receive 8,032Tokkuland the untradeablefire cape— one of the best melee capes inOld School RuneScape. It provides much better protection than thecape of legendsand theobsidian cape, as well as slight offensive bonuses. The only strictly better melee cape is theinfernal cape, which is acquired from theInferno, a much harder version of the Fight Caves that requires sacrificing a fire cape to enter.
+
+Defeating TzTok-Jad has a 1/200 chance of awarding a petTzRek-jad. This chance is boosted to 1/100 if TzTok-Jad is defeated while on a Slayer task. In addition, players may exchange afire capeby speaking toTzHaar-Mej-Jalfor an additional 1/200 chance of obtaining the pet.
+
+Tokkul is rewarded based on how many waves are completed, with each wave giving two more tokkul than the last. The total can be calculated as2+4+6+..., or more simplyN⋅(N+1), whereNis the number of waves completed. An additional 4,000 Tokkul are rewarded for killing TzTok-Jad.[1][2]
+
+Rewards for completing theElite Karamja Diaryinclude doubledTokkulfrom the Fight Caves and one resurrection per day inside the Fight Caves.
+
+Map & wave breakdown[edit|edit source]
+
+Map breakdown[edit|edit source]
+
+The TzHaar Fight Cave is mapped out on the right.
+
+Monsters spawn in waves, with each wave getting progressively more difficult. You can look below, underWave breakdown, to see what monsters spawn in each wave. If you want to know exactly where the spawns are for the monsters on each wave, you can determine them based on the first two waves using theRotationsguide.
+
+One of the main safespots is theItaly Rock(nicknamed after its shape) which is located on the eastern side of the arena. Standingdirectlyon the western or southern wall of the Italy Rock will make the level 45Tz-Kekand level 180Yt-MejKotstuck on the corners. The Italy Rock is a great location to camp during waves where you encounter those monsters.
+
+The other two locations,Long RockandDragon Rockare also useful for safespots. Standing on the south side of the long rock or the west side of the dragon rock will lure all spawns to get stuck on them, except for the one that is immediately next to them.
+
+Note:As of the update on20 August2015, there are no longer static spawns in the fight caves. However, there is still a pattern to let you predict spawn points, although not quite as easy to remember. When entering the caves, the game chooses a random spot in the following cycle: SE, SW, C, NW, SW, SE, S, NW, C, SE, SW, S, NW, C, S. At the start of each wave, move the spot one forward, wrapping if necessary. The game then spawns the monsters in descending combat level order, starting from that spot. Using this information you can position yourself for each new wave to do it as effectively as possible. When it comes down to the TzTok-Jad spawn, it will spawn where the off-colouredKet-Zekspawned on the previous wave; this is the same location as the first 45 spawn. To better determine where the spawn points are, seeRotations.
+
+Wave breakdown[edit|edit source]
+
+The following table displays each wave the monsters will spawn.
+
+Wave | Monsters | Notes
+
+1 | Tz-Kih(level 22) | Kill using a hit-and-run tactic to prevent its Prayer drain.
+
+2 | Tz-Kih(level 22)Tz-Kih(level 22) | Again, hit and run!
+
+3 | Tz-Kek(level 45) | This spawn will be the same as the orange 360 on wave 62 and the same spawn as Jad.
+
+4 | Tz-Kek(level 45)Tz-Kih(level 22) | Always kill the fiery, bat-like, level-22Tz-Kihfirst using a hit-and-run tactic to prevent its Prayer drain![3]
+
+5 | Tz-Kek(level 45)Tz-Kih(level 22)Tz-Kih(level 22) | [3]
+
+6 | Tz-Kek(level 45)Tz-Kek(level 45) | 
+
+7 | Tok-Xil(level 90) | Activate Protect from Missiles againstTok-Xilif needed as its Ranged attack will be strong against a low level or mage.[4]
+
+8 | Tok-Xil(level 90)Tz-Kih(level 22) | [3]
+
+9 | Tok-Xil(level 90)Tz-Kih(level 22)Tz-Kih(level 22) | [3]
+
+10 | Tok-Xil(level 90)Tz-Kek(level 45) | 
+
+11 | Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kih(level 22) | [3]
+
+12 | Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+13 | Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kek(level 45) | 
+
+14 | Tok-Xil(level 90)Tok-Xil(level 90) | [4]
+
+Use smaller monsters, Italy Rock or Dragon Rock to block theYt-MejKots(180's). Seethis map![5]
+
+15 | Yt-MejKot(level 180) | Again,blockthe Yt-MejKot, or heal off it with Guthan's using Protect from Melee if necessary.
+
+16 | Yt-MejKot(level 180)Tz-Kih(level 22) | [3]
+
+17 | Yt-MejKot(level 180)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+18 | Yt-MejKot(level 180)Tz-Kek(level 45) | [5]
+
+19 | Yt-MejKot(level 180)Tz-Kek(level 45)Tz-Kih(level 22) | [3]
+
+20 | Yt-MejKot(level 180)Tz-Kek(level 45)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+21 | Yt-MejKot(level 180)Tz-Kek(level 45)Tz-Kek(level 45) | [5]
+
+22 | Yt-MejKot(level 180)Tok-Xil(level 90) | [4]
+
+23 | Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kih(level 22) | [3]
+
+24 | Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+25 | Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kek(level 45) | 
+
+26 | Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kih(level 22) | [3]
+
+27 | Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+28 | Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kek(level 45) | [5]
+
+29 | Yt-MejKot(level 180)Tok-Xil(level 90)Tok-Xil(level 90) | [4]
+
+30 | Yt-MejKot(level 180)Yt-MejKot(level 180) | As soon as you finish off the last 180, immediately activate Protect from Magic.
+
+From this point onwards, use Protect from Magic against the Ket-Zeks (360's), and disableAuto Retaliate.[6]
+
+31 | Ket-Zek(level 360) | Keep your distance as its Melee attack can deal devastating damage to a player within its range. The Hit-and-Run could work, but it's not advised for the inexperienced.
+
+32 | Ket-Zek(level 360)Tz-Kih(level 22) | [3]
+
+33 | Ket-Zek(level 360)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+34 | Ket-Zek(level 360)Tz-Kek(level 45) | 
+
+35 | Ket-Zek(level 360)Tz-Kek(level 45)Tz-Kih(level 22) | [3]
+
+36 | Ket-Zek(level 360)Tz-Kek(level 45)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+37 | Ket-Zek(level 360)Tz-Kek(level 45)Tz-Kek(level 45) | 
+
+38 | Ket-Zek(level 360)Tok-Xil(level 90) | Now that there is a mage present, it's advised to tank the range hits unless the mage is safespotted.
+
+39 | Ket-Zek(level 360)Tok-Xil(level 90)Tz-Kih(level 22) | [3]
+
+40 | Ket-Zek(level 360)Tok-Xil(level 90)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+41 | Ket-Zek(level 360)Tok-Xil(level 90)Tz-Kek(level 45) | 
+
+42 | Ket-Zek(level 360)Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kih(level 22) | [3]
+
+43 | Ket-Zek(level 360)Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kih(level 22)Tz-Kih(level 22) | Wave 43 represents the halfway point of total damage dealt from waves 1-62.
+
+44 | Ket-Zek(level 360)Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kek(level 45) | 
+
+45 | Ket-Zek(level 360)Tok-Xil(level 90)Tok-Xil(level 90) | Take out the rangers first.
+
+46 | Ket-Zek(level 360)Yt-MejKot(level 180) | Block the 180 with the 360,Italy or Dragon Rock, or other monsters when they spawn.[5][6]
+
+47 | Ket-Zek(level 360)Yt-MejKot(level 180)Tz-Kih(level 22) | [3]
+
+48 | Ket-Zek(level 360)Yt-MejKot(level 180)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+49 | Ket-Zek(level 360)Yt-MejKot(level 180)Tz-Kek(level 45) | [6]
+
+50 | Ket-Zek(level 360)Yt-MejKot(level 180)Tz-Kek(level 45)Tz-Kih(level 22) | [3]
+
+51 | Ket-Zek(level 360)Yt-MejKot(level 180)Tz-Kek(level 45)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+52 | Ket-Zek(level 360)Yt-MejKot(level 180)Tz-Kek(level 45)Tz-Kek(level 45) | [6]
+
+Remember the 'Bat (22) > Ranger (90) > Mager (360) > Meleer (180) > Blob (45)' killing order!
+
+53 | Ket-Zek(level 360)Yt-MejKot(level 180)Tok-Xil(level 90) | The ranger can be used to block the meleer if needed[6]
+
+54 | Ket-Zek(level 360)Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kih(level 22) | [3]
+
+55 | Ket-Zek(level 360)Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+56 | Ket-Zek(level 360)Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kek(level 45) | [6]
+
+57 | Ket-Zek(level 360)Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kih(level 22) | [3]
+
+58 | Ket-Zek(level 360)Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kih(level 22)Tz-Kih(level 22) | 
+
+59 | Ket-Zek(level 360)Yt-MejKot(level 180)Tok-Xil(level 90)Tz-Kek(level 45)Tz-Kek(level 45) | [6]
+
+60 | Ket-Zek(level 360)Yt-MejKot(level 180)Tok-Xil(level 90)Tok-Xil(level 90) | Kill the rangers first!
+
+61 | Ket-Zek(level 360)Yt-MejKot(level 180)Yt-MejKot(level 180) | This is the last wave to heal using Guthan's, or passively regen health in a safespot after killing the level 360.Activate Protect from Magicfor the next wave.Pay attention to where the orange Ket-Zek spawns next round.
+
+62 | Ket-Zek(level 360)Ket-Zek(level 360) | Once the wave starts,find the orange Ket-Zekas fast as you can.Tz-Tok-Jad will spawn exactly where the orange Ket-Zek spawns in the next round.Using distance or obstacles, force the last Ket-Zek behind cover or near the orange's spawn. If standing near the spawn, stay out of melee range from Tz-Tok-Jad's melee attack. Before killing the last Ket-Zek, restore your HP and Prayer. Start the next wave withProtect from Missilesactive, and have theprayer interfaceopen and be ready to switch Protection Prayers if neccesary. This is because there is no initial range sound prior to Jad hitting you whereas Jad's magic attack sounds like activating aRetributionprayer.
+
+63 | TzTok-Jad(level 702)Yt-HurKot(level 108)Yt-HurKot(level 108)Yt-HurKot(level 108)Yt-HurKot(level 108) | Tz-Tok-Jad uses Ranged by stomping his feet to the ground emitting cracks in an earthquake-like manner. He also attacks with Magic by growling, rearing up and dangling his forelegs before discharging a fireball as shown below. Once the wave starts, he will do either of the two. Prayer switchesmustoccur in-between Tz-Tok-Jad's footwork animation. If you switch while the projectile has already been unleashed, it will be too late, even if the projectile has not hit you yet.Four level 108 healers will appear when Tz-Tok-Jad is at half health, so attack each one from long range and drag them away from Jad while staying focused on Tz-Tok-Jad's footwork and attacks. If they've healed TzTok-Jad back to full health and are then killed, they will respawn; otherwise, not. They don't have to be killed to complete the Fight Cave. Be-careful luring the healers as being too close with Tz-Tok-Jad will give him a chance to do a melee attack which hits instantly thus will not give you room to react and switch.
+
+Tips[edit|edit source]
+
+Going into wave three, wherever the Tz-Kek spawns is where Jad will spawn later on. Pay attention to this spawn point, and exit/restart to ensure that the Tz-Kek spawn point is on the south side of the "Italy" rock. This allows you to have protection to pot up before beginning the fight with TzTok-Jad. Alternatively, you can guarantee a beneficial rotation by waiting to enter the fight caves until a time that corresponds to the desired rotation, as the rotation is determined by the exact time when the player enters the caves and cycles every hour or so. A full list of the times and rotations as well as the current time can be found hereTzHaar Fight Cave/Rotations
+
+Getting the 2+ Prayer boost atEdgeville Monasteryor the Nature Grotto may be a help in the caves.Alternatively, theancient macemay be used before entering, preferably on a POH dummy with strength-boosting Prayers, equipment and potions for 20 or more additional Prayer at entry. It can be used on theTz-Kek's at the end of waves as well.Especially in later waves (38+), you should stand in the north-eastern corner as 3 of 5 spawns get stuck that way behind Italy Rock and the other rock to the west.Whenever killing a safespotted monster behind another one, kill the un-safespotted ones first, then immediately attack the safespotted one, as the death animation of the un-safespotted one will allow you to get a free hit on the safespotted one.An exception to this is when using the level 45/22 Tz-Keks as a pseudo-safespot forYt-MejKot.You can REQUEST to log out of the game at anytime by clicking "Log Out" before you end your current round.After you complete the wave, the waves will pause and the next wave will not begin until you log out and log back in. If you log out before completing the wave, the wave will restart when you log in again. This is also useful for letting yourHitpointsregenerate in-between rounds. You can request a log out, get the message, and finish the wave, and let your Hitpoints regenerate, or you can just safespot everything in the current wave and wait for your Hitpoints to regenerate.Prayer flickingEagle Eye,Hawk EyeorRigouron theKet-Zeksis useful for saving prayer. It is also advised to disableAuto Retaliateduring the caves as theTok-XilsandKet-Zekscan lure you out of safespots, thus allowing the Yt-MejKots to melee you.Do not drink anySaradomin brewsunless you have to: if possible, wait until your Prayer is low, so you don't waste any prayer points from yoursuper restorepotions.Only a single dose of super restore is needed to restore combat stats after 3 doses of Saradomin brew.If possible, theSaradomin godswordishighlyuseful for completing the Fight Caves, as it restores both Hitpoints and Prayer, corresponding with the damage dealt. You can even safespot monsters while waiting for special energy to regenerate. If using the Saradomin godsword special attack on the level 180Yt-MejKots, it is advisable to get them down to half hp (39 or less to be safe) before using the special attack: this way they will use their own attack to heal, rather than to hit you. If usingVoid Knight equipment, it may be useful to bring a melee helmet as well as ranged if you are using a Saradomin godsword as a special attack weapon.Theancient macecan be used as a much cheaper, but less effective, alternative.Using the Regen Bracelet allows you to heal 2 Hitpoints per minute versus one. Useful when safespotting or have monsters stuck behind rocks.Using the Toxic Blowpipe has a chance to cause venom damage which will increase to 20 hit points. Useful for safe spotting the meleer or mager during the later rounds.
+
+Combat Achievements[edit|edit source]
+
+There are 10Combat Achievementtasks (totalling 50 points) available for TzTok-Jad.
+
+Name | Description | Type | Tier | Comp%
+
+A Near Miss! | Complete the Fight Caves after surviving a hit from TzTok-Jad without praying. | Mechanical | Elite (4 pts) | 29.9%
+
+Fight Caves Veteran | Complete the Fight Caves once. | Kill Count | Elite (4 pts) | 63.1%
+
+Facing Jad Head-on | Complete the Fight Caves with only melee. | Restriction | Elite (4 pts) | 7.8%
+
+Fight Caves Speed-Chaser | Complete the Fight Caves in less than 30 minutes. | Speed | Master (5 pts) | 3.8%
+
+Fight Caves Master | Complete the Fight Caves 5 times. | Kill Count | Master (5 pts) | 19.1%
+
+You Didn't Say Anything About a Bat | Complete the Fight Caves without being attacked by a Tz-Kih. | Mechanical | Master (5 pts) | 7.6%
+
+Denying the Healers | Complete the Fight caves without letting any of the Yt-MejKot heal. | Mechanical | Master (5 pts) | 15.4%
+
+No Time for a Drink | Complete the Fight Caves without losing any prayer points. | Restriction | Grandmaster (6 pts) | 1.2%
+
+Fight Caves Speed-Runner | Complete the Fight Caves in less than 26 minutes and 30 seconds. | Speed | Grandmaster (6 pts) | 1.8%
+
+Denying the Healers II | Complete the Fight Caves without TzTok-Jad being healed by a Yt-HurKot. | Mechanical | Grandmaster (6 pts) | 5.1%
+

@@ -1,0 +1,93 @@
+[Shop: Crossbow_limbs]
+
+Crossbow limbsaremembers-only items used to makecrossbows. They can be smithed, but most can also be purchased at thecrossbow shopsinKeldagrim,White Wolf Mountain, and theDwarven Mines. The experience andSmithinglevel needed to make them are as follows:
+
+Smithing table[edit|edit source]
+
+Level | Item | Materials | Experience
+
+6 |  | Bronze |  | 12.5
+
+13 |  | Blurite |  | 17
+
+23 |  | Iron |  | 25
+
+36 |  | Steel |  | 37.5
+
+56 |  | Mithril |  | 50
+
+76 |  | Adamantite |  | 62.5
+
+91 |  | Runite |  | 75
+
+v•t•eCrossbows
+
+Metal crossbows | BronzeBluriteIronSteelMithrilAdamantRune(or)Dragon(cr)
+
+Other crossbows | NormalPhoenixDorgeshuunHunters'Hunters' sunlightKaril'sDragon hunter(b) (t)ArmadylZaryte
+
+Unstrung crossbows | BronzeBluriteIronSteelMithrilAdamantRuniteDragon
+
+Crossbow limbs | BronzeBluriteIronSteelMithrilAdamantiteRuniteDragon
+
+Crossbow stock | WoodenOakWillowTeakMapleMahoganyYewMagic
+
+v•t•eFletching items
+
+Tools | KnifeChisel
+
+Logs | RegularOakWillowMapleAcheyTeakMahoganyYewMagicRedwood
+
+Bows | Bow stringUnstrung shortbowsRegularOakWillowMapleYewMagicUnstrung longbowsRegularOakWillowMapleYewMagicComp bowsComp ogre |  | Bow string | Unstrung shortbows | RegularOakWillowMapleYewMagic | Unstrung longbows | RegularOakWillowMapleYewMagic | Comp bows | Comp ogre
+
+ | Bow string
+
+Unstrung shortbows | RegularOakWillowMapleYewMagic
+
+Unstrung longbows | RegularOakWillowMapleYewMagic
+
+Comp bows | Comp ogre
+
+Crossbows | Crossbow stringStocksWoodenOakWillowTeakMapleMahoganyYewMagicLimbsBronzeBluriteIronSteelMithrilAdamantiteRuniteDragonUnstrungBronzeBluriteIronSteelMithrilAdamantRuniteDragon |  | Crossbow string | Stocks | WoodenOakWillowTeakMapleMahoganyYewMagic | Limbs | BronzeBluriteIronSteelMithrilAdamantiteRuniteDragon | Unstrung | BronzeBluriteIronSteelMithrilAdamantRuniteDragon
+
+ | Crossbow string
+
+Stocks | WoodenOakWillowTeakMapleMahoganyYewMagic
+
+Limbs | BronzeBluriteIronSteelMithrilAdamantiteRuniteDragon
+
+Unstrung | BronzeBluriteIronSteelMithrilAdamantRuniteDragon
+
+Ballistae | Ballista limbsBallista springMonkey tailLightFrameIncompleteUnstrungHeavyFrameIncompleteUnstrung |  | Ballista limbsBallista springMonkey tail | Light | FrameIncompleteUnstrung | Heavy | FrameIncompleteUnstrung
+
+ | Ballista limbsBallista springMonkey tail
+
+Light | FrameIncompleteUnstrung
+
+Heavy | FrameIncompleteUnstrung
+
+Arrows | Arrow shaftOgre arrow shaftFeatherHeadless arrowFlighted ogre arrowArrowtipsBronzeIronSteelMithrilAdamantRuneAmethystDragonBroadWolfbone |  | Arrow shaftOgre arrow shaftFeatherHeadless arrowFlighted ogre arrow | Arrowtips | BronzeIronSteelMithrilAdamantRuneAmethystDragonBroadWolfbone
+
+ | Arrow shaftOgre arrow shaftFeatherHeadless arrowFlighted ogre arrow
+
+Arrowtips | BronzeIronSteelMithrilAdamantRuneAmethystDragonBroadWolfbone
+
+Bolts | UnfinishedBronzeIronSteelMithrilAdamantRuniteDragonBluriteSilverBroadBolt tipsOpalJadePearlRed topazSapphireEmeraldRubyDiamondAmethystDragonstoneOnyx | Unfinished | BronzeIronSteelMithrilAdamantRuniteDragonBluriteSilverBroad | Bolt tips | OpalJadePearlRed topazSapphireEmeraldRubyDiamondAmethystDragonstoneOnyx
+
+Unfinished | BronzeIronSteelMithrilAdamantRuniteDragonBluriteSilverBroad
+
+Bolt tips | OpalJadePearlRed topazSapphireEmeraldRubyDiamondAmethystDragonstoneOnyx
+
+Javelins | Javelin shaftJavelin headsBronzeIronSteelMithrilAdamantRuneAmethystDragon |  | Javelin shaft | Javelin heads | BronzeIronSteelMithrilAdamantRuneAmethystDragon
+
+ | Javelin shaft
+
+Javelin heads | BronzeIronSteelMithrilAdamantRuneAmethystDragon
+
+Darts | Dart tipsBronzeIronSteelMithrilAdamantRuneAmethystDragon | Dart tips | BronzeIronSteelMithrilAdamantRuneAmethystDragon
+
+Dart tips | BronzeIronSteelMithrilAdamantRuneAmethystDragon
+
+Wooden shields | OakWillowMapleYewMagicRedwood
+
+Other | Celastrus barkTanzanite fangAmethyst

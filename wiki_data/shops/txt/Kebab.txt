@@ -1,0 +1,251 @@
+[Shop: Kebab]
+
+Kebab
+
+
+
+
+
+
+
+Released | 21 January2001(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Edible | Yes
+
+Options | Eat, Drop
+
+Examine | A meaty kebab.
+
+
+
+Values
+
+
+
+Value | 3 coins
+
+High alch | 1 coin
+
+Low alch | 1 coin
+
+Weight | 0.25 kg
+
+Respawn time | 100 ticks (60 seconds)
+
+
+
+Grand Exchange
+
+
+
+Exchange | 76coins (info)
+
+Buy limit | 6,000
+
+Daily volume | 189,568
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 1971
+
+Link | MOID
+
+
+
+Kebabsare a camel meat delicacy which can be purchased inAl Kharidand EastKeldagrimfor 1 coin each, or atPollnivneachfor 3 coins each. TheDrunken Dwarf,Mysterious Old Man, andSandwich Ladyrandom events may also grant the player a free kebab.
+
+Kebabscannotbe made through theCookingskill.
+
+Unlike normal food which restores a fixed amount ofHitpoints, kebabs have varied healing quantities when consumed. A player with 93–99 Hitpoints can expect to be healed 12 health on average.
+
+A kebab is an item used in theForgettable Tale...quest.
+
+Effects[edit|edit source]
+
+Outcome | Chance
+
+Melee stats are increased by 2 and player is healed by 7 + 24% of Hitpoints level.You eat the kebab.Wow, that was an amazing kebab! You feel really invigorated. | 1/32
+
+The player is healed by 6 + 14% of Hitpoints level.You eat the kebab.That was a good kebab. You feel a lot better. | 8/32
+
+The player is healed by 3 + 7% of Hitpoints level.You eat the kebab.It heals some health.[d 1] | 20/32
+
+There is no effect from eating the kebab.You eat the kebab.That kebab didn't seem to do a lot. | 1/32
+
+A random skill (except Hitpoints) is drained by 3.You eat the kebab.That tasted a bit dodgy. You feel a bit ill.Eating the kebab has damaged your [skill] stat.[d 2] | 1/32
+
+Melee stats are drained by 3 and a random skill (except Hitpoints) is drained by 4.You eat the kebab.That tasted very dodgy. You feel very ill.Eating the kebab has done damage to some of your stats.[d 2] | 1/32
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Super kebab |  | None | None | 1 ×Kebab1 ×Red hot sauce
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Certer | N/A | 1 | 16/150 | 
+
+Desert Lizard | 24 | 1 | 13/128 | 
+
+Drunken Dwarf | N/A | 1 | Always | 
+
+Lizard | 42 | 1 | 13/128 | 
+
+Mysterious Old Man | N/A | 1 | 16/150 | 
+
+Rick Turpentine | N/A | 1 | 16/150 | 
+
+Sandwich lady | N/A | 1 | 1/7 | 
+
+Sergeant Strongstack | 141 | 1 | 1/6 | 
+
+Small Lizard | 12 | 1 | 13/128 | 
+
+Spawns[edit|edit source]
+
+Location | Members | Spawns | Map | Leagueregion
+
+Entrana- house north of the bridge |  | 1 | Show map | Asgarnia✓
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Ali the Kebab seller | Pollnivneach | ∞ | N/A | 3 | N/A | 0.0% |  | 
+
+The Deeper Lode | Lovakengj | 2 | 9s | 4 | 1 | 2.0% |  | 
+
+Karim | Al Kharid | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Kjut's Kebabs | Keldagrim | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Changes[edit|edit source]
+
+Date | Changes
+
+17 July2007(update) | Kebabs can no longer reduce your Hitpoints and will affect a different skill instead.
+
+Trivia[edit|edit source]
+
+It is implied that the kebabs are made from camel meat.Ali the Camel ManinPollnivneachreveals about his discount camel store that "They're not just a source of kebab meat you know!"When using the "Talk-to Camel", the player character can quote "Mmm... looks like that camel would make a nice kebab."Eating kebabs is the only method oftemporarily boostingone's attack level in a free-to-play server (albeit very rarely).Kebabs originally had a chance of dealing damage to the player's hitpoints as an adverse effect; however, this feature was removed to prevent players from being killed inadvertently.
+
+v•t•eKebabs
+
+Kebab | KebabDrunken DwarfKebab (scenery)
+
+Ugthanki kebab | UgthankiUgthanki kebab(smelling)OnionTomatoChopped onionChopped tomatoOnion & tomatoUgthanki & tomatoUgthanki & onionKebab mixRaw ugthanki meatUgthanki meatPitta breadPitta doughBurnt pitta bread
+
+Super kebab | Super kebabRed hot sauce
+
+Varlamorian kebab | Varlamorian kebab
+
+Kebab sellers | Ali the Kebab sellerEmelioKarimKjut
+
+Event | Kristmas kebabSpecial super hot kebab
+
+v•t•eRandom events
+
+Beekeeper | Bee keeperBeekeeper's outfitHatTopLegsGlovesBoots |  | Bee keeper | Beekeeper's outfit | HatTopLegsGlovesBoots
+
+ | Bee keeper
+
+Beekeeper's outfit | HatTopLegsGlovesBoots
+
+Certer | NilesMilesGiles
+
+Drill Demon | Sergeant DamienSit upPush upStar jumpJogCamouflage outfitHelmetTopBottomsScenerySignExercise mat |  | Sergeant DamienSit upPush upStar jumpJog | Camouflage outfit | HelmetTopBottoms | Scenery | SignExercise mat
+
+ | Sergeant DamienSit upPush upStar jumpJog
+
+Camouflage outfit | HelmetTopBottoms
+
+Scenery | SignExercise mat
+
+Evil twin | Postie PeteMollySuspect
+
+Evil Bob | Evil BobServantFishlike thingRaw fishlike thingScapeRunePortalFishing spot
+
+Freaky Forester | Freaky ForesterPheasantRaw pheasantLederhosen outfitHatTopShorts |  | Freaky ForesterPheasantRaw pheasant | Lederhosen outfit | HatTopShorts
+
+ | Freaky ForesterPheasantRaw pheasant
+
+Lederhosen outfit | HatTopShorts
+
+Gravedigger | LeoCoffinZombie WalkZombie DanceZombie outfitMaskShirtTrousersGlovesBootsSceneryMausoleumGraveGravestone |  | LeoCoffinZombie WalkZombie Dance | Zombie outfit | MaskShirtTrousersGlovesBoots | Scenery | MausoleumGraveGravestone
+
+ | LeoCoffinZombie WalkZombie Dance
+
+Zombie outfit | MaskShirtTrousersGlovesBoots
+
+Scenery | MausoleumGraveGravestone
+
+Jekyll and Hyde | Dr JekyllMr Hyde
+
+Kiss the frog | FrogFrog PrinceFrog PrincessFrog tokenRoyal frog costumeFrog maskRoyal frog tunicRoyal frog leggingsRoyal frog blouseRoyal frog skirt |  | FrogFrog PrinceFrog PrincessFrog token | Royal frog costume | Frog maskRoyal frog tunicRoyal frog leggingsRoyal frog blouseRoyal frog skirt
+
+ | FrogFrog PrinceFrog PrincessFrog token
+
+Royal frog costume | Frog maskRoyal frog tunicRoyal frog leggingsRoyal frog blouseRoyal frog skirt
+
+Maze | Mysterious Old ManStrange shrineChest
+
+Mime | MimeStrange watcherGlass BoxClimb RopeLeanGlass WallMime outfitMaskTopLegsGlovesBoots |  | MimeStrange watcherGlass BoxClimb RopeLeanGlass Wall | Mime outfit | MaskTopLegsGlovesBoots
+
+ | MimeStrange watcherGlass BoxClimb RopeLeanGlass Wall
+
+Mime outfit | MaskTopLegsGlovesBoots
+
+Pinball | FlippaTilt
+
+Prison Pete | Prison PeteBalloon AnimalPrison key
+
+Quiz Master | Quiz MasterMystery boxStale baguette
+
+Surprise Exam | DunceMr. MordautBook of knowledgeStudentsZombieGiantMummyGoblinClassroom sceneryDoorEmpty deskCoat rackRat wheelRocking unicornStudents' artToy cornerWork board (runes) |  | DunceMr. MordautBook of knowledge | Students | ZombieGiantMummyGoblin | Classroom scenery | DoorEmpty deskCoat rackRat wheelRocking unicornStudents' artToy cornerWork board (runes)
+
+ | DunceMr. MordautBook of knowledge
+
+Students | ZombieGiantMummyGoblin
+
+Classroom scenery | DoorEmpty deskCoat rackRat wheelRocking unicornStudents' artToy cornerWork board (runes)
+
+Sandwich lady | Sandwich ladyBaguetteTriangle sandwichSquare sandwichChocolate barKebabRollMeat pie
+
+Other | Capt' Arnav's ChestCapt' ArnavCount CheckDrunken DwarfGenieLampPilloryPillory GuardRick TurpentineSpinach rollStrange plantStrange fruitScrapped eventsDuke of BridgelumPious PeteTaperSpeedy GnomeSavage birdBrownie |  | Capt' Arnav's ChestCapt' ArnavCount CheckDrunken DwarfGenieLampPilloryPillory GuardRick TurpentineSpinach rollStrange plantStrange fruit | Scrapped events | Duke of BridgelumPious PeteTaperSpeedy GnomeSavage birdBrownie
+
+ | Capt' Arnav's ChestCapt' ArnavCount CheckDrunken DwarfGenieLampPilloryPillory GuardRick TurpentineSpinach rollStrange plantStrange fruit
+
+Scrapped events | Duke of BridgelumPious PeteTaperSpeedy GnomeSavage birdBrownie

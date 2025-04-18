@@ -1,0 +1,39 @@
+Name: Shipyard worker
+Combat Level: 11
+Size: 1x1
+Info:
+- Description: Builds ships for a living.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 5457,5729,1430
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 10
+Attack: 10
+Strength: 10
+Defence: 10
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

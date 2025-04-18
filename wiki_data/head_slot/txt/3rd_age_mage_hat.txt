@@ -1,0 +1,63 @@
+[Weapon: 3Rd Age Mage Hat]
+
+
+The3rd age mage hatis a piece of the3rd age mage setworn in thehead slot. Requiring level 65Magicand 30Defenceto wear, it has the highest Magic attack bonus of all mage hats, tied withVirtus maskandancestral hat. It has aMagic damagebonus of 1%.
+The 3rd age mage hat is a possible reward fromhard,eliteandmastertierTreasure Trailsand cannot be made through any skills.
+
+
+[Infobox]
+Released: 5 December2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Fabulously ancient mage protection enchanted in the 3rd Age.
+General Store Value: 50,400 coins
+High alch: 30,240 coins
+Low alch: 20,160 coins
+Weight: 0.4 kg
+Grand Exchange Value: 33,469,771 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 19
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +8
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +8
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +1%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Mimic | N/A | 1 | 1/5,244;1/5,750 | 
+Reward casket (elite) | N/A | 1 | 1/249,262.5 | 
+Reward casket (hard) | N/A | 1 | 1/211,250 | 
+Reward casket (master) | N/A | 1 | 1/313,168 | 
+
+
+[Used in Recommended Equipment]
+Date | Changes
+29 May2024(update) | TheMagic damagebonus has been increased from 0% to 1%.
+26 June –3 July 2014 | The item's value was increased from 10,000 to 50,400.

@@ -1,0 +1,46 @@
+[Weapon: Void Knight Robe (Or)#Locked]
+
+
+TheVoid knight robe (or)is aVoid knight robewith aShattered relics void ornament kitadded onto it. The kit gives no additional bonuses, and is only used to add aesthetics to the robe.
+Whilst in its ornamented state, the robe can be reverted anytime, returning the void knight robe and kit.
+
+
+[Infobox]
+Released: 16 March2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle, Drop
+Examine: Void knight robes plucked from the shattered abyss.
+General Store Value: 45,000 coins
+High alch: 27,000 coins
+Low alch: 18,000 coins
+Weight: 8.164 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +30
+- Slash: +30
+- Crush: +30
+- Magic: +30
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

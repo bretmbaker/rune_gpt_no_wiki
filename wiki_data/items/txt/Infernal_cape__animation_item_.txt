@@ -1,0 +1,1 @@
+TheInfernal capeis an animation item that was temporarily equipped by the player when travelling through aFairy ringwhile wearing anInfernal cape. It is impossible for the game to render animated textures as transparent; therefore, this non-animated infernal cape was equipped during the animation. Aside from this, the item is unobtainable.

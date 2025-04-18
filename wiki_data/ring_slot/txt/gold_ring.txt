@@ -1,0 +1,65 @@
+[Weapon: Gold Ring]
+
+
+Agold ringcan be worn in thering slot, but they do not give bonuses and, like allrings, they are not visible on player characters. However, they can be sold for up to245.00coins toGrum's Gold ExchangeinPort Sarim.
+A gold ring is a reward found in theCasketfrom thePirate's Treasurequest, and an item found inbird nests. It is also a possible reward from theCapt' Arnav's Chestrandom event.
+
+
+[Infobox]
+Released: 8 May2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A valuable ring.
+General Store Value: 350 coins
+High alch: 210 coins
+Low alch: 140 coins
+Weight: 0.004 kg
+Respawn time: 500 ticks (300 seconds)
+Grand Exchange Value: 154 coins
+Grand Exchange Daily Buy Limit: 18,000
+Grand Exchange Daily Trades Volume: 429,715
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Bird nest (ring) | N/A | 1 | 35/100 | 
+Capt' Arnav's Chest | N/A | 1 | 1/4 | 
+Casket (Pirate's Treasure) | N/A | 1 | Always | 
+Chest (stealing valuables) | 50 | 1 | 10/6,250 | 
+Christmas cracker | N/A | 1 | Always | N/A
+Crawling Hand | 7; 8; 11; 12 | 1 | 3/128 | 
+Crushing hand | 45 | 1 | 3 × 3/128 | 
+Jewellery case (stealing valuables) | 50 | 1 | 10/6,250 | 
+Mummy (Ancient Pyramid) | 103 | 1 | 40/513 | 
+Small chest | N/A | 1 | 5/150 | 
+Wardrobe (stealing valuables) | 50 | 1 | 10/6,250 | 

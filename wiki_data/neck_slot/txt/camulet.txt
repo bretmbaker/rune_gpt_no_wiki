@@ -1,0 +1,47 @@
+[Weapon: Camulet]
+
+
+Camuletis a reward fromEnakhra's Lament. When equipped, its wearer can speak to certaincamelsfound inAl Kharidand throughout the Kharidian desert.
+The Camulet has four charges to teleport to the desert, insideEnakhra's TemplenearLazim. With the hardDesert Diarycompleted, the teleport destination can be switched to the temple entrance near thequarry.
+
+
+[Infobox]
+Released: 23 January2006(Update)
+Members: Yes
+Quest item: Enakhra's Lament
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check-charge, Rub, Drop
+Worn options: Check, Teleport, Temple, Surface
+Examine: An amulet of Camel-speak. It makes vague braying noises.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.007 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

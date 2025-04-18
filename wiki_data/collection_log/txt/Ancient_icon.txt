@@ -1,0 +1,5 @@
+Item: Ancient icon
+Summary: The ancient icon is an untradeable drop received from defeating the Phantom Muspah, who can be fought upon completion of Secrets of the North. It can be brought to Eblis alongside the ancient staff to upgrade it to the ancient sceptre. This process is irreversible and the sceptre is untradeable.
+Sources:
+- Frozen cache (Level N/A, Quantity: 1, Rarity: 1/250)
+- Phantom Muspah (Level 741, Quantity: 1, Rarity: 2/100)

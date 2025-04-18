@@ -1,0 +1,56 @@
+[Weapon: Maple Blackjack(D)]
+
+
+Themaple blackjack(d)is a weapon mainly used to lure/knockout NPCs. It is the best defensive blackjack available. 30 Defence and 30 Thieving are required to equip and use it. To obtain one, the player must have completed the blackjack section of theRogue Traderminigame. When the blackjacks are set to 'defensive', they can be purchased fromAli Morrisane.
+There are three NPCs that can be lured/knocked out with this blackjack:Villagers,BanditsandMenaphite Thugs, all located inPollnivneach. TheThievinglevels required to lure these are 30, 45, and 65 respectively. When fighting with a blackjack there is a slight chance tostunthe opponent.
+
+
+[Infobox]
+Released: 15 August2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A defensive blackjack.
+General Store Value: 1,600 coins
+High alch: 960 coins
+Low alch: 640 coins
+Weight: 1.814 kg
+Grand Exchange Value: 1,306 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 28
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +24
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +20
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

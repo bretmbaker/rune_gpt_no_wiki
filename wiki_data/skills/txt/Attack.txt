@@ -1,0 +1,401 @@
+[Skill: Attack]
+
+ | This article has skill training guides:Members/Ironman/Free-to-playSkill training guidesdocument optimal XP/hour methods to train a skill, as well as alternate passive or less expensive methods.
+
+Attack
+
+
+
+
+
+
+
+Released | 4 January2001(Update)
+
+Also called | Att, Atk
+
+Members | No
+
+Type | Combat
+
+
+
+Statistics
+
+
+
+Players with99 | 409,360as of 1 April 2025 -update
+
+Players with200M XP | 542as of 3 April 2025 -update
+
+
+
+Attackis aplayer'saccuracy inmeleecombat. As a player raises their Attack level, they can deal damage more consistently as well as wieldweaponsof stronger materials.
+
+ | Attack level up - normal
+
+The music that plays when levelling up.
+
+
+
+ | Attack level up - with unlocks
+
+The music that plays when levelling up and unlocking new content.
+
+
+
+Fighting accurately[edit|edit source]
+
+In order to efficiently gainexperiencein the Attack skill, players must choose either theaccurateorcontrolledattack style. While using theaccuratestyle, players gain an invisible +3 attack bonus and gain 4 attack xp per point of damage inflicted. While using thecontrolledstyle, players gain an invisible +1 attack bonus (and +1 strength and 1+ defence bonus) and gain 1.33 attack xp per point of damage inflicted. Attack isused to calculate the accuracy of your attacksagainst an enemy's defence.
+
+Attack bonuses[edit|edit source]
+
+Someweaponsgive playersAttack bonuseswhen using certainattack types. These bonuses are noted in theEquipment Statssection of the equipment menu. Attack bonuses give players advantages as well as disadvantages inmeleecombat, based on their target's strengths and weaknesses.
+
+Attack type | Suitable weapons
+
+Stab | Daggers,swords,longswords, andpickaxes.
+
+Slash | Swords,longswords,axes,scimitars,battleaxes, andtwo-handed swords.
+
+Crush | Maces,battleaxes,warhammers,pickaxes,axes, andtwo-handed swords.
+
+Other Attack bonuses[edit|edit source]
+
+Thebeads of the deadgives +1 to all melee attack bonuses.Anamulet of accuracygives +4 to all melee attack bonuses.Anamulet of powergives +6 to all melee attack bonuses.Anamulet of glorygives +10 to all melee attack bonuses.Anamulet of furygives +10 to all melee attack bonuses, but greaterDefence,Strength, andPrayerbonuses than the amulet of glory.Anamulet of torturegives +15 to all melee attack bonuses.Theamulet of rancourgives +25 to all melee attack bonuses.TheMythical capegives +6 crush attack bonus.TheFire capegives +1 to all melee attack bonuses.TheInfernal capegives +4 to all melee attack bonuses.AWarrior ring (i)gives +8 slash attack bonus.ABellator ringgives +20 slash attack bonus.ABrimstone ringgives +4 to all melee attack bonuses.ADwarven helmetgives +6 crush attack bonus.AZombie helmetgives +8 crush attack bonus.TheUnholy bookgives +8 to all melee attack bonuses.ADragon defendergives +25 stab, +24 slash, and +23 crush attack bonuses.TheAvernic defendergives +30 stab, +29 slash, and +28 crush attack bonuses.Anyglovesreceived as a reward from theCulinaromancer's Chest as a reward from theRecipe for Disasterquest gives substantial attack bonuses instab,slashandcrush; with later unlocks having greater bonuses.Bronze glovesgive +2 to all melee attack bonuses.Iron glovesgive +3 to all melee attack bonuses.Steel glovesgive +4 to all melee attack bonuses.Black glovesgive +5 to all melee attack bonuses.Mithril glovesgive +6 to all melee attack bonuses.Adamantite glovesgive +7 to all melee attack bonuses.Rune glovesgive +8 to all melee attack bonuses.Dragon glovesgive +9 to all melee attack bonuses.Barrows glovesgive +12 to all melee attack bonuses.TheFerocious glovesgive +16 to all melee attack bonuses.
+
+See alsothe highest possible bonuses for each style.
+
+Levels[edit|edit source]
+
+In order to wieldweapons, a certain Attack level requirement must be met. Commonly used items and their corresponding level requirements are as follows:
+
+Level | Weapon | Other requirements
+
+1 |  | Bronze | None.[1]
+
+1 |  | Iron | None.[1]
+
+1 |  | Machetes | None.
+
+5 |  | Steel | None.[1]
+
+10 |  | Black | None.[1]
+
+10 |  | White | Completion of theWanted!quest.
+
+15 |  | Ancient mace | 25and partial completion ofAnother Slice of H.A.M.
+
+20 |  | Mithril | None.[1]
+
+30 |  | Adamant | None.[1]
+
+30 |  | Battlestaves | 30
+
+30 |  | Swamp lizard | 3030
+
+40 |  | Brine sabre | None.
+
+40 |  | Mystic staves | 40
+
+40 |  | Rune | None.[1]
+
+42 |  | Void knight mace | 42,,,,,, and22
+
+50 |  | Ancient staff | 50and completion ofDesert Treasure I.
+
+50 |  | Granite maul | 50
+
+50 |  | Granite hammer | 50
+
+50 |  | Iban's staff | 50and completion ofUnderground Pass.
+
+50 |  | Purging staff | 77
+
+50 |  | Leaf-bladed spear | 55
+
+50 |  | Leaf-bladed sword | 55
+
+50 |  | Orange salamander | 5050
+
+55 |  | Sulphur blades | None.
+
+60 |  | Barrelchest anchor | 40and completion ofGreat Brain Robbery.
+
+60 |  | Dragon | Thedragon longswordanddragon daggerrequire completion of theLost Cityquest.Thedragon maceanddragon battleaxerequire completion of theHeroes' Quest.Thedragon halberdrequires completion ofRegicide.[1]Thedragon scimitarrequires completion ofMonkey Madness I.
+
+60 |  | Obsidian | TheObsidian maul (Tzhaar-ket-om)instead requires60, with no attack requirement.TheObsidian staffalso requires60
+
+60 |  | Red salamander | 6060
+
+60 |  | Viggora's chainmace | None.
+
+65 |  | 3rd age longsword | None.
+
+65 |  | Keris partisan | Completion ofBeneath Cursed Sands.
+
+65 |  | Leaf-bladed battleaxe | 55
+
+65 |  | Sarachnis cudgel | None.
+
+65 |  | Zombie axe | None.
+
+70 |  | Abyssal bludgeon | 70
+
+70 |  | Abyssal dagger | None.
+
+70 |  | Abyssal whip | None.
+
+70 |  | Avernic defender | 70
+
+70 |  | Barrows | 70forDharok's greataxeandTorag's hammers.70forAhrim's staff.
+
+70 |  | Black salamander | 7070
+
+70 |  | Blue moon spear | 75
+
+70 |  | Crystal halberd | 3550and completion of theHard Western Provinces Diary.
+
+70 |  | Dual macuahuitl | 75
+
+70 |  | Saradomin sword | None.
+
+70 |  | Ursine chainmace | None.
+
+70 |  | Zamorakian spear(Hasta) | None.
+
+75 |  | Abyssal tentacle | None.
+
+75 |  | Arclight | Completion ofShadow of the Storm.
+
+75 |  | Elder maul | 75
+
+75 |  | Godswords | None.
+
+75 |  | Saradomin's blessed sword | None.
+
+75 |  | Staff of the dead | 75
+
+75 |  | Voidwaker | None.
+
+77 |  | Emberlight | 74(boostable).Completion ofWhile Guthix Sleeps.
+
+78 |  | Dragon hunter lance | Barbarian firemaking (excl. pyre step), fishing, and smithing training.
+
+80 |  | Blade of Saeldor | None.
+
+80 |  | Ghrazi rapier | None.
+
+80 |  | Inquisitor's mace | None.
+
+80 |  | Keris partisan of breaching(corruption)(the sun) | Completion ofTombs of Amascut.
+
+80 |  | Noxious halberd | None.
+
+80 |  | Scythe of vitur | 90
+
+80 |  | Soulreaper axe | 80
+
+80 |  | Tecu salamander | 8080
+
+82 |  | Osmumten's fang | None.
+
+Temporary boosts[edit|edit source]
+
+Boost | Levelincrease | Visibility | Other info
+
+ | Attack cape | 1 | Visible | Activating the cape's effect will increase the corresponding skill by 1.
+
+ | Bandit's brew | 1 | Visible | Hitpoints1Defence- floor(CurrentLevel * 0.06) - 3Strength- floor(CurrentLevel * 0.06) - 3Thieving1
+
+ | Cup of tea | 2 | Visible | Hitpoints3Up to 5 doses can be stored in atea flask.
+
+ | Jangerberries | 2 | Visible | Defence- 1Strength1Prayer1
+
+ | Kebab | 1-3 | Visible | 4% chance to do so. Available tofree-to-playplayers. Seekebabfor details.
+
+ | Poison chalice | 1, 4 | Visible | Has a variety of beneficial and disastrous effects. Seepoison chalicefor details.
+
+ | Spicy stew(red spice) | ±0-5 | Visible | Hitpoints11Depending on type of stew, any skill exceptHitpointscan be boosted or reduced by 0 to 5 levels randomly.
+
+ | Blood pint | 2-5 | Visible | Attack2 + floor(StaticLevel * 0.04)Strength2 + floor(StaticLevel * 0.04)Magic- floor(CurrentLevel * 0.04) - 2Prayer- floor(CurrentLevel * 0.04) - 2
+
+ | Attack potion | 3-12 | Visible | Attack3 + floor(StaticLevel * 0.1)
+
+ | Attack mix | 3-12 | Visible | Hitpoints3 per dose.Attack3 + floor(StaticLevel * 0.1)RequiresBarbarian training.
+
+ | Combat potion | 3-12 | Visible | Attack3 + floor(StaticLevel * 0.1)Strength3 + floor(StaticLevel * 0.1)Provides the boosts of a normalattackandstrength potionin one potion.
+
+ | Combat mix | 3-12 | Visible | Hitpoints6 per dose.Attack3 + floor(StaticLevel * 0.1)Strength3 + floor(StaticLevel * 0.1)Provides the boosts of a normalattackandstrength potionin one potion.
+
+ | Elder (-) | 4-13 | Visible | Attack4 + floor(StaticLevel * 0.1)Defence4 + floor(StaticLevel * 0.1)Strength4 + floor(StaticLevel * 0.1)Only usable within theChambers of Xeric.
+
+ | Overload (-) | 4-13 | Visible | Acts as anelder (-),twisted (-), andkodai (-)potion in one dose.Hitpoints- 50Attack4 + floor(StaticLevel * 0.1)Defence4 + floor(StaticLevel * 0.1)Strength4 + floor(StaticLevel * 0.1)Ranged4 + floor(StaticLevel * 0.1)Magic4 + floor(StaticLevel * 0.1)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theChambers of Xeric.
+
+ | Elder potion | 5-17 | Visible | Attack5 + floor(StaticLevel * 0.13)Defence5 + floor(StaticLevel * 0.13)Strength5 + floor(StaticLevel * 0.13)Only usable within theChambers of Xeric.
+
+ | Overload (Chambers of Xeric) | 5-17 | Visible | Acts as anelder,twisted, andkodaipotion in one dose.Hitpoints- 50Attack5 + floor(StaticLevel * 0.13)Defence5 + floor(StaticLevel * 0.13)Strength5 + floor(StaticLevel * 0.13)Ranged5 + floor(StaticLevel * 0.13)Magic5 + floor(StaticLevel * 0.13)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theChambers of Xeric.
+
+ | Ruby harvest (item) | 4-18 | Visible | Attack4 + floor(StaticLevel * 0.15)Can be used on another player. Boost affects the player it is used on.Acquired from theHunterskill.
+
+ | Ruby harvest mix | 4-18 | Visible | Attack4 + floor(StaticLevel * 0.15)Also affects up to three players adjacent to the user, if used in amulticombat area.Acquired from theHunterskill.
+
+ | Bandages (Theatre of Blood) | 4-18 | Visible | Hitpoints20Attack4 + floor(StaticLevel * 0.15)Defence4 + floor(StaticLevel * 0.15)Strength4 + floor(StaticLevel * 0.15)Ranged4 + floor(StaticLevel * 0.1)Magic4
+
+ | Moonlight potion | 3-19 | Visible | Attack3 + floor(StaticLevel * 0.1) if 3-44HerbloreAttack5 + floor(StaticLevel * 0.15) if 45+HerbloreDefence3 + floor(StaticLevel * 0.1) if 30-65HerbloreDefence5 + floor(StaticLevel * 0.15) if 66-69HerbloreDefence7 + floor(StaticLevel * 0.2) if 70+HerbloreStrength3 + floor(StaticLevel * 0.1) if 12-54HerbloreStrength5 + floor(StaticLevel * 0.15) if 55+HerblorePrayer7 + floor(max(StaticLevel * 0.25, HerbloreLevel * 0.3))Stat draining for Defence is disabled for 5 minutes if Herblore is 70 or higher.Only usable inNeypotzli.
+
+ | Super attack | 5-19 | Visible | Attack5 + floor(StaticLevel * 0.15)
+
+ | Superattack mix | 5-19 | Visible | Hitpoints6 per dose.Attack5 + floor(StaticLevel * 0.15)RequiresBarbarian training.
+
+ | Divine super attack potion | 5-19 | Visible | Attack5 + floor(StaticLevel * 0.15)Stat draining for Attack is disabled for 5 minutes, meaning the player's Attack level will stay fully boosted.After the 5 minutes are over, Attack level will be restored to its base level.
+
+ | Super combat potion | 5-19 | Visible | Attack5 + floor(StaticLevel * 0.15)Defence5 + floor(StaticLevel * 0.15)Strength5 + floor(StaticLevel * 0.15)
+
+ | Divine super combat potion | 5-19 | Visible | Attack5 + floor(StaticLevel * 0.15)Defence5 + floor(StaticLevel * 0.15)Strength5 + floor(StaticLevel * 0.15)Stat draining for melee combat stats is disabled for 5 minutes, meaning the player's melee combat stats will stay fully boosted.After the 5 minutes are over, melee combat stats will be restored to their base level.
+
+ | Overload (Nightmare Zone) | 5-19 | Visible | Acts as asuper combat,super ranging, andsuper magicpotion in one dose.Hitpoints- 50Attack5 + floor(StaticLevel * 0.15)Defence5 + floor(StaticLevel * 0.15)Strength5 + floor(StaticLevel * 0.15)Ranged5 + floor(StaticLevel * 0.15)Magic5 + floor(StaticLevel * 0.15)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theNightmare Zone.
+
+ | Zamorak brew | 2-21 | Visible | Hitpoints- floor(StaticLevel * 0.12)Attack2 + floor(StaticLevel * 0.2)Defence- floor(CurrentLevel * 0.1) - 2Strength2 + floor(StaticLevel * 0.12)Prayerfloor(StaticLevel * 0.1)
+
+ | Elder (+) | 6-21 | Visible | Attack6 + floor(StaticLevel * 0.16)Defence6 + floor(StaticLevel * 0.16)Strength6 + floor(StaticLevel * 0.16)Only usable within theChambers of Xeric.
+
+ | Overload (+) | 6-21 | Visible | Acts as anelder (+),twisted (+), andkodai (+)potion in one dose.Hitpoints- 50Attack6 + floor(StaticLevel * 0.16)Defence6 + floor(StaticLevel * 0.16)Strength6 + floor(StaticLevel * 0.16)Ranged6 + floor(StaticLevel * 0.16)Magic6 + floor(StaticLevel * 0.16)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theChambers of Xeric.
+
+ | Smelling salts | 11-26 | Visible | Attack11 + floor(StaticLevel * 0.16)Defence11 + floor(StaticLevel * 0.16)Strength11 + floor(StaticLevel * 0.16)Ranged11 + floor(StaticLevel * 0.16)Magic11 + floor(StaticLevel * 0.16)Restoresrun energyby 25%.The boost is reapplied every 15 seconds for 8 minutes.Only usable within theTombs of Amascut.
+
+ | Smouldering heart | ?-20 | Visible | Strength?-20Defence?-20Ranged?-14Magic?-11The boost is reapplied continuously for 2 minutes, after which it starts decaying naturally. This stat boost scales at an unknown rate with level and the listed one is the boost received at level 99.
+
+Quests[edit|edit source]
+
+Quests requiring Attack[edit|edit source]
+
+Quest | Attackrequirement | Other skill requirements
+
+Another Slice of H.A.M. | 15 | 25
+
+Holy Grail | 20 | -
+
+A Taste of Hope | 40 | 48,45,40,38
+
+Sins of the Father | 50 | 62,56,52,60,50,49
+
+Quests rewarding Attack experience[edit|edit source]
+
+Quest | Experiencereward | Attackrequirement | Other skill requirements
+
+In Search of the Myreque | 600 | - | 25
+
+Mountain Daughter | 1,000 | - | 20
+
+Fairytale I - Growing Pains | 2,000 | - | -
+
+In Aid of the Myreque | 2,000 | - | 25,15,7
+
+Tai Bwo Wannai Trio | 2,500 | - | 15,30,5
+
+The Fremennik Trials | 2,812 | - | 25,40,40if crafting your own lyre
+
+Death Plateau | 3,000 | - | -
+
+Underground Pass | 3,000 | - | 25
+
+Heroes' Quest | 3,075 | - | 55,53,53,25,50
+
+Vampyre Slayer | 4,825 | - | -
+
+Tree Gnome Village | 11,450 | - | -
+
+Fight Arena | 12,175 | - | -
+
+Waterfall Quest | 13,750 | - | -
+
+The Grand Tree | 18,400 | - | 25
+
+Knight Waves(miniquest) | 20,000 | - | 45,65
+
+Total | 100,587 | 
+
+In addition, there is a chance that theObservatory Questmay award 875Attack experience.
+
+Skill choice[edit|edit source]
+
+Upon completing any of the following quests, players may choose to allocate experience to Attack. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.
+
+Quest | Experiencereward | Skills available | Skill requirements
+
+X Marks the Spot | 300 | Any | None
+
+Client of Kourend | 500 twice | Any | None
+
+Fairytale II - Cure a Queen | 2,500 | Any skill above 30 | 49,57
+
+A Tail of Two Cats | 2,500 twice | Any skill above 30 | None
+
+The Great Brain Robbery | 5,000 | Any skill above 30 | 16,30,50
+
+King's Ransom | 5,000 | Any skill above 50 | 65
+
+Darkness of Hallowvale | 2,000 three times | Any skill above 30 | 5,20,22,32,33,40
+
+A Taste of Hope | 2,500 three times | Any skill above 35 | 48,40,40,45,38
+
+A Kingdom Divided | 10,000 twice | Any skill above 40 | 54,52,52,50,42,38,35
+
+In Search of Knowledge(miniquest) | 10,000 | Any skill above 40 | None
+
+Curse of the Empty Lord(miniquest) | 10,000 | Any skill above 50 | Some players will need31
+
+Shadow of the Storm | 10,000 |  | 30
+
+Contact! | 7,000 twice |  | None
+
+The Fremennik Isles | 10,000 twice |  | 20,40
+
+A Night at the Theatre | 20,000 four times |  | 90recommended
+
+One Small Favour | 10,000 twice | Any skill above 30 | 36,25,18,30
+
+Recipe for Disaster(The final battle) | 20,000 | Any skill above 50 | 175,70,48,50,53,53,25,59,40,50,40,40,10,10,36
+
+Legends' Quest | 30,000 four times |  | 107,50,50,45,56,52,42,50,50,50,50
+
+Monkey Madness I | 35,000 & 20,000[sc 1] |  | None
+
+Sins of the Father | 15,000 six times | Any skill above 60 | 62,60,56,52,50,50,49
+
+Dragon Slayer II | 25,000 four times |  | 200,75,70,68,62,60,60,50,50
+
+Into the Tombs(miniquest) | 50,000 |  | 95recommended
+
+Monkey Madness II | 50,000 twice |  | 69,70,60,55,55,60
+
+Desert Treasure II - The Fallen Empire | 100,000 three times |  | 75,75,70,62,60,60
+
+Total | 1,031,300 | 
+
+Level up messages[edit|edit source]
+
+This article on a skill has an associated transcript page for level up messages.Click herefor the transcript.
+
+See also[edit|edit source]
+
+Attack/Experience table, a list of all Attack experience sourcesAttack/Level up table, a list of all requirements and unlockables within the Attack skill
+
+v•t•eSkills
+
+Combat | AttackStrengthDefenceRangedPrayerMagicHitpoints
+
+Gathering | FarmingFishingHunterMiningWoodcutting
+
+Production | CookingCraftingFletchingHerbloreRunecraftSmithing
+
+Utility | AgilityConstructionFiremakingSlayerThieving
+
+Proposed skills | In developmentSailingPreviously proposedArtisanSailing (2015)WardingTamingShamanism | In development | Sailing | Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+In development | Sailing
+
+Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+Related | ExperienceSkill mastery200 million experienceSummoning

@@ -1,0 +1,4 @@
+Item: Dark claw
+Summary: The dark claw is an uncommon drop from Skotizo. It can be combined with a Slayer helmet or Slayer helmet (i) to create a purple Slayer helmet or purple Slayer helmet (i), respectively. Doing so requires purchasing the ability Dark Mantle for 1,000 Slayer reward points.
+Sources:
+- Skotizo (Level 321, Quantity: 1, Rarity: 1/25)

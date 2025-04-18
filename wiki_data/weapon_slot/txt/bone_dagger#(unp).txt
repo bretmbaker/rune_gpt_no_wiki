@@ -1,0 +1,79 @@
+[Weapon: Bone Dagger#(Unp)]
+
+
+Bone daggerscan be bought fromNardok's Bone Weaponsin theDorgeshuun MinesoutsideDorgesh-Kaanfor 2,000coins. They can also bepoisoned.
+Its stats are the same as those of theiron dagger.
+
+
+[Infobox]
+Released: 21 June2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A powerful dagger.
+General Store Value: 2,000 coins
+High alch: 1,200 coins
+Low alch: 800 coins
+Weight: 0.453 kg
+Grand Exchange Value: 4,498 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 1,304
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +5
+- Slash: +3
+- Crush: -4
+- Magic: +1
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +1
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing the bone dagger's special attack,Backstab.
+The bone dagger has aspecial attack,Backstab, (75%) which will never miss as long as the target has not been HIT previously or you weren't the last one to damage the target. It lowers the target'sDefenceby the amount of damage dealt, similar to theBandos godsword's andDorgeshuun crossbow's special attacks. The defence lowering is only applied when the target doesn't currently have their defence levels lowered.[1]Backstab'saccuracy is not guaranteed onKephriupon entering her room, nor againstDuke Sucellusafter he is woken up.
+While the weapon can be used prior to theDeath to the Dorgeshuunquest, the special attack can only be used after completing it.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Dorgesh-Kaan Average)Zanik's house |  | 1 | 1/23 | N/A
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Chambers of Xeric/Strategies(Melee)
+1 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+1 | Kalphite Queen/Strategies(Flinching)
+2 | Tombs of Amascut/Strategies(Ranged switch)
+2 | Tombs of Amascut/Strategies(Melee switch)
+3 | Ultimate Ironman Guide/Equipment
+5 | Vorkath/Strategies(Melee)

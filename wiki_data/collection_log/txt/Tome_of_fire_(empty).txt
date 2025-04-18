@@ -1,0 +1,4 @@
+Item: Tome of fire
+Summary: The tome of fire is a book held in place of a shield that is a possible reward from the Reward cart upon subduing the Wintertodt. The tome of fire requires level 50 in Magic to wield.
+Sources:
+- Reward Cart (Level N/A, Quantity: 1, Rarity: 1/1,000)

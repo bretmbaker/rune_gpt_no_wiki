@@ -1,0 +1,53 @@
+[Weapon: Rune Kiteshield (G)]
+
+
+Rune kiteshield (g)is a part ofrune gold-trimmed armourand a reward fromhardTreasure Trails. It has the same stats as a normalRune kiteshieldexcept for the ranged attack bonus (-2 rather than -3), and requires level 40Defenceto wear. This itemcannotbe made via theSmithingskill.
+
+
+[Infobox]
+Released: 5 May2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Rune kiteshield with gold trim.
+General Store Value: 54,400 coins
+High alch: 32,640 coins
+Low alch: 21,760 coins
+Weight: 5.443 kg
+Grand Exchange Value: 117,412 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 213
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -8
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +44
+- Slash: +48
+- Crush: +46
+- Magic: -1
+- Ranged: +46
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

@@ -1,0 +1,62 @@
+[Weapon: Blue D%27Hide Vambraces]
+
+
+Blue d'hide vambracesare a piece ofblue d'hide armourworn in thehand slot, which require 50Rangedto wear. They can be made with aCraftinglevel of 66.
+Kebbit clawscan be used on these vambraces to makeblue spiky vambraces, requiring aCraftinglevel of 32.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Also called: Blue dragonhide vambraces
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Vambraces made from 100% real dragonhide.
+General Store Value: 3,000 coins
+High alch: 1,800 coins
+Low alch: 1,200 coins
+Weight: 0.283 kg
+Grand Exchange Value: 1,557 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 3,034
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +9
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +3
+- Magic: +4
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Brutal blue dragon | 271 | 1 | 1/128 | 
+Waterfiend | 115 | 1 | 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Barbarian Assault/Strategies(Ranged (mid level))
+3 | Chompy bird hunting/Strategy

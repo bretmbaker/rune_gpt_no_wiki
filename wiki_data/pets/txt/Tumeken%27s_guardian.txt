@@ -1,0 +1,153 @@
+[Pet: Tumeken%27s_guardian]
+
+Tumeken's Guardianis apetthat can be obtained from completing theTombs of Amascut. It is a much smaller version ofTumeken's Warden. Players have a chance of receiving the pet when looting thereward chestin the burial chamber. It is possible for it to be obtained in Entry mode, although at a much lower rate.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Metamorphosis[edit|edit source]
+
+Players can, by default, right click "Metamorphosis"to change between Tumeken's Guardian and Elidinis' Guardian, a smaller version ofElidinis' Warden.
+
+Players can unlock further metamorphoses by acquiring various items, which are acquired from the reward chest after completing a raid whilst satisfying the following conditions; note that only one remnant can be obtained by the player per raid.
+
+Raid Level at 450+Zero deaths for all party membersAll invocations for the specific boss enabledPath level must be at level 4+ (excluding the Wardens)
+
+Item | Metamorphosis | Acquisition
+
+ | Remnant of Akkha |  | Akkhito | Akkha
+
+ | Remnant of Ba-Ba |  | Babi | Ba-Ba
+
+ | Remnant of Kephri |  | Kephriti | Kephri
+
+ | Remnant of Zebak |  | Zebo | Zebak
+
+ | Ancient remnant |  | Tumeken's damaged guardian | Tumeken's Warden
+
+ | Elidinis' damaged guardian | Elidinis' Warden
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Chest (Tombs of Amascut) | N/A | 1 | Varies | 
+
+Changes[edit|edit source]
+
+Date | Changes
+
+11 October2022(update) | Variations of the pet now have attack animations and overhead dialogue when placed in themenagerie'sarena space.
+
+8 September2022(update) | Items have been added to allow the pet to metamorphose into other variants.Overhead dialogue has been added when placed inside themenageriearena space.The inventory icons for Tumeken's guardian and Elidinis' guardian were adjusted slightly.
+
+Trivia[edit|edit source]
+
+The damaged guardians' dialogue is a reference to various errors in software. 404 being a reference to error message:HTTP 404.The name Akkhito may be a reference toAkihito, the Emperor Emeritus of Japan. In Spanish the suffix-itois a diminutive that can be added to many nouns and adjectives to create a smaller or more affectionate form (Small Akkha).The name Kephriti may be a reference toNefertiti, an ancient Egyptian queen, particularly known for an iconic and well-preservedbustportraying her.When a player uses raw beef or raw chicken on Zebo, special dialogue will occur between the pet and the player referencing the "On a diet" invocation.Dropping Babi from the inventory then changing to a different metamorphosis variant will cause the chosen variant to inherit Babi's run speed. The same can be done in reverse to make Babi walk.
+
+v•t•eTombs of Amascut
+
+NPCs | MaisaBank CamelGhostHelpful SpiritOsmumtenPhantomMenaphite PantheonApmekenCrondisHetScabarasAmascut |  | MaisaBank CamelGhostHelpful SpiritOsmumtenPhantom | Menaphite Pantheon | ApmekenCrondisHetScabarasAmascut
+
+ | MaisaBank CamelGhostHelpful SpiritOsmumtenPhantom
+
+Menaphite Pantheon | ApmekenCrondisHetScabarasAmascut
+
+Bosses | AkkhaAkkhaAkkha's ShadowOrb of DarknessOrb of LightningBurning OrbFrozen OrbUnstable OrbBa-BaBa-BaBaboonBaboon BrawlerBaboon MageBaboon ShamanBaboon ThrallBaboon ThrowerCursed BaboonVolatile BaboonBoulderKephriKephriAgile ScarabArcane ScarabScarab SwarmSoldier ScarabSpitting ScarabScarabZebakZebakBlood CloudCrocodileJugWave(Bloody Wave)Zebak's TailPalm of ResourcefulnessWardensTumeken's WardenElidinis' WardenObeliskCoreEnergy SiphonPhantomsAkkha's PhantomBa-Ba's PhantomKephri's PhantomZebak's Phantom | Akkha | AkkhaAkkha's ShadowOrb of DarknessOrb of LightningBurning OrbFrozen OrbUnstable Orb | Ba-Ba | Ba-BaBaboonBaboon BrawlerBaboon MageBaboon ShamanBaboon ThrallBaboon ThrowerCursed BaboonVolatile BaboonBoulder | Kephri | KephriAgile ScarabArcane ScarabScarab SwarmSoldier ScarabSpitting ScarabScarab | Zebak | ZebakBlood CloudCrocodileJugWave(Bloody Wave)Zebak's TailPalm of Resourcefulness | Wardens | Tumeken's WardenElidinis' WardenObeliskCoreEnergy SiphonPhantomsAkkha's PhantomBa-Ba's PhantomKephri's PhantomZebak's Phantom |  | Tumeken's WardenElidinis' WardenObeliskCoreEnergy Siphon | Phantoms | Akkha's PhantomBa-Ba's PhantomKephri's PhantomZebak's Phantom
+
+Akkha | AkkhaAkkha's ShadowOrb of DarknessOrb of LightningBurning OrbFrozen OrbUnstable Orb
+
+Ba-Ba | Ba-BaBaboonBaboon BrawlerBaboon MageBaboon ShamanBaboon ThrallBaboon ThrowerCursed BaboonVolatile BaboonBoulder
+
+Kephri | KephriAgile ScarabArcane ScarabScarab SwarmSoldier ScarabSpitting ScarabScarab
+
+Zebak | ZebakBlood CloudCrocodileJugWave(Bloody Wave)Zebak's TailPalm of Resourcefulness
+
+Wardens | Tumeken's WardenElidinis' WardenObeliskCoreEnergy SiphonPhantomsAkkha's PhantomBa-Ba's PhantomKephri's PhantomZebak's Phantom |  | Tumeken's WardenElidinis' WardenObeliskCoreEnergy Siphon | Phantoms | Akkha's PhantomBa-Ba's PhantomKephri's PhantomZebak's Phantom
+
+ | Tumeken's WardenElidinis' WardenObeliskCoreEnergy Siphon
+
+Phantoms | Akkha's PhantomBa-Ba's PhantomKephri's PhantomZebak's Phantom
+
+Items | Most Valuable PlayerBig bananaEldritch ashesFangScarab dungPath of Lesser GodsMirrorNeutralising potionWater containerConsumablesHoney locustSuppliesAmbrosiaBlessed crystal scarabLiquid adrenalineNectarSilk dressingSmelling saltsTears of ElidinisBooksAkila's journalApmeken's CaptureCrondis' CaptureHet's CaptureScabaras' CaptureThe WardensThe Jackal's Torch | Most Valuable Player | Big bananaEldritch ashesFangScarab dung | Path of Lesser Gods | MirrorNeutralising potionWater container | Consumables | Honey locustSuppliesAmbrosiaBlessed crystal scarabLiquid adrenalineNectarSilk dressingSmelling saltsTears of Elidinis | Books | Akila's journalApmeken's CaptureCrondis' CaptureHet's CaptureScabaras' CaptureThe WardensThe Jackal's Torch
+
+Most Valuable Player | Big bananaEldritch ashesFangScarab dung
+
+Path of Lesser Gods | MirrorNeutralising potionWater container
+
+Consumables | Honey locustSuppliesAmbrosiaBlessed crystal scarabLiquid adrenalineNectarSilk dressingSmelling saltsTears of Elidinis
+
+Books | Akila's journalApmeken's CaptureCrondis' CaptureHet's CaptureScabaras' CaptureThe WardensThe Jackal's Torch
+
+Rewards | EquipmentTumeken's shadowElidinis' ward(fortified)Osmumten's fangLightbearerMasori armourStandardMaskBodyChapsFortifiedMaskBodyChapsKeris partisanJewelsBreach of the ScarabEye of the CorruptorJewel of the SunJeweled partisansBreachingCorruptionThe SunIcthlarin's shroudTier 1Tier 2Tier 3Tier 4Tier 5(Hood)PetTumeken's guardianTumeken's damaged guardianElidinis' guardianElidinis' damaged guardianAkkhitoBabiKephritiZeboRemnantsAkkha'sBa-Ba'sKephri'sZebak'sAncientOtherFossilised dungThread of ElidinisDivine rune pouchLily of the sandsCache of runesDawn scarab eggAncient keyMask of rebirthOrnament kitsCursed phalanxMasori crafting kitMenaphite ornament kitOrnamented equipmentOsmumten's fang (or)Masori assemblerElidinis' ward (or) | Equipment | Tumeken's shadowElidinis' ward(fortified)Osmumten's fangLightbearer | Masori armour | StandardMaskBodyChapsFortifiedMaskBodyChaps | Standard | MaskBodyChaps | Fortified | MaskBodyChaps | Keris partisan | JewelsBreach of the ScarabEye of the CorruptorJewel of the SunJeweled partisansBreachingCorruptionThe Sun | Jewels | Breach of the ScarabEye of the CorruptorJewel of the Sun | Jeweled partisans | BreachingCorruptionThe Sun | Icthlarin's shroud | Tier 1Tier 2Tier 3Tier 4Tier 5(Hood) | Pet | Tumeken's guardianTumeken's damaged guardianElidinis' guardianElidinis' damaged guardianAkkhitoBabiKephritiZeboRemnantsAkkha'sBa-Ba'sKephri'sZebak'sAncient |  | Tumeken's guardianTumeken's damaged guardianElidinis' guardianElidinis' damaged guardianAkkhitoBabiKephritiZebo | Remnants | Akkha'sBa-Ba'sKephri'sZebak'sAncient | Other | Fossilised dungThread of ElidinisDivine rune pouchLily of the sandsCache of runesDawn scarab eggAncient keyMask of rebirthOrnament kitsCursed phalanxMasori crafting kitMenaphite ornament kitOrnamented equipmentOsmumten's fang (or)Masori assemblerElidinis' ward (or) |  | Fossilised dungThread of ElidinisDivine rune pouchLily of the sandsCache of runesDawn scarab eggAncient keyMask of rebirth | Ornament kits | Cursed phalanxMasori crafting kitMenaphite ornament kit | Ornamented equipment | Osmumten's fang (or)Masori assemblerElidinis' ward (or)
+
+Equipment | Tumeken's shadowElidinis' ward(fortified)Osmumten's fangLightbearer
+
+Masori armour | StandardMaskBodyChapsFortifiedMaskBodyChaps | Standard | MaskBodyChaps | Fortified | MaskBodyChaps
+
+Standard | MaskBodyChaps
+
+Fortified | MaskBodyChaps
+
+Keris partisan | JewelsBreach of the ScarabEye of the CorruptorJewel of the SunJeweled partisansBreachingCorruptionThe Sun | Jewels | Breach of the ScarabEye of the CorruptorJewel of the Sun | Jeweled partisans | BreachingCorruptionThe Sun
+
+Jewels | Breach of the ScarabEye of the CorruptorJewel of the Sun
+
+Jeweled partisans | BreachingCorruptionThe Sun
+
+Icthlarin's shroud | Tier 1Tier 2Tier 3Tier 4Tier 5(Hood)
+
+Pet | Tumeken's guardianTumeken's damaged guardianElidinis' guardianElidinis' damaged guardianAkkhitoBabiKephritiZeboRemnantsAkkha'sBa-Ba'sKephri'sZebak'sAncient |  | Tumeken's guardianTumeken's damaged guardianElidinis' guardianElidinis' damaged guardianAkkhitoBabiKephritiZebo | Remnants | Akkha'sBa-Ba'sKephri'sZebak'sAncient
+
+ | Tumeken's guardianTumeken's damaged guardianElidinis' guardianElidinis' damaged guardianAkkhitoBabiKephritiZebo
+
+Remnants | Akkha'sBa-Ba'sKephri'sZebak'sAncient
+
+Other | Fossilised dungThread of ElidinisDivine rune pouchLily of the sandsCache of runesDawn scarab eggAncient keyMask of rebirthOrnament kitsCursed phalanxMasori crafting kitMenaphite ornament kitOrnamented equipmentOsmumten's fang (or)Masori assemblerElidinis' ward (or) |  | Fossilised dungThread of ElidinisDivine rune pouchLily of the sandsCache of runesDawn scarab eggAncient keyMask of rebirth | Ornament kits | Cursed phalanxMasori crafting kitMenaphite ornament kit | Ornamented equipment | Osmumten's fang (or)Masori assemblerElidinis' ward (or)
+
+ | Fossilised dungThread of ElidinisDivine rune pouchLily of the sandsCache of runesDawn scarab eggAncient keyMask of rebirth
+
+Ornament kits | Cursed phalanxMasori crafting kitMenaphite ornament kit
+
+Ornamented equipment | Osmumten's fang (or)Masori assemblerElidinis' ward (or)
+
+Scenery | Banana peelBa-Ba's ThroneCaster statueCavityChestDeposit potGrouping ObeliskHet's SealInvocation BoardPath of ApmekenPath of CrondisPath of HetPath of ScabarasPressure plateRewards NicheSackScoreboardShielded statueStatueStrange ChestStrange tabletVoidWaterfall
+
+Music | Into the TombsBeneath Cursed SandsTest of StrengthSands of TimeTest of CompanionshipApe-ex PredatorTest of IsolationA Mother's CurseTest of ResourcefulnessJaws of GluttonyAmascut's PromiseLaid to Rest
+
+Related | StrategiesInto the TombsGrainNecropolisJaltevas PyramidTumeken's heka(scrapped)Masori amulet(scrapped)
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan

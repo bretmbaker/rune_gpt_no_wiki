@@ -1,0 +1,53 @@
+Name: Ketla the Unworthy
+Combat Level: 236
+Size: 1x1
+Info:
+- Description: A vengeful spirit corrupted by dark magic.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Freeze: 100% resistance
+- Monster ID: 12329
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 200
+Attack: 0
+Strength: 0
+Defence: 130
+Magic: 130
+Ranged: 160
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 80
+Ranged strength bonus: 6
+
+[Melee defence]
+Stab: 60
+Slash: 30
+Crush: 80
+
+[Magic defence]
+Magic: 200
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 70
+Standard: 70
+Heavy: 70

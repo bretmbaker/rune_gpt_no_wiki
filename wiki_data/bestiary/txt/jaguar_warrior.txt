@@ -1,0 +1,38 @@
+Name: Jaguar warrior
+Combat Level: 234
+Size: 2x2
+Info:
+- Description: A furry with a score to settle.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Monster ID: 12810
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 125
+Attack: 200
+Strength: 330
+Defence: 125
+Magic: 100
+Ranged: 160
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

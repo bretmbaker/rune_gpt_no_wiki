@@ -1,0 +1,46 @@
+[Weapon: Dragon Full Helm (G)]
+
+
+Thedragon full helm (g)is adragon full helmwith adragon full helm ornament kitattached to it, and is part ofdragon gold-trimmed armour. The attached ornament kit gives no additional bonuses, and is only used to add aesthetics to the helmet. It costs72,986,163for both the items required to make the dragon full helm (g).
+While the helmet is untradeable in its ornamented state, it can be dismantled anytime, returning the tradeable full helm and ornament kit.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle
+Examine: Protects your head and looks impressive too.
+General Store Value: 150,000 coins
+High alch: 90,000 coins
+Low alch: 60,000 coins
+Weight: 2 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +45
+- Slash: +48
+- Crush: +41
+- Magic: -1
+- Ranged: +46
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

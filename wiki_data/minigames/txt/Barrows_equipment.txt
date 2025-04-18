@@ -1,0 +1,192 @@
+[Minigame: Barrows_equipment]
+
+Barrows equipmentrefers to a number of sets of combatequipmentfound in theBarrowsminigame. There are six sets of Barrows equipment: four forwarriors, one forrangers, and one formages. Each set has four pieces: a two-handed weapon (except forAhrim's Staff, which after an update was changed to be a one-handed weapon like other staves in an effort to buff the weapon), a helmet, a torso piece, and legwear. When all four pieces for a particular brother are equipped, aspecial set effectis granted, which is different for each set. Additionally, theamulet of the damnedenhances the set effects while equipped. Barrows sets cannot be made using theSmithingskill.
+
+TheBarrows gloves, which also resemble a piece of Barrows armour, are not obtained through the Barrows minigame and instead can be purchased after full completion of theRecipe for Disasterquest.
+
+Degrading and repairing[edit|edit source]
+
+Barrows equipmentdegradesas it is used. Equipment received from theBarrowsminigame is fully repaired and can be used for 15 hours of combat until it degrades completely and requires repair before it can be used again. Barrows armour degrades even if the player is using protection prayers or not taking damage. Barrows equipment does not suffer in performance as it degrades, but will lose all stat bonuses when it becomes fully degraded. Fully repaired Barrows items start out with no numbers in their names. It will becomeitem name 100the first time it's used in combat. Eventually it will degrade toitem name 75, then50, then25and finally0at which point the armour will be unusable until repaired (armour that reaches 0 whilst being worn will stay worn until removed, but cannot be reequipped if removed until repaired). Additionally, Barrows equipment may only be traded if fully repaired or fully degraded.
+
+Each quarter consists of 250 degradable points, and cause the item to decay into the next named degradation state once they are fully depleted. A piece of barrows equipment will immediately degrade when the player enters combat, and deduct one more point from the total if the player is still in combat after 90 ticks (54 seconds) have passed.[1]
+
+When dropped, any piece of Barrows equipment willautomatically degrade to 0. Players who attempt to drop Barrows equipment will receive a warning message about this.
+
+There are two ways to repair Barrows armour. Players can talk to any of the NPCs listed below and they will repair the items for a price, or players could repair the pieces themselves using anarmour standin anyplayer-owned house. The equipment can be repaired at any stage, and the cost will be adjusted according to how much it has degraded. The base repair cost of an item is determined by its internal degradation state (out of 1,000), multiplied by 100 coins when repairing a weapon; 90 coins when repairing a body slot item; 80 coins for a leg slot item; and finally 60 coins for a helmet.[2]
+
+The following NPCs can repair the armour:
+
+Bob- the axe seller inLumbridgeTindel Marchant- the weapon and armour repairman atPort KhazardDunstan- the smith inBurthorpeSquire- in the workshop area of theVoid Knights' OutpostAneirin- the armour seller inPrifddinasBlacksmith- the blacksmith ofCivitas illa Fortis
+
+It costs less to repair Barrows equipment at an armour stand compared to paying an NPC. Stat boosts do affect the price of repair. The formula used to calculate the cost at a repair stand is:
+
+CostAS=CostNPC×(1−Smithing Level200)
+
+A player with aSmithinglevel of 60, for instance, would pay 70% of normal cost:
+
+1−60200=70100
+
+Simply put, every 2 Smithing levels reduces the repair cost by 1% when compared to an NPC vendor. At level 99 this equals roughly 50% in savings.
+
+Barrows equipment stacks in bank with the correspondingitem degradation, so if aKaril's crossbowhas a degradation level of 100, it will stack with another Karil's crossbow if it also has a degradation level of 100. The item with the same degradation level will be taken out with the same amount of hits as before, so if a Karil's crossbow 100 has 180 ticks left before it will go to level 75 degradation, and that same one is in a stack with another crossbow that has 900 ticks before it will degrade further, the one you take out of the stack will be the one with 180 ticks left.
+
+Barrows item repairs calculator[edit|edit source]
+
+Ahrim the Blighted (Magic)[edit|edit source]
+
+70Defenceand 70Magicare required to wear the armour. Also, 70Attackand 70 Magic are required to wield the weapon. Ahrim's is theMagic armour.
+
+Blighted Aura:Successful magical attacks have a 25% chance of lowering the enemy'sStrengthby 5 levels.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Ahrim's hood | 0 | 0 | 0 | 6 | -2 | 15 | 13 | 16 | 6 | 0 | 0 | 1% | 0 | 0 | 0.907 | 
+
+ | Ahrim's robetop | 0 | 0 | 0 | 30 | -10 | 52 | 37 | 63 | 30 | 0 | 0 | 1% | 0 | 0 | 4.535 | 
+
+ | Ahrim's robeskirt | 0 | 0 | 0 | 22 | -7 | 33 | 30 | 36 | 22 | 0 | 0 | 1% | 0 | 0 | 11.339 | 
+
+ | Ahrim's staff | 12 | -1 | 65 | 15 | 0 | 3 | 5 | 2 | 15 | 0 | 68 | 5% | 0 | 0 | 2.267 | 
+
+Totals | 12 | -1 | 65 | 73 | -19 | 103 | 85 | 117 | 73 | 0 | 68 | 8% | 0 | 0 | 19.048 | N/A
+
+Dharok the Wretched (Melee)[edit|edit source]
+
+70Defenceis required to wear the armour, and 70AttackandStrengthare required to wield the weapon. Dharok's helm has less defence than that of the other melee brothers'.Dharok'sis the Strength armour.
+
+Wretched Strength:Attacks do more damage as the player'sHitpointsdecrease. The damage bonus per hitpoint increases based on the player's maximum hitpoints. Dharok's maximum potential is unleashed at 99 HP whereof a player can deal up to98%extra damage when at 1 health point.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Dharok's helm | 0 | 0 | 0 | -3 | -1 | 45 | 48 | 44 | -1 | 51 | 0 | 0% | 0 | 0 | 1.814 | 
+
+ | Dharok's platebody | 0 | 0 | 0 | -30 | -10 | 122 | 120 | 107 | -6 | 132 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Dharok's platelegs | 0 | 0 | 0 | -21 | -11 | 85 | 82 | 83 | -4 | 92 | 0 | 0% | 0 | 0 | 9.071 | 
+
+ | Dharok's greataxe | -4 | 103 | 95 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 105 | 0% | 0 | 0 | 3.175 | 
+
+Totals | -4 | 103 | 95 | -58 | -22 | 252 | 250 | 234 | -11 | 274 | 105 | 0% | 0 | 0 | 24.039 | N/A
+
+Guthan the Infested (Melee)[edit|edit source]
+
+70Defenceis required to wear the armour, and 70Attackis required to wield the weapon. Guthan's chainskirt has less defence than that of the other melee brothers'.Guthan'sis theHitpointsarmour.
+
+Infestation:Attacks have a 25% chance of replenishing the player's health equal to the damage dealt.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Guthan's helm | 0 | 0 | 0 | -6 | -2 | 55 | 58 | 54 | -1 | 62 | 0 | 0% | 0 | 0 | 2.721 | 
+
+ | Guthan's platebody | 0 | 0 | 0 | -30 | -10 | 122 | 120 | 107 | -6 | 132 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Guthan's chainskirt | 0 | 0 | 0 | -14 | -11 | 75 | 72 | 73 | -4 | 82 | 0 | 0% | 0 | 0 | 8.164 | 
+
+ | Guthan's warspear | 75 | 75 | 75 | 0 | 0 | 7 | 7 | 7 | 0 | 0 | 75 | 0% | 0 | 0 | 2.267 | 
+
+Totals | 75 | 75 | 75 | -50 | -23 | 259 | 257 | 241 | -11 | 276 | 75 | 0% | 0 | 0 | 23.131 | N/A
+
+Karil the Tainted (Ranged)[edit|edit source]
+
+70Defenceand 70Rangedare required to wear the armour, and 70 Ranged is required to wield the weapon.Karil'sis theRanged armour. Note that Karil's has the highestMagicDefence of all the Barrows equipment. It has some of the best magical Defence available in the game, greater thanblack d'hideand just behindArmadyl ranged gear.
+
+Tainted Shot:Successful ranged attacks have a 25% chance of lowering the enemy'sAgilitylevel by 20%.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Karil's coif | 0 | 0 | 0 | -1 | 7 | 6 | 9 | 12 | 6 | 10 | 0 | 0% | 0 | 0 | 0.907 | 
+
+ | Karil's leathertop | 0 | 0 | 0 | -15 | 30 | 47 | 42 | 50 | 65 | 57 | 0 | 0% | 0 | 0 | 6.803 | 
+
+ | Karil's leatherskirt | 0 | 0 | 0 | -10 | 17 | 26 | 20 | 28 | 35 | 33 | 0 | 0% | 0 | 0 | 5.443 | 
+
+ | Karil's crossbow | 0 | 0 | 0 | 0 | 84 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 3.628 | 
+
+Totals | 0 | 0 | 0 | -26 | 138 | 79 | 71 | 90 | 106 | 100 | 0 | 0% | 0 | 0 | 16.781 | N/A
+
+Torag the Corrupted (Melee)[edit|edit source]
+
+70Defenceis required to wear the armour, and 70Attackand 70Strengthis required to wield the weapon.Torag'sis the Defence armour, as full Torag carries the highest overall Defence bonuses.
+
+Corruption:Successfulmeleeattacks have a 25% chance of lowering the victim'srun energyby 20%.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Torag's helm | 0 | 0 | 0 | -6 | -2 | 55 | 58 | 54 | -1 | 62 | 0 | 0% | 0 | 0 | 2.721 | 
+
+ | Torag's platebody | 0 | 0 | 0 | -30 | -10 | 122 | 120 | 107 | -6 | 132 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Torag's platelegs | 0 | 0 | 0 | -21 | -11 | 85 | 82 | 83 | -4 | 92 | 0 | 0% | 0 | 0 | 9.071 | 
+
+ | Torag's hammers | -4 | -4 | 85 | -4 | 0 | 0 | 0 | 0 | 0 | 0 | 72 | 0% | 0 | 0 | 3.628 | 
+
+Totals | -4 | -4 | 85 | -61 | -23 | 262 | 260 | 244 | -11 | 286 | 72 | 0% | 0 | 0 | 25.399 | N/A
+
+Verac the Defiled (Melee)[edit|edit source]
+
+70Defenceis required to wear the armour, and 70Attackis required to wield the weapon. Verac's helm and plateskirt trade a small amount of Ranged defence for their prayer bonus, while the brassard is significantly weaker than the other brothers' platebodies.Verac'sis thePrayerand Attack armour.
+
+Defiler:Attacks have a 25% chance of ignoring any armour, Defence, andprotection prayers.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Verac's helm | 0 | 0 | 0 | -6 | -2 | 55 | 58 | 54 | 0 | 56 | 0 | 0% | 0 | 3 | 1.36 | 
+
+ | Verac's brassard | 0 | 0 | 0 | -6 | -2 | 81 | 95 | 85 | 0 | 81 | 0 | 0% | 0 | 5 | 4.989 | 
+
+ | Verac's plateskirt | 0 | 0 | 0 | -21 | -11 | 85 | 82 | 83 | 0 | 84 | 0 | 0% | 0 | 4 | 4.535 | 
+
+ | Verac's flail | 68 | -2 | 82 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 72 | 0% | 0 | 6 | 2.267 | 
+
+Totals | 68 | -2 | 82 | -33 | -15 | 221 | 235 | 222 | 0 | 221 | 72 | 0% | 0 | 18 | 13.151 | N/A
+
+Prices[edit|edit source]
+
+Prices of fully repaired pieces on the Grand Exchange:
+
+Set | Head | Body | Legs | Weapon | Total | Item set
+
+ | Dharok the Wretched's equipment | 404,925 | 826,284 | 989,354 | 3,174,805 | 5,395,368 | 5,498,607
+
+ | Guthan the Infested's equipment | 190,772 | 292,622 | 225,956 | 136,405 | 845,755 | 910,949
+
+ | Torag the Corrupted's equipment | 124,504 | 239,413 | 240,495 | 91,436 | 695,848 | 735,916
+
+ | Verac the Defiled's equipment | 104,983 | 185,407 | 278,109 | 101,107 | 669,606 | 715,984
+
+ | Ahrim the Blighted's equipment | 180,957 | 3,019,694 | 2,147,348 | 172,473 | 5,520,472 | 5,564,652
+
+ | Karil the Tainted's equipment | 56,108 | 1,211,125 | 502,491 | 103,565 | 1,873,289 | 1,959,143
+
+Prices of fully degraded pieces on the Grand Exchange. Make sure to price check before investing.
+
+Set | Head | Body | Legs | Weapon | Fully Degraded Set Total | Item set | Profit Before Repairs
+
+ | Dharok the Wretched's equipment | 362,224 | 781,714 | 909,405 | 3,110,724 | 5,164,067 | 5,498,607 | 334,540
+
+ | Guthan the Infested's equipment | 134,812 | 214,712 | 187,874 | 171,124 | 708,522 | 910,949 | 202,427
+
+ | Torag the Corrupted's equipment | 83,378 | 167,892 | 168,376 | 95,382 | 515,028 | 735,916 | 220,888
+
+ | Verac the Defiled's equipment | 64,335 | 166,722 | 224,910 | 94,646 | 550,613 | 715,984 | 165,371
+
+ | Ahrim the Blighted's equipment | 145,985 | 2,861,219 | 2,026,647 | 107,293 | 5,141,144 | 5,564,652 | 423,508
+
+ | Karil the Tainted's equipment | 18,407 | 1,118,208 | 442,663 | 95,089 | 1,674,367 | 1,959,143 | 284,776
+
+Gallery[edit|edit source]
+
+Ahrim the Blighted's equipment on body type A.Ahrim the Blighted's equipment on body type B.Dharok the Wretched's equipment on body type A.Dharok the Wretched's equipment on body type B.Guthan the Infested's equipment on body type A.Guthan the Infested's equipment on body type B.Karil the Tainted's equipment on body type A.Karil the Tainted's equipment on body type B.Torag the Corrupted's equipment on body type A.Torag the Corrupted's equipment on body type B.Verac the Defiled's equipment on body type A.Verac the Defiled's equipment on body type B.
+

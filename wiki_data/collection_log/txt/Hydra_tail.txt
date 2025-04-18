@@ -1,0 +1,6 @@
+Item: Hydra tail
+Summary: The hydra tail is an item dropped by hydras and the Alchemical Hydra. It can be combined with the dragonbone necklace and bonecrusher to create the bonecrusher necklace, which combines the effects of both. There will be a confirmation message before combining them; this can be reversed.
+Sources:
+- Alchemical Hydra (Level 426, Quantity: 1, Rarity: 1/513)
+- Colossal Hydra (Level 309, Quantity: 1, Rarity: 1/1,001)
+- Hydra (Level 194, Quantity: 1, Rarity: 1/5,001; 1/1,001)

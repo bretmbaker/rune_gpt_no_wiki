@@ -1,0 +1,277 @@
+ | This quest has a quick guide and a speedrunning guide . It briefly summarises the steps needed to complete the quest.
+
+Dragon Slayer I (#17)
+
+
+
+
+
+Released | 23 September 2001 ( Update )
+
+Members | No
+
+Quest series | Dragonkin , #1
+
+Lead developer(s) | Paul Gower
+
+
+
+Dragon Slayer I is a quest that focuses on the player's journey to slay Elvarg , the dragon of Crandor . Often described as the hardest, yet most rewarding quest available to free-to-play players, those who successfully complete it gain the ability to equip the rune platebody and green d'hide body (as well as their many variations), in addition to the dragon platebody .
+
+Starting this quest is required to use any dragonfire protection, although it does not need to be completed.
+
+A grandmaster-difficulty sequel to the quest called Dragon Slayer II was released on 4 January 2018 .
+
+Details [ edit | edit source ]
+
+Start point | Speak to the Guildmaster in the Champions' Guild . Show on map
+
+Official difficulty | Experienced
+
+Official length | Medium
+
+Description | Prove yourself a true champion. Kill the mighty dragon Elvarg of Crandor and earn the right to buy and wear the Rune platebody.
+
+Requirements | 32 Quest points to enter the Champions' Guild ( required to start ) The ability to defeat a level 83 dragon
+
+Items required | Unfired bowl (can be made with soft clay on a Potter's Wheel with 8 Crafting ) Wizard's mind bomb (can be bought in the Rising Sun Inn in Falador or The Toad and Chicken in Burthorpe ) Lobster pot (can be bought from any fishing shop ) Silk (can be bought from Thessalia for 30 coins or the Al Kharid silk stall for 3 coins -- members can steal it from the Ardougne silk stall with 20 Thieving ) Magic / ranged weapon as well as a law and air rune (to cast Telekinetic Grab if your Magic level is 33 or higher) or 10,000 coins Hammer Anti-dragon shield (Can be obtained during the quest) 90 steel nails (Members can buy these from the Sawmill operator north-east of Varrock , they can also be smithed at 34 Smithing using 6 steel bars by all players) 3 planks (only normal planks) Free-to-play : Pick up the spawns in the Graveyard of Shadows , level 19 Wilderness , or for a safer option, ornate lockboxes in the Camdozaal Vault after Below Ice Mountain Member : Several other spawn locations or buy them at the sawmill 2,000 coins
+
+Recommended | 45 Combat level 33 Magic ( boostable ) , otherwise you will have to pay 10,000 coins . 37 Prayer ( not boostable ) for Protect from magic against Elvarg's magic attacks. Fast travel to the Champions' Guild ( Varrock teleport , Chronicle or ( members only) Combat Bracelet ) Energy potions or (members only) stamina potions (Members only) Antifire potions to significantly lower Elvarg's dragonfire attack damage (Members only) Fast travel to the Karamja Volcano (via Port Sarim or Amulet of Glory ) (Members only) Fast travel to Port Sarim ( Explorer's Ring 2 , Skills Necklace to the Crafting Guild, or Rat Pits or Pest Control minigame teleports)
+
+Enemies to defeat | Zombie rats (level 3) * Ghosts (level 19) * Skeletons (level 22) * Zombies (level 24) * Melzar the Mad (level 43) Lesser demon (level 82) Wormbrain (level 2) - optional Elvarg (level 83) An asterisk denotes that there is only one of each monster that drops the required key. They can be noted by small differences in appearance stated later in the guide.
+
+Ironman concerns | 8 Crafting (to create an unfired bowl ) 34 Smithing (to create steel nails for free-to-play )
+
+League notes | Unlocking Misthalin ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+The Champions' Guild and Oziach [ edit | edit source ]
+
+To start the quest, head to the Champions' Guild south of Varrock , talk to the Guildmaster and ask him for a quest. He will tell you to visit Oziach in the north-west corner of Edgeville , near the Wilderness ditch and the Edgeville Monastery . Oziach will explain that before he will sell the player rune platebodies , the player must kill the notorious green dragon , Elvarg , located on the scorched island of Crandor south of Entrana .
+
+Head back to the Champions' Guild and speak to the Guildmaster once more. He will be aghast and will tell the player that they'll need to acquire three pieces of a map to find the route to the island, a boat to get to the island, and a shield to protect oneself from Elvarg's dragonfire .
+
+Important: Players must ask the Guildmaster every question they can ; otherwise, they will not be able to progress any further in the quest.
+
+Note: in order to save time, talk to the Guildmaster now about buying the ship (ask about getting to Crandor and where to get a boat). This is required before you speak to Klarense later in the quest in Port Sarim and will save you having to return to the Guild after collecting the map pieces.
+
+Ask the Guildmaster where Melzar 's piece of the map is to receive the maze key (players must have an open inventory slot to receive the key), then make sure to ask him where the other maps pieces are as well as where to acquire an anti-dragon shield .
+
+Duke Horacio and the anti-dragon shield [ edit | edit source ]
+
+To get an anti-dragon shield , players should head to Lumbridge and speak to Duke Horacio on the 1 st floor [ UK ] 2 nd floor [ US ] of Lumbridge Castle (The drop trick can be used to obtain several shields, which is useful if you  die during the dragon fight and need to return, as Elvarg shoots dragonfire immediately upon entering her arena). Alternatively, non- ironmen may purchase a shield from the Grand Exchange .
+
+Three pieces make a whole [ edit | edit source ]
+
+The three map pieces may be collected in any order. After collecting all three, use any piece on another, and all three pieces will combine to form Crandor map .
+
+Items required: The Maze key , food , and combat equipment . (The most difficult enemy is the lesser demon ; you can safespot it with Magic / Ranged and with melee as well.)
+
+The first piece is found in Melzar's Maze . You will need food if you have a low combat level . Melzar's Maze can be found north-west of Rimmington , south of the Crafting Guild , and west of Port Sarim . (If your house portal is located here, you may wish to teleport to house and exit portal.) To get inside of Melzar's Maze, you must use the Maze key you get from the Guildmaster in the Champions' Guild when you've started the quest. Once inside Melzar's Maze, do the following:
+
+Kill the one long-tailed small zombie rat to get a red key . Once you have the red key, use it on the north-western red door (the room has a bookshelf, poster, table and chairs in it), and go up the ladder. You will find yourself in a room full of ghosts ; kill the capeless, hooded ghost wearing a tube top to receive an orange key . Go through the second door from the north, and climb up the ladder. You will find yourself in a room full of skeletons . Kill the skeleton with a small, round shield to get a yellow key . Open the south-western door (make sure your map is oriented correctly) and go down the ladder at the end of the room. Go down the ladder again, and again, until you find yourself in a room in the basement with two zombies and a blue door. Kill the zombies until you get a blue key . Use the key on the blue door to get to the next room. If by chance you exit through the normal door, you will have to start the maze over again . In this room, you will need to kill Melzar the Mad (level 43). For lower level mages or rangers , it might be possible to trap a spider between you and Melzar , preventing him from using his Melee attack, which causes him to do nothing for long periods of time during the fight. It is also possible to use the northernmost crate to safespot him completely. After you have killed him, pick up his magenta key , and use it to open the magenta door. In this room, there is a lesser demon (level 82). There is a safespot that can be used with Ranged, Magic, or a halberd. Stand one square to the right of the magenta door when looking north. For non-halberd melee, lure the demon to the western part of the room, and attack it at his maximum attack range then walk one square west to make it lose interest, repeating that strategy as many times as needed (see gif to the right). Kill it to get a green key ; use this key on the green door then open and search the chest to get a map part. Do not forget to claim the map piece from the chest in the green-door room. Go up the ladder, and exit the maze.
+
+Items required: An unfired bowl , a wizard's mind bomb , a lobster pot , and silk .
+
+To obtain this piece, you'll need an unfired bowl , created in the Crafting skill, a Wizard's mind bomb , which can be bought at the Rising Sun Inn in Falador for 3 coins, a lobster pot , which can be bought in Port Sarim for 20 coins, and a piece of silk , which can be bought from the silk trader in Al Kharid for 2 coins (if you reject the trader's initial offer of 3 coins) or stolen from a silk stall with level 20 Thieving .
+
+When you have all these items, talk to the Oracle , located on top of the northern end of Ice Mountain , south-west of the shabby tent. The mountain is directly west of the Edgeville Monastery entrance.
+
+If you do not have the option to ask the Oracle about the map, then you need to go back to the Guildmaster and ask about Thalzar's map.
+
+After the Oracle has given you its riddle, descend the mountain and head slightly south, to enter the Dwarven Mine (using the ladder, under the canopy where all the dwarves are standing).
+Make sure to bring your silk, wizard's mind bomb, unfired bowl and lobster pot.
+
+Head to the square room at the north-east corner and open the magic door (see the attached map.) Place your silk, wizard's mind bomb, unfired bowl and lobster pot on the door to open it.
+( be careful not to drink your wizard's mind bomb) .
+Open the chest and search for the second map piece.
+
+Note: The door locking mechanism won't be reset if you place an incorrect item, or leave and return to the door partway through the process.
+
+Items required: 10,000 coins OR Ranged / Magic combat equipment and runes to cast telekinetic grab ( air rune and law rune ; 33+ Magic required).
+
+The third and final piece can be obtained by talking to Wormbrain .
+
+Although the Guildmaster points the player in the direction of the Goblin Village , it is possible to skip talking to General Bentnoze and head directly to the jail in Port Sarim to find Wormbrain.
+
+If you didn't ask the Guildmaster about Lozar's map piece, you will not be able to attack Wormbrain. He can be attacked and will drop his map piece even if the player did not speak to General Bentnoze. Use one of two different ways to get the map piece from Wormbrain, located in Port Sarim jail :
+
+You can attack him using Ranged or Magic . Once his health reaches zero (he has 5 Hitpoints ), he will say Ow! and drop the map part for you to telegrab (if you bought an extra Wizard's Mind Bomb , you can drink it to boost your Magic level +2). Alternatively, you can pay him 10,000 coins in exchange for it.
+
+Lady Lumbridge [ edit | edit source ]
+
+Items required: A hammer , 90 steel nails , 3 planks , and 2,000 coins .
+
+You will need a hammer, 90 steel nails and 3 planks . To obtain the steel nails, you can either smith six steel bars into nails (requires level 34 Smithing, which is boostable), from other players, or as a member you can buy them from the Sawmill operator north-east of Varrock . If you are a free-to-play ironman , there are only two sources of planks; one is at the Graveyard of Shadows in level 19 Wilderness and the other (which is recommended for Hardcore Ironman ) is in an Ornate lockbox which can be found within the Camdozaal Vault after finishing the quest Below Ice Mountain . Members can find 4 plank spawns located just north of the Barbarian Outpost Agility Course .
+
+Take your nails, planks, hammer , and 2,000 coins , and head to Port Sarim . Look for Klarense , a sailor, who is located on the second-most southern dock. He will sell you his boat named Lady Lumbridge for 2,000 coins. Pay him and the boat is yours. Board the ship and climb down the ladder. Patch the hole in the ship's hull by clicking it three times, and the ship will be seaworthy again.
+
+Note: If you forgot your hammer, you can kill goblins west of the Port until they drop a hammer . On a members ' world, you can also buy one from a Trader Crewmember on the dock to the south, or travel to the Void Knights' Outpost and buy one from the general store.
+
+Add. Note: If you die or flee from Elvarg in the final battle, you will need to complete the repair of the ship again, if this seem's likely, it's recommended you collect additional planks and nails. Additionally, you can take the ship to Karamja and go through the wall within the Volcano.
+
+Recruiting a captain [ edit | edit source ]
+
+Items required: Crandor map
+
+After fully repairing the Lady Lumbridge , you'll need to find a captain. Go to Draynor Village and locate Ned . He can be found in the house just north-east of the Wise Old Man 's home. Ask him to be the captain of your ship. He'll agree to sail you to Crandor if you have already repaired the ship and hand him the Crandor map .
+
+Preparing for the fight [ edit | edit source ]
+
+Items required: the anti-dragon shield , combat equipment and food . Items recommended: quick-escapes, like teleport runes , teleport tablets or the ectophial . Antifire potions , and Prayer potions or restore potions .
+
+Prior to the journey to Crandor, you will need to prepare yourself. An anti-dragon shield should be equipped. If a player chooses to battle without it, Elvarg 's dragonfire can deal up to 70 damage. Members can drink a dose of antifire potion , which reduces the attack damage of her dragonbreath. If combined with an anti-dragon shield, her dragonfire damage is significantly mitigated. In that case, Elvarg can only hit a maximum of 7 (3 or 4 if combined with Protect from Magic) with her magical attack instead of 11, thus saving you a lot of food. Being struck by her dragonfire attack without either an anti-dragon shield or antifire potion can drastically reduce Combat and Prayer stats. Even with the shield and/or a potion, her fiery breath will drain your Prayer , so you would do well to have prayer potions or restore potions on you.
+
+Lower-levelled members and ironmen without antifire potions are advised to use a ring of recoil , as Elvarg's fast hits make it particularly useful in dealing back damage.
+
+Also, bring teleportation runes or another teleport method just in case you are about to die during the fight.
+
+The rest of your inventory should be filled with food. Lobsters , swordfish or better are optimal for fighting her. Swordfish are preferable to lobsters since they heal more per use (14 vs 12), but with a combat level of around 40 and appropriate gear, you should be able to easily defeat Elvarg using lobsters. If your stats are lower, you can buy meat pizzas or anchovy pizzas (or, with level 45 Cooking , you could cook them yourself), as they heal more hitpoints per inventory slot, but require multiple uses to fully consume. A meat pizza heals 8 HP per bite (16 total) while an anchovy pizza heals 9 per bite (18 total).
+
+Protection used | Maximum damage
+
+ |  |  | Elvarg
+
+
+
+Unprotected | 70
+
+ |  |  | 10
+
+ |  |  | 55
+
+ |  |  | 55
+
+ |  |  | 40
+
+ |  |  | 7
+
+ |  |  | 7
+
+ |  |  | 4
+
+ |  |  | 0
+
+ | Anti-dragon shield
+
+ | Protect from Magic
+
+ | Antifire potion(4)
+
+ | Super antifire potion(4)
+
+Before fighting Elvarg, you'll need to choose a combat style : melee, ranged or magic.
+
+Melee
+
+This is the preferred style, as Elvarg will not solely use her dragonfire attack but also melee attacks when standing next to her, and the latter are less powerful. Furthermore, melee allows the player to flinch her. See the section on tips and strategies further down.
+
+Equip good-quality armour; preferably adamant armour or better.
+
+Like all dragons , Elvarg is weak to stab attacks; see the page about Attack types . As such, consider wielding a stab weapon : a sword or dagger instead of a scimitar. Adamant or better is recommended. For free-to-play players, a rune sword is recommended as it possesses the highest stab bonus in F2P, with its aggressive style the optimum for most players. A rune longsword , rune scimitar , battleaxe or mace are less effective but may still do decent enough damage. 
+Elvarg is not immune to poison , so adding weapon poison would turn the battle even more in your favour; thus a poisoned dagger would be effective.
+
+Ranged
+
+Elvarg is also weak against ranged attacks . For F2P players, using ranged may not be a viable option. With no access to antifire potions , equipping an anti-dragon shield is a must. This limits the player to a crossbow , but F2P players only have access to the weakest types and to bronze bolts . Members can effectively use ranged on the dragon. Optimally, rangers should still equip an anti-dragon shield, so they should use a one-handed weapon such as a crossbow . Use the best crossbow with the best bolts they can use (preferably poisoned, see under Choosing melee). Make sure you have Auto Retaliate on and select the Rapid firing style.
+
+Magic
+
+Using Magic is not optimal, as dragons resist magic fairly easily . If you still choose to use magical attacks, make sure you are using tier-2 Magic (i.e. Bolt spells such as Wind Bolt , Water Bolt , etc.) or higher (and, obviously, the anti-dragon shield).
+
+Travelling to Crandor & locating Elvarg [ edit | edit source ]
+
+Head back to and board your ship to meet up with Ned and Cabin boy Jenkins. Speak with Ned to depart and a cutscene will begin...
+
+After crashing on the southern side of the island , make your way to the top of the volcano (the dungeon marker on your minimap ), avoiding aggressive skeletons , moss giants , hobgoblins , and lesser demons . Enter the hole and a short cutscene plays, followed by abruptly finding yourself surrounded by skeletons (level 25) . Down the corridor you'll find large skeletons (level 45) , and you'll see Elvarg in the main chamber behind stalagmites and stalactites. (If you are a member, you can climb back up the rope to complete a medium task in the Karamja Diary , then climb back down.)
+
+Note: If you walk south, past Elvarg's chamber and past the lesser demons, you'll find a wall. One piece of it has an 'Open' option. Unlocking this secret entrance or shortcut from Karamja to Crandor will allow you to more easily return to Elvarg in the event that you die or teleport away during battle. If you do open the shortcut, you will not be able to travel to Crandor again by boat. You must then use the entrance underneath Karamja Volcano . Members can use an amulet of glory to teleport to Musa Point and go down the volcano to return to Elvarg quickly. If you don't open the secret door before attempting the fight and you die or teleport away, you'll need to repair the ship again. (In that scenario, Ned in Draynor Village will answer the player's question how he got back from Crandor with "I got towed back by a passing friendly whale." When talking to Klarense again, he'll exclaim: "Wow! You sure are lucky! Seems the Lady Lumbridge just washed right up into the dock by herself!" Miraculously, the ship is not nearly as damaged as after the crash. Only the initial hole in the hull needs fixing once again, requiring the same materials as before (i.e.,  3 planks, 90 steel nails, and a hammer). Ned is standing on the deck just like before, but Cabin boy Jenkins is nowhere to be seen (obviously, since he died during Elvarg's attack on the ship).
+
+Now, go back to the main chamber, climb over the low stalagmites, and fight Elvarg.
+
+Tips for the fight & potential strategies [ edit | edit source ]
+
+Before you enter the chamber to commence the fight with Elvarg , make sure that you have your anti-dragon shield equipped. If you have lost it — say by dying in a previous attempt — another can be obtained from Duke Horacio.
+
+If you have at least level 37 Prayer, Protect from Magic can be used to further mitigate Elvarg's dragonfire attacks. Consider immediately activating it as you enter the arena, as Elvarg, unlike other green dragons , can use dragonfire attacks at a distance.
+
+It is advisable to stand under Elvarg while eating, as it takes her a moment to move and hit you again. Alternatively, utilise the safe spot used for flinching (see below) to eat, and then run back into the fight.
+
+If you have a decent Defence level (35 or more), it is advisable to stand within Elvarg's melee range, rather than safespotting her from a distance, as her dragonfire attacks can easily outweigh her melee hits. Standing next to her could reduce the number of times she will use her dragonfire attack, as she may choose to attack with melee instead, which has a lower max hit. Note that while a cannon can be set up in Elvarg's area, it will attack the rats in the room rather than Elvarg.
+
+Elvarg can be flinched using melee attacks. This is fairly easy for players who know and have practiced flinching before, and the successful flincher may successfully slay the dragon while using little to no food. For players who are less skilled at flinching (this is especially true for players new to the mechanic), it is still recommended to take food, as getting her in the right position is quite tricky. In order to flinch this boss, you'll need to stand in the south-eastern corner of her cave, in the game square directly next to the north-west corner of the little lava pool. You'll also need to get Elvarg to stand directly left of the skeleton on the ground to the north-west. (See the image for the place to stand.) If you pull this off, you will notice she does not use melee or magic attacks while you're standing on this particular square; it is a safespot . From there, begin to attack her, and immediately click on the north-west corner of the little lava pool to walk back to the safespot. There are often rats occupying this particular square, so be mindful to click the square and not the rat. Wait for Elvarg's health bar to disappear, and repeat the process. This can and will still go wrong every now and then, so it is still recommended to bring food and have a decent combat stat.
+
+If you happen to teleport away during battle, she will not fully heal if you return quick enough. This may prove to be a major advantage to the player who needs to take their time.
+
+Returning to Oziach [ edit | edit source ]
+
+Once Elvarg is defeated and you have triumphed, you will automatically collect Elvarg's head (make sure you have an empty inventory slot). Either teleport out, or go through the shortcut and past the deadly red spiders , to the south-east of the dungeon where the skeletons are, and climb up the hanging rope to arrive on top of Karamja volcano. From here, journey to Edgeville , straight to Oziach with Elvarg's head in order to prove your feat (although the head is not required in order to complete the quest).
+
+Rewards [ edit | edit source ]
+
+2 Quest points 18,650 Strength experience 18,650 Defence experience The ability to equip a green d'hide body , rune platebody , and dragon platebody Access to Crandor Access to the Corsair Cove Resource Area The ability to be assigned Dragons as a Slayer task (obtainable immediately after starting the quest)
+
+Unlocks:
+
+Elvarg accessible in the Nightmare Zone .
+
+Required for completing [ edit | edit source ]
+
+Completion of Dragon Slayer I is required for the following:
+
+Heroes' Quest Karamja Medium Diary (Partial Completion) Ardougne Hard Diary Falador Hard Diary Fremennik Hard Diary Lumbridge Hard Diary Karamja Hard Diary
+
+Completion of Dragon Slayer I is also indirectly required for the following:
+
+Legends' Quest Throne of Miscellania Freeing Sir Amik Varze (a Recipe for Disaster subquest) Royal Trouble Dragon Slayer II The Fremennik Exiles
+
+Transcript [ edit | edit source ]
+
+This article has an associated transcript page. Click here for the transcript.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+11 November 2020 ( update ) | The quest was renamed from Dragon Slayer to Dragon Slayer I . [1]
+
+8 October 2015 ( update ) | In a specific piece of dialogue which is part of the Dragon Slayer quest; Ned will now be referred to as Captain Ned rather than dragonslayer_ned_ship.
+
+30 January 2014 ( update ) | The Ring of Charos (a) now functions correctly during Dragon Slayer.
+
+Trivia [ edit | edit source ]
+
+Although players must complete this quest in order to wear the green d'hide body , its completion is not required to equip the blue , red and black dragonhide bodies. Dragon Slayer I was the last quest to be released before membership was introduced to RuneScape . When speaking to Oziach at the start of the quest, he asks you how you found out he sells the rune platebody. If you reply 'I am a master detective,' and have completed the Murder Mystery quest, your character will exclaim that they even solved the Sinclair murder mystery all by themselves. If you have completed the quest, when speaking to Duke Horacio during The Lost Tribe quest, Sigmund mentions to him that you are the same adventurer who defeated Elvarg. Otherwise Sigmund will reference Rune Mysteries instead. Attempting to take a charter ship to Crandor, only available during this quest, they will refuse and tell the player " You'd need to buy your own ship and, even then, you'd have trouble finding a captain crazy enough to go there. " If you sail to Crandor and then teleport out without opening the secret entrance from Karamja to Crandor, the shortcut will unlock by itself. Wearing an Amulet of Ghostspeak and talking with the ghosts in Melzar's Maze reveals them to be citizens of Crandor, reliving their final moments before dying.
+
+References [ edit | edit source ]
+
+v • t • e Dragon Slayer I
+
+NPCs | Guildmaster Oziach Duke Horacio Ned Klarense Oracle Wormbrain Cabin boy Jenkins Elvarg Crandor Wizards Melzar Lozar Thalzar Melzar's Maze Ghost Lesser demon Skeleton Zombie Zombie rat |  | Guildmaster Oziach Duke Horacio Ned Klarense Oracle Wormbrain Cabin boy Jenkins Elvarg | Crandor Wizards | Melzar Lozar Thalzar | Melzar's Maze | Ghost Lesser demon Skeleton Zombie Zombie rat
+
+ | Guildmaster Oziach Duke Horacio Ned Klarense Oracle Wormbrain Cabin boy Jenkins Elvarg
+
+Crandor Wizards | Melzar Lozar Thalzar
+
+Melzar's Maze | Ghost Lesser demon Skeleton Zombie Zombie rat
+
+Items | Map part (Melzar) Map part (Thalzar) Map part (Lozar) Crandor map Anti-dragon shield Elvarg's head Keys Maze Red Orange Yellow Blue Magenta Green |  | Map part (Melzar) Map part (Thalzar) Map part (Lozar) Crandor map Anti-dragon shield Elvarg's head | Keys | Maze Red Orange Yellow Blue Magenta Green
+
+ | Map part (Melzar) Map part (Thalzar) Map part (Lozar) Crandor map Anti-dragon shield Elvarg's head
+
+Keys | Maze Red Orange Yellow Blue Magenta Green
+
+Locations | Champions' Guild Melzar's Maze Crandor Crandor and Karamja Dungeon
+
+Music | Attack 2 The Maze Dangerous Road Eye of the Storm The Shadow
+
+Related | Quick guide ( speedrunning ) Transcript Lady Lumbridge
+
+v • t • e Champions' Guild
+
+Inhabitants | Evil Chicken Guildmaster Larxus Leon d'Cour Scavvo Tarquin Valaine
+
+Shops | Scavvo's Rune Store. Valaine's Shop of Champions.
+
+Related | Chronicle Dragon Slayer I Champion's Challenge

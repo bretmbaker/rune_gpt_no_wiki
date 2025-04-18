@@ -1,0 +1,46 @@
+[Weapon: Champion%27S Cape]
+
+
+Thechampion's capeis a cosmeticcapethat is rewarded after defeating all 11 champions available in theChampions' Challenge. It is worn byLeon d'Cour, the human champion,Dimintheis, aVarrockiannoble, as well asToby, the taskmaster of theVarrock Diary.
+It can be mounted on acape hangerin anAchievement Galleryof aplayer-owned house.
+
+
+[Infobox]
+Released: 31 August2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Formerly owned by Leon d'Cour, the Champion of Champions.
+General Store Value: 2 coins
+High alch: 1 coin
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

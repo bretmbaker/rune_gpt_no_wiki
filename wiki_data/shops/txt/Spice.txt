@@ -1,0 +1,155 @@
+[Shop: Spice]
+
+Spice
+
+
+
+
+
+
+
+Released | 8 May2002(Update)
+
+Members | Yes
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Drop
+
+Examine | This could liven up an otherwise bland stew.
+
+
+
+Values
+
+
+
+Value | 230 coins
+
+High alch | 138 coins
+
+Low alch | 92 coins
+
+Weight | 0.2 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 23coins (info)
+
+Buy limit | 11,000
+
+Daily volume | 17,133
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 2007
+
+Link | MOID
+
+
+
+Spiceis an item used inCooking. It can be bought from theCulinaromancer's Chestafter completing the beginning portion ofRecipe for Disasteror fromspice stallsinArdougne,Civitas illa Fortis, andPrifddinas. It can also be stolen from those stalls with level 65Thievingor looted from aGourmet implingorBaby impling. Though it comes in a shaker, it is a single-use item.
+
+You need spice in the goblin sub-quest ofRecipe for Disaster, as well as for theDesert Treasure Iquest.
+
+Spice can be used to makeCurryin place of 3Curry leaves.
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Spicy maggots |  | None | None | 1 ×Spice1 ×Fishing bait
+
+ | Uncooked curry |  | 60 | 0 | 1 ×Spice1 ×Uncooked stew
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Baby impling jar | N/A | 1 | 1/100 | 
+
+Baby impling | 17; 27 | 1 | 1/100 | 
+
+Gourmet impling jar | N/A | 1 | 1/10 | 
+
+Gourmet impling | 28; 38 | 1 | 1/10 | 
+
+Spice stall | 65 | 1 | Always | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Ardougne Spice Stall. | East Ardougne | 1 | 1m | 230 | 138 | 2.0% |  | 
+
+Culinaromancer's Chest(3 Subquests) | Lumbridge Castlebasement | 4 | 5m | 299 | 92 | 2.0% |  | 
+
+Culinaromancer's Chest(full) | Lumbridge Castlebasement | 50 | 5m | 299 | 92 | 2.0% |  | 
+
+Culinaromancer's Chest(4 Subquests) | Lumbridge Castlebasement | 5 | 5m | 299 | 92 | 2.0% |  | 
+
+Culinaromancer's Chest(5 Subquests) | Lumbridge Castlebasement | 10 | 5m | 299 | 92 | 2.0% |  | 
+
+Culinaromancer's Chest(6 Subquests) | Lumbridge Castlebasement | 13 | 5m | 299 | 92 | 2.0% |  | 
+
+Culinaromancer's Chest(7 Subquests) | Lumbridge Castlebasement | 15 | 5m | 299 | 92 | 2.0% |  | 
+
+Culinaromancer's Chest(8 Subquests) | Lumbridge Castlebasement | 18 | 5m | 299 | 92 | 2.0% |  | 
+
+Culinaromancer's Chest(full, diary) | Lumbridge Castlebasement | 50 | 5m | 239 | 92 | 2.0% |  | 
+
+Culinaromancer's Chest(0 Subquests) | Lumbridge Castlebasement | 1 | 5m | 299 | 92 | 2.0% |  | 
+
+Culinaromancer's Chest(1 Subquest) | Lumbridge Castlebasement | 2 | 5m | 299 | 92 | 2.0% |  | 
+
+Culinaromancer's Chest(2 Subquests) | Lumbridge Castlebasement | 3 | 5m | 299 | 92 | 2.0% |  | 
+
+Fortis Spice Stall | Civitas illa Fortis | 20 | 1m | 230 | 161 | 2.0% |  | 
+
+Prifddinas Spice Stall | Prifddinas | 1 | 1m | 230 | 161 | 2.0% |  | 
+
+Changes[edit|edit source]
+
+Gallery (historical)[edit|edit source]
+
+ | 
+
+ | 
+
+RuneScape 2Beta | 29 March 2004 –present
+
+v•t•eSpices
+
+Evil Dave's Spices of DOOM | Red spiceOrange spiceBrown spiceYellow spice
+
+Other | Gnome spiceSpice

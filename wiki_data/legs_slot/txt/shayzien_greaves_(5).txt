@@ -1,0 +1,57 @@
+[Weapon: Shayzien Greaves (5)]
+
+
+TheShayzien greaves (5)are platelegs that require 20Defenceto equip, and are part of theShayzien armour (tier 5)set.
+It is dropped by thetier 5 soldierat theCombat Ringin theShayzien Encampment. It can also be created at an anvil with 91Smithingand 3lovakite bars.
+
+
+[Infobox]
+Released: 7 January2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Dress like a tier 5 Shayzien soldier.
+General Store Value: 75 coins
+High alch: 45 coins
+Low alch: 30 coins
+Weight: 9.071 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -20
+- Ranged: +6
+
+Defence Bonuses:
+- Stab: +23
+- Slash: +22
+- Crush: +21
+- Magic: -4
+- Ranged: +23
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Soldier (tier 5) | 99 | 1 | Always | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Lizardman shaman/Strategies(Melee)
+1 | Lizardman shaman/Strategies(Ranged)

@@ -1,0 +1,140 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Cabin Fever (#98)
+
+
+
+
+
+Released | 7 February 2006 ( Update )
+
+Members | Yes
+
+Quest series | Pirate , #2
+
+Lead developer(s) | Anthony W
+
+
+
+Cabin Fever is the second quest in the Pirate quest series . During the quest, you learn to become a pirate by aiding the shifty Bill Teach in running his ship. The quest ends with access to the pirate island of Mos Le'Harmless .
+
+Details [ edit | edit source ]
+
+Start point | Talk to Bill Teach at The Green Ghost inn in Port Phasmatys . Show on map
+
+Official difficulty | Experienced
+
+Official length | Short
+
+Description | It's war on the high seas as Bill Teach tries to make the journey from Port Phasmatys to the pirate enclave of Mos Le'Harmless!
+With his crew heading for the hills, he's looking to recruit anyone eager to become a pirate to help him sink the enemy before he ends up swimming home. He's offering a lot more than a shilling to join his crew. Have you got what it takes to be a pirate?
+
+Requirements | Completion of the following quests: Pirate's Treasure Rum Deal Zogre Flesh Eaters Big Chompy Bird Hunting Jungle Potion Druidic Ritual Priest in Peril 42 Agility ( not boostable ) 45 Crafting ( not boostable ) 50 Smithing ( not boostable ) ( required to start ) 40 Ranged ( not boostable )
+
+Items required | You don't need to bring any items yourself. However, make sure that you have at least 11 open inventory spaces for items you will obtain during the quest. A higher amount, like 14 open spaces, is recommended however.
+
+Recommended | 35 Combat level If you have not completed Ghosts Ahoy you'll need 3,500 coins to charter a ship or 2 Ecto-tokens . Food (level 57 pirates will attack you on the ship) Ectophial
+
+Enemies to defeat | Pirates (level 57)
+
+League notes | Unlocking Morytania ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+War o' words [ edit | edit source ]
+
+Travel to Port Phasmatys . Bring ecto-tokens and the Ghostspeak amulet (if you have not completed Ghosts Ahoy and are entering through the main gate), or you may also charter a ship for 3,500 coins (requiring no ecto-tokens) and speak to Bill Teach in The Green Ghost inn. Bill is the captain of The Adventurous , a ship which he claims is the finest ever to sail the seas. He needs a pirate to help him leave the port, but none will sail with him, not even his crew.
+
+Last night, he had a heated argument with the captain of another ship, wherein the captain threatened to sink The Adventurous and put his crew "to the sword". Scared, all his crewmembers have abandoned him and he has no choice but to sail back to his home land.
+
+Seeing his dilemma and wanting to be a pirate, you offer to help him. Although he doubts your plundering abilities, Bill accepts your help and tells you to meet him on his ship. Go to the Port Phasmatys docks, and board the easternmost ship, The Adventurous . Speak with Bill to set sail for Mos Le'Harmless and begin your journey as a pirate.
+
+Under attack! [ edit | edit source ]
+
+As soon as you leave port, you see a cutscene , where an enemy pirate ship starts firing on The Adventurous , destroying the ship's hull and cannon. Bill calms you down and tells you to first take care of the enemy's cannon.
+
+He suggests you grab some fuse and rope from the ship's bottom deck. Climb down to the bottom deck and search the repair locker , to take out four ropes (you will need to cross to the enemy ship a second time later, and each trip requires two ropes). Search the gun locker located near the repair locker, and pick up a fuse. In the southern corner, there is also a tinderbox ; grab it.
+
+Climb up the ship's ladder to the main deck, and use the climbing net to climb up the main mast. Use your rope on the hoisted sail of The Adventurous to swing over to the enemy ship. If you fail the jump, your run energy will drop to 0.
+
+The ship is populated by level 57 pirates . If you need to escape from them for a moment, climb up the net on the main mast. For your job, find the powder barrel next to the cannon on the west side of the deck and use the fuse on the powder barrel. Light the fuse to blow up the barrel and the cannon. Climb back on the main mast using the net, and using a rope, swing back over to The Adventurous - if you forgot to bring a second rope, you can find one in the south-western corner of the main deck of the enemy pirate's ship.
+
+Now that you've controlled the offence, you need to build your defence. Talk to Bill , and he'll want you to repair the damaged hull. Climb down the ship's ladder and search the repair locker for:
+
+6 Repair planks 30 Tacks 3 Swamp paste A hammer
+
+Each of the three holes takes two planks, ten tacks and one swamp paste to fix. When you have enough resources, a message in the chat interface will say so, if you try to get more than is needed.
+
+For each hole, use a repair plank and then a swamp paste on the ship hull to patch it up.
+
+Then, go talk to Bill again.
+
+For attacking your ship, the enemy pirates need to be taught a lesson. Bill asks you to pillage the enemy ship and bring back their booty. Return to the main deck, climb the net again, use a rope on the hoisted sail, and swing back over to the enemy ship.
+
+Climb down the ship's ladder. Steal from the chest, loot the crate and ransack the barrel for enemy plunder ; you will need to wait for it to respawn. You need 10 plunder, but looting all three once only provides you with 6 plunder, 3 being from the chest, 2 from the crate and 1 from the barrel. It can take anywhere up to 5 minutes for the plunder to respawn; however, you can simply log out and log back in (or switch worlds) for the plunder to respawn. The barrel will respawn fastest, then the crates and finally, the chest.
+
+After you have ten plunder in your inventory , return to the main deck, and return to The Adventurous .
+
+Climb down the ship's ladder, and use your plunder on the plunder storage at the back. If you leave the ship, you will lose the plunder and have to steal it back over again. Also, you can only store ten plunder; Bill will confiscate any surplus in your inventory when you talk to him.
+
+Finally, Bill wants you to prepare a send-off for the enemy. He wants to give the enemy pirates a blast, from the cannon . The aim here is to prepare the cannon (follow steps below) and to fire the cannon when the pirates are in front of the cannon on the pirate ship, so that you will hit them. Follow these steps to repair and fire the cannon:
+
+Climb down the ship's ladder, search the gun locker, and take a cannon barrel . Trying to take anything else at this point will result in the message "You do not need a [item name] right now." Climb back up and left-click the broken cannon to fix it (The cannon will have the option "Repair broken cannon").
+
+Talk to Bill again, then go below and search the gun locker for a ramrod , a few fuses (at least 4 is recommended here), and a cannon canister . Return to the main deck, and choose the take-powder option from the powder barrel next to the cannon.
+
+Gunpowder can be obtained from the powder barrel located right next to the cannon, just left click the 'take powder' option.
+
+Use gunpowder on the cannon. Use the ramrod on the cannon. Use a canister on the cannon. Use a fuse on the cannon. Fire the cannon! Use the ramrod on the cannon again to clean it out.
+
+If you miss, use the ramrod on the cannon to clean it out and then repeat the steps, until you score a hit. If you don't clean the cannon, it will explode from the previous unused gunpowder. If this happens, replace the broken barrel with a new one from the gun locker. Try not to fire the cannon immediately after attaching the fuse. This can cause multiple misses. Count to 3 before firing.
+
+When you hit the pirates with the canisters, talk to Bill. He tells you to sink the enemy pirate ship by blasting holes in its hull; three would be enough. Go down below, and search the gun locker to take three cannon balls (best to take extra cannon balls and fuses because you can miss).
+
+Up on the main deck, complete the following:
+
+Clean the cannon out with a ramrod. Use gunpowder on the cannon. Use the ramrod on the cannon to compact the gunpowder. This time, use a CANNONBALL (INSTEAD of a canister) on the cannon. Use a fuse on the cannon. Fire the cannon!
+
+Note:
+
+Clean the cannon immediately after firing every time. Selecting "Empty-Out Cannon" does not clean the cannon in spite of the chat message that reads, "You clean out the cannon," upon doing so. You will take some damage (around 6) and destroy the cannon (having to repair it again) each time you fail to complete:
+
+• Step 1: cleaning the cannon after firing and before loading gunpowder, OR
+
+• Step 3: using the ramrod after loading with gunpowder and before loading a canister OR cannonball. ***
+
+Upon hitting the enemy ship THREE (3) times, a short cutscene will follow.
+
+Mos Le'Harmless [ edit | edit source ]
+
+Following your third hit of the enemy pirate ship, you see a cutscene with Bill Teach talking with Mama Le'Fiette in The Other Inn . Bill then thanks you and gives you a Book o' piracy , to add "pirate" to your vocabulary as your ineptitude at speaking "pirate" annoyed him to no end in the voyage.
+
+Rewards [ edit | edit source ]
+
+2 Quest points 7,000 Crafting experience 7,000 Smithing experience 7,000 Agility experience 10,000 coins (only if you speak to Bill Teach after the quest) Access to Mos Le'Harmless Access to kill cave horrors The Book o' piracy Charter ship prices are halved Ability to play the Trouble Brewing minigame
+
+Required for completing [ edit | edit source ]
+
+Completion of Cabin Fever is required for the following:
+
+The Great Brain Robbery Medium tier of the Morytania Diary
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Trivia [ edit | edit source ]
+
+If your canister shot kills a rat on the enemy ship, it will still count as if you had killed a pirate. You can actually see the holes you put in the enemy ship's hull from the Adventurous. If you visit their ship, you can see them getting leaks as well. Any items obtained on the ship, excluding hammer, tinderbox, rope and swamp paste are removed when you arrive on Mos Le'Harmless. The exception is any additional plunder you might have kept; this disappears when you close the reward scroll.
+
+v • t • e Cabin Fever
+
+NPCs | Bill Teach Pirate Mama
+
+Items | Fuse Repair plank Tacks Plunder Cannon barrel Canister Gunpowder Cannon ball Ramrod Broken cannon Book o' piracy
+
+Locations | The Adventurous
+
+Music | Cabin Fever In the Brine
+
+Related | Quick guide Transcript

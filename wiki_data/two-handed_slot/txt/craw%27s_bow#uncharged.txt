@@ -1,0 +1,108 @@
+[Weapon: Craw%27S Bow#Uncharged]
+
+
+Craw's bowis ashortbowonce owned byCraw, one of the more formidable followers amongArmadyl's forces during theGod Wars. It can be received as a drop fromrevenantsfound within theRevenant Caves. This item counts as anArmadylitem in theGod Wars Dungeon.
+The bow requires aRangedlevel of 60 to wield, and shares the same bonuses as themagic shortbow (i)with the ranged strength ofdragon arrows, although it does not have aspecial attack. It has to be charged withrevenant etherto be fired, but it does provide its own ammo, rolling damage against an NPC's standard ranged defence. It also has a powerfulpassive effectwithin theWilderness.
+
+
+[Infobox]
+Released: 26 July2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Dismantle, Drop
+Worn options: None(?)
+Destroy: None
+Examine: This bow once belonged to a formidable follower of Armadyl.
+General Store Value: 120,000 coins
+High alch: 72,000 coins
+Low alch: 48,000 coins
+Weight: 3.175 kg
+Grand Exchange Value: 17,748,046 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 330
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +75
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +60
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 4 ticks (2.4s) | 9 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 3 ticks (1.8s) | 9 tiles |  | None
+ | Longrange | Standard | Longrange | 4 ticks (2.4s) | 10 tiles |  | +3 Defence
+
+
+[Passive Effect]
+When Craw's bow is charged withrevenant ether, an additional 50% ranged accuracy and damage boost is applied when attacking anyNPCin theWilderness, consuming 1 ether per attack whether the player hits or not.
+This effect will stack additively with aSlayer helmet (i)or multiplicatively with aSalve amulet(i)and their variants, but not both simultaneously. This makes it the second strongest ranged weapon in the Wilderness after thewebweaver bow, surpassing the damage output of atoxic blowpipewithdragon darts.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Revenant cyclopsOff-task | 82 | 1 | 1/32,533.74;1/17,893.74 | 
+Revenant cyclopsOn-task | 82 | 1 | 1/6,506.26;1/3,578.26 | 
+Revenant dark beastOff-task | 120 | 1 | 1/29,333.7;1/16,133.7 | 
+Revenant dark beastOn-task | 120 | 1 | 1/5,866.3;1/3,226.3 | 
+Revenant demonOff-task | 98 | 1 | 1/32,533.74;1/17,893.74 | 
+Revenant demonOn-task | 98 | 1 | 1/6,506.26;1/3,578.26 | 
+Revenant dragonOff-task | 135 | 1 | 1/26,667;1/14,667 | 
+Revenant dragonOn-task | 135 | 1 | 1/5,333;1/2,933 | 
+Revenant goblinOff-task | 15 | 1 | 1/97,734.56;1/53,754.56 | 
+Revenant goblinOn-task | 15 | 1 | 1/19,545.45;1/10,749.45 | 
+Revenant hellhoundOff-task | 90 | 1 | 1/32,533.74;1/17,893.74 | 
+Revenant hellhoundOn-task | 90 | 1 | 1/6,506.26;1/3,578.26 | 
+Revenant hobgoblinOff-task | 60 | 1 | 1/41,867.19;1/23,027.19 | 
+Revenant hobgoblinOn-task | 60 | 1 | 1/8,372.81;1/4,604.81 | 
+Revenant impOff-task | 7 | 1 | 1/146,668.5;1/80,668.5 | 
+Revenant impOn-task | 7 | 1 | 1/29,331.5;1/16,131.5 | 
+Revenant knightOff-task | 126 | 1 | 1/26,667;1/14,667 | 
+Revenant knightOn-task | 126 | 1 | 1/5,333;1/2,933 | 
+Revenant maledictusOff-task | 397 | 1 | 1/26,667;1/14,667 | 
+Revenant maledictusOn-task | 397 | 1 | 1/5,333;1/2,933 | 
+Revenant orkOff-task | 105 | 1 | 1/29,333.7;1/16,133.7 | 
+Revenant orkOn-task | 105 | 1 | 1/5,866.3;1/3,226.3 | 
+Revenant pyrefiendOff-task | 52 | 1 | 1/41,867.19;1/23,027.19 | 
+Revenant pyrefiendOn-task | 52 | 1 | 1/8,372.81;1/4,604.81 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Abyssal Sire/Strategies(Phase 1 Ranged)
+1 | Artio/Strategies(Ranged)
+1 | Callisto/Strategies(Ranged)
+1 | Chaos Elemental/Strategies(Ranged)
+1 | Chaos Fanatic/Strategies(Ranged)
+2 | Fight Caves Speed-Runner(Ranged)
+1 | Green dragon/Strategies(Ranged)
+1 | Krystilia/Strategies(Ranged)
+2 | Lava dragon/Strategies(Ranged)
+1 | Revenants/Strategies(Ranged)
+2 | Slayer training(Ranged (Wilderness))
+1 | Spindel/Strategies(Ranged)
+1 | Venenatis/Strategies(Ranged)

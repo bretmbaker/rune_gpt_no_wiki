@@ -1,0 +1,277 @@
+[Weapon: Amulet Of Glory#5]
+
+
+Theamulet of gloryis adragonstone amuletenchanted by theMagicspellLvl-5 Enchant. After completion ofHeroes' Quest, it can be charged at theFountain of Heroesand theFountain of Rune. When charged at the Fountain of Rune they will have 6 charges instead of the normal 4. With the completion ofDragon Slayer II, it can be charged at theFountain of Uhldbelow theMyths' Guild. The amulet of glory is tradeable on theGrand Exchangeonly when it has zero, four or six charges.
+It is a very popular amulet inmembers-only worlds amongst players of all levels, as it provides good damage bonuses, has no requirements to wear, is much less expensive than theamulet of fury, and offers usefulteleports.
+
+
+[Infobox]
+Released: 27 February2002(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Rub, Drop
+Worn options: Rub
+Examine: A very powerful dragonstone amulet.
+General Store Value: 17,625 coins
+High alch: 10,575 coins
+Low alch: 7,050 coins
+Weight: 0.01 kg
+Grand Exchange Value: 12,098 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 170,007
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +10
+- Slash: +10
+- Crush: +10
+- Magic: +10
+- Ranged: +10
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +3
+- Crush: +3
+- Magic: +3
+- Ranged: +3
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Dragon impling jar | N/A | 3(noted) | 1/19 | 
+Dragon impling | 83; 93 | 3(noted) | 1/19 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyss/Strategies(Graceful)
+1 | Abyss/Strategies(Defence)
+3 | Abyssal Sire/Strategies(Phase 1 Ranged)
+4 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+3 | Abyssal Sire/Strategies(Phase 2 Magic)
+4 | Abyssal Sire/Strategies(Phase 1 Melee)
+4 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+3 | Abyssal Sire/Strategies(Phase 2 Ranged)
+3 | Adamant dragon/Strategies(Ranged)
+5 | Adamant dragon/Strategies(Melee)
+3 | Adamant dragon/Strategies(Magic)
+3 | Adamant dragon/Strategies(Magic)
+5 | Alchemical Hydra/Strategies(Melee)
+4 | Alchemical Hydra/Strategies(Ranged)
+5 | Amoxliatl/Strategies(Melee)
+4 | Ancient Wyvern/Strategies(Magic)
+4 | Ancient Wyvern/Strategies(Prayer)
+3 | Ancient Wyvern/Strategies(Ranged)
+4 | Ancient Wyvern/Strategies(Melee)
+5 | Araxxor/Strategies(Melee)
+2 | Artio/Strategies(Magic)
+3 | Artio/Strategies(Ranged)
+1 | Aviansie/Strategies(Ranged - Low Risk)
+3 | Aviansie/Strategies(Ranged)
+3 | Barbarian Assault/Strategies(Ranged (high level))
+3 | Barbarian Assault/Strategies(Magic)
+2 | Barbarian Assault/Strategies(Ranged (mid level))
+5 | Barbarian Assault/Strategies(Melee (high level))
+2 | Barbarian Assault/Strategies(Melee (mid level))
+3 | Barrows/Strategies(Ranged (Ahrim))
+3 | Barrows/Strategies(Magic equipment)
+3 | Barrows/Strategies(Tank & Lower level)
+5 | Basilisk Knight/Strategies(Ranged/Prayer)
+4 | Basilisk Knight/Strategies(Melee)
+4 | Basilisk Knight/Strategies(Ranged)
+3 | Brutal black dragon/Strategies(Ranged)
+1 | Budget Cutter
+2 | Callisto/Strategies(Magic)
+3 | Callisto/Strategies(Ranged)
+4 | Calvar'ion/Strategies(Melee)
+3 | Cerberus/Strategies(Ranged)
+5 | Cerberus/Strategies(Melee)
+4 | Chaos Elemental/Strategies(Melee)
+2 | Chaos Elemental/Strategies(Ranged)
+3 | Chaos Fanatic/Strategies(Ranged)
+3 | Chompy bird hunting/Strategy
+4 | Commander Zilyana/Strategies(Ranged)
+3 | Corporeal Beast/Strategies(Dolo)
+5 | Corporeal Beast/Strategies(Solo melee)
+4 | Corporeal Beast/Strategies(Fewer stat drains)
+3 | Corporeal Beast/Strategies(Ranged masses)
+4 | Corporeal Beast/Strategies(Solo melee)
+4 | Corporeal Beast/Strategies(Melee masses)
+5 | Corporeal Beast/Strategies(Team melee)
+3 | Crazy archaeologist/Strategies(Magic)
+5 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+3 | Dagannoth Kings/Strategies(Range)
+5 | Dagannoth Kings/Strategies(Magic (Rex only))
+5 | Dark beast/Strategies(Melee)
+5 | Demonic gorilla/Strategies(upgrades and downgrades)
+4 | Deranged archaeologist/Strategies(Magic)
+3 | Drake/Strategies(Ranged)
+4 | Drake/Strategies(Magic)
+4 | Drake/Strategies(Melee)
+5 | Duke Sucellus/Strategies(Melee)
+4 | Galvek Speed-Trialist(Melee)
+5 | General Graardor/Strategies(Solo (Melee))
+5 | General Graardor/Strategies(Advanced Tank)
+3 | General Graardor/Strategies(Ranged Tank)
+3 | General Graardor/Strategies(Ranged Attacker)
+2 | Giant Mole/Strategies(Melee & Prayer Budget)
+4 | Giant Mole/Strategies(Dharok's)
+4 | Giant Mole/Strategies(Ranged)
+4 | Giant Mole/Strategies(Melee)
+4 | Giant Mole/Strategies(Magic)
+3 | Giant Mole/Strategies(Ranged Void)
+4 | Glough Speed-Trialist(Melee)
+5 | Gout tuber/Strategies(Tank)
+2 | Green dragon/Strategies(Melee)
+2 | Green dragon/Strategies(Ranged)
+4 | Grotesque Guardians/Strategies(Melee)
+2 | Hunter training(Dinh's bulwark)
+2 | Hunter training(Staff of the dead)
+5 | K'ril Tsutsaroth/Strategies(Melee Tank)
+5 | K'ril Tsutsaroth/Strategies(Solo Melee)
+3 | K'ril Tsutsaroth/Strategies(Ranged)
+5 | K'ril Tsutsaroth/Strategies(Melee)
+4 | Kalphite Queen/Strategies(Pre-diary Method)
+4 | Kalphite Queen/Strategies(High DPS (Phase One))
+3 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+5 | Kalphite Queen/Strategies(Verac the Defiled's)
+3 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+3 | Kalphite Queen/Strategies(High DPS (Phase Two))
+2 | Kalphite Queen/Strategies(Flinching)
+4 | King Black Dragon/Strategies(Ranged)
+4 | King Black Dragon/Strategies(Melee BIS smuggle)
+4 | King Black Dragon/Strategies(Crossbow)
+4 | King Black Dragon/Strategies(4-item melee)
+3 | Kraken/Strategies(Magic)
+4 | Kree'arra/Strategies(Chinchompas)
+4 | Kree'arra/Strategies(Ranged Tank)
+3 | Kree'arra/Strategies(Tbow / Bowfa)
+2 | Krystilia/Strategies(Melee)
+2 | Krystilia/Strategies(Magic)
+2 | Krystilia/Strategies(Ranged)
+2 | Lava dragon/Strategies(Ranged)
+2 | Lava dragon/Strategies(Melee)
+2 | Lava dragon/Strategies(Magic)
+4 | The Leviathan/Strategies(Ranged)
+4 | Lizardman shaman/Strategies(Melee)
+5 | Lizardman shaman/Strategies(Ranged)
+4 | Metal dragons/Strategies(Melee)
+3 | Metal dragons/Strategies(Magic)
+3 | Metal dragons/Strategies(Ranged)
+3 | The Mimic/Strategies(Magic)
+3 | The Mimic/Strategies(Ranged)
+3 | Mithril dragon/Strategies(Magic)
+4 | Mithril dragon/Strategies(Melee)
+5 | Mithril dragon/Strategies(Melee tank)
+3 | Mithril dragon/Strategies(Ranged)
+4 | Moons of Peril/Strategies(Moons of Peril Armour)
+3 | Nightmare Zone/Strategies(Magic)
+5 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+3 | Nightmare Zone/Strategies(Ranged)
+4 | Nightmare Zone/Strategies(Melee)
+3 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+4 | Nightmare Zone/Strategies(Melee (Guthan's))
+5 | Nightmare Zone/Strategies(Melee (Dharok's))
+4 | Nightmare Zone/Strategies(Melee (Prayer))
+5 | The Nightmare/Strategies(Melee)
+2 | Pay-to-play Prayer training(High Magic defence)
+2 | Pay-to-play Prayer training(Dinh's bulwark)
+3 | Phantom Muspah/Strategies(Ranged)
+4 | Phantom Muspah/Strategies(Magic & Ranged)
+4 | Phantom Muspah/Strategies(Melee)
+5 | Phosani's Nightmare/Strategies(Melee)
+4 | Revenants/Strategies(Magic)
+3 | Revenants/Strategies(Ranged)
+3 | Revenants/Strategies(Melee)
+4 | Royal Titans/Strategies(Mid-game)
+3 | Royal Titans/Strategies(Minimal gear switching)
+3 | Rune dragon/Strategies(Magic)
+4 | Rune dragon/Strategies(Melee)
+3 | Rune dragon/Strategies(Ranged)
+5 | Sarachnis/Strategies(Melee)
+4 | Sarachnis/Strategies(Melee tank)
+3 | Scorpia/Strategies(Magic)
+2 | Scurrius/Strategies(Magic (mid level))
+4 | Scurrius/Strategies(Magic (high level))
+2 | Scurrius/Strategies(Melee (mid level))
+4 | Scurrius/Strategies(Melee (high level))
+4 | Scurrius/Strategies(Range (high level))
+2 | Scurrius/Strategies(Range (mid level))
+4 | Skeletal Wyvern/Strategies(Ranged (Void))
+4 | Skeletal Wyvern/Strategies(Melee)
+3 | Skeletal Wyvern/Strategies(Ranged)
+3 | Skeletal Wyvern/Strategies(Magic)
+4 | Skeleton (Ape Atoll)(Magic)
+4 | Skeleton (Ape Atoll)(Ranged)
+4 | Skotizo/Strategies(Melee)
+3 | Skotizo/Strategies(Ranged)
+4 | Slayer task/Abyssal demons(Ranged)
+4 | Slayer task/Abyssal demons(Magic)
+4 | Slayer task/Fossil Island wyverns(Magic)
+4 | Slayer task/Fossil Island wyverns(Melee)
+4 | Slayer task/Fossil Island wyverns(Prayer)
+3 | Slayer task/Fossil Island wyverns(Ranged)
+5 | Slayer task/Gargoyles(Melee)
+3 | Slayer task/Gargoyles(Ranged)
+3 | Slayer task/Jellies(Magic)
+4 | Slayer task/Jellies(Melee)
+4 | Slayer task/Jellies(Ranged)
+5 | Slayer task/Nechryael(Melee)
+4 | Slayer task/Suqah(Melee (South))
+4 | Slayer task/Suqah(Ranged (North))
+3 | Slayer task/Trolls(Magic (Ice trolls))
+4 | Slayer task/Trolls(Melee (Mountain trolls))
+4 | Slayer task/Trolls(Melee (Ice trolls))
+4 | Slayer task/Waterfiends(Melee)
+4 | Slayer task/Wyrms(Melee)
+3 | Slayer task/Wyrms(Ranged)
+4 | Slayer training(Ranged)
+2 | Slayer training(Ranged (Wilderness))
+5 | Smoke devil/Strategies
+2 | Spindel/Strategies(Ranged)
+3 | Spindel/Strategies(Melee)
+3 | The Bane of Demons(Magic)
+4 | The Hueycoatl/Strategies(Melee)
+1 | Theatre of Blood/Strategies(Entry mode)
+4 | Thermonuclear smoke devil/Strategies(Melee)
+3 | Thermonuclear smoke devil/Strategies(Magic)
+5 | Tombs of Amascut/Strategies(Melee switch)
+5 | Tormented Demon/Strategies(Melee switch)
+3 | Tormented Demon/Strategies(Magic switch)
+3 | Tormented Demon/Strategies(Ranged switch)
+3 | TzHaar Fight Cave/Strategies(Pure)
+4 | TzHaar Fight Cave/Strategies(Melee)
+4 | TzHaar Fight Cave/Strategies(Ranged)
+3 | TzHaar Fight Cave/Strategies(Early-game iron)
+5 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+2 | Ultimate Ironman Guide/Equipment
+2 | Ultimate Ironman Guide/Equipment
+4 | Ultimate Ironman Guide/Equipment
+4 | Ultimate Ironman Guide/Slayer
+5 | Vardorvis/Strategies(Melee)
+2 | Venenatis/Strategies(Ranged)
+3 | Venenatis/Strategies(Melee)
+4 | Vet'ion/Strategies(Melee)
+5 | Volcanic Mine(Solo)
+5 | Volcanic Mine(Group)
+5 | Vorkath/Strategies(Melee)
+4 | Vorkath/Strategies(Ranged (crossbow))
+5 | Vyrewatch Sentinel/Strategies(DPS)
+5 | Vyrewatch Sentinel/Strategies(AFK Prayer)
+2 | The Whisperer/Strategies(Magic)
+3 | Zulrah/Strategies(Ranged)
+4 | Zulrah/Strategies(Magic)

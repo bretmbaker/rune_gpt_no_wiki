@@ -1,0 +1,258 @@
+[Minigame: Rune_arrow]
+
+Rune arrow
+
+
+
+
+
+
+
+Released | 25 March2002(Update)
+
+Members | Yes
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | Yes
+
+Stackable | Yes
+
+Noteable | No
+
+Options | Wield, Drop
+
+Examine | Arrows with rune heads.
+
+
+
+Values
+
+
+
+Value | 400 coins
+
+High alch | 240 coins
+
+Low alch | 160 coins
+
+Weight | 0 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 50coins (info)
+
+Buy limit | 11,000
+
+Daily volume | 30,369,957
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 892
+
+Link | MOID
+
+
+
+Rune arrowsare stronger thanadamant arrows, are stackable, and can be used on anybowofyewor stronger. They can be created through theFletchingskillat level 75 by using 15rune arrowtipson 15headless arrows, granting 187.5 Fletchingexperience. Players may also obtain 50 rune arrows from theRanging Guildin exchange for 2,000archery tickets, or obtain 300 atJustine's stuff for the Last Shopper StandinginFerox Enclavein exchange for 3Last Man Standingpoints. Lastly, they can be bought from theLletya Archery shopandDaryl's Ranging SurplusinShayzien. As with mostarrows, they can bepoisoned.
+
+Rune arrows with aMagic shortbow (i)are a powerful weapon forIronmenbefore obtaining theToxic blowpipe, however they are outclassed byKaril's crossbow.
+
+Despite the presumed expense, as with allranged ammunition, rune arrows only have a 20% chance to break when fired. Assuming the player wears a device such asAva's accumulator, 72% of the arrows are returned and 8% fall to the ground. WithAva's assembler, 80% of the arrows are returned instead, leaving none on the ground.
+
+Combat stats[edit|edit source]
+
+Attack bonuses
+
+
+
+ |  |  |  | 
+
++0 | +0 | +0 | +0 | +0
+
+
+
+Defence bonuses
+
+
+
+ |  |  |  | 
+
++0 | +0 | +0 | +0 | +0
+
+
+
+Other bonuses | Slot
+
+
+
+ |  |  |  | 
+
++0 | +49 | +0% | +0 | List
+
+
+
+Creation[edit|edit source]
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Rune arrow(p)× 5 |  | None | None | 5 ×Rune arrow1 ×Weapon poison
+
+ | Rune arrow(p+)× 5 |  | None | None | 5 ×Rune arrow1 ×Weapon poison(+)
+
+ | Rune arrow(p++)× 5 |  | None | None | 5 ×Rune arrow1 ×Weapon poison(++)
+
+ | Rune fire arrow |  | None | None | 1 ×Rune arrow1 ×Oily cloth
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Ancient Wyvern | 210 | 25–50 | 3/132 | 
+
+Ancient chest | N/A | 1–9,362 | 2 × 1/33 | 
+
+AnkouWilderness Slayer Cave | 98 | 5–14 | 4/92 | 
+
+Armoured zombie (Zemouregal's Fort) | 109 | 12 | 8/128 | &&
+
+Barbarian Assault/GamblesHigh | N/A | 400–500 | 1/32 | 
+
+Branda the Fire Queen | 350 | 100–300 | 2 × 15/387 | N/A
+
+Brutal black dragon | 318 | 75 | 7/128 | 
+
+Brutal blue dragon | 271 | 15 | 7/128 | 
+
+Brutal red dragon | 289 | 25 | 7/128 | 
+
+Castle wars supply crate | N/A | 175–225 | 3 × 1/11 | N/A
+
+Chaos Elemental | 305 | 150 | 5/128 | 
+
+Chewed bones | N/A | 10 | 6/128 | 
+
+Choke devil | 264 | 12 | 3 × 5/128 | 
+
+Crystal impling jar | N/A | 400–750 | 1/18 | 
+
+Crystal impling | 80; 90 | 400–750 | 1/18 | 
+
+Dark Chest | 28 | 100–300 | 30/600 | 
+
+Drake | 192 | 35–65 | 10/85 | 
+
+Dust devilRegular | 93; 110 | 12 | 5/128 | 
+
+Dust devilWilderness Slayer Cave | 93 | 12 | 5/126 | 
+
+Eldric the Ice King | 350 | 100–300 | 2 × 8/250 | N/A
+
+Ferocious barbarian spirit | 166 | 10 | 4/128 | 
+
+Fire giant | 86; 104; 109 | 12 | 5/128 | 
+
+Guardian Drake | 386 | 35–65 | 3 × 10/85 | 
+
+Kalphite Queen | 333 | 250 | 3/126 | 
+
+Kree'arra | 580 | 100–105 | 8/127 | 
+
+The Leviathan | 593; 798; 1157 | 54; 81 | 8/100 | 
+
+Locust rider | 68; 98; 106 | 18 | 2/128 | 
+
+Mithril dragon | 304 | 8 | 3/128 | 
+
+The Nightmare | 814 | 31–547 | 3/100 | 
+
+Ninja impling jar | N/A | 70 | 1/19 | 
+
+Ninja impling | 74; 84 | 70 | 1/19 | 
+
+Nuclear smoke devil | 280 | 24 | 3 × 2/128 | 
+
+Phosani's Nightmare | 1024 | 412–957 | 3/100 | 
+
+Red dragon | 152 | 4 | 8/128 | &
+
+Reward Chest (The Gauntlet) | N/A | 200–300 | 2 × 1/24 | 
+
+Reward Chest (The Gauntlet)(Corrupted) | N/A | 250–450 | 3 × 1/24 | 
+
+Rune dragon | 380 | 30–40 | 8/127 | &
+
+Scarab Mage | 66; 93; 119 | 18 | 2/128 | 
+
+ScurriusMVP | 200; 250 | 20–50 | 6/100 | 
+
+Scurriusnon-MVP | 200; 250 | 20–35 | 3/33 | 
+
+Skeletal Wyvern | 140 | 36 | 5/128 | 
+
+Smoke devil | 160 | 24 | 2/128 | 
+
+Spiritual ranger | 115–158 | 5 | 2/128 | 
+
+Spiritual rangerZaros | 158 | 12 | 2/128 | 
+
+Spiritual rangerZaros | 158 | 50 | 2/128 | 
+
+Spoils of war | N/A | 100–200 | 3 × 5/90 | 
+
+Thermonuclear smoke devil | 301 | 100 | 2/107 | 
+
+Tormented Demon | 450 | 65–125 | 4/51 | 
+
+Vyrewatch Sentinel | 151 | 4–10 | 4/93 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Dargaud's Bow and Arrows. | Ranging Guild | 400 | 1m 18s | 400 | 200 | 1.0% |  | 
+
+Daryl's Ranging Surplus | Shayzien | 200 | 18s | 400 | 220 | 1.0% |  | 
+
+Hickton's Archery Emporium. | Catherby | 0 | 40m | 400 | 200 | 1.0% |  | 
+
+Justine's stuff for the Last Shopper Standing | Last Man Standinglobby | ∞ | N/A | 3 | N/A | 0.0% |  | N/A
+
+Lletya Archery Shop | Lletya | 400 | 1m 18s | 520 | 160 | 3.0% |  | 
+
+Ranging Guild Ticket Exchange | Ranging Guild | ∞ | N/A | 2,000 | N/A | 0.0% |  | 
+
+Sian's Ranged Weaponry | Prifddinas | 500 | 1m 18s | 400 | 220 | 1.0% |  | 
+
+Used in recommended equipment[edit|edit source]
+
+Not used in any recommended equipment.
+
+Gallery[edit|edit source]
+

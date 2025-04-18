@@ -1,0 +1,1 @@
+Aniron pickaxe (nz)is aNightmare Zoneexclusive version of theiron pickaxe, and shares its combat stats. It spawns on the ground during a Nightmare Zone session only ifSlagilithis present and the player'sAttackis lower than 20. This is because a pickaxe is the only way to damage Slagilith.

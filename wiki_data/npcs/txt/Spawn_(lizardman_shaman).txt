@@ -1,0 +1,2 @@
+Item: Spawn (lizardman shaman)
+Summary: Spawns are NPCs summoned by lizardman shamans, signalled by the player's screen shaking briefly and the shaman raising its hands. Three spawns appear each time.

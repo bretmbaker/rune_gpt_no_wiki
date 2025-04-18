@@ -1,0 +1,46 @@
+[Weapon: Dragon Sq Shield (G)]
+
+
+Thedragon sq shield (g)is adragon sq shieldwith adragon sq shield ornament kitattached to it. The attached ornament kit gives no additional bonuses, and is only used to add aesthetics to the square shield. It costs307,593for both the parts to make the dragon sq shield (g).
+While the square shield is untradeable in its ornamented state, it can be dismantled anytime, returning the tradeable square shield and ornament kit.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle
+Examine: An ancient and powerful looking Dragon Square shield with gold trim.
+General Store Value: 500,000 coins
+High alch: 300,000 coins
+Low alch: 200,000 coins
+Weight: 3.175 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +50
+- Slash: +52
+- Crush: +48
+- Magic: +0
+- Ranged: +50
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

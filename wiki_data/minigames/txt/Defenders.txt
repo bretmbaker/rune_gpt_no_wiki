@@ -1,0 +1,125 @@
+[Minigame: Defenders]
+
+Defender
+
+
+
+
+
+
+
+Slot | Shield slot
+
+Type | Melee
+
+
+
+Defendersare off-handweaponswielded in theshield slotproviding attack and defensive bonuses. Wielding a defender requires both theAttackandDefencelevel corresponding to its tier ofmetal.
+
+Defenders are obtained by killingcyclopesin theWarriors' Guildat a rate of 1/50 for bronze through rune and 1/100 for dragon. After obtaining the first defender of each metal, the player must leave the room to showKamfreenathe defender before the next tier defender can drop. Once the defender is shown toKamfreena, it can be banked and the next defender will still drop regardless of whether it is in the player's inventory. Defenders up to rune are obtained on the top floor, while thedragon defendercan only be obtained in the basement after showingLorelaia rune defender. The entrance to the basement is behind the Warriors' Guild.
+
+Multiple defenders of the same metal can be obtained by having the next lowest defender while killing Cyclopes. On average, a player will need to kill approximately 450 cyclopes to obtain a dragon defender. The number of tokens needed will vary heavily based on combat levels and gear, but expect upwards of 2,000warrior guild tokens.
+
+Once a dragon defender has been obtained, it can be combined with anAvernic defender hiltto create anAvernic defender, which has even higher stats.Ghommal's hilt 5or6can then be attached to the Avernic defender to formGhommal's Avernic defender 5or6, which possess the bonuses of the Avernic defender and the additional benefits of the hilt.
+
+Option responses[edit|edit source]
+
+Before showing any defender to Kamfreena, she says:"I'll release some cyclopes which might drop bronze defenders for you to start off with, unless you show me another. Have fun in there."
+
+Using defender on Kamfreena:"I have a (type) defender, please let me in to kill some more Cyclopes!"
+
+Kamfreena's responses to each metal:
+
+(Bronze) "Bronze eh? The next cyclopes are ready, toddle in when you're ready."(Iron) "Wow, iron eh? The next cyclopes are ready, toddle in when you're ready."(Steel) "Strong as steel eh? The next cyclopes are ready, toddle in when you're ready."(Black) "Black, hmmm, about half way to Rune then! Keep going! Cyclopes have been released, enter when you're ready."(Mithril) "Mithril? Getting good at this aren't you? Okay, I've released those cyclopes that sometimes drop adamant defenders, enter when you're ready."(Adamant) "An adamant defender, eh? Trying for the Rune defender I'm betting. Okay, I've released those cyclopes. Enter when you're ready."(Rune) "Well done, you truly are a brilliant warrior! You should speak to my apprentice Lorelai in the basement for an additional challenge. If you'd rather stay up here, I've released the cyclopes. Enter when you're ready."(Dragon) "Well done! You can only get more Dragon defenders from the basement. If you'd rather stay up here, I've released the cyclopes that can drop rune defenders. Enter when you're ready."
+
+Lorelai's response to getting a dragon defender:
+
+"Congratulations you've found a Dragon defender! You're welcome to go back inside and try to get more."
+
+Standard defenders[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze defender | 3 | 2 | 1 | -3 | -2 | 3 | 2 | 1 | -3 | -2 | 0 | 0% | 0 | 0 | 0.453 | 
+
+ | Iron defender | 5 | 4 | 3 | -3 | -2 | 5 | 4 | 3 | -3 | -2 | 0 | 0% | 0 | 0 | 0.453 | 
+
+ | Steel defender | 7 | 6 | 5 | -3 | -2 | 7 | 6 | 5 | -3 | -2 | 1 | 0% | 0 | 0 | 0.453 | 
+
+ | Black defender | 9 | 8 | 7 | -3 | -2 | 9 | 8 | 7 | -3 | -2 | 2 | 0% | 0 | 0 | 0.453 | 
+
+ | Mithril defender | 10 | 9 | 8 | -3 | -2 | 10 | 9 | 8 | -3 | -2 | 3 | 0% | 0 | 0 | 0.453 | 
+
+ | Adamant defender | 13 | 12 | 11 | -3 | -2 | 13 | 12 | 11 | -3 | -2 | 4 | 0% | 0 | 0 | 0.453 | 
+
+ | Rune defender | 20 | 19 | 18 | -3 | -2 | 20 | 19 | 18 | -3 | -2 | 5 | 0% | 0 | 0 | 0.453 | 
+
+ | Dragon defender | 25 | 24 | 23 | -3 | -2 | 25 | 24 | 23 | -3 | -2 | 6 | 0% | 0 | 0 | 0.453 | 
+
+Other defenders[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Rune defender (t) | 20 | 19 | 18 | -3 | -2 | 20 | 19 | 18 | -3 | -2 | 5 | 0% | 0 | 0 | 0.453 | 
+
+ | Dragon defender (t) | 25 | 24 | 23 | -3 | -2 | 25 | 24 | 23 | -3 | -2 | 6 | 0% | 0 | 0 | 0.453 | 
+
+ | Avernic defender | 30 | 29 | 28 | -5 | -4 | 30 | 29 | 28 | -5 | -4 | 8 | 0% | 0 | 0 | 0.453 | 
+
+ | Ghommal's avernic defender 5 | 30 | 29 | 28 | -5 | -4 | 30 | 29 | 28 | -5 | -4 | 8 | 0% | 0 | 0 | 0.453 | 
+
+ | Ghommal's avernic defender 6 | 30 | 29 | 28 | -5 | -4 | 30 | 29 | 28 | -5 | -4 | 8 | 0% | 0 | 0 | 0.453 | 
+
+Beta weapons[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Avernic defender (beta) | 30 | 29 | 28 | -5 | -4 | 30 | 29 | 28 | -5 | -4 | 8 | 0% | 0 | 0 | 0.4 | 
+
+Trivia[edit|edit source]
+
+Defenders are based off of theparrying dagger, specifically themain-gauche.
+
+v•t•eWeapons
+
+Melee | StabPickaxeHarpoonDaggerSwordHastaSpearPartisanSlashSickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberdCrushBannerBlackjackCanePolestaffMaceMaulWarhammer | Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan | Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd | Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan
+
+Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd
+
+Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Magic | StaffBattlestaffCrozierMystic staffPowered staffBladed staffWand
+
+Ranged | ShortbowLongbowComposite bowCrossbowBallistaThrownDartThrowing knifeThrowing axeChinchompa |  | ShortbowLongbowComposite bowCrossbowBallista | Thrown | DartThrowing knifeThrowing axeChinchompa
+
+ | ShortbowLongbowComposite bowCrossbowBallista
+
+Thrown | DartThrowing knifeThrowing axeChinchompa
+
+Other | DefenderSalamanderShieldFun weapons
+
+v•t•eWarriors' Guild
+
+Monsters | CyclopsBronze armourIron armourSteel armourBlack armourMithril armourAdamant armourRune armour
+
+Defenders | BronzeIronSteelBlackMithrilAdamantRuneDragonAvernic
+
+Barrels | OneTwoThreeFourFive
+
+Other items | Warrior guild tokenDefensive shield18lb shot22lb shotGround ashes
+
+Shops | ArmouryFood shopPotion shop
+
+Features | Warriors' Guild bank
+
+NPCs | AjjatAntonGamfredGhommalLaidee GnonockHarrallak MenarousJadeJimmyKamfreenaLidioLillyRefShanomiSloaneYadech StrongarmLorelaiRory
+
+Scenery | DummyHeavy doorMagical Animator

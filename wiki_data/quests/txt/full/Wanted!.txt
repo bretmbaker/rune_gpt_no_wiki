@@ -1,0 +1,221 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Wanted! (#88)
+
+
+
+
+
+Released | 17 October 2005 ( Update )
+
+Members | Yes
+
+Quest series | Temple Knight , #2
+
+Lead developer(s) | James B
+
+
+
+Wanted! is the second quest in the Temple Knight series . Due to an oversight during your recruitment to the Temple Knights, you must now hunt down an extremely dangerous wizard and mass murderer named Solus Dellagar .
+
+Details [ edit | edit source ]
+
+Start point | Speak to Sir Tiffy Cashien in Falador Park . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Medium
+
+Description | A wanted man is on the loose. Can you track him down?
+
+Requirements | 32 Quest points Completion of the following quests: Recruitment Drive Black Knights' Fortress Druidic Ritual The Lost Tribe Rune Mysteries Goblin Diplomacy Priest in Peril Enter the Abyss The ability to defeat a level 32 Black Knight .
+
+Items required | 10,000 coins , or: Law rune Enchanted gem (bought from a Slayer Master ) Molten glass 20 un-noted Rune essence or pure essence (you'll get them back) The player must deliver all 20 rune essence at once Light source ( Note: Candles , torches and oil lamps can cause swamp gas explosions if going off-route, and need a tinderbox to stay lit)
+
+Recommended | 15 Combat level Armour and some food . Stamina or energy potions . Fast travel to several locations that are always visited during the quest Falador ( Falador teleport ) Canifis ( Kharyrll Teleport , Ectophial , Salve Graveyard Teleport , Fenkenstrain's Castle Teleport , Fairy Rings to C K S or Slayer Ring to the Slayer Tower) Champions' Guild and Varrock ( Combat Bracelet , Chronicle or Varrock teleport ) Lumbridge ( Lumbridge teleport ) Fast travel to several randomly chosen locations Ardougne ( Ardougne teleport ) Brimhaven (travel from Ardougne) Rellekka ( Enchanted lyre or Fremennik sea boots , or House teleport if your house is in Rellekka) Castle Wars ( Ring of Dueling ) Al Kharid ( Ring of Dueling ) Musa Point ( Amulet of Glory to Karamja) Draynor Village ( Amulet of Glory ) Tree Gnome Stronghold ( Gnome Glider , Balloon Transport System , Spirit trees or Slayer Ring to Stronghold Slayer Cave) Goblin Village (walk from Falador) Yanille ( Watchtower teleport ) McGrubor's Wood ( Combat Bracelet to Ranging Guild or Fairy Rings to A L S ) Grave of Scorpius ( Ourania Teleport , Spirit Tree to Battle of Khazard, or Ring of Dueling to Castle Wars)
+
+Enemies to defeat | Black Knight (level 32) Solus Dellagar
+
+Ironman concerns | The player must have 20 inventory spots to deliver all 20 rune essence at once. If the miniquest has been completed, the table in the rune shop may be used to hold rune essence from multiple trips to bring to the nearby chaos altar while inventory items are dropped without the worry of them despawning.
+
+League notes | Asgarnia ✓ — location requirement Morytania ✓ — location requirement Wilderness ✓ — location requirement Only possible to manually complete if the random locations are in the 3 required regions of Asgarnia ✓ , Morytania ✓ and Wilderness ✓ Unlocking Desert ✓ will auto-complete the quest Unlocking Fremennik ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Getting started [ edit | edit source ]
+
+To begin the quest, speak with Sir Tiffy Cashien in the Falador Park . Ask if he has any jobs for you, and he lets you know that a clerk has made an error and that you're not actually permitted to be a Temple Knight . It turns out you have to work as a squire for five years. Because this will take too long, Sir Tiffy offers an alternative by exploiting a loophole. He'll then ask you to go see Sir Amik Varze in the White Knights' Castle .
+
+Sir Amik Varze [ edit | edit source ]
+
+Speak to Sir Amik Varze by going up 2 flights of stairs, on the west side in the White Knights' Castle in Falador . He will ask you to become a squire after a small conversation. Decline his offer , and the conversation will continue. If you do not decline his offer to become a squire, he will ask for Asgarnian ale in an endless loop. Speak to Sir Tiffy Cashien to undo this.
+
+It turns out that there needs to be a crisis for you to become a deputy, but there is no current crisis. Report back to Sir Tiffy in the Falador Park . For some players, Sir Tiffy will not say anything about a crisis until you have spoken to him a few times. Eventually, Sir Tiffy will inform you of a crisis that has arisen. Head back to talk to Sir Amik again.
+
+Sir Amik will tell you the news that a criminal named Solus Dellagar , the "infamous murder-mage," is back. Sir Amik mentions they have been unable to capture Solus Dellagar due to his powers and, to only kill Solus Dellagar as a last resort. Join the White Knights, and accept the mission to pursue Solus Dellagar.
+
+The Communication Orb [ edit | edit source ]
+
+Once again, go back to Sir Tiffy Cashien . It turns out you're just the "agent" that needs to locate Solus Dellagar . As an agent, you need to be in constant communication. Sir Tiffy offers you a communication device for 10,000 coins , or he can make one if you bring the supplies. Give Sir Tiffy the money or the supplies (a law rune , an enchanted gem and molten glass ). Either way, you'll receive a Commorb from him. It is needed for the whole quest.
+
+Use the "contact" feature on the orb to talk to Savant . It turns out that you should investigate the Black Knight Hideout in Taverley Dungeon , and investigate the Mage of Zamorak in Varrock that is interested in Runecraft .
+
+If you lose your Commorb after acquiring one, Sir Tiffy Cashien will lend you his.
+
+Taverley Dungeon [ edit | edit source ]
+
+Next, head over to the Taverley Dungeon .
+
+Warning: The black knights are aggressive if you are under 67 combat; you can stand on the north-western corner of the room to hop worlds if you want to avoid them.
+
+Continue through the double doors, and talk to Lord Daquarius in the south-western-most room. He tells you nothing. Savant will call you. (Use the contact option on the Commorb if she doesn't call automatically.) She advises you to try to bluff him into giving you something. Go kill a level 33 Black Knight to make Lord Daquarius give in and beg you not to kill any more of his men. He tells you that Solus Dellagar is in a place with a lot of fur , but that the fur is not from a bear .
+
+Zamorak Mage [ edit | edit source ]
+
+Note: Do not equip any Saradomin or Guthix items (such as Void Knight equipment ) or the Zamorak Mage will refuse to speak with you. In addition, if you have talked to the Zamorak Mage within the wilderness prior you can go straight to the Chaos Altar in Varrock.
+
+Warning: The Wilderness is a dangerous place, proceed with caution and only bring items you are willing to lose.
+
+If you haven't done the Abyss miniquest , bank all your items and follow the river between Edgeville and the Grand Exchange into the Wilderness to find the Mage of Zamorak . He will then tell you to meet him "somewhere" in Varrock , which is the Chaos Altar in the temple in south-east Varrock. Grab 20 unnoted rune / pure essence from the bank and head to the Chaos Altar.
+
+If you have completed the miniquest, go directly to the Chaos Altar with 20 unnoted rune essence.
+
+Talk to him about Solus Dellagar , and make sure you do not wear anything of Guthix or Saradomin (including Void). The Zamorak Mage wants your orb in return for information, but Savant explains that it would be useless to him. He offers to trade his information for 20 rune essence instead. Talk to him again with the unnoted essence. The mage gives your character the tip that Solus went east. Your character connects "east" with the previous tip, "fur," and realises that Solus must be in Canifis with the werewolves .
+
+Canifis [ edit | edit source ]
+
+Either run to Canifis or, if you have completed Ghosts Ahoy , grab your Ectophial from the bank to teleport to Port Phasmatys and run from there. Alternatively, you teleport to the Slayer Tower using a Slayer ring and run south, or use the fairy ring code C K S , or using Fenkenstrain's castle teleport tab to get nearby.
+
+Once in Canifis, Savant will call you and tell you in a lengthy conversation that Solus is probably using a unique "slow teleport", which makes him invisible. If you accidentally keep running and skip the conversation with Savant, step outside the town back to the fairy ring and the conversation will trigger again. Now, use the "scan" option on your Commorb as you walk around the town until you uncover Solus Dellagar . Solus briefly appears, speaks with you, and disappears.
+
+Chasing Solus [ edit | edit source ]
+
+Savant then calls and finds that she is able to pull items off of Solus as he escapes. These items give the player a clue as to Solus' next whereabouts. From this point on, the player will be chasing Solus throughout RuneScape , and each time Solus is found, he will leave behind an item. That item is a hint for where to go next. There are seven locations in total, and each location is random, except for the Champions' Guild , the Dorgesh-Kaan Mine , and the Rune essence mine , which are always the third, fifth, and seventh locations, respectively (including Canifis). The items received for the second, fourth, and sixth locations are always random. Listed below are all of the items that may be received, as well as the location they point to.
+
+These items always appear in a predetermined order.
+
+Blue cape - Inside Champions' Guild . This location is always the third location. Solus will cast a Smoke Barrage spell on the player, disorienting them but neither dealing damage nor inflicting poison. Bone spear - Dorgesh-Kaan mine - A light source is required. The player should follow Kazgar to the mines (not the water mill) then scan for Solus. This location is always the fifth location. A woman will appear, claiming to be taken hostage by Solus. However, the woman turns out to be Solus himself, who will sucker punch the player and leave (via moonwalk). Note that you do not need to finish The Lost Tribe in order to complete this step. You only need to progress far enough in The Lost Tribe to clear the rubble in the Lumbridge castle basement and proceed through the tunnel behind it. Rune / pure essence (20 noted) - Rune essence mines . This is the final location; Solus will be fought here.
+
+These items appear in a random order, and vary from player to player.
+
+Item | Savant says | Location
+
+ | Fremennik purple cloak | It's... a cloak? | Rellekka
+
+ | Banana | It's...a banana? | Musa Point banana plantation
+
+ | Blue wizard hat | It's...a wizard hat? | Wizards' Tower south of Draynor Village, ground floor [ UK ] 1 st floor [ US ] library
+
+ | Bone spear | It's... a very strange weapon? | Dorgesh-Kaan mine - Bring a light source, and follow the goblin to the mines and Nardok's Bone Weapons in order to scan for Solus. You do not need to finish The Lost Tribe in order to complete this step. You only need to progress far enough in The Lost Tribe to clear the rubble in the Lumbridge castle basement and proceed through the tunnel behind it.
+
+ | Bear fur | It's... fur? | Ardougne Market
+
+ | Blue cape | It's a cape... | Champions' Guild - you need to be inside the guild before you scan your Commorb in order for Solus to appear
+
+ | Cake | It's... a cake? | Ardougne Market
+
+ | Castle wars ticket | It's... a ticket? | Castle Wars
+
+ | Cream hat | It's... a hat? | The Grand Tree , next to King Narode Shareen (not by the clothing store that sells the hat).
+
+ | Earmuffs | It's... ear muffs? | Canifis Slayer Tower
+
+ | Right eye patch | It's... an eye patch? | Brimhaven pub
+
+ | Fake beard | It's...a fake beard? | Ali Morrisane 's stall in Al Kharid
+
+ | Fremennik cloak | It's... a cloak? | Rellekka
+
+ | Fur | It's... fur? | Ardougne Market
+
+ | Giant frog legs | It's... some big frogs legs? | Lumbridge Swamp Caves - Bring a light source, a spiny helmet, and if it is your first time entering, a rope. Head to the end of the caves near the level 99 frogs. Using the Tears of Guthix teleport from a games necklace, running north and entering the cave is a quick way to get there.
+
+ | Goblin mail | It's... goblin armour? | Goblin Village
+
+ | Greenman's ale | It's a beer? | Dragon Inn ( Yanille )
+
+ | Red vine worm | It's... a worm? | McGrubor's Wood (fairy ring A L S )
+
+ | Pure essence (20 noted) | It's some kind of highly magically susceptible rock... | Rune Essence mine
+
+ | Toy horsey | It's... a toy horse? | Draynor Village , near Diango
+
+ | Unholy symbol | It's... an unholy symbol! | Shrine of Scorpius , north of the Observatory with all the ghosts . A quick way there is using a Spirit Tree to the Khazard Battlefield.
+
+Solus Dellagar will also react based on which scan location out of seven the player is at.
+
+If it is the second scan location, Solus will forcibly teleport the player to Camelot . If it is the fourth scan location, Solus will attempt to personally ward the player off with a particularly strong cast of Flames of Zamorak . The damage he deals is equal to a percentage of the player's current Hitpoints total. At level 99 Hitpoints with maximum boosts it will deal up to 96 damage, 111 damage when the player has 121 Hitpoints when boosted with an Anglerfish. The damage he deals is typeless, meaning protection prayers have no effect on it. However, no matter how much damage it inflicts, it will never kill the player as Savant will protect them and teleport them back to Falador , in the White Knights' Castle with all items intact. If it is the sixth scan location (the one before the Rune essence mine ), Solus will summon a level 32 Black Knight in an attempt to take the player out. Armour and a weapon should be brought. It is not necessary to kill the Black Knight; you can simply run away.
+
+Confronting Solus [ edit | edit source ]
+
+ | This fight takes place in an instance . On death , all unprotected items will be moved to a grave outside the instance. Any items left on the ground will be lost.
+
+The final clue will be 20 noted pure / rune essence . Bank and equip a weapon and armour for the final fight. Use any rune essence teleport spot you want, and Savant will close off possible teleports in order to trap him. After a small cutscene, Savant will summon 15 rangers to assist you, but Solus kills them all with Ice Barrage .
+
+Go attack Solus yourself and kill him, and you'll get his hat . He's fairly easy as he has been weakened after using such a powerful attack on the Temple Knight rangers. He has no specific Combat level , has 40 Hitpoints and only uses a weak, but fairly rapid melee attack. After the fight, Savant congratulates you. You are returned to the rune essence teleport location. If you lose Solus's hat, contact Savant for another one. You will lose Solus's hat if your inventory is full at the end of the fight.
+
+Finishing [ edit | edit source ]
+
+Return to Falador . Talk to Sir Amik Varze in the White Knights' Castle , and hand over the hat. To keep a hat for after the quest, drop trick it before talking to him. He'll explain to you about the new armour system and killing Black Knights (and White Knights ).
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 5,000 Slayer experience Access to the armoury of the White Knights ( White equipment )
+
+Required for completing [ edit | edit source ]
+
+Completion of Wanted! is required for the following:
+
+Devious Minds The Slug Menace While Guthix Sleeps Elite tier of the Falador Diary
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Knight Rankings [ edit | edit source ]
+
+In order to increase your ranking, you must kill a certain number of Black Knights . You start off as a Novice at 100 kills, and as you kill more knights, you'll grow in your rank. Killing Black Knights on a free-to-play server will raise your knight ranking.
+
+Novice - 100 Black Knights Peon - 200 Black Knights Page - 300 Black Knights Noble - 500 Black Knights Adept - 800 Black Knights Master - 1,300 Black Knights
+
+The White Knight Armoury [ edit | edit source ]
+
+With the completion of this quest, you'll have access to an entirely new type of armour: White armour !
+
+Rank | Kills needed | Unlocks
+
+Novice | 100 | White chainbody • White platelegs
+
+Peon | 200 | White dagger • White sword
+
+Page | 300 | White med helm • White plateskirt • White sq shield
+
+Noble | 500 | White mace • White magic staff • White longsword
+
+Adept | 800 | White full helm • White platebody • White kiteshield • White boots • White gloves
+
+Master | 1300 | White 2h sword • White halberd • White scimitar • White warhammer • White battleaxe • White claws
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+18 February 2016 ( update ) | The Solus Dellagar cutscenes in the Wanted Quest now work more consistently, and give more information to the player.
+
+Trivia [ edit | edit source ]
+
+If you are wearing Initiate armour when you talk to Sir Amik Varze about quitting the Temple Knights , he will point it out and your character will boast about getting to keep "the cool armour". When speaking to Sir Tiffy Cashien after becoming a deputy, he describes Solus as "quite, quite mad." This is likely a reference to the episode Quarantine from the BBC sitcom Red Dwarf . If you already have the supplies to make the Commorb yourself, your character will say that you have the necessary materials before told what is needed. Savant mentions that the Temple Knights believe the Zamorak Magical Institute is responsible for the destruction of the Wizards' Tower. The quote "Dead or Alive, You're coming with me" that your character says before being blasted by Solus' spell, is likely a reference to the film 'RoboCop'. Before spawning a Black Knight to fight you, Solus quotes: ''Say hello to my little friend!'', a reference to the film 'Scarface'. If one of the random items that Savant pulls off of Solus is the Greenman's Ale, she will say "That type of beer is only sold in one place that I know of", however this item is sold in two other locations. When you get the bone spear as one of your teleport items, Savant says "I've never heard of them before" when you mention the Dorgeshuun goblins. This references the quest "The Lost Tribe" because the goblins had been in hiding since the God Wars. When you get the bone spear the player will speak as if they know of the Dorgeshuun goblins even if you have not started "The Lost Tribe" quest. If you receive Bear Fur as a clue item, then ask Savant about the clue, she will talk about the Cake clue instead. This may be an unintended consequence of both clues sending you to the same place, the Ardougne Market. A "savant" is a person who is a knowledgeable expert on a subject. It is also French for "knowing." When fighting Solus in the rune essence mine, the mine is rotated 270 degrees The Black Knight summoned by Solus uses the NPCs older model which was used between March 2004 and 24 July 2007
+
+v • t • e Wanted!
+
+NPCs | Sir Tiffy Cashien Sir Amik Varze Savant Lord Daquarius Mage of Zamorak Ranger Woman Enemies Black Knight Solus Dellagar |  | Sir Tiffy Cashien Sir Amik Varze Savant Lord Daquarius Mage of Zamorak Ranger Woman | Enemies | Black Knight Solus Dellagar
+
+ | Sir Tiffy Cashien Sir Amik Varze Savant Lord Daquarius Mage of Zamorak Ranger Woman
+
+Enemies | Black Knight Solus Dellagar
+
+Items | Commorb Solus's hat
+
+Related | Quick guide Transcript White Knights White equipment Temple Knights

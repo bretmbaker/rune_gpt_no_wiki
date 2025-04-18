@@ -1,0 +1,62 @@
+[Weapon: Black Cane]
+
+
+Theblack canecan be obtained as a reward fromEasyTreasure Trails. As with mostblack equipment, level 10Attackis needed to equip this item. It is not used often as aweaponas it has the same stats as ablack macewith a 1-tickslowerattack speed.
+This cane is topped with a cutrubygem. The cane is popular because of its looks, going well with items that match the colours such as blackelegant clothing. As a result, its market price is higher than itsadamantcounterpart, despite the latter being both a better weapon and a reward from a higher-level treasure trail.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A ruby topped cane.
+General Store Value: 600 coins
+High alch: 360 coins
+Low alch: 240 coins
+Weight: 1.814 kg
+Grand Exchange Value: 18,629 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 51
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +8
+- Slash: -2
+- Crush: +16
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +13
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 1/1,404 | 

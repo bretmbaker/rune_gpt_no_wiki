@@ -1,0 +1,94 @@
+ | This quest has a quick guide and a speedrunning guide . It briefly summarises the steps needed to complete the quest.
+
+Cook's Assistant (#1)
+
+
+
+
+
+Released | 4 January 2001 ( Update )
+
+Members | No
+
+Quest series | None
+
+Lead developer(s) | Paul Gower
+
+
+
+Cook's Assistant is the first RuneScape quest ever released and one of the six quests available during the game's launch. In the quest, the player must help the cook of Lumbridge Castle make a birthday cake for Duke Horacio .
+
+Details [ edit | edit source ]
+
+Start point | Speak to the Cook in the kitchen of Lumbridge Castle . Show on map
+
+Official difficulty | Novice
+
+Official length | Very Short
+
+Description | The Lumbridge Castle cook is in a mess. It is the Duke of Lumbridge's birthday and the cook is making the cake.
+He needs a lot of ingredients and doesn't have much time.
+
+Requirements | None
+
+Items required | Pot Bucket
+
+Recommended | To skip most of the quest: Egg Bucket of milk Pot of flour
+
+Enemies to defeat | None
+
+League notes | Misthalin ✓ — location requirement Unlocking Kandarin ✓ will auto-complete the quest Unlocking Morytania ✓ will auto-complete the quest
+
+Introduction [ edit | edit source ]
+
+This quest is typically among the first to be completed by new players and is intended to encourage exploration of Lumbridge . Note, however, that the majority of the quest can be skipped simply by bringing the necessary ingredients in your inventory before starting; all of the items are tradeable and can be bought from the Grand Exchange . When speaking to the cook with these items in your inventory, the player will say that they happen to have those items with them, and the cook will ask if they were planning on baking a cake, thereby completing the quest in seconds.
+
+Walkthrough [ edit | edit source ]
+
+A feast for a Duke [ edit | edit source ]
+
+Begin the quest by speaking with the Lumbridge cook found in the kitchen on the ground floor [ UK ] 1 st floor [ US ] of Lumbridge Castle . He mentions it is Duke Horacio 's birthday and that he is supposed to bake the Duke a cake . Unfortunately, however, he has forgotten to buy the ingredients and asks the player to bring him a bucket of milk , an egg , and a pot of flour .
+
+A bucket spawns in the cellar of Lumbridge Castle, and a pot spawns in the kitchen on the centre table. You can also purchase both a bucket and a pot from the Lumbridge General Store for 2 and 1 coins , respectively.
+
+Go east out of Lumbridge Castle and run north along the path until you reach the chicken coop north-west of Farmer Fred 's house. Go into the coop and pick up an egg .
+
+With an empty bucket , go north into the cow pasture. Use the empty bucket on a dairy cow to get a bucket of milk . You can optionally talk to Gillie Groats for an explanation on how to milk a cow. She can be found across the river next to the dairy cow in the eastern Lumbridge cow field .
+
+With an empty pot , leave the cow pasture and go south-west to the wheat field. Pick some grain , and then enter the Mill Lane Mill , found up the road to the north-east. Climb to the top floor, put the grain in the hopper, then pull the lever and climb back down to the ground floor [ UK ] 1 st floor [ US ] . Finally, use an empty pot on the flour bin (which is now full of flour) to get a pot of flour . You can optionally talk to Millie Miller inside the mill for an explanation on how to make flour .
+
+Delivery [ edit | edit source ]
+
+After collecting the ingredients, speak to the cook to deliver them.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 300 Cooking experience Permission to use the Cook-o-matic 100 , which reduces the chance of burning some foods .
+
+Required for completing [ edit | edit source ]
+
+The completion of Cook's Assistant is a requirement to complete the following:
+
+Recipe for Disaster Easy Lumbridge & Draynor Diary : Bake some bread on the Lumbridge castle kitchen range.
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest. Click here for a transcript of the quest's journal entry.
+
+Trivia [ edit | edit source ]
+
+There is an easter egg in the Death to the Dorgeshuun quest. When you introduce Zanik to the cook , he tries to offer the quest to her, saying, "In fact, it's a good thing I met you. It's the Duke's birthday today, and I should be making him a lovely big birthday cake. I need eggs, flour, and milk..." The player then tells the cook that Zanik does not have time for that, to which he responds, "It was worth a try." This insinuates that the cook asks all newcomers to bring him supplies. During the 20th Anniversary event , it was revealed that the cook has attempted and failed to bake a cake countless times, explaining his recurring need for ingredients from new adventurers. The cook at the Servants' Guild of Ardougne references this quest in her dialogue, saying, "Overnight I was fired and replaced by some fool who can't even bake a cake without help!"
+
+v • t • e Cook's Assistant
+
+NPCs | Cook Gillie Groats Millie Miller
+
+Items | Bucket of milk Egg Pot of flour
+
+Reward | Cook-o-matic 100
+
+Locations | Lumbridge Castle Lumbridge cow field Mill Lane Mill
+
+Related | Quick guide ( speedrunning ) Transcript Journal

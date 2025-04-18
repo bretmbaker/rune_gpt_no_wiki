@@ -1,0 +1,40 @@
+Name: Rabbit
+Combat Level: 2
+Size: 1x1
+Info:
+- Description: A cute bunny rabbit.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Thralls: Immune
+- Monster ID: 9118
+- Link: MOID
+
+Location:
+- Area: Elven rabbit cave
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 2000
+Attack: 600
+Strength: 200
+Defence: 450
+Magic: 300
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

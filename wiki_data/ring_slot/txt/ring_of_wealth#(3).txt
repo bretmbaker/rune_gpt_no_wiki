@@ -1,0 +1,72 @@
+[Weapon: Ring Of Wealth#(3)]
+
+
+Thering of wealthis an enchanted ring made by casting the spellLvl-5 Enchanton aDragonstone ring, requiring level 68Magicand granting 78 experience. Like other dragonstone jewellery, it can be charged to provide teleports, albeit only at theFountain of Rune. Wearing this ring (whether charged or not) while killing monsters will automatically pick upcoins,Tokkul, ornumulitesdropped by monsters. When worn it also removes the chance to receive a "nothing" drop when accessing theRare drop tableandGem drop table. Seebelowfor more information about this feature.
+The price difference between a fully charged ring and an uncharged one is2,117 coins, so each charge costs about423 coins.
+
+
+[Infobox]
+Released: 20 April2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Features, Rub, Drop
+Worn options: Rub
+Examine: It can be charged at the Fountain of Rune.
+General Store Value: 17,625 coins
+High alch: 10,575 coins
+Low alch: 7,050 coins
+Weight: 0.006 kg
+Grand Exchange Value: 11,769 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 113,523
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Dust devil/Strategies(Bursting/Barraging)
+5 | Greater Nechryael/Strategies(Bursting/Barraging)
+3 | Hunter training(Dinh's bulwark)
+3 | Krystilia/Strategies(Melee)
+1 | Krystilia/Strategies(Ranged)
+1 | Pay-to-play Prayer training(High Magic defence)
+1 | Pay-to-play Prayer training(Dinh's bulwark)
+3 | Revenants/Strategies(Ranged)
+5 | Slayer task/Abyssal demons(Ranged)
+4 | Slayer task/Abyssal demons(Magic)
+5 | Slayer task/Gargoyles(Melee)
+3 | Slayer task/Gargoyles(Ranged)
+5 | Slayer task/Jellies(Magic)
+4 | Slayer task/Jellies(Ranged)
+5 | Slayer task/Nechryael(Magic)
+3 | Slayer training(Magic (Barrage))
+1 | Slayer training(Ranged (Wilderness))
+5 | Vyrewatch Sentinel/Strategies(AFK Prayer)

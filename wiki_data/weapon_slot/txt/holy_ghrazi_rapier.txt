@@ -1,0 +1,54 @@
+[Weapon: Holy Ghrazi Rapier]
+
+
+Theholy Ghrazi rapieris aGhrazi rapierwith aholy ornament kitattached to it. The ornament kit gives no additional stat bonuses, but it does make the rapier count as aSaradominitem in theGod Wars Dungeon.
+While the rapier is untradeable in its ornamented state, it can be dismantled anytime, returning the ornament kit and tradeable rapier.
+
+
+[Infobox]
+Released: 3 June2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle
+Examine: A razor sharp rapier gifted with the light of Saradomin.
+General Store Value: 5,000,000 coins
+High alch: 3,000,000 coins
+Low alch: 2,000,000 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +94
+- Slash: +55
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +89
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence

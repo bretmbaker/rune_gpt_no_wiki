@@ -1,0 +1,55 @@
+[Weapon: Agility Cape#Trimmed]
+
+
+TheAgility capeis aCape of Accomplishmentthat may only be acquired and worn by players who have achieved themaximum levelin theAgilityskill, 99. Once players have trained to this level, they may purchase the cape fromCap'n Izzy No-Beard, located at the entrance of theBrimhaven Agility Arena, for a fee of 99,000coins. When this fee is paid, the player receives both the cape and a matchinghood.
+Like allskill capes, the Agility cape gives +9 to alldefensive stats, and also a +4 bonus toprayerif it is trimmed, which requires a separate skill at level 99. The cape is automatically trimmed if this condition is met.
+
+
+[Infobox]
+Released: 18 October2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Stamina Boost, Drop
+Examine: The cape worn by the most agile of heroes.
+General Store Value: 99,000 coins
+High alch: 59,400 coins
+Low alch: 39,600 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +9
+- Crush: +9
+- Magic: +9
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Blast mine/Strategies
+1 | Hallowed Sepulchre/Strategies(Agility)
+3 | Sulliuscep/Strategies
+2 | Sulliuscep/Strategies
+4 | Zalcano/Strategies(Mining)

@@ -1,0 +1,807 @@
+[Minigame: Agility]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+ | This article has skill training guides:Members/IronmanSkill training guidesdocument optimal XP/hour methods to train a skill, as well as alternate passive or less expensive methods.
+
+Agility
+
+
+
+
+
+
+
+Released | 12 December2002(Update)
+
+Also called | Agi, Agil
+
+Members | Yes
+
+Type | Utility
+
+
+
+Statistics
+
+
+
+Players with99 | 100,548as of 1 April 2025 -update
+
+Players with200M XP | 177as of 3 April 2025 -update
+
+
+
+Agilityis amembers-onlyskillwhich gives access to variousshortcutsaroundRuneScape. Other benefits of the skill include fasterrun energyrestoration, slower run energy dissipation while running and the ability to wear weight-saving outfits like thegraceful outfit, as well as wield certain tools and weaponry. Note that the passive benefits of faster energy restore and lower run energy drain rate also apply in free-to-play worlds.[1]
+
+ | Agility level up
+
+The music that plays when levelling up.
+
+
+
+Agility training areas[edit|edit source]
+
+Agility training areas are identified with a running figureiconon theworld map. These areas contain anAgility coursethat players will need to complete to train their Agility. An Agility course is completed by successfully passing all obstacles.
+
+Failure[edit|edit source]
+
+It is possible to fail an obstacle, which often results in the player taking small amounts of damage. Therefore, it is advised to bring somefoodwhen planning on training Agility at lower Agility andHitpointslevels.
+
+On many courses, the amount of damage taken after failing an obstacle is based on your remainingHitpoints, so to conserve food it is often worthwhile to wait until your Hitpoints are low before eating. For example, with level 50 Hitpoints, falling into the lava in theWilderness coursemight cause 11 points of damage when at full health, but only 5 damage when at 20 health.
+
+Failure is often more likely at lower Agility levels.Weightdoesnotaffect the chance of success for most obstacles.[2]However, there are a few obstacles which were differently coded for certain quests and activities, such as the Zip line from theWerewolf Agility Course.[3]
+
+Stamina[edit|edit source]
+
+For the best experience rates, it is required to continually keep running around the courses. This will drainrun energy, so bring a form of run energy restoration such asstamina potions. Keeping weight at 0 or as low as possible will reduce run energy consumption, so wearingweight-reducing clothingcan be helpful.
+
+In particular, the fullgraceful outfitgives a total of 30% increased run energy restoration.
+
+Full list[edit|edit source]
+
+ | Course | Category | Experience per hour[d 1] | Reward item | Notes
+
+1 |  | Gnome Stronghold Agility Course | Regular Course | 10,000 |  | It is impossible to fail any of the obstacles on this course.
+
+1 |  | Brimhaven Agility Arena | Special Course | 67,000 | [d 2] | Some obstacles in the arena require level 20 or 40 Agility to pass.
+
+1 |  | Shayzien Basic Course | Regular Course | 10,000 |  | 
+
+1 |  | Draynor Village Rooftop Course | Rooftop Agility Course | 10,000 |  | 
+
+20 |  | Al Kharid Rooftop Course | Rooftop Agility Course | 12,000 |  | 
+
+30 |  | Agility Pyramid | Special Course | 44,750 |  | Players stop failing all obstacles at 75 Agility.
+
+30 |  | Varrock Rooftop Course | Rooftop Agility Course | 14,000 |  | 
+
+30 |  | Penguin Agility Course | Regular Course | 30,000 | None | Access to this course requires completion ofCold War.Even at level 99 Agility it is still possible to fail an obstacle.
+
+35 |  | Barbarian Outpost Agility Course | Regular Course | 18,200 |  | Access to this course requires completion ofAlfred Grimhand's Barcrawl.Players stop failing this course at 93 Agility. Players will also receive 5,000Strengthexperience per hour.
+
+40 |  | Canifis Rooftop Course | Rooftop Agility Course | 19,200 |  | Access to this course requires completion ofPriest in Peril.
+
+45 |  | Shayzien Advanced Course | Advanced Course | 30,000 |  | ACrossbowand aMith Grappleis required to complete this course.
+
+48 |  | Ape Atoll Agility Course | Regular Course | 53,300 |  | Access to this course requires completion of Chapter 2 ofMonkey Madness I.Players stop failing this course at 75 Agility.
+
+50 |  | Falador Rooftop Course | Rooftop Agility Course | 35,000 |  | Players stop failing this course at 66 Agility.
+
+50 |  | Colossal Wyrm Agility Course | Regular Course | 31,000 | [d 3] | Completion ofChildren of the Sunis required to access this course.
+
+52 |  | Wilderness Agility Course | Regular Course | 47,500 | [d 4] | Level 52 is required to access the course. However, only level 49 is required to pass all obstacles.Even at level 99 Agility it is still possible to fail an obstacle.
+
+52 |  | Hallowed Sepulchre | Special Course | 81,000 | [d 5] | Access to this course requires completion ofSins of the Father.Level 52 is required to access the course. However, level 92 is required to access the deepest floor.
+
+60 |  | Werewolf Agility Course | Regular Course | 69,500 |  | Access to this course requires completion ofCreature of Fenkenstrain.With level 80 in Agility andStrengthand a weight of 2 kg or lower, this course will never be failed.
+
+60 |  | Seers' Village Rooftop Course | Rooftop Agility Course | 45,600 |  | Experience rates increase up to 58,900 with the hard tier ofKandarin Diarycompleted.Players stop failing this course at 79 Agility.
+
+62 |  | Colossal Wyrm Agility Course | Advanced Course | 44,000 | [d 3] | Completion ofChildren of the Sunis required to access this course.
+
+70 |  | Dorgesh-Kaan Agility Course | Special Course | 63,000 |  | Access to this course requires completion ofDeath to the Dorgeshuun.Even at level 99 Agility it is still possible to fail an obstacle.
+
+70 |  | Pollnivneach Rooftop Course | Rooftop Agility Course | 60,000 |  | Players stop failing this course at 85 Agility.
+
+75 |  | Prifddinas Agility Course | Regular Course | 66,000 |  | Access to this course requires completion ofSong of the Elves.Players stop failing this course at 91 Agility.
+
+80 |  | Rellekka Rooftop Course | Rooftop Agility Course | 65,000 |  | Players stop failing this course at 85 Agility.
+
+90 |  | Ardougne Rooftop Course | Rooftop Agility Course | 70,000 |  | Players stop failing this course at 96 Agility.
+
+Regular courses[edit|edit source]
+
+These courses consist of completing a circuit of obstacles.
+
+Gnome Stronghold Agility Course[edit|edit source]
+
+TheGnome Stronghold Agility Coursehas no requirements to access and is very easy to follow. Additionally, it is impossible to fail any of the obstacles at this course, so it is not necessary to bring anyfood. However, someenergy potions,super energy potionsorstamina potionsmay be helpful for faster training.
+
+This course is located near theGrand Treein theTree Gnome Stronghold, north-west ofArdougne.
+
+A lap will take a minimum of 34 seconds to complete. Therefore, the average experience per hour will be around 10,000, depending on the player's concentration.
+
+Shayzien Agility Course[edit|edit source]
+
+The Shayzien Agility Course is split into two Basic and Advanced course, with the former requiring 1 Agility and the latter requiring 45 Agility.
+The basic course takes around 53 seconds to complete, yields 153.5 experience, with it also being very unlikely to fail any of the course's obstacles, making the average Agility experience per hour 8,750. 
+The advanced course takes around 49 seconds and yields 507.5 experience, making the average Agility experience per hour around 30,000.
+
+Penguin Agility Course[edit|edit source]
+
+This Agility course requires level 30 Agility and is located on theIceberg, which requires completion ofCold Warto access. To get to the course, players need to transform into a penguin, which can be done by talking toLarrywith aclockwork suitin the inventory and choosing theTuxedo timeoption.
+
+Due to the success rate of the obstacles, the experience rates scale with the player's Agility level. At higher levels expect to be able to complete around 55 laps per hour, resulting in 29,500–30,000 Agility experience per hour.
+
+This course has the highest base chance to receive thegiant squirrel. At level 99 Agility, it would take an average of 130 hours to get the giant squirrel.
+
+Barbarian Outpost Agility Course[edit|edit source]
+
+The Barbarian Outpost Agility Course requires level 35 Agility and completion ofAlfred Grimhand's Barcrawlto access. This course is a lap-based obstacle course consisting of eight obstacles that players can traverse in return for Agility experience. If all obstacles are passed in the correct order, some bonus experience is rewarded at the end of the lap.
+
+With an average time of 32 seconds per lap, it is possible to get upwards of 17,000 Agility experience per hour from this course. At lower Agility levels, expect to get around 11,000-14,000 Agility experience per hour, depending on concentration levels.
+
+Ape Atoll Agility Course[edit|edit source]
+
+The Ape Atoll Agility Course requires level 48 Agility and completion of Chapter 2 ofMonkey Madness Ito access. To train at this course, players need to transform into a monkey, which can be done by equipping aNinja monkey greegreeorKruk monkey greegree. This course is a lap-based obstacle course consisting of six obstacles that players can traverse in return for Agility experience. If all obstacles are passed in the correct order, some bonus experience is rewarded at the end of the lap.
+
+With an average time of 39 seconds per lap, it is possible to get upwards of 53,300 Agility experience per hour from this course. At lower Agility levels, expect to get around 40,000–50,000 Agility experience per hour, depending on concentration levels.
+
+Wilderness Agility Course[edit|edit source]
+
+The Wilderness Agility Course requires level 52 Agility to access. However, this level is only needed to access the course through the gates; the minimum level requirement of the obstacles is level 49. Therefore, it is a popular method to access this course by using atemporary skill boostto access the course starting at level 47, since the experience per hour at this course is far superior to other courses available to these players. The Agility course consists of five obstacles that players can pass in return for Agility experience. If all obstacles are passed in the correct order, some bonus experience is rewarded at the end of the lap.
+
+Since this Agility course is located deep in theWilderness, ranging from level 50 to 56, is it possible to come acrossplayer killerswhile training there. Additionally, there are two level 25skeletonsroaming the Agility course that will attack any player near them.
+
+With an average time of 40 seconds per lap, it is possible to get upwards of 47,500 Agility experience per hour from this course. At lower Agility levels, expect to get around 40,000 Agility experience per hour, depending on concentration levels.
+
+Colossal Wyrm Agility Course[edit|edit source]
+
+The Colossal Wyrm Agility Course requires level 50 Agility and completion ofChildren of the Sunto access. The Agility course consists of a regular and an advanced course. After the second obstacle the player can choose to do one of the two courses. Selecting the tight rope will put the player on the basic course. The regular course consists of six obstacles and gives 504 xp per lap. At level 62 Agility the player can do the Advanced Course. If the player selects the ladder the player will be on the advanced course. The Advanced course consists of six obstacles and gives 685 xp per lap.
+
+Players can expect to get up to 31,000 Agility experience per hour on the basic course, and up to 44,000 experience per hour on the advanced course. While this gives less experience per hour compared to other courses around the same level, the Colossal Wyrm Agility Course is a noticeably less click-intensive way to obtain amylase crystals compared to Rooftop Agility courses or the Brimhaven Agility Arena.
+
+Werewolf Agility Course[edit|edit source]
+
+The Werewolf Agility Course requires level 60 Agility and completion ofCreature of Fenkenstrainto access. To get to the course, players need to be wearing aring of charos. The Agility course consists of five obstacles that players can pass in return for Agility experience. If thestickis collected and turned in at the end of the lap, some bonus experience is rewarded. The only failable obstacle on this course is the notorious deathslide, which can hit over 30 damage.
+
+This course offers the highest potential experience per hour rates of all Agility courses. However, it requires a lot more concentration than other courses offering pretty similar experience rates.
+
+With an average time of 38 seconds per lap, it is possible to get upwards of 69,500 Agility experience per hour from this course. At lower Agility levels, expect to get around 60,000 Agility experience per hour, depending on concentration levels.
+
+Prifddinas Agility Course[edit|edit source]
+
+The Prifddinas Agility Course requires level 75 Agility and completion ofSong of the Elvesto access. The Agility course consists of twelve obstacles that players can pass in return for Agility experience. This Agility course is unique to other courses; in that, portals can appear at various points throughout the course. Entering these portals will teleport the player one or two obstacles further, slightly decreasing the time needed to complete the course and thus increasing the experience per hour rate. Additionally, approximately 45crystal shardscan be found per hour by entering these portals yielding up to732,825.00if makingDivine super combat potionswith 97Herblore.
+
+With an average time of 72 seconds per lap, it is possible to get upwards of 66,000 Agility experience per hour from this course. At lower Agility levels, expect to get around 60,000 Agility experience per hour, depending on concentration levels.
+
+Rooftop Agility courses[edit|edit source]
+
+Rooftop Agility Courses were introduced toOld School RuneScapeon5 December2013. A total of nine courses have been released.
+
+The rooftop Agility courses will provide the player withmarks of grace, which can be used to buy thegraceful outfitandamylase packsfromGrace.
+
+Chances of obtaining marks of grace are reduced to 20% of the normal rate if the player's Agility level is 20 levels higher than the course requirement.[4]Until the player reaches that level, marks of grace will continue to spawn normally.[5]
+
+ | Course | Obstacles | Exp. per lap | Lap time[n 1] | Hourly rates
+
+Exp. per hour[n 2] | Marks of grace | Profit[n 3]
+
+1 | Draynor Village Rooftop Course | 7 | 120 | 72t (43.2s) | 10,000 | 10–13.8 | 135,240
+
+20 | Al Kharid Rooftop Course | 8 | 216 | 107t (64.2s) | 12,000 | 8–11.5 | 112,700
+
+30 | Varrock Rooftop Course | 9 | 270 | 108–110t[n 4](64.8–66.0s) | 14,000 | 8–11.3 | 110,740
+
+40 | Canifis Rooftop Course | 8 | 240 | 73t (43.8s) | 19,700 | 16–18.0[n 5] | 176,400
+
+50 | Falador Rooftop Course | 13 | 586 | 97t (58.2s) | 35,000 | 10–12.1 | 118,580
+
+60 | Seers' Village Rooftop Course | 6 | 570 | 73t (43.8s) | 46,800 | 11–13.8 (base) | 135,240
+
+12-14.4 (easy diary) | 141,120
+
+13-15.0 (medium diary) | 147,000
+
+58–60t[n 6](34.8–36.0s) | 58,000 | 14–16.6 (hard diary) | 162,680
+
+70 | Pollnivneach Rooftop Course | 9 | 890 | 101t (60.6s) | 52,300 | 13-14 (base) | 137,200
+
+1,016 | 60,300 (hard diary) | 16-18 (hard diary) | 176,400
+
+80 | Rellekka Rooftop Course | 7 | 780 | 85t (51.0s) | 55,000 | 13–15.5 | 151,900
+
+920 | 65,000 (hard diary)
+
+90 | Ardougne Rooftop Course | 7 | 889 | 76t (45.6s) | 70,000 | 16–18.1 (base) | 177,380
+
+~22 (elite diary) | 215,600
+
+Other courses[edit|edit source]
+
+These courses consist of something else than just completing a circuit of obstacles.
+
+Brimhaven Agility Arena[edit|edit source]
+
+TheBrimhaven Agility Arenasets players the objective to tag Ticket Dispensers foragility arena ticketsandBrimhaven vouchers.
+The Brimhaven Agility Arena consists of 25 pillars, with adjacent pillars being connected via Agility obstacles. 24 of these pillars contain a ticket dispenser. Every minute, one of these ticket dispensers will be activated, and the player should try to find their way to this activated dispenser by traversing the Agility obstacles as quickly as possible.
+
+The tickets and vouchers can be traded in toPirate Jackie the Fruit, with the Agility arena tickets being exchanged for Agility experience and the Brimhaven voucher being exchanged for a selection of items.
+
+The best experience per hour rates will be achieved by non-stop completing Agility obstacles during the waiting time for the active ticket dispenser to move, making it possible to achieve experience rates upwards of 67,000 Agility experience per hour at level 99 Agility. At lower Agility levels, expect to get around 50,000-60,000 Agility experience per hour, depending on Agility and concentration levels.
+
+Agility Pyramid[edit|edit source]
+
+TheAgility Pyramidlocated in theKharidian Desertis available to players with level 30 Agility. On this course, players start at the bottom of a pyramid with the goal of reaching the top, where they are able to collect thepyramid top. Before reaching the top, players will have to successfully traverse each of the five layers of the pyramid. These layers are filled with obstacles however, forcing the player back to the previous layer upon failing to pass them.
+
+Pyramid tops may be handed in toSimon Templetonin exchange for10,000.
+
+Level 75 Agility or higher will prevent the player from failing any of the obstacles, making it possible to complete a maximum of 26 laps per hour, which will reward a maximum of 44,700 experience per hour.
+
+Dorgesh-Kaan[edit|edit source]
+
+TheDorgesh-Kaan Agility Courselocated inDorgesh-Kaanis available to players with level 70 Agility and completion ofDeath to the Dorgeshuun. The basic premise of the course is to cross obstacles using one of two routes to retrieve an item requested byTurgall. One route will focus on purely training Agility, while the other course will mainly rewardRangedexperience.
+
+With an average time of 2:36 minutes per lap, it is possible to get upwards of 63,000 Agility experience per hour from this course. At lower Agility levels, expect to get around 50,000–60,000 Agility experience per hour, depending on concentration levels.
+
+While having very similar experience rates per hour to theArdougne Rooftop Course, the chance to get thegiant squirrelpet is around 15% higher at the Dorgesh-Kaan Agility Course.
+
+Hallowed Sepulchre[edit|edit source]
+
+TheHallowed Sepulchrelocated inDarkmeyeris available to players with 52 Agility and completion ofSins of the Father. Once an ancientSaradoministburial ground, the Sepulchre consists of five floors, unlocked at 52, 62, 72, 82, and 92 agility. On each floor, players must actively navigate through obstacles and reach the end before a timer expires. On each floor, the player can choose to loot coffins and receiveHallowed marks, or to continue without looting and achieve higher experience rates. The hallowed marks can be exchanged for unique rewards, such asdark dyesfor recolouring thegraceful outfitor thedark acornfor recolouring thegiant squirrel.
+
+Other training methods[edit|edit source]
+
+Barbarian Fishing[edit|edit source]
+
+Barbarian Fishing grants passive Agility experience, between 1/10th and 1/12th of the Fishing experience for each fish caught. Players can earn 2,000-5,000 experience in both Agility and Strength per hour, in addition to the Fishing experience gained.
+
+Blast Furnace[edit|edit source]
+
+The multiplayer Blast Furnace minigame has a facility to operate a belt to transport ores into the furnace. This rewards 1 Agility experience pergame tick, for a maximum of 6,000 experience per hour. This will quickly drain run energy, however.
+
+Gnome Ball[edit|edit source]
+
+Gnome Ball is a small members-only minigame in which one or more players aim to score goals against gnomes. This is done by throwing the gnome ball into the goal.Rangedexperience is gained each time the ball is thrown, while both Ranged and Agility experience are rewarded when a goal is scored. When you enter the field, you should talk to the referee to get the rules, and how to play.
+
+Toy mouse[edit|edit source]
+
+Atoy mousecan be made on aCrafting tablein aplayer-owned house, or rarely attracted while wearing anAva's accumulator. Winding, releasing and catching it will reward 3 Agility experience each time.
+
+Underwater Agility and Thieving[edit|edit source]
+
+TheUnderwater Agility and Thievingactivity located in theUnderwaterarea ofFossil Islandcombines the Agility andThievingskills. In this activity, players swim around looking for openedtreasure chestsandgiant clam shells. Searching these chests and clams will reward the player withmermaid's tearsandglistening tears, which can be exchanged for several items and Agility and/or Thieving experience respectively.
+
+The experience rates scale quadratically with the player's Agility and Thieving levels. Therefore, it is not recommended to do this method at lower levels. At level 99 in both skills, the estimated experience per hour is 38,800 Agility and 142,300 Thieving experience per hour.
+
+Werewolf Skullball[edit|edit source]
+
+Skullball is played in the Werewolf agility area east ofCanifis. Level 25 Agility and aring of charosare required to access this activity.
+
+To play, talk to theSkullball bossat the start of the course. From there, the challenge is to kick the ball through a course of 10 obstacles and score a goal. To kick the ball, right click on it and select how far to kick it. A tap advances the ball 1 space, a kick is 5 spaces, and shoot is 10 spaces. There is also an option of having the map highlighting the goal.
+
+When successfully completing the course, an experience reward will be received, based on the completion time of the course. If it's under 4 minutes, a maximum of 750 experience will be rewarded. Any more and the experience becomes less.
+
+Wintertodt Pillars[edit|edit source]
+
+From level 60 Agility onwards, it is possible to train Agility by repeatedly using the gap-jumpshortcutin theWintertodt's prison. Each jump gives 18 experience, making it a good way to get a bit of Agility experience while waiting for the Wintertodt to spawn. If focusing solely on training Agility here, the player can expect experience rates of up to 21,000 Agility experience per hour. Keep in mind that the Wintertodt is a dangerous boss, so it is recommended to bring multiple pieces ofwarm clothingand sufficientfood.
+
+Shortcuts[edit|edit source]
+
+Shortcuts are identified with a curved green arrow iconon theminimap.
+
+Level(s) | Icon | Shortcut | Location | Notes | XP
+
+N/A |  | Stile | Ardougne,Catherby,Fred's farm,Piscatoris falconry area,South Falador Farm,Rellekka,Taverley,Watson's house | Some of these shortcuts are available tofree players, as well asmembers, but all yield 0 experience. | N/A
+
+1 |  | Stepping stones | Lumbridge Swamp Cavesstepping stones | Stepping stones to theChasm of Tears. This shortcut provides varying experience for success and failure. | 3 (1 on failure)
+
+1 |  | Basalt rock | Lighthousebasalt rocks | Basalt rocks to the south of the Lighthouse. | 2 (0.5 on failure)
+
+1 |  | Bridge | OutsideNature Grotto | The bridge to the Nature Spirit cave. This shortcut provides varying experience for success and failure. | 15 (2 on failure)
+
+5 |  | Crumbling wall | FaladorAgilityShortcut | Right next to theFalador west bank. Provides easy access to the areas south ofTaverley. | 0.5
+
+5 | N/A | Climbing rocks | Yanille | Not labelled on the map. North-west ofFrenita's Cookery ShopinYanille. One-way out of Yanille. | 25
+
+81937 |  | Broken Raft | (Mith grapple) Over theRiver LumtoAl Kharid | South ofLumbridge. Provides slightly quicker route betweenLumbridge SwampandAl Kharid. Goes both ways. | N/A
+
+10 |  | Rocks | Corsair Coveshortcut | Allows access to the rest ofFeldip Hills. | 1
+
+10 |  | Ropeswing | Rope swing toMoss Giant Island | WestBrimhaven. Provides access to small island withMoss giantsand arespawnof a slice ofcake. | 3
+
+113719 |  | Wall | (Mith grapple) ScaleFaladorwall | Allows you to climb the wall north-east ofFalador Park. Faster access fromFalador east bankto the north entrance of theDwarven MineandBarbarian Village. | N/A
+
+12 |  | Stepping stones | Stepping stones inBrimhaven Dungeon | A quick shortcut deeper into thedungeon. Just west of the entrance.Taking this shortcut toward the entrance does not have anAgilityrequirement. | 7.5
+
+13 |  | Fence | Varrocksouth fence jump | Provides a shortcut to and from SouthVarrock. | 0
+
+14 |  | Tight-gap | ScaleGoblin Villagewall | Provides a shortcut to and fromBurthorpeand theChaos Temple: located north ofFalador, north-west ofGoblin Village. (Requires completion ofEasy Falador Diaryto use). | 0
+
+15 |  | Pillar jump | Corsair Cove Dungeonshortcut | Provides access to theCorsair Cove Resource Area. Requires completion ofDragon Slayer Ito climb. | 2
+
+15 |  | Monkey bars | Monkey bars underEdgeville | Provides access to theEarth warriorsinEdgeville Dungeon. | 20
+
+15 |  | Rock slide | Cairn Islerock slide climb | Allows access toCairn IslefromKaramjaIsland and completion of an easy task in theKaramja Achievement Diary. | 0
+
+16 |  | Underwall tunnel | YanilleAgilityshortcut | Near theWatchtower. Gives easy access to the west parts ofYanillefrom theteleportpoint. | 0
+
+17 |  | Crack | Catacombs of Kourendsouthern crack | Allows quicker access between thecyclopsandankouareas ofCatacombs of Kourend. | 0
+
+20 |  | Log balance | Coal Truckslog balance | Near theCoal Truckswest ofSeers' Village. Provides easier access between theMining spotand the pickup location near Seers' Village. | 8.5
+
+21 |  | Underwall tunnel | Grand ExchangeAgilityshortcut | North-west corner of theGrand Exchange. Gives easier access to the Grand Exchange,Edgeville, aFairy ring, and theCanoetransport system. | 0
+
+22 |  | Pipe | Pipe contortion inBrimhaven Dungeon | Provides easier access to theMoss giants. Just west of the entrance.Taking this shortcut away from the Moss giants does not have anAgilityrequirement. | 8.5
+
+232824 |  | Rocks | (Mith grapple) Scale theObservatorycliff | Outside theObservatory, requiring completion of theObservatory Quest. Provides far quicker route to the inside of theObservatory. Unlike most grapple shortcuts, players need only bring a crossbow and grapple for the first trip. | N/A
+
+25 |  | Rocks | Eagles' PeakAgilityshortcut | Shortcut fromEagles' Peakto the area west of it. | 1
+
+25 |  | Rocks | Wrecked ship nearPort Phasmatys | Navigated duringGhosts Ahoy, destination for anElite clue scroll. | 10
+
+26 |  | Underwall tunnel | FaladorAgilityshortcut | South-west corner ofFalador. Provides easier travel between theFalador west bankandRimmington, as well as theCrafting Guild. | 0
+
+28 |  | Stones | North-west corner of theCatacombs of Kourend | Allows quicker access betweenbrutal red dragonsandsteel dragons. Each pillar has to be individually clicked to jump across. | 2
+
+29 |  | Rocks | LowerMount Karuulmcliffside climb | Allows slightly quicker access to the volcano's summit. | 0
+
+30 |  | Rocks | Rocks in theCorsair Cove Resource Area | Allows access to the rest ofFeldip Hills. Requires completion ofDragon Slayer Ito climb. | 2
+
+30 |  | Log balance | South-west of thered dragonarea inBrimhaven Dungeon | Allows access to the red dragon area in the Brimhaven Dungeon.Taking this shortcut away from the red dragons does not have anAgilityrequirement. | 10
+
+30 |  | Stepping stones | Stepping stones near the waterfall east ofShilo Village | Allows access to the eastern island of Karamja, including theShip Yard. | 3 or 1 (if failed)
+
+31 |  | Stepping stone | Draynor Manorstones toChampions' Guild | NearDraynor Manor. Allows you to cross theRiver Lumbetween the Manor andVarrock. There's a chance of taking a few points of damage when using this shortcut. | 3 or 1 (if failed)
+
+323535 |  | Rocks | (Mith grapple) ScaleCatherbycliffside | Useful for crossing from EastCatherbytoTaverley, particularly duringFarmingruns. One-way. | N/A
+
+32 |  | Stepping stone | Shilo Villagestepping stones over the river | Shortcut allows you to cross the river in Shilo Village, making it useful forfly fishing. | 0
+
+33 |  | Log balance | Ardougnelog balance shortcut | Allows easy passage across the river. There's a chance of taking a few points of damage when using this shortcut. | 4 or 2 (if failed)
+
+34 |  | Crack | Catacombs of Kourendnorthern crack | Allows quicker access between thegreater nechryaelandwarped jellyareas. | 0
+
+34 |  | Pipe | Pipe contortion inBrimhaven Dungeon | Allows passage between theRed dragonandBlack demonrooms.Taking this shortcut toward the red dragons does not have anAgilityrequirement. | 10
+
+35 |  | Rocky handholds | North east in theRellekka Hunter area. | Allows access to thePolar eaglecave. | 1
+
+362239 |  | Crossbow Tree | (Mith grapple) Escape from theWater Obelisk Island | Allows escape from theTaverley Dungeonby crossing the water toCatherbyfrom theWater Obelisk Island. One-way. | 0
+
+37 |  | Rocks | Gnome Strongholdshortcut | The Grand TreeandTree Gnome Villagequestsneeded. North-east of theGrand Tree. Allows easy access toBarbarian Outpostand theLighthouse. | 0
+
+38 |  | Rocks | Al Kharidminingpit cliffside scramble | This shortcut is at the north end of themine, and is useful for exiting to go north instead of going all the way around from the southern end. | 0
+
+393821 |  | Wall | (Mith grapple) ScaleYanillewall | South-westYanille. Provides easier access toGu'Tanothand southern areas. | N/A
+
+40 |  | Balancing ledge | Yanille Agility Dungeonbalance ledge | First obstacle into theYanille Agility Dungeon, giving access to theChaos druid warriors. Drops you into a pit ofpoison spidersif you fail. | 22
+
+40 |  | Stepping stones | Kourendlake isle jump | Located south-east of theInfirmaryand west ofWatson's house. Allows easier travel toShayzienandHosidius. | 0
+
+41 |  | Rocks | Trollheimeasy cliffside scramble | Allows easier travel up and down the lower path of the west side of the hill near theTroll Stronghold. | 0
+
+42 |  | Narrow crevice | Dwarven Minenarrow crevice | Provides a shortcut between the two arms of themine. | 0
+
+42 |  | Underwall tunnel | Draynornarrow tunnel | Allows easier travel amongDraynor VillageandPort Sarim. | 0
+
+43 |  | Rocks | Trollheimmedium cliffside scramble | Allows easier travel up and down the higher paths of the west side of the hill near theTroll Stronghold. | 0
+
+43 |  | Crevice | Fremennik Slayer Dungeonnearbasilisks | Shortcut betweenBasiliskarea andTurotharea. | 0
+
+44 |  | Rocks | Trollheimadvanced cliffside scramble | Allows easier travel up and down the east side of the hill near theTroll Stronghold.This is useful to avoid the Troll Throwers on the north side of the hill. | 0
+
+45 |  | Stepping stones | Kourendriver jump | Located west of the KourendPlayer-owned houseportal, this allows easier travel over the Great Kourend river inHosidius. | 0
+
+45 |  | Log balance | Tirannwnlog balance | Allows passage between different parts of the forest. | 0
+
+46 |  | Jutting wall | Cosmic Temple- medium narrow walkway | Provides faster travel between thebankand theCosmic AltaratZanaris. If you fail, you take a small amount of damage but you still pass through. | 10 (6 on failure)
+
+46 |  | Narrow crevice | Deep Wilderness Dungeonnarrow shortcut | Requires completion of MediumWilderness Diary. Next to the stairs and at the end by theFire giantsin thedungeon. | 0
+
+47 |  | Rocks | Trollheimhard cliffside scramble | Allows easier travel up and down the higher paths of the west side of the hill near theTroll Stronghold. | 8
+
+47 |  | Rocks | Ralos' Riserock climb | Allows faster travel up to the top of Ralos' Rise. | 0
+
+48 |  | Log balance | Log balance toFremennik Province | North ofCamelot. Provides slightly faster travel to EasternFremennik Province. There's a chance of taking a few points of damage when using this shortcut. | 4 (2 on failure)
+
+49 |  | Obstacle pipe | Contortion inYanille Agility Dungeonsmall room | Allows access to a room withSkeletonsand theSinister chest. There's a chance of taking a few points of damage when using this shortcut. | 0
+
+49 |  | Boulder | Dense essence mineboulder leap | Provides a one-way shortcut to quickly return to the mine via theSoul Altar. | 0
+
+50 |  | Stepping stone | Stepping stone intoMorytaniawest of theNature Grotto | Allows quick access to the Nature Grotto and nearbycoordinatesfromTreasure Trails. | 0
+
+51 |  | Obstacle pipe | Pipe fromEdgeville DungeontoVarrock Sewers | Allows passage between the eastern part of theEdgeville Dungeonand theMoss giantsin theVarrock Sewers. There's a chance of taking a few points of damage when using this shortcut. | 10
+
+52 |  | Rocks | Dense essence mine eastern scramble | Shortcut on the eastern side of thedense essence mine. | 0
+
+532142 |  | Strong Tree | (Mith grapple)KaramjaVolcano | Provides easier travel between theKaramjaVolcano area and lower Karamja. | N/A
+
+54 |  | Rocks | West ofAldarin | Provides faster travel betweenDarkmoon RavineandAldarin | N/A
+
+54 |  | Dark tunnel | Motherlode Mineeastern wall shortcut | Requires completion of MediumFalador Diary. | 0
+
+54 |  | Dark tunnel | Motherlode Minesouthern wall shortcut | Provides quick access to the south portion of the mine. | 0
+
+55 |  | Stepping stone | Stepping stone byMiscellaniadocks | Shortcut jump fromMiscellaniadock toEtceteria. | 0
+
+56 |  | Rubble | Rock climb in theTemple of the Eye | Requires completion of theTemple of the Eyequest. | 0
+
+56 |  | Stepping stones | Brimhaven Dungeoneastern stepping stones | Provides easier access to thered dragons.Taking this shortcut only has anAgilityrequirement in one direction. | 0
+
+57 |  | Monkey bars | Monkey bars underYanille | Provides access to theChaos druidsdeeper in theYanille Agility Dungeon, as well as alockpickrespawn down the nearby stairs. There's a chance of failing this shortcut and falling into a lower level crawling withpoisonous spiders. | 20
+
+57 |  | Broken fence | Rellekkaeast fence shortcut | Provides faster travel to Rellekka from thefairy ringDKS | 0
+
+58 |  | Weathered wall | Port PhasmatysEctopoolshortcut | Provides faster travel down to thepool of slime. | 0
+
+59 |  | Rocks | Elven Overpass (Arandar) easy cliffside scramble | Helps when using the elven shortcut toTirannwn. | 0
+
+60 |  | Rocky handholds | WildernessfromGod Wars Dungeonarea climb | Requires partial completion of theTroll Strongholdquest. There's a chance of taking a few points of damage when using this shortcut. | 0
+
+60 |  | Little crack | Squeeze through toGod Wars Dungeonsurface access | Allows access to theGod Wars Dungeon. | 0
+
+60 |  | Stepping stone | Estuary crossing onMos Le'Harmless | Provides quicker access to theMos Le'Harmless Cave. | 0
+
+60 |  | Gap | Pillars in theWintertodt's Prison | Requires level 50Firemaking. | 18
+
+60 |  | Tunnel | Asgarnian Ice Dungeontunnel | Shortcut between the dungeon entrance area and frozen throne cavern. | 0
+
+61 |  | Spikey chain | Slayer Towermedium spiked chain climb | Shortcut betweenCrawling Handarea andAberrant spectrearea on the1stfloor[UK]2ndfloor[US].Nose pegorSlayer helmetrequired due to Aberrant spectres. There's a chance of taking a few points of damage when using this shortcut. | 0
+
+61 |  | Strange floor | Fremennik Slayer Dungeonnearpyrefiends | Shortcut between theCave crawlerarea and thePyrefiendarea. There's a chance of taking a few points of damage when using this shortcut. | 5 × 2
+
+62 |  | Rocks | UpperMount Karuulmcliffside climb | Allows quicker access to the volcano's summit. | 0
+
+62 |  | Stepping stone | Stepping stones inNecropolis | Allows quicker access to thenecropolisandSophanem. | 0
+
+63 |  | Loose railing | Taverley Dungeonlesser demon fence | Shortcut that leads to thelesser demonsarea, and subsequently theblue dragonsarea. | 0
+
+63 |  | Wall | Darkmeyernorth-eastern wall | Shortcut to and fromDarkmeyerfromSlepe. Must be built, requiring 2long ropesand completion ofSins of the Father. | 0
+
+63 |  | Strange floor | Forthos Dungeonjump | Leads to thered dragons. Failing this jump will cause 1-5 damage. | 10 (5 on fail)
+
+64 |  | Rocks | TrollheimWilderness Route | Shortcut fromTrollheimto level 20Wilderness. One way. | 0
+
+64 |  | Rope | Rope to theFossil IslandVolcano | Quick passage between theMuseum CampandFossil Island Volcano. | 0
+
+65 |  | Ornate railing | Templeonthe SalvetoMorytaniashortcut | Slightly faster way to get from eastVarrocktoCanifis, bypassing the underground route atPaterdomus. | 0
+
+65 |  | Pillar Jump (Easy) | Revenant Caves | Allows easier navigation around the caves. | 6.5
+
+66 |  | Climbing rocks | Taverleytree patch | Allows players to more easily access theTaverleytree patchfrom the eastern side. | 25
+
+66 |  | Jutting wall | Cosmic Altaradvanced narrow walkway | Much faster travel between thebankand theCosmic AltaratZanaris. If you fail, you take a small amount of damage but you still pass through. | 10
+
+66 |  | Stepping stone | Lumbridge SwamptoKharidian Desert | Provides quicker access to theKalphite Lair. | 0
+
+67 |  | Crevice | Heroes' Guildtunnel | Requires completion of HardFalador Diary. Provides quicker access to theFountain of Heroes. | 0
+
+67 |  | Pile of rubble | Yanille Agility Dungeon's rubble climb | Access to an area with 4Chaos druidsandSalarin the twisted. | 6
+
+68 |  | Rocks | Elven Overpass (Arandar) medium cliffside scramble | Helps when using the elven shortcut toTirannwn. | 0
+
+68 |  | Rocks | Ice Mountainwestern scramble | Helps when accessing theRuins of Camdozaaland theLassar Undercity. | 0
+
+69 |  | Rocks | Dense essence mine northern scramble | Shortcut on the north side of thedense essence mine. | 0
+
+70 |  | Obstacle pipe | Taverley Dungeonpipe squeeze toBlue dragonlair | Quick passage between the entrance and theBlue dragonarea. Bypasses need for theDusty key. There's a chance of taking a few points of damage when using this shortcut. | 10
+
+70 |  | Hole | Fossil Islandhardwood shortcut | Quick passage between theMuseum Campand the hardwood tree patches. | 0
+
+70 |  | Rock | Ropedescent toSaradomin's Encampment | Access to theSaradominsection ofGod Wars Dungeon. | 6
+
+70 |  | Big window/Broken wall | Al Kharid Palacesouthern window | Quick passage between theAl Kharid PalaceandShantay Pass. | 0
+
+71 |  | Spikey chain | Slayer Toweradvanced spiked chain climb | Shortcut between theInfernal Magearea on the1stfloor[UK]2ndfloor[US]andNechryaelarea on the2ndfloor[UK]3rdfloor[US]. There's a chance of taking a few points of damage when using this shortcut. | 0
+
+71 |  | Crumbling wall | EasternGu'Tanoth | Requires completion ofWatchtower. | 0
+
+71 |  | Stepping stone | Pollnivneach | Shortcut betweenPollnivneachandNardah. | 25
+
+72 |  | Dry stone wall | Barrows | Shortcut betweenMort'tonand theBarrows. | 25
+
+72 |  | Stepping stone | WildernessChaos Temple | Shortcut between theChaos Templelava river and theWilderness Slayer Cave. | 0
+
+72 |  | Tunnel | Stronghold Slayer Cavenarrow tunnel | Shortcut between thehellhoundarea andaberrant spectrearea. | 0
+
+72 |  | Tunnel | Asgarnian Ice Dungeontunnel | Shortcut between thehobgoblinarea andskeletal wyvernarea. | 0
+
+73 |  | Rocks | Troll Strongholdwall-climb | RequiresMy Arm's Big Adventure. Shortcut to get to theTrollheimfarming patchaboveTroll Stronghold. | 0
+
+73 |  | Rocks | Dense essence mine western descent | Provides a one-way shortcut to quickly return to the mine viaKourend's Blood Altar. | 0
+
+74 |  | Stepping stone | Lava Dragon Islejump | Provides easier access tolava dragonsat a lower level of the Wilderness. | 0
+
+74 |  | Cave | Meiyerditch Laboratoriestunnels | Requires partial completion of theSins of the Father. | 0
+
+75 |  | Pillar Jump (Medium) | Revenant Caves | Allows easier navigation around the caves. | 7.5
+
+76 |  | Stepping stone | Island crossing nearZul-Andra | Requires completion ofRegicide. | 0
+
+77 |  | Crevice | Wilderness Slayer Cave | Allows easier navigation around the caves. | 10
+
+78 |  | Tight gap | Iorwerth Dungeonnorthern shortcut | Allows quicker access toWaterfiends,Nechryaels,ElvesandDark Beasts. | 1
+
+79 |  | Rocks | Shilo Village | Requires completion ofShilo Village. Allows quicker access to theNature Altar. | 0
+
+79 |  | Vine | Kharazi Junglevine climb | Requires completion ofLegends' Quest. Found east of the entrance toShilo Village. Bypasses the need for a machete and axe to access the Kharazi Jungle. | 0
+
+80 |  | Strange floor | Taverley Dungeon | Shortcut between the entrance and thePoison spiderarea. Bypasses need for theDusty key. | 12.5
+
+81 |  | Crevice | Waterbirth Island Dungeon | Entering the shortcut puts the player in the second to last room before theDagannoth Kingslair. | 10
+
+82 |  | Stepping stone | Lava Mazenorthern jump | Allows quick access to themuddy chestandLava Maze Dungeon. | 0
+
+82 |  | Tunnel | Asgarnian Ice Dungeontunnel | Shortcut from the entrance of the dungeon directly to theskeletal wyverncave. | 0
+
+84 |  | Rocks | Crandor | Shortcut provides an easier route to the south-west portion ofCrandor. | 0
+
+84 |  | Tight gap | Iorwerth Dungeonsouthern shortcut | Shortcut between theMutated Bloodveldarea and theNechryaelarea. | 1.5
+
+85 |  | Rocks | Waterbirth Island | Shortcut provides an easier route to theentranceof theWaterbirth Island Dungeon. | 0
+
+85 |  | Rocks | Elven Overpass (Arandar) advanced cliffside scramble | Helps when using the elven shortcut toTirannwn. | 0
+
+86 |  | Crevice | Kalphite Lairwall shortcut | Requires completion of the EliteDesert Diary. | 0
+
+87 |  | Vine | Brimhaven Dungeonvine tobaby green dragons | Allows players to reach the baby green dragons quicker. | 0
+
+88 |  | Mysterious pipe | Karuulm Slayer Dungeon | Allows players to reach theAlchemical Hydralair safely. | 0
+
+89 |  | Pillar Jump (Hard) | Revenant Caves | Allows players to quickly reach the southern part of the revenant area. | 9
+
+91 |  | Rocks (Viyeldi caves) | Viyeldi Cavescliff climb | Allows players to quickly reach the bottom of the cliff in theViyeldi Caves. Players require completion ofLegends' Quest, as well as onelong ropeto attach to the rock. The rope is permanent and consumed on use. | 0
+
+93 |  | Cave | Meiyerditch Laboratoriestunnels | Requires partial completion of theSins of the Father, as well as 78 Mining to mine the strange wall (one-off requirement). | 0
+
+96 |  | Crevice | Shaman Caves | Requires completion ofLegends' Quest. It allows players to skip the route containing skill checks to immediately reach thewinchthat takes the player to theViyeldi caves. | 7.5
+
+Other[edit|edit source]
+
+There are additional Agility obstacles that are not identified on the world map with ashortcut icon or part of an Agility course.
+
+Level | Name | Location | Successexperience | Fail experience | Notes
+
+1 | Rocks | Agility Pyramid | 0.5 | N/A | Upper rocks leading from desert to Agility Pyramid.
+
+1 | Bridge | Nature Grotto | 15 | 2 | Must have startedNature Spiritto accessMort Myre Swamp.
+
+10 | Ropeswing | North ofFeldip Hills | 3 (only one way) | N/A | Requires aropeto make the swing and will not be returned on use.
+
+18 | Trellis | Watchtower building | 31 (only one way) | N/A | Used as the starting point for theWatchtowerquest.
+
+25 | Gap | Gu'Tanoth | 5 (only one way) | N/A | Must have partial completion ofWatchtowerto gain access toGu'Tanoth. The jump requires a cost of20to pay the guard each jump.
+
+40 | Crevice | Miscellania Dungeon | 1 (only one way) | N/A | Must have startedRoyal Troubleto access the dungeon. Requires no level to go backwards through the crevice.
+
+40 | Tunnel | Miscellania Dungeon | 1 (only one way) | N/A | Must have startedRoyal Troubleto access the dungeon. Requires no level to go backwards through the tunnel.
+
+Run energy[edit|edit source]
+
+Agility level reduces the rate at whichrun energydrains while running, and increases energy regeneration while standing still. Energy is also affected by temporary boosts to agility,stamina potions, and certain items such as thegraceful outfitandring of endurance.
+
+Internally, energy is stored as a number between 0 and 10,000 and is updated every tick based on the following formula.
+
+While running, energy will drain each tick based on the player's Agility level and totalweight:
+
+While stationary or walking, energy will regenerate each tick based on the player's Agility level:
+
+At 99 agility players are able to run roughly 49% longer and restore energy roughly 65% faster than at level 1.
+
+Official worlds[edit|edit source]
+
+The followingofficial worldsare assigned to Agility training or minigames:
+
+World | Location | Members | Activity
+
+314 | United States (east) | 1 | Brimhaven Agility Arena
+
+346 | United States (east) | 1 | Agility Training
+
+Giant squirrel pet[edit|edit source]
+
+TheGiant squirrelis a skillingpetthat can be obtained while training at any Agility course. The chances of getting it are dependent on both the course and the player's Agility level.
+
+Temporary boosts[edit|edit source]
+
+Boost | Levelincrease | Visibility | Other info
+
+ | Agility cape | 1 | Visible | The Agility cape acts as aGraceful cape.Once per day the cape can be used to restore the player's run energy to 100% and provide the effect of astamina potionfor one minute.
+
+ | Elven dawn | 1 | Visible | Hitpoints1Strength- 1
+
+ | Sunbeam ale | 1 | Visible | Hitpoints1Strength1Attack- 5
+
+ | Agility potion | 3 | Visible | N/A
+
+ | Agility mix | 3 | Visible | Hitpoints6 per dose.Requires theBarbarian Trainingminiquest.
+
+ | Spicy stew(yellow spice) | ±0-5 | Visible | Hitpoints11Depending on type of stew, any skill exceptHitpointscan be boosted or reduced by 0 to 5 levels randomly.
+
+ | Summer pie | 5 | Visible | Hitpoints11 per bite.Restoresrun energyby 10%.
+
+Quests[edit|edit source]
+
+Quests requiring Agility[edit|edit source]
+
+Quest | Agilityrequirement | Other requirements
+
+The Dig Site | 10 | 10,25
+
+The Lost Tribe | 13 | 17,13
+
+Troll Stronghold | 15 | -
+
+Tai Bwo Wannai Trio | 15 | 30,5
+
+The Depths of Despair | 18 | 
+
+Mountain Daughter | 20 | -
+
+Death to the Dorgeshuun | 23 | 23
+
+The Grand Tree | 25 | -
+
+Watchtower | 25 | 40,15,15,14
+
+In Search of the Myreque | 25 | -
+
+Ghosts Ahoy | 25 | 20
+
+Darkness of Hallowvale | 26 | 5,20,22,32,33,40
+
+Troll Romance | 28 | -
+
+Cold War | 30 | 34,30,10
+
+Shilo Village | 32 | 20,4
+
+Death on the Isle | 32 | 34
+
+Horror from the Deep | 35 | -
+
+One Small Favour | 36 | 25,18,30
+
+Land of the Goblins | 38 | 40,45,48
+
+Royal Trouble | 40 | 40
+
+The Fremennik Isles | 40 | 20,56,46
+
+Cabin Fever | 42 | 45,50,40
+
+A Taste of Hope | 45 | 38,40,40,48
+
+The Path of Glouphrie | 45 | 60,56,56,47
+
+The Heart of Darkness | 46 | 48,48,55
+
+Recipe for Disaster(Awowogei subquest) | 48 | 70
+
+Legends' Quest | 50 | 56,50,45,52,42,50,50,50,50
+
+Sins of the Father | 52 | 62,60,56,50,50,49
+
+A Kingdom Divided | 54 | 52,52,50,42,38,35
+
+Monkey Madness II | 55 | 70,69,60,55,60
+
+Regicide | 56 | 10
+
+Grim Tales | 59 | 45,52,58,71
+
+Dragon Slayer II | 60 | 200,75,70,68,62,60,50,50
+
+The Curse of Arrav | 61 | 64,62,62,58,37
+
+Beneath Cursed Sands | 62 | 55,55
+
+While Guthix Sleeps | 66 | 180,67,65,65,62,40,72
+
+Making Friends with My Arm | 68 | 35,66,72
+
+Secrets of the North | 69 | 64,56
+
+Song of the Elves | 70 | 70,70,70,70,70,70,70
+
+Quests rewarding Agility experience[edit|edit source]
+
+Quest | Experiencereward | Agilityrequirement | Other requirements
+
+Recruitment Drive | 1,000 | - | 12
+
+The Depths of Despair | 1,500 | 18 | 
+
+The Fremennik Trials | 2,812 | - | 25,40,40if crafting your own lyre
+
+Underground Pass | 3,000 | - | 25
+
+Icthlarin's Little Helper | 4,000 | - | -
+
+Cold War | 5,000 | 30 | 34,30,10
+
+Royal Trouble | 5,000 | 40 | 40
+
+Cabin Fever | 7,000 | 42 | 45,50,40
+
+Darkness of Hallowvale | 7,000 | 26 | 5,20,22,32,33,40
+
+Death on the Isle | 7,500 | 32 | 34
+
+The Grand Tree | 7,900 | 25 | -
+
+Troll Romance | 8,000 | 28 | -
+
+Land of the Goblins | 8,000 | 38 | 40,45,48
+
+The Heart of Darkness | 8,000 | 46 | 48,48,55
+
+Recipe for Disaster(Awowogei subquest) | 10,000 | 48 | 70
+
+Regicide | 13,750 | 56 | 10
+
+Grim Tales | 25,000 | 59 | 45,52,58,71
+
+Song of the Elves | 40,000 | 70 | 70,70,70,70,70,70,70
+
+The Curse of Arrav | 40,000 | 61 | 64,62,62,58,37
+
+Dragon Slayer II | 50,000 | 60 | 200,75,70,68,62,60,50,50
+
+Beneath Cursed Sands | 50,000 | 62 | 55,55
+
+Making Friends with My Arm | 50,000 | 68 | 35,66,72
+
+Mourning's End Part II | 60,000 | - | -
+
+Monkey Madness II | 60,000 | 55 | 69,70,60,55
+
+Secrets of the North | 60,000 | 69 | 64,56
+
+Total | 534,462 | 
+
+Skill choice[edit|edit source]
+
+Upon completing any of the following quests, players may choose to allocate experience to Agility. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.
+
+Quest | Experiencereward | Skills available | Skill requirements
+
+X Marks the Spot | 300 | Any | None
+
+Client of Kourend | 500 twice | Any | None
+
+Fairytale II - Cure a Queen | 2,500 | Any skill above 30 | 49,57
+
+A Tail of Two Cats | 2,500 twice | Any skill above 30 | None
+
+The Great Brain Robbery | 5,000 | Any skill above 30 | 16,30,50
+
+King's Ransom | 5,000 | Any skill above 50 | 65
+
+Darkness of Hallowvale | 2,000 three times | Any skill above 30 | 5,20,22,32,33,40
+
+A Taste of Hope | 2,500 three times | Any skill above 35 | 48,40,40,45,38
+
+The Tourist Trap | 4,650 twice |  | 10,20
+
+A Kingdom Divided | 10,000 twice | Any skill above 40 | 54,52,52,50,42,38,35
+
+In Search of Knowledge(miniquest) | 10,000 | Any skill above 40 | None
+
+Curse of the Empty Lord(miniquest) | 10,000 | Any skill above 50 | Some players will need31
+
+One Small Favour | 10,000 twice | Any skill above 30 | 36,25,18,30
+
+Recipe for Disaster(The final battle) | 20,000 | Any skill above 50 | 175,70,48,50,53,53,25,59,40,50,40,40,10,10,36
+
+Legends' Quest | 30,000 four times |  | 107,50,50,45,56,52,42,50,50,50,50
+
+Sins of the Father | 15,000 six times | Any skill above 60 | 62,60,56,52,50,50,49
+
+Total | 331,600 | 
+
+Level up messages[edit|edit source]
+
+This article on a skill has an associated transcript page for level up messages.Click herefor the transcript.
+

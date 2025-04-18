@@ -1,0 +1,355 @@
+[Skill: Ranged]
+
+ | This article has skill training guides:Members/Ironman/Free-to-playSkill training guidesdocument optimal XP/hour methods to train a skill, as well as alternate passive or less expensive methods.
+
+Ranged
+
+
+
+
+
+
+
+Released | 4 January2001(Update)
+
+Also called | Archery, Range
+
+Members | No
+
+Type | Combat
+
+
+
+Statistics
+
+
+
+Players with99 | 557,531as of 1 April 2025 -update
+
+Players with200M XP | 1791as of 3 April 2025 -update
+
+
+
+Rangedis one of the threecombat classesinOld School RuneScape. It involves usingbows,crossbows, and thrownweaponsto damage opponents from a distance, andRanged armourcan mostly be made from animal hides. Players who specialise in thisskillare known as rangers or archers.
+
+Thecombat triangledictates that rangers are strong against mages but weak against melee fighters.
+
+The ability to attack from a distance means that a player cansafespota meleemonsterwhile fighting from safety. Keep in mind that some melee monsters have high Ranged Defence, so a high Ranged level may be needed.Crossbowsare useful against monsters with high Defence, as they are very accurate.
+
+Players can toggle whether they want ammunition on the ground to automatically be equipped or remain in the inventory when picked up by talking to theRanged combat tutor.
+
+ | Ranged level up - normal
+
+The music that plays when levelling up.
+
+
+
+ | Ranged level up - with unlocks
+
+The music that plays when levelling up and unlocking new content.
+
+
+
+Equipment[edit|edit source]
+
+Stats[edit|edit source]
+
+There are three ranged equipment stats, two for attack (Ranged Attack andRanged Strength) and one for defence (Ranged Defence).
+
+Ranged weapons(and frequentlyRanged armour) provide + Ranged Attack for accuracy, + Ranged Strength for max hit, and armour provides + Ranged Defence.
+
+Note: In the case of crossbows and bows, the bows provide the Ranged Attack and the ammo provides Ranged Strength, while withdarts,knivesandthrowing axes(where the ammo is the weapon) both stats are provided by the weapon. In this case, ammo serves no purpose (thoughblessingsstill give aprayer bonushowever).
+
+Weapons[edit|edit source]
+
+Ranged weapons have threecombat styles: accurate, rapid, and longrange. The accurate style provides an invisible +3 bonus to the player's Ranged level, increasing their accuracy and possibly increasing their max hit. The rapid style increases the player'sattack speedby 1, resulting in the highest damage per second of all the styles in almost all situations. The longrange style increasesattack rangeby 2, provides an invisible +3 bonus to the player'sDefencelevel, and splits earned exp between Ranged and Defence.
+
+Furthermore, ammunitions have specific damage types similar to the melee's styles of Stab, Slash, and Crush, though it only applies to monsters. For example, some monsters have less defence against heavy ammunition than light and standard ones, and would be preferred in such encounters. A list of some monsters with weakened defence against a particular ammunition type can be found on thisnews post.
+
+Light:  Thrown weapons such asdarts,knives,thrownaxes,Toktz-xil-ul, theToxic blowpipe, and theTonalztics of ralosStandard:Arrows,Atlatl darts,Salamanders, and magical arrows from theCrystal bowandBow of FaerdhinenHeavy:Bolts,javelins, andchinchompas
+
+Weapon | Information
+
+ | ShortbowsLongbows | Thesebowsboth fire the samearrows, differing in speed and range, but not in damage or accuracy. Longbows could be used for additional range, but are slower than shortbows on rapid. Themagic shortbowhas aspecial attackwhich hits twice, and themagic longbowhas a special attack which boosts accuracy.
+
+ | DartsThrowing knivesThrowing axes | Darts and throwing knives have the highestattack speedin the game, but low Ranged attack, Ranged strength and attack range stats. Throwing axes have superior damage and accuracy, but a slower attack speed.
+
+ | Toktz-xil-ul | Toktz-xil-ul, also known as throwing rings, are as powerful as amagic shortbowwithrune arrows.
+
+ | Chinchompas | Chinchompasdeal very little damage, but they hit multiple targets, making them excellent for training. Because of this, they are extremely expensive.
+
+ | Composite bows | These bows are similar to longbows, but have a faster attack speed and slightly higher accuracy. These bows can only be obtained from completingTreasure Trailsor by trading with another player. Themagic comp bowhas the samespecial attackas themagic longbow.
+
+ | Crossbows | Crossbowsare very accurate, andcrossbow boltsdeal significantly more damage thanarrows, making crossbows effective for training Ranged. Crossbows are slower than standard bows, but are also one-handed, so ashieldorgod bookcan be used for protection.
+
+ | Dorgeshuun crossbow | This is the only crossbow which can fire the cheapbone bolts. It is also faster than normal crossbows, and has aspecial attackwhich lowers the target'sDefencelevel.
+
+ | Karil's crossbow | Despite being a crossbow, it is more like a shortbow, requiring two hands and having a fastattack speed, along with longer range.Karil's crossbowwill only work withbolt racks, which break when fired, making it expensive to use. This weapon should only be used against theTzTok-Jadand players, as everything else can be done more cheaply.
+
+ | Ogre bowComp ogre bow | The ogre bow uses ogre arrows. It is extremely slow; its only real use is for huntingchompy birds. The composite ogre bow has the same speed as a crossbow, and can usebrutal arrowsas well as ogre arrows.Rune brutalshave the same Ranged Strength bonus asdragon arrows.
+
+ | Dark bow | Thedark bowis the slowestweaponin the game, but it fires twoarrowsat once. It can firedragon arrows, and it has a devastatingspecial attackwhich boosts damage by 30% if using arrows that are not dragon, or by 50% if using dragon arrows, with a minimum damage of 5 per non-dragon arrow and 8 per dragon arrow.
+
+ | Toxic blowpipe | Thetoxic blowpipeis a powerful rangedweaponthat usesdartsandZulrah's scalesforammunition. Againstmonsters, it has the same speed as darts/knives, but against players, it has the sameattack speedas shortbows. Additionally, the toxic blowpipe can inflict targets withvenom, which deals increasing damage over time.
+
+ | Dwarf multicannon | Thedwarf multicannonis a supplementary weapon that is set up by the player and attacks enemies on its own. There is no Ranged level requirement to use it. It is fast and powerful (with a max hit of 30), yet expensive to use, and there are a limited number of areas where it can be set up for usage. For example, it cannot be used against bosses except theCorporeal Beast. Nonetheless, it's useful and great to have on board, especially on certainSlayer tasks(e.g.dagannoths).
+
+ | Twisted bow | Thetwisted bowis one of the most powerful ranged weapons in the game, being able to hit extremely high on certain monsters. It has a passive ability that increases its accuracy and damage based on the target'sMagiclevel.
+
+ | Crystal bow | A relatively strong composite bow. Its damage and accuracy can be increased by wearing pieces of theCrystal armour. Generates its ownammo, but degrades.
+
+ | Craw's bow | This powerful shortbow has 50% increased damage against monsters in theWilderness. Generates its ownammo, but needs to be charged withRevenant ether.
+
+ | Ballista | Thelight ballistaandheavy ballistaare two-handed ranged weapons which usejavelinsas ammunition. They are slow, but capable of dealing high hits.
+
+ | Bow of faerdhinen | A very powerful composite bow. Its damage and accuracy can be increased by wearing pieces of theCrystal armour. Generates its ownammo. When corrupted, it does not degrade.
+
+Armour[edit|edit source]
+
+Enchanted crossbow bolts[edit|edit source]
+
+Boltsthat are tipped withgemscan be enchanted for a wide variety of passive effects, each of which has a small chance of activating when an enemy is damaged by the bolt.
+
+Bolt type | Level | Level | Runes required | Effect
+
+ | Opal bolts (e) | 11 | 4 | 21 | Lucky Lightning | Extra damage.
+
+ | Sapphire bolts (e) | 56 | 7 | 111 | Clear Mind | Prayersiphon.
+
+ | Jade bolts (e) | 26 | 14 | 21 | Earth's Fury | Opponent knockdown.
+
+ | Pearl bolts (e) | 41 | 24 | 21 | Sea Curse | Extra (water-based) damage - effective against monsters specialising in the fire element, such asObsidian creatures.
+
+ | Emerald bolts (e) | 58 | 27 | 311 | Magical Poison | Greater chance ofpoison.
+
+ | Topaz bolts (e) | 48 | 29 | 21 | Down to Earth | Lowers target'sMagic(other players only).
+
+ | Ruby bolts (e) | 63 | 49 | 511 | Blood Forfeit | -10%Hitpointsfrom self, -20% Hitpoints from target.
+
+ | Diamond bolts (e) | 65 | 57 | 1012 | Armour Piercing | Ignore much of target's RangedDefence.
+
+ | Dragonstone bolts (e) | 71 | 68 | 1511 | Dragon's Breath | Dragonfiredamage - Magical attack, effective against opponents with lowMagicDefence.Antifire potionswill decrease the hit.
+
+ | Onyx bolts (e) | 73 | 87 | 2011 | Life Leech | Extra damage,Hitpointssiphon by 1/4 of hit, but not versusundead.
+
+Temporary boosts[edit|edit source]
+
+Boost | Levelincrease | Visibility | Other info
+
+ | Ranging cape | 1 | Visible | When the ranging cape is equipped, it grants players the ammo-saving effects ofAva's accumulator.
+
+ | Wild pie | 4 | Visible | Hitpoints11 per bite.Slayer5
+
+ | Lizardkicker | 4 | Visible | Strength- floor(CurrentLevel * 0.04) - 2Magic- floor(CurrentLevel * 0.04) - 2
+
+ | Spicy stew(red spice) | ±0-5 | Visible | Hitpoints11Depending on type of stew, any skill exceptHitpointscan be boosted or reduced by 0 to 5 levels randomly.
+
+ | Ranging potion | 4-13 | Visible | Ranged4 + floor(StaticLevel * 0.1)
+
+ | Ranging mix | 4-13 | Visible | Hitpoints6 per dose.Ranged4 + floor(StaticLevel * 0.1)RequiresBarbarian training.
+
+ | Divine ranging potion | 4-13 | Visible | Ranged4 + floor(StaticLevel * 0.1)Stat draining for ranged is disabled for 5 minutes, meaning the player's Ranged level will stay fully boosted.After the 5 minutes are over, Ranged level will be restored to its base level.
+
+ | Bastion potion | 4-13 | Visible | Defence5 + floor(StaticLevel * 0.15)Ranged4 + floor(StaticLevel * 0.1)Acts as arangingandsuper defencepotion in one dose.
+
+ | Divine bastion potion | 4-13 | Visible | Defence5 + floor(StaticLevel * 0.15)Ranged4 + floor(StaticLevel * 0.1)Stat draining for Ranged and Defence is disabled for 5 minutes, meaning the player's Ranged and Defence levels will stay fully boosted.After the 5 minutes are over, Ranged and Defence levels will be restored to its base level.
+
+ | Bandages (Theatre of Blood) | 4-13 | Visible | Hitpoints20Attack4 + floor(StaticLevel * 0.15)Defence4 + floor(StaticLevel * 0.15)Strength4 + floor(StaticLevel * 0.15)Magic4Ranged4 + floor(StaticLevel * 0.1)
+
+ | Twisted (-) | 4-13 | Visible | Ranged4 + floor(StaticLevel * 0.1)Only usable within theChambers of Xeric.
+
+ | Overload (-) | 4-13 | Visible | Acts as anelder (-),twisted (-), andkodai (-)potion in one dose.Hitpoints- 50Attack4 + floor(StaticLevel * 0.1)Defence4 + floor(StaticLevel * 0.1)Strength4 + floor(StaticLevel * 0.1)Ranged4 + floor(StaticLevel * 0.1)Magic4 + floor(StaticLevel * 0.1)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theChambers of Xeric.
+
+ | Twisted potion | 5-17 | Visible | Ranged5 + floor(StaticLevel * 0.13)Only usable within theChambers of Xeric.
+
+ | Overload (Chambers of Xeric) | 5-17 | Visible | Acts as anelder,twisted, andkodaipotion in one dose.Hitpoints- 50Attack5 + floor(StaticLevel * 0.13)Defence5 + floor(StaticLevel * 0.13)Strength5 + floor(StaticLevel * 0.13)Ranged5 + floor(StaticLevel * 0.13)Magic5 + floor(StaticLevel * 0.13)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theChambers of Xeric.
+
+ | Potion of power | 5-19 | Visible | Ranged5 + floor(StaticLevel * 0.15)Only usable within theSoul Warsminigame.
+
+ | Super ranging | 5-19 | Visible | Ranged5 + floor(StaticLevel * 0.15)Only usable within theNightmare Zone.
+
+ | Overload (Nightmare Zone) | 5-19 | Visible | Acts as asuper combat,super ranging, andsuper magicpotion in one dose.Hitpoints- 50Attack5 + floor(StaticLevel * 0.15)Defence5 + floor(StaticLevel * 0.15)Strength5 + floor(StaticLevel * 0.15)Ranged5 + floor(StaticLevel * 0.15)Magic5 + floor(StaticLevel * 0.15)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theNightmare Zone.
+
+ | Twisted (+) | 6-21 | Visible | Ranged6 + floor(StaticLevel * 0.16)Only usable within theChambers of Xeric.
+
+ | Overload (+) | 6-21 | Visible | Acts as anelder (+),twisted (+), andkodai (+)potion in one dose.Hitpoints- 50Attack6 + floor(StaticLevel * 0.16)Defence6 + floor(StaticLevel * 0.16)Strength6 + floor(StaticLevel * 0.16)Ranged6 + floor(StaticLevel * 0.16)Magic6 + floor(StaticLevel * 0.16)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theChambers of Xeric.
+
+ | Smelling salts | 11-26 | Visible | Attack11 + floor(StaticLevel * 0.16)Defence11 + floor(StaticLevel * 0.16)Strength11 + floor(StaticLevel * 0.16)Ranged11 + floor(StaticLevel * 0.16)Magic11 + floor(StaticLevel * 0.16)Restoresrun energyby 25%.The boost is reapplied every 15 seconds for 8 minutes.Only usable within theTombs of Amascut.
+
+ | Smouldering heart | ?-14 | Visible | Attack?-20Strength?-20Defence?-20Magic?-11The boost is reapplied continuously for 2 minutes, after which it starts decaying naturally. This stat boost scales at an unknown rate with level and the listed one is the boost received at level 99.
+
+Quests[edit|edit source]
+
+Quests requiring Ranged[edit|edit source]
+
+Quest | Rangedrequirement | Other skill requirements
+
+Underground Pass | 25 | -
+
+Animal Magnetism | 30 | 18,35
+
+Big Chompy Bird Hunting | 30 | 5,30
+
+Zogre Flesh Eaters | 30 | 4,8
+
+Spirits of the Elid | 37 | 37,33,37
+
+Temple of Ikov | 40 | 42
+
+Cabin Fever | 40 | 50,42,45
+
+The Path of Glouphrie | 47 | 60,56,56,45
+
+Mourning's End Part I | 60 | 50
+
+The Curse of Arrav | 62 | 64,62,61,58,37
+
+Quests rewarding Ranged experience[edit|edit source]
+
+Quest | Experiencereward | Rangedrequirement | Other requirements
+
+Big Chompy Bird Hunting | 735 | 30 | 5,30
+
+Recipe for Disaster(Skrach Uglogwee subquest) | 1,500 | 30 | 41,20
+
+Death to the Dorgeshuun | 2,000 | - | 23,23
+
+Zogre Flesh Eaters | 2,000 | 30 | 4,8
+
+Heroes' Quest | 2,075 | - | 55,53,53,25,50
+
+Horror from the Deep | 4,662.5 | - | 35
+
+Temple of Ikov | 10,500 | 40 | 42
+
+Total | 23,472.5 | 
+
+Skill choice[edit|edit source]
+
+Upon completing any of the following quests, players may choose to allocate experience to Ranged. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.
+
+Quest | Experiencereward | Skills available | Skill requirements
+
+X Marks the Spot | 300 | Any | None
+
+Client of Kourend | 500 twice | Any | None
+
+Fairytale II - Cure a Queen | 2,500 | Any skill above 30 | 49,57
+
+A Tail of Two Cats | 2,500 twice | Any skill above 30 | None
+
+The Great Brain Robbery | 5,000 | Any skill above 30 | 16,30,50
+
+King's Ransom | 5,000 | Any skill above 50 | 65
+
+Darkness of Hallowvale | 2,000 three times | Any skill above 30 | 5,20,22,32,33,40
+
+A Taste of Hope | 2,500 three times | Any skill above 35 | 48,40,40,45,38
+
+A Kingdom Divided | 10,000 twice | Any skill above 40 | 54,52,52,50,42,38,35
+
+In Search of Knowledge(miniquest) | 10,000 | Any skill above 40 | None
+
+Curse of the Empty Lord(miniquest) | 10,000 | Any skill above 50 | Some players will need31
+
+Shadow of the Storm | 10,000 |  | 30
+
+Contact! | 7,000 twice |  | None
+
+Dream Mentor | 15,000 |  | 32,85,61,40,49,5,65,60,55
+
+A Night at the Theatre | 20,000 four times |  | 90recommended
+
+One Small Favour | 10,000 twice | Any skill above 30 | 36,25,18,30
+
+Recipe for Disaster(The final battle) | 20,000 | Any skill above 50 | 175,70,48,50,53,53,25,59,40,50,40,40,10,10,36
+
+Sins of the Father | 15,000 six times | Any skill above 60 | 62,60,56,52,50,50,49
+
+Dragon Slayer II | 25,000 four times |  | 200,75,70,68,62,60,60,50,50
+
+Into the Tombs(miniquest) | 50,000 |  | 95recommended
+
+Monkey Madness II | 50,000 twice |  | 69,70,60,55,55,60
+
+Desert Treasure II - The Fallen Empire | 100,000 three times |  | 75,75,70,62,60,60
+
+Total | 871,300 | 
+
+Level up messages[edit|edit source]
+
+This article on a skill has an associated transcript page for level up messages.Click herefor the transcript.
+
+See also[edit|edit source]
+
+Ranged/Experience table, a list of all Ranged experience sourcesRanged/Level up table, a list of all requirements and unlockables within the Ranged skill
+
+v•t•eSkills
+
+Combat | AttackStrengthDefenceRangedPrayerMagicHitpoints
+
+Gathering | FarmingFishingHunterMiningWoodcutting
+
+Production | CookingCraftingFletchingHerbloreRunecraftSmithing
+
+Utility | AgilityConstructionFiremakingSlayerThieving
+
+Proposed skills | In developmentSailingPreviously proposedArtisanSailing (2015)WardingTamingShamanism | In development | Sailing | Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+In development | Sailing
+
+Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+Related | ExperienceSkill mastery200 million experienceSummoning
+
+v•t•eRangedweapons
+
+Bows | ShortbowsNormal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u)(i)LongbowsNormal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u)Composite bowsWillowOgreYewMagicSpecial bowsTrainingRain bowStarterCursed goblinSigned oakOgreBoneSeercullDark(bh)Craw's3rd ageWebweaverCrystalScorchingBow of Faerdhinen(c)Venator(echo)Twisted | Shortbows | Normal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u)(i) | Longbows | Normal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u) | Composite bows | WillowOgreYewMagic | Special bows | TrainingRain bowStarterCursed goblinSigned oakOgreBoneSeercullDark(bh)Craw's3rd ageWebweaverCrystalScorchingBow of Faerdhinen(c)Venator(echo)Twisted
+
+Shortbows | Normal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u)(i)
+
+Longbows | Normal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u)
+
+Composite bows | WillowOgreYewMagic
+
+Special bows | TrainingRain bowStarterCursed goblinSigned oakOgreBoneSeercullDark(bh)Craw's3rd ageWebweaverCrystalScorchingBow of Faerdhinen(c)Venator(echo)Twisted
+
+Crossbows | StandardNormalBronzeBluriteIronSteelMithrilAdamantRune(or)Dragon(cr)BallistaeLightHeavy(or)Special crossbowsPhoenixDorgeshuunHunters'Hunters' sunlightKaril'sDragon hunter(b)(t)ArmadylZaryte | Standard | NormalBronzeBluriteIronSteelMithrilAdamantRune(or)Dragon(cr) | Ballistae | LightHeavy(or) | Special crossbows | PhoenixDorgeshuunHunters'Hunters' sunlightKaril'sDragon hunter(b)(t)ArmadylZaryte
+
+Standard | NormalBronzeBluriteIronSteelMithrilAdamantRune(or)Dragon(cr)
+
+Ballistae | LightHeavy(or)
+
+Special crossbows | PhoenixDorgeshuunHunters'Hunters' sunlightKaril'sDragon hunter(b)(t)ArmadylZaryte
+
+Thrown | DartsBronzeIronSteelBlackMithrilAdamantRuneAmethystDragonThrowing knifeBronzeIronSteelBlackMithrilAdamantRuneDragonThrowing axesBronzeIronSteelMithrilAdamantRuneDragonMorrigan'sChinchompasGreyRedBlackOtherSalamandersHoly waterMud pieHunter's spearToktz-xil-ulEclipse atlatlToxic blowpipeTonalztics of Ralos | Darts | BronzeIronSteelBlackMithrilAdamantRuneAmethystDragon | Throwing knife | BronzeIronSteelBlackMithrilAdamantRuneDragon | Throwing axes | BronzeIronSteelMithrilAdamantRuneDragonMorrigan's | Chinchompas | GreyRedBlack | Other | SalamandersHoly waterMud pieHunter's spearToktz-xil-ulEclipse atlatlToxic blowpipeTonalztics of Ralos
+
+Darts | BronzeIronSteelBlackMithrilAdamantRuneAmethystDragon
+
+Throwing knife | BronzeIronSteelBlackMithrilAdamantRuneDragon
+
+Throwing axes | BronzeIronSteelMithrilAdamantRuneDragonMorrigan's
+
+Chinchompas | GreyRedBlack
+
+Other | SalamandersHoly waterMud pieHunter's spearToktz-xil-ulEclipse atlatlToxic blowpipeTonalztics of Ralos
+
+v•t•eRanged armour
+
+Headgear | Medium(+0)Void(or)(+0)Cowl(+1)Coif(+2)Slayer helmet (i)(+3)Snakeskin(+4)Gilded(+4)Shayzien (5)(+4)Spined(+6)Ranger hat(+6)Archer helm(+6)Blessed(+7)Hueycoatl hide(+7)Karil's(+7)Eclipse moon(+8)Robin hood hat(+8)Third-age(+9)Crystal(+9)Armadyl(+10)Masori(fortified)(+12)Morrigan's(+13)
+
+Bodies | Chainbody(+0)Void(or)(+0)Elite void(or)(+0)Leather(g)(+2)Clue hunter(+2)Hardleather(+8)Studded(t)(g)(+8)Frog-leather(+10)Shayzien (5)(+10)Snakeskin(+12)Rangers'(+15)Green d'hide(t)(g)(+15)Spined(+15)Gilded d'hide(+15)Blue d'hide(t)(g)(+20)Red d'hide(t)(g)(+25)Mixed hide(+27)Black d'hide(t)(g)(+30)Blessed(+30)Hueycoatl hide(+30)Third-age(+30)Karil's(+30)Crystal(+31)Eclipse moon(+31)Armadyl(+33)Morrigan's(+36)Masori(fortified)(+43)
+
+Legwear | Void(or)(+0)Elite void(or)(+0)Frog-leather(+2)Leather(g)(+4)Clue hunter(+4)Snakeskin(+6)Shayzien (5)(+6)Studded(t)(g)(+6)Green d'hide(t)(g)(+8)Spined(+8)Gilded d'hide(+8)Yak-hide(+10)Blue d'hide(t)(g)(+11)Red d'hide(t)(g)(+14)Mixed hide(+14)Rangers'(+15)Penance skirt(+15)Black d'hide(t)(g)(+17)Blessed(+17)Hueycoatl hide(+17)Eclipse moon(+17)Third-age(+17)Karil's(+17)Crystal(+18)Armadyl(+20)Morrigan's(+23)Masori(fortified)(+27)
+
+Gloves | Void(or)(+0)Spined(+0)Hardleather(+1)Karamja(+1)Bronze(+2)Samurai(+2)Iron(+3)Leather(spiky)(+4)Steel(+4)Black(+5)Shayzien (5)(+6)Snakeskin(+6)Mithril(+6)Combat bracelet(+7)Regen bracelet(+7)Adamant(+7)Green d'hide(spiky)(+8)Gilded d'hide(+8)Rune(+8)Blue d'hide(spiky)(+9)Dragon(+9)Red d'hide(spiky)(+10)Ranger(+11)Black d'hide(spiky)(+11)Blessed(+11)Hueycoatl hide(+11)Third-age(+11)Barrows(+12)Zaryte(+18)
+
+Boots | Spined(+0)Runner(+1)Fremennik sea 4(+1)Frog-leather(+2)Snakeskin(+3)Shayzien (5)(+4)Mixed hide(+5)Brimstone(+5)Aranea(+6)Blessed(+7)Ranger(+8)Pegasian(+12)
+
+Capes | Ranging(+0)Fire cape(max)(+1)Infernal cape(max)(+1)Ava's attractor(+2)Ava's accumulator(max)(+4)Mixed hide(+5)Ava's assembler(max)(+8)Masori assembler(max)(+8)Dizana's quiver (uncharged)(+18)Dizana's quiver (charged)(blessed)(max)(+18)
+
+Amulets | Beads of the dead(+1)Unholy(+2)Accuracy(+4)Power(t)(+6)Dragonbone(+10)Bonecrusher(+10)Glory(t)(+10)Eternal glory(+10)Damned(+10)Avarice(+10)Fury(or)(+10)Blood fury(+10)Anguish(or)(+15)
+
+Rings | Archers(+4)Brimstone(+4)Shadows(+4)Archers (i)(+8)Venator(+10)
+
+Shields | Square(+0)Hard leather(+2)Snakeskin(+3)Green d'hide(+4)Book of balance(or)(+4)Blue d'hide(+5)Red d'hide(+6)Black d'hide(+7)Blessed(+7)Unholy book(or)(+8)Book of law(or)(+10)Odium ward(or)(+12)Dragonfire ward(+15)Twisted buckler(+18)

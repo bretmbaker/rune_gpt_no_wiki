@@ -1,0 +1,54 @@
+Name: Arrg
+Combat Level: 113
+Size: 2x2
+Info:
+- Description: A massive, scary-looking troll.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 150.5 xp
+- Category: Trolls
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 643,642
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 140
+Attack: 70
+Strength: 140
+Defence: 40
+Magic: 0
+Ranged: 70
+
+[Aggressive stats]
+Attack bonus: 60
+Strength bonus: 100
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 35
+Slash: 60
+Crush: 35
+
+[Magic defence]
+Magic: 200
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 200
+Standard: 200
+Heavy: 200

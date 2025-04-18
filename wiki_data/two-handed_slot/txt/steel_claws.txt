@@ -1,0 +1,62 @@
+[Weapon: Steel Claws]
+
+
+Steel clawsare a fast two-handedmeleeweapon. To wield them the player must have at least level 5Attack. They are given as a reward for completing theDeath Plateauquest.
+After completing the Death Plateau quest, they can be created at 43Smithing. They require 2Steel bars, and yield 75 Smithing experience. They can also be bought fromMartin Thwaitin theRogues' Den.
+
+
+[Infobox]
+Released: 9 August2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A set of fighting claws.
+General Store Value: 175 coins
+High alch: 105 coins
+Low alch: 70 coins
+Weight: 0.907 kg
+Grand Exchange Value: 130 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 762
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +8
+- Slash: +11
+- Crush: -4
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +6
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +12
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Soldier (Burthorpe) | 48 | 1 | 2/128 | 

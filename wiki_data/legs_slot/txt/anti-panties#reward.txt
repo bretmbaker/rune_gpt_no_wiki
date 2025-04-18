@@ -1,0 +1,48 @@
+[Weapon: Anti-Panties#Reward]
+
+
+TheAnti-pantieswas an item that was involved in the2015 Halloween event, during which the player must evict theAnti-Santafor theGrim Reaperby using it to light the boiler in the basement. It was found near him, in front of the sofa.
+After completing the event, theGrim Reaperwill give players a shrunken pair of pants.
+
+
+[Infobox]
+Released: 29 October2015(Update)
+Removal: N/A
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: Death gave you Anti-Santa's pants. You can get another pair from Diango.
+Examine: Your smelly reward for helping evict Anti-Santa from Death's house.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

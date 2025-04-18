@@ -1,0 +1,2 @@
+Item: Gnome soldier
+Summary: Gnome soldiers are unused non-player characters who would have appeared during the cutscene of Hazelmere's memory of the Battle of Atarisundri in The Eyes of Glouphrie quest. They are present behind Healthorg and tortoise, Glouphrie the Untrusted and Hazelmere on the base version of the map the cutscene is generated from, but do not appear within the cutscene itself.

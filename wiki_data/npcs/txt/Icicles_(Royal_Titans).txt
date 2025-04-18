@@ -1,0 +1,2 @@
+Item: Icicles (Royal Titans)
+Summary: Icicles are obstacles conjured by Eldric the Ice King during the fight against the Royal Titans. The wall of icicles will fully form four ticks after first manifesting, blocking the row they appear in. Standing on a targeted tile will deal up to 12 damage to the player, but prevents icicles from forming.

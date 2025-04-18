@@ -1,0 +1,74 @@
+Name: Chaos druid warrior
+Combat Level: 37
+Size: 1x1
+Info:
+- Description: A crazy evil druid.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 532
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Black dagger (1/128)
+- Air rune (1/128)
+- Nature rune (1/128)
+- Grimy guam leaf (1/11.6)
+- Grimy marrentill (1/15.5)
+- Grimy tarromin (1/20.7)
+- Grimy harralander (1/26.6)
+- Grimy ranarr weed (1/33.9)
+- Grimy irit leaf (1/46.5)
+- Grimy avantoe (1/62.1)
+- Grimy kwuarm (1/74.5)
+- Grimy cadantine (1/93.1)
+- Grimy lantadyme (1/124.1)
+- Grimy dwarf weed (1/124.1)
+- Limpwurt root (1/128)
+- Limpwurt root (1/128)
+- Snape grass (1/128)
+- Vial of water (1/128)
+- Coins (1/128)
+- Limpwurt seed (1/128)
+- Super defence(1) (1/128)
+- Nothing (1/256.47; Never[d 1])
+- Uncut sapphire (1/512; 1/260[d 2])
+- Uncut emerald (1/1,024; 1/520[d 2])
+- Uncut ruby (1/2,048; 1/1,040[d 2])
+- Uncut diamond (1/8,192; 1/4,160[d 2])
+- Chaos talisman (1/5,461.33; 1/2,773.33[d 2][d 3])
+- Nature talisman (1/5,461.33; 1/2,773.33[d 2][d 3])
+- Loop half of key (1/16,384; 1/8,320[d 2])
+- Tooth half of key (1/16,384; 1/8,320[d 2])
+- Rune javelin (1/16,384; 1/8,320[d 2])
+- Rune spear (1/262,144; 1/15,600[d 2][d 4])
+- Shield left half (1/524,288; 1/31,200[d 2][d 4])
+- Dragon spear (1/699,050.67; 1/41,600[d 2][d 4])
+- Ensouled chaos druid head (1/25)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 40
+Attack: 32
+Strength: 34
+Defence: 25
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,63 @@
+[Weapon: Leather Gloves]
+
+
+Leather glovesare basicglovesworn in thehands slot, offering slight defensive bonuses. Making them requires 1Crafting, 1leather, 1thread, and aneedle, yielding 13.8 Craftingexperience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: These will keep my hands warm!
+General Store Value: 6 coins
+High alch: 3 coins
+Low alch: 2 coins
+Weight: 0.226 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 4 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 46,994
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Adventurer JonGetting started Strength | N/A | 1 | Always | N/A
+Boxes (witch's house) | N/A | 1 | 1/26 | 
+Crate (cleaning kit) | N/A | 1 | Always | 
+Crawling Hand | 7; 8; 11; 12 | 1 | 21/128 | 
+Crushing hand | 45 | 1 | 3 × 21/128 | 
+Digsite workman | 25 | 1 | 1/11 | 
+Fishing spot (big net, harpoon)Big net | 16 | 1 | Uncommon | N/A
+Spiritual warrior | 115–158 | 1 | 9/127 | 
+Tools (Varrock Museum) | N/A | 1 | Always | 
+Zombie (Tarn's Lair)High level | 81–100 | 1 | 2/128 | 

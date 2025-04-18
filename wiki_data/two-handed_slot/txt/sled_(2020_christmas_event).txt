@@ -1,0 +1,54 @@
+[Weapon: Sled (2020 Christmas Event)]
+
+
+Thesledis an item originally obtained during the2020 Christmas event, inScrubfoot's cavebeneathGoblin Village. It is used to slide down the slope to the area wheregreenandred firefliescan be found.
+The sled is only useable in this instance; if a player attempts to ride the sled anywhere else, the chatbox will state"You cannot use that here!"
+
+
+[Infobox]
+Released: 9 December2020(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Bankable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Ride, Destroy
+Destroy: You can get another on the top of the slope in the caves below the Goblin Village.
+Examine: A goblin-made sled.
+General Store Value: 175 coins
+Alchemy: Not alchemisable
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Punch | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Kick | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

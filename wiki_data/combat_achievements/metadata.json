@@ -1,0 +1,4195 @@
+[
+  {
+    "name": "Aberrant Spectre",
+    "difficulty": "Noxious Foe",
+    "boss": "Kill an Aberrant Spectre.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Barrows",
+    "difficulty": "Barrows Novice",
+    "boss": "Open the Barrows chest 10 times.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Barrows",
+    "difficulty": "Defence? What Defence?",
+    "boss": "Kill any Barrows Brother using only magical damage.",
+    "description": "Restriction",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Black Dragon",
+    "difficulty": "Big, Black and Fiery",
+    "boss": "Kill a Black Dragon.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Bloodveld",
+    "difficulty": "The Demonic Punching Bag",
+    "boss": "Kill a Bloodveld.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Bryophyta",
+    "difficulty": "A Slow Death",
+    "boss": "Kill Bryophyta with either poison or venom being the final source of damage.",
+    "description": "Restriction",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Bryophyta",
+    "difficulty": "Preparation Is Key",
+    "boss": "Kill Bryophyta without suffering any poison damage.",
+    "description": "Perfection",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Bryophyta",
+    "difficulty": "Protection from Moss",
+    "boss": "Kill Bryophyta with the Protect from Magic prayer active.",
+    "description": "Mechanical",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Bryophyta",
+    "difficulty": "Fighting as Intended II",
+    "boss": "Kill Bryophyta on a free to play world.",
+    "description": "Restriction",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Bryophyta",
+    "difficulty": "Bryophyta Novice",
+    "boss": "Kill Bryophyta once.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Deranged Archaeologist",
+    "difficulty": "Deranged Archaeologist Novice",
+    "boss": "Kill the Deranged Archaeologist 10 times.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Fire Giant",
+    "difficulty": "The Walking Volcano",
+    "boss": "Kill a Fire Giant.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Giant Mole",
+    "difficulty": "Giant Mole Novice",
+    "boss": "Kill the Giant Mole 10 times.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Greater Demon",
+    "difficulty": "Not So Great After All",
+    "boss": "Finish off a Greater Demon with a demonbane weapon.",
+    "description": "Restriction",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Greater Demon",
+    "difficulty": "A Greater Foe",
+    "boss": "Kill a Greater Demon.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Hellhound",
+    "difficulty": "A Demon's Best Friend",
+    "boss": "Kill a Hellhound.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "King Black Dragon",
+    "difficulty": "King Black Dragon Novice",
+    "boss": "Kill the King Black Dragon 10 times.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Lizardman Shaman",
+    "difficulty": "A Scaley Encounter",
+    "boss": "Kill a Lizardman Shaman.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Lizardman Shaman",
+    "difficulty": "Shayzien Protector",
+    "boss": "Kill a Lizardman Shaman in Molch which has not dealt damage to anyone. (excluding its Spawns)",
+    "description": "Perfection",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "N/A",
+    "difficulty": "Into the Den of Giants",
+    "boss": "Kill a Hill Giant, Moss Giant and Fire Giant in the Giant Cave within the Shayzien region.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Obor",
+    "difficulty": "Fighting as Intended",
+    "boss": "Kill Obor on a free to play world.",
+    "description": "Restriction",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Obor",
+    "difficulty": "Obor Novice",
+    "boss": "Kill Obor once.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Obor",
+    "difficulty": "Sleeping Giant",
+    "boss": "Kill Obor whilst he is immobilized.",
+    "description": "Mechanical",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Royal Titans",
+    "difficulty": "One by one",
+    "boss": "Kill one Titan at a time, without attacking the other.",
+    "description": "Restriction",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Royal Titans",
+    "difficulty": "Let them fight",
+    "boss": "Kill the Royal Titans while having the Royal Titans kill a total of 10 elementals.",
+    "description": "Restriction",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Royal Titans",
+    "difficulty": "Elemental Company",
+    "boss": "Kill the Royal Titans without attacking any elementals.",
+    "description": "Restriction",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Sarachnis",
+    "difficulty": "Sarachnis Novice",
+    "boss": "Kill Sarachnis 10 times.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Scurrius",
+    "difficulty": "Sit Rat",
+    "boss": "Finish off Scurrius with a ratbane weapon in a private instance.",
+    "description": "Restriction",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Scurrius",
+    "difficulty": "Scurrius Novice",
+    "boss": "Kill Scurrius once.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Tempoross",
+    "difficulty": "Master of Buckets",
+    "boss": "Extinguish at least 5 fires during a single Tempoross fight.",
+    "description": "Mechanical",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Tempoross",
+    "difficulty": "Fire in the Hole!",
+    "boss": "Attack Tempoross from both sides by loading both cannons on both ships.",
+    "description": "Mechanical",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Tempoross",
+    "difficulty": "Tempoross Novice",
+    "boss": "Subdue Tempoross 5 times.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Tempoross",
+    "difficulty": "Calm Before the Storm",
+    "boss": "Repair either a mast or a totem pole.",
+    "description": "Mechanical",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Wintertodt",
+    "difficulty": "Handyman",
+    "boss": "Repair a brazier which has been destroyed by the Wintertodt.",
+    "description": "Mechanical",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Wintertodt",
+    "difficulty": "Cosy",
+    "boss": "Subdue the Wintertodt with four pieces of warm equipment equipped.",
+    "description": "Restriction",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Wintertodt",
+    "difficulty": "Mummy!",
+    "boss": "Heal a pyromancer after they have fallen.",
+    "description": "Mechanical",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Wintertodt",
+    "difficulty": "Wintertodt Novice",
+    "boss": "Subdue the Wintertodt 5 times.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Wyrm",
+    "difficulty": "A Slithery Encounter",
+    "boss": "Kill a Wyrm.",
+    "description": "Kill Count",
+    "notes": "Easy\u00a0(1\u00a0pt)"
+  },
+  {
+    "name": "Amoxliatl",
+    "difficulty": "Temotli Triumph",
+    "boss": "Kill Amoxliatl using only glacial temotli as a weapon.",
+    "description": "Restriction",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Amoxliatl",
+    "difficulty": "Amoxliatl Champion",
+    "boss": "Kill Amoxliatl once.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Barrows",
+    "difficulty": "Barrows Champion",
+    "boss": "Open the Barrows chest 25 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Barrows",
+    "difficulty": "Pray for Success",
+    "boss": "Kill all six Barrows Brothers and loot the Barrows chest without taking any damage from any of the brothers.",
+    "description": "Perfection",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Barrows",
+    "difficulty": "Can't Touch Me",
+    "boss": "Kill Dharok, Verac, Torag and Guthan without letting them attack you with melee.",
+    "description": "Mechanical",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Brutal Black Dragon",
+    "difficulty": "Brutal, Big, Black and Firey",
+    "boss": "Kill a Brutal Black Dragon.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Bryophyta",
+    "difficulty": "Bryophyta Champion",
+    "boss": "Kill Bryophyta 5 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Bryophyta",
+    "difficulty": "Quick Cutter",
+    "boss": "Kill all 3 of Bryophyta's growthlings within 3 seconds of the first one dying.",
+    "description": "Mechanical",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Chaos Fanatic",
+    "difficulty": "Chaos Fanatic Champion",
+    "boss": "Kill the Chaos Fanatic 10 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Chaos Fanatic",
+    "difficulty": "Sorry, What Was That?",
+    "boss": "Kill the Chaos Fanatic without anyone being hit by his explosion attack.",
+    "description": "Perfection",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Crazy Archaeologist",
+    "difficulty": "Mage of the Ruins",
+    "boss": "Kill the Crazy Archaeologist with only magical attacks.",
+    "description": "Mechanical",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Crazy Archaeologist",
+    "difficulty": "I'd Rather Not Learn",
+    "boss": "Kill the Crazy Archaeologist without anyone being hit by his \"Rain of Knowledge\" attack.",
+    "description": "Perfection",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Crazy Archaeologist",
+    "difficulty": "Crazy Archaeologist Champion",
+    "boss": "Kill the Crazy Archaeologist 10 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Prime",
+    "difficulty": "Dagannoth Prime Champion",
+    "boss": "Kill Dagannoth Prime 10 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Rex",
+    "difficulty": "A Frozen King",
+    "boss": "Kill Dagannoth Rex whilst he is immobilized.",
+    "description": "Mechanical",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Rex",
+    "difficulty": "Dagannoth Rex Champion",
+    "boss": "Kill Dagannoth Rex 10 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Supreme",
+    "difficulty": "Dagannoth Supreme Champion",
+    "boss": "Kill Dagannoth Supreme 10 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Deranged Archaeologist",
+    "difficulty": "Mage of the Swamp",
+    "boss": "Kill the Deranged Archaeologist with only magical attacks.",
+    "description": "Mechanical",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Deranged Archaeologist",
+    "difficulty": "I'd Rather Be Illiterate",
+    "boss": "Kill the Deranged Archaeologist without anyone being hit by his \"Learn to Read\" attack.",
+    "description": "Perfection",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Deranged Archaeologist",
+    "difficulty": "Deranged Archaeologist Champion",
+    "boss": "Kill the Deranged Archaeologist 25 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Gargoyle",
+    "difficulty": "A Smashing Time",
+    "boss": "Kill a Gargoyle.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Giant Mole",
+    "difficulty": "Avoiding Those Little Arms",
+    "boss": "Kill the Giant Mole without her damaging anyone.",
+    "description": "Perfection",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Giant Mole",
+    "difficulty": "Giant Mole Champion",
+    "boss": "Kill the Giant mole 25 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "King Black Dragon",
+    "difficulty": "King Black Dragon Champion",
+    "boss": "Kill the King Black Dragon 25 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "King Black Dragon",
+    "difficulty": "Claw Clipper",
+    "boss": "Kill the King Black Dragon with the Protect from Melee prayer activated.",
+    "description": "Mechanical",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "King Black Dragon",
+    "difficulty": "Hide Penetration",
+    "boss": "Kill the King Black Dragon with a stab weapon.",
+    "description": "Restriction",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "King Black Dragon",
+    "difficulty": "Antifire Protection",
+    "boss": "Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.",
+    "description": "Restriction",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Kurask",
+    "difficulty": "Master of Broad Weaponry",
+    "boss": "Kill a Kurask.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "Perilous Novice",
+    "boss": "Open the Reward Chest 5 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "Back to Our Roots",
+    "boss": "Defeat all three Moons in one run by only attacking with a Dragon Scimitar.",
+    "description": "Restriction",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "Moons of Peril Speed-Trialist",
+    "boss": "Defeat all three Moons in one run in under 8 minutes.",
+    "description": "Speed",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "Lunar Triplet",
+    "boss": "Open the Reward Chest after defeating all three Moons.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "N/A",
+    "difficulty": "Sit Back and Relax",
+    "boss": "Deal 100 damage to creatures using undead thralls.",
+    "description": "Mechanical",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Obor",
+    "difficulty": "Back to the Wall",
+    "boss": "Kill Obor without being pushed back more than one square by his knockback attack.",
+    "description": "Mechanical",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Obor",
+    "difficulty": "Obor Champion",
+    "boss": "Kill Obor 5 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Obor",
+    "difficulty": "Squashing the Giant",
+    "boss": "Kill Obor without taking any damage off prayer.",
+    "description": "Perfection",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Royal Titans",
+    "difficulty": "Royal Titan Champion",
+    "boss": "Kill the Royal Titans 10 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Royal Titans",
+    "difficulty": "Royal Titan Adept",
+    "boss": "Kill the Royal Titans 25 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Royal Titans",
+    "difficulty": "It takes too long",
+    "boss": "Kill both Royal Titans while they are charging up their area attack. Both titans must die during the same charging phase.",
+    "description": "Mechanical",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Sarachnis",
+    "difficulty": "Newspaper Enthusiast",
+    "boss": "Kill Sarachnis with a crush weapon.",
+    "description": "Restriction",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Sarachnis",
+    "difficulty": "Sarachnis Champion",
+    "boss": "Kill Sarachnis 25 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Scurrius",
+    "difficulty": "Scurrius Champion",
+    "boss": "Kill Scurrius 10 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Scurrius",
+    "difficulty": "Perfect Scurrius",
+    "boss": "Kill Scurrius in a private instance without taking damage from the following attacks: Tail Swipe and Falling Bricks. Pray correctly against the following attacks: Flying Fur and Bolts of Electricity.",
+    "description": "Perfection",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Scurrius",
+    "difficulty": "Efficient Pest Control",
+    "boss": "Kill 6 Giant Rats within Scurrius' lair in 3 seconds.",
+    "description": "Mechanical",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Skeletal Wyvern",
+    "difficulty": "A Frozen Foe from the Past",
+    "boss": "Kill a Skeletal Wyvern",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Skotizo",
+    "difficulty": "Demonic Weakening",
+    "boss": "Kill Skotizo with no altars active.",
+    "description": "Mechanical",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Skotizo",
+    "difficulty": "Demonbane Weaponry",
+    "boss": "Kill Skotizo with a demonbane weapon equipped.",
+    "description": "Restriction",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Skotizo",
+    "difficulty": "Skotizo Champion",
+    "boss": "Kill Skotizo once.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Tempoross",
+    "difficulty": "The Lone Angler",
+    "boss": "Subdue Tempoross alone without getting hit by any fires, torrents or waves.",
+    "description": "Perfection",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Tempoross",
+    "difficulty": "Tempoross Champion",
+    "boss": "Subdue Tempoross 10 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "The Hueycoatl",
+    "difficulty": "You're a wizard",
+    "boss": "Kill the Hueycoatl using only earth spells.",
+    "description": "Restriction",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "The Hueycoatl",
+    "difficulty": "Hueycoatl Champion",
+    "boss": "Kill the Hueycoatl once.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Wintertodt",
+    "difficulty": "Can We Fix It?",
+    "boss": "Subdue the Wintertodt without allowing all 4 braziers to be broken at the same time.",
+    "description": "Perfection",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Wintertodt",
+    "difficulty": "Leaving No One Behind",
+    "boss": "Subdue the Wintertodt without any of the Pyromancers falling.",
+    "description": "Restriction",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Wintertodt",
+    "difficulty": "Wintertodt Champion",
+    "boss": "Subdue the Wintertodt 10 times.",
+    "description": "Kill Count",
+    "notes": "Medium\u00a0(2\u00a0pts)"
+  },
+  {
+    "name": "Abyssal Sire",
+    "difficulty": "Don't Stop Moving",
+    "boss": "Kill the Abyssal Sire without taking damage from any miasma pools.",
+    "description": "Perfection",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Abyssal Sire",
+    "difficulty": "Abyssal Adept",
+    "boss": "Kill the Abyssal Sire 20 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Abyssal Sire",
+    "difficulty": "Don't Whip Me",
+    "boss": "Kill the Abyssal Sire without being hit by any external tentacles.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Abyssal Sire",
+    "difficulty": "They Grow Up Too Fast",
+    "boss": "Kill the Abyssal Sire without letting any Scion mature.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Amoxliatl",
+    "difficulty": "Amoxliatl Speed-Trialist",
+    "boss": "Kill Amoxliatl in less than 1 minute.",
+    "description": "Speed",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Amoxliatl",
+    "difficulty": "Amoxliatl Adept",
+    "boss": "Kill Amoxliatl 20 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Amoxliatl",
+    "difficulty": "Totally Shattered",
+    "boss": "Kill Amoxliatl without any of her unstable ice shattering.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Amoxliatl",
+    "difficulty": "Kemo Makti",
+    "boss": "Kill Amoxliatl 10 times without leaving her chamber.",
+    "description": "Stamina",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Amoxliatl",
+    "difficulty": "Nagua Negation",
+    "boss": "Kill Amoxliatl without taking any damage.",
+    "description": "Perfection",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Barrows",
+    "difficulty": "Faithless Crypt Run",
+    "boss": "Kill all six Barrows Brothers and loot the Barrows chest without ever having more than 0 prayer points.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Barrows",
+    "difficulty": "Just Like That",
+    "boss": "Kill Karil using only damage dealt by special attacks.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Callisto",
+    "difficulty": "Callisto Adept",
+    "boss": "Kill Callisto 10 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Chaos Elemental",
+    "difficulty": "Hoarder",
+    "boss": "Kill the Chaos Elemental without it unequipping any of your items.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Chaos Elemental",
+    "difficulty": "Chaos Elemental Adept",
+    "boss": "Kill the Chaos Elemental 10 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Chaos Elemental",
+    "difficulty": "The Flincher",
+    "boss": "Kill the Chaos Elemental without taking any damage from its attacks.",
+    "description": "Perfection",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Chaos Fanatic",
+    "difficulty": "Praying to the Gods",
+    "boss": "Kill the Chaos Fanatic 10 times without drinking any potion which restores prayer or leaving the Wilderness.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Chaos Fanatic",
+    "difficulty": "Chaos Fanatic Adept",
+    "boss": "Kill the Chaos Fanatic 25 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Commander Zilyana",
+    "difficulty": "Commander Zilyana Adept",
+    "boss": "Kill Commander Zilyana 50 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Commander Zilyana",
+    "difficulty": "Commander Showdown",
+    "boss": "Finish off Commander Zilyana while all of her bodyguards are dead.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Crazy Archaeologist",
+    "difficulty": "Crazy Archaeologist Adept",
+    "boss": "Kill the Crazy Archaeologist 25 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Prime",
+    "difficulty": "Dagannoth Prime Adept",
+    "boss": "Kill Dagannoth Prime 25 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Rex",
+    "difficulty": "Dagannoth Rex Adept",
+    "boss": "Kill Dagannoth Rex 25 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Supreme",
+    "difficulty": "Dagannoth Supreme Adept",
+    "boss": "Kill Dagannoth Supreme 25 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "General Graardor",
+    "difficulty": "General Showdown",
+    "boss": "Finish off General Graardor whilst all of his bodyguards are dead.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "General Graardor",
+    "difficulty": "General Graardor Adept",
+    "boss": "Kill General Graardor 50 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "General Graardor",
+    "difficulty": "Ourg Freezer",
+    "boss": "Kill General Graardor whilst he is immobilized.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Giant Mole",
+    "difficulty": "Whack-a-Mole",
+    "boss": "Kill the Giant Mole within 10 seconds of her resurfacing.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Giant Mole",
+    "difficulty": "Why Are You Running?",
+    "boss": "Kill the Giant Mole without her burrowing more than 2 times.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Prison Break",
+    "boss": "Kill the Grotesque Guardians without taking damage from Dusk's prison attack.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Grotesque Guardians Adept",
+    "boss": "Kill the Grotesque Guardians 25 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Don't Look at the Eclipse",
+    "boss": "Kill the Grotesque Guardians without taking damage from Dusk's blinding attack.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Granite Footwork",
+    "boss": "Kill the Grotesque Guardians without taking damage from Dawn's rockfall attack.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Static Awareness",
+    "boss": "Kill the Grotesque Guardians without being hit by any lightning attacks.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Heal No More",
+    "boss": "Kill the Grotesque Guardians without letting Dawn receive any healing from her orbs.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Hespori",
+    "difficulty": "Hesporisn't",
+    "boss": "Finish off Hespori with a special attack.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Hespori",
+    "difficulty": "Weed Whacker",
+    "boss": "Kill all of Hesporis flowers within 5 seconds.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Hespori",
+    "difficulty": "Hespori Adept",
+    "boss": "Kill Hespori 5 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "K'ril Tsutsaroth",
+    "difficulty": "K'ril Tsutsaroth Adept",
+    "boss": "Kill K'ril Tsutsaroth 50 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "K'ril Tsutsaroth",
+    "difficulty": "Yarr No More",
+    "boss": "Receive kill-credit for K'ril Tsutsaroth without him using his special attack.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "K'ril Tsutsaroth",
+    "difficulty": "Demonic Showdown",
+    "boss": "Finish off K'ril Tsutsaroth whilst all of his bodyguards are dead.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "K'ril Tsutsaroth",
+    "difficulty": "Demonbane Weaponry II",
+    "boss": "Finish off K'ril Tsutsaroth with a demonbane weapon.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Kalphite Queen",
+    "difficulty": "Kalphite Queen Adept",
+    "boss": "Kill the Kalphite Queen 25 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Kalphite Queen",
+    "difficulty": "Chitin Penetrator",
+    "boss": "Kill the Kalphite Queen while her defence was last lowered by you.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "King Black Dragon",
+    "difficulty": "Who Is the King Now?",
+    "boss": "Kill The King Black Dragon 10 times in a private instance without leaving the instance.",
+    "description": "Stamina",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Kraken",
+    "difficulty": "Krakan't Hurt Me",
+    "boss": "Kill the Kraken 25 times in a private instance without leaving the room.",
+    "description": "Stamina",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Kraken",
+    "difficulty": "Kraken Adept",
+    "boss": "Kill the Kraken 20 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Kraken",
+    "difficulty": "Unnecessary Optimisation",
+    "boss": "Kill the Kraken after killing all four tentacles.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Kree'arra",
+    "difficulty": "Airborne Showdown",
+    "boss": "Finish off Kree'arra whilst all of his bodyguards are dead.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Kree'arra",
+    "difficulty": "Kree'arra Adept",
+    "boss": "Kill Kree'arra 50 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "Fortified",
+    "boss": "Defeat a Moon without consuming any supplies.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "Perilous Dancer",
+    "boss": "Defeat all the Moons in one run while only taking damage from regular attacks.",
+    "description": "Perfection",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "Fat of the Land",
+    "boss": "Defeat 30 Moons of Peril bosses without leaving the dungeon.",
+    "description": "Stamina",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "Betrayal",
+    "boss": "Defeat a Moon using its associated weapon drop.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "The Clone Zone",
+    "boss": "Defeat the Eclipse moon by only attacking its clones.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "Moons of Peril Speed-Chaser",
+    "boss": "Defeat all three Moons in one run in under 6 minutes.",
+    "description": "Speed",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "Perilous Champion",
+    "boss": "Open the Reward Chest 25 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Phantom Muspah Adept",
+    "boss": "Kill the Phantom Muspah.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Royal Titans",
+    "difficulty": "I need room",
+    "boss": "Kill the Royal Titans while extinguishing all fires and melting all icicles before they dissipate naturally.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Royal Titans",
+    "difficulty": "Royal Titan Speed-Runner",
+    "boss": "Kill the Royal Titans in less than 1:30 minutes.",
+    "description": "Speed",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Royal Titans",
+    "difficulty": "Perfect Royal Titans",
+    "boss": "Kill the Royal Titans without getting hit by any avoidable damage. This includes: Melee attacks, Explosions from the ice or fire elemental, Icicle or fire spawn damage, and Ice or fire pulse attacks.",
+    "description": "Perfection",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Royal Titans",
+    "difficulty": "Titan Killer",
+    "boss": "Kill the Royal Titans 15 times without anyone leaving the instance. If a player joins the fight, the current streak will be reset to 0. If a player leaves the fight, the task will be failed and a new instance will need to be created.",
+    "description": "Stamina",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Sarachnis",
+    "difficulty": "Ready to Pounce",
+    "boss": "Kill Sarachnis without her using her range attack twice in a row.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Sarachnis",
+    "difficulty": "Inspect Repellent",
+    "boss": "Kill Sarachnis without her dealing damage to anyone.",
+    "description": "Perfection",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Scorpia",
+    "difficulty": "Scorpia Adept",
+    "boss": "Kill Scorpia 10 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Scorpia",
+    "difficulty": "Guardians No More",
+    "boss": "Kill Scorpia without killing her guardians.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Scorpia",
+    "difficulty": "I Can't Reach That",
+    "boss": "Kill Scorpia without taking any damage from her.",
+    "description": "Perfection",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Skotizo",
+    "difficulty": "Skotizo Adept",
+    "boss": "Kill Skotizo 5 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Tempoross",
+    "difficulty": "Why Cook?",
+    "boss": "Subdue Tempoross, getting rewarded with 10 reward permits from a single Tempoross fight.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Tempoross",
+    "difficulty": "Dress Like You Mean It",
+    "boss": "Subdue Tempoross while wearing any variation of the angler outfit.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "The Hueycoatl",
+    "difficulty": "Pillar Lover",
+    "boss": "Kill the Hueycoatl whilst it is vulnerable.",
+    "description": "Mechanical",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "The Hueycoatl",
+    "difficulty": "I'm your son",
+    "boss": "Kill the Hueycoatl whilst wearing two pieces of Hueycoatl armour.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "The Hueycoatl",
+    "difficulty": "Hueycoatl Adept",
+    "boss": "Kill the Hueycoatl 10 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Nightmare Adept",
+    "boss": "Kill The Nightmare once.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "Theatre of Blood: SM Adept",
+    "boss": "Complete the Theatre of Blood: Entry Mode 1 time.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Entry Mode",
+    "difficulty": "Novice Tomb Explorer",
+    "boss": "Complete the Tombs of Amascut in Entry mode (or above) once.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Entry Mode",
+    "difficulty": "Movin' on up",
+    "boss": "Complete a Tombs of Amascut raid at level 50 or above.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Entry Mode",
+    "difficulty": "Confident Raider",
+    "boss": "Complete a Tombs of Amascut raid at level 100 or above.",
+    "description": "Restriction",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Entry Mode",
+    "difficulty": "Novice Tomb Looter",
+    "boss": "Complete the Tombs of Amascut in Entry mode (or above) 25 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Venenatis",
+    "difficulty": "Venenatis Adept",
+    "boss": "Kill Venenatis 10 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Vet'ion",
+    "difficulty": "Vet'ion Adept",
+    "boss": "Kill Vet'ion 10 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Wintertodt",
+    "difficulty": "Why Fletch?",
+    "boss": "Subdue the Wintertodt after earning 3000 or more points.",
+    "description": "Stamina",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Zulrah",
+    "difficulty": "Zulrah Adept",
+    "boss": "Kill Zulrah 25 times.",
+    "description": "Kill Count",
+    "notes": "Hard\u00a0(3\u00a0pts)"
+  },
+  {
+    "name": "Abyssal Sire",
+    "difficulty": "Demonic Rebound",
+    "boss": "Use the Vengeance spell to reflect the damage from the Abyssal Sire's explosion back to him.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Abyssal Sire",
+    "difficulty": "Perfect Sire",
+    "boss": "Kill the Abyssal Sire without taking damage from the external tentacles, miasma pools, explosion or damage from the Abyssal Sire without praying the appropriate protection prayer.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Abyssal Sire",
+    "difficulty": "Abyssal Veteran",
+    "boss": "Kill the Abyssal Sire 50 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Abyssal Sire",
+    "difficulty": "Respiratory Runner",
+    "boss": "Kill the Abyssal Sire after only stunning him once.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "Alchemical Veteran",
+    "boss": "Kill the Alchemical Hydra 75 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Amoxliatl",
+    "difficulty": "Without Ralos' Light",
+    "boss": "Kill Amoxliatl without losing any prayer points.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Amoxliatl",
+    "difficulty": "Amoxliatl Speed-Chaser",
+    "boss": "Kill Amoxliatl in less than 30 seconds.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Relaxxor",
+    "boss": "Kill Araxxor after destroying six eggs.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Araxxor Veteran",
+    "boss": "Kill Araxxor 25 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Araxxor Speed-Trialist",
+    "boss": "Kill Araxxor 4 times in 10:00.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Basilisk Knight",
+    "difficulty": "Reflecting on This Encounter",
+    "boss": "Kill a Basilisk Knight.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Callisto",
+    "difficulty": "Callisto Veteran",
+    "boss": "Kill Callisto 20 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Cerberus",
+    "difficulty": "Cerberus Veteran",
+    "boss": "Kill Cerberus 75 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Cerberus",
+    "difficulty": "Ghost Buster",
+    "boss": "Kill Cerberus after successfully negating 6 or more attacks from Summoned Souls.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Cerberus",
+    "difficulty": "Anti-Bite Mechanics",
+    "boss": "Kill Cerberus without taking any melee damage.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Cerberus",
+    "difficulty": "Unrequired Antifire",
+    "boss": "Kill Cerberus without taking damage from any lava pools.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Perfectly Balanced",
+    "boss": "Kill the Vanguards without them resetting their health.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Kill It with Fire",
+    "boss": "Finish off the Ice Demon with a fire spell.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Cryo No More",
+    "boss": "Receive kill-credit for the Ice Demon without taking any damage.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Blizzard Dodger",
+    "boss": "Receive kill-credit for the Ice Demon without activating the Protect from Range prayer.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Mutta-diet",
+    "boss": "Kill the Muttadile without letting her or her baby recover hitpoints from the meat tree.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Undying Raid Team",
+    "boss": "Complete a Chambers of Xeric raid without anyone dying.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Together We'll Fall",
+    "boss": "Kill the Vanguards within 10 seconds of the first one dying.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Shayzien Specialist",
+    "boss": "Receive kill-credit for a Lizardman Shaman without taking damage from any shamans in the room.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Chambers of Xeric Veteran",
+    "boss": "Complete the Chambers of Xeric 25 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Dancing with Statues",
+    "boss": "Receive kill-credit for a Stone Guardian without taking damage from falling rocks.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Redemption Enthusiast",
+    "boss": "Kill the Abyssal Portal without forcing Vespula to land.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric: Challenge Mode",
+    "difficulty": "Dust Seeker",
+    "boss": "Complete a Chambers of Xeric Challenge mode raid in the target time.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Chaos Elemental",
+    "difficulty": "Chaos Elemental Veteran",
+    "boss": "Kill the Chaos Elemental 25 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Commander Zilyana",
+    "difficulty": "Commander Zilyana Veteran",
+    "boss": "Kill Commander Zilyana 100 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Commander Zilyana",
+    "difficulty": "Reminisce",
+    "boss": "Kill Commander Zilyana in a private instance with melee only.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Corporeal Beast",
+    "difficulty": "Finding the Weak Spot",
+    "boss": "Finish off the Corporeal Beast with a Crystal Halberd special attack.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Corporeal Beast",
+    "difficulty": "Corporeal Beast Veteran",
+    "boss": "Kill the Corporeal Beast 25 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Corporeal Beast",
+    "difficulty": "Chicken Killer",
+    "boss": "Kill the Corporeal Beast solo.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Corporeal Beast",
+    "difficulty": "Hot on Your Feet",
+    "boss": "Kill the Corporeal Beast without anyone killing the dark core or taking damage from the dark core.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "difficulty": "Corrupted Gauntlet Veteran",
+    "boss": "Complete the Corrupted Gauntlet 5 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "difficulty": "3, 2, 1 - Mage",
+    "boss": "Kill the Corrupted Hunllef without taking damage off prayer.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Crystalline Hunllef",
+    "difficulty": "Gauntlet Veteran",
+    "boss": "Complete the Gauntlet 5 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Crystalline Hunllef",
+    "difficulty": "Egniol Diet",
+    "boss": "Kill the Crystalline Hunllef without making an egniol potion within the Gauntlet.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Crystalline Hunllef",
+    "difficulty": "Wolf Puncher",
+    "boss": "Kill the Crystalline Hunllef without making more than one attuned weapon.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Crystalline Hunllef",
+    "difficulty": "Crystalline Warrior",
+    "boss": "Kill the Crystalline Hunllef with a full set of perfected armour equipped.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Crystalline Hunllef",
+    "difficulty": "3, 2, 1 - Range",
+    "boss": "Kill the Crystalline Hunllef without taking damage off prayer.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Prime",
+    "difficulty": "Death to the Seer King",
+    "boss": "Kill Dagannoth Prime whilst under attack by Dagannoth Supreme and Dagannoth Rex.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Prime",
+    "difficulty": "From One King to Another",
+    "boss": "Kill Prime using a Rune Thrownaxe special attack, bounced off Dagannoth Rex.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Rex",
+    "difficulty": "Death to the Warrior King",
+    "boss": "Kill Dagannoth Rex whilst under attack by Dagannoth Supreme and Dagannoth Prime.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Rex",
+    "difficulty": "Toppling the Diarchy",
+    "boss": "Kill Dagannoth Rex and one other Dagannoth king at the exact same time.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Supreme",
+    "difficulty": "Rapid Succession",
+    "boss": "Kill all three Dagannoth Kings within 9 seconds of the first one.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Dagannoth Supreme",
+    "difficulty": "Death to the Archer King",
+    "boss": "Kill Dagannoth Supreme whilst under attack by Dagannoth Prime and Dagannoth Rex.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Demonic Gorilla",
+    "difficulty": "If Gorillas Could Fly",
+    "boss": "Kill a Demonic Gorilla.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Demonic Gorilla",
+    "difficulty": "Hitting Them Where It Hurts",
+    "boss": "Finish off a Demonic Gorilla with a demonbane weapon.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Duke Sucellus",
+    "difficulty": "Duke Sucellus Speed-Trialist",
+    "boss": "Kill Duke Sucellus in less than 1:45 minutes without a slayer task.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Duke Sucellus",
+    "difficulty": "Duke Sucellus Adept",
+    "boss": "Kill Duke Sucellus once.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "Furball",
+    "boss": "Complete Wave 4 without taking avoidable damage from a Manticore.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "Denied",
+    "boss": "Complete Wave 7 without the Minotaur ever healing other enemies.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "I was here first!",
+    "boss": "Kill a Jaguar Warrior using a Claw-type weapon special attack.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Fragment of Seren",
+    "difficulty": "Fragment of Seren Speed-Trialist",
+    "boss": "Kill The Fragment of Seren in less than 4 minutes.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Galvek",
+    "difficulty": "Galvek Speed-Trialist",
+    "boss": "Kill Galvek in less than 3 minutes.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "General Graardor",
+    "difficulty": "Ourg Freezer II",
+    "boss": "Kill General Graardor without him attacking any players.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "General Graardor",
+    "difficulty": "General Graardor Veteran",
+    "boss": "Kill General Graardor 100 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Giant Mole",
+    "difficulty": "Hard Hitter",
+    "boss": "Kill the Giant Mole with 4 or fewer instances of damage.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Glough",
+    "difficulty": "Glough Speed-Trialist",
+    "boss": "Kill Glough in less than 2 minutes and 30 seconds.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Done before Dusk",
+    "boss": "Kill the Grotesque Guardians before Dusk uses his prison attack for a second time.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "From Dusk...",
+    "boss": "Kill the Grotesque Guardians 10 times without leaving the instance.",
+    "description": "Stamina",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Perfect Grotesque Guardians",
+    "boss": "Kill the Grotesque Guardians whilst completing the \"Don't look at the eclipse\", \"Prison Break\", \"Granite Footwork\", \"Heal no more\", \"Static Awareness\" and \"Done before dusk\" tasks.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Grotesque Guardians Speed-Trialist",
+    "boss": "Kill the Grotesque Guardians in less than 2 minutes.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Grotesque Guardians Veteran",
+    "boss": "Kill the Grotesque Guardians 50 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Hespori",
+    "difficulty": "Hespori Speed-Trialist",
+    "boss": "Kill the Hespori in less than 48 seconds.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Hespori",
+    "difficulty": "Plant-Based Diet",
+    "boss": "Kill Hespori without losing any prayer points.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "K'ril Tsutsaroth",
+    "difficulty": "K'ril Tsutsaroth Veteran",
+    "boss": "Kill K'ril Tsutsaroth 100 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "K'ril Tsutsaroth",
+    "difficulty": "The Bane of Demons",
+    "boss": "Defeat K'ril Tsutsaroth in a private instance using only demonbane spells.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "K'ril Tsutsaroth",
+    "difficulty": "Demonic Defence",
+    "boss": "Kill K'ril Tsutsaroth in a private instance without taking any of his melee hits.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Kalphite Queen",
+    "difficulty": "Insect Deflection",
+    "boss": "Kill the Kalphite Queen by using the Vengeance spell as the finishing blow.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Kalphite Queen",
+    "difficulty": "Prayer Smasher",
+    "boss": "Kill the Kalphite Queen using only the Verac's Flail as a weapon.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Kalphite Queen",
+    "difficulty": "Kalphite Queen Veteran",
+    "boss": "Kill the Kalphite Queen 50 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Kraken",
+    "difficulty": "Ten-tacles",
+    "boss": "Kill the Kraken 50 times in a private instance without leaving the room.",
+    "description": "Stamina",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Kree'arra",
+    "difficulty": "Kree'arra Veteran",
+    "boss": "Kill Kree'arra 100 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Leviathan",
+    "difficulty": "Leviathan Adept",
+    "boss": "Kill the Leviathan once.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Leviathan",
+    "difficulty": "Leviathan Speed-Trialist",
+    "boss": "Kill the Leviathan in less than 1:50 without a slayer task.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Moons of Peril",
+    "difficulty": "High Hitter",
+    "boss": "Defeat a Moon before they start their second special attack.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Nex",
+    "difficulty": "Nex Survivors",
+    "boss": "Kill Nex without anyone dying.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Nex",
+    "difficulty": "Nex Veteran",
+    "boss": "Kill Nex once.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Phantom Muspah Veteran",
+    "boss": "Kill the Phantom Muspah 25 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Can't Escape",
+    "boss": "Kill the Phantom Muspah without running.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Versatile Drainer",
+    "boss": "Drain the Phantom Muspah's Prayer with three different sources in one kill.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Phantom Muspah Speed-Trialist",
+    "boss": "Kill the Phantom Muspah in less than 3 minutes without a slayer task.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Phosani's Nightmare",
+    "difficulty": "Phosani's Veteran",
+    "boss": "Kill Phosani's Nightmare once.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Royal Titans",
+    "difficulty": "No time to pray",
+    "boss": "Kill the Royal Titans without losing any prayer points.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Scorpia",
+    "difficulty": "Scorpia Veteran",
+    "boss": "Kill Scorpia 25 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Skotizo",
+    "difficulty": "Demon Evasion",
+    "boss": "Kill Skotizo without taking any damage.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Skotizo",
+    "difficulty": "Up for the Challenge",
+    "boss": "Kill Skotizo without equipping a demonbane weapon.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "The Hueycoatl",
+    "difficulty": "Hueycoatl Veteran",
+    "boss": "Kill the Hueycoatl 25 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "The Hueycoatl",
+    "difficulty": "Hueycoatl Speed-Trialist",
+    "boss": "Kill the Hueycoatl in 2:30",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "The Hueycoatl",
+    "difficulty": "Perfect Hueycoatl",
+    "boss": "Kill the Hueycoatl perfectly 5 times without leaving. To get a perfect kill, you must not take any avoidable damage from the Hueycoatl's lightning attack, tail slam attack or off-prayer projectile attacks.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "The Mimic",
+    "difficulty": "Mimic Veteran",
+    "boss": "Kill the Mimic once.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Nightmare Veteran",
+    "boss": "Kill The Nightmare 25 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Nightmare (Solo) Speed-Trialist",
+    "boss": "Defeat the Nightmare (Solo) in less than 23 minutes.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Sleep Tight",
+    "boss": "Kill the Nightmare solo.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Nightmare (5-Scale) Speed-Trialist",
+    "boss": "Defeat the Nightmare (5-scale) in less than 5 minutes.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Explosion!",
+    "boss": "Kill two Husks at the same time.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Theatre of Blood Veteran",
+    "boss": "Complete the Theatre of Blood 25 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "Nylocas, On the Rocks",
+    "boss": "In the Theatre of Blood: Entry Mode, freeze any 4 Nylocas with a single Ice Barrage spell.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "Appropriate Tools",
+    "boss": "Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode with everyone having a salve amulet equipped.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "Pass It On",
+    "boss": "In the Theatre of Blood: Entry Mode, successfully pass on the green ball to a team mate.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "Attack, Step, Wait",
+    "boss": "Survive Verzik Vitur's second phase in the Theatre of Blood: Entry Mode without anyone getting bounced by Verzik.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "They Won't Expect This",
+    "boss": "In the Theatre of Blood: Entry Mode, enter the Pestilent Bloat room from the opposite side.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "Chally Time",
+    "boss": "Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode by using a crystal halberd special attack as your final attack.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "No-Pillar",
+    "boss": "Survive Verzik Vitur's pillar phase in the Theatre of Blood: Entry Mode without losing a single pillar.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "Anticoagulants",
+    "boss": "Defeat the Maiden of Sugadinti in the Theatre of Blood: Entry Mode without letting any bloodspawn live for longer than 10 seconds.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "Don't Look at Me!",
+    "boss": "Kill Xarpus in the Theatre of Blood: Entry Mode without him reflecting any damage to anyone.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "Just To Be Safe",
+    "boss": "Defeat Sotetseg in the Theatre of Blood: Entry Mode after having split the big ball with your entire team. This must be done with a group size of at least 2.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Thermonuclear Smoke Devil",
+    "difficulty": "Spec'd Out",
+    "boss": "Kill the Thermonuclear Smoke Devil using only special attacks.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Thermonuclear Smoke Devil",
+    "difficulty": "Thermonuclear Veteran",
+    "boss": "Kill the Thermonuclear Smoke Devil 20 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Thermonuclear Smoke Devil",
+    "difficulty": "Hazard Prevention",
+    "boss": "Kill the Thermonuclear Smoke Devil without it hitting anyone.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Dropped the ball",
+    "boss": "Defeat Akkha without dropping any materialising orbs and without dying yourself.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Tomb Explorer",
+    "boss": "Complete the Tombs of Amascut once.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Down Do Specs",
+    "boss": "Defeat the Wardens after staggering the boss a maximum of twice during phase two, without dying yourself.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Perfect Crondis",
+    "boss": "Complete the Crondis room without letting a crocodile get to the tree, without anyone losing water from their container and in under one minute.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Hardcore Tombs",
+    "boss": "Complete the Tombs of Amascut solo without dying.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Hardcore Raiders",
+    "boss": "Complete the Tombs of Amascut in a group of two or more without anyone dying.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "No skipping allowed",
+    "boss": "Defeat Ba-Ba after only attacking the non-weakened boulders in the rolling boulder phase, without dying yourself. The Boulderdash invocation must be activated.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Perfect Apmeken",
+    "boss": "Complete the Apmeken room in a group of two or more, without anyone allowing any dangers to trigger, standing in venom or being hit by a volatile baboon. You must complete this room in less than three minutes.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Perfect Het",
+    "boss": "Complete the Het room without taking any damage from the light beam and orbs. You must destroy the core after one exposure.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Helpful spirit who?",
+    "boss": "Complete the Tombs of Amascut without using any supplies from the Helpful Spirit and without anyone dying. Honey locusts are included in this restriction.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "I'm in a rush",
+    "boss": "Defeat Ba-Ba after destroying four or fewer rolling boulders in total without dying yourself.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Entry Mode",
+    "difficulty": "Novice Tomb Raider",
+    "boss": "Complete the Tombs of Amascut in Entry mode (or above) 50 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Expert Tomb Explorer",
+    "boss": "Complete the Tombs of Amascut (Expert mode) once.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tormented Demon",
+    "difficulty": "Two Times the Torment",
+    "boss": "Kill two Tormented Demons within 2 seconds.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tormented Demon",
+    "difficulty": "Through Fire and Flames",
+    "boss": "Kill a Tormented Demon whilst their shield is inactive.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tormented Demon",
+    "difficulty": "Unending Torment",
+    "boss": "Kill a Tormented Demon.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Tormented Demon",
+    "difficulty": "Rapid Reload",
+    "boss": "Hit three Tormented Demons within 3 seconds using a ballista or a crossbow.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "TzHaar-Ket-Rak's Challenges",
+    "difficulty": "Facing Jad Head-on III",
+    "boss": "Complete TzHaar-Ket-Rak's second challenge with only melee.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "TzHaar-Ket-Rak's Challenges",
+    "difficulty": "TzHaar-Ket-Rak's Speed-Trialist",
+    "boss": "Complete TzHaar-Ket-Rak's first challenge in less than 45 seconds.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "TzHaar-Ket-Rak's Challenges",
+    "difficulty": "The II Jad Challenge",
+    "boss": "Complete TzHaar-Ket-Rak's second challenge.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "Half-Way There",
+    "boss": "Kill a Jal-Zek within the Inferno.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "TzTok-Jad",
+    "difficulty": "A Near Miss!",
+    "boss": "Complete the Fight Caves after surviving a hit from TzTok-Jad without praying.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "TzTok-Jad",
+    "difficulty": "Fight Caves Veteran",
+    "boss": "Complete the Fight Caves once.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "TzTok-Jad",
+    "difficulty": "Facing Jad Head-on",
+    "boss": "Complete the Fight Caves with only melee.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Vardorvis",
+    "difficulty": "Vardorvis Speed-Trialist",
+    "boss": "Kill Vardorvis in less than 1:15 minutes without a slayer task.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Vardorvis",
+    "difficulty": "Vardorvis Adept",
+    "boss": "Kill Vardorvis once.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Venenatis",
+    "difficulty": "Venenatis Veteran",
+    "boss": "Kill Venenatis 20 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Vet'ion",
+    "difficulty": "Vet'eran",
+    "boss": "Kill Vet'ion 20 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Vorkath",
+    "difficulty": "Vorkath Veteran",
+    "boss": "Kill Vorkath 50 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Vorkath",
+    "difficulty": "Zombie Destroyer",
+    "boss": "Kill Vorkath's zombified spawn without using crumble undead.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Vorkath",
+    "difficulty": "Stick 'em With the Pointy End",
+    "boss": "Kill Vorkath using melee weapons only.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Whisperer",
+    "difficulty": "Whisperer Speed-Trialist",
+    "boss": "Kill the Whisperer in less than 3:00 without a slayer task.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Whisperer",
+    "difficulty": "Whisperer Adept",
+    "boss": "Kill the Whisperer once.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Whisperer",
+    "difficulty": "Tentacular",
+    "boss": "Kill the Whisperer whilst only being on the Arceuus spellbook.",
+    "description": "Restriction",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Zalcano",
+    "difficulty": "Team Player",
+    "boss": "Receive imbued tephra from a golem.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Zalcano",
+    "difficulty": "Zalcano Veteran",
+    "boss": "Kill Zalcano 25 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Zalcano",
+    "difficulty": "Perfect Zalcano",
+    "boss": "Kill Zalcano 5 times in a row without leaving or getting hit by the following: Falling rocks, rock explosions, Zalcano powering up, or standing in a red symbol.",
+    "description": "Perfection",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Zalcano",
+    "difficulty": "The Spurned Hero",
+    "boss": "Kill Zalcano as the player who has dealt the most damage to her.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Zulrah",
+    "difficulty": "Snake Rebound",
+    "boss": "Kill Zulrah by using the Vengeance spell as the finishing blow.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Zulrah",
+    "difficulty": "Snake. Snake!? Snaaaaaake!",
+    "boss": "Kill 3 Snakelings simultaneously.",
+    "description": "Mechanical",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Zulrah",
+    "difficulty": "Zulrah Veteran",
+    "boss": "Kill Zulrah 75 times.",
+    "description": "Kill Count",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Zulrah",
+    "difficulty": "Zulrah Speed-Trialist",
+    "boss": "Kill Zulrah in less than 1 minute 20 seconds, without a slayer task.",
+    "description": "Speed",
+    "notes": "Elite\u00a0(4\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "Alcleanical Hydra",
+    "boss": "Kill the Alchemical Hydra without taking any damage.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "Unrequired Antipoisons",
+    "boss": "Kill the Alchemical Hydra without being hit by the acid pool attack.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "Don't Flame Me",
+    "boss": "Kill the Alchemical Hydra without being hit by the flame wall attack.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "Lightning Lure",
+    "boss": "Kill the Alchemical Hydra without being hit by the lightning attack.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "Mixing Correctly",
+    "boss": "Kill the Alchemical Hydra without empowering it.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "The Flame Skipper",
+    "boss": "Kill the Alchemical Hydra without letting it spawn a flame wall attack.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "Working Overtime",
+    "boss": "Kill the Alchemical Hydra 15 times without leaving the room.",
+    "description": "Stamina",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "Alchemical Speed-Chaser",
+    "boss": "Kill the Alchemical Hydra in less than 1 minute 45 seconds.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "Alchemical Master",
+    "boss": "Kill the Alchemical Hydra 150 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Araxyte Betrayal",
+    "boss": "Have an Araxyte kill three other Araxytes.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Let it seep in",
+    "boss": "Kill Araxxor without ever having venom or poison immunity.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Araxxor Speed-Chaser",
+    "boss": "Kill Araxxor 5 times in 10:00.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Arachnid Lover",
+    "boss": "Kill Araxxor 10 times without leaving.",
+    "description": "Stamina",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Araxxor Master",
+    "boss": "Kill Araxxor 75 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Perfect Araxxor",
+    "boss": "Kill Araxxor perfectly, without taking damage from Araxxor's Mage & Range attacks, melee attack off prayer, araxyte minions damage, or damage from acid pools.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Cerberus",
+    "difficulty": "Arooo No More",
+    "boss": "Kill Cerberus without any of the Summoned Souls being spawned.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Cerberus",
+    "difficulty": "Cerberus Master",
+    "boss": "Kill Cerberus 150 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Putting It Olm on the Line",
+    "boss": "Complete a Chambers of Xeric solo raid with more than 40,000 points.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Undying Raider",
+    "boss": "Complete a Chambers of Xeric solo raid without dying.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Blind Spot",
+    "boss": "Kill Tekton without taking any damage.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Stop Drop and Roll",
+    "boss": "Kill Vasa Nistirio before he performs his teleport attack for the second time.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Chambers of Xeric (5-Scale) Speed-Chaser",
+    "boss": "Complete a Chambers of Xeric (5-scale) in less than 15 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Chambers of Xeric (Solo) Speed-Chaser",
+    "boss": "Complete a Chambers of Xeric (Solo) in less than 21 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Chambers of Xeric (Trio) Speed-Chaser",
+    "boss": "Complete a Chambers of Xeric (Trio) in less than 16 minutes and 30 seconds.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Anvil No More",
+    "boss": "Kill Tekton before he returns to his anvil for a second time after the fight begins.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Chambers of Xeric Master",
+    "boss": "Complete the Chambers of Xeric 75 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Perfect Olm (Trio)",
+    "boss": "Kill the Great Olm in a trio raid without any team member taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Playing with Lasers",
+    "boss": "Clear theCrystal Crabsroom without wasting an orb after the first crystal has been activated.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Perfect Olm (Solo)",
+    "boss": "Kill the Great Olm in a solo raid without taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "No Time for Death",
+    "boss": "Clear the Tightrope room without Killing any Deathly Mages or Deathly Rangers.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "A Not So Special Lizard",
+    "boss": "Kill the Great Olm in a solo raid without letting him use any of the following special attacks in his second to last phase: Crystal Burst, Lightning Walls, Teleportation Portals or left-hand autohealing.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric: Challenge Mode",
+    "difficulty": "Immortal Raid Team",
+    "boss": "Complete a Chambers of Xeric: Challenge mode raid without anyone dying.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric: Challenge Mode",
+    "difficulty": "Immortal Raider",
+    "boss": "Complete a Chambers of Xeric Challenge mode (Solo) raid without dying.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric: Challenge Mode",
+    "difficulty": "Chambers of Xeric: CM (Solo) Speed-Chaser",
+    "boss": "Complete a Chambers of Xeric: Challenge Mode (Solo) in less than 45 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric: Challenge Mode",
+    "difficulty": "Chambers of Xeric: CM (5-Scale) Speed-Chaser",
+    "boss": "Complete a Chambers of Xeric: Challenge Mode (5-scale) in less than 30 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric: Challenge Mode",
+    "difficulty": "Chambers of Xeric: CM Master",
+    "boss": "Complete the Chambers of Xeric: Challenge Mode 10 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric: Challenge Mode",
+    "difficulty": "Chambers of Xeric: CM (Trio) Speed-Chaser",
+    "boss": "Complete a Chambers of Xeric: Challenge Mode (Trio) in less than 35 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Commander Zilyana",
+    "difficulty": "Moving Collateral",
+    "boss": "Kill Commander Zilyana in a private instance without attacking her directly.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Corporeal Beast",
+    "difficulty": "Corporeal Beast Master",
+    "boss": "Kill the Corporeal Beast 50 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "difficulty": "Corrupted Gauntlet Master",
+    "boss": "Complete the Corrupted Gauntlet 10 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "difficulty": "Perfect Corrupted Hunllef",
+    "boss": "Kill the Corrupted Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Corrupted Hunllef with the wrong weapon.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "difficulty": "Corrupted Warrior",
+    "boss": "Kill the Corrupted Hunllef with a full set of perfected corrupted armour equipped.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "difficulty": "Corrupted Gauntlet Speed-Chaser",
+    "boss": "Complete a Corrupted Gauntlet in less than 7 minutes and 30 seconds.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "difficulty": "Defence Doesn't Matter II",
+    "boss": "Kill the Corrupted Hunllef without making any armour within the Corrupted Gauntlet.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Crystalline Hunllef",
+    "difficulty": "Gauntlet Speed-Chaser",
+    "boss": "Complete the Gauntlet in less than 5 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Crystalline Hunllef",
+    "difficulty": "Perfect Crystalline Hunllef",
+    "boss": "Kill the Crystalline Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Crystalline Hunllef with the wrong weapon.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Crystalline Hunllef",
+    "difficulty": "Defence Doesn't Matter",
+    "boss": "Kill the Crystalline Hunllef without making any armour within the Gauntlet.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Crystalline Hunllef",
+    "difficulty": "Gauntlet Master",
+    "boss": "Complete the Gauntlet 20 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Duke Sucellus",
+    "difficulty": "Duke Sucellus Speed-Chaser",
+    "boss": "Kill Duke Sucellus in less than 1:35 minutes without a slayer task.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Duke Sucellus",
+    "difficulty": "Perfect Duke Sucellus",
+    "boss": "Kill Duke Sucellus without taking any avoidable damage 5 times without leaving.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Duke Sucellus",
+    "difficulty": "Duke Sucellus Master",
+    "boss": "Kill Duke Sucellus 50 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Duke Sucellus",
+    "difficulty": "Cold Feet",
+    "boss": "Kill Duke Sucellus without taking any avoidable damage, whilst also never running.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "Showboating",
+    "boss": "Defeat Sol Heredit after usingFortis Saluteto the north, east, south and west of the arena while he is below 10% hitpoints.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "I Brought Mine Too",
+    "boss": "Defeat Sol Heredit using only a Spear, Hasta or Halberd.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "Colosseum Speed-Chaser",
+    "boss": "Complete the Colosseum with a total time of 28:00 or less.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "One-off",
+    "boss": "Complete Wave 11 with either 'Red Flag', 'Dynamic Duo', or 'Doom II' active.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "Sportsmanship",
+    "boss": "Defeat Sol Heredit once.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Grotesque Guardians Speed-Chaser",
+    "boss": "Kill the Grotesque Guardians in less than 1:40 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "... 'til Dawn",
+    "boss": "Kill the Grotesque Guardians 20 times without leaving the instance.",
+    "description": "Stamina",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Perfect Grotesque Guardians II",
+    "boss": "Kill the Grotesque Guardians 5 times in a row without leaving the instance, whilst completing the Perfect Grotesque Guardians task every time.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Hespori",
+    "difficulty": "Hespori Speed-Chaser",
+    "boss": "Kill the Hespori in less than 36 seconds.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Kraken",
+    "difficulty": "One Hundred Tentacles",
+    "boss": "Kill the Kraken 100 times in a private instance without leaving the room.",
+    "description": "Stamina",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Kree'arra",
+    "difficulty": "Collateral Damage",
+    "boss": "Kill Kree'arra in a private instance without ever attacking him directly.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Kree'arra",
+    "difficulty": "Swoop No More",
+    "boss": "Kill Kree'arra in a private instance without taking any melee damage from the boss or his bodyguards.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Leviathan",
+    "difficulty": "Serpentine Solo",
+    "boss": "Kill the Leviathan without stunning the boss more than once.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Leviathan",
+    "difficulty": "Leviathan Master",
+    "boss": "Kill the Leviathan 50 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Leviathan",
+    "difficulty": "Leviathan Speed-Chaser",
+    "boss": "Kill the Leviathan in less than 1:25 without a slayer task.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Leviathan",
+    "difficulty": "Perfect Leviathan",
+    "boss": "Kill the Leviathan perfectly 5 times without leaving.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Nex",
+    "difficulty": "Shadows Move...",
+    "boss": "Kill Nex without anyone being hit by the Shadow Smash attack.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Nex",
+    "difficulty": "There is no escape!",
+    "boss": "Kill Nex without anyone being hit by the Smoke Dash special attack.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Nex",
+    "difficulty": "A siphon will solve this",
+    "boss": "Kill Nex without letting her heal from her Blood Siphon special attack.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Nex",
+    "difficulty": "Nex Trio",
+    "boss": "Kill Nex with three or less players at the start of the fight.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Nex",
+    "difficulty": "Nex Master",
+    "boss": "Kill Nex 25 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Nex",
+    "difficulty": "Contain this!",
+    "boss": "Kill Nex without anyone taking damage from any Ice special attack.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Essence Farmer",
+    "boss": "Kill the Phantom Muspah 10 times in one trip.",
+    "description": "Stamina",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Phantom Muspah Master",
+    "boss": "Kill the Phantom Muspah 50 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Phantom Muspah Speed-Chaser",
+    "boss": "Kill the Phantom Muspah in less than 2 minutes without a slayer task.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Space is Tight",
+    "boss": "Kill the Phantom Muspah whilst it is surrounded by spikes.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Walk Straight Pray True",
+    "boss": "Kill the Phantom Muspah without taking any avoidable damage.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "More than just a ranged weapon",
+    "boss": "Kill the Phantom Muspah by only dealing damage to it with a salamander.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Phosani's Nightmare",
+    "difficulty": "Phosani's Speedchaser",
+    "boss": "Defeat Phosani's Nightmare within 9 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Phosani's Nightmare",
+    "difficulty": "Phosani's Master",
+    "boss": "Kill Phosani's Nightmare 5 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Phosani's Nightmare",
+    "difficulty": "Crush Hour",
+    "boss": "Kill Phosani's Nightmare while killing every parasite and husk in one hit.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Phosani's Nightmare",
+    "difficulty": "Dreamland Express",
+    "boss": "Kill Phosani's Nightmare without a sleepwalker reaching her during her desperation phase.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Phosani's Nightmare",
+    "difficulty": "I Would Simply React",
+    "boss": "Kill Phosani's Nightmare without allowing your prayer to be disabled.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Skotizo",
+    "difficulty": "Precise Positioning",
+    "boss": "Kill Skotizo with the final source of damage being a Chinchompa explosion.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "The Hueycoatl",
+    "difficulty": "Is it a bird?",
+    "boss": "Kill the Hueycoatl using only dragonbane weaponry.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "The Hueycoatl",
+    "difficulty": "Hueycoatl Speed-Chaser",
+    "boss": "Kill the Hueycoatl in 2:30 with five or fewer players.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Nightmare (Solo) Speed-Chaser",
+    "boss": "Defeat the Nightmare (Solo) in less than 19 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Nightmare (5-Scale) Speed-Chaser",
+    "boss": "Defeat the Nightmare (5-scale) in less than 4 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Perfect Nightmare",
+    "boss": "Kill the Nightmare without any player taking damage from the following attacks: Nightmare rifts, an un-cured parasite explosion, Corpse flowers or the Nightmare's Surge. Also, no player can take damage off prayer or have their attacks slowed by the Nightmare spores.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Nightmare Master",
+    "boss": "Kill The Nightmare 50 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Perfect Bloat",
+    "boss": "Kill the Pestilent Bloat without anyone in the team taking damage from the following sources: Pestilent flies, Falling body parts or The Pestilent Bloats stomp attack.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Perfect Xarpus",
+    "boss": "Kill Xarpus without anyone in the team taking any damage from Xarpus' attacks and without letting an exhumed heal Xarpus more than twice.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Two-Down",
+    "boss": "Kill the Pestilent Bloat before he shuts down for the third time.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Theatre (4-Scale) Speed-Chaser",
+    "boss": "Complete the Theatre of Blood (4-scale) in less than 17 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "A Timely Snack",
+    "boss": "Kill Sotetseg after surviving at least 3 ball attacks without sharing the damage and without anyone dying throughout the fight.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Perfect Nylocas",
+    "boss": "Kill the Nylocas Vasilias without anyone in the team attacking any Nylocas with the wrong attack style, without letting a pillar collapse and without getting hit by any of the Nylocas Vasilias attacks whilst off prayer.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Back in My Day...",
+    "boss": "Complete the Theatre of Blood without any member of the team equipping a Scythe of Vitur.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Theatre (5-Scale) Speed-Chaser",
+    "boss": "Complete the Theatre of Blood (5-scale) in less than 16 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Can You Dance?",
+    "boss": "Kill Xarpus without anyone in the team using a ranged or magic weapon.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Can't Drain This",
+    "boss": "Kill The Maiden of Sugadinti without anyone in the team losing any prayer points.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Theatre (Trio) Speed-Chaser",
+    "boss": "Complete the Theatre of Blood (Trio) in less than 20 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Perfect Verzik",
+    "boss": "Defeat Verzik Vitur without anyone in the team taking damage from Verzik Vitur's attacks other than her spider form's correctly prayed against regular magical and ranged attacks.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Pop It",
+    "boss": "Kill Verzik without any Nylocas being frozen and without anyone taking damage from the Nylocas.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Perfect Sotetseg",
+    "boss": "Kill Sotetseg without anyone in the team stepping on the wrong tile in the maze, without getting hit by the tornado and without taking any damage from Sotetseg's attacks whilst off prayer.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Theatre of Blood Master",
+    "boss": "Complete the Theatre of Blood 75 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Perfect Maiden",
+    "boss": "Kill The Maiden of Sugadinti without anyone in the team taking damage from the following sources: Blood Spawn projectiles and Blood Spawn trails. Also, without taking damage off prayer and without letting any of the Nylocas Matomenos heal The Maiden.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Entry Mode",
+    "difficulty": "Theatre of Blood: SM Speed-Chaser",
+    "boss": "Complete the Theatre of Blood: Entry Mode in less than 17 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Hard Mode? Completed It",
+    "boss": "Complete the Theatre of Blood: Hard Mode within the challenge time.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Tomb Looter",
+    "boss": "Complete the Tombs of Amascut 25 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Tomb Raider",
+    "boss": "Complete the Tombs of Amascut 50 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Perfect Kephri",
+    "boss": "Defeat Kephri in a group of two or more, without anyone taking any damage from the following: egg explosions, Kephri's attacks, Exploding Scarabs, Bodyguards, dung attacks. No eggs may hatch throughout the fight.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Perfect Zebak",
+    "boss": "Defeat Zebak without anyone taking any damage from: poison, Zebak's basic attacks off-prayer, blood spawns and waves. You also must not push more than two jugs on the roar attack during the fight (you may destroy stationary ones). You must have all Zebak invocations activated.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Tombs Speed Runner",
+    "boss": "Complete the Tombs of Amascut (normal) within 18 mins at any group size.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Chompington",
+    "boss": "Defeat Zebak using only melee attacks and without dying yourself.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Perfect Wardens",
+    "boss": "Defeat The Wardens in a group of two or more, without anyone taking avoidable damage from the following: Warden attacks, obelisk attacks, lightning attacks in phase three, skull attack in phase three, Demi god attacks in phase three. You must have all Wardens invocations activated.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "You are not prepared",
+    "boss": "Complete a full Tombs of Amascut raid only using supplies given inside the tomb and without anyone dying.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Perfect Akkha",
+    "boss": "Complete Akkha in a group of two or more, without anyone taking any damage from the following: Akkha's attacks off-prayer, Akkha's special attacks (orbs, memory, detonate), exploding shadow timers, orbs in the enrage phase or attacking Akkha with the wrong style. You must have all Akkha invocations activated.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Perfect Scabaras",
+    "boss": "Complete the Scabaras room in less than a minute without anyone taking any damage from puzzles.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Perfect Ba-Ba",
+    "boss": "Defeat Ba-Ba in a group of two or more, without anyone taking any damage from the following: Ba-Ba's Attacks off-prayer, Ba-Ba's slam, rolling boulders, rubble attack or falling rocks. No sarcophagi may be opened. You must have all Ba-Ba invocations activated.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "difficulty": "Better get movin'",
+    "boss": "Defeat Elidinis' Warden in phase three of the Wardens fight with 'Aerial Assault', 'Stay vigilant' and 'Insanity' invocations activated and without dying yourself.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "But... Damage",
+    "boss": "Complete the Tombs of Amascut without anyone in your party wearing or holding any equipment at tier 75 or above.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Rockin' around the croc",
+    "boss": "Defeat Zebak with all Zebak invocations activated and the path levelled up to at least four, without dying yourself.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Something of an expert myself",
+    "boss": "Complete the Tombs of Amascut raid at level 350 or above without anyone dying.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Ba-Bananza",
+    "boss": "Defeat Ba-Ba with all Ba-Ba invocations activated and the path levelled up to at least four, without dying yourself.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Warden't you believe it",
+    "boss": "Defeat the Wardens with all Wardens invocations activated, at expert level and without dying yourself.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Doesn't bug me",
+    "boss": "Defeat Kephri with all Kephri invocations activated and the path levelled up to at least four, without dying yourself.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Resourceful Raider",
+    "boss": "Complete the Tombs of Amascut with the \"On a diet\" and \"Dehydration\" invocations activated and without anyone dying.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Expert Tomb Looter",
+    "boss": "Complete the Tombs of Amascut (Expert mode) 25 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Fancy feet",
+    "boss": "Complete phase three of The Wardens in a group of two or more, using only melee attacks and without dying yourself. The 'Insanity' invocation must be activated.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "All out of medics",
+    "boss": "Defeat Kephri without letting her heal above 25% after the first down. The 'Medic' invocation must be activated. You must do this without dying yourself.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Tormented Demon",
+    "difficulty": "Three Times the Thrashing",
+    "boss": "Kill three Tormented Demons within 3 seconds.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "TzHaar-Ket-Rak's Challenges",
+    "difficulty": "The IV Jad Challenge",
+    "boss": "Complete TzHaar-Ket-Rak's fourth challenge.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "TzHaar-Ket-Rak's Challenges",
+    "difficulty": "Supplies? Who Needs 'em?",
+    "boss": "Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "TzHaar-Ket-Rak's Challenges",
+    "difficulty": "Multi-Style Specialist",
+    "boss": "Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "TzHaar-Ket-Rak's Challenges",
+    "difficulty": "TzHaar-Ket-Rak's Speed-Chaser",
+    "boss": "Complete TzHaar-Ket-Rak's third challenge in less than 3 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "TzHaar-Ket-Rak's Challenges",
+    "difficulty": "Facing Jad Head-on IV",
+    "boss": "Complete TzHaar-Ket-Rak's fourth challenge with only melee.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "Nibblers, Begone!",
+    "boss": "Kill Tzkal-Zuk without letting a pillar fall before wave 67.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "TzTok-Jad",
+    "difficulty": "Fight Caves Master",
+    "boss": "Complete the Fight Caves 5 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "TzTok-Jad",
+    "difficulty": "Fight Caves Speed-Chaser",
+    "boss": "Complete the Fight Caves in less than 30 minutes.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "TzTok-Jad",
+    "difficulty": "Denying the Healers",
+    "boss": "Complete the Fight caves without letting any of the Yt-MejKot heal.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "TzTok-Jad",
+    "difficulty": "You Didn't Say Anything About a Bat",
+    "boss": "Complete the Fight Caves without being attacked by a Tz-Kih.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Vardorvis",
+    "difficulty": "Budget Cutter",
+    "boss": "Kill Vardorvis with gear worth 2m or less in total.",
+    "description": "Restriction",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Vardorvis",
+    "difficulty": "Vardorvis Speed-Chaser",
+    "boss": "Kill Vardorvis in less than 1:05 without a slayer task.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Vardorvis",
+    "difficulty": "Vardorvis Master",
+    "boss": "Kill Vardorvis 50 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Vardorvis",
+    "difficulty": "Perfect Vardorvis",
+    "boss": "Kill Vardorvis perfectly 5 times without leaving.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Vorkath",
+    "difficulty": "Vorkath Speed-Chaser",
+    "boss": "Kill Vorkath in less than 1 minute and 15 seconds.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Vorkath",
+    "difficulty": "Dodging the Dragon",
+    "boss": "Kill Vorkath 5 times without taking any damage from his special attacks and without leaving his area.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Vorkath",
+    "difficulty": "Vorkath Master",
+    "boss": "Kill Vorkath 100 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Vorkath",
+    "difficulty": "Extended Encounter",
+    "boss": "Kill Vorkath 10 times without leaving his area.",
+    "description": "Stamina",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Vorkath",
+    "difficulty": "The Walk",
+    "boss": "Hit Vorkath 12 times during the acid special without getting hit by his rapid fire or the acid pools.",
+    "description": "Mechanical",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Whisperer",
+    "difficulty": "Whisperer Master",
+    "boss": "Kill the Whisperer 50 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Whisperer",
+    "difficulty": "Perfect Whisperer",
+    "boss": "Kill the Whisperer without taking avoidable damage 5 times without leaving.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Whisperer",
+    "difficulty": "Whisperer Speed-Chaser",
+    "boss": "Kill the Whisperer in less than 2:25 without a slayer task.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Zulrah",
+    "difficulty": "Zulrah Master",
+    "boss": "Kill Zulrah 150 times.",
+    "description": "Kill Count",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Zulrah",
+    "difficulty": "Zulrah Speed-Chaser",
+    "boss": "Kill Zulrah in less than 1 minute, without a slayer task.",
+    "description": "Speed",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Zulrah",
+    "difficulty": "Perfect Zulrah",
+    "boss": "Kill Zulrah whilst taking no damage from the following: Snakelings, Venom Clouds, Zulrah's Green or Crimson phase.",
+    "description": "Perfection",
+    "notes": "Master\u00a0(5\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "Alchemical Speed-Runner",
+    "boss": "Kill the Alchemical Hydra in less than 1 minute 20 seconds.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "difficulty": "No Pressure",
+    "boss": "Kill the Alchemical Hydra using only Dharok's Greataxe as a weapon whilst having no more than 10 Hitpoints throughout the entire fight.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Perfect Araxxor 2",
+    "boss": "Kill Araxxor perfectly, without hitting it during the enrage phase.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Swimming in Venom",
+    "boss": "Kill Araxxor without the boss ever moving.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Araxxor",
+    "difficulty": "Araxxor Speed-Runner",
+    "boss": "Kill Araxxor 6 times in 10:00.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Chambers of Xeric (5-Scale) Speed-Runner",
+    "boss": "Complete a Chambers of Xeric (5-scale) in less than 12 minutes and 30 seconds.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Chambers of Xeric Grandmaster",
+    "boss": "Complete the Chambers of Xeric 150 times.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Chambers of Xeric (Solo) Speed-Runner",
+    "boss": "Complete a Chambers of Xeric (Solo) in less than 17 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "difficulty": "Chambers of Xeric (Trio) Speed-Runner",
+    "boss": "Complete a Chambers of Xeric (Trio) in less than 14 minutes and 30 seconds.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric: Challenge Mode",
+    "difficulty": "Chambers of Xeric: CM (Trio) Speed-Runner",
+    "boss": "Complete a Chambers of Xeric: Challenge Mode (Trio) in less than 27 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric: Challenge Mode",
+    "difficulty": "Chambers of Xeric: CM (Solo) Speed-Runner",
+    "boss": "Complete a Chambers of Xeric: Challenge Mode (Solo) in less than 38 minutes and 30 seconds.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric: Challenge Mode",
+    "difficulty": "Chambers of Xeric: CM (5-Scale) Speed-Runner",
+    "boss": "Complete a Chambers of Xeric: Challenge Mode (5-scale) in less than 25 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Chambers of Xeric: Challenge Mode",
+    "difficulty": "Chambers of Xeric: CM Grandmaster",
+    "boss": "Complete the Chambers of Xeric: Challenge Mode 25 times.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Commander Zilyana",
+    "difficulty": "Peach Conjurer",
+    "boss": "Kill Commander Zilyana 50 times in a privately rented instance without leaving the room.",
+    "description": "Stamina",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Commander Zilyana",
+    "difficulty": "Animal Whisperer",
+    "boss": "Kill Commander Zilyana in a private instance without taking any damage from the boss or bodyguards.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "difficulty": "Egniol Diet II",
+    "boss": "Kill the Corrupted Hunllef without making an egniol potion within the Corrupted Gauntlet.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "difficulty": "Corrupted Gauntlet Speed-Runner",
+    "boss": "Complete a Corrupted Gauntlet in less than 6 minutes and 30 seconds.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "difficulty": "Corrupted Gauntlet Grandmaster",
+    "boss": "Complete the Corrupted Gauntlet 50 times.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "difficulty": "Wolf Puncher II",
+    "boss": "Kill the Corrupted Hunllef without making more than one attuned weapon.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Crystalline Hunllef",
+    "difficulty": "Gauntlet Speed-Runner",
+    "boss": "Complete the Gauntlet in less than 4 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Duke Sucellus",
+    "difficulty": "Duke Sucellus Speed-Runner",
+    "boss": "Kill Duke Sucellus in less than 1:25 minutes without a slayer task.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Duke Sucellus",
+    "difficulty": "Mirror Image",
+    "boss": "Kill Duke Sucellus whilst only attacking the boss on the same tick Duke attacks you.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Duke Sucellus",
+    "difficulty": "Duke Sucellus Sleeper",
+    "boss": "Kill Awakened Duke Sucellus.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "Reinforcements",
+    "boss": "Defeat Sol Heredit with \"Bees II\", \"Quartet\" and \"Solarflare II\" modifiers active.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "Perfect Footwork",
+    "boss": "Defeat Sol Heredit without taking any damage from his Spear, Shield, Grapple or Triple Attack.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "Slow Dancing in the Sand",
+    "boss": "Defeat Sol Heredit without running during the fight with him.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "Colosseum Grand Champion",
+    "boss": "Defeat Sol Heredit 10 times.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "difficulty": "Colosseum Speed-Runner",
+    "boss": "Complete the Colosseum with a total time of 24:00 or less.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "General Graardor",
+    "difficulty": "Defence Matters",
+    "boss": "Kill General Graardor 2 times consecutively in a private instance without taking any damage from his bodyguards.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "General Graardor",
+    "difficulty": "Keep Away",
+    "boss": "Kill General Graardor in a private instance without taking any damage from the boss or bodyguards.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "General Graardor",
+    "difficulty": "Ourg Killer",
+    "boss": "Kill General Graardor 15 times in a private instance without leaving the room.",
+    "description": "Stamina",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Grotesque Guardians",
+    "difficulty": "Grotesque Guardians Speed-Runner",
+    "boss": "Kill the Grotesque Guardians in less than 1:20 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "K'ril Tsutsaroth",
+    "difficulty": "Ash Collector",
+    "boss": "Kill K'ril Tsutsaroth 20 times in a private instance without leaving the room.",
+    "description": "Stamina",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "K'ril Tsutsaroth",
+    "difficulty": "Demon Whisperer",
+    "boss": "Kill K'ril Tsutsaroth in a private instance without ever being hit by his bodyguards.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Kree'arra",
+    "difficulty": "The Worst Ranged Weapon",
+    "boss": "Kill Kree'arra by only dealing damage to him with a salamander.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Kree'arra",
+    "difficulty": "Feather Hunter",
+    "boss": "Kill Kree'arra 30 times in a private instance without leaving the room.",
+    "description": "Stamina",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Leviathan",
+    "difficulty": "Leviathan Sleeper",
+    "boss": "Kill the Awakened Leviathan.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Leviathan",
+    "difficulty": "Leviathan Speed-Runner",
+    "boss": "Kill the Leviathan in less than 1:10 without a slayer task.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Leviathan",
+    "difficulty": "Unconventional",
+    "boss": "Kill the Leviathan using only Mithril ammunition whilst having no more than 25 Hitpoints throughout the entire fight.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Nex",
+    "difficulty": "Nex Duo",
+    "boss": "Kill Nex with two or less players at the start of the fight.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Nex",
+    "difficulty": "Perfect Nex",
+    "boss": "Kill Nex whilst completing the requirements for \"There is no escape\", \"Shadows move\", \"A siphon will solve this\", and \"Contain this!\"",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Nex",
+    "difficulty": "I should see a doctor",
+    "boss": "Kill Nex whilst a player is coughing.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Phantom Muspah Manipulator",
+    "boss": "Kill the Phantom Muspah whilst completing Walk Straight Pray True, Space is Tight & Can't Escape.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Phantom Muspah",
+    "difficulty": "Phantom Muspah Speed-Runner",
+    "boss": "Kill the Phantom Muspah in less than 1 minute and 30 seconds without a slayer task.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Phosani's Nightmare",
+    "difficulty": "Can't Wake Up",
+    "boss": "Kill Phosani's Nightmare 5 times in a row without leaving Phosani's Dream.",
+    "description": "Stamina",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Phosani's Nightmare",
+    "difficulty": "Perfect Phosani's Nightmare",
+    "boss": "Kill Phosani's Nightmare while only taking damage from husks, power blasts and weakened Parasites. Also, without having your attacks slowed by the Nightmare Spores or letting a Sleepwalker reach Phosani's Nightmare.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Phosani's Nightmare",
+    "difficulty": "Phosani's Grandmaster",
+    "boss": "Kill Phosani's Nightmare 25 times.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Phosani's Nightmare",
+    "difficulty": "Phosani's Speedrunner",
+    "boss": "Defeat Phosani's Nightmare within 7:30 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "The Hueycoatl",
+    "difficulty": "Hueycoatl Speed-Runner",
+    "boss": "Kill the Hueycoatl in 2:30 with three or fewer players.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "A Long Trip",
+    "boss": "Kill the Nightmare without any player losing any prayer points.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Nightmare (Solo) Speed-Runner",
+    "boss": "Defeat the Nightmare (Solo) in less than 16 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Nightmare (5-Scale) Speed-Runner",
+    "boss": "Defeat the Nightmare (5-scale) in less than 3:30 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "The Nightmare",
+    "difficulty": "Terrible Parent",
+    "boss": "Kill the Nightmare solo without the Parasites healing the boss for more than 100 health.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Theatre of Blood Grandmaster",
+    "boss": "Complete the Theatre of Blood 150 times.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Theatre (Duo) Speed-Runner",
+    "boss": "Complete the Theatre of Blood (Duo) in less than 26 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Theatre (Trio) Speed-Runner",
+    "boss": "Complete the Theatre of Blood (Trio) in less than 17 minutes and 30 seconds.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Theatre (5-Scale) Speed-Runner",
+    "boss": "Complete the Theatre of Blood (5-scale) in less than 14 minutes and 15 seconds.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Morytania Only",
+    "boss": "Complete the Theatre of Blood without any member of the team equipping a non-barrows weapon (except Dawnbringer).",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Theatre (4-Scale) Speed-Runner",
+    "boss": "Complete the Theatre of Blood (4-scale) in less than 15 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood",
+    "difficulty": "Perfect Theatre",
+    "boss": "Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: \"Perfect Maiden\", \"Perfect Bloat\", \"Perfect Nylocas\", \"Perfect Sotetseg\", \"Perfect Xarpus\" and \"Perfect Verzik\".",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Pack Like a Yak",
+    "boss": "Complete the Theatre of Blood: Hard Mode within the challenge time, with no deaths and without anyone buying anything from a supply chest.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Personal Space",
+    "boss": "Defeat the Pestilent Bloat in the Theatre of Blood: Hard Mode with at least 3 people in the room, without anyone in your team standing on top of each other.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Harder Mode II",
+    "boss": "Defeat Xarpus in the Theatre of Blood: Hard Mode after letting the exhumeds heal him to full health and without anyone in the team taking any damage.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Theatre: HM (Trio) Speed-Runner",
+    "boss": "Complete the Theatre of Blood: Hard Mode (Trio) with an overall time of less than 23 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Harder Mode III",
+    "boss": "Defeat Verzik Vitur in the Theatre of Blood: Hard Mode without anyone attacking her with a melee weapon during her third phase.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Stop Right There!",
+    "boss": "Defeat the Maiden of Sugadinti in the Theatre of Blood: Hard Mode without letting blood spawns create more than 15 blood trails.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Theatre: HM (5-Scale) Speed-Runner",
+    "boss": "Complete the Theatre of Blood: Hard Mode (5-scale) with an overall time of less than 19 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Nylo Sniper",
+    "boss": "Defeat Verzik Vitur's in the Theatre of Blood: Hard Mode without anyone in your team causing a Nylocas to explode by getting too close.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Team Work Makes the Dream Work",
+    "boss": "When Verzik Vitur in the Theatre of Blood: Hard Mode uses her yellow power blast attack while the tornadoes are active, have everyone get through the attack without taking damage. This cannot be completed with one player alive",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Theatre of Blood: HM Grandmaster",
+    "boss": "Complete the Theatre of Blood: Hard Mode 50 times.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Theatre: HM (4-Scale) Speed-Runner",
+    "boss": "Complete the Theatre of Blood: Hard Mode (4-scale) with an overall time of less than 21 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Harder Mode I",
+    "boss": "Defeat Sotetseg in the Theatre of Blood: Hard Mode without anyone sharing the ball with anyone, without anyone dying, and without anyone taking damage from any of its other attacks or stepping on the wrong tile in the maze.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Theatre of Blood: Hard Mode",
+    "difficulty": "Royal Affairs",
+    "boss": "In the Theatre of Blood: Hard Mode, complete the Nylocas room without ever letting the Nylocas Prinkipas change styles.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Akkhan't Do it",
+    "boss": "Defeat Akkha with all Akkha invocations activated and the path levelled up to at least four, without dying yourself.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Perfection of Apmeken",
+    "boss": "Complete 'Perfect Apmeken' and 'Perfect Ba-Ba' in a single run of the Tombs of Amascut.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Maybe I'm the boss.",
+    "boss": "Complete a Tombs of Amascut raid with every single boss invocation activated and without anyone dying.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "All Praise Zebak",
+    "boss": "Defeat Zebak without losing a single prayer point. You must also meet the conditions of the 'Rockin' Around The Croc' achievement.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Amascut's Remnant",
+    "boss": "Complete the Tombs of Amascut at raid level 500 or above without anyone dying.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Insanity",
+    "boss": "Complete 'Perfect Wardens' at expert or above.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Perfection of Het",
+    "boss": "Complete 'Perfect Het' and 'Perfect Akkha' in a single run of the Tombs of Amascut.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Perfection of Crondis",
+    "boss": "Complete 'Perfect Crondis' and 'Perfect Zebak' in a single run of the Tombs of Amascut.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Perfection of Scabaras",
+    "boss": "Complete 'Perfect Scabaras' and 'Perfect Kephri' in a single run of Tombs of Amascut.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Tombs Speed Runner III",
+    "boss": "Complete the Tombs of Amascut (expert) within 18 mins in a group of 8.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Expert Tomb Raider",
+    "boss": "Complete the Tombs of Amascut (Expert mode) 50 times.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Tombs of Amascut: Expert Mode",
+    "difficulty": "Tombs Speed Runner II",
+    "boss": "Complete the Tombs of Amascut (expert) within 20 mins at any group size.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzHaar-Ket-Rak's Challenges",
+    "difficulty": "It Wasn't a Fluke",
+    "boss": "Complete TzHaar-Ket-Rak's fifth and sixth challenges back to back without failing.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzHaar-Ket-Rak's Challenges",
+    "difficulty": "The VI Jad Challenge",
+    "boss": "Complete TzHaar-Ket-Rak's sixth challenge.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzHaar-Ket-Rak's Challenges",
+    "difficulty": "TzHaar-Ket-Rak's Speed-Runner",
+    "boss": "Complete TzHaar-Ket-Rak's fifth challenge in less than 5 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "Jad? What Are You Doing Here?",
+    "boss": "Kill Tzkal-Zuk without killing the JalTok-Jad which spawns during wave 69.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "Wasn't Even Close",
+    "boss": "Kill Tzkal-Zuk without letting your hitpoints fall below 50 during any wave in the Inferno.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "Playing with Jads",
+    "boss": "Complete wave 68 of the Inferno within 30 seconds of the first JalTok-Jad dying.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "Budget Setup",
+    "boss": "Kill Tzkal-Zuk without equipping a Twisted Bow within the Inferno.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "The Floor Is Lava",
+    "boss": "Kill Tzkal-Zuk without letting Jal-ImKot dig during any wave in the Inferno.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "Facing Jad Head-on II",
+    "boss": "Kill Tzkal-Zuk without equipping any range or mage weapons before wave 69.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "Nibbler Chaser",
+    "boss": "Kill Tzkal-Zuk without using any magic spells during any wave in the Inferno.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "Inferno Speed-Runner",
+    "boss": "Complete the Inferno in less than 65 minutes.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "Inferno Grandmaster",
+    "boss": "Complete the Inferno 5 times.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "difficulty": "No Luck Required",
+    "boss": "Kill Tzkal-Zuk without being attacked by TzKal-Zuk and without taking damage from a JalTok-Jad.",
+    "description": "Perfection",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzTok-Jad",
+    "difficulty": "Denying the Healers II",
+    "boss": "Complete the Fight Caves without TzTok-Jad being healed by a Yt-HurKot.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzTok-Jad",
+    "difficulty": "Fight Caves Speed-Runner",
+    "boss": "Complete the Fight Caves in less than 26 minutes and 30 seconds.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "TzTok-Jad",
+    "difficulty": "No Time for a Drink",
+    "boss": "Complete the Fight Caves without losing any prayer points.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Vardorvis",
+    "difficulty": "Vardorvis Speed-Runner",
+    "boss": "Kill Vardorvis in less than 0:55 without a slayer task.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Vardorvis",
+    "difficulty": "Vardorvis Sleeper",
+    "boss": "Kill Awakened Vardorvis.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Vardorvis",
+    "difficulty": "Axe Enthusiast",
+    "boss": "Kill Vardorvis after surviving for 3 minutes of Vardorvis' max speed, and never leaving the centre 25 tiles.",
+    "description": "Mechanical",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Vorkath",
+    "difficulty": "Faithless Encounter",
+    "boss": "Kill Vorkath without losing any prayer points.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Vorkath",
+    "difficulty": "Vorkath Speed-Runner",
+    "boss": "Kill Vorkath in less than 54 seconds.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Vorkath",
+    "difficulty": "The Fremennik Way",
+    "boss": "Kill Vorkath with only your fists.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Whisperer",
+    "difficulty": "Whisperer Speed-Runner",
+    "boss": "Kill the Whisperer in less than 2:05 without a slayer task.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Whisperer",
+    "difficulty": "Dark Memories",
+    "boss": "Kill the Whisperer whilst spending less than 6 seconds in the pre-enrage shadow realm.",
+    "description": "Restriction",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Whisperer",
+    "difficulty": "Whispered",
+    "boss": "Kill the Awakened Whisperer.",
+    "description": "Kill Count",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  },
+  {
+    "name": "Zulrah",
+    "difficulty": "Zulrah Speed-Runner",
+    "boss": "Kill Zulrah in less than 54 seconds, without a slayer task.",
+    "description": "Speed",
+    "notes": "Grandmaster\u00a0(6\u00a0pts)"
+  }
+]

@@ -1,0 +1,39 @@
+Name: Strangled Lynx
+Combat Level: 182
+Size: 2x2
+Info:
+- Description: Who's an infected kitty?
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 12290
+- Link: MOID
+
+Location:
+- Area: The Stranglewood
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 50
+Attack: 190
+Strength: 70
+Defence: 40
+Magic: 60
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

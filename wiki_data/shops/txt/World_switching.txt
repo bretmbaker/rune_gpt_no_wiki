@@ -1,0 +1,61 @@
+[Shop: World_switching]
+
+World switching, also known asworld hopping, is the act of switching to a differentserver. The most common reason for doing so is to find a server where there are currently no other players in a given area, allowing the world hopper to freely harvest the resources there without competition.
+
+World switching can be very important inmerchantingas prices often vary between worlds. This is noticeable in theFishingshop inPort Sarim, particularly with the prices oflobsterandswordfish. Another type of merchanting is calledvial hopping. It consists of buying out the stock ofHerblorepotionvialsin a particular shop then switching worlds and repeating the process.
+
+World switching is also used to effectively minerunite ore, which, given the small number of rocks per world and a long respawn time, is very difficult to obtain at a decent rate without world switching.
+
+Overview[edit|edit source]
+
+EachOld School RuneScapeworld is hosted on its own computer, known as aserver. Servers are continuously connected to the internet, and receive tie-ins from connections of players all over the world. The servers host these players (up to 2000 on a single server) while they playOld School RuneScape. To ease strain on the servers runningOld School RuneScape,Jagexcreated many different servers as to not overload a single server with too many players. Unlike many other MMORPGs, a single character can visit any of the worlds.
+
+Players log into that server and are able to interact with all of the elements —monsters,buildings,items, etc. — found on that world. These worlds, each located on its own server, are identical in form and yet independent of each other. Actions taken on World 1 will not affect the building, monsters, or items on World 2. For example, buying all of thechiselsin theLumbridge General Storeon World 1 will not reduce the number of chisels in Lumbridge General Store on any other world. The side effect of these semi-duplicate worlds is if a store is overstocked or out of stock, or amineis too busy or mined out for now, players can return to the world select screen and try a different world.
+
+When a player stays in a particular location — such as a shop ororespawn — while changing worlds, this is calledworld hopping.
+
+World Switcher[edit|edit source]
+
+Players who have not been attacked incombatfor 10 seconds can freely hop between worlds by clicking on the logout button () and selecting "World Switcher". Here, players can easily switch between worlds aroundOld School RuneScape, and sort the list of worlds by mode, number, server location, amount of players, and designated activity.
+
+The cog icon on the top left is the "Configure" option, which allows further customisation of the list of worlds displayed by giving players the option of filtering out the aforementioned factors; for example, within the Configuration interface, players disinterested inplayer killingcan hide PvP, Deadman, and High Risk Worlds if they so choose.
+
+Lastly, players can also favourite up to two worlds at a time by right-clicking a world, which are then always shown on the very bottom of the tab.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+5 July2023(update) | Players are no longer prevented from moving when making an unsuccessful log out or world hop request.
+
+14 June2023(update) | The world switcher now has a configuration option which allows players to filter worlds within it.
+
+9 November2022(update) | The world switcher now displays all worlds correctly for players who have opted out of Fresh Start Worlds.
+
+25 July2019(update) | The limit on how many worlds you can hop has been drastically increased.
+
+12 November2015(update) | Deadman worlds are now easier to distinguish from standard Old School worlds on the world switcher.
+
+9 July2015(update|poll) | The world switcher now shows the number of players online in each world and has a logout button.
+
+28 May2015(update) | The positions of the button used to access the world switcher and the log out button have been switched and the colour of the world switcher button has been changed to grey.You can permanently dismiss the menu that asks if you really wish to switch worlds. Even if this menu is permanently dismissed, the warning will still appear when attempting to hop to a PvP world.The world that you are on will now be written on the world switcher list in a darker grey so you're less likely to click it and the 'Right click to set favourites' message is now vertically centred if you haven't set any favourite worlds.
+
+21 May2015(update) | World switcher interface has been added.
+
+20 February2014(update|poll) | Players no longer need to wait 30 seconds when world-hopping.
+
+Trivia[edit|edit source]
+
+Thenon-player characternamedHopleezpokes fun at world hopping as a whole (due to him being a parody of other players telling each other to hop worlds so that multiple players aren't fighting for the same resources).
+
+v•t•eInterface
+
+Control Panel | TopCombat OptionsStatsCharacter SummaryQuest ListAchievement DiariesKourend Favour(removed)Adventure PathsInventoryWorn EquipmentEquipment StatsItems kept on deathGuide pricesCall followerPrayerSpellbookBottomFriends ListIgnore ListAccount ManagementAccountCommunityLinksChat-channelClansGroupingLogout(World switching)SettingsEmotesMusic | Top | Combat OptionsStatsCharacter SummaryQuest ListAchievement DiariesKourend Favour(removed)Adventure PathsInventoryWorn EquipmentEquipment StatsItems kept on deathGuide pricesCall followerPrayerSpellbook | Bottom | Friends ListIgnore ListAccount ManagementAccountCommunityLinksChat-channelClansGroupingLogout(World switching)SettingsEmotesMusic
+
+Top | Combat OptionsStatsCharacter SummaryQuest ListAchievement DiariesKourend Favour(removed)Adventure PathsInventoryWorn EquipmentEquipment StatsItems kept on deathGuide pricesCall followerPrayerSpellbook
+
+Bottom | Friends ListIgnore ListAccount ManagementAccountCommunityLinksChat-channelClansGroupingLogout(World switching)SettingsEmotesMusic
+
+Minimap | CompassHitpointsQuick prayersRun energySpecial attackActivity AdviserStore orbWorld mapWiki lookup
+
+Other | Chat InterfaceChoose OptionDebug ConsoleGame controlsMain MenuTrading interfaceWelcome Screen

@@ -1,0 +1,46 @@
+[Weapon: Silver Necklace#Normal]
+
+
+Thesilver necklaceis aquestitem used in theMurder Mysteryquest. It is obtained from a barrel inAnna's bedroom in theSinclair Mansionduring the quest. It can be dusted withflourand used withflypaperto obtainAnna's print, which can be compared with theunknown printto see if Anna is the killer.
+This itemwill disappearif a player has it in their bank or inventory upon finishing the quest. It is a unique cosmetic item, so if a player wishes to keep it, they must drop it before finishing the quest and pick it up again afterwards. Itcannotbe obtained again after the quest is finished.
+
+
+[Infobox]
+Released: 9 June2003(Update)
+Members: Yes
+Quest item: Murder Mystery
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Anna's shiny silver coated necklace.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.01 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

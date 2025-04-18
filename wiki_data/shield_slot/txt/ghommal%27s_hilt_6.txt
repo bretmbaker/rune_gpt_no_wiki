@@ -1,0 +1,46 @@
+[Weapon: Ghommal%27S Hilt 6]
+
+
+Ghommal's hilt 6is ateleportationitem obtained fromLaidee Gnonockafter obtaining 2470 combat achievement points, which requires the completion of every combat achievement, and claiming it from theCombat Achievementssystem. It can be attached to theAvernic defenderto createGhommal's Avernic defender 6, which combines the functions of both.
+Multiple copies of the hilt can be claimed from Laidee Gnonock if desired, without any additional costs.
+
+
+[Infobox]
+Released: 21 July2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Trollheim, Mor Ul Rek, Drop
+Worn options: Trollheim, Mor Ul Rek
+Examine: A prestigious artifact[sic].
+General Store Value: 0 coins
+Alchemy: Not alchemisable
+Weight: 0.001 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

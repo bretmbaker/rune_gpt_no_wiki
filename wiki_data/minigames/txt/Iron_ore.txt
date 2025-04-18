@@ -1,0 +1,457 @@
+[Minigame: Iron_ore]
+
+Iron ore
+
+
+
+
+
+
+
+Released | 4 January2001(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Drop
+
+Examine | This needs refining.
+
+
+
+Values
+
+
+
+Value | 17 coins
+
+High alch | 10 coins
+
+Low alch | 6 coins
+
+Weight | 2.267 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 185coins (info)
+
+Buy limit | 13,000
+
+Daily volume | 12,834,216
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 440
+
+Link | MOID
+
+
+
+Iron orecan be mined fromiron rocksat level 15Mining, providing 35 Miningexperience. It can be smelted at afurnaceinto aniron barat level 15Smithing, or along with twocoalinto asteel barat level 30 Smithing. Smelting iron bars has a 50% success rate, unless the player is wearing aring of forging, using theSuperheat Itemspell, or using theBlast Furnace. Smelting iron ore into a bar gives 12.5 Smithing experience, and smelting a steel bar gives 17.5 Smithing experience.
+
+Mining info[edit|edit source]
+
+Iron rocks
+
+
+
+Level required | 15
+
+Mining XP | 35xp
+
+Rock | Iron rocks
+
+Required tool | Pickaxe
+
+Respawn time | 5.4 seconds
+
+
+
+Money making[edit|edit source]
+
+The followingmoney making guidesare available for Iron ore:
+
+Method | Hourly profit | Skills
+
+Mining iron ore | 330,445 | 15+(60+ for access to theMining Guild)
+
+Collecting iron ore | 108,000 | None
+
+Uses[edit|edit source]
+
+Quests[edit|edit source]
+
+Doric's Quest: 2 × iron ore
+
+Treasure Trails[edit|edit source]
+
+Charlie the Trampmay ask to be given an iron ore as a requirement for hisbeginner clue scrollstep.
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Iron bar(Blast Furnace) |  | 15 | 12.5 | 1 ×Iron ore
+
+ | Iron bar(Normal furnace) |  | 15 | 12.5 | 1 ×Iron ore
+
+ | Iron bar(Superheat) |  | 1543 | 12.553 | 1 ×Iron ore1 ×Nature rune4 ×Fire rune
+
+ | Steel bar(Blast Furnace) |  | 30 | 17.5 | 1 ×Iron ore1 ×Coal
+
+ | Steel bar(Catalyzed) |  | 30 | 35 | 1 ×Iron ore1 ×Coal1 ×Smithing catalyst
+
+ | Steel bar(Normal furnace) |  | 30 | 17.5 | 1 ×Iron ore2 ×Coal
+
+ | Steel bar(Superheat) |  | 3043 | 17.553 | 1 ×Iron ore2 ×Coal1 ×Nature rune4 ×Fire rune
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Accumulator max cape | N/A | 1 | 5/2,000 | &
+
+Alexis | 24 | 5 | 10/512 | 
+
+Ammonite Crab | 25 | 1 | 2/128 | 
+
+Ava's accumulator | N/A | 1 | 5/2,000 | &
+
+Ava's attractor | N/A | 1 | 5/2,000 | 
+
+Banshee | 23 | 1 | 1/128 | 
+
+Barbarian Assault/GamblesLow | N/A | 200(noted) | 1/32 | 
+
+Barrel (Shaman Caves) | N/A | 1(noted) | Rare | &
+
+Black Guard Berserker | 66 | 2 | 3/128 | 
+
+Black GuardLevel 25 | 25 | 1 | 4/128 | 
+
+Black GuardLevel 48 | 48 | 2 | 3/128 | 
+
+Body Golem | 50 | 2–3 | 6/52 | 
+
+Boris | 24 | 5 | 10/512 | 
+
+Borrokar | 48 | 5 | 10/512 | 
+
+Brimstone chest | N/A | 350–500(noted) | 1/20 | 
+
+Cave goblin (Dorgesh-Kaan) | 36 | 1–4 | 1/20 | 
+
+Cave goblin miner | 11 | 7 | 20/128 | 
+
+Cave goblin miner | 11 | 2 | 15/128 | 
+
+Chaos Golem | 70 | 3–4 | 6/52 | 
+
+Chest (Rogues' Castle) | 84 | 30(noted) | 1/66 | 
+
+Chest (Rogues' Castle)Medium Wilderness Diary | 84 | 40(noted) | 1/66 | 
+
+Chest (Rogues' Castle)Hard Wilderness Diary | 84 | 50(noted) | 1/66 | 
+
+Christmas cracker | N/A | 5(noted) | Always | N/A
+
+Colonel Radick | 38 | 1 | 1/128 | 
+
+Crystal chest | N/A | 150(noted) | 10/128 | 
+
+Dagannoth Rex | 303 | 150(noted) | 1/128 | 
+
+Dark warriorLow level | 8 | 1 | 1/128 | 
+
+Dark warriorGreat Kourend | 37; 51; 62 | 3 | 1/128 | 
+
+Dark warriorHigh level | 145 | 3 | 1/128 | 
+
+Desert Lizard | 24 | 1 | 22/128 | 
+
+Duke Sucellus | 538; 758; 1099 | 63; 95(noted) | 1/100 | 
+
+DwarfRegular | 7; 10; 11 | 1 | 4/128 | 
+
+DwarfLevel 20 | 20 | 1 | 4/128 | 
+
+Eduard | 24 | 5 | 10/512 | 
+
+Elaborate lockbox | N/A | 5–10(noted) | 2 × 3/50 | 
+
+Extra supply crate | N/A | 5–15(noted) | Varies | 
+
+Flesh CrawlerFree-to-play | 28; 35; 41 | 1 | 5/100 | 
+
+Flesh CrawlerMembers | 28; 35; 41 | 1 | 5/100 | 
+
+Flesh CrawlerMembers | 28; 35; 41 | 3–7(noted) | 12/100 | 
+
+Freidir | 48 | 5 | 10/512 | 
+
+Frost Crab | 15 | 1 | 4/180 | 
+
+Frost Crab | 15 | 2 | 2/180 | 
+
+Galina | 24 | 5 | 10/512 | 
+
+Georgy | 24 | 5 | 10/512 | 
+
+Giant Mole | 230 | 100(noted) | 2/128 | 
+
+Giant lobster | 45 | 1 | 2/128 | 
+
+Giant rockslug | 86 | 1 | 22/128 | 
+
+Guard (Aldarin) | 21 | 1 | 1/128 | 
+
+Guard (Doric's hut) | 19 | 1 | 1/128 | 
+
+Guard (H.A.M. Storerooms) | 20 | 1 | 6/500 | 
+
+Guard (Hosidius) | 19; 22 | 1 | 1/128 | 
+
+Guard (Port Sarim jail) | 21 | 1 | 1/128 | 
+
+Guard (Shayzien) | 21 | 1 | 1/128 | 
+
+Guard (Varlamore) | 21 | 1 | 1/128 | 
+
+Guard | 19; 20; 21; 22 | 1 | 1/128 | 
+
+H.A.M. Guard | 12; 18; 22 | 1 | 2/110 | 
+
+H.A.M. Member | 15 | 1 | 2/100 | 
+
+Head Guard | 84 | 1 | 1/128 | 
+
+Imre | 24 | 5 | 10/512 | 
+
+Irina | 24 | 5 | 10/512 | 
+
+Iron rocks | 15 | 1 | Always | 
+
+Jennella | 48 | 5 | 10/512 | 
+
+Joseph | 24 | 5 | 10/512 | 
+
+Jungle horror | 70 | 1 | 27/129 | 
+
+Ksenia | 24 | 5 | 10/512 | 
+
+Lanzig | 48 | 5 | 10/512 | 
+
+Larran's big chest | N/A | 500–650(noted) | 3/60 | 
+
+Larran's small chest | N/A | 300–449(noted) | 3/60 | 
+
+Lensa | 48 | 5 | 10/512 | 
+
+Lev | 24 | 5 | 10/512 | 
+
+The Leviathan | 593; 798; 1157 | 57; 85(noted) | 1/100 | 
+
+Liliya | 24 | 5 | 10/512 | 
+
+Lizard | 42 | 1 | 22/128 | 
+
+Lizardman shaman | 150 | 30–35(noted) | 10/250 | 
+
+Lynx Tamer | 21 | 1 | 1/128 | 
+
+Market Guard | 48 | 2 | 3/128 | 
+
+Milla | 24 | 5 | 10/512 | 
+
+Mind Golem | 30 | 1–2 | 6/52 | 
+
+Nikita | 24 | 5 | 10/512 | 
+
+Nikolai | 24 | 5 | 10/512 | 
+
+Ore pack (Giants' Foundry) | N/A | 1(noted) | 30 × 10.38/100 | 
+
+Ore pack (Volcanic Mine) | N/A | 0–65(noted) | Common | 
+
+Ranging capeaccumulator | N/A | 1 | 5/2,000 | 
+
+Reward Cart | N/A | 5–15(noted) | Varies | 
+
+Reward token | N/A | 7–24(noted) | Always | 
+
+Reward token | N/A | 22–55(noted) | Always | 
+
+Reward token | N/A | 50–72(noted) | Always | 
+
+Rock Crab | 13 | 1 | 2/128 | 
+
+Rock Golem (monster)High level | 120; 159 | 1 | 4/128 | 
+
+Rock Golem (monster)Low level | 14; 29; 49; 79 | 1 | 4/78 | 
+
+Rockslug | 29 | 1 | 22/128 | 
+
+Sand Crab | 15 | 1 | 2/128 | 
+
+Screaming banshee | 70 | 1 | 3 × 1/128 | 
+
+Sergeant (Shayzien) | 84 | 1 | 1/128 | 
+
+Shop Counter (ore) | 82 | 1 | 25/80 | 
+
+Simple lockbox | N/A | 1–2 | 3 × 8/50 | 
+
+Skeletal Wyvern | 140 | 200(noted) | 3/128 | 
+
+Skeleton (Tarn's Lair)Low level | 42; 59 | 2 | 2/128 | 
+
+SkeletonUnarmed | 21; 22 | 1 | 1/128 | 
+
+Small Lizard | 12 | 1 | 22/128 | 
+
+Sofiya | 24 | 5 | 10/512 | 
+
+Soldier (Shayzien) | 21 | 1 | 1/128 | 
+
+Soldier (Yanille) | 28 | 1 | 1/128 | 
+
+Storage crate | N/A | 1 | 7/195 | 
+
+Sulphur Lizard | 50 | 5–10(noted) | 21.5/128 | 
+
+Sulphur Nagua | 98 | 5–10(noted) | 27/128 | 
+
+Svetlana | 24 | 5 | 10/512 | 
+
+Swamp Crab | 55 | 2 | 2/128 | 
+
+Thug | 10 | 1 | 4/128 | 
+
+Tower guard | 28 | 1 | 1/128 | 
+
+Vardorvis | 572; 784; 1136 | 38; 57(noted) | 1/100 | 
+
+Vera | 24 | 5 | 10/512 | 
+
+Void Knights' Reward OptionsMineral pack | N/A | 18(noted) | Always | 
+
+Warrior (Rellekka) | 48 | 2 | 3/128 | 
+
+The Whisperer | 587; 791; 1146 | 88; 133(noted) | 1/100 | 
+
+White KnightLevel 38 | 38 | 1 | 1/128 | 
+
+White KnightLevel 39 | 39 | 1 | 1/128 | 
+
+White KnightLevel 42 | 42 | 1 | 1/128 | 
+
+White KnightLevel 36 | 36 | 1 | 1/128 | 
+
+Yadviga | 24 | 5 | 10/512 | 
+
+Yuri | 24 | 5 | 10/512 | 
+
+Zoja | 24 | 5 | 10/512 | 
+
+Zombie (Tarn's Lair)Low level | 40–56 | 2 | 3/128 | 
+
+Zombie pirate (Braindeath Island) | 57 | 1 | 1/128 | 
+
+Zombie swab | 55 | 1 | 1/128 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Drogo's Mining Emporium. | Dwarven Mines | 0 | 50m | 17 | 11 | 2.0% |  | 
+
+Hendor's Awesome Ores | Mining Guild | 0 | 50m | 17 | 11 | 2.0% |  | 
+
+Mistrock Mining Supplies | Mistrock | 0 | 6s | 17 | 10 | 2.0% |  | 
+
+Ore seller. | Blast FurnaceinKeldagrim | 100 | 2m | 25 | 6 | 0.0% |  | 
+
+Ore store | Jatizso | 10 | 6s | 18 | 11 | 3.0% |  | 
+
+Petrified Pete's Ore Shop | Volcanic Mine | ∞ | N/A | 30 | N/A | 0.0% |  | 
+
+TzHaar-Hur-Lek's Ore and Gem Store(Karamja gloves) | Mor Ul Rek | 2 | 1m | 22 | 5 | 2.0% |  | 
+
+TzHaar-Hur-Lek's Ore and Gem Store | Mor Ul Rek | 2 | 1m | 25 | 2 | 2.0% |  | 
+
+TzHaar-Hur-Rin's Ore and Gem Store(Ironman) | Mor Ul Rek | 15 | 1m | 25 | 2 | 2.0% |  | 
+
+TzHaar-Hur-Rin's Ore and Gem Store | Mor Ul Rek | 15 | 1m | 25 | 2 | 2.0% |  | 
+
+TzHaar-Hur-Rin's Ore and Gem Store(Karamja gloves) | Mor Ul Rek | 15 | 1m | 22 | 5 | 2.0% |  | 
+
+TzHaar-Hur-Rin's Ore and Gem Store(Karamja gloves, Ironman) | Mor Ul Rek | 15 | 1m | 22 | 5 | 2.0% |  | 
+
+v•t•eIron equipment
+
+Melee weapons | DaggerAxeMaceClawsSwordLongswordScimitarSpearWarhammerBattleaxeTwo-handerHalberdHastaPickaxeFelling axeSickle
+
+Ranged weapons/ammo | CrossbowBoltsArrowBrutal arrowsThrowing axeThrowing knifeJavelinDarts
+
+Armour | Medium helmFull helm(t)(g)ChainbodyPlatebody(t)(g)GlovesSquare shieldKiteshield(t)(g)Platelegs(t)(g)Plateskirt(t)(g)BootsDefender
+
+Other | BarOreOil lantern frameCooking spitNailsArrowtipsJavelin headsDart tipsUnfinished boltsBroken axeBroken pickaxe
+
+v•t•eMining
+
+Mining rocks and sources | Ore rocksCopper(vein)Tin(vein)BluriteIron(vein)DaeyaltElementalSilverCoal(vein)Gold(vein)Mithril(vein)LunarLovakiteAdamantite(vein)RuniteOtherRune EssenceClay(vein)RockChocolateLimestoneBarroniteMagicalAshOre veinDense runestoneSandstoneGemGraniteDaeyalt EssenceSoft clayAncient essenceAmethystCrashed StarBasalt rockEfh salt rocksTe salt rocksUrt salt rocksSalax salt depositAmalgamation | Ore rocks | Copper(vein)Tin(vein)BluriteIron(vein)DaeyaltElementalSilverCoal(vein)Gold(vein)Mithril(vein)LunarLovakiteAdamantite(vein)Runite | Other | Rune EssenceClay(vein)RockChocolateLimestoneBarroniteMagicalAshOre veinDense runestoneSandstoneGemGraniteDaeyalt EssenceSoft clayAncient essenceAmethystCrashed StarBasalt rockEfh salt rocksTe salt rocksUrt salt rocksSalax salt depositAmalgamation
+
+Ore rocks | Copper(vein)Tin(vein)BluriteIron(vein)DaeyaltElementalSilverCoal(vein)Gold(vein)Mithril(vein)LunarLovakiteAdamantite(vein)Runite
+
+Other | Rune EssenceClay(vein)RockChocolateLimestoneBarroniteMagicalAshOre veinDense runestoneSandstoneGemGraniteDaeyalt EssenceSoft clayAncient essenceAmethystCrashed StarBasalt rockEfh salt rocksTe salt rocksUrt salt rocksSalax salt depositAmalgamation
+
+Ores | CopperTinBluriteIronDaeyaltElementalSilverCoalGold('perfect')BlastedMithrilLunarLovakiteAdamantiteRunite
+
+Fragments | IronSilverCoalGoldMithrilAdamantiteRunite
+
+Salts | BasaltEfh saltTe saltUrt saltSalax salt
+
+Gems | OpalJadeRed topazSapphireEmeraldRubyDiamond
+
+Other mineables | Rune essenceClaySoft clayRockChocolate chunksLimestoneBarronite shardsBarronite depositPay-dirtUnidentified mineralsSoda ashVolcanic ashSandstoneGranitePure essenceDense essence blockDaeyalt shardVolcanic sulphurAncient essenceAmethystStardustTainted essence chunkClue geode
+
+Pickaxes | BronzeIronSteelBlackMithrilAdamantRuneDragon(upgraded)•(or)Infernal3rd ageCrystal
+
+Mining enhancers | Celestial ringCelestial signetMining capeMining glovesStandardSuperiorExpertVarrock armour1234 |  | Celestial ringCelestial signetMining cape | Mining gloves | StandardSuperiorExpert | Varrock armour | 1234
+
+ | Celestial ringCelestial signetMining cape
+
+Mining gloves | StandardSuperiorExpert
+
+Varrock armour | 1234

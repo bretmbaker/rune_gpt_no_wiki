@@ -1,0 +1,46 @@
+[Weapon: Berserker Necklace (Or)]
+
+
+Theberserker necklace (or)is aberserker necklacewith aberserker necklace ornament kitattached to it. The attached ornament kit gives no additional bonuses, and is only used to add aesthetics to the necklace. It costs2,474,615for both the parts to make the berserker necklace (or).
+While the necklace is untradeable in its ornamented state, it can be dismantled anytime, returning the tradeable necklace and ornament kit.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle
+Examine: Makes obsidian weapons even stronger and has a nice glow to boot!
+General Store Value: 202,000 coins
+High alch: 121,200 coins
+Low alch: 80,800 coins
+Weight: 0.01 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -10
+- Slash: -10
+- Crush: -10
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: -20
+- Slash: -20
+- Crush: -20
+- Magic: -20
+- Ranged: -20
+
+Other Bonuses:
+- Strength: +7
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Neck slot

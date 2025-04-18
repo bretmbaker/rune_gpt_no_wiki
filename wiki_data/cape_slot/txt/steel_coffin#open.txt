@@ -1,0 +1,47 @@
+[Weapon: Steel Coffin#Open]
+
+
+Thesteel coffinis an item that can store up to 8shade remainsof any different type. It is obtained by bringingsteel locksand abroken coffintoDampeby the entrance to theShade Catacombs. Shade remains cannot be burnt directly from the coffin and must be removed prior to constructing the pyre.
+The coffin has several right-click options available:
+
+
+[Infobox]
+Released: 27 January2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Stacks in bank: No
+Equipable: Yes
+Stackable: No
+Options: Fill, Wear, Configure, Open, Destroy
+Worn options: Fill, Configure, Open
+Destroy: You will lose the lock and any shade remains currently stored.
+Examine: Can store up to 8 shade remains.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

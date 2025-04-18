@@ -1,0 +1,24 @@
+[Minigame: Barbarian_Assault/Gambles]
+
+Honour pointscan be gambled for a chance to receive armour, resources, and the rarepet penance queen. These gambles are known onmobileaslucky dips, and are spent from a single role of the player's choice.
+
+Tiers[edit|edit source]
+
+There are 3 levels of gambling, each with different costs. For low and medium gambles, the player needs to have progressed through a certain number of waves without resetting or completing Wave 10.
+
+Level | Honour points needed | Required wave
+
+Low | 200 | 3 or higher
+
+Medium | 400 | 6 or higher
+
+High | 500 and 1 queen kill | 1 or higher
+
+Theclue scroll (elite)andpet penance queenwill always be rolled in addition to one of the main drops.
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Clue scroll (elite) | 1 | 1/15[d 1] | Not sold | 12
+
+ | Pet penance queen | 1 | 1/1,000[1] | Not sold | N/A
+

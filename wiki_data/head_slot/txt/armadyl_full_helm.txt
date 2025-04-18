@@ -1,0 +1,54 @@
+[Weapon: Armadyl Full Helm]
+
+
+AnArmadyl full helmis a decoratedrune full helmthat is affiliated with the godArmadyl. It shares the same stats as the rune full helm, except it has a +1Prayer bonus. Its appearance differs in that the helm features a greyish plume. The full helm requires 40Defenceto wear andcannotbe made using theSmithingskill. Players can obtain an Armadyl full helm as a reward from completinghardTreasure Trails.
+This full helm is a constituent of theArmadyl rune armourset which consists of the following items: Armadyl full helm,Armadyl platebody,Armadyl platelegsorArmadyl plateskirt, andArmadyl kiteshield, all of which are decorative versions of their respectiverune armour counterparts. Players wielding any piece featured in this set of armour will causefollowers of Armadylto become tolerant upon entering theGod Wars Dungeon.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Rune full helmet in the colours of Armadyl.
+General Store Value: 35,200 coins
+High alch: 21,120 coins
+Low alch: 14,080 coins
+Weight: 2.721 kg
+Grand Exchange Value: 22,723 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 85
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +30
+- Slash: +32
+- Crush: +27
+- Magic: -1
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

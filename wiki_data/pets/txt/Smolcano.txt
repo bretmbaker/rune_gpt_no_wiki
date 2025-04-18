@@ -1,0 +1,65 @@
+[Pet: Smolcano]
+
+Smolcanois apetdropped byZalcano. It is a much smaller version of Zalcano.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Zalcano | 336 | 1 | 1/2,250 | 
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+21 May2020(update) | Smolcano now has a static 1/2,250 drop rate for any eligible players instead of 1/1,500 to 1/2,775 that scaled to player performance.
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan
+
+v•t•eZalcano
+
+NPCs | GolemRhiannonZalcano
+
+Items | TephraRefined tephraImbued tephra
+
+Notable drops | Crystal shardCrystal tool seedZalcano shardSmolcano
+
+Scenery | AltarBarrierDemonic SymbolFurnaceRock FormationTeleport Platform
+
+Related | The Spurned DemonThe spurned demon

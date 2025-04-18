@@ -1,0 +1,2 @@
+Item: Customs officer
+Summary: A customs officer is found on Karamja at the port at Musa Point. The player must talk to her in order to take a boat back to Port Sarim. It costs 30 coins to depart. If a player is wearing the Karamja gloves, the cost is lowered to 15 coins.

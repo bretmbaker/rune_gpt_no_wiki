@@ -1,0 +1,39 @@
+Name: Ugthanki
+Combat Level: 42
+Size: 2x2
+Info:
+- Description: A vicious attacking camel.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4652
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 45
+Attack: 35
+Strength: 35
+Defence: 35
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

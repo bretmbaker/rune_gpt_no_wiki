@@ -1,0 +1,542 @@
+[Minigame: Woodcutting]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+ | This article has skill training guides:Members/Ironman/Free-to-playSkill training guidesdocument optimal XP/hour methods to train a skill, as well as alternate passive or less expensive methods.
+
+Woodcutting
+
+
+
+
+
+
+
+Released | 4 January2001(Update)
+
+Also called | WC
+
+Members | No
+
+Type | Gathering
+
+
+
+Statistics
+
+
+
+Players with99 | 214,310as of 1 April 2025 -update
+
+Players with200M XP | 803as of 3 April 2025 -update
+
+
+
+Woodcuttingis a gatheringskillthat primarily involves chopping trees to obtain logs used in theFletching,Firemaking, andConstructionskills. Players with a higher Woodcutting level can chop down new types of trees and cut down trees quicker, especially as higher levels ofaxesbecome available.
+
+Woodcutting is a useful skill for a low-levelled player to make money early in the game. On the map, locations of rare trees can be located with a treeicon.
+
+Players looking for a more social Woodcutting experience can partake inForestry. To begin, grab aForestry kitfrom theForestry ShopinDraynor,Seers' VillageorPrifddinas.
+
+Memberscan also grow their own trees to chop using theFarmingskill. Additionally, at level 60 Woodcutting and above (which can be boosted), members can gain access to theWoodcutting Guild, containing a wide variety of useful features.
+
+ | Woodcutting level up - normal
+
+The music that plays when levelling up.
+
+
+
+ | Woodcutting level up - with unlocks
+
+The music that plays when levelling up and unlocking new content.
+
+
+
+Types of trees[edit|edit source]
+
+Level | Tree | Resource | Experience | Chop Down time | Notes | Members
+
+1 |  | Tree |  | Logs | 25 | One Log | The most common tree in Gielinor, these trees are how players start off training Woodcutting. Both evergreen and dead trees (both small and big) also yield logs. Each tree only yields one log, after which they are cut down and respawn in a short time.Buckets of sapcan be acquired by using aknifeon the conical variants whilst having abucketin one's inventory. | 0
+
+1 |  | Tree (Tirannwn) |  | Logs | 25 | One Log | Found throughoutTirannwn. Equivalent to common trees, but all variants produce sap. | 1
+
+1 |  | Dying tree |  | Logs | 25 | One Log | Can be found in theWilderness,Varrock, and theLumber Yard. | 0
+
+1 |  | Dead tree |  | LogsorCharcoal | 25 | One Log | Dead trees can be found all aroundGielinor. Dead trees found around theFishing Hamlet, and east of theLava Dragon Isle(in theWilderness) givecharcoalwhen cut. | 0
+
+1 |  | Burnt tree |  | Charcoal | 25 | One Log | Found around theFossil Island Volcano. | 1
+
+1 |  | Evergreen tree |  | Logs | 25 | One Log | Evergreen trees can be found nearFalador, near the entrance to theDwarven Mines, north-west ofBarbarian Village, east ofCamelot Castleand onDragontooth Island.Buckets of sapcan be acquired by using aknifeon an evergreen tree whilst having abucketin your inventory. | 0
+
+1 |  | Jungle tree |  | Logs | 25 | One Log | They are only found in theFeldip Hunter area, theKharazi Jungle, and onApe Atoll.Several variations of models for the tree and stump exist, likely due to the trees in the Kharazi Jungle being introduced inRuneScape Classic. | 0
+
+1 |  | Achey tree |  | Achey tree logs | 25 | One Log | These trees are used for the members-only questBig Chompy Bird Hunting, to makeogre bowsandarrows. Like normal trees, achey trees only yield one log. | 1
+
+10 |  | Light Jungle |  | Thatch spar light | 32 | Varies | Light jungle can only be cut with amachete, and is found nearTai Bwo Wannai. Used in theTai Bwo Wannai Cleanupminigame. When cutting these, many dangerous things may pop out, such asbroodoo victims,mosquito swarms,tribesman,bush snakesandjungle spiders. | 1
+
+15 |  | Oak tree |  | Oak logs | 37.5 | 45ticks(27 seconds) | These trees are fairly easy to find around wooded areas. Unlike normal trees, oak trees can yield multiple logs, and are used for training once the player has the ability to cut them. | 0
+
+20 |  | Medium Jungle |  | Thatch spar med | 55 | Varies | Medium jungle can only be cut with amachete, and is found nearTai Bwo Wannai. Used in theTai Bwo Wannai Cleanupminigame. When cutting these, many dangerous things may pop out, such asbroodoo victims,mosquito swarms,tribesman,bush snakesandjungle spiders. | 1
+
+30 |  | Willow tree |  | Willow logs | 67.5 | 50ticks(30 seconds) | These trees are found near water. Players can find them in and aroundPort Sarim,Draynor Village,Seers' Village, andChampions' Guild. A usually unoccupied area is also at the lake west ofFred the Farmer'shut. | 0
+
+35 |  | Teak tree |  | Teak logs | 85 | 50ticks(30 seconds) | These trees yieldteak logswhen cut, which are used forConstructiontraining. Teak trees are rather rare, with several lone trees aroundCastle Wars,UzerandApe Atoll. A large cluster can be found in theHardwood Grove. | 1
+
+35 |  | Dense Jungle |  | Thatch spar dense | 80 | Varies | Dense jungle can only be cut with amachete, and is found nearTai Bwo Wannai. Used in theTai Bwo Wannai Cleanupminigame. When cutting these, many dangerous things may pop out, such asbroodoo victims,mosquito swarms,tribesman,bush snakesandjungle spiders. | 1
+
+42 |  | Mature juniper tree |  | Juniper logs | 35 | 1 in 16 chance per log | These trees can only be found inHosidius, north-west of thecharcoal furnaces.They are primarily cut to obtainjuniper charcoal, a component in makingdynamitefor theblast mineminigame inLovakengj.Juniper logs cannot be burned. 1 in 16 chance of depletion when a log is received. | 1
+
+45 |  | Maple tree |  | Maple logs | 100 | 100ticks(60 seconds) | Maple trees are special trees which can be found only in northernKandarin,Fremennik Province,Corsair Cove Resource Area, behind Seers Village Bank and theWoodcutting Guild. Experience per log increases to 110 after completing theKandarin Medium Diary. | 0
+
+45 |  | Hollow tree |  | Bark | 82.5 | 60ticks(36 seconds) | These are found inSlepeand theHaunted Woods, and yieldbark, which is used to createSplitbark armour. | 1
+
+50 |  | Mahogany tree |  | Mahogany logs | 125 | 100ticks(60 seconds) | Like teak trees, mahogany trees are quite rare, and yieldmahogany logswhen cut, which are used forConstructiontraining. Mahogany trees can be found in theHardwood Grove,Ape Atoll,Kharazi Jungle, north of theFarming Guild, and grown onFossil Island. | 1
+
+54 |  | Arctic pine tree |  | Arctic pine logs | 40 | 140ticks(84 seconds) | These are found on the islands ofNeitiznotand south-west ofRellekka. These logs are better used forFiremakingexperience rather than Woodcutting. | 1
+
+60 |  | Yew tree |  | Yew logs | 175 | 190ticks(114 seconds) | The highest levelled tree for Free-to-Play players to cut, yew trees are uncommon throughoutRuneScape. | 0
+
+62 |  | Blisterwood tree |  | Blisterwood logs | 76 | 1/10 chance per log | A single tree can be found in theArboretuminDarkmeyer. | 1
+
+65 |  | Sulliuscep |  | Mushrooms,sulliuscep caps,Mort Myre fungiandunidentified fossils | 127 | 1/16 chance per successful chop | Found in theTar SwamponFossil Island. They do not respawn like trees, but rather each of the six sulliusceps found throughout the swamp respawn in a fixed rotation once the previous sulliuscep is depleted. | 1
+
+75 |  | Magic tree |  | Magic logs | 250 | 390ticks(3 minutes and 54 seconds) | Cutting these trees takes time as they give logs at a very slow rate. You can find these trees at theMage Training Arena,Sorcerer's Tower, and south-west ofCamelot. There are also a few just west of the south ladder to the bank in theTree Gnome Stronghold, as well as inside theWoodcutting Guild. Two trees can be found just south of the main bank inHosidius. | 1
+
+90 |  | Redwood tree |  | Redwood logs | 380 | 440ticks(4 minutes and 24 seconds) | These trees are found in theWoodcutting Guildor grown in theFarming Guild. Players do not chop the entire tree but rather sections of the trunk that are reached by climbing ladders | 1
+
+Trees chopped in quests and minigames[edit|edit source]
+
+Deadyommi treesthat may turn up during theLegends' Questcan be chopped for a random log. Notably, this allows players to obtainmagic logswithout the level requirement to chopmagic trees.Theswaying treeis chopped for abranchduringThe Fremennik Trials.Thedramen treeis chopped fordramen branchesduring theLost Cityquest and theFreeing Sir Amik Varzesubquest ofRecipe for Disaster.Dream treesare chopped fordream logsduring theLunar Diplomacyquest.Undead treesare chopped forundead twigsduringAnimal Magnetism. Ablessed axeis required.Thewindswept treeis chopped forwindswept logsduringOlaf's Quest.A shrunkbeanstalkis chopped duringGrim Tales. The axe must be used on the beanstalk.Phren rootsare chopped forphren barkinThe Gauntlet.A variantis chopped in theCorrupted Gauntlet.Scrapey treesare chopped forscrapey tree logsin theTrouble Brewingminigame.Bruma rootsare chopped forbruma rootwhilst fighting theWintertodt.Themeat treeis chopped when fighting theMuttadilein theChambers of Xeric.Saplingsare chopped forkindlingwhen fighting theice demonin theChambers of Xeric.Regular and anima-infusedrootsare chopped during theRising Roots Forestry Event.
+
+Logs[edit|edit source]
+
+Normal logs[edit|edit source]
+
+Item | Woodcutting | GEPrice | Members
+
+Level | Exp
+
+ | Logs | 1 | 25 | 150 | 0
+
+ | Oak logs | 15 | 37.5 | 68 | 0
+
+ | Willow logs | 30 | 67.5 | 78 | 0
+
+ | Maple logs | 45 | 100 | 23 | 0
+
+ | Yew logs | 60 | 175 | 284 | 0
+
+ | Magic logs | 75 | 250 | 1,020 | 1
+
+ | Redwood logs | 90 | 380 | 611 | 1
+
+Construction logs[edit|edit source]
+
+Item | Woodcutting | GEPrice | Members
+
+Level | Exp
+
+ | Teak logs | 35 | 85 | 298 | 1
+
+ | Mahogany logs | 50 | 125 | 435 | 1
+
+Other logs[edit|edit source]
+
+Item | Woodcutting | GEPrice | Members
+
+Level | Exp
+
+ | Achey tree logs | 1 | 25 | 301 | 1
+
+ | Arctic pine logs | 54 | 40 | 444 | 1
+
+Special logs[edit|edit source]
+
+Item | Woodcutting | GEPrice | Members
+
+Level | Exp
+
+ | Scrapey tree logs | 0 | 25 | N/A | 1
+
+ | Juniper logs | 42 | 35 | N/A | 1
+
+ | Bark | 45 | 82.5 | 101 | 1
+
+ | Blisterwood logs | 62 | 76 | N/A | 1
+
+Equipment[edit|edit source]
+
+Axes[edit|edit source]
+
+Various equipment may be used to interact with trees. Most trees require an axe to chop.
+
+Level | Item | Description | Members
+
+1 |  | Bronze axe | Can be used to cut most trees. | 0
+
+ | Iron axe
+
+6 |  | Steel axe
+
+11 |  | Black axe
+
+21 |  | Mithril axe
+
+31 |  | Adamant axe
+
+35 |  | Blessed axe | The only axe capable of cuttingUndead trees, however unable to chop any other type. Used in theAnimal Magnetismquest. Undead trees are NPCs and have a 18Slayerlevel requirement to cut. | 1
+
+41 |  | Rune axe | Can be used to cut most trees. The best axes available in Free-to-Play. | 0
+
+41 |  | Gilded axe
+
+61 |  | Dragon axe | Special attack:Lumber Up, provides a visible +3 boost to Woodcutting. | 1
+
+61 |  | 3rd age axe
+
+61 &85 |  | Infernal axe | Provides the same benefits as a dragon axe, including the special attack, however burns 1/3 of logs cut. This grants 1/2 the Firemaking experience that would normally be gained from doing so. Grants no additional benefit to trees that provide resources that cannot be burned. When depleted of charges, it behaves as a dragon axe.
+
+71 |  | Crystal axe | Special attack:Lumber Up, provides a visible +3 boost to Woodcutting. Requirescrystal shardsto operate; as such, chopping very low level trees (such as oak and below) with the crystal axe is not recommended as players with 71 Woodcutting likely have maxed out the chance to receive a log. When depleted of charges, it behaves as a dragon axe. Requires completion ofSong of the Elvesto use.
+
+Felling axes[edit|edit source]
+
+Similar to their regular counterpart, when used withForester's rations, felling axes provide an extra 10% Woodcutting experience with a 20% chance to not receive a log when chopping trees.
+
+Level | Item | Description | Members
+
+1 |  | Bronze felling axe | Can be used to cut most trees. | 1
+
+ | Iron felling axe
+
+6 |  | Steel felling axe
+
+11 |  | Black felling axe
+
+21 |  | Mithril felling axe
+
+31 |  | Adamant felling axe
+
+41 |  | Rune felling axe
+
+61 |  | Dragon felling axe | Special attack:Lumber Up, provides a visible +3 boost to Woodcutting.
+
+61 |  | 3rd age felling axe
+
+71 |  | Crystal felling axe | Special attack:Lumber Up, provides a visible +3 boost to Woodcutting. Requirescrystal shardsto operate; as such, chopping very low level trees (such as oak and below) with the crystal felling axe is not recommended as players with 71 Woodcutting likely have maxed out the chance to receive a log. When depleted of charges, it behaves as a dragon felling axe. Requires completion ofSong of the Elvesto use.
+
+Other[edit|edit source]
+
+Besides axes, other equipment is useful for the Woodcutting skill.
+
+Item | Benefit | Notes
+
+ | Machete | Can be used to cutLight jungle,Medium jungleand,Dense jungle. | Used in theKaramjajungle.
+
+ | Opal machete
+
+ | Jade machete
+
+ | Red topaz machete
+
+ | Lumberjack hat | 0.4% bonus exp. | Can be purchased from theForestry Shopor obtained during theTemple Trekkingminigame.[a 1][a 2]
+
+ | Lumberjack top | 0.8% bonus exp.
+
+ | Lumberjack legs | 0.6% bonus exp.
+
+ | Lumberjack boots | 0.2% bonus exp.
+
+ | Forestry hat | 0.4% bonus exp. | Each piece of theLumberjack outfitcan be changed to the corresponding piece of theForestry outfitfrom theForestry Shop.[a 2]
+
+ | Forestry top | 0.8% bonus exp.
+
+ | Forestry legs | 0.6% bonus exp.
+
+ | Forestry boots | 0.2% bonus exp.
+
+ | Kandarin headgear 1 | Chance to double logs from normal trees. | Requires completion of the easyKandarin Diary.
+
+ | Kandarin headgear 2 | Requires completion of the mediumKandarin Diary.
+
+ | Kandarin headgear 3 | Requires completion of the hardKandarin Diary.
+
+ | Kandarin headgear 4 | Requires completion of the eliteKandarin Diary.
+
+ | Twitcher's gloves | Gives 20% increased chance to receive a specific type ofbird nestdropped from trees whilst Woodcutting. | Can be purchased from theForestry Shop.
+
+ | Strung rabbit foot | Slightly increasesbird's eggsand rings when receiving a bird nest. | Does not increase the drop rate of bird nests.
+
+ | Ring of wealth (i) | Doubles the chance to receive easy-elite clue nests when in the wilderness. | Does not increase the drop rate of beginner clue nests.
+
+ | Elven signet | Provides a 10% chance to not use a charge when using acrystal axe. | Thecelestial signetprovides the same benefit.
+
+ | Woodcutting cape | Requiring level 99 in the Woodcutting skill, grants a 10% increase in chance to receive a bird nest. Temporary +1 visible boost to Woodcutting. | The temporary boost is applied when the cape is worn, and can be removed and reequipped to reapply the boost; however, visible boosts above 99 have no effect.[1]
+
+ | Max cape | Same effect as the Woodcutting cape, except for the visible boost. | 
+
+ | Forestry kit | Stores a variety of Forestry related items. | 
+
+ | Log basket | Can carry an additional 28 logs of any type, increasing the number of logs a player can carry to a total of 56. | Cannot carrySulliuscep caps. Can be attached to theForestry kitwith theLog bracepurchased from theForestry Shopfor 5000Anima-infused bark, 300Oak logsand 300Willow logs.
+
+ | Secateurs attachment | Doubles the amount of leaves obtained from Forestry events. | 
+
+ | Nature offerings | Offers a 60-80% chance of receiving an additional log. | 
+
+ | Blessed axe | Used during and after theAnimal magnetismquest to chop twigs from undead trees. | 
+
+Mechanics[edit|edit source]
+
+Both Woodcutting level and tier of axe determines players' speed of chopping logs. Players with high enoughAttacklevels can equip the axes that match the respective metals, but having an axe equipped is not necessary in order to chop a tree; having one in the player's inventory also works.
+
+Most trees follow the same mechanics when cut, rolling to chop a log every 4 gameticks. All trees have different chances to chop a log depending on the tree being cut, the player's Woodcutting level, and the axe being used. With a high Woodcutting level and a good axe, a 100% success rate can be achieved when cutting certain lower-level trees.[2]
+
+Trees despawn on a timer that activates after the first cut and regenerates if players stop cutting the tree before it is fully chopped. The regeneration rate is equal to the chopping time. So chopping for 10 seconds, then stopping for 10 seconds will let the tree recover to full. After a tree depletes, a timer counts down to its respawn.
+
+Tree | Despawn time | Respawn time
+
+Oak tree | 27 seconds | 8.4 seconds
+
+Willow tree | 30 seconds | 8.4 seconds
+
+Teak tree | 30 seconds | 9 seconds
+
+Maple tree | 1 minute | 35.4 seconds
+
+Hollow tree | 36 seconds | 25.8 seconds
+
+Mahogany tree | 1 minute | 8.4 seconds
+
+Arctic pine tree | 1 minute, 24 seconds | 8.4 seconds
+
+Yew tree | 1 minute, 54 seconds | 59.4 seconds
+
+Magic tree | 3 minutes, 54 seconds | 1 minute, 59.4 seconds
+
+Redwood tree | 4 minutes, 24 seconds | 1 minute, 59.4 seconds
+
+Members have a chance to receive thebeaverWoodcutting pet whilst chopping trees aroundGielinor.
+
+Bird Nests[edit|edit source]
+
+Whilst chopping most standard trees, players have a 1/256 chance to receivebird nests, which fall to the floor and can be picked up. These may be empty, or contain various rings, tree seeds, and rarely abird's egg. The nests themselves are valuable in theircrushed formfor use in makingSaradomin Brewswith theHerbloreskill.
+
+The player may also obtainclue nestsin a similar fashion, which contain aclue scrollbetween beginner and elite tiers. Whilst regular bird nests aren't obtainable through chopping redwood trees, clue nests are. Unlike normal nests, these rates are affected by the type of tree and Woodcutting level.
+
+Special Woodcutting locations and activities[edit|edit source]
+
+Several locations have unique mechanics that related to Woodcutting.
+
+Woodcutting Guild[edit|edit source]
+
+TheWoodcutting guildis located in the south-western corner ofHosidius, providing various Woodcutting features formembers. The guild requires at least level 60 Woodcutting to enter. Within the guild, players receive aninvisible +7 boostto their Woodcutting skill, allowing them to chop trees significantly faster, but not trees that require a Woodcutting level above their visible level.
+
+The guild contains a wide variety of trees found acrossGielinor, including higher levelyewandmagic trees; all found in close proximity to both asawmillandbank. It is the only location ofredwood treesin the game, except for those grown by the player within theFarming guild. Other notable features include:
+
+Perry's Chop-chop Shop, the only shop inOld School RuneScapethat sellsrune axes.A dungeon containing manyEnts
+
+Forestry[edit|edit source]
+
+Forestryis a social Woodcutting activity in which players carry aForestry kitfor a chance to spawn special events upon felling trees. These special events can spawn more frequently when players are either cutting the same tree, cutting higher-tiered trees, or by doing both. Eligible players can earnanima-infused bark, various types ofleaves, and other rare event items. The anima-infused bark can then be exchanged atForestry shopsfor a variety of Woodcutting-related items.
+
+ | Members? | Group/Individual event?[g 1] | Skills Trained(Other thanWoodcutting) | Unique Rewards | Event length
+
+Struggling sapling | 0 | Group | Farming | N/A | 3 minutes, 30 seconds
+
+Rising roots | 0 | Independent | N/A | N/A | 1 minute, 33 seconds
+
+Friendly Ent | 0 | Group | Fletching | Bird nest (egg) | 2 minutes
+
+Beehive | 1 | Group | Construction | Sturdy beehive parts | 2 minutes, 30 seconds
+
+Flowering Tree | 1 | Independent | N/A | Strange fruitand other seeds | 3 minutes
+
+Pheasant Control | 1 | Independent | Thieving | Pheasant tail feathersandGolden pheasant egg | 1 minute, 36 seconds
+
+Poachers | 1 | Group | Hunter | Fox whistle | 1 minute, 50 seconds
+
+Enchantment Ritual | 1 | Group | N/A | Petal garland | 2 minutes
+
+Woodcutting Leprechaun | 1 | Independent | N/A | N/A | 1 minute, 12 seconds
+
+Canoes[edit|edit source]
+
+Canoesare a way of travelling along theRiver Lum. All that is required to use them is anaxeand a minimum of level 12 Woodcutting for the lowest level canoe. There are five canoe stations and six stops.
+
+Canoes are a very handy way of getting toEdgevillewithout anamulet of glory.
+
+Whilst theWildernessis the last stop, there are no suitable trees to make a canoe, so it is a one-way trip. It drops players off just north of theblack chinchompahunting grounds.
+
+Image | Canoe | Woodcutting | Notes
+
+Level | Exp
+
+ | A Log | 12 | 30 | It will take you one stop along the River Lum. Cannot be used to travel to the Wilderness.
+
+ | A Dugout | 27 | 60 | It can take you up to two stops along the River Lum. Cannot be used to travel to the Wilderness.
+
+ | A Stable Dugout | 42 | 90 | It can take you up to three stops along the River Lum. Cannot be used to travel to the Wilderness.
+
+ | A Waka | 57 | 150 | It can take you unlimited stops along the River Lum. The only canoe that can travel into the Wilderness.
+
+Tai Bwo Wannai Cleanup[edit|edit source]
+
+Tai Bwo Wannai Cleanup is a Woodcutting minigame that revolves around hacking jungle bushes aroundTai Bwo Wannaiwith a machete forthatch sparsand using them to repair the village fence. Both actions grant favour with the locals, which can be exchanged fortrading sticks. Furthermore,gout tubers,proboscides,snake hide,uncut opals,uncut jades,uncut red topazesandtribal masksmay be obtained from creatures and rocks that occasionally spawn upon successfully clearing a jungle bush.
+
+Prifddinas[edit|edit source]
+
+Theregular trees,teak tree,mahogany trees,yew treesandmagic treesfound within the walls of Prifddinas have a 1/40 chance of producing acrystal shardin addition to the main product. Despite their models also having embedded crystals, the trees inGwenithdo not yield crystal shards.
+
+Ents[edit|edit source]
+
+Ents are monsters found in theWildernessand at theWoodcutting guild. They become ent trunks when killed, which can be chopped for randomnotedlogs until it despawns. Ents in the wilderness produce logs at twice the rate of logs from ents at the Woodcutting Guild. Completing the medium tier of theWilderness Diaryfurther increases the rate.
+
+Farmable trees[edit|edit source]
+
+Oak trees, willow trees, maple trees, yew trees, and magic trees can be planted in any of sixtree patchesfound throughout Gielinor. Teak trees and mahogany trees can be planted in any of threehardwood patchesonFossil Island.Crystal treescan be planted in thecrystal tree patchinPrifddinas.Celastrus treescan be planted in the dedicatedcelastrus patchand redwood trees in the dedicatedredwood tree patch, both found in the advanced tier of theFarming Guild. Crystal trees and celastrus do not grant Woodcutting experience when chopped.
+
+Farmable trees offer the benefit of being visible only to the player who has planted it, thus removing competition. Attempting to chop a tree in a Farming patch causes the player to stall for onetick, which allows for1.5-tick woodcutting.
+
+Obstacles[edit|edit source]
+
+Several obstacles can be traversed by chopping them with an axe or machete. These include:
+
+Jungle bushesandjungle treesblocking the entrance to theKharazi jungle. In addition to being crossed when chopped, they yieldlogs.Dead treesfound north of theShining Poolblock theKendal's cave. Only two of the trees can be chopped, the others produce the message "There is nothing to gain from chopping down this tree". These grant no logs and no experience.Tendrilsblocking access to the inner ring of theAbyss.Thick vinesblocking various pathways in theTar Swamp. They grant 2 experience when chopped.Vinesblocking certain passageways in theBrimhaven Dungeon. They grant no experience when chopped.
+
+Other[edit|edit source]
+
+Themaplesfound onMiscellaniacan only be chopped after getting to a certain point duringThrone of Miscellania. The player won't receive any logs upon cutting these specific trees, instead the kingdom keeps them, and grants you some favour in gratitude for woodcutting for them. Similarly, theteak treesandmahogany treesfound onEtceteriacan only be chopped afterRoyal Troublehas been completed, immediately granting the logs to the kingdom and earning some favour as a player. Theevergreen treesfound on both islands are not considered part of the kingdom, thus behave normally.After completion of the medium tier of theKandarin Diary, the maples inSeers' Villagegrant 10% extra experience.Fruit trees planted infruit tree patchescan be chopped down at any level, granting no experience.TheWoodcutting stumpinNeitiznotcan be used to makesplit logsandNeitiznot shieldsfromarctic pine logs, the former granting 5 Woodcutting experience.
+
+Woodcutting pet[edit|edit source]
+
+Thebeaveris a skillingpetthat can be obtained whilst training Woodcutting. The chances of getting it are dependent on the player's Woodcutting level and the time it takes to gather a resource. Choppingenttrunks andbruma rootswill notgive players a chance to receive this pet.
+
+Temporary boosts[edit|edit source]
+
+Boost | Levelincrease | Visibility | Other info
+
+ | Woodcutting cape | 1 | Visible | When worn, grants a 10% increased chance of abird nestfalling while chopping trees.
+
+ | Eclipse red | 1 | Visible | Hitpoints16Attack-5Fletching-1
+
+ | Axeman's folly | 1 | Visible | Hitpoints1Attack- floor(CurrentLevel * 0.02) - 2Strength- floor(CurrentLevel * 0.02) - 2
+
+ | Mature axeman's folly | 2 | Visible | Hitpoints2Attack- floor(CurrentLevel * 0.02) - 3Strength- floor(CurrentLevel * 0.02) - 3
+
+ | Dragon axe | 3 | Visible | Special attack, consumes 100% of the player's special attack energy. Requires 60Attackto wield.
+
+ | Infernal axe | 3 | Visible | Special attack, consumes 100% of the player's special attack energy. Requires 60 Attack to wield.Requires 61Woodcuttingand 85Firemakingto create.
+
+ | 3rd age axe | 3 | Visible | Special attack, consumes 100% of the player's special attack energy. Requires 65 Attack to wield.
+
+ | Crystal axe | 3 | Visible | Special attack, consumes 100% of the player's special attack energy. Requires 70 Attack and 50Agilityto wield.
+
+ | Spicy stew(brown spice) | ±0-5 | Visible | Hitpoints11Depending on type of stew, any skill exceptHitpointscan be boosted or reduced by 0 to 5 levels randomly.
+
+ | Woodcutting Guild | 7 | Invisible | The boost takes effect while player is within theWoodcutting Guild.Stacks with visible boosts. Does not allow you to chop trees you would otherwise not be able to chop (e.g. 83 Woodcutting does not allow you to chopredwood trees).
+
+ | Woodcutting | 0-10 | Invisible | Players chopping the same tree will be given an invisible +1 Woodcutting boost for each person at the tree, up to a maximum of +10 for 10 players.This bonus does not get applied while chopping a normaltree, while in the Woodcutting Guild, or any tree grown throughFarming[w 1].Available tofree-to-playplayers.
+
+Quests[edit|edit source]
+
+Quests requiring Woodcutting[edit|edit source]
+
+Quest | Woodcuttingrequirement | Other skill requirements
+
+The Ribbiting Tale of a Lily Pad Labour Dispute | 15 | -
+
+Animal Magnetism | 35 | 19,18,30
+
+Lost City | 36 | 31
+
+The Fremennik Trials | 40 | 25,40if crafting your own lyre
+
+The Eyes of Glouphrie | 45() | 5,46
+
+Olaf's Quest | 50 | 40
+
+Legends' Quest | 50 | 50,50,45,56,52,42,50,50,50
+
+A Kingdom Divided | 52 | 54,52,50,42,38,35
+
+Lunar Diplomacy | 55 | 65,61,60,49,40
+
+The Fremennik Isles | 56() | 20,40,46
+
+Sins of the Father | 62 | 60,56,52,50,50,49
+
+Song of the Elves | 70 | 70,70,70,70,70,70,70
+
+Grim Tales | 71 | 45,52,58,59
+
+Quests rewarding Woodcutting experience[edit|edit source]
+
+Quest | Experiencereward | Woodcuttingrequirement | Other requirements
+
+Enlightened Journey | 1,500 | - | 20,20,30,36
+
+Recipe for Disaster(Skrach Uglogwee subquest) | 1,500 | - | 41,20
+
+Heroes' Quest | 1,575 | - | 55,53,53,25,50
+
+Monk's Friend | 2,000 | - | -
+
+The Ribbiting Tale of a Lily Pad Labour Dispute | 2,000 | 15 | -
+
+Animal Magnetism | 2,500 | 35 | 18,19,30
+
+The Eyes of Glouphrie | 2,500 | 45() | 5,46
+
+The Fremennik Trials | 2,812 | 40 | 25,40if crafting your own lyre
+
+Icthlarin's Little Helper | 4,000 | - | -
+
+The Fremennik Isles | 10,000 | 56() | 20,40,46
+
+Song of the Elves | 40,000 | 70 | 70,70,70,70,70,70,70
+
+Grim Tales | 60,000 | 71 | 45,52,58,59
+
+Total | 128,387 | 
+
+Skill choice[edit|edit source]
+
+Upon completing any of the following quests, players may choose to allocate experience to Woodcutting. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.
+
+Quest | Experiencereward | Skills available | Skill requirements
+
+X Marks the Spot | 300 | Any | None
+
+Client of Kourend | 500 twice | Any | None
+
+Fairytale II - Cure a Queen | 2,500 | Any skill above 30 | 49,57
+
+A Tail of Two Cats | 2,500 twice | Any skill above 30 | None
+
+The Great Brain Robbery | 5,000 | Any skill above 30 | 16,30,50
+
+King's Ransom | 5,000 | Any skill above 50 | 65
+
+Darkness of Hallowvale | 2,000 three times | Any skill above 30 | 5,20,22,32,33,40
+
+A Taste of Hope | 2,500 three times | Any skill above 35 | 48,40,40,45,38
+
+A Kingdom Divided | 10,000 twice | Any skill above 40 | 54,52,52,50,42,38,35
+
+In Search of Knowledge(miniquest) | 10,000 | Any skill above 40 | None
+
+Curse of the Empty Lord(miniquest) | 10,000 | Any skill above 50 | Some players will need31
+
+One Small Favour | 10,000 twice | Any skill above 30 | 36,25,18,30
+
+Recipe for Disaster(The final battle) | 20,000 | Any skill above 50 | 175,70,48,50,53,53,25,59,40,50,40,40,10,10,36
+
+Legends' Quest | 30,000 four times |  | 107,50,50,45,56,52,42,50,50,50,50
+
+Sins of the Father | 15,000 six times | Any skill above 60 | 62,60,56,52,50,50,49
+
+Total | 322,300 | 
+
+Level up messages[edit|edit source]
+
+This article on a skill has an associated transcript page for level up messages.Click herefor the transcript.
+

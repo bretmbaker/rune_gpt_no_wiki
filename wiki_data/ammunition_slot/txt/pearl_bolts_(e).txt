@@ -1,0 +1,49 @@
+[Weapon: Pearl Bolts (E)]
+
+
+Enchanted pearl boltsareiron boltstipped with enchantedPearl bolt tipsmade fromOyster pearls.Pearl boltscan be enchanted into enchanted pearl bolts through the spellEnchant Crossbow Bolt (Pearl)by a player with 24Magic. The spell enchants 10 pearl bolts at a time and requires 1Cosmic runeand 2Water runesto be present in their inventory.
+Enchanted pearl bolts have a 6% chance of triggering theSea Curseeffect. This will cause a mighty bolt of water to hit the opponent. This ability is negated by opponents wielding water staves, but increased by opponents wearing fire staves orfierymonsters. The effects of these bolts seem to be the opposite ofenchanted dragonstone bolts.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Enchanted Pearl tipped Iron Crossbow Bolts.
+General Store Value: 15 coins
+High alch: 9 coins
+Low alch: 6 coins
+Weight: 0 kg
+Grand Exchange Value: 9 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 85,175
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +48
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

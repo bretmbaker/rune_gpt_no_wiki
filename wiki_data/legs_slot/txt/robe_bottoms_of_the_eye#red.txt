@@ -1,0 +1,50 @@
+[Weapon: Robe Bottoms Of The Eye#Red]
+
+
+Therobe bottoms of the eyeis a part of theRaiments of the Eyeset, purchased from theGuardians of the Riftreward shop for 350abyssal pearls. It grants 10% more runes whenRunecrafting, and is increased to 60% when the full set is worn.
+The outfit can be recoloured using abyssal dyes (received from theRewards Guardian) to a red, blue, or green colour scheme. Each dye recolours one piece of the outfit, so three in total are needed to recolour a set, as the boots can't be recoloured.
+
+
+[Infobox]
+Released: 23 March2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: The perfect robe bottoms for runecrafting.
+General Store Value: 350 coins
+Alchemy: Not alchemisable
+Weight: 0.6 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Guardians of the Rift/Strategies(Runecrafting)

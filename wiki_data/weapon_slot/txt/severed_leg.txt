@@ -1,0 +1,53 @@
+[Weapon: Severed Leg]
+
+
+Asevered legis afun weaponthat can be obtained from acorpse cart, which are found aroundDarkmeyer, accessed after the completion of theSins of the Fatherquest.
+Equipping the severed leg allows players to "Whack" other players like therubber chickendoes, but cannot be fumbled like it, and thus is never forcefully dropped on the ground.
+
+
+[Infobox]
+Released: 4 June2020(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A severed human leg.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 1.8 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -50
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

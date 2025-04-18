@@ -1,0 +1,4 @@
+Item: Skeletal visage
+Summary: A skeletal visage is an item obtained as a very rare drop from Vorkath.
+Sources:
+- Vorkath Post-quest (Level 732, Quantity: 1, Rarity: 1/5,000)

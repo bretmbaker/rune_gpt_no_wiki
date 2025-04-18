@@ -1,0 +1,185 @@
+[Weapon: Fire Cape#Broken]
+
+
+Thefire capeis amelee capeobtained as a reward for completing theTzHaar Fight Cave. It is the second best melee cape in the game, outclassed only by theinfernal cape.
+In order to obtain the fire cape, players must survive all waves of TzHaar Fight Caves and defeatTzTok-Jad. Note that the capewill notbe awarded should both the player and TzTok-Jad die simultaneously, even though theboss logwill count the kill. The player must be taken out of the cave by the game recognising TzTok-Jad's death; if they are removed from the cave due to dying, the game considers the player to have failed the challenge.
+A fire cape must be shown toTzHaar-Ketguards around the centre of the city to allow further access toMor Ul Rek. This does not consume the fire cape. However, to enter theInferno, a fire cape must be sacrificed by giving it toTzHaar-Ket-Keh. This is a one-time fee.
+
+
+[Infobox]
+Released: 4 October2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A cape of fire.
+General Store Value: 65,007 coins
+Alchemy: Not alchemisable
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +1
+- Magic: +1
+- Ranged: +1
+
+Defence Bonuses:
+- Stab: +11
+- Slash: +11
+- Crush: +11
+- Magic: +11
+- Ranged: +11
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+2 | Abyssal Sire/Strategies(Phase 1 Melee)
+2 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+2 | Adamant dragon/Strategies(Melee)
+5 | Adamant dragon/Strategies(Magic)
+5 | Adamant dragon/Strategies(Magic)
+2 | Alchemical Hydra/Strategies(Melee)
+2 | Amoxliatl/Strategies(Melee)
+5 | Ancient Wyvern/Strategies(Prayer)
+2 | Ancient Wyvern/Strategies(Melee)
+2 | Araxxor/Strategies(Melee)
+2 | Aviansie/Strategies(Ranged)
+2 | Barbarian Assault/Strategies(Melee (high level))
+1 | Barbarian Assault/Strategies(Melee (mid level))
+3 | Barrows/Strategies(Tank & Lower level)
+4 | Basilisk Knight/Strategies(Ranged/Prayer)
+2 | Basilisk Knight/Strategies(Melee)
+4 | Basilisk Knight/Strategies(Ranged)
+2 | Budget Cutter
+1 | Calvar'ion/Strategies(Melee)
+2 | Cerberus/Strategies(Melee)
+2 | Chambers of Xeric/Challenge Mode(Melee)
+2 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+2 | Chambers of Xeric/Strategies(Melee)
+2 | Chaos Elemental/Strategies(Melee)
+2 | Chompington(Melee)
+2 | Corporeal Beast/Strategies(Dolo)
+2 | Corporeal Beast/Strategies(Solo melee)
+2 | Corporeal Beast/Strategies(Fewer stat drains)
+2 | Corporeal Beast/Strategies(Solo melee)
+2 | Corporeal Beast/Strategies(Melee masses)
+2 | Corporeal Beast/Strategies(Team melee)
+2 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Dagannoth Kings/Strategies(Magic (Rex only))
+2 | Dark beast/Strategies(Melee)
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | Down Do Specs(Melee)
+2 | Drake/Strategies(Melee)
+2 | Duke Sucellus/Strategies(Melee)
+2 | Fortis Colosseum/Strategies(Ranged)
+2 | Fortis Colosseum/Strategies(Mage)
+2 | Fortis Colosseum/Strategies(Budget)
+2 | Fortis Colosseum/Strategies(Melee)
+2 | Galvek Speed-Trialist(Melee)
+2 | General Graardor/Strategies(Solo (Melee))
+3 | General Graardor/Strategies(Advanced Tank)
+2 | General Graardor/Strategies(Melee Attacker)
+1 | Giant Mole/Strategies(Melee & Prayer Budget)
+2 | Giant Mole/Strategies(Dharok's)
+2 | Giant Mole/Strategies(Melee)
+2 | Glough Speed-Trialist(Melee)
+3 | Gout tuber/Strategies(Tank)
+2 | Green dragon/Strategies(Melee)
+2 | Grotesque Guardians/Strategies(Melee)
+2 | Hespori/Strategies(Best-in-slot)
+1 | Hespori/Strategies(Entry level)
+2 | K'ril Tsutsaroth/Strategies(Melee Tank)
+2 | K'ril Tsutsaroth/Strategies(Solo Melee)
+2 | K'ril Tsutsaroth/Strategies(Melee)
+2 | Kalphite Queen/Strategies(Pre-diary Method)
+2 | Kalphite Queen/Strategies(High DPS (Phase One))
+2 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+2 | Kalphite Queen/Strategies(Verac the Defiled's)
+5 | Kalphite Queen/Strategies(Max Mage (0 switches))
+2 | Kalphite Queen/Strategies(Flinching)
+1 | King Black Dragon/Strategies(Melee BIS smuggle)
+1 | King Black Dragon/Strategies(4-item melee)
+3 | Kraken/Strategies(Magic)
+1 | Krystilia/Strategies(Melee)
+2 | Lizardman shaman/Strategies(Melee)
+2 | Metal dragons/Strategies(Melee)
+2 | Mithril dragon/Strategies(Melee)
+2 | Mithril dragon/Strategies(Melee tank)
+2 | Moons of Peril/Strategies(Moons of Peril Armour)
+2 | Nex/Strategies(Hybrid)
+4 | Nightmare Zone/Strategies(Magic)
+2 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+2 | Nightmare Zone/Strategies(Melee)
+5 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+2 | Nightmare Zone/Strategies(Melee (Guthan's))
+2 | Nightmare Zone/Strategies(Melee (Dharok's))
+2 | Nightmare Zone/Strategies(Melee (Prayer))
+2 | The Nightmare/Strategies(Melee)
+2 | Phantom Muspah/Strategies(Melee)
+2 | Phosani's Nightmare/Strategies(Melee)
+1 | Revenants/Strategies(Melee)
+2 | Royal Titans/Strategies(Best-in-slot)
+1 | Royal Titans/Strategies(Mid-game)
+2 | Royal Titans/Strategies(Minimal gear switching)
+5 | Rune dragon/Strategies(Magic)
+2 | Rune dragon/Strategies(Melee)
+2 | Sarachnis/Strategies(Melee)
+2 | Sarachnis/Strategies(Melee tank)
+2 | Scurrius/Strategies(Magic (mid level))
+1 | Scurrius/Strategies(Melee (mid level))
+2 | Scurrius/Strategies(Melee (high level))
+3 | Scurrius/Strategies(Range (mid level))
+4 | Skeletal Wyvern/Strategies(Ranged (Void))
+2 | Skeletal Wyvern/Strategies(Melee)
+4 | Skeletal Wyvern/Strategies(Ranged)
+2 | Skotizo/Strategies(Melee)
+2 | Slayer task/Fossil Island wyverns(Melee)
+5 | Slayer task/Fossil Island wyverns(Prayer)
+2 | Slayer task/Gargoyles(Melee)
+2 | Slayer task/Jellies(Melee)
+2 | Slayer task/Nechryael(Melee)
+2 | Slayer task/Suqah(Melee (South))
+2 | Slayer task/Trolls(Melee (Mountain trolls))
+2 | Slayer task/Trolls(Melee (Ice trolls))
+2 | Slayer task/Waterfiends(Melee)
+2 | Slayer task/Wyrms(Melee)
+2 | Slayer training(Melee)
+2 | Spindel/Strategies(Melee)
+5 | Sulliuscep/Strategies
+2 | The Hueycoatl/Strategies(Melee)
+2 | Theatre of Blood/Hard Mode(Melee)
+2 | Theatre of Blood/Strategies(Learner)
+2 | Theatre of Blood/Strategies(Melee)
+2 | Thermonuclear smoke devil/Strategies(Melee)
+2 | Tombs of Amascut/Strategies(Melee switch)
+2 | Tormented Demon/Strategies(Melee switch)
+3 | TzHaar Fight Cave/Strategies(Pure)
+2 | TzHaar Fight Cave/Strategies(Melee)
+3 | TzHaar Fight Cave/Strategies(Magic)
+2 | TzHaar Fight Cave/Strategies(Ranged (Atlatl))
+2 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+2 | Ultimate Ironman Guide/Equipment
+2 | Ultimate Ironman Guide/Slayer
+2 | Ultimate Ironman Guide/Slayer
+2 | Vardorvis/Strategies(Melee)
+2 | Venenatis/Strategies(Melee)
+1 | Vet'ion/Strategies(Melee)
+2 | Vorkath/Strategies(Melee)
+2 | Vyrewatch Sentinel/Strategies(DPS)
+2 | Vyrewatch Sentinel/Strategies(AFK Prayer)

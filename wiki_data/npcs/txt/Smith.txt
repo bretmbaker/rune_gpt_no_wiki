@@ -1,0 +1,2 @@
+Item: Smith
+Summary: Smith is a pirate who can be found on the docks of Mos Le'Harmless. Players need to have a Book o' piracy when trying to trade with him; otherwise, he will respond with unintelligible pirate slang.

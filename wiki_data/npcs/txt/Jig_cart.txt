@@ -1,0 +1,2 @@
+Item: Jig cart
+Summary: The Jig cart is used in the Elemental Workshop II quest to move an Elemental metal bar through a series of magical machines to produce a primed bar. It is powered by the lever near the mine cart sign.

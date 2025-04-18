@@ -1,0 +1,147 @@
+[Spell: Lvl-3_Enchant]
+
+Lvl-3 Enchant
+
+
+
+
+
+
+
+Released | 24 May2001(Update)
+
+Members | No
+
+Level | 49
+
+Spellbook | Standard
+
+Type | Utility
+
+Experience | 59
+
+Runes | 51
+
+Casting speed | 3 ticks (7 on autocast)
+
+Description | For use on a ruby and topaz jewellery
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Lvl-3 Enchantis autility spellin thestandard spellbook, requiring level 49Magicto cast. The spell enchantsrubyandred topazitems, primarilyjewellery, granting 59 Magic experience when doing so.
+
+This spell can be transferred to amagic tabletby bringing the required runes and a piece ofsoft clayto alecternin thestudyof aplayer-owned house, granting 44.3 Magic experience.
+
+List of items[edit|edit source]
+
+Free-to-playplayers can only use the spell to enchant theruby amulet, though theRing of Forgingcan be also enchanted by bringing aRuby Ringalong with 250coinstoMurky Matt.
+
+Unenchanted | Enchanted | Profit[e 1]
+
+Item | GEprice | Item | GEprice
+
+ | Ruby ring | 1,060 |  | Ring of forging | 1,075 | −109
+
+ | Ruby necklace | 1,126 |  | Digsite pendant[e 2] | N/A | N/A
+
+ | Ruby bracelet | 1,165 |  | Inoculation bracelet | 1,234 | −55
+
+ | Ruby amulet | 1,154 |  | Amulet of strength | 1,351 | 73
+
+ | Ruby sickle (b) | N/A |  | Enchanted ruby sickle (b) | N/A | N/A
+
+ | Topaz ring | 2,465 |  | Efaritay's aid | 2,912 | 323
+
+ | Topaz bracelet | 2,312 |  | Bracelet of slaughter | 2,528 | 92
+
+ | Topaz necklace | 1,325 |  | Necklace of faith | 975 | −474
+
+ | Topaz amulet | 2,782 |  | Burning amulet | 2,934 | 28
+
+Spell costs[edit|edit source]
+
+Input | Cost
+
+51 | 149
+
+Combo runes
+
+15 | 259
+
+15 | 394
+
+15 | 624
+
+Main-hands
+
+1Alt | 124
+
+Off-hands
+
+1 | 124
+
+v•t•eUtility spells
+
+Standard | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxCharge OrbWaterEarthFireAirOtherLow Level AlchemyHigh Level AlchemyTelekinetic GrabSuperheat ItemBones to BananasBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Charge Orb | WaterEarthFireAir | Other | Low Level AlchemyHigh Level AlchemyTelekinetic GrabSuperheat ItemBones to BananasBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Charge Orb | WaterEarthFireAir
+
+Other | Low Level AlchemyHigh Level AlchemyTelekinetic GrabSuperheat ItemBones to BananasBones to Peaches
+
+Arceuus | ReanimationBasicAdeptExpertMasterOfferingDemonicSinisterOtherShadow VeilVile VigourDegrimeResurrect CropsDeath Charge | Reanimation | BasicAdeptExpertMaster | Offering | DemonicSinister | Other | Shadow VeilVile VigourDegrimeResurrect CropsDeath Charge
+
+Reanimation | BasicAdeptExpertMaster
+
+Offering | DemonicSinister
+
+Other | Shadow VeilVile VigourDegrimeResurrect CropsDeath Charge
+
+Lunar | Bake PieGeomancyCure PlantNPC ContactHumidifyHunter KitSpin FlaxSuperglass MakeTan LeatherString JewelleryMagic ImbueFertile SoilPlank MakeRecharge DragonstoneSpellbook Swap
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

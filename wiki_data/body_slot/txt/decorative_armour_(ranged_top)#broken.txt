@@ -1,0 +1,46 @@
+[Weapon: Decorative Armour (Ranged Top)#Broken]
+
+
+Thedecorative range topcan be bought fromLanthusin theCastle Warslobby for 40Castle wars tickets. It requires level 30Rangedto wear.
+The decorative range top is a viable option for 1Defencepures, as it provides good defensive bonuses for only requiring 30Ranged.
+
+
+[Infobox]
+Released: 16 January2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Very decorative armour.
+General Store Value: 48,000 coins
+High alch: 28,800 coins
+Low alch: 19,200 coins
+Weight: 6.803 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +20
+- Slash: +20
+- Crush: +20
+- Magic: +20
+- Ranged: +20
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

@@ -1,0 +1,76 @@
+[Weapon: Staff Of Earth]
+
+
+Astaff of earthis the basic earthelemental staff. It provides unlimited amounts ofearth runesas well as theautocastoption when equipped. All elemental staves offer the sameMagicbonuses and only differ by the type ofrunethey supply and theirMeleestats.
+The staff can be purchased from various shops acrossGielinor, includingZaff's Superior Staffs!inVarrock. It can also be bought on theGrand Exchange, obtained through other players, dropped by various enemies, or found as a continually spawning item in thelava maze.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A Magical staff.
+General Store Value: 1,500 coins
+High alch: 900 coins
+Low alch: 600 coins
+Weight: 2.267 kg
+Respawn time: 2000 ticks (1200 seconds)
+Grand Exchange Value: 743 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 1,439
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +1
+- Slash: -1
+- Crush: +9
+- Magic: +10
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +10
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +5
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Adventurer JonStriking a pose | N/A | 1 | Always | N/A
+Black Chest (black) | N/A | 1 | 1/141.11;1/133.27 | 
+Black Chest (brown) | N/A | 1 | 1/141.02;1/133.19 | 
+Black Chest (crimson) | N/A | 1 | 1/141.07;1/133.23 | 
+Black Chest (purple) | N/A | 1 | 1/141.15;1/133.31 | 
+Black Chest (red) | N/A | 1 | 1/140.98;1/131.15 | 
+Brassican Mage | 140 | 1 | 1/50 | 
+Broken staff | N/A | 1 | 4/100 | 
+Earth elementalRegular | 35 | 1 | 2/128 | 
+Earth warrior | 51 | 1 | 2/128 | 
+Former Vampyre | N/A | 1(noted) | 1/256 | 
+Reward casket (beginner) | N/A | 1 | 11/492 | 
+Vampyre Juvinate | N/A | 1(noted) | 1/256 | 

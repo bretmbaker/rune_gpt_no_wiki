@@ -1,0 +1,47 @@
+[Weapon: 10Th Squad Sigil]
+
+
+The10th squadsigilis an item used to teleport to the final boss during theMonkey Madness Iquest. It will no longer teleport you to the boss fight arena after you defeat theJungle Demon. It can be safely thrown away after the quest, however it can be kept as a cosmetic item.
+If lost, the sigil may be recovered by speaking toWaymottin, the gnome mage at the end of theApe Atoll Dungeon. However, if you have completedMonkey Madness II, it can be reclaimed byZooknockupstairs in the house south-west of Anita's. If lost due to death, you may reclaim it by speaking toDeath.
+Attempting to equip the sigil in the Wilderness during the quest will result in a message sayingYou cannot teleport out of the Wilderness using the sigil.
+
+
+[Infobox]
+Released: 6 December2004(Update)
+Members: Yes
+Quest item: Monkey Madness I
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: It's the official sigil of the 10th squad of the Royal Guard.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.085 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

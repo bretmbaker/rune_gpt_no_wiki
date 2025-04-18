@@ -1,0 +1,102 @@
+[Minigame: Bones_to_Peaches]
+
+Bones to Peaches
+
+
+
+
+
+
+
+Released | 4 January2006(Update)
+
+Members | Yes
+
+Level | 60
+
+Spellbook | Standard
+
+Type | Utility
+
+Experience | 35.5
+
+Runes | 442
+
+Casting speed | 1 tick
+
+Description | Turns Bones into Peaches
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Bones to Peachesis aspellthat turns allbonesup to and includingbig bonesin the inventory intopeaches, which can be eaten to heal 8Hitpoints. Before it can be cast it must be unlocked from theMage Training Arena, which costs all of the following:
+
+Amount | Task
+
+200 | Telekineticpizazz points
+
+300 | Alchemistpizazz points
+
+2,000 | Enchantmentpizazz points
+
+200 | Graveyardpizazz points
+
+Unlocking this spell requires level 60 Magic, this requirement isboostable.
+
+Its tablet formis usable without unlocking the spell, albeit granting no experience. However,craftingthe tablet requires the player to have unlocked the spell.
+
+Bones to Peaches is commonly used to extend trips when food is scarce but bones are plentiful, such as in theGod Wars Dungeonor theSmoke dungeon. Players may also consider the healing effect ofGuthan's equipmentas an alternative (or in addition) to the spell. Tablets can be used to save inventory space instead of bringing the runes required to cast the spell.
+
+Demonic ashescannot be converted as they are not considered bones. Attempting to convert bones of a higher tier than big bones gives the messageThe bones you're holding aren't suitable for peachifying.Attempting to cast the spell without any bones gives the messageYou aren't holding any bones!
+
+Casting the spell in theAl Kharid Palaceis a hard task in theLumbridge & Draynor Diary(using the tablet form of the spelldoes notwork).
+
+Cost[edit|edit source]
+
+Input | Cost
+
+244 | 270
+
+Combo runes
+
+244 | 286
+
+24 | 666
+
+244 | 358
+
+244 | 650
+
+244 | 742
+
+Main-hands
+
+24Alt | 250
+
+24Alt | 250
+
+2 | 230
+
+1.9344 | 261
+
+Main and off-hands
+
+24 | 250
+
+24 | 250
+
+2Alt | 230
+
+2Alt | 230
+
+1.934 | 241
+
+1.934 | 241
+

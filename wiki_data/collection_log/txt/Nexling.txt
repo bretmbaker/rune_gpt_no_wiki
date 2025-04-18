@@ -1,0 +1,4 @@
+Item: Nexling
+Summary: 
+Sources:
+- Nex (Level 1001, Quantity: 1, Rarity: 1/500)

@@ -1,0 +1,49 @@
+[Weapon: Black Desert Shirt]
+
+
+Ablack desert shirtis an item of clothing that players may find useful when doing theShadow of the Stormquest. They can make it by usingblack dyeon a normaldesert shirt. This can also be done with adesert robeto create ablack desert robe.
+The quest requires players to be wearing at least three black garments, in order to look evil. Players may already be wearing a desert shirt (since the main part of the quest takes place in theKharidian Desert), andblack mushroomscan be found locally.
+
+
+[Infobox]
+Released: 14 November2005(Update)
+Members: Yes
+Quest item: Shadow of the Storm
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A desert shirt stained black.
+General Store Value: 40 coins
+High alch: 24 coins
+Low alch: 16 coins
+Weight: 0.907 kg
+Grand Exchange Value: 212 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 105
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

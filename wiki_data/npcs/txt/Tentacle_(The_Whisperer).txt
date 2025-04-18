@@ -1,0 +1,2 @@
+Item: Tentacle (The Whisperer)
+Summary: Shadow tentacles are NPCs that appear after every standard attack by the Whisperer. Four will surface and converge on the tile that the player was on when they first appeared, dealing 20 damage and draining sanity by 20% if hit by them.

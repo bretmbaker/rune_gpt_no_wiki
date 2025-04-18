@@ -1,0 +1,57 @@
+[Weapon: 3Rd Age Kiteshield]
+
+
+The3rd age kiteshieldis a part of the3rd age melee set. Level 65Defenceis required to wield the kiteshield. The 3rd age kiteshield is a possible reward fromhard,eliteandmastertierTreasure Trailsand cannot be made through theSmithingskill.
+Although it is one of the more powerfulshieldsavailable in-game, it is rare to see it used incombatas there are several similarly powerful shields which are cheaper or significantly easier to obtain.
+
+
+[Infobox]
+Released: 5 December2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Fabulously ancient armour beaten from magical silver.
+General Store Value: 180,000 coins
+High alch: 108,000 coins
+Low alch: 72,000 coins
+Weight: 2.721 kg
+Grand Exchange Value: 153,835,151 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 21
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: -4
+
+Defence Bonuses:
+- Stab: +63
+- Slash: +65
+- Crush: +61
+- Magic: -3
+- Ranged: +63
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Mimic | N/A | 1 | 1/5,244;1/5,750 | 
+Reward casket (elite) | N/A | 1 | 1/249,262.5 | 
+Reward casket (hard) | N/A | 1 | 1/211,250 | 
+Reward casket (master) | N/A | 1 | 1/313,168 | 

@@ -1,0 +1,38 @@
+Name: Assassin
+Combat Level: 132
+Size: 1x1
+Info:
+- Description: Has a habit of killing people.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Monster ID: 10940
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 120
+Attack: 112
+Strength: 112
+Defence: 92
+Magic: 92
+Ranged: 112
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

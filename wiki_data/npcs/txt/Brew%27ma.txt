@@ -1,0 +1,2 @@
+Item: Brew'ma
+Summary: Brew'ma is an Arceuus mage found within the Wintertodt prison. If the player has both a Bruma herb and a Rejuvenation potion (unf) in their inventory and uses one of them on Brew'ma, they will brew rejuvenation potions for the player, instantly making one potion for each pair of ingredients in the player's inventory.

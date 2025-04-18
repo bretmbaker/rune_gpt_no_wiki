@@ -1,0 +1,39 @@
+Name: Baboon Thrall
+Combat Level: 52
+Size: 1x1
+Info:
+- Description: An undead baboon thrall.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Thralls: Not immune
+- Monster ID: 11718
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 2
+Attack: 40
+Strength: 40
+Defence: 12
+Magic: 40
+Ranged: 40
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

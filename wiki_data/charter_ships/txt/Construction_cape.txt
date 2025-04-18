@@ -1,0 +1,126 @@
+[Page: Construction_cape]
+
+Construct. cape
+
+Released | 18 October2006(Update)
+
+Members | Yes
+
+Quest item | No
+
+Leagueregion |
+
+Properties
+
+Tradeable | No
+
+Equipable | Yes
+
+Stackable | No
+
+Noteable | No
+
+Options | Wear, Teleport (Home, Rimmington, Taverley, Pollnivneach, Hosidius, Aldarin, Rellekka, Brimhaven, Yanille, Prifddinas), Tele to POH, Drop
+
+Worn options | Boost, Teleport, Tele to POH
+
+Examine | The cape worn by master builders.
+
+Values
+
+Value | 99,000 coins
+
+High alch | 59,400 coins
+
+Low alch | 39,600 coins
+
+Weight | 0.453 kg
+
+Advanced data
+
+Item ID | 9789
+
+Link | MOID
+
+AConstruct. capeorConstruction capeis theCape of Accomplishmentfor theConstructionskill. It can be purchased for 99,000coinsalongside theConstruction hoodfrom anyEstate agentby players who have achievedskill mastery(level 99) in the Construction skill.
+
+Like allskill capes, the Construction cape gives +9 to alldefensive stats, and also a +4 bonus toprayerif it is trimmed, which requires a separate skill at level 99. The cape is automatically trimmed if this condition is met.
+
+When the construction cape is equipped or in the inventory, it provides unlimited teleports to the player's ownhouseand tohouse portals, which are located inRimmington,Taverley,Pollnivneach,Hosidius,Rellekka,Aldarin,Brimhaven,YanilleandPrifddinas. All teleports are available regardless of where a player's house is located. This perk provides nearly the same destinations asredirected teleport to house tablets, with the only exception beingTrollheimas there is no house portal there. This allows the player to freely relocate their house without having to consider its utility as a teleport destination.
+
+When using the Tele to POH right-click function, the player character will always be placed just north of theexit portalin their house, or just outside thehouse portal, depending on their house teleport settings. If multiple exit portals exist in the player's house, the teleport function will prioritise the one that was built last.
+
+This item can be stored in thecape rackof acostume room, as part of the Construction cape set, along with thehood.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored. It can also be displayed on acape hangerin theachievement gallery, from which the owner of the house can access its right-click teleports.
+
+As of 1 April 2025, there are125,016players that have achievedlevel 99in Construction.
+
+Combat stats[edit|edit source]
+
+Attack bonuses |  |
+
+|  |  |  |
+
++0 | +0 | +0 | +0 | +0
+
+Defence bonuses
+
+|  |  |  |
+
++9 | +9 | +9 | +9 | +9
+
+Other bonuses | Slot
+
+|  |  |  |
+
++0 | +0 | +0% | +0 | List
+
+Teleportation options[edit|edit source]
+
+Destination | Map
+
+1.Home |
+
+2.Rimmington |
+
+3.Taverley |
+
+4.Pollnivneach |
+
+5.Hosidius |
+
+6.Rellekka |
+
+7.Aldarin |
+
+8.Brimhaven |
+
+9.Yanille |
+
+A.Prifddinas |
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Alwyn | Prifddinas | ∞ | N/A | 99,000 | N/A | 0.0% |  |
+
+Estate agent(1) | Varrock | ∞ | N/A | 99,000 | N/A | 0.0% |  |
+
+Estate agent(6) | Civitas illa Fortis | ∞ | N/A | 99,000 | N/A | 0.0% |  |
+
+Estate agent(2) | Falador | ∞ | N/A | 99,000 | N/A | 0.0% |  |
+
+Estate agent(3) | Seers' Village | ∞ | N/A | 99,000 | N/A | 0.0% |  |
+
+Estate agent(4) | Ardougne | ∞ | N/A | 99,000 | N/A | 0.0% |  |
+
+Estate agent(5) | Hosidius | ∞ | N/A | 99,000 | N/A | 0.0% |  |
+
+Used in recommended equipment[edit|edit source]
+
+Rank | Method
+
+1 | Hunter training(Staff of the dead)
+
+1 | Hunter training(Dinh's bulwark)
+

@@ -1,0 +1,63 @@
+Name: Water elemental
+Combat Level: 34
+Size: 1x1
+Info:
+- Description: A water elemental.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 1370
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Blood rune (1/128)
+- Grimy guam leaf (1/36.6)
+- Grimy marrentill (1/48.8)
+- Grimy tarromin (1/65)
+- Grimy harralander (1/83.6)
+- Grimy ranarr weed (1/106.4)
+- Grimy irit leaf (1/146.3)
+- Grimy avantoe (1/195)
+- Grimy kwuarm (1/234.1)
+- Grimy cadantine (1/292.6)
+- Grimy lantadyme (1/390.1)
+- Grimy dwarf weed (1/390.1)
+- Nothing (1/128.23; Never[d 1])
+- Uncut sapphire (1/256; 1/130[d 2])
+- Uncut emerald (1/512; 1/260[d 2])
+- Uncut ruby (1/1,024; 1/520[d 2])
+- Uncut diamond (1/4,096; 1/2,080[d 2])
+- Chaos talisman (1/2,730.67; 1/1,386.67[d 2])
+- Loop half of key (1/8,192; 1/4,160[d 2])
+- Tooth half of key (1/8,192; 1/4,160[d 2])
+- Rune javelin (1/8,192; 1/4,160[d 2])
+- Rune spear (1/131,072; 1/7,800[d 2][d 3])
+- Shield left half (1/262,144; 1/15,600[d 2][d 3])
+- Dragon spear (1/349,525.33; 1/20,800[d 2][d 3])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 30
+Attack: 30
+Strength: 30
+Defence: 30
+Magic: 30
+Ranged: 30
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

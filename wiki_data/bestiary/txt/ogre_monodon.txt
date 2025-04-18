@@ -1,0 +1,39 @@
+Name: Ogre monodon
+Combat Level: 79
+Size: 3x3
+Info:
+- Description: Call me Ned but this creature is a worthy hunt.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: beta14268,beta14269
+- Link: MOID
+
+Location:
+- Area: Oo'glog Shore
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 150
+Attack: 1
+Strength: 1
+Defence: 30
+Magic: 1
+Ranged: 70
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

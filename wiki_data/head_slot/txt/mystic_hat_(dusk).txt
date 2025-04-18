@@ -1,0 +1,53 @@
+[Weapon: Mystic Hat (Dusk)]
+
+
+Themystic hat (dusk)is a part of the duskMystic robesset worn in the head slot. Mystic hats come in many colours but all share the same bonuses, and all mystic items require 40Magicand 20Defenceto wear. It can be stored in amagic wardrobein a player-owned house.
+
+
+[Infobox]
+Released: 11 January2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A dusky magical hat.
+General Store Value: 15,000 coins
+High alch: 9,000 coins
+Low alch: 6,000 coins
+Weight: 0.453 kg
+Grand Exchange Value: 30,957 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 82
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +4
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Brimstone chest | N/A | 1 | 1/1,000 | 

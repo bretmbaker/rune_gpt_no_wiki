@@ -1,0 +1,4 @@
+Item: Pet kraken
+Summary: 
+Sources:
+- Kraken (Level 291, Quantity: 1, Rarity: 1/3,000)

@@ -1,0 +1,90 @@
+Name: Screaming twisted banshee
+Combat Level: 144
+Size: 3x3
+Info:
+- Description: A tortured, twisted and screaming soul.
+
+Slayer Info:
+- Required Level: 15
+- Slayer XP: 2,200 xp
+- Category: Banshees
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 7391
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Adamant kiteshield (3 × 1/128)
+- Rune full helm (3 × 1/128)
+- Mystic gloves (dark) (3 × 1/256)
+- Chaos rune (3 × 1/128)
+- Fire rune (3 × 1/128)
+- Grimy guam leaf (3 × 1/15.1)
+- Grimy marrentill (3 × 1/20.1)
+- Grimy tarromin (3 × 1/26.8)
+- Grimy harralander (3 × 1/34.4)
+- Grimy ranarr weed (3 × 1/43.8)
+- Grimy irit leaf (3 × 1/60.2)
+- Grimy avantoe (3 × 1/80.3)
+- Grimy kwuarm (3 × 1/96.4)
+- Grimy cadantine (3 × 1/120.5)
+- Grimy lantadyme (3 × 1/160.6)
+- Grimy dwarf weed (3 × 1/160.6)
+- Toadflax seed (3 × 1/49.4)
+- Irit seed (3 × 1/72.6)
+- Belladonna seed (3 × 1/75)
+- Poison ivy seed (3 × 1/105.6)
+- Avantoe seed (3 × 1/105.6)
+- Cactus seed (3 × 1/110.7)
+- Potato cactus seed (3 × 1/154.9)
+- Kwuarm seed (3 × 1/154.9)
+- Snapdragon seed (3 × 1/232.4)
+- Cadantine seed (3 × 1/332)
+- Lantadyme seed (3 × 1/464.7)
+- Snape grass seed (3 × 1/580.9)
+- Dwarf weed seed (3 × 1/774.6)
+- Torstol seed (3 × 1/1,161.8)
+- Pure essence (3 × 21/128)
+- Eye of newt (3 × 1/128)
+- Mithril ore (3 × 1/128)
+- Nothing (3 × 1/128.23; Never[d 1])
+- Uncut sapphire (3 × 1/256; 1/130[d 2])
+- Uncut emerald (3 × 1/512; 1/260[d 2])
+- Uncut ruby (3 × 1/1,024; 1/520[d 2])
+- Uncut diamond (3 × 1/4,096; 1/2,080[d 2])
+- Nature talisman (3 × 1/2,730.67; 1/1,386.67[d 2])
+- Loop half of key (3 × 1/8,192; 1/4,160[d 2])
+- Tooth half of key (3 × 1/8,192; 1/4,160[d 2])
+- Rune javelin (3 × 1/8,192; 1/4,160[d 2])
+- Rune spear (3 × 1/131,072; 1/7,800[d 2][d 3])
+- Shield left half (3 × 1/262,144; 1/15,600[d 2][d 3])
+- Dragon spear (3 × 1/349,525.33; 1/20,800[d 2][d 3])
+- Ancient shard (1/186)
+- Mist battlestaff (1/368)
+- Dust battlestaff (1/368)
+- Eternal gem (1/1,288)
+- Imbued heart (1/1,288)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 220
+Attack: 103
+Strength: 110
+Defence: 80
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

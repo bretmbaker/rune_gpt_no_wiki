@@ -1,0 +1,102 @@
+Name: Revenant ork
+Combat Level: 105
+Size: 3x3
+Info:
+- Description: The ghost of an ork slain long ago.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 115 xp
+- Category: Revenants, Ghosts
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 7937
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guides are available for Revenant ork:
+
+Notable Drops:
+- Amulet of avarice (1/14,666.85; 1/8,066.85[d 1])
+- Craw's bow (u) (1/29,333.7; 1/16,133.7[d 1])
+- Thammaron's sceptre (u) (1/29,333.7; 1/16,133.7[d 1])
+- Viggora's chainmace (u) (1/29,333.7; 1/16,133.7[d 1])
+- Amulet of avarice (1/2,933.15; 1/1,613.15[d 1])
+- Craw's bow (u) (1/5,866.3; 1/3,226.3[d 1])
+- Thammaron's sceptre (u) (1/5,866.3; 1/3,226.3[d 1])
+- Viggora's chainmace (u) (1/5,866.3; 1/3,226.3[d 1])
+- Ancient emblem (1/1,466.67; 1/4,840[d 1])
+- Ancient totem (1/2,200; 1/1,210[d 2])
+- Ancient statuette (1/4,400; 1/2,420[d 2])
+- Ancient crystal (1/2,933.33; 1/1,613.33[d 2])
+- Ancient medallion (1/8,800; 1/4,840[d 2])
+- Ancient effigy (1/8,800; 1/4,840[d 2])
+- Ancient relic (1/8,800; 1/4,840[d 2])
+- Bracelet of ethereum (uncharged) (1/9.68)
+- Battlestaff (1/29.04)
+- Rune full helm (1/72.6)
+- Rune platebody (1/72.6)
+- Rune platelegs (1/72.6)
+- Rune kiteshield (1/72.6)
+- Rune warhammer (1/72.6)
+- Dragon platelegs (1/290.4)
+- Dragon plateskirt (1/290.4)
+- Dragon dagger (1/145.2)
+- Dragon longsword (1/145.2)
+- Dragon med helm (1/676.92; Never[d 1])
+- Blighted super restore(4) (1/48.4)
+- Blighted manta ray (1/36.3)
+- Coal (1/24.2)
+- Adamantite bar (1/24.2)
+- Runite ore (1/36.3)
+- Runite bar (1/48.4)
+- Black dragonhide (1/36.3)
+- Mahogany plank (1/48.4)
+- Yew logs (1/36.3)
+- Magic logs (1/72.6)
+- Uncut dragonstone (1/145.2)
+- Yew seed (1/2,200; 1/1,210[d 1])
+- Magic seed (1/2,200; 1/1,210[d 2])
+- Coins (1/3.19)
+- Revenant cave teleport (1/29.04)
+- Dragonstone bolt tips (1/48.4)
+- Onyx bolt tips (1/48.4)
+- Law rune (1/29.04)
+- Death rune (1/29.04)
+- Blood rune (1/29.04)
+- Blighted ancient ice sack (1/14.5)
+- Blighted entangle sack (1/7.25)
+- Blighted teleport spell sack (1/14.5)
+- Blighted vengeance sack (1/14.5)
+- Blighted manta ray (1/9.67)
+- Blighted anglerfish (1/9.67)
+- Blighted karambwan (1/14.5)
+- Blighted super restore(4) (1/29)
+- Revenant cave teleport (1/29)
+- Looting bag (1/3)
+- Larran's key (1/94)
+- Slayer's enchantment (1/236)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 105
+Attack: 99
+Strength: 100
+Defence: 60
+Magic: 110
+Ranged: 130
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

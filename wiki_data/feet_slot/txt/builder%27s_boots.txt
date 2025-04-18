@@ -1,0 +1,47 @@
+[Weapon: Builder%27S Boots]
+
+
+Builder's bootsare obtained during theTower of Lifequest. This item is part of thebuilder's costume.
+If you have destroyed or lost your builder's boots, pickpocket'No fingers'for another pair.
+
+
+[Infobox]
+Released: 19 February2007(Update)
+Members: Yes
+Quest item: Tower of Life
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You'll have to find another within the Tower of Life!
+Examine: They'll offer good protection for my toes.
+General Store Value: 100 coins
+High alch: 60 coins
+Low alch: 40 coins
+Weight: 0.45 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot

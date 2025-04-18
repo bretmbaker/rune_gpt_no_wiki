@@ -1,0 +1,56 @@
+[Weapon: Leather Vambraces]
+
+
+Leather vambracesareleather armourworn on the hands. With no requirements to equip, they are most commonly used by low-level rangers, and often mages (as there is no magic penalty). Overall they are generally a superior alternative toleather gloveswith a notable exception of thecrushdefence, and could be considered the best "gloves" for free-to-play users who lack 40Rangedto equipgreen dragonhide vambraces, as well as the best-in-slot mage gloves due to their lack of negative penalties.
+Kebbit clawscan be used on these vambraces to makespiky vambraces, requiring aCraftinglevel of 32.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Better than no armour!
+General Store Value: 18 coins
+High alch: 10 coins
+Low alch: 7 coins
+Weight: 0.226 kg
+Grand Exchange Value: 7 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 9,325
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +4
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +1
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Combat path starter kit | N/A | 1 | Always | N/A
+Reward casket (beginner) | N/A | 1 | 11/492 | 
+Skeleton (Tarn's Lair)Medium level | 40; 63; 72; 77 | 1 | 2/128 | 

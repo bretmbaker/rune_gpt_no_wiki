@@ -1,0 +1,1 @@
+Rocksare items that can be mined only fromRocksduring theTourist Trapquestyielding 1 mining exp. If caught by the guards while in theDesert Mining Campmine, players will be sent to the jail, where they have to mine 15 rocks to leave. Upon completing the quest, players will no longer be sent to the jail mine.

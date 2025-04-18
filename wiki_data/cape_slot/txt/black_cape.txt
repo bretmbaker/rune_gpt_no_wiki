@@ -1,0 +1,62 @@
+[Weapon: Black Cape]
+
+
+Ablack capeis a low-level cape that is commonly obtained by killing ahighwayman. It can be made by usingblack dyeon any colouredcape, and can be purchased fromBarkers' HaberdasheryinCanifisandShayzien StylesinShayzien.
+
+
+[Infobox]
+Released: 21 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A warm black cape.
+General Store Value: 7 coins
+High alch: 4 coins
+Low alch: 2 coins
+Weight: 0.453 kg
+Grand Exchange Value: 725 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 1,863
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +1
+- Magic: +0
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+HighwaymanNo hood | 5 | 1 | Always | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Barbarian Assault/Strategies(Ranged (mid level))
+5 | Barbarian Assault/Strategies(Melee (mid level))
+1 | Free-to-play Magic training(Magicgear)
+1 | Free-to-play Ranged training(Rangedgear)
+1 | Free-to-play melee training(Meleegear)

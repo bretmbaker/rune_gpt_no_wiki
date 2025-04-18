@@ -1,0 +1,1 @@
+Acollection bagis used by a player when in the role ofCollectorin theBarbarian Assaultminigame. The bag is used to carry eggs around.

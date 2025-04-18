@@ -1,0 +1,74 @@
+[Weapon: Dragon Hunter Wand]
+
+
+TheDragon hunter wandis a magicdragonbane weaponrequiring level 65Magicto wield. It is obtained as a rare drop from thethe Hueycoatl.
+The wand has apassive effectthat increases accuracy by 50% and damage by 20% when fightingdragons(excluding Elvarg and revenant dragons) and otherdraconiccreatures, such aswyrms,wyverns, andhydras. This stacks multiplicatively with theSlayer helm (i)and Elite Void but not salve (ei). The wand can also autocast spells from theStandard spellbook.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A wand that is uniquely attuned to draconic creatures.
+General Store Value: 300,000 coins
+High alch: 180,000 coins
+Low alch: 120,000 coins
+Weight: 2 kg
+Grand Exchange Value: 11,365,744 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 239
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +16
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +16
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +10%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Hueycoatl | 642 | 1 | 1/207 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Adamant dragon/Strategies(Magic)
+4 | Ancient Wyvern/Strategies(Magic)
+3 | Drake/Strategies(Magic)
+3 | Metal dragons/Strategies(Magic)
+2 | Mithril dragon/Strategies(Magic)
+3 | Nightmare Zone/Strategies(Magic)
+3 | Rune dragon/Strategies(Magic)

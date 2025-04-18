@@ -1,0 +1,53 @@
+[Weapon: Construct. Cape#Untrimmed]
+
+
+AConstruct. capeorConstruction capeis theCape of Accomplishmentfor theConstructionskill. It can be purchased for 99,000coinsalongside theConstruction hoodfrom anyEstate agentby players who have achievedskill mastery(level 99) in the Construction skill.
+Like allskill capes, the Construction cape gives +9 to alldefensive stats, and also a +4 bonus toprayerif it is trimmed, which requires a separate skill at level 99. The cape is automatically trimmed if this condition is met.
+
+
+[Infobox]
+Released: 18 October2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Teleport (Home, Rimmington, Taverley, Pollnivneach, Hosidius, Aldarin, Rellekka, Brimhaven, Yanille, Prifddinas), Tele to POH, Drop
+Worn options: Boost, Teleport, Tele to POH
+Examine: The cape worn by master builders.
+General Store Value: 99,000 coins
+High alch: 59,400 coins
+Low alch: 39,600 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +9
+- Crush: +9
+- Magic: +9
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Hunter training(Staff of the dead)
+1 | Hunter training(Dinh's bulwark)

@@ -1,0 +1,119 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Lost City (#19)
+
+
+
+
+
+Released | 27 February 2002 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Paul Gower
+
+
+
+Lost City is a quest about the fairy land Zanaris . A group of adventurers have set up camp in Lumbridge Swamp , claiming to be searching for the mystical lost city. You must find the truth of this claim, and gain entrance to the moon of Gielinor , Zanaris.
+
+Details [ edit | edit source ]
+
+Start point | Go to Lumbridge Swamp . Talk to the campers there. Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | Can you find the legendary lost city of Zanaris ?
+
+Requirements | 31 Crafting ( boostable ) ( not required to start ) 36 Woodcutting ( boostable ) ( not required to start ) Ability to kill a level 101 Tree spirit with limited armour and weapons .
+
+Items required | Knife Woodcutting axe (you will need to bank the axe before accessing Entrana -- you cannot use a blessed axe)
+
+Recommended | 45 Combat level Some stamina potions Some food (armour is not allowed on Entrana) Prayer potion for the Entrana Dungeon ( highly recommended if using Melee , Prayer is almost fully drained when entering the dungeon) Some rings of recoil ( highly recommended if using Melee ) 39 Magic and enough runes to cast Crumble Undead against the Zombies and the Tree Spirit , who are susceptible to it (about 65 casts should be enough) A Celastrus bark to fletch into a battlestaff for an added Magic bonus (requires 40 Fletching ) Arrows , bow string and an unstrung bow as an alternative to Magic against the Zombies Any instant teleport to leave the Entrana Dungeon Fast travel to the Lumbridge Swamp (A charged ring of the elements , Lumbridge teleport or necklace of passage to the Wizards' Tower)
+
+Enemies to defeat | Tree Spirit (level 101) (Safespottable) Multiple Zombies (level 25) (for a bronze axe )
+
+Ironman concerns | The player is required to go to Entrana .
+
+League notes | Unlocking Misthalin ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Starting out [ edit | edit source ]
+
+Items required: A woodcutting axe .
+
+To start this quest, go towards the Lumbridge Swamp - by walking or teleporting to Draynor Village and going south-east. Go to the Adventurers' camp located at the north-west edge of the swamp and find a Warrior , Archer , Wizard , and Monk standing around a campfire. Talk to the warrior, and ask, "What are you camped out here for?" He will let it slip that he is searching for Zanaris . Ask, "Who's Zanaris?" , and then, "If it's hidden, how are you planning to find it?" Lastly, say, "Looks like you don't know either," and in his anger, he will accidentally reveal that there is a leprechaun hiding in a nearby tree who knows how to get to Zanaris . Open up your quests tab and verify that you have started the quest.
+
+Take a few steps north-west, and look for a tree that only has a "Chop" option instead of a "Chop down" option. Click on the tree, and a leprechaun named Shamus will pop out. Ask him " How does it fit in a shed then? ", and he will tell you that you need a Dramen staff made from a Dramen tree branch cut from the Dramen tree in Entrana Dungeon beneath Entrana .
+
+The island of Entrana [ edit | edit source ]
+
+Items required: A knife . Recommended: Runes , a teleport , Food , and a prayer potion if necessary.
+
+Monks of Entrana do not allow armour or weapons on Entrana , but you can take:
+
+Items to make armour, such as a needle , thread , and dragonhide or leather Some clothing options, such as H.A.M Robes and full graceful Celastrus bark to make a battlestaff A knife and logs (or unstrung bow ), and a bow string to make a bow Arrows Runes (for combat and teleports ) Potions Food Jewellery God books Unholy Blessing scrolls
+
+Go to Port Sarim , south of the Rusty Anchor Inn on the second jetty, there are Monks of Entrana and a bank deposit box . Store your axe in the bank deposit box and take the boat to Entrana. When you get off the boat, go to the east; then north over the bridge; then west. You will find a Cave monk next to a dungeon entrance. Make sure not to have crafted the Battlestaff or a Bow before climbing down the ladder. You will be kicked off of the island and have to start over. Climb down.
+
+Note: when you enter the dungeon, your prayer will be reduced to nearly 0. If you aren't safespotting, it's suggested that you bring at least one prayer potion to counteract the effect.
+
+Once in the dungeon, you will need to obtain a woodcutting axe . The most straight-forward way to accomplish this is to kill zombies (level 25) until one of them drops a bronze axe . There is a safespot by the mushrooms against the west wall, and another by the little group of mushrooms in southern part of the zombie area. If using the Crumble Undead spell to fight zombies, make sure to save runes for some 20-30 casts for use against the Tree spirit later. Once you have obtained an axe, go south through the cave until you see some greater demons and a small cave off to the south. ( Warning : Do not go through the magical door to the east, it takes you to level 32 wilderness .) Run past the demons to the south, and chop the Dramen Tree found inside.
+
+A level 101 tree spirit will appear. An easy way to safespot this fight is to run all the way to the north (with the tree spirit in tow) and then all the way to the south behind the mushrooms. The most efficient strategy it to bring runes and safely kill it with Magic from the safespot. Crumble Undead is extremely effective even at low levels. If intending to use Ranged to kill the tree spirit, bring plenty of arrows (200+ if at a low Ranged level), the materials to fletch a bow, and preferably some materials to craft ranged armour.
+
+It is possible to have someone else weaken the tree spirit by indirectly damaging the tree spirit with a ring of recoil . The player doing the quest must deal at least 1 damage at any point during the fight for the kill to be counted. A second possible safe spot is to cut the branch at first from the South-side of the tree, doing this means the tree spirit will spawn on the other side of the tree from you. from there you can just magic it to death as usual. Do not use the mushroom by the greater demons outside of the room as a safespot, as even if you kill the tree spirit, they will respawn again after trying to cut the tree.
+
+Once you've defeated the tree spirit, cut the tree again to get a Dramen branch .
+
+Note: A dramen branch is required for the Freeing Sir Amik Varze subquest of Recipe for Disaster , and another is useful for the smuggling into Thorvald 's trial in The Fremennik Trials , but do not make them into staves yet. Cutting at least three branches is recommended.
+
+Use a knife on the Dramen branch to get a Dramen staff .
+
+Warning : If you decide to go through the magical door, you will be teleported into level 32 Wilderness .
+
+Finishing up [ edit | edit source ]
+
+Items required: Dramen staff
+
+Teleport out and go to the tool shed in the centre of Lumbridge Swamp , north-west of the Lumbridge Swamp training mine . A player can use Lumbridge Home Teleport for quick transportation. Wield the Dramen staff and enter the tool shed and you'll find yourself in Zanaris .
+
+Rewards [ edit | edit source ]
+
+3 Quest points Access to Zanaris Ability to buy and wield dragon longswords and dragon daggers (with level 60 Attack ) Ability to make cosmic runes with the Runecraft skill A permanent portal to Puro-Puro in the wheat field east of the fairy ring in Zanaris .
+
+Unlocks:
+
+Tree spirit accessible in the Nightmare Zone .
+
+Required for completing [ edit | edit source ]
+
+Completion of Lost City is required for the following:
+
+Fairytale I - Growing Pains Heroes' Quest Lunar Diplomacy Freeing Sir Amik Varze Lumbridge & Draynor Medium Diary Lumbridge & Draynor Hard Diary Slayer Master Chaeldar
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+v • t • e Lost City
+
+NPCs | Warrior Archer Wizard Monk Shamus Cave monk Enemies Dramen Tree Spirit |  | Warrior Archer Wizard Monk Shamus Cave monk | Enemies | Dramen Tree Spirit
+
+ | Warrior Archer Wizard Monk Shamus Cave monk
+
+Enemies | Dramen Tree Spirit
+
+Items | Dramen staff Dramen branch
+
+Locations | Entrana Entrana Dungeon Lumbridge Swamp Zanaris
+
+Scenery | Dramen tree Tree (Lost City)
+
+Music | Underground (music track) Faerie
+
+Related | Quick guide Transcript

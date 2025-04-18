@@ -1,0 +1,61 @@
+[Weapon: Silly Jester Boots]
+
+
+Thesilly jester bootsare part of thesilly jester costume, which is obtained and used duringThe Fremennik Islesquest. They offer the second highestMagicdefence bonus of any pair of boots, tied withinfinity boots,pegasian boots,bloodbark boots, andboots of brimstone, and only beaten by theeternal boots.
+If a player were to lose their silly jester boots, they can get them back by searching the king's chest onJatizso.
+
+
+[Infobox]
+Released: 6 February2007(Update)
+Members: Yes
+Quest item: The Fremennik Isles
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: Are you sure? You can find another in King Sorvott's chest.
+Examine: Silly jester boots.
+General Store Value: 100 coins
+High alch: 60 coins
+Low alch: 40 coins
+Weight: 1.36 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: -5
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Jester costume) | N/A | 1 | Always | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Hunter training(Dinh's bulwark)
+3 | Hunter training(Staff of the dead)
+4 | Kraken/Strategies(Magic)
+1 | Pay-to-play Prayer training(High Magic defence)
+1 | Pay-to-play Prayer training(Dinh's bulwark)

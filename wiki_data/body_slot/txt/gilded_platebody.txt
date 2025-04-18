@@ -1,0 +1,55 @@
+[Weapon: Gilded Platebody]
+
+
+Thegilded platebodyis a part ofgilded equipmentand can be obtained from completinghard,eliteandmastertierTreasure Trails. A gilded platebody has the same defence bonuses and requirements to equip (40Defenceand the completion ofDragon Slayer I) as arune platebody, and is usually worn by players who wish to display their wealth.
+
+
+[Infobox]
+Released: 26 October2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Rune platebody with gold plate.
+General Store Value: 65,000 coins
+High alch: 39,000 coins
+Low alch: 26,000 coins
+Weight: 9.979 kg
+Grand Exchange Value: 14,213,447 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 43
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -30
+- Ranged: -15
+
+Defence Bonuses:
+- Stab: +82
+- Slash: +80
+- Crush: +72
+- Magic: -6
+- Ranged: +80
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/32,257.5 | 
+Reward casket (hard) | N/A | 1 | 1/35,750 | 
+Reward casket (master) | N/A | 1 | 1/149,776 | 

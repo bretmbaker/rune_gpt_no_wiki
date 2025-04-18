@@ -1,0 +1,283 @@
+[Shop: Potato]
+
+Potato
+
+
+
+
+
+
+
+Released | 11 June2001(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Edible | Yes
+
+Options | Eat, Drop
+
+Examine | This could be used to make a good stew.
+
+
+
+Values
+
+
+
+Value | 1 coin
+
+High alch | 0 coins
+
+Low alch | 0 coins
+
+Weight | 0.5 kg
+
+Respawn time | 100 ticks (60 seconds)
+
+
+
+Grand Exchange
+
+
+
+Exchange | 63coins (info)
+
+Buy limit | 13,000
+
+Daily volume | 195,660
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 1942
+
+Link | MOID
+
+
+
+Raw potatoesare afooditem that can be picked from fields aroundGielinoror grown through theFarmingskillat level 1 withpotato seeds. They heal 1hitpointwhen eaten raw. When picking potatoes from fields,membersmay randomly receive 1 potato seed.
+
+They are used in the following recipes:
+
+Baked potato(must be cooked on arange, not afire)Veg ball(Gnome cooking)StewFish pie (admiralandregular, whichtemporarily boostFishinglevel by 5 and 3, respectively)
+
+Raw potatoes are purchasable from various stores for1coineach.Hudoat theGrand Treehas a stock of 10;Cobado's Groceriesa stock of 10;FrenitainYanillea stock of 5; andWydininPort Sarima stock of 1, to name a few.
+
+Members can store up to 10 potatoes in anempty sack, creating asack of potatoes. 1 sack of potatoes is needed to protect growingonions. Adding potatoes to acompost binmakes regularcompost.
+
+Obtaining in bulk[edit|edit source]
+
+Memberscan obtain a lot of potatoes in a relatively short time, without waiting for farming patches, by taking plenty ofempty sacksto any potato field and filling them to create asack of potatoes. Another method for members is to pick potatoes at the potato field north of theLumbridge cow fieldand note them at thetool leprechaunby thehops patchto the west.Ironmenlooking to stock up on large numbers very quickly to maketuna potatoeswill findSigmund the MerchantinRellekkato their liking, depositing withPeer the Seera short distance away.
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Baked potato |  | 7 | 15 | 1 ×Potato
+
+ | Half made bowl (veg ball) |  | 35 | 50 | 1 ×Half baked bowl2 ×Potato2 ×Onion
+
+ | Incomplete stew#Potato |  | 25 | 0 | 1 ×Potato1 ×Bowl of water
+
+ | Potatoes(10) |  | None | None | 1 ×Empty sack10 ×Potato
+
+ | Raw admiral pie |  | 70 | 0 | 1 ×Part admiral pie (tuna)1 ×Potato
+
+ | Raw fish pie |  | 47 | 0 | 1 ×Part fish pie (cod)1 ×Potato
+
+ | Uncooked stew(Potato) |  | 25 | 0 | 1 ×Potato1 ×Incomplete stew#Meat
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Potato (scenery) | N/A | 1 | Common | 
+
+Potato plant | 1 | 1 | Always | 
+
+Sourhog | 37 | 1 | 5/110 | &
+
+Teak larder | N/A | 1 | Always | 
+
+Veg stall | 2 | 1 | 1/3.5 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Agelus' Farm Shop | Ortus Farm | 0 | 1m | 1 | 0 | 1.0% |  | 
+
+Alice's Farming shop. | Farm west ofPort Phasmatys | 0 | 1m | 1 | 0 | 1.0% |  | 
+
+Cobado's Groceries | Civitas illa Fortis | 10 | 1m | 1 | 0 | 1.0% |  | 
+
+Faustus' Fruit and Veg | Aldarin | 10 | 1m | 1 | 0 | 1.0% |  | 
+
+Food Store | Port Sarim | 1 | 1m | 1 | 0 | 1.0% |  | 
+
+Frenita's Cookery Shop. | Yanille | 5 | 2m | 1 | 0 | 1.0% |  | 
+
+Grand Tree Groceries | Grand Tree | 10 | 1m | 1 | 0 | 1.0% |  | 
+
+Greengrocer of Miscellania | Miscellania | 10 | 1m | 1 | 0 | 2.0% |  | 
+
+Island Greengrocer | Etceteria | 10 | 1m | 1 | 0 | 2.0% |  | 
+
+Kenelme's Wares | Port Piscarilius | 1 | 1m | 1 | 0 | 1.0% |  | 
+
+Logava Gricoller's Cooking Supplies | Hosidius | 5 | 2m | 1 | 0 | 1.0% |  | 
+
+Miscellanian Food Shop | Miscellania and Etceteria Dungeon | 5 | 1m | 1 | 0 | 2.0% |  | 
+
+Prifddinas Foodstuffs | Prifddinas | 10 | 1m | 1 | 0 | 1.0% |  | 
+
+Richard's Farming shop. | North ofEast Ardougne | 0 | 1m | 1 | 0 | 1.0% |  | 
+
+Sarah's Farming shop. | South Falador Farm | 0 | 1m | 1 | 0 | 1.0% |  | 
+
+Sigmund the Merchant (shop) | Rellekka | 10 | 2m | 1 | 0 | 3.0% |  | 
+
+Vanessa's Farming shop. | Catherby | 0 | 1m | 1 | 0 | 1.0% |  | 
+
+Item spawns[edit|edit source]
+
+Location | Members | Spawns | Map | Leagueregion
+
+Darkmeyer- middle tier |  | 1 | Show map | Morytania✓
+
+Civitas illa Fortis |  | 1 | Show map | Varlamore✓
+
+Salvager Overlook- East Tower (ground floor[UK]1stfloor[US]) |  | 1 | Show map | Varlamore✓
+
+Fields[edit|edit source]
+
+Potato picked up in a field will respawn after 50 ticks (30 seconds).
+
+Location | Members | Spawns | Map | Leagueregion
+
+Clock Tower |  | 1 | Show map | Kandarin✓
+
+East ofDraynor Village |  | 134 | Show map | Misthalin✓
+
+Rantz's Hunting Grounds |  | 2 | Show map | Kandarin✓
+
+North ofLumbridge Cow Field |  | 84 | Show map | Misthalin✓
+
+Entrana |  | 6 | Show map | Asgarnia✓
+
+Rellekka |  | 7 | Show map | Fremennik✓
+
+East Ardougne |  | 5 | Show map | Kandarin✓
+
+Miscellania |  | 73 | Show map | Fremennik✓
+
+North-westHosidius |  | 10 | Show map | Kourend✓
+
+Feldip Hills |  | 4 | Show map | Kandarin✓
+
+North ofEast Ardougne |  | 56 | Show map | Kandarin✓
+
+Tenzing's House |  | 10 | Show map | Asgarnia✓
+
+Fisher Realm(Post-quest) |  | 66 | Show map | Karamja✓
+
+Hosidius |  | 5 | Show map | Kourend✓
+
+Sinclair Mansion |  | 5 | Show map | Kandarin✓
+
+Fisher Realm(DuringHoly Grail) |  | 20 | Show map | Karamja✓
+
+Ortus Farm |  | 40 | Show map | Varlamore✓
+
+Changes[edit|edit source]
+
+Date | Changes
+
+24 October2005(update) | The item was graphically updated.
+
+11 July2005(update) | An "Eat" option was added.
+
+Gallery (historical)[edit|edit source]
+
+ |  | 
+
+ |  | 
+
+RuneScape 2Beta | March/April 2004 –24 October 2005 | 24 October 2005 ⁠–present
+
+v•t•ePotatoes, toppings and ingredients
+
+Potatoes | RottenRawBakedWith butterChilliWith cheeseEggMushroomTuna
+
+Toppings | Pat of butterChilli con carneCheeseEgg and tomatoMushroom & onionTuna and corn
+
+Ingredients | Chopped garlicSpicy sauceUncooked eggScrambled eggSliced mushroomsFried mushroomsChopped onionFried onionsSweetcornChopped tuna
+
+v•t•eFarmingproduce
+
+Allotments | PotatoOnionCabbageTomatoSweetcornStrawberryWatermelonSnape grass
+
+Flowers | MarigoldsRosemaryNasturtiumsWoad leafLimpwurt rootWhite lily
+
+Herbs | Guam leafMarrentillTarrominHarralanderGoutweedRanarr weedToadflaxIritAvantoeKwuarmSnapdragonCadantineLantadymeDwarf weedTorstol
+
+Hops | BarleyHammerstoneAsgarnianJute fibreYanillianKrandorianWildblood
+
+Bushes | RedberriesCadava berriesDwellberriesJangerberriesWhite berriesPoison ivy berries
+
+Trees | Willow branchLeavesAnyOakWillowMapleYewMagicRootsOakWillowMapleYewMagic |  | Willow branch | Leaves | AnyOakWillowMapleYewMagic | Roots | OakWillowMapleYewMagic
+
+ | Willow branch
+
+Leaves | AnyOakWillowMapleYewMagic
+
+Roots | OakWillowMapleYewMagic
+
+Fruit trees | AppleBananaOrangeCurry leafPineapplePapayaCoconutDragonfruit
+
+Special produce | Giant seaweedGrapesZamorak's grapesMushroomCactus spineCave nightshadePotato cactusCalquat fruitWhite tree fruitCelastrus barkWeeds
+
+Tithe Farm | GolovanovaBologanoLogavano
+
+Baskets | EmptyApplesBananasOrangesTomatoesStrawberries
+
+Sacks | EmptyPotatoesOnionsCabbages
+
+v•t•ePies
+
+Finished | RedberryMeatMudAppleGardenFishBotanicalMushroomAdmiralDragonfruitWildSummer
+
+Raw/uncooked | RedberryMeatMudAppleGardenFishBotanicalMushroomAdmiralDragonfruitWildSummer
+
+Part | Pie shellMud (compost)Mud (water)Garden (tomato)Garden (onion)Fish (trout)Fish (cod)Admiral (salmon)Admiral (tuna)Wild (raw bear meat)Wild (raw chompy)Summer (strawberry)Summer (watermelon)
+
+Ingredients | Pastry doughRedberriesCooked meatCompostClayCooking appleTomatoOnionCabbageTroutCodPotatoGolovanova fruit topSulliuscep capSalmonTunaDragonfruitRaw bear meatRaw chompyRaw rabbitStrawberryWatermelon
+
+Related | Pie recipe bookPie dishPumpkin pie(unobtainable)WaterRangeBake Pie(Lunar spell)

@@ -1,0 +1,5 @@
+Item: Scurrius' spine
+Summary: Scurrius' spine is an uncommon drop from Scurrius. It can be combined with various weapons to create rat bone weapons.
+Sources:
+- Scurrius MVP (Level 200; 250, Quantity: 1, Rarity: 1/33)
+- Scurrius non-MVP (Level 200; 250, Quantity: 1, Rarity: 1/33)

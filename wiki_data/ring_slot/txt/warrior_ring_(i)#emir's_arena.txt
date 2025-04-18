@@ -1,0 +1,63 @@
+[Weapon: Warrior Ring (I)#Emir'S Arena]
+
+
+Thewarrior ring (i)is an upgraded version of the regularwarrior ring. It can beimbuedas a reward from theNightmare Zone, costing 650,000 reward points or 325,000 with thehard tierofCombat Achievements, atSoul Warsfor 260Zeal Tokens, or by using ascroll of imbuingpurchased from theEmir's Arena. Its stats are double those of the warrior ring.
+If not protected,dyingto another player will cause the imbued ring to lose its imbued status, but the player will be reimbursed theNightmare Zone points,Zeal TokensorScroll of imbuingto re-imbue it via the aforementioned methods. Dying to a monster will not remove its imbued effect.
+
+
+[Infobox]
+Released: 26 September2013(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Uncharge, Drop
+Examine: A legendary ring once worn by Fremennik warriors.
+General Store Value: 10,000 coins
+High alch: 6,000 coins
+Low alch: 4,000 coins
+Weight: 0.004 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +8
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +8
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Budget Cutter
+3 | Duke Sucellus/Strategies(Melee)
+3 | Giant Mole/Strategies(Melee & Prayer Budget)
+5 | Giant Mole/Strategies(Dharok's)
+5 | Grotesque Guardians/Strategies(Melee)
+4 | Kree'arra/Strategies(Ranged Tank)
+5 | Moons of Peril/Strategies(Moons of Peril Armour)
+4 | Nightmare Zone/Strategies(Melee)
+4 | Nightmare Zone/Strategies(Melee (Dharok's))
+5 | Nightmare Zone/Strategies(Melee (Prayer))
+3 | Revenants/Strategies(Melee)
+4 | Sarachnis/Strategies(Melee)
+5 | Slayer task/Jellies(Melee)

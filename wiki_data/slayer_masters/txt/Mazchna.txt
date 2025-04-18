@@ -1,0 +1,142 @@
+[Slayer Master: Mazchna]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+Mazchna
+
+
+
+
+
+
+
+Released | 26 January2005(Update)
+
+Members | Yes
+
+Race | Demon
+
+Location | Canifis
+
+Leagueregion | Morytania✓
+
+Shop | Slayer Equipment,Slayer Rewards
+
+Gender | Male
+
+Options | Talk-to, Assignment, Trade, Rewards
+
+Examine | He looks dangerous!
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+NPC ID | 13620
+
+Link | MOID
+
+
+
+Mazchna(/ˈmæʃnə/mash-ner[1]) is the second-to-lowest levelSlayer Master, giving tasks to players with aCombat levelof 20 and above. He is located in north-easternCanifis, and therefore completion of thePriest in Perilquest is required to access him. Mazchna is notable for givingSlayer tasksclose to his area. His tasks are relatively easy and ideal for players with lower combat levels.
+
+He has a unique sword and is wearingDharok's platebodyas well as a pair ofDharok's platelegs. DuringWhile Guthix Sleeps, he is replaced byAchtryn.
+
+Diaries[edit|edit source]
+
+Getting a Slayer task from Mazchna is a task in theMorytania Easy Diary.
+
+Slayer points[edit|edit source]
+
+Players can receiveSlayer reward pointsfor completingSlayer tasks—this is based on how many tasks players have accomplished in a row. Completion of a task assigned by Mazchna will grant you:
+
+Task interval | Points given
+
+Every task | 2
+
+Every 10th | 5
+
+Every 50th | 15
+
+Every 100th | 50
+
+Every 250th | 70
+
+Every 1,000th | 100
+
+Tasks[edit|edit source]
+
+Monster | Amount | Extended amt. | Unlock requirement | Alternative(s) | Weight
+
+Banshees | 30-50 | N/A | 15,20, completion ofPriest in Peril | Twisted Banshee | 8
+
+Bats | 30-50 | N/A | 5 | Giant bat | 7
+
+Bears | 30-50 | N/A | 13 | Grizzly bear cub,Bear cub,Grizzly bear,Callisto | 6
+
+Catablepon | 20-30 | N/A | 35 | None | 8
+
+Cave bugs | 10-20 | N/A | 7 | None | 8
+
+Cave crawlers | 30-50 | N/A | 10,10 | None | 8
+
+Cave slime | 10-20 | N/A | 17,15 | None | 8
+
+Cockatrice | 30-50 | N/A | 25,25,20 | Moonlight Cockatrice | 8
+
+Crabs | 30-50 | N/A | 1 | Ammonite crabs,Frost crabs,Rock crabs,Sand crabs,Swamp crabs | 8
+
+Crawling Hands | 30-50 | N/A | 5, completion ofPriest in Peril | None | 8
+
+Dogs | 30-50 | N/A | 15 | Jackal,Guard dog,Wild dog | 7
+
+Flesh Crawlers | 15-25 | N/A | 15 | None | 7
+
+Ghosts | 30-50 | N/A | 13 | Tortured soul,Forgotten Soul,Revenants | 7
+
+Ghouls | 10-20 | N/A | 25, completion ofPriest in Peril | None | 7
+
+Hill Giants | 30-50 | N/A | 25 | Obor,Cyclops | 7
+
+Hobgoblins | 30-50 | N/A | 20 | None | 7
+
+Ice warriors | 40-50 | N/A | 45 | Icelords | 7
+
+Kalphite | 30-50 | N/A | 15 | Kalphite worker,Kalphite soldier,Kalphite guardian,Kalphite Queen | 6
+
+Killerwatts | 30-50 | N/A | 37,50, completion ofErnest the Chicken | None | 6
+
+Lizards | 30-50 | N/A | 22 | Small Lizard,Desert Lizard,Sulphur Lizard(44),Grimy Lizard(44) | 8
+
+Mogres | 30-50 | N/A | 32,30, completion ofSkippy and the Mogres | None | 8
+
+Pyrefiends | 30-50 | N/A | 30,25 | Pyrelords | 8
+
+Rockslugs | 30-50 | N/A | 20,20 | None | 8
+
+Scorpions | 30-50 | N/A | 7 | King Scorpion,Poison Scorpion,Pit Scorpion,Scorpia,Scorpia's offspring,Scorpia's guardian | 7
+
+Shades | 30-70 | N/A | 30 | Loar,Phrin,Riyl,Asyn,Fiyr, andUrium Shades | 8
+
+Skeletons | 30-50 | N/A | 15 | Skeleton mage, Skeletons in theStronghold of SecurityandAncient Cavern,Vet'ion | 7
+
+Vampyres | 10-20 | 200-250 | 35, completion ofPriest in Peril | Feral Vampyre,Vampyre Juvinate,Vyrewatch,Vyrewatch Sentinel | 6
+
+Wall beasts | 10-20 | N/A | 35,30,5 | None | 7
+
+Wolves | 30-50 | N/A | 20 | Big Wolf,Desert Wolf,Ice wolf,Jungle wolf,White wolf | 7
+
+Zombies | 30-50 | N/A | 10 | Monkey Zombie,Undead chicken,Undead cow,Undead one,Vorkath,Undead Druid | 7
+
+Totaltask weight | 219
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.Click herefor a list of other transcripts that this NPC speaks in.
+

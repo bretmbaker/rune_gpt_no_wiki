@@ -1,0 +1,103 @@
+[Weapon: Boots Of Brimstone]
+
+
+Boots of brimstoneare a piece ofSlayer equipmentworn in the foot slot. ASlayerlevel of 44, along with level 70 inDefence,Magic, andRangedis required to wear them.
+They can be created by using adrake's clawon theboots of stone, and can protect the wearer from the extremely hot ground within theKaruulm Slayer Dungeon.
+
+
+[Infobox]
+Released: 10 January2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A pair of heat resistant boots charged with the claw of the ferocious Drake.
+General Store Value: 20,000 coins
+High alch: 12,000 coins
+Low alch: 8,000 coins
+Weight: 3.175 kg
+Grand Exchange Value: 426,740 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 944
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +3
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +5
+
+Defence Bonuses:
+- Stab: +10
+- Slash: +10
+- Crush: +10
+- Magic: +5
+- Ranged: +5
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Adamant dragon/Strategies(Ranged)
+3 | Adamant dragon/Strategies(Magic)
+3 | Adamant dragon/Strategies(Magic)
+5 | Alchemical Hydra/Strategies(Melee)
+4 | Alchemical Hydra/Strategies(Ranged)
+5 | Barbarian Assault/Strategies(Ranged (high level))
+5 | Basilisk Knight/Strategies(Ranged/Prayer)
+4 | Basilisk Knight/Strategies(Ranged)
+4 | Chompington(Melee)
+5 | Commander Zilyana/Strategies(Ranged)
+4 | Corporeal Beast/Strategies(Ranged masses)
+5 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+3 | Dagannoth Kings/Strategies(Range)
+3 | Dagannoth Kings/Strategies(Magic (Rex only))
+5 | Demonic gorilla/Strategies(upgrades and downgrades)
+4 | Drake/Strategies(Ranged)
+2 | Drake/Strategies(Magic)
+5 | Drake/Strategies(Melee)
+4 | General Graardor/Strategies(Melee Attacker)
+1 | Hunter training(Staff of the dead)
+2 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+3 | King Black Dragon/Strategies(Ranged BIS smuggle)
+3 | Kraken/Strategies(Magic)
+5 | Kree'arra/Strategies(Chinchompas)
+5 | Kree'arra/Strategies(Ranged Tank)
+3 | Kree'arra/Strategies(Tbow / Bowfa)
+4 | The Leviathan/Strategies(Ranged)
+4 | Mithril dragon/Strategies(Ranged)
+3 | Nightmare Zone/Strategies(Magic)
+4 | Nightmare Zone/Strategies(Ranged)
+5 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+4 | Phantom Muspah/Strategies(Ranged)
+5 | Phantom Muspah/Strategies(Magic & Ranged)
+5 | Skeletal Wyvern/Strategies(Ranged (Void))
+5 | Skeletal Wyvern/Strategies(Ranged)
+4 | Skeletal Wyvern/Strategies(Magic)
+5 | Skotizo/Strategies(Ranged)
+5 | Slayer task/Jellies(Ranged)
+3 | Slayer task/Wyrms(Melee)
+3 | Slayer task/Wyrms(Ranged)
+5 | Slayer training(Ranged)
+5 | Smoke devil/Strategies
+3 | The Bane of Demons(Magic)
+4 | Thermonuclear smoke devil/Strategies(Magic)
+4 | Tombs of Amascut/Strategies(Melee switch)
+4 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+5 | Vorkath/Strategies(Ranged (crossbow))
+4 | The Whisperer/Strategies(Magic)
+5 | Zulrah/Strategies(Ranged)
+3 | Zulrah/Strategies(Magic)

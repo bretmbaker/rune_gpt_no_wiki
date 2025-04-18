@@ -1,0 +1,2 @@
+Item: Peeve
+Summary: Peeve is a ghost found roaming around the Wilderness Slayer Cave. Though players cannot interact with them (such as examining), they will stop players from attacking abyssal demons, nechryaels, dust devils, and jellies if they do not have them assigned as a slayer task.

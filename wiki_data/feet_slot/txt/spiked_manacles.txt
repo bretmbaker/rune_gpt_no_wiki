@@ -1,0 +1,84 @@
+[Weapon: Spiked Manacles]
+
+
+Spiked manaclesare a rare reward obtained frommediumTreasure Trails. They are tied witharanea bootsfor the best-in-slot strength bonus for footwear that has no requirements to equip. It has equivalent strength bonus todragon bootsand aranea boots, all of which are only surpassed byprimordial boots, though without any of the defensive bonuses.
+In comparison toclimbing boots, which also have noDefencerequirement to equip, Spiked manacles have +2 higher strength bonus. However, Spiked manacles have some negative bonuses whereas the Climbing boots have none, and Climbing boots also offer +2 Slash and +2 Crush melee defence bonuses. Aranea boots have slight Ranged and Magic attack bonuses, no negative defence bonuses, and 1 Prayer bonus, making them slightly better than spiked manacles.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Some very spikey metal bands, better make sure I don't cut myself while walking.
+General Store Value: 2,500 coins
+High alch: 1,500 coins
+Low alch: 1,000 coins
+Weight: 3 kg
+Grand Exchange Value: 1,314,067 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 2,245
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -4
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Amoxliatl/Strategies(Melee)
+4 | Barbarian Assault/Strategies(Melee (high level))
+2 | Barbarian Assault/Strategies(Melee (mid level))
+3 | Basilisk Knight/Strategies(Melee)
+2 | Budget Cutter
+3 | Corporeal Beast/Strategies(Melee masses)
+3 | Corporeal Beast/Strategies(Team melee)
+3 | Corporeal Beast/Strategies(Solo melee)
+3 | Corporeal Beast/Strategies(Solo melee)
+3 | Down Do Specs(Melee)
+3 | Giant Mole/Strategies(Melee)
+4 | Kalphite Queen/Strategies(High DPS (Phase One))
+2 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+2 | King Black Dragon/Strategies(Melee BIS smuggle)
+5 | Moons of Peril/Strategies(Moons of Peril Armour)
+3 | Nightmare Zone/Strategies(Melee (Guthan's))
+3 | Nightmare Zone/Strategies(Melee (Dharok's))
+4 | Scurrius/Strategies(Melee (mid level))
+3 | Skeletal Wyvern/Strategies(Melee)
+2 | Skotizo/Strategies(Melee)
+2 | Slayer task/Nechryael(Melee)
+3 | Thermonuclear smoke devil/Strategies(Melee)
+2 | Ultimate Ironman Guide/Equipment
+2 | Ultimate Ironman Guide/Slayer
+4 | Vardorvis/Strategies(Melee)
+2 | Vyrewatch Sentinel/Strategies(DPS)

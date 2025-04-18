@@ -1,0 +1,18 @@
+[Page: Maze]
+
+Themazeis arandom eventinitiated randomly by the appearance of theMysterious Old Man, who offers the player a chance to complete a maze. It is favourable to complete over most other random events because the rewards it gives tend to be much more valuable than those given by other events despite taking longer to complete.
+The maze itself is a large square area full of "walls" made of floating cubes. The goal is to navigate through the maze to the centre and touch the rotating shrine found there; once the player does so, they will be teleported back to where they spoke to the Mysterious Old Man and will receive a reward.Run energydoesn't deplete at all in the maze.
+The maze layout is always the same but not the player's starting position. Meaning the path to the centre depends on where the player spawns. The maze may also be rotated to not face north.
+There are 10 possible starting locations.
+While inside the maze, the bottom right corner of the screen displays the event's "reward potential", which starts at 100% and slowly drains away as the player spends time in the maze, at a rate of 1% every 5 ticks (3 seconds).[1]Players typically finish with 65-75% reward potential, though this can vary with starting location and it is possible to obtain up to 80-81%. Players who reach 0% reward potential will be teleported out of the maze (back to where they were before the event started) with no reward. Some rewards can be very valuable in the amounts they are offered, with the highest rewards possible around135,240 coins(three times ~280 Death Runes).
+Upon completion, the maze event will reward the player with varying amounts of three resources randomly selected from the table below, which can be the same or different resource each selection, scaled to the remaining reward potential and the player's skill total in the following manner:
+ItemQty=TotalLevel×RewardPotential×103ItemDivisor,
+where the divisor depends on the specific item rewarded in the following way:
+For example, a player with 1772 total and 75% completion could receive 4430 coins, 491 chaos runes, or 27 mithril ore. The practical maximum rewards where completing at 75% potential and at max total level are 5,693 coins, 2,846 feathers, 1,898 iron arrows, 632 chaos runes, 474 steel arrows, 316 death runes, 126 coal, 35 mithril ores, and 32 nature runes.
+Furthermore, there are several rewards chests along the way which may give low-tier resources like elementalrunes,bronze arrowsandbolts,iron arrows,attack,strength, anddefence potions. Opening such a chest does not itself cost any reward potential, however the amount of time it takes to take the slight detour is generally not worth the cheap rewards.
+Players with a full inventory who have space in their bank for the rewarded item, will have the rewarded items be sent directly to their bank.Ultimate Ironmanplayers with a full inventory will have the items drop to the floor instead.
+Drop rates estimated based on 9,000 samples from theDrop Rate Project, unless otherwise cited.
+The walls no longer have an option to open them and players are teleported out if they run out of time.
+When entering the Maze random event area from the Smokey Well Dungeon, it will no longer remove the Maze's head-up display when the smoke overlay is removed.
+Run energy no longer drains while you're in the random event Maze.
+The Maze random event's warnings have been restored to some of its doors to prevent people from going down huge cul-de-sacs.

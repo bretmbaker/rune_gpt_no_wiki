@@ -1,0 +1,59 @@
+[Weapon: Bone Shortbow]
+
+
+Thebone shortbowis a weapon requiring level 50Rangedto wield. It is made by combining ayew shortbowwithScurrius' spine, requiring aknifeand level 35Fletchingto do so; players without the required level can alternatively payHistorian Aldo50,000coinsto create it on their behalf. The bow has identical offensive stats to themagic shortbow, and can fire up toamethyst arrows.
+As arat bone weapon, it is effective against all types ofratsby adding 10 damage to the player'smaximum hit.[1]The shortbowcannot be usedagainst any other type of monster; doing so will yield the game messageYou can only use this weapon against rats.Additionally, this weapon has no attack cooldown when attacking thegiant ratsthatScurriussummons.
+
+
+[Infobox]
+Released: 24 January2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Worn options: Check
+Examine: A shortbow made out of yew and Scurrius' spine, but still effective.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 1.36 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +69
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 3 ticks (1.8s) | 7 tiles |  | None
+ | Longrange | Standard | Longrange | 4 ticks (2.4s) | 9 tiles |  | +3 Defence
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Scurrius/Strategies(Range (high level))
+1 | Scurrius/Strategies(Range (mid level))

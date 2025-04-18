@@ -1,0 +1,1 @@
+Silifis anitemthat may be placed into the player's inventory whenSilifis following them duringWhile Guthix Sleeps. Dropping it will cause him to follow the player, much like apetdoes.

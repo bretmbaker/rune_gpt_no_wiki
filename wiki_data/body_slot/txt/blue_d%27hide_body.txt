@@ -1,0 +1,64 @@
+[Weapon: Blue D%27Hide Body]
+
+
+Ablue d'hide bodyis a piece ofblue dragonhide armourworn in the body slot. To wear a blue d'hide body, a player must have aRangedlevel of 50 and aDefencelevel of 40.
+Although players must completeDragon Slayer Iin order to wear theGreen d'hide body, completion of this quest isnotrequired to equip the blue,red, andblackdragonhide bodies.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Also called: Blue dragonhide body
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Made from 100% real dragonhide.
+General Store Value: 9,360 coins
+High alch: 5,616 coins
+Low alch: 3,744 coins
+Weight: 6.803 kg
+Grand Exchange Value: 4,964 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 263,273
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: +20
+
+Defence Bonuses:
+- Stab: +23
+- Slash: +30
+- Crush: +30
+- Magic: +26
+- Ranged: +40
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Brutal blue dragon | 271 | 1 | 2/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Abyss/Strategies(Defence)
+4 | Barbarian Assault/Strategies(Ranged (mid level))
+3 | Chompy bird hunting/Strategy
+5 | King Black Dragon/Strategies(Ranged BIS smuggle)
+5 | Scurrius/Strategies(Range (mid level))

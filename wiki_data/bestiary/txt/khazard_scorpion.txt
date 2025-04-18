@@ -1,0 +1,41 @@
+Name: Khazard Scorpion
+Combat Level: 44
+Size: 3x3
+Info:
+- Description: A large angry scorpion.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 1226
+- Link: MOID
+
+Location:
+- Area: Fight Arena (during quest)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 40
+Attack: 40
+Strength: 39
+Defence: 34
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

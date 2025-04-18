@@ -1,0 +1,99 @@
+ | This miniquest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Daddy's Home
+
+
+
+
+
+Released | 26 August 2020 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Developer(s) | Ashleigh B [1]
+
+
+
+Daddy's Home is a miniquest released with the Mahogany Homes update, in which the player helps Marlo's father renovate a recently squatted house.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Marlo in the Estate Agent's house in north-east Varrock. Show on map
+
+Official difficulty | Novice
+
+Official length | Short
+
+Description | Marlo's father requires someone to refurnish his disastrous house.
+
+Requirements | None
+
+Items required | 10 planks – (oak/teak/mahogany will not work) 5 bolts of cloth (can be bought from the Sawmill for 650 coins per bolt) At least 16 nails of any type, e.g. steel nails (more are recommended as nails bend when building furniture. 100 is recommended at 1 Construction , obtainable from the Sawmill during the quest) Hammer (Obtainable during the quest from Yarlo) Saw (Obtainable during the quest)
+
+Recommended | Varrock Teleport Stamina potion Lumberyard Teleport
+
+Enemies to defeat | None
+
+League notes | Misthalin ✓ - location requirement
+
+Walkthrough [ edit | edit source ]
+
+Starting out [ edit | edit source ]
+
+Begin the miniquest by speaking to Marlo in the house of the Varrock Estate Agent in north-east Varrock. He will ask you if you would be willing to complete an off-the-books favour for him by helping his father renovate his recently acquired house, explaining that the landlord isn't exactly aware of his presence there. He will direct you to Old Man Yarlo in his house in south-east Varrock, south-west of Aubury's Rune Shop . There is a saw on the ground in the same building as Marlo.
+
+Yarlo's house [ edit | edit source ]
+
+Items required: 10 planks , 5 bolts of cloth , a hammer , and a saw . Items recommended: At least 60 nails of any type.
+
+Speak to Old Man Yarlo and he'll ask you to remove all of the old furniture in the house: a chair, a carpet, two tables, two stools, and his campbed. You must right click the carpet for the option to remove to appear. If you interrupt the cutscene you will have to rewatch it. Once this is done, speak with him again to be given the option to view a cutscene showing the wonders of the Construction skill, or skip it to watch later. Once this is done, Old Man Yarlo will ask you to build him new furniture. Everything except the bed can be built now, however the bed requires a special type of wood; search the crates in the kitchen to receive three waxwood logs , and bring them to the sawmill .
+
+Furniture | Item requirements | Experience
+
+Carpet | 3 bolts of cloth | 45 xp
+
+2 wooden stools | 2 planks and 4 nails in total | 30 xp per stool
+
+2 wooden tables | 6 planks and 8 nails in total | 87 xp per table
+
+Wooden chair | 2 planks and 2 nails | 58 xp
+
+Waxwood bed | 3 waxwood planks and 2 bolts of cloth | 207 xp
+
+Finishing up [ edit | edit source ]
+
+Items required: 3 waxwood logs .
+
+Go to the Varrock sawmill and talk to the sawmill operator to receive 3 waxwood planks . Since he knows of Old Man Yarlo, he'll provide them free of charge.
+
+Return to Old Man Yarlo's home and build the new furniture (chair, carpet, two tables, two stools, and the bed). Speak to Old Man Yarlo again, he'll thank you and offer the player the basics and benefits of Construction .
+
+Finally, return to Marlo to claim your reward.
+
+Reward [ edit | edit source ]
+
+400 Construction experience An additional 544 Construction experience is gained when building the furniture, for a total of 944 experience. A Player-Owned House in Rimmington or 1,000 coins if you already own one. Marlo's crate , which contains 25 planks , 50 mithril nails , 5 steel bars , 10 oak planks , 8 bolts of cloth , 5 house teleports , and 1 Falador teleport , a total value of 29,191 coins .
+
+Transcript [ edit | edit source ]
+
+This article on a miniquest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the miniquest.
+
+References [ edit | edit source ]
+
+v • t • e Daddy's Home
+
+NPCs | Marlo Old Man Yarlo Sawmill operator
+
+Items | Waxwood log Waxwood plank Marlo's crate
+
+Scenery | Crates Bed hotspot Carpet hotspot Chair hotspot Stool hotspot Table hotspot
+
+Related | Quick guide Transcript Mahogany Homes
+
+v • t • e Miniquests
+
+ | Alfred Grimhand's Barcrawl Architectural Alliance (removed) Barbarian Training Bear Your Soul Curse of the Empty Lord Daddy's Home The Enchanted Key Enter the Abyss Family Pest The Frozen Door The General's Shadow His Faithful Servants Hopespear's Will In Search of Knowledge Into the Tombs Lair of Tarn Razorlor Mage Arena I Mage Arena II Skippy and the Mogres
+
+Unofficial miniquests | Tutorial Island Natural history quiz Restoring the Sacred Bone Burner Knight Waves Training Grounds Rogue Trader Obtaining the ancient key

@@ -1,0 +1,80 @@
+[Weapon: Tome Of Fire#Charged]
+
+
+Thetome of fireis a book held in place of ashieldthat is a possible reward from theReward cartupon subduing theWintertodt. The tome of fire requires level 50 inMagicto wield.
+The tome is only tradeable when empty. When it is empty, its only function is its magic attack and magic defence equipment bonuses.
+
+
+[Infobox]
+Released: 8 September2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Pages, Drop
+Worn options: Pages
+Examine: An ancient tome containing the secrets of fire magic.
+General Store Value: 20,000 coins
+High alch: 12,000 coins
+Low alch: 8,000 coins
+Weight: 1 kg
+Grand Exchange Value: 622,164 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 2,053
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +8
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +8
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward Cart | N/A | 1 | 1/1,000 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Chambers of Xeric/Challenge Mode(Magic)
+1 | Chambers of Xeric/Strategies(Magic)
+4 | Crazy archaeologist/Strategies(Magic)
+1 | Deranged archaeologist/Strategies(Magic)
+4 | Guardians of the Rift/Strategies(Runecrafting)
+3 | Hallowed Sepulchre/Strategies(Agility)
+1 | Hespori/Strategies(Mage)
+1 | Kraken/Strategies(Magic)
+1 | Nightmare Zone/Strategies(Magic)
+1 | The Nightmare/Strategies(Mage)
+1 | Phantom Muspah/Strategies(Magic & Ranged)
+1 | Phosani's Nightmare/Strategies(Mage)
+5 | Slayer task/Abyssal demons(Magic)
+1 | Slayer task/Trolls(Magic (Ice trolls))
+1 | Tempoross/Strategies(Solo No Cooking)
+1 | Tempoross/Strategies(Solo Cooking + Firefighting (Max Permits))
+1 | Thermonuclear smoke devil/Strategies(Magic)
+5 | Ultimate Ironman Guide/Equipment
+2 | The Whisperer/Strategies(Magic)
+1 | Why Fletch?(Redemption strategy at Wintertodt)
+1, 2 | Zulrah/Strategies(Magic)

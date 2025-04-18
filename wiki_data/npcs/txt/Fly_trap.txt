@@ -1,0 +1,2 @@
+Item: Fly trap
+Summary: A fly trap is a stationary, carnivorous plant found only on Karamja. Like Undead trees, they can attack players next to them every 5 ticks for up to 2 damage. They cannot be attacked and inflict typeless damage[confirmation needed].

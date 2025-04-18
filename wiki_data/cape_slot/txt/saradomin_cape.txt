@@ -1,0 +1,52 @@
+[Weapon: Saradomin Cape]
+
+
+TheSaradomin capeis a reward fromMage Arena Iminiquest. To receive the cape, the player must defeatKolodionin his four guises, then speak to him, step through the nearby sparkling pool, and finally pray at theStatue of Saradomin. Upon praying at the statue, the Saradomin cape will appear next to the player and can be picked up.
+The Saradomin cape and theSaradomin staffare required to benefit from theChargespell, which enables the player to hit up to 50% more damage with theSaradomin Strikespell.
+
+
+[Infobox]
+Released: 22 September2003(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A cape from the almighty god Saradomin.
+General Store Value: 10 coins
+High alch: 6 coins
+Low alch: 4 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +10
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +2
+- Magic: +10
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Date | Changes
+24 March2016(update) | The item's value was decreased from 100 to 10.
+7 – 21 March 2005 | The item was renamed from "Cape of saradomin" to "Saradomin cape".

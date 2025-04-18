@@ -1,0 +1,2 @@
+Item: Door-support
+Summary: Door-supports are NPC barricades that block players from entering the ladder room on the first floor of the Waterbirth Island Dungeon. There are three door-supports, with one blocking each of the three paths to the ladder room.

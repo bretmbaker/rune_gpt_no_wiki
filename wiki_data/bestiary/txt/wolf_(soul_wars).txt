@@ -1,0 +1,38 @@
+Name: Wolf
+Combat Level: 79
+Size: 2x2
+Info:
+- Description: Not man's best friend.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Monster ID: 10522, 10533
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 80
+Attack: 85
+Strength: 75
+Defence: 30
+Magic: 30
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

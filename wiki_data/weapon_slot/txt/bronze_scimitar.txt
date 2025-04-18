@@ -1,0 +1,71 @@
+[Weapon: Bronze Scimitar]
+
+
+Thebronze scimitaris ascimitarmade ofbronze. The weakest scimitar in the game, it requires level 1Attackto wield. Players can make a bronze scimitar with level 5Smithingusing 2bronze bar, granting 25experience. Players can purchase this scimitar fromZeke's Superior ScimitarsinAl Kharid.
+One can be found for free in on the top floor of a house inRimmington.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A vicious, curved sword.
+General Store Value: 32 coins
+High alch: 19 coins
+Low alch: 12 coins
+Weight: 1.814 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 54 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 6,702
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +1
+- Slash: +7
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Goblin (Goblin Village) | 5 | 1 | 1/128 | 
+Goblin (God Wars Dungeon) | 12; 13; 15; 17 | 1 | 1/128 | 
+Goblin (Vault of War) | 5–25 | 1 | 1/128 | 
+GoblinDrop table 2 | 2; 5; 13 | 1 | 1/128 | 
+Ork | 107 | 1 | 1/128 | 
+Ork | 107 | 1 | 5/128 | 
+Pirate | 23; 26; 57 | 1 | 4/128 | 
+Rusty scimitar | N/A | 1 | 24/100 | 
+Skeleton (Tarn's Lair)Low level | 42; 59 | 1 | 2/128 | 

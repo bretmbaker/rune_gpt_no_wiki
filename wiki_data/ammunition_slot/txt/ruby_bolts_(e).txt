@@ -1,0 +1,71 @@
+[Weapon: Ruby Bolts (E)]
+
+
+Ruby bolts (e)areadamant boltsthat have been enchanted after having been tipped withruby bolt tips.Ruby boltscan be enchanted with the spellEnchant Crossbow Bolt (Ruby)by a player with level 49Magic, requiring 46Rangedto wield. The spell enchants 10 ruby bolts at a time and uses 1blood rune, 1cosmic rune, and 5fire runes.
+Ruby bolts (e) have a chance of activating theBlood Forfeiteffect. When activated, damage dealt to the target will be 20% of the opponent'scurrentHitpointswith a cap of 100 damage[1]and at the cost of 10% of the player'scurrentHitpoints. The effect does not activate if the player cannot spare at least 1 hitpoint. A long, shrieking noise can be heard when this activates.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Also called: Enchanted ruby bolts
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Enchanted Ruby tipped Adamantite Crossbow Bolts.
+General Store Value: 138 coins
+High alch: 82 coins
+Low alch: 55 coins
+Weight: 0 kg
+Grand Exchange Value: 64 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 2,906,495
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +103
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Alchemical Hydra/Strategies(Ranged)
+3 | Artio/Strategies(Ranged)
+3 | Callisto/Strategies(Ranged)
+3 | Chambers of Xeric/Challenge Mode/Strategies(Ranged)
+3 | Chambers of Xeric/Strategies(Ranged)
+3 | Corporeal Beast/Strategies(Ranged masses)
+2 | Galvek Speed-Trialist(Melee)
+3 | General Graardor/Strategies(Ranged Attacker)
+5 | Giant Mole/Strategies(Ranged)
+4 | Kree'arra/Strategies(Ranged Tank)
+2 | The Leviathan/Strategies(Ranged)
+4 | Mithril dragon/Strategies(Ranged)
+2 | Nex/Strategies(Ranged)
+4 | Scurrius/Strategies(Range (high level))
+3 | Tombs of Amascut/Strategies(Ranged switch)
+5 | Tormented Demon/Strategies(Ranged switch)
+2 | Vorkath/Strategies(Ranged (crossbow))

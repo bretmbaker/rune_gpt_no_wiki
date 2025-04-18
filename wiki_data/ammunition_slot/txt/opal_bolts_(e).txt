@@ -1,0 +1,50 @@
+[Weapon: Opal Bolts (E)]
+
+
+Opal bolts (e)areopal boltswhich have beenenchantedthrough use of theEnchant Crossbow Bolt (Opal)spell, which requires level 4Magic, 1cosmic rune, 2air runes, and 10 opal bolts which to enchant per cast of the spell.
+Opal bolts are crafted by gem-tippingbronze boltswithopal bolt tips.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Also called: Enchanted opal bolts
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Enchanted Opal tipped Bronze Crossbow Bolts.
+General Store Value: 7 coins
+High alch: 4 coins
+Low alch: 2 coins
+Weight: 0 kg
+Grand Exchange Value: 8 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 31,211
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +14
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

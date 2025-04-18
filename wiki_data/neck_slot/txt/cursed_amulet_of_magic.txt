@@ -1,0 +1,54 @@
+[Weapon: Cursed Amulet Of Magic]
+
+
+Acursed amulet of magicis an amulet dropped bynecromancersinGreat Kourend. It provides the lowestmagic damagebonus for any item at -80%.
+The amulet's extreme penalty to magic damage notably drops the maximum hit ofWind Strikeabove level 13Magicfrom 8 to 2. This allows Wind Strike to be used alongside theserpentine helmto applyvenomto most NPCs, while still allowing them to regenerate to maximum Hitpoints—a technique used to envenom while still giving kill credit to restricted accounts such asIronmenand certainpures.
+
+
+[Infobox]
+Released: 29 May2024(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: An[sic]cursed amulet of magic.
+General Store Value: 900 coins
+High alch: 540 coins
+Low alch: 360 coins
+Weight: 0.01 kg
+Grand Exchange Value: 19,060 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 381
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: -80%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Necromancer (Great Kourend) | 68 | 1 | 1/5 | 

@@ -1,0 +1,37 @@
+Name: Shockwave Colossus
+Combat Level: 239
+Size: 3x3
+Info:
+- Description: If he had a theme song, it'd probably go with everything.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 12819
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 125
+Attack: 120
+Strength: 190
+Defence: 150
+Magic: 350
+Ranged: 220
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

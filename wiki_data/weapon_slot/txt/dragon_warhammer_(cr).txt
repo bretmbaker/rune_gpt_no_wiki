@@ -1,0 +1,52 @@
+[Weapon: Dragon Warhammer (Cr)]
+
+
+Thedragon warhammer (cr)is a cosmetic variant of thedragon warhammerwith aBounty hunter ornament kitadded to it. The colour scheme is that of a corrupt dragon aesthetic meant to imitate the original appearance ofcorrupt dragon equipmentfromRuneScape.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle
+Examine: Spikey, close combat weapon.
+General Store Value: 121,000 coins
+High alch: 72,600 coins
+Low alch: 48,400 coins
+Weight: 2 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: -4
+- Crush: +95
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +85
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

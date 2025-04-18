@@ -1,0 +1,93 @@
+[Minigame: Gourmet]
+
+Gourmet
+
+
+
+
+
+
+
+Released | 20 March2007(Update)
+
+Members | Yes
+
+Race | Dorgeshuun
+
+Location | Dorgesh-Kaan
+
+Leagueregion | Misthalin✓
+
+Gender | Male
+
+Options | Talk-to
+
+Examine | A connoisseur of exotic foods from outside Dorgesh-Kaan.
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+NPC ID | 2305
+
+Link | MOID
+
+
+
+Gourmetsarecave goblinsthat one can sellfoodto in theDorgesh-Kaan market tradingminigame.
+
+Rewards[edit|edit source]
+
+When selling food to the gourmets, there is a roughly 1-in-4 chance to be given a random piece of Dorgeshuun food.
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Loach | 1 | ~1/24 | Not sold | 30
+
+ | Eel sushi | 1 | ~1/24 | Not sold | 30
+
+ | Mushrooms | 1 | ~1/24 | Not sold | 30
+
+ | Grubs à la mode | 1 | ~1/24 | Not sold | 30
+
+ | Roast frog | 1 | ~1/24 | Not sold | 30
+
+ | Fillets | 1 | ~1/24 | Not sold | 30
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.
+
+v•t•eDorgesh-Kaan
+
+Inhabitants | Ambassador AlvijarBarlakBartakCrate goblinOldakSpit goblinZanikCave goblinGourmetGuardBankerCouncilGoblin scribeUr-lunUr-megUr-pelUr-taalUr-tagUr-vassUr-zekMarketplaceDurgokGundikLurgonMarkogMiltogReldakTindarTurgokZenkogDaycareMernikCave goblin childNipperYoung 'unTyke |  | Ambassador AlvijarBarlakBartakCrate goblinOldakSpit goblinZanikCave goblinGourmetGuardBanker | Council | Goblin scribeUr-lunUr-megUr-pelUr-taalUr-tagUr-vassUr-zek | Marketplace | DurgokGundikLurgonMarkogMiltogReldakTindarTurgokZenkog | Daycare | MernikCave goblin childNipperYoung 'unTyke
+
+ | Ambassador AlvijarBarlakBartakCrate goblinOldakSpit goblinZanikCave goblinGourmetGuardBanker
+
+Council | Goblin scribeUr-lunUr-megUr-pelUr-taalUr-tagUr-vassUr-zek
+
+Marketplace | DurgokGundikLurgonMarkogMiltogReldakTindarTurgokZenkog
+
+Daycare | MernikCave goblin childNipperYoung 'unTyke
+
+Features | Dorgesh-Kaan Agility CourseDorgesh-Kaan General SuppliesDorgesh-Kaan–Keldagrim train systemDorgesh-Kaan market trading
+
+Items | Goblin bookCave goblin wireLight orbEmpty light orbDorgesh-kaan sphereGoblin village spherePlain of mud sphereFoodBat shishCave eelCoated frogs' legsEel sushiFilletsFingersFrogburgerFrog spawnFrogspawn gumboGreen gloop soupGrubs à la modeLoachMushroomsRoast frogSlimy eelSwamp weed |  | Goblin bookCave goblin wireLight orbEmpty light orbDorgesh-kaan sphereGoblin village spherePlain of mud sphere | Food | Bat shishCave eelCoated frogs' legsEel sushiFilletsFingersFrogburgerFrog spawnFrogspawn gumboGreen gloop soupGrubs à la modeLoachMushroomsRoast frogSlimy eelSwamp weed
+
+ | Goblin bookCave goblin wireLight orbEmpty light orbDorgesh-kaan sphereGoblin village spherePlain of mud sphere
+
+Food | Bat shishCave eelCoated frogs' legsEel sushiFilletsFingersFrogburgerFrog spawnFrogspawn gumboGreen gloop soupGrubs à la modeLoachMushroomsRoast frogSlimy eelSwamp weed
+
+Scenery | InteractiveDorgesh-Kaan Average ChestDorgesh-Kaan Rich ChestLampWire machineDecorativeBank safeBeetleBone CraneBone rackCribFungus seatMagic ballMothOojimaflipPlay blocksThingymajigToy rangeToy sink | Interactive | Dorgesh-Kaan Average ChestDorgesh-Kaan Rich ChestLampWire machine | Decorative | Bank safeBeetleBone CraneBone rackCribFungus seatMagic ballMothOojimaflipPlay blocksThingymajigToy rangeToy sink
+
+Interactive | Dorgesh-Kaan Average ChestDorgesh-Kaan Rich ChestLampWire machine
+
+Decorative | Bank safeBeetleBone CraneBone rackCribFungus seatMagic ballMothOojimaflipPlay blocksThingymajigToy rangeToy sink
+
+Related | Dorgesh-Kaan Agility CourseDorgesh-Kaan market tradingDorgesh-Kaan mineDorgesh-Kaan South Dungeon

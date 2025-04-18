@@ -1,0 +1,4 @@
+Item: Smoke battlestaff
+Summary: A smoke battlestaff is a smoke elemental staff which provides unlimited amounts of air and fire runes as well as the autocast option when equipped. It requires 30 Attack and 30 Magic to wield.
+Sources:
+- Thermonuclear smoke devil (Level 301, Quantity: 1, Rarity: 1/512)

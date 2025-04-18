@@ -1,0 +1,53 @@
+[Shop: Chainbodies]
+
+Chainbody
+
+
+
+
+
+
+
+Slot | Body slot
+
+Type | Melee
+
+
+
+Achainbodyis a type of melee body armour. Its tendency to absorb impact makes it efficient at blockingslashingandcrushingattacks. Rangers can utilise chainbodies to afford them some melee protection at the expense of magical defence; however, this will not raise theirRangedattack bonus asleatherordragonhide armourwould. With the exception of thewhite chainbody, chainbodies will interfere withAva's devices.
+
+Chainbodies are relatively weak against Ranged attacks, due to essentially being made of holes held together by metal. As they are made of metal, chainbodies are also weak againstMagicattacks.
+
+All chainbodies except forVesta's chainbodyand theblack chainbody,white chainbodyanddragon chainbodycan be made using theSmithingskill.Bronzethroughadamant chainbodiesare also sold atWayne's Chains, a chainbody specialist shop inFalador.
+
+Chainbodies[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze chainbody | 0 | 0 | 0 | -15 | 0 | 7 | 11 | 13 | -3 | 9 | 0 | 0% | 0 | 0 | 6.803 | 
+
+ | Iron chainbody | 0 | 0 | 0 | -15 | 0 | 10 | 15 | 19 | -3 | 12 | 0 | 0% | 0 | 0 | 6.803 | 
+
+ | Steel chainbody | 0 | 0 | 0 | -15 | 0 | 17 | 25 | 30 | -3 | 19 | 0 | 0% | 0 | 0 | 6.803 | 
+
+ | Black chainbody | 0 | 0 | 0 | -15 | 0 | 22 | 32 | 39 | -3 | 24 | 0 | 0% | 0 | 0 | 6.803 | 
+
+ | White chainbody | 0 | 0 | 0 | -15 | 0 | 22 | 32 | 39 | -3 | 24 | 0 | 0% | 0 | 1 | 6.803 | 
+
+ | Mithril chainbody | 0 | 0 | 0 | -15 | 0 | 25 | 35 | 42 | -3 | 27 | 0 | 0% | 0 | 0 | 5.896 | 
+
+ | Adamant chainbody | 0 | 0 | 0 | -15 | 0 | 36 | 50 | 61 | -3 | 38 | 0 | 0% | 0 | 0 | 7.711 | 
+
+ | Vesta's chainbody (bh) | 14 | 14 | 4 | -32 | -15 | 55 | 59 | 62 | -18 | 85 | 6 | 0% | 0 | 0 | 6.803 | 
+
+ | Rune chainbody | 0 | 0 | 0 | -15 | 0 | 63 | 72 | 78 | -3 | 65 | 0 | 0% | 0 | 0 | 6.803 | 
+
+ | Dragon chainbody | 0 | 0 | 0 | -15 | 0 | 81 | 93 | 98 | -3 | 82 | 0 | 0% | 0 | 0 | 6.803 | 
+
+v•t•eChainbodies
+
+Standard | BronzeIronSteelBlackWhiteMithrilAdamantRune(gilded)Dragon(g) (cr)
+
+Bounty Hunter | Vesta's

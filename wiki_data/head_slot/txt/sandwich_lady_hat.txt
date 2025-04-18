@@ -1,0 +1,54 @@
+[Weapon: Sandwich Lady Hat]
+
+
+TheSandwich lady hatis a rare reward obtained frombeginnerTreasure Trails. It is part of thesandwich lady outfit, is purely cosmetic and has no bonuses.
+This item can be stored in thetreasure chestof acostume room, as part of thesandwich lady outfit.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A hat worn by a sandwich lady.
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 0.907 kg
+Grand Exchange Value: 5,869 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 60
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (beginner) | N/A | 1 | 1/360 | 

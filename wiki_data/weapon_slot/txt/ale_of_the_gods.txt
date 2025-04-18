@@ -1,0 +1,61 @@
+[Weapon: Ale Of The Gods]
+
+
+Theale of the godsis obtained as a possible reward frommasterTreasure Trails. This item is purely cosmetic. When equipped, it causes the player to sway around when standing or walking to mimic drunkenness, similar to thecrystal grail. This item can be stored in theTreasure Chestin a POH.
+This can be used whileafktrainingskills, as when the player stops the training activity the player will begin to noticeably sway again.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Ale of the gods.
+General Store Value: 850 coins
+High alch: 510 coins
+Low alch: 340 coins
+Weight: 0.06 kg
+Grand Exchange Value: 432,285 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 175
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Punch | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Kick | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (master) | N/A | 1 | 1/851 | 

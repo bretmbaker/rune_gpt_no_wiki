@@ -1,0 +1,135 @@
+[Shop: Halberds]
+
+Halberd
+
+
+
+
+
+
+
+Primarytype | Slash
+
+Secondarytype | Stab
+
+
+
+Attack speed
+
+
+
+7 ticks (4.2 seconds)
+
+
+
+Halberds, also referred to by players ashallies, are long two-handedmelee weaponswith blades similar toaxesand handles made up of long poles. All halberds, except thenoxious halberd, have a slowattack speedof 7ticks, the same as2h swords, but they can hit opponents from arangetwo squares away, as opposed to the usual one square distance of most melee weapons. In addition to sharing the attack speed, most halberds have similar strength and slash bonuses to their 2h sword counterparts, falling behind in strength bonus and accuracy while making up for this in increased range and defence bonuses. The exception to this is the white and black halberds, which have significantly lower strength bonuses which equal the steel halberd.
+
+A player may only wield adragon halberdonce they have completed theRegicidequest and thecrystal halberdcan only be wielded after completion of theHard Western Provinces Diary. The other halberds can be worn anytime, so long as you have the rightAttacklevel (and with some the rightStrengthlevel) to wield them.
+
+Halberds can be used in "safespots", or locations where a player can hit a monster and not get hit back, for example across a gate or fence.
+
+Halberds cannot be created with theSmithingskill.
+
+Combat styles[edit|edit source]
+
+Combat style | Attack type | Weapon style | Experience | Level boost
+
+ | Jab | Stab | Controlled |  | +1 Attack, Strength, Defence
+
+ | Swipe | Slash | Aggressive |  | +3 Strength
+
+ | Fend | Stab | Defensive |  | +3 Defence
+
+Standard halberds[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze halberd | 7 | 8 | 0 | -4 | 0 | -1 | 1 | 2 | 0 | 0 | 8 | 0% | 0 | 0 | 3.175 | 
+
+ | Iron halberd | 9 | 12 | 0 | -4 | 0 | -1 | 1 | 2 | 0 | 0 | 12 | 0% | 0 | 0 | 3.175 | 
+
+ | Steel halberd | 14 | 19 | 0 | -4 | 0 | -1 | 1 | 2 | 0 | 0 | 20 | 0% | 0 | 0 | 3.175 | 
+
+ | Black halberd | 19 | 25 | 0 | -4 | 0 | -1 | 2 | 3 | 0 | 0 | 20 | 0% | 0 | 0 | 3.175 | 
+
+ | White halberd | 19 | 25 | 0 | -4 | 0 | -1 | 2 | 3 | 0 | 0 | 20 | 0% | 0 | 1 | 3.175 | 
+
+ | Mithril halberd | 22 | 28 | 0 | -4 | 0 | -1 | 2 | 4 | 0 | 0 | 29 | 0% | 0 | 0 | 2.721 | 
+
+ | Adamant halberd | 28 | 41 | 0 | -4 | 0 | -1 | 3 | 4 | 0 | 0 | 42 | 0% | 0 | 0 | 3.628 | 
+
+ | Rune halberd | 48 | 67 | 0 | -4 | 0 | -1 | 4 | 5 | 0 | 0 | 68 | 0% | 0 | 0 | 3.175 | 
+
+ | Dragon halberd | 70 | 95 | 0 | -4 | 0 | -1 | 4 | 5 | 0 | 0 | 89 | 0% | 0 | 0 | 3.175 | 
+
+Other halberds[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Spear (Last Man Standing) | 22 | 18 | 0 | -4 | 0 | -1 | 2 | 4 | 0 | 0 | 20 | 0% | 0 | 0 | 3.628 | 
+
+Thecrystal halberdis a degradeable halberd, which can be purchased fromIslwynfor 750,000 coins, after completion of the hard tier of theWestern Provinces Diary. It lasts for 2,500 attacks before it reverts to acrystal weapon seed, which must be recharged for a fee byIlfeen, or by usingcrystal shardsat asinging bowl.
+
+The noxious halberd is a halberd with an attack speed of 5 ticks, rather than 7 ticks, and is better suited for general combat. It is created by combining three untradeable drops fromAraxxor, and has a 33% chance ofenvenomingan opponent, increasing to 50% when used with aserpentine helm.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Crystal halberd | 85 | 110 | 5 | -4 | 0 | -1 | 4 | 5 | 0 | 0 | 118 | 0% | 0 | 0 | 1.814 | 
+
+ | Noxious halberd | 80 | 132 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 142 | 0% | 0 | 0 | 2.721 | 
+
+v•t•eWeapons
+
+Melee | StabPickaxeHarpoonDaggerSwordHastaSpearPartisanSlashSickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberdCrushBannerBlackjackCanePolestaffMaceMaulWarhammer | Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan | Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd | Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan
+
+Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd
+
+Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Magic | StaffBattlestaffCrozierMystic staffPowered staffBladed staffWand
+
+Ranged | ShortbowLongbowComposite bowCrossbowBallistaThrownDartThrowing knifeThrowing axeChinchompa |  | ShortbowLongbowComposite bowCrossbowBallista | Thrown | DartThrowing knifeThrowing axeChinchompa
+
+ | ShortbowLongbowComposite bowCrossbowBallista
+
+Thrown | DartThrowing knifeThrowing axeChinchompa
+
+Other | DefenderSalamanderShieldFun weapons
+
+v•t•eSlash weapons
+
+Scimitar | BronzeIronSteelBlackWhiteMithrilAdamantRune(Guthix)(Saradomin)(Zamorak)GildedDragon(or) (cr)Blade of saeldor(corrupted)
+
+Longsword | BronzeIronSteelBlackWhiteMithrilAdamantRuneGraniteDragon(bh) (cr)3rd ageVesta's(blighted)
+
+Battleaxe | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)Leaf-bladedZombie
+
+Claws | BronzeIronSteelBlackWhiteMithrilAdamantRuneBurningDragon(cr)
+
+Halberd | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)CrystalNoxious
+
+Two-handed sword | StandardBronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr)GodswordsAncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or)OtherColossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger | Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr) | Godswords | AncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or) | Other | Colossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger
+
+Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr)
+
+Godswords | AncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or)
+
+Other | Colossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger
+
+Other | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwakerDemonbane swordsSilverlightDarklightArclightEmberlightQuestsAnger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoonCastle WarsGold decorativeRed decorativeWhite decorative |  | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwaker | Demonbane swords | SilverlightDarklightArclightEmberlight | Quests | Anger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoon | Castle Wars | Gold decorativeRed decorativeWhite decorative
+
+ | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwaker
+
+Demonbane swords | SilverlightDarklightArclightEmberlight
+
+Quests | Anger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoon
+
+Castle Wars | Gold decorativeRed decorativeWhite decorative

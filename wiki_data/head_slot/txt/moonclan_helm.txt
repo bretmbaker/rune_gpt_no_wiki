@@ -1,0 +1,45 @@
+[Weapon: Moonclan Helm]
+
+
+TheMoonclan helmis part of theMoonclan robesset. It can be purchased from the clothing store onLunar Isleduring or after theLunar Diplomacyquest. It can be stored in amagic wardrobein a player-owned house.
+
+
+[Infobox]
+Released: 24 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Mystical headgear.
+General Store Value: 1,000 coins
+High alch: 600 coins
+Low alch: 400 coins
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: -5
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +3
+- Crush: +3
+- Magic: +3
+- Ranged: -5
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

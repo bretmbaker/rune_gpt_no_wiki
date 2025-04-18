@@ -1,0 +1,44 @@
+Name: Lesser demon
+Combat Level: 82
+Size: 2x2
+Info:
+- Description: Lesser, but still pretty big.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 79 xp
+- Category: Lesser Demons
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3982
+- Link: MOID
+
+Location:
+- Area: Melzar's Maze Basement
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 79
+Attack: 68
+Strength: 70
+Defence: 71
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

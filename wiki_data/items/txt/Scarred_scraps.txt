@@ -1,0 +1,1 @@
+Scarred scrapsare a consumable item that can be found within chests inThe Scar. They can be consumed to restore 15Hitpoints, 25% of the player'sprayer points, and 20%run energy. It also provides the effect of astamina potion, with the effect being doubled by thering of endurance.

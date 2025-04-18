@@ -1,0 +1,271 @@
+[Skill: Defence]
+
+ | This article has skill training guides:Members/Ironman/Free-to-playSkill training guidesdocument optimal XP/hour methods to train a skill, as well as alternate passive or less expensive methods.
+
+Defence
+
+
+
+
+
+
+
+Released | 4 January2001(Update)
+
+Also called | Def
+
+Members | No
+
+Type | Combat
+
+
+
+Statistics
+
+
+
+Players with99 | 356,414as of 1 April 2025 -update
+
+Players with200M XP | 441as of 3 April 2025 -update
+
+
+
+Defenceis askillthat grantsplayersprotection in all forms ofcombat. Defence level also determines whichequipmentplayers are able to wear, as most pieces of armour or other equipment have a Defence level requirement.
+
+ | Defence level up - normal
+
+The music that plays when levelling up.
+
+
+
+ | Defence level up - with unlocks
+
+The music that plays when levelling up and unlocking new content.
+
+
+
+Mechanics[edit|edit source]
+
+The higher a target's Defence level, the less likely one is to land successful attacks (MeleeorRanged-based damage greater than zero, orMagic-based offensive spells that don'tSplash) against said target. As such, it is a vital skill in high-levelPvMandPvPsituations. Defencedoes notdecrease the amount of damage that an opponent can deal against you.
+
+A player's Ranged level will not increase their ranged defence, but magical defence is different - it is based on 70% of the player'sMagiclevel, while the remaining 30% is the player's Defence level, which is then followed by the player's magical defence bonus from theirarmour.
+
+Defence is one of the skills that will raise thecombat levelof a player regardless of other skill levels. For this reason, manycombat pureslevel Defence to a certain level then stop training it to minimise their combat level, giving them an upper hand in Player-versus-Player combat against players around their level. Notable Defence levels are often tied to specific tiers of items or prayers that lead to advantages in combat. To see a complete list of viable optimised Defence level, check theDefence level caps.
+
+Equipment[edit|edit source]
+
+Almost every single piece ofcombat equipment(except for the ones that go on theweapon,cape,ring, andamulet slots) requires a certain Defence level to wear. Here are links to tables of armour and equipment that require a Defence level to wear:
+
+Armour- For an overview on the different types of armour.Melee armour- An overview of the different types of Melee armour.Magic armour- An overview of the different types of Magic armour.Ranged armour- An overview of the different types of Ranged armour.Prayer armour- An overview of the different types of Prayer armour.Defenders- Aweaponthat goes on theshield slotand provides offensive bonuses while also having anAttackand Defence levels requirement. Therune defenderprovides the same strength bonus as anobsidian shield, while only requiring 40 Defence as opposed to 60.
+
+Temporary boosts[edit|edit source]
+
+Boost | Levelincrease | Visibility | Other info
+
+ | Defence cape | 1 | Visible | Activating the cape's effect will increase the corresponding skill by 1.
+
+ | Draynor Manor Cabbage | 1 or 2 | Visible | Hitpoints1Defencefloor(StaticLevel * 0.02) + 1Available tofree-to-playplayers.
+
+ | Kebab | 1-3 | Visible | 4% chance to do so. Available tofree-to-playplayers. Seekebabfor details.
+
+ | Poison chalice | 1 or 4 | Visible | Has a variety of beneficial and disastrous effects. Seepoison chalicefor details.
+
+ | Spicy stew(red spice) | ±0-5 | Visible | Hitpoints11Depending on type of stew, any skill exceptHitpointscan be boosted or reduced by 0 to 5 levels randomly.
+
+ | Excalibur | 8 | Visible | Uses up 100%Special attackenergy.
+
+ | Defence potion | 3-12 | Visible | Defencefloor(StaticLevel * 0.1) + 3
+
+ | Defence mix | 3-12 | Visible | Hitpoints6 per dose.Defence3 + floor(StaticLevel * 0.1)RequiresBarbarian training.
+
+ | Abidor Crank | 3-12 | Visible | Defencefloor(StaticLevel * 0.1) + 3
+
+ | Elder (-) | 4-13 | Visible | Attack4 + floor(StaticLevel * 0.1)Defence4 + floor(StaticLevel * 0.1)Strength4 + floor(StaticLevel * 0.1)Only usable within theChambers of Xeric.
+
+ | Overload (-) | 4-13 | Visible | Acts as anelder (-),twisted (-), andkodai (-)potion in one dose.Hitpoints- 50Attack4 + floor(StaticLevel * 0.1)Defence4 + floor(StaticLevel * 0.1)Strength4 + floor(StaticLevel * 0.1)Ranged4 + floor(StaticLevel * 0.1)Magic4 + floor(StaticLevel * 0.1)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theChambers of Xeric.
+
+ | Elder potion | 5-17 | Visible | Attack5 + floor(StaticLevel * 0.13)Defence5 + floor(StaticLevel * 0.13)Strength5 + floor(StaticLevel * 0.13)Only usable within theChambers of Xeric.
+
+ | Overload (Chambers of Xeric) | 5-17 | Visible | Acts as anelder,twisted, andkodaipotion in one dose.Hitpoints- 50Attack5 + floor(StaticLevel * 0.13)Defence5 + floor(StaticLevel * 0.13)Strength5 + floor(StaticLevel * 0.13)Ranged5 + floor(StaticLevel * 0.13)Magic5 + floor(StaticLevel * 0.13)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theChambers of Xeric.
+
+ | Sapphire glacialis (item) | 4-18 | Visible | Defence4 + floor(StaticLevel * 0.15)Can be used on another player. Boost affects the player it is used on.Acquired from theHunterskill.
+
+ | Sapphire glacialis mix | 4-18 | Visible | Defence4 + floor(StaticLevel * 0.15)Also affects up to three players adjacent to the user, if used in amulticombat area.Acquired from theHunterskill.
+
+ | Bandages (Theatre of Blood) | 4-18 | Visible | Hitpoints20Attack4 + floor(StaticLevel * 0.15)Defence4 + floor(StaticLevel * 0.15)Strength4 + floor(StaticLevel * 0.15)Ranged4 + floor(StaticLevel * 0.1)Magic4
+
+ | Super defence | 5-19 | Visible | Defence5 + floor(StaticLevel * 0.15)
+
+ | Super def. mix | 5-19 | Visible | Hitpoints6 per dose.Defence5 + floor(StaticLevel * 0.15)RequiresBarbarian training.
+
+ | Divine super defence potion | 5-19 | Visible | Defence5 + floor(StaticLevel * 0.15)Stat draining for Defence is disabled for 5 minutes, meaning the player's Defence level will stay fully boosted.After the 5 minutes are over, Defence level will be restored to its base level.
+
+ | Super combat potion | 5-19 | Visible | Attack5 + floor(StaticLevel * 0.15)Defence5 + floor(StaticLevel * 0.15)Strength5 + floor(StaticLevel * 0.15)
+
+ | Divine super combat potion | 5-19 | Visible | Attack5 + floor(StaticLevel * 0.15)Defence5 + floor(StaticLevel * 0.15)Strength5 + floor(StaticLevel * 0.15)Stat draining for melee combat stats is disabled for 5 minutes, meaning the player's melee combat stats will stay fully boosted.After the 5 minutes are over, melee combat stats will be restored to their base level.
+
+ | Bastion potion | 5-19 | Visible | Defence5 + floor(StaticLevel * 0.15)Ranged4 + floor(StaticLevel * 0.1)Acts as arangingandsuper defencepotion in one dose.
+
+ | Divine bastion potion | 5-19 | Visible | Defence5 + floor(StaticLevel * 0.15)Ranged4 + floor(StaticLevel * 0.1)Stat draining for Ranged and Defence is disabled for 5 minutes, meaning the player's Ranged and Defence levels will stay fully boosted.After the 5 minutes are over, Ranged and Defence levels will be restored to its base level.
+
+ | Battlemage potion | 5-19 | Visible | Defence5 + floor(StaticLevel * 0.15)Magic4Acts as amagicandsuper defencepotion in one dose.
+
+ | Divine battlemage potion | 5-19 | Visible | Hitpoints- 10Defence5 + floor(StaticLevel * 0.15)Magic4Acts as a battlemage potion.Passive stat draining for Magic and Defence is disabled for 5 minutes, meaning the player's Magic and Defence levels will stay fully boosted.After the 5 minutes are over, Magic and Defence levels will be restored to its base level.
+
+ | Overload (Nightmare Zone) | 5-19 | Visible | cts as asuper combat,super ranging, andsuper magicpotion in one dose.Hitpoints- 50Attack5 + floor(StaticLevel * 0.15)Defence5 + floor(StaticLevel * 0.15)Strength5 + floor(StaticLevel * 0.15)Ranged5 + floor(StaticLevel * 0.15)Magic5 + floor(StaticLevel * 0.15)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theNightmare Zone.
+
+ | Saradomin brew | 2-21 | Visible | Defence2 + floor(StaticLevel * 0.2)Hitpoints2 + floor(StaticLevel * 0.15)Attack- floor(CurrentLevel * 0.1) - 2Strength- floor(CurrentLevel * 0.1) - 2Magic- floor(CurrentLevel * 0.1) - 2Ranged- floor(CurrentLevel * 0.1) - 2Hitpointscan rise above base level with this boost.
+
+ | Elder (+) | 6-21 | Visible | Attack6 + floor(StaticLevel * 0.16)Defence6 + floor(StaticLevel * 0.16)Strength6 + floor(StaticLevel * 0.16)Only usable within theChambers of Xeric.
+
+ | Overload (+) | 6-21 | Visible | Acts as anelder (+),twisted (+), andkodai (+)potion in one dose.Hitpoints- 50Attack6 + floor(StaticLevel * 0.16)Defence6 + floor(StaticLevel * 0.16)Strength6 + floor(StaticLevel * 0.16)Ranged6 + floor(StaticLevel * 0.16)Magic6 + floor(StaticLevel * 0.16)The boost is reapplied every 15 seconds for 5 minutes.(This lost health is refunded after the overload ends).Only usable within theChambers of Xeric.
+
+ | Moonlight potion | 3-26 | Visible | Attack3 + floor(StaticLevel * 0.1) if 3-44HerbloreAttack5 + floor(StaticLevel * 0.15) if 45+HerbloreDefence3 + floor(StaticLevel * 0.1) if 30-65HerbloreDefence5 + floor(StaticLevel * 0.15) if 66-69HerbloreDefence7 + floor(StaticLevel * 0.2) if 70+HerbloreStrength3 + floor(StaticLevel * 0.1) if 12-54HerbloreStrength5 + floor(StaticLevel * 0.15) if 55+HerblorePrayer7 + floor(max(StaticLevel * 0.25, HerbloreLevel * 0.3))Stat draining for Defence is disabled for 5 minutes if Herblore is 70 or higher.Only usable inNeypotzli.
+
+Bird bath | 2 | Visible | Can also damage or poison the player. SeeBird bathfor details.
+
+ | Smelling salts | 11-26 | Visible | Attack11 + floor(StaticLevel * 0.16)Defence11 + floor(StaticLevel * 0.16)Strength11 + floor(StaticLevel * 0.16)Ranged11 + floor(StaticLevel * 0.16)Magic11 + floor(StaticLevel * 0.16)Restoresrun energyby 25%.The boost is reapplied every 15 seconds for 8 minutes.Only usable within theTombs of Amascut.
+
+ | Smouldering heart | ?-20 | Visible | Attack?-20Strength?-20Ranged?-14Magic?-11The boost is reapplied continuously for 2 minutes, after which it starts decaying naturally. This stat boost scales at an unknown rate with level and the listed one is the boost received at level 99.
+
+Quests[edit|edit source]
+
+Quests requiring Defence[edit|edit source]
+
+Quest | Defencerequirement | Other skill requirements
+
+Rag and Bone Man II | 20 | 40
+
+Between a Rock... | 30 | 40,50
+
+Lunar Diplomacy | 40 | 61,49,5,65,60,55
+
+King's Ransom | 65 | 45
+
+Quests rewarding Defence experience[edit|edit source]
+
+Quest | Experiencereward | Defencerequirement | Other requirements
+
+A Soul's Bane | 500 | - | -
+
+In Search of the Myreque | 600 | - | 25
+
+In Aid of the Myreque | 2,000 | - | 25,15,7
+
+Nature Spirit | 2,000 | - | 18if crafting your own sickle
+
+What Lies Below | 2,000 | - | 35
+
+The Fremennik Trials | 2,812 | - | 25,40,40if crafting your own lyre
+
+Heroes' Quest | 3,075 | - | 55,53,53,25,50
+
+Between a Rock... | 5,000 | 30 | 40,50
+
+Olaf's Quest | 12,000 | - | 40,50
+
+Holy Grail | 15,300 | - | 20
+
+Dragon Slayer I | 18,650 | - | 32
+
+Knight Waves(miniquest) | 20,000 | 65 | 45
+
+King's Ransom | 33,000 | 65 | 45
+
+Total | 116,937 | 
+
+In addition, there is a chance that theObservatory Questmay award 875Defence experience.
+
+Skill choice[edit|edit source]
+
+Upon completing any of the followingquests, players may choose to allocate experience to Defence. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.
+
+Quest | Experiencereward | Skills available | Skill requirements
+
+X Marks the Spot | 300 | Any | None
+
+Client of Kourend | 500 twice | Any | None
+
+Fairytale II - Cure a Queen | 2,500 | Any skill above 30 | 49,57
+
+A Tail of Two Cats | 2,500 twice | Any skill above 30 | None
+
+The Great Brain Robbery | 5,000 | Any skill above 30 | 16,30,50
+
+King's Ransom | 5,000 | Any skill above 50 | 65
+
+Darkness of Hallowvale | 2,000 three times | Any skill above 30 | 5,20,22,32,33,40
+
+A Taste of Hope | 2,500 three times | Any skill above 35 | 48,40,40,45,38
+
+A Kingdom Divided | 10,000 twice | Any skill above 40 | 54,52,52,50,42,38,35
+
+In Search of Knowledge(miniquest) | 10,000 | Any skill above 40 | None
+
+Curse of the Empty Lord(miniquest) | 10,000 | Any skill above 50 | Some players will need31
+
+Shadow of the Storm | 10,000 |  | 30
+
+Contact! | 7,000 twice |  | None
+
+Dream Mentor | 15,000 |  | 32,85,61,40,49,5,65,60,55
+
+The Fremennik Isles | 10,000 twice |  | 20,40
+
+A Night at the Theatre | 20,000 four times |  | 90recommended
+
+One Small Favour | 10,000 twice | Any skill above 30 | 36,25,18,30
+
+Recipe for Disaster(The final battle) | 20,000 | Any skill above 50 | 175,70,48,50,53,53,25,59,40,50,40,40,10,10,36
+
+Legends' Quest | 30,000 four times |  | 107,50,50,45,56,52,42,50,50,50,50
+
+Monkey Madness I | 35,000 & 20,000[sc 1] |  | None
+
+Sins of the Father | 15,000 six times | Any skill above 60 | 62,60,56,52,50,50,49
+
+Dragon Slayer II | 25,000 four times |  | 200,75,70,68,62,60,60,50,50
+
+Into the Tombs(miniquest) | 50,000 |  | 95recommended
+
+Monkey Madness II | 50,000 twice |  | 69,70,60,55,55,60
+
+Desert Treasure II - The Fallen Empire | 100,000 three times |  | 75,75,70,62,60,60
+
+Total | 1,046,300 | 
+
+Level up messages[edit|edit source]
+
+This article on a skill has an associated transcript page for level up messages.Click herefor the transcript.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+4 May2017(update) | The strength requirement of Granite has been specified in the Defence skillguide.
+
+Trivia[edit|edit source]
+
+InRuneScape Classic, this skill was spelled "Defense".
+
+See also[edit|edit source]
+
+Defence/Experience table, a list of all Defence experience sourcesDefence/Level up table, a list of all requirements and unlockables within the Defence skill
+
+v•t•eSkills
+
+Combat | AttackStrengthDefenceRangedPrayerMagicHitpoints
+
+Gathering | FarmingFishingHunterMiningWoodcutting
+
+Production | CookingCraftingFletchingHerbloreRunecraftSmithing
+
+Utility | AgilityConstructionFiremakingSlayerThieving
+
+Proposed skills | In developmentSailingPreviously proposedArtisanSailing (2015)WardingTamingShamanism | In development | Sailing | Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+In development | Sailing
+
+Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+Related | ExperienceSkill mastery200 million experienceSummoning

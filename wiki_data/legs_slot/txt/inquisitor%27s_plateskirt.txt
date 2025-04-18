@@ -1,0 +1,88 @@
+[Weapon: Inquisitor%27S Plateskirt]
+
+
+TheInquisitor's plateskirtis a drop fromThe Nightmare, requiring 70Strengthand 30Defenceto equip, and is part of theInquisitor's armourset.
+When equipped, the plateskirt boosts damage and accuracy by 0.5% when using thecrushattack style. If all three pieces of the armour are equipped, the boost is increased to 2.5% (7.5% if using theinquisitor's mace). In addition, it counts as aZamorakianitem inGod Wars Dungeon.
+
+
+[Infobox]
+Released: 6 February2020(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: The plateskirt of the turncloak justiciar.
+General Store Value: 750,000 coins
+High alch: 450,000 coins
+Low alch: 300,000 coins
+Weight: 9.071 kg
+Grand Exchange Value: 146,001,589 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 192
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -3
+- Slash: -3
+- Crush: +12
+- Magic: -9
+- Ranged: -5
+
+Defence Bonuses:
+- Stab: +42
+- Slash: +30
+- Crush: +49
+- Magic: +0
+- Ranged: +22
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Nightmare | 814 | 1 | 1/420–1/240.1 | 
+Phosani's Nightmare | 1024 | 1 | 1/700 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Alchemical Hydra/Strategies(Melee)
+1 | Amoxliatl/Strategies(Melee)
+1 | Araxxor/Strategies(Melee)
+5 | Barbarian Assault/Strategies(Melee (high level))
+1 | Basilisk Knight/Strategies(Melee)
+2 | Calvar'ion/Strategies(Melee)
+1 | Cerberus/Strategies(Melee)
+1 | Chambers of Xeric/Challenge Mode(Melee)
+2 | Chambers of Xeric/Strategies(Melee)
+3 | Chompington(Melee)
+1 | Corporeal Beast/Strategies(Solo melee)
+3 | Down Do Specs(Melee)
+1 | Kalphite Queen/Strategies(High DPS (Phase One))
+5 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+4 | Nightmare Zone/Strategies(Melee (Dharok's))
+1 | The Nightmare/Strategies(Melee)
+2 | Phantom Muspah/Strategies(Melee)
+1 | Phosani's Nightmare/Strategies(Melee)
+2 | Royal Titans/Strategies(Best-in-slot)
+1 | Skeletal Wyvern/Strategies(Melee)
+1 | Slayer task/Gargoyles(Melee)
+2 | Slayer task/Trolls(Melee (Mountain trolls))
+2 | Slayer task/Trolls(Melee (Ice trolls))
+1 | The Hueycoatl/Strategies(Melee)
+3 | Thermonuclear smoke devil/Strategies(Melee)
+2 | Tormented Demon/Strategies(Melee switch)
+3 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+2 | Vet'ion/Strategies(Melee)
+1 | Vyrewatch Sentinel/Strategies(DPS)

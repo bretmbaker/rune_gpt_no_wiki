@@ -1,0 +1,2 @@
+Item: Mining tutor
+Summary: The Mining tutor (real name Monlum) tells players how to mine certain ores and what pickaxes they can use at certain levels.

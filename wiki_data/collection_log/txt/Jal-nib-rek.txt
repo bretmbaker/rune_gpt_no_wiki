@@ -1,0 +1,4 @@
+Item: Jal-nib-rek
+Summary: 
+Sources:
+- TzKal-Zuk (Level 1400, Quantity: 1, Rarity: 1/100; 1/75)

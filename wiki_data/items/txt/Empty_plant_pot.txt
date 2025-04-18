@@ -1,0 +1,2 @@
+Plant potsare used in theFarmingskill to turn tree seeds intoseedlings.
+With the appropriate Farming level and agardening trowelin their inventory, a player can create a seedling by using a tree seed on afilled plant pot. After watering a seedling with awatering can, a few minutes later it will sprout into a sapling and be ready for planting in atree patch.

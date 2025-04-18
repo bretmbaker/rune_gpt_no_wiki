@@ -1,0 +1,2 @@
+Item: Fire (Royal Titans)
+Summary: Fires are obstacles conjured by Branda the Fire Queen during the fight against the Royal Titans. The wall of fire will fully form four ticks after first manifesting, blocking the row they appear in. Standing on a targeted tile will deal up to 12 damage to the player, but prevents fires from forming.

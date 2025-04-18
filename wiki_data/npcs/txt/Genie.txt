@@ -1,0 +1,2 @@
+Item: Genie
+Summary: The Genie appears as a random event. The Genie appears near players and gives them an experience lamp, which may be rubbed to raise a selected skill's experience by 10 times the current level of the particular. For example, if the player has level 30 in Herblore, they would gain 300 Herblore experience if the skill is chosen.

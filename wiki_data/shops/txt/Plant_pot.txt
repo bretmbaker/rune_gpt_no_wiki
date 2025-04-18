@@ -1,0 +1,228 @@
+[Shop: Plant_pot]
+
+Empty plant pot
+
+
+
+
+
+
+
+Released | 11 July2005(Update)
+
+Members | Yes
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Drop
+
+Examine | An empty plant pot.
+
+
+
+Values
+
+
+
+Value | 1 coin
+
+High alch | 0 coins
+
+Low alch | 0 coins
+
+Weight | 0.907 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 21coins (info)
+
+Buy limit | 10,000
+
+Daily volume | 18,169
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 5350
+
+Link | MOID
+
+
+
+Plant potsare used in theFarmingskill to turn tree seeds intoseedlings.
+With the appropriate Farming level and agardening trowelin their inventory, a player can create a seedling by using a tree seed on afilled plant pot. After watering a seedling with awatering can, a few minutes later it will sprout into a sapling and be ready for planting in atree patch.
+
+An empty plant pot can be filled by using it on any farming patch while carrying a gardening trowel.The patch must be empty and weed-free for this to work.
+
+Filled plant pots are also available fromfarming shopsfor the same price as empty plant pots.
+
+Completion of the Farming portion ofBarbarian Trainingallows players to automatically destroy empty plant pots when planting trees.
+
+Creation[edit|edit source]
+
+Success chance[edit|edit source]
+
+At lower levels, there is a chance that an unfired plant pot will crack when placed inside a pottery oven. Players with level 13 Crafting or higher will always succeed at firing a plant pot.[1]
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Filled plant pot |  | None | None | 1 ×Empty plant pot
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Zombie (Tarn's Lair)Low level | 40–56 | 1 | 3/128 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Alain | Taverley | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Alan (Farming Guild) | Farming Guild | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Alexandra | Farming Guild | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Allanna's Farming Shop | Farming Guild | 100 | 6s | 1 | 0 | 2.0% |  | 
+
+Ayesha | Al Kharid | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Bolongo | Tree Gnome Stronghold | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Branwen's Farming Shop | Prifddinas | 500 | 6s | 1 | 0 | 1.0% |  | 
+
+Dantaera | Catherby | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Dreven | Champions' Guild | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Ellena | Catherby | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Elstan | South ofFalador | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Ercos | Aldarin | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Fayeth | Lumbridge | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Francis | Entrana | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Frizzy Skernip | Port Sarim | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Garth | Brimhaven | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Gileth | Tree Gnome Village | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Harminia | West ofCivitas illa Fortis | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Heskel | Falador Park | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Imiago | Tai Bwo Wannai | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Kragen | Hemenster | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Lammy Langle | Hosidius | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Latlink Fastbell | Farming Guild | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Liliwen | Lletya | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Lyra | North-west ofPort Phasmatys | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Marcellus | Locus Oasis | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Marisi | Hosidius | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Mernia | Underwater | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Nikkie | Farming Guild | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Oswallt | Prifddinas | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Praistan Ebola | Brimhaven | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Prissy Scilla | Tree Gnome Stronghold | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Rhazien | Etceteria | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Rhonen | Hops patchnorth ofMcGrubor's Wood | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Rosie | Farming Guild | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Selena | Yanille | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Squirrel (Fossil Island) | Fossil Island | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Taria | Rimmington | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Taylor | Farming Guild | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Torrell | South ofEast Ardougne | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Treznor | Varrock | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Vasquen | Lumbridge | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Yulf Squecks | Etceteria | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Changes[edit|edit source]
+
+Date | Changes
+
+14 February2024(update) | Completion of the Farming portion ofBarbarian Trainingallows players to automatically destroy empty plant pots when plantingtrees.
+
+26 February2015(update) | The item was made tradeable on theGrand Exchange.
+
+10 December2014(update) | The item was renamed from "Plant pot" to "Empty plant pot".
+
+11 July2005(update) | The item was made obtainable.The item's examine was changed from "Farming skill coming soon!" to "An empty plant pot."The item was made members-only.
+
+6 June2005(update) | The item was added to the game cache.
+
+References[edit|edit source]
+
+v•t•eFarming tools
+
+ | RakeSecateurs(Magic)Gardening trowelSeed dibberWatering can(Gricoller's)CompostSupercompostUltracompostBottomless compost bucketSpadeEmpty plant potFilled plant potEmpty sackBasketPlant cure
+
+Related | Tool LeprechaunSeed boxCompost Bin(Port Phasmatys)Big Compost BinSeed vault
+
+v•t•ePottery
+
+Unfired | PotCupPie dishBowlPlant potPot lid
+
+Finished | PotEmpty cupPie dishBowlPlant potPot lid
+
+Materials | ClaySoft clay
+
+Facilities | Potter's wheelPottery ovenWater source

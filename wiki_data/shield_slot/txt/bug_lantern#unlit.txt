@@ -1,0 +1,50 @@
+[Weapon: Bug Lantern#Unlit]
+
+
+Thelit bug lanternis an item used in theSlayerskill. It requires level 33 Slayer to wield and must be equipped in order to fightHarpie Bug Swarms.
+Level 33Firemakingand atinderboxare required to light the unlit lantern. Bug lanterns are worn in theshield slot, but only lit lanterns are effective against Harpie Bug Swarms for completing slayer tasks.
+
+
+[Infobox]
+Released: 30 January2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A lantern to aid attacking Harpie bugs.
+General Store Value: 130 coins
+High alch: 78 coins
+Low alch: 52 coins
+Weight: 2.267 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 456 coins
+Grand Exchange Daily Buy Limit: 40
+Grand Exchange Daily Trades Volume: 82
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

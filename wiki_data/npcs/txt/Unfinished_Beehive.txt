@@ -1,0 +1,2 @@
+Item: Unfinished Beehive
+Summary: Unfinished beehives are objects that appear during the Beehive Forestry event, in which players must use logs they've obtained from chopping trees to build a new beehive for the Friendly Bees that appear alongside the bee keeper. The player can use logs held within a Log basket without needing to remove them first. The amount of logs required to build one complete beehive are dependent on the number of active choppers on the tree that helped spawned the event (up to 10 players). The equation is listed below as:

@@ -1,0 +1,141 @@
+[Shop: Maces]
+
+Mace
+
+
+
+
+
+
+
+Primarytype | Crush
+
+Secondarytype | Stab
+
+
+
+Attack speed
+
+
+
+4 ticks (2.4 seconds)
+
+
+
+Macesare meleeweapons, and one of the few weapons which haveCrushfor a primaryattack type. Maces also have a controlled attack style, giving equal experience toAttack,Strength, andDefence.
+
+Maces are special in that they provide aPrayerbonus, a trait not found among any of the common weapons.
+
+Combat styles[edit|edit source]
+
+Combat style | Attack type | Weapon style | Experience | Level boost
+
+ | Pound | Crush | Accurate |  | +3 Attack
+
+ | Pummel | Crush | Aggressive |  | +3 Strength
+
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+
+ | Block | Crush | Defensive |  | +3 Defence
+
+Standard maces[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze mace | 1 | -2 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0% | 0 | 1 | 1.814 | 
+
+ | Iron mace | 4 | -2 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7 | 0% | 0 | 1 | 1.814 | 
+
+ | Steel mace | 7 | -2 | 13 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11 | 0% | 0 | 2 | 1.814 | 
+
+ | Black mace | 8 | -2 | 16 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 13 | 0% | 0 | 2 | 1.814 | 
+
+ | White mace | 8 | -2 | 16 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 13 | 0% | 0 | 3 | 1.814 | 
+
+ | Mithril mace | 11 | -2 | 18 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 16 | 0% | 0 | 3 | 1.587 | 
+
+ | Adamant mace | 13 | -2 | 25 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23 | 0% | 0 | 3 | 2.041 | 
+
+ | Rune mace | 20 | -2 | 39 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 36 | 0% | 0 | 4 | 1.814 | 
+
+ | Dragon mace | 40 | -2 | 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 55 | 0% | 0 | 5 | 1.814 | 
+
+Other maces[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Anger mace | 2 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 1 | 1.814 | 
+
+ | Ancient mace | 10 | -2 | 16 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 14 | 0% | 0 | 3 | 1.814 | 
+
+ | Bone mace | 40 | -2 | 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 55 | 0% | 0 | 0 | 1.814 | 
+
+ | Viggora's chainmace | 53 | -2 | 67 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 66 | 0% | 0 | 2 | 2 | 
+
+ | Sarachnis cudgel | 30 | 0 | 70 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 70 | 0% | 0 | 0 | 0.453 | 
+
+ | Ursine chainmace | 53 | -2 | 71 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 74 | 0% | 0 | 2 | 2 | 
+
+ | Verac's flail | 68 | -2 | 82 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 72 | 0% | 0 | 6 | 2.267 | 
+
+ | Inquisitor's mace | 52 | -4 | 95 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 89 | 0% | 0 | 2 | 1.814 | 
+
+Maces with the blunt weapon type[edit|edit source]
+
+The following items have theBluntweapon type instead of the standardSpikedweapon type shared by most of the maces, which means they lack acontrolledstabattack style.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Rolling pin | 20 | -2 | 39 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 36 | 0% | 0 | 4 | 1.814 | 
+
+ | Barronite mace | 20 | -2 | 40 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 40 | 0% | 0 | 2 | 2 | 
+
+ | Tzhaar-ket-em | -4 | -4 | 62 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 56 | 0% | 0 | 0 | 1.814 | 
+
+Trivia[edit|edit source]
+
+The mace prayer bonus may be an allusion tosine effusione sanguinis,a possibly apocryphal notion that Medieval Christians and the clergy wielded maces and other blunt weapons to avoid shedding blood, in conflicts such as the Crusades.
+
+v•t•eWeapons
+
+Melee | StabPickaxeHarpoonDaggerSwordHastaSpearPartisanSlashSickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberdCrushBannerBlackjackCanePolestaffMaceMaulWarhammer | Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan | Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd | Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan
+
+Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd
+
+Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Magic | StaffBattlestaffCrozierMystic staffPowered staffBladed staffWand
+
+Ranged | ShortbowLongbowComposite bowCrossbowBallistaThrownDartThrowing knifeThrowing axeChinchompa |  | ShortbowLongbowComposite bowCrossbowBallista | Thrown | DartThrowing knifeThrowing axeChinchompa
+
+ | ShortbowLongbowComposite bowCrossbowBallista
+
+Thrown | DartThrowing knifeThrowing axeChinchompa
+
+Other | DefenderSalamanderShieldFun weapons
+
+v•t•eCrush weapons
+
+Mace | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(bh) (cr)AncientBarroniteBoneTzhaar-ket-emInquisitor's
+
+Warhammer | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)GraniteStatius's
+
+Cane | BlackAdamantRuneDragon
+
+Kitchen weaponry | Frying panRolling pinMeat tenderiser
+
+Maul | GadderhammerHill giant clubGranite maul(ornate handle)Tzhaar-ket-om(t)Elder maul(or)
+
+Mjolnir | GuthixSaradominZamorak
+
+Magic hybrid | Ivandis flailBlisterwood flailStaves(Battle),(Mystic)Toktz-mej-talVoid knight maceAhrim's staffBlue moon spear
+
+Other | Abyssal bludgeonBlackjacksBarrelchest anchor(bh)Dual macuahuitlGlacial temotliKeris partisan(breaching) (corruption) (sun)Sarachnis cudgelTorag's hammersVerac's flailViggora's chainmaceUrsine chainmace

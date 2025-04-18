@@ -1,0 +1,1 @@
+Asextantis an item used for solvingcoordinate clueswhilst on aTreasure Trail. Itdoes notneed to be brought with the player if the exact coordinate is known beforehand.

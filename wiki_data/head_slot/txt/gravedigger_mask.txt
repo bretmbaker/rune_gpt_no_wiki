@@ -1,0 +1,48 @@
+[Weapon: Gravedigger Mask]
+
+
+Gravedigger maskis an untradeable cosmetic item. It is part of thegravedigger outfit, which can be obtained by completing one of theHalloweenholiday eventsthat occur once per year.
+During the2015 Halloween event, it is given by theGrim Reaperin order to disguise the player to preventAnti-Santafrom becoming suspicious.
+
+
+[Infobox]
+Released: 29 October2015(Update)
+Removal: N/A
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: This is Death's undead gravedigger costume. You can get another one from Diango.
+Examine: It's now easy being green.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.5 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

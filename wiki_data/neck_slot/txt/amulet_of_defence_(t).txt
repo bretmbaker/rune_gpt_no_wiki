@@ -1,0 +1,62 @@
+[Weapon: Amulet Of Defence (T)]
+
+
+TheAmulet of defence (t)is a cosmetic variant of theamulet of defencethat can be obtained as a rare reward frombeginnerTreasure Trails.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: An enchanted emerald amulet of protection that looks good.
+General Store Value: 1,275 coins
+High alch: 765 coins
+Low alch: 510 coins
+Weight: 0.01 kg
+Grand Exchange Value: 5,145 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 95
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +7
+- Slash: +7
+- Crush: +7
+- Magic: +7
+- Ranged: +7
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (beginner) | N/A | 1 | 1/360 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Free-to-play Ironman guide(Rangedgear)
+4 | Free-to-play Ironman guide(Meleegear)
+5 | Free-to-play Ironman guide(Prayermelee gear)
+4 | Free-to-play Ironman guide(Magicgear)

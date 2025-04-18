@@ -1,0 +1,119 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Children of the Sun (#159)
+
+
+
+
+
+Released | 10 January 2024 ( Update )
+
+Members | Yes
+
+Quest series | Twilight Emissaries , #1
+
+Lead developer(s) | Unknown ( edit )
+
+
+
+Children of the Sun is the first quest in the Twilight Emissaries series, which introduces players to Varlamore , the Shining Kingdom of the far west. In the quest, a delegation from Varlamore arrives in Varrock for a historic treaty signing with the rulers of Misthalin , but the visit is disrupted by a nefarious plot that the player must uncover.
+
+Completion of the quest is required to access Varlamore.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Noah or Alina in Varrock square. Show on map
+
+Official difficulty | Novice
+
+Official length | Very Short
+
+Description | Children of the Sun begins on the familiar streets of Varrock, where a delegation from Varlamore has arrived to sign a treaty with the rulers of Misthalin. It’s a day for celebration, but something’s amiss… you’d better find out what’s going on!
+
+Requirements | None
+
+Items required | None
+
+Enemies to defeat | None
+
+League notes | Misthalin ✓ — location requirement Unlocking Varlamore ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Delegation [ edit | edit source ]
+
+Speak to Noah or Alina at the eastern side of Varrock Square , behind Eliza 's stall. Alina will tell you that a delegation from the Kingdom of Varlamore is on their way to Varrock after a long period of isolation. You may ask her various information about the kingdom, or ask when the delegation will arrive to immediately progress through the quest, which will begin a cutscene.
+
+The delegation, seen approaching King Roald and Aeonisig Raispher , comprises of Prince Itzla Arkan , Servius, Teokan of Ralos , Furia Tullus , Ennius Tullus , and six Knights of Varlamore . Meanwhile, a guard carrying a large bag is seen leaving the walls of the Varrock Palace . Though his superior, Sergeant Tobyn , lets him leave, you believe he looks a bit suspicious and decide to tail him.
+
+Investigation [ edit | edit source ]
+
+The guard will walk towards south-east Varrock and periodically turn around, where you will need to hide behind a building in order to avoid his sight. If you are caught, you will have to talk to Noah and start from the beginning again.
+
+Use the image on the right and walk accordingly, standing on the indicated spots and resume walking once he's on the move again:
+
+Run inside Lowe's Archery Emporium . Hide behind the northern wall of the building south of the archery shop. Walk to the south-eastern corner of the building. Hide behind the western wall of Old Man Yarlo 's house. Hide either inside Old Man Yarlo's house or near the building south of Aubury's Rune Shop .
+
+After hiding in the last spot, the suspicious guard will enter the small building just next to Aubury's Rune Shop and a cutscene will automatically begin, detailing how the guard was actually a member of some bandits , and how they plan to attack the delegation as they leave.
+
+After the cutscene, go back to Varrock Square and speak to Sergeant Tobyn . He will instruct the player to identify the four bandits posing as guards. Do so by clicking the "Mark" option on them:
+
+The first guard can be found directly outside Aris 's tent. He is standing with his hands on his hips with no weapon. The second guard is found near Benny and his news stand. She is not wearing a helmet. The third guard can be found directly outside Lowe's Archery Emporium on the east path. He is leaning on the wall with his arms crossed, without a weapon. The fourth guard can be found further along the east path between the archery shop and Varrock east bank . He wields a mace instead of a sword.
+
+Interrogation [ edit | edit source ]
+
+Return to Sergeant Tobyn , who will promptly arrest the bandits off-screen. You will be taken to the cell on the palace roof to assist with the interrogations. Unexpectedly, Prince Itzla will appear; having been bored by the politics and hearing a bit of commotion, he decides to come to the roof. He will introduce himself to you and decide to assist you with the interrogations.
+
+A cutscene will play where Prince Itzla interrogates one of the bandits, with you providing a little help. The bandit quickly gives in and informs him that they were approached by someone unknown, possibly from Varlamore, to kill Servius, Teokan of Ralos .
+
+After the interrogation, Prince Itzla will thank you for your role in stopping the assassination attempt by giving you special permission to visit Varlamore and asks you to speak with Regulus Cento outside the Eastern gate of Varrock when you're ready to travel to Varlamore and help continue the investigation on the assassination attempt.
+
+Speak to Sergeant Tobyn in the cell room.
+
+Quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point Access to Varlamore through the Quetzal Transport System and fairy rings
+
+Required for completing [ edit | edit source ]
+
+The completion of Children of the Sun is a requirement to complete the following:
+
+Twilight's Promise At First Light The Ribbiting Tale of a Lily Pad Labour Dispute Death on the Isle Meat and Greet Ethically Acquired Antiquities
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Music unlocked [ edit | edit source ]
+
+Name | Unlock details | Music track
+
+Children of the Sun | Unlocked upon the arrival of the Varlamorian delegation. | 
+
+Plots and Plans | Unlocked upon following the suspicious Varrock guard. | 
+
+The Burning Sun | Unlocked upon interrogating the bandit. | 
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+17 January 2024 ( update ) | Some dialogue with Sergeant Tobyn has been updated to provide clarity on what to do next.
+
+Trivia [ edit | edit source ]
+
+When starting the quest, the player states "Well I'm actually something of an adventurer myself." This is a reference to the 2002 film Spider-Man (and subsequent internet meme), where Norman Osborn introduces himself to Peter Parker with the line "You know, I'm something of a scientist myself." The Sergeant mentions that Varrock goes through guards very quickly, likely a reference to the large amounts of guards killed by players for combat training. A similar joke is made in Garden of Tranquillity . When Alina mentions a group from the College of Bards on their way to Morytania, she is likely referring to Hameln the Jester and his companions, Hanchen the Hound and the Painted One , who can be found in Slepe . The armour worn by the Knights of Varlamore is a reference to the character Solaire of Astora from the Dark Souls video game series. When Sergeant Tobyn hears from the bandits' plans, he says "Surely you can't be serious?", which is a reference to the 1980 movie Airplane! . In the movie, the response is "I am serious, and don't call me Shirley".
+
+v • t • e Children of the Sun
+
+NPCs | Alina Noah Sergeant Tobyn Guard Bandit Varlamore delegation Prince Itzla Arkan Servius, Teokan of Ralos Furia Tullus Ennius Tullus Knight of Varlamore |  | Alina Noah Sergeant Tobyn Guard Bandit | Varlamore delegation | Prince Itzla Arkan Servius, Teokan of Ralos Furia Tullus Ennius Tullus Knight of Varlamore
+
+ | Alina Noah Sergeant Tobyn Guard Bandit
+
+Varlamore delegation | Prince Itzla Arkan Servius, Teokan of Ralos Furia Tullus Ennius Tullus Knight of Varlamore
+
+Music | Children of the Sun Plots and Plans The Burning Sun
+
+Related | Quick guide Transcript Varlamore Varlamore invitation

@@ -1,0 +1,181 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Icthlarin's Little Helper (#78)
+
+
+
+
+
+Released | 26 April 2005 ( Update )
+
+Members | Yes
+
+Quest series | Kharidian , #2
+
+Lead developer(s) | Chris J
+
+
+
+Icthlarin's Little Helper is the second quest in the Kharidian quest series. The quest introduces the Menaphite demigod Icthlarin and explores the city of Sophanem .
+
+Details [ edit | edit source ]
+
+Start point | Speak to the wanderer in the camp west of the Agility Pyramid . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Medium
+
+Description | In the deep south of the desert, unrest is brewing... The cities of the Menaphites have barred their gates to all. An unsettling desert wanderer may know of a secret entrance though, to Sophanem - the city of the dead.
+Will you become Icthlarin's Little Helper by entering? Enter into a titanic struggle for the soul of the high priest of Icthlarin in a land where the cat is top dog.
+
+Requirements | Completion of Gertrude's Cat The ability to defeat a level 91 monster.
+
+Items required | Regular or overgrown cat , hellcat or kitten . No food is required as the kitten can stay in your inventory for the most part, or automatically go in/out of your inventory. Tinderbox Willow log Bag of salt (can be bought from any Slayer Master , other players, or the Grand Exchange ) or an empty bucket to obtain a pile of salt in Sophanem Bucket of sap (use a knife on an evergreen tree or a regular tree with the description "a commonly found tree" with a bucket in your inventory) Full waterskin to give away (can be bought for 30 coins at Shantay pass) Linen (Can be bought on The Grand Exchange or bought from Raetul in Sophanem for 30 coins during the quest) Means to enter the desert. (Such as the Shantay pass , Teleport tablets or scrolls , Fairy rings or the Pharaoh's sceptre )
+
+Recommended | 50 Combat level 35 Agility to jump over the pit in the pyramid (higher agility helps even more) Waterskins for the desert heat Knife to refill waterskins Desert clothing to delay desert heat effect 1–2 antipoison or superantipoison potions Energy potions Nardah teleport Armour and some food Ghostspeak amulet for story comprehension ( Klenter )
+
+Enemies to defeat | Possessed Priest (level 91) One of the level 75–81 guardians (randomly chosen): Apmeken (level 75) —uses Magic Crondis (level 75) —uses Magic Scabaras (level 75) —uses Melee Het (level 81) —uses Melee
+
+League notes | Unlocking Desert ✓ will auto-complete the quest Unlocking Fremennik ✓ will auto-complete the quest
+
+Note: If you need to leave Sophanem at any point during the quest, there is a hole you can crawl through on the eastern wall. To get back in, enter the rocks on the east side of the Wanderer's tent.
+
+Note: For the pit jump: 20% run energy is required and it will be drained. Higher agility increases the chances of success.
+
+Walkthrough [ edit | edit source ]
+
+Collect all the supplies needed for the quest including your cat . Use the Nardah teleport if you have one or use a magic carpet ride to Pollnivneach , then south to Nardah  (or fairy ring code D L Q ) and head to the Wanderer (north of Sophanem ) in the desert. If you brought an empty bucket to get a pile of salt, go to the pond west of the Wanderer, prior to talking to her. Use the collect water option to get a bucket of salt water. The Wanderer will have a strange reaction to your cat. Ask her why she has a problem with the cat. She will tell you that if you get your cat away from her, she would tell you about the secret entrance to Sophanem . Wait, and you will automatically pick up your cat. She will then ask for a tinderbox and full waterskin . Talk to her again and say Yes, I have them all here (4th dialogue option). Once you give them to her, she will hypnotise you and you'll enter a small cave just north-east of her tent. You can now use this passage to enter the city at any time, including if you die, which will give you the quest items back.
+
+You will end up outside a pyramid in Sophanem, and a canopic jar will appear in your inventory. Touch the northern door of the Southern pyramid. (There is a picture of a cat on the door) ( Note: If you take too long, a spectre will attack you and steal some of your gold or deal damage. ) Touching the door will trigger the first flashback.
+
+Flashback [ edit | edit source ]
+
+Warning : Once you begin a flashback, you will be unable to teleport away until you either finish it or die. Dying will cause your cat  to be lost. You will have to walk to the entrance if you need to leave. Make sure you are prepared. If you are low on food, you can log out. When logging back in you will end up outside of the pyramid entrance.
+
+Every now and again during the quest, you'll experience a flashback where you remember what you did while you were hypnotised. You need to play through these in order to progress through the quest.
+
+Important note: Using the mini-map to navigate the pyramid will automatically avoid the traps (both the wall-crushers and pit traps) and is much more time efficient than manually navigating it.
+
+Touch the door of the pyramid to begin the first flashback. During the flashback, you will need to go through the pyramid. You'll see some wall crushers. Stand on the opposite wall and don't go next to them, as they will damage you if you do. Once you're past the crusher blocks, you'll find pit traps in the next hallway. If you step on the wrong spot, you'll fall into a pit and end up at the beginning of the pyramid. You can move forward by clicking on the map, and your character will avoid the traps automatically. To avoid traps, stay along the left wall until you pass the whitish rectangle on the wall, and then go to the right side. Continue walking until you are opposite a square. Go back to the left side until you pass a candle. Switch to the right wall once more.
+
+You'll see mummies (level 84). They will attack you; simply go past them. You'll also see Scarab swarms (level 96) crack out of the ground. They can rapidly hit you for 2 damage and can also inflict a poison condition which hits you for another 2 points of damage, and they very obnoxiously stop you in your tracks, regardless of whether or not you have auto-retaliate enabled. Continue to some more wall crushers. Past these—you'll eventually find a large pit. Jump over it. (You'll need 20% run energy. If you fail, you'll reappear near the second set of wall crushers.)
+
+Go to the west door (double-check your compass) and try to open it. Now, you need to solve a puzzle. The objective is to flip all of the tiles onto their gold sides. There is no required number of flips that you must make, nor is there any limit of tries. Each time you flip a tile, the nine tiles in a 3x3 grid will also flip. To solve this puzzle click on the squares in the order shown on the image below (make sure the puzzle is in the default position as shown below. To get to the default position, right click on the gold solution to reset. Keep hitting the "reset puzzle" button until the puzzle looks as shown in the picture below).
+Once you've solved it, you'll wake up fully healed outside the pyramid.
+
+After Flashback 1 [ edit | edit source ]
+
+After you finish the flashback, talk to the Sphinx with your cat out. Ask for help and the Sphinx will ask you this question: "A husband and a wife have six sons and each son has one sister. How many people are in the family?" The answer is 9 (6 brothers + 1 sister + 2 parents = 9; while a naive reading might assume that each brother has a separate sister, since every member of the family is related, if that was true each brother would have six sisters, not one sister). If you guess wrong, you will lose your cat! Once answered correctly, you will receive the Sphinx's token , so you can speak to the High Priest .
+
+Go to the High Priest, located in the south-west corner of the city, and ask him about the remains. He will tell you to put them back in the burial chamber.
+
+Return to the pyramid , and select open door. Your cat will help you get back inside. Go through the pyramid using the same steps as in the first flashback. Before you jump the pit examine the canopic jar in your inventory ! so you know which one to choose later. When you jump across the pit, you'll enter the second flashback.
+
+Flashback 2 [ edit | edit source ]
+
+The second flashback begins where the first one left off—on the other side of the pit. Open the unlocked door of the west room. Examine the four jars to find which one you used to have in your inventory. If you don't remember, you can open your quest journal to figure out which jar you need to pick up, which will be stated by the major organ inside of it, or just try them all. The player will only take the correct one. As soon as you try to pick up your jar, a guardian will attack you. It can be anywhere from level 75 to level 81. It attacks with Magic and Melee . Use a Protection prayer or take off your armour to kill it with melee.
+
+Dying during this fight will send you to your respawn location with the canopic jar in your inventory. Any other items are subject to normal death rules, while Ultimate Ironmen will have a death pile next to the pyramid entrance in Sophanem. Your cat will be gone. Re-entering the pyramid will return you outside of the west room in the flashback state.
+
+Once you've defeated the guardian, pick up the jar. Leave the room and jump across the pit again. The flashback ends. (If you forgot to pick up the jar before jumping the pit, leave the pyramid and enter it again to return to just outside the jar room.)
+
+Returning the canopic jar [ edit | edit source ]
+
+ | Solved!
+
+The jingle that plays upon solving the puzzle.
+
+
+
+After the flashback is over, you will feel regret and you will say to yourself that you think you should put the jar back. Jump the pit and go to the west door. You will need to solve the same door puzzle to enter the room. Click on the large golden bird to reset the puzzle until it lands on the solution shown in the image to the right. Then click the tiles indicated on the picture. Once you turn all of the tiles to their gold side; you will automatically enter the room. Drop the canopic jar where you found it and go back through the pyramid , across the pit, past the monsters, and past the traps to the High Priest . Alternatively, you can log out and back in, which will return you to the entrance with the objective still completed.
+
+Note: Jumping with an item in hand is not guaranteed to cause you to fall with higher agility levels.
+
+The High Priest [ edit | edit source ]
+
+Talk with the High Priest . He will ask you to prepare a ceremony. You will need to help the Embalmer and the Carpenter . If you used a Protection prayer during the fight, recharge your prayer points at the altar here.
+
+The carpenter [ edit | edit source ]
+
+Then, head to the city's eastern side to find the Carpenter , who can be found near the Pottery Wheel. He needs a willow log to make a holy symbol . Talk to him again to give him your willow log. After the quest, the Carpenter will buy willow logs from you at 40 coins each in groups of 1, 2, 5, 10, and 20 (he stops doing this after the completion of Contact! ). After a short wait, the carpenter will give you the symbol.
+
+Note: You can skip the "short wait" by turning in the bucket of sap, linen, and bag of salt to the Embalmer and then going back to the Carpenter to collect the holy symbol immediately.
+
+The embalmer [ edit | edit source ]
+
+Talk to the Embalmer in the building south of the High Priest , near the water symbol. He will ask for a bucket of sap , linen , and a bag of salt . Tell him you will get the items later. To get a pile of salt, use the bucket of saltwater on the suntrap east of the embalmer. A buckets of sap can be obtained by using a knife with an evergreen tree or a pointy regular wood tree with the description "A commonly found tree" while you have a bucket. If you didn't bring sap, you can get some from the latter kind around Lumbridge or the Grand Exchange. The linen can be bought from Raetul for 30 coins. He is located in the north-east part of Sophanem , near the silk stall. Note: You will not be able to buy the Linen from him before you have spoken to the embalmer, as your player character will decline his offer.
+
+Starting the ceremony [ edit | edit source ]
+
+The Carpenter or the Embalmer (whoever you helped last) will tell you that the High Priest began the ceremony without you. To find him, go back into the pyramid past the traps and the pit. As you cross the pit, the third flashback will begin.
+
+Flashback 3 [ edit | edit source ]
+
+You will now have an unholy symbol in your inventory. Your character tells you that your mistress wants it inside the pyramid so she can teleport there. Enter the east room and use the symbol with any sarcophagus around the walls, flashback will end once done; if not, leave the room.
+
+The ceremony [ edit | edit source ]
+
+You will speak to yourself again showing your regret for causing harm to the town. Jump across the pit again and re-enter the eastern burial chamber. After a cutscene, you'll learn that the Wanderer was behind it. She is really the Devourer, an evil goddess, and she'll possess one of the priests.
+
+You will fight a level 91 Possessed Priest . You can use Protect from Magic and kill him. Once you have dealt with him he drops a four-dose attack , strength , magic , agility , or defence potion (Ironmen may wish to keep the agility potion if they plan on doing Tai Bwo Wannai Trio, should they receive it). Talk to the High Priest again and he will tell you to meet them back above.
+
+Note: If you take too long to defeat him, the message " The priest seems to have recovered from the Devourers spell " will appear, and you will have to exit the door and re-enter to face him again with full Hitpoints .
+
+Flashback 4 [ edit | edit source ]
+
+After talking to the High Priest, leave the room, you will see the final flashback as a cut-scene. You will be escaping from the pyramid , and Icthlarin , god of the dead, will dehypnotise you.
+
+Finishing the quest [ edit | edit source ]
+
+You will find yourself outside the pyramid. Talk to the High Priest to complete the quest.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+2 Quest points 4,500 Thieving experience 4,000 Agility experience 4,000 Woodcutting experience Catspeak amulet Access to the city of Sophanem Unlock the carpet rides from Pollnivneach to Sophanem and Menaphos
+
+Required for completing [ edit | edit source ]
+
+Completion of Icthlarin's Little Helper is required for the following:
+
+A Tail of Two Cats Contact! Ratcatchers Falador Medium Diary Desert Easy & Elite Diary
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+27 April 2022 ( update ) | Fixed a few plotholes and inconsistencies in the Icthlarin's Little Helper and Contact! quests. Removed some inappropriate dialogue from the Prince Ali Rescue, Icthlarin's Little Helper and Contact! quests.
+
+6 October 2016 ( update ) | Talking to various NPCs in Tale of Two Cats/Icthlarin's Little Helper quests while other pets are visible displays the correct dialogue.
+
+7 April 2016 ( update ) | Several typos have been fixed in the Icthlarin's Little Helper quest.
+
+v • t • e Icthlarin's Little Helper
+
+NPCs | High Priest Klenter Carpenter Embalmer Raetul Icthlarin Sphinx Wanderer ( Amascut ) Siamun Stonemason Possessed Priest Apparition
+
+Items | Embalming manual Sphinx's token Bucket of saltwater Bucket of sap Linen Pile of salt Bag of salt Holy Symbol Unholy symbol Canopic jar
+
+Rewards | Catspeak amulet
+
+Music | Hypnotized Mirage Sphinx
+
+Related | Quick guide Transcript Bod E. Wrapper
+
+v • t • e Sophanem
+
+Inhabitants | Banker Carpenter Embalmer Guard High Priest Jamila Jex Klenter Nathifa Neferti the Camel Neite Plague cow Priest Raetul Rug Merchant Siamun Sphinx Stonemason Tarik Urbi Worker
+
+Monsters | Locust Plague frog
+
+Shops | Blades by Urbi. Jamila's Craft Stall. Nathifa's Bake Stall. Raetul and Co's Cloth Store. The Spice Is Right.
+
+Features | Pyramid Plunder ( Jalsavrah Pyramid ) Sophanem Dungeon Klenter's Pyramid Great Temple Temple of the Lesser Gods
+
+Related | Icthlarin's Little Helper Contact! Beneath Cursed Sands

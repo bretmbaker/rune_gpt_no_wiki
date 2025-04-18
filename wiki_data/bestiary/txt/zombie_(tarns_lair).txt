@@ -1,0 +1,56 @@
+Name: Zombie
+Combat Level: 40
+Size: 1x1
+Info:
+- Description: Could his name be 'Lurch'?
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 38 xp
+- Category: Zombies
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 6449
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 38
+Attack: 36
+Strength: 35
+Defence: 33
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 10
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 20
+Slash: 20
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 10
+Standard: 10
+Heavy: 10

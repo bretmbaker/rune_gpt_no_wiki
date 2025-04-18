@@ -1,0 +1,121 @@
+ | This quest has a quick guide and a speedrunning guide . It briefly summarises the steps needed to complete the quest.
+
+Below Ice Mountain (#148)
+
+
+
+
+
+Released | 14 April 2021 ( Update )
+
+Members | No
+
+Quest series | None
+
+Lead developer(s) | Mod Oasis , Mod Tide
+
+
+
+Below Ice Mountain is a free-to-play quest that revolves around aiding an 'archaeologist', Willow , who seeks to open an ancient set of doors leading into the western side of Ice Mountain . The player needs to assemble Willow's old team, which is capable of opening the doors and gaining entry to what lies beyond...
+
+Details [ edit | edit source ]
+
+Start point | Willow on the path south of Ice Mountain Show on map
+
+Official difficulty | Novice
+
+Official length | Short
+
+Description | Willow, an energetic archaeologist (perhaps suspiciously so) is hunting for her next big discovery. She believes she has found the entrance to ancient underground ruins found to the west of Ice Mountain. There's a catch though - the entrance is sealed tight and she needs to re-unite her old crew to help her break in. Naturally, she has to stay close to the ruins in order to lay claim to the find, so it falls to you to bring her rag-tag group back together for one last caper and a final big pay-off. Burntof is an old dwarf with a penchant for demolition, Checkal is a well-built lifter of heavy things and Marley is a cunning thief with a knack for disarming traps. Together, they have the talents it will take to gain entry to the secret ruins. But persuading them might not be easy. See, the gang aren't all too keen on working with Willow again, and her intentions might not be as honourable as she claims...
+
+Requirements | 16 Quest points ( required to start )
+
+Items required | Cooked meat (can be obtained during the quest) Bread Knife Beer (can be obtained during the quest) Alternatively Asgarnian ale , Dwarven stout , or a Wizard's mind bomb
+
+Recommended | 15 Combat level Armour and some food Pickaxe and 10 Mining ( boostable ) to kill the Ancient Guardian without combat Fast travel to Falador ( Falador teleport ) Fast travel to Varrock ( Varrock teleport , Chronicle or ( members only) combat bracelet to the Champions' Guild) Fast travel to Edgeville, the Ice Mountain and the Barbarian Village ( Skull Sceptre or Chronicle PLUS a woodcutting axe for Canoe or (members only) combat bracelet to the Monastery or amulet of glory to Edgeville) Energy potions or (members only) stamina potions (Members only) Weight-reducing clothing
+
+Enemies to defeat | Ancient Guardian (level 25) ( Note: You can skip the fight with a pickaxe and 10 Mining ( boostable ) )
+
+League notes | Unlocking Asgarnia ✓ will auto-complete the quest Unlocking Desert ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Willow the 'archaeologist' [ edit | edit source ]
+
+Speak to Willow , north-east of Falador and south of the Dwarven Mine entrance by Ice Mountain . A self-proclaimed 'archaeologist', she will tell the player that she has found a set of doors beneath a tonne of rocks, and asks for their help, as she cannot leave the area in fear of another 'archaeologist' claiming the credit for her discovery.
+
+Agree to help Willow, and she'll need you to convince her old 'excavation team' to help her, since they had a falling out with Willow. Her mates, Burntof , Checkal and Marley , can be spoken to in any order.
+
+Checkal the strongman [ edit | edit source ]
+
+Checkal can be found in the centre of Barbarian Village . In order to get him to join Willow, the player must prove their strength by training with his old friend Atlas , who can be found in The Long Hall tavern in Barbarian Village.
+
+Speak to Checkal. He will refer the player to Atlas, who will agree to train them. A long cutscene of training regimens will ensue, which afterward will unlock the Flex emote. Before returning to Checkal, grab a beer and meat from the table if you have not obtained it already.
+
+Return to Checkal and use the Flex emote when prompted, and he will agree to help Willow.
+
+Burntof, master of explosives [ edit | edit source ]
+
+Burntof can be found in the Rising Sun Inn in Falador . Drunk as he is, he will ask the player for a drink. If you have not already picked up the beer from Barbarian Village, purchase one from the bartender and give it to Burntof.
+
+Burntof will agree to join the team if the player manages to beat him in a best-of-three game of rock paper scissors. Regardless of what is chosen, Burntof will agree to help Willow as he is too drunk to properly play the game.
+
+Marley the thief [ edit | edit source ]
+
+Though Willow instructs the player to speak to Charlie the Tramp to find Marley's whereabouts, you can skip this conversation and directly reach Marley in the Edgeville ruins, by the yew trees south of Edgeville bank.
+
+He will want a steak sandwich from the Blue Moon Inn in order to help Willow. However, he was banned from the inn and the cook won't make him another one. Thus, the player must go to the inn in his place.
+
+Speak to the cook in the east room of Blue Moon Inn in Varrock . Though he will still refuse to make a steak sandwich due to Marley trying to steal from one of their patrons, he will tell the player the 'delicate art' of creating a steak sandwich: using a knife on cooked meat while having bread in your inventory.
+
+With the steak sandwich beautifully and masterfully created, return to Marley with it in your inventory. He will now agree to help Willow.
+
+The Ruins of Camdozaal [ edit | edit source ]
+
+With the crew assembled, head to the ancient doors at the west side of Ice Mountain (marked by the dungeon icon on the minimap), and talk to Willow. The crew will begin unblocking the entrance, with Burntof blowing up the rocks, Checkal moving the debris, and Marley disabling the traps within.
+
+Though the player becomes fascinated at the potential historical value of the ruins, Willow reveals that they are not actually archaeologists, but grave robbers hoping to find valuable loot. Now that the player knows, she can't risk being revealed to the authorities and prepares to kill them. However, Burntof accidentally sets off a trap, awakening the Ancient Guardian . Having bit off more than they can chew, the four crew members flee.
+
+After the cutscene ends, kill the level 25 Ancient Guardian . You can choose to kill it through standard combat, but lower levelled players are recommended to mine the four structural pillars in the corners of the room; this will cause some rocks to fall down, damage the golem and ultimately kill it. When using the mining method, the guardian will constantly hit the player, so bring enough food. Alternatively, the guardian can be safespotted by hugging the east wall by the ruins' exit.
+
+After defeating the golem, the player will loot some items from Willow's bag , which she left behind in a panic. However, the doors leading deeper into the mountain open, revealing a dwarf named Ramarno . Being one of the few Imcando dwarves to have survived the Runecrafting Crusades , Ramarno has since lived isolated inside these ruins: the Ruins of Camdozaal .
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 2,000 coins Access to the Ruins of Camdozaal Flex emote The ability to make a steak sandwich
+
+Required for completing [ edit | edit source ]
+
+Desert Treasure II - The Fallen Empire Defender of Varrock
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Music unlocked [ edit | edit source ]
+
+Name | Unlock details | Music track | Members
+
+Barbarian Workout | Unlocked during the strongman training montage. |  | 0
+
+The Ruins of Camdozaal | Unlocked at the end of the quest upon entering the Ruins of Camdozaal. |  | 0
+
+Developers [ edit | edit source ]
+
+Main developer(s) : Mod Oasis and Mod Tide Quality Assurance : Mod Moogle Art : Mod Gee and Mod Brow
+
+Trivia [ edit | edit source ]
+
+At the beginning of the workout cutscene when the player is running north towards Varrock castle, a tomato is thrown at them. This is a reference to the 1976 film Rocky . At the end of the workout cutscene, the player runs up the castle steps and does the Cheer emote, a reference to the iconic step-climbing scene in the same film. Atlas , an NPC in the quest, is a reference to the titan Atlas who was condemned to hold the sky (often misunderstood as the earth) on his shoulders. It's also possible that Atlas is a reference to Charles Atlas , a bodybuilder who got famous for creating a set of exercises called Dynamic Tension . If the player has 99 Strength , they will remark that they are a master of strength when Willow states the rubble will need to be moved from the explosion. This does not affect the quest. Aside from regular beer , Burntof can be given the other drinks sold by the Rising Sun Inn ( Asgarnian ale , dwarven stout , wizard's mind bomb ). He has different remarks for each drink type. Initially he could not be given Asgoldian ale as a substitute, but this was corrected in a subsequent update. While talking to Ramarno post-quest he states that he's the last Imcando dwarf ; this isn't true, as Thurgo is also an Imcando dwarf. If the player talks to Ramarno next to his forge after meeting Thurgo in The Knight's Sword , they will inform him of this when asking about the Imcando dwarfs. After the quest, members can travel to Nardah to find Willow and her crew in hiding, scoping out their next grave to rob. While the 2022 Christmas event was active, the player model was invisible during part of the Atlas training cutscene due to the festive override.
+
+v • t • e Below Ice Mountain
+
+NPCs | Willow Checkal Atlas Charlie the Tramp Marley Cook Burntof Ramarno Ancient Guardian
+
+Other | Steak sandwich Flex Ruins of Camdozaal Ice Mountain Willow's bag
+
+Music | Barbarian Workout The Ruins of Camdozaal
+
+Related | Quick guide ( speedrunning ) Transcript

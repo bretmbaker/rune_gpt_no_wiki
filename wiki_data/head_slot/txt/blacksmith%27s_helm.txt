@@ -1,0 +1,54 @@
+[Weapon: Blacksmith%27S Helm]
+
+
+TheBlacksmith's helmis a reward fromeliteTreasure Trails. It is usually worn as a fun item since its defensive bonuses are the same as those of aniron full helm. Although the helm matches the appearance of theSmiths' Uniform, itdoes notcount towards the set bonus.
+It resembles the protective headgear of awelder.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A helm worn by blacksmiths.
+General Store Value: 3,000 coins
+High alch: 1,800 coins
+Low alch: 1,200 coins
+Weight: 1.814 kg
+Grand Exchange Value: 46,500 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 27
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +7
+- Crush: +5
+- Magic: -1
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/1,275 | 

@@ -1,0 +1,1 @@
+Copper orecan be mined at level 1Miningproviding 17.5 Mining experience. After miningcopper rocks, it will take 2.4 seconds until it reappears. Copper ore is used withtin oreto smeltbronze bars. Smelting a bronze bar gives 6.2Smithingexperience.

@@ -1,0 +1,2 @@
+Item: Karil the Tainted
+Summary: Karil the Tainted is the fourth oldest of the Barrows brothers. Karil's crypt is located to the south of the Barrows area. He uses ranged equipment, although, unlike a player using his equipment, he is fairly weak to Magic attacks. Karil's set effect is Tainted Shot, which gives him a 25% chance per successful hit to lower the player's Agility by 20%. Although all damage can be avoided through Protect from Missiles, his set effect will activate regardless if the hit would have been successful.

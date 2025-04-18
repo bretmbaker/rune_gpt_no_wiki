@@ -1,0 +1,4 @@
+Item: Bludgeon spine
+Summary: The bludgeon spine is one of three pieces that can be combined with the bludgeon axon and bludgeon claw to make an abyssal bludgeon by speaking to The Overseer, who combines the three parts for the player. If a player has already had the Overseer construct one, they will be required to use the parts on the Overseer's book instead.
+Sources:
+- Unsired (Level N/A, Quantity: 1, Rarity: 62/128)

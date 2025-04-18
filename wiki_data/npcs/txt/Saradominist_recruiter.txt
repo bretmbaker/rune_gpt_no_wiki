@@ -1,0 +1,2 @@
+Item: Saradominist recruiter
+Summary: The Saradominist recruiter can be found in south-western corner of the Grand Exchange in the Games Zone. He informs players of Castle Wars. Players can directly queue for a Castle Wars game by talking to him or using the Join Castle Wars right-click option on him. If the lobby is full, the player will not be transfered into Castle Wars lobby, and the following message will appear in the chat instead: There isn't enough space on this team!

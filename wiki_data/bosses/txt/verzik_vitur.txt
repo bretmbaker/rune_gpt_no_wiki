@@ -1,0 +1,51 @@
+Name: Verzik Vitur
+Combat Level: 425
+Size: 5x5
+Info:
+- Description: There's something very disconcerting about her.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 10830,10831,10832
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 1200
+Attack: 180
+Strength: 150
+Defence: 10
+Magic: 180
+Ranged: 180
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 32
+Magic strength bonus: 140
+Ranged attack bonus: 32
+Ranged strength bonus: 50
+
+[Melee defence]
+Stab: 10
+Slash: 10
+Crush: 10
+
+[Magic defence]
+Magic: 10
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 10
+Standard: 10
+Heavy: 10

@@ -1,0 +1,98 @@
+Name: Bronze dragon
+Combat Level: 131
+Size: 4x4
+Info:
+- Description: Its scales seem to be made of bronze.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 125 xp
+- Category: Bronze Dragons
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 270,271
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Dragon plateskirt (1/2,048[d 1])
+- Dragon platelegs (1/2,048[d 1])
+- Mithril kiteshield (1/128)
+- Adamant platebody (1/128)
+- Rune longsword (1/128)
+- Death rune (1/128)
+- Coins (1/128)
+- Swordfish (1/128)
+- Nothing (1/58.78; Never[d 1])
+- Coins (1/780.19)
+- Loop half of key (1/678.25; 1/581.31[d 2])
+- Tooth half of key (1/678.25; 1/581.31[d 2])
+- Uncut sapphire (1/123.19; 1/62.56[d 2])
+- Runite bar (1/3,276.8)
+- Nature rune (1/5,461.33)
+- Rune 2h sword (1/5,461.33)
+- Rune battleaxe (1/5,461.33)
+- Uncut emerald (1/246.38; 1/125.11[d 2])
+- Law rune (1/8,192)
+- Death rune (1/8,192)
+- Steel arrow (1/8,192)
+- Rune arrow (1/8,192)
+- Adamant javelin (1/8,192)
+- Rune sq shield (1/8,192)
+- Dragonstone (1/8,192)
+- Silver ore (1/8,192)
+- Uncut ruby (1/492.75; 1/250.23[d 2])
+- Rune kiteshield (1/16,384)
+- Dragon med helm (1/16,384)
+- Rune spear (1/13,684.52; 1/1,325.02[d 2][d 3])
+- Shield left half (1/27,369.03; 1/2,650.03[d 2][d 3])
+- Chaos talisman (1/1,314.01; 1/667.27[d 2][d 4])
+- Nature talisman (1/1,314.01; 1/667.27[d 2][d 4])
+- Dragon spear (1/36,492.04; 1/3,533.38[d 2][d 3])
+- Uncut diamond (1/1,971.01; 1/1,000.9[d 2])
+- Rune javelin (1/3,942.02; 1/2,001.8[d 2])
+- Brimstone key (1/94; 1/92[d 1])
+- Clue scroll (hard) (1/128[d 2])
+- Ancient shard (1/252)
+- Dark totem base (1/378)
+- Dark totem middle (1/378)
+- Dark totem top (1/378)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 122
+Attack: 112
+Strength: 112
+Defence: 112
+Magic: 100
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 20
+Slash: 70
+Crush: 70
+
+[Magic defence]
+Magic: 30
+Elemental weakness: 50% weakness
+
+[Ranged defence]
+Light: 90
+Standard: 90
+Heavy: 65

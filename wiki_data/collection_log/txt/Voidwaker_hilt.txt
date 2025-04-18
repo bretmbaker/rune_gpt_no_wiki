@@ -1,0 +1,5 @@
+Item: Voidwaker hilt
+Summary: The Voidwaker hilt is one of three pieces of the Voidwaker dropped by Callisto and Artio. The hilt, alongside the Voidwaker blade and Voidwaker gem, must be brought to Madam Sikaro in the Ferox Enclave Dungeon, who combines the three parts for a fee of 500,000 coins.
+Sources:
+- Artio (Level 320, Quantity: 1, Rarity: 1/912)
+- Callisto (Level 470, Quantity: 1, Rarity: 1/360)

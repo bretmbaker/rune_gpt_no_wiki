@@ -1,0 +1,2 @@
+Item: Bobbing fossil
+Summary: A Bobbing fossil will emerge in the Mycelium pool when fossils, pyrophosphite and calcite have been added to the nearby hopper. When these are not poked down, fewer enriched bones will be produced in the rinsing pool.

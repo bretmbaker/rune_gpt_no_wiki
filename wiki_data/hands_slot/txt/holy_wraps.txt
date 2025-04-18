@@ -1,0 +1,68 @@
+[Weapon: Holy Wraps]
+
+
+Holy wrapsarehandwearthat can be obtained by completingeliteTreasure Trails. They require 31Prayerto wear. It gives the best prayer bonus in the hands slot. They also count as aSaradomin itemwhen worn in theGod Wars Dungeon,Hallowed Sepulchre, and for the purpose of turningdesert banditshostile.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Holy handwear!
+General Store Value: 9,600 coins
+High alch: 5,760 coins
+Low alch: 3,840 coins
+Weight: 0.5 kg
+Grand Exchange Value: 886,147 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 152
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/1,275 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Deranged archaeologist/Strategies(Magic)
+2 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+2 | Maniacal monkey/Strategies(Magic - Ice Burst)
+5 | Nightmare Zone/Strategies(Melee (Prayer))
+5 | Slayer task/Jellies(Magic)
+2 | Sulliuscep/Strategies
+3 | Sulliuscep/Strategies
+3 | Volcanic Mine(Solo)
+2 | Volcanic Mine(Group)
+4 | Zalcano/Strategies(Mining)

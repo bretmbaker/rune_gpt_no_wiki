@@ -1,0 +1,2 @@
+Item: Auctioneer
+Summary: The auctioneer is a non-interactable vampyre running an auction of human blood tithes at a plaza just outside Castle Drakan in Darkmeyer selling to the highest bidding spectator.

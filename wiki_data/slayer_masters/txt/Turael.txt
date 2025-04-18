@@ -1,0 +1,120 @@
+[Slayer Master: Turael]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+Turael
+
+
+
+
+
+
+
+Released | 26 January2005(Update)
+
+Members | Yes
+
+Race | Human
+
+Quest | Animal Magnetism
+
+Location | Burthorpe
+
+Leagueregion | Asgarnia✓
+
+Shop | Slayer Equipment,Slayer Rewards
+
+Gender | Male
+
+Options | Talk-to, Assignment, Trade, Rewards
+
+Examine | He looks dangerous!
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+NPC ID | 13618
+
+Link | MOID
+
+
+
+Turaelis the lowest levelSlayer Master, along with his daughterSpria. Turael resides inBurthorpe; the fastest way to reach him is toteleporttoBurthorpe Games Roomusing agames necklaceand running east to Turael's house, just south of the general store.
+
+There are no level requirements to receiveSlayer tasksfrom him.
+
+Additionally, Turael is capable of changing your Slayer task from another master into a less difficult one. If the other master has assigned you a task Turael could assign himself, your request will not work. Moreover, he will issue a changeonly onceper task type.Warning: After a task change is processed, yourtask streakwill also be reset to zero.
+
+Because the tasks he assigns are relatively easy, players often use Turael to boost theirSlayer reward points. This is accomplished by completing every 50th task with a Slayer master that gives a lot of points per task, such asKonar quo Maten, and using Turael for the rest of the tasks to get to every interval of 50 more quickly. You can do this every 10 tasks instead but this is not recommended due to the amount of unfavourable tasks that can be given, unless you use a different Slayer master (other than Konar).
+
+After the events ofWhile Guthix Sleeps, he is replaced with his sisterAya.
+
+Treasure Trails[edit|edit source]
+
+Turael is the solution to theeasycryptic clue:Talk to Turael in Burthorpe.
+
+Tasks[edit|edit source]
+
+Monster | Amount | Unlock requirement | Alternative(s) | Location (Slayer Point Farming) | Weight
+
+Banshees | 15-30 | 15,20, completion ofPriest in Peril | Twisted Banshee | Slayer Tower(CKS) | 8
+
+Bats | 15-30 | 5 | Giant bat,Deathwing,Albino bat | Silvarea,North ofDigsite | 7
+
+Bears | 10-20 | 13 | Grizzly bear cub,Bear cub,Grizzly bear,Reanimated bear,Callisto,Artio | South-west ofLegends' Guild(cannon) | 7
+
+Birds | 15-30 | None | Chicken,Mounted terrorbird,Terrorbird,Rooster,Chompy bird,Seagull,Penguin,Duck,Duckling | West of theChampions' Guild(cannon ducks) | 6
+
+Cave bugs | 10-30 | 7 | None | Dorgesh-Kaan South Dungeon(AJQ) | 8
+
+Cave crawlers | 15-30 | 10,10 | None | Fremennik Slayer Dungeon(AJR) | 8
+
+Cave slime | 10-20 | 17,15 | None | Dorgesh-Kaan South Dungeon(AJQ) | 8
+
+Cows | 15-30 | 5 | Buffalo,Cow calf,Undead cow | East ofLumbridge | 8
+
+Crawling Hands | 15-30 | 5, completion ofPriest in Peril | None | Slayer Tower(CKS) | 8
+
+Dogs | 15-30 | 15 | Jackal,Guard dog,Wild dog,Reanimated dog | East ofSophanem(Pharaoh's sceptre- Jaleustrophos) | 7
+
+Dwarves | 10-25 | 6 | Black Guard,Chaos Dwarf,Dwarf gang member | White Wolf Tunnelpub | 7
+
+Ghosts | 15-30 | 13 | Tortured soul,Forgotten Soul,Revenants | Catacombs of Kourend | 7
+
+Goblins | 15-30 | None | Cave goblin guards,Sergeant Strongstack,Sergeant Steelwill,Sergeant Grimspike | East ofLumbridge | 7
+
+Icefiends | 15-20 | 20 | None | Ice Mountain | 8
+
+Kalphite | 15-30 | 15 | Kalphite worker,Kalphite soldier,Kalphite guardian,Kalphite Queen | Kalphite Cave | 6
+
+Lizards | 15-30 | 22 | Small Lizard,Desert Lizard,Sulphur Lizard(44),Grimy Lizard(44) | North ofNardahFairy Ring (DLQ),Karuulm Slayer Dungeon | 8
+
+Minotaurs | 10-20 | 7 | None | Stronghold of Security | 7
+
+Monkeys | 15-30 | None | Karamjan Monkey,Monkey Guard,Monkey Archer,Monkey Zombie,Demonic Gorilla,Tortured Gorilla,Maniacal Monkey | Ardougne Zoo, Karamja north-west of glider,Kruk's Dungeon, North ofCairn Isle | 6
+
+Rats | 15-30 | None | Giant rat,Dungeon rat,Crypt rat,Brine rat(47),Hell-Rat Behemoth,Giant crypt rat,Scurrius | Ferox Enclave | 7
+
+Scorpions | 15-30 | 7 | King Scorpion,Poison Scorpion,Pit Scorpion,Scorpia,Lobstrosity,Reanimated scorpion,Scorpia's offspring,Scorpia's guardian | Al Kharid Mine,Dwarven Mine | 7
+
+Skeletons | 15-30 | 15 | Skeleton mage, Skeletons in theStronghold of SecurityandAncient Cavern,Vet'ion,Skogre,Shayzien Crypts Skeletons,Skeleton fremennik,Calvar'ion | Digsite Dungeon,Catacombs of Kourend,Edgeville Dungeon | 7
+
+Spiders | 15-30 | None | Araxxor,Araxyte,Giant spider,Shadow spider,Giant crypt spider,Sarachnis,Temple Spider,Venenatis,Spindel | OutsideH.A.M. Hideout,Clock Tower dungeon | 6
+
+Wolves | 15-30 | 20 | Big Wolf,Desert Wolf,Dire Wolf,Ice wolf,Jungle wolf,White wolf | White Wolf Mountain,Stronghold of Security | 7
+
+Zombies | 15-30 | 10 | Monkey Zombie,Undead chicken,Undead cow,Undead Druid,Undead one,Zombie rat,Zogre,Armoured zombie,Zombie pirate,Vorkath | Alice's FarmWest ofEctofuntus | 7
+
+Totaltask weight |  | 172
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.Click herefor a list of other transcripts that this NPC speaks in.
+

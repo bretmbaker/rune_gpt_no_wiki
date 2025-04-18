@@ -1,0 +1,42 @@
+[Minigame: Cat]
+
+Catsare commonpetsthat can follow the player. In order to obtain a pet cat, a player must complete theGertrude's Catquest, after whichGertrudewill give them akittenas part of the reward. After three hours, the kitten will grow into a pet cat. Cats no longer need the food nor attention required of a kitten, and will not run away.
+
+After another five-six hours of having the adult cat following the player, it will become anovergrown cat. Overgrown cats can be trained intowily cats, that will eventually becomelazy cats. Lazy cats can repeatedly be trained back into wily cats.
+
+Only one kitten may be owned at a time, including thehellkittenvariant. Players may purchase a new kitten fromGertrudefor100coins whenever their current kitten turns into an overgrown cat, or their cat is stored in aplayer-owned housemenagerie. The colour of the kitten will be randomised, unless the player wears aring of Charos (a)while purchasing the kitten, which allows them to choose the colour.
+
+Any type of cat can be turned into aHellcatvariant by chasing thehell-ratsinEvil Dave's basement. Hellcats can be morphed back into their original colour by feeding them abucket of milk.
+
+Cats can be interacted with in a number of ways, such as by stroking them, showing them aball of woolor wielding amouse toywhile the cat follows the player. Cats may be spoken to with acatspeak amulet, or without it after partial completion ofDragon Slayer II. They can alsochaserats, with asuccessful catch ratedepending on the type of cat. Regular adult cats have a success rate of 50%.
+
+Similar to every pet, cats can be stored in themenagerieof aplayer-owned house. They however cannot be insured byProbitaand will run off if the player dies, if they were either in the player's inventory or following the player.
+
+Players canusetheir adult cats, including hellcats, onciviliansinWest Ardougnein the south-western area of the city to sell it to them for 100death runes(16,100). This increases to 200 death runes (32,200) with theeasy Ardougne achievement diaryreward. Cats can also be shooed-away if the player no longer wishes to keep them.
+
+If a cat dies in combat, it is permanently lost and the messageYour cat has passed away.will appear in the chatbox. Cats cannot die in aMenagerie arena. Cats can also be lost if they are following the player when theirmembershipexpires. If a cat is lost and replaced, quest dialogue will not reflect this; the replacement will recall events as though they were the same cat.
+
+Combat stats[edit|edit source]
+
+When fightingHell-Rat Behemoths, theKing rator in theRat Pits, cats have the following combat stats:[1]
+
+Cat | Hitpoints | Attack | Strength | Defence
+
+ | Kitten | 4 | 1 | 1 | 0
+
+ | Cat | 6 | 4 | 3 | 0
+
+ | Overgrown cat | 10 | 3 | 5 | 0
+
+ | Wily cat | 12 | 12 | 8 | 2
+
+ | Lazy cat | 14 | 6 | 6 | 2
+
+Quests[edit|edit source]
+
+Gertrude's CatIcthlarin's Little HelperRatcatchersA Tail of Two CatsRecipe for Disaster(Evil Dave section)
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.Click herefor a list of other transcripts that this NPC speaks in.
+

@@ -1,0 +1,8 @@
+[Page: Certer]
+
+TheCerteris arandom eventin which the player is asked to identify an object by one of the certer brothers,Niles,Miles, orGiles. An object is presented with three possible choices. If the player correctly identifies the item, the certer brother will reward the player such as an uncutruby,sapphire,emerald, ordiamond, or even aLoop half of keyorTooth half of key. If the player chooses the wrong item, the certer will not give an award and will teleport away.
+Drop rates estimated based on 5,819 samples from theDrop Rate Project, unless otherwise cited.
+The average  Certer event reward is worth538.07.
+InRuneScape Classic, certers ran exchange stalls aroundRuneScapeconverting various items into certificates ("certs" for short) for large quantity trading. The certs were similar to the present-daybank notes, being stackable, except five items traded for one certificate. Because certs were only available from certers, many trips had to be made from the bank to the certers to exchange items for notes or notes for items, which was tedious.
+WhenRuneScape 2was released, the certers were removed from the game and replaced with thebank notesystem. Existing certificates were all converted into bank notes. Niles, Giles and Miles were soon re-released as this random event, in reference to their old role as certers, but the other certers were not.
+Before the random event rework, the certer gave the player four warnings. If the player still ignored him, he teleported the player to a random, relatively safe place and turned their inventory and equipment into bank notes. Some players considered this very annoying duringcombat. After the rework, there was no longer a penalty for ignoring the certer.

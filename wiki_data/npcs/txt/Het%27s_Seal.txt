@@ -1,0 +1,2 @@
+Item: Het's Seal
+Summary: Het's Seal is found in the centre of the Path of Het in the Tombs of Amascut. Initially protected, the seal must be weakened by redirecting the energy beams from the caster statue to the shielded statue. Once weakened, players can work towards destroying the seal with a pickaxe. Doing so will damage the seal (scaled by the pickaxe tier used and player's Mining level) and grant 35 Mining experience every 3 ticks (1.8 seconds), until it is destroyed or becomes protected again.

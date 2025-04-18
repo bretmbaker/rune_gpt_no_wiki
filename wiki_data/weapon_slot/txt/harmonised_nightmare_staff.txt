@@ -1,0 +1,81 @@
+[Weapon: Harmonised Nightmare Staff]
+
+
+Theharmonised nightmare staffis astaffthat is created by attaching aharmonised orbto theNightmare staff. Requiring level 82Magicand 50Hitpointsto wield, it can autocast offensivestandard spells, butcannotautocast any other spells (includingAncient Magicksand theArceuus spellbook) unlike its other variants. Like theNightmare staffit gives a 15% bonus inmagic damage. The upgraded staff is untradeable, but it can be reverted to its tradeable components at any time. If lost on death in theWilderness, the killer will receive the staff and the orb.
+When casting offensive spells from the standard spellbook, the harmonised nightmare staff's attack speed is increased to 4, equal topowered staves. Unlike powered staves, however, the harmonised nightmare staffcanbe used against other players in dangerous PvP scenarios, as it is not classified as a powered staff.
+
+
+[Infobox]
+Released: 6 February2020(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle, Drop
+Examine: An ancient staff corrupted by darkness. A harmonised orb has been added to it.
+General Store Value: 4,600,000 coins
+High alch: 2,760,000 coins
+Low alch: 1,840,000 coins
+Weight: 1.6 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +16
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +14
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +15%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 4 ticks (2.4s)standard spells | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Adamant dragon/Strategies(Magic)
+2 | Barrows/Strategies(Magic equipment)
+4 | Chambers of Xeric/Challenge Mode(Magic)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Vespula)
+2 | Chambers of Xeric/Strategies(Vespula)
+2 | Deranged archaeologist/Strategies(Magic)
+2 | Drake/Strategies(Magic)
+2 | Giant Mole/Strategies(Magic)
+1 | Hespori/Strategies(Mage)
+5 | Kraken/Strategies(Magic)
+1 | Metal dragons/Strategies(Magic)
+1 | Mithril dragon/Strategies(Magic)
+1 | Nightmare Zone/Strategies(Magic)
+1 | The Nightmare/Strategies(Mage)
+2 | Phantom Muspah/Strategies(Magic & Ranged)
+1 | Phosani's Nightmare/Strategies(Mage)
+2 | Rune dragon/Strategies(Magic)
+1 | Skeletal Wyvern/Strategies(Magic)
+1 | Slayer task/Trolls(Magic (Ice trolls))
+2 | Thermonuclear smoke devil/Strategies(Magic)
+4 | The Whisperer/Strategies(Magic)
+1 | Zulrah/Strategies(Magic)

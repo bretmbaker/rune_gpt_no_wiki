@@ -1,0 +1,4 @@
+Item: Crystal tool seed
+Summary: The crystal tool seed is an elven crystal that can be turned into the crystal axe, crystal harpoon, or crystal pickaxe, using 120 crystal shards and the dragon counterpart on a singing bowl. It can be obtained as a drop from Zalcano.
+Sources:
+- Zalcano (Level 336, Quantity: 1, Rarity: 39/8,000)

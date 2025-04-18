@@ -1,0 +1,72 @@
+[Page: Combat Options]
+
+TheCombat Optionstab show different attack styles that a player uses inCombat, which in turn affects whatexperiencethey receive. A player's attack style is chosen on the combat screen section of theinterface. Available combat options are determined by the weapon category, which is listed just beneath theauto-retaliateoption andspecial attackbar.
+
+Contents
+
+Melee weapons[edit|edit source]
+
+Meleeweaponsvary in their attack styles. Some have three options, one for each combat style. Others have four options, the extra one typically being either acontrolledoption or an alternativeaggressiveattack.
+
+Attack types[edit|edit source]
+
+Selecting type will change the player's accuracy. Bonuses can be seen in theEquipment Stats interface. The player's accuracy rolls are determined by their selected attack type. This applies to special attacks too. The player's accuracy roll rolls against their opponent's matching type defence. There are exceptions; most special attacks are rolled always against a predefined type. The general rule is that you can determine the attack's  type from its special attack animation. Slashing specials roll against slash defence, and crushing animations against crush defence (dragon dagger / crystal halberd special attacks' selected type accuracy roll will roll against an opponent's slash defence).[1]
+
+There currently isn't a player wieldable melee weapon that calculates accuracy from magic or ranged bonus, but there is ranged weapon, thedwarf multicannon, which calculates accuracy using the player's Ranged or melee bonus depending on the weapon and attack style, detailed inthe accuracy sectionof its page.
+
+Accurate[edit|edit source]
+
+When using theaccuratestyle, for every point of damage a player deals, they gain 4 experience inAttackand 1.33 experience inHitpoints. Using theaccuratestyle provides an invisible +3 boost to your Attack level.[2]
+
+Aggressive[edit|edit source]
+
+When using theaggressivestyle, for every point of damage a player deals, they gain 4 experience inStrengthand 1.33 experience inHitpoints. Using theaggressivestyle provides an invisible +3 boost to your Strength level.[2]
+
+Defensive[edit|edit source]
+
+When using thedefensivestyle, for every point of damage a player deals, they gain 4 experience inDefenceand 1.33 experience inHitpoints. Using thedefensivestyle provides an invisible +3 boost to your Defence level.[2]
+
+Controlled[edit|edit source]
+
+When using thecontrolledstyle, for every point of damage a player deals, they gain 1.33 experience each inAttack,Strength,Hitpoints, andDefence. Using thecontrolledstyle provides an invisible +1 boost to your Attack, Strength and Defence levels.[2]This attack style is only available for certain melee weapons:longswords,scimitars,maces,spears,halberds,hastae,claws, andwhips.
+
+Ranged weapons[edit|edit source]
+
+Accurate[edit|edit source]
+
+When using theaccuratestyle, for every point of damage a player deals, they gain 4 experience inRangedand 1.33 experience inHitpoints. The accurate style allows a player to shoot less often than in the rapid style, however they receive a +3 invisible bonus to their Ranged level, thereby increasing accuracy and damage.[3]
+
+Rapid[edit|edit source]
+
+When using therapidstyle, for every point of damage a player deals, they gain 4 experience inRangedand 1.33 experience inHitpoints. The rapid style allows a player to shoot more often than in the accurate style, but a player is more likely to miss (i.e. dealing 0 damage).
+
+Longrange[edit|edit source]
+
+When using thelongrangestyle, for every point of damage a player deals, they gain 2 experience inRanged, 2 experience inDefence, and 1.33 inHitpoints. Attack range is increased with this attack style.
+
+Using thelongrangestyle provides an invisible +3 boost to your Defence level.[4]
+
+Magic weapons[edit|edit source]
+
+While wielding aMagicweapon(commonly astaff), a player can use the normalmelee attack stylesinMeleecombat, or use theAutocastoption to automatically attack with aspell. Selecting this option will bring up a list of spells that can be autocast, which varies with each magical weapon. If the player selects a spell, the selected spell is repeatedly cast during combat as long as the player has the required Magic level and has the requiredrunes. While a player has the autocast option chosen, they must also choose either the normal or defensive style to represent how they are casting their Magic.
+
+Powered staff[edit|edit source]
+
+Autocast[edit|edit source]
+
+Unlike other combat styles and powered staves, autocasting does not give invisible bonuses.
+
+If a player chooses thestandardstyle for autocasting, they perform a normal magical attack and for each point of damage the spell deals, they gain 2 experience inMagicand 1.33 experience inHitpoints, in addition to the Magic experience from casting the spell.
+
+If a player chooses thedefensivestyle for autocasting, they perform a normal magical attack and for each point of damage the spell deals, they gain 1.33 experience inMagic, 1 experience inDefence, and 1.33 experience inHitpoints. The experience from casting the spell is still given entirely to Magic.
+
+Gallery[edit|edit source]
+
+The combat options of alongsword.
+
+The combat options of acrossbow.
+
+The combat options of astaff.
+
+The combat options menu in the mobile client.
+

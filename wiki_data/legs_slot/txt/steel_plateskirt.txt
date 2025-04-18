@@ -1,0 +1,59 @@
+[Weapon: Steel Plateskirt]
+
+
+TheSteel plateskirtis a plateskirt made from steel, requiring level 5Defenceto wear. It can be made at level 46Smithingby using 3Steel barson ananvilwith ahammerin the inventory. It has identical stats to thesteel platelegs, with the notable exception that it weighs less.
+
+
+[Infobox]
+Released: 13 February2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Designer leg protection.
+General Store Value: 1,000 coins
+High alch: 600 coins
+Low alch: 400 coins
+Weight: 8.164 kg
+Grand Exchange Value: 366 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 2,818
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +17
+- Slash: +16
+- Crush: +15
+- Magic: -4
+- Ranged: +16
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Broken armour | 1 | 1 | 10/200 | 
+Elaborate lockbox | N/A | 1 | 12/2,625 | 
+Former Vampyre | N/A | 1(noted) | 16/256 | 
+GorakFull | 145; 149 | 1 | 1/128 | 
+Reward casket (beginner) | N/A | 1 | 11/492 | 
+Simple lockbox | N/A | 1 | 12/10,850 | 
+Vampyre Juvinate | N/A | 1(noted) | 16/256 | 

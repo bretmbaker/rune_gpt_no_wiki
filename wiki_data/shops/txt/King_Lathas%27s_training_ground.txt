@@ -1,0 +1,73 @@
+[Shop: King_Lathas%27s_training_ground]
+
+Combat Training Camp
+
+
+
+
+
+Released | 23 October2002(Update)
+
+Members | Yes
+
+Location | Kandarin
+
+Leagueregion | Kandarin✓
+
+
+
+Map
+
+
+
+Location onWorld Map
+
+Baxtorian Falls
+
+↑
+
+Outpost | ← | Combat Training Camp | → | Fishing Guild
+
+↓
+
+West Ardougne
+
+TheCombat Training Camp(orKing Lathas's training grounds) can be accessed after theBiohazardquest. It was established byKing LathasofEast Ardougneto train his forces, and it is located north-west of East Ardougne (and also south ofTree Gnome Stronghold)—it can be accessed from East Ardougne by heading north, then run west, take the bridge south and run west past theChaos Temple. The entrance to the training grounds is located at the southern fence.
+
+The training camp has several level 63 cagedogres, which can be used for trainingRanged,Magic, andMelee(only when using ahalberd). The cage has aloose railing, which you can use to enter the cage to retrieve drops and spent arrows. Attempting to attack the ogres while inside the cage results in a message saying "These ogres are for ranged combat only".
+
+There is also a group ofdummiesthat can be attacked for 50 Attack experience per hit. This can only be done six times total, ever.
+
+There are severalbeerrespawns on the tables in the camp.
+
+Entering the Combat Training Camp is a requirement for the easyArdougne Diary.
+
+Inside the training grounds isKing Lathas's Armourywhich sells melee and ranged items, includingarrowtipsforFletching.
+
+v•t•eCombat Training Camp
+
+NPCs | GuardShop keeperOgre
+
+Related | ArmouryBiohazard
+
+v•t•eBiohazard
+
+NPCs | ElenaJericoMournerMourner (boss)OmartKilronNurse SarahChemistGuidorJulieKing LathasGuardHelpersDa VinciHopsChancy |  | ElenaJericoMournerMourner (boss)OmartKilronNurse SarahChemistGuidorJulieKing LathasGuard | Helpers | Da VinciHopsChancy
+
+ | ElenaJericoMournerMourner (boss)OmartKilronNurse SarahChemistGuidorJulieKing LathasGuard
+
+Helpers | Da VinciHopsChancy
+
+Items | Bird feedPigeon cageRotten appleMedical gownKeyDistillatorPlague sampleTouch paperPriest gownTopBottomChemicalsLiquid honeySulphuric brolineEtheneaDiscontinuedLathas' amulet |  | Bird feedPigeon cageRotten appleMedical gownKeyDistillatorPlague sampleTouch paper | Priest gown | TopBottom | Chemicals | Liquid honeySulphuric brolineEthenea | Discontinued | Lathas' amulet
+
+ | Bird feedPigeon cageRotten appleMedical gownKeyDistillatorPlague sampleTouch paper
+
+Priest gown | TopBottom
+
+Chemicals | Liquid honeySulphuric brolineEthenea
+
+Discontinued | Lathas' amulet
+
+Locations | West ArdougneRimmingtonDancing Donkey InnCombat Training CampMourner Headquarters
+
+Miscellaneous | Quick guideTranscript

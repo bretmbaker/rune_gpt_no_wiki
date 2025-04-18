@@ -1,0 +1,115 @@
+[Weapon: Archers Ring]
+
+
+Thearchers ringis one of theFremennik ringsand is dropped by theDagannoth Supremein theWaterbirth Island Dungeon. TheFremennik ringsare some of the very few rings inRuneScapeto give stat bonuses.
+It can beimbuedusing 650,000Nightmare Zonereward points or 325,000 with thehard tierofCombat Achievements, 260Soul WarsZeal Tokens, or aScroll of Imbuing, purchased for 200Emir's Arenareward points, which doubles its bonuses.
+
+
+[Infobox]
+Released: 7 November2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A fabled ring that improves the wearer's skill with a bow...
+General Store Value: 10,000 coins
+High alch: 6,000 coins
+Low alch: 4,000 coins
+Weight: 0.004 kg
+Grand Exchange Value: 2,595,037 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 2,054
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +4
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +4
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Dagannoth Supreme | 303 | 1 | 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Abyssal Sire/Strategies(Phase 2 Ranged)
+2 | Adamant dragon/Strategies(Ranged)
+5 | Alchemical Hydra/Strategies(Ranged)
+2 | Ancient Wyvern/Strategies(Ranged)
+2 | Araxxor/Strategies(Ranged)
+2 | Aviansie/Strategies(Ranged)
+3 | Barbarian Assault/Strategies(Ranged (high level))
+1 | Barbarian Assault/Strategies(Ranged (mid level))
+3 | Basilisk Knight/Strategies(Ranged/Prayer)
+2 | Basilisk Knight/Strategies(Ranged)
+2 | Brutal black dragon/Strategies(Ranged)
+4 | Cerberus/Strategies(Ranged)
+2 | Chompy bird hunting/Strategy
+2 | Corporeal Beast/Strategies(Ranged masses)
+2 | Dagannoth Kings/Strategies(Range)
+5 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | Drake/Strategies(Ranged)
+2 | Galvek Speed-Trialist(Melee)
+2 | General Graardor/Strategies(Solo (Ranged 6:0))
+4 | General Graardor/Strategies(Ranged Tank)
+2 | General Graardor/Strategies(Ranged Attacker)
+3 | General Graardor/Strategies(Solo (Ranged 7:0))
+3 | Giant Mole/Strategies(Ranged)
+2 | Giant Mole/Strategies(Ranged Void)
+4 | Grotesque Guardians/Strategies(Melee)
+3 | K'ril Tsutsaroth/Strategies(Ranged)
+2 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+3 | Kalphite Queen/Strategies(High DPS (Phase Two))
+2 | King Black Dragon/Strategies(Ranged BIS smuggle)
+3 | Kree'arra/Strategies(Chinchompas)
+3 | Kree'arra/Strategies(Ranged Tank)
+3 | Kree'arra/Strategies(Tbow / Bowfa)
+2 | The Leviathan/Strategies(Ranged)
+4 | Lizardman shaman/Strategies(Ranged)
+5 | Maniacal monkey/Strategies(Ranged)
+2 | Metal dragons/Strategies(Ranged)
+2 | The Mimic/Strategies(Ranged)
+2 | Mithril dragon/Strategies(Ranged)
+3 | Nex/Strategies(Ranged)
+2, 4 | Nightmare Zone/Strategies(Ranged)
+2, 4 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+3 | Phantom Muspah/Strategies(Ranged)
+2 | Rune dragon/Strategies(Ranged)
+2 | Scurrius/Strategies(Range (high level))
+1 | Scurrius/Strategies(Range (mid level))
+2 | Skeletal Wyvern/Strategies(Ranged (Void))
+2 | Skeletal Wyvern/Strategies(Ranged)
+3 | Skeleton (Ape Atoll)(Ranged)
+2 | Skotizo/Strategies(Ranged)
+2 | Slayer task/Abyssal demons(Ranged)
+2 | Slayer task/Fossil Island wyverns(Ranged)
+2 | Slayer task/Jellies(Ranged)
+2 | Slayer task/Suqah(Ranged (North))
+2 | Slayer task/Wyrms(Ranged)
+2 | Slayer training(Ranged)
+2 | TzHaar Fight Cave/Strategies(Ranged)
+2 | Vorkath/Strategies(Ranged (crossbow))

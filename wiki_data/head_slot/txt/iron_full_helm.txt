@@ -1,0 +1,61 @@
+[Weapon: Iron Full Helm]
+
+
+TheIron full helmis afull helmmade ofiron. It is the second weakest full helmet available. While it grants greater defensive stats than itsmedium helmetcounterpart, it has worsemagicandrangedattack stats. There are noDefencerequirements for wearing this helmet.
+Players with level 22 Smithing can create an iron full helm by using twoiron barson ananvilwhile having ahammerin theirinventory. Doing so will grant the player 50 Smithingexperience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A full face helmet.
+General Store Value: 154 coins
+High alch: 92 coins
+Low alch: 61 coins
+Weight: 2.721 kg
+Respawn time: 700 ticks (420 seconds)
+Grand Exchange Value: 160 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 5,123
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +7
+- Crush: +5
+- Magic: -1
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Animated Iron Armour | 23 | 1 | Always | 
+Black Knight TitanNormal | 120 | 1 | 5/128 | N/A
+Black Knight | 33 | 1 | 2/128 | 
+Cyclops (Ardougne Zoo) | 56 | 1 | 5/128 | 
+Hill Giant (Kourend) | 28 | 1 | 5/128 | 
+Hill Giant (Varlamore) | 28 | 1 | 5/128 | 
+Hill Giant | 28 | 1 | 5/128 | 

@@ -1,0 +1,41 @@
+Name: Tz-Kih
+Combat Level: 22
+Size: 1x1
+Info:
+- Description: Some kind of bat...
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 10 xp
+- Category: TzHaar
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Burn: Immune to weak burns
+- Monster ID: 2189,2190,3116,3117
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 10
+Attack: 20
+Strength: 30
+Defence: 15
+Magic: 15
+Ranged: 30
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

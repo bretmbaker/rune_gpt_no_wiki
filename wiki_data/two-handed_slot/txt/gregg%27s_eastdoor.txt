@@ -1,0 +1,53 @@
+[Weapon: Gregg%27S Eastdoor]
+
+
+Gregg's eastdooris an item that can be obtained from participating in anyEaster event, and was first obtained from the2021 Easter event. It is a two-handed fun weapon, with a similar equipped stance to theDinh's bulwark. However, it does not share its attack styles with the Bulwark, instead having regularbluntattack styles.
+As afun weaponwith the lowest attack speed (and therefore lowest damage per second) out of all the fun weapons, Gregg's eastdoor is useful to bring into theWildernessto attack NPCs as anx-loggingmethod to escapeplayer killers. The reduced damage compared to other fun weapons increases the likelihood that the NPC you're attacking will survive the 60 seconds needed to forcefully logout.
+
+
+[Infobox]
+Released: 24 March2021(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: Hold the door!
+General Store Value: 0 coins
+Alchemy: Not alchemisable
+Weight: 0.1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -50
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 7 ticks (4.2s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

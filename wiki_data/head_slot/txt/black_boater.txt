@@ -1,0 +1,54 @@
+[Weapon: Black Boater]
+
+
+Theblack boateris a piece of headwear. There are no requirements to wear it and it does not provide any bonuses when worn.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 20 February2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Stylish!
+General Store Value: 225 coins
+High alch: 135 coins
+Low alch: 90 coins
+Weight: 0.01 kg
+Grand Exchange Value: 9,263 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 102
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 

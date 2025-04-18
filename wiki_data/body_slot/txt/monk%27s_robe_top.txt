@@ -1,0 +1,97 @@
+[Weapon: Monk%27S Robe Top]
+
+
+Monk's robe topis a part ofMonk's robesand can be found lying on the table upstairs in theEdgeville Monastery, which requires aPrayerlevel of 31 to enter. The monk's robe top is useful in that it provides a +6 Prayer bonus while having no requirements to wear.
+
+
+[Infobox]
+Released: 12 July2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I feel closer to the gods when I am wearing this.
+General Store Value: 40 coins
+High alch: 24 coins
+Low alch: 16 coins
+Weight: 0.907 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 652 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 16,227
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +6
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Coffin (Hallowed Sepulchre)Low | 66 | 1 | 1/10 | 
+Hallowed sack | N/A | 1 | 5 × 1/10 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Amoxliatl/Strategies(Melee)
+5 | Ancient Wyvern/Strategies(Prayer)
+1 | Aviansie/Strategies(Ranged - Low Risk)
+2 | Basilisk Knight/Strategies(Ranged/Prayer)
+5 | Calvar'ion/Strategies(Melee)
+5 | Crazy archaeologist/Strategies(Magic)
+5 | Dark beast/Strategies(Melee)
+5 | Deranged archaeologist/Strategies(Magic)
+1 | Ecumenical key/Strategies(Ranged)
+3 | Free-to-play Ironman guide(Magicgear)
+1 | Free-to-play Ironman guide(Prayermelee gear)
+3 | Free-to-play Magic training(Magicgear)
+4 | Giant Mole/Strategies(Melee & Prayer Budget)
+5 | King Black Dragon/Strategies(Melee BIS smuggle)
+3 | King Black Dragon/Strategies(4-item melee)
+5 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+4 | Maniacal monkey/Strategies(Ranged)
+5 | Maniacal monkey/Strategies(Magic - Ice Burst)
+5 | Nightmare Zone/Strategies(Melee (Prayer))
+5 | Revenants/Strategies(Magic)
+5 | Revenants/Strategies(Ranged)
+4 | Revenants/Strategies(Melee)
+2 | Scorpia/Strategies(Magic)
+5 | Slayer task/Fossil Island wyverns(Prayer)
+4 | Slayer task/Jellies(Magic)
+5 | Slayer training(Magic (Barrage))
+4 | Spindel/Strategies(Melee)
+5 | Sulliuscep/Strategies
+4 | Sulliuscep/Strategies
+5 | The Hueycoatl/Strategies(Melee)
+3 | TzHaar Fight Cave/Strategies(Pure)
+5 | Ultimate Ironman Guide/Slayer
+4 | Venenatis/Strategies(Melee)
+5 | Vet'ion/Strategies(Melee)
+5 | Volcanic Mine(Solo)
+4 | Volcanic Mine(Group)
+4 | Vyrewatch Sentinel/Strategies(AFK Prayer)
+3 | Why Fletch?(Redemption strategy at Wintertodt)

@@ -1,0 +1,46 @@
+[Weapon: Damaged Book (Bandos)]
+
+
+Thedamaged bookis a book held in the shield slot that can be obtained for 5,000coinsfromJossikafter completingHorror from the Deep. The fourBandos pagescan be added to upgrade it to thebook of war, which gives a damage bonus. Both the damaged and upgraded book count as agod itemforBandosin theGod Wars Dungeon.
+After completing Horror from the Deep, you are rewarded with a damaged book of your choice: either Saradomin, Guthix, or Zamorak. Youdo notneed to complete your current damaged book before obtaining a new one of a different type from Jossik. You can buy every damaged book in the same day. Dropping or destroying a damaged book and talking to Jossik results in him returning it to you.
+
+
+[Infobox]
+Released: 3 July2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Check, Drop
+Examine: An incomplete book of Bandos.
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Shield slot

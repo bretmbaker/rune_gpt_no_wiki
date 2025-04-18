@@ -1,0 +1,47 @@
+[Weapon: Black H%27Ween Mask]
+
+
+TheBlack h'ween maskis an untradeable event item rewarded after completing aHalloween event.
+If destroyed, a replacement can be obtained fromDiangoinDraynor Villageor from thetoy boxof acostume room.
+
+
+[Infobox]
+Released: 24 October2013(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get another black mask from Diango.
+Examine: Aaaarrrghhh, I'm an old-school monster!
+General Store Value: 7 coins
+High alch: 4 coins
+Low alch: 2 coins
+Weight: 0.34 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

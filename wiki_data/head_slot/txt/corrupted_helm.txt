@@ -1,0 +1,47 @@
+[Weapon: Corrupted Helm]
+
+
+Thecorrupted helmis an item introduced during theChristmas corrupt cluefest, obtained by talking toAbbot Langleyat theEdgeville Monasterywith abowl of hot water,soft clay, andleather boots.
+It has stats identical to that of aniron full helm.
+
+
+[Infobox]
+Released: 14 December2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You will have to discover it again.
+Examine: The helmet of a forgotton warrior, corrupted by the dark altar.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +7
+- Crush: +5
+- Magic: -1
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

@@ -1,0 +1,49 @@
+[Weapon: Bandana Eyepatch (White)]
+
+
+The whitebandana eyepatchis a piece of headwear that is made by taking awhite pirate bandanaand aright eye patchtoPatchyonMos Le'Harmless, and paying him 500coinsto sew them together. He can also remove them from each other for 600 coins.
+When asked why it costs more to take the items apart, he will state that it is due to "wear and tear on scissors".
+
+
+[Infobox]
+Released: 4 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Essential pirate wear.
+General Store Value: 100 coins
+High alch: 60 coins
+Low alch: 40 coins
+Weight: 1 kg
+Grand Exchange Value: 683 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 1
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

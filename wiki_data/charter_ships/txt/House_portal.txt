@@ -1,0 +1,78 @@
+[Page: House_portal]
+
+Portal
+
+Released | 31 May2006(Update)
+
+Members | Yes
+
+Quest | No
+
+Location | Rimmington
+
+Options | Enter, Home, Build mode, Friend's house
+
+Examine | Home sweet home?
+
+Advanced data
+
+Object ID | 15478
+
+Link | MOID
+
+Thehouse portal, commonly referred to as aPOH portal, is the entrance to aplayer-owned house(POH), the main feature of theConstructionskill.House Advertisementsare also found next to these portals, in which players can check whether advertised houses contain frequently used features.
+
+To use the portal, left-click on the portal and then choose one of the four presented options:
+
+Enter your own house (only works if your house is in the same location as the portal)Enter your own house in building mode (only works if your house is in the same location as the portal)Go to another player's house (only works if their house is in the same location as the portal, they are on the same world and they have private chat set so that you can message them)Take no action
+
+Travelling to house portals[edit|edit source]
+
+The most basic way to get to a house is by walking to the portal that is in the location of the house. At level 40Magic, players can use theTeleport to Housespell to teleport directly into the player's own house. Using a houseteleport tabletis another option that only uses oneinventoryspace and does not require a Magic level to use. In the house options screen, players can choose whether the house teleports land the player in the house itself or outside the portal. TheConstruction capeprovides unlimited teleports to the player's own house and to all the house portals regardless of house location.
+
+House portal locations[edit|edit source]
+
+Estate agentscan move a player's house from its starter location in Rimmington to any of the other house portal locations identified by the portalicon on the map. These locations areRimmington,Taverley,Pollnivneach,Hosidius,Rellekka,Aldarin,Brimhaven,Yanille, andPrifddinas. Each location requires a certainConstructionlevel (not boostable), and theestate agentcharges a fee for each move. The details are shown in the table below.
+
+Location | Level | Cost to move | Map
+
+Rimmington | 1 | 5,000 | Show map
+
+Taverley | 10 | 5,000 | Show map
+
+Pollnivneach | 20 | 7,500 | Show map
+
+Hosidius[t 1] | 25 | 8,750 | Show map
+
+Rellekka | 30 | 10,000 | Show map
+
+Aldarin[t 2] | 35 | 12,500 | Show map
+
+Brimhaven | 40 | 15,000 | Show map
+
+Yanille | 50 | 25,000 | Show map
+
+Prifddinas[t 3] | 70 | 50,000 | Show map
+
+Additional house location info[edit|edit source]
+
+Location | Advantages | Disadvantages | Skill Usage
+
+Rimmington | Best location for aGilded altar, since the nearbyRimmington General StorehasPhialswho can unnote your items. On officialhouse partyworlds you can use other people's altars through thehouse advertisement.There are 2oak treesonly steps away from the portal, and 4yew treesjust west of the portal.Willow treescan be found just south of Rimmington.The nearby mine has 2clay rockson the far east side.Nearby toPort SarimandPest Control.There is abush patchright next to the house portal.Bank is not far away via boat toCorsair Cove(requires completion of Corsair Curse quest.) | Relatively far from abankif Corsair Curse not completed. | ConstructionWoodcuttingFletchingFiremakingPrayer
+
+Taverley | Close to theHeroes' Guildfor quickamulet of gloryrecharging.Taverley Dungeonlocated nearby to the south.Dwarven underpass toCatherbynearby, along with theKeldagrim mine cart system.Vialsandeyes of newtavailable in thenearby store.Can use agames necklaceto teleport close to portal.Close to Taverleytree patch. | Far fewer nearby resources compared to Rimmington.Nearestbankis theRogues' Den. | HerbloreCombat
+
+Pollnivneach | Close to theSmoke Dungeon.FasterAncient Magicksaccess.The town has arooftop agility coursefor those with 70+Agility.Easy desert access and twomagic carpetstations nearby. | Far from anything truly useful.Closestbankis inNardahbut you may take a carpet to theShantay Pass. | ThievingCombatAgility
+
+Hosidius | FarmingAllotment,flowerandherbpatch to the north. (With completion of theeasy Kourend & Kebos Diaryit will be permanently protected from disease)Farmerjust to the north of thePOH portaldropsseedsVinerylocated short distance north-east ofPOH portalTithe Farmminigamelocated short distance north-east ofPOH portalThievingFruit Stallis just south-east of the portal.Level 7Farmerjust north of the portal topickpocket.WoodcuttingLarge number ofTrees,Dead trees, andoak treesjust outside portalTwomagic treesjust east of portal.Junipertrees slightly south of portalWoodcutting guildwith MANY trees nearby. Run just south-west of portal, across log, then slightly north-west.CombatSlightly south of portal isSand CrabsCrabclaw Isleis just south of portal past thefruit stallConstructionClose toBarbara, a potential client inMahogany HomesWoodcutting guildis just south-west of portal, across log, then slightly north-west.OtherOnion,grain,cabbage,windmill,dairy churn, andloomare just north of portal | Fairly remote from Main area ofRunescapeOther locations may be better suited | FarmingThievingConstructionCombat
+
+Rellekka | Close to the marketplace and adairy churn.Provides quick access to theSlayer DungeonandKeldagrim.Nearby are manyseaweedrespawns, as well as asand pitandfurnacefor makingmolten glass.Nearby mine containsclayfor makingteleportation tabletsandpottery.Easy access to theLunar Isle,Waterbirth Island,Neitiznot,Jatizso,UngaelandMiscellania.Theenchanted lyre(i)andachievement diary capeoffer unlimited teleports to Rellekka and Thorodin, respectively, both very close to the house portal functioning as budgetConstruct. capes. | You will need many house teleport tablets to use Rellekka effectively, as there is nobankin town. | WoodcuttingFletchingCombat
+
+Aldarin | Closest portal to acharter shipand theQuetzal Transport System.Close toMastering Mixology.Close toMoonrise Wines, where players can purchaseIxcoztic whiteorChichilihui roséfor only 100 coins, both of which heal 16 Hitpoints.Nearby villas containcheststhat are a good source ofmedium clue scrolls.Close to a bank, along with manymaple treesthat are also close to said bank.Can teleport close to the portal via thependant of ates, allowing for easy access to the house withoutTeleport to House. | Can teleport close to the portal via the pendant of ates, allowing for easy access to Aldarin without needing to move the house there. | HerbloreThievingWoodcutting
+
+Brimhaven | Karamjaaccess.Brimhaven Dungeonis right next to the house portal.Brimhaven Agility Arenais very close.Close to theNature Altar.Close to afruit tree patchand acalquat tree patch.Close to theShilo Villagecart, and subsequently close toDuradeltheSlayer master. | No usable trees, few resources.Requires at least 30coinsto enter the area unless you use house teleports, gnome gliders,Karamja gloves, or thering of charos. | SlayerAgilityFarming
+
+Yanille | Very close to afairy ring(CIQ) for travelling to or from Yanille to many places. Partial completion ofFairytale II - Cure a Queenis required to use the fairy rings.Nightmare ZoneGrouping teleportcan be used to access Yanille easily if a player has lowMagic.Bankjust down the road.Thecooking ingredient shopis nearby, making Yanille the best spot for chefs.There arecowslocated north of the city walls.Hunter shopnearby.Can bypass the need for theWatchtower Teleportif you have 40 Magic.Castle Wars,Fishing Trawler, andNightmare Zoneminigamesare nearby.A useful spot to use an elemental balance if you or a friend has 66 Magic.Thebarthat sellsdragon bitteris nearby, making it easy to build a barrel of it here.Provides convenient access toBert. AfterThe Hand in the Sand, players can claim 84buckets of sandfrom him, once daily. This may prove especially useful forIronman modeaccounts. | Takes a long time to reach this location without teleports. | CookingPrayerHunter
+
+Prifddinas | Players can set theirrespawn pointto Prifddinas.A bank can be found a short distance from the house portal.Nearby access to theSpirit Treenetwork as well ascharter ships.Quick access toZalcanoandThe Gauntletactivities.Quick access toElunedandIlfeento recharge crystal weapons and teleport crystals.The city is also home to several means of training mid to high-level skills, many of which can providecrystal shards.Agility: The city has a nearbyagility coursefor those with 75+ Agility.Crafting: Asinging bowlcan be found just south of the house portal. There is also atanner,loom,spinning wheel, and the closestsand pitto a bank in the game.Construction: On the far east side of the city is aSawmill Operator.Farming: Access to twoallotment patches, aflower patch, and thecrystal treepatch.Herblore: A nearby shop sells vials and eyes of newt.Hunter: Directly north of Prifddinas is acarnivorous chinchompahunting area.Mining: The nearbyTrahaearn minecan be accessed, wheresoft claycan be mined without abracelet of clayand has severaladamantiteandrunite rocks.Slayer: TheIorwerth Dungeonis home to a variety of Slayer Monsters.Smithing: Prifddinas holds the closestfurnace(except for Shilo Village) andanvilto a bank in the game, which also has the furnace directly next to an anvil.Thieving: The city hosts several stalls andPickpockettargets for those with 85Thieving.Woodcutting: There are severalteakandmahogany treesnear the Sawmill Operator, as well as severalyewandmagic treeswithin city walls. | Requires the completion ofSong of the Elvesto access, meaningthose who have not completed the quest cannot visit.Those unfamiliar with the city can easily find themselves getting lost, unable to find the many, spaced out features. | AgilityCraftingConstructionFarmingHerbloreHunterMiningSlayerSmithingThievingWoodcutting
+

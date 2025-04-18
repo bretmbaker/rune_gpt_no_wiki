@@ -1,0 +1,117 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Pirate's Treasure (#16)
+
+
+
+
+
+Released | 11 June 2001 ( Update )
+
+Members | No
+
+Quest series | None
+
+Lead developer(s) | Paul Gower
+
+
+
+Pirate's Treasure is a quest in which you help the pirate Redbeard Frank obtain some Karamjan rum in return for the location of the treasure of One-Eyed Hector , his old captain.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Redbeard Frank at the northernmost dock at Port Sarim , just outside The Rusty Anchor . Show on map
+
+Official difficulty | Novice
+
+Official length | Very Short
+
+Description | Redbeard Frank knows the location of pirate treasure, but he'll only part with the knowledge for a bottle of Karamjan rum .
+
+Requirements | Able to defeat or run away from a Combat level 4 gardener .
+
+Items required | Karamjan rum (obtainable during the quest for 30 coins) White apron (obtainable during the quest in Port Sarim at Gerrant's Fishy Business. ) 60 coins (only 30 is needed if using a Ring of charos(a) ) 10 bananas (obtainable during the quest) Spade (obtainable during the quest)
+
+Recommended | Varrock Teleport Falador Teleport
+
+Enemies to defeat | Gardener (level 4, optional)
+
+League notes | Asgarnia ✓ — location requirement Unlocking Morytania ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Captain Redbeard [ edit | edit source ]
+
+Talk to Redbeard Frank (located in front the northernmost dock in Port Sarim ). He wants you to get some Karamjan rum before he'll tell you the location of the treasure. If you have already completed the quest Rum Deal , your character will ask Redbeard Frank if Braindead Rum will work.
+
+Walk south on the docks to see three sailors (NOT the Monks of Entrana ). Talk to any one of these sailors to board the ship to Karamja for 30 coins (or, using a Ring of Charos (a) , persuade them to let you sail for free).
+
+The island of Karamja [ edit | edit source ]
+
+When you arrive in Karamja, follow the path to the west and enter the first hut on the right.
+
+Here you will find Luthas . Ask for a job, and he will hire you as his worker. Agree to help him. Enter the banana plantation beside his house and pick 10 bananas from the trees.
+
+Note: If you mention the customs officer, he says that his crates are not searched.
+
+Note : Picking 5 bananas is an easy Karamja Diary task.
+
+When you have collected 10 bananas , go to the bar ( Karamja Wines, Spirits, and Beers ) opposite the banana plantation
+
+Once at Karamja Wines, Spirits, and Beers you will find the bartender Zembo . Trade with him to buy one Karamjan rum for 30 coins.
+
+Note: Do not leave the island with the rum in your inventory. If you do, the officers will take your rum away, as Asgarnia has banned the import of intoxicating spirits. If you try to teleport off the island, the bottle will break. The bottle will also break if you accept a random event where you are temporarily teleported to the event location to perform the task.
+
+Now you should have 10 bananas and 1 Karamjan rum .
+
+Go back to Luthas hut and find the crate on the side of his hut. Here you will use the Karamjan rum on the crate to hide it ( If you get a message saying "Why would I want to do that?" try asking for employment, then hide the Karamjan rum ) .
+
+Now you must get all 10 bananas into the crate . You can use the "Fill-Crate" option to expedite this process.
+
+Once the crate is full, talk to Luthas . He will pay you 30 coins. Ask him where the crate goes, and he will tell you they go to Wydin , who owns the food store in Port Sarim . You can use Luthas' payment to pay your fare back to Port Sarim (or, once you've been searched, you can use a Ring of Charos (a) to persuade the customs officer to let you ride for free). Travel back to Port Sarim.
+
+Back at Port Sarim [ edit | edit source ]
+
+Once you are in Port Sarim, make a quick stop at the fishing shop just to the west. Hanging on the back wall is a white apron . Take it and wear it (the white apron in the back of Wydin's store is inaccessible at this point).
+
+Talk to Wydin at his food store directly south of the fishing shop, and ask him for a job. He will agree if you're wearing your white apron . Enter the back room and search the crate with a banana on top of it. You will find the rum. Do not teleport with it in your inventory. Head back to Redbeard Frank and give him the drink.
+
+Frank will give you a key to the chest found upstairs in Varrock's Blue Moon Inn . Travel or teleport to Varrock , and head to the Blue Moon Inn (it's the pub located just north of the city's southern gate). Go upstairs and find the chest in the room at the end of the hall. Use the key on the chest to find a pirate message . It will give you a clue to the treasure's location. Be sure to read the clue . Now, travel or teleport to Falador , the city of the White Knights .
+
+Buried treasure [ edit | edit source ]
+
+Once in Falador, grab a spade from the estate agency just south-west of the park. With the spade in your inventory, head to the park. Find the statue of Saradomin in the middle of the park, and notice where it's pointing. Note the configuration of the dirt, which vaguely makes an X. Stand in the middle of the dirt "X" and dig.
+
+An angry level-4 gardener will appear and attack you. Kill him, or run out of the park, and dig again in the same spot to get a casket and complete the quest.
+
+Congratulations, Quest Complete!
+
+Reward [ edit | edit source ]
+
+2 Quest points Ability to use the pay-fare option to and from Karamja . Access to One-Eyed Hector's Treasure Chest (contains a gold ring , an emerald , and 450 coins ).
+
+Required for completing [ edit | edit source ]
+
+Completion of Pirate's Treasure is required for the following:
+
+Cabin Fever
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Trivia [ edit | edit source ]
+
+When using the Casket received as a reward for completing the quest on Redbeard Frank, the player's character offers to share the treasure with him, but he refuses and insists that the player should keep all of it for their own as they have earned it. When the quest was first released, the Karamja rum was tradeable and the bottles would not break if players tried to teleport. Some players simply bought a whole load of rum and sold it to players doing the quest, allowing them to skip a large part of it. When this was posted on fan forums, a Jagex developer saw it and the problem was soon corrected. If you have completed Rum Deal prior to starting this quest, you will ask Redbeard Frank if Braindeath 'Rum' will do instead instead of Karamjan rum, in which case Redbeard refuses immediately, calling it 'swill'. If you give Redbeard Frank some Karamja rum with sliced banana in it, he will take it at first, but will give it back when talked to again, stating that he doesn't like bananas in his rum. If you give Redbeard Frank some Karamja rum with a banana stuffed in in, he will take it at first, but will give it back, saying "Arr - this here rum's got a banana stuck in it!". As the completed quest journal text indicates, it was at one time necessary to complete the quest in order to travel between Port Sarim and Musa Point, as well as to continue to work for Luthas.
+
+v • t • e Pirate's Treasure
+
+NPCs | Redbeard Frank One-Eyed Hector Customs officer Luthas Wydin Enemies Gardener |  | Redbeard Frank One-Eyed Hector Customs officer Luthas Wydin | Enemies | Gardener
+
+ | Redbeard Frank One-Eyed Hector Customs officer Luthas Wydin
+
+Enemies | Gardener
+
+Items | Karamjan rum Pirate message Casket Chest key
+
+Related | Quick guide Transcript

@@ -1,0 +1,67 @@
+[Weapon: Tome Of Water#Charged]
+
+
+Thetome of wateris a book held in place of ashieldthat is a possible reward fromTempoross. The tome of water requires level 50 inMagicto wield.
+Empty tomes can be traded in for 25soaked pagesper tome (value of51,650) by speaking to theretired sailor. Non-ironmenplayers are recommended to sell excess tomes on the Grand Exchange instead, as they are far more valuable when sold to other players.
+
+
+[Infobox]
+Released: 24 March2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Pages, Drop
+Worn options: Pages
+Examine: An ancient tome containing the secrets of water magic.
+General Store Value: 19,500 coins
+High alch: 11,700 coins
+Low alch: 7,800 coins
+Weight: 1 kg
+Grand Exchange Value: 553,548 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 268
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +8
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +8
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward pool | N/A | 1 | 1/1,600 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Drake/Strategies(Magic)
+5 | Dust devil/Strategies(Bursting/Barraging)
+1 | Giant Mole/Strategies(Magic)
+4 | Guardians of the Rift/Strategies(Runecrafting)
+1 | Nightmare Zone/Strategies(Magic)
+5 | Slayer task/Abyssal demons(Magic)
+1 | Tempoross/Strategies(Solo No Cooking)
+1 | Tempoross/Strategies(Solo Cooking + Firefighting (Max Permits))

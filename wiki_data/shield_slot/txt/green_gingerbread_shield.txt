@@ -1,0 +1,47 @@
+[Weapon: Green Gingerbread Shield]
+
+
+TheGreen gingerbread shieldis an untradeable cosmeticshield. It was originally a reward from the2019 Christmas event, and can be obtained by completing one of theChristmasholiday eventsthat occur once per year. Right-clicking on a green gingerbread shield transforms it into aRed gingerbread shield.
+If destroyed, a replacement can be obtained fromDiangoinDraynor Villageor from thetoy boxof acostume room.
+
+
+[Infobox]
+Released: 11 December2019(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Transform, Destroy
+Worn options: Transform
+Destroy: You can get a replacement from Diango.
+Examine: A delicious looking Gingerbread Gnome.
+General Store Value: 0 coins
+Alchemy: Not alchemisable
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

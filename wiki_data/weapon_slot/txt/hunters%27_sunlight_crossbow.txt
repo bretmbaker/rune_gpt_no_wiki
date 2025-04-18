@@ -1,0 +1,89 @@
+[Weapon: Hunters%27 Sunlight Crossbow]
+
+
+Thehunters' sunlight crossbowis an upgraded variant of thehunters' crossbowthat requires level 66Rangedand 50Hunterto use. It is made with level 74Fletchingby using asunlight antelope antleron the hunters' crossbow with a chisel in inventory.
+The crossbow usessunlightormoonlight antler bolts, and works withgrapples. Despite being an upgrade from the hunter's crossbow, it cannot be used to firekebbitnorlong kebbit bolts.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A weapon made of horn and bone.
+General Store Value: 1,300 coins
+High alch: 780 coins
+Low alch: 520 coins
+Weight: 6 kg
+Grand Exchange Value: 5,403 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 4,314
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +79
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Heavy | Accurate | 4 ticks (2.4s) | 8 tiles |  | +3 Ranged
+ | Rapid | Heavy | Rapid | 3 ticks (1.8s) | 8 tiles |  | None
+ | Longrange | Heavy | Longrange | 4 ticks (2.4s) | 10 tiles |  | +3 Defence
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Ancient Wyvern/Strategies(Ranged)
+2 | Araxxor/Strategies(Araxyte weapon)
+4 | Aviansie/Strategies(Ranged)
+2 | Barrows/Strategies(Ranged (Ahrim))
+1 | Basilisk Knight/Strategies(Ranged/Prayer)
+1 | Basilisk Knight/Strategies(Ranged)
+3 | Brutal black dragon/Strategies(Ranged)
+4 | Chaos Fanatic/Strategies(Ranged)
+4 | Commander Zilyana/Strategies(Ranged)
+4 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+4 | Dagannoth Kings/Strategies(Range)
+4 | Demonic gorilla/Strategies(upgrades and downgrades)
+3 | Drake/Strategies(Ranged)
+4 | Grotesque Guardians/Strategies(Ranged switches)
+4 | King Black Dragon/Strategies(Crossbow)
+4 | Lizardman shaman/Strategies(Ranged)
+4 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+3 | Revenants/Strategies(Ranged)
+3 | Royal Titans/Strategies(Mid-game)
+2 | Royal Titans/Strategies(Minimal gear switching)
+2 | Scurrius/Strategies(Range (mid level))
+2 | Skeletal Wyvern/Strategies(Ranged)
+2 | Slayer task/Fossil Island wyverns(Ranged)
+2 | Slayer task/Gargoyles(Ranged)
+2 | Slayer task/Suqah(Ranged (North))
+4 | Tormented Demon/Strategies(Ranged switch)
+2 | TzHaar Fight Cave/Strategies(Early-game iron)
+3 | Ultimate Ironman Guide/Equipment
+3 | Zulrah/Strategies(Ranged)

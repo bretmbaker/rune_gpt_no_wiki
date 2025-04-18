@@ -1,0 +1,145 @@
+[Shop: Sword]
+
+Sword
+
+
+
+
+
+
+
+Primarytype | Stab
+
+Secondarytype | Slash
+
+
+
+Attack speed
+
+
+
+4 ticks (2.4 seconds)
+
+
+
+Swords, also referred to by players asshortswords, are fast stabbingweaponsthat are stronger thandaggers. While a sword is best at stabbing, players can also use it as a slashing weapon. It is generally a good weapon with all-round stats and isn't too expensive. Like most melee weapons, swords cannot be poisoned.
+
+Swords aren't often used by players, as most prefer strongerscimitarsthat also attack at the same speed, or weaker but poison-abledaggers.Longswordsare another option, as they have slightly higher slash and strength bonuses than scimitars, with moderate stab bonuses, but are slower.
+
+Combat styles[edit|edit source]
+
+Combat style | Attack type | Weapon style | Experience | Level boost
+
+ | Stab | Stab | Accurate |  | +3 Attack
+
+ | Lunge | Stab | Aggressive |  | +3 Strength
+
+ | Slash | Slash | Aggressive |  | +3 Strength
+
+ | Block | Stab | Defensive |  | +3 Defence
+
+Standard swords[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze sword | 4 | 3 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 5 | 0% | 0 | 0 | 1.814 | 
+
+ | Iron sword | 6 | 4 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 7 | 0% | 0 | 0 | 1.814 | 
+
+ | Steel sword | 11 | 8 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 12 | 0% | 0 | 0 | 1.814 | 
+
+ | Black sword | 14 | 10 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 12 | 0% | 0 | 0 | 1.814 | 
+
+ | White sword | 14 | 10 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 12 | 0% | 0 | 1 | 1.814 | 
+
+ | Mithril sword | 16 | 11 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 17 | 0% | 0 | 0 | 1.587 | 
+
+ | Adamant sword | 23 | 18 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 24 | 0% | 0 | 0 | 2.041 | 
+
+ | Rune sword | 38 | 26 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 39 | 0% | 0 | 0 | 1.814 | 
+
+ | Dragon sword | 65 | 55 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 63 | 0% | 0 | 0 | 1.814 | 
+
+Other swords[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Anger sword | 2 | 2 | 2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0% | 0 | 0 | 1.814 | 
+
+ | Training sword | 4 | 3 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 5 | 0% | 0 | 0 | 1.814 | 
+
+ | Wooden sword | 4 | 3 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 5 | 0% | 0 | 0 | 1.814 | 
+
+ | Wilderness sword 1 | 6 | 4 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 7 | 0% | 0 | 0 | 1.814 | 
+
+ | Spork | 11 | 8 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 12 | 0% | 0 | 0 | 1.814 | 
+
+ | Wilderness sword 2 | 11 | 8 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 12 | 0% | 0 | 0 | 1.814 | 
+
+ | Dual sai | 11 | 8 | -4 | -4 | 0 | 0 | 0 | 0 | 0 | 0 | 14 | 0% | 0 | 0 | 1.36 | 
+
+ | Wilderness sword 3 | 16 | 11 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 17 | 0% | 0 | 0 | 1.814 | 
+
+ | Wilderness sword 4 | 23 | 18 | -2 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 24 | 0% | 0 | 0 | 1.814 | 
+
+ | Rapier | 45 | 7 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 44 | 0% | 0 | 0 | 1.814 | 
+
+ | Toktz-xil-ak | 47 | 38 | -2 | 0 | 0 | 2 | 3 | 0 | 0 | 0 | 49 | 0% | 0 | 0 | 1.814 | 
+
+ | Leaf-bladed sword | 67 | 62 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 50 | 0% | 0 | 0 | 1.814 | 
+
+ | Ghrazi rapier | 94 | 55 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 89 | 0% | 0 | 0 | 1.814 | 
+
+v•t•eWeapons
+
+Melee | StabPickaxeHarpoonDaggerSwordHastaSpearPartisanSlashSickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberdCrushBannerBlackjackCanePolestaffMaceMaulWarhammer | Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan | Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd | Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan
+
+Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd
+
+Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Magic | StaffBattlestaffCrozierMystic staffPowered staffBladed staffWand
+
+Ranged | ShortbowLongbowComposite bowCrossbowBallistaThrownDartThrowing knifeThrowing axeChinchompa |  | ShortbowLongbowComposite bowCrossbowBallista | Thrown | DartThrowing knifeThrowing axeChinchompa
+
+ | ShortbowLongbowComposite bowCrossbowBallista
+
+Thrown | DartThrowing knifeThrowing axeChinchompa
+
+Other | DefenderSalamanderShieldFun weapons
+
+v•t•eStab weapons
+
+Daggers | StandardBronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)Abyssal(bh)BoneDarkGlowingKerisWolfbane | Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr) |  | Abyssal(bh)BoneDarkGlowingKerisWolfbane
+
+Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)
+
+ | Abyssal(bh)BoneDarkGlowingKerisWolfbane
+
+Swords | StandardBronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)TrainingWoodenRapierLeaf-bladedToktz-xil-akGhrazi rapier(holy)Osmumten's fang(or) | Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr) |  | TrainingWoodenRapierLeaf-bladedToktz-xil-akGhrazi rapier(holy)Osmumten's fang(or)
+
+Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)
+
+ | TrainingWoodenRapierLeaf-bladedToktz-xil-akGhrazi rapier(holy)Osmumten's fang(or)
+
+Spears | StandardBronzeIronSteelBlackMithrilAdamantRune(gilded)Dragon(cr)BoneGuthan'sLeaf-bladedVesta'sZamorakian | Standard | BronzeIronSteelBlackMithrilAdamantRune(gilded)Dragon(cr) |  | BoneGuthan'sLeaf-bladedVesta'sZamorakian
+
+Standard | BronzeIronSteelBlackMithrilAdamantRune(gilded)Dragon(cr)
+
+ | BoneGuthan'sLeaf-bladedVesta'sZamorakian
+
+Hastae | StandardBronzeIronSteelMithrilAdamantRune(gilded)DragonZamorakianDragon hunter lance | Standard | BronzeIronSteelMithrilAdamantRune(gilded)Dragon |  | ZamorakianDragon hunter lance
+
+Standard | BronzeIronSteelMithrilAdamantRune(gilded)Dragon
+
+ | ZamorakianDragon hunter lance
+
+Kitchen weaponry | Egg whiskKitchen knifeSpork
+
+Other | CattleprodDual saiKeris partisan(breaching) (corruption) (sun)Swift blade

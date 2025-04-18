@@ -1,0 +1,48 @@
+[Weapon: Tyras Helm]
+
+
+Thetyras helmis a helmet that can be worn with aDefencelevel of 5. It is nearly identical in statistics to thesteel full helm, although it provides a slightly better ranged attack bonus. To obtain a Tyras helm, the player can either buy one fromTrader Stan's Trading Postor from another player. The helmcannotbe smithed.
+
+
+[Infobox]
+Released: 22 August2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: As used by King Tyras' personal guard.
+General Store Value: 550 coins
+High alch: 330 coins
+Low alch: 220 coins
+Weight: 0.907 kg
+Grand Exchange Value: 1,347 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 6
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +10
+- Crush: +7
+- Magic: -1
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

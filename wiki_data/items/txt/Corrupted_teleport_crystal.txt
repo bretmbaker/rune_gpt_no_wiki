@@ -1,0 +1,1 @@
+Corrupted teleport crystalis a single-use item received when starting theCorrupted Gauntlet. It teleports players back to the starting room.

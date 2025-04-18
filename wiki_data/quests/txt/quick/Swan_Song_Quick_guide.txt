@@ -1,0 +1,69 @@
+ | This quest has an in-depth guide . It contains a more detailed description of dialogue, cutscenes, and storyline.
+
+Details [ edit | edit source ]
+
+Start point | The Piscatoris Fishing Colony . It can be reached via a boat trip from the river to the west of the Tree Gnome Stronghold . Show on map
+
+Official difficulty | Master
+
+Official length | Medium
+
+Description | Out on the edge of the known world, the Piscatoris Fishing Colony stands on the brink of disaster. Angry sea trolls are emerging from the sea and attacking the colonists, preventing them from harvesting the valuable monkfish that live in those waters. A highly experienced adventurer will be needed to drive back the trolls for good. The Colony's director, Herman Caranos, has a particular adventurer in mind: the notoriously amoral Wise Old Man of Draynor Village (allegations of his involvement in a spectacular bank robbery have never been substantiated). If you're in the mood for a bit of combat, jump on the boat on the west side of the Gnome Stronghold, speak to the Colony's director and prepare to fight alongside the Wise Old Man as he embarks on his final adventure - his swan song .
+
+Requirements | 100 Quest points 66 Magic ( boostable ) ( not required to start ) 62 Cooking ( boostable ) ( not required to start ) 62 Fishing ( boostable ) ( not required to start ) 45 Smithing ( boostable ) ( not required to start ) 42 Firemaking ( boostable ) ( not required to start ) 40 Crafting ( boostable ) ( not required to start ) Completion of the following quests: One Small Favour Rune Mysteries Shilo Village Jungle Potion Druidic Ritual Garden of Tranquillity Creature of Fenkenstrain Priest in Peril The Restless Ghost The ability to defeat a combat level 170 monster, which is able to use Magic , Melee and can drain Prayer .
+
+Items required | 10 mist runes 10 lava runes 5 blood runes 7 bones (obtainable during the quest) An airtight pot – created by using a pot lid on a pot A pot , or a soft clay if making your own pot during quest, or a pickaxe (obtainable during the quest) if mining your own clay during quest A pot lid , or a soft clay if making your own pot lid during quest (note: 2 soft clay needed if making both pot and pot lid ), or a pickaxe (obtainable during the quest) if mining your own clay during quest 5 iron bars , or a pickaxe (obtainable during the quest) if mining your own iron during quest 1 set of logs of any kind, or an axe (obtainable during quest) if chopping your own logs during quest A tinderbox (obtainable during the quest) A hammer (obtainable during the quest) A small fishing net (given to you during the quest if you do not have one) A brown apron (given to you during the quest if you do not have one)
+
+Recommended | 60 Combat level Teleportation method to the Piscatoris Fishing Colony : Several Piscatoris teleports can be used to teleport there directly A Dramen staff or Lunar staff – if using fairy rings A K Q 50 coins or a ring of charos – if using Kathy Corkat 's boat from west of Tree Gnome Stronghold An amulet of glory (to teleport to Draynor Village ) A skills necklace (to teleport to the Crafting Guild ) Watchtower teleport runes or tablet (requires completing Watchtower ), or Nightmare Zone Grouping teleport It is best to bring 4 to 5 Admiral pies if boosting Fishing level. Some prayer potions (to offset the Sea Troll Queen 's magical Prayer -draining attacks) Some good food/healing Cooking gauntlets (to reduce the chance of burning the 5 Monkfish caught during the quest)
+
+Enemies to defeat | 11 Sea trolls (1 each of levels 65/87/101 and 8 of level 79) Sea Troll Queen (level 170)
+
+Ironman concerns | Consider purchasing the necessary combination runes from the Rewards Guardian in the Mage Training Arena .
+
+League notes | Unlocking Desert ✓ will auto-complete the quest Unlocking Fremennik ✓ will auto-complete the quest Unlocking Kandarin ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Note : With a high enough combat level, it is possible to have all required items worn and in a single inventory. There is also an opportunity to use the Yanille bank during the quest if needed.
+
+Trollish [ edit | edit source ]
+
+The Wise Old Man [ edit | edit source ]
+
+Battle at the Colony [ edit | edit source ]
+
+Repairing the Colony [ edit | edit source ]
+
+Raising an Army [ edit | edit source ]
+
+Note : You must exit the colony to use the Nightmare Zone minigame teleport to reach Yanille .
+
+Note : The southern portal on the 2 nd floor [ UK ] 3 rd floor [ US ] of the Wizards' Guild will teleport you to the Dark Wizards' Tower , just north-west of Malignius Mortifer .
+
+Note : Malignius Mortifer will refuse to give you bone seeds if you are wearing or holding Saradomin-affiliated gear. It is not suggested to drop any gear as you will be teleported back to the Fishing Colony.
+
+The Final Battle [ edit | edit source ]
+
+Rewards [ edit | edit source ]
+
+2 Quest points 15,000 Magic experience 10,000 Prayer experience 50,000 Fishing experience 25,000 coins Access to the Piscatoris Fishing Colony The ability to fish monkfish The ability to use Skeleton Mages for training Use Kathy Corkat 's boat for free Access to the following items from Malignius Mortifer upon request: A brown apron Bone seeds (requires an airtight pot )
+
+Required for completing [ edit | edit source ]
+
+Making Friends with My Arm Western Provinces Diary (Hard)
+
+v • t • e Swan Song
+
+NPCs | Arnold Lydspor Wise Old Man Kathy Corkat George Laxmeister Franklin Caranos Herman Caranos Devin Mendelberg Ramara du Croissant Wizard Frumscone Malignius Mortifer Enemies Skeleton Mage Sea troll Sea Troll General Sea Troll Queen |  | Arnold Lydspor Wise Old Man Kathy Corkat George Laxmeister Franklin Caranos Herman Caranos Devin Mendelberg Ramara du Croissant Wizard Frumscone Malignius Mortifer | Enemies | Skeleton Mage Sea troll Sea Troll General Sea Troll Queen
+
+ | Arnold Lydspor Wise Old Man Kathy Corkat George Laxmeister Franklin Caranos Herman Caranos Devin Mendelberg Ramara du Croissant Wizard Frumscone Malignius Mortifer
+
+Enemies | Skeleton Mage Sea troll Sea Troll General Sea Troll Queen
+
+Items | Bone seeds Fresh monkfish Herman's book Iron sheet
+
+Locations | Piscatoris Fishing Colony
+
+Music | Making Waves Last Stand
+
+Related | Quick guide Transcript

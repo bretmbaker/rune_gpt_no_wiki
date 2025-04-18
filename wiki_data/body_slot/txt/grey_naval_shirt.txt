@@ -1,0 +1,46 @@
+[Weapon: Grey Naval Shirt]
+
+
+Agrey naval shirtcan be purchased fromHonest Jimmyfor 1,000Pieces of eight. It is for decoration only, and has no combat bonuses. It cannot be sold back to the shop.
+Naval shirts can also be stored in thePlayer-owned houseCostume roomalong with aTricorn hatandNavy slacksof the same colour, as part of thegrey naval set.
+
+
+[Infobox]
+Released: 4 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: ...You can sail the seven seas...
+General Store Value: 100 coins
+High alch: 60 coins
+Low alch: 40 coins
+Weight: 0.003 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

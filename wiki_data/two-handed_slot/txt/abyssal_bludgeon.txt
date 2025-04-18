@@ -1,0 +1,89 @@
+[Weapon: Abyssal Bludgeon]
+
+
+Theabyssal bludgeonis a two-handedcrush weaponcreated by havingThe Overseercombine three untradeable components — thebludgeon axon,bludgeon claw, andbludgeon spine. If the player already had the Overseer create one, they can use the three components on thebookit left behind. Level 70AttackandStrengthare required to equip this weapon.
+The components can be obtained from placing anunsired, dropped by theAbyssal Sire, in theFont of Consumption. The mean number of Sire kills to complete a bludgeon is 619.4, and the median number of kills is 552.
+
+
+[Infobox]
+Released: 1 October2015(Update)
+Also called: Bludgeon
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Elements of deceased Abyssal Sires have been fused together.
+General Store Value: 260,000 coins
+High alch: 156,000 coins
+Low alch: 104,000 coins
+Weight: 6 kg
+Grand Exchange Value: 30,986,966 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 885
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +102
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +85
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Aggressive | 4 ticks (2.4s) | 1 tile |  | +3 Strength
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+
+
+[Special Attack]
+A player performs the abyssal bludgeon's special attack,Penance.
+The abyssal bludgeon has aspecial attack,Penance, which increases damage dealt by 0.5% for everyprayer pointthat the wielder is missing, consuming 50% of the wielder's special attack energy.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Amoxliatl/Strategies(Melee)
+3 | Araxxor/Strategies(Melee)
+4 | Barbarian Assault/Strategies(Melee (high level))
+3 | Calvar'ion/Strategies(Melee)
+5 | Demonic gorilla/Strategies(upgrades and downgrades)
+4 | Grotesque Guardians/Strategies(Melee)
+2 | Kalphite Queen/Strategies(Pre-diary Method)
+5 | Kalphite Queen/Strategies(High DPS (Phase One))
+4 | Moons of Peril/Strategies(Blue Moon)
+5 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+4 | Nightmare Zone/Strategies(Melee (Prayer))
+3 | The Nightmare/Strategies(Melee)
+5 | Phantom Muspah/Strategies(Melee)
+3 | Phosani's Nightmare/Strategies(Melee)
+3 | Sarachnis/Strategies(Melee)
+3 | Slayer task/Gargoyles(Melee)
+2 | Slayer task/Waterfiends(Melee)
+4 | Slayer training(Melee)
+3 | Spindel/Strategies(Melee)
+4 | The Hueycoatl/Strategies(Melee)
+2 | Tormented Demon/Strategies(Melee switch)
+3 | Venenatis/Strategies(Melee)
+3 | Vet'ion/Strategies(Melee)

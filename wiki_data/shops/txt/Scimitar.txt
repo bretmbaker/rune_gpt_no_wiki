@@ -1,0 +1,143 @@
+[Shop: Scimitar]
+
+Scimitar
+
+
+
+
+
+
+
+Primarytype | Slash
+
+Secondarytype | Stab
+
+
+
+Attack speed
+
+
+
+4 ticks (2.4 seconds)
+
+
+
+Scimitarsare a type ofslash weaponthat can also be used as astab weapon, although less effectively. They can deal slightly higher hits thanswords, but less thanlongswords.
+
+Scimitars have exactly the sameattack speedasdaggersandclaws, but provide a higherattack bonusthan daggers and yield lowerdefence bonusesthan claws. The combination of high attack and swing speed give the scimitar its large popularity inmeleetraining.
+
+Most types of scimitars are made with theSmithingskill, purchased at ascimitar shopidentified with the scimitariconon themap, or traded through other players.
+
+Combat styles[edit|edit source]
+
+Combat style | Attack type | Weapon style | Experience | Level boost
+
+ | Chop | Slash | Accurate |  | +3 Attack
+
+ | Slash | Slash | Aggressive |  | +3 Strength
+
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+
+ | Block | Slash | Defensive |  | +3 Defence
+
+Standard scimitars[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze scimitar | 1 | 7 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 6 | 0% | 0 | 0 | 1.814 | 
+
+ | Iron scimitar | 2 | 10 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 9 | 0% | 0 | 0 | 1.814 | 
+
+ | Steel scimitar | 3 | 15 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 14 | 0% | 0 | 0 | 1.814 | 
+
+ | Black scimitar | 4 | 19 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 14 | 0% | 0 | 0 | 1.814 | 
+
+ | White scimitar | 4 | 19 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 14 | 0% | 0 | 1 | 1.814 | 
+
+ | Mithril scimitar | 5 | 21 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 20 | 0% | 0 | 0 | 1.587 | 
+
+ | Adamant scimitar | 6 | 29 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 28 | 0% | 0 | 0 | 2.041 | 
+
+ | Rune scimitar | 7 | 45 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 44 | 0% | 0 | 0 | 1.814 | 
+
+ | Dragon scimitar | 8 | 67 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 66 | 0% | 0 | 0 | 1.814 | 
+
+Other scimitars[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Starter sword | 5 | 21 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 20 | 0% | 0 | 0 | 1.814 | 
+
+ | Cleaver | 7 | 45 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 44 | 0% | 0 | 0 | 1.814 | 
+
+ | Gilded scimitar | 7 | 45 | -2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 44 | 0% | 0 | 0 | 1.814 | 
+
+ | Brine sabre | 7 | 47 | -2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 46 | 0% | 0 | 0 | 1.814 | 
+
+ | Blade of saeldor (c) | 55 | 94 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 89 | 0% | 0 | 0 | 1.814 | 
+
+ | Blade of saeldor | 55 | 94 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 89 | 0% | 0 | 0 | 1.814 | 
+
+Scimitar vs. Longsword[edit|edit source]
+
+In short, scimitars have better DPS against most monsters than longswords and are better suited forPvMand trainingmeleestats. Longswords have slightly higher strength bonuses which gives them higher possiblemaximum hits. Overall, it is recommended to get a scimitar over a longsword whenever possible.
+
+The scimitar and longsword are very similar weapons as they are bothslash weaponsand have nearly the sameattack bonusforslash. However, scimitars have anattack speedof 4 while longswords have an attack speed of 5. This lets scimitars attack 1tick(about 0.6 seconds) faster. Longswords have slightly higher strength bonuses than their scimitar counterpart, which gives them an additional +1 to the maximum hit.
+
+Comparing the two weapons, the scimitar will hit 20% faster in exchange for 1 damage to the max hit. This makes them better to use than the longsword in most situations.
+
+It gets more complicated as other factors come into play, such as enemy's defence bonuses, the player'sAttackandStrengthlevels, and the player's attack bonuses from other gear. As a simple example, dragons are relatively weak tostab. Longswords have a much higher attack bonus for stab than scimitar and will do more DPS, assuming the player is using the stab attack style on the scimitar. Scimitars will still do more DPS to dragons than longswords if the slash style is used for the scimitar, even if the longsword is used on stab.
+
+v•t•eWeapons
+
+Melee | StabPickaxeHarpoonDaggerSwordHastaSpearPartisanSlashSickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberdCrushBannerBlackjackCanePolestaffMaceMaulWarhammer | Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan | Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd | Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan
+
+Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd
+
+Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Magic | StaffBattlestaffCrozierMystic staffPowered staffBladed staffWand
+
+Ranged | ShortbowLongbowComposite bowCrossbowBallistaThrownDartThrowing knifeThrowing axeChinchompa |  | ShortbowLongbowComposite bowCrossbowBallista | Thrown | DartThrowing knifeThrowing axeChinchompa
+
+ | ShortbowLongbowComposite bowCrossbowBallista
+
+Thrown | DartThrowing knifeThrowing axeChinchompa
+
+Other | DefenderSalamanderShieldFun weapons
+
+v•t•eSlash weapons
+
+Scimitar | BronzeIronSteelBlackWhiteMithrilAdamantRune(Guthix)(Saradomin)(Zamorak)GildedDragon(or) (cr)Blade of saeldor(corrupted)
+
+Longsword | BronzeIronSteelBlackWhiteMithrilAdamantRuneGraniteDragon(bh) (cr)3rd ageVesta's(blighted)
+
+Battleaxe | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)Leaf-bladedZombie
+
+Claws | BronzeIronSteelBlackWhiteMithrilAdamantRuneBurningDragon(cr)
+
+Halberd | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)CrystalNoxious
+
+Two-handed sword | StandardBronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr)GodswordsAncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or)OtherColossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger | Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr) | Godswords | AncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or) | Other | Colossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger
+
+Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr)
+
+Godswords | AncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or)
+
+Other | Colossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger
+
+Other | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwakerDemonbane swordsSilverlightDarklightArclightEmberlightQuestsAnger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoonCastle WarsGold decorativeRed decorativeWhite decorative |  | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwaker | Demonbane swords | SilverlightDarklightArclightEmberlight | Quests | Anger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoon | Castle Wars | Gold decorativeRed decorativeWhite decorative
+
+ | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwaker
+
+Demonbane swords | SilverlightDarklightArclightEmberlight
+
+Quests | Anger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoon
+
+Castle Wars | Gold decorativeRed decorativeWhite decorative

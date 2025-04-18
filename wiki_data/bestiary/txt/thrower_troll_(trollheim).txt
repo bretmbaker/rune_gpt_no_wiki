@@ -1,0 +1,44 @@
+Name: Thrower troll
+Combat Level: 68
+Size: 1x1
+Info:
+- Description: Small for a troll, but it's mean, ugly and throws rocks.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 95 xp
+- Category: Trolls
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4135,4136,4137,4138,4139
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Long bone (1/400)
+- Curved bone (1/5,012.5)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 95
+Attack: 30
+Strength: 95
+Defence: 15
+Magic: 0
+Ranged: 60
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

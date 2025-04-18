@@ -1,0 +1,71 @@
+[Weapon: Leaf-Bladed Sword]
+
+
+Theleaf-bladed swordis one of threemeleeweaponsused to harmturothsandkurasks, along with theleaf-bladed spearandbattleaxe.
+The sword requires anAttacklevel of 50 and aSlayerlevel of 55 to wield. It is a good alternative to theleaf-bladed spearas it attacks faster, has higherslashandstabbonuses, and is one-handed, enabling the use of ashieldordefenderif desired.
+
+
+[Infobox]
+Released: 23 January2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A razor-sharp sword.
+General Store Value: 68,000 coins
+High alch: 40,800 coins
+Low alch: 27,200 coins
+Weight: 1.814 kg
+Grand Exchange Value: 40,212 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 926
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +67
+- Slash: +62
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +50
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+King kurask | 295 | 1 | 3 × 1/384 | 
+Kurask | 106 | 1 | 1/384 | 
+Spiked Turoth | 244 | 1 | 3 × 1/500 | 
+Turoth | 83; 85; 87; 89 | 1 | 1/500 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Giant Mole/Strategies(Melee & Prayer Budget)
+5 | Tombs of Amascut/Strategies(Melee switch)

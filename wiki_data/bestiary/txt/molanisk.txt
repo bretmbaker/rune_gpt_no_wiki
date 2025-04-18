@@ -1,0 +1,67 @@
+Name: Molanisk
+Combat Level: 51
+Size: 1x1
+Info:
+- Description: A strange mole-like being.When on the wall: That white dot looks like an eye!
+
+Slayer Info:
+- Required Level: 39
+- Slayer XP: 52 xp
+- Category: Molanisks
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 1
+- Link: MOID
+
+Location:
+- Area: Dorgesh-Kaan South Dungeon (AJQ)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Grimy guam leaf (1/16)
+- Grimy marrentill (1/21.3)
+- Grimy tarromin (1/28.4)
+- Grimy harralander (1/36.6)
+- Grimy ranarr weed (1/46.5)
+- Grimy irit leaf (1/64)
+- Grimy avantoe (1/85.3)
+- Grimy kwuarm (1/102.4)
+- Grimy cadantine (1/128)
+- Grimy lantadyme (1/170.7)
+- Grimy dwarf weed (1/170.7)
+- Mole claw (1/128)
+- Nothing (1/36.64; Never[d 1])
+- Uncut sapphire (1/73.14; 1/37.14[d 2])
+- Uncut emerald (1/146.29; 1/74.29[d 2])
+- Uncut ruby (1/292.57; 1/148.57[d 2])
+- Uncut diamond (1/1,170.29; 1/594.29[d 2])
+- Nature talisman (1/780.19; 1/396.19[d 2])
+- Loop half of key (1/2,340.57; 1/1,188.57[d 2])
+- Tooth half of key (1/2,340.57; 1/1,188.57[d 2])
+- Rune javelin (1/2,340.57; 1/1,188.57[d 2])
+- Rune spear (1/37,449.14; 1/2,228.57[d 2][d 3])
+- Shield left half (1/74,898.29; 1/4,457.14[d 2][d 3])
+- Dragon spear (1/99,864.38; 1/5,942.86[d 2][d 3])
+- Clue scroll (easy) (1/128[d 1][1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 52
+Attack: 40
+Strength: 40
+Defence: 50
+Magic: 0
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

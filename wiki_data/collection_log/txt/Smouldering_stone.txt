@@ -1,0 +1,6 @@
+Item: Smouldering stone
+Summary: A smouldering stone is a stone dropped by Cerberus and much more rarely, hellhounds. It can be used to upgrade the dragon axe, dragon harpoon, and dragon pickaxe into the infernal axe, infernal harpoon, and infernal pickaxe, respectively. These infernal tools have a 1/3 chance to instantly process and destroy a resource (granting half of the normal processing experience gained in Firemaking, Cooking, and Smithing, respectively), begin with 5,000 charges, and will function as their dragon variant when all charges are depleted. Another smouldering stone or another dragon tool of that type must be used to recharge it. At current Grand Exchange prices, one charge costs approximately 423.62 coins.
+Sources:
+- Cerberus (Level 318, Quantity: 1, Rarity: 1/512)
+- Hellhound Wilderness Slayer Cave (Level 136, Quantity: 1, Rarity: 1/16,384)
+- Hellhound Regular (Level 122, Quantity: 1, Rarity: 1/32,768)

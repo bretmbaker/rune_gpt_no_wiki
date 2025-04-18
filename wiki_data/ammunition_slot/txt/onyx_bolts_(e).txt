@@ -1,0 +1,59 @@
+[Weapon: Onyx Bolts (E)]
+
+
+Onyx bolts (e)arerune boltstipped with enchantedonyx.Onyx boltscan be enchanted through the spellEnchant Crossbow Bolt (Onyx)by a player with level 87Magic. The spell enchants 10 onyx bolts at a time. These bolts are rarely used due to their cost, but are often fletched and enchanted by ironman players for theirHigh Level Alchemyvalue. Additionally, they require aRangedlevel of 61 to wield.
+Onyx bolts (e) have a chance of triggering theLife Leecheffect. This will deal 20% extra damage (32% when under the effect of theZaryte crossbow)[1]and heal the attacker'sHitpointsby 25% of the total damage dealt. This does not work on theundead, as they have no 'life' to leech.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Also called: Enchanted onyx bolts
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Enchanted Onyx tipped Runite Crossbow Bolts.
+General Store Value: 15,000 coins
+High alch: 9,000 coins
+Low alch: 6,000 coins
+Weight: 0 kg
+Grand Exchange Value: 8,548 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 1,069,974
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +120
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Alchemical Hydra | 426 | 35–50 | 2 × 1/101 | 
+Corporeal Beast | 785 | 175 | 20/512 | 
+Nex | 1001 | 11–29 | Uncommon | 
+Reward casket (master) | N/A | 15–25 | 1/30.3 | 
+Vardorvis | 572; 784; 1136 | 60; 90 | 1/100 | 

@@ -1,0 +1,4 @@
+Item: Torag's platelegs
+Summary: Torag's platelegs are melee armour worn in the legwear slot that is part of Torag the Corrupted's set of barrows equipment. To wear Torag's platelegs, a player must have 70 Defence.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

@@ -1,0 +1,54 @@
+[Weapon: Blue D%27Hide Chaps (G)]
+
+
+Blue Dragonhide chaps (g)are part of theblue d'hide gold-trimmed armour, along with ablue d'hide body (g). Its stats are identical toblue d'hide chaps, but they have a gold trim. To wear blue dragonhide chaps (g), a player must have 50Ranged.
+This item is a reward fromhardTreasure Trails. Unlike normaldragonhide armour, this cannot be made with theCraftingskill, nor can trim be added to normal blue dragonhide chaps via any method.
+
+
+[Infobox]
+Released: 20 February2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Made from 100% real dragonhide. With colourful trim!
+General Store Value: 4,320 coins
+High alch: 2,592 coins
+Low alch: 1,728 coins
+Weight: 5.443 kg
+Grand Exchange Value: 3,789 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 111
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +11
+
+Defence Bonuses:
+- Stab: +13
+- Slash: +16
+- Crush: +20
+- Magic: +14
+- Ranged: +20
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

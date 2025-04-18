@@ -1,0 +1,1 @@
+Clay(sometimes calledhard clayto distinguish it fromsoft clay) is mined fromclay rocks, requiring 1Mining, and yielding 5 Miningexperience. When mined it respawns in onegame tick. Using awatercontainer, such as abucket of water, on it makessoft clay. Alternatively theLunar spellhumidifycan do the same.

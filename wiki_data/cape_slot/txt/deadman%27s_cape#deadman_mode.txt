@@ -1,0 +1,46 @@
+[Weapon: Deadman%27S Cape#Deadman Mode]
+
+
+TheDeadman's capeis a cosmeticcapethat can be bought fromJustine's stuff for the Last Shopper Standingfor 160Last Man Standingpoints. It is part of theDeadman armourset.
+InDeadman Mode, it is purchased fromNigelfor oneblood moneyand may be reclaimed for free. In order to purchasedeadman armourin Deadman Mode, players must use the blood money on Nigel, instead of speaking to him, as there are no dialogue options for purchasing the armour.
+
+
+[Infobox]
+Released: 29 August2019(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Destroy: N/A
+Examine: Dark and sinister, just like a deadman.
+General Store Value: 3 coins
+Alchemy: Not alchemisable
+Weight: 0.09 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

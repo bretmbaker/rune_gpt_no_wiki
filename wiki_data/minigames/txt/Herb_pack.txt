@@ -1,0 +1,144 @@
+[Minigame: Herb_pack]
+
+Void Knights' Reward Options
+
+
+
+
+
+Released | 18 April2006(Update)
+
+Members | Yes
+
+Location | Void Knights' Outpost
+
+Leagueregion | Asgarnia✓
+
+Owner | Void Knight
+
+Specialty | Pest Controlrewards
+
+
+
+Location
+
+
+
+TheVoid Knights' Reward Optionsis the rewards shop for thePest Controlminigame, accessed by talking to anyVoid Knight. At the rewards shop, players can usecommendation pointsearned by completing rounds of Pest Control to purchase experience,Void Knight equipment, and various resource packs.
+
+After completing theHard Western Provinces Diary, points can also be used by speaking to anElite Void Knightto upgrade aVoid knight toporrobeto anelite void toporelite void robe, for 200 points each. Pieces of Void Knight equipment can be sold back to theDodgy Squirefor 80% of their original value in commendation points.
+
+Experience rewards[edit|edit source]
+
+Players can exchange commendation points forexperiencein any combat skill that is equal to or greater than level 25.
+
+Bonusexperience is awarded for trading in large amounts of points at once. If a player trades in 10 points at once, they get an extra 1% experience; for 100 points at once, they get an extra 10% experience.
+
+The formula, which this table is based on, is as shown below. The amounts are awarded per commendation point traded in.
+
+Exp=⌊Level2600⌋×N
+
+where
+
+Expis experience gained,Levelis current level of that skill (should be at least 25),The factorN:If the skill is Prayer:N=18If the skill is Magic or Ranged:N=32If the skill is Attack, Strength, Defence or Hitpoints:N=35The⌊⌋indicate that the expression should be rounded down to the nearest whole number.
+
+Stock[edit|edit source]
+
+Items[edit|edit source]
+
+Item | Pricesold at | Buy requirement | Notes
+
+ | Herb pack | 30 | 25 | Contains a random assortment of noted grimyherbs.Unlike the Nightmare Zone, these herb packscanbe bought by ironmen.
+
+ | Mineral pack | 15 | 25 | Contains 25 notedcoaland 18 notediron ore.
+
+ | Seed pack | 15 | 25 | Contains a random amount of seeds, typically giving lower-tiered seeds.
+
+ | Void knight mace | 250 | 4222 | Can cast andautocastClaws of Guthixin place of aGuthix staff.Notrequired for theVoid set effect.
+
+ | Void knight top | 250 | 4222 | Required for theVoid set effect.
+
+ | Void knight robe | 250 | 4222 | Required for theVoid set effect.
+
+ | Void knight gloves | 150 | 4222 | Required for theVoid set effect.
+
+ | Void mage helm | 200 | 4222 | One helmet is required for theVoid set effect.+45%Magicaccuracy.
+
+ | Void ranger helm | 200 | 4222 | One helmet is required for theVoid set effect.+10%Rangedaccuracy and damage.
+
+ | Void melee helm | 200 | 4222 | One helmet is required for theVoid set effect.+10%Meleeaccuracy and damage.
+
+ | Void seal | 10 | 4222 | Worn in the amulet slot. Operate in a Pest Control game to inflict 8-12 points of damage to surrounding pests.
+
+Theelite voidupgrades cost 200 points each, for a total of 400 points, unlocked after completing theHard Western Provinces Diary.
+
+Item | Members | Skills | XP | Materials
+
+ | Elite void robe |  | None | None | 1 ×Void knight robe200 ×Void Knight commendation points
+
+ | Elite void top |  | None | None | 1 ×Void knight top200 ×Void Knight commendation points
+
+The herb pack is worth41,740.50on average. It costs 30 points, valued at1,391.35per point,  and rewards the followingherbsin varying amounts:
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Grimy harralander | 2–4(noted) | Always | 1,298–2,596 | 18–36
+
+ | Grimy ranarr weed | 2–3(noted) | Always | 11,782–17,673 | 36–54
+
+ | Grimy toadflax | 1–4(noted) | Always | 2,798–11,192 | 11–44
+
+ | Grimy irit leaf | 2–4(noted) | Always | 2,336–4,672 | 20–40
+
+ | Grimy avantoe | 1–4(noted) | Always | 2,462–9,848 | 10–40
+
+ | Grimy kwuarm | 1–5(noted) | Always | 2,804–14,020 | 12–60
+
+The mineral pack is worth6,847. It costs 15 points, valued at456.47per point, and rewards the following items:
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Coal | 25(noted) | Always | 3,625 | 675
+
+ | Iron ore | 18(noted) | Always | 3,222 | 180
+
+The seed pack is worth5,912.66on average. It costs 15 points, valued at394.18per point, and rewards three rolls of the following assortment of farming seeds:
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Spirit seed | 1 | 3 × 1/1,061[1] | Not sold | 0
+
+ | Magic seed | 1 | 3 × 1/1,061[1] | 99,812 | 253
+
+ | Yew seed | 1 | 3 × 8/1,061[1] | 27,170 | 85
+
+ | Maple seed | 1 | 3 × 10/1,061[1] | 3,186 | 28
+
+ | Willow seed | 1 | 3 × 20/1,061[1] | 114 | 9
+
+ | Acorn | 1 | 3 × 30/1,061[1] | 121 | 3
+
+ | Ranarr seed | 1 | 3 × 20/1,061[1] | 25,056 | 30
+
+ | Sweetcorn seed | 3 | 3 × 120/1,061[1] | 3 | 12
+
+ | Strawberry seed | 2 | 3 × 90/1,061[1] | 18 | 20
+
+ | Limpwurt seed | 2 | 3 × 100/1,061[1] | 58 | 14
+
+ | Watermelon seed | 2 | 3 × 90/1,061[1] | 154 | 66
+
+ | Tomato seed | 6 | 3 × 110/1,061[1] | 6 | 12
+
+ | Cabbage seed | 9 | 3 × 100/1,061[1] | 9 | 9
+
+ | Onion seed | 11 | 3 × 100/1,061[1] | 11 | 11
+
+ | Potato seed | 14 | 3 × 200/1,061[1] | 14 | 14
+
+ | Snape grass seed | 2 | 3 × 60/1,061[1] | 19,262 | 112
+
+ | Celastrus seed | 1 | 3 × 0.5/1,061[1] | 79,644 | 324
+
+ | Redwood tree seed | 1 | 3 × 0.5/1,061[1] | 24,814 | 390
+

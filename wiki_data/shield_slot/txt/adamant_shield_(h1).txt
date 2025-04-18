@@ -1,0 +1,54 @@
+[Weapon: Adamant Shield (H1)]
+
+
+AnAdamant shield (h1)is obtainable as a reward frommediumTreasure Trails. It has exactly the same bonuses as a regularadamant kiteshield, and has no significant differences besides the heraldic design on the front. It requires 30Defenceto equip. Playerscannotmake this item via theSmithingskill.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 20 February2006(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A shield with a heraldic design
+General Store Value: 5,440 coins
+High alch: 3,264 coins
+Low alch: 2,176 coins
+Weight: 5.896 kg
+Grand Exchange Value: 2,790 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 74
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -8
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +27
+- Slash: +31
+- Crush: +29
+- Magic: -1
+- Ranged: +29
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 

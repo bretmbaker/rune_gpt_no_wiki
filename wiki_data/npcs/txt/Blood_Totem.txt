@@ -1,0 +1,2 @@
+Item: Blood Totem
+Summary: The Blood Totem is an object found inside the Zarosian military installation within the Digsite. Players must cast Blood Burst or better to charge it. If a player attempts to cast Blood Rush, they will be told That spell isn't powerful enough to work on this totem.. Casting a non-blood spell results in the message That kind of spell won't work on this totem.

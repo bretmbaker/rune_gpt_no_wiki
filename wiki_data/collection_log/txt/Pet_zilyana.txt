@@ -1,0 +1,4 @@
+Item: Pet zilyana
+Summary: 
+Sources:
+- Commander Zilyana (Level 596, Quantity: 1, Rarity: 1/5,000)

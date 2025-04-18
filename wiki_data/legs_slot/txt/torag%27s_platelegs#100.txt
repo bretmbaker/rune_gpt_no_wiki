@@ -1,0 +1,66 @@
+[Weapon: Torag%27S Platelegs#100]
+
+
+Torag's platelegsaremelee armourworn in thelegwear slotthat is part ofTorag the Corrupted's setof barrows equipment. To wear Torag's platelegs, a player must have 70Defence.
+Being part of Torag's barrows set, if Torag's platelegs is worn along with all of the other pieces of equipment in Torag's barrows set the player receives a special attack. Damaging melee attacks have a chance of lowering the target'srun energyby 20%.
+
+
+[Infobox]
+Released: 9 May2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Check, Drop
+Worn options: Check
+Destroy: If you drop this item it will break. Are you sure you want to drop it?
+Examine: Torag the Corrupted's plate leg armour.
+General Store Value: 275,000 coins
+High alch: 165,000 coins
+Low alch: 110,000 coins
+Weight: 9.071 kg
+Grand Exchange Value: 240,495 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 1,340
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +85
+- Slash: +82
+- Crush: +83
+- Magic: -4
+- Ranged: +92
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Barrows) | N/A | 1 | 7 × 1/2,448 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Basilisk Knight/Strategies(Melee)
+2 | Budget Cutter
+3 | Gout tuber/Strategies(Tank)
+2 | Sarachnis/Strategies(Melee tank)
+5 | Skeletal Wyvern/Strategies(Melee)
+4 | TzHaar Fight Cave/Strategies(Melee)

@@ -1,0 +1,4 @@
+Item: Scarred tablet
+Summary: The scarred tablet is an item dropped by the Leviathan. It is used on the ring of shadows to unlock a teleport to the Scar.
+Sources:
+- The Leviathan (Level 593; 798; 1157, Quantity: 1, Rarity: 1/25.8)

@@ -1,0 +1,47 @@
+[Weapon: Kandarin Headgear 3]
+
+
+TheKandarin headgear 3is a reward for completing thehard Kandarin Diarytasks given byThe 'Wedge'outside ofCamelotcastle, and can be retrieved from him for free if lost. Its stats are similar to that of theblack med helm, except for a -1Rangedattack bonus and significantly lower weight.
+A number of other benefitsare always active upon claiming rewards from the hard tier of the Kandarin diary.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Teleport, Drop
+Worn options: Teleport
+Examine: A helm with a jewelled eye upon it.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.01 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +10
+- Crush: +8
+- Magic: -1
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

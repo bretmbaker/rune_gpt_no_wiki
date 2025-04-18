@@ -1,0 +1,39 @@
+Name: Baboon
+Combat Level: 77
+Size: 1x1
+Info:
+- Description: An undead baboon.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Thralls: Not immune
+- Monster ID: 11781
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 35
+Attack: 0
+Strength: 0
+Defence: 50
+Magic: 50
+Ranged: 80
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

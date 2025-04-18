@@ -1,0 +1,2 @@
+Item: Richard (merchant)
+Summary: Richard is one of a series of Cape Merchants that sells team capes at his shop, Richard's Wilderness Cape Shop. He is located in northern Edgeville, right near the Wilderness ditch. He sells team capes that have the last digit of 6. The capes he sells are among the most popular, mostly due to the ease at which they may be purchased. As with all team cape sellers, a player can buy a team cape from him for 50 coins. His examine text still reads "A very brave merchant." even though he is not in the Wilderness, albeit he is close by.

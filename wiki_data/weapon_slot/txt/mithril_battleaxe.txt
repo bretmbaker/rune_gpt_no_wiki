@@ -1,0 +1,78 @@
+[Weapon: Mithril Battleaxe]
+
+
+Amithril battleaxeis abattleaxemade from 3mithril bars, requiring 60Smithing, yielding 150 Smithingexperience. 20Attackis required to wield it. It is stronger than theblack battleaxe, but weaker than theadamant battleaxe.
+Players can purchase it fromBrian's Battleaxe BazaarinPort Sarim,Bob's Brilliant AxesinLumbridge, orGulluck and Sonsin theTree Gnome Stronghold.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A vicious looking axe.
+General Store Value: 1,690 coins
+High alch: 1,014 coins
+Low alch: 676 coins
+Weight: 2.267 kg
+Grand Exchange Value: 1,021 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 8,400
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -2
+- Slash: +22
+- Crush: +17
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +29
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Hack | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black Chest (black) | N/A | 1 | 2/141.11;2/133.27 | 
+Black Chest (brown) | N/A | 1 | 2/141.02;2/133.19 | 
+Black Chest (crimson) | N/A | 1 | 2/141.07;2/133.23 | 
+Black Chest (purple) | N/A | 1 | 2/141.15;2/133.31 | 
+Black Chest (red) | N/A | 1 | 2/140.98;2/131.15 | 
+Black dragonRegular | 227 | 1 | 3/128 | &&
+Bronze dragon | 131; 143 | 1 | 3/128 | 
+Deviant spectre | 169 | 1 | 5/128 | 
+Former Vampyre | N/A | 1(noted) | 3/256 | 
+Giant Mole | 230 | 1 | 1/128 | 
+Green dragonWilderness Slayer Cave | 88 | 1 | 1/128 | 
+Insatiable mutated Bloodveld | 278 | 1 | 3 × 6/128 | 
+Magic axe | 42 | 1 | 10/500 | 
+Mutated Bloodveld | 123 | 1 | 6/128 | 
+Red dragon | 152 | 1 | 3/128 | &
+Repugnant spectre | 335 | 1 | 3 × 5/128 | 
+Vampyre Juvinate | N/A | 1(noted) | 3/256 | 

@@ -1,0 +1,155 @@
+[Spell: Claws_of_Guthix]
+
+Claws of Guthix
+
+
+
+
+
+
+
+Released | 22 September2003(Update)
+
+Members | Yes
+
+Level | 60
+
+Spellbook | Standard
+
+Type | Combat
+
+Experience | 35
+
+Element | God
+
+Base max hit | •20Charged & Guthix cape worn:•30
+
+Runes | 412
+
+Casting speed | 5 ticks
+
+Quest | Mage Arena
+
+Description | Summons the power of Guthix
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Claws of Guthixis acombat spellin thestandard spellbook, requiring 60Magicand the completion ofMage Arena Ito cast. In addition, players must also be wielding aGuthix staff,void knight mace, orstaff of balance; all but the first are able toautocastthe spell.
+
+Initially, the spell can only be cast within theMage Arenaagainst thebattle mages. Upon casting the spell 100 times (regardless of whether it was asuccessful hitor not), the spell becomes usable outside the arena.
+
+Claws of Guthix has a maximum hit of 20. Upon a successful hit, Claws of Guthix lowers the target'sDefenceby 1 + 5%.[1]This decrease does not stack nor will it reapply itself until the opponent returns to their base Defence level.
+
+Like the othergod spells, the maximum hit is temporarily increased to 30 while theChargespell is active and the respectivegod capeis worn.
+
+Damage[edit|edit source]
+
+Calculator[edit|edit source]
+
+Please input the data and submit the form.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+124 | 665
+
+Combo runes
+
+124 | 681
+
+241 | 687
+
+24 | 856
+
+241 | 760
+
+124 | 1,137
+
+Off-hands
+
+24 | 660
+
+Note that since Claws of Guthix requires a Guthix staff, void knight mace, or a staff of balance, rune-providing staves cannot be used. However, atome of firecan be worn to provide infinite fire runes. This does not grant the damage boost from the tome and will not consume its charges.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+7 March2019(update|poll) | The icon wasgraphically updatedto be more distinct from the other god spells.
+
+Gallery (historical)[edit|edit source]
+
+ | 
+
+22 September 2003–7 March 2019 | 7 March 2019 ⁠–present
+
+References[edit|edit source]
+
+v•t•eMage Arena
+
+Inhabitants | KolodionLundailGundaiChamber guardianBattle mage
+
+God staves | GuthixSaradominZamorak
+
+God capes | Guthix(max)Saradomin(max)Zamorak(max)
+
+God spells | Claws of GuthixSaradomin StrikeFlames of ZamorakCharge
+
+Scenery | BarrelColumnSparkling poolStatue of GuthixStatue of SaradominStatue of Zamorak
+
+Related | Mage Arena IMage Arena IIMage bank
+
+v•t•eMage Arena I
+
+NPCs | KolodionChamber guardianBattle mage
+
+God staves | GuthixSaradominZamorak
+
+God capes | Guthix(max)Saradomin(max)Zamorak(max)
+
+God spells | Claws of GuthixSaradomin StrikeFlames of ZamorakCharge
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

@@ -1,0 +1,42 @@
+Name: Blood Moon
+Combat Level: 329
+Size: 5x5
+Info:
+- Description: The terrifying embodiment of a blood moon.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Burn: Immune to strong burns
+- Freeze: 100% resistance
+- Monster ID: 13011
+- Link: MOID
+
+Location:
+- Area: Neypotzli - Blood Moon chamber
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 500
+Attack: 258
+Strength: 100
+Defence: 60
+Magic: 100
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

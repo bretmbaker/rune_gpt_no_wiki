@@ -1,0 +1,59 @@
+[Weapon: Bone Staff]
+
+
+Thebone staffis apowered staffrequiring level 50Magicto wield. It is made by combining abattlestaffwithScurrius' spinealongside 1,000chaos runes, requiring achiseland level 35Craftingto do so; players without the required level can alternatively payHistorian Aldo50,000coinsto create it on their behalf.
+In order to use the staff's magic spell, it must be charged withchaos runes, holding up to 20,000 charges when fully charged. Each cast requires one chaos rune, costing104 coins. Uncharging the staff returns all remaining runes back. Additionally, unlike other powered staves, the bone staff's built-in spell gives 35 baseMagicexperience on a successful hit.
+
+
+[Infobox]
+Released: 24 January2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Check, Uncharge, Drop
+Worn options: Check
+Examine: It's a slightly magical stick intertwined with Scurrius' spine.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +14
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Magic | Accurate | 4 ticks (2.4s) | 8 tiles |  | +3 Magic
+ | Accurate | Magic | Accurate | 8 tiles |  | +3 Magic
+ | Longrange | Magic | Longrange | 10 tiles |  | +1 Magic, +3 Defence
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Scurrius/Strategies(Magic (mid level))
+1 | Scurrius/Strategies(Magic (high level))

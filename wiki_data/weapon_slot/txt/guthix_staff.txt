@@ -1,0 +1,60 @@
+[Weapon: Guthix Staff]
+
+
+TheGuthix staffis agod staffthat can only be obtained by finishingMage Arena Iminiquest. Like the other God staves, this staff requires level 60Magicto acquire and therefore wield. To get it, the player must defeatKolodionthe mage in all of his forms. Afterwards, they will have to pick a god to worship to receive a cape and the staff corresponding to that god. If the player has already chosen another god, the staff can be purchased from theChamber Guardianfor 80,000coins.
+The staff allows wielders to cast theClaws of Guthixspell, which must be cast 100 times inside theMage Arenaminigame to gain the ability to use it outside of the arena. The spell has a chance to lower the opponent's defence by 5% on a successful hit, which does not stack with subsequent hits and will not re-occur until the opponents defence has returned to their original level. The spell can also be temporarily powered up by casting theChargespell first.
+
+
+[Infobox]
+Released: 22 September2003(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A magical staff imbued with the power of Guthix.
+General Store Value: 80,000 coins
+High alch: 48,000 coins
+Low alch: 32,000 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -1
+- Slash: -1
+- Crush: +6
+- Magic: +6
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +6
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Used in Recommended Equipment]
+Date | Changes
+7 – 21 March 2005 | The item was renamed from "Staff of guthix" to "Guthix staff".The item's examine was changed from "It's a stick of the gods." to "A magical staff imbued with the power of Guthix."

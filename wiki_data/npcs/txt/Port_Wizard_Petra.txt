@@ -1,0 +1,2 @@
+Item: Port Wizard Petra
+Summary: Port Wizard Petra is one of the port wizards who can retrieve boats for players. She or one of her fellow port wizards appear when a player requests a shipwright move their boat from another port or retrieve a capsized boat.

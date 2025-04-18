@@ -1,0 +1,173 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Rag and Bone Man I (#103)
+
+
+
+
+
+Released | 10 April 2006 ( Update )
+
+Members | Yes
+
+Quest series | Rag and Bone Man , #1
+
+Lead developer(s) | Anthony W
+
+
+
+Rag and Bone Man I is a quest during which you collect bones for the Odd Old Man to help complete his strange collection.
+
+Details [ edit | edit source ]
+
+Start point | Speak to the Odd Old Man , located at the end of the northern path in central Silvarea . Show on map
+
+Official difficulty | Novice
+
+Official length | Short
+
+Description | Everybody needs some body, and the Odd Old Man knows exactly which bits of those bodies he needs. Can you help him finish his extensive and extremely creepy collection?
+
+Requirements | None
+
+Items required | 8 coins for 8 pots of vinegar (bring 68 coins if walking to and from Karamja for boat fare) 8 pots 8 logs of any type (or an axe to obtain them) Tinderbox Light source (a lantern is highly preferred)
+
+Recommended | 15 Combat level Teleport runes or tablets to Varrock and Lumbridge Digsite pendant or Digsite teleport for quick access to the Odd Old Man's house Amulet of Glory for quick access to Draynor Village and Karamja Dramen staff for Fairy Ring teleports Access to the Balloon transport system and Willow logs to use it Spiny helmet if using the Lumbridge Swamp entrance -- alternatively, stop one square before the "hole in the wall", then run past using the run trick . Rope if using the Lumbridge Swamp entrance for the first time
+
+Enemies to defeat | Several (8): see below.
+
+League notes | Misthalin ✓ — location requirement Karamja ✓ — location requirement
+
+Walkthrough [ edit | edit source ]
+
+Starting out [ edit | edit source ]
+
+Items recommended: A Varrock teleport or digsite pendant (or usage of the balloon transport system (with willow logs )) for a faster route of travel to the Odd Old Man .
+
+The Odd Old Man (quest start location) is found east of Varrock and west of Paterdomus Temple in Silvarea .
+
+If travelling from Varrock, walk east of the city and through the gate near the Earth Altar , directly east of the nearby statue of Saradomin . If travelling from the Digsite , walk north and east around the mountain. You can also use the balloon Transport System , as one of the destinations is directly north-west of the gate (it is suggested to have the Castle Wars location unlocked due to its proximity to a balloon. Use the minigame teleport to Castle Wars, then fly to the Varrock balloon location (1 willow log required). The Odd Old Man is a fairly short distance to the east).
+
+Reaching him will take you down the same path as travelling Canifis would. Halfway down that path, you will find the Odd Old Man to the north, just slightly north-west of the limestone quarry (marked by a quest icon on your minimap , right next to the mining site icon).
+
+Talk to him, and he will tell you that he needs several bones to complete his collection. Then talk to him again after getting the list to have him list every bone individually; go through the chat dialogue, where he tells you what bones you have remaining and where to get them individually, until he guides you on how to polish the bones in vinegar. If you do not speak to him and go through the entire dialogue, you will be unable to add bones to the pots of vinegar later on unless you talk to him, so doing this will efficiently save you a trip or two.
+
+Collecting the bones [ edit | edit source ]
+
+Below is the list of monsters that need to be killed to obtain all the bones (8 total).
+
+Note: All of these monsters can be found in other places; listed are the most convenient spots.
+
+Note: At any point, a player can turn in a bone or bones to the Odd Old Man , assuming it has been polished. Having all 8 at once is not necessary, but preferable to save time.
+
+Bone | Monster | Locations (preferable) - Click to mark
+
+ | Giant rat bone | Giant rat | South-east of Varrock by the mine , Varrock Sewer , Lumbridge Swamp , near the Port Sarim jail .
+
+ | Unicorn bone | Unicorn | The forest south-east of Varrock , Lumbridge Swamp , by Draynor Village , south of Edgeville , west of Catherby , on Entrana (west from the Law Altar ), next to fairy ring B I S in Ardougne Zoo , outside of Corporeal beast cave in Wilderness (very close to Games necklace teleport), Hosidius saltpetre mines (close to the Tithe Farm minigame teleport and Hosidius house portal).
+
+ | Bear ribs | Bear | The forest south-east of Varrock , the enclosure north-east of the palace in Varrock , north of Falador , the forests near Ardougne (south-west of fairy ring B L R ).
+
+ | Ram skull | Ram | The sheep pen south of Varrock , in Fred the Farmer's sheep pen (north of Lumbridge), north of the Crafting Guild (by the Make-over mage ), in the Fisher Realm (fairy ring B J R ) after finding Sir Percival .
+
+ | Goblin skull | Goblin | Both east and west of Lumbridge (the goblins at the farm south of Varrock and north of Ardougne do not drop the bone).
+
+ | Big frog leg | Big frog | Only level 24 frogs. Can be found in the Lumbridge Swamp Caves (the giant frogs on the surface of Lumbridge Swamp do not drop the bone).
+
+ | Monkey paw | Monkey | East of the Karamja Volcano , south Karamja (right next to fairy ring C K R ), Ardougne Zoo (if you choose to go to Ardougne Zoo, you must bring ranged and/or magic equipment and have 33 Magic for Telekinetic Grab ).
+
+ | Giant bat wing | Giant bat | Crandor and Karamja Dungeon (which can be accessed on the Karamja Volcano ), outside Keep Le Faye (north of fairy ring B L R ), below the Heroes' Guild , Yanille dungeon, coal trucks west of McGrubor's Wood, mine west of Tithe Farm (close to the minigame teleport, or Hosidius house portal).
+
+Items required: A rope (if you've never been to the Lumbridge Swamp Caves before), a light source (a lantern is highly preferred), a tinderbox (to re-light your light source), 8 gp to buy the 8 jugs of vinegar with, 60 gp to travel to and back from Karamja (if walking), and 8 empty inventory slots for the bones.
+
+Recommended: A spiny helmet if you have low combat stats (to defend yourself from Wall beasts in the Lumbridge Swamp Caves, as they can deal 10-18 damage ), teleports to Lumbridge , Draynor Village ( Amulet of glory ) and Karamja (will save some time).
+
+Collecting all of the required bones is a relatively easy task if you walk south of the Odd Old Man's location, down to Lumbridge , and then to Port Sarim in the west to get to Karamja . Using teleports to get to the required locations will speed up the process ( Lumbridge , Draynor Village , and Karamja teleport). Ensure you talk to the Odd Old Man before you begin gathering and go through the entire dialogue . All needed bones are a guaranteed drop. [1] The following is a recommended route for the first six of the eight required bones, starting from the Odd Old Man's house and ending in the Lumbridge Swamp Caves .
+
+Run west from the Odd Old Man's house and through the gate, then south to the mines south-east of Varrock and kill a Giant rat near or inside the mine, picking up the giant rat bone it drops in the process. Head slightly south of the mine to the forest and kill a unicorn and black bear , picking up the unicorn bone and the bear ribs respectively. Head into the sheep pen to the south-west of the mine and west of the forest and kill a ram to get a ram skull . Walk south towards Lumbridge (or teleport to the city and walk east) and kill a goblin on the eastern side of the River Lum to get a goblin skull . Make sure you have a light source (a lantern is highly preferred, as explosions are possible in the caves with a candle ) and a rope (if you've never been to the Lumbridge Swamp Caves before). Head south through the Lumbridge Graveyard and then south-west to the swamp caves (indicated by a dungeon icon on the map, south of the candle shop) (or, instead, if you have started or completed The Lost Tribe , travel through the Lumbridge Castle cellar and head immediately south through the hole in the wall). From there, go down to the cave (using a rope if necessary). Go west and then south to find big frogs (the frogs in the Lumbridge Swamp will not drop the bone - they are a different type of frog; also ensure you kill a Big Frog in the caves, as the others will not drop the bone). Kill one and pick up the big frog leg .
+
+From here, head to Draynor Village , north-west of the Lumbridge Swamps. Find and talk to Fortunato in the market about vinegar. Only after talking about vinegar will he have it stocked in the store, trade him and purchase 8 (or 35 if intending to do Rag and Bone Man II at some point, saving time later) jugs of vinegar . Do not steal from the market stall or he won't talk to you.
+
+This is also a good opportunity to withdraw items to return to the Odd Old Man ( Varrock teleportation runes or tablet , Digsite pendant ), and, if returning directly to him, all 6 currently collected bones and the necessary supplies to polish all 8 (8 jugs of vinegar, 8 pots (highly recommended to make the 6 bone in vinegar you currently can and 2 pots of vinegar to save space - see "Polishing the bones" for details), and 8 logs (of any type - alternatively, an axe to cut down the trees by the Odd Old Man, which will save a lot of space)).
+
+Note: Be careful that you do not accidentally "empty" a bone in vinegar, because if you do, you will lose the bone and have to collect that bone again .
+
+From here, travel south-west to Port Sarim and take the ship (the third transportation icon from the north, fourth from the south) (requires 30 gp each way) to Karamja (can also teleport (amulet of glory)). Once there:
+
+Walk west towards the Karamja Volcano and kill a monkey on the way, picking up the monkey paw . Head into the Crandor and Karamja Dungeon , which is located at the top of the Karamja Volcano (marked by a dungeon icon), and kill a giant bat , picking up the giant bat wing .
+
+After you've gathered all 8 bones, head back to the Odd Old Man, and a bank if necessary.
+
+Polishing the bones [ edit | edit source ]
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+Items required: 8 bone in vinegar (requiring 8 jugs of vinegar , 8 pots , and all 8 bones to make), a tinderbox , 8 logs (of any type - can also bring an axe to chop them down by the Odd Old Man .)
+
+Recommended: A teleportation method to the Odd Old Man ( Varrock teleport, Digsite pendant ).
+
+An example of how an inventory looks, before heading back to the Odd Old Man, can be seen on the right.
+
+If you haven't already, make 8 pots of vinegar by using the jugs of vinegar on your pots and then use all the bones on the pots of vinegar to make 8 bone in vinegar .
+
+Note: Be careful that you do not accidentally "empty" a bone in vinegar, because if you do, you will lose the bone and have to collect that bone again .
+
+Go back to the old man taking the eight bones in vinegar, a tinderbox and eight logs (or, alternatively, bring an axe instead of logs; there are trees near the Odd Old Man at the bottom of the stairs where logs can be cut). Any type of logs works for this quest, provided you have the Firemaking level to light the logs.
+
+To polish the bones, use a log on the pot-boiler next to the Odd Old Man. Then, use a bone in vinegar on the pot boiler, and finally, use your tinderbox to light it (you will not receive experience for lighting the logs). It takes 12 seconds for each pot to boil. You can hop worlds after lighting the logs to skip these 12 seconds. Repeat this for all eight bones.
+
+Talk to the Odd Old Man , and give him the polished bones to complete the quest.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 500 Cooking experience 500 Prayer experience
+
+Required for completing [ edit | edit source ]
+
+Completion of Rag and Bone Man I is required for the following:
+
+Rag and Bone Man II - Rag and Bone Man II starts immediately after completing Rag and Bone Man I. The player may begin collecting bones throughout their journey rather than actively seeking each enemy, saving some time down the line.
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+Date unknown | The quest was renamed from Rag and Bone Man to Rag and Bone Man I .
+
+Trivia [ edit | edit source ]
+
+Rag-and-bone man is a British phrase for a junk dealer. Historically, the phrase referred to an individual who would travel the streets of a city with a horsedrawn cart, and would collect old rags (for converting into fabric and paper), bones for making glue, scrap iron and other items, often trading them for other items of limited value. The bones scattered in and around the Odd Old Man's house have many interesting "examine" texts (a good activity to partake in while waiting for the bones to be polished). One such skeleton states "What a waste of prayer xp!" Examining the pot-boiler at the various stages of boiling the bones will also give interesting texts, the one while the bone is boiling being: "This smells so very, very bad..." Previously in the game, the special bones were common drops, rather than guaranteed drops.
+
+References [ edit | edit source ]
+
+v • t • e Rag and Bone Man I
+
+NPCs | Odd Old Man Fortunato
+
+Items | Jug of vinegar Pot of vinegar Bone in vinegar Bones Goblin Bear Ram Unicorn Giant rat Giant bat Monkey Big frog |  | Jug of vinegar Pot of vinegar Bone in vinegar | Bones | Goblin Bear Ram Unicorn Giant rat Giant bat Monkey Big frog
+
+ | Jug of vinegar Pot of vinegar Bone in vinegar
+
+Bones | Goblin Bear Ram Unicorn Giant rat Giant bat Monkey Big frog
+
+Scenery | Pot-boiler Wish-list
+
+Related | Quick guide Transcript

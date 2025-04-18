@@ -1,0 +1,79 @@
+[Shop: Amulet]
+
+AnAmuletis a piece ofjewelleryinOld School RuneScapeworn in theneck slotof theWorn Equipment tab. Using theCraftingskill, players can create an amulet by adding aball of woolto anunstrung amulet. Most amulets can beenchantedusingMagic, adding various unique bonuses or effects. Unenchanted amulets are purely cosmetic.
+
+Unlike most other enchanted jewellery, some enchanted amulets are available tonon-members, but the most powerful are reserved formembersonly.
+
+Creation[edit|edit source]
+
+Amulet | Level | Enchanted | Level | Ornamental
+
+ | Gold amulet | 8 | - | - | - | - | -
+
+ | Sapphire amulet | 24 |  | Amulet of magic | 7 |  | Amulet of magic (t)
+
+ | Opal amulet | 27 |  | Amulet of bounty | 7 | - | -
+
+ | Emerald amulet | 31 |  | Amulet of defence | 27 |  | Amulet of defence (t)
+
+ | Jade amulet | 34 |  | Amulet of chemistry | 27 | - | -
+
+ | Topaz amulet | 45 |  | Burning amulet | 49 | - | -
+
+ | Ruby amulet | 50 |  | Amulet of strength | 49 |  | Strength amulet (t)
+
+ | Diamond amulet | 70 |  | Amulet of power | 57 |  | Amulet of power (t)
+
+ | Dragonstone amulet | 80 |  | Amulet of glory | 68 |  | Amulet of glory (t)
+
+ | Onyx amulet | 90 |  | Amulet of fury | 87 |  | Amulet of fury (or)
+
+ | Zenyte amulet | 98 |  | Amulet of torture | 93 |  | Amulet of torture (or)
+
+Bonuses[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Amulet of accuracy | 4 | 4 | 4 | 4 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 0.01 | 
+
+ | Amulet of magic | 0 | 0 | 0 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 0.01 | 
+
+ | Amulet of bounty | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 0.007 | 
+
+ | Amulet of defence | 0 | 0 | 0 | 0 | 0 | 7 | 7 | 7 | 7 | 7 | 0 | 0% | 0 | 0 | 0.01 | 
+
+ | Amulet of chemistry | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 0.007 | 
+
+ | Burning amulet | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 0.007 | 
+
+ | Amulet of strength | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 0% | 0 | 0 | 0.01 | 
+
+ | Amulet of power | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 0% | 0 | 1 | 0.01 | 
+
+ | Amulet of glory | 10 | 10 | 10 | 10 | 10 | 3 | 3 | 3 | 3 | 3 | 6 | 0% | 0 | 3 | 0.01 | 
+
+ | Amulet of fury | 10 | 10 | 10 | 10 | 10 | 15 | 15 | 15 | 15 | 15 | 8 | 0% | 0 | 5 | 0.01 | 
+
+ | Amulet of torture | 15 | 15 | 15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 0% | 0 | 2 | 0.01 | 
+
+See also[edit|edit source]
+
+Neck slot tableBraceletNecklaceRingTiaraJewellery
+
+v•t•eAmulets
+
+Crafted | UnstrungGoldOpalJadeTopazSapphireEmeraldRubyDiamondDragonstoneOnyxZenyteStrungGoldOpalJadeTopazSapphireEmeraldPre-natureRubyDiamondDragonstoneOnyxZenyteEnchantedBountyChemistryBurningMagic(t)Defence(t)NatureStrength(t)Power(t)Glory(t)Fury(or)(blood)Torture(or) | Unstrung | GoldOpalJadeTopazSapphireEmeraldRubyDiamondDragonstoneOnyxZenyte | Strung | GoldOpalJadeTopazSapphireEmeraldPre-natureRubyDiamondDragonstoneOnyxZenyte | Enchanted | BountyChemistryBurningMagic(t)Defence(t)NatureStrength(t)Power(t)Glory(t)Fury(or)(blood)Torture(or)
+
+Unstrung | GoldOpalJadeTopazSapphireEmeraldRubyDiamondDragonstoneOnyxZenyte
+
+Strung | GoldOpalJadeTopazSapphireEmeraldPre-natureRubyDiamondDragonstoneOnyxZenyte
+
+Enchanted | BountyChemistryBurningMagic(t)Defence(t)NatureStrength(t)Power(t)Glory(t)Fury(or)(blood)Torture(or)
+
+Special | AvariceThe DamnedEternal glorySalve(e)(i)(ei)
+
+Translation | CamuletCatspeak(e)GhostspeakMonkeyspeak(unstrung)
+
+Other | 3rd ageAccuracyAlchemist'sCat training medalCrone-madeCursed magicDuplicationThe EyeGiantsoulGlarial'sGnomeLunarRancour(silver)Strung rabbit footXeric's talismanYin Yang

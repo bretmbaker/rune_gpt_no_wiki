@@ -1,0 +1,1 @@
+Ana in a barrelis the result of using aBarrelonAna, which is used to smuggle her out of the mining camp she has been imprisoned in, and is a quest item used by the player duringThe Tourist Trapquest. If a player drops the barrel, Ana will climb out of it, and she will appear in the mines again. Players who attempt to teleport out while carrying her will drop the barrel first.

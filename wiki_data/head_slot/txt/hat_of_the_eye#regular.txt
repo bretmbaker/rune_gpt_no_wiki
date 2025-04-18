@@ -1,0 +1,51 @@
+[Weapon: Hat Of The Eye#Regular]
+
+
+Thehat of the eyeis a part of theRaiments of the Eyeset, purchased from theGuardians of the Riftreward shop for 400abyssal pearls. It grants 10% more runes whenRunecrafting, and is increased to 60% when the full set is worn.
+The hat can be recoloured using abyssal dye (received from theRewards Guardian) to a red, blue, or green colour scheme.
+
+
+[Infobox]
+Released: 23 March2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check, Drop
+Worn options: Check
+Examine: The perfect hood[sic]for runecrafting.
+General Store Value: 400 coins
+Alchemy: Not alchemisable
+Weight: 0.4 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Guardians of the Rift/Strategies(Runecrafting)

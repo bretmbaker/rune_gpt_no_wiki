@@ -1,0 +1,1 @@
+Araw lobsteris a type ofcrustaceanwhich can be caught at level 40Fishingwith alobster pot, resulting in 90 Fishingexperience. It can be cooked intoLobsterat level 40Cooking, yielding 120 Cooking experience. Starting at level 74 Cooking, raw lobsters will no longer burn; wearingCooking Gauntletsreduces this threshold to 64 Cooking instead.

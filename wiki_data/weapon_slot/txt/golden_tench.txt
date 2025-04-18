@@ -1,0 +1,58 @@
+[Weapon: Golden Tench]
+
+
+Thegolden tenchis a very rare equipable fish obtained fromaerial fishingatLake Molch, caught at a rate of 1/20,000.[1]When a player receives the tench, a message in the chatbox will state:The cormorant has brought you a very strange tench.
+Equipping the golden tench allows players to 'Whack' other players like therubber chickendoes, but cannot be fumbled like it, and thus is never forcefully dropped on the ground. It can also be stored in amagic wardrobewithin aplayer-owned housecostume room. Multiple golden tenches can be kept at a time.
+
+
+[Infobox]
+Released: 10 January2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: The henchest tench.
+General Store Value: 100 coins
+High alch: 60 coins
+Low alch: 40 coins
+Weight: 0.028 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -50
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Fishing spot (aerial fishing) | 43 | 1 | 1/20,000 | 

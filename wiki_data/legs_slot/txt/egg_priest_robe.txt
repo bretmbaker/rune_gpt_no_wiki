@@ -1,0 +1,46 @@
+[Weapon: Egg Priest Robe]
+
+
+Theegg priest robeis an item that can be obtained from participating in anyEaster event, and was first obtained from the2024 Easter event.
+If destroyed, a replacement can be obtained fromDiangoinDraynor Villageor from thetoy boxof acostume room, as part of the2024: Egg priest vestmentsset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 27 March2024(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: Keeps an egg priest's knees nice and warm.
+General Store Value: 30 coins
+Alchemy: Not alchemisable
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

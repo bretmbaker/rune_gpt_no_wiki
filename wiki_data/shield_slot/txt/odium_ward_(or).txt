@@ -1,0 +1,47 @@
+[Weapon: Odium Ward (Or)]
+
+
+Theodium ward (or)is anodium wardwith award upgrade kitattached to it. The kit gives no additional bonuses, and is only used to add aesthetics to the ward. It costs4,770,798for both the parts to make the odium ward (or).
+While the ward is untradeable in its ornamented state, it can be reverted anytime, returning the odium ward. However, the kitwill notbe returned.
+
+
+[Infobox]
+Released: 9 October2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Revert
+Destroy: You will not get the upgrade kit back.
+Examine: An ancient, evil and beautiful shield forged by Volcanic heat.
+General Store Value: 45,000 coins
+High alch: 27,000 coins
+Low alch: 18,000 coins
+Weight: 3.628 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -12
+- Slash: -12
+- Crush: -12
+- Magic: -8
+- Ranged: +12
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +24
+- Ranged: +52
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +4
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

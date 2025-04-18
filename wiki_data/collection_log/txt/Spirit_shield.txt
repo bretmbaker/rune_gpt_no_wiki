@@ -1,0 +1,4 @@
+Item: Spirit shield
+Summary: The spirit shield is obtained as a drop from the Corporeal Beast. It requires 45 Defence and 55 Prayer to wield.
+Sources:
+- Corporeal Beast (Level 785, Quantity: 1, Rarity: 8/512)

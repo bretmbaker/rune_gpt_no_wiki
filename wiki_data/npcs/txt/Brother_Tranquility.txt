@@ -1,0 +1,2 @@
+Item: Brother Tranquility
+Summary: Brother Tranquility is a zombie monk from Harmony Island. He can be found by the docks of Mos Le'Harmless. Players must talk to him to start The Great Brain Robbery quest. Should players attempt to start the quest without the levels required to complete the quest, Brother Tranquility will simply reply stating that the player does not have the levels required.

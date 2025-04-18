@@ -1,0 +1,259 @@
+[Shop: Rimmington]
+
+Rimmington
+
+
+
+
+
+Released | 6 April2001(Update)
+
+Also called | Rimmy, Rimming
+
+Members | No
+
+Location | Asgarnia
+
+Leagueregion | Asgarnia✓
+
+Inhabitants | Humans
+
+Teleports | Teleport to Houseif Rimmington is house location
+
+Music | •Attention•Emperor•Long Way Home(Classic mode)
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | settlement
+
+
+
+Location onWorld Map
+
+Falador
+
+↑
+
+Crandor | ← | Rimmington | → | Port Sarim
+
+↓
+
+Karamja
+
+Rimmingtonis a small village in south-westAsgarnia. In addition to playing a role in several quests, the village is popular for itsplayer-owned houseportal, which players use to trainPrayerbyun-notingboneswithPhialsand then using them on agilded altar.
+
+Transportation[edit|edit source]
+
+Many teleport options exist to teleport players to the town. The right-most column describes how much walking is needed after the teleport in order to reach any part of the town:
+
+Name | Teleport destination | Requirements | Walk
+
+Teleport to House | Rimmingtonhouse portal | APOHin Rimmington | None
+
+Spirit tree, then sail | Thespirit tree patchinBrimhaven | 83,Tree Gnome Village,30 | Short
+
+Ardougne Teleport, then sail | Ardougne market | Tablet or51,Plague City | Medium
+
+Skills necklace | Crafting Guild, north of the town | Must be charged | Medium
+
+Balloon transport system | Crafting Guild | Crafting Guildentrance | Medium
+
+Crafting cape | Inside theCrafting Guild | 99 | Medium
+
+Ring of the elements | Air Altarentrance, north-east of the town | Must be charged | Long
+
+Fairy ringAIQ | Mudskipper Point, well south of the town | StartedFairytale II | Long
+
+Falador Teleport | Centre ofFalador, well north of the town | Tablet or37 | Very long
+
+Locations[edit|edit source]
+
+Stores[edit|edit source]
+
+Building | Description
+
+Rimmington General Store | A two-storygeneral storewith a shopkeeper and shop assistant. The store rarely has anything of value in it, and is mainly stocked withwillow logsand low levelitems.
+
+Rommik's Crafty Supplies | located south of theRimmington General Store.Rommiksells supplies useful forcrafting. His store is exactly the same as the crafting store inAl Kharid. Players can purchasechisels,ring moulds,necklace moulds,amulet moulds,needles,thread,holy moulds, andtiara mouldsfrom him.
+
+Brian's Archery Supplies | located east ofRommik's store.Briansells supplies used forranging. His store is very similar toLowe's Archery Emporium(located inVarrock), though is much less busy. Players can purchasesteel arrows,mithril arrows,adamant arrows,oak shortbows,oak longbows,willow shortbows,willow longbows,maple shortbows, andmaple longbowsfrom him, however he doesn't sellbronze arrowsbecause they spawn reasonably fast nearby. Twologsand a bronze arrowrespawnon a nearby table in his building. There are alsoratsin his house which can be killed forrat's tailsfor theWitch's Potionquest.
+
+Skill training spots[edit|edit source]
+
+There are fouryew trees() north-west of thegeneral store. BehindBrian's andRommik's stores are dozens ofwillow trees, and there are also someoak treesto the east of the village. Because the nearestbankis quite far away, the trees are not popular for training, but the area may be used as a place to level upFiremakingby cutting a fullinventoryof logs and subsequently burning them. However, there is no space to burn a full inventory of logs in a straight line, hampering training efficiency.TheRimmington minenorth-east of the village containstin,clay,iron,copper, and twogold rocks.There is a bushfarming patchnorth-west of the village.
+
+Buildings[edit|edit source]
+
+Building | Description
+
+Anja and Hengel's house | A three-story house featuring a cookingrangeis on theground floor[UK]1stfloor[US], as well as abronze pickaxethatrespawnson a table. The1stfloor[UK]2ndfloor[US]contains abronze scimitarthat respawns on a table, as well asAnjaandHengel.
+
+Chemist's house | Home of thechemist, who plays a role in various quests.
+
+Crafting Guild | A building where players with aCraftinglevel of 40 or above can train the skill.
+
+Hetty's house | Home of a witch namedHetty, who needs the player's help tocomplete her potion.
+
+Melzar's Maze | A large, dangerous building that must be entered during theDragon Slayer Iquest.
+
+Other structures and landmarks[edit|edit source]
+
+Structure | Description
+
+Cabbage and onion field | A fenced-in area east ofMelzar's Maze, where players can pickcabbagesandonions.
+
+Hobgoblin peninsula | A narrow peninsula withsafespottablehobgoblins, collectablesand, andsnape grassspawns.
+
+House portal | A portal which players can use to enter theirhouse.
+
+Lone oak island | An inaccessible island with a singleoak tree.
+
+Rimmington docks | Docks hosting two ships, which offer transportation to Corsair Cove,Brimhaven, andArdougne.
+
+Well | Found the centre of the village, and can be used as awater source.
+
+Wheat patch | A small fenced-in area east of Anja and Hengel's house, where players can pickwheat.
+
+Treasure Trails[edit|edit source]
+
+Thechemistis the solution to theeasycryptic clue:I would make a chemistry joke, but I'm afraid I wouldn't get a reaction.Rommik's crates are the solution to the easy cryptic clue:Search the crate in Rommiks crafting shop in Rimmington.Anja and Hengel's house hold the solution to the beginner cryptic clue:Search through some drawers in the upstairs of a house in Rimmington.An easySTASH unitcan be found in theRimmington mine, for the emote step:Shrug in the mine near Rimmington.Equip agold necklace, agold ringand abronze spear.Taria is the solution to themediumanagram clue:Ratai. The answer to the challenge scroll she gives you is 7.There is amaster hot/cold stepoutside theCrafting Guild.There is amedium map stepjust west of thechemist's house.
+
+Quests[edit|edit source]
+
+Rimmington is the start point of only one quest, but several other quests require travel to the village:
+
+Quest | Connections | Members?
+
+Biohazard | Players must meet with the chemist (and the characters outside his home) to solve a viral mystery. | 
+
+Dragon Slayer I | Players must enter the home ofMelzar the Madto gethis part of the map. | 
+
+Regicide | Elenasends players to the chemist to make abarrel of naphtha. | 
+
+Skippy and the Mogres | Players must sober up a drunken man. | 
+
+Witch's Potion | Players must collect items forHettythat can be found around the village. | 
+
+Inhabitants[edit|edit source]
+
+Name | Description
+
+Angel | The danger-conscious daughter of Anja and Hengel.
+
+Anja | A kind mother who is lightly charitable after enough begging.
+
+Brian | A man who sells archery supplies for slightly above average prices.
+
+Chancy | An apty-named man with a gambling addiction.
+
+Chemist | An intelligent scientist who helps players with quests and impling hunting.
+
+Cabin Boy Colin | A crewmate who can take players to theCorsair Coveafter completion of theCorsair Cursequest.
+
+Captain Barnaby | An old sea captain who can take players toEast ArdougneorBrimhavenfor 30coins.
+
+Da Vinci | An aloof artist with a pension for painting.
+
+Hengel | A man who is surprisingly anti-social for someone who leaves his house's doors open.
+
+Henja | The danger-conscious son of Anja and Hengel.
+
+Hetty | A friendly witch who needs help making a potion.
+
+Hops (Biohazard) | An apty-named man with a drinking problem.
+
+Melzar the Mad | A man who escaped the island ofCrandorand hid in Rimmington, slowly driven to madness in his seclusion.
+
+Phials | Rimmington'sbanknotemerchant, through whom players trainPrayerby having him unnotebones.
+
+Rommik | A craftware salesman.
+
+Shop assistant | Workers at theRimmington General Store.
+
+Shop keeper
+
+Taria | A gardener who offers the standard functions of all characters who watch overfarming patches.
+
+Tool Leprechaun | A green-clad fellow who can store gardening supplies and note produce.
+
+Music[edit|edit source]
+
+Name | Unlock details | Music track
+
+Attention | Unlocked in Rimmington | 
+
+Emperor | Unlocked in Rimmington | 
+
+Long Way Home | Unlocked south of Falador, including the Crafting Guild | 
+
+Changes[edit|edit source]
+
+Date | Changes
+
+26 September2005(update) | Rimmington was graphically updated. The path linking Rimmington toPort Sarim jailwas removed.
+
+v•t•eRimmington
+
+Inhabitants | AngelAnjaBrianCabin Boy ColinCaptain BarnabyChancyChemistDa VinciHengelHenjaHettyHopsPhialsRommikShop keeperShop assistantTaria
+
+Shops | Rimmington General StoreBrian's Archery Supplies.Rommik's Crafty Supplies.
+
+Features | Chemist's HouseHouse portalRimmington mine
+
+v•t•eBiohazard
+
+NPCs | ElenaJericoMournerMourner (boss)OmartKilronNurse SarahChemistGuidorJulieKing LathasGuardHelpersDa VinciHopsChancy |  | ElenaJericoMournerMourner (boss)OmartKilronNurse SarahChemistGuidorJulieKing LathasGuard | Helpers | Da VinciHopsChancy
+
+ | ElenaJericoMournerMourner (boss)OmartKilronNurse SarahChemistGuidorJulieKing LathasGuard
+
+Helpers | Da VinciHopsChancy
+
+Items | Bird feedPigeon cageRotten appleMedical gownKeyDistillatorPlague sampleTouch paperPriest gownTopBottomChemicalsLiquid honeySulphuric brolineEtheneaDiscontinuedLathas' amulet |  | Bird feedPigeon cageRotten appleMedical gownKeyDistillatorPlague sampleTouch paper | Priest gown | TopBottom | Chemicals | Liquid honeySulphuric brolineEthenea | Discontinued | Lathas' amulet
+
+ | Bird feedPigeon cageRotten appleMedical gownKeyDistillatorPlague sampleTouch paper
+
+Priest gown | TopBottom
+
+Chemicals | Liquid honeySulphuric brolineEthenea
+
+Discontinued | Lathas' amulet
+
+Locations | West ArdougneRimmingtonDancing Donkey InnCombat Training CampMourner Headquarters
+
+Miscellaneous | Quick guideTranscript
+
+v•t•eRegicide
+
+NPCs | Tyras guardChemistGeneral HiningKing's MessengerElvesIdrisMorvranEssylltLord IorwerthElf TrackerArianwynElf warriorArdougne RoyaltyKing LathasKing Tyras |  | Tyras guardChemistGeneral HiningKing's Messenger | Elves | IdrisMorvranEssylltLord IorwerthElf TrackerArianwynElf warrior | Ardougne Royalty | King LathasKing Tyras
+
+ | Tyras guardChemistGeneral HiningKing's Messenger
+
+Elves | IdrisMorvranEssylltLord IorwerthElf TrackerArianwynElf warrior
+
+Ardougne Royalty | King LathasKing Tyras
+
+Items | Crystal pendantBig book of bangsStrip of clothRaw rabbitCooked rabbitMessagesKing'sIorwerth'sSulphurNormalGroundLimestoneBrickQuicklimePot of quicklimeBarrelsBarrelCoal tarBarrel of naphthaNaphtha mixBarrel bomb |  | Crystal pendantBig book of bangsStrip of clothRaw rabbitCooked rabbit | Messages | King'sIorwerth's | Sulphur | NormalGround | Limestone | BrickQuicklimePot of quicklime | Barrels | BarrelCoal tarBarrel of naphthaNaphtha mixBarrel bomb
+
+ | Crystal pendantBig book of bangsStrip of clothRaw rabbitCooked rabbit
+
+Messages | King'sIorwerth's
+
+Sulphur | NormalGround
+
+Limestone | BrickQuicklimePot of quicklime
+
+Barrels | BarrelCoal tarBarrel of naphthaNaphtha mixBarrel bomb
+
+Locations | Underground PassWell of VoyageIban's TempleIsafdarIorwerth CampPoison WastePort TyrasTyras CampRimmington
+
+Music | BreezeCrystal CastleElven MistEverywhereForestLost SoulMeridianOverpassRiversideWell of VoyageWoodland
+
+Related | Quick guideTranscriptFractionalising still

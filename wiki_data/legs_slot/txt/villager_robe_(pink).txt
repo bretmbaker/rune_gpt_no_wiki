@@ -1,0 +1,49 @@
+[Weapon: Villager Robe (Pink)]
+
+
+The pinkvillager robeis a piece of legwear that can be purchased with 300trading sticksfromGabooty's Tai Bwo Wannai Cooperative. If players are wearingKaramja gloves 1or better, the price is reduced to 250 trading sticks per robe.
+It can be stored in amagic wardrobein a player-owned house.
+
+
+[Infobox]
+Released: 9 August2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A brightly coloured robe prized by the Tai Bwo Wannai peoples.
+General Store Value: 250 coins
+High alch: 150 coins
+Low alch: 100 coins
+Weight: 2 kg
+Grand Exchange Value: 3,129 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 3
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

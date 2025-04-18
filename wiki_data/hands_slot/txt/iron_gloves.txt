@@ -1,0 +1,46 @@
+[Weapon: Iron Gloves]
+
+
+Iron glovesare a special pair ofmetal glovesthat can be bought from theCulinaromancer's chestafter completion of twoRecipe for Disastersubquests.
+As with all Culinaromancer's gloves, this itemcannotbe made using theSmithingskill.
+
+
+[Infobox]
+Released: 15 March2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A pair of gloves.
+General Store Value: 250 coins
+High alch: 150 coins
+Low alch: 100 coins
+Weight: 0.226 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +3
+- Slash: +3
+- Crush: +3
+- Magic: +2
+- Ranged: +3
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +3
+- Crush: +3
+- Magic: +2
+- Ranged: +3
+
+Other Bonuses:
+- Strength: +3
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

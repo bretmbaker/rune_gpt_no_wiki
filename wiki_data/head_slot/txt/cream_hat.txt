@@ -1,0 +1,49 @@
+[Weapon: Cream Hat]
+
+
+Acream hatcan be purchased at theTree Gnome StrongholdfromRomettiat his store,Fine Fashions, located north-east on the1stfloor[UK]2ndfloor[US]of theGrand Tree. These hats are a slight upgrade fromWizard hats, as Gnome hats have 1 moreMagicattack and defence.
+This item can be obtained when the player is chasingSolusduring theWanted!quest.
+
+
+[Infobox]
+Released: 12 December2002(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A silly cream pointed hat.
+General Store Value: 160 coins
+High alch: 96 coins
+Low alch: 64 coins
+Weight: 0.453 kg
+Grand Exchange Value: 902 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 1,662
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

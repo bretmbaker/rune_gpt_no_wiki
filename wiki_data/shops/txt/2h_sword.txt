@@ -1,0 +1,159 @@
+[Shop: 2h_sword]
+
+Two-handed sword
+
+
+
+
+
+
+
+Primarytype | Slash
+
+Secondarytype | Crush
+
+
+
+Attack speed
+
+
+
+7 ticks (4.2 seconds)
+
+
+
+Two-handed swordsor2h swordsare powerful yet incredibly slow weapons. Their slow attack speed is made up for by the high damage they can deal in a single attack. The use of arune 2h swordinplayer killingonfree-to-playworlds as a finishing weapon is common.
+
+Two-handed swords offerslashandcrushattack stylesin which they provide high bonuses in compensation for their slow speed. Players should choose the primary slash against most opponents, and the secondary crush against opponents wearing plate armour, such asplatebodyandplatelegs.
+
+Godswordshave an attack speed of 6, compared to an attack speed of 7 on other two-handed swords. TheSaradomin swordhas an attack speed of 4, matching that of aswordorscimitar.
+
+Combat styles[edit|edit source]
+
+Combat style | Attack type | Weapon style | Experience | Level boost
+
+ | Chop | Slash | Accurate |  | +3 Attack
+
+ | Slash | Slash | Aggressive |  | +3 Strength
+
+ | Smash | Crush | Aggressive |  | +3 Strength
+
+ | Block | Slash | Defensive |  | +3 Defence
+
+Standard two-handed swords[edit|edit source]
+
+All standard two-handed swords, with the exception of black, white and dragon, can be smithed from 3barsof the corresponding metal.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze 2h sword | -4 | 9 | 8 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 10 | 0% | 0 | 0 | 3.628 | 
+
+ | Iron 2h sword | -4 | 13 | 10 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 14 | 0% | 0 | 0 | 3.628 | 
+
+ | Steel 2h sword | -4 | 21 | 16 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 22 | 0% | 0 | 0 | 3.628 | 
+
+ | Black 2h sword | -4 | 27 | 21 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 26 | 0% | 0 | 0 | 3.628 | 
+
+ | White 2h sword | -4 | 27 | 21 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 26 | 0% | 0 | 1 | 3.628 | 
+
+ | Mithril 2h sword | -4 | 30 | 24 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 31 | 0% | 0 | 0 | 3.175 | 
+
+ | Adamant 2h sword | -4 | 43 | 30 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 44 | 0% | 0 | 0 | 4.082 | 
+
+ | Rune 2h sword | -4 | 69 | 50 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 70 | 0% | 0 | 0 | 3.628 | 
+
+ | Dragon 2h sword | -4 | 92 | 80 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 93 | 0% | 0 | 0 | 3.628 | 
+
+Godswords[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Ancient godsword | 0 | 132 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 132 | 0% | 0 | 8 | 10 | 
+
+ | Armadyl godsword | 0 | 132 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 132 | 0% | 0 | 8 | 10 | 
+
+ | Armadyl godsword (or) | 0 | 132 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 132 | 0% | 0 | 8 | 10 | 
+
+ | Bandos godsword | 0 | 132 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 132 | 0% | 0 | 8 | 10 | 
+
+ | Bandos godsword (or) | 0 | 132 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 132 | 0% | 0 | 8 | 10 | 
+
+ | Saradomin godsword | 0 | 132 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 132 | 0% | 0 | 8 | 10 | 
+
+ | Saradomin godsword (or) | 0 | 132 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 132 | 0% | 0 | 8 | 10 | 
+
+ | Zamorak godsword | 0 | 132 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 132 | 0% | 0 | 8 | 10 | 
+
+ | Zamorak godsword (or) | 0 | 132 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 132 | 0% | 0 | 8 | 10 | 
+
+Other two-handed swords[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Shadow sword | -4 | 27 | 21 | 4 | 0 | 0 | 0 | 0 | 4 | -1 | 26 | 0% | 0 | 0 | 3.628 | 
+
+ | Spatula | -4 | 27 | 21 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 26 | 0% | 0 | 0 | 3.628 | 
+
+ | Gilded 2h sword | -4 | 69 | 50 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 70 | 0% | 0 | 0 | 3.628 | 
+
+ | Saradomin sword | 0 | 82 | 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 82 | 0% | 0 | 2 | 3 | 
+
+ | Colossal blade | -4 | 98 | 65 | -4 | 0 | 0 | 0 | 0 | 0 | -1 | 100 | 0% | 0 | 0 | 30 | 
+
+ | Saradomin's blessed sword | 0 | 100 | 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 88 | 0% | 0 | 2 | 3 | 
+
+v•t•eWeapons
+
+Melee | StabPickaxeHarpoonDaggerSwordHastaSpearPartisanSlashSickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberdCrushBannerBlackjackCanePolestaffMaceMaulWarhammer | Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan | Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd | Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan
+
+Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd
+
+Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Magic | StaffBattlestaffCrozierMystic staffPowered staffBladed staffWand
+
+Ranged | ShortbowLongbowComposite bowCrossbowBallistaThrownDartThrowing knifeThrowing axeChinchompa |  | ShortbowLongbowComposite bowCrossbowBallista | Thrown | DartThrowing knifeThrowing axeChinchompa
+
+ | ShortbowLongbowComposite bowCrossbowBallista
+
+Thrown | DartThrowing knifeThrowing axeChinchompa
+
+Other | DefenderSalamanderShieldFun weapons
+
+v•t•eSlash weapons
+
+Scimitar | BronzeIronSteelBlackWhiteMithrilAdamantRune(Guthix)(Saradomin)(Zamorak)GildedDragon(or) (cr)Blade of saeldor(corrupted)
+
+Longsword | BronzeIronSteelBlackWhiteMithrilAdamantRuneGraniteDragon(bh) (cr)3rd ageVesta's(blighted)
+
+Battleaxe | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)Leaf-bladedZombie
+
+Claws | BronzeIronSteelBlackWhiteMithrilAdamantRuneBurningDragon(cr)
+
+Halberd | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)CrystalNoxious
+
+Two-handed sword | StandardBronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr)GodswordsAncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or)OtherColossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger | Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr) | Godswords | AncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or) | Other | Colossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger
+
+Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr)
+
+Godswords | AncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or)
+
+Other | Colossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger
+
+Other | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwakerDemonbane swordsSilverlightDarklightArclightEmberlightQuestsAnger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoonCastle WarsGold decorativeRed decorativeWhite decorative |  | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwaker | Demonbane swords | SilverlightDarklightArclightEmberlight | Quests | Anger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoon | Castle Wars | Gold decorativeRed decorativeWhite decorative
+
+ | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwaker
+
+Demonbane swords | SilverlightDarklightArclightEmberlight
+
+Quests | Anger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoon
+
+Castle Wars | Gold decorativeRed decorativeWhite decorative

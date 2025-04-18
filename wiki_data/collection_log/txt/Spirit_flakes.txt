@@ -1,0 +1,4 @@
+Item: Spirit flakes
+Summary: Spirit flakes are a drop received from looting the reward pool after defeating Tempoross. They can be stored in a tackle box.
+Sources:
+- Reward pool (Level N/A, Quantity: 32–64, Rarity: 1/4)

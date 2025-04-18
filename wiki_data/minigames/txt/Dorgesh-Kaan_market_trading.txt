@@ -1,0 +1,799 @@
+[Minigame: Dorgesh-Kaan_market_trading]
+
+ | This is a non-combat activity.Players should not expect to take damage or risk death from this activity.However, anydeathis still considereddangerousfor the purposes ofhardcore statusanditem retrieval services.
+
+Dorgesh-Kaan market trading
+
+
+
+
+
+Released | 20 March2007(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Dorgesh-Kaan
+
+Leagueregion | Misthalin✓
+
+Participants | 1
+
+Skills | None
+
+Reward currency | Coins
+
+Tutorial | Yes
+
+Music | Dorgeshuun City
+
+
+
+Map
+
+
+
+Dorgesh-Kaan market tradingis an activity that can be played at the market ofDorgesh-Kaan. It revolves around selling "exotic" surface foods toDorgeshuungourmetsfor a certain price, with some foods being more or less desired than others. If executed well, a significant amount of money may be earned this way. Completion ofDeath to the Dorgeshuunis required to access the market.
+
+Starting out[edit|edit source]
+
+Before being able to sell foods, you will need to get permission first. This is done by speaking toLurgon, owner ofDorgesh-Kaan General Supplies- he can be found wandering around the middle of the market. He will explain the basics of trading and inform you that you will need permission from theDorgeshuun Councilfirst, with a certain (random) councillor in charge of the marketplace. Find this councillor and ask for permission, which you are granted instantly. Return to Lurgon - you will now be able to sell food to the goblins. This permission is only valid on thegame worldit was earned on. Attempting to start the minigame on another world will require permission to be earned on that world, removing your permission from the previous world.
+
+Councillor | Location
+
+ | Ur-lun | In the south-east of the city, along withUr-pel.
+
+ | Ur-meg | In her house west of the market, south ofBarlak's shop.
+
+ | Ur-pel | In the south-east of the city, along withUr-lun.
+
+ | Ur-taal | In the north-west of the city, by the large pond and outsideOldak's laboratory, along withUr-zek.
+
+ | Ur-tag | East of the council's meeting room in the north-east of the city, on the1stfloor[UK]2ndfloor[US].
+
+ | Ur-vass | Slightly north-east of the market, east of the fountains.
+
+ | Ur-zek | In the north-west of the city, by the large pond and outsideOldak's laboratory, along withUr-taal.
+
+Overview[edit|edit source]
+
+As a result of the established connection to the surface, many goblins have developed a craving for exotic human food. There are four differently dressedgourmetswandering around the market, to whom you are able sell your food. Simply use a piece of food on them and name your price. If your price is too high, however, the gourmet will not buy anything since the food will be too expensive for them; likewise, if the price is too low, the goblin will think the food is of poor quality and not buy it either. If the gourmet agrees with the price, they will offer to buy a certain amount of food (usually up to five pieces depending on whether the price was on the low or high end) and you may agree to sell or decline. If you don't have the amount of food the gourmet desires, you may still sell what you have. Moreover, it is not required to stick with the gourmet's wish - you may sell less if you want to. After completing a transaction with one of the gourmets, you must trade with a different one next - the gourmets will not want to buy from you twice in a row.
+
+Offering a suitable price is tricky. You may use the food on Lurgon to get a rough estimate of the price that the food goes for, along with some advice (see the last section for these prices). This price is usually higher than itshigh level alchemyvalue, but it depends on popularity as well. You may deviate from the suggested price, but not too much. As a rule of thumb, the foods will generally sell best for slightly above Lurgon's price if the gourmet liked its look or smell.
+
+After a successful trade, a grateful gourmet may also give you some Dorgeshuun food for free. This will be one out ofmushrooms,fillets,loach,roast frog,eel sushiorgrubs à la mode.
+
+Gourmet's reaction[edit|edit source]
+
+When determining your price, the gourmet's reaction to the food must be taken into account as well. If they react positively, they will be willing to pay more. However, if they don't like the look of the food, they will not pay as much and it may be a good idea to try selling to a different gourmet, preferably the one with the most positive response. Additionally, it's important to sell a variety of food types; the novelty of all foods quickly wears off, causing the gourmets to pay less if offered the same type of food repeatedly. However, this discount due to repeated selling is only about 0.7% of the price, and can nearly be ignored.
+
+Gourmet's response | Reaction | Multiplier
+
+Yuck, that looks horrid. What is it? | Very negative | 1
+
+Eww, what's that? | Negative | 1.5
+
+So what's that then? | Neutral | 2
+
+That smells nice; what is it? | Positive | 2.5
+
+Mmm, that smells good... What is it? | Very positive | 3
+
+Making an offer[edit|edit source]
+
+To determine the price that a Gourmet is willing to pay, find the price of the item (by talking to Lurgon or consulting the table below). Then, multiply this price by the multiplier.
+
+For example, when offering aManta rayto a Gourmet that had a "positive" response, that Gourmet will "value" it at 2.5 times the Dorgeshuun value (100 x 2.5 = 250).
+
+If you were to offer to sell the manta ray for ≤ 45% (250 x 0.45 - 1), the Gourmet would offer to buy two of them.
+
+Gourmet's response | Price range (% of value)
+
+Hmm...if you're selling them that cheaply there must be something wrong with them. I think I'll pass. | ≤ 10% (won't buy)
+
+That sounds like a great deal to me. I'll take five! | ≤ 25%
+
+That sounds like a great deal to me. I'll take four! | ≤ 35%
+
+That sounds like a good deal to me. I'll take three! | ≤ 40%
+
+That sounds like a good deal to me. I'll take two! | ≤ 45%
+
+That's fair. I'll take one. | ≤ 50%
+
+Hmm, okay. I'll buy one. | ≤ 60%
+
+That's a bit much for me. | ≤ 100%
+
+Don't be absurd - it's clearly not worth that! | no limit (won't buy)
+
+Goodness! We don't deal in sums of money that big in the marketplace. | no limit (won't buy, > 5000 coins)
+
+The trick is to find a balance between a high price and the gourmet's willingness to buy more pieces. Sometimes, lowering the price a bit may lead to greater profits since the gourmet will want to buy more. It's always handy to bring several pieces of the foods you are trying to sell.
+
+Overselling[edit|edit source]
+
+If you sell too many of the same item, over time, the Gourmets will start to offer less money for it. The discount is 1% multiplied by how many of the item you've sold, but this count decrements by one every minute. It is world-specific and true for all players. The discount is capped at 50%, meaning the Gourmets will always pay at least half of the normal price, even if you've sold thousands. You can get a sense of whether the Gourmets are tired of a particular food based on their dialogue response:
+
+Count | Response
+
+0 | Ooh, I've never had that before. How exciting!
+
+1-10 | Oh, I think I've heard people talking about that.
+
+11-20 | Oh, of course. I've had that occasionally.
+
+21-40 | Oh, we have that all the time.
+
+40+ | That again?
+
+If a gourmet has never had a food before, there is a 1% chance that they'll be amazed by the food, and tell all their friends about it. This means that the gourmets will treat this food as "Very positive" for the next 20 minutes, meaning you can charge more money for it.
+
+Types of food[edit|edit source]
+
+Item | Price | GEPrice | Profit
+
+ | 1/2 anchovy pizza | 90 | N/A | N/A
+
+ | 1/2 meat pizza | 75 | N/A | N/A
+
+ | 1/2 pineapple pizza | 150 | N/A | N/A
+
+ | 1/2 plain pizza | 60 | N/A | N/A
+
+ | 2/3 cake | 90 | N/A | N/A
+
+ | 2/3 chocolate cake | 150 | N/A | N/A
+
+ | Admiral pie | 930 | 174 | 756
+
+ | Anchovies | 7 | 36 | −29
+
+ | Anchovy pizza | 180 | 700 | −520
+
+ | Anglerfish | 225 | 1,646 | −1,421
+
+ | Apple pie | 90 | 79 | 11
+
+ | Banana | 2 | 87 | −85
+
+ | Banana stew | 900 | 34 | 866
+
+ | Bass | 20 | 85 | −65
+
+ | Blighted anglerfish | 25 | 460 | −435
+
+ | Blighted karambwan | 30 | 178 | −148
+
+ | Blighted manta ray | 25 | 762 | −737
+
+ | Botanical pie | 90 | 1,078 | −988
+
+ | Bottle of wine | 1,500 | 813 | 687
+
+ | Bread | 36 | 94 | −58
+
+ | Cabbage | 1 | 118 | −117
+
+ | Cabbage (Draynor Manor) | 3 | N/A | N/A
+
+ | Cake | 150 | 165 | −15
+
+ | Calquat fruit | 54 | 253 | −199
+
+ | Cave eel | 7 | 98 | −91
+
+ | Caviar | 25 | 246 | −221
+
+ | Cheese | 12 | 60 | −48
+
+ | Cheese+tom batta | 107 | 2,686 | −2,579
+
+ | Chilli con carne | 166 | 39 | 127
+
+ | Chilli potato | 300 | 125 | 175
+
+ | Choc-ice | 90 | 203 | −113
+
+ | Chocchip crunchies | 135 | 2,220 | −2,085
+
+ | Chocolate slice | 90 | N/A | N/A
+
+ | Chocolate bar | 30 | 64 | −34
+
+ | Chocolate bomb | 166 | 702 | −536
+
+ | Chocolate cake | 210 | 197 | 13
+
+ | Chocolate dust | 6 | 98 | −92
+
+ | Chocolatey milk | 6 | N/A | N/A
+
+ | Chopped onion | 45 | 82 | −37
+
+ | Chopped tomato | 45 | 56 | −11
+
+ | Chopped tuna | 15 | 250 | −235
+
+ | Coconut | 87 | 2,815 | −2,728
+
+ | Cooked barb-tailed kebbit | 4 | 735 | −731
+
+ | Cooked chicken | 4 | 103 | −99
+
+ | Cooked chompy | 130 | 111 | 19
+
+ | Cooked crab meat | 10 | N/A | N/A
+
+ | Cooked crab meat | 20 | N/A | N/A
+
+ | Cooked crab meat | 30 | N/A | N/A
+
+ | Cooked crab meat | 40 | N/A | N/A
+
+ | Cooked crab meat | 50 | 1,494 | −1,444
+
+ | Cooked dashing kebbit | 4 | 1,958 | −1,954
+
+ | Cooked fishcake | 100 | N/A | N/A
+
+ | Cooked graahk | 4 | 722 | −718
+
+ | Cooked jubbly | 150 | 1,475 | −1,325
+
+ | Cooked karambwan | 125 | 522 | −397
+
+ | Cooked kyatt | 4 | 251 | −247
+
+ | Cooked larupia | 4 | 555 | −551
+
+ | Cooked meat | 4 | 94 | −90
+
+ | Cooked moonlight antelope | 4 | 2,877 | −2,873
+
+ | Cooked mystery meat | 4 | 161 | −157
+
+ | Cooked oomlie wrap | 105 | 6,061 | −5,956
+
+ | Cooked pyre fox | 4 | 410 | −406
+
+ | Cooked rabbit | 4 | 256 | −252
+
+ | Cooked slimy eel | 1 | 46 | −45
+
+ | Cooked sunlight antelope | 4 | 742 | −738
+
+ | Cooked sweetcorn | 9 | 158 | −149
+
+ | Cooked undead chicken | 4 | N/A | N/A
+
+ | Cooked undead meat | 4 | N/A | N/A
+
+ | Cooked wild kebbit | 4 | 817 | −813
+
+ | Cod | 5 | 46 | −41
+
+ | Curry | 60 | 445 | −385
+
+ | Dragonfruit pie | 210 | 525 | −315
+
+ | Dragonfruit | 95 | 1,105 | −1,010
+
+ | Dwellberries | 4 | 185 | −181
+
+ | Dark crab | 160 | 1,340 | −1,180
+
+ | Dwarven rock cake | 1 | N/A | N/A
+
+ | Edible seaweed | 6 | 20 | −14
+
+ | Equa leaves | 2 | 196 | −194
+
+ | Egg and tomato | 150 | 169 | −19
+
+ | Egg potato | 150 | 246 | −96
+
+ | Fresh monkfish | 5 | N/A | N/A
+
+ | Fruit batta | 200 | 4,002 | −3,802
+
+ | Fried onions | 21 | 30 | −9
+
+ | Frog spawn | 2 | N/A | N/A
+
+ | Fat snail meat | 30 | 2,054 | −2,024
+
+ | Field ration | 30 | N/A | N/A
+
+ | Fried mushrooms | 126 | 68 | 58
+
+ | Fish pie | 300 | 780 | −480
+
+ | Giant carp | 5 | N/A | N/A
+
+ | Garden pie | 72 | 74 | −2
+
+ | Giant frog legs | 100 | 5,421 | −5,321
+
+ | Gout tuber | 200 | 535,264 | −535,064
+
+ | Half an admiral pie | 465 | N/A | N/A
+
+ | Half a fish pie | 300 | N/A | N/A
+
+ | Half a botanical pie | 45 | N/A | N/A
+
+ | Half a dragonfruit pie | 105 | N/A | N/A
+
+ | Half a meat pie | 24 | N/A | N/A
+
+ | Half a garden pie | 36 | N/A | N/A
+
+ | Half a redberry pie | 18 | N/A | N/A
+
+ | Half a mushroom pie | 45 | N/A | N/A
+
+ | Half a summer pie | 210 | N/A | N/A
+
+ | Half a wild pie | 273 | N/A | N/A
+
+ | Half an apple pie | 45 | N/A | N/A
+
+ | Half coconut | 87 | N/A | N/A
+
+ | Herring | 5 | 19 | −14
+
+ | Jangerberries | 1 | 390 | −389
+
+ | Jug of wine | 3 | 3 | 0
+
+ | Karambwanji | 5 | N/A | N/A
+
+ | Kebab | 9 | 76 | −67
+
+ | Keg of beer | 750 | 520 | 230
+
+ | King worm | 2 | 428 | −426
+
+ | Lean snail meat | 20 | 2,524 | −2,504
+
+ | Lemon | 2 | 95 | −93
+
+ | Lemon chunks | 2 | 115 | −113
+
+ | Lemon slices | 2 | 128 | −126
+
+ | Lime | 2 | 212 | −210
+
+ | Lime chunks | 1 | 183 | −182
+
+ | Lime slices | 2 | 166 | −164
+
+ | Locust meat | 1 | 44 | −43
+
+ | Lobster | 35 | 167 | −132
+
+ | Lava eel | 75 | N/A | N/A
+
+ | Meat pizza | 150 | 323 | −173
+
+ | Meat pie | 45 | 55 | −10
+
+ | Mushroom pie | 90 | 2,490 | −2,400
+
+ | Monkey bar | 150 | 580 | −430
+
+ | Monkey nuts | 9 | 75 | −66
+
+ | Monkfish | 115 | 366 | −251
+
+ | Mackerel | 7 | 21 | −14
+
+ | Manta ray | 100 | 1,572 | −1,472
+
+ | Mushroom potato | 400 | 888 | −488
+
+ | Minced meat | 107 | 292 | −185
+
+ | Mushroom & onion | 400 | 310 | 90
+
+ | Onion & tomato | 45 | 14 | 31
+
+ | Onion | 3 | 79 | −76
+
+ | Orange | 2 | 97 | −95
+
+ | Orange chunks | 2 | 92 | −90
+
+ | Orange slices | 2 | 217 | −215
+
+ | Papaya fruit | 64 | 2,520 | −2,456
+
+ | Pineapple | 2 | 139 | −137
+
+ | Pineapple chunks | 1 | 243 | −242
+
+ | Pineapple ring | 1 | 82 | −81
+
+ | Pot of cream | 2 | 8 | −6
+
+ | Premade c+t batta | 120 | 46 | 74
+
+ | Premade ch' crunch | 85 | 55 | 30
+
+ | Premade choc bomb | 160 | 119 | 41
+
+ | Premade fr't batta | 120 | 43 | 77
+
+ | Premade s'y crunch | 85 | 47 | 38
+
+ | Premade t'd batta | 120 | 43 | 77
+
+ | Premade t'd crunch | 85 | 643 | −558
+
+ | Premade ttl | 160 | 84 | 76
+
+ | Premade veg ball | 150 | 47 | 103
+
+ | Premade veg batta | 120 | 43 | 77
+
+ | Premade w'm batta | 120 | 44 | 76
+
+ | Premade w'm crun' | 85 | 47 | 38
+
+ | Premade worm hole | 150 | 52 | 98
+
+ | Peach | 1 | N/A | N/A
+
+ | Poison karambwan | 125 | N/A | N/A
+
+ | Pike | 10 | 48 | −38
+
+ | Baked potato | 15 | 63 | −48
+
+ | Potato with cheese | 107 | 227 | −120
+
+ | Potato with butter | 90 | 408 | −318
+
+ | Pineapple pizza | 300 | 808 | −508
+
+ | Plain pizza | 120 | 554 | −434
+
+ | Pumpkin pie | 36 | N/A | N/A
+
+ | Purple sweets | 45 | 9,905 | −9,860
+
+ | Rock cake | 3 | N/A | N/A
+
+ | Roll | 75 | N/A | N/A
+
+ | Potato | 1 | 63 | −62
+
+ | Roast beast meat | 25 | 26 | −1
+
+ | Roast bird meat | 17 | 17 | 0
+
+ | Roast rabbit | 20 | 102 | −82
+
+ | Rainbow fish | 60 | 101 | −41
+
+ | Roe | 10 | 119 | −109
+
+ | Rotten apple | 1 | N/A | N/A
+
+ | Red banana | 5 | N/A | N/A
+
+ | Redberry pie | 36 | 189 | −153
+
+ | Seaweed sandwich | 3 | N/A | N/A
+
+ | Slice of cake | 30 | N/A | N/A
+
+ | Stuffed snake | 3 | N/A | N/A
+
+ | Spinach roll | 3 | 300 | −297
+
+ | Steak sandwich | 75 | N/A | N/A
+
+ | Square sandwich | 75 | N/A | N/A
+
+ | Super kebab | 9 | 1,059 | −1,050
+
+ | Stew | 60 | 46 | 14
+
+ | Strange fruit | 3 | 517 | −514
+
+ | Sliced banana | 2 | 82 | −80
+
+ | Spider on shaft | 40 | 187 | −147
+
+ | Spider on stick | 50 | 249 | −199
+
+ | Strawberry | 17 | 112 | −95
+
+ | Salmon | 15 | 65 | −50
+
+ | Sardine | 5 | 30 | −25
+
+ | Sea turtle | 100 | 999 | −899
+
+ | Shark | 85 | 948 | −863
+
+ | Shrimps | 2 | 23 | −21
+
+ | Swordfish | 40 | 164 | −124
+
+ | Spicy sauce | 45 | 636 | −591
+
+ | Spicy tomato | 45 | 535 | −490
+
+ | Sweetcorn (bowl) | 13 | 400 | −387
+
+ | Spicy minced meat | 135 | 785 | −650
+
+ | Spicy crunchies | 200 | 1,954 | −1,754
+
+ | Scrambled egg | 45 | 30 | 15
+
+ | Tchiki monkey nuts | 15 | N/A | N/A
+
+ | Tchiki nut paste | 15 | N/A | N/A
+
+ | Triangle sandwich | 75 | 724 | −649
+
+ | Tenti pineapple | 1 | N/A | N/A
+
+ | Thin snail meat | 10 | 193 | −183
+
+ | Toad's legs | 2 | 613 | −611
+
+ | Tomato | 4 | 22 | −18
+
+ | Trout | 5 | 45 | −40
+
+ | Tuna | 20 | 90 | −70
+
+ | Tangled toad's legs | 333 | 1,068 | −735
+
+ | Toad batta | 150 | 2,031 | −1,881
+
+ | Tuna and corn | 45 | 874 | −829
+
+ | Tuna potato | 166 | 1,433 | −1,267
+
+ | Toad crunchies | 100 | 4,834 | −4,734
+
+ | Ugthanki kebab | 60 | 709 | −649
+
+ | Ugthanki kebab (smelling) | 60 | N/A | N/A
+
+ | Ugthanki meat | 5 | 785 | −780
+
+ | Veg ball | 150 | 1,445 | −1,295
+
+ | Vegetable batta | 136 | 3,920 | −3,784
+
+ | Worm batta | 150 | 2,547 | −2,397
+
+ | Worm crunchies | 200 | 4,021 | −3,821
+
+ | Worm hole | 333 | 3,331 | −2,998
+
+ | Watermelon | 48 | 32 | 16
+
+ | Watermelon slice | 16 | 78 | −62
+
+ | White pearl | 1 | N/A | N/A
+
+ | White tree fruit | 1 | N/A | N/A
+
+Cannot be sold[edit|edit source]
+
+The following are considered disgusting to the Dorgeshuun, prompting Lurgon to say "Yuk!"
+
+Item
+
+ | Black mushroom
+
+ | Cave nightshade
+
+ | Easter egg
+
+ | Pumpkin
+
+ | Summer pie
+
+ | Wild pie
+
+The following items cannot be sold, because they are Dorgeshuun cuisine, prompting Lurgon to say "No, there's no point trying to sell Dorgeshuun foods in the market."
+
+Item
+
+ | Bat shish
+
+ | Coated frogs' legs
+
+ | Eel sushi
+
+ | Fillets
+
+ | Fingers
+
+ | Frogburger
+
+ | Frogspawn gumbo
+
+ | Green gloop soup
+
+ | Grubs à la mode
+
+ | Loach
+
+ | Mushrooms
+
+ | Roast frog
+
+The following are not considered food items.
+
+Item
+
+ | Asgarnian ale
+
+ | Asgoldian ale
+
+ | Beer
+
+ | Beer tankard
+
+ | Braindeath 'rum'
+
+ | Brandy
+
+ | Bucket of milk
+
+ | Cavefish
+
+ | Choc saturday
+
+ | Chopped garlic
+
+ | Chopped ugthanki
+
+ | Cider
+
+ | Cup of tea
+
+ | Damp egg
+
+ | Dirty blast
+
+ | Dyed orange
+
+ | Enchanted bear
+
+ | Enchanted beef
+
+ | Enchanted chicken
+
+ | Enchanted rat
+
+ | Elven dawn
+
+ | Fat snail
+
+ | Fruit blast
+
+ | Garlic
+
+ | Garlic powder
+
+ | Greenman's ale(m)
+
+ | Guppy
+
+ | Hangover cure
+
+ | Infernal eel
+
+ | Kebab mix
+
+ | Lean snail
+
+ | Milky mixture
+
+ | Mint cake
+
+ | Nettle tea
+
+ | Pat of butter
+
+ | Pineapple punch
+
+ | Poison chalice
+
+ | Poisoned cheese
+
+ | Sacred eel
+
+ | Seasoned chompy
+
+ | Seasoned sardine
+
+ | Servery cooked meat
+
+ | Servery meat pie
+
+ | Servery pineapple pizza
+
+ | Servery plain pizza
+
+ | Servery potato
+
+ | Servery stew
+
+ | Short green guy
+
+ | Slop of compromise
+
+ | Spicy maggots
+
+ | Spooky egg
+
+ | Sweetcorn
+
+ | Tetra
+
+ | Ugthanki & onion
+
+ | Ugthanki & tomato
+
+ | Wizard blizzard
+
+v•t•eSolo and Group Activities
+
+Minigames | Player versus MonsterBarbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's ChallengesPlayer versus PlayerBounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man StandingSkillingBrimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic MineCombat & SkillingShades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' GuildMiscellaneousBurthorpe Games Room(Games Zone)Rat PitsTears of Guthix | Player versus Monster | Barbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's Challenges | Player versus Player | Bounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man Standing | Skilling | Brimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic Mine | Combat & Skilling | Shades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' Guild | Miscellaneous | Burthorpe Games Room(Games Zone)Rat PitsTears of Guthix
+
+Player versus Monster | Barbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's Challenges
+
+Player versus Player | Bounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man Standing
+
+Skilling | Brimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic Mine
+
+Combat & Skilling | Shades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' Guild
+
+Miscellaneous | Burthorpe Games Room(Games Zone)Rat PitsTears of Guthix
+
+Raids | Chambers of XericTheatre of BloodTombs of Amascut
+
+Distractions and Diversions | Champions' ChallengeShooting StarsTreasure Trails
+
+Other | Blast mineCamdozaal VaultChompy bird huntingCreature CreationDorgesh-Kaan market tradingKeldagrim tasksManaging MiscellaniaShayzien Combat RingStealing valuablesUnderwater Agility and ThievingWise Old Man tasks
+
+v•t•eDorgesh-Kaan
+
+Inhabitants | Ambassador AlvijarBarlakBartakCrate goblinOldakSpit goblinZanikCave goblinGourmetGuardBankerCouncilGoblin scribeUr-lunUr-megUr-pelUr-taalUr-tagUr-vassUr-zekMarketplaceDurgokGundikLurgonMarkogMiltogReldakTindarTurgokZenkogDaycareMernikCave goblin childNipperYoung 'unTyke |  | Ambassador AlvijarBarlakBartakCrate goblinOldakSpit goblinZanikCave goblinGourmetGuardBanker | Council | Goblin scribeUr-lunUr-megUr-pelUr-taalUr-tagUr-vassUr-zek | Marketplace | DurgokGundikLurgonMarkogMiltogReldakTindarTurgokZenkog | Daycare | MernikCave goblin childNipperYoung 'unTyke
+
+ | Ambassador AlvijarBarlakBartakCrate goblinOldakSpit goblinZanikCave goblinGourmetGuardBanker
+
+Council | Goblin scribeUr-lunUr-megUr-pelUr-taalUr-tagUr-vassUr-zek
+
+Marketplace | DurgokGundikLurgonMarkogMiltogReldakTindarTurgokZenkog
+
+Daycare | MernikCave goblin childNipperYoung 'unTyke
+
+Features | Dorgesh-Kaan Agility CourseDorgesh-Kaan General SuppliesDorgesh-Kaan–Keldagrim train systemDorgesh-Kaan market trading
+
+Items | Goblin bookCave goblin wireLight orbEmpty light orbDorgesh-kaan sphereGoblin village spherePlain of mud sphereFoodBat shishCave eelCoated frogs' legsEel sushiFilletsFingersFrogburgerFrog spawnFrogspawn gumboGreen gloop soupGrubs à la modeLoachMushroomsRoast frogSlimy eelSwamp weed |  | Goblin bookCave goblin wireLight orbEmpty light orbDorgesh-kaan sphereGoblin village spherePlain of mud sphere | Food | Bat shishCave eelCoated frogs' legsEel sushiFilletsFingersFrogburgerFrog spawnFrogspawn gumboGreen gloop soupGrubs à la modeLoachMushroomsRoast frogSlimy eelSwamp weed
+
+ | Goblin bookCave goblin wireLight orbEmpty light orbDorgesh-kaan sphereGoblin village spherePlain of mud sphere
+
+Food | Bat shishCave eelCoated frogs' legsEel sushiFilletsFingersFrogburgerFrog spawnFrogspawn gumboGreen gloop soupGrubs à la modeLoachMushroomsRoast frogSlimy eelSwamp weed
+
+Scenery | InteractiveDorgesh-Kaan Average ChestDorgesh-Kaan Rich ChestLampWire machineDecorativeBank safeBeetleBone CraneBone rackCribFungus seatMagic ballMothOojimaflipPlay blocksThingymajigToy rangeToy sink | Interactive | Dorgesh-Kaan Average ChestDorgesh-Kaan Rich ChestLampWire machine | Decorative | Bank safeBeetleBone CraneBone rackCribFungus seatMagic ballMothOojimaflipPlay blocksThingymajigToy rangeToy sink
+
+Interactive | Dorgesh-Kaan Average ChestDorgesh-Kaan Rich ChestLampWire machine
+
+Decorative | Bank safeBeetleBone CraneBone rackCribFungus seatMagic ballMothOojimaflipPlay blocksThingymajigToy rangeToy sink
+
+Related | Dorgesh-Kaan Agility CourseDorgesh-Kaan market tradingDorgesh-Kaan mineDorgesh-Kaan South Dungeon

@@ -1,0 +1,68 @@
+[Weapon: Masori Mask]
+
+
+TheMasori maskis obtained as a rare drop from theTombs of Amascut. It is part of theMasori armourset, and requires level 80Rangedand 30Defenceto equip. As with the rest of the armour set, the mask boasts the highestrangedattack bonus of any item in thehead slot.
+The mask can be upgraded into afortified variantby attaching anArmadylean plateonto it, increasing the Defence level to equip it to level 80. This process requires level 90Crafting, and is not reversible.
+
+
+[Infobox]
+Released: 24 August2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: An ancient mask once worn by a powerful ranger.
+General Store Value: 800,000 coins
+High alch: 480,000 coins
+Low alch: 320,000 coins
+Weight: 1 kg
+Grand Exchange Value: 8,927,946 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 494
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -1
+- Ranged: +12
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +4
+- Crush: +3
+- Magic: +6
+- Ranged: +4
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +2
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Tombs of Amascut) | N/A | 1 | 2/24 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Barbarian Assault/Strategies(Ranged (high level))
+1 | Chompy bird hunting/Strategy
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | Fortis Colosseum/Strategies(High efficiency)
+2 | General Graardor/Strategies(Solo (Ranged 6:0))
+3 | General Graardor/Strategies(Ranged Attacker)
+2 | Tombs of Amascut/Strategies(Ranged switch)
+2 | Tormented Demon/Strategies(Ranged switch)
+3 | TzHaar Fight Cave/Strategies(Ranged)
+2 | Ultimate Ironman Guide/Equipment

@@ -1,0 +1,47 @@
+[Weapon: Saradomin Cloak (Castle Wars)]
+
+
+TheSaradomin cloakis an item used in theCastle Warsminigameto indicate a player's team. Players are given their team's cloak when they enter any of the threeGodportals:Zamorak,SaradominorGuthix. Because of this cloak players arenotallowed to wear anything in the cape slot.
+The cloak allows the player to teleport back to their team's starting room by using the 'Surrender' option, providing their current hitpoints are below 15%. Similarly to dying, this fully replenishes the player's stats and run energy.
+
+
+[Infobox]
+Released: 13 December2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Worn options: Surrender
+Destroy: You can't remove your team colours.
+Examine: The colours of Saradomin.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 0.001 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

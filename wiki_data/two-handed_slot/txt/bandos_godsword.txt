@@ -1,0 +1,73 @@
+[Weapon: Bandos Godsword]
+
+
+TheBandos godswordis one of the five variants of theGodsword; thehiltis received fromGeneral Graardorwhilst the blade's shards are attainable from any other boss or boss minion in theGod Wars Dungeon. As with all godsword variants, it requires level 75Attackto wield.
+Players can attach aBandos godsword ornament kit, obtained frommaster clue scrolls, to cosmetically enhance the godsword, creating aBandos godsword (or). This only alters its appearance, and gives no stat enhancements. It also becomes untradeable. The ornament kit can be removed, returning both the godsword and the ornament kit.
+
+
+[Infobox]
+Released: 17 October2013(Update)
+Also called: BGS
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Dismantle, Drop
+Examine: A brutally heavy sword.
+General Store Value: 1,250,000 coins
+High alch: 750,000 coins
+Low alch: 500,000 coins
+Weight: 10 kg
+Grand Exchange Value: 13,079,504 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 2,044
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +132
+- Crush: +80
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +132
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +8
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player usesWarstrike, the Bandos godsword's special attack.
+The Bandos godsword'sspecial attack,Warstrike, has doubled accuracy, inflicts 21% more damage and drains the opponent's combat levels equivalent to the damage hit in the following order:Defence,Strength,Prayer,Attack,Magic,Ranged.Warstrikeconsumes 50% of the wielder's special attack energy.Warstrikerolls against the opponent's slash defence roll.
+For example, ifWarstrikeinflicts 50 damage on a foe with 30 in all combat stats, it would drain 30 Defence and 20 Strength levels (leaving the target with 0 Defence and 10 Strength).
+AgainstTekton, it drains his combat skills by 10 (following the stat drain order) if it fails to hit.
+The special attack is similar in effect to theDorgeshuun crossbow,bone dagger,dragon warhammer,elder maul,barrelchest anchor, anddarklight.
+The special attackanimation's colours can be changed to gold, which costs 75Last Man Standingpoints. Once unlocked, the gold trim can be toggled atJustine's stuff for the Last Shopper Standingwhenever the player desires.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Down Do Specs(Melee)
+1 | Tombs of Amascut/Strategies(Core (Phase 2))

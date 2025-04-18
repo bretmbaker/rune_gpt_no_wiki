@@ -1,0 +1,52 @@
+[Weapon: Prop Sword (Death On The Isle)]
+
+
+Theprop swordis an item used duringDeath on the Isle. The player uses it when accusingNaiatliof murder onstage during a play for the party guests atVilla Lucens.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: Death on the Isle
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destroy
+Examine: A fake, curved sword.
+General Store Value: 30 coins
+Alchemy: Not alchemisable
+Weight: 0.2 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence

@@ -1,0 +1,54 @@
+[Weapon: Wooden Shield (G)]
+
+
+Awooden shield (g)is a possible reward from aneasy clue scroll. It is the gold trimmed version of thewooden shield.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: An epic wooden shield with a golden trim.
+General Store Value: 20 coins
+High alch: 12 coins
+Low alch: 8 coins
+Weight: 2.267 kg
+Grand Exchange Value: 136,258 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 98
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +5
+- Crush: +3
+- Magic: +1
+- Ranged: +4
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 1/1,404 | 

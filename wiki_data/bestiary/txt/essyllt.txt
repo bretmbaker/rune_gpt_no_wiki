@@ -1,0 +1,39 @@
+Name: Essyllt
+Combat Level: 236
+Size: 1x1
+Info:
+- Description: The ferocious henchman of Lord Iorwerth.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 8847,8871,8872,8950,9016
+- Link: MOID
+
+Location:
+- Area: Mourner Headquarters (Before Song of the Elves)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 320
+Attack: 268
+Strength: 268
+Defence: 104
+Magic: 104
+Ranged: 342
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

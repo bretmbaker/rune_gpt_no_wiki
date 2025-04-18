@@ -1,0 +1,2 @@
+Item: Nicholas
+Summary: Nicholas is a fisherman who is hunting for sandworms on a beach in Port Piscarilius. If players speak to him, he will direct the player to Tynan, who will ask for help in collecting buckets of sandworms off the beach. Players will need level 15 in Hunter, along with a spade and empty buckets to perform this activity.

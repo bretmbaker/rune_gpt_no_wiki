@@ -1,0 +1,143 @@
+[Weapon: Necklace Of Anguish]
+
+
+Thenecklace of anguishis a necklace made by enchanting azenyte necklacewith theLvl-7 Enchantspell. Requiring level 75Hitpointsto equip, it is a purely offensive neck slot item, offering thebest-in-slotRangedattack andRanged Strengthbonus.
+Players can attach ananguish ornament kit, obtained frommaster clue scrolls, to create anecklace of anguish (or). This is only cosmetic, and does not affect the necklace's stat bonuses. It can be dismantled, returning the necklace and ornament kit.
+
+
+[Infobox]
+Released: 6 May2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A deep sense of anguish burns within this powerful necklace.
+General Store Value: 202,000 coins
+High alch: 121,200 coins
+Low alch: 80,800 coins
+Weight: 0.01 kg
+Grand Exchange Value: 23,627,041 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 1,709
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +15
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +5
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Neck slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyssal Sire/Strategies(Phase 1 Ranged)
+1 | Abyssal Sire/Strategies(Phase 2 Ranged)
+1 | Adamant dragon/Strategies(Ranged)
+1 | Alchemical Hydra/Strategies(Ranged)
+1 | Ancient Wyvern/Strategies(Ranged)
+1 | Araxxor/Strategies(Ranged)
+1 | Artio/Strategies(Ranged)
+1 | Aviansie/Strategies(Ranged)
+1 | Barbarian Assault/Strategies(Ranged (high level))
+1 | Barrows/Strategies(Ranged (Ahrim))
+1 | Basilisk Knight/Strategies(Ranged/Prayer)
+1 | Basilisk Knight/Strategies(Ranged)
+1 | Brutal black dragon/Strategies(Ranged)
+1 | Callisto/Strategies(Ranged)
+1 | Cerberus/Strategies(Ranged)
+1 | Chambers of Xeric/Challenge Mode(Ranged)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Ranged)
+1 | Chambers of Xeric/Strategies(Ranged)
+1 | Chaos Elemental/Strategies(Ranged)
+1 | Chaos Fanatic/Strategies(Ranged)
+1 | Chompy bird hunting/Strategy
+1 | Commander Zilyana/Strategies(Ranged)
+1 | Corporeal Beast/Strategies(Ranged masses)
+1 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+1 | Dagannoth Kings/Strategies(Range)
+1 | Demonic gorilla/Strategies(upgrades and downgrades)
+1 | Drake/Strategies(Ranged)
+1 | Fight Caves Speed-Runner(Ranged)
+1, 2 | Fortis Colosseum/Strategies(High efficiency)
+1 | Fortis Colosseum/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(Budget)
+1 | Galvek Speed-Trialist(Melee)
+1 | General Graardor/Strategies(Solo (Ranged 6:0))
+2 | General Graardor/Strategies(Ranged Tank)
+1 | General Graardor/Strategies(Ranged Attacker)
+1 | General Graardor/Strategies(Solo (Ranged 7:0))
+1 | Giant Mole/Strategies(Ranged)
+1 | Giant Mole/Strategies(Ranged Void)
+1 | Green dragon/Strategies(Ranged)
+1 | Grotesque Guardians/Strategies(Ranged switches)
+1 | Inferno/Strategies(Learners)
+1 | Inferno/Strategies(On task)
+1 | K'ril Tsutsaroth/Strategies(Ranged)
+1 | Kalphite Queen/Strategies(High DPS (Phase Two))
+1 | King Black Dragon/Strategies(Ranged)
+1 | King Black Dragon/Strategies(Ranged BIS smuggle)
+1 | King Black Dragon/Strategies(Crossbow)
+1 | Kree'arra/Strategies(Chinchompas)
+2 | Kree'arra/Strategies(Ranged Tank)
+1 | Kree'arra/Strategies(Tbow / Bowfa)
+1 | Krystilia/Strategies(Ranged)
+1 | Lava dragon/Strategies(Ranged)
+1 | The Leviathan/Strategies(Ranged)
+1 | Lizardman shaman/Strategies(Ranged)
+1 | Maniacal monkey/Strategies(Ranged)
+1 | Metal dragons/Strategies(Ranged)
+1 | The Mimic/Strategies(Ranged)
+1 | Mithril dragon/Strategies(Ranged)
+1 | Nex/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+1 | Phantom Muspah/Strategies(Ranged)
+1 | Phantom Muspah/Strategies(Magic & Ranged)
+1 | Royal Titans/Strategies(Best-in-slot)
+1 | Royal Titans/Strategies(Mid-game)
+1 | Rune dragon/Strategies(Ranged)
+1 | Scurrius/Strategies(Range (high level))
+1 | Skeletal Wyvern/Strategies(Ranged (Void))
+1 | Skeletal Wyvern/Strategies(Ranged)
+2 | Skeleton (Ape Atoll)(Ranged)
+1 | Skotizo/Strategies(Ranged)
+1 | Slayer task/Abyssal demons(Ranged)
+1 | Slayer task/Fossil Island wyverns(Ranged)
+1 | Slayer task/Gargoyles(Ranged)
+1 | Slayer task/Jellies(Ranged)
+1 | Slayer task/Suqah(Ranged (North))
+1 | Slayer task/Wyrms(Ranged)
+1 | Slayer training(Ranged)
+1 | Slayer training(Ranged (Wilderness))
+1 | Spindel/Strategies(Ranged)
+1 | Theatre of Blood/Hard Mode(Range)
+1 | Theatre of Blood/Strategies(Range)
+1 | Tombs of Amascut/Strategies(Ranged switch)
+1 | Tormented Demon/Strategies(Ranged switch)
+1 | TzHaar Fight Cave/Strategies(Pure)
+1 | TzHaar Fight Cave/Strategies(Ranged)
+1 | Ultimate Ironman Guide/Equipment
+1 | Venenatis/Strategies(Ranged)
+2 | Vorkath/Strategies(Ranged (crossbow))
+1 | Zulrah/Strategies(Ranged)

@@ -1,0 +1,41 @@
+Name: Lost barbarian
+Combat Level: 132
+Size: 1x1
+Info:
+- Description: His face is expressionless.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 2921
+- Link: MOID
+
+Location:
+- Area: Ancient Cavern
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 124
+Attack: 115
+Strength: 114
+Defence: 110
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

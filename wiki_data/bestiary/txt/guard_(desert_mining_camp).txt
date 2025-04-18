@@ -1,0 +1,53 @@
+Name: Guard
+Combat Level: 45
+Size: 1x1
+Info:
+- Description: He looks a bit aggressive.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4660,4666,4669
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 60
+Attack: 32
+Strength: 32
+Defence: 39
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+Attack bonus: 9
+Strength bonus: 14
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 17
+Slash: 15
+Crush: 19
+
+[Magic defence]
+Magic: -3
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 19
+Standard: 19
+Heavy: 19

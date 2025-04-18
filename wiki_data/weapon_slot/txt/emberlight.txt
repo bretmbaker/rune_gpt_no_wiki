@@ -1,0 +1,77 @@
+[Weapon: Emberlight]
+
+
+Emberlightis ademonbane weaponrequiring level 77Attackto wield. It is made by using atormented synapseon ananvilwith anArclight(must be fully charged,infused, or a combination) and ahammerin the inventory. This requires level 74Smithing(boostable) and having readDuradel's notesafter completion ofWhile Guthix Sleeps.
+Arclight infusion and charges can be combined to reach the requirement for upgrading, with each percent of infusion being worth 100 charges (for example: 7,000 charges and 30% infusion).
+
+
+[Infobox]
+Released: 10 July2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Revert, Drop
+Examine: Silver, blood and crystal smelted in tormenting flames.
+General Store Value: 800,000 coins
+High alch: 480,000 coins
+Low alch: 320,000 coins
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +63
+- Slash: +70
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +3
+- Crush: +2
+- Magic: +5
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +13
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing Emberlight's special attack,Weaken.
+Emberlight'sspecial attackuses a version ofWeaken, which consumes 50% of the player's special attack energy and lowers the opponent'sStrength,Attack, andDefencelevels by 5% (15% fordemons) of their base level + 1.[1]This is a +5% improvement to Arclight and Darklight's 10% drain on demons but is otherwise the same.
+The accuracy roll forWeakenis made against an opponent's stab defence,[2]and its drain effect only applies tosuccessful hits.
+Weakenwill stack additively uponsuccessful hitsunlike thedragon warhammer, which stacks multiplicatively. Two successful special attacks thus reduce an opponent's Strength, Attack and Defence by 10% + 2, or 30% + 2 against demonic targets.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+1 | Cerberus/Strategies(Melee)
+1 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | Duke Sucellus/Strategies(Melee)
+1 | K'ril Tsutsaroth/Strategies(Melee Tank)
+1 | K'ril Tsutsaroth/Strategies(Solo Melee)
+1 | K'ril Tsutsaroth/Strategies(Melee)
+1 | Skotizo/Strategies(Melee)
+1 | Slayer task/Nechryael(Melee)
+2 | Slayer task/Waterfiends(Melee)
+1 | Tormented Demon/Strategies(Melee switch)
+1 | Ultimate Ironman Guide/Slayer

@@ -1,0 +1,2 @@
+Item: Tower Advisor
+Summary: Tower Advisors are found on the 1st floor[UK]2nd floor[US] of the Ranging Guild and explain the activity on this floor. Players may attack Tower Archers of varying strengths for no reward. Tower Advisors will exclaim when Tower Archers spawn or are all killed in one adjacent tower.

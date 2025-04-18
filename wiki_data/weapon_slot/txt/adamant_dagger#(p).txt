@@ -1,0 +1,73 @@
+[Weapon: Adamant Dagger#(P)]
+
+
+Theadamant daggeris adaggermade ofadamantite. It can be created by using oneAdamant barand ahammeron ananvilat level 70Smithing, granting 62.5 Smithingexperience. As with mostdaggers, it can bepoisoned.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Short and deadly.
+General Store Value: 800 coins
+High alch: 480 coins
+Low alch: 320 coins
+Weight: 0.51 kg
+Grand Exchange Value: 266 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 5,021
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +15
+- Slash: +8
+- Crush: -4
+- Magic: +1
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +1
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +14
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black demonWilderness Slayer Cave | 188 | 1 | 3/74 | 
+CyclopsWarriors' Guild Basement | 106 | 1 | 5/100 | 
+Green dragonWilderness Slayer Cave | 88 | 1 | 1/128 | 
+Ice giantWilderness Slayer Cave | 67 | 1 | 1/62 | 
+Kalphite Guardian | 141 | 1 | 2/128 | 
+Lesser demonWilderness Slayer Cave | 94 | 1 | 1/39 | 
+Reward Chest (The Gauntlet) | N/A | 1 | 1/27 | 
+Reward casket (medium) | N/A | 1 | 10/341 | 
+Steel Chest (black) | N/A | 1 | 4/134.46;4/129.29 | 
+Steel Chest (brown) | N/A | 1 | 4/134.39;4/129.22 | 
+Steel Chest (crimson) | N/A | 1 | 4/134.43;4/129.25 | 
+Steel Chest (purple) | N/A | 1 | 4/134.5;4/129.33 | 
+Steel Chest (red) | N/A | 1 | 4/134.35;4/129.19 | 

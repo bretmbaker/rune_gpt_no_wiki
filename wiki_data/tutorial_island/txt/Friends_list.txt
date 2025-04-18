@@ -1,0 +1,13 @@
+[Page: Friends List]
+
+TheFriends Listtab can be used to send private messages to other players, and to see which worlds they are currently on. If a player's private chat is set to 'off', then they will always appear as offline and it will not be possible to send them a private message. If their private chat is set to 'friends', then only people on their Friends List will be able to send them private messages. TheIgnore Listcan be accessed here by clicking on the red sad face on the top right of the tab.
+To add a player to your Friends List, click the 'Add Friend' button in the Friends List interface, type the player's display name, and press enter or simply right-click their name in the chat box and select 'Add friend'. To delete a friend from the friend list, either right-click their name on the friend list and click 'Delete', or click the 'Del Friend' button, type their name and press enter. The Friends List inOld School RuneScapecan hold up to 200 names forfree-to-playplayers, and 400 names formembers.
+If a player meets one of their friends in-game, the friend's character will be represented by a green dot on theminimapin the upper right corner of the screen, instead of a white dot like most other players.
+The Friends List forOld School RuneScapeis the same Friends List as onRuneScape 3. Therefore, if a player adds a player to their Friends List onRuneScape 3, this player will also be on their Friends List onOld School RuneScape, and vice versa.
+Friends Lists aren't always used for contacting or keeping track of friends - some players might add another player's display name to their Friends List to spy on them, although this would only be possible if the other player has private chat set to 'on'.
+Online friends are sorted by world number in descending order, whereas offline friends are sorted by the order in which they were added (from oldest at the top, to most recent at the bottom).[confirmation needed]
+If your friends or ignore list is empty, there will now be some text displayed rather than showing a blank space.
+If someone on your friends list has recently changed their name you will now be able to see what they were previously known as by hovering over the small icon that will appear.
+The Friends and Ignore lists will now hold 400 names.
+Players on your friends list will appear as green dots even while they are wearingteam capes.
+9mago-Crabby

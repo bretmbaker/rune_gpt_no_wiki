@@ -1,0 +1,75 @@
+[Weapon: Rune Plateskirt]
+
+
+Therune plateskirtis aplateskirtmade out ofrunite. It requires level 40Defenceto wear. The rune plateskirt is identical in function torune platelegs, but is 1 kg lighter.
+It can be created with theSmithingskillby using 3runite barsand ahammeron ananvil; this requires level 99 Smithing and yields 225 Smithingexperience.
+
+
+[Infobox]
+Released: 26 July2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Designer leg protection.
+General Store Value: 64,000 coins
+High alch: 38,400 coins
+Low alch: 25,600 coins
+Weight: 8.164 kg
+Grand Exchange Value: 37,732 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 38,706
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +51
+- Slash: +49
+- Crush: +47
+- Magic: -4
+- Ranged: +49
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Alchemical Hydra | 426 | 1 | 2 × 1.5/101 | 
+Branda the Fire Queen | 350 | 2 | 2 × 12/387 | N/A
+BryophytaMembers | 128 | 1 | 6/118 | 
+BryophytaF2P | 128 | 1 | 6/118 | 
+Casket (Reward pool) | N/A | 2–3(noted) | 1/230 | 
+Chaos Elemental | 305 | 1 | 4/128 | 
+Commander Zilyana | 596 | 1 | 8/127 | 
+Crystal chest | N/A | 1 | 1/128 | 
+Demonic gorilla | 275 | 1 | 35/500 | 
+Elven Crystal Chest | N/A | 1 | 17/512 | 
+Gold Chest (black) | N/A | 1 | 2/144.18;2/142.44 | 
+Gold Chest (brown) | N/A | 1 | 2/143.99;2/142.26 | 
+Gold Chest (crimson) | N/A | 1 | 2/144.08;2/142.35 | 
+Gold Chest (purple) | N/A | 1 | 2/144.28;2/142.54 | 
+Gold Chest (red) | N/A | 1 | 2/143.91;2/142.17 | 
+Obor | 106 | 1 | 3/118 | 
+Reward Chest (The Gauntlet) | N/A | 1–2(noted) | 2 × 1/24 | 
+Reward Chest (The Gauntlet)(Corrupted) | N/A | 2–3(noted) | 3 × 1/24 | 
+Reward casket (elite) | N/A | 1 | 1/32.3 | 
+Reward casket (hard) | N/A | 1 | 1/27.1 | 
+Skotizo | 321 | 3(noted) | 7/100 | 
+The Hueycoatl | 642 | 1–20(noted) | 2/68 | 

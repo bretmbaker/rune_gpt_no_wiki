@@ -1,0 +1,54 @@
+[Weapon: %2724-Carat%27 Sword]
+
+
+The'24-carat' swordis afun weaponfirst obtained as a reward from the2020 Easter eventby using thecarrot swordon the paint buckets at the top ofDuke Rabbacio's castle. Upon doing so, a message in the chatbox statesYou dunk your sword into the paint turning it into a 24 Carot Gold Sword!
+It is classified as afun weaponin legacy duels within theEmir's Arenabecause it gives the player negative bonuses.
+
+
+[Infobox]
+Released: 2 April2020(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: A carrot sword painted gold!
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -50
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

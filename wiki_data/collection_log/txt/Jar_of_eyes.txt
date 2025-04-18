@@ -1,0 +1,4 @@
+Item: Jar of eyes
+Summary: The jar of eyes  is a rare drop from Sarachnis found in the Forthos Dungeon.
+Sources:
+- Sarachnis (Level 318, Quantity: 1, Rarity: 1/2,000)

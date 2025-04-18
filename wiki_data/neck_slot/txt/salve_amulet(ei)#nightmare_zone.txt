@@ -1,0 +1,56 @@
+[Weapon: Salve Amulet(Ei)#Nightmare Zone]
+
+
+TheSalve amulet(ei)is the enchanted and imbued form of thesalve amulet, granting a 20% increase in the wearer's accuracy and damage formelee,ranged, andmagicwhen fightingundead monsters.
+The salve amulet's bonuses against the undeaddo notstack with theblack maskandslayer helmet'son-task bonuses; wearing both will only apply the bonuses of the salve amulet (ei). The salve amulet alsodoes nothave an effect on thedwarf multicannon's accuracy.[1]However, the bonuses ofVoid Knight equipmentdoesstack. Additionally, the amulet's effects apply to all targets when using multi-hitting melee weapons in amulticombat area, such as theScythe of Viturand thespecial attackof thedragon 2h sword, but not for multi-hitting magic and ranged attacks (ex.chinchompasandburst spells).
+
+
+[Infobox]
+Released: 1 May2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Uncharge, Drop
+Examine: Increases melee, ranged and magic damage & accuracy by 20% against the undead.
+General Store Value: 300 coins
+High alch: 180 coins
+Low alch: 120 coins
+Weight: 0.007 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +3
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Neck slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Revenants/Strategies(Magic)
+2 | Revenants/Strategies(Ranged)
+1 | Skeleton (Ape Atoll)(Magic)
+1 | Skeleton (Ape Atoll)(Ranged)
+1 | Vorkath/Strategies(Melee)
+1 | Vorkath/Strategies(Ranged (crossbow))

@@ -1,0 +1,2 @@
+Item: Skeleton (Malignius Mortifer)
+Summary: The skeleton is an undead being that is occasionally summoned by Malignius Mortifer. It follows Malignius around for 12.6 seconds, 21 ticks, before dying. It cannot be attacked.

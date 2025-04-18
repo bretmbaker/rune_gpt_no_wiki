@@ -1,0 +1,47 @@
+[Weapon: Builder%27S Shirt]
+
+
+Builder's shirtis obtained during theTower of Lifequest. This item is part of thebuilder's costume.
+After completing the questTower of Life, the builder's costume is not necessary to enter theTower of Lifeand may be destroyed if wanted. A new set can be obtained within theTower of Life. If you have destroyed or lost your builder's shirt, talk to'The Guns'. He will tell you he wants you to go to Yanille and buy him a cheap beer and then you can get your shirt back by talking to him again.
+
+
+[Infobox]
+Released: 19 February2007(Update)
+Members: Yes
+Quest item: Tower of Life
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You'll have to find another within the Tower of Life!
+Examine: Very fetching.
+General Store Value: 100 coins
+High alch: 60 coins
+Low alch: 40 coins
+Weight: 0.9 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

@@ -1,0 +1,2 @@
+Item: Swarm
+Summary: Swarms are insects found near Brimhaven and Port Piscarilius. They appear to follow the player around. They can only be examined.

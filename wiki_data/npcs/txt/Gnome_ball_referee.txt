@@ -1,0 +1,2 @@
+Item: Gnome ball referee
+Summary: The Gnome ball referee runs the members-only Gnome Ball minigame.

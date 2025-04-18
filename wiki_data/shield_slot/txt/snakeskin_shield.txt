@@ -1,0 +1,48 @@
+[Weapon: Snakeskin Shield]
+
+
+Asnakeskin shieldis aleather shieldthat requires at least level 30RangedandDefenceto be worn.
+
+
+[Infobox]
+Released: 1 February2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A solid willow shield covered in snakeskin leather.
+General Store Value: 920 coins
+High alch: 552 coins
+Low alch: 368 coins
+Weight: 8 kg
+Grand Exchange Value: 350 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 816
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -15
+- Slash: -15
+- Crush: -11
+- Magic: -10
+- Ranged: +3
+
+Defence Bonuses:
+- Stab: +10
+- Slash: +9
+- Crush: +8
+- Magic: +7
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

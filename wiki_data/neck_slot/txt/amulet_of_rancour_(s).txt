@@ -1,0 +1,46 @@
+[Weapon: Amulet Of Rancour (S)]
+
+
+Theamulet of rancour (s)is anamulet of rancourrecoloured to silver. To do so, players must navigate a series of tunnels within theMorytania Spider Cavewith different requirements to reach its end, where players can then use the amulet on aman.
+To recolour an amulet of rancour to silver, players must speak to amanat the end of a series of tunnels within theMorytania Spider Cave, each of which have various requirements to pass through as alluded to in thevenom-riddled note.
+
+
+[Infobox]
+Released: 28 August2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Revert
+Examine: A very powerful zenyte amulet, infused with araxyte venom.
+General Store Value: 400,000 coins
+High alch: 240,000 coins
+Low alch: 160,000 coins
+Weight: 0.011 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +25
+- Slash: +25
+- Crush: +25
+- Magic: -6
+- Ranged: -8
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +12
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Neck slot

@@ -1,0 +1,54 @@
+[Weapon: Dark Trousers]
+
+
+Thedark trousersare a possible reward fromeliteTreasure Trails. They are part of thedark tuxedo outfit, and are purely cosmetic.
+This item can be stored in thetreasure chestof acostume room, as part of thedark tuxedo outfitset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Dark tuxedo trousers with white stockings.
+General Store Value: 6,000 coins
+High alch: 3,600 coins
+Low alch: 2,400 coins
+Weight: 1 kg
+Grand Exchange Value: 1,305,362 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 24
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/12,750 | 

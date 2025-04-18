@@ -1,0 +1,1 @@
+TheBlack amuletis aninterface item. It can be seen in the interface for crafting jewellery. If the player does not have the correct gem to craft an amulet, the black amulet appears in its place as a greyed out version.

@@ -1,0 +1,46 @@
+[Weapon: Training Shield]
+
+
+Thetraining shieldis a beginner's item. The shield has an appearance similar to awhite decorative shieldand has the same bonuses as aWooden shield, though itweighssignificantly more. It can be obtained for free from themelee combat tutoreast ofLumbridge Castle. Players are only allowed one shield at any time.
+
+
+[Infobox]
+Released: 27 September2006(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get another Training shield by talking to the Melee Combat skill tutor north of Lumbridge Castle.
+Examine: Made of flimsy painted wood.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 5.443 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +5
+- Crush: +3
+- Magic: +1
+- Ranged: +4
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

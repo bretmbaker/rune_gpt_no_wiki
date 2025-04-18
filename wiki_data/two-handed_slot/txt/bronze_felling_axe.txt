@@ -1,0 +1,57 @@
+[Weapon: Bronze Felling Axe]
+
+
+Thebronze felling axeis a type offelling axerequiring anAttacklevel of 1 to be equipped, and aWoodcuttinglevel of 1 to be used. Players can create the axe by using afelling axe handleon abronze axewhile having ahammerin their inventory and standing next to ananvil; this process isirreversible, but the felling axe itself remains tradeable.
+Bronze felling axes will chop at the same speed as a normal bronze axe. If the player is carryingforester's rationshowever (either in the inventory or inside aforestry kit), they will receive 10% more Woodcutting experience each time they successfully chop a tree and gain a 20% chance not to receive logs when chopping trees (ortree rootsin theRising Rootsforestry event), at the cost of consuming one ration. This also results in a 20% chance to not receiveanima-infused barkfrom tree roots.
+
+
+[Infobox]
+Released: 25 October2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A woodcutter's felling axe.
+General Store Value: 16 coins
+High alch: 9 coins
+Low alch: 6 coins
+Weight: 1.814 kg
+Grand Exchange Value: 1,118 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 2
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -3
+- Slash: +6
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +8
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 7 ticks (4.2s) | 1 tile |  | +3 Attack
+ | Hack | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence

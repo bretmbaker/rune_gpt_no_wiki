@@ -1,0 +1,46 @@
+[Weapon: Amulet Of Torture (Or)]
+
+
+Theamulet of torture (or)is anamulet of torturewith atorture ornament kitattached to it. The attached ornament kit gives no additional bonuses, and is only used to add aesthetics to the amulet. It costs23,791,084for both the parts to make the amulet of torture (or).
+While the amulet is untradeable in its ornamented state, it can be dismantled anytime, returning the tradeable amulet and ornament kit.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle
+Examine: A deep sense of torture burns within this powerful amulet.
+General Store Value: 202,000 coins
+High alch: 121,200 coins
+Low alch: 80,800 coins
+Weight: 0.01 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +15
+- Slash: +15
+- Crush: +15
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Neck slot

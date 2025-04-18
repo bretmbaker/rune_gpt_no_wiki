@@ -1,0 +1,1 @@
+Rejuvenation potionsare created by adding abruma herbto arejuvenation potion (unf), earningHerbloreexperienceequal to the player's Herblore level divided by 10.

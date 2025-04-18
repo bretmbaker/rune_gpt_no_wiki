@@ -1,0 +1,56 @@
+[Weapon: Gadderhammer]
+
+
+Thegadderhammeris a two-handedmembers-onlymaul. There are no combat requirements for wielding the gadderhammer. To obtain the gadderhammer the player must defeatGadderanksduringIn Aid of the Myreque. Even though it can be purchased from another player or theGrand Exchange, it cannot be wielded until Gadderanks is defeated.
+This weapon cannot be made using theSmithingskill. It has a very similar appearance and combat animation to thegranite maul, and stats similar to anAdamant warhammer.
+
+
+[Infobox]
+Released: 22 March2006(Update)
+Members: Yes
+Quest item: In Aid of the Myreque
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A specially crafted hammer with strange markings on it.
+General Store Value: 3,000 coins
+High alch: 1,800 coins
+Low alch: 1,200 coins
+Weight: 1.814 kg
+Grand Exchange Value: 2,799 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 123
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: -4
+- Crush: +35
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +35
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

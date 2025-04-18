@@ -1,0 +1,37 @@
+Name: Tok-Xil
+Combat Level: 135
+Size: 3x3
+Info:
+- Description: I don't like the look of those spines...
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 141
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 60
+Attack: 120
+Strength: 180
+Defence: 90
+Magic: 90
+Ranged: 180
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

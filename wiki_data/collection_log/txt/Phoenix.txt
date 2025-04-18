@@ -1,0 +1,4 @@
+Item: Phoenix
+Summary: 
+Sources:
+- Reward Cart (Level N/A, Quantity: 1, Rarity: 1/5,000)

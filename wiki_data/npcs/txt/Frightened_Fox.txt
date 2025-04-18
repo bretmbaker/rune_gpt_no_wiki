@@ -1,0 +1,2 @@
+Item: Frightened Fox
+Summary: A Frightened Fox appears during the Poacher Forestry event. The fox will attempt to escape the poachers laying down fox traps. At the beginning of the event, the fox has 100 hitpoints. However, the fox will move and eventually migrate and step on an open trap; the fox will be damaged 33 to 34 hitpoints if a trap is not disarmed in time. This means ignoring more than two traps will lead to the fox dying and players not receiving bonus rewards.

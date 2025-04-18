@@ -1,0 +1,53 @@
+Name: Zombie
+Combat Level: 159
+Size: 1x1
+Info:
+- Description: The walking dead.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 4.2 xp
+- Category: Zombies
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 6741
+- Link: MOID
+
+Location:
+- Area: Stronghold of Security, fourth level
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Air rune (1/5)
+- Cosmic rune (1/30)
+- Chaos rune (1/5)
+- Fishing bait (1/4)
+- Coins (1/10)
+- Bones (1/30[d 1])
+- Dragon bones(m) (1/256[d 3])
+- Dragon bones(m) (1/256)
+- Long bone(m) (1/400)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 170
+Attack: 130
+Strength: 130
+Defence: 130
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

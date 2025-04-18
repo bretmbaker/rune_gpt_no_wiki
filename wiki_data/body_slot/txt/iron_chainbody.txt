@@ -1,0 +1,60 @@
+[Weapon: Iron Chainbody]
+
+
+Theiron chainbodyis the second weakestchainbodyinRuneScape, and can be worn by a player with 1Defence. A player with 26Smithingcan make the chainbody by using threeiron barson ananvilwhile carrying ahammer, granting 75 Smithingexperience.
+An iron chainbody is required for theBlack Knights' Fortress,King's Ransom, andWhile Guthix Sleepsquests.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A series of connected metal rings.
+General Store Value: 210 coins
+High alch: 126 coins
+Low alch: 84 coins
+Weight: 6.803 kg
+Grand Exchange Value: 135 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 5,277
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +10
+- Slash: +15
+- Crush: +19
+- Magic: -3
+- Ranged: +12
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Cave goblin guard | 24; 26 | 1 | 20/128 | 
+Combat path starter kit | N/A | 1 | Always | N/A
+Cyclops (Catacombs of Kourend) | 56; 76 | 1 | 2/100 | 
+Cyclops (God Wars Dungeon) | 81 | 1 | 2/100 | 
+CyclopsWarriors' Guild Rooftop | 56; 76 | 1 | 2/100 | 
+Guard (Cave goblin) | 24; 26 | 1 | 20/128 | 
+Ork | 107 | 1 | 5/128 | 

@@ -1,0 +1,56 @@
+[Weapon: Adamant Crossbow]
+
+
+Anadamant crossbowis acrossbowthat is stronger than themithril crossbowbut weaker than therune crossbow. It requires aRangedlevel of 46 to wield, and can fireboltsup to and includingadamant bolts. It has an attack range of 7 increased to 9 with longrange.
+Adamant crossbows can be made through theFletchingskill at level 61; a player must first cut amahogany stockfor the crossbow frommahogany logs, granting 41 Fletchingexperience. Then, a player must addadamantite limbsto the stock with a hammer in their inventory, granting 82 experience and making anunstrung adamant crossbow. Finally, a player must string the crossbow with acrossbow string, granting 41 experience. Creating an adamant crossbow from raw materials grants 164 Fletching experience in total.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: An adamantite crossbow.
+General Store Value: 1,767 coins
+High alch: 1,060 coins
+Low alch: 706 coins
+Weight: 6 kg
+Grand Exchange Value: 2,304 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 1,090
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +78
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Heavy | Accurate | 6 ticks (3.6s) | 7 tiles |  | +3 Ranged
+ | Rapid | Heavy | Rapid | 5 ticks (3.0s) | 7 tiles |  | None
+ | Longrange | Heavy | Longrange | 6 ticks (3.6s) | 9 tiles |  | +3 Defence

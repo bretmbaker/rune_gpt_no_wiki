@@ -1,0 +1,63 @@
+[Weapon: Staff Of Bob The Cat]
+
+
+Thestaff of bob the catis a rare reward obtained fromeasyTreasure Trails.
+It shares the same bonuses as amagic staff, and does not provide unlimitedrunesof any type.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A staff styled after the elusive cat.
+General Store Value: 1,500 coins
+High alch: 900 coins
+Low alch: 600 coins
+Weight: 2 kg
+Grand Exchange Value: 109,510 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 40
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +2
+- Slash: -1
+- Crush: +10
+- Magic: +10
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +10
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +7
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 1/1,404 | 

@@ -1,0 +1,46 @@
+[Weapon: Alchemist%27S Amulet#Charged]
+
+
+Thealchemist's amuletis an item purchased from theMixology Rewardsshop with 6,900Mox resin, 5,650Aga resin, and 7,400Lye resin, which are earned from participating in theMastering Mixologyminigame. While the amulet is equipped, there is a 15% chance the player will create a potion with an extra dose when brewing potions (but with no extra experience), which consumes one charge. This effect works when adding secondaries to potions with fewer than 3 doses, such asanti-venomandstamina potions.
+When first purchased, the amulet is pre-charged with 50 uses. Additional charges can be added by usingamulets of chemistryon it - with each giving 10 charges - up to a maximum of 5,000. On average, each Amulet of chemistry added will last for ~67 potions made, giving a fully charged Alchemist's amulet ~33,333 potions made, of which, 5000 will have an extra dose.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Bankable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Charge, Drop
+Examine: Useful when making potions - has the chance of giving an extra dose.
+General Store Value: 1,050 coins
+Alchemy: Not alchemisable
+Weight: 0.007 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

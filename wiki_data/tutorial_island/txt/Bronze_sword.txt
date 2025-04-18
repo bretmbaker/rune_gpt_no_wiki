@@ -1,0 +1,7 @@
+[Page: Bronze sword]
+
+Infobox:
+Bronze swordReleased4 January2001(Update)MembersNoQuest itemNoPropertiesTradeableYesEquipableYesStackableNoNoteableYesOptionsWield, DropExamineA razor sharp sword.ValuesValue26 coinsHigh alch15 coinsLow alch10 coinsWeight1.814 kgRespawn time100 ticks (60 seconds)Grand ExchangeExchange62coins (info)Buy limit125Daily volume2,140View real-time pricesLoading...Advanced dataItem ID1277LinkMOID
+
+Description:
+Thebronze swordis a low-levelweaponmade ofbronze. It can be purchased from theVarrock Swordshop, or made at level 4Smithingusing 1bronze bar, granting 12.5 experience.

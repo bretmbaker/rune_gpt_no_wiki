@@ -1,0 +1,55 @@
+[Weapon: Sapphire Dragon Bolts (E)]
+
+
+Sapphire dragon bolts (e)aresapphire dragon boltsthat are enchanted via theEnchant Crossbow Bolt (Sapphire)spell by a player with level 7Magic. The spell enchants 10 bolts per cast, and uses 1cosmic, 1mind, and 1water rune. These bolts can only be used with aDragon crossbowor better.
+Sapphire dragon bolts (e) have a chance of triggering theClear Mindeffect.
+
+
+[Infobox]
+Released: 4 January2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Enchanted Dragon crossbow bolts, tipped with sapphire.
+General Store Value: 780 coins
+High alch: 468 coins
+Low alch: 312 coins
+Weight: 0 kg
+Grand Exchange Value: 3,511 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 272,279
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +122
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Phantom Muspah/Strategies(Ranged)
+1 | Phantom Muspah/Strategies(Magic & Ranged)

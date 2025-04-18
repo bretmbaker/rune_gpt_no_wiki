@@ -1,0 +1,57 @@
+Name: Monkey Archer
+Combat Level: 86
+Size: 1x1
+Info:
+- Description: A bow wielding ninja monkey. It looks particularly dangerous.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 50 xp
+- Category: Monkeys
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 5273,6813
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Ensouled monkey head (1/35)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 50
+Attack: 80
+Strength: 80
+Defence: 80
+Magic: 1
+Ranged: 110
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

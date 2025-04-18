@@ -1,0 +1,71 @@
+Name: Salarin the twisted
+Combat Level: 70
+Size: 1x1
+Info:
+- Description: Twisted by name, twisted by nature.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 304
+- Link: MOID
+
+Location:
+- Area: Yanille Agility Dungeon
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Black dagger (1/128)
+- Nature rune (1/128)
+- Fire rune (1/128)
+- Grimy guam leaf (1/13.1)
+- Grimy marrentill (1/17.5)
+- Grimy tarromin (1/23.3)
+- Grimy harralander (1/30)
+- Grimy ranarr weed (1/38.2)
+- Grimy irit leaf (1/52.5)
+- Grimy avantoe (1/70)
+- Grimy kwuarm (1/84)
+- Grimy cadantine (1/105)
+- Grimy lantadyme (1/140)
+- Grimy dwarf weed (1/140)
+- Snape grass (1/128)
+- Vial of water (1/128)
+- Super defence(1) (11/128)
+- Nothing (1/256.47; Never[d 1])
+- Uncut sapphire (1/512; 1/260[d 2])
+- Uncut emerald (1/1,024; 1/520[d 2])
+- Uncut ruby (1/2,048; 1/1,040[d 2])
+- Uncut diamond (1/8,192; 1/4,160[d 2])
+- Chaos talisman (1/5,461.33; 1/2,773.33[d 2])
+- Loop half of key (1/16,384; 1/8,320[d 2])
+- Tooth half of key (1/16,384; 1/8,320[d 2])
+- Rune javelin (1/16,384; 1/8,320[d 2])
+- Rune spear (1/262,144; 1/15,600[d 2][d 3])
+- Shield left half (1/524,288; 1/31,200[d 2][d 3])
+- Dragon spear (1/699,050.67; 1/41,600[d 2][d 3])
+- Clue scroll (elite) (1/500[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 70
+Attack: 58
+Strength: 58
+Defence: 62
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

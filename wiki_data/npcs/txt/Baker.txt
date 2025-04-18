@@ -1,0 +1,2 @@
+Item: Baker
+Summary: Bakers run bakery stalls in the East Ardougne market as well as in the Great Kourend market. Players can purchase or steal cakes, bread, and chocolate cake slices from their stalls. Stealing, however, may attract the attention of nearby guards, who will attack the player. If a player attempts to steal from the stall while in the bakers' view, that player will be unsuccessful. One Ardougne baker has a daughter named Ramara du Croissant.

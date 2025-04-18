@@ -1,0 +1,1 @@
+Acrate of materialsis an item in theSailing alpha. It is picked up from theledger tableduring thePandemoniumquest and must be delivered toJunior Jim. Upon picking it up it is automatically equipped, and attempting to unequip it prints the messageYou can't remove the cargo. You'll need to find a safe place to put it down first.It can be set down at the ledger table.

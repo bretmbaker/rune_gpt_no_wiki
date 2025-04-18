@@ -1,0 +1,55 @@
+[Weapon: Spirit Angler Headband]
+
+
+TheSpirit angler headbandis an upgraded version of theangler hat. It can be purchased fromGita Prymesby exchanging anangler hatalong with 1,200spirit flakes. The headband grants 0.4% bonusFishingexperience. Tempoross has a skill requirement of 35 Fishing; therefore, the headband requires level 35 Fishing to wear.
+Wearing the completeSpirit angler's outfitacts as aropefor tethering tototem polesandmastswhile battlingTempoross, and grants a total of 2.5% bonus fishing experience.
+
+
+[Infobox]
+Released: 24 March2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: This will help with fishing.
+General Store Value: 120 coins
+High alch: 72 coins
+Low alch: 48 coins
+Weight: 0.5 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Tempoross/Strategies(Solo Cooking)
+1 | Tempoross/Strategies(Solo Cooking (5 Rounds))
+1 | Tempoross/Strategies(Solo No Cooking)
+1 | Tempoross/Strategies(Standard)
+1 | Tempoross/Strategies(Solo Cooking + Firefighting (Max Permits))

@@ -1,0 +1,50 @@
+ | This quest has an in-depth guide . It contains a more detailed description of dialogue, cutscenes, and storyline.
+
+Details [ edit | edit source ]
+
+Start point | Search the bookcases in the Exam Centre 's library and read the beaten book Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | Among the ancient scrolls and papers held at the Dig Site's Examination Centre, scholars have discovered more references to the mysterious elemental ore. Recently they have uncovered a beaten book detailing long-lost uses for this odd material.
+Can you decrypt the code that will lead you to the deeper depths of the Elemental Workshop? Can you get your head around fixing the mind-bending machinery, or will you fry your brain in the attempt?
+
+Requirements | 20 Magic ( boostable ) 30 Smithing ( boostable ) Completion of Elemental Workshop I
+
+Items required | Pickaxe (if obtaining elemental ore during quest) Hammer 2 Elemental metals (3 elemental metals if you wish to smith the Mind shield ), or: 2 Elemental ore (obtainable during quest) (3 if you wish to smith the mind shield) 8 Coal (12 if you wish to smith the mind shield) The battered key from Elemental Workshop I
+
+Recommended | 15 Combat level Fast travel to the Exam Centre ( Digsite teleport or Digsite pendant or Senntisten teleport ) Fast travel to Seers' Village ( Camelot Teleport or Combat Bracelet to the Ranging Guild) Restore potion or Magic potion to recover Magic levels if your Magic level is below 40 and you wish to smith the Mind shield The slashed book if you wish to smith the Mind shield
+
+Enemies to defeat | (If you do not have the elemental metal bars) 2 Earth elementals (level 35)
+
+League notes | Kandarin ✓ — location requirement
+
+Walkthrough [ edit | edit source ]
+
+Starting out [ edit | edit source ]
+
+The second key [ edit | edit source ]
+
+Making Repairs [ edit | edit source ]
+
+Operating the machine [ edit | edit source ]
+
+Finishing up [ edit | edit source ]
+
+Rewards [ edit | edit source ]
+
+1 Quest point 7,500 Smithing experience 7,500 Crafting experience The ability to make and use elemental mind equipment To make a mind shield : have the slashed book from the Elemental Workshop I quest in your inventory, then smith a primed mind bar into a mind shield
+
+v • t • e Elemental Workshop II
+
+NPCs | Earth elemental Fire elemental Jig cart
+
+Items | Beaten book Scroll Crane schematic Lever schematic Key Pipe Large cog Medium cog Small cog Crane claw Primed bar Primed mind bar Elemental helmet Mind helmet Mind shield
+
+Locations and scenery | Elemental Workshop Extractor ( Extractor hat , Extractor gun ) Workbench Lever Mine cart sign Schematic crate Old crane Stairwell Steam press ( Junction box ) Water tank ( Water valve , Corkscrew lever ) Wind tunnel ( Cog , Tunnel wall , Fan blade )
+
+Music | Prime Time
+
+Related | Quick guide Elemental Workshop I

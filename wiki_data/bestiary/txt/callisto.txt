@@ -1,0 +1,70 @@
+Name: Callisto
+Combat Level: 470
+Size: 5x5
+Info:
+- Description: I wouldn't want to eat his Porridge.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 1,300 xp
+- Category: Bears, Bosses
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 6609
+- Link: MOID
+
+Location:
+- Area: Callisto's Den
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for Callisto:
+
+Notable Drops:
+- Claws of callisto (1/196[3])
+- Dragon 2h sword (1/256[3])
+- Dragon pickaxe (1/256[3])
+- Voidwaker hilt (1/360[3])
+- Tyrannical ring (1/512[3])
+- Grimy toadflax (1/126)
+- Grimy dwarf weed (1/126)
+- Grimy ranarr weed (1/126)
+- Grimy snapdragon (1/126)
+- Blighted anglerfish (1/126)
+- Blighted anglerfish (1/18)
+- Blighted karambwan (1/18)
+- Blighted super restore(3) (1/18)
+- Blighted super restore(4) (1/18)
+- Ranging potion(2) (1/18)
+- Super combat potion(2) (1/18)
+- Looting bag (1/3)
+- Brimstone key (1/50[d 1])
+- Clue scroll (elite) (1/100; 1/50[d 3][d 2])
+- Long bone (1/400)
+- Callisto cub (1/1,500[d 4][3])
+- Larran's key (1/50)
+- Slayer's enchantment (1/30)
+
+Combat Achievements:
+- Callisto Adept: Kill Callisto 10 times. (Hard (3 pts))
+- Callisto Veteran: Kill Callisto 20 times. (Elite (4 pts))
+
+[Combat stats]
+Hitpoints: 1000
+Attack: 350
+Strength: 300
+Defence: 225
+Magic: 140
+Ranged: 200
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

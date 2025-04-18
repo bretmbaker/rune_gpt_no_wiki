@@ -1,0 +1,79 @@
+[Weapon: Black Mace]
+
+
+Ablack maceis ameleeweaponstronger than thesteel mace, requiring 10Attackto wield. It is only obtainable infree-to-playby killingdark warriors, frombeginner clue scrollsor fromCamdozaal Vaultlockboxes.Memberscan also loot it from bronze chests in theShade Catacombsin theShades of Mort'tonminigameor from level 106Cyclopsin theWarriors' Guildbasement.
+As with mostmaces, it has aPrayer bonusand like allblack equipmentit cannot be made from raw materials withSmithing.
+
+
+[Infobox]
+Released: 27 February2002(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A spiky mace.
+General Store Value: 432 coins
+High alch: 259 coins
+Low alch: 172 coins
+Weight: 1.814 kg
+Grand Exchange Value: 800 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 325
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +8
+- Slash: -2
+- Crush: +16
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +13
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Bronze Chest (black) | N/A | 1 | 2/98.64;2/95.56 | 
+Bronze Chest (brown) | N/A | 1 | 2/98.59;2/95.51 | 
+Bronze Chest (crimson) | N/A | 1 | 2/98.62;2/95.53 | 
+Bronze Chest (purple) | N/A | 1 | 2/98.67;2/95.59 | 
+Bronze Chest (red) | N/A | 1 | 2/98.56;2/95.48 | 
+CyclopsWarriors' Guild Basement | 106 | 1 | 5/100 | 
+Dark warriorGreat Kourend | 37; 51; 62 | 1 | 1/128 | 
+Dark warriorLow level | 8 | 1 | 1/128 | 
+Dark warriorHigh level | 145 | 1 | 1/128 | 
+Elaborate lockbox | N/A | 1 | 12/2,625 | 
+Ornate lockbox | N/A | 1 | 36/2,450 | 
+Reward casket (beginner) | N/A | 1 | 11/8,856 | 
+Simple lockbox | N/A | 1 | 12/10,850 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Free-to-play Ironman guide(Prayermelee gear)

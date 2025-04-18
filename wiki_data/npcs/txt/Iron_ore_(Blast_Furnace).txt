@@ -1,0 +1,2 @@
+Item: Iron ore (Blast Furnace)
+Summary: Iron ore is an entity only visible at the Blast Furnace after iron ore is deposited on the conveyor belt, before it goes into the melting pot.

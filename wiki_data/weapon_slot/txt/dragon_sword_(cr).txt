@@ -1,0 +1,53 @@
+[Weapon: Dragon Sword (Cr)]
+
+
+Thedragon sword (cr)is a cosmetic variant of thedragon swordwith aBounty hunter ornament kitadded to it. The colour scheme is that of a corrupt dragon aesthetic meant to imitate the original appearance ofcorrupt dragon equipmentfromRuneScape.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle
+Examine: A razor sharp sword.
+General Store Value: 73,001 coins
+High alch: 43,800 coins
+Low alch: 29,200 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +65
+- Slash: +55
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +2
+- Crush: +1
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +63
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence

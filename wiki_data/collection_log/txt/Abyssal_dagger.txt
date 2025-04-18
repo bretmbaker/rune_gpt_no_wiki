@@ -1,0 +1,7 @@
+Item: Abyssal dagger
+Summary: The abyssal dagger is the most powerful dagger in the game and requires 70 Attack to wield. Players have a 13/64 (~20.3%) chance of receiving an abyssal dagger when using an unsired on the Font of Consumption at the centre of the Abyssal Nexus, giving it effectively a chance of 1/492 (~0.20%) per Abyssal Sire kill. Players also have a 1/32,000 (~0.003%) chance of receiving an abyssal dagger as a drop from abyssal demons.
+Sources:
+- Abyssal demon Wilderness Slayer Cave (Level 124, Quantity: 1, Rarity: 1/32,000)
+- Abyssal demon Standard (Level 124, Quantity: 1, Rarity: 1/32,000)
+- Greater abyssal demon (Level 342, Quantity: 1, Rarity: 1/32,000)
+- Unsired (Level N/A, Quantity: 1, Rarity: 26/128)

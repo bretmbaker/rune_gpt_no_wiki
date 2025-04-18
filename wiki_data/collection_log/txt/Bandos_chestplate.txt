@@ -1,0 +1,7 @@
+Item: Bandos chestplate
+Summary: The Bandos chestplate is a part of the Bandos armour set, which requires 65 Defence to wear. It is dropped by General Graardor and his bodyguards in the God Wars Dungeon. The Bandos chestplate provides a +4 Strength bonus, and more defensive bonuses than comparable body armours such as the fighter torso and inquisitor's hauberk. Despite seemingly being made of metal, the Bandos chestplate does not interfere with Ava's devices.
+Sources:
+- General Graardor (Level 624, Quantity: 1, Rarity: 1/381)
+- Sergeant Grimspike (Level 142, Quantity: 1, Rarity: 1/16,256)
+- Sergeant Steelwill (Level 142, Quantity: 1, Rarity: 1/16,256)
+- Sergeant Strongstack (Level 141, Quantity: 1, Rarity: 1/16,256)

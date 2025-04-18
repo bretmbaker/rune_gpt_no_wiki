@@ -1,0 +1,66 @@
+[Weapon: Holy Book]
+
+
+Theholy bookis a book held in place of ashield, and is thegod bookaligned withSaradomin. God books are commonly used for their prayer bonus, something few shields offer. The Holy book is obtained from theHorror from the Deepquest. The book is received from the quest as just a cover, and requires 4Saradomin pagesobtained fromTreasure Trailsto be completed. The book will not give any bonuses (with the exception of the +5 prayer bonus) until it is completed. An incomplete holy book does count as a Saradomin item in theHallowed Sepulchre. With 50Prayerand a completed book, players can enchantunblessed symbolsintoholy symbols.
+Equipping a holy book allows the player to preach and perform ceremonies, such as blessing, last rites, and wedding rites, by operating it (none of which have any effect on the game itself, and are simply recited lines of text), costing 25% of the player'sspecial attackenergy.
+
+
+[Infobox]
+Released: 17 November2004(Update)
+Members: Yes
+Quest item: Horror from the Deep
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Preach, Drop
+Worn options: Read
+Examine: The holy book of Saradomin.
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +8
+- Crush: +8
+- Magic: +8
+- Ranged: +8
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Shield slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyss/Strategies(Graceful)
+2 | Abyss/Strategies(Defence)
+5 | Dust devil/Strategies(Bursting/Barraging)
+2 | Hallowed Sepulchre/Strategies(Agility)
+5 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+5 | Maniacal monkey/Strategies(Magic - Ice Burst)
+4 | Revenants/Strategies(Magic)
+4 | Scorpia/Strategies(Magic)
+4 | Tombs of Amascut/Strategies(Magic switch)
+4 | TzHaar Fight Cave/Strategies(Pure)
+2 | TzHaar Fight Cave/Strategies(Early-game iron)
+3 | Volcanic Mine(Solo)
+3 | Volcanic Mine(Group)
+5 | Vyrewatch Sentinel/Strategies(AFK Prayer)
+1 | Zalcano/Strategies(Mining)

@@ -1,0 +1,68 @@
+[Weapon: Steel Chainbody]
+
+
+TheSteel chainbodyis the third weakest chainbody in theRuneScape, and it can be worn by a player with level 5Defence.
+A player with level 41Smithingcan forge the steel chainbody by using threesteel barson ananvilwith ahammerin their inventory, granting 112.5Smithingexperience. It can also be bought fromWayne's ChainsinFalador, orHorvik's Armour ShopinVarrock.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A series of connected metal rings.
+General Store Value: 750 coins
+High alch: 450 coins
+Low alch: 300 coins
+Weight: 6.803 kg
+Grand Exchange Value: 260 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 3,865
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +17
+- Slash: +25
+- Crush: +30
+- Magic: -3
+- Ranged: +19
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Adventurer JonSticks and stones | N/A | 1 | Always | N/A
+Cyclops (Catacombs of Kourend) | 56; 76 | 1 | 2/100 | 
+Cyclops (God Wars Dungeon) | 81 | 1 | 2/100 | 
+CyclopsWarriors' Guild Rooftop | 56; 76 | 1 | 2/100 | 
+CyclopsWarriors' Guild Basement | 106 | 1 | 7/100 | 
+Giant skeleton (Tarn's Lair) | 100 | 1 | 2/128 | 
+Skeleton (Tarn's Lair)High level | 81; 87 | 1 | 2/128 | 
+Skeleton (mage) | 94 | 1 | 2/128 | 
+Spiritual warrior | 115–158 | 1 | 18/127 | 
+Steel Chest (black) | N/A | 1 | 5/134.46;5/129.29 | 
+Steel Chest (brown) | N/A | 1 | 5/134.39;5/129.22 | 
+Steel Chest (crimson) | N/A | 1 | 5/134.43;5/129.25 | 
+Steel Chest (purple) | N/A | 1 | 5/134.5;5/129.33 | 
+Steel Chest (red) | N/A | 1 | 5/134.35;5/129.19 | 
+Zombie (Tarn's Lair)High level | 81–100 | 1 | 2/128 | 

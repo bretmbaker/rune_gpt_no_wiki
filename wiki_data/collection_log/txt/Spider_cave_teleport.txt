@@ -1,0 +1,4 @@
+Item: Spider cave teleport
+Summary: Spider cave teleport scrolls are consumable teleport scrolls that teleport the player to the entrance of the Morytania Spider Cave. They can be obtained from defeating Araxxor.
+Sources:
+- Araxxor (Level 890, Quantity: 3, Rarity: 8/115)

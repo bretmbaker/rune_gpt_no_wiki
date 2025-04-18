@@ -1,0 +1,2 @@
+Item: Crew Registrar
+Summary: Crew Registrar is an npc in the Sailing alpha.

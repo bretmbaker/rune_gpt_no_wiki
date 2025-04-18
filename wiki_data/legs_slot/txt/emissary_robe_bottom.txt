@@ -1,0 +1,46 @@
+[Weapon: Emissary Robe Bottom]
+
+
+TheEmissary robe bottomis a piece of theEmissary robesset obtained duringThe Heart of Darknesswhile infiltrating theTwilight Emissaries.
+This item can be stored in themagic wardrobeof acostume room, as part of the Twilight Emissary Robes set.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: The Heart of Darkness
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You'll need to search the chest in the Tower of Ascension for another.
+Examine: Robes of the Twilight Emissaries.
+General Store Value: 100 coins
+Alchemy: Not alchemisable
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

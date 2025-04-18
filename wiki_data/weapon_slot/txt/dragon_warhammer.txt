@@ -1,0 +1,76 @@
+[Weapon: Dragon Warhammer]
+
+
+Thedragon warhammeris awarhammerthat requires 60Strengthto wield and is currently one of the strongest warhammers available (second only to theStatius Warhammer) inOld School RuneScape. It is obtained as an extremely rare drop fromLizardman shamans.
+The dragon warhammer can be used as a substitute for a regularhammerwhen banging the big door at the entrance ofBandos' Strongholdin theGod Wars Dungeon, as well as in theChambers of Xericto stunJewelled Crabsand build anystorage chest(with the requiredmallignum root planksandConstructionlevel). It can also be used in theTombs of Amascutto repair the pillars in the monkey puzzle of the Path ofApmeken.
+
+
+[Infobox]
+Released: 21 January2016(Update)
+Also called: Dwh
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Spikey, close combat weapon.
+General Store Value: 120,000 coins
+High alch: 72,000 coins
+Low alch: 48,000 coins
+Weight: 2 kg
+Grand Exchange Value: 23,602,724 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 1,722
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: -4
+- Crush: +95
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +85
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing the dragon warhammer's special attack.
+The dragon warhammer has aspecial attack,Smash, which deals 50% more damage, while lowering the target'scurrentDefencelevel by 30% onsuccessful hit(i.e. the hit has to deal damage).[1]This attack consumes 50% of the player's special attack energy.
+Defence level reductionswillstack over multiple successful hits; each reduction is calculated from the current temporary level (so follow-up drains reduce fewer levels). The Defence level of the target after each respective hit, with no rounding, would be 70%, 49%, 34.3%, 24%, 16.8% then 11.8% of the original. However, fractional defence levels reduced by the special attack will be rounded down.
+For example, on a monster with 75 Defence, the first special attack will reduce 22 levels (rounded down from 22.5), leaving the enemy at 53 Defence. The next special attack will then reduce 15 levels (rounded down from 15.6), leaving the enemy at 38 Defence.
+When used againstTekton, the first special attack from a dragon warhammer is guaranteed to hit[2], however, if subsequent attack were to fail to hit, it will instead reduce 5% of his Defence level.
+The dragon warhammer special attack specialises in reducing high amounts of defence based on a percentage on any successful attack. Unlike other weapons such as the Bandos godsword, bone dagger or barrelchest anchor, the dragon warhammer only needs to roll a successful hit to reduce 30% of the monster's defence level. If a monster has level 300 defence, the dragon warhammer will always reduce its defence by 90 levels, always reducing more defence than the Bandos godsword. Following this, it will reduce defence by 63 levels. The lower the defence level of a monster, the less impactful a dragon warhammer will be, and more impactful the Bandos godsword will be. If fighting bosses with other players, using a mixture of both special weapons can drastically reduce defence levels as far down as 0.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Lizardman shaman | 150 | 1 | 1/3,000 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Down Do Specs(Melee)

@@ -1,0 +1,2 @@
+Item: Vineyard worker
+Summary: Vineyard workers are located south of the town square in Aldarin, holding either one or two containers of grapes.

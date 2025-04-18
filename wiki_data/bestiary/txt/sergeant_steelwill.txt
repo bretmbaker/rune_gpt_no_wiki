@@ -1,0 +1,54 @@
+Name: Sergeant Steelwill
+Combat Level: 142
+Size: 1x1
+Info:
+- Description: A battle-honed goblin.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 127 xp
+- Category: Goblins
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 2217
+- Link: MOID
+
+Location:
+- Area: God Wars Dungeon (Bandos boss room)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Bandos chestplate (1/16,256)
+- Bandos tassets (1/16,256)
+- Bandos boots (1/16,256)
+- Godsword shard 1 (1/1,524[1])
+- Godsword shard 2 (1/1,524[1])
+- Godsword shard 3 (1/1,524[1])
+- Beer (1/6)
+- Frozen key piece (bandos) (1/20[d 1])
+- Clue scroll (hard) (1/128[d 2][3])
+- Goblin champion scroll (1/5,000)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 127
+Attack: 80
+Strength: 50
+Defence: 150
+Magic: 150
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

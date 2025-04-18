@@ -1,0 +1,145 @@
+[Shop: Currencies]
+
+Currenciesare items whose primary purpose is to be exchanged (for other items, services, or experience) in a consistent, repeatable fashion, and are primarily used for transactions inRuneScape.
+
+Coins(gold pieces or "gp") are the main form of currency and are almost universal, as they are accepted by mostshops. All other currencies may only be used at their specific location. Onlytrading sticksare comparable to gold pieces in that they can be used to buy and sell items in multiple places as well as to trade with other players, although their usage is much more limited than usage of gold pieces.
+
+Physical[edit|edit source]
+
+Tradeable[edit|edit source]
+
+Currency | Location | Example usage
+
+ | Archery ticket | Ranging Guild | Buying ranging items
+
+ | Coins | Most ofGielinor | Player trading,Grand Exchange, mostNPC shops
+
+ | Mole claw | Wyson the Gardener | Bird nests
+
+ | Mole skin | Wyson the Gardener | Bird nests
+
+ | Numulite | Fossil Island | Opening chests on the island, charging theAncient wyvern shield
+
+ | Platinum token | Anybankerorbank | Fixed exchange rate of1,000coins :1Platinum token
+
+ | Trading sticks | Tai Bwo Wannai | Clothing, services
+
+ | Shantay pass | Ruins of UnkahandShantay Pass | Desert access
+
+ | Ship ticket | Lady of the Waves | One-way boat ride toPort SarimorPort Khazard
+
+Untradeable[edit|edit source]
+
+Currency | Location | Example usage
+
+ | Abyssal pearls | Guardians of the Rift | Rewards from the Guardians of the Rift reward shop
+
+ | Anima-infused bark | Forestry | Buying rewards from theForestry Shop
+
+ | Agility arena ticket | Brimhaven Agility Arena | Agility experience
+
+ | Barronite shards | Ruins of Camdozaal | Charms that provide buffs within the ruins
+
+ | Blood money | Deadman mode | Deadman armour
+
+ | Brimhaven voucher | Brimhaven Agility Arena | Herbs,pirate's hook,amylase packs
+
+ | Castle wars ticket | Castle Wars | Castle Wars armour,Halos
+
+ | Ecto-token | Port PhasmatysandEctofuntus | Passage intoPort Phasmatys, charging theBonecrusher
+
+ | Frog token | Thessalia's Fine Clothes | Royal frog costume,frog mask,Lamp
+
+ | Golden nugget | Motherlode Mine | Prospector kit,Coal bag,Gem bag
+
+ | Glistening tear | Underwater | Agility and thieving experience
+
+ | Hallowed mark | Hallowed Sepulchre | Equipment to better navigate the Sepulchre
+
+ | Intelligence | Captain Ginea | Experience tomes that award combat experience
+
+ | Mark of grace | Rooftop Agility | Graceful outfit,Amylase packs
+
+ | Mermaid's tear | Underwater | Merfolk trident,Seaweed spores
+
+ | Minnow | Minnow platform | Sharks
+
+ | Molch pearl | Molch Island | Equipablerods,Angler outfit
+
+ | Nuggets | Dig Site | Gold ore
+
+ | Paramaya ticket | Paramaya Inn | Access toParamaya InnatShilo Village
+
+ | Rare creature parts | Hunter Guild | Hunter experience and Hunters' loot sacks
+
+ | Reward tokencredits | Gnome Restaurant | Food delivery
+
+ | Stardust | Dusuri's Star Shop | Celestial Ring,Star fragment
+
+ | Tokkul | Mor Ul Rek | Onyx,Obsidian weapons
+
+ | Termites | Worm Tongue | Amylase packs,Graceful recolour
+
+ | Unidentified minerals | Mining Guild | Mining gloves,Superior mining gloves
+
+ | Warrior guild token | Warriors' Guild | Access toCyclopes,Defenders
+
+Virtual[edit|edit source]
+
+Many currencies are virtual (or kept 'on record') and don't exist in an item form. Thus, these do not take up inventory or bank space, and only appear in specific interfaces. This also makes them untradeable. For example, Pizazz points are stored in aProgress hat. These currencies usually don't have an associated icon.
+
+Currency | Location | Example usage
+
+Bounty Hunter points | Bounty Hunter | Supplies used inplayer killing,Ancient Warriors' equipment,upgrades or cosmetic changes for other equipment,experience lamps
+
+Carpenter points | Mahogany Homes | Plank sack,Amy's saw
+
+Foundry Reputation | Giants' Foundry | Rewards fromKovac
+
+Honour pointsfor each role, and Queen kills | Barbarian Assault | Upgrades and equipment, gambles
+
+Last Man Standing points | Last Man Standing | Various items used in the Wilderness, god halos
+
+League points | Leagues Reward Shop | Cosmetics from differentLeagues
+
+Mox,Aga, andLye resins | Mastering Mixology | Various Herblore rewards fromMixology Rewards
+
+Nightmare Zone reward points | Nightmare Zone | ImbuedFremennikandWilderness rings,Herb boxes, various secondary ingredients forHerblore
+
+Pieces of eight | Trouble Brewing | 'Rum',"The stuff", Naval clothing
+
+Pizazz points | Mage Training Arena | Infinity robes, Magic items
+
+Plaudits | Castle Wars | Castle wars supply crate
+
+PvP Arena reward points | PvP Arena Rewards | Blighted wave sack,blighted surge sack,scroll of imbuing
+
+Reclaim tokens | Probita | Reclaiming a lostpet
+
+Slayer reward points | CompletingSlayer tasks | Various perks while doingSlayer,Slayer helmet,Slayer rings
+
+Speedrun points | Speedrunning Reward Shop | Cosmetics earned fromQuest Speedrunning
+
+Theatre of Blood points | Theatre of Blood | Food,potions
+
+Tithe points | Tithe Farm | Farmer's outfit,Gricoller's can,Seed box,Auto-weed, composts and seeds
+
+Void Knight commendation points | Pest Control | (Elite)Void Knight equipment, experience
+
+Volcanic Mine reward points | Volcanic Mine | Ores,calcite,pyrophosphite,Volcanic mine teleport,heat-proof vessel,ash covered tome,ore packs
+
+Zeal Tokens | Soul Wars | Ectoplasmator,Soul cape,Spoils of war, imbues (same as in theNightmare Zonereward shop)
+
+v•t•eEconomy
+
+ | CurrenciesPricesMerchantingSinkTrading
+
+v•t•eCurrencies
+
+Tradeable | CoinsArchery ticketsNumulitesPlatinum tokensTrading sticks
+
+Untradeable | Agility arena ticketsAnima-infused barkAbyssal pearlsBarronite shardsBlood moneyBrimhaven voucherCastle wars ticketsEcto-tokensFrog tokensGolden nuggetsGlistening tearsHallowed marksMarks of graceMolch pearlsMermaid's tearsParamaya ticketsReward tokenStardustTermitesTokkulUnidentified mineralsWarrior guild tokens
+
+Virtual | Aga resinBounty Hunter pointsCarpenter pointsFoundry ReputationHonour pointsLast Man Standing pointsLeague PointsLye resinMox resinNightmare Zone reward pointsPieces of eightPizazz pointsPlauditsSlayer reward pointsQuest Speedrunning pointsVoid Knight commendation pointsZeal Tokens
+
+Discontinued | Survival tokensBounty Hunter pointsAgility arena ticket (discontinued)

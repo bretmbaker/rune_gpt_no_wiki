@@ -1,0 +1,2 @@
+Item: Fire Wave (Judge of Yama)
+Summary: Fire Wave is one of the attacks used by the Judge of Yama during the quest A Kingdom Divided. When using this attack, the Judge of Yama will send out a wall of fire waves with one tile missing, which can be used to dodge the attack. If the attack is not dodged it will deal up to 20 damage. At the start of the fight, the Judge of Yama will use the attack four times in a row. During the fight he will occasionally teleport the player away from him, he will then use the fire wall attack four more times.

@@ -1,0 +1,45 @@
+[Weapon: Prescription Goggles#Unfocused]
+
+
+Theprescription gogglesare a piece of thealchemist's outfitpurchased from theMixology Rewardsshop with 8,600Mox resin, 7,000Aga resin, and 9,350Lye resin, which are earned from participating in theMastering Mixologyminigame. The goggles can be cosmetically changed between a focused and unfocused variant when in the inventory.
+When worn, the goggles give a 10% chance to save asecondary ingredientwhen mixingpotions. As the saved ingredient has another chance to be saved with subsequent potions, this means that each secondary has an added value of 11.1%, or that only 90 secondaries are needed for each 100 mixed potions on average. With stackable secondaries, the chance to trigger only occurs once per potion, saving a secondary for each dose the potion has (up to 4 equivalents for a 4-dose potion); no in-game text is displayed when secondaries are saved. When gaining an extra potion dose using a chargedalchemist's amulet, you do not consume an equivalent of secondary for the extra dose.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: No
+Stackable: No
+Noteable: No
+Options: Wear, Change, Drop
+Examine: Safety first!
+General Store Value: 320 coins
+Alchemy: Not alchemisable
+Weight: 1.02 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

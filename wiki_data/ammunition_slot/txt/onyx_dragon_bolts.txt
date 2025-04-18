@@ -1,0 +1,49 @@
+[Weapon: Onyx Dragon Bolts]
+
+
+Onyx dragon boltsare a type ofcrossbowammorequiring aRangedlevel of 64 to wield. It is created by attachingonyx bolt tipstodragon bolts. Doing so requires a Fletching level of 84, granting 9.4 Fletching experience per bolt.
+They are enchanted via theEnchant Crossbow Bolt (Onyx)spell by a player with level 87Magic, enchanting 10 bolts per cast. This createsenchanted onyx dragon bolts, which are a superior version ofenchanted onyx bolts.
+
+
+[Infobox]
+Released: 4 January2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Dragon crossbow bolts, tipped with onyx.
+General Store Value: 13,900 coins
+High alch: 8,340 coins
+Low alch: 5,560 coins
+Weight: 0 kg
+Grand Exchange Value: 11,544 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 5,174
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +122
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

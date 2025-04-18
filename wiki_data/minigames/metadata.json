@@ -1,0 +1,950 @@
+{
+  "Achievement_Diary": {
+    "html": "minigames/html/Achievement_Diary.html",
+    "txt": "minigames/txt/Achievement_Diary.txt"
+  },
+  "Adamant_equipment": {
+    "html": "minigames/html/Adamant_equipment.html",
+    "txt": "minigames/txt/Adamant_equipment.txt"
+  },
+  "Agility": {
+    "html": "minigames/html/Agility.html",
+    "txt": "minigames/txt/Agility.txt"
+  },
+  "Anima-infused_bark": {
+    "html": "minigames/html/Anima-infused_bark.html",
+    "txt": "minigames/txt/Anima-infused_bark.txt"
+  },
+  "Arclight": {
+    "html": "minigames/html/Arclight.html",
+    "txt": "minigames/txt/Arclight.txt"
+  },
+  "Barbarian_Assault": {
+    "html": "minigames/html/Barbarian_Assault.html",
+    "txt": "minigames/txt/Barbarian_Assault.txt"
+  },
+  "Barbarian_Assault/Gambles": {
+    "html": "minigames/html/Barbarian_Assault_Gambles.html",
+    "txt": "minigames/txt/Barbarian_Assault_Gambles.txt"
+  },
+  "Barrows": {
+    "html": "minigames/html/Barrows.html",
+    "txt": "minigames/txt/Barrows.txt"
+  },
+  "Barrows_brothers": {
+    "html": "minigames/html/Barrows_brothers.html",
+    "txt": "minigames/txt/Barrows_brothers.txt"
+  },
+  "Barrows_equipment": {
+    "html": "minigames/html/Barrows_equipment.html",
+    "txt": "minigames/txt/Barrows_equipment.txt"
+  },
+  "Blast_Furnace": {
+    "html": "minigames/html/Blast_Furnace.html",
+    "txt": "minigames/txt/Blast_Furnace.txt"
+  },
+  "Blast_Mine": {
+    "html": "minigames/html/Blast_Mine.html",
+    "txt": "minigames/txt/Blast_Mine.txt"
+  },
+  "Blast_mine": {
+    "html": "minigames/html/Blast_mine.html",
+    "txt": "minigames/txt/Blast_mine.txt"
+  },
+  "Blighted_surge_sack": {
+    "html": "minigames/html/Blighted_surge_sack.html",
+    "txt": "minigames/txt/Blighted_surge_sack.txt"
+  },
+  "Blighted_wave_sack": {
+    "html": "minigames/html/Blighted_wave_sack.html",
+    "txt": "minigames/txt/Blighted_wave_sack.txt"
+  },
+  "Bones_to_Peaches": {
+    "html": "minigames/html/Bones_to_Peaches.html",
+    "txt": "minigames/txt/Bones_to_Peaches.txt"
+  },
+  "Bounty_Hunter": {
+    "html": "minigames/html/Bounty_Hunter.html",
+    "txt": "minigames/txt/Bounty_Hunter.txt"
+  },
+  "Bow_string": {
+    "html": "minigames/html/Bow_string.html",
+    "txt": "minigames/txt/Bow_string.txt"
+  },
+  "Brimhaven_Agility_Arena": {
+    "html": "minigames/html/Brimhaven_Agility_Arena.html",
+    "txt": "minigames/txt/Brimhaven_Agility_Arena.txt"
+  },
+  "Burgh_de_Rott": {
+    "html": "minigames/html/Burgh_de_Rott.html",
+    "txt": "minigames/txt/Burgh_de_Rott.txt"
+  },
+  "Burthorpe_Games_Room": {
+    "html": "minigames/html/Burthorpe_Games_Room.html",
+    "txt": "minigames/txt/Burthorpe_Games_Room.txt"
+  },
+  "Calculators": {
+    "html": "minigames/html/Calculators.html",
+    "txt": "minigames/txt/Calculators.txt"
+  },
+  "Calvar'ion%2FStrategies": {
+    "html": "minigames/html/Calvar'ion%2FStrategies.html",
+    "txt": "minigames/txt/Calvar'ion%2FStrategies.txt"
+  },
+  "Camdozaal_Vault": {
+    "html": "minigames/html/Camdozaal_Vault.html",
+    "txt": "minigames/txt/Camdozaal_Vault.txt"
+  },
+  "Castle_Wars": {
+    "html": "minigames/html/Castle_Wars.html",
+    "txt": "minigames/txt/Castle_Wars.txt"
+  },
+  "Cat": {
+    "html": "minigames/html/Cat.html",
+    "txt": "minigames/txt/Cat.txt"
+  },
+  "Chambers_of_Xeric": {
+    "html": "minigames/html/Chambers_of_Xeric.html",
+    "txt": "minigames/txt/Chambers_of_Xeric.txt"
+  },
+  "Champions%27_Challenge": {
+    "html": "minigames/html/Champions%27_Challenge.html",
+    "txt": "minigames/txt/Champions%27_Challenge.txt"
+  },
+  "Chat-channel": {
+    "html": "minigames/html/Chat-channel.html",
+    "txt": "minigames/txt/Chat-channel.txt"
+  },
+  "Chisel": {
+    "html": "minigames/html/Chisel.html",
+    "txt": "minigames/txt/Chisel.txt"
+  },
+  "Chompies": {
+    "html": "minigames/html/Chompies.html",
+    "txt": "minigames/txt/Chompies.txt"
+  },
+  "Chompy_bird_hat": {
+    "html": "minigames/html/Chompy_bird_hat.html",
+    "txt": "minigames/txt/Chompy_bird_hat.txt"
+  },
+  "Chompy_bird_hunting": {
+    "html": "minigames/html/Chompy_bird_hunting.html",
+    "txt": "minigames/txt/Chompy_bird_hunting.txt"
+  },
+  "Clan_Wars": {
+    "html": "minigames/html/Clan_Wars.html",
+    "txt": "minigames/txt/Clan_Wars.txt"
+  },
+  "Clue_box": {
+    "html": "minigames/html/Clue_box.html",
+    "txt": "minigames/txt/Clue_box.txt"
+  },
+  "Coal": {
+    "html": "minigames/html/Coal.html",
+    "txt": "minigames/txt/Coal.txt"
+  },
+  "Collection_log": {
+    "html": "minigames/html/Collection_log.html",
+    "txt": "minigames/txt/Collection_log.txt"
+  },
+  "Combat": {
+    "html": "minigames/html/Combat.html",
+    "txt": "minigames/txt/Combat.txt"
+  },
+  "Combat_Achievements": {
+    "html": "minigames/html/Combat_Achievements.html",
+    "txt": "minigames/txt/Combat_Achievements.txt"
+  },
+  "Combat_Ring_(Shayzien)": {
+    "html": "minigames/html/Combat_Ring_(Shayzien).html",
+    "txt": "minigames/txt/Combat_Ring_(Shayzien).txt"
+  },
+  "Construction": {
+    "html": "minigames/html/Construction.html",
+    "txt": "minigames/txt/Construction.txt"
+  },
+  "Cooking": {
+    "html": "minigames/html/Cooking.html",
+    "txt": "minigames/txt/Cooking.txt"
+  },
+  "Crafting": {
+    "html": "minigames/html/Crafting.html",
+    "txt": "minigames/txt/Crafting.txt"
+  },
+  "Creature_Creation": {
+    "html": "minigames/html/Creature_Creation.html",
+    "txt": "minigames/txt/Creature_Creation.txt"
+  },
+  "Crystalline_Hunllef": {
+    "html": "minigames/html/Crystalline_Hunllef.html",
+    "txt": "minigames/txt/Crystalline_Hunllef.txt"
+  },
+  "Cyclops": {
+    "html": "minigames/html/Cyclops.html",
+    "txt": "minigames/txt/Cyclops.txt"
+  },
+  "Death": {
+    "html": "minigames/html/Death.html",
+    "txt": "minigames/txt/Death.txt"
+  },
+  "Death%27s_Office": {
+    "html": "minigames/html/Death%27s_Office.html",
+    "txt": "minigames/txt/Death%27s_Office.txt"
+  },
+  "Defenders": {
+    "html": "minigames/html/Defenders.html",
+    "txt": "minigames/txt/Defenders.txt"
+  },
+  "Distractions_and_Diversions": {
+    "html": "minigames/html/Distractions_and_Diversions.html",
+    "txt": "minigames/txt/Distractions_and_Diversions.txt"
+  },
+  "Dizana%27s_quiver": {
+    "html": "minigames/html/Dizana%27s_quiver.html",
+    "txt": "minigames/txt/Dizana%27s_quiver.txt"
+  },
+  "Dorgesh-Kaan_market_trading": {
+    "html": "minigames/html/Dorgesh-Kaan_market_trading.html",
+    "txt": "minigames/txt/Dorgesh-Kaan_market_trading.txt"
+  },
+  "Dorgeshuun": {
+    "html": "minigames/html/Dorgeshuun.html",
+    "txt": "minigames/txt/Dorgeshuun.txt"
+  },
+  "Dragon_arrow": {
+    "html": "minigames/html/Dragon_arrow.html",
+    "txt": "minigames/txt/Dragon_arrow.txt"
+  },
+  "Echo_crystal": {
+    "html": "minigames/html/Echo_crystal.html",
+    "txt": "minigames/txt/Echo_crystal.txt"
+  },
+  "Ectoplasmator": {
+    "html": "minigames/html/Ectoplasmator.html",
+    "txt": "minigames/txt/Ectoplasmator.txt"
+  },
+  "Emir%27s_Arena": {
+    "html": "minigames/html/Emir%27s_Arena.html",
+    "txt": "minigames/txt/Emir%27s_Arena.txt"
+  },
+  "Experience": {
+    "html": "minigames/html/Experience.html",
+    "txt": "minigames/txt/Experience.txt"
+  },
+  "Eyatlalli": {
+    "html": "minigames/html/Eyatlalli.html",
+    "txt": "minigames/txt/Eyatlalli.txt"
+  },
+  "Farming": {
+    "html": "minigames/html/Farming.html",
+    "txt": "minigames/txt/Farming.txt"
+  },
+  "Fire_cape": {
+    "html": "minigames/html/Fire_cape.html",
+    "txt": "minigames/txt/Fire_cape.txt"
+  },
+  "Firemaking": {
+    "html": "minigames/html/Firemaking.html",
+    "txt": "minigames/txt/Firemaking.txt"
+  },
+  "Fishing": {
+    "html": "minigames/html/Fishing.html",
+    "txt": "minigames/txt/Fishing.txt"
+  },
+  "Fishing_Trawler": {
+    "html": "minigames/html/Fishing_Trawler.html",
+    "txt": "minigames/txt/Fishing_Trawler.txt"
+  },
+  "Fletching": {
+    "html": "minigames/html/Fletching.html",
+    "txt": "minigames/txt/Fletching.txt"
+  },
+  "Forestry": {
+    "html": "minigames/html/Forestry.html",
+    "txt": "minigames/txt/Forestry.txt"
+  },
+  "Fortis_Colosseum": {
+    "html": "minigames/html/Fortis_Colosseum.html",
+    "txt": "minigames/txt/Fortis_Colosseum.txt"
+  },
+  "Free-to-play": {
+    "html": "minigames/html/Free-to-play.html",
+    "txt": "minigames/txt/Free-to-play.txt"
+  },
+  "Games_Zone": {
+    "html": "minigames/html/Games_Zone.html",
+    "txt": "minigames/txt/Games_Zone.txt"
+  },
+  "Giants%27_Foundry": {
+    "html": "minigames/html/Giants%27_Foundry.html",
+    "txt": "minigames/txt/Giants%27_Foundry.txt"
+  },
+  "Glistening_tear": {
+    "html": "minigames/html/Glistening_tear.html",
+    "txt": "minigames/txt/Glistening_tear.txt"
+  },
+  "Gnome": {
+    "html": "minigames/html/Gnome.html",
+    "txt": "minigames/txt/Gnome.txt"
+  },
+  "Gnome_Ball": {
+    "html": "minigames/html/Gnome_Ball.html",
+    "txt": "minigames/txt/Gnome_Ball.txt"
+  },
+  "Gnome_Restaurant": {
+    "html": "minigames/html/Gnome_Restaurant.html",
+    "txt": "minigames/txt/Gnome_Restaurant.txt"
+  },
+  "God_capes": {
+    "html": "minigames/html/God_capes.html",
+    "txt": "minigames/txt/God_capes.txt"
+  },
+  "God_spells": {
+    "html": "minigames/html/God_spells.html",
+    "txt": "minigames/txt/God_spells.txt"
+  },
+  "God_staves": {
+    "html": "minigames/html/God_staves.html",
+    "txt": "minigames/txt/God_staves.txt"
+  },
+  "Gourmet": {
+    "html": "minigames/html/Gourmet.html",
+    "txt": "minigames/txt/Gourmet.txt"
+  },
+  "Grave": {
+    "html": "minigames/html/Grave.html",
+    "txt": "minigames/txt/Grave.txt"
+  },
+  "Great_Kourend": {
+    "html": "minigames/html/Great_Kourend.html",
+    "txt": "minigames/txt/Great_Kourend.txt"
+  },
+  "Group_Ironman_Mode": {
+    "html": "minigames/html/Group_Ironman_Mode.html",
+    "txt": "minigames/txt/Group_Ironman_Mode.txt"
+  },
+  "Grouping": {
+    "html": "minigames/html/Grouping.html",
+    "txt": "minigames/txt/Grouping.txt"
+  },
+  "Guardian_of_Guthix": {
+    "html": "minigames/html/Guardian_of_Guthix.html",
+    "txt": "minigames/txt/Guardian_of_Guthix.txt"
+  },
+  "Guardians_of_the_Rift": {
+    "html": "minigames/html/Guardians_of_the_Rift.html",
+    "txt": "minigames/txt/Guardians_of_the_Rift.txt"
+  },
+  "Hallowed_Sepulchre": {
+    "html": "minigames/html/Hallowed_Sepulchre.html",
+    "txt": "minigames/txt/Hallowed_Sepulchre.txt"
+  },
+  "Hallowed_mark": {
+    "html": "minigames/html/Hallowed_mark.html",
+    "txt": "minigames/txt/Hallowed_mark.txt"
+  },
+  "Hardcore_ironmen": {
+    "html": "minigames/html/Hardcore_ironmen.html",
+    "txt": "minigames/txt/Hardcore_ironmen.txt"
+  },
+  "Harralander": {
+    "html": "minigames/html/Harralander.html",
+    "txt": "minigames/txt/Harralander.txt"
+  },
+  "Herb": {
+    "html": "minigames/html/Herb.html",
+    "txt": "minigames/txt/Herb.txt"
+  },
+  "Herb_pack": {
+    "html": "minigames/html/Herb_pack.html",
+    "txt": "minigames/txt/Herb_pack.txt"
+  },
+  "Herblore": {
+    "html": "minigames/html/Herblore.html",
+    "txt": "minigames/txt/Herblore.txt"
+  },
+  "Honour_points": {
+    "html": "minigames/html/Honour_points.html",
+    "txt": "minigames/txt/Honour_points.txt"
+  },
+  "Hunter": {
+    "html": "minigames/html/Hunter.html",
+    "txt": "minigames/txt/Hunter.txt"
+  },
+  "Hunter%27s_honour": {
+    "html": "minigames/html/Hunter%27s_honour.html",
+    "txt": "minigames/txt/Hunter%27s_honour.txt"
+  },
+  "Icon": {
+    "html": "minigames/html/Icon.html",
+    "txt": "minigames/txt/Icon.txt"
+  },
+  "Imbuing": {
+    "html": "minigames/html/Imbuing.html",
+    "txt": "minigames/txt/Imbuing.txt"
+  },
+  "Impetuous_Impulses": {
+    "html": "minigames/html/Impetuous_Impulses.html",
+    "txt": "minigames/txt/Impetuous_Impulses.txt"
+  },
+  "Impling": {
+    "html": "minigames/html/Impling.html",
+    "txt": "minigames/txt/Impling.txt"
+  },
+  "Infernal_cape": {
+    "html": "minigames/html/Infernal_cape.html",
+    "txt": "minigames/txt/Infernal_cape.txt"
+  },
+  "Inferno": {
+    "html": "minigames/html/Inferno.html",
+    "txt": "minigames/txt/Inferno.txt"
+  },
+  "Infinity_robes": {
+    "html": "minigames/html/Infinity_robes.html",
+    "txt": "minigames/txt/Infinity_robes.txt"
+  },
+  "Intelligence": {
+    "html": "minigames/html/Intelligence.html",
+    "txt": "minigames/txt/Intelligence.txt"
+  },
+  "Iron_ore": {
+    "html": "minigames/html/Iron_ore.html",
+    "txt": "minigames/txt/Iron_ore.txt"
+  },
+  "Item_Retrieval_Service": {
+    "html": "minigames/html/Item_Retrieval_Service.html",
+    "txt": "minigames/txt/Item_Retrieval_Service.txt"
+  },
+  "Items": {
+    "html": "minigames/html/Items.html",
+    "txt": "minigames/txt/Items.txt"
+  },
+  "Jal-nib-rek": {
+    "html": "minigames/html/Jal-nib-rek.html",
+    "txt": "minigames/txt/Jal-nib-rek.txt"
+  },
+  "JalTok-Jad": {
+    "html": "minigames/html/JalTok-Jad.html",
+    "txt": "minigames/txt/JalTok-Jad.txt"
+  },
+  "Justine%27s_stuff_for_the_Last_Shopper_Standing": {
+    "html": "minigames/html/Justine%27s_stuff_for_the_Last_Shopper_Standing.html",
+    "txt": "minigames/txt/Justine%27s_stuff_for_the_Last_Shopper_Standing.txt"
+  },
+  "Keldagrim_tasks": {
+    "html": "minigames/html/Keldagrim_tasks.html",
+    "txt": "minigames/txt/Keldagrim_tasks.txt"
+  },
+  "Kolodion": {
+    "html": "minigames/html/Kolodion.html",
+    "txt": "minigames/txt/Kolodion.txt"
+  },
+  "Last_Man_Standing": {
+    "html": "minigames/html/Last_Man_Standing.html",
+    "txt": "minigames/txt/Last_Man_Standing.txt"
+  },
+  "Lil%27_creator": {
+    "html": "minigames/html/Lil%27_creator.html",
+    "txt": "minigames/txt/Lil%27_creator.txt"
+  },
+  "Lockbox": {
+    "html": "minigames/html/Lockbox.html",
+    "txt": "minigames/txt/Lockbox.txt"
+  },
+  "Lumberjack_outfit": {
+    "html": "minigames/html/Lumberjack_outfit.html",
+    "txt": "minigames/txt/Lumberjack_outfit.txt"
+  },
+  "Mage_Arena": {
+    "html": "minigames/html/Mage_Arena.html",
+    "txt": "minigames/txt/Mage_Arena.txt"
+  },
+  "Mage_Training_Arena": {
+    "html": "minigames/html/Mage_Training_Arena.html",
+    "txt": "minigames/txt/Mage_Training_Arena.txt"
+  },
+  "Magic": {
+    "html": "minigames/html/Magic.html",
+    "txt": "minigames/txt/Magic.txt"
+  },
+  "Mahogany_Homes": {
+    "html": "minigames/html/Mahogany_Homes.html",
+    "txt": "minigames/txt/Mahogany_Homes.txt"
+  },
+  "Mairin": {
+    "html": "minigames/html/Mairin.html",
+    "txt": "minigames/txt/Mairin.txt"
+  },
+  "Managing_Miscellania": {
+    "html": "minigames/html/Managing_Miscellania.html",
+    "txt": "minigames/txt/Managing_Miscellania.txt"
+  },
+  "Mastering_Mixology": {
+    "html": "minigames/html/Mastering_Mixology.html",
+    "txt": "minigames/txt/Mastering_Mixology.txt"
+  },
+  "Melee": {
+    "html": "minigames/html/Melee.html",
+    "txt": "minigames/txt/Melee.txt"
+  },
+  "Mermaid%27s_tear": {
+    "html": "minigames/html/Mermaid%27s_tear.html",
+    "txt": "minigames/txt/Mermaid%27s_tear.txt"
+  },
+  "Mess": {
+    "html": "minigames/html/Mess.html",
+    "txt": "minigames/txt/Mess.txt"
+  },
+  "Mineral_pack": {
+    "html": "minigames/html/Mineral_pack.html",
+    "txt": "minigames/txt/Mineral_pack.txt"
+  },
+  "Minigame": {
+    "html": "minigames/html/Minigame.html",
+    "txt": "minigames/txt/Minigame.txt"
+  },
+  "Minigames": {
+    "html": "minigames/html/Minigames.html",
+    "txt": "minigames/txt/Minigames.txt"
+  },
+  "Mining": {
+    "html": "minigames/html/Mining.html",
+    "txt": "minigames/txt/Mining.txt"
+  },
+  "Miniquest": {
+    "html": "minigames/html/Miniquest.html",
+    "txt": "minigames/txt/Miniquest.txt"
+  },
+  "Money_making_guide": {
+    "html": "minigames/html/Money_making_guide.html",
+    "txt": "minigames/txt/Money_making_guide.txt"
+  },
+  "Moons_of_Peril": {
+    "html": "minigames/html/Moons_of_Peril.html",
+    "txt": "minigames/txt/Moons_of_Peril.txt"
+  },
+  "Mysterious_emblem": {
+    "html": "minigames/html/Mysterious_emblem.html",
+    "txt": "minigames/txt/Mysterious_emblem.txt"
+  },
+  "New_player_guide": {
+    "html": "minigames/html/New_player_guide.html",
+    "txt": "minigames/txt/New_player_guide.txt"
+  },
+  "Nightmare_Zone": {
+    "html": "minigames/html/Nightmare_Zone.html",
+    "txt": "minigames/txt/Nightmare_Zone.txt"
+  },
+  "Numulite": {
+    "html": "minigames/html/Numulite.html",
+    "txt": "minigames/txt/Numulite.txt"
+  },
+  "Palm": {
+    "html": "minigames/html/Palm.html",
+    "txt": "minigames/txt/Palm.txt"
+  },
+  "Paterdomus": {
+    "html": "minigames/html/Paterdomus.html",
+    "txt": "minigames/txt/Paterdomus.txt"
+  },
+  "Penance": {
+    "html": "minigames/html/Penance.html",
+    "txt": "minigames/txt/Penance.txt"
+  },
+  "Penance_queen": {
+    "html": "minigames/html/Penance_queen.html",
+    "txt": "minigames/txt/Penance_queen.txt"
+  },
+  "Pest_Control": {
+    "html": "minigames/html/Pest_Control.html",
+    "txt": "minigames/txt/Pest_Control.txt"
+  },
+  "Pet": {
+    "html": "minigames/html/Pet.html",
+    "txt": "minigames/txt/Pet.txt"
+  },
+  "Pizazz_points": {
+    "html": "minigames/html/Pizazz_points.html",
+    "txt": "minigames/txt/Pizazz_points.txt"
+  },
+  "Prayer": {
+    "html": "minigames/html/Prayer.html",
+    "txt": "minigames/txt/Prayer.txt"
+  },
+  "Pure_essence": {
+    "html": "minigames/html/Pure_essence.html",
+    "txt": "minigames/txt/Pure_essence.txt"
+  },
+  "PvP": {
+    "html": "minigames/html/PvP.html",
+    "txt": "minigames/txt/PvP.txt"
+  },
+  "PvP_Arena_Rewards": {
+    "html": "minigames/html/PvP_Arena_Rewards.html",
+    "txt": "minigames/txt/PvP_Arena_Rewards.txt"
+  },
+  "PvP_world": {
+    "html": "minigames/html/PvP_world.html",
+    "txt": "minigames/txt/PvP_world.txt"
+  },
+  "Pyramid_Plunder": {
+    "html": "minigames/html/Pyramid_Plunder.html",
+    "txt": "minigames/txt/Pyramid_Plunder.txt"
+  },
+  "Quests": {
+    "html": "minigames/html/Quests.html",
+    "txt": "minigames/txt/Quests.txt"
+  },
+  "Quests/List": {
+    "html": "minigames/html/Quests_List.html",
+    "txt": "minigames/txt/Quests_List.txt"
+  },
+  "Raging_Echoes_League": {
+    "html": "minigames/html/Raging_Echoes_League.html",
+    "txt": "minigames/txt/Raging_Echoes_League.txt"
+  },
+  "Raging_Echoes_League/Areas/Asgarnia": {
+    "html": "minigames/html/Raging_Echoes_League_Areas_Asgarnia.html",
+    "txt": "minigames/txt/Raging_Echoes_League_Areas_Asgarnia.txt"
+  },
+  "Raging_Echoes_League/Areas/Desert": {
+    "html": "minigames/html/Raging_Echoes_League_Areas_Desert.html",
+    "txt": "minigames/txt/Raging_Echoes_League_Areas_Desert.txt"
+  },
+  "Raging_Echoes_League/Areas/Fremennik": {
+    "html": "minigames/html/Raging_Echoes_League_Areas_Fremennik.html",
+    "txt": "minigames/txt/Raging_Echoes_League_Areas_Fremennik.txt"
+  },
+  "Raging_Echoes_League/Areas/Kandarin": {
+    "html": "minigames/html/Raging_Echoes_League_Areas_Kandarin.html",
+    "txt": "minigames/txt/Raging_Echoes_League_Areas_Kandarin.txt"
+  },
+  "Raging_Echoes_League/Areas/Karamja": {
+    "html": "minigames/html/Raging_Echoes_League_Areas_Karamja.html",
+    "txt": "minigames/txt/Raging_Echoes_League_Areas_Karamja.txt"
+  },
+  "Raging_Echoes_League/Areas/Kourend": {
+    "html": "minigames/html/Raging_Echoes_League_Areas_Kourend.html",
+    "txt": "minigames/txt/Raging_Echoes_League_Areas_Kourend.txt"
+  },
+  "Raging_Echoes_League/Areas/Misthalin": {
+    "html": "minigames/html/Raging_Echoes_League_Areas_Misthalin.html",
+    "txt": "minigames/txt/Raging_Echoes_League_Areas_Misthalin.txt"
+  },
+  "Raging_Echoes_League/Areas/Morytania": {
+    "html": "minigames/html/Raging_Echoes_League_Areas_Morytania.html",
+    "txt": "minigames/txt/Raging_Echoes_League_Areas_Morytania.txt"
+  },
+  "Raging_Echoes_League/Areas/Tirannwn": {
+    "html": "minigames/html/Raging_Echoes_League_Areas_Tirannwn.html",
+    "txt": "minigames/txt/Raging_Echoes_League_Areas_Tirannwn.txt"
+  },
+  "Raging_Echoes_League/Areas/Varlamore": {
+    "html": "minigames/html/Raging_Echoes_League_Areas_Varlamore.html",
+    "txt": "minigames/txt/Raging_Echoes_League_Areas_Varlamore.txt"
+  },
+  "Raging_Echoes_League/Areas/Wilderness": {
+    "html": "minigames/html/Raging_Echoes_League_Areas_Wilderness.html",
+    "txt": "minigames/txt/Raging_Echoes_League_Areas_Wilderness.txt"
+  },
+  "Raids": {
+    "html": "minigames/html/Raids.html",
+    "txt": "minigames/txt/Raids.txt"
+  },
+  "Ranged": {
+    "html": "minigames/html/Ranged.html",
+    "txt": "minigames/txt/Ranged.txt"
+  },
+  "Rat_Pits": {
+    "html": "minigames/html/Rat_Pits.html",
+    "txt": "minigames/txt/Rat_Pits.txt"
+  },
+  "Raw_lobster": {
+    "html": "minigames/html/Raw_lobster.html",
+    "txt": "minigames/txt/Raw_lobster.txt"
+  },
+  "Rewards_Chest_(Fortis_Colosseum)": {
+    "html": "minigames/html/Rewards_Chest_(Fortis_Colosseum).html",
+    "txt": "minigames/txt/Rewards_Chest_(Fortis_Colosseum).txt"
+  },
+  "Rogue_equipment": {
+    "html": "minigames/html/Rogue_equipment.html",
+    "txt": "minigames/txt/Rogue_equipment.txt"
+  },
+  "Rogues%27_Den": {
+    "html": "minigames/html/Rogues%27_Den.html",
+    "txt": "minigames/txt/Rogues%27_Den.txt"
+  },
+  "Rune_arrow": {
+    "html": "minigames/html/Rune_arrow.html",
+    "txt": "minigames/txt/Rune_arrow.txt"
+  },
+  "Rune_pouch": {
+    "html": "minigames/html/Rune_pouch.html",
+    "txt": "minigames/txt/Rune_pouch.txt"
+  },
+  "Runecrafting": {
+    "html": "minigames/html/Runecrafting.html",
+    "txt": "minigames/txt/Runecrafting.txt"
+  },
+  "Runes": {
+    "html": "minigames/html/Runes.html",
+    "txt": "minigames/txt/Runes.txt"
+  },
+  "Sanity": {
+    "html": "minigames/html/Sanity.html",
+    "txt": "minigames/txt/Sanity.txt"
+  },
+  "Scroll_of_imbuing": {
+    "html": "minigames/html/Scroll_of_imbuing.html",
+    "txt": "minigames/txt/Scroll_of_imbuing.txt"
+  },
+  "Scroll_of_redirection": {
+    "html": "minigames/html/Scroll_of_redirection.html",
+    "txt": "minigames/txt/Scroll_of_redirection.txt"
+  },
+  "Seed_pack": {
+    "html": "minigames/html/Seed_pack.html",
+    "txt": "minigames/txt/Seed_pack.txt"
+  },
+  "Shades_of_Mort%27ton_(minigame)": {
+    "html": "minigames/html/Shades_of_Mort%27ton_(minigame).html",
+    "txt": "minigames/txt/Shades_of_Mort%27ton_(minigame).txt"
+  },
+  "Shayzien": {
+    "html": "minigames/html/Shayzien.html",
+    "txt": "minigames/txt/Shayzien.txt"
+  },
+  "Shayzien_Combat_Ring": {
+    "html": "minigames/html/Shayzien_Combat_Ring.html",
+    "txt": "minigames/txt/Shayzien_Combat_Ring.txt"
+  },
+  "Shayzien_armour": {
+    "html": "minigames/html/Shayzien_armour.html",
+    "txt": "minigames/txt/Shayzien_armour.txt"
+  },
+  "Shooting_Stars": {
+    "html": "minigames/html/Shooting_Stars.html",
+    "txt": "minigames/txt/Shooting_Stars.txt"
+  },
+  "Silver_bar": {
+    "html": "minigames/html/Silver_bar.html",
+    "txt": "minigames/txt/Silver_bar.txt"
+  },
+  "Skill_training_guides": {
+    "html": "minigames/html/Skill_training_guides.html",
+    "txt": "minigames/txt/Skill_training_guides.txt"
+  },
+  "Smithing": {
+    "html": "minigames/html/Smithing.html",
+    "txt": "minigames/txt/Smithing.txt"
+  },
+  "Smol_heredit": {
+    "html": "minigames/html/Smol_heredit.html",
+    "txt": "minigames/txt/Smol_heredit.txt"
+  },
+  "Sorceress%27s_Garden": {
+    "html": "minigames/html/Sorceress%27s_Garden.html",
+    "txt": "minigames/txt/Sorceress%27s_Garden.txt"
+  },
+  "Soul_Wars": {
+    "html": "minigames/html/Soul_Wars.html",
+    "txt": "minigames/txt/Soul_Wars.txt"
+  },
+  "Soul_cape": {
+    "html": "minigames/html/Soul_cape.html",
+    "txt": "minigames/txt/Soul_cape.txt"
+  },
+  "Spoils_of_war": {
+    "html": "minigames/html/Spoils_of_war.html",
+    "txt": "minigames/txt/Spoils_of_war.txt"
+  },
+  "Stealing_artefacts": {
+    "html": "minigames/html/Stealing_artefacts.html",
+    "txt": "minigames/txt/Stealing_artefacts.txt"
+  },
+  "Stealing_valuables": {
+    "html": "minigames/html/Stealing_valuables.html",
+    "txt": "minigames/txt/Stealing_valuables.txt"
+  },
+  "Strength": {
+    "html": "minigames/html/Strength.html",
+    "txt": "minigames/txt/Strength.txt"
+  },
+  "Sunfire_fanatic_armour": {
+    "html": "minigames/html/Sunfire_fanatic_armour.html",
+    "txt": "minigames/txt/Sunfire_fanatic_armour.txt"
+  },
+  "Tackle_organised_crime": {
+    "html": "minigames/html/Tackle_organised_crime.html",
+    "txt": "minigames/txt/Tackle_organised_crime.txt"
+  },
+  "Tai_Bwo_Wannai": {
+    "html": "minigames/html/Tai_Bwo_Wannai.html",
+    "txt": "minigames/txt/Tai_Bwo_Wannai.txt"
+  },
+  "Tai_Bwo_Wannai_Cleanup": {
+    "html": "minigames/html/Tai_Bwo_Wannai_Cleanup.html",
+    "txt": "minigames/txt/Tai_Bwo_Wannai_Cleanup.txt"
+  },
+  "Target_teleport_scroll": {
+    "html": "minigames/html/Target_teleport_scroll.html",
+    "txt": "minigames/txt/Target_teleport_scroll.txt"
+  },
+  "Tarromin": {
+    "html": "minigames/html/Tarromin.html",
+    "txt": "minigames/txt/Tarromin.txt"
+  },
+  "Tears_of_Guthix_(minigame)": {
+    "html": "minigames/html/Tears_of_Guthix_(minigame).html",
+    "txt": "minigames/txt/Tears_of_Guthix_(minigame).txt"
+  },
+  "Teleport": {
+    "html": "minigames/html/Teleport.html",
+    "txt": "minigames/txt/Teleport.txt"
+  },
+  "Temple_Trekking": {
+    "html": "minigames/html/Temple_Trekking.html",
+    "txt": "minigames/txt/Temple_Trekking.txt"
+  },
+  "The_Gauntlet": {
+    "html": "minigames/html/The_Gauntlet.html",
+    "txt": "minigames/txt/The_Gauntlet.txt"
+  },
+  "The_Myreque": {
+    "html": "minigames/html/The_Myreque.html",
+    "txt": "minigames/txt/The_Myreque.txt"
+  },
+  "Theatre_of_Blood": {
+    "html": "minigames/html/Theatre_of_Blood.html",
+    "txt": "minigames/txt/Theatre_of_Blood.txt"
+  },
+  "Thieving": {
+    "html": "minigames/html/Thieving.html",
+    "txt": "minigames/txt/Thieving.txt"
+  },
+  "Tithe_Farm": {
+    "html": "minigames/html/Tithe_Farm.html",
+    "txt": "minigames/txt/Tithe_Farm.txt"
+  },
+  "Toadflax": {
+    "html": "minigames/html/Toadflax.html",
+    "txt": "minigames/txt/Toadflax.txt"
+  },
+  "Tokkul": {
+    "html": "minigames/html/Tokkul.html",
+    "txt": "minigames/txt/Tokkul.txt"
+  },
+  "Tombs_of_Amascut": {
+    "html": "minigames/html/Tombs_of_Amascut.html",
+    "txt": "minigames/txt/Tombs_of_Amascut.txt"
+  },
+  "Tome_of_experience": {
+    "html": "minigames/html/Tome_of_experience.html",
+    "txt": "minigames/txt/Tome_of_experience.txt"
+  },
+  "Tonalztics_of_Ralos": {
+    "html": "minigames/html/Tonalztics_of_Ralos.html",
+    "txt": "minigames/txt/Tonalztics_of_Ralos.txt"
+  },
+  "Trading_sticks": {
+    "html": "minigames/html/Trading_sticks.html",
+    "txt": "minigames/txt/Trading_sticks.txt"
+  },
+  "Training_manual": {
+    "html": "minigames/html/Training_manual.html",
+    "txt": "minigames/txt/Training_manual.txt"
+  },
+  "Treasure_Trails": {
+    "html": "minigames/html/Treasure_Trails.html",
+    "txt": "minigames/txt/Treasure_Trails.txt"
+  },
+  "Trouble_Brewing": {
+    "html": "minigames/html/Trouble_Brewing.html",
+    "txt": "minigames/txt/Trouble_Brewing.txt"
+  },
+  "TzHaar": {
+    "html": "minigames/html/TzHaar.html",
+    "txt": "minigames/txt/TzHaar.txt"
+  },
+  "TzHaar-Ket-Rak": {
+    "html": "minigames/html/TzHaar-Ket-Rak.html",
+    "txt": "minigames/txt/TzHaar-Ket-Rak.txt"
+  },
+  "TzHaar-Ket-Rak%27s_Challenges": {
+    "html": "minigames/html/TzHaar-Ket-Rak%27s_Challenges.html",
+    "txt": "minigames/txt/TzHaar-Ket-Rak%27s_Challenges.txt"
+  },
+  "TzHaar_Fight_Cave": {
+    "html": "minigames/html/TzHaar_Fight_Cave.html",
+    "txt": "minigames/txt/TzHaar_Fight_Cave.txt"
+  },
+  "TzHaar_Fight_Pit": {
+    "html": "minigames/html/TzHaar_Fight_Pit.html",
+    "txt": "minigames/txt/TzHaar_Fight_Pit.txt"
+  },
+  "TzTok-Jad": {
+    "html": "minigames/html/TzTok-Jad.html",
+    "txt": "minigames/txt/TzTok-Jad.txt"
+  },
+  "Underwater_Agility_and_Thieving": {
+    "html": "minigames/html/Underwater_Agility_and_Thieving.html",
+    "txt": "minigames/txt/Underwater_Agility_and_Thieving.txt"
+  },
+  "Void_Knight_(Pest_Control)": {
+    "html": "minigames/html/Void_Knight_(Pest_Control).html",
+    "txt": "minigames/txt/Void_Knight_(Pest_Control).txt"
+  },
+  "Void_Knight_equipment": {
+    "html": "minigames/html/Void_Knight_equipment.html",
+    "txt": "minigames/txt/Void_Knight_equipment.txt"
+  },
+  "Volcanic_Mine": {
+    "html": "minigames/html/Volcanic_Mine.html",
+    "txt": "minigames/txt/Volcanic_Mine.txt"
+  },
+  "Warrior_guild_tokens": {
+    "html": "minigames/html/Warrior_guild_tokens.html",
+    "txt": "minigames/txt/Warrior_guild_tokens.txt"
+  },
+  "Warriors%27_Guild": {
+    "html": "minigames/html/Warriors%27_Guild.html",
+    "txt": "minigames/txt/Warriors%27_Guild.txt"
+  },
+  "Watermelon_seed": {
+    "html": "minigames/html/Watermelon_seed.html",
+    "txt": "minigames/txt/Watermelon_seed.txt"
+  },
+  "Wealthy_citizen": {
+    "html": "minigames/html/Wealthy_citizen.html",
+    "txt": "minigames/txt/Wealthy_citizen.txt"
+  },
+  "Wilderness": {
+    "html": "minigames/html/Wilderness.html",
+    "txt": "minigames/txt/Wilderness.txt"
+  },
+  "Wily_cat": {
+    "html": "minigames/html/Wily_cat.html",
+    "txt": "minigames/txt/Wily_cat.txt"
+  },
+  "Wise_Old_Man": {
+    "html": "minigames/html/Wise_Old_Man.html",
+    "txt": "minigames/txt/Wise_Old_Man.txt"
+  },
+  "Wise_Old_Man_tasks": {
+    "html": "minigames/html/Wise_Old_Man_tasks.html",
+    "txt": "minigames/txt/Wise_Old_Man_tasks.txt"
+  },
+  "Woodcutting": {
+    "html": "minigames/html/Woodcutting.html",
+    "txt": "minigames/txt/Woodcutting.txt"
+  },
+  "World_map": {
+    "html": "minigames/html/World_map.html",
+    "txt": "minigames/txt/World_map.txt"
+  },
+  "Zeal_Tokens": {
+    "html": "minigames/html/Zeal_Tokens.html",
+    "txt": "minigames/txt/Zeal_Tokens.txt"
+  }
+}

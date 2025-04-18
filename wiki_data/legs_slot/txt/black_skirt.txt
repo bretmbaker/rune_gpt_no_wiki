@@ -1,0 +1,55 @@
+[Weapon: Black Skirt]
+
+
+Black skirtsare one of several skirts available. They are sold byThessalia's shop,Thessalia's Fine Clothes, located inVarrockand dropped byForgotten Souls.
+Black robe skirts are often worn withblack robetops, in the same wayblue skirtsare worn withwizard tops. However, they provide no bonuses.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Clothing favoured by women and dark wizards.
+General Store Value: 2 coins
+High alch: 1 coin
+Low alch: 0 coins
+Weight: 0.907 kg
+Grand Exchange Value: 11 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 1,407
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Combat path starter kit | N/A | 1 | Always | N/A
+Forgotten Soul | 20 | 1 | 1/128 | 

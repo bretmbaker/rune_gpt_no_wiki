@@ -1,0 +1,12 @@
+Item: Dragon 2h sword
+Summary: The dragon 2h sword is one of the strongest two-handed swords in Old School RuneScape, requiring level 60 Attack to wield. Due to its slow attacking speed and the fact that it cannot be used with a shield or defender, many players prefer using other dragon weaponry instead, such as the dragon scimitar.
+Sources:
+- Artio (Level 320, Quantity: 1, Rarity: 1/358)
+- Callisto (Level 470, Quantity: 1, Rarity: 1/256)
+- Calvar'ion (Level 264, Quantity: 1, Rarity: 1/358)
+- Chaos Elemental (Level 305, Quantity: 1, Rarity: 2/128)
+- Kalphite Queen (Level 333, Quantity: 1, Rarity: 1/256)
+- Scorpia (Level 225, Quantity: 1, Rarity: 1/128)
+- Spindel (Level 302, Quantity: 1, Rarity: 1/358)
+- Venenatis (Level 464, Quantity: 1, Rarity: 1/256)
+- Vet'ion (Level 454, Quantity: 1, Rarity: 1/256)

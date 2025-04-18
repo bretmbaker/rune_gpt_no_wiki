@@ -1,0 +1,46 @@
+[Weapon: Dragon Chainbody (G)]
+
+
+Thedragon chainbody (g)is adragon chainbodywith adragon chainbody ornament kitattached to it. The attached ornament kit gives no additional bonuses, and is only used to add aesthetics to the chainbody. It costs241,828for both the parts to make the dragon chainbody (g).
+While the chainbody is untradeable in its ornamented state, it can be dismantled anytime, returning the tradeable chainbody and ornament kit.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle
+Examine: A series of connected metal rings with gold trim.
+General Store Value: 250,000 coins
+High alch: 150,000 coins
+Low alch: 100,000 coins
+Weight: 6.803 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +81
+- Slash: +93
+- Crush: +98
+- Magic: -3
+- Ranged: +82
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

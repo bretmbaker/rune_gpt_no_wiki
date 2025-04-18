@@ -1,0 +1,59 @@
+[Weapon: Blessed Spirit Shield]
+
+
+Theblessed spirit shieldrequires 70Defenceand 60Prayerto wield. To make this shield, players must use aholy elixirwith a normalspirit shield, which requires 85 Prayer. Ironmen may note this level cannot be boosted as prayer boosts do not affect the base level. Once blessed, players may applyspirit sigilsto enhance the shield. Attaching a sigil onto the shield requires 90 Prayer and 85Smithing.
+This shield's stats are comparable to the stats of thearcaneandspectral spirit shield. It differs only in lacking the higher magic attack and defence stats of the enhanced shields. This shield is a good choice for any player usingmeleebecause of its substantial defence bonuses and prayer bonus. Its crush defence bonus is also one point higher than that of a completely chargedDragonfire shield. Players who useMagicorRangedmay also find this shield useful due to its lack of negative stats.
+
+
+[Infobox]
+Released: 16 October2014(Update)
+Also called: BSS
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: An ethereal shield that has been blessed with holy powers.
+General Store Value: 1,200,000 coins
+High alch: 720,000 coins
+Low alch: 480,000 coins
+Weight: 2 kg
+Grand Exchange Value: 735,920 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 603
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +53
+- Slash: +55
+- Crush: +73
+- Magic: +2
+- Ranged: +52
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Shield slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | General Graardor/Strategies(Ranged Tank)
+5 | Gout tuber/Strategies(Tank)
+4 | Moons of Peril/Strategies(Moons of Peril Armour)
+4 | TzHaar Fight Cave/Strategies(Ranged)
+5 | TzHaar Fight Cave/Strategies(Magic)

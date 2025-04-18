@@ -1,0 +1,4 @@
+Item: Wisp
+Summary: 
+Sources:
+- The Whisperer (Level 587; 791; 1146, Quantity: 1, Rarity: 1/2,000)

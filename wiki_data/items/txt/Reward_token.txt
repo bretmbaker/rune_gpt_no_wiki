@@ -1,0 +1,1 @@
+Areward tokenis received after guiding an NPC either from Burgh de Rott to Paterdomus through theBurgh de Rott Rambleminigameor in the other direction through theTemple Trekkingminigame. They have different inventory graphics depending on whether you came fromBurgh de RottorPaterdomus.

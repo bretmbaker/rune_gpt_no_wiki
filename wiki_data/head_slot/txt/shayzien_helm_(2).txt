@@ -1,0 +1,51 @@
+[Weapon: Shayzien Helm (2)]
+
+
+TheShayzien helm (2)is a helmet that requires 20Defenceto equip, and is part of theShayzien armour (tier 2)set.
+It is dropped by thetier 2 soldierat theCombat Ringin theShayzien Encampment. It can also be created at an anvil with 59Smithingand 2lovakite bars.
+
+
+[Infobox]
+Released: 7 January2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Dress like a tier 2 Shayzien soldier.
+General Store Value: 40 coins
+High alch: 24 coins
+Low alch: 16 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -5
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +5
+- Slash: +8
+- Crush: +6
+- Magic: -1
+- Ranged: +7
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Soldier (tier 2) | 48 | 1 | Always | 

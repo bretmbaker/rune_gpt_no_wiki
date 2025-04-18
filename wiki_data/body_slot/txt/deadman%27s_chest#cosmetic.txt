@@ -1,0 +1,46 @@
+[Weapon: Deadman%27S Chest#Cosmetic]
+
+
+TheDeadman's chestis a cosmetic platebody that can be bought fromJustine's stuff for the Last Shopper Standingfor 160Last Man Standingpoints. It is part of theDeadman armourset.
+Note: As free to play players are no longer able to earn last man standing points, this cosmetic item is no longer obtainable in free to play, unless an account earned some points before competitive LMS was made members only, and still has some left over.
+
+
+[Infobox]
+Released: 29 August2019(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Destroy: N/A
+Examine: 15 men may jump on you, but only to steal the contents of your bank.
+General Store Value: 2 coins
+Alchemy: Not alchemisable
+Weight: 0.12 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

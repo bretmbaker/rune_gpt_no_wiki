@@ -1,0 +1,90 @@
+Name: General Graardor
+Combat Level: 624
+Size: 4x4
+Info:
+- Description: A huge war chief.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 338 xp
+- Category: Bosses
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 2215
+- Link: MOID
+
+Location:
+- Area: God Wars Dungeon (Bandos boss room)
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for General Graardor:
+
+Notable Drops:
+- Bandos chestplate (1/381[d 1])
+- Bandos tassets (1/381[d 1])
+- Bandos boots (1/381[d 1])
+- Bandos hilt (1/508)
+- Godsword shard 1 (1/762[d 2])
+- Godsword shard 2 (1/762[d 2])
+- Godsword shard 3 (1/762[d 2])
+- Loop half of key (1/94.93)
+- Tooth half of key (1/99.58)
+- Uncut sapphire (1/156.31)
+- Uncut emerald (1/312.62)
+- Rune sword (1/406.4)
+- Uncut ruby (1/625.23)
+- Nature rune (1/677.33)
+- Rune 2h sword (1/677.33)
+- Rune battleaxe (1/677.33)
+- Law rune (1/1,016)
+- Death rune (1/1,016)
+- Steel arrow (1/1,016)
+- Rune arrow (1/1,016)
+- Adamant javelin (1/1,016)
+- Rune sq shield (1/1,016)
+- Dragonstone (1/1,016)
+- Silver ore (1/1,016)
+- Chaos talisman (1/1,667.28)
+- Rune kiteshield (1/2,032)
+- Dragon med helm (1/2,032)
+- Rune spear (1/2,110.31)
+- Uncut diamond (1/2,500.92)
+- Shield left half (1/4,220.62)
+- Rune javelin (1/5,001.85)
+- Dragon spear (1/5,627.5)
+- Brimstone key (1/50[d 1])
+- Clue scroll (elite) (1/250[d 2])
+- Long bone (1/400)
+- Pet general graardor (1/5,000)
+- Curved bone (1/5,012.5)
+
+Combat Achievements:
+- General Showdown: Finish off General Graardor whilst all of his bodyguards are dead. (Hard (3 pts))
+- General Graardor Adept: Kill General Graardor 50 times. (Hard (3 pts))
+- Ourg Freezer: Kill General Graardor whilst he is immobilized. (Hard (3 pts))
+- Ourg Freezer II: Kill General Graardor without him attacking any players. (Elite (4 pts))
+- General Graardor Veteran: Kill General Graardor 100 times. (Elite (4 pts))
+- Defence Matters: Kill General Graardor 2 times consecutively in a private instance without taking any damage from his bodyguards. (Grandmaster (6 pts))
+- Keep Away: Kill General Graardor in a private instance without taking any damage from the boss or bodyguards. (Grandmaster (6 pts))
+- Ourg Killer: Kill General Graardor 15 times in a private instance without leaving the room. (Grandmaster (6 pts))
+
+[Combat stats]
+Hitpoints: 255
+Attack: 280
+Strength: 350
+Defence: 250
+Magic: 80
+Ranged: 350
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

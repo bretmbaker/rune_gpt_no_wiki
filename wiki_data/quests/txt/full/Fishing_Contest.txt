@@ -1,0 +1,109 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Fishing Contest (#26)
+
+
+
+
+
+Released | 28 May 2002 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Paul Gower
+
+
+
+Fishing Contest is a quest in which the player has to earn the friendship of two dwarven brothers by securing a fishing trophy for them. Afterwards, they allow the player to use the dwarven passage underneath the mountain.
+
+Details [ edit | edit source ]
+
+Start point | Mountain Dwarves at either of the entrances to the tunnel that goes under White Wolf Mountain . Show on map
+
+Official difficulty | Novice
+
+Official length | Very Short
+
+Description | The mountain Dwarves' home would be an ideal way to get across White Wolf Mountain safely. However, the Dwarves aren't too fond of strangers. They will let you through if you can bring them a trophy. The trophy is the prize for the annual Hemenster fishing competition.
+
+Requirements | 10 Fishing ( not boostable ) ( required to start )
+
+Items required | Spade 5 coins (10 if you buy a fishing rod from Jack) Garlic (obtainable during quest) Fishing rod (obtainable during quest), oily fishing rod does not work Red vine worm (obtainable during quest)
+
+Recommended | Fast travel to White Wolf Mountain ( Camelot teleport , Taverley teleport , games necklace to Burthorpe, Catherby Teleport , or Teleport to House if your house is in Taverley) Fast travel to McGrubor's Wood ( Camelot teleport , combat bracelet to the Ranging Guild or fairy rings to A L S ) Food and armour for low levels
+
+Enemies to defeat | None
+
+League notes | Kandarin ✓ — location requirement
+
+Walkthrough [ edit | edit source ]
+
+Dwarves can't fish! [ edit | edit source ]
+
+To start this quest, speak to either the dwarf Austri east of White Wolf Mountain or the dwarf Vestri west of the mountain, at the points shown on the map.
+
+Tip: The western quest start point is closer to the next part of the quest, so it is recommended.
+
+Talk with the dwarf or attempt to walk down the stairs in the building.
+
+If you choose to try and use the stairs the dwarf will block you from doing so, saying that the tunnel is only for the use of the Mountain Dwarves. (Alternatively, talk to the dwarf and ask about what is down the stairs.)
+
+After the dwarf says you can't use the stairs, ask him " why not?" and then select: " If you were my friend I wouldn't mind it" , " well let's be friends" and "how am I meant to do that"
+
+The dwarf will say that he wants you to win the fishing contest in the western town of Hemenster , since the reward for the contest is a coveted gold trophy and dwarves aren't known to be good at angling.
+
+He gives you a fishing pass for entry into the contest, before promising you access to the tunnel shortcut underneath the mountain, should you manage to be successful.
+
+Help from the champion [ edit | edit source ]
+
+Items recommended: Armour and food for low level players.
+
+Stop at Seers' Village and pick up a piece of garlic in the house south-west of the bank . It respawns on a table and it will be needed. Start heading west toward the north end of McGrubor's Woods. Enter McGrubor's Woods by squeezing through the railing on the northern side, since the southern gate is locked. Once inside, beware of aggressive level 44 guard dogs . Just west of the fairy ring, you will find a red vine. Check the red vine and collect at least 2 red vine worms .
+
+Note: Fairy ring code A L S will place you in McGrubor's Woods, and will also complete a medium Kandarin achievement .
+
+Winning the trophy [ edit | edit source ]
+
+Exit McGrubor's Wood through the loose railing located north-east of the building in the centre. Go south of McGrubor's Wood to Hemenster , located west of the Ranging Guild south.
+
+(This section can be skipped if you already have a fishing rod .) Go talk to Grandpa Jack , who lives in the house nearby on the north side of Hemenster to buy a fishing rod for 5 coins .
+
+Find Morris at the gate to Hemenster and show him your fishing pass and he will let you in.
+
+Put the garlic into one of the pipes on the south wall of the north building (just next to the gate).
+
+Pay Bonzo the contest fee to start the contest (5 coins). The Sinister Stranger will complain about a horrible smell and you will change places with him.
+
+Fish at the spot by the pipes using the red vine worms . You will catch a giant carp , a unique type of fish that you can't catch normally, and that will be the prize winning fish.
+
+Speak to Bonzo again and hand over the giant carp . You will be announced the winner of the Fishing Competition.
+
+After winning the contest and obtaining your trophy , head back to the quest starting point on either side of the mountain and give the dwarf your trophy.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 2,437 Fishing experience Access to the underground White Wolf Mountain passage Ability to catch minnows in the Fishing Guild with 82 Fishing and a full Angler's outfit
+
+Required for completing [ edit | edit source ]
+
+Completion of Fishing Contest is required for the following:
+
+Recipe for Disaster - Freeing the Mountain Dwarf Forgettable Tale... Between a Rock... Land of the Goblins
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+v • t • e Fishing Contest
+
+NPCs | Austri Vestri Grandpa Jack Forester Guard dog Morris Bonzo Big Dave Joshua Sinister Stranger
+
+Items | Fishing pass Red vine worm Raw giant carp Giant carp Fishing trophy
+
+Locations and scenery | Hemenster Fishing Contest Banner Carp fishing spot
+
+Related | Quick guide Transcript

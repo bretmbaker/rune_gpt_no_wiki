@@ -1,0 +1,52 @@
+[Weapon: Ancient Gorilla Greegree]
+
+
+Theancient gorilla greegreeis used for transforming into anancient gorillaonApe Atoll. To make one, a player must take amonkey talismanand amonkey skulltoZooknock, located at the very end of theApe Atoll Dungeon.
+Unlike the other two gorilla greegrees, this type is made using a skull found in theTemple of Marimbo Dungeon. Completion of thehard Western Provinces Diaryis required to open the door to the room in which it spawns. While transformed, a player can use aropeon ared banana treeto pick thered banananeeded in theRecipe for DisasterAwowogeisubquest.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Hold, Drop
+Examine: A magical talisman in the shape of a mysterious monkey head.
+General Store Value: 10,000 coins
+Alchemy: Not alchemisable
+Weight: 0.085 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Punch | Crush | Accurate | N/A | 1 tile |  | +3 Attack
+ | Kick | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

@@ -1,0 +1,132 @@
+[Minigame: Soul_Wars]
+
+ | This is a safe PvP activity in aninstanced area.If youdiehere, you will not lose any of your items, including those stored inside anItem Retrieval Service(deathbank).However, any items you drop manually on the ground will be lost.As a safe PvP activity it is safe forHardcore group ironplayers.
+
+Soul Wars
+
+
+
+
+
+Released | 6 January2021(Update)
+
+Also called | SW
+
+Type | Minigame
+
+Members | Yes
+
+Location | Isle of Souls
+
+Leagueregion | Misthalin✓
+
+Participants | 10 per team
+
+Skills | Combat
+
+Requirements | 500total level40combat level
+
+Reward currency | Zeal Tokens
+
+Tutorial | Yes
+
+Music | Soul Wars,The Waiting Game
+
+
+
+Map
+
+
+
+Soul Warsis amembers-only teamminigame, a remake of the originalSoul Warsreleased inRuneScapeon 10 February 2009. In Soul Wars, two opposing teams compete against each other to gathersoul fragmentsand offer them to theSoul Obeliskin order to weaken, and ultimately defeat, each other's Avatars through combat. Each game lasts up to 15 minutes.
+
+Location[edit|edit source]
+
+To get to Soul Wars, one must enter the Soul Wars portal inEdgevilleor theFerox Enclave Dungeon. It is located south-west of the bank, and west of the abandoned mausoleum. After going through the portal, the player will arrive atNomad's camp on theIsle of Souls, where players can exchangeZealfor rewards, learn how to play Soul Wars, or join one of two teams to play Soul Wars. The northern region of the lobby area is asafearea fromplayer versus playercombat, while the southern region isunsafeand allows PvP combat on PvP worlds.
+
+Getting there[edit|edit source]
+
+Grouping- teleport to Soul WarsAmulet of glory- teleports outside of Edgeville bank.Combat bracelet- teleports to theMonasterynearEdgeville.Ring of dueling- teleports toFerox Enclave, where players can access theFerox Enclave Dungeonand the portal.Paddewwa Teleport- teleports the player into theEdgeville Dungeon, just a few steps away. Uses theAncient Magicksspellbook.Fairy rings-BJPon the northern side of the island.
+
+Official worlds[edit|edit source]
+
+Soul Wars can be played on anyworlds, but dedicated worlds are more likely to be active.
+
+World | Location | Members | Activity
+
+320 | United States (west) | 1 | Soul Wars
+
+350 | United Kingdom | 1 | Soul Wars
+
+535 | Australia | 1 | Soul Wars
+
+Starting a game[edit|edit source]
+
+Players require atotal levelof 500 and acombat levelof 40 to play Soul Wars.
+
+To join a team, the player must have completed the Soul Wars tutorial once on any world by talking toNomad. The player may not bring restricted items such as food, potions, capes, followers and non-combat items with them to the tutorial. The player is also not allowed to enter the tutorial whilepoisoned,envenomedordiseased. Logging out or dying (asafe death) during the tutorial will take the player back to the Soul Wars lobby. Like the minigame itself, the tutorial is aPvP-enabled area on PvP worlds.
+
+The western lobby is used for regular games. Each team must have at least ten players. Once 20 players are in the lobby, a game will begin within four minutes, unless the player count in the lobby drops below 20 again. Teams are balanced according to combat level.
+
+Players waiting | Game starts after
+
+20 | 4 minutes
+
+40 | 3 minutes
+
+80 | 2 minutes
+
+100 | 30 seconds
+
+120 | Immediately
+
+The eastern lobby is reserved for clan games. Only captains and above may accept a challenge. Zeal earned is  limited to 30 per game in this mode.
+
+Gameplay[edit|edit source]
+
+The objective of the minigame is to defeat the opposing team's Avatar more times than they defeat yours in 15 minutes. The Avatars begin each battle with damage reduction of 100%. The red team's Avatar is theAvatar of Destruction, while the blue team's Avatar is theAvatar of Creation.
+
+In order to reduce the damage reduction percentage, players will have to gathersoul fragmentsas loot from monsters wandering around the minigame area, and offer them to theSoul Obelisk. Control over the Soul Obelisk is dependent on which team has more players within its vicinity; the team that does not have control of the obelisk will find that sacrificing soul fragments there will only be worth one-third of the contribution.
+
+Players can also gatherbonesand bury them at a graveyard to increase the percentage of their Avatar's damage reduction. If the bones are buried in a graveyard in which that player's team does not have control over, it will only be worth one-third of the contribution. If a team's Avatar's health is low, or the other team has control of the Soul Obelisk, then more players are needed to gather and bury bones to increase the damage reduction percentage of their Avatar. Players can also stand near the Soul Obelisk to assist in its capture.
+
+The capes worn in Soul Wars act liketeam capes, meaning that attacking is the default left-click option on any player of an opposing team, which is useful when one does not target a certain player and is in a crowded place such as the Soul Obelisk. The capes worn cannot be unequipped during a game and players attempting to attack teammates are disallowed from doing so.
+
+Players will have to maintain their activity bar in order to receiveZeal Tokens, the minigame's reward currency. The activity bar entirely depletes after about three minutes of inactivity. A player that remains completely idle and lets their activity bar deplete will be kicked from the game and forced to wait 10 minutes before they can join another game of Soul Wars.
+
+Players can maintain their activity bar and earn Zeal Tokens by:
+
+Killing players - the amount of Zeal depends on how strong the opponent is relative to the playerThe Zeal reward is determined by the difference in combat level between the player and their opponent, scaling linearly as the gap grows wider[1]Killing the same player multiple times will have lower Zeal returns over timeHealing teammates - players can usebandageson their teammates to heal themBurying bones - players can bury bones until their Avatar has 100% damage reductionSacrificing soul fragments - players can sacrifice soul fragments until the opposing team's Avatar has 0% damage reductionDealing damage to the opposing team's AvatarCapturing graveyards or the Soul ObeliskKilling NPCs (does not reward Zeal)Destroyingbarricades(does not reward Zeal)
+
+Despite being a PvP minigame and multi-combat,Heal Other,Boost Potion Share, andEnergy Transferare not allowed.
+
+Rewards[edit|edit source]
+
+At the end of a game, players will receiveZeal Tokensbased on their activity, regardless of whether their team won or lost, with the winning team earning more. Players on the losing team can get up to 40 zeal, players on the winning team can get up to 60 zeal. In the case of a draw players can get up to 50 zeal.
+
+Players can speak toNomadto redeem their Zeal Tokens for rewards. Possible rewards include experience in any combat skill that's at least level 30, equipment imbues, blighted items, or unique loot.Nomadcan upgradeSoul Wars capeswithammunitionsaving effects whenAva's devices(or theirmax capevariants) are used on him.
+
+Music unlocked[edit|edit source]
+
+Name | Unlock details | Music track
+
+Soul Wars | Unlocked upon entering the Soul Wars lobby. | 
+
+The Waiting Game | Unlocked upon entering the Soul Wars lobby. | 
+
+Historical[edit|edit source]
+
+The Soul Wars minigame was originally released on 10 February 2009 inRuneScape. However, the Soul Wars forOld School RuneScapehas many differences which aim to address the issues with itsRuneScapecounterpart and better adapt it for the community ofOld School RuneScape.
+
+The original version of Soul Wars only had one game running at a time, and ran for twenty minutes. This meant sometimes players might face a long wait. Nowadays, games run for fifteen minutes and multiple games can run concurrently.Player complaints about how easily botted Soul Wars used to be due to no requirements to play it were addressed by added entry requirements.To complement the match-making changes, and to help avoid laggy games, an upper cap of 60 players per team was added.Avatars in the original version of Soul Wars would only attack one player. Nowadays, they'll still target just one player, but their attacks can hit any players in front of them.
+
+Game balancing was stated to be a big problem as well, particularly when a team would rush to a large lead early in the game, or when a team has a lot of its players leave (these two things were quite often linked to one another). To address these issues, the following were implemented:
+
+Games now last 15 minutes at most.A team reaching a total of 5 Avatar kills will end the game early.The game will end early if one team's player count drops below half of what it began with.In the original Soul Wars there was only one exit point for the team graveyard. Nowadays, there are three different exit points, making it harder to camp opposing players as they respawn.Originally, only players on the controlling team could bury bones in a graveyard and sacrifice soul fragments to the Soul Obelisk. Now both teams can, but the non-controlling team will only get one-third of the contribution.
+
+Lastly, Slayer was central to the gameplay of the original minigame. A number of changes were made to remove the skill's presence in Old School's Soul Wars:
+
+Originally there was a Slayer level requirement to damage Avatars (which began at 100 and was reduced by using soul fragments on the Soul Obelisk). This was replaced with a damage reduction mechanic in which all damage dealt is initially reduced by 100%, making them immune to damage (this percentage is reduced by using soul fragments on the Soul Obelisk).Pyrefiendsandjellieswere the NPCs that dropped soul fragments, which required Slayer levels to kill. They have been replaced by non-slayer creatures.As Slayer is no longer part of Soul Wars, Slayer XP cannot be purchased with Zeal points.The original Soul Wars offered a host of rewards that aren't suitable for Old School (Slayer XP, Summoning charms, and multiple pets via exchanging points and trophy heads).
+
+Soul Wars was a promotionalfree-to-playminigame during Prime Plays: Soul Wars during its beta testing (15 December 2020 – 5 January 2021).
+

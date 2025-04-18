@@ -1,0 +1,2 @@
+Item: Duelist
+Summary: The duelist is a non-interactive NPC who can be found inside the Fortis Colosseum in Civitas illa Fortis.

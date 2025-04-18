@@ -1,0 +1,87 @@
+Name: Zombie
+Combat Level: 18
+Size: 1x1
+Info:
+- Description: Dead man walking.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 24 xp
+- Category: Zombies
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 45
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Iron mace (1/128)
+- Fire rune (1/128)
+- Grimy guam leaf(m) (1/39.4)
+- Grimy marrentill(m) (1/52.5)
+- Grimy tarromin(m) (1/70)
+- Grimy harralander(m) (1/90)
+- Grimy ranarr weed(m) (1/114.6)
+- Grimy irit leaf(m) (1/157.5)
+- Grimy avantoe(m) (1/210.1)
+- Grimy kwuarm(m) (1/252.1)
+- Grimy cadantine(m) (1/315.1)
+- Grimy lantadyme(m) (1/420.1)
+- Grimy dwarf weed(m) (1/420.1)
+- Coins (1/128)
+- Tinderbox (1/128)
+- Nothing (1/256.47; Never[d 1])
+- Uncut sapphire (1/512; 1/260[d 2])
+- Uncut emerald (1/1,024; 1/520[d 2])
+- Uncut ruby (1/2,048; 1/1,040[d 2])
+- Uncut diamond (1/8,192; 1/4,160[d 2])
+- Nature talisman (1/5,461.33; 1/2,773.33[d 2])
+- Loop half of key (1/16,384; 1/8,320[d 2])
+- Tooth half of key (1/16,384; 1/8,320[d 2])
+- Rune javelin (1/16,384; 1/8,320[d 2])
+- Rune spear (1/262,144; 1/15,600[d 2][d 3])
+- Shield left half (1/524,288; 1/31,200[d 2][d 3])
+- Dragon spear (1/699,050.67; 1/41,600[d 2][d 3])
+- Zombie champion scroll(m) (1/5,000)
+- Looting bag (1/3[d 1])
+- Larran's key (1/1,253)
+- Slayer's enchantment (1/301)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 24
+Attack: 13
+Strength: 13
+Defence: 18
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 5
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

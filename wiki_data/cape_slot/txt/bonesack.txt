@@ -1,0 +1,52 @@
+[Weapon: Bonesack]
+
+
+Thebonesackis a large sack filled with bones worn in thecape slot. Alongside theram skull helm, it is given to the player as a reward for completingRag and Bone Man II. If lost, theOdd Old Manwill offer a replacement for free.
+Despite appearing to hold bones, the bonesack cannot store any bones.
+
+
+[Infobox]
+Released: 10 April2006(Update)
+Members: Yes
+Quest item: Rag and Bone Man II
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Destroy: The bonesack looks like it will fall apart if you drop it, and you will have to go to the Odd Old Man for a replacement.
+Examine: The Bonesack is a little old item that protects like leather.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.003 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +4
+- Crush: +4
+- Magic: +4
+- Ranged: +4
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Abyss/Strategies(Defence)

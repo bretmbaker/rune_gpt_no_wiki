@@ -1,0 +1,54 @@
+[Weapon: Ankou Mask]
+
+
+Theankou maskis obtained as a possible reward frommasterTreasure Trails. It is part of theankou outfit.
+This item can be stored in themahogany treasure chestof acostume room.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: This mask will make your flesh transparent.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.5 kg
+Grand Exchange Value: 13,584,484 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 110
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (master) | N/A | 1 | 1/12,765 | 

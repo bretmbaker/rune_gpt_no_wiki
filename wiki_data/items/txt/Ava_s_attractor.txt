@@ -1,0 +1,1 @@
+Ava's attractoris an item awarded to the player by completing the questAnimal Magnetismif the player is below level 50Ranged. It is equipped in thecape slot, can pick up a player's ranged ammunition after they fire it, and every 3.5 minutes, will attract an assortment of metal ammunition.

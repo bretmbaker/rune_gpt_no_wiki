@@ -1,0 +1,119 @@
+[Weapon: Pegasian Boots]
+
+
+Pegasian bootsare boots that require level 75RangedandDefenceto wear. They currently have the highest ranged attack bonus of any pair of boots.
+They can be created by using apegasian crystalwith a pair ofranger boots. This process cannot be reversed, and requires level 60 inRunecraftandMagic(boosts cannot be used), granting 200 experience in both skills.
+
+
+[Infobox]
+Released: 27 August2015(Update)
+Also called: Pegs
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A pair of upgraded ranger boots.
+General Store Value: 75,000 coins
+High alch: 45,000 coins
+Low alch: 30,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 35,588,152 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 1,114
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -12
+- Ranged: +12
+
+Defence Bonuses:
+- Stab: +5
+- Slash: +5
+- Crush: +5
+- Magic: +5
+- Ranged: +5
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyssal Sire/Strategies(Phase 2 Ranged)
+1 | Adamant dragon/Strategies(Ranged)
+1 | Alchemical Hydra/Strategies(Ranged)
+1 | Ancient Wyvern/Strategies(Ranged)
+2 | Araxxor/Strategies(Ranged)
+1 | Aviansie/Strategies(Ranged)
+2 | Barbarian Assault/Strategies(Ranged (high level))
+2 | Basilisk Knight/Strategies(Ranged/Prayer)
+1 | Basilisk Knight/Strategies(Ranged)
+1 | Brutal black dragon/Strategies(Ranged)
+1 | Cerberus/Strategies(Ranged)
+1 | Chambers of Xeric/Challenge Mode(Ranged)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Ranged)
+1 | Chambers of Xeric/Strategies(Ranged)
+2 | Chompy bird hunting/Strategy
+1 | Commander Zilyana/Strategies(Ranged)
+1 | Corporeal Beast/Strategies(Ranged masses)
+1 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+1 | Dagannoth Kings/Strategies(Range)
+1 | Drake/Strategies(Ranged)
+1 | Galvek Speed-Trialist(Melee)
+1 | General Graardor/Strategies(Solo (Ranged 6:0))
+2 | General Graardor/Strategies(Ranged Tank)
+1 | General Graardor/Strategies(Ranged Attacker)
+1 | General Graardor/Strategies(Solo (Ranged 7:0))
+1 | Giant Mole/Strategies(Ranged)
+1 | Giant Mole/Strategies(Ranged Void)
+1 | Green dragon/Strategies(Ranged)
+1 | Grotesque Guardians/Strategies(Ranged switches)
+3 | Inferno/Strategies(Learners)
+1 | Inferno/Strategies(On task)
+1 | K'ril Tsutsaroth/Strategies(Ranged)
+1 | Kalphite Queen/Strategies(High DPS (Phase Two))
+1 | King Black Dragon/Strategies(Ranged BIS smuggle)
+2 | Kree'arra/Strategies(Chinchompas)
+2 | Kree'arra/Strategies(Ranged Tank)
+1 | Kree'arra/Strategies(Tbow / Bowfa)
+1 | Lava dragon/Strategies(Ranged)
+1 | The Leviathan/Strategies(Ranged)
+4 | Maniacal monkey/Strategies(Ranged)
+1 | Metal dragons/Strategies(Ranged)
+1 | The Mimic/Strategies(Ranged)
+1 | Mithril dragon/Strategies(Ranged)
+1 | Nex/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+1 | Phantom Muspah/Strategies(Ranged)
+1 | Phantom Muspah/Strategies(Magic & Ranged)
+2 | Rune dragon/Strategies(Ranged)
+1 | Scurrius/Strategies(Range (high level))
+1 | Skeletal Wyvern/Strategies(Ranged (Void))
+1 | Skeletal Wyvern/Strategies(Ranged)
+1 | Skeleton (Ape Atoll)(Ranged)
+1 | Skotizo/Strategies(Ranged)
+1 | Slayer task/Abyssal demons(Ranged)
+1 | Slayer task/Fossil Island wyverns(Ranged)
+1 | Slayer task/Gargoyles(Ranged)
+1 | Slayer task/Jellies(Ranged)
+1 | Slayer task/Suqah(Ranged (North))
+1 | Slayer task/Wyrms(Ranged)
+1 | Slayer training(Ranged)
+1 | Tormented Demon/Strategies(Ranged switch)
+1 | TzHaar Fight Cave/Strategies(Ranged)
+1 | Vorkath/Strategies(Ranged (crossbow))
+1 | Zulrah/Strategies(Ranged)

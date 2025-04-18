@@ -1,0 +1,75 @@
+[Weapon: Mithril Chainbody]
+
+
+TheMithril chainbodyis achainbodymade out ofmithril. As with all mithril armour, it requires 20Defenceto wear.
+Like all chainbodies, it provides better Crush defence than aplatebodymade of the same material, at the cost of lower Stab and Slash defence.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A series of connected metal rings.
+General Store Value: 1,950 coins
+High alch: 1,170 coins
+Low alch: 780 coins
+Weight: 5.896 kg
+Grand Exchange Value: 971 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 15,086
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +25
+- Slash: +35
+- Crush: +42
+- Magic: -3
+- Ranged: +27
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Adventurer JonMithril defence | N/A | 1 | Always | N/A
+Agility dispenserLaps 1-15 | N/A | 1(noted) | 1/10 | 
+Agility dispenserLaps 16-30 | N/A | 1(noted) | 1/9 | 
+Black Chest (black) | N/A | 1 | 2/141.11;2/133.27 | 
+Black Chest (brown) | N/A | 1 | 2/141.02;2/133.19 | 
+Black Chest (crimson) | N/A | 1 | 2/141.07;2/133.23 | 
+Black Chest (purple) | N/A | 1 | 2/141.15;2/133.31 | 
+Black Chest (red) | N/A | 1 | 2/140.98;2/131.15 | 
+Bloodveld | 76; 81 | 1 | 1/128 | 
+Duke Sucellus | 538; 758; 1099 | 5; 7(noted) | 1/100 | 
+Flaming pyrelord | 97 | 1 | 2/128 | 
+Former Vampyre | N/A | 1(noted) | 3/256 | 
+Harpie Bug Swarm | 46 | 1 | 2/128 | 
+Infernal pyrelord | 134 | 1 | 2/128 | 
+Insatiable Bloodveld | 202 | 1 | 3 × 1/128 | 
+Kalphite Soldier | 85 | 1 | 1/128 | 
+Lesser demonRegular | 82; 87; 94 | 1 | 1/128 | 
+Pyrefiend | 43; 48 | 1 | 2/128 | 
+Pyrelord | 60 | 1 | 2/128 | 
+Skeleton (Tarn's Lair)Low level | 42; 59 | 1 | 1/128 | 
+Vampyre Juvinate | N/A | 1(noted) | 3/256 | 
+Werewolf | 88; 93 | 1 | 10/512 | 

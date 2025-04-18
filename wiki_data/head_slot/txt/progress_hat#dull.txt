@@ -1,0 +1,47 @@
+[Weapon: Progress Hat#Dull]
+
+
+Theprogress hatis a magical, talking hat used to keep track of the player'spizazz pointsobtained from theMage Training Arena. If lost, another one can be obtained for free from theEntrance Guardian.
+The player can talk to the hat to check the number of points they have in each activity. It replies with a grumpy attitude but will tell the player anyway. The hat has a maximum point storage limit, as follows:
+
+
+[Infobox]
+Released: 4 January2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Talk-to, Wear, Destroy
+Worn options: Talk-to
+Destroy: You can get another from the Mage Training Arena's Entrance Guardian.
+Examine: A magic training arena progress hat.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 0.001 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

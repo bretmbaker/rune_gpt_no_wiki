@@ -1,0 +1,5 @@
+Item: Treasonous ring
+Summary: The treasonous ring is a ring dropped by Venenatis and Spindel.
+Sources:
+- Spindel (Level 302, Quantity: 1, Rarity: 1/716)
+- Venenatis (Level 464, Quantity: 1, Rarity: 1/512)

@@ -1,0 +1,103 @@
+[Pet: Phoenix]
+
+ThePhoenixis apetthat can be received from looting theReward Cart, from which rewards are obtained by subduing theWintertodtwith at least 500 points.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed fromProbitafor a reclaim token.
+
+Though the Wintertodt is classified as a boss rather than a skilling activity, the phoenix is fifteen times more common at200 millionFiremakingexperience.
+
+Colours[edit|edit source]
+
+Players can change the phoenix's colour by using 250 of the desiredgnomish firelighterswhile it is following the player. Since 23 October 2024red firelightersare no longer required to unlock the revert back to the default red Phoenix.
+
+Colour | Cost | Image | Chat head
+
+N/A | N/A |  | 
+
+Blue | 23,750 |  | 
+
+Green | 27,250 |  | 
+
+Purple | 26,500 |  | 
+
+White | 24,750 |  | 
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Reward Cart | N/A | 1 | 1/5,000 | 
+
+Changes[edit|edit source]
+
+Date | Changes
+
+23 October2024(update) | Recolouring the phoenix now permanently unlocks that colour under the newly added "Metamorphosis" option.
+
+21 June2023(update|poll) | The drop rate of the phoenix has been increased by fifteen times if players have200 million experienceinFiremaking.
+
+29 January2020(update|poll) | The phoenix was given the ability to change its appearance via the use ofgnomish firelighters.
+
+15 September2016(update) | The NPC no longer appears on the minimap.The Menagerie version was renamed from "Phoenix Pet" to "Phoenix".The Menagerie version was given "Talk-to" and "Pick-up" options.
+
+Trivia[edit|edit source]
+
+Prior to the removal ofsupply crates, it was possible to obtain a phoenix pet while in underwater areas such as theMogre CampandFossil Island'sunderwaterarea.Using abucket of wateron the Phoenix will result in the chatbox statingThe phoenix dodges the water. Doing so consumes the bucket of water entirely, including the bucket itself.The Phoenix's in-game model is a miniaturization of theDesert Phoenix'smodel.The Phoenix's standard dialogue makes several references to pop culture:The first and second dialogues are references to Solaire of Astora ofDark Souls.The "long night" mentioned in the first dialogue may be a reference toA Song of Ice and Fire.The Sacred Ash mentioned in the fourth dialogue could be a reference toPokémon, where Sacred Ash is an item associated with the Legendary Pokémon Ho-Oh, who is based off of a phoenix. It is more likely that it just shares a common characteristic of mythical phoenixes of dying and being reborn from ash.Also in the fourth dialogue, the player's confusion about the sky is a reference to RuneScape not having a skybox.
+
+v•t•eWintertodt
+
+NPCs | Captain KaltCatEstherIsh the NavigatorUndorWinter SoldierWintertoadOrder of the Sacred FlameIgnisiaBrew'maPyromancer |  | Captain KaltCatEstherIsh the NavigatorUndorWinter SoldierWintertoad | Order of the Sacred Flame | IgnisiaBrew'maPyromancer
+
+ | Captain KaltCatEstherIsh the NavigatorUndorWinter SoldierWintertoad
+
+Order of the Sacred Flame | IgnisiaBrew'maPyromancer
+
+Items | Bruma rootBruma kindlingBruma herbRejuvenation potion(unfinished)Warm clothing
+
+Scenery | BrazierBruma rootsSprouting RootsCrateDoors of Dinh
+
+Rewards | Reward CartSupply crate (discontinued)Extra supply cratePyromancer outfitHoodGarbRobeBootsTome of fireTome of fireBurnt pageMiscellaneousBruma torch(off-hand)Warm glovesPhoenix |  | Reward CartSupply crate (discontinued)Extra supply crate | Pyromancer outfit | HoodGarbRobeBoots | Tome of fire | Tome of fireBurnt page | Miscellaneous | Bruma torch(off-hand)Warm glovesPhoenix
+
+ | Reward CartSupply crate (discontinued)Extra supply crate
+
+Pyromancer outfit | HoodGarbRobeBoots
+
+Tome of fire | Tome of fireBurnt page
+
+Miscellaneous | Bruma torch(off-hand)Warm glovesPhoenix
+
+Related | Wintertodt CampPyromancer setDinh
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan

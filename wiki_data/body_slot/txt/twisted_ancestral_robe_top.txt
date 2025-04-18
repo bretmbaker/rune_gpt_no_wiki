@@ -1,0 +1,46 @@
+[Weapon: Twisted Ancestral Robe Top]
+
+
+Thetwisted ancestral robe topis anancestral robe topwith atwisted ancestral colour kitattached to it. The attached colour kit gives no additional bonuses, and is only used to change the aesthetics of the robe.
+While the robe top is untradeable in its recoloured state, it can be dismantled anytime, returning the ornament kit and tradeable robe top. It can be stored in amagic wardrobein a player-owned house.
+
+
+[Infobox]
+Released: 28 May2020(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle
+Examine: The robe top of a powerful sorceress from a bygone era.
+General Store Value: 120,000 coins
+High alch: 72,000 coins
+Low alch: 48,000 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +35
+- Ranged: -8
+
+Defence Bonuses:
+- Stab: +42
+- Slash: +31
+- Crush: +51
+- Magic: +28
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +3%
+- Prayer: +0
+
+Slot: Body slot

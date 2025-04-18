@@ -1,0 +1,2 @@
+Item: Trader (The Green Gemstone)
+Summary: Traders are employees working for The Green Gemstone mining company. They are found upstairs in the Trade Octagon in the centre of Keldagrim, where they shout out offers and look for potential deals for their company. They cannot be interacted with.

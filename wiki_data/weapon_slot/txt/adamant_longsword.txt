@@ -1,0 +1,82 @@
+[Weapon: Adamant Longsword]
+
+
+Theadamant longswordis alongswordthat is stronger than theMithril longsword, but weaker than theRune longsword. Like all otheradamant weapons, it requires 30Attackto wield. Players can make an adamant longsword with 76Smithingusing 2adamant bars, granting 125 experience. It can be bought from theVarrock Swordshopfor 3,200 coins.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A razor sharp longsword.
+General Store Value: 3,200 coins
+High alch: 1,920 coins
+Low alch: 1,280 coins
+Weight: 2.041 kg
+Grand Exchange Value: 1,520 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 10,162
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +20
+- Slash: +29
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +3
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +31
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+AraxyteLevel 96 | 96 | 1 | 5/127 | 
+AraxyteLevel 146 | 146 | 2 | 5/127 | 
+Dreadborn Araxyte | 281 | 2 | 3 × 5/127 | 
+Giant Mole | 230 | 1 | 10/128 | 
+Giant Rock Crab | 137 | 1 | 5/128 | 
+Gold Chest (black) | N/A | 1 | 3/144.18 | 
+Gold Chest (brown) | N/A | 1 | 3/143.99 | 
+Gold Chest (crimson) | N/A | 1 | 3/144.08 | 
+Gold Chest (purple) | N/A | 1 | 3/144.28 | 
+Gold Chest (red) | N/A | 1 | 3/143.91 | 
+Insatiable mutated Bloodveld | 278 | 1 | 3 × 1/128 | 
+King Sand Crab | 107 | 1 | 5/128 | 
+Mutated Bloodveld | 123 | 1 | 1/128 | 
+Reward casket (medium) | N/A | 1 | 10/341 | 
+Silver Chest (black) | N/A | 1 | 3/152.6 | 
+Silver Chest (brown) | N/A | 1 | 3/152.46 | 
+Silver Chest (crimson) | N/A | 1 | 3/152.53 | 
+Silver Chest (purple) | N/A | 1 | 3/152.67 | 
+Silver Chest (red) | N/A | 1 | 3/152.39 | 
+Temple Spider | 75 | 1 | 4/100 | 
+The Whisperer | 587; 791; 1146 | 9; 14(noted) | 1/100 | 
+Zamorak warrior | 84; 85 | 1 | 1/50 | 

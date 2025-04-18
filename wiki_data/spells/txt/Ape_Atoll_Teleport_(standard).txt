@@ -1,0 +1,139 @@
+[Spell: Ape_Atoll_Teleport_(standard)]
+
+Ape Atoll Teleport
+
+
+
+
+
+
+
+Released | 15 March2006(Update)
+
+Members | Yes
+
+Level | 64
+
+Spellbook | Standard
+
+Type | Teleport
+
+Experience | 74
+
+Runes | 2221
+
+Casting speed | 4 ticks
+
+Quest | Recipe for Disaster(Awowogei)
+
+Description | Teleports you to Ape Atoll
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Ape Atoll Teleportteleports the caster toApe Atoll, next toHafubain the safe upstairs section of theTemple of Marimbo. Players must have completed theAwowogei sectionof theRecipe for Disasterquestto use this spell; therefore the full requirements of this spell are the completion ofCook's AssistantandMonkey Madness I, 70Cooking(boostable), 48Agility, and 64Magic.
+
+Note that the banana required for the spell must be unnoted.
+
+This spell cannot be transferred into ateleport tablet, but it can be added to aportalorportal nexusin theplayer owned house.
+
+Casting this spell is a requirement for theHard Western Provincesdiary.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+2221 | 371
+
+Combo runes
+
+2212 | 579
+
+2212 | 415
+
+2212 | 469
+
+212 | 551
+
+2212 | 607
+
+Main-hands
+
+221Alt | 361
+
+221Alt | 361
+
+21 | 351
+
+Main and off-hands
+
+221 | 361
+
+221 | 361
+
+21Alt | 351
+
+21Alt | 351
+
+Destination[edit|edit source]
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+v•t•eTeleportation spells
+
+Standard | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Arceuus | Arceuus HomeArceuus LibraryDraynor ManorKebos BattlefrontMind AltarRespawn pointSalve GraveyardFenkenstrain's CastleWest ArdougneHarmony IslandForgotten CemeteryBarrowsApe Atoll DungeonTarget
+
+Ancient | Edgeville HomePaddewwaSenntistenKharyrllLassarDareeyakCarrallangerAnnakarlGhorrockTarget
+
+Lunar | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTargetTele GroupMoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau |  | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTarget | Tele Group | MoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau
+
+ | Lunar HomeMoonclanOuraniaWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce PlateauTarget
+
+Tele Group | MoonclanWaterbirthBarbarian OutpostKhazardFishing GuildCatherbyIce Plateau

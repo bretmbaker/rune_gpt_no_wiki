@@ -1,0 +1,46 @@
+[Weapon: Echo Virtus Robe Top]
+
+
+Theecho Virtus robe topis aVirtus robe topwith anecho virtus ornament kitadded onto it. The kit gives no additional bonuses, and is only used to add aesthetics to the robe top.
+Whilst in its ornamented state, the item can be reverted anytime, returning the robe top and kit. It can be stored in amagic wardrobein aplayer-owned house.
+
+
+[Infobox]
+Released: 27 November2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Detach, Drop
+Examine: Virtus robes in the style of Leagues V: Raging Echoes.
+General Store Value: 600,000 coins
+High alch: 360,000 coins
+Low alch: 240,000 coins
+Weight: 2.895 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +35
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +47
+- Slash: +36
+- Crush: +56
+- Magic: +31
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +2%
+- Prayer: +2
+
+Slot: Body slot

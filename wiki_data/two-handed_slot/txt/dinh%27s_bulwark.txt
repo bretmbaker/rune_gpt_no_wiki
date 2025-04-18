@@ -1,0 +1,75 @@
+[Weapon: Dinh%27S Bulwark]
+
+
+Dinh's bulwarkis a two-handed shield created byDinh, aLovakengjsmith of unparalleled skill. It requires 75AttackandDefenceto wield and is obtained as a rare reward from theChambers of Xeric.
+As the strongest shield in-game (barring anypassive effects), it is often equipped alongside magically defensive armour (such asblack dragonhide armour) while doing non-combat activities in theWildernessto defend againstplayer killingand/or dangerous monsters. As a two-handed shield, the bulwark is also capable of attacking opponents. In order to attack with the bulwark, it must be set to the pummel option. This also allows it to perform its special attack.
+
+
+[Infobox]
+Released: 5 January2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Is it... looking at me?
+General Store Value: 560,000 coins
+High alch: 336,000 coins
+Low alch: 224,000 coins
+Weight: 30 kg
+Grand Exchange Value: 13,831,490 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 847
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +124
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +106
+- Slash: +109
+- Crush: +109
+- Magic: -10
+- Ranged: +148
+
+Other Bonuses:
+- Strength: +38
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pummel | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Block | None | None | None | None
+
+
+[Special Attack]
+A player performs the special attack of Dinh's bulwark,Shield Bash.
+Dinh's bulwark has aspecial attack,Shield Bash, which hits up to 10 enemies (in both PvM and PvP) in a 11×11 area around the player (thus up to five tiles away from the player) with 20% increased accuracy, consuming 50% of the player's special attack energy.[1]The targeted monster gets hit twice by the attack, while all other monsters get hit once. These effects only occur in multicombat areas. The accuracy roll forShield Bashis made against an opponent's crush defence.[2]
+In addition, all monsters hit by the special attack will have their highest offensive stats reduced by 5% on a successful hit. This drain does not apply to the doubled hit on the primary target. If all stats are equal, it will drain both Attack and Strength, then Ranged, or Magic.
+This special attack is useful for players in amulticombat areato attack multiple monsters simultaneously to get their attention, such as fordust devilsandgreater nechryaelin theCatacombs of Kourend; as the special attack is considered a melee attack against all affected monsters, it can be useful to use in tandem with theserpentine helmdue to its passive chance to inflict venom on hit.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ancient chest | N/A | 1 | 3/69 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Hunter training(Dinh's bulwark)
+1 | Pay-to-play Prayer training(Dinh's bulwark)
+1 | Sarachnis/Strategies(Melee tank)
+1 | Ultimate Ironman Guide/Equipment

@@ -1,0 +1,1 @@
+Mithril bootsaremembers onlyarmour pieces that are worn in thefootwear slot.Playersneed at least 20Defenceto wear these armoured boots. As with allmetal boots, this piece of armourcannotbe made using theSmithingskill.

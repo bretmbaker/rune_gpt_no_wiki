@@ -1,0 +1,49 @@
+[Weapon: Pearl Bolts]
+
+
+Pearl boltsareiron boltstipped withpearl bolt tips. Pearl bolts can be created through theFletchingskill by attaching pearl bolt tips to iron bolts. Attaching pearl bolt tips requires 41 Fletching. Once the pearl bolt tips have been attached, the iron bolts become pearl bolts.
+Pearl bolts can be enchanted through the spellEnchant Crossbow Bolt (Pearl)with level 24Magic. The spell enchants 10 bolts at a time. Once they are enchanted they becomeenchanted pearl boltsand gain a special ability.
+
+
+[Infobox]
+Released: 9 September2002(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Pearl tipped Iron crossbow bolts.
+General Store Value: 13 coins
+High alch: 7 coins
+Low alch: 5 coins
+Weight: 0 kg
+Grand Exchange Value: 83 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 119,948
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +48
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

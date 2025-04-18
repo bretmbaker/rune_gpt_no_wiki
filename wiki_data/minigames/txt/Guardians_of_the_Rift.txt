@@ -1,0 +1,236 @@
+[Minigame: Guardians_of_the_Rift]
+
+ | This is a non-combat activity.Players should not expect to take damage or risk death from this activity.However, anydeathis still considereddangerousfor the purposes ofhardcore statusanditem retrieval services.
+
+ | This article has astrategy guide.All information on mechanics and strategy will be on this page.
+
+Guardians of the Rift
+
+
+
+
+
+Released | 23 March2022(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Temple of the Eye
+
+Leagueregion | Desert✓
+
+Participants | 1+
+
+Skills | Runecraft,Mining,Crafting
+
+Reward currency | Abyssal pearls
+
+Music | Guardians of the Rift,The Guardians Prepare
+
+
+
+Map
+
+
+
+Guardians of the Riftis a non-combatminigamethat takes place within theTemple of the Eye. The main goal of the game is to assistThe Great Guardianin closing anabyssal rifttothe Scar, the most dangerous part ofAbyssal Space, by supplying it with guardian stones while protecting it from the abyssal creatures that come through the rift.
+
+Requirements[edit|edit source]
+
+Completion ofTemple of the EyequestLevel 10Runecraftis required for Temple of the Eye, although only an additional 154 experience is needed to reach this level after completing its prerequisite quests. Level 27 Runecraft is required to play the minigame after quest completion. Due to experience gained from Temple of the Eye, players will have reached at least level 27 Runecraft before they start the minigame.  However in seasonal game modes such asLeaguesit is possible to not meet this requirement if the quest is auto completed.AnypickaxeAchisel(only if you want to craft guardians)
+
+Getting there[edit|edit source]
+
+Theportalto the Guardians of the Rift minigame resides in the basement of theWizards' Tower. Players can get there faster than walking by using the following:
+
+Theamulet of the eyeteleport.Thegroupingminigameactivity teleport.Anecklace of passageteleport to the Wizards' Tower.Fairy ringcodeDISto the Wizards' Tower.Anamulet of gloryteleport toDraynor Villageand walking south.Lumbridge Home Teleportand walking south-west.Teleporting tothe Scarviaring of shadows, requiringDesert Treasure II - The Fallen Empire.
+
+Players looking to change their gear or inventory loadout may use thebank chestfound just north of the portal. For players who are using theScar essence mine, as well as players who have the amulet of the eye, the bank is fairly close to a teleport, making it an efficient stop for players looking to bank and return.
+
+Official worlds[edit|edit source]
+
+The followingofficial worldsare assigned to Guardians of the Rift:
+
+World | Location | Members | Activity
+
+445 | United States (west) | 1 | Guardians of the Rift
+
+464 | Germany | 1 | Guardians of the Rift
+
+478 | United States (east) | 1 | Guardians of the Rift
+
+522 | United Kingdom | 1 | Guardians of the Rift
+
+534 | Australia | 1 | Guardians of the Rift
+
+Gameplay[edit|edit source]
+
+The objective of the minigame is to allow the Great Guardian to charge up enough power to close the rift where Abyssal creatures are coming through.
+
+Players will need to do the following throughout the battle:
+
+Imbue essence acquired during the minigame at runic altars to power up the Great GuardianCreate elemental and catalytic guardians to do battle with the incoming Abyssal creaturesCreate/repair barriers to protect the Great Guardian from Abyssal creatures
+
+To imbue essence, players must obtainguardian fragmentsfrom guardian remains of varying sizes in the Temple. There are three nodes that can be mined off of:guardian parts,guardian remains, andlarge guardian remains. Parts and normal remains can be found in the edges of the temple area, while the larger remains are past some rubble in the mid-east of the Temple area, requiring level 56Agility(not boostable)to access.
+
+The huge guardian remains, which giveguardian essencewhen mined, are found at the mid-western area of the temple. Though normally inaccessible, portals will occasionally appear that take players there, spawning approximately every 2 minutes. Portals remain active for around 25 seconds.
+
+The doubling effect of certainmining enhancers—such asVarrock armour(all tiers) and chargedcelestial rings—will apply when mining for guardian fragments and essence.
+
+Mining guardian fragmentsPortals that takes players to the huge guardian remains.
+
+Imbuing essence[edit|edit source]
+
+Guardian fragmentsare converted intoguardian essence, which are storable inessence pouches. They are brought to runic altars to be imbued via entering Portal Guardians surrounding the centre of the Temple. Only two portals are active at a time: one elemental and one catalytic. Imbuing guardian essence requires the same Runecraft level as crafting them regularly in the corresponding altar. Note that imbuing on runic altars during the minigame will not give players therift guardianpet.[1]
+
+In addition, for every guardian essence imbued, there is a 1/250 chance that players will receive aportal talisman,[2][3]which can be used on the Portal Guardians to take them back to the runic altar they previously used, even if the portal is closed for that altar. These cannot be kept after the game ends, so players should use them whenever possible. Players can right-click "Toggle-talisman" on a Portal Guardian to stop receiving portal talismans of the selected type.
+
+Once players imbue their essence into either anelementalorcatalytic guardian stone, they can return to the Temple and power up the Great Guardian. Each guardian stone will givetwo energy of the respective type; if craftingcombination runes, players will instead receivepolyelemental guardian stones, which givethree elemental energywhen used on the Great Guardian.
+
+The number of guardian stones required to fully charge up the Great Guardian scales with player count: the Great Guardian must be powered up with 250 guardian stones for each player inside the temple in order to reach 100%.[4]If there are over 20 players, every player beyond the 20th grants a 20% scaling penalty on the charge required to power up the Great Guardian, meaning 200 essence is required for each player after the 20th rather than 250.
+
+When powering up the Great Guardian, the player'srun energywill be restored by 1% for each guardian stone granted to the Guardian. In addition, a small bonus amount is restored based on the player's currentspecial attack energy, ranging from 1% extra with a totally depleted special energy bar up to 11% additional run energy when the special bar is completely full.[5]
+
+Be aware that players need to have completed certain quests to be able to enter some Portal Guardians:
+
+Guardian of Cosmic-Lost CityGuardian of Law-Troll StrongholdGuardian of Death-Mourning's End Part IIGuardian of Blood-Sins of the Father
+
+Charging cells[edit|edit source]
+
+Charged cells are used to createrift guardiansand erect barriers.Uncharged cellsare obtained from a container near the entry barrier, and are charged in the same way guardian essence is. Players can hold up to ten uncharged cells and have only one charged cell at a time.
+
+Rift guardians are created with achiselvia the essence piles near the tables at the south, and can either be elemental (east) or catalytic (west). These will follow the elemental/catalytic guides in the outer ring. Only ten rift guardians can be active at any time.
+
+Barriers are created by using charged cells on the cell tiles at the front-centre. Using increasingly higher tiers of cells in order (ex. medium to strong cells) will also strengthen them. Using lesser charged cells (ex. a strong cell on an overcharged barrier) will instead recharge the barriers by "healing" them. Should a barrier break, the cell tile will need to be repaired, which requires 12 guardian fragments.
+
+The strength of the cell corresponds to the Runecraft level of the runic altar it is charged in:
+
+Level | Type | Tier | Alignment
+
+1 |  | Air |  | Weak |  | Elemental
+
+5 |  | Water |  | Medium |  | Elemental
+
+9 |  | Earth |  | Strong |  | Elemental
+
+14 |  | Fire |  | Overcharged |  | Elemental
+
+2 |  | Mind |  | Weak |  | Catalytic
+
+20 |  | Body |  | Weak |  | Catalytic
+
+27 |  | Cosmic |  | Medium |  | Catalytic
+
+35 |  | Chaos |  | Medium |  | Catalytic
+
+44 |  | Nature |  | Strong |  | Catalytic
+
+54 |  | Law |  | Strong |  | Catalytic
+
+65 |  | Death |  | Overcharged |  | Catalytic
+
+77 |  | Blood |  | Overcharged |  | Catalytic
+
+Since each combination rune can be made on either of two altars, the cell tier is determined by the elemental altar that's used.
+
+Level | Type | Alignment
+
+6 |  | Mist |  | Polyelemental
+
+10 |  | Dust |  | Polyelemental
+
+13 |  | Mud |  | Polyelemental
+
+15 |  | Smoke |  | Polyelemental
+
+19 |  | Steam |  | Polyelemental
+
+23 |  | Lava |  | Polyelemental
+
+Gaining energy[edit|edit source]
+
+Players can gain energy by either using cells, by using guardian stones on the Great Guardian, or by repairing a barrier. For each stone used, players will get 5 Runecraft experience and two energy in elemental or catalytic depending on the type of essence used; if crafting combination runes, players will get a polyelemental guardian stone instead, which gives three elemental energy. If players use twelve fragments on repairing a cell tile they will gain 25 energy in both types.
+
+Each cell can be used in one of four ways: to build a barrier, to recharge a barrier, to strengthen a barrier (one tier at a time) or to create a guardian. Higher level cells give more energy, except for when building barriers, which always gives 2 energy in both types. Using cells on barriers gives equal energy in elemental and catalytic, whereas creating a guardian gives energy only in the energy type matching the guardian they created. Creating a guardian awards2x+1energy, wherexis the energy that would be awarded for strengthening a barrier with the same cell.
+
+Tier | Barrier | Guardian
+
+Placing | Strengthening | Recharging | Health restored | XP | Creating[n 1] | XP
+
+ | Weak | 17 | N/A | 2 | 10 | 30 | 6 | 3080
+
+ | Medium | 20 | 7 | 5 | 25 | 100 | 15 | 10080
+
+ | Strong | 24 | 13 | 9 | 50 | 180 | 27 | 18080
+
+ | Overcharged | 30 | 22 | 15 | 100 | 250 | 45 | 25080
+
+Phases of the battle[edit|edit source]
+
+The battle is split into three phases:
+
+The first phase is short, giving players two minutes to prepare by obtaining guardian essence and uncharged cells to create and power up guardians. Initially, there are someweak cellsused in the beginning stages of the battle that should be used to erect barriers.
+
+After the two minutes pass, abyssal creatures will begin spawning from the rift, consisting of mostlyabyssal leechesandguardians. There will be a fewwalkersamong them. The monsters will attempt to attack the Great Guardian, with their attacks draining its energy. They will also attack barriers and rift guardians, although they only retaliate back for the latter, not actively targeting them. Should the Great Guardian's energy level reach 0%, the encounter will fail.
+
+When the guardian reaches 60% charge, the temple will rumble as the rift glows more intensely, damaging all active barriers by 50 health (in a mass) and spewing out more guardians and walkers compared to leeches. Players should heal the barriers and create more rift guardians if necessary.
+
+When the guardian reaches 100% charge, it will seal the rift. All abyssal creatures and rift guardians will automatically die once this occurs and there is a brief period of respite for players inside to leave or reposition themselves.
+
+At the beginning of a new game, all guardian fragments, essence, and portal talismans acquired during the game will be removed from the player's possession. This also applies when leaving the minigame area.
+
+Rewards[edit|edit source]
+
+At the end of a game, players will receive points and Runecraft experience equal to their Runecraft level × 45 as long as they gained at least 300 total energy during the game. An elemental point will be given for every 100 elemental energy and a catalytic point will be given for every 100 catalytic energy, with a chance of rounding up (ex. 73 elemental energy will give a 73% chance of gaining one elemental point). One of each are used to search theRewards Guardian, located just outside the rift gate, where players can receive their rewards from. A maximum of 1,200 total energy can be earned per game (1,320 when using the abyssal lantern burning yew logs), with a cap of 1,000 per energy type. If a player reaches the maximum point cap, the chatbox will display the messageYou are fully attuned with runic energy and cannot earn anymore until the rift has been closed.
+
+Rewards Guardian[edit|edit source]
+
+Rewards from the Guardian include a standard loot table including runes and talismans, as well as various unique rewards.
+
+Item | Info
+
+ | Abyssal pearls | Used to purchase items from theTemple Suppliesshop.
+
+ | Intricate pouch | Can give atarnished locketor alost bag. Grants a random amount of runes or one of several dragon items.  Also has a chance at granting ahard clue.
+
+ | Atlax's diary | An old diary of someone's experiences at the Temple of the Eye.
+
+ | Elemental talisman | Grants access to all elementalrunic altars.
+
+ | Catalytic talisman | Grants access to all catalytic runic altars, provided the player has completed the quests to access those that require it.
+
+ | Abyssal needle | Combines allessence pouchesinto onecolossal pouch(requiring56Craftingto use). If the colossal pouch is lost, players may simply use a normal needle on the Rewards Guardian to obtain another Abyssal needle.
+
+ | Abyssal lantern | Gives various benefits within the minigame depending on the type of logs used to light it. Can also be purchased with 1500 pearls.
+
+ | Abyssal dyes | Recolours theraiments of the eye,lost bag, andamulet of the eye. Comes inred,green, andblue.
+
+ | Abyssal protector | An abyssal creature pet, similar to anabyssal guardian.
+
+Temple Supplies[edit|edit source]
+
+Items from the rewards shop are purchased withAbyssal pearls, which are obtained from the Rewards Guardian.
+
+Item | Info | Pearls required
+
+ | Raiments of the Eye | Each piece grants the wearer 10% more runes (up to a maximum of 60% when the full set is equipped). | 400 (Hat),350 (Topandbottoms),250 (Boots)
+
+ | Ring of the elements | Teleports players near the elemental runic altars. Charged with one of each elemental rune and one law rune. | 400
+
+ | Guardian's eye | When used on therift guardianpet, will allow it to transform to aGreatish guardian. | 3,000
+
+ | Talismans | Used to create tiaras and enterrunic altars.Elemental,catalytic, andwrath talismansare not sold.Blood talismansare exclusively sold here.Deathand Blood talismans will only appear in the shop after the prerequisite quests to use them are completed. | 10 (Air,Water,Earth,Fire,Mind,Body),30 (Chaos,Cosmic),50 (Nature,Law),80 (Death),100 (Blood)
+
+Music[edit|edit source]
+
+Track | Details
+
+ | The Guardians Prepare. Plays during the first phase of the game.
+
+ | Guardians of the Rift. Plays during the rest of the game.
+
+ | Plays upon winning a game of Guardians of the Rift.
+
+ | Plays upon losing a game of Guardians of the Rift.
+

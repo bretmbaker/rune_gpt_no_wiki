@@ -1,0 +1,46 @@
+[Weapon: Graceful Top (Kourend)#Worn]
+
+
+TheKourend graceful topis one of many variants of thegraceful top. It is recoloured from a graceful top by using it onOsteninShayzien(in the building east of the bank), costing 15marks of grace. Doing so requires completion of all five house quests in theGreat Kourend quest series:The Queen of Thieves,The Depths of Despair,The Ascent of Arceuus,The Forsaken Tower, andTale of the Righteous.
+This item can be stored in themagic wardrobeof acostume room.
+
+
+[Infobox]
+Released: 24 March2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A sign of your grace and unity.
+General Store Value: 55 coins
+High alch: 33 coins
+Low alch: 22 coins
+Weight: 0.9 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

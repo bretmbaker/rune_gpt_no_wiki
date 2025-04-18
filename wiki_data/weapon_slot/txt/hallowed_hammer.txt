@@ -1,0 +1,52 @@
+[Weapon: Hallowed Hammer]
+
+
+Thehallowed hammeris an item that will never break nails inside theHallowed Sepulchre(regardless of the plank and nail combination used). It can be purchased from theMysterious Hallowed Goodsshop for 100hallowed marks. Unlike the other hallowed equipment, the hammer does not need to be equipped in order for its effect to work.
+The hallowed hammercannotbe used in place of a normalhammeroutside the Hallowed Sepulchre. The hammer also counts as a Saradomin item for the purposes of recharging your runenergyat the Magical Obelisks at the end of each floor, as well as inGod Wars Dungeon.
+
+
+[Infobox]
+Released: 4 June2020(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: Removes the chance of bending nails within the Hallowed Sepulchre.
+General Store Value: 10,000 coins
+Alchemy: Not alchemisable
+Weight: 0.02 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

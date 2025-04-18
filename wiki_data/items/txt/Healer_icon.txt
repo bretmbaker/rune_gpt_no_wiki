@@ -1,0 +1,1 @@
+Healer iconis an item worn in the jaw slot, a back-endWorn Equipmentslot system where facial hair is placedwhile playingBarbarian Assault. It shows that the player is a healer indicated by the green circle around them with the healer symbol. When a game of Barbarian Assault finishes, the icon is removed.

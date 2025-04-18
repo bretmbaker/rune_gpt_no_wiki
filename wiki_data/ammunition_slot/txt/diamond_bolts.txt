@@ -1,0 +1,49 @@
+[Weapon: Diamond Bolts]
+
+
+Diamond boltsareadamant boltstipped withdiamond bolt tips. They are the fourth strongestgem-tipped bolt in the game. These bolts can be created using theFletchingskill. 65 Fletching is required to make these bolts, and 7 Fletchingexperienceis rewarded per bolt created.
+Diamond bolts can be enchanted with theEnchant Crossbow Boltspell, producingDiamond bolts (e). This requires 57Magic. The spell enchants 10 bolts at a time.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Diamond tipped Adamantite crossbow bolts.
+General Store Value: 192 coins
+High alch: 115 coins
+Low alch: 76 coins
+Weight: 0 kg
+Grand Exchange Value: 211 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 3,919,921
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +105
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

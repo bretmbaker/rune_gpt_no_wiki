@@ -1,0 +1,130 @@
+[Weapon: Scythe Of Vitur#Uncharged]
+
+
+TheScythe of Vituris a two-handedslash weaponrequiring 80Attackand 90Strengthto wield, available as a rare drop from theTheatre of Blood. The scythe is extremely valuable due to its immense power against most large monsters.
+Although the Scythe of Vitur has a stab bonus, it does not have a Stab combat style.
+
+
+[Infobox]
+Released: 7 June2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Charge, Drop
+Worn options: Check
+Examine: A powerful scythe. It is currently uncharged.
+General Store Value: 4,000,000 coins
+High alch: 2,400,000 coins
+Low alch: 1,600,000 coins
+Weight: 3.175 kg
+Grand Exchange Value: 1,753,381,332 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 298
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +50
+- Slash: +75
+- Crush: +10
+- Magic: -6
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: -2
+- Slash: +6
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +50
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Reap | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Chop | Slash | Aggressive |  | +3 Strength
+ | Jab | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Passive Effect]
+A player attacks three opponents simultaneously with the Scythe of Vitur.
+When the player attacks with a scythe, their attack range is increased to a 1x3 arc radius in front of the player, which can allow them to hit three 1x1 targets in front of them. When attacking a large creature (a monster that occupies more than twogame squares), the scythe will instead apply as many hits as possible to them. A 2x2 monster (such asVardorvis) will be hit twice per attack, while a 3x3 or larger monster (such asdragonsandDuke Sucellus) will be hit three times per attack.
+These attacks' accuracy and strength rolls are rolled independently on each target, though each hit will deal 50% less damage, (rounded down), than the preceding hit. Even numbered base max hits gain an additional max hit on the 2nd hit, while every base max hit evenly divisible by 4, (e.g. 44, 48, 52), gain an additional max hit on the 3rd hit.
+For example on a 3x3 monster, if a player has a base max hit of 47 with the scythe, their overall maximum hit is 81. However, increasing their base max hit to 48 gains an additional 2nd and 3rd max hit, increasing the overall maximum hit to 84.
+Despite the reduced damage from the second and third hits, the scythe is still immensely powerful against large creatures, especially if they are weak to slash or have low Defence levels.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Monumental chestHard Mode | N/A | 1 | 1/138.6 | 
+Monumental chestNormal Mode | N/A | 1 | 1/172.9 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+1 | Alchemical Hydra/Strategies(Melee)
+1 | Amoxliatl/Strategies(Melee)
+1 | Araxxor/Strategies(Melee)
+1 | Cerberus/Strategies(Melee)
+1 | Chambers of Xeric/Challenge Mode(Melee)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Tekton)
+1 | Chambers of Xeric/Strategies(Melee)
+1 | Chambers of Xeric/Strategies(Range Vanguard)
+1 | Chambers of Xeric/Strategies(Tekton)
+1 | Chambers of Xeric/Strategies(Great Olm)
+2 | Chompington(Melee)
+1 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+1 | Dark beast/Strategies(Melee)
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+1 | Duke Sucellus/Strategies(Melee)
+1 | Fortis Colosseum/Strategies(High efficiency)
+1 | Fortis Colosseum/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Melee)
+2 | General Graardor/Strategies(Melee Attacker)
+1 | Grotesque Guardians/Strategies(Melee)
+1 | Hespori/Strategies(Best-in-slot)
+5 | K'ril Tsutsaroth/Strategies(Melee Tank)
+3 | Kalphite Queen/Strategies(High DPS (Phase One))
+3 | Lizardman shaman/Strategies(Melee)
+1 | Moons of Peril/Strategies(Blood Moon)
+1 | Moons of Peril/Strategies(Blue Moon)
+2 | Moons of Peril/Strategies(Eclipse Moon)
+1 | The Nightmare/Strategies(Melee)
+1 | Phantom Muspah/Strategies(Melee)
+1 | Phosani's Nightmare/Strategies(Melee)
+1 | Royal Titans/Strategies(Best-in-slot)
+1 | Sarachnis/Strategies(Melee)
+1 | Scurrius/Strategies(Melee (high level))
+3 | Skotizo/Strategies(Melee)
+1 | Slayer task/Gargoyles(Melee)
+1 | Slayer task/Wyrms(Melee)
+1 | Slayer training(Melee)
+1 | The Hueycoatl/Strategies(Melee)
+1 | Theatre of Blood/Hard Mode(Melee)
+1 | Theatre of Blood/Strategies(Melee)
+1 | Theatre of Blood/Strategies(Sotetseg (100 defence))
+1 | Theatre of Blood/Strategies(Melee Nylocas Vasilias)
+1 | Theatre of Blood/Strategies(Bloat)
+1 | Theatre of Blood/Strategies(Xarpus (0 defence))
+1 | Theatre of Blood/Strategies(Verzik)
+1 | Theatre of Blood/Strategies(Maiden (0 defence))
+1 | Thermonuclear smoke devil/Strategies(Melee)
+3 | Tormented Demon/Strategies(Melee switch)
+1 | TzHaar Fight Cave/Strategies(Melee)
+1 | Ultimate Ironman Guide/Equipment
+2 | Vardorvis/Strategies(Melee)

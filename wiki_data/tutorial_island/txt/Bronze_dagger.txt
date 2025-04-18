@@ -1,0 +1,7 @@
+[Page: Bronze dagger]
+
+Infobox:
+UnpoisonedPoisonPoison+Poison++Bronze daggerReleased4 January2001(Update)MembersNoQuest itemNoPropertiesTradeableYesEquipableYesStackableNoNoteableYesOptionsWield, DropExamineShort but pointy.ValuesValue10 coinsHigh alch6 coinsLow alch4 coinsWeight0.453 kgRespawn time100 ticks (60 seconds)Grand ExchangeExchange82coins (info)Buy limit125Daily volume19,486View real-time pricesLoading...Advanced dataItem ID1205LinkMOID
+
+Description:
+Thebronze daggeris the most basicdaggerinOld School RuneScape, and can be made at ananvilusing theSmithingskill. This requires onebronze barand ahammer, and yields 12.5 Smithingexperience. There are no level requirements to create or wield a bronze dagger; like many melee weapons, it can bepoisoned.

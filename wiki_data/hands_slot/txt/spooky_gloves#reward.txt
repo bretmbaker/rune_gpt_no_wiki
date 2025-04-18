@@ -1,0 +1,48 @@
+[Weapon: Spooky Gloves#Reward]
+
+
+Thespooky glovesare a cosmetic reward from the2019 Halloween event. They are part of thespooky outfit, and can be obtained as a reward from the Halloween events that occur once per year. They can be used on theswampy sinkoutside the toolshed in theLumbridge Swamp, or on theEctofuntusoutsidePort Phasmatysto unlock thespookier gloves.
+It is meant to mimic thebedsheetobtained during theGhosts Ahoyquest, which players have often requested that it be wearable outsidePort Phasmatysbut cannot due to restricted interaction checks in the game code.
+
+
+[Infobox]
+Released: 24 October2019(Update)
+Removal: N/A
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: A spooky pair of gloves cut from a bedsheet!
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.113 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

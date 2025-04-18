@@ -1,0 +1,70 @@
+Name: Sergeant
+Combat Level: 84
+Size: 1x1
+Info:
+- Description: The other soldiers won't be messing around with [him/her] about.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 11073,11075,11077,11079,11081,11083,11085,11087,11198
+- Link: MOID
+
+Location:
+- Area: Lizardman Canyon overpass
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Rune kiteshield (1/512)
+- Rune scimitar (1/512)
+- Blood rune (1/128)
+- Chaos rune (1/128)
+- Nature rune (1/128)
+- Steel arrow (1/128)
+- Potato seed (1/33)
+- Onion seed (1/44)
+- Cabbage seed (1/67)
+- Tomato seed (1/134)
+- Sweetcorn seed (1/269)
+- Strawberry seed (1/539)
+- Watermelon seed (1/1,128)
+- Snape grass seed (1/1,551)
+- Barley seed (1/107)
+- Hammerstone seed (1/107)
+- Asgarnian seed (1/142)
+- Jute seed (1/143)
+- Yanillian seed (1/215)
+- Krandorian seed (1/431)
+- Wildblood seed (1/847)
+- Marigold seed (1/141)
+- Nasturtium seed (1/214)
+- Rosemary seed (1/331)
+- Woad seed (1/448)
+- Limpwurt seed (1/561)
+- Grain (1/128)
+- Iron ore (1/128)
+- Clue scroll (medium) (1/128[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 86
+Attack: 75
+Strength: 73
+Defence: 61
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

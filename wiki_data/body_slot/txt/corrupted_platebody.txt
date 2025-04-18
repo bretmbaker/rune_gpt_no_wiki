@@ -1,0 +1,47 @@
+[Weapon: Corrupted Platebody]
+
+
+Thecorrupted platebodyis an item introduced during theChristmas corrupt cluefest, obtained by speaking toHorvikwith apestle and mortarand anair rune.
+It has stats identical to that of aniron platebody. Unlike the iron platebody, however, it does not interfere withAva's device.
+
+
+[Infobox]
+Released: 14 December2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You will have to discover it again.
+Examine: The platebody of a forgotten warrior, corrupted by the dark altar.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 9.979 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -30
+- Ranged: -15
+
+Defence Bonuses:
+- Stab: +21
+- Slash: +20
+- Crush: +12
+- Magic: -6
+- Ranged: +20
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

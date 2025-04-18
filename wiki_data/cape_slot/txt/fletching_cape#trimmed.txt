@@ -1,0 +1,52 @@
+[Weapon: Fletching Cape#Trimmed]
+
+
+AFletching capecan be purchased for 99,000coinsfromHicktonatCatherbyby players who have achievedlevel 99Fletching. It is theCape of Accomplishmentfor the Fletchingskill. Like all other skill capes, it cantemporarily boostyour Fletching level by one. Fletching capes are of a slightly saturated teal colour and have a gold trim if the player has more than one level 99 skill.
+Like allskill capes, the Fletching cape gives +9 to alldefensive stats, and also a +4 bonus toprayerif it is trimmed, which requires a separate skill at level 99. The cape is automatically trimmed if this condition is met.
+
+
+[Infobox]
+Released: 18 October2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Search, Drop
+Worn options: Boost, Search
+Examine: The cape worn by the best of fletchers.
+General Store Value: 99,000 coins
+High alch: 59,400 coins
+Low alch: 39,600 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +9
+- Crush: +9
+- Magic: +9
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Date | Changes
+3 December2015(update|poll) | The "Search" option was added, allowing players to receive a mithril grapple and bronze crossbow 3 times per day.

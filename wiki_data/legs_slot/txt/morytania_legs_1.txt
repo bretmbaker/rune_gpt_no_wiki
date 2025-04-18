@@ -1,0 +1,47 @@
+[Weapon: Morytania Legs 1]
+
+
+TheMorytania legs 1are a reward for completing all of the easy tasks in theMorytania Diaryand speaking toLe-sabrèinCanifis. Its defensive bonuses are equivalent toiron platelegs, but with a lowerRangedattack penalty.
+A number of other benefitsare always active upon claiming rewards from the easy tier of the Morytania diary.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Ecto Teleport, Drop
+Worn options: Ectofuntus Pit
+Examine: Very sturdy leather greeves.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 9.071 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -7
+
+Defence Bonuses:
+- Stab: +11
+- Slash: +10
+- Crush: +10
+- Magic: -4
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

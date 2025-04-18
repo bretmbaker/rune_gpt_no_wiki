@@ -1,0 +1,47 @@
+[Weapon: Ornate Helm]
+
+
+Theornate helmis obtained from completing a clue during theCrack the Clue IIevent. It is part of theornate armourset, and is obtainable only once if you already have it in your inventory or bank. If you happen to accidentally destroy it, you will need to discover it again. Its bonuses are equal to those of theShaman mask.
+In order to obtain the helmet, the player must perform theBow,YesandClapemotesin succession between some trees south ofVarrock, east of the stone circle. They also must have nothing equipped and only have aplain pizza, awooden shieldandcheesein their inventory. If the correct conditions are met, theMysterious Old Manwill appear, telling the player "Here, take this. But tell no one I was here."
+
+
+[Infobox]
+Released: 21 February2019(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You will have to discover it again.
+Examine: An ornate helm, first discovered by the Crack the Clue Community.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +7
+- Crush: +5
+- Magic: -1
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

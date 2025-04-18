@@ -1,0 +1,4 @@
+Item: Pet kree'arra
+Summary: 
+Sources:
+- Kree'arra (Level 580, Quantity: 1, Rarity: 1/5,000)

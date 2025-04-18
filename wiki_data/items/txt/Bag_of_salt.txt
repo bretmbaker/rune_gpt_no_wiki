@@ -1,0 +1,1 @@
+Bags of saltcan be purchased from anySlayer Master, and are used to finish offrockslugsthat have less than 5Hitpoints. When used, the rockslug shrivels up and dies, consuming the bag of salt. Using a bag of salt on a rockslug with 5 or more Hitpoints has no effect but will still consume a bag of salt.

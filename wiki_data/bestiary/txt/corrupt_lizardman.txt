@@ -1,0 +1,54 @@
+Name: Corrupt Lizardman
+Combat Level: 46
+Size: 1x1
+Info:
+- Description: Looks like there's something wrong with it.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 50 xp
+- Category: Lizardmen
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 7997,8000
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 50
+Attack: 38
+Strength: 38
+Defence: 38
+Magic: 1
+Ranged: 38
+
+[Aggressive stats]
+Attack bonus: 22
+Strength bonus: 20
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 22
+Ranged strength bonus: 20
+
+[Melee defence]
+Stab: -10
+Slash: 25
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

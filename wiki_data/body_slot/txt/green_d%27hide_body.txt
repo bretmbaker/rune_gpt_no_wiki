@@ -1,0 +1,63 @@
+[Weapon: Green D%27Hide Body]
+
+
+Thegreen d'hide bodyis a part of thegreen dragonhide armourset. In order to wear the body, a player must first have completed theDragon Slayer Iquest and have level 40RangedandDefence. It offers the best ranged accuracy bonus among allfree-to-playbody armours, although its defensive bonuses are surpassed by thegilded d'hide body.
+Although players must complete Dragon Slayer I in order to wear a green d'hide body, completion of this quest isnotrequired to equipblue,red, andblackd'hide bodies.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Also called: Green dragonhide body
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Made from 100% real dragonhide.
+General Store Value: 7,800 coins
+High alch: 4,680 coins
+Low alch: 3,120 coins
+Weight: 6.803 kg
+Grand Exchange Value: 4,279 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 479,160
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: +15
+
+Defence Bonuses:
+- Stab: +18
+- Slash: +27
+- Crush: +24
+- Magic: +20
+- Ranged: +35
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Elf Archer | 90 | 1 | 4/128 | 
+Elf Warrior | 108 | 1 | 4/128 | 
+Guard (Prifddinas) | 108 | 1 | 4/128 | 
+Iorwerth Archer | 90 | 1 | 4/128 | 
+Iorwerth WarriorIorwerth Camp | 108 | 1 | 4/128 | 
+Iorwerth WarriorIorwerth Dungeon | 108 | 1 | 4/128 | 
+MournerLevel 108 | 108 | 1 | 4/128 | 
+Reward casket (medium) | N/A | 1 | 10/341 | 
+Spiritual rangerZaros | 158 | 1 | 7/128 | 

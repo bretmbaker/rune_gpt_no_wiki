@@ -1,0 +1,72 @@
+Name: Crawling Hand
+Combat Level: 7
+Size: 1x1
+Info:
+- Description: Gimmie five.  Actually, don't.
+
+Slayer Info:
+- Required Level: 5
+- Slayer XP: 12 xp
+- Category: Crawling Hands
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 450
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Leather gloves (21/128)
+- Coins (21/128)
+- Nothing (1/128.23; Never[d 1])
+- Uncut sapphire (1/256; 1/130[d 2])
+- Uncut emerald (1/512; 1/260[d 2])
+- Uncut ruby (1/1,024; 1/520[d 2])
+- Uncut diamond (1/4,096; 1/2,080[d 2])
+- Chaos talisman (1/2,730.67; 1/1,386.67[d 2][d 3])
+- Nature talisman (1/2,730.67; 1/1,386.67[d 2][d 3])
+- Loop half of key (1/8,192; 1/4,160[d 2])
+- Tooth half of key (1/8,192; 1/4,160[d 2])
+- Rune javelin (1/8,192; 1/4,160[d 2])
+- Rune spear (1/131,072; 1/7,800[d 2][d 4])
+- Shield left half (1/262,144; 1/15,600[d 2][d 4])
+- Dragon spear (1/349,525.33; 1/20,800[d 2][d 4])
+- Crawling hand (item) (1/500[2])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 15
+Attack: 7
+Strength: 3
+Defence: 3
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

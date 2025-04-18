@@ -1,0 +1,1 @@
+Knight of varlamoreis anitemthat may be placed into the player's inventory whenAzaliis following them duringTwilight's Promise. Dropping it will cause her to follow the player, much like apetdoes.

@@ -1,0 +1,146 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+The Feud (#75)
+
+
+
+
+
+Released | 4 April 2005 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Chris J
+
+
+
+In aiding the trader Ali Morrisane , you encounter a conflict between two gangs in the Desert city Pollnivneach .
+
+Details [ edit | edit source ]
+
+Start point | Talk to Ali Morrisane east of the Gem Trader in northern Al Kharid . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Medium
+
+Description | Ali Morrisane - RuneScape's self proclaimed 'greatest merchant' - is having difficulties. He is selling things at such a rate that he cannot keep his market stall in stock.
+Word has it that he is on the lookout for someone; someone who can recruit some help from his home town Pollnivneach - a somewhat anarchic place, south of the Shantay Pass.
+
+Requirements | 30 Thieving ( not boostable ) ( required to start ) The ability to kill a level 70 bandit and a level 75 Menaphite (both can be safespotted).
+
+Items required | 501+ coins Gloves - ( Leather gloves , graceful gloves , zombie gloves and mime gloves do work, Barrows gloves , ice gloves , vambraces ,  and Slayer gloves do not work!) Kharidian headpiece (can be bought from Ali Morrisane ) Fake beard (can be bought from Ali Morrisane ) 3 beers (can be obtained during quest, bought from Ali the Barman for 2 coins each) Bucket or Ugthanki dung (can be obtained during quest, spawns at the location it is needed – bring three extra buckets, four total, if you plan on doing My Arm's Big Adventure as three Ugthanki dung are needed for that quest). One more might be needed for Forgettable Tale... (1/25 chance for each player). if you have the snake charm in your bank already you will need to retrieve it
+
+Recommended | 40 Combat level Stamina or energy potions Armour and some food Waterskin (one is enough) Fast travel to Al Kharid ( Ring of Dueling or an Amulet of Glory ) Fast travel to Pollnivneach ( Magic carpet or Pollnivneach teleport , or House teleport if your house is in that city) Ring of Charos (a) to save money on magic carpet rides
+
+Enemies to defeat | Bandit champion (level 70) Tough Guy (level 75)
+
+League notes | Unlocking Asgarnia ✓ will auto-complete the quest Unlocking Desert ✓ will auto-complete the quest Unlocking Fremennik ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Talk to Ali Morrisane in Al Kharid , located just south-west of the Emir's Arena teleport. If you have the quest requirements and follow the correct conversation, he will ask you a favour. He needs you to go and find his nephew, Ali , who lives in a small town south-east of Al Kharid called Pollnivneach .
+
+Buy the Kharidian headpiece and a fake beard from Ali Morrisane for the disguise to be used later if it was not done prior to this point. You can combine the Kharidian headpiece and the fake beard right away to create a desert disguise (which is used later on during the quest) to save inventory space. Optionally, if you do not have the recommended waterskins and desert clothing , you can buy them here.
+
+Go to the little village of Pollnivneach, which is south-east of Shantay Pass . 200 coins will get you there on the magic carpet .
+
+Starting in Pollnivneach [ edit | edit source ]
+
+Head to the south-eastern corner of the village, head into the bar , buy 3 beers from Ali the Barman if it wasn't done before, and then talk to Drunken Ali . He will ask for beer in return for information, so, one at a time give him the three beers. You must follow through the dialogue after each beer you give him. He will tell you that Ali Morrisane 's nephew's disappearance may be linked to the gangs.
+
+Head west of the bar to a purple and yellow tent, and talk to any Menaphite Thug (not Ali the Operator ). You will ask him if the Bandits giving them back a camel would end the feud.
+
+Now, go and talk to any bandit in the north part of the town. You will also ask them about returning a camel from the Menaphites .
+
+Go to the discount camel store, located at the building north-west of the bar, south of the kebab store; denoted by an Agility training symbol, and talk to Ali the Camel Man . Ask to buy two camels. Offer Ali 500 or 1000 coins (you will actually pay 1000 coins if you offer that and there is no benefit for paying extra, so offering 500 is suggested). You will receive two camel receipts .
+
+Give the certificates for the camels back to both gangs, one to any bandit in the north part of town and the other to any Menaphite in the south part of town, but it doesn't help.
+
+Now, you must join one of the gangs. Go and talk to Ali the Operator . He is located by the purple tent south-west of Pollnivneach and looks like a Menaphite Thug but wielding a scimitar instead. Ask him if you can join his gang. He will want to test you to check if you are trustworthy enough, and he will tell you to go and pickpocket 3 villagers .
+
+Picking the villagers' pockets [ edit | edit source ]
+
+1st villager – Simply head out and pickpocket any villager. You will always fail unless you have spoken with Ali the Operator . 2nd villager – Go and talk to a Street urchin in or around the bar, and pay him 10 coins to distract a villager , then quickly pickpocket the villager with the flashing arrow above his head. Make sure that the Street urchin is nearby one of the villagers, otherwise he will tell you that there is none around to distract. You must approach the villager from behind, but if it doesn't work you don't lose your payment, and can just talk to urchin again. 3rd villager – Go back and get the blackjack from Ali the Operator by asking him for help. Equip the blackjack. Then lure a villager (into a secluded area in an empty building), knock them out with the blackjack, and finally pick their pocket (all options are right click).
+
+The second job [ edit | edit source ]
+
+Now, Ali the Operator wants you to steal the mayor's wife's jewels from the safe in their villa. Ali the Operator will give you keys to the front door. Use the fake beard with the Kharidian headpiece you got from Ali Morrisane , or buy the two pieces from the general store in Pollnivneach , to make a desert disguise . Put on your gloves and your disguise. Click Hide behind on the huge cactus just outside the mayor's villa (north-east of the bar). When the dialogue appears and tells you that it is safe to go in since nobody is home, use your key on the door and go in.
+
+Search the study desk for a note.  If that does not work, try searching the bed upstairs. There is a riddle written on it which grants you the combination to the safe. For a clue to solve the riddle, go upstairs and search the bed for a note which gives the first 5 numbers of the Fibonacci sequence - "1, 1, 2, 3, 5...".
+
+Then, search the landscape picture hanging beside the bed (on the 1 st floor [ UK ] 2 nd floor [ US ] , immediately north of the bed) and you discover the safe. The numbers progress from 1-9 (clockwise), and you must click 1, 1, 2, 3, 5, 8 , on the dial. Once the combination is entered, the safe will open and you can take the jewels.
+
+The third job [ edit | edit source ]
+
+Give the jewels to Ali the Operator , and he requests you find the traitor. Talk to a Menaphite Thug gang member about it, and he says, "It must be Traitorous Ali." Go back to the Ali the Operator, and you're asked to kill him. Now, go talk to Ali the Barman to find out that the beer on the table belongs to the traitor. Go talk to Ali the Hag up the hill to the west of the town, and she will make a poison for you if you get her a snake .
+
+Now, go around the back of the pub, and put some coins in the snake charmer's money pot. He will give you a snake charm and a snake basket . Use ( not Play) the snake charm on a desert snake, which can be found north of Ali the Operator's tent.
+
+Note: Even if you have received a snake charm from Ali the Snake Charmer from the quest Ratcatchers , he will give you another (provided they are not in your bank, and you have two free inventory spaces).
+
+Once you've brought the snake back to Ali the Hag , she will tell you the second item she needs is fresh camel dung . Go to Ali the Kebab seller , located just north-west of the well in the centre of town, and ask for his red hot sauce . Take this to the camel shop, and use it on the food trough. A pile of dung will appear; if it's green, repeat until you get brown dung. Use a bucket on it to obtain the desired Ugthanki dung.
+
+Take the dung to Ali the Hag and she'll give you some poison to kill Traitorous Ali .
+
+Go to the pub, use the poison on the table with the beer, and then go back to Ali the Operator.
+
+Pouring the red hot sauce on the trough. Pouring the hag's poison onto Traitorous Ali's drink.
+
+Finishing up [ edit | edit source ]
+
+Prepare yourself for the fight. Ali the Operator now tells you to talk to the Menaphite Leader (he magically appears outside the tent). You decide to kill the leader as he's just a little crazy with world domination schemes! A level 75 Tough Guy appears to fight you. Swiftly kill him! If you are a low level and it takes too long for you to kill him he will disappear. You can lure him behind the table inside the Menaphite Tent and kill him. (Note for magic users: unlike most quest bosses, the Tough Guy has a high magic defence. If your magic level is low, be prepared for a long fight. It is recommended that you bring the runes for at least 100 spells.)
+
+Talk to a villager ; they are angry with you for upsetting the balance of power and will tell you that you need to deal with the Bandit Leader too. He's just north-west of the village (just near the bandit side of village) near the Rug Merchant . Talk to the bandit leader, and you will tell him to leave town or else. The bandit leader tries to pay you, but you're firm about him leaving. He will not leave without a fight. Now, kill the level 70 bandit champion that the bandit leader summons. The player may safespot him behind the crate near the rug merchant (alternatively lure him into the tent to the east of the bandit leader and range/mage over the chairs). The bandit champion will drop an adamant scimitar upon defeat.
+
+Talk to the villagers to find out that they are still ungrateful! Note: You must speak to a villager, otherwise the mayor will not appear.
+
+Next, talk to Ali the Mayor . He is a little more grateful about the results of your deeds. You can find him at the well, in the centre of the village. He will tell you of Ali Morrisane 's nephew. Now, go back to Ali Morrisane to claim the reward.
+
+Rewards [ edit | edit source ]
+
+1 Quest point 15,000 Thieving experience 500 coins An oak blackjack A desert disguise (created during the quest) A willow blackjack (as a drop from the tough guy ) An adamant scimitar (as a drop from the bandit champion ) Access to the Rogue Trader miniquest – Completing this will allow Ali Morrisane to sell blackjacks , various runes , and different clothing from around the Kharidian Desert The ability to pickpocket villagers , bandits , and Menaphite thugs in Pollnivneach
+
+Required for completing [ edit | edit source ]
+
+Completion of The Feud is required for the following:
+
+My Arm's Big Adventure Rogue Trader Hard Desert Diary
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Trivia [ edit | edit source ]
+
+The combination to the mayor's safe is the first 6 terms of the Fibonacci sequence . Even though the bandit champion wields a steel scimitar , he will drop an adamant scimitar . If you decide to go back to the urchin and pay him, you can ask him about various aspects of Pollnivneach , including the gangs, and the town itself. If you don't pay the urchin and then talk to him again he'll make a reference to Team Rocket from Pokémon. When asking Ali the Barman about Traitorous Ali , the player learns about the rare existence of toilets in Gielinor , as Traitorous Ali is said to be travelling to Fossil Island to visit its outhouse. If you try to use the red hot sauce on the beer instead of the poison, you will say "You know what? This is childish. I'm not doing it.". While completing the quest, your character will realise that the main reason Ali Morrisane sent you to Pollnivneach was so that you would buy a desert disguise from him as well as the camels and hot sauce, thus proving that Ali Morrisane is, in fact, the greatest merchant in all of RuneScape. Upon completion of the quest Ali Morrisane refers to his nephew as "Baba", making a reference to Ali Baba and the Forty Thieves . When speaking to Ali the Hag , she will tell you that you can't call her "Al". This is a reference to the song " You Can Call Me Al " by Paul Simon . After talking to the Ali the mayor about the last events, if you go and talk to Ali the bar man, you can tell that the beer was poisoned and he will thank you for not ruining his reputation and give you a beer. After this quest, many NPCs whose names were "Ali" will have their names changed back to their real names.
+
+v • t • e The Feud
+
+NPCs | Ali Morrisane Ali the Camel Man Ali the Camel Ali the Operator Ali the Hag Ali the Kebab seller Ali the Mayor Street urchin Traitorous Ali Ali the Barman Ali the Snake Charmer Bandit Desert snake ( Caught ) Drunken Ali Menaphite Thug Villager Enemies Menaphite Leader Bandit Leader Tough Guy Bandit champion |  | Ali Morrisane Ali the Camel Man Ali the Camel Ali the Operator Ali the Hag Ali the Kebab seller Ali the Mayor Street urchin Traitorous Ali Ali the Barman Ali the Snake Charmer Bandit Desert snake ( Caught ) Drunken Ali Menaphite Thug Villager | Enemies | Menaphite Leader Bandit Leader Tough Guy Bandit champion
+
+ | Ali Morrisane Ali the Camel Man Ali the Camel Ali the Operator Ali the Hag Ali the Kebab seller Ali the Mayor Street urchin Traitorous Ali Ali the Barman Ali the Snake Charmer Bandit Desert snake ( Caught ) Drunken Ali Menaphite Thug Villager
+
+Enemies | Menaphite Leader Bandit Leader Tough Guy Bandit champion
+
+Items | Keys Jewels Note (numbers) Note (Fibonacci) Kharidian headpiece Fake beard Desert disguise Receipt Hag's poison Red hot sauce Ugthanki dung Snake charm Snake basket Oak blackjack Willow blackjack Snake basket full Super kebab Karidian disguise
+
+Locations and scenery | Pollnivneach The Asp & Snake Bar Money Pot
+
+Miscellaneous | Quick guide Transcript
+
+v • t • e Pollnivneach
+
+Inhabitants | Ali the Barman Ali the Camel Man Ali the Camel Ali the Hag Ali the Kebab seller Ali the Mayor Ali the Snake Charmer Ali the dyer Aristarchus Banknote Exchange Merchant Blackjack seller Drunken Ali Market seller Monkey Rug Merchant Snake Street urchin Villager Bandits Bandit Bandit champion Bandit Leader Cowardly Bandit Menaphites Ali the Operator Menaphite Leader Menaphite Thug Tough Guy Traitorous Ali (former) |  | Ali the Barman Ali the Camel Man Ali the Camel Ali the Hag Ali the Kebab seller Ali the Mayor Ali the Snake Charmer Ali the dyer Aristarchus Banknote Exchange Merchant Blackjack seller Drunken Ali Market seller Monkey Rug Merchant Snake Street urchin Villager | Bandits | Bandit Bandit champion Bandit Leader Cowardly Bandit | Menaphites | Ali the Operator Menaphite Leader Menaphite Thug Tough Guy Traitorous Ali (former)
+
+ | Ali the Barman Ali the Camel Man Ali the Camel Ali the Hag Ali the Kebab seller Ali the Mayor Ali the Snake Charmer Ali the dyer Aristarchus Banknote Exchange Merchant Blackjack seller Drunken Ali Market seller Monkey Rug Merchant Snake Street urchin Villager
+
+Bandits | Bandit Bandit champion Bandit Leader Cowardly Bandit
+
+Menaphites | Ali the Operator Menaphite Leader Menaphite Thug Tough Guy Traitorous Ali (former)
+
+Shops | The Asp & Snake Bar. Pollnivneach general store. Money Pot
+
+Related | House portal Pollnivneach Rooftop Course Rogue Trader The Feud

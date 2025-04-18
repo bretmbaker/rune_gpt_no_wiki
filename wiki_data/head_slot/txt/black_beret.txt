@@ -1,0 +1,54 @@
+[Weapon: Black Beret]
+
+
+Theblack beretis a hat that can be obtained fromEasyTreasure Trails. They provide no stat bonuses and are worn purely for cosmetic purposes. There's other variants: thewhite beret,blue beretandred beret.
+Black berets can be attached to amime maskto make aberet maskby talking toPatchyonMos Le'Harmless, along with 500coins. Doing so requires the completion ofCabin Feverand aBook o' piracy.
+
+
+[Infobox]
+Released: 5 May2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Parlez-vous francais?
+General Store Value: 80 coins
+High alch: 48 coins
+Low alch: 32 coins
+Weight: 0.04 kg
+Grand Exchange Value: 87,293 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 53
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 1/1,404 | 

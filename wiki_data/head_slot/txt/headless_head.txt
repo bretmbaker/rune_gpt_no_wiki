@@ -1,0 +1,46 @@
+[Weapon: Headless Head]
+
+
+TheHeadless headis a holiday reward received from completing aHalloween eventfrom 2020 onwards.
+If destroyed, a replacement can be obtained fromDiangoinDraynor Villageor from thetoy boxof acostume room.
+
+
+[Infobox]
+Released: 21 October2020(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: There's a spooky spell on this helm.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 0.1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

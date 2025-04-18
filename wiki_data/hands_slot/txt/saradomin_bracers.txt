@@ -1,0 +1,107 @@
+[Weapon: Saradomin Bracers]
+
+
+Saradomin bracersare a piece ofranged armouraligned with the godSaradomin. At least 70Rangedis required to wear these bracers.
+Along with otherblessed dragonhide armourpieces, itcannotbe made using theCraftingskill. Players can receive them as a reward from completinghardTreasure Trails.
+
+
+[Infobox]
+Released: 5 December2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Saradomin blessed dragonhide vambraces.
+General Store Value: 4,000 coins
+High alch: 2,400 coins
+Low alch: 1,600 coins
+Weight: 1 kg
+Grand Exchange Value: 51,361 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 311
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +11
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +5
+- Crush: +7
+- Magic: +8
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyssal Sire/Strategies(Phase 1 Ranged)
+2 | Alchemical Hydra/Strategies(Ranged)
+3 | Ancient Wyvern/Strategies(Ranged)
+3 | Araxxor/Strategies(Ranged)
+1 | Aviansie/Strategies(Ranged - Low Risk)
+3 | Aviansie/Strategies(Ranged)
+4 | Barbarian Assault/Strategies(Ranged (high level))
+2 | Basilisk Knight/Strategies(Ranged/Prayer)
+3 | Basilisk Knight/Strategies(Ranged)
+3 | Brutal black dragon/Strategies(Ranged)
+3 | Cerberus/Strategies(Ranged)
+2 | Chaos Elemental/Strategies(Ranged)
+2 | Chaos Fanatic/Strategies(Ranged)
+3 | Chompy bird hunting/Strategy
+3 | Commander Zilyana/Strategies(Ranged)
+3 | Corporeal Beast/Strategies(Ranged masses)
+4 | Dagannoth Kings/Strategies(Range)
+3 | Drake/Strategies(Ranged)
+3 | General Graardor/Strategies(Ranged Attacker)
+3 | Giant Mole/Strategies(Ranged)
+3 | Green dragon/Strategies(Ranged)
+2 | King Black Dragon/Strategies(Ranged)
+2 | King Black Dragon/Strategies(Crossbow)
+3 | King Black Dragon/Strategies(Ranged BIS smuggle)
+2 | Lava dragon/Strategies(Ranged)
+3 | The Leviathan/Strategies(Ranged)
+3 | Maniacal monkey/Strategies(Ranged)
+3 | Metal dragons/Strategies(Ranged)
+5 | The Mimic/Strategies(Ranged)
+3 | Mithril dragon/Strategies(Ranged)
+3 | Nightmare Zone/Strategies(Ranged)
+3 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+4 | Phantom Muspah/Strategies(Ranged)
+2 | Scurrius/Strategies(Range (mid level))
+3 | Skeletal Wyvern/Strategies(Ranged)
+4 | Skeleton (Ape Atoll)(Ranged)
+3 | Slayer task/Abyssal demons(Ranged)
+3 | Slayer task/Fossil Island wyverns(Ranged)
+4 | Slayer task/Jellies(Ranged)
+3 | Slayer task/Suqah(Ranged (North))
+4 | Slayer training(Ranged)
+2 | Spindel/Strategies(Ranged)
+1 | TzHaar Fight Cave/Strategies(Pure)
+3 | TzHaar Fight Cave/Strategies(Ranged)
+2 | Venenatis/Strategies(Ranged)
+5 | Volcanic Mine(Solo)
+4 | Volcanic Mine(Group)
+4 | Vorkath/Strategies(Ranged (crossbow))
+4 | Zulrah/Strategies(Ranged)

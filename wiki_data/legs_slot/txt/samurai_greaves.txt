@@ -1,0 +1,54 @@
+[Weapon: Samurai Greaves]
+
+
+Thesamurai greavesare obtained as a possible reward frommasterTreasure Trails. They are part of thesamurai armourset, and requires level 35 inDefenceto wear.
+This item can be stored in thetreasure chestof acostume room, as part of thesamurai armourset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Armoured greaves of the Samurai.
+General Store Value: 3,200 coins
+High alch: 1,920 coins
+Low alch: 1,280 coins
+Weight: 1.5 kg
+Grand Exchange Value: 41,526 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 85
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +42
+- Slash: +40
+- Crush: +38
+- Magic: +3
+- Ranged: +40
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (master) | N/A | 1 | 1/851 | 

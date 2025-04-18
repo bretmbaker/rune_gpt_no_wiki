@@ -1,0 +1,7 @@
+[Page: Bronze axe]
+
+Infobox:
+Bronze axeReleased4 January2001(Update)MembersNoQuest itemNoPropertiesTradeableYesEquipableYesStackableNoNoteableYesOptionsWield, DropExamineA woodcutter's axe.ValuesValue16 coinsHigh alch9 coinsLow alch6 coinsWeight1.36 kgRespawn time100 ticks (60 seconds)Grand ExchangeExchange83coins (info)Buy limit40Daily volume17,263View real-time pricesLoading...Advanced dataItem ID1351LinkMOID
+
+Description:
+TheBronze axeis the weakestaxeinOld School RuneScape. It can be wielded for combat, or used to cut trees inWoodcutting. It requires anAttacklevel of 1 to be equipped, and a Woodcutting level of 1 to be used.

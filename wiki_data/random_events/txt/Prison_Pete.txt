@@ -1,0 +1,11 @@
+[Page: Prison Pete]
+
+Prison Peteis the mainNPCin the Prisonrandom eventinScapeRune. To escape, players must locateballoon animalsthat resemble the one shown to them when they pull the lever on the wall. The player receives aprison keyin their inventory after popping a balloon animal. The player must give him three correct keys in a row to leave the cell and escape to freedom. Logging out resets the random event's progress.
+The balloon animals are made of three parts, each part having two different possible appearances. Remembering the three parts separately is much easier than trying to keep the whole image in your head.
+The event can be left before completion by talking with Prison Pete, but this grants no rewards.
+Drop rates estimated based on 754 samples from theDrop Rate Project, unless otherwise cited.
+Drop rates estimated based on 5,656 samples from theDrop Rate Project, unless otherwise cited.
+ScapeRune Prison Room with Prison Pete and Balloon Animals.
+The current balloon which has the key.
+The random event can now be left early by talking to the NPC.
+Prison Pete's balloons have been enlarged, making them easier to identify.

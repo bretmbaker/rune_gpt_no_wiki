@@ -1,0 +1,45 @@
+Name: Dagannoth fledgeling
+Combat Level: 70
+Size: 2x2
+Info:
+- Description: A knee-high horror from the ocean depths...
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 0 xp
+- Category: Dagannoth
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 2264
+- Link: MOID
+
+Location:
+- Area: Waterbirth Island Dungeon
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Brimstone key (1/280[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 100
+Attack: 50
+Strength: 50
+Defence: 50
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

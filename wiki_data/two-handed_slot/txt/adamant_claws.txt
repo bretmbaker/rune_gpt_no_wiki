@@ -1,0 +1,56 @@
+[Weapon: Adamant Claws]
+
+
+Adamant clawsare a two-handed melee weapon. They can be made with twoadamantite barsand a hammer at any anvil granting 125Smithingexperience. They can only be made by players who have completed theDeath Plateauquest and have a Smithing level of at least 83. They have anAttackrequirement of 30 to wield. They are not a very popular weapon due to the fact they require 2 hands to wield and provide inferior stats to that of theadamant scimitar.
+
+
+[Infobox]
+Released: 9 August2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A set of fighting claws.
+General Store Value: 1,200 coins
+High alch: 720 coins
+Low alch: 480 coins
+Weight: 0.907 kg
+Grand Exchange Value: 1,492 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 7
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +18
+- Slash: +23
+- Crush: -4
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +12
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +24
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence

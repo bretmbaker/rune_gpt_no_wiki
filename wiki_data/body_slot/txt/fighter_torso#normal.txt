@@ -1,0 +1,117 @@
+[Weapon: Fighter Torso#Normal]
+
+
+Thefighter torso(called thePenance torsoin theBarbarian Assault Reward Shop) isarmourthat requires 40Defenceto equip and is a reward from theBarbarian Assaultminigame. It can be purchased fromCommander Connadfor 375honour pointsin all four roles, and onePenance Queenkill. It can be sold back to Connad for 300 honour points in all four roles by using it on him.
+It will remain in the player's inventory if they die below level 20Wilderness, but will be unusable until repaired by using150,000coins onPerduor on anarmour standin aPvP world.
+
+
+[Infobox]
+Released: 4 January2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A Penance Fighter torso armour.
+General Store Value: 65,006 coins
+Alchemy: Not alchemisable
+Weight: 4 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -40
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +62
+- Slash: +85
+- Crush: +62
+- Magic: -10
+- Ranged: +67
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+4 | Abyssal Sire/Strategies(Phase 1 Melee)
+5 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+5 | Adamant dragon/Strategies(Melee)
+3 | Amoxliatl/Strategies(Melee)
+3 | Ancient Wyvern/Strategies(Melee)
+4 | Araxxor/Strategies(Melee)
+4 | Barbarian Assault/Strategies(Melee (high level))
+1 | Barbarian Assault/Strategies(Melee (mid level))
+5 | Basilisk Knight/Strategies(Melee)
+1 | Budget Cutter
+1 | Calvar'ion/Strategies(Melee)
+4 | Cerberus/Strategies(Melee)
+3 | Chambers of Xeric/Challenge Mode(Melee)
+3 | Chambers of Xeric/Strategies(Melee)
+3 | Chompington(Melee)
+3 | Demonic gorilla/Strategies(upgrades and downgrades)
+3 | Down Do Specs(Melee)
+3 | Fortis Colosseum/Strategies(High efficiency)
+3 | Fortis Colosseum/Strategies(Ranged)
+3 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Budget)
+3 | Fortis Colosseum/Strategies(Melee)
+5 | Galvek Speed-Trialist(Melee)
+1 | Giant Mole/Strategies(Melee & Prayer Budget)
+4 | Giant Mole/Strategies(Melee)
+5 | Glough Speed-Trialist(Melee)
+2 | Green dragon/Strategies(Melee)
+3 | Grotesque Guardians/Strategies(Melee)
+2 | K'ril Tsutsaroth/Strategies(Melee)
+1 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+3 | Kalphite Queen/Strategies(High DPS (Phase One))
+2 | King Black Dragon/Strategies(Melee BIS smuggle)
+2 | Lava dragon/Strategies(Melee)
+3 | Metal dragons/Strategies(Melee)
+5 | Moons of Peril/Strategies(Moons of Peril Armour)
+5 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+4 | Nightmare Zone/Strategies(Melee)
+4 | Nightmare Zone/Strategies(Melee (Dharok's))
+5 | The Nightmare/Strategies(Melee)
+4 | Phantom Muspah/Strategies(Melee)
+5 | Phosani's Nightmare/Strategies(Melee)
+5 | Rune dragon/Strategies(Melee)
+2 | Scurrius/Strategies(Melee (mid level))
+3 | Scurrius/Strategies(Melee (high level))
+3 | Skeletal Wyvern/Strategies(Melee)
+3 | Skotizo/Strategies(Melee)
+3 | Slayer task/Fossil Island wyverns(Melee)
+2 | Slayer task/Gargoyles(Melee)
+3 | Slayer task/Suqah(Melee (South))
+4 | Slayer task/Trolls(Melee (Mountain trolls))
+4 | Slayer task/Wyrms(Melee)
+3 | Slayer training(Melee)
+1 | Spindel/Strategies(Melee)
+2 | The Hueycoatl/Strategies(Melee)
+3 | Theatre of Blood/Hard Mode(Melee)
+3 | Theatre of Blood/Strategies(Melee)
+2 | Tombs of Amascut/Strategies(Melee switch)
+3 | Tormented Demon/Strategies(Melee switch)
+2 | TzHaar Fight Cave/Strategies(Melee)
+4 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+2 | Ultimate Ironman Guide/Equipment
+2 | Ultimate Ironman Guide/Slayer
+3 | Vardorvis/Strategies(Melee)
+1 | Venenatis/Strategies(Melee)
+1 | Vet'ion/Strategies(Melee)
+4 | Vorkath/Strategies(Melee)
+4 | Vyrewatch Sentinel/Strategies(DPS)

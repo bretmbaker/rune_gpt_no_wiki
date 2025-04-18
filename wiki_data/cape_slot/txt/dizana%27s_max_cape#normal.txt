@@ -1,0 +1,52 @@
+[Weapon: Dizana%27S Max Cape#Normal]
+
+
+Dizana's max capeis the result of combiningblessed Dizana's quiverwith amax cape, during which themax hoodrequired to be in the player's inventory will automatically convert toDizana's max hood.
+Like the other max cape variants (a max cape combined with anothercape slotitem), Dizana's max cape does not have the max cape's stats or perks; it only acts as a cosmetic upgrade to blessed Dizana's quiver with the following exceptions when worn:
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Open, Empty, Destroy
+Destroy: You can get another from The Colosseum.
+Examine: The cape worn by only the most experienced players.
+General Store Value: 99,000 coins
+High alch: 59,400 coins
+Low alch: 39,600 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +18
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +3
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Ultimate Ironman Guide/Equipment

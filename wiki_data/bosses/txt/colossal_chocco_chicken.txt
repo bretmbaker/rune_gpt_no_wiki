@@ -1,0 +1,50 @@
+Name: Colossal Chocco Chicken
+Combat Level: N/A
+Info:
+- Description: It seems to be having a rather eggstreme eggsistential crisis.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: ? (edit)
+- Monster ID: hist8184
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: None
+Attack: 40
+Strength: 99
+Defence: 70
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+Attack bonus: None
+Strength bonus: None
+Magic attack bonus: None
+Magic strength bonus: None
+Ranged attack bonus: None
+Ranged strength bonus: None
+
+[Melee defence]
+Stab: None
+Slash: None
+Crush: None
+
+[Magic defence]
+Magic: None
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: None
+Standard: None
+Heavy: None

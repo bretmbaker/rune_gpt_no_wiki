@@ -1,0 +1,58 @@
+[Weapon: Granite Body]
+
+
+Thegranite bodyis a piece of body armour that requires 50Defenceand 50Strengthto wear. Players who have killed thePenance Queencan purchase it fromCommander Connad, located on the ground floor of theBarbarian Outpost, for 95,000coins. It is the only reward from theBarbarian Assaultminigamethat is not obtained withhonour points.
+The granite body is the most commonly used piece of the granite armour set, being similar in price to therune platebodywhile providing better defensive bonuses. While thegranite helmandgranite bootssimilarly outclass their rune counterparts, the latter is significantly more expensive and the former competes with the more commonFremennik helmets.
+
+
+[Infobox]
+Released: 4 January2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Provides excellent protection.
+General Store Value: 80,000 coins
+High alch: 48,000 coins
+Low alch: 32,000 coins
+Weight: 22.679 kg
+Grand Exchange Value: 50,597 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 454
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -22
+- Ranged: -5
+
+Defence Bonuses:
+- Stab: +87
+- Slash: +84
+- Crush: +79
+- Magic: -6
+- Ranged: +97
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Barbarian Assault/Strategies(Melee (mid level))
+3 | Budget Cutter
+3 | Dagannoth Kings/Strategies(Magic (Rex only))
+5 | Gout tuber/Strategies(Tank)
+4 | Scurrius/Strategies(Melee (mid level))

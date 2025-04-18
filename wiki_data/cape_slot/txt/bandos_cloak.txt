@@ -1,0 +1,80 @@
+[Weapon: Bandos Cloak]
+
+
+TheBandos cloakis part of theBandos vestment setand can be obtained by completingmediumTreasure Trails. A minimum of level 40Prayeris required to wear one. It can be stored alongside theBandos vestment setin the easy rewards tier of thetreasure chestin thecostume roomof aplayer-owned house.
+It is also more sought-after because it is a convenient item to have as yourBandosian itemwithin theGod Wars Dungeon, and it is required for amaster cluestep.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A Bandos cloak.
+General Store Value: 2,000 coins
+High alch: 1,200 coins
+Low alch: 800 coins
+Weight: 0.4 kg
+Grand Exchange Value: 80,293 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 370
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +1
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +3
+- Crush: +3
+- Magic: +3
+- Ranged: +3
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Cape slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Ancient Wyvern/Strategies(Prayer)
+4 | Artio/Strategies(Magic)
+4 | Callisto/Strategies(Magic)
+5 | Chaos Elemental/Strategies(Melee)
+5 | Chaos Elemental/Strategies(Ranged)
+5 | Dagannoth Kings/Strategies(Magic (Rex only))
+5 | Giant Mole/Strategies(Dharok's)
+5 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+5 | Maniacal monkey/Strategies(Ranged)
+5 | Maniacal monkey/Strategies(Magic - Ice Burst)
+4 | Metal dragons/Strategies(Magic)
+4 | Scorpia/Strategies(Magic)
+5 | Scurrius/Strategies(Magic (mid level))
+4 | Scurrius/Strategies(Melee (mid level))
+4 | Scurrius/Strategies(Melee (high level))
+4 | Skeleton (Ape Atoll)(Magic)
+3 | Slayer task/Fossil Island wyverns(Prayer)
+5 | Slayer training(Magic (Barrage))
+5 | TzHaar Fight Cave/Strategies(Pure)
+5 | TzHaar Fight Cave/Strategies(Melee)
+4 | TzHaar Fight Cave/Strategies(Ranged)
+4 | TzHaar Fight Cave/Strategies(Magic)

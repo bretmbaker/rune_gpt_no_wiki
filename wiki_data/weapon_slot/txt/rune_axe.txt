@@ -1,0 +1,80 @@
+[Weapon: Rune Axe]
+
+
+Therune axeis the fifth bestaxein the game, behind thecrystal axe,infernal axe,3rd age axeanddragon axe. The infernal, 3rd age and dragon variants do not differ from each other in their Woodcutting capabilities. Therefore, when it comes to obtaining logs bymembers, thisruniteversion - together with thegilded axe- constitutes the third best tier of axes. Forfree-to-playplayers, those two are the best axes available.
+Like anyaxe, its primary use is as atoolto cuttreesin order to obtainlogsand gainexperiencein theWoodcuttingskill. A level of 41 in that skill is required to use this axe to chop down trees. As with all axes, the rune axe can be used for that purpose even when it is not wielded but merely carried in the player's inventory. Thesuccess ratefor getting a set of logs is approximately 350% that of abronze axe, or 17% better than anadamant axe. It can also be used as aweaponformelee combat; the player must have anAttacklevel of 40 to wield this axe.
+
+
+[Infobox]
+Released: 13 August2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A powerful axe.
+General Store Value: 12,800 coins
+High alch: 7,680 coins
+Low alch: 5,120 coins
+Weight: 1.36 kg
+Grand Exchange Value: 7,072 coins
+Grand Exchange Daily Buy Limit: 40
+Grand Exchange Daily Trades Volume: 25,022
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -2
+- Slash: +26
+- Crush: +24
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +29
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Hack | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ancient Zygomite | 109 | 1 | 3/118 | 
+Barbarian Assault/GamblesLow | N/A | 1 | 1/32 | 
+Basilisk Knight | 204 | 1 | 2/52 | 
+Basilisk Sentinel | 358 | 1 | 3 × 2/52 | 
+Black dragonWilderness Slayer Cave | 247 | 1 | 3/128 | 
+Cerberus | 318 | 1 | 3/128 | 
+Dagannoth Rex | 303 | 1 | 1/128 | 
+Dark Chest | 28 | 1 | 15/600 | 
+Eldric the Ice King | 350 | 2 | 2 × 8/250 | N/A
+Greater NechryaelRegular | 200 | 1 | 7/128 | 
+Greater NechryaelWilderness Slayer Cave | 200 | 1 | 7/112 | 
+King kurask | 295 | 1 | 3 × 3/124 | 
+Kurask | 106 | 1 | 3/124 | 
+Lava dragon | 252 | 1 | 2/128 | 
+NechryarchGreater | 300 | 1 | 3 × 7/128 | 
+Reward casket (hard) | N/A | 1 | 1/27.1 | 
+Skeletal Wyvern | 140 | 1 | 3/128 | 
+Steel dragon | 246; 274 | 1 | 2/128 | 
+Tree spirit | 14–159 | 1 | 4/128 | 

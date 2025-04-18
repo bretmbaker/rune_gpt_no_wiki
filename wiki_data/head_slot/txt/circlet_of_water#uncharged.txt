@@ -1,0 +1,46 @@
+[Weapon: Circlet Of Water#Uncharged]
+
+
+Thecirclet of wateris an item obtained fromMaisaas a reward for completing thequestBeneath Cursed Sands. Wearing it will delay the onset ofdesert heatby 12 seconds.
+The circlet, which acts as an equipablewaterskin, is charged with fivewater runesper charge, and can hold up to 500,000 charges. One charge is consumed whenever the player would have needed to drink water due to the effects ofdesert heat. The circlet can be uncharged to regain the runes. The circlet must be equipped in order for the effects to work.
+
+
+[Infobox]
+Released: 27 April2022(Update)
+Members: Yes
+Quest item: Beneath Cursed Sands
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Charge, Drop
+Worn options: None(?)
+Examine: A magical circlet for keeping you hydrated in the desert. It needs charging.
+General Store Value: 10,000 coins
+Alchemy: Not alchemisable
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

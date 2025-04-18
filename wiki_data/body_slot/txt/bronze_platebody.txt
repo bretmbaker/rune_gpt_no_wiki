@@ -1,0 +1,56 @@
+[Weapon: Bronze Platebody]
+
+
+Thebronze platebodyis an armour used inmeleeand the weakest of allplatebodies. It has noDefencerequirement to equip and provides greater protection than abronze chainbody. Like all platebodies, however, it gives a crippling negative bonus to the user'sRangedandMagicstats.
+Players with level 18Smithingcan make one by using 5bronze barson ananvilwhile carrying ahammer, granting 62.5experience. Alternatively, they can be bought fromHorvik's SmithyorZenesha's Plate Mail Body Shop.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Provides excellent protection.
+General Store Value: 160 coins
+High alch: 96 coins
+Low alch: 64 coins
+Weight: 9.979 kg
+Grand Exchange Value: 46 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 22,542
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -30
+- Ranged: -15
+
+Defence Bonuses:
+- Stab: +15
+- Slash: +14
+- Crush: +9
+- Magic: -6
+- Ranged: +14
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Animated Bronze Armour | 11 | 1 | 9/10 | 
+Damaged armour | 1 | 1 | 24/100 | 
+Skeleton (Tarn's Lair)Medium level | 40; 63; 72; 77 | 1 | 2/128 | 

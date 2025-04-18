@@ -1,0 +1,4 @@
+Item: Verac's helm
+Summary: Verac's helm is melee armour worn in the headwear slot that is part of Verac the Defiled's set of Barrows equipment. To wear Verac's helmet, a player must have 70 Defence.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

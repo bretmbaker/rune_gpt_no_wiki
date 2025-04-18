@@ -1,0 +1,47 @@
+[Weapon: Graceful Hood (Varlamore)#Worn]
+
+
+TheVarlamore graceful hoodis one of many variants of thegraceful hood. It is recoloured by purchasing theGraceful crafting kitfromWorm Tongueat theColossal Wyrm Agility Coursein exchange for 650termites; this requires having the full set.
+This item can be stored in themagic wardrobeof acostume room, as part of thegraceful outfit.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Bankable: Yes
+Equipable: No
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A sign of your grace.
+General Store Value: 35 coins
+High alch: 21 coins
+Low alch: 14 coins
+Weight: 0.6 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

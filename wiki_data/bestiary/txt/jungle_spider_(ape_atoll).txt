@@ -1,0 +1,42 @@
+Name: Jungle spider
+Combat Level: 37
+Size: 1x1
+Info:
+- Description: A very dangerous looking spider, with its fangs unsheathed.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: ? (edit)
+- Category: Spiders
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 5243
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 35
+Attack: 50
+Strength: 30
+Defence: 10
+Magic: 10
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

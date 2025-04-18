@@ -1,0 +1,56 @@
+Name: Iorwerth Warrior
+Combat Level: 108
+Size: 1x1
+Info:
+- Description: I don't want to get on the wrong side of [him/her].
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 107.5 xp
+- Category: Elves
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3429,8759
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 105
+Attack: 95
+Strength: 95
+Defence: 80
+Magic: 1
+Ranged: 0
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 50
+Slash: 70
+Crush: 70
+
+[Magic defence]
+Magic: 60
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 50
+Standard: 50
+Heavy: 50

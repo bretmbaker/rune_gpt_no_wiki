@@ -1,0 +1,46 @@
+[Weapon: Crabclaw Hook]
+
+
+Thecrabclaw hookis made by talking toPatchyonMos Le'Harmlesswhile carrying acrab clawandpirate's hook. It costs 500coinsto sew together and 600 to separate them. The crabclaw and hook occupy only the glove slot when worn.
+While players cannot equipclawswhilst having a crab claw equipped, players can do so whilst wearing crabclaw hooks.
+
+
+[Infobox]
+Released: 4 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Tied together so they don't come apart.
+General Store Value: 100 coins
+High alch: 60 coins
+Low alch: 40 coins
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +5
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +1
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

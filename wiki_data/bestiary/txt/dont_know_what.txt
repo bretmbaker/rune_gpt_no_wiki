@@ -1,0 +1,37 @@
+Name: Don't Know What
+Combat Level: 163
+Size: 3x3
+Info:
+- Description: A troll of Weiss.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 8439
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 220
+Attack: 120
+Strength: 90
+Defence: 160
+Magic: 60
+Ranged: 115
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,69 @@
+[Weapon: Mith Grapple]
+
+
+Themith grappleis an item that is used for certainAgility shortcutsandcrossbow shortcuts for achievement diaries. The grapple can be made at 59Fletchingby attaching amith grapple tip, made with 59Smithing, to amithril bolt, made with 54Fletching, and then finally using the unfinished grapple on arope. Alternatively, aFletching capeormax capecan be searched for a mith grapple andbronze crossbowthree times a day. The grapple can be fired using any crossbow (excluding theLove crossbow) and is carried in theammunition slot. Both the grapple and crossbowmustbe equipped in order for it to work; simply having them in the inventory will not suffice.
+Besides needing a certainAgilitylevel for mithril grapple shortcuts, players also need a certainRangedandStrengthlevel to cross.Armadyl'ssectionof theGod Wars Dungeonis the sole exception to this rule; only level 70 Ranged is required to swing across the chasm found there.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A mithril grapple tipped bolt with a rope.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.001 kg
+Grand Exchange Value: 1,579 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 3,884
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Angry barbarian spirit | 166 | 2 | 3/128 | 
+Berserk barbarian spirit | 166 | 2 | 3/128 | 
+Chewed bones | N/A | 2 | 6/128 | 
+Crate (Armadyl's Eyrie) | N/A | 1 | Always | 
+Enraged barbarian spirit | 166 | 2 | 3/128 | 
+Skeleton brute | 132 | 2 | 3/128 | 
+Skeleton heavy | 132 | 2 | 3/128 | 
+Skeleton hero | 149 | 2 | 3/128 | 
+Skeleton thug | 132 | 2 | 3/128 | 
+Skeleton warlord | 132 | 2 | 3/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Hallowed Sepulchre/Strategies(Agility)
+3 | Kree'arra/Strategies(Chinchompas)

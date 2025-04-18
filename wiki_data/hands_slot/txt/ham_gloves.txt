@@ -1,0 +1,57 @@
+[Weapon: Ham Gloves]
+
+
+H.A.M. glovesare part of theH.A.M. robesuniform worn byHumans Against Monstersmembers. When worn, players are slightly less likely to be kicked out of theH.A.M. HideoutwhenpickpocketingH.A.M. members; this effect increases the more H.A.M uniform pieces the player wears. Wearing H.A.M. gloves will not increase players chances of successfully pickpocketing.[1]
+These can be obtained bythievingH.A.M. members or by killingH.A.M. guards. H.A.M. Clothing is usually worn for show, although they are a requirement for theDeath to the Dorgeshuunquest.
+
+
+[Infobox]
+Released: 22 February2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: HAM gloves as worn by the Humans Against Monsters group.
+General Store Value: 75 coins
+High alch: 45 coins
+Low alch: 30 coins
+Weight: 0.453 kg
+Grand Exchange Value: 1,016 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 811
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Dorgesh-Kaan Average)Zanik's house |  | 1 | 1/23 | N/A
+Guard (H.A.M. Storerooms) | 20 | 1 | 3/500 | 
+H.A.M. Guard | 12; 18; 22 | 1 | 2.5/110 | 
+H.A.M. Member | 15 | 1 | 1/100 | 

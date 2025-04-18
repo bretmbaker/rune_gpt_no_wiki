@@ -1,0 +1,51 @@
+Name: Pestilent Bloat
+Combat Level: 312
+Size: 5x5
+Info:
+- Description: An infinite mass of decay and death.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 10812
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 1280
+Attack: 100
+Strength: 180
+Defence: 80
+Magic: 120
+Ranged: 72
+
+[Aggressive stats]
+Attack bonus: 60
+Strength bonus: 46
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 72
+Ranged strength bonus: 2
+
+[Melee defence]
+Stab: 10
+Slash: 5
+Crush: 10
+
+[Magic defence]
+Magic: 600
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 800
+Standard: 800
+Heavy: 800

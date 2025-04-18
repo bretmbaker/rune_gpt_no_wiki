@@ -1,0 +1,55 @@
+[Weapon: Hunting Knife]
+
+
+TheHunting knifeis obtained as a reward from the2016 Halloween event, as well as subsequent Halloween events. Running while having the knife equipped uses a different animation.
+Despite being a knife, its combat styles are the same as those of awarhammer. It offers very large attack penalties and is nearly useless as an actual weapon. As such it is allowed during "fun weapon" fights in legacy duels within theEmir's Arena.
+
+
+[Infobox]
+Released: 20 October2016(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: It's so stabby, do do do-do-do doooo.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -100
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -100
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence

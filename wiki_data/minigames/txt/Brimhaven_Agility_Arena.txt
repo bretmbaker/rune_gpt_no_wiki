@@ -1,0 +1,158 @@
+[Minigame: Brimhaven_Agility_Arena]
+
+ | This is a dangerous activity.Ondeath,Hardcore Ironmenwill  lose their status.Unprotected items will be moved to a grave.
+
+ | Due to an update, the information in this article may be out-of-date.Reason:Project Rebalance update changed experience and speedsYou can help improve it byupdatingthe information.
+
+Brimhaven Agility Arena
+
+
+
+
+
+Released | 27 July2004(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Brimhaven
+
+Leagueregion | Karamja✓
+
+Participants | 1
+
+Skills | Agility
+
+Reward currency | Brimhaven voucher
+
+Tutorial | No
+
+Music | Aztec
+
+
+
+Map
+
+
+
+TheBrimhaven Agility Courseis anAgility-trainingminigamelocated beneathBrimhaven, this course has no requirements except for the entrance fee. On this course, it is possible to get upwards of 67,000 Agility experience per hour at level 99 Agility (due to no longer failing any obstacles at 99 Agility). At lower Agility levels expect to get around 50,000–60,000 Agility experience per hour, depending on Agility and concentration levels.
+
+Introduction[edit|edit source]
+
+The Brimhaven Agility Arena is very different to other Agility courses. Instead of running laps around obstacle courses, the Brimhaven Agility Arena sets players the objective to tagticket dispensersfor Agility XP,Agility arena tickets, andBrimhaven vouchers. It can be found in the east ofBrimhaven, run byCap'n Izzy No-Beard, who will charge 200coinsfor access.
+
+The Brimhaven Agility Arena consists of 25 pillars, with adjacent pillars being connected via Agility obstacles. 24 of these pillars contain a Ticket Dispenser. Every minute, one of these Ticket Dispensers will be activated, and the player should try to find their way to this activated dispenser by traversing the Agility obstacles as quickly as possible. For every Ticket Dispenser tagged, one ticket will be awarded.
+
+The tickets and vouchers can be traded in toPirate Jackie the Fruitfor Agility experience and a selection of items respectively.
+
+The best experience per hour rates will be achieved by non-stop completing Agility obstacles during the waiting time for the active Ticket Dispenser to move.
+
+Getting there[edit|edit source]
+
+There are several different methods for travelling to the Brimhaven Agility Arena. The best options, ordered from fast to slow, are:
+
+Use theachievement diary capeteleport toPirate Jackie the Fruit.Travel toBrimhavenviaspirit tree, if one is grown there, and run south.If theplayer-owned houseis located in Brimhaven, cast theTeleport to Housespell, requiring level 40Magic, or break ateleport to housetablet to go there and run east.Alternatively, use ascroll of redirectionon a teleport to house tablet to redirect the tablet to Brimhaven.Take the boat fromEast ArdougneorRimmingtonto Brimhaven or alternatively take acharter ship.Teleport toMusa Pointusing anamulet of gloryand run west.Use thegroupingteleport to theTzHaar Fight Cave, run east through outerMor Ul Rek(past a bank), then leave out theKaramja Volcanoand run west.
+
+Official world[edit|edit source]
+
+The following officialworldsare assigned to the Brimhaven Agility Arena. Currently, only worlds 385 and 508 gives the first player to tag a dispenser a shout-out in the chat:
+
+World | Location | Members | Activity
+
+314 | United States (east) | 1 | Brimhaven Agility Arena
+
+385 | United States (east) | 1 | Brimhaven Agility
+
+508 | United Kingdom | 1 | Brimhaven Agility
+
+Strategies[edit|edit source]
+
+Clothing[edit|edit source]
+
+Wearweight-reducing clothingto achieve a weight of 0 kg or lower. This results in a lower run energy depletion rate.WearKaramja gloves 2,3or4for 10% extra Agility experience from obstacles in the Brimhaven Agility Arena.BringKaramja gloves 2,3or4when turning in tickets for the 10% experience bonus.WearingKaramja gloves 4is NOT needed for the 10% chance of obtaining two tickets instead of one.(Optional) WearingRegen braceletand/orHitpoints capeto lower the rate of food usage if low Agility level.
+
+Inventory[edit|edit source]
+
+Bring 200coinsto payCap'n Izzy No-Beardfor access to the arena. It is recommended to bring more, as this fee has to be paid upon each entry. Logging out while in the arena will throw you out and require you to pay the fee again. You will need to wait at least a minute before being allowed to re-enter.Bring somefoodto restore lostHitpointsfrom taking damage from failing Agility obstacles.Summer piesare recommended, as those restore run energy and boost the Agility stat by +5, which is useful since the darts obstacle will drain the Agility stat by 2 levels upon failing.Food that heals in small increments such aschocolate cakesorbaskets of strawberriesare another good choice, as the damage the traps deal to your health scale with how much health you currently have. By keeping your health around 20, the traps deal the least amount of damage, which is easier to maintain when healing by smaller amounts.If not bringing summer pies, bringAgility potionsfor when the dart traps inevitably lower your Agility.Bring enoughenergy-restoring itemsfor enoughenergyto constantly run around the course.
+
+Route[edit|edit source]
+
+It is important to be able to quickly traverse the arena in order to tag the Ticket Dispenser in time. Since the time needed to cross an obstacle varies heavily, the shortest route is not always the quickest. The image on the right will give a rule of thumb on what the quickest way is to get from one end of the arena to the other.
+
+After tagging a Ticket Dispenser, get to the nearestfloor spikesas quickly as possible. When arrived there, cross this obstacle for Agility experience until the next Ticket Dispenser becomes active. The quickest routes to the pressure pads and floor spikes are drawn in the image below. The pink line shows the quickest route in most occasions. Repeatedly using thepressure padsused to be a good tactic, but they only give experience twice, before a timer of 8-ticks (4.8s) starts, during which no experience is given for traversing them.
+
+It is not particularly difficult to tag each dispenser in time unless the player is not maintaining focus, so learning the quickest routes may not be necessary for most players.
+
+A map of the locations of the obstacle in the Brimhaven Agility Arena. The pressure pads and floor spikes are highlighted in blue, since these obstacles give the best experience rates.A map of all the obstacles with the experience given when passing through each obstacle.A map of the quickest routes through the Brimhaven Agility Arena. When moving from one section of the arena to another, the route of the pink line is the quickest route in most occasions. The coloured lines show the quickest routes to get to the pink line.
+
+Other tips[edit|edit source]
+
+Tick manipulationcan be used to maximize efficiency: Eating food on the same tick as entering a trap will consume the food instantly, and passing obstacles within a few ticks of a new dispenser activating can delay it, or force it to update slightly early, depending on the length and timing of the obstacle, as the dispenser will never change while the player is in the middle of an animation.Due to the random nature of the active ticket dispenser changing, the next ticket dispenser can be reached with up to 50 seconds remaining. Instead of going over obstacles with the spare time for more Agility experience, players can opt to do other activities such ashigh alchingorfletchingbut at the cost of some Agility experience. This can be also be helpful for preserving food at lower Agility levels.Rapid RestoreandRapid HealPrayers can be useful for restoring drained Agility levels from dart traps and regenerating health.
+
+Obstacles[edit|edit source]
+
+ | Image | Obstacle | Experience | Speed[d 1] | XP / tick
+
+1 |  | Blade | 0 | 4-6 t | 0
+
+1 |  | Rope swing | 20 | 4 t | 5
+
+1 |  | Low wall | 8 | 5 t | 1.6
+
+1 |  | Plank[d 2] | 6 | 9 t | 0.67
+
+1 |  | Balancing rope | 10 | 9 t | 1.11
+
+1 |  | Log balance | 12 | 9 t | 1.33
+
+1 |  | Balancing ledge | 16 | 9 t | 1.78
+
+1 |  | Monkey bars | 14 | 13 t | 1.078
+
+1 |  | Pillar | 18 | 9 t | 2
+
+20 |  | Pressure pad | 26 | 4 t | 6.5
+
+20 |  | Floor spikes | 24 | 4 t | 6
+
+20 |  | Hand holds | 22 | 10 t | 2.2
+
+40 |  | Spinning blades | 28 | 5 t | 5.6
+
+40 |  | Darts[d 3] | 30 | 10 t | 3
+
+Rewards[edit|edit source]
+
+For each ticket dispenser successfully tagged while active, the player will be awarded anAgility arena ticketand aBrimhaven voucher. Players who have completed the elite tasks in theKaramja Diarywill have a 10% chance to receive two tickets and vouchers upon tagging a ticket dispenser. These tickets and vouchers can be traded in withPirate Jackie the Fruitfor Agility experience or a selection of items respectively.
+
+Experience[edit|edit source]
+
+Tagging a dispenser awards 30Agilityexperiencefor every 10 Agility levels (includingAgility boosts or drains), maxing out at 300 if boosting to level 100 Agility. Unlike obstacles, this is not affected by the 10% Karamja Gloves 2-4 bonus.Agility arena ticketscan be exchanged with Pirate Jackie the Fruit for 345Agilityexperienceper ticket. Players wearingKaramja gloves 2,3or4will receive an additional 10% experience, giving 379.5 Agility experience per ticket.
+
+Items[edit|edit source]
+
+There is also a selection of items that can be bought from Pirate Jackie the Fruit in return forBrimhaven vouchers.
+
+The graceful recolour costs 250 Brimhaven vouchers to recolour the full uncoloured graceful outfit. Jackie the Fruit will not recognise graceful pieces that have already been upgraded to a different style as valid pieces of graceful to recolour.
+
+Item | Pricesold at | GEprice | /
+
+ | Toadflax | 3 | 2,984 | 995.00
+
+ | Snapdragon | 10 | 7,808 | 781.00
+
+ | Graceful outfit recolour | 250 | Not sold | N/A
+
+ | Pirate's hook | 800 | 3,101,220 | 3,877.00
+
+ | Amylase pack | 60 | Not sold | 1,633.00
+
+Experience rates[edit|edit source]
+
+The experience per hour rate heavily depend on the player's Agility level. At level 99, expect to be able to achieve up to 67,000 Agility experience per hour when constantly traversing obstacles during down time.
+
+With Karamja gloves 2 and experience only from passively traversing obstacles, players can expect around 28,500 experience per hour at level 60 when turning in 100 tickets, up to 37,000 experience per hour at level 80 when turning in 1,000 tickets. Karamja gloves 4 will further add 2,700 experience per hour at level 60, and 3,300 at level 80.
+
+If fletching during ticket dispenser down time instead of traversing obstacles, players can expect roughly 1,200 2t fletching actions per hour. This equates to 180,000Fletchingexperience per hour if makingbroad arrows.
+

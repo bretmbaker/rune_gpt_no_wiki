@@ -1,0 +1,2 @@
+Item: Strange plant
+Summary: A strange plant appears as a random event, where it will start growing near a player. The player must wait until the plant is fully grown before they can pick the strange fruit. The player can pick the fruit or ignore/dismiss the plant.

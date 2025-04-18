@@ -1,0 +1,47 @@
+[Weapon: Tri-Jester Scarf]
+
+
+Thetri-jester scarfis one of the eight receivablehats and scarvesthat can be obtained by completing one of theChristmasholiday eventsthat occur once per year. This also rewards the player with all other holiday items associated with Christmas. It matches theTri-jester hat. It is a holiday item and purely for decoration.
+Previously, they were obtainable during the2013 Rare Dropsevent (from12 Augustto19 August) as part of arare item drop.
+
+
+[Infobox]
+Released: 19 December2005(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can obtain another jester scarf from Diango in the Draynor Market.
+Examine: A woolly jester scarf.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.25 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

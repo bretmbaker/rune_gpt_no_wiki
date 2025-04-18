@@ -1,0 +1,49 @@
+[Weapon: Swampbark Gauntlets]
+
+
+Swampbark gauntletsare a piece ofswampbark armourworn in thehands slot, requiring level 50Magicand 50Defenceto equip. The gauntlets can be made with level 42Runecraftby bringingsplitbark gauntletsand 100nature runesto theNature Altar. Doing so requires players to have first learnt the secret to infuse the armour via reading therunescroll of swampbark.
+They do not contribute to the swampbark armour set's effect of increasing the duration of bind spells.
+
+
+[Infobox]
+Released: 27 January2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: These should protect my hands.
+General Store Value: 10,000 coins
+High alch: 6,000 coins
+Low alch: 4,000 coins
+Weight: 0.907 kg
+Grand Exchange Value: 16,285 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 44
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +3
+- Crush: +5
+- Magic: +4
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

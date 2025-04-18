@@ -1,0 +1,77 @@
+[Weapon: Obsidian Cape]
+
+
+Theobsidian capeis a piece of theObsidian armour. Due to its lack of requirements and high defensive bonuses, it is a popular choice for players who lack afire capeor aCape of Accomplishment. It is one of few capes to count aswarm clothingat theWintertodt, although for this purpose some players may instead opt for the free, easily obtainableclue hunter cloak.
+Areversed colour versionmay be obtained as amaster clue scrollreward fromTreasure Trails, which is statistically identical but the colours are inverted; it is red with black trim, as opposed to black with a red trim.
+
+
+[Infobox]
+Released: 4 October2005(Update)
+Also called: Obby Cape
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A cape of woven obsidian plates.
+General Store Value: 60,000 coins
+High alch: 36,000 coins
+Low alch: 24,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 777,258 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 2,702
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +9
+- Crush: +9
+- Magic: +9
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+TzHaar-KetLevel 221 | 221 | 1 | 1/512 | 
+TzHaar-KetLevel 149 | 149 | 1 | 1/512 | 
+TzHaar-Mej | 103 | 1 | 1/4,096 | 
+TzHaar-Xil | 133 | 1 | 6/2,048 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Barbarian Assault/Strategies(Ranged (mid level))
+4 | Barbarian Assault/Strategies(Melee (high level))
+3 | Barbarian Assault/Strategies(Melee (mid level))
+4 | Corporeal Beast/Strategies(Solo melee)
+5 | General Graardor/Strategies(Solo (Melee))
+5 | General Graardor/Strategies(Advanced Tank)
+3 | Giant Mole/Strategies(Melee & Prayer Budget)
+5 | Moons of Peril/Strategies(Moons of Peril Armour)
+4 | The Nightmare/Strategies(Melee)
+3 | Phosani's Nightmare/Strategies(Melee)
+4 | Sarachnis/Strategies(Melee tank)
+3 | Scurrius/Strategies(Magic (mid level))
+2 | Scurrius/Strategies(Melee (mid level))
+4 | Scurrius/Strategies(Range (mid level))
+4 | TzHaar Fight Cave/Strategies(Melee)

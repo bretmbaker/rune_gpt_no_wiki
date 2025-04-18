@@ -1,0 +1,1 @@
+Ancient mixis abarbarian potionthatbooststhe player'sMagiclevel by 2 + 5% of their base Magic level, as well as restoringprayer pointsequal to 2 + 10% of their basePrayerlevel (with the ability to restore up to 5% over). However, it will also lower their currentAttack,Strength, andDefencelevels by 2 + 10%. Drinking the mix heals 6Hitpoints.

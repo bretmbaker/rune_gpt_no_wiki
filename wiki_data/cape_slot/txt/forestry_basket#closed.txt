@@ -1,0 +1,47 @@
+[Weapon: Forestry Basket#Closed]
+
+
+TheForestry basketis an upgraded variant of theForestry kitwith the functionality of thelog basketadded to it. Creating it requires level 75SmithingandWoodcutting, the aforementioned items, and thesturdy harness. Like the Forestry kit, theclothes pouchcan be attached to the Forestry basket.
+Like the log basket, players can right-click to open the Forestry basket to have logs that the player picks up or chop be automatically placed inside the basket, provided there is space for it.
+
+
+[Infobox]
+Released: 28 June2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Fill, Wear, View, Configure, Destroy
+Destroy: Empty:You may purchase more gear from the Friendly Forester but the sturdy harness will be lost.Filled:The Forestry basket and its contents will be lost. You may obtain another from the Friendly Forester.
+Examine: The most efficient woodcutting utility out there.
+General Store Value: 1,000 coins
+High alch: 600 coins
+Low alch: 400 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

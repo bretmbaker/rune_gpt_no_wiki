@@ -1,0 +1,163 @@
+[Minigame: Runes]
+
+Runesare small, weightless, magical stones with symbols on them representing various elements. Players need the right combinations of runes to castspellsusing theMagicskill.
+
+Runes can either be bought from the variousMagic shopsfound throughoutOld School RuneScape, created fromrune essence,pure essence, ordaeyalt essencethrough theRunecraftskill, procured from drops by killingmonsters, or picked up from variousspawnson the ground.
+
+Elemental staves(thestaff of earth, thestaff of air, thestaff of fire, and thestaff of water) provide an unlimited amount of runes of their stated type to cast spells while wielding them.
+
+Free-to-play runes[edit|edit source]
+
+All players can use the runes listed below, thoughfree playerscan only craft runes up tobody runes(using the Runecraft skill). The two free-to-play Magic stores (inVarrockandPort Sarim) only sell the basic elemental runes, chaos runes, and death runes.
+
+Rune | Use | Runecraft | Level | GE price
+
+ | Air rune | Used to cast air missiles and one of the four basic elemental runes. | 0 | 1 | 5
+
+ | Mind rune | Used to cast basic missile spells (Wind, Water, Earth and Fire Strike). | 0 | 2 | 3
+
+ | Water rune | Used to cast water missiles and one of the four basic elemental runes. | 0 | 5 | 5
+
+ | Earth rune | Used to cast earth missiles and one of the four basic elemental runes. | 0 | 9 | 5
+
+ | Fire rune | Used to cast fire missiles and one of the four basic elemental runes. | 0 | 14 | 5
+
+ | Body rune | Used to cast low level curse spells. | 0 | 20 | 5
+
+ | Cosmic rune | Used for item enchanting spells (jewellery, crossbowbolts, and orbs). | 1 | 27 | 124
+
+ | Chaos rune | Used to cast low level missile spells (Wind, Water, Earth and Fire Bolt) as well asCrumble Undead. | 1 | 35 | 104
+
+ | Nature rune | Used for transmutation spells such as Low and High LevelAlchemyandSuperheat Item, as well asBinding. | 1 | 44 | 115
+
+ | Law rune | Used to castteleportationspells andTelekinetic Grab. | 1 | 54 | 132
+
+ | Death rune | Used to cast medium level missile spells (Wind, Water, Earth and Fire Blast). | 1 | 65 | 161
+
+Members runes[edit|edit source]
+
+TheWizards' Guildlocated inYanillehas the cheapestMagic shopsavailable to members. Located on its upper floors, it sells every rune except astral, cosmic, wrath, and combination runes.
+
+Only members can use the runes listed below.
+
+Rune | Use | Level | GE price
+
+ | Sunfire rune | Used as replacement of Fire Runes. | 33 | 113
+
+ | Astral rune | Used to castLunar spells.Lunar Diplomacyis required to craft and use these runes. | 40 | 157
+
+ | Blood rune | Used to cast high level missile spells (Wind, Water, Earth and Fire Wave). | 77 | 320
+
+ | Soul rune | Used to cast high levelcurse spells,teleport-other spellsand some more spells. | 90 | 190
+
+ | Wrath rune | Used to cast very high level missile spells (Wind, Water, Earth and Fire Surge). | 95 | 321
+
+Combination runes[edit|edit source]
+
+These runes aremembersonly, and act as one of each of their composite runes.
+
+Rune | Combination | Level | GE price
+
+ | Mist rune | Air runeWater rune | 6 | 123
+
+ | Dust rune | Air runeEarth rune | 10 | 9
+
+ | Mud rune | Water runeEarth rune | 13 | 109
+
+ | Smoke rune | Air runeFire rune | 15 | 54
+
+ | Steam rune | Water runeFire rune | 19 | 100
+
+ | Lava rune | Earth runeFire rune | 23 | 27
+
+Obtaining runes[edit|edit source]
+
+Monster drops[edit|edit source]
+
+Many monsters drop runes in RuneScape, but some more than others. These are some of the most notable and easy.
+
+Level 7 and 20Dark wizardssouth ofVarrock, south ofTaverley, and inDraynor VillageWizardsin theWizards' Towersouth ofDraynor VillageElemental mages south ofFaladorChaos druidsinTaverley DungeonandEdgeville DungeonFlesh Crawlersin 2nd floor of theStronghold of SecurityZombie (common)in 2nd floor of the Stronghold of SecurityInfernal Magesin theSlayer TowerHill Giantsin theGiants' Plateau. Note that the giants are level 28, but even novice players can gain runes from them. There’s usually one or two high-level characters fighting the giants. When a one of these players kills a giant, the giant will occasionally drop a rare rune-such as a law, nature, cosmic or death rune. If your character can’t go head-to-head with giants, just activate sprint, grab the rune, and retreat to the entrance of the plateau. The giants won’t follow you past the edge of the plateau, so it’s a good spot to heal in-between rune drops. Bones to bananas is good for this; there’s plenty of bones around, and your character can transmute them directly into bananas.
+
+Runecraft[edit|edit source]
+
+Runecraftis the skill of crafting runes fromrune essence. Through this skill, players can create their own runes for use inMagic.
+
+Rogue Trader[edit|edit source]
+
+Runes can be obtained by completingAli Morrisane'sRogue Traderminigame, which players may complete after finishingThe Feudquest. After completing the minigame, players are able to obtain runes for a cheaper price. Unlike most shops, prices here stay the same while you are buying or selling runes.
+
+Rune | Price sold at | Price bought at
+
+ | Air rune | 4 | 2
+
+ | Mind rune | 3 | 1
+
+ | Water rune | 4 | 2
+
+ | Earth rune | 4 | 2
+
+ | Fire rune | 4 | 2
+
+ | Body rune | 3 | 1
+
+ | Cosmic rune | 62 | 25
+
+ | Chaos rune | 112 | 45
+
+ | Nature rune | 225 | 90
+
+ | Law rune | 300 | 120
+
+ | Death rune | 225 | 90
+
+ | Blood rune | 500 | 200
+
+ | Soul rune | 300 | 150
+
+Rune shops[edit|edit source]
+
+There are severalMagic shopsaroundRuneScapethat sell runes. These are identified with the flameiconon themap. Shop names initalicsare members-only. Note wrath runes can not be bought from shops anywhere.
+
+Shop | Location | Runes Sold | Notes
+
+Aubury | South-eastVarrock | Air, Water, Earth, Fire, Mind, Chaos, Death | Often frequented by players andbots, so its stock is frequently low.
+
+Betty | Port Sarim | Air, Water, Earth, Fire, Mind, Chaos, Death | 
+
+Ali Morrisane | Al Kharid | All except Astral | Requires completion ofThe FeudandRogue Trader
+
+Magic Guild | Yanille | All except Astral and Cosmic | 66 Magic required to enter the Magic Guild (can be boosted)
+
+Baba Yaga | Lunar Isle | All except Cosmic | Must have started theLunar Diplomacyquest. Currently the only shop to sell Astral runes.
+
+Mage Training Arena | North ofEmir's Arena | All except Astral | UsesPizazz pointsinstead ofcoinsas currency.
+
+Mage Arena | Level 50-55Wilderness | All except Astral and Soul | Located in the mage bank, a non-Wilderness area.
+
+Mage of Zamorak | Level 5Wilderness, north ofEdgeville | All except Astral and Cosmic and Nature | 
+
+Ape Atoll | Ape Atoll | Air, Water, Earth, Fire, Law | Requires completion ofMonkey Madness IIor aGreegreeto access.
+
+Pest Control | Void Knights' Outpost | Air, Water, Earth, Fire, Mind, Chaos, Death | 
+
+Amlodd's Magical Supplies | North-westPrifddinas | All except Astral and Soul | Requires Completion ofSong of the Elves
+
+TzHaar-Mej-Roh's Rune Store | Mor Ul Rek | Air, Water, Earth, Fire, Mind, Body, Chaos, Death | Runes can only be bought with theTokkulcurrency. Players often sell chaos runes here to get 300000Tokkulto buy an uncut onyx from theOre and Gem Store.
+
+Thyria's Wares | Arceuus | Air, Water, Earth, Fire, Mind, Body, Chaos, Death | 
+
+Barrows[edit|edit source]
+
+TheBarrowsminigame provides large amounts of catalytic runes (mind, chaos, death, and blood) from the chest, though very high combat skills are required in order to be successful at the Barrows.
+
+v•t•eRunes
+
+Elemental | BasicAirWaterEarthFireCombinationMistDustMudSmokeSteamLava | Basic | AirWaterEarthFire | Combination | MistDustMudSmokeSteamLava
+
+Basic | AirWaterEarthFire
+
+Combination | MistDustMudSmokeSteamLava
+
+Catalytic | MindBodyCosmicChaosAstralNatureLawDeathBloodSoulWrath
+
+Other | SunfireCabbage

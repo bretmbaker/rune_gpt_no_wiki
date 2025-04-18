@@ -1,0 +1,5 @@
+Item: Vet'ion jr.
+Summary: 
+Sources:
+- Calvar'ion (Level 264, Quantity: 1, Rarity: 1/2,800)
+- Vet'ion (Level 454, Quantity: 1, Rarity: 1/1,500)

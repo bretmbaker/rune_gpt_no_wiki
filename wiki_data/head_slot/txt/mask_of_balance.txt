@@ -1,0 +1,48 @@
+[Weapon: Mask Of Balance]
+
+
+Themask of balanceis obtained after completing the midsummer ritual three times during the2015 Midsummer event, as well as subsequent midsummer events.
+As there was nomidsummer eventin2018, it was made available fromDiango's Toy Storefor 1coin.
+
+
+[Infobox]
+Released: 18 June2015(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check rank, Destroy
+Worn options: Check Rank
+Destroy: You can get a replacement from Diango.
+Examine: A shining mask of balance.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

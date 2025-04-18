@@ -1,0 +1,2 @@
+Item: Monk of Entrana
+Summary: Monks of Entrana are NPCs that must be talked to in order to sail back and forth between Port Sarim and Entrana, as long as the player has no weapons or armour.

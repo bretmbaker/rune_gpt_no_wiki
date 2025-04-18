@@ -1,0 +1,6 @@
+Item: Hydra's heart
+Summary: The Hydra's heart is an item dropped by hydras and the Alchemical Hydra. It can be combined with the Hydra's eye and fang to create the brimstone ring.
+Sources:
+- Alchemical Hydra (Level 426, Quantity: 1, Rarity: 1/181)
+- Colossal Hydra (Level 309, Quantity: 1, Rarity: 1/360.72)
+- Hydra (Level 194, Quantity: 1, Rarity: 1/1,800.72; 1/360.72)

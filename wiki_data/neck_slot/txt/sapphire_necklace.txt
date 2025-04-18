@@ -1,0 +1,74 @@
+[Weapon: Sapphire Necklace]
+
+
+Thesapphire necklaceis made by using agold bar, asapphireand anecklace mouldon a furnace. This requires aCraftinglevel of 22 and gives 55 experience when made.
+Grum's Gold ExchangeinPort Sarimbuys at a higher price thanHigh Alchemy, if he has no sapphire necklaces for sale. He will buy the first for 735 coins, compared with the High Alchemy value of 630 coins. However, his price decreases in relation to the amount he has in stock, going below High Alchemy value when his stock goes above five.
+
+
+[Infobox]
+Released: 8 May2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I wonder if this is valuable.
+General Store Value: 1,050 coins
+High alch: 630 coins
+Low alch: 420 coins
+Weight: 0.01 kg
+Grand Exchange Value: 520 coins
+Grand Exchange Daily Buy Limit: 18,000
+Grand Exchange Daily Trades Volume: 1,672,896
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Casket (Reward pool) | N/A | 10–14(noted) | 9/230 | 
+Casket (Reward pool) | N/A | 20–28(noted) | 1/230 | 
+Chest (stealing valuables) | 50 | 1 | 9/6,250 | 
+Elite Black Knight | 138 | 6–10(noted) | 7/122 | 
+Jewellery case (stealing valuables) | 50 | 1 | 9/6,250 | 
+Mummy (Ancient Pyramid) | 103 | 1 | 10/513 | 
+Sarcophagus (Ancient Pyramid) | N/A | 1 | Rare | 
+Small chest | N/A | 1 | 6/150 | 
+Small chest | N/A | 1 | 4/150 | 
+Small chest | N/A | 1 | 6/150 | 
+Small chest | N/A | 1 | 6/150 | 
+Small chest | N/A | 1 | 2/150 | 
+Small chest | N/A | 1 | 5/150 | 
+Small chest | N/A | 1 | 4/150 | 
+Small chest | N/A | 1 | 2/150 | 
+Small chest | N/A | 1 | 3/150 | 
+Small chest | N/A | 1 | 3/150 | 
+Small chest | N/A | 1 | 3/150 | 
+Small chest | N/A | 1 | 4/150 | 
+Small chest | N/A | 1 | 2/150 | 
+Wardrobe (stealing valuables) | 50 | 1 | 9/6,250 | 

@@ -1,0 +1,4 @@
+Item: Bolt rack
+Summary: Bolt racks are ammunition exclusively used by the Karil's crossbow. They are a reward from Barrows with at least 881[1] reward potential, purchased from Ak-Haranu's Exotic Shop on the Port Phasmatys docks or the Last Man Standing shop.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 35–40, Rarity: 7 × 125/1,012)

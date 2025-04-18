@@ -1,0 +1,2 @@
+Item: Count Check
+Summary: Count Check is a vampyre in the Lumbridge Graveyard, south of the church. He gives advice to players on how to secure their account, such as using a unique password and enabling two-step verification for their registered recovery email. He can also tell the player whether or not they have a Jagex Account, the Authenticator enabled, or if a Bank PIN is set up. As a random event, he will occasionally reward players with a lamp if all three security measures are enabled. Note, the Bank PIN requirement is waived for Ultimate Ironmen.

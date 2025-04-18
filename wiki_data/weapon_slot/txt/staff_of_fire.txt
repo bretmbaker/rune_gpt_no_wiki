@@ -1,0 +1,89 @@
+[Weapon: Staff Of Fire]
+
+
+Astaff of fireis the basic fireelemental staff. It provides unlimited amounts offire runesas well as theautocastoption when equipped. All elemental staves offer the sameMagicbonuses and only differ by the type ofrunethey supply and theirMeleestats.
+The staff can be purchased from various shops acrossGielinor, includingZaff's Superior Staffs!inVarrock. It can also be bought on theGrand Exchange, obtained through other players, or dropped by various enemies.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A Magical staff.
+General Store Value: 1,500 coins
+High alch: 900 coins
+Low alch: 600 coins
+Weight: 2.267 kg
+Grand Exchange Value: 1,248 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 4,971
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +3
+- Slash: -1
+- Crush: +9
+- Magic: +10
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +10
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Adventurer JonBringer of chaos | N/A | 1 | Always | N/A
+Ancient Wizard | 98; 112 | 1 | 1/50 | 
+Black Chest (black) | N/A | 1 | 1/141.11;1/133.27 | 
+Black Chest (brown) | N/A | 1 | 1/141.02;1/133.19 | 
+Black Chest (crimson) | N/A | 1 | 1/141.07;1/133.23 | 
+Black Chest (purple) | N/A | 1 | 1/141.15;1/133.31 | 
+Black Chest (red) | N/A | 1 | 1/140.98;1/131.15 | 
+Broken staff | N/A | 1 | 4/100 | 
+Fire elemental | 35 | 1 | 2/128 | 
+Flaming pyrelord | 97 | 1 | 3/128 | 
+Former Vampyre | N/A | 1(noted) | 2/256 | 
+Harpie Bug Swarm | 46 | 1 | 3/128 | 
+Infernal Mage | 66 | 1 | 1/128 | 
+Infernal pyrelord | 134 | 1 | 3/128 | 
+Killerwatt | 55 | 1 | 2/140 | 
+Malevolent Mage | 162 | 1 | 1/128 | 
+Necromancer | 26 | 1 | 1/128 | 
+Pyrefiend | 43; 48 | 1 | 3/128 | 
+Pyrelord | 60 | 1 | 3/128 | 
+Reward casket (beginner) | N/A | 1 | 11/492 | 
+Vampyre Juvinate | N/A | 1(noted) | 2/256 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Free-to-play Magic training(Magicgear)
+5 | Nightmare Zone/Strategies(Magic)

@@ -1,0 +1,46 @@
+[Weapon: Accumulator Max Hood]
+
+
+Theaccumulator max hoodis a hood created by usingAva's accumulatoron amax cape. When theaccumulator max capeis created, themax hoodthat is required to be in the player's inventory during the cape's creation is automatically converted to the accumulator max hood.
+If players are refunding Ava's max cape viaMac, the player must also have Ava's max hood in their inventory.
+
+
+[Infobox]
+Released: 19 November2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: The hood worn by only the most experienced players.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

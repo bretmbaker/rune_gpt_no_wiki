@@ -1,0 +1,1 @@
+Blue candiesare candies that can be taken from apumpkinin aplayer-owned house. When eaten, the player will sayOoh piece of candy.The candy will not heal the player.

@@ -1,0 +1,52 @@
+[Weapon: Decorative Armour (Gold Platelegs)#Locked]
+
+
+TheGold decorative legscan be bought in the Castle Wars area south of the observatory for 600 Castle Wars tickets. They can only be bought fromLanthus. The gold decorative legs and theirskirtcounterpart offers similar stats toadamant platelegsor anadamant plateskirtbut have the lower weight of the plateskirt. These require level 30Defenceto wear.
+When unprotected uponPvPdeath, this item will stay in the inventory, but will becomebrokenand will require 5,000coinsto repair. However, if the death occurs beyond the level 20 of theWilderness, the item will be lost instead. In either case, extra 5,000 coins will be dropped upon death for the opponent. After a regular death, the item can be retrieved from thegravestonewithout a fee—unless the death occurs beyond level 20 of the Wilderness, in which case 5,000 coins will appear in the gravestone instead.
+
+
+[Infobox]
+Released: 7 March2005(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Very decorative armour.
+General Store Value: 6,400 coins
+High alch: 3,840 coins
+Low alch: 2,560 coins
+Weight: 9.071 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +33
+- Slash: +31
+- Crush: +29
+- Magic: -4
+- Ranged: +31
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Free-to-play Ironman guide(Meleegear)
+2 | Free-to-play melee training(Meleegear)

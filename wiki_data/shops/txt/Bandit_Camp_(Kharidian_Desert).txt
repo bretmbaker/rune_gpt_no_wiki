@@ -1,0 +1,95 @@
+[Shop: Bandit_Camp_(Kharidian_Desert)]
+
+Bandit Camp
+
+
+
+
+
+Released | 18 April2005(Update)
+
+Members | Yes
+
+Location | Kharidian Desert
+
+Leagueregion | Desert✓
+
+Teleports | None
+
+Music | Bandit Camp
+
+
+
+Map
+
+
+
+Location onWorld Map
+
+Bedabin Camp
+
+↑
+
+Karamja | ← | Bandit Camp | → | Pollnivneach
+
+↓
+
+Quarry
+
+TheBandit Campis in theKharidian Desert. It is home tobanditsthat will attack players wearing anyZamorakianorSaradoministitems because they are followers ofZarosand bear a grudge against the followers of Zamorak and Saradomin for persecuting their ancestors.Desert heatdoes not apply within the camp.
+
+The Bandit Camp contains ageneral storethat sellswaterskins, which can be useful forMiningat the nearbyquarry, though they are not needed in the camp itself.
+
+Getting there[edit|edit source]
+
+In addition to travelling on foot, there are a few shortcuts to get here:
+
+Taking aMagic carpetride from theShantay Passto theBedabin Campand then running directly south.Usingfairy ringcodeBIQthat teleports the player to the entrance of theKalphite Lair, which is north-east of the camp. Run south-west to reach the Bedabin camp, then run south until you arrive at the Bandit Camp.Using aPharaoh's sceptreto teleport to Jaldraocht (theAncient Pyramid) and then running north-west.Using theCamuletto teleport toEnakhra's Templeand then running north-east followed by north-west around the cliff.
+
+History[edit|edit source]
+
+During theFirstandSecond Age, a large part ofGielinorwas ruled by thegodZaros. The Second Age ended when many of theMahjarrat, with some other creatures, led byZamorak, rebelled against their god. After a long fight, Zamorak impaled Zaros with theStaff of armadyland stole his godly powers. Zamorak was banned from Gielinor, but later returned as a god. This ignited the cataclysmicGod Wars. During these wars, the few Zarosians who had stayed true to their god were often harassed by others. Many of Zaros' towns were overrun, like the mighty city ofSenntisten, and many of the former god's followers were killed. However, some managed to stay alive and fled to theKharidian Desert. There, their descendants now live as outlaws in the Bandit Camp, still very loyal to their fallen god, Zaros.
+
+Notable features[edit|edit source]
+
+The Bandit Camp is home to a bar,The Big Heist Lodge. This is the only known source ofbandit's brew, an ale that will temporarily boost a player'sThievinglevel by 1. It costs 650coins, and thus is usually worth it to use them to boost instead of usingsq'irkjuiceso you can turn that in for xp. However,  autumn and summer juice boost higher (+2 and +3 respectively).
+
+The town is also home to a simplegeneral storewhere you can findTiles, who exchanges notes for Items for a small payment.
+
+There are two main areas used in town which feature in theDesert Treasure Iquest: mirrors, used to discern the whereabouts of theDiamonds of Azzanadra, and thesecure chestin a large tent in the south area of town, containingRasolo'sgilded cross.
+
+Other features[edit|edit source]
+
+Dust devils:Dust devils areSlayermonstersthat have acombat levelof 93. They require 65 Slayer and afacemaskor aslayer helmetto kill. They are located in theSmoke Dungeon, east of the Bandit Camp.Ancient Pyramid:The final pyramid from theDesert Treasure Iquest. After going through the labyrinth within, players are able to switch between normal andAncient Magicks. It is located south of the camp.
+
+Treasure Trails[edit|edit source]
+
+Searching the crates in the General Store tent is the solution to the hardcryptic clue:The cheapest water for miles around, but they react badly to religious icons.
+
+Training[edit|edit source]
+
+Thebanditsin the camp will attack anyone wearing anyZamorakorSaradominGod equipmentwith notolerance. This makes the camp a highly popular training spot as it will keep the residents attacking players. Attacking one of the bandits will also cause the rest of the bandits nearby to attack, but as they die, they will no longer be aggressive. This makes the area regularly crowded with many training theircombatstats to 99. Using god equipment that does not lower strength bonus is preferred to maintain at least 60,000experienceper hour.
+
+A fast, highstrength bonusweapon from the list ofmelee training weaponssuch as anabyssal whipare recommended. Players with 60Attackand 60Defencecan opt to useobsidian armourwith aberserker necklace,toktz-xil-ak, and their beststrength bonusorprayer bonusequipment depending on if they want to useProtect from Melee. If the player does not have arune defender, atoktz-ket-xilis an alternative.
+
+There are several methods of healing, using theGuthan's set, aSaradomin godsword, orfood. Food can be unnoted by using it onTilesand paying5coins per item.
+
+If usingProtect from Meleein combination withPrayer potions,Prayer bonusis important, so theViggora's chainmaceis better than thedragon scimitarin this case. Thebook of waris the recommended shield if not using a defender, but wanting strength bonus along with extra prayer bonus. If using offensive Prayer in addition to Protect from Melee, the 10% offensive prayers are the most efficient use of prayer points, accuracy boosts are usually not recommended because of the bandits low defensive stats.
+
+It should be noted for players training within the easternmost house thatEbliswanders around inside. While he will be invisible to those who have partially completed Desert Treasure I, the bandits inside cannot walk through him. As a result, if your character is standing against the northern wall, Eblis will sometimes cause bandits to get stuck behind the bookshelves when they are targeting you.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+18 April2005(update) | The area was made accessible to players.
+
+20 September2004(update) | The area was first added ingame, but was inaccessible.
+
+v•t•eDesert Bandit Camp
+
+Inhabitants | BanditBandit shopkeeperBartenderDrewEblisSeated BanditTiles
+
+Shops | Bandit BargainsThe Big Heist Lodge
+
+Features | Bandit Camp QuarrySandstorm

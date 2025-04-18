@@ -1,0 +1,102 @@
+[Weapon: Thammaron%27S Sceptre#Uncharged]
+
+
+Thammaron's sceptreis apowered staffrequiring 60Magicto wield, available as a drop fromrevenants. It was once owned byThammaron, a Tsutsarothdemonwho was one ofZamorak's most trusted allies during the reign ofZaros, and later one of his key generals during theGod Wars. This item counts as aZamorakianitem in theGod Wars Dungeon.
+The sceptre shares the same magic attack bonus as thetrident of the seas, and has a powerfulpassive effectwithin theWildernesswhen charged withrevenant ether. In addition, unlike other powered staves, the sceptre can attack players outside ofminigames. The sceptre also has a "Swap" option that allows players to switch it toThammaron's sceptre (a), which is a variant that canautocastoffensivecombat spellsfrom thestandard spellbook(includingFlames of Zamorak) and theAncient Magicks.
+
+
+[Infobox]
+Released: 26 July2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Dismantle, Swap, Drop
+Worn options: None(?)
+Destroy: N/A
+Examine: A mighty sceptre used in long forgotten battles.
+General Store Value: 120,000 coins
+High alch: 72,000 coins
+Low alch: 48,000 coins
+Weight: 0.198 kg
+Grand Exchange Value: 2,757,084 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 144
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +20
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Magic | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Magic
+ | Accurate | Magic | Accurate | 7 tiles |  | +3 Magic
+ | Longrange | Magic | Longrange | 9 tiles |  | +1 Magic, +3 Defence
+
+
+[Passive Effect]
+When Thammaron's sceptre is charged, an additional 50% magic accuracy and damage boost is applied when attacking anyNPCin theWilderness, consuming 1 ether per attack whether the player hits or not. It is also applied to anycombat spellscast when it is equipped, though it cannotautocastthem when using the staff's built in spell.
+This effect will stack with aslayer helmet (i)or aSalve amulet(i)and their variants, but not both simultaneously. This makes the sceptre the second best magic weapon in the Wilderness after theaccursed sceptre, surpassing the damage output of atrident of the seasorswampwith the additional capability of attacking any hostile players, something which both tridents are incapable of doing.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Revenant cyclopsOff-task | 82 | 1 | 1/32,533.74;1/17,893.74 | 
+Revenant cyclopsOn-task | 82 | 1 | 1/6,506.26;1/3,578.26 | 
+Revenant dark beastOff-task | 120 | 1 | 1/29,333.7;1/16,133.7 | 
+Revenant dark beastOn-task | 120 | 1 | 1/5,866.3;1/3,226.3 | 
+Revenant demonOff-task | 98 | 1 | 1/32,533.74;1/17,893.74 | 
+Revenant demonOn-task | 98 | 1 | 1/6,506.26;1/3,578.26 | 
+Revenant dragonOff-task | 135 | 1 | 1/26,667;1/14,667 | 
+Revenant dragonOn-task | 135 | 1 | 1/5,333;1/2,933 | 
+Revenant goblinOff-task | 15 | 1 | 1/97,734.56;1/53,754.56 | 
+Revenant goblinOn-task | 15 | 1 | 1/19,545.45;1/10,749.45 | 
+Revenant hellhoundOff-task | 90 | 1 | 1/32,533.74;1/17,893.74 | 
+Revenant hellhoundOn-task | 90 | 1 | 1/6,506.26;1/3,578.26 | 
+Revenant hobgoblinOff-task | 60 | 1 | 1/41,867.19;1/23,027.19 | 
+Revenant hobgoblinOn-task | 60 | 1 | 1/8,372.81;1/4,604.81 | 
+Revenant impOff-task | 7 | 1 | 1/146,668.5;1/80,668.5 | 
+Revenant impOn-task | 7 | 1 | 1/29,331.5;1/16,131.5 | 
+Revenant knightOff-task | 126 | 1 | 1/26,667;1/14,667 | 
+Revenant knightOn-task | 126 | 1 | 1/5,333;1/2,933 | 
+Revenant maledictusOff-task | 397 | 1 | 1/26,667;1/14,667 | 
+Revenant maledictusOn-task | 397 | 1 | 1/5,333;1/2,933 | 
+Revenant orkOff-task | 105 | 1 | 1/29,333.7;1/16,133.7 | 
+Revenant orkOn-task | 105 | 1 | 1/5,866.3;1/3,226.3 | 
+Revenant pyrefiendOff-task | 52 | 1 | 1/41,867.19;1/23,027.19 | 
+Revenant pyrefiendOn-task | 52 | 1 | 1/8,372.81;1/4,604.81 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Artio/Strategies(Magic)
+2 | Callisto/Strategies(Magic)
+1 | Crazy archaeologist/Strategies(Magic)
+5 | The Nightmare/Strategies(Mage)
+5 | Phosani's Nightmare/Strategies(Mage)
+1 | Revenants/Strategies(Magic)
+1 | Scorpia/Strategies(Magic)

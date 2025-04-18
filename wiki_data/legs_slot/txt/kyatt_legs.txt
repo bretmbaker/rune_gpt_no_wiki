@@ -1,0 +1,49 @@
+[Weapon: Kyatt Legs]
+
+
+Kyatt legsare amembers onlypiece ofkyatt hunter gearthat requires 52Hunterto wear. To make a pair, bring either a normal or tatteredkyatt furand200to theFancy Clothes StoreinVarrock, toPellemin theHunter Guild, or toPrifddinas' Seamstress. When worn, it reduces damage received from Hunter creatures by 20%; this is increased to 60% when the full outfit is worn.
+This item can be stored in thearmour caseof acostume room, as part of theHunter Gear: Kyatt.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: These should make me harder to spot in polar areas.
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 0.226 kg
+Grand Exchange Value: 745 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 42
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: -7
+
+Defence Bonuses:
+- Stab: +11
+- Slash: +10
+- Crush: +10
+- Magic: +0
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

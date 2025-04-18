@@ -1,0 +1,12 @@
+Item: Sunfire fanatic helm
+Summary: The sunfire fanatic helm is an item that requires level 60 Prayer and 40 Defence to equip, obtained as a possible reward from participating in the Fortis Colosseum.
+Sources:
+- Rewards Chest (Fortis Colosseum) Wave 8 (Level N/A, Quantity: 1, Rarity: 315/114,240)
+- Rewards Chest (Fortis Colosseum) Wave 9 (Level N/A, Quantity: 1, Rarity: 75/21,600)
+- Rewards Chest (Fortis Colosseum) Wave 10 (Level N/A, Quantity: 1, Rarity: 75/16,000)
+- Rewards Chest (Fortis Colosseum) Wave 11 (Level N/A, Quantity: 1, Rarity: 15/2,080)
+- Rewards Chest (Fortis Colosseum) Wave 12 (Level N/A, Quantity: 1, Rarity: 75/4,800)
+- Rewards Chest (Fortis Colosseum) Wave 4 (Level N/A, Quantity: 1, Rarity: 70/43,400)
+- Rewards Chest (Fortis Colosseum) Wave 5 (Level N/A, Quantity: 1, Rarity: 35/19,250)
+- Rewards Chest (Fortis Colosseum) Wave 6 (Level N/A, Quantity: 1, Rarity: 35/16,800)
+- Rewards Chest (Fortis Colosseum) Wave 7 (Level N/A, Quantity: 1, Rarity: 105/45,920)

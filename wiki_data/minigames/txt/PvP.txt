@@ -1,0 +1,150 @@
+[Minigame: PvP]
+
+Player Killing(commonly known asPKing,player vs. player, orPvP), is the act of two or more players partaking incombatagainst each other. Player killing differs from other forms of combat in that players do not fight againstmonsterswhose actions are defined by RuneScape's game engine. There are various places throughoutOld School RuneScapethat players can participate in PvP activities such asCastle Wars,Soul Wars,Bounty Hunter, and theTzHaar Fight Pit. On every world,the Wildernessacts as a PVP enabled zone, where players of a similar combat bracket can engage each other.
+
+Currently, players can also participate in player killing in dedicated "PvP worlds," where players can attack other players in most places aroundGielinor, with the exception of designated safe areas and banks. There is only one dedicated PvP world that does not change with thePvP world rota, this is World 392. Other worlds can be found on theserverlist.
+
+PvP is a popular activity throughoutOld School RuneScape. Some accounts are even designed solely for PvP, which are colloquially referred to as "pures", who limit or entirely avoid training one or more combat skills, especiallyDefence, so their offensive stats will be much higher than theircombat levelsuggests. Because of their history of success in the Wilderness, and the overall greater amount of experience pures must gain in their individual skills of choice, pures are more effective at player killing than standard accounts of the same level.
+
+Player killing within theWildernessand PvP worlds causes a 57 second timer to be set off, during which only the killer can loot the victim's gear. After the expiry of this timer, anyone can loot the victim's loot.
+
+Gameplay[edit|edit source]
+
+PVP is inherently emergent, meaning the strategies, mechanics, and ways players choose to engage with PVP can change drastically over time.
+
+Honour Fights[edit|edit source]
+
+Are an unwritten, but mutually agreed upon set of rules that players can engage in while fighting each other. This involves players fighting, (commonly with melee), without the help ofProtection prayersorFreezesuntil one player dies or they run out of food. This type of fight relies heavily on knocking out your opponent with high damageSpecial attacks,Vengeanceor other recoiling effects, or combos to defeat an opponent faster than they can out-eat or teleport away. This style of PVP was popular north of Edgeville, but is now commonly facilitated throughBounty HunterorPvP worlds.
+
+No-Honour Fights (NH)[edit|edit source]
+
+An 'anything goes' style of combat, where players use any and all advantages to defeat another player. This includes the use offreezes,Tele Block, and multipleCombat styles. These types of fights are often facilitated in popularWilderness hotspots, where the likelihood of finding other players for a fight is high.Last Man Standingis a popular, safe alternative for players who wish to engage in No-Honour style fights.
+
+"Player Killing"[edit|edit source]
+
+In more specific terms, "Player killers" refers to those who target players skilling, PVMing, questing, or otherwise not engaging in PVP for loot or sport. This is primarily done in theWilderness, where there are plenty of lucrative money makers, unique skilling methods, and bossing encounters that many players seek out. 'Player killers' will have to utilizeTele Block,Freezing spells, high damagingSpecial attacks, or a group of Pkers to defeat other players and prevent their escape.
+
+Anti-Pking[edit|edit source]
+
+Some players participating inWildernessactivities choose to fight back against pkers. This can either be an attempt to deter them or to outright defeat a player killer while bringing substantially less risk thanks to not having toSkull. Players can bring a simple ranged weapon to fight back from a distance, bringfreeze spellsto immobilize and escape from pkers, or use high damagingSpecial attacksandVengeanceto catch player killers off guard.
+
+Team Fights[edit|edit source]
+
+When inmulticombat areas, players can group together to attempt to attack players at the same time. Whether Player killing or fighting other teams, there is extra emphasis on coordinating ranged attacks andBarrage spellsto quickly target and eliminate other players. Many mini-games facilitate safe team fights, such asSoul Wars,Castle Wars, andClan Wars. Larger groups or clans can attempt to control large portions ofthe wildernessfor profit or as a show of force.
+
+Mechanics[edit|edit source]
+
+Player versus player combat behaves similar to player versus monster combat, but there are notable unique interactions and differences that can be initially confusing or unintuitive.
+
+Account Builds[edit|edit source]
+
+One-defence pure[edit|edit source]
+
+Berserker[edit|edit source]
+
+Medium level[edit|edit source]
+
+Main[edit|edit source]
+
+Free-to-playbuilds[edit|edit source]
+
+Other[edit|edit source]
+
+Obsidian mauler, 13 Defence pure, Initiate pure, Proselyte pure, Void pure, etc.
+
+Activity Hotspots[edit|edit source]
+
+PvP worlds[edit|edit source]
+
+Location | Comment | Popularity | 
+
+Grand Exchange | Extremely varied. Pure, Dharok, zerker, Void, rushers as well as mains. | High | 
+
+Lumbridge | Varied. Pure, zerker, Void and mains. | High | 
+
+Edgeville | Common spot for "No honour" PKing, both pure and main. | Moderate | 
+
+Rimmingtonhouse portal | Varied. Pure, Dharok and a lot of rushers. | Moderate | 
+
+Camelot | Pure and Dharok. | Moderate | 
+
+Castle Warslobby | Common spot for "No honour" PKing, both pure and main. | Low | 
+
+The Wilderness[edit|edit source]
+
+TheWildernessis a large area of land in which any player who enters it is able to attack other players near their combat level. It is a dangerous place as players can die and lose all except their 3 most valuable items, (4 if the player hadProtect Itemon before dying). If the player happened to beskulledfrom attacking another player and said player dies, they will lose all of their items, and only one item iskept upon deathif Protect Item was activated. "Skull tricking" was a popular method player killers used to be able to gain more loot, but has decreased in popularity somewhat with the addition ofPK Skull Prevention.
+
+Location | Comment | Popularity | 
+
+Revenant Caves | Located in 17-40 wilderness, players killrevenantsas a lucrative money making method with little risk and requirements. The entire cave isSingles-plus combat, meaning player combat is prioritised over combat with revenants. Players wishing to fight other players will often meet by the revenant dragons, while lower level accounts often meet by the southern revenant orcs. | High | 
+
+Wilderness bosses | Players kill the Wilderness bosses as they provide a lot of money with minimal risk and requirements. Groups of pkers will target the deeper caves, (located level 35-40), in multi-way combat ofCallisto,Venenatis, andVet'ion, while solo pkers will often target the solosingles-pluscaves, (located level 21-29), ofArtio,Spindel, andCalvar'ion. This also leads to the areas around the deeper multi caves being a hotspot for large scale clan fights. | High | 
+
+Chaos Temple (hut) | Located in 38 wilderness west of theLava Maze, the hut itself is multi-combat while outside is in single-way combat. The temple is used by players trainingPrayerfor the bone saving effect. This makes it a popular hotspot for player killing due to the expensive bones used, with many players engaging in 1v1 combat outside the hut with larger scale fights occasionally happening inside the hut. | High | 
+
+Wilderness Slayer Cave | Located east of theFerox Enclaveand south of theSilk Chasmin levels 18-30 wilderness, players trainingSlayerin a multi-combat area often bring adwarf multicannonandbarrage spellswhile collecting valuable loot. This makes it a popular spot to attack players, and can often lead to larger scale fights between pkers. | High | 
+
+Chaos Temple (Wilderness) | Located in level 11 Wilderness in multi-combat, players will huntZombie piratesandElder Chaos druidsfor their rare and lucrative drops, often with adwarf multicannon. This, along with the druids ability toTele Block, makes this a popular area for groups of player killers. | Moderate | 
+
+Black chinchompas | Located in level 32 Wilderness in singles combat, players hunting black chinchompas often bring no supplies and make easy prey. Other players choose to bring defensive gear to ensure they protect their caught chinchompas, as they are an excellent source ofHunter xpand gp. | Moderate | 
+
+Lava Dragon Isle | Located in 36-42 wilderness in multicombat, players often killLava dragonsfor theirbones,scales, and other valuable loot. Due to their incredibly low magic level and ability to besafespotted, low level players can use this a lucrative money maker while making them an easy target for pkers. | Moderate | 
+
+Wilderness Agility Course | The course is located in level 50-56 wilderness in singes-plus combat. The area is very popular for players training agility as each lap awards bonus xp and gp. Players risking very little make for easy targets to players killers, while some bring defensive gear to escape with lots of valuables. The entrance/exit also leads to some combat encounters with groups of pkers. | Moderate | 
+
+Rogues' Castle | Located in level 52–56 Wilderness. A very popular spot for player killers since the area is multi-combat, and they can prey on players looting thechestsand huntingChaos Elemental. | Moderate | 
+
+Ferox Enclave | A safe hub located in low level wilderness insingle-way combat, players often look to fight other players outside of the western safe zone. Occasionally, players are targeted as they travel towards therevenant cavesor nearby wilderness bosses. | Moderate | 
+
+Green dragons | Located across the wilderness and in theWilderness Slayer Caves, players/botsare targeted by pkers as they kill green dragons for theirGreen dragonhideandDragon bones. | Moderate | 
+
+Mage Arena | Located in deep level 54 wilderness, the mage arena and nearbybankare a common pit stop for players doingMage Arena I,II, nearby bosses, and lootingLarran's big chest. These and other surrounding activities make this a popular player killing spot. | Moderate | 
+
+Resource Area | East of theDeserted Keepin circa level 52–54 Wilderness in single-way combat. Players doingTreasure Trails,Achievement Diaries, catchingDark crabs, or otherwise passing though this area on their way toChaos ElementalorScorpiacan be targeted by pkers. | Low | 
+
+Fountain of Rune | Located in level 47 Wilderness, this has become a hotbed for player killers since the area is multi-combat, and they can kill players who are chargingglories. | Low | 
+
+Wilderness God Wars Dungeon | Located within a cave east of theForgotten Cemeteryin the level 28 Wilderness, the whole area is multi-combat. A popular place for clans to lurk and ambush players killingaviansieor collectingecumenical keys. | Low | 
+
+The followingofficial worldsare assigned to Wilderness PKing:
+
+World | Location | Members | Activity
+
+308 | United Kingdom | 0 | Wilderness PK - Free
+
+316 | United Kingdom | 0 | Wilderness PK - Free
+
+369 | United States (east) | 1 | Wilderness PK - Members
+
+Minigames[edit|edit source]
+
+TheTzHaar Fight Pitis a safe minigame in which players fight against each other in a free-for-all arena. The winner is crowned champion as long as they are both still in the arena and have not been killed yet.
+
+Last Man Standing, commonly referred to asLMS, is aplayer-versus-playerbattle royale styleminigamein which the player, along with 3-23 others, are transported onto an island where they must fight for survival, killing each other and looting any items they can to become the titular last man standing.
+
+Bounty Hunterwas originally released byJagexDecember 2007 as part of the highly controversial update that saw the removal of PvP from the Wilderness, its first incarnation was confined to a single crater and was intended as a substitute for Wilderness player-killing. Although theAugust 2007 archive of RuneScapethatOld School's servers were based on predated the Bounty Hunter update, both players and the development team expressed interest in bringing it back in a revised form. It was subsequently released in 2014 as a single-world activity that exists separately from and alongside traditional Wilderness PvP.
+
+Clan Warsallows members of two opposingClan Chatsto engage in player-versus-player combat against one another.
+
+Castle Warsis aminigamereleased byJagexin December 2004. It is similar to Capture the Flag, but with aRuneScapetwist. The official worlds for Castle Wars are 334 and 354 for P2P, and 383 for F2P. On July 202017, it was madeFree-to-play, and can be accessed via a portal in theFerox Enclave.
+
+Soul Warsis aminigamein which two opposing teams compete against each other to gather soul fragments and offer them to the Soul Obelisk in order to weaken, and ultimately defeat, each other's Avatars through combat.
+
+TheEmir's Arena, also known as thePvP Arena, is a minigame that replaced the Duel Arena.
+
+The minigame gives players an opportunity to fight each other in a controlled environment, where matches take place on an alternative save game world against players of a similar skill level. Players will be able to register their interest in finding a fight; while a match is being prepared, players can continue with whatever they were doing prior.
+
+History[edit|edit source]
+
+Originally, after the release ofRuneScape Classic, players could select whether or not to play as player killer characters. Players could switch from player-killer mode to non-player-killer mode (in which the character could not attack or be attacked by other players) three times, after which they remained at their chosen setting "forever".
+
+PvP combat could take place at most locations in theRuneScapeworld. The rules of combat were the same as in modernRuneScape ClassicWilderness.Lumbridgewas designated as a neutral area where players could not attack each other. This was done to prevent "spawn camping", the practice of immediately killing a player as soon as they respawned after a death. However, it was possible for a character to be attacked in the upper levels ofLumbridge Castle. In addition to this restriction,NPCGuardsandWhite Knightspatrolled the cities ofVarrockandFalador, breaking up PvP battles by attacking the aggressor. These guard units were limited in number, however, and if all the units in a city were already in combat, PvP combat could go on freely.
+
+At this time, the Bank of Runescape was limited to Varrock and Falador and could only storecoins. As a result, players would have to carry their valuables with them, making PvP combat much riskier.
+
+The player-killer/non-player-killer modes were, however, removed from the game on13 August2001when the Wilderness was added. Later, additional areas where PvP combat was allowed were added.
+
+Transcript[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+

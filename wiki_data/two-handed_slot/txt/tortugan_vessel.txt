@@ -1,0 +1,46 @@
+[Weapon: Tortugan Vessel]
+
+
+Tortugan vesselis an item in theSailing alpha.
+
+
+[Infobox]
+Released: 20 March2025(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Bankable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A Tortugan fishing device.
+General Store Value: 20 coins
+High alch: 12 coins
+Low alch: 8 coins
+Weight: 8.164 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot

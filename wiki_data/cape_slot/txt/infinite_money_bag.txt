@@ -1,0 +1,48 @@
+[Weapon: Infinite Money Bag]
+
+
+Theinfinite money bagis obtained from completing theCrack the Clue IIIevent. It has a "Take-from" option, which gives the player onecoineach time it is selected. When this occurs, a game message in the chatbox states:You've obtained a single coin! Wow!. Only 1 coin can be taken per tick, selecting the "Take-from" option more than once in a single tick prompts the message:Your infinite money bag needs more time to restore its power..
+The infinite money bagcannotbe stored in themagic wardrobe spaceof acostume roomof aplayer-owned house, despite the rest of the set being able to do so.
+
+
+[Infobox]
+Released: 21 September2022(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Take-from, Destroy
+Worn options: Take-from
+Destroy: You will have to discover it again.
+Examine: A magical money bag with infinite coins inside.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

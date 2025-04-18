@@ -1,0 +1,59 @@
+[Weapon: Barrelchest Anchor (Bh)]
+
+
+TheBarrelchest anchor (bh)is a two-handed weapon that requires level 50Attackand 40Strengthto wield. It is created by using aBarrelchest anchor imbue scrollon theBarrelchest anchor, which is purchased as a reward fromBounty Hunter.
+In comparison to the regular anchor, the imbued anchor has a +10 increased crush and strength bonus, and a +15% increase to the special attack's damage.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle
+Examine: This is likely to put my back out...
+General Store Value: 230,000 coins
+Alchemy: Not alchemisable
+Weight: 30 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -2
+- Slash: +10
+- Crush: +102
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +110
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player using the barrelchest anchor (bh)'s special attack,Sunder.
+The barrelchest anchor (bh) has a special attack,Sunder, which doubles the player's accuracy, increases max damage by 25%, and drains the opponent's combat stats equivalent to 10% of the damage dealt in the following order:Defence,Attack,Ranged, thenMagic.[1]This consumes 50% of the player's special attack energy.
+On a successful hit, the player's next attack will land 2 ticks faster (4 ticks instead of 6 ticks).

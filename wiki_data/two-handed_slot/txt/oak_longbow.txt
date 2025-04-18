@@ -1,0 +1,62 @@
+[Weapon: Oak Longbow]
+
+
+Anoak longbowis alongbowmade from oak. It can be made at level 25Fletchingby using aknifeonoak logsto cut them into anoak longbow (u), granting 25 experience, and then using abowstringon the unstrung bow, granting another 25 experience. It requires level 5Rangedto wield and can fire arrows up to and includingsteel.
+It has identical stats to theoak shortbow, but fires at a slowerspeed.
+
+
+[Infobox]
+Released: 25 March2002(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A nice sturdy bow made out of oak.
+General Store Value: 160 coins
+High alch: 96 coins
+Low alch: 64 coins
+Weight: 2.267 kg
+Grand Exchange Value: 62 coins
+Grand Exchange Daily Buy Limit: 18,000
+Grand Exchange Daily Trades Volume: 116,184
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +14
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 6 ticks (3.6s) | 10 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 5 ticks (3.0s) | 10 tiles |  | None
+ | Longrange | Standard | Longrange | 6 ticks (3.6s) | 10 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (beginner) | N/A | 1 | 11/492 | 
+Skeleton (Tarn's Lair)Low level | 42; 59 | 1 | 3/128 | 

@@ -1,0 +1,29 @@
+[Page: Skills]
+
+Skillsare aplayer'sattributes that can be advanced throughout the game. Skills aretrainedby repeating actions that giveexperiencein the skill until enough experience is earned to advance to the next level. Skills range from cookingfood, to choppingtreesand to castingmagic. Some skills are "interlaced", meaning that they can be used together. For example,logsobtained fromWoodcuttingcan be lit forFiremaking, which can then be used to cook food forCooking.
+There are 23 different skills inOld School RuneScape.
+All skills start out at level 1 except forHitpoints, which starts with level 10. Players can advance a skill tolevel 99. After that, they can increase their experience up to 200,000,000 but get no more levels for doing so. SeeHiscoresfor the relative rankings of the different skills.
+Skills can be temporarily boosted through special equipment, items,Prayer, orpotions.
+There are 15 free-to-play skills:
+There are 8 members-only skills:
+As defined by Jagex, there are four types of skills: Combat, Gathering, Production and Utility.[1]
+Combat skills-  A skill that directly integrates with the existingcombatsystem and can improve your power in combat.
+Gathering skills- A skill that focuses on collecting resources generally to train Production skills.
+Production skills- A skill used to take raw resources and use them to make something useful. In Old School RuneScape, these tend to resemble real-life trades.
+Utility skills- A skill that enhances gameplay mechanics in a unique way. These tend to expand a player's tool-kit in a way that is difficult to describe.
+The amount ofexperienceneeded for every level-up increases approximately by 10% for every level. This is shown in the way that it is 83 experience between levels 1 and 2, but 91 experience between levels 2 and 3. (10% of 83 is roughly 8, therefore the next level-up would require 91 experience.) The required experience for each level-up grows exponentially; the growth of experience gaps between levels gets larger and larger at higher levels. Theexperience tableclearly indicates this.
+In addition, the experience required doubles approximately every seven levels. For example, the experience needed for level 92 in a skill is almost exactly half of that needed to reach level 99.
+The below equation directly gives the number of experience per level:
+Total experience=⌊∑x=1L−1⌊x+300×2x7⌋4⌋
+This can be further derived into a closed-form function with a positive real variable L (standing for level), although this requires ignoring one floor function of the exact formula and thus contains an exceedingly minor error margin. The approximation rapidly approaches the original sum asymptotically. The function is as follows:
+Total experience≈⌊18⋅(L2−L)+75⋅2L−17−11−0.57⌋
+Several new skills have been proposed since the release ofOld School RuneScape, but only one has successfully passed apoll.
+Sailing was first added as part of the2014 April Foolsevent, then later developed to become a proper skill in2015and polled on10 September. Sailing would have beenfree-to-play, and involved building various types of ships and navigating them to new regions. A redesigned version of Sailing was proposed inMarch 2023, alongsideShamanismandTaming, as a concept for a potential new skill to be developed. It was polled against Shamanism and Taming on4 April, receiving the most votes. The redesigned Sailing passedpolling with 71.9%and will be added to the game, becomingOld School's first new skill.
+Artisan was developed in2014and was polled twice on17 Julyand21 August. Artisan would have been similar toSlayer, but for skills, rather than combat. The skill would have involved getting tasks from Artisan masters, then gathering and crafting specific items to gainexperience. Some content originally designed for Artisan was repurposed and released separately, such asRedwood Treesand wieldablefishing rodsfromAerial fishing.
+Warding was first announced atRuneFest 2018and was developed over the course of2019. The skill would have involved creation of magical robes and armour using fabrics and vis. Warding was polled on19 July.
+Shamanism was proposed inMarch 2023, alongside Taming and a redesigned Sailing, as a concept for a potential new skill to be developed. Shamanism would have focused on gathering materials and using them to craft items imbued with shamanistic magic, such as relics or totems. The Spirit Realm would have also been added, to be accessed through Shamanism. It was polled against Sailing and Taming on4 April, receiving the second most votes and losing to Sailing. Despite losing the poll, it was considered popular enough for the concept to be retained for potential development in the future.
+Taming was proposed inMarch 2023, alongside Shamanism and a redesigned Sailing, as a concept for a potential new skill to be developed. Taming would have focused on taming creatures, which could be trained. Trained creatures would have been able to assist a player in a variety of ways, such as unlocking new areas, or assisting with other skills. It was polled against Sailing and Shamanism on4 April, where it received the least votes, resulting in the concept being scrapped.
+All skill guides now feature a new tab named after the skill, providing an overview of what the skill is and the benefits of levelling it.
+A new Gameplaysettinghas been added to allow players to disable the level-up interface.
+Level up fireworks are now accompanied by a little sound effect.
+You'll now see all level up messages when receiving more than one in a short amount of time.

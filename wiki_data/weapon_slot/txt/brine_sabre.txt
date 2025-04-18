@@ -1,0 +1,68 @@
+[Weapon: Brine Sabre]
+
+
+Thebrine sabreis a one-handedweaponthat requires 40Attackto wield. It is dropped bybrine ratsin the small cave accessed duringOlaf's Quest. The brine sabre is a slightly better alternative to arune scimitar, boasting 2 higherstrengthandslashattack bonuses when compared to the former. However, it is significantly more expensive due to the fact it is only dropped by the rarely-killed brine rat at a low rate.
+Brine sabres can finish offrockslugswithout the use of abag of salt. It is also one of the few weapons that can be used to killlobstrosities.
+
+
+[Infobox]
+Released: 10 April2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A salty sword.
+General Store Value: 26,000 coins
+High alch: 15,600 coins
+Low alch: 10,400 coins
+Weight: 1.814 kg
+Grand Exchange Value: 642,127 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 946
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +7
+- Slash: +47
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +46
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing the Brine sabre's special attack,Liquify.
+The brine sabre has aspecial attack,Liquify, which doubles the player's accuracy, and increases the player'sStrength,AttackandDefencelevels by 25% of the damage dealt.
+The special attack only works underwater, and consumes 75% of the player's special attack energy.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Brine rat | 70 | 1 | 1/512 | 

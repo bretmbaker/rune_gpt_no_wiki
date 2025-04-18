@@ -1,0 +1,218 @@
+[Minigame: Hallowed_Sepulchre]
+
+ | This article has astrategy guide.All information on mechanics and strategy will be on this page.
+
+ | This is a dangerous activity with adeathbank.Ondeath,Hardcore Ironmenwill  lose their status.Unprotected items will be moved to the deathbank near the activity.Any unsafe death will delete all items left inside the deathbank.Items left on the ground will always be lost.
+
+Hallowed Sepulchre
+
+
+
+
+
+Released | 4 June2020(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Darkmeyer
+
+Leagueregion | Morytania✓
+
+Participants | 1
+
+Skills | Agility,Thieving,Construction,Prayer,Magic
+
+Reward currency | Hallowed mark
+
+Tutorial | No
+
+Music | Well Hallowed Air,Watch Your Step
+
+
+
+Map
+
+
+
+TheHallowed Sepulchreis anAgilityactivity set in an ancientSaradoministburial ground of the cityHallowvale, located beneathDarkmeyeravailable to players with level 52Agility. There are five floors available scaling with the player's Agility level. In order to receivehallowed marks, thecoffinsmust be looted, with deeper floors providing more marks per looted coffin.Noticeboardsare located next to the stairs on either side of the lobby, where players can check their personal statistics within the Sepulchre, as well as the global statistics.
+
+History[edit|edit source]
+
+During theSecond Ageand earlyThird Age, the land ofMorytaniawas a Saradominist kingdom known asHallowvale. The Hallowed Sepulchre served as the final resting place for many Hallowvale residents. Members of Saradominist religious orders were frequently buried there. Accordingly, looting coffins will sometimes yield aHoly symbolorMonk's robes.
+
+As theGod Warsprogressed, the conquest of Hallowvale (and thus the sacking of the Sepulchre) became increasingly likely. AJusticiarof Saradomin eventually instructed theArchpriest of the Unicornto begin securing the Sepulchre. The Archpriest and his followers got to work filling the Sepulchre with dangerous traps. They became more skilled at making the traps deadlier as construction moved down the floors. Down at the final level, the Archpriest sealed himself and his followers within their tombs, ensuring the secret of how to disarm the traps died with them. Despite the loss of Hallowvale to the Vampyres, the traps were very successful in their purpose: as of theFifth Age, no Vampyres have been able to access the Sepulchre.
+
+Requirements[edit|edit source]
+
+Access to the city ofDarkmeyerEntering the Sepulchre requires completion ofSins of the Father
+
+52Agilityin order to enter the Sepulchre, with higher requirements to access the lower floors. The Agility requirements are not boostable.Floor 2:62 AgilityFloor 3:72 AgilityFloor 4:82 AgilityFloor 5:92 Agility(Recommended)70+Hitpointsto withstand damage from traps.(Recommended) ASaradomin itemis necessary to use theMagical Obelisksat the end of each floor to restore runenergy. Run energy will bedrainedif the player hasanynon-Saradomin God items equipped (such as anArmadyl crossbow).
+
+Looting thecoffinsis optional, but is the only way to obtainrewardslikehallowed marks. The following minimum levels are required, depending on the obstacle blocking the coffin:
+
+66Thieving(boostable)56Construction(boostable)to passbroken bridges54Prayerto passSaradomin braziers7Magicto passportal frames62Rangedto passpillars
+
+Getting there[edit|edit source]
+
+The Hallowed Sepulchre is located on the north east side of Darkmeyer. There are several methods by which players can get here:
+
+Drakan's medallion- Teleport to Darkmeyer then run to the entrance.Hallowed crystal shard- Single use which teleports the player directly to the lobby.
+
+Gameplay[edit|edit source]
+
+Progressing through the Hallowed Sepulchre requires running through each floor in a limited amount of time. The first floor begins with 2 minutes on the timer, and an additional 2 minutes is added to the timer when climbing down to each lower level. After the timer runs out, the player will still be able to complete the current floor to gain Agility experience, but will not be able to loot coffins or progress to the next floor.Hallowed tokenscan be used to extend the timer. Time saved on a floor gets carried over to the next one.
+
+The timer is paused after passing the final obstacle on each floor. This area containsmagical obelisks, which will restore the player's run energy if aSaradomin itemis equipped and can be used to exit the sepulchre.
+
+Experience for completing a floor will only be granted upon descending the stairs at the end of the floor, or by exiting the floor via one of the magical obelisks.
+
+If the player dies inside the Hallowed Sepulchre, their items will be held by theMysterious Strangerin the lobby.
+
+Traps[edit|edit source]
+
+The traps in the Hallowed Sepulchre appear in cyclic patterns that block the player, but can be avoided with careful movement and timing. In most cases, running into a trap will teleport the player to a location just before the trap on the path, costing the player time. This deals a small amount of damage unless thehallowed ringis equipped. The following dangerous traps appear along the route:
+
+Wizard statue- Statues that conjure a stream of fire, blocking the entire path. In most locations, the statues shoot fire in an alternating pattern from the left and right. They can be avoided by standing in the single tile gap between the flames.Knight statue- These statues throw a large Saradomin sword that travels forward and back again along a straight path. Statues in lower levels throw swords that move faster, making them harder to avoid.Crossbowman statue- These statues fire glowing bolts that travel along a straight path and must be avoided. Statues on floors 1-2 fire only a single bolt at a time and can be avoided quite easily, but lower floors fire two at once, so that dodging them requires more concentrated reactions, especially when having to navigate other traps at the same time.Priest statue- Statues that summon lightning in a 3x3 chequerboard pattern which stuns the player briefly instead of inflicting damage, however this leaves the player immobile and vulnerable to other traps.Strange tile- Coloured tiles that can teleport the player a short distance when illuminated; blue tiles teleport the player forward, and yellow tiles teleport the player backward. Using either a blue or yellow tile bestows a momentary period of invulnerability to other traps, and at deeper floors, they must be used in order to navigate the swords thrown by knight statues.
+
+All traps can be completely avoided if movement is properly timed. However, this requires significant practice and players should consider bringingfooduntil purchasing thehallowed ring.
+
+Looting coffins[edit|edit source]
+
+Coffinsare found on each floor of the Hallowed Sepulchre. Looting coffins provideshallowed marksand other random rewards including someunique items. At the end of the final floor there is an additionalGrand Hallowed Coffinthat can be looted if the player reaches the end before the timer ends. Coffins can no longer be looted after the timer expires, along with the other activities required to reach them.
+
+Failing to loot a coffin willpoisonthe player. With lowhitpointsit is recommended to bringantipoisonor theprayer book.
+
+Though not required, having alockpickin the player's inventory will increase the chance of success when opening coffins. Astrange old lockpickwill give an even better chance of successfully looting, and will not use any charges.
+
+Each coffin is obstructed by a skill challenge that must be unblocked before looting. Each type of obstacle has different item and skill requirements.
+
+Broken bridges- Must be built using asaw,hammer, 2 planks, and 5 nails. Acrystal sawcan be used and its invisibleboostworks as well. It is possible to fail and bend the nails, though using ahallowed hammerwill remove the failure chance. The following planks and nails can be used:2planksand 5steel nails: awards 150Constructionexperience (-4.75GP/xp) or2oak planksand 5mithril nails: awards 300Constructionexperience (-4.37GP/xp) or2teak planksand 5adamantite nails: awards 450Constructionexperience (-5.16GP/xp) or2mahogany planksand 5rune nails: awards 700Constructionexperience (-12.12GP/xp)Saradomin brazier- Blocks some coffins with a holy barrier. The barrier is unlocked by sacrificing twovampyre dust, rewarding 200Prayerexperience. Only one vampyre dust is required when wearing aHallowed symbol.Portal frame- Must be activated usingenchantment spellsfrom thestandard spellbook, all of them rewarding the same 200Magicexperience. Higher level enchantment spells have a higher chance of success, and attempting to conjure a portal will automatically use the highest level enchantment spell that you can use. The enchantment can be failed twice, after which the portal will be broken and impassable. Holding thehallowed focuswill remove the possibility of failure, and causes the player to use the lowest level enchantment spell that you can use instead of the highest. The following spells can be used:7Magic: LvL-1 Enchant: 1Cosmic rune, 1Water rune27Magic: Lvl-2 Enchant: 1Cosmic rune, 3Air runes49Magic: Lvl-3 Enchant: 1Cosmic rune, 5Fire runes57Magic: Lvl-4 Enchant: 1Cosmic rune, 10Earth runes68Magic: Lvl-5 Enchant: 1Cosmic rune, 15Water runes, 15Earth runes87Magic: Lvl-6 Enchant: 1Cosmic rune, 20Earth runes, 20Fire runes93Magic: Lvl-7 Enchant: 1Cosmic rune, 20Blood runes, 20Soul runesPillars- Must be grappled using acrossbowandmith grapple. There is a chance of failure unless thehallowed grappleis used instead.
+
+Recommended setup[edit|edit source]
+
+This setup is recommended when attempting the Sepulchre for the first time and none of the items are unlocked. If players are finding they regularly fail obstacles, it is recommended to use earnedhallowed marksto first purchase thehallowed ring; otherwise, thehallowed grapplesaves more time overall. The other rewards, thehallowed focus,hallowed symbol, andhallowed hammer, can be purchased in any order.
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1600016000 | 16000 | 16000 |  |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+16000 | 16000 |  | 
+
+
+
+Experience rates[edit|edit source]
+
+ | Due to anupdate, the information in this article may be out-of-date.Reason:Experience rates adjustedYou can help improve it byupdatingthe information.
+
+Floor | Level Req. | Floor Exp | Cumulative Exp | Realistic Looting XP/hour | Realistic No looting XP/hour | Treasure Encounter XP (both ways)
+
+1 | 52Agility | 575 | 575 | 30,000 | 40,000 | 100
+
+2 | 62Agility | 925 | 1,500 | 40,000 | 50,000 | 100
+
+3 | 72Agility | 1,600 | 3,100 | 63,000 | 69,000 | 150
+
+4 | 82Agility | 2,875 | 5,975 | 73,000 | 79,000 | 150
+
+5 | 92Agility | 5,725 | 11,700 | 90,000 | 98,500 | 160
+
+Please note that experience rates will be higher if you ignore opportunities to loot coffins.
+
+Disclaimer: With the addition of unlockable Hallowed Sepulchre instances, these experience rates are due for recalculation and reassessment.
+
+Note that 98,500 XP/hr is attainable by only looting the Grand Hallowed Coffin allowing for some mistakes.It is possible to reach rates above 100,000 XP/hr at maximum efficiency without mistakes.Generally it is not worth looting anything on floors 1 and 2, not worth looting the grapple or prayer coffins on floor 3, and not worth looting the prayer coffin on floor 4.Looting rates assume the player only loots the coffins worth looting on that floor and does not loot any coffin on earlier floors, besides the floor 5 looting rate, which assumes the player additionally loots the enchant and bridge obstacles on floor 4.
+
+Money making[edit|edit source]
+
+The followingmoney making guideis available for Hallowed Sepulchre:
+
+Method | Hourly profit | Skills
+
+Hallowed Sepulchre | 1,390,857 | Sins of the Fatherquest and its requirements92to allow access to floor 566,54,56,62to complete skill challenges and loot coffins
+
+Rewards[edit|edit source]
+
+Reward shop[edit|edit source]
+
+While lootingcoffinsthe player will be rewarded withHallowed marks. These can be used in the reward shop in order to purchase the following unique items:
+
+Reward | Cost in | Description
+
+ | Hallowed crystal shard | 1 | Used to teleport to the Hallowed Sepulchre lobby. They can be purchased from theMysterious Hallowed Goodsshop.
+
+ | Hallowed token | 10 | This token, when consumed within the Hallowed Sepulchre, will add an extra minute to the remaining time. You may use more than one token per attempt.
+
+ | Hallowed grapple | 100 | This grapple, when equipped in the ammo slot, will always succeed grappling aPillar.This grapple cannot be used anywhere outside of the crypt.
+
+ | Hallowed focus | 100 | This focus, when equipped in the off-hand slot, will guarantee the success of conjuringPortal Frames(regardless of the spell used and the player's Magic level) as well as speed up the process.
+
+ | Hallowed symbol | 100 | This symbol, when equipped in the necklace slot, will halve the number of sacrifices required to light aSaradomin Brazierand speed up walking through prayer barriers.
+
+ | Hallowed hammer | 100 | This hammer will never break nails when repairingBroken Bridges.This hammer is wieldable and cannot be used anywhere outside of the crypt.
+
+ | Hallowed ring | 250 | This ring, when equipped in the ring slot, will prevent the user from taking damage and save a bit of time when failing an obstacle.It will "teleport them in the nick of time" and send them back to the start of the obstacle reducing the time penalty, and eliminating the need to bring food.
+
+ | Dark dye | 300 | This dye can be used on any piece ofgraceful armourto recolour it into a dark graceful piece of armour. A total of 6 dark dyes are needed to recolour the full graceful set.
+
+ | Dark acorn | 3,000 | This acorn, when used on theGiant Squirrelpet, will turn it into a black and red version to match the dark graceful set.It is a permanent unlock and can be toggled back to its original colour at any time.
+
+ | Hallowed sack | 100 | When opened, hallowed sacks give loot found in coffins within the Hallowed Sepulchre.Each sack gives five rolls from the low-tier loot table, one roll from the mid-tier loot table, and two rolls from the high-tier loot table.
+
+The equipable Hallowed items acquired from the shop count as Saradomin items for the purpose of regaining run energy from the Magical Obelisks at the end of each floor, as well as for protection purposes inGod Wars Dungeon.
+
+Players can also speak to theMysterious Strangerto unlock the option of creating private instances for a one-time fee of 200 hallowed marks. Private instances are useful for having consistent runs across all floors, as the timing for the traps can be off slightly if players are in a public instance that already has other players inside.
+
+Buying all items from the reward shop, including six dark dyes to recolour a full graceful set, and the option for a private instance, costs 5650 hallowed marks. This does not include the three consumable items: Hallowed tokens, Hallowed crystal shards, and Hallowed sacks.
+
+Coffin rewards[edit|edit source]
+
+Lootingcoffinsprovides the following unique rewards:
+
+Reward | Description
+
+ | Ring of endurance | The ring of endurance can only be obtained from theGrand Hallowed Coffinon floor 5.[1]The ring can be charged with up to 1000 doses of stamina potion (1 dose = 1 charge). A charge is consumed when you drink a stamina potion, making the effects of the potion last twice as long. If the ring is removed while under the effects of a stamina potion, the remaining duration is cut in half. Wearing the ring will also reduce run energy drain rate by 15% when the ring is charged with at least 500 charges and a stamina potion is not active.The ring requires 70 Agility to equip.The charged ring is untradeable, and reverting the ring to make it tradeable will lose any stored charges.
+
+ | Strange old lockpick | This lockpick, when placed in your inventory, will allow you to bypass all Barrows doors. It is tradeable when it has its full 50 charges. A charge is consumed when you use the lockpick to open a door which was previously un-passable to you. Once a charge has been lost, it becomes untradeable. In addition, it will increase the success rate of looting coffins in the Hallowed Sepulchre, without using any charges.
+
+ | Mysterious page | Obtained while looting coffins; 1 unique page is found in each floor of the Hallowed Sepulchre. These pages can be added to thestrange hallowed tome, which is obtained by investigating the skeleton in the main lobby of the minigame.
+
+Agility pet[edit|edit source]
+
+Upon returning to the Hallowed Sepulchre lobby via a magical obelisk, the player has a chance to receive the Agilitypet, thegiant squirrel. The chance of obtaining the pet depends on the difficulty of the floor completed and is as follows:[2]
+
+Floor | Agility | Probability
+
+1 | 52 | 1/35,000
+
+2 | 62 | 1/16,000
+
+3 | 72 | 1/8,000
+
+4 | 82 | 1/4,000
+
+5 | 92 | 1/2,000
+
+NPCs[edit|edit source]
+
+There are a number of NPCs scattered throughout the Sepulchre. Some are meant to look like players either standing around or looting coffins. Some NPCs can be talked with and they will mention how the rogue outfit does not help when looting coffins or that thelockpickdoes help.
+
+The NPCs that can be found atcoffinsarec4ssi4n,c0lect0r890,Jyn,Darkmeyer Slave,fishrunner82,mad melvin96,r2t2pnsh0Ty, andweast side49.
+
+There are also 5 Knight spirits that can be encountered while looting coffins, after which they will appear in the lobby if the player is wearing aring of visibility, and can be talked to while wearing aGhostspeak amuletor equivalent. The possible encounters are the Knights of theUnicorn,Wolf,Lion, andOwl, as well as theArchpriest of the Unicorn. Although each floor of the Hallowed Sepulchre is themed towards a specific Justiciar and their knights and animals, the Knights' spirits themselves are not locked to any floor (unlike Mysterious pages), except for the Archpriest of the Unicorn, who can only be encountered when looting the Grand Hallowed Coffin. It is possible to encounter the same spirit more than once when looting coffins.
+
+Gallery[edit|edit source]
+

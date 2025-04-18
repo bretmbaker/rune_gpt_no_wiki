@@ -1,0 +1,169 @@
+[Minigame: Underwater_Agility_and_Thieving]
+
+ | This is a non-combat activity.Players should not expect to take damage or risk death from this activity directly.Warning:This activity may send the player to areas where they can take damage, or risk death from secondary sources. Any resultingdeathis always considereddangerousfor the purposes ofhardcore statusanditem retrieval services.
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+This activity is a unique way of training theAgilityandThievingskills. This activity takes place in part of theUnderwaterarea ofFossil Island. It is also referred to as "swimming" by players.
+
+The mermaidMairinguards the area. To enter, players must first speak toMairin, who will ask them to remove theirfishbowl helmet. After entering, players will find a scattered layout oftreasure chestsandgiant clam shellsas well as several tunnels,holesand other obstacles, such as currents, which can be traversed.
+
+TheAgilityandThievingpets,Giant squirrelandRocky,cannotbe received while training here.
+
+Objective[edit|edit source]
+
+Your objective is to loottreasure chestsandgiant clam shellswhile navigating several tunnels,holesand other obstacles, such as currents and small mazes, while maintaining oxygen to breathe.
+
+Every minute, one of the clams or chests will open. An open clam or chest is indicated by a blinking red or yellow arrow on theminimap. These opened clams and chests can be searchedrepeatedly, until they close in 1 minute, formermaid's tearsandglistening tears. After the first tears, the drop rate  changes to 1/8.5 searches. You will sometimes lose small amounts of oxygen when looting.
+
+When the clam or chest closes, another clam or chest will open, ready to be searched. See Mechanics below for more details.
+
+Requirements[edit|edit source]
+
+Completion ofBone Voyageis required to accessFossil Island.
+
+Recommended[edit|edit source]
+
+HighAgilityandThievinglevels are highly recommended as the experience rates scale quadratically with the player's skill levels.Flippersare highly recommended as you will be able to swim faster. Therunmechanic is otherwise disabled underwater.Requires completion ofSkippy and the Mogresto accessMogresto loot a pair.If you are "running" underwater with Flippers, your stamina will diminish, soStamina potionsor(Super)Energy potionsare helpful.Every piece of theGraceful outfitworn will also increase stamina regeneration. Since you cannot wear a fishbowl helmet during the activity, and the diving apparatus is therefore non-functional, it is worth bringing theGraceful hoodandGraceful capeand swapping to these items after storing your fishbowl helmet.Diving apparatusandfishbowl helmetare recommended as they allow instant replenishment of oxygen at the start of the activity. Note that thefishbowl helmetcannot be taken into the activity but can be left outside.Requires partial completion of theFreeing Pirate Petesubquest of theRecipe for Disasterquest.Amerfolk tridentis recommended to hold pufferfish charges. It can be purchased from theGrand Exchangeor fromMairin's Marketfor 400mermaid's tears.
+
+Getting started[edit|edit source]
+
+While onFossil Island, go to theon the north-eastern part of theMushroom Forest. The fastest way to do this istravelusing the small rowboat next to theCanal bargeyou use to land onFossil Island. Select "Row to the north of the island."Selecttravelon the small rowboat and "row out to sea."An old chestbankis provided on the small island. Withdraw aFishbowl helmetand any other recommended items, such asflippers,Diving apparatus,Stamina potionsand theMerfolk trident.Right-click the small boat and select thediveoption.Swim north-east to arrive at the entrance.Talk toMairinto begin. Remove yourFishbowl helmetand deposit it in the providedPile of Fishbowls. You can freely take and deposit your helmet once placed.
+
+Tips & tricks[edit|edit source]
+
+Before entering the main area, keep theFishbowl helmetequipped and catch the threePuffer FishnearMairin. Use these to charge aMerfolk trident, or keep them ready to use in your inventory.If you plan to stay a while, the use ofstamina potionsishighlyrecommendedFamiliarize yourself with the map first: quickly note transport holes (see picture below), currents, and obstacles that may be in your way.ConserveRun energyas often as possible for navigating between chests/clams.Run energyis very useful for navigating currents, as you will get stuck in them less often.If you are low on oxygen and/or run energy, take a moment to rest in the large air bubbles scattered throughout the map. These will increase your oxygen by 5% every few seconds, making it easy to maintain.Be sure torepeatedly searchchests/clams.Turn inglistening tearsevery so often to increase yourThieving,Agility, or both.When passing through the shipwreck where Mairin stands, players can pick up their fishbowl helmet from the pile and equip it, along with the diving apparatus, to quickly replenish their oxygen level to 100%.
+
+Mechanics[edit|edit source]
+
+Oxygen[edit|edit source]
+
+When underwater, an oxygen meter will be displayed, reflecting the player's supply. This bar starts at 100%. As long as both thefishbowl helmetanddiving apparatusare equipped, the bar will remain at 100%. However, the fishbowl helmet is prohibited in the main area of this activity, so the oxygen level will get drained by 1% every few seconds. In addition, failing when searching a clam or chest will sometimes deplete 2% of the oxygen. At 10% oxygen, the player's screen will begin flashing red, indicating that they will soon run out of air and drown.
+
+Enter large air bubbles (shown to the right), which will increase the oxygen level by 5% every few seconds.CatchPuffer Fish, to receive apufferfish, which can be held onto and used to instantly restore oxygen by 15%.Equip both thefishbowl helmetanddiving apparatusto restore the oxygen level back to 100%. Note however that the fishbowl helmet cannot be worn in the main area of this activity (pastMairin), but while training here thePile of Fishbowlswill regularly be passed by the player, which creates a good opportunity to use the fishbowl helmet to instantly restore the oxygen level.
+
+Throughout the area, there also are spots with tiny air bubbles going upwards. Standing on them will not restore oxygen, but they will prevent it from passively depleting. Both types of air bubbles may sometimes be found next to a clam or chest; when looting it, the tiny bubbles will lead to slower oxygen depletion while the large bubbles will regenerate oxygen more quickly than it is lost from the failing chests.
+
+Drowning occurs when a player's oxygen levels drop to 0%. While drowning does not cause any direct harm to the player (nor does it count as a death), it will take them to the small island above and a random amount ofmermaid's tearsbetween 10 and 20 will be lost if they had any in their inventory. Any tears in the player's bank will be left untouched.
+
+Clams and chests[edit|edit source]
+
+The training area is scattered withclamsandchests. Every minute, one of these objects will open. An open clam or chest is indicated on the screen and minimap by a red or yellow blinking arrow.
+
+When opened, these object can be searched formermaid's tearsandglistening tears. The very first clam or chest will not reward any tears, however, every subsequent object will always reward one of each tear on the first search. Additionally, players can keep searching the same clam or chest multiple times, until it closes. For these extra searches, there is a 1/8.5 chance to receive one of each tear. A successful search also rewards 4.5 Agility and Thieving experience.
+
+A closed clam.An opened clam, ready to be searched.A closed chest.An opened chest, ready to be searched.
+
+Tears[edit|edit source]
+
+Upon initially searching the activeclamorchest, aglistening tearand amermaid's tearare always rewarded. Afterwards, the clam or chest can be searched until it becomes inactive. On a successful search, another mermaid's tear and glistening tear will be rewarded, as well as a chance of receiving 5-24numulitesor anunidentified fossilvarying from small to rare (fossils are obtained this way roughly 1 in every 20 mermaid tears). On an unsuccessful search, nothing is awarded, and there is a chance that the player's oxygen level decreases by a small amount. The odds of success depend on the player'sThievinglevel. A player could expect to obtain roughly 170-230 mermaid's tears and glistening tears per hour, depending on the player's know-how of this method, as well as 5-10unidentified fossilsof any kind.
+
+Holes[edit|edit source]
+
+Holesare a sort of transportation mechanic in the Underwater Agility and Thieving training activity. There is a total of ten holes in the Underwater area. Players can enter a hole, which will bring their character to one of the other holes in the Underwater area. Entering a hole will reward the player with 4.5 Agility experience.
+
+The destination each hole links to is fixed. See the image for an overview of linked holes.
+
+Obstacles[edit|edit source]
+
+Throughout the area, there are obstacles in the form of small cracks in the rock walls and ship hulls, particularly in the western portion which consists of caves with connecting rooms. Passing an obstacle will reward the player with 4.5 Agility experience. These obstacles cannot be failed.
+
+Current[edit|edit source]
+
+In the open water, flowing water currents can be found. Passing through a current may cause the player to be caught in it, which will move the character one tile every three game ticks in the flow's direction until the player is out of it. The current will also cancel any action the player was trying to perform previously.
+
+Rewards[edit|edit source]
+
+Glistening tears[edit|edit source]
+
+Glistening tearsare a form of currency found in theunderwatersection ofFossil Island. They can be obtained by looting chests and clams in the mermaid's domain. Glistening tears are always obtained alongside amermaid's tear. Depending on the player's know-how of this method, around 170–230 tears can be collected per hour.
+
+Glistening tears can be traded toMairinin exchange for experience in one of three ways, which is scaled based on the player's levels:
+
+Agility and Thieving: 176.4Agilityand 646.8Thievingexperience per glistening tear if both skills are level 99. At level 99, the estimated experience per hour is 38,800 Agility and 142,300 Thieving experience per hour.Agility: 264.6 Agility experience at level 99 per glistening tear. At level 99, the estimated experience per hour is 58,200.Thieving: 970.2 Thieving experience at level 99 per glistening tear. At level 99, the estimated experience per hour is 213,400.
+
+Players can only exchange a maximum of 700 glistening tears at once; if players exchange them for experience with more than 700 glistening tears in the inventory, the excess will bediscardedwith the messageMairin confiscared[sic]a further [number] tears; she did not approve of how many you had.
+
+Mermaid's tears[edit|edit source]
+
+Mermaid's tearsare a form of currency found in theunderwatersection ofFossil Island. They can be obtained by looting various chests and clams around the eastern part under the water.
+
+Mermaid tears can be exchanged for items inMairin's Market, such asunidentified fossils, amerfolk trident,bowls of fish, orseaweed spores.
+
+v•t•eFossil Island
+
+Museum Camp | Fossil StorageFossil Island bankFossil Island General StoreNotice boardNPCsCharlesDavidDogFossil CollectorJardricPeterJohnJohnMattimeoPetrified PeteShop keeperItemsFossil Island fossilsNumuliteSceneryBroken spinning wheel(built)Chest pieces(built)Fire pit(built)Half-built Loom(built)Ring of Stones(built)Table parts(built) |  | Fossil StorageFossil Island bankFossil Island General StoreNotice board | NPCs | CharlesDavidDogFossil CollectorJardricPeterJohnJohnMattimeoPetrified PeteShop keeper | Items | Fossil Island fossilsNumulite | Scenery | Broken spinning wheel(built)Chest pieces(built)Fire pit(built)Half-built Loom(built)Ring of Stones(built)Table parts(built)
+
+ | Fossil StorageFossil Island bankFossil Island General StoreNotice board
+
+NPCs | CharlesDavidDogFossil CollectorJardricPeterJohnJohnMattimeoPetrified PeteShop keeper
+
+Items | Fossil Island fossilsNumulite
+
+Scenery | Broken spinning wheel(built)Chest pieces(built)Fire pit(built)Half-built Loom(built)Ring of Stones(built)Table parts(built)
+
+Mushroom Forest | Mycelium poolWyvern CaveNPCsAncient ZygomiteIreneHerbiboarMazSquirrelWeveAmmonite CrabItemsPyrophosphiteCalcite |  | Mycelium poolWyvern Cave | NPCs | Ancient ZygomiteIreneHerbiboarMazSquirrelWeveAmmonite Crab | Items | PyrophosphiteCalcite
+
+ | Mycelium poolWyvern Cave
+
+NPCs | Ancient ZygomiteIreneHerbiboarMazSquirrelWeveAmmonite Crab
+
+Items | PyrophosphiteCalcite
+
+Tar Swamp | BellshroomSulliuscepSpine mushroomNPCsHoop SnakeCharles CharlingtonTar MonsterDeranged archaeologistItemsHoop snakeSulliuscep capUncooked mushroom pieMushroom pieBreadcrumbsArchaeologist's diary |  | BellshroomSulliuscepSpine mushroom | NPCs | Hoop SnakeCharles CharlingtonTar MonsterDeranged archaeologist | Items | Hoop snakeSulliuscep capUncooked mushroom pieMushroom pieBreadcrumbsArchaeologist's diary
+
+ | BellshroomSulliuscepSpine mushroom
+
+NPCs | Hoop SnakeCharles CharlingtonTar MonsterDeranged archaeologist
+
+Items | Hoop snakeSulliuscep capUncooked mushroom pieMushroom pieBreadcrumbsArchaeologist's diary
+
+Fossil Island Volcano | Volcanic MinePetrified Pete's Ore ShopNPCsLava beastPetrified PeteItemsSoda ashVolcanic ashVolcanic mine teleportCalcitePyrophosphiteIron ore fragmentSilver ore fragmentCoal fragmentGold ore fragmentMithril ore fragmentAdamantite ore fragmentRunite ore fragmentLarge rockAsh covered tomeHeat-proof vesselOre packDragon pickaxe (broken)SceneryAsh pileBoulder (Volcanic Mine) |  | Volcanic MinePetrified Pete's Ore Shop | NPCs | Lava beastPetrified Pete | Items | Soda ashVolcanic ashVolcanic mine teleportCalcitePyrophosphiteIron ore fragmentSilver ore fragmentCoal fragmentGold ore fragmentMithril ore fragmentAdamantite ore fragmentRunite ore fragmentLarge rockAsh covered tomeHeat-proof vesselOre packDragon pickaxe (broken) | Scenery | Ash pileBoulder (Volcanic Mine)
+
+ | Volcanic MinePetrified Pete's Ore Shop
+
+NPCs | Lava beastPetrified Pete
+
+Items | Soda ashVolcanic ashVolcanic mine teleportCalcitePyrophosphiteIron ore fragmentSilver ore fragmentCoal fragmentGold ore fragmentMithril ore fragmentAdamantite ore fragmentRunite ore fragmentLarge rockAsh covered tomeHeat-proof vesselOre packDragon pickaxe (broken)
+
+Scenery | Ash pileBoulder (Volcanic Mine)
+
+Underwater | Mairin's MarketPile of FishbowlsPlant doorClamChestHoleNPCsMerniaMairinCetoAnnettePuffer FishHarlequin FishParadise FishRed FantailFish shoalLobstrosityItemsMermaid's tearGlistening tearPufferfishDrift netMerfolk tridentSeaweed sporeBowl of fish |  | Mairin's MarketPile of FishbowlsPlant doorClamChestHole | NPCs | MerniaMairinCetoAnnettePuffer FishHarlequin FishParadise FishRed FantailFish shoalLobstrosity | Items | Mermaid's tearGlistening tearPufferfishDrift netMerfolk tridentSeaweed sporeBowl of fish
+
+ | Mairin's MarketPile of FishbowlsPlant doorClamChestHole
+
+NPCs | MerniaMairinCetoAnnettePuffer FishHarlequin FishParadise FishRed FantailFish shoalLobstrosity
+
+Items | Mermaid's tearGlistening tearPufferfishDrift netMerfolk tridentSeaweed sporeBowl of fish
+
+House on the Hill | Mycelium Transportation SystemStone chestStrange MachineStrange blocksStrange stoneNPCsSkekaItemsAncient wyvern shieldSmall enriched boneMedium enriched boneLarge enriched boneRare enriched boneFossil island note bookAncient diary |  | Mycelium Transportation SystemStone chestStrange MachineStrange blocksStrange stone | NPCs | Skeka | Items | Ancient wyvern shieldSmall enriched boneMedium enriched boneLarge enriched boneRare enriched boneFossil island note bookAncient diary
+
+ | Mycelium Transportation SystemStone chestStrange MachineStrange blocksStrange stone
+
+NPCs | Skeka
+
+Items | Ancient wyvern shieldSmall enriched boneMedium enriched boneLarge enriched boneRare enriched boneFossil island note bookAncient diary
+
+Other | Wilhelm
+
+Music | FossilisedLagoonLava is MinePreservationPreserved
+
+v•t•eSolo and Group Activities
+
+Minigames | Player versus MonsterBarbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's ChallengesPlayer versus PlayerBounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man StandingSkillingBrimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic MineCombat & SkillingShades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' GuildMiscellaneousBurthorpe Games Room(Games Zone)Rat PitsTears of Guthix | Player versus Monster | Barbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's Challenges | Player versus Player | Bounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man Standing | Skilling | Brimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic Mine | Combat & Skilling | Shades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' Guild | Miscellaneous | Burthorpe Games Room(Games Zone)Rat PitsTears of Guthix
+
+Player versus Monster | Barbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's Challenges
+
+Player versus Player | Bounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man Standing
+
+Skilling | Brimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic Mine
+
+Combat & Skilling | Shades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' Guild
+
+Miscellaneous | Burthorpe Games Room(Games Zone)Rat PitsTears of Guthix
+
+Raids | Chambers of XericTheatre of BloodTombs of Amascut
+
+Distractions and Diversions | Champions' ChallengeShooting StarsTreasure Trails
+
+Other | Blast mineCamdozaal VaultChompy bird huntingCreature CreationDorgesh-Kaan market tradingKeldagrim tasksManaging MiscellaniaShayzien Combat RingStealing valuablesUnderwater Agility and ThievingWise Old Man tasks

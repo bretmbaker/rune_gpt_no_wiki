@@ -1,0 +1,46 @@
+[Weapon: Ice Arrows]
+
+
+Ice arrowsare aquest itemin theTemple of Ikovquest. They have the sameRanged Strengthassteel arrows, but must be fired from ayew bowor better.
+In the Temple of Ikov quest, they are collected randomly when searchingchestsin the easternTemple of Ikov dungeonand required to defeat theFire Warrior of Lesarkus. While not required, ice arrows can also be used to defeatFareedfrom theDesert Treasure Iquest, as all other ammunition will drop to the floor asashes, bypassing the ammo-saving effect ofAva's devices.
+
+
+[Infobox]
+Released: 17 June2002(Update)
+Members: Yes
+Quest item: Temple of Ikov
+Tradeable: No
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Can only be fired from yew, magic, dark or twisted bows.
+General Store Value: 2 coins
+High alch: 1 coin
+Low alch: 0 coins
+Weight: 0 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +16
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

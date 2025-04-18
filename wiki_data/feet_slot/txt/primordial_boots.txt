@@ -1,0 +1,151 @@
+[Weapon: Primordial Boots]
+
+
+Primordial bootsare boots that require level 75StrengthandDefenceto wear. Primordial boots provide the higheststrength bonusof any pair of boots in game.
+They can be created by using aprimordial crystalwith a pair ofdragon boots. This process cannot be reversed, and requires level 60 inRunecraftandMagic(boosts cannot be used), granting 200 experience in both skills.
+
+
+[Infobox]
+Released: 27 August2015(Update)
+Also called: Prims
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A pair of upgraded dragon boots.
+General Store Value: 75,000 coins
+High alch: 45,000 coins
+Low alch: 30,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 23,675,823 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 1,962
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: -4
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +22
+- Slash: +22
+- Crush: +22
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +5
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+1 | Abyssal Sire/Strategies(Phase 1 Melee)
+1 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+1 | Adamant dragon/Strategies(Melee)
+1 | Alchemical Hydra/Strategies(Melee)
+1 | Amoxliatl/Strategies(Melee)
+1 | Ancient Wyvern/Strategies(Prayer)
+3 | Ancient Wyvern/Strategies(Melee)
+1 | Araxxor/Strategies(Melee)
+2 | Barbarian Assault/Strategies(Melee (high level))
+1 | Basilisk Knight/Strategies(Melee)
+1 | Cerberus/Strategies(Melee)
+1 | Chambers of Xeric/Challenge Mode(Melee)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+1 | Chambers of Xeric/Strategies(Melee)
+1 | Chompington(Melee)
+1 | Corporeal Beast/Strategies(Dolo)
+1 | Corporeal Beast/Strategies(Solo melee)
+1 | Corporeal Beast/Strategies(Fewer stat drains)
+1 | Corporeal Beast/Strategies(Solo melee)
+1 | Corporeal Beast/Strategies(Melee masses)
+1 | Corporeal Beast/Strategies(Team melee)
+1 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+1 | Dark beast/Strategies(Melee)
+1 | Demonic gorilla/Strategies(upgrades and downgrades)
+1 | Down Do Specs(Melee)
+1 | Drake/Strategies(Melee)
+1 | Duke Sucellus/Strategies(Melee)
+1 | Fight Caves Speed-Runner(Ranged)
+1 | Fortis Colosseum/Strategies(High efficiency)
+1 | Fortis Colosseum/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Melee)
+1 | Galvek Speed-Trialist(Melee)
+2 | General Graardor/Strategies(Solo (Melee))
+3 | General Graardor/Strategies(Advanced Tank)
+1 | General Graardor/Strategies(Melee Attacker)
+1 | Giant Mole/Strategies(Dharok's)
+1 | Giant Mole/Strategies(Melee)
+1 | Glough Speed-Trialist(Melee)
+2 | Gout tuber/Strategies(Tank)
+1 | Grotesque Guardians/Strategies(Melee)
+1 | Hespori/Strategies(Best-in-slot)
+3 | K'ril Tsutsaroth/Strategies(Melee Tank)
+1 | K'ril Tsutsaroth/Strategies(Solo Melee)
+1 | K'ril Tsutsaroth/Strategies(Melee)
+1 | Kalphite Queen/Strategies(Pre-diary Method)
+1 | Kalphite Queen/Strategies(High DPS (Phase One))
+1 | Kalphite Queen/Strategies(Verac the Defiled's)
+1 | King Black Dragon/Strategies(Melee BIS smuggle)
+1 | Metal dragons/Strategies(Melee)
+1 | Mithril dragon/Strategies(Melee)
+3 | Mithril dragon/Strategies(Melee tank)
+1 | Moons of Peril/Strategies(Moons of Peril Armour)
+1 | Nex/Strategies(Hybrid)
+1 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+1 | Nightmare Zone/Strategies(Melee)
+1 | Nightmare Zone/Strategies(Melee (Guthan's))
+1 | Nightmare Zone/Strategies(Melee (Dharok's))
+1 | Nightmare Zone/Strategies(Melee (Prayer))
+1 | The Nightmare/Strategies(Melee)
+1 | Phantom Muspah/Strategies(Melee)
+1 | Phosani's Nightmare/Strategies(Melee)
+1 | Royal Titans/Strategies(Best-in-slot)
+2 | Royal Titans/Strategies(Minimal gear switching)
+2 | Rune dragon/Strategies(Melee)
+2 | Sarachnis/Strategies(Melee)
+2 | Sarachnis/Strategies(Melee tank)
+1 | Scurrius/Strategies(Melee (high level))
+1 | Skeletal Wyvern/Strategies(Melee)
+1 | Skotizo/Strategies(Melee)
+3 | Slayer task/Fossil Island wyverns(Melee)
+1 | Slayer task/Fossil Island wyverns(Prayer)
+1 | Slayer task/Gargoyles(Melee)
+1 | Slayer task/Jellies(Melee)
+1 | Slayer task/Nechryael(Melee)
+1 | Slayer task/Suqah(Melee (South))
+1 | Slayer task/Trolls(Melee (Mountain trolls))
+1 | Slayer task/Trolls(Melee (Ice trolls))
+1 | Slayer task/Waterfiends(Melee)
+1 | Slayer task/Wyrms(Melee)
+1 | Slayer training(Melee)
+1 | The Hueycoatl/Strategies(Melee)
+1 | Theatre of Blood/Hard Mode(Melee)
+1 | Theatre of Blood/Strategies(Learner)
+1 | Theatre of Blood/Strategies(Melee)
+1 | Thermonuclear smoke devil/Strategies(Melee)
+1 | Tombs of Amascut/Strategies(Melee switch)
+1 | Tormented Demon/Strategies(Melee switch)
+1 | TzHaar Fight Cave/Strategies(Melee)
+1 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+1 | Ultimate Ironman Guide/Equipment
+1 | Ultimate Ironman Guide/Slayer
+2 | Vardorvis/Strategies(Melee)
+1 | Vorkath/Strategies(Melee)
+1 | Vyrewatch Sentinel/Strategies(DPS)
+1 | Vyrewatch Sentinel/Strategies(AFK Prayer)

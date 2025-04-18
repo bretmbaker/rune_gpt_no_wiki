@@ -1,0 +1,2 @@
+Item: Flowering bush
+Summary: A flowering bush is a plant that appears as part of the flowering tree Forestry event where players must pollinate a specific pair of bushes with strange pollen.  This is by "tending-to" each bush and retrieving pollen from two compatible bushes that are random throughout the five instances (each taking 43 seconds long) that occur. Players are awarded 1-2 anima-infused bark when a player tends to any of the bushes that need pollinating.

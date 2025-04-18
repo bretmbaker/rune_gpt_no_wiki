@@ -1,0 +1,267 @@
+ | This quest has a quick guide and a speedrunning guide . It briefly summarises the steps needed to complete the quest.
+
+A Kingdom Divided (#150)
+
+
+
+
+
+Released | 16 June 2021 ( Update )
+
+Also called | AKD
+
+Members | Yes
+
+Quest series | Great Kourend , #4
+
+Lead developer(s) | Mod Ed
+
+
+
+A Kingdom Divided is a continuation of the Great Kourend quest series . The quest revolves around the hidden corruption within the Kourend Council and the discovery of a much deeper conspiracy hundreds of years in the making. It was first announced at RuneFest 2019 .
+
+Details [ edit | edit source ]
+
+Start point | Speak to Martin Holt at the entrance to Kourend Castle in Kingstown . Show on map
+
+Official difficulty | Experienced
+
+Official length | Long
+
+Description | Great Kourend: a land of wealth, comfort and security. Across its five cities, the people of this Kingdom work to bring peace and prosperity. However, all is not as it seems. Beneath this delicate façade lies an uncomfortable truth: the kingdom of Great Kourend is A Kingdom Divided. Since the death of the last king, Great Kourend has been ruled by the Kourend Council . Under the watchful gaze of the Council, Kourend has enjoyed a golden age of progression. But not all of its citizens are happy, and, spurred by the recent arrest of Councillor Sophia Hughes , allegations of corruption are growing. However, the political games of the Council may be the least of Kourend's concerns. A darker power is gathering in the Kingdom - one that could change the face of Gielinor forever...
+
+Requirements | Completion of the following quests: The Depths of Despair The Queen of Thieves The Ascent of Arceuus The Forsaken Tower Tale of the Righteous The above quests all require the following quests to be completed: Client of Kourend X Marks the Spot 54 Agility ( not boostable ) ( required to start ) 52 Thieving ( not boostable ) ( required to start ) 52 Woodcutting ( not boostable ) ( required to start ) 50 Herblore ( not boostable ) ( required to start ) 42 Mining ( not boostable ) ( required to start ) 38 Crafting ( not boostable ) ( required to start ) 35 Magic ( not boostable ) ( required to start )
+
+Items required | Normal spellbook, and runes to cast a fire spell ( fire bolt or better) Any axe A defence potion (3 or 4 doses) Volcanic sulphur Molten glass A dark essence block or a pickaxe and chisel (the latter is found at the mine) to obtain one
+
+Recommended | 70 Combat level 43 Prayer for overhead protection Prayers Melee / Ranged equipment (weapons/armour/potions/food) to defeat a level 239 enemy, and a level 168 creature that can only be damaged with Melee. Stamina or energy potions Antipoison Kharedst's memoirs Xeric's talisman or access to it Games necklace to teleport to Wintertodt Skills necklace to teleport to Woodcutting Guild Rada's blessing 3+ to teleport to Mount Karuulm, or Rada's blessing 1+ to teleport to Kourend Woodland Access to fairy rings
+
+Enemies to defeat | Judge of Yama (Level 168) 2 Assassins (Level 132) Lizardman brute (Level 75) Xamphur (level 239) Barbarian Warlord (Level 91)
+
+League notes | Unlocking Kourend ✓ will auto-complete the quest The book of the dead and the two experience lamps can be claimed by speaking with Commander Fullore . Note: It may be ideal to not claim this too early as the lamps require a skill to be 40+ to be used in. If the book is not needed early on, it may be best in one's interest to hold off until they have a preferred skill or two at 40+, and/or have their preferred Leagues XP multiplier. If inventory space is an issue, the lamps can be safely destroyed and claimed again at a later time.
+
+Walkthrough [ edit | edit source ]
+
+The Disgraced Councillor's Escape [ edit | edit source ]
+
+Start out by talking to Martin Holt , just east of the Kourend Castle in Kingstown . He can be found on a platform near the protesters . He will explain that the previous king's daughter was supposed to take over the throne, but the Kourend Council seems to have taken control for themselves; agree to help him to start the quest, and Martin will explain what needs to be done. He tells you to talk to Commander Fullore on the ground floor of the castle.
+
+Talk to the Commander and she will explain that the council is actually very beneficial to Kourend, and she will agree to have you help find Sophia Hughes , given that you follow her orders. Say "Let's get going" and you will see a cutscene, where Tomas Lawry will claim to have the authority to lead this investigation. After the cutscene is finished, enter the house just north of you, and search the scenery around the house to find clues where Hughes may have gone. The objects that can be searched are:
+
+ground floor [ UK ] 1 st floor [ US ] : 4 shelves, 2 tables, 4 cabinets, roses 1 st floor [ UK ] 2 nd floor [ US ] : Bathtub, desk, dresser, chest, bed, 3 drawers, 2 wardrobes 2 nd floor [ UK ] 3 rd floor [ US ] : Table, skeleton Note: Watch out for the lesser demon (level 82) on the top floor.
+
+Note: You do not need all of the clues to continue with the quest. You only need to search the drawers by the door to the bedroom on 1 st floor [ UK ] 2 nd floor [ US ] to get the receipt .
+
+If you want all of the clues, they are:
+
+Inspect the receipt , and it will indicate that there is an order for a bed at The Deeper Lode . Talk to Tomas Lawry by the roses in the house where you searched for clues and tell him you have found something that might be useful. Due to his incompetence, you will tell him that Sophia may have gone to Mount Quidamortem and he goes there without question. Talk to Fullore again and you will tell her that you suspect Hughes may have gone to the Deeper Lode.
+
+Go to the Deeper Lode, the pub in Lovakengj , and talk to Fuggy . A quick method of getting there is by using the Jewellery of jubilation teleport on Kharedst's memoirs and running east. Ask him if he has had any councillors stay there recently, and he will say he's only had one human customer lately, a woman who did not look like a councillor. He will mention that he overheard her saying she was going to catch a ship in Port Piscarilius . Upon asking which ship it was, the ground will shake briefly, after which he will say she was going to catch Veos 's ship.
+
+Standing before the Judge [ edit | edit source ]
+
+Go to Veos 's ship in Port Piscarilius and talk to Cabin Boy Herbert , who has taken Veos's place. He will say Veos just wandered off in a trance right after the earthquake. Ask him if he has seen the councillor, and he will tell you that the ship is about to leave soon. A cutscene will start where you confront Hughes, who will claim that all her crimes were coordinated with the rest of the council and that she is being betrayed by them to save themselves. She will hint at playing a role in getting rid of the old king and his daughter. She will then summon a Judge of Yama to eliminate the two of you, but because she had "taken advantage" of Yama's generosity, the demon incinerates her before focusing on the two of you, also deeming you a threat to Yama. You will challenge the demon, who will agree to remove the "sins" you committed if you defeat it in combat.
+
+The Judge of Yama is immune to magic and ranged damage, meaning it is only vulnerable to melee . The demon itself also only attacks with melee when up close, but it will occasionally teleport you further on the docks, and cast waves of fire towards you; since it can only be damaged with melee, you need to pass through the waves to reach the boss.
+
+The battle takes place on a thin pier of 4 squares wide, where the demon will cast three waves of fire towards you. This leaves a single square without a wave, which can be used to dodge the attack completely. Use these gaps to walk closer towards the demon, and then attack it. If you run into a wave of fire, you will take moderate damage and be inflicted with a minor burn. Repeat this if you get teleported back away from the demon, until it dies. Players with decent Hitpoints (70+) may find it easier to simply run through the waves back to the Judge and tank the damage.
+
+If you die or have to teleport for any reason throughout the fight with the Judge of Yama, there will be a portal to re-enter the battle near Veos's ship in Port Piscarilius. If you die, the gravestone appears by this portal.
+
+Kourend's Last Princess [ edit | edit source ]
+
+A cutscene will play where Councillor Andrews will thank you for your help, and tell you they will be investigating how Hughes managed to escape. Meanwhile, he will ask you to tell Martin Holt that the issue with Sophia Hughes is resolved, so he and the other protesters should go home. Before doing that, however, Commander Fullore will ask you to meet her outside the castle. She will be standing just south of the castle, directly north of the Shayzien mine (accessible through the small door in the south wall of the castle).
+
+Talk to the commander, and she will discuss the things Hughes said on the docks. She will give some backstory regarding the old king, and his daughter called Rose. Fullore will ask you to investigate the council's conspiracy against the royalty, and recommends you start by talking to Martin Holt . Martin is the leader of the Kourend Royal Society , and the expert on the old royal family. He may know where Rose is. Talk to him to ask him about Rose's whereabouts. He will mention that Rose wrote Kharedst's memoirs , which were recently auctioned off. However, Rose's personal diary is still in the Library Historical Archive . He will ask you to talk to Archeio in the Arceuus Library , who will teleport you to the Archive.
+
+In the Archive, pickpocket Istoria to obtain a bluish key . Use it to open the purple display case in the eastern wall of the south-eastern corner of the room to obtain Rose's diary . Read it, and you will not find anything of note. Go back to Martin , and talk to him while holding Rose's diary. He will find a note in the cover of the book, and read through it. After that he hands it to you. Read it, to find some instructions on where to find more information. Talk to Martin again, and he will tell you to split up from him and figure out what the location is the note is hinting at.
+
+Grab an axe from your bank, and head to the Forthos Ruins . Talk to Martin on the west side of the northern entrance, and he will explain what the note meant, and why this must be the location. After giving some explanations on his past involvement with the Council, his relationship with Commander Fullore , and the corruption that goes on inside the current government of Kourend.
+
+Search the four stone piles around the ruins to figure out the number combination. Write these down. Each stone pile has an inscription where a letter is mapped to a number. For example, a tile may say "S - 9", which means the letter S maps to the number 9. The combination required is random for all players, so note down the numbers. Chop the vines just south of Martin Holt , and squeeze through them. On the east wall of this small room, check the panel. Fill in the number combination that matches the numbers for "ROSE". Doing so will give you another note . Read it, and talk to Martin again. You will split up again, and meet at the next location.
+
+Grab runes to cast a fire spell, Fire Bolt or higher works. Head to the Settlement Ruins , just south-west of the Wintertodt Camp . Beware of the aggressive ice wolves , giants and spiders . Martin can be found in the north-western building in the ruins. Talk to him, and you will be attacked by a level 132 Assassin . He will exclaim that he is there to kill Martin. Kill him. The assassin will attack with a dragon dagger and dragon darts , so protection prayers will not be able to block all damage. Regardless, this fight should not be too difficult compared to the fight with the demon.
+
+Martin will believe that the Council had hired assassins to kill him, but you quickly point that the assassin only mentioned Martin, thus ruling the decision out.
+
+You now need to find a key to the panel in the ruins. Cast Fire Bolt or a higher fire spell on the Ice chunks in just west of the southern part of the building you're in. This melts the ice, which means you can retrieve the cold key from it by searching the chunks. Check the panel on the western wall of the building near Martin. You will find another note . Read it, and talk to Martin again to move on to the next location.
+
+Travel to The Legless Faun , the pub in the south-western corner of Port Piscarilius . Speak to Martin again, and he will give some more information about the situation. You will have to climb the pillar just west of Martin, to reach the upper floor of the pub building. Search the panel on the northern wall of the building, and take note of the order the cities are listed in. Climb down the wall again, and inspect the statues in the same order as given on the panel; press it in for each of the statues. If you did it right, you will hear a click nearby. Climb back up the pillar and check the panel to receive the final note .
+
+A cutscene will play of you looking over the balcony, observing Lawry arrest Martin for inciting protests against the Council, leaving you on your own. Read the note to find the final location in the hunt for Rose. This is located at the small house just south of Mount Karuulm , and can be easily reached by travelling west of the Fairy ring C I R or teleporting to the Farming Guild with a skills necklace and running north-east. Search the bed to find a tatty note . Read it to discover it's a letter to Rose from a certain "L.O." Inspect the crates in the north-western corner of the shack, and climb down the hidden trapdoor. ( Note: The option to inspect the crates will not appear until you've read both notes. )
+
+A cutscene will play of a woman − presumably Rose − lying on a large stone on the side of the underground room. A man will walk in, identifying himself as Councillor Liam Orson , of the Kourend Council . After a short conversation you will bring in Fullore, and together you get Orson to confess, where he reveals that he and the others killed the King to save the kingdom and that Rose is being kept alive by potions from a mysterious mage that resided with the lizardmen.
+
+If you accidentally click anywhere other than the chat box during the cutscene it will end and put you back in the shack. You can inspect the crates again to resume.
+
+Martin is arrested by Tomas Lawry. The player discovers Rose and Councillor Orson.
+
+The Mysterious Mage [ edit | edit source ]
+
+Gear up for the fight against a level 239 enemy that uses several special mechanics. Using a ranged weapon such as a Toxic blowpipe will make the fight much easier, though armour with good magic defence such as Dragonhide armour should be brought even with melee. For melee bring an Abyssal whip or better if possible, though a Dragon scimitar will also suffice. If you are a low combat level (~80), bring at least 3-4 Prayer potions and 20+ high-healing food such as Sharks . You should also bring an emergency one-click teleport such as a Teleport tab .
+
+Head to the Lizardman Temple in Molch - use a skills necklace to teleport to the Farming Guild and head south-east. Enter the temple via any of the Lizard dwelling entrances and head east through the middle hallway. Enter the room to the north, where you will find Kaht B'alam . Talk to him and ask him if he can help you find a mage, or as they call him, Yo'kal ahk. He will help you get to the mage, but in exchange he wishes to escape from the war against the humans. To do that, he wants to take his last egg with him, and asks you to retrieve it for him.
+
+Exit the temple through the strange hole at the west end of the hallway and head west in the swamp and go south across the stone bridge, to find several piles of Lizardman eggs. Search them until you find the right pile, at which point you will be attacked by a level 75 Lizardman brute . Kill the brute or run away from it, and return to Kaht with his egg. In return, he will give you a damp key , which unlocks the small door on the northern wall in the corridor of the temple, very close to Kaht, next to the Bones on the floor. Opening this will put you in a small room that leads to a gate. Open the gate to start a cutscene, after which you will enter the boss fight with Xamphur . In the cutscene you will see two mysterious voices discussing the past events in the Kourend quest line. After some time, one of the voices will be revealed to be Xamphur, and the other voice turns out to be Veos . Veos will sense your presence and order Xamphur to eliminate you, who forcibly teleports you into his chamber and attacks.
+
+The player eavesdrops on the mysterious mage. Xamphur appears to kill the player.
+
+Xamphur is immune to Magic attacks, and attacks primarily with magic; praying Protect from Magic will greatly reduce damage done by Xamphur's basic attack. It is recommended to use range against him if you are low level.
+
+Around the room, there are several Marks of Darkness on the floor. Walking over these will inflict a Mark of Darkness effect on you, causing his basic attack to become twice as effective, and cause corruption to happen twice as often, if you get corrupted by one of the other mechanics. Avoid these marks to fully avoid this effect; be aware that he can also bind you in place, so for this reason, it's critical to ensure that you're never standing on a Mark of Darkness.
+
+The best method is to turn off auto retaliate and running, pick a row of tiles that you can move on, and only walk along that plane throughout the fight . This will also allow you to more easily avoid his hand crushing attack later in the fight.
+
+Other than the basic attack, he has two special mechanics, which he uses every ten attacks. He'll begin an attack by saying either You will fall by my hand or Your fate is in my hands .
+
+Mechanic | Action | Pray
+
+Hands will fall from ceiling, dealing up to 10 damage every tick , for 5–10 seconds | Walk around the room, avoiding Marks of Darkness. Stepping between two tiles, when timed correctly, will also work. | Magic
+
+Two Phantom Hands spawn | Kill the hands as soon as possible . They have 12 Hitpoints and can cause Corruption upon inflicting damage. | Magic if high prayer. Melee if low prayer, to avoid Corruption.
+
+If you leave the fight, whether by dying or by teleporting away, entering the door again will immediately put you back into the fight. If you died, your gravestone will be outside the door.
+
+After you have defeated Xamphur, he will state that your efforts to defeat him are amusing as he unleashes a powerful bolt of magic that seemingly kills you. There is then a short cutscene where two lizardmen come to dispose of your body, but run away when they hear you groan and think you are a zombie. After standing back up, search the table in the north wall of the room to read a note. The note reveals that Xamphur was responsible for the events that occurred during the quest The Ascent of Arceuus . After reading it, return to Fullore in the basement of the shack where you found Rose, near fairy ring code C I R , by inspecting the crates again.
+
+The Houses of Kourend [ edit | edit source ]
+
+Return to the basement and a cutscene will play where you explain to Fullore what just happened. Fullore will tell you that she researched the potions and confirmed Orson's statement that the potions were the only thing keeping Rose alive, and adds that Rose has been braindead since she was originally poisoned twenty years ago. She decides to mercy kill her to put her out of her misery before the two of you bury her outside the house. With the truth known, Fullore suggests that you speak to the leaders of the five Houses as they have the power to overthrow the council. Go past each of the five cities to ask their leader to come to Xeric's Lookout .
+
+After talking to them all and asking them to meet you at Xeric's Lookout , go to the lookout (shortcut via Xeric's Talisman , or west-north-west of the Woodcutting Guild entrance) and talk to Fullore. A cutscene will play of the five leaders, Fullore, Orson and the player discussing what has happened, and confronting Orson with what he has done. After some discussion regarding what should happen after the council is deposed by the leaders of the five houses, Lord Kandur Hosidius will show the Royal Accord of Twill as a proposed solution to the issue.
+
+Visit the different floors of the lookout, including Lord Arceuus outside at the entrance, and talk to each of the leaders before doing any of their tasks in order to be able to do them all in one go. Each of them will share their opinions on following the Royal Accord. After speaking with Lady Lovakengj, you must speak with Commander Fullore and tell her you need help with Lady Lovakengj. After that, the tasks may be completed in any order.
+
+Speak to Lady Lovakengj, who is now on the 2 nd floor [ UK ] 3 rd floor [ US ] of the lookout. She will wish to replace Councillor Andrews with Councillor Unkar , so she must be convinced that Councillor Unkar is not innocent in this conspiracy. Talk to Commander Fullore and ask about Lady Lovakengj. She will recommend talking to Martin Holt to find Unkar's connection to the conspiracy. Martin can be found in the Shayzien Prison , just west of the Graveyard of Heroes. Make sure you have spoken to Commander Fullore or you will not be able to speak with Martin Holt .
+
+Go west of Shayzien, to the Shayzien prison, very close to the Kharedst's memoirs History and hearsay teleport and just south-west of the southern Shayzien bank. Climb down the staircase and talk to Martin, who is in one of the four cells of the prison. A guard will initially stop you from talking to Martin, but relents when you claim to be on a task for the Council. Martin will say that he has no direct proof of Councillor Unkar 's involvement, but he will tell you to go to the Royal Society's meeting, and tell them the passphrase 'Evil only triumphs when the good do nothing.' to talk to Martin's contact, who is a dwarf. Go to the Graveyard of Heroes just east of the prison's entrance, and talk to Jorra , Vulcana's assistant. Tell him the passphrase, and Jorra will start to give some information he found out. However, you will be attacked by an assassin again. Defeat the assassin and continue the conversation to receive a declaration . Read it to learn that there was a plan to overthrow Lady Lovakengj.
+
+Return to Lady Lovakengj with the note, who will be shocked that Unkar had secretly tried to remove her. She will agree to sign the new accord.
+
+Speak to Lord Hosidius in the basement of the lookout. He needs your help investigating Lord Shayzien's involvement in a barbarian camp just south of the lookout (he's located downstairs). Go to the barbarian camp in the Kourend Woodlands , just south-east of the Rada's blessing Kourend Woodland teleport destination. Go down the ladder next to the southern wall and Phileas Rimor will talk to you from a cell. A level 91 Barbarian Warlord who had Phileas captured will attack you. Kill him, and talk to Phileas again. He will say that he was captured by the barbarians, who said they were doing this as a task from someone. The barbarians also stole his package, King Shayzien VII's journal.
+
+Return to Lord Hosidius, who will theorise that Shiro wanted to hide information that would link his house to Xeric. He will agree to sign the new accord.
+
+Speak to Lord Shayzien on the 1 st floor [ UK ] 2 nd floor [ US ] of the lookout. He will ask you to find King Shayzien VII 's journal in Lord Hosidius ' private office, which is hidden at the southern end of the Hosidius Vinery . You can use the Xeric's Talisman 'Glade' teleport and head east to the vinery, Tithe Farm mini game teleport and head north, or fairy ring AKR and head west. Inspect the eastern wine barrel to find a hidden trapdoor. Climb down, and picklock the chest in the corner of the room. You will obtain a Shayzien journal . You will need to bring this back to Lord Shayzien, who will agree to sign the accord.
+
+If you do not already have a dark essence block, go to the dense essence mine to mine a dense essence block and then imbue it at the Dark Altar .
+
+Speak to Lady Piscarilius on the 3 rd floor [ UK ] 4 th floor [ US ] of the lookout. She will wish to have the cult of Yama stopped by having an Arceuus mage named Mori attempt to stop the disciples of Yama's connection to Yama himself. To find Mori, head to the Arceuus church - you can use the Kharedst's memoirs teleport 'A Dark Disposition' and walk north (look for the Altar icon on the Worldmap). Mori can be found on the very top floor of the church.
+
+Mori will explain her plan to disconnect the Voice of Yama 's connection to Yama himself, by using a connection to the Dark Altar . To do this, she needs some molten glass and a Dark essence block . Hand the items over to Mori, and she will give you a Dark nullifier . You must hide it somewhere in the Chasm of Fire to prevent the cult from contacting Yama . Go to the Chasm ( fairy ring D J R ) and try to climb down. The Disciple of Yama standing outside will interrupt you and take the device off you. You will be taken to the forest just south of the chasm, believing the device has been planted. Return to Shauna, who will agree to sign the accord despite insisting that it's a bad idea.
+
+Speak to Lord Arceuus just outside of the lookout. He will ask you to investigate whether Xamphur is indeed the same mage as the one that served Xeric long ago. To do this, you must visit the Tasakaal in Mount Karuulm Rada's Blessing or (fairy ring C I R ) and show them the broken redirector for help.
+
+Enter Mount Karuulm ( Boots of stone are not needed in this area), and talk to any of the Tasakaal sitting in the middle of the first room. The Tasakaal will analyse the broken redirector, and they will trace the history of the object. Many humans and people of Arceuus have used it, but also two others: one touched by fire, and one touched by darkness. The one touched by darkness was indeed one who served Xeric , and the player concludes that the one touched by fire must be the pyromancer who damaged the Doors of Dinh .
+
+To prevent further damage to the Doors of Dinh, the Tasakaal will offer to create a potion that will reinforce the Dark Altar 's power on the Doors of Dinh. Use the Volcanic sulphur on a defence potion with at least 3 doses to create a sulphur potion , and talk to the Tasakaal again to have them enchant it, turning it into a shielding potion .
+
+Teleport to the Wintertodt Camp ( Games Necklace or fairy ring C I S ) and use the shielding potion on the Doors of Dinh .
+
+Return to Lord Arceuus, who you will inform that the Xamphur you met is the same as the Xamphur from back then, giving him much worry. You will also inform him that one of the Pyromancers colluded with Xamphur to sabotage the Doors of Dinh. While the information is of great importance, Lord Arceuus states that dealing with the Council comes first and will agree to sign the accord.
+
+The Council's End [ edit | edit source ]
+
+Return to the lookout and talk to each of the five leaders again to finish up their task. Some of the leaders will provide their insights on your discoveries. After that, talk to Fullore again, who reveals Orson's body being found at the bottom of the lookout tower, after he fell down from it, either from jumping, or being pushed. After that, all of the leaders will convene again in the basement, and they will all sign the accord. All leaders, including a reluctant Lord Shayzien, will agree to make Lord Hosidius the new king of Kourend. The accord is named Rose's Accord, in the honour of the unfortunate demise of Rose.
+
+After the cutscene, Commander Fullore will talk to you about the decision that was just made. She is confused that Lord Shayzien did not want to take up the leadership, and notes that Lord Hosidius wishes to talk to you. Go down the ladder again to speak with him, and he will explain the details of how he managed to convince Lord Shayzien not to make a bid for the throne. Lord Shayzien's attempted cover-up of the journal of King Shayzien VII, and his eventual capturing of Phileas Rimor , would be too humiliating for him to be confronted with, so he decided to withdraw his attempts to become king.
+
+After this reveal, talk to Fullore again to start a long final cutscene. The remaining council members get arrested, and Lord Hosidius being crowned the new King of Kourend. A banquet is held to celebrate, with prominent guests from Great Kourend , Misthalin , Asgarnia , Kandarin and Varlamore . You will have a talk with Lord Arceuus, who teaches you some spells discovered in Xamphur 's hideout. After that you'll have a short chat with Fullore, who points out the guests from Varlamore . After a coronation speech by the new king, you will have a private conversation with him in which he wishes to call on your services once more when they have enough information on Xamphur, but before the two of you can do anything, another assassin appears and assassinates him, claiming he has been marked for death and teleports away.
+
+After the cutscene concludes, speak with Commander Fullore a final time. She will express surprise that they buried a king just as fast as they crowned one, and that they commenced another crowning ceremony for his son, now king. She then hands you a reward for your work, as well as the book Lord Arceuus mentioned he would give you.
+
+The protests approach a breaking point. Lords Shayzien and Hosidius arrive to control the situation. The Five Houses of Kourend declare the Council unfit to rule. The coronation of King Kandur Hosidius commences. The King thanks the attendees for coming to his coronation, and toasts to the player, Martin, and Lydia for their efforts. The king is killed by an assassin.
+
+Congratulations, Quest Complete!
+
+Rewards [ edit | edit source ]
+
+2 Quest points The book of the dead Two antique lamps giving 10,000 experience to any skill level 40 or above. If players claimed the antique lamp from the Architectural Alliance miniquest before 10 January 2024 , they will only receive one lamp. Ability to set your respawn point to Kourend Castle . Talk to Asteros Arceuus , now found on the 1 st floor [ UK ] 2 nd floor [ US ] of Kourend Castle , to change your respawn point at any time. 24 new spells made available in the Arceuus spellbook (all combat spells with the exception of Ghostly Grasp and Inferior Demonbane, and all utility spells with the exception of Resurrect Crops and reanimation spells).
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Music unlocked [ edit | edit source ]
+
+Name | Unlock details | Music track
+
+Confrontation | Unlocked upon confronting Sophia Hughes | 
+
+Judgement of the Depths | Unlocked during the fight with the Judge of Yama | 
+
+The Part Where You Die | Unlocked during the fight with Xamphur | 
+
+Rose | Unlocked upon discovering Rose 's body | 
+
+The Houses of Kourend | Unlocked during the meeting with the leaders of the five houses | 
+
+Regal Pomp | Unlocked during the coronation ceremony cutscene | 
+
+Gallery [ edit | edit source ]
+
+Concept art for Xamphur by Mod Gee . A piece of official artwork of the quest, depicting Martin Holt and protesters at the front of Kourend Castle . Concept art by Mod Grub illustrating the Judge of Yama , an NPC players encounter during the quest. Finalists for the login screen competition for A Kingdom Divided. Login screen for the release of A Kingdom Divided
+
+Pre-release information [ edit | edit source ]
+
+Video trailer [ edit | edit source ]
+
+On 12 May 2021, a video trailer made by Mod Surma was released to promote the quest, announcing its release in June 2021.
+
+“ | My name is Martin Holt. I have dedicated my entire life to serving the Kingdom of Great Kourend. Under the council's rule, we've supposedly enjoyed nothing but harmony and prosperity for decades... but I know better. I can see it. I can feel it. This age of so-called 'peace' is reaching its end, and I fear for what comes next. Ever since the last king died and his heir disappeared, the law of the council has become progressively unjust... corrupt... broken. Those whom we've entrusted this once great Kingdom to have become the ones we dread the most! They threaten the very foundations of all that we've built... and until the monarchy is restored, we will protest, we will rebel, and we WILL have justice! Great Kourend will be a kingdom divided no more! | ”
+
+ | — Martin Holt
+
+Kourend Chronicles [ edit | edit source ]
+
+On 18 May 2021, the first short story of the Kourend Chronicles was released. These were a weekly series of stories relating to the first six quests of the Great Kourend quest series , taking place sometime before or after the player's involvement, leading up to the release of A Kingdom Divided.
+
+Pre-release teaser [ edit | edit source ]
+
+On 19 May 2021, the quest was added to the Quest List interface with the text in grey ( A Kingdom Divided ). When the quest was clicked on, the usual interface opened which formally announced the quest's release date:
+
+“ | Coming to Old School RuneScape on June 16th 2021 ... Once it has been released, I can start this quest by talking to Martin Holt at the entrance to Kourend Castle in Kingstown . | ”
+
+Around 17:42 (UTC) on the same day, an Unannounced phenomenon occurred, where players in various areas of the game had their screen rumble with accompanying messages in their chatbox, depending on where they were:
+
+If players were in Great Kourend and the Kebos Lowlands the chatbox stated " The ground beneath you violently shakes. " Players exclaimed What the... What was that? after the rumbling ended. If players were anywhere else the chatbox stated " You hear a faint rumbling coming from the far west... "
+
+Developers [ edit | edit source ]
+
+Main developer(s) : Mod Ed Quality Assurance : Mod Curse and Mod Moogle Art : Mod Brow , Mod Gee , and Mod West
+
+Trivia [ edit | edit source ]
+
+A Kingdom Divided is the first quest to have the chatbox in cutscenes be in the bottom-centre of the screen. During one of the conversations with Martin, if the player has completed Song of the Elves , King Lathas is brought up. The player will mention the former king of Ardougne being executed. If the player has used a knife on the Kharedst's Memoirs to find the secret page there is additional dialogue between the player and Martin Holt.
+
+v • t • e A Kingdom Divided
+
+NPCs | Martin Holt Protester Commander Fullore Tomas Lawry Captain Ginea Sergeant Fuggy Cabin Boy Herbert Istoria Protest Leader Rose Kaht B'alam Veos Lizardman Kaal-Mej-San Kaal-Ket-Jor Kaal-Xil-Dar Ignisia Jorra Mori Disciple of Yama Phileas Rimor Captain Rachelle Lords and Ladies Lord Kandur Hosidius Lady Shauna Piscarilius Lord Shiro Shayzien Lord Trobin Arceuus Lady Vulcana Lovakengj Kourend Council David Andrews Kubec Unkar Liam Orson Sophia Hughes (former) Enemies Judge of Yama Assassin Lizardman Brute Xamphur ( Phantom Hand ) Barbarian Warlord Coronation ceremony Queen Ellamaria King Roald Duke Horacio Sir Amik Varze Sir Tiffy Cashien King Lathas ( Thoros ) Asteros Arceuus Artur Hosidius Elena Hosidius Pandur Hosidius Queen Zyanyi Arkan Kualti |  | Martin Holt Protester Commander Fullore Tomas Lawry Captain Ginea Sergeant Fuggy Cabin Boy Herbert Istoria Protest Leader Rose Kaht B'alam Veos Lizardman Kaal-Mej-San Kaal-Ket-Jor Kaal-Xil-Dar Ignisia Jorra Mori Disciple of Yama Phileas Rimor Captain Rachelle | Lords and Ladies | Lord Kandur Hosidius Lady Shauna Piscarilius Lord Shiro Shayzien Lord Trobin Arceuus Lady Vulcana Lovakengj | Kourend Council | David Andrews Kubec Unkar Liam Orson Sophia Hughes (former) | Enemies | Judge of Yama Assassin Lizardman Brute Xamphur ( Phantom Hand ) Barbarian Warlord | Coronation ceremony | Queen Ellamaria King Roald Duke Horacio Sir Amik Varze Sir Tiffy Cashien King Lathas ( Thoros ) Asteros Arceuus Artur Hosidius Elena Hosidius Pandur Hosidius Queen Zyanyi Arkan Kualti
+
+ | Martin Holt Protester Commander Fullore Tomas Lawry Captain Ginea Sergeant Fuggy Cabin Boy Herbert Istoria Protest Leader Rose Kaht B'alam Veos Lizardman Kaal-Mej-San Kaal-Ket-Jor Kaal-Xil-Dar Ignisia Jorra Mori Disciple of Yama Phileas Rimor Captain Rachelle
+
+Lords and Ladies | Lord Kandur Hosidius Lady Shauna Piscarilius Lord Shiro Shayzien Lord Trobin Arceuus Lady Vulcana Lovakengj
+
+Kourend Council | David Andrews Kubec Unkar Liam Orson Sophia Hughes (former)
+
+Enemies | Judge of Yama Assassin Lizardman Brute Xamphur ( Phantom Hand ) Barbarian Warlord
+
+Coronation ceremony | Queen Ellamaria King Roald Duke Horacio Sir Amik Varze Sir Tiffy Cashien King Lathas ( Thoros ) Asteros Arceuus Artur Hosidius Elena Hosidius Pandur Hosidius Queen Zyanyi Arkan Kualti
+
+Items | Protest banner Lizardman egg Dark nullifier Broken redirector Sulphur potion Shielding potion Sophia Hughes' investigation Bloody knife Bone Cultist robe Delivery confirmation Demonic incantations Kourend map Order form Receipt Rose Texts Rose's diary Rose's note Tatty note Research notes Royal Accord of Twill Shayzien journal Declaration Keys Bluish key Cold key Damp key |  | Protest banner Lizardman egg Dark nullifier Broken redirector Sulphur potion Shielding potion | Sophia Hughes' investigation | Bloody knife Bone Cultist robe Delivery confirmation Demonic incantations Kourend map Order form Receipt Rose | Texts | Rose's diary Rose's note Tatty note Research notes Royal Accord of Twill Shayzien journal Declaration | Keys | Bluish key Cold key Damp key
+
+ | Protest banner Lizardman egg Dark nullifier Broken redirector Sulphur potion Shielding potion
+
+Sophia Hughes' investigation | Bloody knife Bone Cultist robe Delivery confirmation Demonic incantations Kourend map Order form Receipt Rose
+
+Texts | Rose's diary Rose's note Tatty note Research notes Royal Accord of Twill Shayzien journal Declaration
+
+Keys | Bluish key Cold key Damp key
+
+Rewards | Book of the dead Antique lamp
+
+Locations | Arceuus Library Barbarian Camp Forthos Ruins Kebos Lowlands Kingstown Kourend Castle Lizardman Temple Port Piscarilius Settlement Ruins The Legless Faun Xeric's Lookout
+
+Music | Confrontation Judgement of the Depths Rose The Part Where You Die The Houses of Kourend Regal Pomp
+
+Related | Quick guide ( speedrunning ) Transcript

@@ -1,0 +1,117 @@
+[Weapon: Mythical Cape]
+
+
+Themythical capeis a cape that can only be worn by those who have completed theDragon Slayer IIquest.
+It can be purchased fromJackat theMythical Cape Storeon the top floor of theMyths' Guildfor10,000 coins. The cape provides unlimited free teleports to the guild. The mythical cape has the highest crush attack bonus of anycape slotitem inOld School RuneScape, providing a +6 bonus.
+
+
+[Infobox]
+Released: 4 January2018(Update)
+Also called: Myth cape
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Teleport, Drop
+Worn options: Teleport
+Examine: The cape worn by members of the Myths' Guild.
+General Store Value: 10,000 coins
+High alch: 6,000 coins
+Low alch: 4,000 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +6
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +8
+- Crush: +8
+- Magic: +8
+- Ranged: +8
+
+Other Bonuses:
+- Strength: +1
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Abyssal Sire/Strategies(Phase 2 Ranged)
+3 | Amoxliatl/Strategies(Melee)
+4 | Ancient Wyvern/Strategies(Melee)
+3 | Araxxor/Strategies(Melee)
+3 | Barbarian Assault/Strategies(Melee (high level))
+3 | Basilisk Knight/Strategies(Melee)
+3 | Budget Cutter
+2 | Calvar'ion/Strategies(Melee)
+5 | Cerberus/Strategies(Melee)
+2 | Chaos Elemental/Strategies(Melee)
+3 | Chompington(Melee)
+3 | Corporeal Beast/Strategies(Team melee)
+1 | Corporeal Beast/Strategies(Solo melee)
+3 | Corporeal Beast/Strategies(Solo melee)
+3 | Corporeal Beast/Strategies(Melee masses)
+3 | Demonic gorilla/Strategies(upgrades and downgrades)
+3 | Down Do Specs(Melee)
+3 | Duke Sucellus/Strategies(Melee)
+3 | General Graardor/Strategies(Melee Attacker)
+3 | Giant Mole/Strategies(Dharok's)
+4 | Green dragon/Strategies(Melee)
+3 | Kalphite Queen/Strategies(Pre-diary Method)
+2 | Kalphite Queen/Strategies(High DPS (Phase One))
+1 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+2 | Kalphite Queen/Strategies(Verac the Defiled's)
+3 | King Black Dragon/Strategies(Melee BIS smuggle)
+3 | King Black Dragon/Strategies(4-item melee)
+2 | Krystilia/Strategies(Melee)
+4 | Krystilia/Strategies(Magic)
+2 | Lava dragon/Strategies(Melee)
+3 | Moons of Peril/Strategies(Moons of Peril Armour)
+3 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+3 | Nightmare Zone/Strategies(Melee)
+3 | Nightmare Zone/Strategies(Melee (Guthan's))
+3 | Nightmare Zone/Strategies(Melee (Dharok's))
+5 | Nightmare Zone/Strategies(Melee (Prayer))
+3 | The Nightmare/Strategies(Melee)
+3 | Phantom Muspah/Strategies(Melee)
+2 | Phosani's Nightmare/Strategies(Melee)
+2 | Revenants/Strategies(Melee)
+3 | Royal Titans/Strategies(Best-in-slot)
+2 | Royal Titans/Strategies(Mid-game)
+3 | Sarachnis/Strategies(Melee)
+5 | Sarachnis/Strategies(Melee tank)
+3 | Scurrius/Strategies(Melee (high level))
+3 | Skeletal Wyvern/Strategies(Melee)
+3 | Skotizo/Strategies(Melee)
+4 | Slayer task/Fossil Island wyverns(Melee)
+3 | Slayer task/Gargoyles(Melee)
+4 | Slayer task/Jellies(Melee)
+3 | Slayer task/Nechryael(Melee)
+2 | Slayer task/Waterfiends(Melee)
+3 | Slayer training(Melee)
+2 | Spindel/Strategies(Melee)
+3 | The Hueycoatl/Strategies(Melee)
+3 | Thermonuclear smoke devil/Strategies(Melee)
+3 | Tombs of Amascut/Strategies(Melee switch)
+3 | Tormented Demon/Strategies(Melee switch)
+3 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+3 | Ultimate Ironman Guide/Equipment
+3 | Vardorvis/Strategies(Melee)
+2 | Venenatis/Strategies(Melee)
+2 | Vet'ion/Strategies(Melee)
+3 | Vyrewatch Sentinel/Strategies(DPS)
+2 | Vyrewatch Sentinel/Strategies(AFK Prayer)

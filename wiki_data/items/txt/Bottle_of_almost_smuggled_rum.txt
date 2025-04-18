@@ -1,0 +1,1 @@
+Bottle of almost smuggled rumis an item in theSailing alpha. It is acquired by prying open aSealed crateon the west side of Mudskipper Point. Drinking the Bottle of almost smuggled rum increasesStrengthby 1 and decreasesAttackby 1.

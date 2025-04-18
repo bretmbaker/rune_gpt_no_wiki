@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1744627586.4971836,
+    "date": "2025-04-14 19:46:26",
+    "type": "creation",
+    "content": "Created new character: Warrior the Swift",
+    "location": null,
+    "emotions": {
+      "excitement": 0.8,
+      "curiosity": 0.6
+    },
+    "tags": [
+      "creation",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627586.5479085,
+    "date": "2025-04-14 19:46:26",
+    "type": "action",
+    "content": "Talk to Survival Expert",
+    "location": null,
+    "emotions": {
+      "determination": 0.7
+    },
+    "tags": [
+      "action",
+      "execution",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627586.5482237,
+    "date": "2025-04-14 19:46:26",
+    "type": "reflection",
+    "content": "Reflected on Talk to Survival Expert: success",
+    "location": null,
+    "emotions": {
+      "satisfaction": 0.7
+    },
+    "tags": [
+      "reflection",
+      "success",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627588.6404445,
+    "date": "2025-04-14 19:46:28",
+    "type": "action",
+    "content": "Talk to Survival Expert",
+    "location": null,
+    "emotions": {
+      "determination": 0.7
+    },
+    "tags": [
+      "action",
+      "execution",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627588.640918,
+    "date": "2025-04-14 19:46:28",
+    "type": "reflection",
+    "content": "Reflected on Talk to Survival Expert: success",
+    "location": null,
+    "emotions": {
+      "satisfaction": 0.7
+    },
+    "tags": [
+      "reflection",
+      "success",
+      "tutorial"
+    ]
+  }
+]

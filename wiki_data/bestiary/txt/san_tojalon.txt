@@ -1,0 +1,39 @@
+Name: San Tojalon
+Combat Level: 106
+Size: 1x1
+Info:
+- Description: The spirit of a long-dead warrior.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3964
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 120
+Attack: 86
+Strength: 84
+Defence: 86
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

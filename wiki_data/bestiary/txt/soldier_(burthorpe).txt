@@ -1,0 +1,67 @@
+Name: Soldier
+Combat Level: 48
+Size: 1x1
+Info:
+- Description: A soldier of the Imperial Guard.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4088
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Steel full helm (1/128)
+- Black claws (1/128)
+- Steel bar (1/128)
+- Mithril bar (1/128)
+- Grimy guam leaf (1/64)
+- Grimy marrentill (1/85.3)
+- Grimy tarromin (1/113.8)
+- Grimy harralander (1/146.3)
+- Grimy ranarr weed (1/186.2)
+- Grimy irit leaf (1/256)
+- Grimy avantoe (1/341.3)
+- Grimy kwuarm (1/409.6)
+- Grimy cadantine (1/512)
+- Grimy lantadyme (1/682.7)
+- Grimy dwarf weed (1/682.7)
+- Blood rune (1/128)
+- Nothing (1/128.23; Never[d 1])
+- Uncut sapphire (1/256; 1/130[d 2])
+- Uncut emerald (1/512; 1/260[d 2])
+- Uncut ruby (1/1,024; 1/520[d 2])
+- Uncut diamond (1/4,096; 1/2,080[d 2])
+- Nature talisman (1/2,730.67; 1/1,386.67[d 2])
+- Loop half of key (1/8,192; 1/4,160[d 2])
+- Tooth half of key (1/8,192; 1/4,160[d 2])
+- Rune javelin (1/8,192; 1/4,160[d 2])
+- Rune spear (1/131,072; 1/7,800[d 2][d 3])
+- Shield left half (1/262,144; 1/15,600[d 2][d 3])
+- Dragon spear (1/349,525.33; 1/20,800[d 2][d 3])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 50
+Attack: 40
+Strength: 40
+Defence: 40
+Magic: 1
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,60 @@
+Name: Cave goblin guard
+Combat Level: 24
+Size: 1x1
+Info:
+- Description: He protects the miners.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 26 xp
+- Category: Goblins
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 5335
+- Link: MOID
+
+Location:
+- Area: Dorgeshuun Mines
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Cave goblin skull (1/4[d 1])
+- Goblin champion scroll (1/5,000)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 26
+Attack: 22
+Strength: 16
+Defence: 22
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: -4
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 15
+Crush: 19
+
+[Magic defence]
+Magic: -3
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 12
+Standard: 12
+Heavy: 12

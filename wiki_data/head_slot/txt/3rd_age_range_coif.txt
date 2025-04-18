@@ -1,0 +1,64 @@
+[Weapon: 3Rd Age Range Coif]
+
+
+The3rd age range coifis a part of the3rd age range set. Requiring level 65Rangedand 45Defenceto wear, it has the third highest ranged attack bonus of all head-slot items, surpassed by theMasori maskandArmadyl helmet.
+The 3rd age range coif is a possible reward fromhard,eliteandmastertierTreasure Trailsand cannot be made through any skills.
+
+
+[Infobox]
+Released: 5 December2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Fabulously ancient range protection crafted from white dragonhide.
+General Store Value: 50,400 coins
+High alch: 30,240 coins
+Low alch: 20,160 coins
+Weight: 1 kg
+Grand Exchange Value: 28,427,019 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 8
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -2
+- Ranged: +9
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +7
+- Crush: +10
+- Magic: +5
+- Ranged: +8
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Mimic | N/A | 1 | 1/5,244;1/5,750 | 
+Reward casket (elite) | N/A | 1 | 1/249,262.5 | 
+Reward casket (hard) | N/A | 1 | 1/211,250 | 
+Reward casket (master) | N/A | 1 | 1/313,168 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Ancient Wyvern/Strategies(Ranged)
+2 | Nightmare Zone/Strategies(Ranged)
+4 | Slayer task/Fossil Island wyverns(Ranged)

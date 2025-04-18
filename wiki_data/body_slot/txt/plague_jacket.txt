@@ -1,0 +1,46 @@
+[Weapon: Plague Jacket]
+
+
+Theplague jacketis aquest itemused only inSheep Herder. It and theplague trousersare obtained fromDoctor Orbonby purchasing it from him for 100 coins.
+It is used to prod thesick-looking sheepinto the pen.
+
+
+[Infobox]
+Released: 15 August2002(Update)
+Members: Yes
+Quest item: Sheep Herder
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: This should protect me from the plague, I hope!
+General Store Value: 50 coins
+High alch: 30 coins
+Low alch: 20 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

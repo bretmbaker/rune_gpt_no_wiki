@@ -1,0 +1,97 @@
+[Weapon: Adamant Kiteshield]
+
+
+TheAdamant kiteshieldis the second-best smithablekiteshield, requiring 30Defenceto wield. A player with 82Smithingcan make the shield by using threeadamantite barson ananvilwhile carrying ahammer, granting 187.5 Smithingexperience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A large metal shield.
+General Store Value: 5,440 coins
+High alch: 3,264 coins
+Low alch: 2,176 coins
+Weight: 5.896 kg
+Grand Exchange Value: 2,766 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 27,624
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -8
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +27
+- Slash: +31
+- Crush: +29
+- Magic: -1
+- Ranged: +29
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Armoured zombie (Zemouregal's Base) | 85 | 1 | 1/128 | 
+Basilisk Knight | 204 | 1 | 1/52 | 
+Basilisk Sentinel | 358 | 1 | 3 × 1/52 | 
+Brutal green dragon | 227 | 1 | 1/128 | 
+BryophytaMembers | 128 | 3 | 1/118 | 
+BryophytaF2P | 128 | 3 | 1/118 | 
+Eclectic impling jar | N/A | 1 | 1/100 | 
+Eclectic impling | 50; 60 | 1 | 1/100 | 
+Elaborate lockbox | N/A | 1 | 1/2,625 | 
+Gold Chest (black) | N/A | 1 | 2/144.18;2/142.44 | 
+Gold Chest (brown) | N/A | 1 | 2/143.99;2/142.26 | 
+Gold Chest (crimson) | N/A | 1 | 2/144.08;2/142.35 | 
+Gold Chest (purple) | N/A | 1 | 2/144.28;2/142.54 | 
+Gold Chest (red) | N/A | 1 | 2/143.91;2/142.17 | 
+GorakFull | 145; 149 | 1 | 1/128 | 
+Greater NechryaelRegular | 200 | 1 | 7/128 | 
+Greater NechryaelWilderness Slayer Cave | 200 | 1 | 7/112 | 
+Greater demonWilderness Slayer Cave | 104 | 1 | 1/41 | 
+Green dragonWilderness Slayer Cave | 88 | 1 | 1/128 | 
+Ice giantWilderness Slayer Cave | 67 | 1 | 1/62 | 
+Ice troll | 120; 121; 123; 124 | 1 | 1/128 | 
+King Black Dragon | 276 | 1 | 3/128 | 
+Locust rider | 68; 98; 106 | 1 | 3/128 | 
+Nechryael | 115 | 1 | 2/116 | 
+NechryarchNormal | 300 | 1 | 3 × 2/116 | 
+NechryarchGreater | 300 | 1 | 3 × 7/128 | 
+Ornate lockbox | N/A | 1 | 3/2,450 | 
+Scarab Mage | 66; 93; 119 | 1 | 3/128 | 
+Screaming twisted banshee | 144 | 1 | 3 × 1/128 | &
+Silver Chest (black) | N/A | 1 | 3/152.6;3/148.88 | 
+Silver Chest (brown) | N/A | 1 | 3/152.46;3/148.74 | 
+Silver Chest (crimson) | N/A | 1 | 3/152.53;3/148.81 | 
+Silver Chest (purple) | N/A | 1 | 3/152.67;3/148.95 | 
+Silver Chest (red) | N/A | 1 | 3/152.39;3/148.68 | 
+Simple lockbox | N/A | 1 | 1/10,850 | 
+Skeleton (Tarn's Lair)Medium level | 40; 63; 72; 77 | 1 | 1/128 | 
+Sourhog | 37 | 1 | 1/110 | &
+Steel dragon | 246; 274 | 1 | 2/128 | 
+Twisted Banshee | 89 | 1 | 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Free-to-play Ironman guide(Meleegear)
+2 | Free-to-play melee training(Meleegear)

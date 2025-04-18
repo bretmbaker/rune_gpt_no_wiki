@@ -1,0 +1,165 @@
+[Spell: Superheat_Item]
+
+Superheat Item
+
+
+
+
+
+
+
+Released | 24 May2001(Update)
+
+Members | No
+
+Level | 43
+
+Spellbook | Standard
+
+Type | Utility
+
+Experience | 53
+
+Runes | 41
+
+Casting speed | 3 ticks
+
+Description | Smelt ore without a furnace
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Superheat Itemis autility spellavailable in thestandard spellbook. It requires level 43Magicto cast, and grants 53 Magic experience per cast. It allows players tosmeltoreintobarswithout afurnace. Itcannotbe cast on noted ore.
+
+Casting the spell on a piece of ore in the player'sinventoryrequires the sameSmithinglevel as smelting the bar at a furnace, along with the appropriate amount of coal. Each bar made yields the same amount of Smithing experience as would be gained from smelting the bar at a furnace. The experience-boosting effect of thegoldsmith gauntletsorSmithing capeis applied when casting Superheat Item.
+
+Casting Superheat Item oniron orewith at least twocoalalways produces asteel bar, otherwise it produces aniron barwith a 100% chance of success. This is comparable to aring of forging, used to increase the furnace smelting rate from 50% to 100%. Assuming astaff of fireis used, it is more profitable to use a ring of forging by107.32coinsper bar.
+
+Casting Superheat Itemdoeswork in conjunction withsmithing catalyst, providing the catalyst's usual effects of halving coal consumption and doubling the experience gain for the ore it was cast on.
+
+Money making[edit|edit source]
+
+The followingmoney making guidesare available for Superheat Item:
+
+Method | Hourly profit | Skills
+
+Mining coal and superheating Mithril bars | 63,448 | 30+(41+ strongly recommended forRune pickaxe, 60 recommended for access to theMining Guild)5043
+
+Mining coal and superheating Adamantite bars | 65,820 | 30+(41+ strongly recommended forRune pickaxe, 60 recommended for access to theMining Guild)7043
+
+Mining coal and superheating Runite bars | 95,688 | 30+(41+ strongly recommended forRune pickaxe, 60 recommended for access to theMining Guild)8543
+
+Smelting adamantite bars (Superheat Item) | 341,900 | 70,43
+
+Smelting runite bars (Superheat Item) | 759,000 | 85,43
+
+Cost[edit|edit source]
+
+Input | Cost
+
+14 | 135
+
+Combo runes
+
+14 | 223
+
+14 | 331
+
+14 | 515
+
+Main-hands
+
+1Alt | 115
+
+0.934 | 127
+
+Main and off-hands
+
+1 | 115
+
+0.93 | 107
+
+Cost effectiveness[edit|edit source]
+
+Level | Bar | Materials | Cost | Experience | Profit | Profit/Exp
+
+ |  | Magic | Smithing | Total
+
+1 |  | Bronze | + | 150 | 53 | 6.2 | −14 | -0.26 | -2.26 | -0.24
+
+15 |  | Iron |  | 300 | 53 | 12.5 | 10 | 0.19 | 0.80 | 0.15
+
+20 |  | Silver |  | 173 | 53 | 13.7 | −34 | -0.64 | -2.48 | -0.51
+
+30 |  | Steel | +× 2 | 576 | 53 | 17.5 | 144 | 2.72 | 8.23 | 2.04
+
+40 |  | Gold |  | 265 | 53 | 22.5 | −165 | -3.11 | -7.33 | -2.19
+
+40 |  | Gold(gauntlets) |  | 265 | 53 | 56.2 | −165 | -3.11 | -2.94 | -1.51
+
+45 |  | Lovakite | +× 2 | 391[t 1] | 53 | 20 | −391 | -7.38 | -19.55 | -5.36
+
+50 |  | Mithril | +× 4 | 806 | 53 | 30 | 174 | 3.28 | 5.80 | 2.10
+
+70 |  | Adamantite | +× 6 | 1,789 | 53 | 37.5 | 267 | 5.04 | 7.12 | 2.95
+
+85 |  | Runite | +× 8 | 11,565 | 53 | 50 | 754 | 14.23 | 15.08 | 7.32
+
+Uses[edit|edit source]
+
+Superheat Item can be used to extendMiningtrips by mining coal and the ore. Bars alsoweighless than ore. For this method, it is recommended to equip astaff of fire, with apickaxeandnature runes. Ore can also be brought to the mine to superheat while mining only coal. Without acoal bag, Superheat Item can save time transporting coal from thecoal trucks, which will also requiresoresto use. Repeatedly withdraw coal and cast Superheat Item.
+
+It can also be useful when killing creatures that drop the ores and coal to save inventory space or earnSmithingandMagicexperiencewhile fighting.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+21 August2014(update|poll) | Superheat and enchant jewellery spells will now queue up one spell if you cast them too quickly.
+
+Trivia[edit|edit source]
+
+Casting Superheat Item on a non-ore item, which fails, results in the chatbox message,You need to cast superheat item on ore.A spell splash animation will appear on the player.Casting Superheat Item on anelemental ore, which fails, results in the chatbox message,Even this spell is not hot enough to heat this item.Superheat Item can be used in place of a furnace to turnjogre bonesintoburnt jogre bones.
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

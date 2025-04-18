@@ -1,0 +1,186 @@
+[Slayer Master: Konar_quo_Maten]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+Konar quo Maten
+
+
+
+
+
+
+
+Released | 10 January2019(Update)
+
+Members | Yes
+
+Race | Kahlith
+
+Location | Mount Karuulm
+
+Leagueregion | Kourend✓
+
+Shop | Slayer Equipment,Slayer Rewards
+
+Gender | Female
+
+Options | Talk-to, Assignment, Trade, Rewards
+
+Examine | She looks dangerous, and slightly crazy!
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+NPC ID | 8623
+
+Link | MOID
+
+
+
+Konar quo Maten(translated asKonar the Hunter) is aSlayer masterwho is found in theKahlithsettlement on the summit ofMount Karuulm. Players must have acombat levelof at least 75 to be assigned aSlayer taskfrom her.
+
+She is the only Slayer master who can assign bothhydrasas a normal slayer task and theAlchemical Hydraas a boss slayer task.
+
+Getting there[edit|edit source]
+
+Rada's blessing 3or4's teleport takes players to the summit ofMount Karuulm.Heading north of theCIRfairy ringNorth of theFarming Guildteleport (found on theSkills necklace/Farming cape)North of theBattlefront teleport.Using theNPC Contactspell. Konar is initially unavailable using NPC Contact and must be spoken to first using Talk-to before becoming an option. The right-click "Assignment" option willnotunlock her in NPC contact.
+
+Slayer points[edit|edit source]
+
+Players can receiveSlayer reward pointsfor completingSlayer tasks—this is based on how many tasks players have accomplished in a row. Completion of a task assigned by Konar will grant players a varying amount of points, depending if they have completed theKourend & Kebos Diary. Although she is the third highest Slayer master, she gives the second highest slayer point reward per task due to requiring players to slay in a specific area. The only Slayer master who gives more points isKrystilia, who gives Slayer tasks in theWilderness.
+
+Task interval | Points given
+
+Default | Elite Diary
+
+Every task | 18 | 20
+
+Every 10th | 90 | 100
+
+Every 50th | 270 | 300
+
+Every 100th | 450 | 500
+
+Every 250th | 630 | 700
+
+Every 1,000th | 900 | 1,000
+
+Tasks[edit|edit source]
+
+Unlike other Slayer masters, Konar'sSlayer tasksalso include a specific location where players must complete the entire task.
+
+After a task has been rolled, a second roll is made to determine the location in which Konar wants the player to complete their assignment. This second roll will check any other additional requirements if a location is locked behind a quest. If the player has not completed the quest that unlocks the respective area, then the task will never be directed there; e.g. a player who has not completedSong of the Elveswould not be offeredwaterfiendsat theIorwerth Dungeon, whereas one who did would have that as a potential location. The chance of being assigned a specific location is equal for each eligible location,[1]barring theWildernessunless it is part of a boss task (e.g.Vet'iontask), sinceKrystiliaspecializes in that area. Due to this, players who are seeking variants of monsters (such asdemonic gorillasorTormented Demons) should use other slayer masters, as they are not eligible for Konar tasks.
+
+Bosses located in that area will also count towards the task;Cerberuscan be killed in place of normal hellhounds should she assign them toTaverley Dungeon.
+
+In return for killing the assigned monsters at the location Konar specifies, players have a chance of receiving abrimstone key, which can be used to open thebrimstone chestnext to her.
+
+Lastly, theSlayer capeperk gives a 10% chance to be reassigned the same monster for a player's task, including the same location.
+
+Monster | Possible locations | Amount | Extended amt. | Unlock requirement | Alternative(s) | Weight
+
+Aberrant spectres | Catacombs of KourendSlayer TowerStronghold Slayer Cave | 120-170 | 200-250 | 60,65 | Catacombs of Kourend:Deviant spectre | 6
+
+Abyssal demons | Catacombs of KourendAbyssSlayer Tower | 120-170 | 200-250 | 85,85, completion ofPriest in PerilorFairytale II - Cure a Queen[2] | Abyss:Abyssal Sire | 9
+
+Adamant dragons | Lithkren Vault | 3-6 | 20-30 | Completion ofDragon Slayer II | None | 5
+
+Ankou | Stronghold of SecurityStronghold Slayer DungeonCatacombs of Kourend | 50 | 91-150 | 40 | None | 5
+
+Aviansie | God Wars Dungeon | 120-170 | 200-250 | Unlocked theWatch the birdieability via spending 80Slayer reward points | Kree'arra,Flight Kilisa,Flockleader Geerin,Wingman Skree | 6
+
+Basilisks | Fremennik Slayer DungeonJormungand's Prison | 110-170 | 200-250 | 40, unlocked theBasilockedability via spending 80Slayer reward points | Jormungand's Prison:Basilisk Knight | 5
+
+Black demons | Catacombs of KourendChasm of FireTaverley DungeonBrimhaven Dungeon | 120-170 | 200-250 | 80 | Catacombs of Kourend:Skotizo | 9
+
+Black dragons | Catacombs of KourendMyths' Guild DungeonEvil Chicken's LairTaverley Dungeon | 10-15 | 40-60 | 80, partial completion ofDragon Slayer I | Catacombs of Kourend:Brutal black dragon(77and100required)Taverley Dungeon,Evil Chicken's Lair,Myths' Guild Dungeon:Baby black dragon | 6
+
+Bloodveld | Catacombs of KourendGod Wars DungeonIorwerth DungeonMeiyerditch LaboratoriesSlayer TowerStronghold Slayer Dungeon | 120-170 | 200-250 | 50,50, completion ofPriest in Peril | Catacombs of Kourend,Iorwerth Dungeon,Meiyerditch Laboratories:Mutated Bloodveld | 9
+
+Blue dragons | Catacombs of KourendIsle of Souls DungeonMyths' Guild DungeonOgre EnclaveRuins of TapoyauikTaverley Dungeon | 120-170 | N/A | 65, partial completion ofDragon Slayer I, completion ofWatchtowerfor access toOgre Enclave | Catacombs of Kourend,Ruins of Tapoyauik:Brutal blue dragon(100required)Taverley Dungeon,Myths' Guild Dungeon,Isle of Souls Dungeon,Ruins of Tapoyauik:Baby blue dragon | 4
+
+Bosses[n 1] | Varies | 3-35 | N/A | Unlocked theLike a bossability via spending 200Slayer reward points, as well as various requirements for specific bosses | None | 8
+
+Brine rats | Brine Rat Cavern | 120-170 | N/A | 47,45, partial completion ofOlaf's Quest | None | 2
+
+Bronze dragons | Catacombs of KourendBrimhaven Dungeon | 30-50 | 30-50 | 75, partial completion ofDragon Slayer I | None | 5
+
+Cave kraken | Kraken Cove | 80-100 | 150-200 | 87,80,50 | Kraken | 9
+
+Dagannoth | Catacombs of KourendLighthouseWaterbirth IslandJormungand's Prison | 120-170 | N/A | 75, completion ofHorror from the Deep | Waterbirth Island:Dagannoth Kings,dagannoth spawn | 8
+
+Dark beasts | Mourner TunnelsIorwerth Dungeon | 10-15 | 110-135 | 90,90, partial completion ofMourning's End Part II | None | 5
+
+Drakes | Karuulm Slayer Dungeon | 75-140 | N/A | 84 | None | 10
+
+Dust devils | Catacombs of KourendSmoke Dungeon | 120-170 | 200-250 | 65,70, partial completion ofDesert Treasure I | None | 6
+
+Fire giants | Brimhaven DungeonCatacombs of KourendIsle of Souls DungeonGiants' DenKaruulm Slayer DungeonStronghold Slayer DungeonWaterfall Dungeon | 120-170 | N/A | 65 | None | 9
+
+Fossil Island Wyverns | Wyvern Cave | 15-30 | 55-75 | 66,60, completion ofBone VoyageandElemental Workshop I[3] | Spitting,taloned, andlong-tailed wyvern(66required)Ancient Wyvern(82required) | 5
+
+Gargoyles | Slayer Tower | 120-170 | 200-250 | 75,80, completion ofPriest in Peril | Grotesque Guardians | 6
+
+Greater demons | Catacombs of KourendChasm of FireIsle of Souls DungeonKaruulm Slayer DungeonBrimhaven Dungeon | 120-170 | 200-250 | 75 | Catacombs of Kourend:Skotizo | 7
+
+Hellhounds | Karuulm Slayer DungeonCatacombs of KourendStronghold Slayer DungeonTaverley DungeonWitchaven Dungeon | 120-170 | N/A | 75 | Taverley Dungeon:Cerberus | 8
+
+Hydras | Karuulm Slayer Dungeon | 125-190 | N/A | 95 | Alchemical Hydra | 10
+
+Iron dragons | Brimhaven DungeonCatacombs of KourendIsle of Souls Dungeon | 30-50 | 61-100 | 80, partial completion ofDragon Slayer I | None | 5
+
+Jellies | Fremennik Slayer DungeonCatacombs of KourendRuins of Tapoyauik | 120-170 | N/A | 52,57 | Catacombs of Kourend:Warped JellyRuins of Tapoyauik:Chilled jelly | 6
+
+Kalphite | Kalphite LairKalphite Cave | 120-170 | N/A | 15 | Kalphite Lair:Kalphite Queen,guardian,soldier,workerKalphite Cave:Kalphite Guardian,soldier,worker | 9
+
+Kurask | Fremennik Slayer DungeonIorwerth Dungeon | 120-170 | N/A | 70,65, completion ofSong of the Elvesfor access toIorwerth Dungeon | None | 3
+
+Lesser Nagua | NeypotzliRuins of Tapoyauik | 55-120 | N/A | 48, completion ofPerilous Moons | Neypotzli:Sulphur NaguaRuins of Tapoyauik:Amoxliatl,Frost Nagua | 2
+
+Lizardmen | BattlefrontLizardman CanyonLizardman Settlement(Lizardman Cavesincluded)Kebos Swamp(area surroundingXeric's Shrine)Molch(Lizardman Templeincluded) | 90-110 | N/A | Unlocked theReptile got rippedability via spending 75Slayer reward points | Molch,Lizardman Canyon, andLizardman Settlement:Lizardman shamanBattlefront,Lizardman Canyon, andLizardman Settlement:Lizardman brute | 8
+
+Mithril dragons | Ancient Cavern | 3-6 | 25-35 | Unlocked theI hope you mith meability via spending 80Slayer reward points, partial completion of theBarbarian Trainingminiquest | None | 5
+
+Mutated Zygomites | Fossil IslandZanaris | 10-25 | N/A | 57,60, completion ofLost City | Fossil Island:Ancient Zygomite(completion ofBone Voyagerequired) | 2
+
+Nechryael | Catacombs of KourendIorwerth DungeonSlayer Tower | 110 | 200-250 | 80,85, completion ofPriest in Peril | Catacombs of Kourend,Iorwerth Dungeon:Greater Nechryael | 7
+
+Red dragons | Brimhaven DungeonCatacombs of KourendForthos DungeonMyths' Guild Dungeon | 30-50 | N/A | 68, partial completion ofDragon Slayer I, unlocked theSeeing redability via spending 50Slayer reward points | Catacombs of Kourend:Brutal red dragon(100required)Brimhaven Dungeon,Forthos Dungeon,Myths' Guild Dungeon:Baby red dragon | 5
+
+Rune dragons | Lithkren Vault | 3-6 | 30-60 | Completion ofDragon Slayer II | None | 5
+
+Skeletal Wyverns | Asgarnian Ice Dungeon | 5-12 | 50-70 | 72,70, completion ofElemental Workshop I | None | 5
+
+Smoke devils | Smoke Devil Dungeon | 120-170 | N/A | 93,85 | Thermonuclear smoke devil | 7
+
+Steel dragons | Catacombs of KourendBrimhaven Dungeon | 30-50 | 40-60 | 85, partial completion ofDragon Slayer I | None | 5
+
+Trolls | Troll StrongholdKeldagrimDeath PlateauSouth ofMount Quidamortem | 120-170 | N/A | 60 | Troll Stronghold:Troll generalDeath Plateau:Pee Hat,Kraka,Stick,Rock,Thrower troll | 6
+
+Turoth | Fremennik Slayer Dungeon | 120-170 | N/A | 55,60 | None | 3
+
+Vampyres | DarkmeyerMeiyerditchSlepe | 100-160 | 200-250 | Unlocked theActual Vampyre Slayerability via spending 80Slayer reward points | Feral Vampyre,Vampyre Juvinate,Vyrewatch,Vyrewatch Sentinel | 4
+
+Warped creatures | Poison Waste Dungeon | 110-170 | N/A | Unlocked theWarped Realityability via spending 60Slayer reward points | Warped Terrorbird,Warped Tortoise | 4
+
+Waterfiends | Ancient CavernIorwerth DungeonKraken Cove | 120-170 | N/A | 75, Progressed theBarbarian Trainingminiquestup to thePyre shipssection. | None | 2
+
+Wyrms | Karuulm Slayer DungeonNeypotzli | 125-190 | N/A | 62 | Wyrm,Wyrmling | 10
+
+Totaltask weight | 265
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.Click herefor a list of other transcripts that this NPC speaks in.
+
+Gallery[edit|edit source]
+
+A first teaser of Konar quo Maten, created by Mod GeeOriginal loot table (prior to a balancing update).
+

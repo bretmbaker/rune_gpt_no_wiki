@@ -1,0 +1,53 @@
+[Weapon: Killer%27S Knife#Quest]
+
+
+Thekiller's knifeis aquest itemin theMisthalin Mysteryquest. It is obtained during the confrontation withAbigaleand used to attack her.
+
+
+[Infobox]
+Released: 26 January2017(Update)
+Removal: N/A
+Members: No
+Quest item: Misthalin Mystery
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A blood-stained knife.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence

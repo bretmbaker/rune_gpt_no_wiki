@@ -1,0 +1,86 @@
+[Weapon: Sarachnis Cudgel]
+
+
+Sarachnis cudgelis a one-handed crush weapon dropped bySarachnis, requiring level 65Attackto equip. The weapon appears to be made from several of Sarachnis' legs bound together by her webs.
+The cudgel has slightly better crush and strength bonuses thanViggora's chainmaceand slightly lower bonuses than theLeaf-bladed battleaxe, although with a faster attack speed than the latter. This makes it a good crush weapon which does notdegradeor require a charge.
+
+
+[Infobox]
+Released: 4 July2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Not to be confused with a Sarachnis cuddle.
+General Store Value: 120,001 coins
+High alch: 72,000 coins
+Low alch: 48,000 coins
+Weight: 0.453 kg
+Grand Exchange Value: 119,879 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 950
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +30
+- Slash: +0
+- Crush: +70
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +70
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Sarachnis | 318 | 1 | 1/384 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Amoxliatl/Strategies(Melee)
+4 | Araxxor/Strategies(Melee)
+1 | Barbarian Assault/Strategies(Melee (mid level))
+4 | Basilisk Knight/Strategies(Melee)
+4 | Calvar'ion/Strategies(Melee)
+5 | Green dragon/Strategies(Melee)
+5 | Kalphite Queen/Strategies(Pre-diary Method)
+5 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+5 | Moons of Peril/Strategies(Blue Moon)
+4 | The Nightmare/Strategies(Melee)
+4 | Phosani's Nightmare/Strategies(Melee)
+4 | Sarachnis/Strategies(Melee)
+2 | Scurrius/Strategies(Melee (mid level))
+4 | Slayer task/Gargoyles(Melee)
+4 | Slayer task/Trolls(Melee (Ice trolls))
+3 | Slayer task/Waterfiends(Melee)
+5 | Spindel/Strategies(Melee)
+5 | The Hueycoatl/Strategies(Melee)
+5 | Venenatis/Strategies(Melee)
+4 | Vet'ion/Strategies(Melee)

@@ -1,0 +1,55 @@
+[Weapon: Infernal Axe (Or) (Trailblazer Reloaded)#Charged]
+
+
+Theinfernal axe (or)is aninfernal axewith aTrailblazer tool ornament kitadded onto it, and then changed to theTrailblazer Reloaded Leaguestyle via the "Change-Style" option. The kit gives no additional bonuses, and is only used to add aesthetics to the axe.
+Players can select the "Change-Style" option to alternate between the Trailblazer Reloaded variant and the originalTrailblazervariant.
+
+
+[Infobox]
+Released: 27 November2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Check, Revert, Change-Style, Drop
+Worn options: Check, Change-Style
+Examine: A very powerful, fiery axe in the colours of the Trailblazer Reloaded League.
+General Store Value: 97,950 coins
+High alch: 58,770 coins
+Low alch: 39,180 coins
+Weight: 1.36 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -2
+- Slash: +38
+- Crush: +32
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +42
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Hack | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence

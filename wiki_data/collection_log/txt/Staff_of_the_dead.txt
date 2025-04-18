@@ -1,0 +1,4 @@
+Item: Staff of the dead
+Summary: The staff of the dead is a bladed staff that requires 75 Magic and 75 Attack to wield. It is dropped by K'ril Tsutsaroth, and counts as a Zamorakian item while in the God Wars Dungeon and in the desert Bandit camp. It is one of several one-handed staves which boost magic damage by 15%.
+Sources:
+- K'ril Tsutsaroth (Level 650, Quantity: 1, Rarity: 1/508)

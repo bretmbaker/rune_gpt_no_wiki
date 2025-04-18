@@ -1,0 +1,48 @@
+[Weapon: Druidic Wreath]
+
+
+Thedruidic wreathis a piece of headwear obtained after completing the midsummer ritual three times during any of themidsummer eventsafter2014. As there was no midsummer event in2018, it was made available fromDiango's Toy Storefor 1coin.
+This item mimics the look of thethird age druidic wreathinRuneScape, and as such can be considered part of the3rd age druidic robesset. Unlike the robes, however, the wreath offers no bonuses.
+
+
+[Infobox]
+Released: 26 June2014(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check rank, Destroy
+Worn options: Check Rank
+Destroy: You can get a replacement from Diango.
+Examine: This one's more common than you'd expect.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.32 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

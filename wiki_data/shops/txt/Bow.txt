@@ -1,0 +1,119 @@
+[Shop: Bow]
+
+Bowsareranged weapons. Most bows can be crafted using theFletchingskill. Most bows requirearrowsto shoot. There are three different kinds of bows:shortbows,longbows, andcomposite bows. Shortbows attack faster but have a shorterattack rangethan longbows. Longbows have longer range but have a slowerattack speed. Composite bows have the same attack range as longbows, but fire slightly faster and have slightly higher accuracy.
+
+Bows[edit|edit source]
+
+Level | Bow | Accuracybonus | Ammo | Members
+
+1 |  | Cursed goblin bow | +0 | Up toiron arrows | 0
+
+1 |  | Rain bow | +8 | Up toiron arrows | 1
+
+1 |  | Training bow | +8 | Training arrows | 0
+
+1 |  | Shortbow | +8 | Up toiron arrows | 0
+
+1 |  | Longbow | +8 | Up toiron arrows | 0
+
+1 |  | Starter bow | +20 | Uses charges | 0
+
+5 |  | Oak shortbow | +14 | Up tosteel arrows | 0
+
+5 |  | Oak longbow | +14 | Up tosteel arrows | 0
+
+5 |  | Signed oak bow | +14 | Up tosteel arrows | 1
+
+20 |  | Willow shortbow | +20 | Up tomithril arrows | 0
+
+20 |  | Willow longbow | +20 | Up tomithril arrows | 0
+
+20 |  | Willow comp bow | +22 | Up tomithril arrows | 0
+
+30 |  | Maple shortbow | +29 | Up toadamant arrows | 0
+
+30 |  | Maple longbow | +29 | Up toadamant arrows | 0
+
+30 |  | Ogre bow | +38 | Ogre arrows | 1
+
+30 |  | Comp ogre bow | +38 | Brutal arrowsup torune | 1
+
+40 |  | Yew shortbow | +47 | Up torune arrows | 1
+
+40 |  | Yew longbow | +47 | Up torune arrows | 1
+
+40 |  | Yew comp bow | +49 | Up torune arrows | 1
+
+50 |  | Bone shortbow | +69 | Up toamethyst arrows | 1
+
+50 |  | Seercull | +69 | Up toamethyst arrows | 1
+
+50 |  | Magic shortbow | +69 | Up toamethyst arrows | 1
+
+50 |  | Magic shortbow (i) | +75 | Up toamethyst arrows | 1
+
+50 |  | Magic longbow | +69 | Up toamethyst arrows | 1
+
+50 |  | Magic comp bow | +71 | Up toamethyst arrows | 1
+
+60 |  | Craw's bow | +75 | Uses charges | 1
+
+60 |  | Dark bow | +95 | Up todragon arrows | 1
+
+60 |  | Dark bow (bh) | +105 | Up todragon arrows | 1
+
+65 |  | 3rd age bow | +80 | Up todragon arrows | 1
+
+70 |  | Crystal bow | +100 | Uses charges | 1
+
+70 |  | Webweaver bow | +85 | Uses charges | 1
+
+77 |  | Scorching bow | +124 | Up todragon arrows | 1
+
+80 |  | Bow of faerdhinen | +128 | Uses charges | 1
+
+80 |  | Bow of faerdhinen (c) | +128 | None | 1
+
+80 |  | Venator bow | +90 | Up todragon arrows | 1
+
+85 |  | Twisted bow | +70 | Up todragon arrows | 1
+
+Trivia[edit|edit source]
+
+The bow string of most given bows is not visible when wielded by players (the sole exception being the charged venator bow). This is most likely due to graphical limitations.
+
+See also[edit|edit source]
+
+Crossbow (weapon)
+
+v•t•eRangedweapons
+
+Bows | ShortbowsNormal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u)(i)LongbowsNormal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u)Composite bowsWillowOgreYewMagicSpecial bowsTrainingRain bowStarterCursed goblinSigned oakOgreBoneSeercullDark(bh)Craw's3rd ageWebweaverCrystalScorchingBow of Faerdhinen(c)Venator(echo)Twisted | Shortbows | Normal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u)(i) | Longbows | Normal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u) | Composite bows | WillowOgreYewMagic | Special bows | TrainingRain bowStarterCursed goblinSigned oakOgreBoneSeercullDark(bh)Craw's3rd ageWebweaverCrystalScorchingBow of Faerdhinen(c)Venator(echo)Twisted
+
+Shortbows | Normal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u)(i)
+
+Longbows | Normal(u)Oak(u)Willow(u)Maple(u)Yew(u)Magic(u)
+
+Composite bows | WillowOgreYewMagic
+
+Special bows | TrainingRain bowStarterCursed goblinSigned oakOgreBoneSeercullDark(bh)Craw's3rd ageWebweaverCrystalScorchingBow of Faerdhinen(c)Venator(echo)Twisted
+
+Crossbows | StandardNormalBronzeBluriteIronSteelMithrilAdamantRune(or)Dragon(cr)BallistaeLightHeavy(or)Special crossbowsPhoenixDorgeshuunHunters'Hunters' sunlightKaril'sDragon hunter(b)(t)ArmadylZaryte | Standard | NormalBronzeBluriteIronSteelMithrilAdamantRune(or)Dragon(cr) | Ballistae | LightHeavy(or) | Special crossbows | PhoenixDorgeshuunHunters'Hunters' sunlightKaril'sDragon hunter(b)(t)ArmadylZaryte
+
+Standard | NormalBronzeBluriteIronSteelMithrilAdamantRune(or)Dragon(cr)
+
+Ballistae | LightHeavy(or)
+
+Special crossbows | PhoenixDorgeshuunHunters'Hunters' sunlightKaril'sDragon hunter(b)(t)ArmadylZaryte
+
+Thrown | DartsBronzeIronSteelBlackMithrilAdamantRuneAmethystDragonThrowing knifeBronzeIronSteelBlackMithrilAdamantRuneDragonThrowing axesBronzeIronSteelMithrilAdamantRuneDragonMorrigan'sChinchompasGreyRedBlackOtherSalamandersHoly waterMud pieHunter's spearToktz-xil-ulEclipse atlatlToxic blowpipeTonalztics of Ralos | Darts | BronzeIronSteelBlackMithrilAdamantRuneAmethystDragon | Throwing knife | BronzeIronSteelBlackMithrilAdamantRuneDragon | Throwing axes | BronzeIronSteelMithrilAdamantRuneDragonMorrigan's | Chinchompas | GreyRedBlack | Other | SalamandersHoly waterMud pieHunter's spearToktz-xil-ulEclipse atlatlToxic blowpipeTonalztics of Ralos
+
+Darts | BronzeIronSteelBlackMithrilAdamantRuneAmethystDragon
+
+Throwing knife | BronzeIronSteelBlackMithrilAdamantRuneDragon
+
+Throwing axes | BronzeIronSteelMithrilAdamantRuneDragonMorrigan's
+
+Chinchompas | GreyRedBlack
+
+Other | SalamandersHoly waterMud pieHunter's spearToktz-xil-ulEclipse atlatlToxic blowpipeTonalztics of Ralos

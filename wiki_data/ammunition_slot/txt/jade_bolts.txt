@@ -1,0 +1,46 @@
+[Weapon: Jade Bolts]
+
+
+Jade boltsareblurite boltstipped withjade. Jade bolts can be created through theFletchingskill. A player must first have a Fletching level of 26 and take a cutjadeand use a chisel with it to make 12Jade bolt tips, granting 2 Fletching experience. Attaching jade bolt tips also requires a Fletching level of 26, and for each jade bolt tip attached to a blurite bolt, a player is granted 2.4 Fletching experience. Once the jade bolt tips have been attached, the blurite bolts become jade bolts.
+Jade bolts can be enchanted through the spellEnchant Crossbow Bolt (Jade)by a player with level 14Magic. The spell enchants 10 jade bolts at a time, and once they are enchanted they becomeenchanted jade boltsand gain a special ability.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Jade tipped Blurite crossbow bolts.
+General Store Value: 12 coins
+High alch: 7 coins
+Low alch: 4 coins
+Weight: 0 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +30
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

@@ -1,0 +1,80 @@
+[Weapon: Bellator Ring]
+
+
+Thebellator ringis one of fourancient ringswhich currently boasts the highest slash attack bonus of any ring, surpassing theimbued warrior ringby +12. The ring requires players to have killedthe Whispererat least once to wear, which is done duringDesert Treasure II - The Fallen Empire; attempting to wear it otherwise will result in the messageThe ring slips off your finger. The power within it seems unfamiliar.
+The ring requires level 90Magicand 80Craftingto create (both being boostable), as well as having learnt how to combine Fremennik ring icons with ancient vestiges viaPeer the Seer.
+
+
+[Infobox]
+Released: 26 July2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: An occult ring that grants immense slicing power.
+General Store Value: 140,000 coins
+High alch: 84,000 coins
+Low alch: 56,000 coins
+Weight: 0.012 kg
+Grand Exchange Value: 57,293,035 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 457
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +20
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+4 | Barbarian Assault/Strategies(Melee (high level))
+4 | Down Do Specs(Melee)
+1 | Duke Sucellus/Strategies(Melee)
+2 | Fortis Colosseum/Strategies(High efficiency)
+2 | Fortis Colosseum/Strategies(Ranged)
+2 | Fortis Colosseum/Strategies(Mage)
+2 | Fortis Colosseum/Strategies(Melee)
+1 | Giant Mole/Strategies(Dharok's)
+2 | Grotesque Guardians/Strategies(Melee)
+2 | K'ril Tsutsaroth/Strategies(Melee Tank)
+2 | K'ril Tsutsaroth/Strategies(Solo Melee)
+1 | K'ril Tsutsaroth/Strategies(Melee)
+1 | Lizardman shaman/Strategies(Melee)
+2 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+2 | Nightmare Zone/Strategies(Melee)
+2 | Nightmare Zone/Strategies(Melee (Guthan's))
+2 | Nightmare Zone/Strategies(Melee (Dharok's))
+1 | Phantom Muspah/Strategies(Melee)
+1 | Sarachnis/Strategies(Melee)
+2 | Scurrius/Strategies(Melee (high level))
+2 | Skotizo/Strategies(Melee)
+2 | Theatre of Blood/Hard Mode(Melee)
+2 | Theatre of Blood/Strategies(Learner)
+2 | Theatre of Blood/Strategies(Melee)
+1 | Thermonuclear smoke devil/Strategies(Melee)
+1 | Vardorvis/Strategies(Melee)

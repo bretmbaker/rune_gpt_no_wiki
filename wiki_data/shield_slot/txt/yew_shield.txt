@@ -1,0 +1,49 @@
+[Weapon: Yew Shield]
+
+
+Ayew shieldis a shield that requires at least level 40Defenceto be worn. It is created by using aknifeon twoyew logs. Creating the shield requires level 72 inFletching, and grants the player 150 experience.
+It is used as the base for creating ablue d'hide shield.
+
+
+[Infobox]
+Released: 1 February2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A solid yew shield.
+General Store Value: 640 coins
+High alch: 384 coins
+Low alch: 256 coins
+Weight: 3.175 kg
+Grand Exchange Value: 132 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 8,670
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +9
+- Crush: +7
+- Magic: +3
+- Ranged: +8
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

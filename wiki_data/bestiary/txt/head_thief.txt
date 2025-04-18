@@ -1,0 +1,41 @@
+Name: Head Thief
+Combat Level: 26
+Size: 1x1
+Info:
+- Description: The head of the treacherous blanket stealing gang.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4248
+- Link: MOID
+
+Location:
+- Area: Thief's hideout (south-east of Clock Tower)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 37
+Attack: 24
+Strength: 18
+Defence: 16
+Magic: 0
+Ranged: 2
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

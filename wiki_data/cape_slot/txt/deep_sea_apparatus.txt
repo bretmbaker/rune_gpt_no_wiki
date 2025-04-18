@@ -1,0 +1,47 @@
+[Weapon: Deep Sea Apparatus]
+
+
+Deep sea apparatusis an item in theSailing alpha. It can be acquired by taking charting tools from a cargo hold on a ship.
+
+
+[Infobox]
+Released: 20 March2025(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Bankable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Inspect, Destroy
+Destroy: You can get another from the cargo hold on your boat.
+Examine: I'll need a helmet to make this work.
+General Store Value: 50 coins
+High alch: 30 coins
+Low alch: 20 coins
+Weight: 10 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

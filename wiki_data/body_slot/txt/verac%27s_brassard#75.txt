@@ -1,0 +1,66 @@
+[Weapon: Verac%27S Brassard#75]
+
+
+Verac's brassardismelee armourworn in thebody slotthat is part ofVerac's equipment. To wear Verac's brassard, a player must have 70Defence.
+Verac's brassard offers significantly lessmeleeandrangedprotection thanGuthan,ToragandDharok'splatebodies (which all have equal stats), however it is better than theRune platebody, with the exception of having -1 stab defence bonus. Because of this, Verac's brassard is rarely seen being used outside of the full set. However, Verac's brassard does not penalise ranged andmagicattack bonuses nearly as much as regular melee armour.
+
+
+[Infobox]
+Released: 9 May2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Check, Drop
+Destroy: If you drop this item it will break. Are you sure you want to drop it?
+Examine: Verac the Defiled's brassard.
+General Store Value: 280,000 coins
+High alch: 168,000 coins
+Low alch: 112,000 coins
+Weight: 4.989 kg
+Grand Exchange Value: 185,407 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 247
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +81
+- Slash: +95
+- Crush: +85
+- Magic: +0
+- Ranged: +81
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Barrows) | N/A | 1 | 7 × 1/2,448 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Ancient Wyvern/Strategies(Prayer)
+3 | Chaos Elemental/Strategies(Melee)
+4 | Drake/Strategies(Melee)
+1 | Kalphite Queen/Strategies(Verac the Defiled's)
+5 | Moons of Peril/Strategies(Moons of Peril Armour)
+3 | Slayer task/Fossil Island wyverns(Prayer)
+3 | TzHaar Fight Cave/Strategies(Melee)

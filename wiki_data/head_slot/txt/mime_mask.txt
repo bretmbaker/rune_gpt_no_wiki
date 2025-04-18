@@ -1,0 +1,51 @@
+[Weapon: Mime Mask]
+
+
+Mime maskis a head item gained from theMimerandom eventand is part of themime outfit. It gives no bonuses apart from its cosmetic appeal.
+It can be sewn with ablack beretto make aberet maskby talking toPatchy, along with 500coins. Doing so requires the completion ofCabin Feverand abook o' piracy. Once the mask has been sewn to a beret, completion of the Mime random event will once again reward players with a mime mask.
+
+
+[Infobox]
+Released: 2 August2004(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A mime would wear this.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.001 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Mime (Random Event) | N/A | 1 | Always | 

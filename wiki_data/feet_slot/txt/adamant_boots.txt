@@ -1,0 +1,62 @@
+[Weapon: Adamant Boots]
+
+
+Adamant bootsare a pair ofbootsmade ofadamantite. The player needs at least 30Defenceto wear these armoured boots. These are the first tier of metal boots to offer a strength bonus. Players without the required Defence level can choose to wearclimbing bootsinstead, which have one more strength bonus, but lower defence bonuses.
+As with allmetal boots, this piece of armourcannotbe made using theSmithingskill.
+
+
+[Infobox]
+Released: 26 January2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: These will protect my feet.
+General Store Value: 1,920 coins
+High alch: 1,152 coins
+Low alch: 768 coins
+Weight: 1.36 kg
+Grand Exchange Value: 1,050 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 1,368
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +10
+- Slash: +11
+- Crush: +12
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +1
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Gargoyle | 111 | 1 | 1/128 | 
+Grotesque Guardians |  | 1 | 2 × 1/137 | 
+Marble gargoyle | 349 | 1 | 3 × 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Skotizo/Strategies(Melee)
+5 | Vyrewatch Sentinel/Strategies(DPS)

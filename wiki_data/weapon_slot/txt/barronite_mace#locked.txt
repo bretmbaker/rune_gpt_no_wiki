@@ -1,0 +1,60 @@
+[Weapon: Barronite Mace#Locked]
+
+
+TheBarronite maceis a crush melee weapon that can be obtained within theRuins of Camdozaal, requiring 40Attackto wield. Its bonuses are comparable to that of arune mace, but it provides higher melee strength and crush accuracy bonuses at the cost of a lower prayer bonus. It also has a 15% damage bonus againstgolems, including those within the dungeon. Unlike regular metal maces, the barronite mace offersbluntrather thanspikedattack styles, which means it can only be used forcrushattacks, despite having a notablestabaccuracy bonus. Forfree-to-playand low level players, this mace is a good alternative to therune scimitarwhen fighting golems thanks to itsgolembaneeffect and it is the second-best free-to-play weapon in most other situations, outperforming therune swordin both strength and attack bonus.
+When lost in aPvMdeath below level 20 of theWilderness, the mace goes to thegravestoneand does not require repair. Above level 20 Wilderness, it will be converted to coins and placed in the gravestone. In aPvPdeath below level 20 of the Wilderness, the mace will be broken and will require 10,500 coins fee to be repaired, while the killer will receive 10,500 coins as additional loot. Above level 20 Wilderness, the mace will be converted to coins and left as loot for the killer.
+
+
+[Infobox]
+Released: 14 April2021(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: Made from the unearthly material, barronite.
+General Store Value: 10,500 coins
+High alch: 6,300 coins
+Low alch: 4,200 coins
+Weight: 2 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +20
+- Slash: -2
+- Crush: +40
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +40
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Free-to-play Ironman guide(Meleegear)
+4 | Free-to-play Ironman guide(Prayermelee gear)
+2 | Free-to-play melee training(Meleegear)

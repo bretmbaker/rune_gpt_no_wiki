@@ -1,0 +1,261 @@
+[Shop: Bob]
+
+Bob
+
+
+
+
+
+
+
+Released | 4 January2001(Update)
+
+Members | No
+
+Race | Human
+
+Quest | •The Lost Tribe•Death to the Dorgeshuun
+
+Location | Lumbridge
+
+Leagueregion | Misthalin✓
+
+Shop | Bob's Brilliant Axes.
+
+Gender | Male
+
+Options | Talk-to, Trade, Repair
+
+Examine | An expert on axes.
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+NPC ID | 10619
+
+Link | MOID
+
+
+
+Bobis the owner ofBob's Brilliant Axesin southernLumbridge. Players can pay Bob to repair damagedBarrows equipmentandMoon equipment. However, many players prefer to repair their Barrows armour at anarmour standin aplayer-owned housebecause it is usually cheaper depending on the player'sSmithinglevel.
+
+Involvement in Quests and Events[edit|edit source]
+
+During theThe Lost Tribequest, Bob is one of the people inLumbridgethat can be approached about the disturbance to the castle basement wall. He says he saw a goblin with bulging eyes enter a hole inLumbridge castle basement, and tried to follow it, but it was too dark. He toldthe Dukeabout what he saw.During theDeath to the Dorgeshuunquest, Bob is one of the people who you can bringZanikto see, during her initial exploration of the overworld. Bob expresses strong disgust towards theDorgeshuun, screaming at the player and Zanik"Get out of my shop! GET OUT!" [...]  We don't serve the likes of that thing in here.During the2017 Birthday event, Bob was one of several NPCs to challenge the player with a riddle. His riddle was about the cost of repairing an axe, in reference to his historical role repairing axes for players who failed to notice theEnt random eventin time.During the2018 Christmas event, Bob gave the player anAmulet of duplication.During the2019 Halloween event, Bob told the player about a fight that occurred between two goblin trick-or-treaters outside his shop if asked.During the20th Anniversary event, Bob expressed displeasure at having theGnome Childin his store. Initially, he said"We don't normally serve its kind in this shop."[a], before being flattered after the Gnome Child mistook him forRobert the Strongand deciding"Your gnome friend is weird, but he's welcome."During the2021 Birthday event, Bob was one of theLumbridgecitizens to beattacked by a monkey.During the2023 Birthday event, Bob fixed theCracked cake tin.
+
+Stock[edit|edit source]
+
+Item | Numberin stock | Restocktime | Pricesold at | Pricebought at | GEprice
+
+ | Bronze pickaxe | 5 | 1m  (100t) | 1 | 0 | 66
+
+ | Bronze axe | 10 | 1m  (100t) | 16 | 9 | 83
+
+ | Iron axe | 5 | 2m  (200t) | 56 | 33 | 100
+
+ | Steel axe | 3 | 4m  (400t) | 200 | 120 | 71
+
+ | Iron battleaxe | 5 | 1m  (100t) | 182 | 109 | 39
+
+ | Steel battleaxe | 2 | 2m  (200t) | 650 | 390 | 201
+
+ | Mithril battleaxe | 1 | 30m  (3,000t) | 1,690 | 1,014 | 1,021
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.Click herefor a list of other transcripts that this NPC speaks in.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+17 March2021(update) | Bob (2021 Birthday event)was replaced with the regular Bob. Bob's NPC ID changed to10619.
+
+17 February2021(update) | Bob was removed from the world and replaced with a nameless NPC in the game's cache.Bob (2021 Birthday event)took his place in the world for the2021 Birthday event.
+
+21 May2015(update|poll) | Bob gained a right-click option to repair Barrows equipment.
+
+11 September2014(update|poll) | As a result of the removal of the Ent random event and the automatic repair of all existing broken axes, Bob no longer was able to fix woodcutting axes for the player.
+
+13 June2013(update|poll) | Bob and the other item repairers can now repair all your Barrows kit in a single transaction.
+
+17 – 24 November 2004 | The NPC was graphically updated.
+
+Gallery (historical)[edit|edit source]
+
+ | 
+
+29 March 2004 –17-24 November 2004 | 17-24 November 2004 –present
+
+Trivia[edit|edit source]
+
+Bob was the first non-player character added toRuneScape Classic. He can be seen in pre-release screenshots with a different skin tone, as his addition predated the option to change the skin of characters."Bob is a crazy racist!"according to aRuneScriptcode comment accompanying Bob's hysterical outburst towardsZanikduring theDeath to the Dorgeshuunquest.[2]. This comment was written byMod John A, the main developer of that quest. After Death to the Dorgeshuun was released in2006, "crazy racist" became one of Bob's defining character traits going forward.Prior to the removal of theEnt random eventin2014, Bob would repair a player'sBroken axeif they failed to notice the Ent in time.The painting inside Bob's Brilliant Axe's may be a reference toBob Ross's "Distant Mountains" painting, as the framing and subject are nearly identical.As a child, Bob was sent to theVarrock Museumby his father, hoping he'd follow the path of academia. The museum instead assigned him to preserve and repairThird Age Armour, a skill he picked up rather quickly. In the May 2022 edition of thePostbag from the Hedge, he credits this experience as the reason he is able to repair ancient and exotic armours such as those dropped by theBarrows Brothers.
+
+Notes[edit|edit source]
+
+References[edit|edit source]
+
+v•t•eArmour Repair
+
+NPCs | AneirinBobTindel MarchantDunstanSquire
+
+Player-owned house | Repair benchWhetstoneArmour stand
+
+Damaged equipment | Broken armourBroken arrowBroken staffDamaged armourRusty swordRusty scimitar
+
+v•t•eThe Lost Tribe
+
+NPCs | SigmundDuke HoracioCookHansFather AereckBobReldoGeneral BentnozeGeneral WartfaceMistagKazgarUr-tag
+
+Items | BroochGoblin symbol bookKeySilverwarePeace treatyH.A.M. robesHoodShirtRobeGlovesBootsCloakLogo |  | BroochGoblin symbol bookKeySilverwarePeace treaty | H.A.M. robes | HoodShirtRobeGlovesBootsCloakLogo
+
+ | BroochGoblin symbol bookKeySilverwarePeace treaty
+
+H.A.M. robes | HoodShirtRobeGlovesBootsCloakLogo
+
+Locations | Lumbridge Swamp CavesDorgesh-Kaan mine
+
+Music | Cave of the GoblinsThe Lost MelodyThe Lost Tribe
+
+Related | Quick guideTranscriptDorgeshuun
+
+v•t•eDeath to the Dorgeshuun
+
+NPCs | MistagZanikJunaJimmy the ChiselDuke HoracioLumbridge GuideFather AereckDwarfH.A.M. MemberTignikEnemiesSigmundJohanhus UlsbrechtH.A.M. DeaconGuard |  | MistagZanikJunaJimmy the ChiselDuke HoracioLumbridge GuideFather AereckDwarfH.A.M. MemberTignik | Enemies | SigmundJohanhus UlsbrechtH.A.M. DeaconGuard
+
+ | MistagZanikJunaJimmy the ChiselDuke HoracioLumbridge GuideFather AereckDwarfH.A.M. MemberTignik
+
+Enemies | SigmundJohanhus UlsbrechtH.A.M. DeaconGuard
+
+Items | ZanikCrate with zanikH.A.M. robesHoodShirtRobeGlovesBootsCloakLogoKeysBronzeSilverIronSteel |  | ZanikCrate with zanik | H.A.M. robes | HoodShirtRobeGlovesBootsCloakLogo | Keys | BronzeSilverIronSteel
+
+ | ZanikCrate with zanik
+
+H.A.M. robes | HoodShirtRobeGlovesBootsCloakLogo
+
+Keys | BronzeSilverIronSteel
+
+Locations | Dorgesh-Kaan(Dorgesh-Kaan mine)H.A.M. HideoutChasm of TearsWater mill cellar
+
+Music | H.A.M. FistedSigmund's Showdown
+
+Related | Quick guideTranscript
+
+v•t•eLumbridge
+
+Inhabitants | AbigailaBarfy BillBartenderBobCookCount CheckDonieDoomsayerDuke HoracioFather AereckGeeGelinHansHatius CosaintusLeagues AssistantLumbridge GuidePerduShop assistantShop keeperSigmundTutorsAdventurer JonArthur the Clue HunterBanker tutorCooking tutorCrafting tutorIronman tutorLeagues TutorMagic combat tutorMelee combat tutorNigelPrayer tutorRanged combat tutorSmithing apprenticeWoodsman tutor |  | AbigailaBarfy BillBartenderBobCookCount CheckDonieDoomsayerDuke HoracioFather AereckGeeGelinHansHatius CosaintusLeagues AssistantLumbridge GuidePerduShop assistantShop keeperSigmund | Tutors | Adventurer JonArthur the Clue HunterBanker tutorCooking tutorCrafting tutorIronman tutorLeagues TutorMagic combat tutorMelee combat tutorNigelPrayer tutorRanged combat tutorSmithing apprenticeWoodsman tutor
+
+ | AbigailaBarfy BillBartenderBobCookCount CheckDonieDoomsayerDuke HoracioFather AereckGeeGelinHansHatius CosaintusLeagues AssistantLumbridge GuidePerduShop assistantShop keeperSigmund
+
+Tutors | Adventurer JonArthur the Clue HunterBanker tutorCooking tutorCrafting tutorIronman tutorLeagues TutorMagic combat tutorMelee combat tutorNigelPrayer tutorRanged combat tutorSmithing apprenticeWoodsman tutor
+
+Shops | Bob's Brilliant Axes.Culinaromancer's ChestDeadman Reward StoreLeagues Reward ShopLumbridge General Store
+
+Features | Lumbridge CastleLumbridge Castle bankThe Sheared Ram
+
+Related | Lumbridge cow fieldLumbridge SwampLumbridge Swamp CavesRiver Lum
+
+v•t•e2017 Birthday event
+
+NPCs | Party PeteMuggerBartenderBobDuke HoracioHansHorvikKing RoaldLeelaMakeover MageNedSir VyvinThessaliaWise Old ManGnome childAggieEvil DaveCow31337KillerSquireKayleeSergeant DamienLucyMeganLutistTimCrunchyGabe
+
+Items | Invitation listBeer
+
+Rewards | 4th birthday hatBirthday balloonsSmooth danceCrazy dance
+
+v•t•e2018 Christmas event
+
+NPCs | Duke HoracioHansSmithing apprenticeCount CheckBobGillie GroatsFred the FarmerDoomsayerParty PeteFalador KnightCowboyCow
+
+Items | Festive tree branchWaste gemsChurch decorationLumbridge task listChair (Hans)Golden ringsAmulet of duplicationPear tree saplingKnight summonerCow tail
+
+Rewards | Candy caneStar-faceTree topTree skirt
+
+Scenery | Barrel of GemsPear treeTreeSnowChristmas Tree
+
+Locations | LumbridgeLumbridge CastleLumbridge cow fieldFalador Party Room
+
+Related | TranscriptGallerySnowball
+
+v•t•e2019 Halloween event
+
+NPCs | epic mager34GrasslegsSnailneckBobCookmad melvin96GoblinButterfly
+
+Items | White bed sheetsSmoke powderShiny glass
+
+Rewards | Pumpkin lanternSkeleton lanternSpooky outfitHoodRobeSkirtGlovesBootsSpookier outfitHoodRobeSkirtGlovesBoots |  | Pumpkin lanternSkeleton lantern | Spooky outfit | HoodRobeSkirtGlovesBoots | Spookier outfit | HoodRobeSkirtGlovesBoots
+
+ | Pumpkin lanternSkeleton lantern
+
+Spooky outfit | HoodRobeSkirtGlovesBoots
+
+Spookier outfit | HoodRobeSkirtGlovesBoots
+
+Objects | BedBlack powderSwampy sink
+
+Related | Transcript
+
+v•t•e20th Anniversary event
+
+Characters | Wizard GrayzagGnome ChildWise Old ManMiss SchismCookHansBobThe ThingProfessor Oddenstein
+
+Rewards | 20th anniversary hat20th anniversary top20th anniversary bottom20th anniversary necklace20th anniversary cape20th anniversary gloves20th anniversary bootsGnome child maskGnome child icon
+
+Realm of Memories | NPCsGnome ChildBig MoChuckPious PeteThranderCheerleaderMysterious WatcherMonstersBaby blue dragonBlack demonBlack dragonBlue dragonGreater demonKing black dragonKing ScorpionLesser demonLizard manOrcRed dragonScorpionTrollMiscellanousPortalSleeping bag | NPCs | Gnome ChildBig MoChuckPious PeteThranderCheerleaderMysterious Watcher | Monsters | Baby blue dragonBlack demonBlack dragonBlue dragonGreater demonKing black dragonKing ScorpionLesser demonLizard manOrcRed dragonScorpionTroll | Miscellanous | PortalSleeping bag
+
+NPCs | Gnome ChildBig MoChuckPious PeteThranderCheerleaderMysterious Watcher
+
+Monsters | Baby blue dragonBlack demonBlack dragonBlue dragonGreater demonKing black dragonKing ScorpionLesser demonLizard manOrcRed dragonScorpionTroll
+
+Miscellanous | PortalSleeping bag
+
+Other | TranscriptGnome child (item)
+
+v•t•e2021 Birthday event
+
+Characters | Duke Horacio(party)Zeke(party)LuthasUnicorn1337KilrMonkey targetsBobDonieFather AereckCowSheepUnicornParty guestsAwowogeiElunedMofina |  | Duke Horacio(party)Zeke(party)LuthasUnicorn1337Kilr | Monkey targets | BobDonieFather AereckCowSheepUnicorn | Party guests | AwowogeiElunedMofina
+
+ | Duke Horacio(party)Zeke(party)LuthasUnicorn1337Kilr
+
+Monkey targets | BobDonieFather AereckCowSheepUnicorn
+
+Party guests | AwowogeiElunedMofina
+
+Items | Monkey cageBambooPremium bananaList of monkey sightingsUnicorn hornCaged monkeysBob's caged monkeyAereck's caged monkeyDonie's caged monkeySheep's caged monkeyCow's caged monkeyUnicorn's caged monkey |  | Monkey cageBambooPremium bananaList of monkey sightingsUnicorn horn | Caged monkeys | Bob's caged monkeyAereck's caged monkeyDonie's caged monkeySheep's caged monkeyCow's caged monkeyUnicorn's caged monkey
+
+ | Monkey cageBambooPremium bananaList of monkey sightingsUnicorn horn
+
+Caged monkeys | Bob's caged monkeyAereck's caged monkeyDonie's caged monkeySheep's caged monkeyCow's caged monkeyUnicorn's caged monkey
+
+Objects | Banana BarrelBamboo BarrelBamboo Monkey TrapCaged monkey (Aereck)Caged monkey (Bob)Caged monkey (Sheep)Caged monkey (Donie)Caged monkey (Cow)Caged monkey (unicorn)
+
+Rewards | Cursed bananaBanana cape
+
+Other | Transcript
+
+v•t•e2023 Birthday event
+
+Characters | Patty SeerWarmhandzBobParty PeteArchmage SedridorGeneral BentnozeGeneral WartfaceGnome childKing RoaldThurgoSir Pear VisorAlvargElvarg |  | Patty SeerWarmhandzBobParty PeteArchmage SedridorGeneral BentnozeGeneral WartfaceGnome childKing RoaldThurgoSir Pear VisorAlvargElvarg
+
+ | Patty SeerWarmhandzBobParty PeteArchmage SedridorGeneral BentnozeGeneral WartfaceGnome childKing RoaldThurgoSir Pear VisorAlvargElvarg
+
+Items | Cracked cake tinPrized cake tinPromissory noteCakesSpecial cakeVarrock cakeGnome cakeGoblin cakeDwarf cakeOld School MuseumAbyssal-tainted essenceCasket pieceChunk of barroniteCrystal chunkDeath's fabricForinthry sigilHallowed bricksMuspah spikeOsmumten's coinSarachnis chitinStar shardTempoross remnantVampyric essenceZarosian emblem |  | Cracked cake tinPrized cake tinPromissory note | Cakes | Special cakeVarrock cakeGnome cakeGoblin cakeDwarf cake | Old School Museum | Abyssal-tainted essenceCasket pieceChunk of barroniteCrystal chunkDeath's fabricForinthry sigilHallowed bricksMuspah spikeOsmumten's coinSarachnis chitinStar shardTempoross remnantVampyric essenceZarosian emblem
+
+ | Cracked cake tinPrized cake tinPromissory note
+
+Cakes | Special cakeVarrock cakeGnome cakeGoblin cakeDwarf cake
+
+Old School Museum | Abyssal-tainted essenceCasket pieceChunk of barroniteCrystal chunkDeath's fabricForinthry sigilHallowed bricksMuspah spikeOsmumten's coinSarachnis chitinStar shardTempoross remnantVampyric essenceZarosian emblem
+
+Rewards | Party (emote)10th birthday balloons10th birthday capeBob the cat slippersCake hatDragon candle daggerGnome child backpackGnome child plushJad plushJad slippersOldschool jumperSilver partyhatStray dog plush
+
+Scenery | Warmhandz' FireBirthday BalloonsBirthday plushiesBirthday cake
+
+Other | Transcript

@@ -1,0 +1,203 @@
+Clue scroll (beginner)
+A clue scroll (beginner) is a random drop from a large variety of lower-levelled monsters and certain skilling activities. It is the only clue type available in free-to-play and, if skilling, can be found when fishing ( clue bottle ), mining ( clue geode ), or woodcutting ( clue nest ). Members can also get them from baby implings and young implings . Clue scrolls are the start of a Treasure Trail - a treasure hunt that sends players hunting all around Gielinor following a trail of clues that lead to rare and unique treasures. However, accounts that are less than 10 hours old will not be able to receive any unique rewards.
+For a guide on how to complete a clue scroll, see Treasure Trails Guide . Beginner clues can be between 1-3 steps long. Unlike all other clue types, which are equally likely to have each number of steps, beginner clues have a 10% chance of completion at 1 step and a 45% chance of completion at 2 or 3 steps.
+Beginner clue scrolls are the easiest to obtain and complete, and offer low rewards in return. One is given as a reward by Veos after completing X Marks the Spot should players not have one already in their possession.
+After completing 600 beginner clues, the player will unlock the Explore emote.
+Beginner clue scrolls are not required to be given to Watson in exchange for a master clue scroll . In addition, beginner clue scrolls will not give master clue scrolls as a reward.
+Contents
+1 Drop trick mechanics
+2 Types of clues
+3 Item Requirements 3.1 Emote clues 3.2 Charlie the Tramp Tasks
+3.1 Emote clues
+3.2 Charlie the Tramp Tasks
+4 Possible rewards
+5 Item sources
+6 Changes
+7 References
+Drop trick mechanics [ edit | edit source ]
+Scrolls dropped by monsters appear on the ground with any other drops made by the monster - the scroll will despawn in 61 minutes. When skilling, the clue container appears in your backpack inventory and must be opened to extract the scroll. As for all clue scrolls, only one beginner clue scroll or container can be held, kept in Death's office or stored in a bank at one time. However, it is possible to use a variation of the drop trick to collect more than one clue scroll while skilling or levelling via PVM .
+To utilise the drop trick mechanics, the player first opens the scroll container (if skilling) or picks up the scroll dropped by the monster. Once you have the scroll in your inventory you should drop it in a convenient close location. Dropping a scroll allows you to collect another: ideally, each should be dropped on separate squares to be able to track their individual timers. Each scroll you drop will despawn in 61 minutes - it is recommended that you do not rely on the final 60s - but each scroll timer can be reset by picking up and re-dropping the scroll. The dropped scrolls are not visible to other players. Use of the Runelite plugin "Ground items" is recommended so you can set timers on each dropped scroll. The game will continue to generate scrolls, but, by using the "drop trick", you can collect an unlimited number without having to do a clue trail before receiving the next scroll.
+The scroll "drop trick" can be particularly useful for activities such as power mining or AFK mining of Crashed Stars which, in the case of the latter, is a time-limited resource (see also Guide:Clue Juggling ). Once finished skilling etc, players will then have to do a series of clue trails and come back to the drop point to pick up the next scroll and, if needed reset the timers of unused scrolls.  Completion of beginner clue steps will give another clue or a reward casket (beginner) , containing the final reward for the trail. Reward caskets will stack in the backpack inventory and bank, and have no weight.  When in the backpack they do not affect the receipt, or picking up, of another clue.
+A feature of dropped clue scrolls - unlike other dropped items - is that they will follow the player if hopping to another world. This can be particularly useful in (for example) mining Crashed Stars as these can fall at the same location on different worlds - allowing the player to hop, continue mining, and bring all the clue scrolls (on the ground) at the same time. Similarly for other skilling or PVM activities which may become crowded and the player wishes to hop to a quieter world. Note also that dropped clue scrolls will survive a system update or log out and be available to the player when the game re-starts: ground timers will reset at that point.
+Types of clues [ edit | edit source ]
+Please note that it is possible to receive the same clue more than once.
+Anagram clues
+Charlie the Tramp tasks
+Cryptic clues
+Emote clues
+Hot/Cold clues
+Map clues
+Item Requirements [ edit | edit source ]
+Charlie the Tramp tasks and emote clues require the player to obtain or equip specific items. There are no skill requirements to complete any of these steps.
+Emote clues [ edit | edit source ]
+There are six items that are used in various Beginner emote clues . All of these items can be purchased from other players:
+Ironmen may require level 5 Crafting for the gold ring and level 6 Crafting for the gold necklace , as well as the relatively high Mining and Smithing levels to make the necessary gold bars . However, the bars and jewellery can also be obtained via other methods, such as quests , random events , and ground spawns, possibly requiring the magic spell telekinetic grab .
+Charlie the Tramp Tasks [ edit | edit source ]
+Charlie the Tramp tasks require the player to give Charlie the Tramp a specific item he requests. Charlie will always request one of the eight following items:
+Possible rewards [ edit | edit source ]
+The average loot roll is worth 3,969.00 . On average, beginner clues are worth 7,939.00 .
+As well as unique Treasure Trails rewards, players may also receive a variety of items. A more detailed overview of all possible rewards can be found at reward casket (beginner) .
+Item sources [ edit | edit source ]
+With the current price of implings, the average cost to obtain a beginner clue is approximately 48,600 from a Young impling jar or 71,250 from a Baby impling jar . This ignores all other loot obtained from the jars, easy clues, and/or caskets.
+Changes [ edit | edit source ]
+Clue Scrolls dropped by a player now last 61 minutes on the ground rather than two minutes. This does not change existing behaviour for Clue Scrolls dropped by NPCs or other entities. Additionally, you are now told if you would have gotten a clue but didn't because you already have one.
+Charlie the Tramp now accepts pre-made items.
+Explore emote unlocked upon opening one's 600th (or more) beginner casket.
+References [ edit | edit source ]
+^ Jagex. Mod Ash's Twitter account . 24 July 2021.  Archived from the original on 29 July 2021. Mod Ash: "10 hours, applies to all accounts doing beginner clues."
+^ Jagex. Mod Ash's Twitter account . 16 March 2020.  Archived from the original on 26 May 2020. Mod Ash: "While other tiers have equal chances of each length being chosen, beginners have a 10% chance of being 1-step, and 45% chances of 2 and 3 steps."
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Explore
+Large spade
+Clueless scroll
+Uri transform
+Heavy casket
+Scroll sack
+All clue scrolls
+Beginner clue scrolls
+Easy clue scrolls
+Medium clue scrolls
+Hard clue scrolls
+Elite clue scrolls
+Master clue scrolls
+Anagrams
+Challenge scrolls
+Ciphers
+Coordinates
+Cryptics
+Emote clues
+Hot/Cold
+Light boxes
+Maps
+Puzzle boxes
+Arthur the Clue Hunter
+Cecilia
+Charlie the Tramp
+Falo the Bard
+Jorral
+Reldo
+Sherlock
+Strange casket
+Uri
+Watson
+Ancient Wizard
+Armadylean guard
+Bandosian guard
+Brassican Mage
+Double agent
+The Mimic
+Third Age Mage
+Third Age Ranger
+Third Age Warrior
+Saradomin wizard
+Zamorak wizard
+Emote items
+Rewards
+STASH
+Noticeboard (Watson's house)
+S.t.a.s.h chart
+World map
+Items
+Untradeable items
+Free-to-play items
+Items appearing in drop table
+Items dropped by monster
+Treasure Trails
+Navigation menu
+Personal tools
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Namespaces
+Article
+Discussion
+Views
+Read
+Edit
+Edit source
+History
+Refresh
+Discord
+Discord
+Navigation
+Main page
+About us
+Random page
+Contact us
+Donate
+Recent changes
+13m ago - MeneerPjoeterBliep
+13m ago - Hewatt
+28m ago - Hewatt
+54m ago - WMC
+Guides
+Recent updates
+List of quests
+Achievement diaries
+Combat achievements
+Skill training
+Money making
+Calculators
+DPS calculator
+New player guide
+User-created guides
+Community
+User help
+Active discussions
+OSRS Wiki Clan
+Policies
+More RuneScape
+RuneScape Wiki
+RSC Wiki
+Dragonwilds Wiki
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+New files
+Browse properties
+This page was last modified on 1 February 2025, at 01:05.
+Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.
+Privacy policy
+About the Old School RuneScape Wiki
+Disclaimers
+Terms of Use
+Contact Weird Gloop
+Mobile view

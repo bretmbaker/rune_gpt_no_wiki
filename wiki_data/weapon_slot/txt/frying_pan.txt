@@ -1,0 +1,55 @@
+[Weapon: Frying Pan]
+
+
+Thefrying panis ameleekitchen weaponthat can be bought from theCulinaromancer's chest. To wield it the player must have completed fourRecipe for Disastersubquests and have 20Attack. Despite having the same stats as themithril warhammer, it was not updated in thefirst 2021 equipment rebalanceto have aStrengthlevel requirement.
+
+
+[Infobox]
+Released: 15 March2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Looks like it's non-stick too!
+General Store Value: 1,660 coins
+High alch: 996 coins
+Low alch: 664 coins
+Weight: 1.587 kg
+Grand Exchange Value: 1,273 coins
+Grand Exchange Daily Buy Limit: 50
+Grand Exchange Daily Trades Volume: 4
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: -4
+- Crush: +25
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +20
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

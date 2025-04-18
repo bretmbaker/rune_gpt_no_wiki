@@ -1,0 +1,2 @@
+Item: Mime
+Summary: The Mime is an NPC that plays a role in the Mime random event. The player has to copy his movements to complete the event. He appears to be wearing the mime clothing with a Beret mask.

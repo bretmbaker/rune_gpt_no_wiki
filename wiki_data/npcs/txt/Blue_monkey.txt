@@ -1,0 +1,2 @@
+Item: Blue monkey
+Summary: A blue monkey is used in Trouble Brewing to gather Bitternuts. They are made by using a Bowl of blue water on a monkey that has been caught. The dyed monkey can be used on a Bitternut Tree, and it will throw down a bitternut to the player. If a red monkey in the tree as well, the two monkeys will fight, only one will throw down a bitternut, and the other will disappear.

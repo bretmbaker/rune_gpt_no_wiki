@@ -1,0 +1,3 @@
+Item: Pagida
+Summary: Pagida is a staff at the Library Historical Archive in Arceuus. He is an expert in magical traps who can tell the player more about the Tower of Magic west of the Arceuus Library.
+He is reachable by first teleporting via Archeio.

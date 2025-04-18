@@ -1,0 +1,46 @@
+[Weapon: Golden Prospector Boots]
+
+
+Thegolden prospector bootsare a cosmetic variant of theprospector bootsobtained by using astar fragmenton them, which costs 3,000stardustfromDusuri's Star Shop.
+Like its original variant, the boots grant 0.2% bonusMiningexperienceand is increased to 2.5% when wearing the fullprospector kit.
+
+
+[Infobox]
+Released: 17 March2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Helps you when you're mining. Looks good too.
+General Store Value: 3,000 coins
+High alch: 1,800 coins
+Low alch: 1,200 coins
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot

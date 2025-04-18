@@ -1,0 +1,37 @@
+Name: Corrupted Scorpion
+Combat Level: 89
+Size: 2x2
+Info:
+- Description: Every miner's nightmare.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 9044
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 38
+Attack: 72
+Strength: 159
+Defence: 18
+Magic: 18
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

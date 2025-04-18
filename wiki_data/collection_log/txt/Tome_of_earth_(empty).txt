@@ -1,0 +1,4 @@
+Item: Tome of earth
+Summary: The tome of earth is a book held in place of a shield that is a possible reward from the Hueycoatl. The tome of earth requires level 50 in Magic to wield.
+Sources:
+- The Hueycoatl (Level 642, Quantity: 1, Rarity: 1/92)

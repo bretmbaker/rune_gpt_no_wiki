@@ -1,0 +1,48 @@
+[Weapon: Hard Leather Shield]
+
+
+Ahard leather shieldis aleather shieldthat requires at least level 20Rangedand 10Defenceto be worn.
+
+
+[Infobox]
+Released: 1 February2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A solid oaken shield covered in hard leather.
+General Store Value: 500 coins
+High alch: 300 coins
+Low alch: 200 coins
+Weight: 7 kg
+Grand Exchange Value: 231 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 12
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -15
+- Slash: -15
+- Crush: -11
+- Magic: -10
+- Ranged: +2
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +7
+- Crush: +7
+- Magic: +5
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

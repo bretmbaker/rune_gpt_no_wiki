@@ -1,0 +1,200 @@
+[Minigame: Volcanic_Mine]
+
+ | This is a dangerous activity with adeathbank.Ondeath,Hardcore Ironmenwill  lose their status.Unprotected items will be moved to the deathbank near the activity.Any unsafe death will delete all items left inside the deathbank.Items left on the ground will always be lost.
+
+Volcanic Mine
+
+
+
+
+
+Released | 7 September2017(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Fossil Island Volcano
+
+Leagueregion | Misthalin✓
+
+Participants | 1-50
+
+Skills | Mining
+
+Reward currency | Points
+
+Tutorial | No
+
+Music | Lava is Mine
+
+
+
+Map
+
+
+
+TheVolcanic Mineis a large volcanic chamber found underneath theFossil Island Volcano. The mine entrance is located in the north-east corner of the volcano, withPetrified Peteguarding its entrance. Players can participate in the eponymously namedminigameinside the mine.
+
+To enter the mine, players must have level 50Mining. In addition, players must pay Petrified Pete 30numuliteeach time to enter the mine. A one-time fee of 3,000 numulite can also be paid for permanent access.
+
+Official world[edit|edit source]
+
+The followingofficial worldis assigned to the Volcanic Mine:
+
+World | Location | Members | Activity
+
+323 | United States (west) | 1 | Volcanic Mine
+
+Gameplay[edit|edit source]
+
+Lobby[edit|edit source]
+
+Petrified Peteguards the mine entrance. There is aFossil Storagefor players to store fossils obtained in the mine and abank chestwhich players can use to prepare and bank rewards. The bank chest is also very close to thevolcanic mine teleportlocation, but due to the point cost of the tablet, it's recommended to use a different bank if simply looking forone close to a teleport.
+
+Preparation[edit|edit source]
+
+Players who enter the volcanic mine are automatically given aheat-proof vessel. Players have 30 seconds to prepare upon entering the mine, after which the volcano will rumble, signaling the start of the game. Once the game starts, players have ten minutes to mine the boulder and leave. After 10 minutes have elapsed, the volcano will erupt and anyone still in the volcano will die.
+
+Boulder[edit|edit source]
+
+The primary goal of the minigame is to mine theboulderin the lava channel, which yields ore fragments and points forPetrified Pete's Ore Shop, among other resources.
+
+If fewer than ten players are participating, one boulder will spawn in the central channel.  If there are ten or more players, another boulder will spawn in the western channel. If twenty or more are present, a third boulder will spawn in the eastern channel. It starts as a giant boulder attached to the cavern, then each time it is mined it shrinks slightly and floats north until coming to a rest, at which point it can be mined again.
+
+Should players manage to completely mine the boulder, it will fall into a lava vortex at the northern end of the mine, and all players will earn an additional 100 points.
+
+On a successful mining attempt, the boulder grantsMiningexperience, reward points forPetrified Pete's Ore Shop, and either one ore fragment or just thegame messageYou chip off a part of the boulder.The chance to receive an ore fragment increases as the boulder becomes smaller, increasing the number of points and experience obtained. If there is no available inventory space when an ore fragment is rolled, only 1 point and 5 experience will be awarded.
+
+While mining the boulder, players may also obtaincalcite,pyrophosphite,numulite,unidentified fossils, or therock golempet.
+
+Size | Fragmentchance
+
+Giant (attached) | 1/20
+
+Giant (unattached) | 1/12
+
+Large | 1/8
+
+Medium | 1/5
+
+Small | 1/3
+
+Ore fragment | Mining levelto obtain | Points | Experience
+
+ | "Part of the boulder" | 50 | 1 | 5
+
+ | Iron ore fragment | 50 | 15 | 10
+
+ | Silver ore fragment | 50 | 20 | 20
+
+ | Coal fragment | 50 | 25 | 30
+
+ | Gold ore fragment | 50 | 34 | 40
+
+ | Mithril ore fragment | 55 | 44 | 60
+
+ | Adamantite ore fragment | 70 | 55 | 100
+
+ | Runite ore fragment | 85 | 70 | 150
+
+When an ore fragment is rolled, the likelihood of obtaining each fragment type varies with Mining level:
+
+Navigating the mine[edit|edit source]
+
+Upon entering the lower level of the mine,lava beastswill begin to appear and attack players. PrayProtect from Missilesto reduce their max hit to 1.
+
+To move around the lower level, players must harden the lava by pouring water on it from the heat-proof vessel. This canteen has 35 uses per game, or 70 if the player has unlocked the larger capacity for 10,000 points. Water can only be thrown while the player is facing north, east, south, or west.
+
+The vessel can be activated in three ways:
+
+Throw-wateris the default left-click option which will throw water in whichever direction the player is facing.Throw-water directionwill open a dialogue box to throw water in a selected direction.Water can be thrown in front of the player or in a specified direction via the vessel's right-click menu while it is equipped in the weapon slot.
+
+Lava hardened by the vessel will melt away after 90 seconds. It will turn orange to indicate that it is close to melting and bright white as it is about to melt away completely. If a player remains on the hardened lava when it melts, they will fall into the lava resulting in large damage taken (53+) and moving downstream.
+
+Mine stability[edit|edit source]
+
+Throughout the duration of the minigame, volcanic gas will flow into the mine through threevolcanic chambers. Players canblockthe gas chambers with alarge rockto increase gas pressure, or remove the large rock to decrease gas pressure. The pressure of each chamber should be kept around 40-60%, or else the volcano will become unstable.
+
+The gas levels present within the mine affect the mine stability. As mine stability drops, meteorites and earthquakes will occur more frequently and players will take increased damage. If mine stability reaches 0%, the volcano will erupt instantly killing any players in the mine.
+
+Players must check the volcanic vents to determine how much volcanic gas is flowing into the mine. Once a vent is investigated, the gas pressure of the corresponding gas chamber will be revealed to all players on the overlay at the bottom right of the screen. After 5 minutes have passed, the mine will shift. This randomizes the pressure of each gas chamber and players will need to investigate the vents again to reveal the gas pressure of each chamber.
+
+Notably, there are two sets of vents for each chamber, with one set on the downstream and upstream sides of the lava channels. The gas chambers are marked on the minigame overlay as A, B, and C.
+
+Gas holes[edit|edit source]
+
+There are several gas holes scattered throughout the volcanic mine. Players can "feel" them, upon which they are shot to the other side of the lava channel. Although this causes a small amount of damage, using the gas holes can be useful as they provide a shortcut for players low on water.
+
+Eruption[edit|edit source]
+
+At the end of the 10 minute timer, or if the mine stability reaches 0%, the volcano will erupt and instantly kill anyone who remains inside the mine. Thus, it is recommended to run for the exit when there are 30–40 seconds remaining.
+
+Should the player die,Petrified Petewill collect the player's lost items and return them for a fee of 150numulite. If the player lost numulite when they died, Pete can use them to pay for the fee. Like other item retrieval services such as those atZulrahandVorkath, Pete will lose all items he was holding for the player if they dieanywherebefore retrieving them.
+
+Strategy[edit|edit source]
+
+"Fixing" refers to blocking or unblocking a chamber so that the pressure goes closer to 50%. For example, if the pressure is at 30% and the chamber is unblocked (pressure going down), the player should block the chamber in order to fix it.
+
+"Capping" refers to blocking and unblocking a chamber for points. Each action gives 50 points, and the point limit for capping is 300 per player. Players who are doing A or B/C roles should do this at the start of a game, other players can do this in between the 4th and the last boulder, or in the end of the game.
+
+If the percentage is dropping too low (below ~30%), block the chamber. If it's rising too high (above ~70%), unblock.
+
+Tip:Regardless of strategy, mining the boulder at the final stage is a large portion of a players' points. The boulder will degrade much faster if not everyone who entered the game is mining it — therefore you should ensure everyone is mining it at the same time. If someone falls into the lava while mining it, make a path to the north-east platform so they can quickly return.
+
+As the mine scales to the number of players, it negatively affects the rest of the team if a player dies, disconnects, or logs out. It is considered good etiquette to only start a game if you are confident you can finish it and to inform others in advance when you are leaving so that reassigning roles or finding replacements is easier.
+
+If using adragon pickaxespecial attack, it is the most effective at the start of the second and final part. It has no effect past 99 Mining.
+
+Inventory and equipment[edit|edit source]
+
+A good equipment setup consists of the fullprospector kitfor the 2.5% extra Mining XP, whilst maximizing prayer bonus forProtect from Missiles.
+
+Your inventory per game should consist of the following:
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+ |  |  | 
+
+12-16 pieces offood(monkfishor better recommended)1prayer potion(not needed if the player has 91+Prayerand 30+ prayer bonus)ApickaxeStamina potion(if solo)Numulite(not needed if the player has permanent access)Desert amulet 4orTeleport to house tablets/Construction cape(if the player has anornate rejuvenation poolin their POH)Volcanic mine teleports
+
+Rewards[edit|edit source]
+
+Should the player leave the mine alivevia the rope exit, they will gain participation points based on their performance in the minigame. Ore fragments obtained will automatically be given toPetrified Pete, who in return will grant the player a chunk ofMiningexperience and reward points that can be spent hisOre Shop.Calcite,pyrophosphite,fossilsandnumuliteearned from mining the rock will be kept. At the end of each game, Pete grants 3.8 Mining experience for each point earned (3.895 with theprospector kitbonus). Including the experience earned during the game, approximately 5.5 Mining experience is earned per point. Players who die or teleport out will have their fragments disintegrate into nothing and will not receive any points or bonus experience.
+
+The experience rates scale per level. At 50 Mining, the expected maximum is approximately 40,000 experience per hour (around 7200 points) and at 99 Mining, players can expect to get upwards of 85,000–95,000 experience per hour (around 15,400-17,200 points) with well-coordinated gameplay. This scaling is not entirely linear, as it is affected by the quality of the ore fragments mined, with the highest being runite unlocked at level 85.
+
+Level | XP/h | XP/h | XP/h
+
+70 | 64,200 | 68,000 | N/A
+
+75 | 65,200 | 69,000 | 75,000
+
+80 | 68,000 | 72,000 | 81,000
+
+85 | 71,800 | 76,000 | 86,000
+
+90 | 74,700 | 79,000 | 90,000
+
+95 | 76,500 | 81,000 | 91,000
+
+99 | 79,300 | 84,000 | 94,000
+
+The maximum amount of points that the player can have is 2,097,151. A warning message will be given when nearing the points cap.Runite oretypically gives the most value per point and each point has a maximum value of12.10at current GE prices.Volcanic ashis also somewhat valuable and useful forIronmen.
+
+Music[edit|edit source]
+
+Name | Unlock details | Duration | Music track
+
+Lava is Mine | Unlocked when playing the minigame | 03:59 | Play track
+

@@ -1,0 +1,59 @@
+[Weapon: Snakeskin Bandana]
+
+
+Asnakeskin bandanaissnakeskin armourworn in theheadwear slotavailable topay-to-playrangers. To wear a snakeskin bandana, a player must have 30Rangedand 30Defence. It provides the best balance between cost and effectiveness for a member to gain a ranged bonus from their headwear slot, as it is far, far cheaper than the more powerful ranging helms, and does not require any quest completion to wear.
+This item can be stored in thearmour caseof acostume room, as part of thesnakeskin armourset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 9 August2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Lightweight head protection.
+General Store Value: 300 coins
+High alch: 180 coins
+Low alch: 120 coins
+Weight: 0.907 kg
+Grand Exchange Value: 223 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 11,235
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -5
+- Ranged: +4
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +4
+- Crush: +4
+- Magic: +2
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Barbarian Assault/Strategies(Ranged (mid level))
+5 | Chaos Elemental/Strategies(Ranged)
+1 | Ecumenical key/Strategies(Ranged)
+3 | Green dragon/Strategies(Ranged)
+3 | Revenants/Strategies(Ranged)
+4 | Scurrius/Strategies(Range (mid level))

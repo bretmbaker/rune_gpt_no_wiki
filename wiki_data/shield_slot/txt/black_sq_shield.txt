@@ -1,0 +1,65 @@
+[Weapon: Black Sq Shield]
+
+
+Theblack square shield(abbreviated in-game as black sq shield) is asquare shieldmade ofblack metalrequiring 10Defenceto equip. Its defensive bonuses are slightly better than those of asteel kiteshield, but slightly inferior to those of ablack kiteshield. Like all otherblack armour, it cannot be made with theSmithingskill.
+
+
+[Infobox]
+Released: 8 December2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A medium square shield.
+General Store Value: 1,152 coins
+High alch: 691 coins
+Low alch: 460 coins
+Weight: 3.628 kg
+Grand Exchange Value: 503 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 2,085
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +15
+- Slash: +16
+- Crush: +14
+- Magic: +0
+- Ranged: +15
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black Chest (black) | N/A | 1 | 9/141.11 | 
+Black Chest (brown) | N/A | 1 | 9/141.02 | 
+Black Chest (crimson) | N/A | 1 | 9/141.07 | 
+Black Chest (purple) | N/A | 1 | 9/141.15 | 
+Black Chest (red) | N/A | 1 | 9/140.98 | 
+Elaborate lockbox | N/A | 1 | 13/2,625 | 
+Former Vampyre | N/A | 1(noted) | 15/256 | 
+Moss giantRegular | 42; 48 | 1 | 5/128 | 
+Ornate lockbox | N/A | 1 | 39/2,450 | 
+Reward casket (beginner) | N/A | 1 | 11/8,856 | 
+Simple lockbox | N/A | 1 | 13/10,850 | 
+Vampyre Juvinate | N/A | 1(noted) | 15/256 | 
+Zombie (Tarn's Lair)High level | 81–100 | 1 | 1/128 | 

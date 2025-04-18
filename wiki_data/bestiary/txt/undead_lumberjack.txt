@@ -1,0 +1,61 @@
+Name: Undead Lumberjack
+Combat Level: 30
+Size: 1x1
+Info:
+- Description: He is one, but he's not alright.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 0 xp
+- Category: Zombies
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 5648,5649,5650,5651,5652,5653,5654,5655
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Lumberjack top (1/4[1])
+- Lumberjack legs (1/4[1])
+- Lumberjack hat (1/4[1])
+- Lumberjack boots (1/4[1])
+- Zombie champion scroll (1/5,000)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 10
+Attack: 73
+Strength: 6
+Defence: 10
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

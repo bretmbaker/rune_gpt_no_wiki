@@ -1,0 +1,165 @@
+[Shop: Dorgesh-Kaan]
+
+Dorgesh-Kaan
+
+
+
+
+
+Released | 20 March2007(Update)
+
+Also called | Cave Goblin City
+
+Members | Yes
+
+Location | Dorgesh-Kaan
+
+Leagueregion | Misthalin✓
+
+Inhabitants | Dorgeshuun
+
+Teleports | Dorgesh-kaan spheres
+
+Music | Dorgeshuun City
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | settlement
+
+
+
+Dorgesh-Kaanis the underground capital city of theDorgeshuuntribe, home to theDorgeshuun cave goblins.
+
+Dorgesh-Kaan can only be accessed after completion ofDeath to the Dorgeshuunquest.
+
+You can get to the city by first going from theLumbridge Castlecellar toDorgeshuun Mineand then south pastMistagand the weapon shop. If you want to skip the walk back, talk to Mistag and he will bring you to Lumbridge Cellar again. You can also do this when travelling to the Dorgeshuun Mine by talking toKazgar.
+
+History[edit|edit source]
+
+During theGod Wars, theDorgeshuun("Goblins of the Strong Spears", in the ancient goblin language[1]), were like other goblins at the time: a war-driven tribe enlisted to fight for their "Big High War God",Bandos.[2]However, the Dorgeshuun, at one point, became resistant to the idea of having to sacrifice their lives for their god and, after being sent off to do battle for him once more, they instead sneaked off into a hole where they could hide from his wrath.[3]After a cave-in, their refuge had been cut-off from the surface world until recent events involving the player. The city was founded around 2900 years ago during theFourth Age, though the leadership began to shift from their generals to the council that advised them.[4]Acivil warerupted and subsequently ended with the council-led republic of the Dorgeshuun victorious, the city continued developing to become one of the largest cities inGielinorin the swamp-likeLumbridgeunderground, complete with its unique technologies and culture.[5][6]In the present day, the city is open toLumbridgevisitors afterMistagand thecave goblin minersaccidentally breached the walls of theLumbridge Castle cellarand a peace treaty was signed between Dorgesh-Kaan and Lumbridge.
+
+They are still currently led by a republic of seven councils who convene at the Dorgeshuun Council chamber for whatever executive functions need to be done.[7]
+
+The elaborate city makes use ofmetal wiresandlight orbsin their city-wide lamppost system, as well as bones forconstructionmaterial such as for their market stalls and for propping up mining tunnels.[8]The Dorgeshuun have their own unique cuisine, obtainable through trading and exchanging with marketplace goblins who will swap Dorgeshuun foods for the player's food from the surface world.[9]
+
+Transportation[edit|edit source]
+
+There are multiple ways of accessing Dorgesh-Kaan (although it is not as accessible as other cities that can be quickly reached via a spellbookteleport spellorteleportation jewellry):
+
+A player may use aDorgesh-kaan sphere, obtained fromOldak, for a one-click teleport to the city.There is afairy ringin the dungeon to the south that may be accessed with the codeAJQ. A light source is needed in the dungeon, although it is not wholly necessary (damage will be taken!). Players run north-west to a northern dead-end, and up the grey ladder that is attached to the wall. It is required to finishDeath to the Dorgeshuunto use this fairy ring.Players may enter the crack in the eastern wall of the cellar ofLumbridge Castle, through whichKazgarwaits to lead players through theDorgesh-Kaan mine. The entrance to Dorgesh-Kaan is just to the south of where Kazgar leaves the player. Note that in order to follow Kazgar through the mines, the player is required to bring alight source.The city can be accessed from theKalphite Hivethrough theDorgesh-Kaan South Dungeonto the south of the city, although a light source is required.Upon the completion ofAnother Slice of H.A.M., theDorgesh-Kaan–Keldagrim train systemmay be used to travel to Dorgesh-Kaan fromKeldagrimby rail, and vice versa. The tickets are free; a player only needs to wait less than a minute in the carriage for the departure. In Dorgesh-Kaan, the train station is located through a doorway on the1stfloor[UK]2ndfloor[US], in the south-west corner of the city. In Keldagrim, access the train station in the south-east corner of the city, through a doorway near the train tracks just south-east of the Blast Furnace.TheBlast Furnacegrouping teleport leaves the player only a few steps away from the entrance to theDorgesh-Kaan–Keldagrim train system.
+
+Notable features[edit|edit source]
+
+Market tradingactivity; where players may sell surface foods togourmets.Reldakthe armourer will sellFrog-leather armourand most of the other merchants will sell goblin cuisine.TheDorgesh-Kaan Agility Coursecan be found south of the city; requiring 70 Agility. An alternative route using aMithril grapplerequires 70Strengthand 70Rangedand provides Ranged experience.Abank.Below the Agility course is a dungeon, theDorgesh-Kaan South Dungeon. It has a uniqueSlayermonster called aMolanisk, and both large and small varieties ofcave bugs.Exchanging rare bones for construction experience. This can be done by talking toBarlak, located just west of the marketplace. EachLong boneis worth 4,500Constructionexperience and eachCurved boneis worth 6,750Constructionexperience, requiring level 30Constructionto make the trade.Various cave goblins in the marketplace will trade unique Dorgeshuun cuisine made from local underground critters (which can also be obtained bypickpocketingcave goblins. Talking withGourmetswill allow the player to purchase or exchange food with them and have ~1/3 chance of givingLoach,Eel sushi,Mushrooms,Grubs à la mode,Roast frog, orFillets. Other Dorgeshuun food items can be purchased directly from various corresponding NPCs:GundiksellsBat shishTindarsellsCoated frogs' legsZenkogsellsFingersDurgoksellsFrogburgersMarkogsellsFrogspawn gumboTurgoksellsGreen gloop soup
+
+Skilling spots[edit|edit source]
+
+1rangelocated east of the wire machine that allows forcooking1anvilandfurnacelocated at the wire machine used forSmithingtraining. The furnace is not a typical furnace and can only be used to craftjewelleryormolten glass.1sand pitthat allows for the collection of sand that can be used for trainingCraftingVariousThievingactivitiesAt level 36 the ability to pick pocketcave goblinsis unlockedAt level 52 the ability to unlockDorgesh-Kaan average chestsis unlocked, these chests are scattered all around the city. (See the map for the locations of the chests)At level 78 the ability to unlockDorgesh-Kaan rich chestsis unlocked, these chests are scattered all around the city. (See the map for the locations of the chests)Occasionally, players may findbroken lamps. They can be fixed by using alight orbon it forFiremakingandCraftingexperience. Level 52 Firemaking is needed to fix a lamp, giving 500 Firemaking and 500 Crafting experience. When a player has replaced 50 light orbs they will receive the message "You have replaced 50 orbs and have gained extra experience." The bonus received is 2,500 Crafting and Firemaking experience. To make a light orb, blow one with glass (requiring 87 Crafting) and then use somewirestolen from the wire machine on the southern end of the city.
+
+Shops[edit|edit source]
+
+Miltog's Lamps[edit|edit source]
+
+Miltog's Lamps, run byMiltog, sells and buys various lighting needs.
+
+Reldak's Leather Armour[edit|edit source]
+
+Reldak's Leather Armour, run byReldak, sellsFrog-leather armour.
+
+Dorgesh-Kaan General Supplies[edit|edit source]
+
+Dorgesh-Kaan General Suppliesis run byLurgon, who wanders around the marketplace.
+
+Nardok's Bone Weapons[edit|edit source]
+
+Nardok's Bone Weapons, run byNardok, sells bone items such as thebone club,bone spear,bone dagger,bone crossbow, andbone bolts. Located just outside the city
+
+NPCs[edit|edit source]
+
+Ambassador AlvijarBankerBarlakBartakCave GoblinCave goblin childCrate goblinDurgokGourmetGoblin scribeGuardGundikLurgonMarkogMernikMiltogMothsNipperOldakReldakSpit goblinTindarTurgokTykeUr-lunUr-megUr-pelUr-taalUr-tagUr-vassYoung 'unZanikZenkog
+
+Requirements[edit|edit source]
+
+Death to the DorgeshuunCompletion ofThe Lost Tribe23Agility23ThievingThe ability to defeat a level 50 enemy withMeleeorMagic
+
+Music[edit|edit source]
+
+Dorgeshuun City
+
+Quests[edit|edit source]
+
+Death to the Dorgeshuun(Unlocks the city)Another Slice of H.A.M.
+
+Monsters[edit|edit source]
+
+Guard
+
+Trivia[edit|edit source]
+
+ | The jingle that plays when you enter the nursery.
+
+
+
+
+
+When entering the nursery in Dorgesh-Kaan's middle level on the eastern side, a unique jingle will play.
+
+References[edit|edit source]
+
+v•t•eDorgesh-Kaan
+
+Inhabitants | Ambassador AlvijarBarlakBartakCrate goblinOldakSpit goblinZanikCave goblinGourmetGuardBankerCouncilGoblin scribeUr-lunUr-megUr-pelUr-taalUr-tagUr-vassUr-zekMarketplaceDurgokGundikLurgonMarkogMiltogReldakTindarTurgokZenkogDaycareMernikCave goblin childNipperYoung 'unTyke |  | Ambassador AlvijarBarlakBartakCrate goblinOldakSpit goblinZanikCave goblinGourmetGuardBanker | Council | Goblin scribeUr-lunUr-megUr-pelUr-taalUr-tagUr-vassUr-zek | Marketplace | DurgokGundikLurgonMarkogMiltogReldakTindarTurgokZenkog | Daycare | MernikCave goblin childNipperYoung 'unTyke
+
+ | Ambassador AlvijarBarlakBartakCrate goblinOldakSpit goblinZanikCave goblinGourmetGuardBanker
+
+Council | Goblin scribeUr-lunUr-megUr-pelUr-taalUr-tagUr-vassUr-zek
+
+Marketplace | DurgokGundikLurgonMarkogMiltogReldakTindarTurgokZenkog
+
+Daycare | MernikCave goblin childNipperYoung 'unTyke
+
+Features | Dorgesh-Kaan Agility CourseDorgesh-Kaan General SuppliesDorgesh-Kaan–Keldagrim train systemDorgesh-Kaan market trading
+
+Items | Goblin bookCave goblin wireLight orbEmpty light orbDorgesh-kaan sphereGoblin village spherePlain of mud sphereFoodBat shishCave eelCoated frogs' legsEel sushiFilletsFingersFrogburgerFrog spawnFrogspawn gumboGreen gloop soupGrubs à la modeLoachMushroomsRoast frogSlimy eelSwamp weed |  | Goblin bookCave goblin wireLight orbEmpty light orbDorgesh-kaan sphereGoblin village spherePlain of mud sphere | Food | Bat shishCave eelCoated frogs' legsEel sushiFilletsFingersFrogburgerFrog spawnFrogspawn gumboGreen gloop soupGrubs à la modeLoachMushroomsRoast frogSlimy eelSwamp weed
+
+ | Goblin bookCave goblin wireLight orbEmpty light orbDorgesh-kaan sphereGoblin village spherePlain of mud sphere
+
+Food | Bat shishCave eelCoated frogs' legsEel sushiFilletsFingersFrogburgerFrog spawnFrogspawn gumboGreen gloop soupGrubs à la modeLoachMushroomsRoast frogSlimy eelSwamp weed
+
+Scenery | InteractiveDorgesh-Kaan Average ChestDorgesh-Kaan Rich ChestLampWire machineDecorativeBank safeBeetleBone CraneBone rackCribFungus seatMagic ballMothOojimaflipPlay blocksThingymajigToy rangeToy sink | Interactive | Dorgesh-Kaan Average ChestDorgesh-Kaan Rich ChestLampWire machine | Decorative | Bank safeBeetleBone CraneBone rackCribFungus seatMagic ballMothOojimaflipPlay blocksThingymajigToy rangeToy sink
+
+Interactive | Dorgesh-Kaan Average ChestDorgesh-Kaan Rich ChestLampWire machine
+
+Decorative | Bank safeBeetleBone CraneBone rackCribFungus seatMagic ballMothOojimaflipPlay blocksThingymajigToy rangeToy sink
+
+Related | Dorgesh-Kaan Agility CourseDorgesh-Kaan market tradingDorgesh-Kaan mineDorgesh-Kaan South Dungeon
+
+v•t•eDeath to the Dorgeshuun
+
+NPCs | MistagZanikJunaJimmy the ChiselDuke HoracioLumbridge GuideFather AereckDwarfH.A.M. MemberTignikEnemiesSigmundJohanhus UlsbrechtH.A.M. DeaconGuard |  | MistagZanikJunaJimmy the ChiselDuke HoracioLumbridge GuideFather AereckDwarfH.A.M. MemberTignik | Enemies | SigmundJohanhus UlsbrechtH.A.M. DeaconGuard
+
+ | MistagZanikJunaJimmy the ChiselDuke HoracioLumbridge GuideFather AereckDwarfH.A.M. MemberTignik
+
+Enemies | SigmundJohanhus UlsbrechtH.A.M. DeaconGuard
+
+Items | ZanikCrate with zanikH.A.M. robesHoodShirtRobeGlovesBootsCloakLogoKeysBronzeSilverIronSteel |  | ZanikCrate with zanik | H.A.M. robes | HoodShirtRobeGlovesBootsCloakLogo | Keys | BronzeSilverIronSteel
+
+ | ZanikCrate with zanik
+
+H.A.M. robes | HoodShirtRobeGlovesBootsCloakLogo
+
+Keys | BronzeSilverIronSteel
+
+Locations | Dorgesh-Kaan(Dorgesh-Kaan mine)H.A.M. HideoutChasm of TearsWater mill cellar
+
+Music | H.A.M. FistedSigmund's Showdown
+
+Related | Quick guideTranscript

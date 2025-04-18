@@ -1,0 +1,194 @@
+[Page: Port_Sarim]
+
+Port Sarim
+
+Released | 6 April2001(Update)
+
+Also called | Port S, Sarim
+
+Members | No
+
+Location | Asgarnia
+
+Leagueregion | Asgarnia✓
+
+Inhabitants | Humans
+
+Teleports | Rat Pits Teleport
+
+Music | Sea Shanty 2
+
+Map
+
+Advanced data
+
+Type | settlement
+
+Location onWorld Map
+
+Falador
+
+↑
+
+Rimmington | ← | Port Sarim | → | Draynor Village
+
+↓
+
+Mudskipper Point
+
+Port Sarimis a small town in south-easternAsgarnia. The town connects to a number of other ports, includingEntrana,Karamja,Crandor,Great Kourend,Corsair Cove, and theVoid Knights' Outpost, as well as even more destinations viacharter ship.
+
+Transportation[edit|edit source]
+
+Many teleport options exist to teleport players to the town. The right column describes how much walking is needed after the teleport in order to reach any part of the town:
+
+Name | Teleport destination | Requirements | Walk
+
+Spirit tree | Thespirit tree patchnext to the pub. | 83,Tree Gnome Village | None
+
+Minigame teleport | Rat Pits(once every 20 minutes). | Ratcatchers | None
+
+Explorer's ring 2 | Thefarm just north of the pub. | Lumbridge diary2/3/4 | Very short
+
+Amulet of glory | Draynor Village, east of the town | Must be charged | Short
+
+Draynor Manor Teleport | Draynor Manor, northeast of the town | Arceuus spells, tablet or17 | Medium
+
+Ring of the elements | Air Altarentrance, north of the town. | Must be charged | Medium
+
+Teleport to House | Rimmingtonhouse portal. | APOHin Rimmington | Decent
+
+Fairy ringAIQ | Mudskipper Point, well south of the town. | StartedFairytale II | Long
+
+Falador Teleport | Centre ofFalador, well north of the town. | Tablet or37 | Very long
+
+Players can also get thrown into the holding cell atShantay Passand refuse to pay the fine for a one-way trip to thePort Sarim jail. Talk toShantayand tell him you are an outlaw; once in Port Sarim jail, click the "pick-lock" option on the door to escape.
+
+Locations[edit|edit source]
+
+Port Sarim docks[edit|edit source]
+
+The Port Sarim docks connect the town to a number of ports acrossGielinor:
+
+Captain | Destinations
+
+Veos | Land's EndorPort Piscarilius
+
+Monk of Entrana | Entrana[1]
+
+Captain Tobias | Musa Point[2]
+
+Squire | Void Knights' Outpost
+
+Klarense | Crandor[3]
+
+Trader Stan | Seebelow
+
+The onlybank depositin Port Sarim is located next to the monks, just south ofRedbeard Frank. This is useful forfree-to-playusers fishing inKaramja, as well as low-level free-to-play usersminingin theRimmington mine.
+
+Trader Stanand crew can be found on the southernmost jetty of the docks. They have many things to trade, and will allow members to use thecharter shipsto travel to many other ports. After completingCabin Fever, the charter ship fare is reduced by 50%. Wearing thering of charos(a)also reduces the fare by 50%. These two bonuses can be stacked to reduce the cost to 25%.
+
+Fares from Port Sarim can be found in the table below:
+
+Fare table
+
+Destination | Cost
+
+Aldarin | 3,100
+
+Brimhaven | 1,600
+
+Catherby | 1,000
+
+Corsair Cove | 1,200
+
+Land's End | N/A
+
+Musa Point | N/A
+
+Mos Le'Harmless | 650
+
+Port Khazard | 1,280
+
+Port Phasmatys | 1,300
+
+Port Piscarilius | N/A
+
+Port Sarim | N/A
+
+Port Tyras | 3,200
+
+Prifddinas | 4,800
+
+Ship Yard | 400
+
+Sunset Coast | 3,100
+
+Buildings[edit|edit source]
+
+Name | Description
+
+Betty's Magic Emporium | Found on the northwestern-most part of the port.Bettyruns the store, and sellsMagicitems. Players may purchaserunes,eye of newts, and blue and blackwizard hats.
+
+Brian's Battleaxe Bazaar | Located east ofGrum's Gold Exchange.Brianruns the store and sellsbattleaxes. Players may purchase battleaxes frombronzetoadamant, includingblack, though the higher tiered battleaxes are usually sold out.
+
+Gerrant's Fishy Business | Gerrantruns the store and sells rawfishandfishingequipment. Players may purchase allfree-to-playfishing equipment here,fishing bait,feathers, and raw fish that are available to free-to-play players fromshrimpsall the way toswordfish. On the north wall of the store, awhite apronspawns.
+
+Grum's Gold Exchange | Located directly south ofBetty's Magic Emporium.Grumruns the store and sells variousjewellery. Players can purchaserings,necklaces, and strungamulets. The store is stocked only by other players selling their jewellery.
+
+Port Sarim jail | A large jail.
+
+Rimmington church | Analtarcan be found inside the church. Many players use this altar on their way to theAsgarnian Ice Dungeon.
+
+Wydin's Food Store | A store owned byWydin, which sells variousfooditems. The store plays an important role in thePirate's Treasurequest.
+
+Other[edit|edit source]
+
+Name | Description
+
+Fairy ringAIQ | Takes players to the end of the southern peninsula.
+
+Falador farm | A farm between Port Sarim andFalador, withchickens,cows, afarming shop, a number offarming patches. and aloom.
+
+Malignius' meadow | An area featuring the necromancerMalignius Mortiferand his four apprentices.
+
+Mudskipper Point | Home ofThurgo, the entrance to theAsgarnian Ice Dungeon, and theSlayerlocation formogres.
+
+Rimmington mine | A large mine just west of the town.
+
+Quests[edit|edit source]
+
+Port Sarim has twoquests, both of which arefree-to-play, and features in multiple other quest storylines:
+
+Quest | Connections | Members?
+
+The Corsair Curse | Started by talking toCaptain Tockat thecrossroadsnorth of the town. |
+
+Dragon Slayer | Players must visit thePort Sarim jailto get amap piecefromWormbrain. |
+
+Fairytale I | Players must seek outMalignius Mortifer'sTanglefootexpertise. |
+
+The Knight's Sword | Players must visitThurgosouth of the town. |
+
+Merlin's Crystal | During the quest, abeggarwill approach you outside the jewellery shop. |
+
+One Small Favour | Captain Shankswill ask you to sharpen his axe atBrian's. |
+
+Pirate's Treasure | Started by talking toRedbeard Frankjust south of thebar. |
+
+Rag and Bone Man II | Players must fight monsters atMudskipper Pointand in theAsgarnian Ice Dungeon |
+
+Ratcatchers | Players must enter therat pitsnear the docks. |
+
+Swan Song | Players must seek outMalignius Mortifer's necromancy expertise. |
+
+While Guthix Sleeps | Players must buypink dyefrom Betty. |
+
+X Marks the Spot | Ends on the Port Sarim docks. |
+
+Music[edit|edit source]
+
+Name | Unlock details | Music track
+
+Sea Shanty 2 | Unlocked in Port Sarim |
+

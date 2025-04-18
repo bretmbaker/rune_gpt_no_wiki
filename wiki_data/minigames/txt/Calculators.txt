@@ -1,0 +1,341 @@
+[Minigame: Calculators]
+
+Calculatorsare used to determine things likeexperiencepoints, profit, and hourly rates using data such as real-time prices in theGrand Exchange Market Watch. Even if a player gathers their own materials, using the real-time market prices to measure value is best practice due toopportunity costs.
+
+Below is a curated list of most calculators. A full list of calculators can be seenhere.
+
+Skills[edit|edit source]
+
+Calculator | Format | Description
+
+Efficiency method comparison calculator | JavaScript | Calculates which of two methods is moreefficientto train a single skill, taking into account what else the player could do using the time saved.
+
+Efficiency ratio calculator | JavaScript | Calculates anefficiency ratioE=V−PXused to compare multiple training methods.
+
+Genie lamps and books of knowledge | JavaScript | Calculates how manylampsorbooks of knowledgeare needed to get to the target level or target XP.
+
+Agility[edit|edit source]
+
+Calculator | Format | Description
+
+Agility | JavaScript | Calculates the number of laps that must be completed to get from a given level or amount of experience to your selected goal.
+
+Agility Arena Tickets | JavaScript | Calculates the experience from spendingBrimhaven Agility Arenatickets.
+
+Underwater Thieving | JavaScript | Calculates how long it takes to reach a target level via Underwater Thieving and Agility and compares it to other methods for those skills in terms of EHP.
+
+Wilderness Agility Course rewards | JavaScript | Calculates the loot value and experience from theWilderness Agility Course.
+
+Construction[edit|edit source]
+
+Calculator | Format | Description
+
+Construction | JavaScript | Calculates the number of construction items needed to be built from a given level or amount of experience to your selected goal.
+
+Material Cost per XP | GEMW | Calculates the cost per experience gained from each material used in Construction.
+
+Making Flatpacks | GEMW | Calculates the profit/losses and cost per experience from makingflatpacks.
+
+Cooking[edit|edit source]
+
+Calculator | Format | Description
+
+Cooking | JavaScript | Calculates the number of food items needed to be cooked from a given level or amount of experience to your selected goal.
+
+Brewing | GEMW | Calculates the profit/loss from brewingales, based on the assumption that all ingredients are bought.
+
+Cooking fish | GEMW | Calculates the profit/loss fromcookingfish, based on the assumption that the raw fish are bought.
+
+Cooking pies | GEMW | Calculates the profit/loss from preparing and cooking pies based on the assumption that all ingredients are bought.
+
+Cooking pizzas | GEMW | Calculates the profit/loss from buying pizza ingredients and putting them together and cooking the pizza.
+
+Cooking potatoes | GEMW | Calculates the profit/loss from preparing potatoes, assuming all ingredients are bought.
+
+Cooking hunter meats | GEMW | Calculates the profit/loss from cooking hunter meats,  based on the assumption that the hunter meats are bought.
+
+Crafting[edit|edit source]
+
+Calculator | Format | Description
+
+Crafting | JavaScript | Calculates how many crafted items are needed from a given level or amount of experience to your selected goal.
+
+Crafting ranged armour from untanned hides | GEMW | Calculates the cost of using various hides to craft ranging armour using thetannerandTan Leatherspell.
+
+Crafting ranged armour from tanned hides | GEMW | Calculates the cost of crafting ranging armour from multiple types of tanned or prepared materials.
+
+Crafting jewellery | GEMW | Calculates the cost of usinggoldandsilver bars, andgemsto craft different types ofjewellery.
+
+Gem cutting | GEMW | Calculates the wealth difference from successfully cutting gems.
+
+Crafting battlestaves | GEMW | Calculates the profit of making battlestaves fromunpowered orbs.
+
+Glassblowing | GEMW | Calculates the profit/loss per XP for blowingmolten glassinto various items.
+
+Crafting xerician armour | GEMW | Calculates the cost of usingXerician fabricto craft magic armour.
+
+Crushed gems | JavaScript | Calculates the chance of crushing semi-precious gems while crafting.
+
+Tanning hides | GEMW | Calculates the profit/loss per hide tanned.
+
+Farming[edit|edit source]
+
+Calculator | Format | Description
+
+Farming | JavaScript | Calculates the number of farming crops required from a given level or amount of experience to your selected goal.
+
+Herbs | JavaScript | Calculates the profit and exp/gold for growing herbs
+
+Supercompost profit | JavaScript | Calculates the profit/loss from creating supercompost in both regular compost bins and the big compost bin.
+
+Trees | GEMW | Calculates the exp/gp cost/profit for growing trees
+
+Saplings | GEMW | Calculates the gp cost/profit for making saplings
+
+Firemaking[edit|edit source]
+
+Calculator | Format | Description
+
+Firemaking | JavaScript | Calculates the number of logs to be burnt from a given level or amount of experience to your selected goal.
+
+Burning Logs | GEMW | Calculates the cost per XP for burning logs.
+
+Wintertodt attacks | JavaScript | Calculates the standard, brazier and area attacks values
+
+Fishing[edit|edit source]
+
+Calculator | Format | Description
+
+Fishing | JavaScript | Calculates the number of fish needed from a given level or amount of experience to your selected goal.
+
+Aerial fishing | JavaScript | Estimates the XP/Hour of the Aerial fishing Hunter/Fishing training method.
+
+Barbarian Fishing | JavaScript | Estimated the XP/Hour and success rate of Barbarian Fishing training method.
+
+Molch pearls | JavaScript | A small calculator for themolch pearlpage that gives the pearl chance per fish at given Hunter and Fishing levels.
+
+Clue bottles | JavaScript | Calculate the chance of receiving any given tier ofclue bottlefrom different types of fish.
+
+Fletching[edit|edit source]
+
+Calculator | Format | Description
+
+Fletching | JavaScript | Calculates the number of fletched items needed from a given level or amount of experience to your selected goal.
+
+Fletching ranged weapons | GEMW | Calculates the profit/loss from fletching and stringing bows, crossbows, and ballistae.
+
+Fletching ammo | GEMW | Calculates the profit/loss from fletching ammo.
+
+Herblore[edit|edit source]
+
+Calculator | Format | Description
+
+Herblore | JavaScript | Calculates the number of materials needed from a given level or amount of experience to your selected goal.
+
+Herblore cost | JavaScript | Calculates the cost/profit of making potions starting from grimy, clean and unfinished potions using all combinations of necklaces and goggles.
+
+Herblore training | GEMW | Calculates the cost/profit of training Herblore for each method and each ingredient.
+
+Herb cleaning | GEMW | Calculates the (potential) profit of cleaningherbs.
+
+Decanting | GEMW | Calculates the profit of decanting potions.
+
+Unfinished potions | GEMW | Calculates the costs of making unfinished potions.
+
+Potions | GEMW | Calculates the costs of making standard potions.
+
+Hunter[edit|edit source]
+
+Calculator | Format | Description
+
+Hunter | JavaScript | Calculates the number of hunted creatures needed from a given level or amount of experience to your selected goal.
+
+Herbiboar | JavaScript | Calculates the loot from catching herbiboars and how many to catch to reach a certain level.
+
+Hunters' Rumours | JavaScript | Calculates the weight of assigned rumours.
+
+Magic[edit|edit source]
+
+Calculator | Format | Description
+
+Magic | JavaScript | Calculates the number of spells needed from a given level or amount of experience to your selected goal.
+
+Arceuus Library Books | JavaScript | Calculates how manybooks of arcane knowledgefrom theArceuus Libraryare needed to reach a target level or target XP.
+
+Enchantment | GEMW | Calculates the profit of enchanting jewellery, bolts and orbs, while wielding the most efficientelemental staff.
+
+Enchanting bolts | GEMW | Calculates the profit of enchanting bolts.
+
+Enchanting jewellery | GEMW | Calculates the profit of enchanting jewellery.
+
+High and low alchemy | GEMW | Calculates the profit of casting high and low level alchemy on various items.
+
+Magic Dart | JavaScript | Calculates the max hit of theMagic Dartspell.
+
+Making tablets | GEMW | Calculates the profit of makingmagic tabletsat alecternin aplayer-owned house.
+
+Powered staves | JavaScript | Calculates the max hit ofpowered staves.
+
+Mining[edit|edit source]
+
+Calculator | Format | Description
+
+Mining | JavaScript | Calculates the number of ores mined from a given level or amount of experience to your selected goal.
+
+Clue geodes | JavaScript | Calculate the chance of receiving any given tier ofclue geodefrom different types of rocks.
+
+Prayer[edit|edit source]
+
+Calculator | Format | Description
+
+Prayer | JavaScript | Calculates the number of bones or ensouled heads required from a given level or amount of experience to your selected goal.
+
+Prayer training | GEMW | Calculates the cost/profit of training Prayer for each method and each type of bone.
+
+Prayer drain | JavaScript | Calculates the rate ofprayer draingiven a prayer bonus and selected prayers.
+
+Prayer point cost | JavaScript | Calculates the cost per prayer point restored for each consumable used in Prayer based on both the player's Prayer level and the current Grand Exchange prices.
+
+Bone use | GEMW | Calculates the costs of buying and using variousbones.
+
+Ensouled head | GEMW | Calculates the costs of buying and using variousensouled heads.
+
+Blessed bone shards | JavaScript | Calculates the costs of creating and usingblessed bone shardson thelibation bowl.
+
+Runecraft[edit|edit source]
+
+Calculator | Format | Description
+
+Runecraft | JavaScript | Calculates the number of runecrafted items from a given level or amount of experience to your selected goal.
+
+Abyssal pearls | JavaScript | Calculates the number ofRewards guardiansearches to reach a specific number of pearls
+
+Arceuus Library Books | JavaScript | Calculates how manybooks of arcane knowledgefrom theArceuus Libraryare needed to reach a target level or target XP.
+
+ZMI | JavaScript | Calculates the expected time and essence required from a given level or amount of experience to your selected goal at theOurania Altar.
+
+Slayer[edit|edit source]
+
+Calculator | Format | Description
+
+Slayer Assignment Percentages | JavaScript | Gives percentages for tasks from Slayer masters based on stats and quests.
+
+Slayer Master Comparison | JavaScript | Calculates the likelihood of getting a specific Slayer task from each master.
+
+Imbued Heart | JavaScript | Calculates the expected number of imbued heart drops from superior slayer creatures.
+
+Smithing[edit|edit source]
+
+Calculator | Format | Description
+
+Smithing | JavaScript | Calculates the number of ores and bars smithed from a given level or amount of experience to your selected goal.
+
+Blast Furnace gold ore purchasing | JavaScript | Calculates the cost and hourly experience when purchasing gold ore from theBlast Furnaceshop.
+
+Giants' Foundry | JavaScript | Calculates the number of swords and their materials needed to reach a level, experience or reputation goal.
+
+Giants' Foundry quality experience | JavaScript | Calculates the experience earned from turning in different quality swords inGiants' Foundry.
+
+Smithing metal bars | GEMW | Calculates the cost of smithing metal bars.
+
+Smelting metal bars | GEMW | Calculates the cost of smelting metal bars.
+
+Smithing & High Alchemy | GEMW | Calculates the profit of castingHigh Level Alchemyon the smithed items.
+
+Strength[edit|edit source]
+
+Calculator | Format | Description
+
+Shot put | JavaScript | Calculates the success rate, distance, token reward, run energy cost and experience reward for theWarriors' GuildShot putrange.
+
+Thieving[edit|edit source]
+
+Calculator | Format | Description
+
+Thieving | JavaScript | Calculates the number of stolen goods from a given level or amount of experience to your selected goal.
+
+Dungeon door success | JavaScript | Calculates the success rate of lockpickingdungeon doors.
+
+Master farmer success | JavaScript | Calculates the success rate of master farmer pickpocketing.
+
+Underwater Thieving | JavaScript | Calculates how long it takes to reach a target level via Underwater Thieving and Agility and compares it to other methods for those skills in terms of EHP.
+
+Woodcutting[edit|edit source]
+
+Calculator | Format | Description
+
+Woodcutting | JavaScript | Calculates the number of cut logs required from a given level or amount of experience to your selected goal.
+
+Clue nests | JavaScript | Calculates the chance of receiving any given tier ofclue nestfrom different types of trees.
+
+Making Forester's rations | GEMW | Calculates the profit and cost ofForester's rationwith different types of cooked fish and meat along with different types of leaves.
+
+Others[edit|edit source]
+
+Bosses and minigames[edit|edit source]
+
+Calculator | Format | Description
+
+Barrows loot | JavaScript | Calculates the expected rewards ofBarrowsminigame.
+
+Chambers of Xeric loot | JavaScript | Calculates the expected rewards of doing theChambers of Xeric.
+
+Soul Wars Rewards | GEMW | Calculates GP/zeal earnings if you buy blighted items with yourZeal Tokensand resell them on theGrand Exchange.
+
+Tempoross experience | JavaScript | Calculates experience per action fromTemporossbased on current levels.
+
+Tempoross reward pool | GEMW | Calculates the drop table of a singleTemporossreward pool permit.
+
+Theatre of Blood loot | JavaScript | Calculates the expected rewards of doing theTheatre of Blood.
+
+Tombs of Amascut loot | JavaScript | Calculates the expected rewards of doing theTombs of Amascut.
+
+Wintertodt Reward Cart | JavaScript | Calculates the expected rewards from the WintertodtReward Cartor anExtra supply crate.
+
+Combat[edit|edit source]
+
+Calculator | Format | Description
+
+Ammo cost efficiency | JavaScript | Calculates how cost efficient upgrading your ammo is.
+
+Barrows item repair | JavaScript | Calculates the cost to repairBarrows equipment.
+
+Barrows item repair (static) | GEMW | Calculates the cost to repair allBarrows equipment.
+
+Blackjack stun calculator | JavaScript | Calculates the stun chance against monsters when using ablackjack.
+
+Combat level | JavaScript | Calculatescombat levelbased on combat skills.
+
+DPS Calculator | JavaScript | Calculates the player'sdamage per secondbased on various inputs.
+
+Moonlight potion boosts | Javascript | Calculates boosts a player will receive frommoonlight potions.
+
+Phoenix necklace activation | Javascript | Calculates the HP to camp if using Nightshade to proc a Phoenix necklace.
+
+Training manuals | JavaScript | Calculates how manytraining manualsfromtackling organised crimeare needed to reach a target level.
+
+Twisted bow boosts | JavaScript | Calculates damage boosts for thetwisted bowbased on enemy magic level.
+
+Profit and loss[edit|edit source]
+
+Calculator | Format | Description
+
+Bank standing money makers list | GEMW | Calculates the profit/loss of multiple options that can be done while standing at a bank.
+
+Flipping calculator | JavaScript | Calculates the profit/loss made with flipping.
+
+Kingdom Profit | JavaScript | Calculates the profit or loss from managing the Kingdom ofMiscellania.
+
+Plank making | GEMW | Calculates the profit or loss from turning logs into planks at thesawmill.
+
+Shop calculator | Javascript | Calculates profit or cost of buying or selling fromshops.
+
+Teleportation jewellery | GEMW | Calculates the cost-per-teleport of using jewellery.
+
+Random chance[edit|edit source]
+
+Calculator | Format | Description
+
+Dry calculator | JavaScript | Calculates the chance of obtaining a drop based on how many kills are entered compared to a drop rate entered in.
+
+Skill pet chance | JavaScript | Calculates the base chance for each method for apetchosen. Takes in an actions per hour input to adjust the chance in an hour.

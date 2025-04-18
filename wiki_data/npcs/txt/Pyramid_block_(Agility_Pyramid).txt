@@ -1,0 +1,2 @@
+Item: Pyramid block (Agility Pyramid)
+Summary: Moving pyramid blocks may push players off the level of the Agility Pyramid they're found on. If timed properly, players will be able to get past these blocks. If incorrectly timed, players will be pushed down to the level below and receive eight damage.

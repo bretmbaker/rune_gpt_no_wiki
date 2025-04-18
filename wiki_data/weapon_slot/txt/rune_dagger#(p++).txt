@@ -1,0 +1,103 @@
+[Weapon: Rune Dagger#(P++)]
+
+
+Therune daggeris adaggermade fromrune. Rune daggers can be made from a singlerune barat level 85Smithing. Each rune dagger created grants 75 experience. Rune daggers are the third-strongest daggers inRuneScape, behind thedragon daggerand theabyssal dagger. Like most rune weapons they require 40Attackto wield. As with most daggers, this weapon can bepoisoned.
+
+
+[Infobox]
+Released: 13 August2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A powerful dagger.
+General Store Value: 8,000 coins
+High alch: 4,800 coins
+Low alch: 3,200 coins
+Weight: 0.453 kg
+Grand Exchange Value: 4,318 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 50,700
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +25
+- Slash: +12
+- Crush: -4
+- Magic: +1
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +1
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +24
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+AraxyteLevel 96 | 96 | 1 | 3/127 | 
+AraxyteLevel 146 | 146 | 2 | 3/127 | 
+Basilisk Knight | 204 | 1 | 1/52 | 
+Basilisk Sentinel | 358 | 1 | 3 × 1/52 | 
+Basilisk | 61 | 1 | 1/128 | 
+Black demonWilderness Slayer Cave | 188 | 1 | 1/74 | 
+Blue dragon | 111 | 1 | 1/128 | &
+Cave abomination | 206 | 1 | 1/128 | 
+Cave horror | 80 | 1 | 1/128 | 
+Choke devil | 264 | 1 | 3 × 2/128 | 
+Dreadborn Araxyte | 281 | 2 | 3 × 3/127 | 
+Dust devilRegular | 93; 110 | 1 | 2/128 | 
+Dust devilWilderness Slayer Cave | 93 | 1 | 2/126 | 
+Eclectic impling jar | N/A | 1 | 1/100 | 
+Eclectic impling | 50; 60 | 1 | 1/100 | 
+Elf Archer | 90 | 1 | 1/128 | 
+Elf Warrior | 108 | 1 | 1/128 | 
+Green dragonRegular | 79 | 1 | 1/128 | &
+Guard (Prifddinas) | 108 | 1 | 1/128 | 
+Ice giantWilderness Slayer Cave | 67 | 1 | 1/62 | 
+Insatiable mutated Bloodveld | 278 | 1 | 3 × 1/128 | 
+Iorwerth Archer | 90 | 1 | 1/128 | 
+Iorwerth WarriorIorwerth Dungeon | 108 | 1 | 1/128 | 
+Iorwerth WarriorIorwerth Camp | 108 | 1 | 1/128 | 
+Locust rider | 68; 98; 106 | 1 | 2/128 | 
+Monstrous basilisk | 135 | 1 | 3 × 1/128 | 
+MournerLevel 108 | 108 | 1 | 1/128 | 
+Mutated Bloodveld | 123 | 1 | 1/128 | 
+Nuclear smoke devil | 280 | 1 | 3 × 3/128 | 
+Reward casket (hard) | N/A | 1 | 1/27.1 | 
+Scarab Mage | 66; 93; 119 | 1 | 2/128 | 
+Screaming twisted banshee | 144 | 1 | 3 × 2/128 | &
+Smoke devil | 160 | 1 | 3/128 | 
+Spiked Turoth | 244 | 1 | 3 × 1/128 | 
+Temple Spider | 75 | 1 | 1/100 | 
+Terror dogLevel 110 | 110 | 1 | 1/128 | 
+Terror dogLevel 100 | 100 | 1 | 1/128 | 
+Thermonuclear smoke devil | 301 | 1 | 5/107 | 
+Turoth | 83; 85; 87; 89 | 1 | 1/128 | 
+Twisted Banshee | 89 | 1 | 2/128 | 
+Vyrewatch Sentinel | 151 | 1 | 6/93 | 
+Vyrewatch | 87–125 | 1 | 6/96 | 
+Zamorak warrior | 84; 85 | 1 | 2/50 | 

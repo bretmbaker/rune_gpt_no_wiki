@@ -1,0 +1,54 @@
+[Weapon: Fremennik Gloves]
+
+
+Fremennik glovescan be bought fromYrsa's Clothing ShopinRellekkaafter completingThe Fremennik Trials. These gloves can also be obtained as a random reward fromKingdom ManagementonMiscellania. They give the same stats as normalleather glovesandCanifis gloves. These gloves can also be a drop fromDagannothsin theWaterbirth Island Dungeon. These gloves will also serve as a piece ofwarm clothingin theWintertodtminigame.
+
+
+[Infobox]
+Released: 2 November2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: These will keep my hands warm!
+General Store Value: 500 coins
+High alch: 300 coins
+Low alch: 200 coins
+Weight: 0.453 kg
+Grand Exchange Value: 123 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 150
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Dagannoth (Waterbirth Island)Level 88 | 88 | 1 | 2/128 | 
+Dagannoth (Waterbirth Island)Level 90 | 90 | 1 | 2/128 | 

@@ -1,0 +1,105 @@
+[Weapon: Ranger Boots]
+
+
+Ranger bootsare a rare reward received from the completion ofmediumTreasure Trails. It is part of theranger kit, and requires 40Rangedto wear; it can also be stored in atreasure chest. Ranger boots are the second best Rangedfootwearin terms of ranged attack bonus.
+The drop rate of ranger boots is 1/1,133 per slot.[1]With eachmedium cluereward, a player will receive 3-5 slots of items; this makes the effective drop rate ~1/283.6 per casket. The ranger boots are the most valuable drop from medium clues.
+
+
+[Infobox]
+Released: 5 May2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Lightweight boots ideal for rangers.
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 0.283 kg
+Grand Exchange Value: 35,138,101 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 339
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +8
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +4
+- Magic: +2
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Abyssal Sire/Strategies(Phase 2 Ranged)
+2 | Adamant dragon/Strategies(Ranged)
+2 | Ancient Wyvern/Strategies(Ranged)
+3 | Araxxor/Strategies(Ranged)
+3 | Barbarian Assault/Strategies(Ranged (high level))
+1 | Barbarian Assault/Strategies(Ranged (mid level))
+3 | Basilisk Knight/Strategies(Ranged/Prayer)
+2 | Basilisk Knight/Strategies(Ranged)
+2 | Brutal black dragon/Strategies(Ranged)
+2 | Cerberus/Strategies(Ranged)
+3 | Chompy bird hunting/Strategy
+4 | Commander Zilyana/Strategies(Ranged)
+2 | Corporeal Beast/Strategies(Ranged masses)
+4 | Dagannoth Kings/Strategies(Range)
+2 | Drake/Strategies(Ranged)
+3 | General Graardor/Strategies(Ranged Attacker)
+2 | Giant Mole/Strategies(Ranged)
+2 | Giant Mole/Strategies(Ranged Void)
+2 | Green dragon/Strategies(Ranged)
+2 | Grotesque Guardians/Strategies(Ranged switches)
+3 | K'ril Tsutsaroth/Strategies(Ranged)
+2 | Kalphite Queen/Strategies(High DPS (Phase Two))
+2 | Kree'arra/Strategies(Tbow / Bowfa)
+2 | Lava dragon/Strategies(Ranged)
+2 | The Leviathan/Strategies(Ranged)
+5 | Maniacal monkey/Strategies(Ranged)
+2 | Metal dragons/Strategies(Ranged)
+2 | The Mimic/Strategies(Ranged)
+2 | Mithril dragon/Strategies(Ranged)
+2 | Nightmare Zone/Strategies(Ranged)
+2 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+2 | Phantom Muspah/Strategies(Ranged)
+3 | Phantom Muspah/Strategies(Magic & Ranged)
+2 | Scurrius/Strategies(Range (high level))
+3 | Skeletal Wyvern/Strategies(Ranged (Void))
+2 | Skeletal Wyvern/Strategies(Ranged)
+2 | Skeleton (Ape Atoll)(Ranged)
+2 | Skotizo/Strategies(Ranged)
+2 | Slayer task/Abyssal demons(Ranged)
+2 | Slayer task/Fossil Island wyverns(Ranged)
+2 | Slayer task/Jellies(Ranged)
+2 | Slayer task/Suqah(Ranged (North))
+2 | Slayer training(Ranged)
+2 | TzHaar Fight Cave/Strategies(Pure)
+4 | TzHaar Fight Cave/Strategies(Ranged)
+2 | Vorkath/Strategies(Ranged (crossbow))
+2 | Zulrah/Strategies(Ranged)

@@ -1,0 +1,39 @@
+Name: Strangled Boar
+Combat Level: 166
+Size: 1x1
+Info:
+- Description: That's one infected looking piggy.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 12289
+- Link: MOID
+
+Location:
+- Area: The Stranglewood
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 40
+Attack: 190
+Strength: 70
+Defence: 40
+Magic: 60
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

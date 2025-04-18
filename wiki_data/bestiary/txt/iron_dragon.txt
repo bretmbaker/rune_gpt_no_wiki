@@ -1,0 +1,96 @@
+Name: Iron dragon
+Combat Level: 189
+Size: 4x4
+Info:
+- Description: Its scales seem to be made of iron.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 173.2 xp
+- Category: Iron Dragons
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 272,273,8080
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Dragon plateskirt (1/1,024[d 1])
+- Dragon platelegs (1/1,024[d 1])
+- Adamant sq shield (1/128)
+- Rune med helm (1/128)
+- Rune battleaxe (1/128)
+- Coins (1/128)
+- Nothing (1/68.81; Never[d 1])
+- Coins (1/390.1)
+- Loop half of key (1/378.27; 1/352.17[d 2])
+- Tooth half of key (1/378.27; 1/352.17[d 2])
+- Uncut sapphire (1/154.57; 1/78.49[d 2])
+- Runite bar (1/1,638.4)
+- Nature rune (1/2,730.67)
+- Rune 2h sword (1/2,730.67)
+- Rune battleaxe (1/2,730.67)
+- Uncut emerald (1/309.13; 1/156.98[d 2])
+- Law rune (1/4,096)
+- Death rune (1/4,096)
+- Steel arrow (1/4,096)
+- Rune arrow (1/4,096)
+- Adamant javelin (1/4,096)
+- Rune sq shield (1/4,096)
+- Dragonstone (1/4,096)
+- Silver ore (1/4,096)
+- Uncut ruby (1/618.26; 1/313.96[d 2])
+- Rune kiteshield (1/8,192)
+- Dragon med helm (1/8,192)
+- Rune spear (1/7,869.24; 1/841.11[d 2][d 3])
+- Shield left half (1/15,738.48; 1/1,682.22[d 2][d 3])
+- Nature talisman (1/1,648.7; 1/837.23[d 2])
+- Dragon spear (1/20,984.64; 1/2,242.97[d 2][d 3])
+- Uncut diamond (1/2,473.06; 1/1,255.85[d 2])
+- Rune javelin (1/4,946.11; 1/2,511.7[d 2])
+- Brimstone key (1/83; 1/77[d 1])
+- Clue scroll (hard) (1/128[d 2])
+- Draconic visage (1/10,000)
+- Ancient shard (1/203)
+- Dark totem base (1/305)
+- Dark totem middle (1/305)
+- Dark totem top (1/305)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 165
+Attack: 165
+Strength: 165
+Defence: 165
+Magic: 100
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 20
+Slash: 70
+Crush: 70
+
+[Magic defence]
+Magic: 30
+Elemental weakness: 50% weakness
+
+[Ranged defence]
+Light: 90
+Standard: 90
+Heavy: 65

@@ -1,0 +1,58 @@
+[Weapon: Xerician Top]
+
+
+TheXerician topis part of theXerician robesset. Equipping the Xerician top requires the player to have at least 10Defenceand 20Magic.
+This item can be stored in thearmour caseof acostume room, as part of theXerician robes.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 7 January2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: The forgotten magicks of Xeric imbue this garment with a little power.
+General Store Value: 80 coins
+High alch: 48 coins
+Low alch: 32 coins
+Weight: 0.2 kg
+Grand Exchange Value: 6,260 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 3,803
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +6
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +10
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Crazy archaeologist/Strategies(Magic)
+3 | Krystilia/Strategies(Magic)
+2 | Lava dragon/Strategies(Magic)
+5 | Scorpia/Strategies(Magic)
+4 | Scurrius/Strategies(Magic (mid level))

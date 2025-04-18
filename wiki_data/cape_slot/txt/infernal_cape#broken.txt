@@ -1,0 +1,175 @@
+[Weapon: Infernal Cape#Broken]
+
+
+Theinfernal capeis the most powerful melee cape in terms of overall bonuses, awarded for defeatingTzKal-Zukin theInferno. It surpasses its predecessor, thefire cape, boasting greater melee attack and strength bonuses, along with slightly higher defensive bonuses. In spite of this, it is still surpassed by theArdougne cloaks3and4in stab attack and prayer bonuses, and by themythical capein crush attack.
+An infernal cape can be exchanged for a chance of obtaining theJal-nib-rekpet by speaking toTzHaar-Ket-Keh. Like killingTzKal-Zuk, there is a 1/100 chance of obtaining the pet this way. If the player already has the pet, capes cannot be exchanged.
+
+
+[Infobox]
+Released: 1 June2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Whose idea was it to have a cape made of lava anyway?
+General Store Value: 80,000 coins
+Alchemy: Not alchemisable
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +4
+- Slash: +4
+- Crush: +4
+- Magic: +1
+- Ranged: +1
+
+Defence Bonuses:
+- Stab: +12
+- Slash: +12
+- Crush: +12
+- Magic: +12
+- Ranged: +12
+
+Other Bonuses:
+- Strength: +8
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+4 | Abyssal Sire/Strategies(Phase 2 Magic)
+1 | Abyssal Sire/Strategies(Phase 1 Melee)
+1 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+5 | Abyssal Sire/Strategies(Phase 2 Ranged)
+1 | Adamant dragon/Strategies(Melee)
+5 | Adamant dragon/Strategies(Magic)
+5 | Adamant dragon/Strategies(Magic)
+1 | Alchemical Hydra/Strategies(Melee)
+1 | Amoxliatl/Strategies(Melee)
+4 | Ancient Wyvern/Strategies(Prayer)
+1 | Ancient Wyvern/Strategies(Melee)
+1 | Araxxor/Strategies(Melee)
+1 | Aviansie/Strategies(Ranged)
+1 | Barbarian Assault/Strategies(Melee (high level))
+4 | Basilisk Knight/Strategies(Ranged/Prayer)
+1 | Basilisk Knight/Strategies(Melee)
+4 | Basilisk Knight/Strategies(Ranged)
+1 | Budget Cutter
+1 | Calvar'ion/Strategies(Melee)
+1 | Cerberus/Strategies(Melee)
+1 | Chambers of Xeric/Challenge Mode(Melee)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+1 | Chambers of Xeric/Strategies(Melee)
+1 | Chaos Elemental/Strategies(Melee)
+1 | Chompington(Melee)
+1 | Corporeal Beast/Strategies(Dolo)
+1 | Corporeal Beast/Strategies(Melee masses)
+1 | Corporeal Beast/Strategies(Fewer stat drains)
+1 | Corporeal Beast/Strategies(Team melee)
+1 | Corporeal Beast/Strategies(Solo melee)
+1 | Corporeal Beast/Strategies(Solo melee)
+1 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Dagannoth Kings/Strategies(Magic (Rex only))
+1 | Dark beast/Strategies(Melee)
+1 | Demonic gorilla/Strategies(upgrades and downgrades)
+1 | Down Do Specs(Melee)
+1 | Drake/Strategies(Melee)
+1 | Duke Sucellus/Strategies(Melee)
+1 | Fortis Colosseum/Strategies(High efficiency)
+1 | Fortis Colosseum/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Budget)
+1 | Fortis Colosseum/Strategies(Melee)
+1 | Galvek Speed-Trialist(Melee)
+1 | General Graardor/Strategies(Solo (Melee))
+1 | General Graardor/Strategies(Advanced Tank)
+1 | General Graardor/Strategies(Melee Attacker)
+1 | Giant Mole/Strategies(Dharok's)
+1 | Giant Mole/Strategies(Melee)
+1 | Glough Speed-Trialist(Melee)
+1 | Gout tuber/Strategies(Tank)
+1 | Green dragon/Strategies(Melee)
+1 | Grotesque Guardians/Strategies(Melee)
+1 | Hespori/Strategies(Best-in-slot)
+1 | K'ril Tsutsaroth/Strategies(Melee Tank)
+1 | K'ril Tsutsaroth/Strategies(Solo Melee)
+1 | K'ril Tsutsaroth/Strategies(Melee)
+1 | Kalphite Queen/Strategies(Pre-diary Method)
+1 | Kalphite Queen/Strategies(High DPS (Phase One))
+1 | Kalphite Queen/Strategies(Verac the Defiled's)
+4 | Kalphite Queen/Strategies(Max Mage (0 switches))
+1 | King Black Dragon/Strategies(Melee BIS smuggle)
+1 | King Black Dragon/Strategies(4-item melee)
+3 | Kraken/Strategies(Magic)
+1 | Lava dragon/Strategies(Melee)
+1 | Lizardman shaman/Strategies(Melee)
+1 | Metal dragons/Strategies(Melee)
+1 | Mithril dragon/Strategies(Melee)
+1 | Mithril dragon/Strategies(Melee tank)
+1 | Moons of Peril/Strategies(Moons of Peril Armour)
+1 | Nex/Strategies(Hybrid)
+1 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+5 | Nightmare Zone/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Melee)
+5 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+1 | Nightmare Zone/Strategies(Melee (Guthan's))
+1 | Nightmare Zone/Strategies(Melee (Dharok's))
+1 | Nightmare Zone/Strategies(Melee (Prayer))
+1 | The Nightmare/Strategies(Melee)
+1 | Phantom Muspah/Strategies(Melee)
+1 | Phosani's Nightmare/Strategies(Melee)
+1 | Revenants/Strategies(Melee)
+1 | Royal Titans/Strategies(Best-in-slot)
+1 | Royal Titans/Strategies(Minimal gear switching)
+5 | Rune dragon/Strategies(Magic)
+1 | Rune dragon/Strategies(Melee)
+1 | Sarachnis/Strategies(Melee)
+1 | Sarachnis/Strategies(Melee tank)
+1 | Scurrius/Strategies(Melee (high level))
+4 | Skeletal Wyvern/Strategies(Ranged (Void))
+1 | Skeletal Wyvern/Strategies(Melee)
+4 | Skeletal Wyvern/Strategies(Ranged)
+1 | Skotizo/Strategies(Melee)
+1 | Slayer task/Fossil Island wyverns(Melee)
+4 | Slayer task/Fossil Island wyverns(Prayer)
+1 | Slayer task/Gargoyles(Melee)
+1 | Slayer task/Jellies(Melee)
+1 | Slayer task/Nechryael(Melee)
+1 | Slayer task/Suqah(Melee (South))
+1 | Slayer task/Trolls(Melee (Mountain trolls))
+1 | Slayer task/Trolls(Melee (Ice trolls))
+1 | Slayer task/Waterfiends(Melee)
+1 | Slayer task/Wyrms(Melee)
+1 | Slayer training(Melee)
+1 | Spindel/Strategies(Melee)
+5 | Sulliuscep/Strategies
+1 | The Hueycoatl/Strategies(Melee)
+1 | Theatre of Blood/Hard Mode(Melee)
+1 | Theatre of Blood/Strategies(Learner)
+1 | Theatre of Blood/Strategies(Melee)
+1 | Thermonuclear smoke devil/Strategies(Melee)
+1 | Tombs of Amascut/Strategies(Melee switch)
+1 | Tormented Demon/Strategies(Melee switch)
+1 | TzHaar Fight Cave/Strategies(Melee)
+3 | TzHaar Fight Cave/Strategies(Magic)
+1 | TzHaar Fight Cave/Strategies(Ranged (Atlatl))
+1 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+1 | Ultimate Ironman Guide/Equipment
+1 | Ultimate Ironman Guide/Slayer
+1 | Vardorvis/Strategies(Melee)
+1 | Venenatis/Strategies(Melee)
+1 | Vet'ion/Strategies(Melee)
+1 | Vorkath/Strategies(Melee)
+1 | Vyrewatch Sentinel/Strategies(DPS)
+1 | Vyrewatch Sentinel/Strategies(AFK Prayer)

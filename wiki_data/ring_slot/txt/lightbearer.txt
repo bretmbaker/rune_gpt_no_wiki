@@ -1,0 +1,159 @@
+[Weapon: Lightbearer]
+
+
+TheLightbeareris a ring obtained as a rare reward from theTombs of Amascut. The ring was crafted by the warriorAhmekfrom the unstable energy left behind fromTumeken's sacrifice that ended theKharidian–Zarosian War.[1]
+The ring has no requirements to wear. It regenerates the player'sspecial attackenergy twice as fast at 15 seconds per 10%, or 150 seconds per 100%. Unequipping the ring will cause the special attack energy restoration timer to reset if you had equipped the ring below half natural regeneration.
+
+
+[Infobox]
+Released: 24 August2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A heavy ring that glimmers with a strange power.
+General Store Value: 1,000,000 coins
+High alch: 600,000 coins
+Low alch: 400,000 coins
+Weight: 0.05 kg
+Grand Exchange Value: 2,254,077 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 2,893
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Tombs of Amascut) | N/A | 1 | 7/24 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+1 | Abyssal Sire/Strategies(Phase 2 Magic)
+3 | Abyssal Sire/Strategies(Phase 1 Melee)
+1 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+3 | Adamant dragon/Strategies(Melee)
+1 | Alchemical Hydra/Strategies(Melee)
+1 | Alchemical Hydra/Strategies(Ranged)
+3 | Amoxliatl/Strategies(Melee)
+1 | Araxxor/Strategies(Ranged)
+4 | Araxxor/Strategies(Melee)
+2 | Aviansie/Strategies(Ranged)
+3 | Basilisk Knight/Strategies(Melee)
+2 | Basilisk Knight/Strategies(Ranged)
+3 | Cerberus/Strategies(Ranged)
+4 | Cerberus/Strategies(Melee)
+2 | Chambers of Xeric/Challenge Mode(Melee)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+1 | Chambers of Xeric/Strategies(Melee)
+1 | Chompington(Melee)
+2 | Commander Zilyana/Strategies(Magic)
+1 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+5 | Dark beast/Strategies(Melee)
+3 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+1 | Down Do Specs(Melee)
+4 | Drake/Strategies(Melee)
+1 | Duke Sucellus/Strategies(Melee)
+2 | Dust devil/Strategies(Bursting/Barraging)
+1 | Fight Caves Speed-Runner(Ranged)
+1 | Fortis Colosseum/Strategies(Ranged)
+2 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Budget)
+1 | Fortis Colosseum/Strategies(Melee)
+1 | General Graardor/Strategies(Solo (Melee))
+1 | General Graardor/Strategies(Advanced Tank)
+1 | General Graardor/Strategies(Melee Attacker)
+1 | General Graardor/Strategies(Ranged Tank)
+2 | Giant Mole/Strategies(Dharok's)
+2 | Giant Mole/Strategies(Ranged)
+2 | Giant Mole/Strategies(Melee)
+2 | Greater Nechryael/Strategies(Bursting/Barraging)
+2 | Grotesque Guardians/Strategies(Melee)
+2 | Guardians of the Rift/Strategies(Runecrafting)
+2 | Inferno/Strategies(Learners)
+2 | Inferno/Strategies(On task)
+1 | K'ril Tsutsaroth/Strategies(Solo Melee)
+1 | K'ril Tsutsaroth/Strategies(Ranged)
+1 | Kalphite Queen/Strategies(Max Mage (0 switches))
+2 | Kree'arra/Strategies(Tbow / Bowfa)
+1 | Kree'arra/Strategies(Magic)
+1 | The Leviathan/Strategies(Ranged)
+3 | Lizardman shaman/Strategies(Melee)
+3 | Lizardman shaman/Strategies(Ranged)
+3 | Metal dragons/Strategies(Melee)
+3 | Mithril dragon/Strategies(Melee)
+4 | Moons of Peril/Strategies(Moons of Peril Armour)
+1 | Nex/Strategies(Ranged)
+1 | Nex/Strategies(Hybrid)
+2 | The Nightmare/Strategies(Mage)
+1 | Phantom Muspah/Strategies(Ranged)
+1 | Phantom Muspah/Strategies(Magic & Ranged)
+5 | Phantom Muspah/Strategies(Melee)
+2 | Phosani's Nightmare/Strategies(Mage)
+3 | Royal Titans/Strategies(Best-in-slot)
+2 | Royal Titans/Strategies(Mid-game)
+3 | Royal Titans/Strategies(Minimal gear switching)
+3 | Rune dragon/Strategies(Melee)
+2 | Scurrius/Strategies(Melee (mid level))
+4 | Scurrius/Strategies(Melee (high level))
+3 | Scurrius/Strategies(Range (high level))
+1 | Slayer task/Abyssal demons(Magic)
+3 | Slayer task/Gargoyles(Melee)
+2 | Slayer task/Gargoyles(Ranged)
+1 | Slayer task/Jellies(Magic)
+4 | Slayer task/Jellies(Melee)
+2 | Slayer task/Nechryael(Magic)
+2 | Slayer task/Suqah(Melee (South))
+3 | Slayer task/Trolls(Melee (Mountain trolls))
+3 | Slayer task/Trolls(Melee (Ice trolls))
+4 | Slayer task/Waterfiends(Melee)
+3 | Slayer task/Wyrms(Ranged)
+4 | Sulliuscep/Strategies
+4 | Sulliuscep/Strategies
+1 | Tempoross/Strategies(Standard)
+1 | Tempoross/Strategies(Solo Cooking + Firefighting (Max Permits))
+3 | The Hueycoatl/Strategies(Melee)
+5 | Thermonuclear smoke devil/Strategies(Melee)
+1 | Tombs of Amascut/Strategies(Ranged switch)
+1 | Tombs of Amascut/Strategies(Magic switch)
+1 | Tombs of Amascut/Strategies(Melee switch)
+1 | Tormented Demon/Strategies(Ranged switch)
+1 | TzHaar Fight Cave/Strategies(Melee)
+1 | TzHaar Fight Cave/Strategies(Ranged)
+1 | TzHaar Fight Cave/Strategies(Ranged (Atlatl))
+1 | Ultimate Ironman Guide/Equipment
+1 | Ultimate Ironman Guide/Equipment
+1 | Ultimate Ironman Guide/Equipment
+5 | Vardorvis/Strategies(Melee)
+3 | Vorkath/Strategies(Melee)
+1 | Vorkath/Strategies(Ranged (crossbow))
+2 | The Whisperer/Strategies(Magic)

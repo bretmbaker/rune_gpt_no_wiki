@@ -1,0 +1,136 @@
+[Minigame: Echo_crystal]
+
+Echo crystal
+
+
+
+
+
+
+
+Released | 20 March2024(Update)
+
+Members | Yes
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Drop
+
+Examine | A crystal of rebounding potential.
+
+
+
+Values
+
+
+
+Value | 150,000 coins
+
+High alch | 90,000 coins
+
+Low alch | 60,000 coins
+
+Weight | 0.5 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 3,181,961coins (info)
+
+Buy limit | 8
+
+Daily volume | 493
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 28942
+
+Link | MOID
+
+
+
+Echo crystalsare a drop received from participating in theFortis Colosseum. It is used on a pair ofguardian bootsto createecho boots, which gives it an additional +2prayer bonusand a passive recoil effect.
+
+Each echo crystal added to the boots gives it 6,000 recoil charges.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Rewards Chest (Fortis Colosseum)Wave 8 | N/A | 2–3 | 63/114,240 | 
+
+Rewards Chest (Fortis Colosseum)Wave 9 | N/A | 1 | 135/21,600 | 
+
+Rewards Chest (Fortis Colosseum)Wave 9 | N/A | 2–3 | 15/21,600 | 
+
+Rewards Chest (Fortis Colosseum)Wave 10 | N/A | 1 | 135/16,000 | 
+
+Rewards Chest (Fortis Colosseum)Wave 10 | N/A | 2–3 | 15/16,000 | 
+
+Rewards Chest (Fortis Colosseum)Wave 11 | N/A | 1 | 27/2,080 | 
+
+Rewards Chest (Fortis Colosseum)Wave 11 | N/A | 2–3 | 3/2,080 | 
+
+Rewards Chest (Fortis Colosseum)Wave 12 | N/A | 1 | 135/4,800 | 
+
+Rewards Chest (Fortis Colosseum)Wave 12 | N/A | 2–3 | 15/4,800 | 
+
+Rewards Chest (Fortis Colosseum)Wave 4 | N/A | 1 | 126/43,400 | 
+
+Rewards Chest (Fortis Colosseum)Wave 4 | N/A | 2–3 | 14/43,400 | 
+
+Rewards Chest (Fortis Colosseum)Wave 5 | N/A | 1 | 63/19,250 | 
+
+Rewards Chest (Fortis Colosseum)Wave 5 | N/A | 2–3 | 7/19,250 | 
+
+Rewards Chest (Fortis Colosseum)Wave 6 | N/A | 1 | 63/16,800 | 
+
+Rewards Chest (Fortis Colosseum)Wave 6 | N/A | 2–3 | 7/16,800 | 
+
+Rewards Chest (Fortis Colosseum)Wave 7 | N/A | 1 | 189/45,920 | 
+
+Rewards Chest (Fortis Colosseum)Wave 7 | N/A | 2–3 | 21/45,920 | 
+
+Rewards Chest (Fortis Colosseum)Wave 8 | N/A | 1 | 567/114,240 | 
+
+The expected drop rate for a single crystal drop if you complete all twelve waves is approximately 1/13.37
+
+The expected drop rate for a multiple crystal drop if you complete all twelve waves is approximately 1/120.42
+
+The expected drop rate for any crystal drop if you complete all twelve waves is approximately 1/10.44
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Echo boots |  | None | None | 1 ×Guardian boots1 ×Echo crystal
+

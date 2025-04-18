@@ -1,0 +1,54 @@
+[Weapon: Dragonstone Boots]
+
+
+Thedragonstone bootscan be found as a rare reward upon opening theElven Crystal ChestwithinPrifddinas. They require 40Defenceto equip and have the same stats asrune boots.
+This item can be stored in thearmour caseof acostume room, as part of theDragonstone armourset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 25 July2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A stylish pair of rune boots inlaid with dragonstones.
+General Store Value: 12,500 coins
+High alch: 7,500 coins
+Low alch: 5,000 coins
+Weight: 1.36 kg
+Grand Exchange Value: 411,170 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 18
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +12
+- Slash: +13
+- Crush: +14
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Elven Crystal Chest | N/A | 1 | 1/2,500 | 

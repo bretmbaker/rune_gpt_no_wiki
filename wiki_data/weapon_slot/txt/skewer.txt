@@ -1,0 +1,57 @@
+[Weapon: Skewer]
+
+
+Theskeweris ameleekitchen weaponthat can be bought from theCulinaromancer's chest. It has a requirement of 30Attackto wield as well as completion of fiveRecipe for Disastersubquests.
+This weapon has the exact same stats as theadamant longsword.
+
+
+[Infobox]
+Released: 15 March2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Generally used for impaling fresh meat.
+General Store Value: 3,200 coins
+High alch: 1,920 coins
+Low alch: 1,280 coins
+Weight: 2.041 kg
+Grand Exchange Value: 2,161 coins
+Grand Exchange Daily Buy Limit: 50
+Grand Exchange Daily Trades Volume: 2
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +20
+- Slash: +29
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +3
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +31
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence

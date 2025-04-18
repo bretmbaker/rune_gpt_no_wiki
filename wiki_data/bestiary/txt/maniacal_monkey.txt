@@ -1,0 +1,47 @@
+Name: Maniacal monkey
+Combat Level: 140
+Size: 1x1
+Info:
+- Description: It looks like someone has tampered with its mind.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 65 xp
+- Category: Monkeys
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 7118
+- Link: MOID
+
+Location:
+- Area: Kruk's Dungeon (Lower Level)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Maple shortbow (1/20)
+- Adamant arrow(p++) (1/20)
+- Rope (1/20)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 65
+Attack: 200
+Strength: 175
+Defence: 10
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

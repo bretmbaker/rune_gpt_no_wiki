@@ -1,0 +1,69 @@
+[Weapon: Zamorak Monk Top]
+
+
+TheZamorak monk topis part of theZamorak monk robesset. They are bright red, and like the relatedZamorak monk bottomthey are dropped bydisciples of Iban, necromancers andmonks of Zamorak.
+Zamorak monk robes are commonly used by mages in theWildernessdue to providing decentPrayerandMagicbonuses and being easy to replace if lost. They can also be used to telegrabWine of Zamorakat theChaos Temple (Asgarnia)without being attacked.
+
+
+[Infobox]
+Released: 28 May2002(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A robe worn by worshippers of Zamorak.
+General Store Value: 40 coins
+High alch: 24 coins
+Low alch: 16 coins
+Weight: 0.907 kg
+Grand Exchange Value: 1,227 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 2,924
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +2
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chaos Fanatic | 202 | 1 | 4/128 | 
+Disciple of Iban | 13 | 1 | Always | 
+Elder Chaos druid | 129 | 1 | 4/1,419 | 
+Monk of Zamorak | 17–45 | 1 | 1/20 | 
+Necromancer | 26 | 1 | 3/128 | 
+Zamorak wizard | 65 | 1 | 3/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Crazy archaeologist/Strategies(Magic)
+2 | Ecumenical key/Strategies(Ranged)
+2 | Free-to-play Ironman guide(Magicgear)
+2 | Free-to-play Ironman guide(Prayermelee gear)
+2 | Free-to-play Magic training(Magicgear)
+3 | Scorpia/Strategies(Magic)

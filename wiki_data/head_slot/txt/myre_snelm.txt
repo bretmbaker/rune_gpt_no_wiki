@@ -1,0 +1,48 @@
+[Weapon: Myre Snelm]
+
+
+The roundmyre snelmis a type ofhelmetthat reduces the damage taken fromsnailsby 4.[1]Its stats are similar to those of asteel med helm, but it has no requirements to equip.
+
+
+[Infobox]
+Released: 14 October2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A marshy coloured snail shell helmet.
+General Store Value: 300 coins
+High alch: 180 coins
+Low alch: 120 coins
+Weight: 2 kg
+Grand Exchange Value: 47 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 13
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +7
+- Slash: +8
+- Crush: +6
+- Magic: -1
+- Ranged: +7
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

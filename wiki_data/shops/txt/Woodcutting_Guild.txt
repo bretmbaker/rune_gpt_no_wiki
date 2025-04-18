@@ -1,0 +1,127 @@
+[Shop: Woodcutting_Guild]
+
+Woodcutting Guild
+
+
+
+
+
+Released | 2 June2016(Update)
+
+Members | Yes
+
+Location | Hosidius
+
+Leagueregion | Kourend✓
+
+Requirements | 60
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | guild
+
+
+
+TheWoodcutting Guildis amembers-onlyguildlocated in the south-western corner ofHosidius. In order to enter the guild, players must have at least level 60 inWoodcutting(which can beboosted).
+
+While inside the guild, players will receive an invisible +7 level boost to their Woodcutting. This boost will stack with any existing boosts the player already has,[1]such as the visible +3 boost from using thedragon axe'sspecial attack, though visible boosts are capped to level 99.[2]However, the invisible boostwill notallow a player to perform actions above their base level. In addition,forestryevents will not occur while inside the Woodcutting Guild. There is no group Woodcutting bonus whilst cutting trees inside the guild.
+
+Entering the Woodcutting Guild is a task in thehard Kourend & Kebos Diary.
+
+Travel[edit|edit source]
+
+Use askills necklaceto teleport directly outside the front gate.Right clickVeos, who is located on the northern dock ofPort Sarim, to travel toLand's Endand head north-east.Teleport to Housewhile the player'sPOHis inHosidius. Redirecting aTeleport to housetablet to aHosidius teleporttablet via the use of ascroll of redirectionworks as well.Take theFairy Ringto Hosidius Vinery  (AKR) and then run west.UseXeric's talismanto teleport toXeric's Lookoutand run south.Use a fully grownspirit treeto teleport north-east of the guild entrance. Requires 83Farming.CastingKourend Castle Teleportand running south. Requires completion ofClient of Kourend.Lovakengj Minecart Networkto Hosidius West and run south, or toKourend Woodlandand run west then north.UseRada's blessingto teleport toKourend Woodlandand run north-east to enter through the back.Pest Controlteleport via theGroupinginterface (or aPest control teleport), take the boat back toPort Sarim, then toLand's EndviaVeosand run north-east upon arrival.Tithe Farmteleport via the Grouping interface and run West.
+
+Features[edit|edit source]
+
+Bank chest[edit|edit source]
+
+The guild features abank chestnear in the western section. This is useful for players looking to bank theirredwoodormagic logs.
+
+Trees[edit|edit source]
+
+Within the guild players can find the following types of trees:
+
+11Trees4Oak trees7Willow trees13Maple trees17Yew trees8Magic trees2Redwood trees(24 walls to chop)
+
+Ent dungeon[edit|edit source]
+
+The Woodcutting Guild dungeon, accessible through thecave entrancenear the sawmill, contains 22Ents(combat level 86) and abank chest. It is the only place outside theWildernesswhere players can kill and woodcut ent remains. Unlike the wilderness ents, the ents in the dungeon will only reward one noted log instead of two for every successful chop. If the player is using a boost to enter the guild, level 60 Woodcutting (not boostable) is also required to enter the dungeon.
+
+Another bank chest can be found in the back of the ent dungeon. The chest is one of the most-unused banks in the game, making it a potential location for players looking to train bankable skills quietly.
+
+Sawmill[edit|edit source]
+
+There is asawmillavailable for use, which is much closer to the bank compared to the main sawmill in theLumber Yardnorth-east ofVarrock.
+
+Perry's Chop-chop Shop[edit|edit source]
+
+Perry's Chop-chop Shopcan be found by the entrance inside the guild. This is the only shop inOld School RuneScapethat sellsrune axes.
+
+Within the shop, there is abank deposit boxthat is not shown on the minimap, which is convenient for the 3 yew trees directly north of the shop and the 1 yew tree and several maple trees west of the shop.
+
+Shrine[edit|edit source]
+
+Theshrineis a large bird's nest located outside the entrance to the Ent dungeon. It is marked by theon the minimap. Players can use the shrine to recharge their prayer, and offerbird eggsto this shrine to receive 100Prayerexperience and abird nestcontainingtreeorfruit treeseeds. There is also a 1/300 chance of receiving a piece of theevil chicken outfitfor each egg offered.
+
+Personalities[edit|edit source]
+
+BerryGuildmaster LarsMurfetNestyKaiForesterPerryImpsmay be encountered inside the guild.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+24 January2024(update) | Berrywill no longer interrupt players with a chat box every time they enter the Woodcutting Guild.
+
+10 January2024(update|poll) | AsKourend Favourhas been removed, accessing the guild no longer requires it.
+
+9 June2016(update) | Perry's Chop-chop Shophas been added to the Woodcutting Guild.Abank deposit boxhas been added to the Woodcutting Guildbank.The Woodcutting Guild now provides a hidden +7Woodcuttingboost.
+
+2 June2016(update|poll) | The Woodcutting Guild is added.
+
+Soundtrack[edit|edit source]
+
+The music played in the Woodcutting Guild has changed several times throughout its history. In 2016,Country Jigwas played, but after complaints that it didn't suit the guild, the theme was changed toThe Forlorn Homestead. In 2019, the theme changed again toA Walk in the Woods.
+
+References[edit|edit source]
+
+v•t•eWoodcutting Guild
+
+Inhabitants | BerryForesterGuildmaster LarsKaiMurfetNestyPerrySawmill operatorMonstersEntForester (Woodcutting Guild) |  | BerryForesterGuildmaster LarsKaiMurfetNestyPerrySawmill operator | Monsters | EntForester (Woodcutting Guild)
+
+ | BerryForesterGuildmaster LarsKaiMurfetNestyPerrySawmill operator
+
+Monsters | EntForester (Woodcutting Guild)
+
+Shops | Perry's Chop-chop Shop
+
+Features | Maple treesMagic treeYew treesEnt dungeonSawmillShrine
+
+v•t•eGuilds
+
+Free-to-play | Champions'CookingCraftingMining
+
+Members | FarmingFishingHeroes'HunterLegends'Myths'RangingWarriors'Wizards'Woodcutting
+
+v•t•eHosidius
+
+Inhabitants | BankerBarbaraBologaButler JarvisCatChef OliviaClerk(removed)DaleElnesEstate agentEweseyFarmer(removed)FarmerFarmer GricollerFarmer HayfieldFather JeanGallowGolovaGruff McScruffHopleezHoraceJonJonathanKonooLammy LangleLeelaLogavaManMariahMarisiRamoceanRichardSandicrahbServery assistantSmoggySoldierTaliaTown CrierGuardTraxiVannahWatsonHouse HosidiusLord KandurElenaArturPandurWoodcutting GuildGuildmaster LarsBerryForesterKaiMurfetNestyPerrySawmill operator |  | BankerBarbaraBologaButler JarvisCatChef OliviaClerk(removed)DaleElnesEstate agentEweseyFarmer(removed)FarmerFarmer GricollerFarmer HayfieldFather JeanGallowGolovaGruff McScruffHopleezHoraceJonJonathanKonooLammy LangleLeelaLogavaManMariahMarisiRamoceanRichardSandicrahbServery assistantSmoggySoldierTaliaTown CrierGuardTraxiVannahWatson | House Hosidius | Lord KandurElenaArturPandur | Woodcutting Guild | Guildmaster LarsBerryForesterKaiMurfetNestyPerrySawmill operator
+
+ | BankerBarbaraBologaButler JarvisCatChef OliviaClerk(removed)DaleElnesEstate agentEweseyFarmer(removed)FarmerFarmer GricollerFarmer HayfieldFather JeanGallowGolovaGruff McScruffHopleezHoraceJonJonathanKonooLammy LangleLeelaLogavaManMariahMarisiRamoceanRichardSandicrahbServery assistantSmoggySoldierTaliaTown CrierGuardTraxiVannahWatson
+
+House Hosidius | Lord KandurElenaArturPandur
+
+Woodcutting Guild | Guildmaster LarsBerryForesterKaiMurfetNestyPerrySawmill operator
+
+Shops | The Golden FieldLittle Shop of HoraceLogava Gricoller's Cooking SuppliesVannah's Farming Stall
+
+Features | Charcoal furnaceCrabclaw IsleForthos DungeonHosidius farmHosidius KitchenHosidius mineHouse portalMessSaltpetre (deposit)Tithe FarmVineryWoodcutting Guild

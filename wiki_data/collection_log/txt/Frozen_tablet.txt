@@ -1,0 +1,4 @@
+Item: Frozen tablet
+Summary: The frozen tablet is an item dropped by Duke Sucellus. It is used on the ring of shadows to unlock a teleport to Ghorrock Dungeon.
+Sources:
+- Duke Sucellus (Level 538; 758; 1099, Quantity: 1, Rarity: 1/25.8)

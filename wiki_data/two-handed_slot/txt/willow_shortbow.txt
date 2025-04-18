@@ -1,0 +1,64 @@
+[Weapon: Willow Shortbow]
+
+
+Thewillow shortbowis a two-handed ranged weapon stronger than theoak shortbow, but weaker than themaple shortbow. It can use arrows up tomithril. The willow shortbow requires aRangedlevel of 20 or higher to wield. Players can purchase this bow fromLowe's Archery EmporiuminVarrock.
+Memberscan also make a willow shortbow through theFletchingskill at level 35. First, a player must cut anunstrung willow shortbowfromwillow logs, granting 33.3 Fletchingexperience. Then, the player must string theunstrung willow shortbowwith abow string, granting an additional 33.2 experience.
+
+
+[Infobox]
+Released: 25 March2002(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A shortbow made out of willow, still effective.
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 1.36 kg
+Grand Exchange Value: 91 coins
+Grand Exchange Daily Buy Limit: 18,000
+Grand Exchange Daily Trades Volume: 38,742
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +20
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 3 ticks (1.8s) | 7 tiles |  | None
+ | Longrange | Standard | Longrange | 4 ticks (2.4s) | 9 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Adventurer JonSharpshooter | N/A | 1 | Always | N/A
+Reward casket (easy) | N/A | 1 | 11/396 | 
+Zamorak ranger | 81; 82 | 1 | 2/50 | 
+Zombie (Tarn's Lair)Medium level | 61–80 | 1 | 3/128 | 

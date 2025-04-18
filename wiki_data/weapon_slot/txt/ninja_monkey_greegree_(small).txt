@@ -1,0 +1,52 @@
+[Weapon: Ninja Monkey Greegree (Small)]
+
+
+Thesmall ninja monkey greegreeis used for transforming into asmall ninja monkeyonApe Atoll. To make one, a player must take amonkey talismanandsmall ninja monkey bonestoZooknock, located at the very end of theApe Atoll Dungeon.
+There are two different ninja greegrees. This type is made using bones from themonkey archersor theunnamedlevel 149monkey guardssummoned by Ape Atoll residents, although players don't have to kill the summoned guards (Karamkills them). It is strongly recommended to kill the archers instead, as they are abundant.
+
+
+[Infobox]
+Released: 6 December2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Hold, Drop
+Examine: A magical talisman in the shape of a small ninja monkey head.
+General Store Value: 3,000 coins
+Alchemy: Not alchemisable
+Weight: 0.085 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Punch | Crush | Accurate | N/A | 1 tile |  | +3 Attack
+ | Kick | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

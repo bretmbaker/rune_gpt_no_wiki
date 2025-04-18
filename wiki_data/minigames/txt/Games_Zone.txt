@@ -1,0 +1,119 @@
+[Minigame: Games_Zone]
+
+Games Zone
+
+
+
+
+
+Released | 5 May2021(Update)
+
+Type | Activity
+
+Members | No
+
+Location | Grand Exchange
+
+Leagueregion | Misthalin✓
+
+Participants | 2
+
+Skills | None
+
+Requirements | None
+
+Reward currency | N/A
+
+Tutorial | No
+
+
+
+Map
+
+
+
+TheGames Zoneis aminigamearea located in the south-western corner of theGrand Exchange. A more accessible version of theBurthorpe Games Room, the Games Zone has eight tables to play various board games with. Players within the area can challenge others to the same games found in the Burthorpe Games Room.
+
+If all eight tables are taken, players must wait until a game is over before challenging others, though players can spectate ongoing matches. Players can also play the same board games at the following pubs, which have two tables each:
+
+Blue Moon InninVarrockRising Sun InninFaladorForester's ArmsinSeers' VillageThe Golden FieldinHosidius
+
+There are no rewards or prizes for playing each except for game rankings (if the player chooses to play ranked games).
+
+Personalities[edit|edit source]
+
+Meredithwho will introduce the player to the Games Zone.Saradominist recruiterwho will directly queue players for a Castle Wars game.Zamorakian recruiterwho will directly queue players for a Castle Wars game.
+
+Games[edit|edit source]
+
+The Games Zone's board games are quite common brain-teasing puzzle games, such asOthello,Draughts(known as checkers inNorth America),Dots and Boxes, andConnect Four. They are played with one person at a time, and the player can be challenged to any of the four games provided that they are in the area.
+
+Interface | Game information
+
+ | DraughtsisRuneScape's version ofEnglish draughts(known in North America ascheckers), using runes instead of checkers. Like real checkers, the object of the game is to 'jump' over all of your opponent's pieces.
+
+ | RunelinkisRuneScape's version ofConnect Four, using runes instead of connect four checkers. Each player must click a column, which will drop their rune to the bottom-most empty space in that column. A player wins when they connects four of his runes diagonally or in a straight line.
+
+ | RuneversiisRuneScape's version ofReversior Othello using runes as game pieces. The goal is to have more of your runes on the board than your opponent. You can take your opponents pieces by trapping them between your own.
+
+ | RunesquaresisRuneScape's version ofDots and Boxes, using runes as game pieces. The board is arranged in a grid pattern. Each player fills in white line segments. If a player closes a box (their line completes a 1x1 square), that player's rune appears in the box. The player then gets another turn to place another segment. The game ends when all boxes are filled, and the player with the most filled-in squares is the winner.
+
+Rank system[edit|edit source]
+
+Players have a "rank" for each of the four games, which goes up or down depending on whether they beat their opponents in the game, similar to theElo systemfamously used for chess ratings. The rank initially starts at 1,000, and the rank change scales with the difference between the opponents' ranks.
+
+Δrank=50+rankloser−rankwinner16
+
+The resulting change is bounded between 1 and 100, and is added to the winner and subtracted from the loser. Your rank cannot go below 1 or above 60000. For example:
+
+a 1,000-rank player beating another 1,000-rank player will gain 50 pointsa 1,200-rank player beating a 800-rank player will gain 25 pointsa 800-rank player beating a 1,200 rank player will gain 75 pointsa 1,500 rank player beating a 500-rank player will only gain 1 pointa 643 rank playing beating a 1-rank player will gain 9 points, but the loser will not lose any points because they are already at the minimum rank.
+
+Players need 1,500 rank in the relevant game in order to go to some of the upstairs rooms in theBurthorpe Games Room, but otherwise have no bearing on the Games Zone.
+
+v•t•eSolo and Group Activities
+
+Minigames | Player versus MonsterBarbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's ChallengesPlayer versus PlayerBounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man StandingSkillingBrimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic MineCombat & SkillingShades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' GuildMiscellaneousBurthorpe Games Room(Games Zone)Rat PitsTears of Guthix | Player versus Monster | Barbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's Challenges | Player versus Player | Bounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man Standing | Skilling | Brimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic Mine | Combat & Skilling | Shades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' Guild | Miscellaneous | Burthorpe Games Room(Games Zone)Rat PitsTears of Guthix
+
+Player versus Monster | Barbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's Challenges
+
+Player versus Player | Bounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man Standing
+
+Skilling | Brimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic Mine
+
+Combat & Skilling | Shades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' Guild
+
+Miscellaneous | Burthorpe Games Room(Games Zone)Rat PitsTears of Guthix
+
+Raids | Chambers of XericTheatre of BloodTombs of Amascut
+
+Distractions and Diversions | Champions' ChallengeShooting StarsTreasure Trails
+
+Other | Blast mineCamdozaal VaultChompy bird huntingCreature CreationDorgesh-Kaan market tradingKeldagrim tasksManaging MiscellaniaShayzien Combat RingStealing valuablesUnderwater Agility and ThievingWise Old Man tasks
+
+v•t•eVarrock
+
+Inhabitants | ArisAuburyApothecaryBankerBaraekBartenderBennyBobCharlie the TrampCleanerCookDraul LeptocElizaEmmaGertrudeHorvikIffieJeffJonny the BeardJulietKanelKatrineLoweMage of ZamorakMaster smithing tutorPhillipaPhilopRomeoSarahSawmill operatorShilopShop assistantShop keeperShop assistant (Swordshop)Shop keeper (Swordshop)StravenStray dogSuzieTea SellerThessaliaTobyTown CrierTramp(pillory)WeaponsmasterWiloughZaffEast VarrockAsyffBartenderChancyDa VinciDimintheisGuardGuidorJulieHooknosed JackHopsPoxGrand ExchangeAbigailaBob BarterBrugsen BursenClerkFarid MorrisaneGrand Exchange ClerkHofuthandJamesMeredithMurky MattRelobo BlinyoSaradominist recruiterZamorakian recruiterVarrock PalaceAeonisig RaispherAmbassador FerrnookCaptainCaptain RovinQueen EllamariaKing RoaldReldoSir PrysinSurok MagisTrainee GuardTreznorVarrock MuseumArt Critic JacquesBarnabus HurmaCaden AzroThe CollectorCurator Haig HalenDavidHistorian MinasInformation clerkMarfetMarius GisteMuseum guardNatural historianOrlando SmithSchoolgirlSchoolboySinco DoarTeacher and pupilThias LeackeTinse TorpeTorrcsWorkmanVarrock ChurchElsieFather LawrenceJeremy ClerksinMartina ScorsbyJolly Boar InnBartenderCookJohnathonRat PitsBarmanGamerGertrude's catMittensTreacleVarrock SewersGrimesquitHistorian AldoPhingspetTrotters |  | ArisAuburyApothecaryBankerBaraekBartenderBennyBobCharlie the TrampCleanerCookDraul LeptocElizaEmmaGertrudeHorvikIffieJeffJonny the BeardJulietKanelKatrineLoweMage of ZamorakMaster smithing tutorPhillipaPhilopRomeoSarahSawmill operatorShilopShop assistantShop keeperShop assistant (Swordshop)Shop keeper (Swordshop)StravenStray dogSuzieTea SellerThessaliaTobyTown CrierTramp(pillory)WeaponsmasterWiloughZaff | East Varrock | AsyffBartenderChancyDa VinciDimintheisGuardGuidorJulieHooknosed JackHopsPox | Grand Exchange | AbigailaBob BarterBrugsen BursenClerkFarid MorrisaneGrand Exchange ClerkHofuthandJamesMeredithMurky MattRelobo BlinyoSaradominist recruiterZamorakian recruiter | Varrock Palace | Aeonisig RaispherAmbassador FerrnookCaptainCaptain RovinQueen EllamariaKing RoaldReldoSir PrysinSurok MagisTrainee GuardTreznor | Varrock Museum | Art Critic JacquesBarnabus HurmaCaden AzroThe CollectorCurator Haig HalenDavidHistorian MinasInformation clerkMarfetMarius GisteMuseum guardNatural historianOrlando SmithSchoolgirlSchoolboySinco DoarTeacher and pupilThias LeackeTinse TorpeTorrcsWorkman | Varrock Church | ElsieFather LawrenceJeremy ClerksinMartina Scorsby | Jolly Boar Inn | BartenderCookJohnathon | Rat Pits | BarmanGamerGertrude's catMittensTreacle | Varrock Sewers | GrimesquitHistorian AldoPhingspetTrotters
+
+ | ArisAuburyApothecaryBankerBaraekBartenderBennyBobCharlie the TrampCleanerCookDraul LeptocElizaEmmaGertrudeHorvikIffieJeffJonny the BeardJulietKanelKatrineLoweMage of ZamorakMaster smithing tutorPhillipaPhilopRomeoSarahSawmill operatorShilopShop assistantShop keeperShop assistant (Swordshop)Shop keeper (Swordshop)StravenStray dogSuzieTea SellerThessaliaTobyTown CrierTramp(pillory)WeaponsmasterWiloughZaff
+
+East Varrock | AsyffBartenderChancyDa VinciDimintheisGuardGuidorJulieHooknosed JackHopsPox
+
+Grand Exchange | AbigailaBob BarterBrugsen BursenClerkFarid MorrisaneGrand Exchange ClerkHofuthandJamesMeredithMurky MattRelobo BlinyoSaradominist recruiterZamorakian recruiter
+
+Varrock Palace | Aeonisig RaispherAmbassador FerrnookCaptainCaptain RovinQueen EllamariaKing RoaldReldoSir PrysinSurok MagisTrainee GuardTreznor
+
+Varrock Museum | Art Critic JacquesBarnabus HurmaCaden AzroThe CollectorCurator Haig HalenDavidHistorian MinasInformation clerkMarfetMarius GisteMuseum guardNatural historianOrlando SmithSchoolgirlSchoolboySinco DoarTeacher and pupilThias LeackeTinse TorpeTorrcsWorkman
+
+Varrock Church | ElsieFather LawrenceJeremy ClerksinMartina Scorsby
+
+Jolly Boar Inn | BartenderCookJohnathon
+
+Rat Pits | BarmanGamerGertrude's catMittensTreacle
+
+Varrock Sewers | GrimesquitHistorian AldoPhingspetTrotters
+
+Shops | Aubury's Rune Shop.Construction suppliesFancy Clothes StoreHorvik's Armour Shop.Lowe's Archery EmporiumSpeedrunning Reward ShopThessalia's Fine Clothes.Thessalia's MakeoversVarrock General StoreVarrock SwordshopYe olde Tea Shoppe.Zaff's Superior Staffs!
+
+Features | Blue Moon InnClan HubDancing Donkey InnGames ZoneGrand ExchangeJolly Boar InnLumber YardPhoenix Gang HideoutRatpit barRat PitsSawmillVarrock Rooftop CourseVarrock MuseumVarrock PalaceVarrock SquareVarrock Sewers
+
+Banks | Varrock west bankVarrock east bank

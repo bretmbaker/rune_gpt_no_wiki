@@ -1,0 +1,512 @@
+[Shop: Wilderness]
+
+Wilderness
+
+
+
+
+
+Released | 13 August2001(Update)
+
+Also called | Wildy, Wild, Forinthry
+
+Members | No
+
+Capital | N/A (previouslySenntisten)
+
+Leagueregion | Wilderness✓
+
+Inhabitants | Humans
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | region
+
+
+
+Location onWorld Map
+
+
+
+
+
+Troll Country | ← | Wilderness | → | Fossil Island
+
+↓
+
+Kingdom of Misthalin
+
+TheWilderness, also known asthe WildorWildy, is a large and dangerous wasteland that makes up most of north-easternGielinor.
+
+Warning:The entirety of the Wilderness is aPvParea, except forFerox Enclave,Mage Arena bank,Corporeal Beast's LairandKing Black Dragon Lair.When the player is killed by another player, all unprotected items will be lost to the killer.Hardcore ironmenwill lose their status if they die to a player just like they would in the event of any other unsafe death.
+
+Two players or multiple players (within multi-combat zone) may fight if their combat levels are within a certain range of each other, increasing thedeeper into the Wilderness they go. This, along with very high level monsters and bosses, makes the Wilderness one of the most dangerous places in the game.
+
+The area has its own set ofachievement diaries, theWilderness Diarieswith tasks relating to the Wilderness and its surrounding area.
+
+Transportation[edit|edit source]
+
+Icon | Name | Transport location | Requirements and notes
+
+ | Carrallanger Teleport | Graveyard of Shadows | Desert Treasure I
+
+ | Dareeyak Teleport | Ruins (west)
+
+ | Ghorrock Teleport | Frozen Waste Plateau
+
+ | Annakarl Teleport | Demonic Ruins
+
+ | Cemetery Teleport | Forgotten Cemetery | Spoken toTyss
+
+ | Ice Plateau Teleport | Frozen Waste Plateau | Lunar Diplomacy
+
+ | Wilderness crabs teleport | Dark crabFishingspot nearVenenatis | None
+
+ | Respawn Teleport | Ferox Enclave | Spoken toTyss
+
+ | Minigame teleport | Ferox Enclave | None
+
+ | Revenant cave teleport | Lava MazeRevenant Cavesentrance | None
+
+ | Burning amulet | Chaos Temple,Bandit Camp,Lava Maze | None
+
+ | Hunter capeteleport | Black chinchompaHunter area | 99Hunter
+
+ | Canoe | Ferox Enclave, Wilderness pond (one-way) | 57Woodcutting
+
+ | Wilderness Obelisk | 5 locations; see main page | None
+
+ | Ring of dueling | Ferox Enclave | None
+
+ | Lever (Ardougne) | Deserted Keep | None
+
+Lever (Edgeville)
+
+ | Wilderness sword 4 | Fountain of Rune | Elite Wilderness diary
+
+ | Wilderness sword 3 | Hard Wilderness diary
+
+In-game history[edit|edit source]
+
+The area that is now the Wilderness was formerly known asForinthry. It was a lush and green land by the time Gielinor was discovered byGuthix.
+
+Forinthry was very rich in resources, and so a perfect place to build settlements.Zaros, a god who entered Gielinor after Guthix entered his sleeping state at the end of theFirst Age, fully conquered this area during theSecond Age. Many settlements were built, whose most powerful wereDareeyak,Carrallanger,Annakarl, andGhorrock. Forinthry formed a very big part ofZaros' mighty empire, which was the most powerful of Gielinor at that time, and stretched from northern Forinthry, throughAsgarniaandMisthalin, to the north-east ofMorytania.
+
+Near the end of the second age, Zaros'MahjarratgeneralZamorakwanted to overthrow Zaros and was able to collect a group of followers. Those included (but were not limited to) theElder DemonThammaron, thevampyreLord Drakan, the human warriorViggora, and the MahjarratZemouregalandHazeel. When Zamorak got his hands on theStaff of Armadyl, he attacked Zaros' palace and after an intense battle, a large part of Zaros' powers were transferred via the staff to Zamorak, leading to his banishment. After that Zamorak supposedly disappeared. Years later he returned to Gielinor with an army so big that he could conquer the world and declared war against all the other gods, starting theGod Wars.
+
+During the God Wars, Forinthry was under constant attack from the armies of Zamorak andSaradominand soon started to crumble, the fortresses were dominated and many of Zaros' remaining followers sided with Zamorak to not be his victims, and soon, the remaining settlements of Forinthry were destroyed with the exception of Ghorrock.
+
+In the last years of the war Saradomin forged a temporary and fragile alliance withArmadylandBandosto defeat Zamorak, and in a following battle Zamorak brought destruction on the entire land by causing a massive explosion that swept across the continent turning it into the cursed wasteland today known as the Wilderness. The massive destruction caused Guthix to awake from his long slumber. Once awoken Guthix led his army to the scarred land of Forinthry to end the war, which led him to establish theEdicts of Guthix, which banned all gods from ever directly influencingGielinoragain. Guthix went deep into the depths of Gielinor and wept, saddened by the effects the God Wars had wrought on the world that he had shaped and loved. The Wars ended, but the damage was done; many races like theaviansie,icyene,ourgs, andwyrmswere almost wiped out of existence, and all of Gielinor suffered from the effects of the wars, but not one kingdom suffered as heavily as Forinthry.
+
+Forinthry is today known as the Wilderness and is now nothing but a cursed wasteland feared by adventurers. Today, many ruins of the once mighty cities still remain in these lands, barely recognisable as the great cities they were but rather piles of bricks and spirits of the creatures who died during the God Wars who were forced to look after the Wilderness. They started wandering the Wilderness, attacking anything alive they would encounter, these spirits became known as therevenants.
+
+During theFourth Age, there were many attempts to recolonise the Wilderness, none known to be particularly successful. There are still many creatures wandering around in the Wilderness, like many species ofgiantsanddemons. Due to the Wilderness being a site of ancient battles, it is also a place wheredragonsreside. Some outlaws, mostly Zamorakians, have also managed to set up their bases there, likebandits,dark warriors,rogues, andpirates.
+
+Unique mechanics[edit|edit source]
+
+Various gameplay mechanics that are present in the game may work differently when within the Wilderness, such as item behaviour, item-dropping behaviour, etc.
+
+Wilderness levels[edit|edit source]
+
+The Wilderness contains different levels, starting at level 1 at theWilderness ditch, and increasing to level 56 in the far north. These levels are only indicated by a small screen overlay; there is no physical separation between levels.
+
+Players withincombat levelrange of each other can attack each other in the Wilderness. This range is calculated by taking thecombatlevel and adding or subtracting the current Wilderness level.
+
+For example, in level 1 Wilderness, a player who is level 100 can attack players who are level 99, level 101 or the same level. If a player is level 100 in level 24 Wilderness, they can attack players between level 76 and level 124 combat.
+
+The first two steps (squares\tiles) of the Wilderness are "safe" zones, in which players can not attack or be attacked, thus making the Wilderness ditch not a strict reminder of where the Wilderness starts. Both players (or the player and monsters) must be outside the safe zone before any PVP or Wilderness Slayer tasks can take effect.
+
+InPvP worlds, anywhere outside of a safe zone (except for the Wilderness itself) is level 15 Wilderness. Inside the Wilderness, this is further increased by the regular Wilderness level; e.g being in level 20 Wilderness in a PvP world will essentially act as if the player is in level 35 Wilderness. Death mechanics are still based on the actual Wilderness level without this 15 level modifier, however.
+
+The deep Wilderness is separated from the lower part of the Wilderness by theWilderness fence. Unlike the rest of the Wilderness, the deep Wilderness is only available tomembers.
+
+Death mechanics[edit|edit source]
+
+Upondyingin the Wilderness of any cause, the player willkeep up to three (3) itemsuponrespawning.
+
+Dying in the wilderness will not send food, potions, or thePhoenix Necklaceto aGraveand they are instead deleted.
+
+If the player obtains askull(either by attacking other player(s), entering theAbyss, or requesting one from NPCs like theEmblem Trader), they willlose all itemson death. If the player is attacked by another player(s), they can fight them back without obtaining a skull.
+
+TheProtect Itemprayerallows the player to keep one more item than usual if activated, meaning up to four (4) items are kept normally, but only one (1) is kept if skulled. Protect Item canNOTbe activated on ahigh-risk world.
+
+If the player dies to other players, all tradeable items will only be visible to the player who dealt the most damage, lasting for one minute before becoming visible to other players. If the player dies to a monster, they are visible only to the victim for a minute. After this, all other players can see the dropped items for 59 minutes.
+
+Upon death, certain untradeable items (such asvoid armour,fire capesorfighter torso) will be converted intocoinsabove level 20 Wilderness, and players must obtain the item again from its original source. Below level 20 Wilderness, any items deemed useful in combat turn into broken items instead, which can be repaired back into their original state with coins atPerdu. Other untradeable items, such asgraceful clothing, will go to the gravestone.
+
+Teleport restrictions[edit|edit source]
+
+Teleportswill not work above level 20 Wilderness, except for those methods listed below, which may be used bymembersup to level 30 Wilderness. However, theTeleport Blockspell will prevent using nearly any means of teleportation for five minutes, or two and a half minutes if it is successfully cast on a player withProtect from Magicactive. Also, you cannot teleport after using yourspecial attackson another player for a short duration. Thechronicledoes not work in the Wilderness.
+
+Amulet of gloryAmulet of eternal gloryCombat braceletSkills necklaceRing of wealthPharaoh's sceptreGrand seed podRoyal seed podSlayer ringRing of lifeEscape crystalDefence cape(acting as a ring of life when below 10% hitpoints)Max cape(acting as a ring of life when below 10% hitpoints)
+
+Dropping items[edit|edit source]
+
+Except for raw food, cooked food, and potions, all dropped items become visible to other players immediately. This is to discourage players from dropping their items before dying and quickly making it back to pick them up. Cooked foods and potions never appear to other players, which is to prevent clans and teams from dropping supplies for each other during a fight. Additionally, manually dropped food and potions despawn in 15 seconds rather than 3 minutes, which is to prevent players from juggling food to give themselves an advantage in a fight.
+
+Black chinchompascannot be released in combat. This was changed to prevent chinchompa hunters releasing them to leave nothing for the player killer out of spite.
+
+Item behaviour[edit|edit source]
+
+ | This article is currently in the middle of a major update or expansion.Some sections might not be fully accurate or complete. You can help bycontributingsmall edits to the page, to avoid conflicting with the work of other editors.
+
+The damage reduction properties ofDinh's bulwarkand the set effect ofjusticiar armourdo not work. However, the passive effect of theelysian spirit shielddoeswork.Anglerfishandblighted anglerfishdo not provide an overheal when eaten if you are in combat with another player or a non-player character.Thetoxic blowpipewill have a base speed of 4 instead of 3 when fighting players; it is unaffected when fighting monsters in the Wilderness.Powered stavescannot be used against other players, exceptThammaron's sceptreand theaccursed sceptre.Theserpentine helmwill not venom players when used with a poisoned weapon.Barrows equipmentis protected upon a PvP death based off the broken version's value, not the value of the working version. SeeItems Kept on Deathfor more information.
+
+UI changes[edit|edit source]
+
+ | This article is currently in the middle of a major update or expansion.Some sections might not be fully accurate or complete. You can help bycontributingsmall edits to the page, to avoid conflicting with the work of other editors.
+
+Spell icons will not grow in size to reduce empty space in thespellbookwhile filters are enabled. This does not apply tothe mobile client.Theautocastsetting does not remember your selected spell if you change weapons, even if you have the required runes in your inventory.
+
+Player killing[edit|edit source]
+
+Since players can engage in combat within the Wilderness,player killing- or "PKing" - is a common activity. When a player is killed within the Wilderness, all of their lost tradeable items will be dropped for the opponent that has dealt the most damage, and some of the lost untradeable items will be dropped as coins. Note that this adangerousactivity.
+
+Inmulticombat areas, multiple players are able to attack the same target simultaneously. This allows players to formclansand engage inplayer-versus-playercombat together, increasing the chances of successful knockouts. Insingle-way combatareas, there is an extendedPJ timer: a combat-interruption prevention and temporary trade restriction mechanic that somewhat lessens teams' abilities to dominate individual players. However, to avoid getting attacked while looting in the dangerous areas, players are advised to unlock and turn on theloot keys.
+
+Many players create specialized accounts forplayer-versus-playercombat calledcombat pures. The goal of these accounts is to gain advantage over other players within their respectivecombat levelbrackets. Combat pures will often minimize or neglect defensive combat skills in order to maximise the damage output. See thecombat pureandfree-to-play combat pure guidesfor more details.
+
+Official worlds[edit|edit source]
+
+The followingofficial worldsare assigned to Wilderness PKing:
+
+World | Location | Members | Activity
+
+308 | United Kingdom | 0 | Wilderness PK - Free
+
+316 | United Kingdom | 0 | Wilderness PK - Free
+
+369 | United States (east) | 1 | Wilderness PK - Members
+
+Combat types[edit|edit source]
+
+Player-versus-playercombat activities can be divided into the following types:
+
+1-vs-1 combat: arranged duels between willing players insingle combat, usually within low-to-mid levels of the Wilderness north ofEdgevilleor around theFerox Enclave. Players participating in this form of combat adhere to some unofficial rules that make the fights more dynamic and fair. These will vary betweenfree-to-playandmembersworlds, but in general players tend not to useprotection prayers, are expected to risk similar wealth in either items or cash,safing(healing too much in combat) andplayer jacking(interrupting fights) are frowned upon, and players are free to run or teleport when out of supplies.Risk fighting: a form of 1-vs-1 combat where players bring expensive items or coins to increase the carriedrisk; a players' experience and abilities in combat greatly affect the outcome.Deathmatches: a form of 1-vs-1 combat where players agree to fight to the death, even if they run out of supplies.Singles-plus: functions similarly to single-way (1-vs-1) combat but insingles-plusplayers attacking other players will take priority over a monster or boss.Multicombat: fights between groups of players withinmulticombat areaswhere any prayers, spells and items can be used to gain advantage in combat. None of the unofficial rules of arranged 1-vs-1 combat apply here. These fights are more common within the deeper Wilderness between individual players and small teams, as well asclans.
+
+No honour combat: a type of combat where using any means necessary to kill the opponent is allowed. This usually includes techniques that are frowned upon and rarely utilised in typical arranged 1-vs-1 combat, breaking its unofficial set of rules. Examples of these include using freezing spells,protection prayers,safespottingand all combat styles (tribridding). No honour (ornh) fights can occur in the deep Wilderness, as well as in arranged locations such asEdgevillein thePvP worlds. In a wider context,no honourcan also be used to describe behaviours that are disapproved of among thePvPcommunity, such asflaming,raggingor cheating. Unfairclan-related behaviours also fall under this category, examples of which include regrouping with a team when the fight was already over, or taking a fake ending picture at the end of a fight.Hunting: some player killers target unwillingskillersorPvMersto kill them for loot. As in no honour combat, these players will use any technique they can to score the kill. For example, usage ofTele Blockand binding or freezing spells is common. This type of combat is common around locations that provide high experience rates or high profit.Clan wars: arranged wars betweenclans, usually much larger in scale than regular multicombat fights.
+
+Bounty Hunter[edit|edit source]
+
+Bounty Hunterwas aplayer killing-basedminigamethat could only be played on the Bounty Hunter world 318. Players were assigned a target to kill to earn and points, which used to be cashed in for rewards at theBounty Hunter Shop. Players were matched based on theircombat levels.
+
+Looting[edit|edit source]
+
+Players, especially those with low level accounts, can cross player killing hotspots with relatively few player killers being able to attack them. This allows them to pick up items dropped by other players, especially leftover food and ammunition. Looters pick up the remains of a drop after the killer finished taking the most expensive items. Some looters even tailgate player-killingclans, which can be especially profitable during wars. Looters are most common around the 1-vs-1 combat hotspots and the locations of arranged clan wars.
+
+Even though this is a relatively profitable activity for the looters, their presence may inconvenience players participating inplayer-versus-playerbattles by making them accidentally click to attack them. It is recommended that players turn off their left-click attack options after a successful kill to avoid attacking the looters.
+
+Notable locations[edit|edit source]
+
+Place | Wilderness Level | On the Map | Other Information
+
+NorthernEdgeville Dungeon | 1 - 5 | Underground, with exit toObelisk of Airin level 5 Wilderness | Monsters includeBlack demons,Earth warriors, andChaos druids. TheObelisk of Earthand exit to theObelisk of Airare located here.
+
+South Wilderness mine | 6 - 7 | North of theEdgevillebank, near the tip of theRiver Lum | Containscoalandiron rocks. TheMage of Zamorakprovides teleport access to theAbyss.
+
+South-west Wilderness mine | 9 | South of theDark Warriors' Fortress | Contains 34coal rocks.
+
+Chaos Temple | 13 | South-east of theGraveyard of Shadows, marked by the altar icon | This is one of only three altars in the Wilderness.Elder Chaos druidsinhabit the area.
+
+Dark Warriors' Fortress | 13 - 16 | South of theBandit Camp | Spawns all runes chaos and lower.
+
+Ferox Enclave | 13 - 16 | South of theGraveyard of Shadows | A safe haven surrounded by barriers in which players cannot attack each other.
+
+Revenant Caves | 17 - 40 | Three entrances - one east of theDark Warriors' Fortress(low level), one north of theBandit Camp(mid level) and one south-east of theLava Maze(high level) | Home toRevenants. Requires a100,000coin entrance fee, which needs to be repaid if the player dies inside.
+
+Wilderness Slayer Cave | 17- 31(multicombat) | Two entrances - one east of theDark Warriors' Fortress(low level), one south-west of theSilk Chasm(high level) | Home to various monsters assigned byKrystilia, who have slightly improved drop tables over their standard variants.
+
+Wilderness God Wars Dungeon | 23 - 29(multicombat) | East ofThe Forgotten Cemetery | Monsters dropecumenical keys, andaviansiedrop notedadamantite bars.
+
+Bone Yard | 27 - 30 | North of theChaos Templeand east of theRuins | BonesandBig bonesspawn here, making it a popular Prayer training location.
+
+Bandit Camp mine | 29 - 35 | East of theForgotten Cemetery | Contains 16iron rocks, 31coal rocks, 19mithril rocks, 8adamantite rocks. Most rocks of anyfree-to-playmining site.
+
+Lava Dragon Isle | 36 - 42 | West of theDemonic Ruins, east of theLava Maze | The only location ofLava dragons. Twowhite berriesspawn here.
+
+Chaos Temple (hut) | 38 | The small building just south of theFrozen Waste Plateau | Altar allows forPrayertraining. A hotspot forPKersrecharging their prayer or killing players training here.
+
+Lava Maze | 40 - 45 | South of theMage Arena, west ofLava Dragon Isle | Many item spawns (gold necklace,steel platebodyandstaff of earth), and theMuddy chestcan be looted. Has a singlelava eelfishing spot. ThedungeoncontainsGreater demons,Black dragons, and arunite rock.
+
+Frozen Waste Plateau | 43 - 56 | North-western most part of the Wilderness, north of theChaos Temple (hut) | Spawnswaterandcosmic runes, and features threerunite rocks(m).
+
+Demonic Ruins | 45 - 48(multicombat) | North-east corner, south of theRogues' Castle | Prayer pointsare slowly recharged while within range. The only F2P location withGreater demons. Also features ablood runeand severalburnt bonesspawns.
+
+Lava Maze runite mine | 46 | North of theLava Maze | The only free-to-play vein ofrunite ore. Player-killing hotspot.
+
+Fountain of Rune | 47 - 48(multicombat) | North-east corner, south of theWilderness Volcano | Players can castspellswithoutruneshere, though no experience is given.Dragonstone jewellerycan gain extra charges from the fountain.
+
+Rogues' Castle | 51 | East of theMage ArenaandDeserted Keep | Containsrogues, which can bepickpocketed, andchests, which can be looted.
+
+Resource Area | 51 - 53 | East of theDeserted Keep, west of theScorpion Pit | ContainsMining,FishingandWoodcuttingresources. One of the fewfishing spotsto containdark crabs. TwoRunite Golemsare here.
+
+Wilderness Volcano | 53 - 56 | North-east of theRogues' Castle | Odium wardsandmalediction wardsare forged here.Dark crabfishing spots are nearby.
+
+Transportation methods[edit|edit source]
+
+Note: Some methods in this section may allow the player to immediately teleport into deep sections of the Wilderness. However, nothing except members'Deserted Keep,KBDandMage Arenalevers allow directly leaving the Wilderness above level 30, and pk-ers may tele-block the player below level 30. Always come prepared, as easy escape may not be readily available in an emergency.
+
+Spells[edit|edit source]
+
+Icon | Spell | level | Spellbook | Location | Wildernesslevel
+
+ | Minigame Teleport | - | Minigame Teleport | Clan Wars/Last Man Standing(Ferox Enclave) | 13-16
+
+ | Dareeyak Teleport | 78 | Ancient | Western Ruins | 23
+
+ | Carrallanger Teleport | 84 | Graveyard of Shadows | 19
+
+ | Annakarl Teleport | 90 | Demonic Ruins | 47
+
+ | Ghorrock Teleport | 96 | Frozen Waste Plateau | 45
+
+ | Ice Plateau Teleport | 89 | Lunar | 53
+
+ | Tele Group Ice Plateau | 90
+
+ | Cemetery Teleport | 71 | Arceuus | The Forgotten Cemetery | 31
+
+Items[edit|edit source]
+
+Burning amulet- has teleports to various locations around the WildernessGames necklace- teleports players toCorporeal Beast Cave, where exiting the cave places players in the WildernessRing of dueling- teleports player to theFerox EnclaveHunter cape- offers five daily teleports to theblack chinchompaHunterareaRevenant cave teleport- teleports the player to the Revenant Cavesentranceat level 40 WildernessWilderness sword 3- offers one daily teleport to theFountain of RuneWilderness sword 4- offers unlimited teleports to the Fountain of RuneWilderness crabs teleport- teleports the player to the dark crab fishing spots in level 33 Wilderness
+
+Obelisks[edit|edit source]
+
+There are severalobelisksscattered throughout the whole Wilderness that players can use to randomly teleport to particular locations within the Wilderness. If players have completed the hardWilderness Diary, they can choose their teleport location. Also, players with level80can build their ownobeliskthat teleports them to the others, but this is a one-way teleport to the Wilderness. Like all Teleports, they willnotteleport the player if they are Tele-Blocked.
+
+Other[edit|edit source]
+
+Players can use theArdougneorEdgeville teleport leverto teleport to theDeserted Keep.
+
+Players with level57Woodcuttingcan create awaka canoeat any canoe station, which transports the player to either theFerox Enclaveor the pond in level 35 Wilderness, east of aWilderness Obelisk.
+
+Themagic doorfound within theEntrana Dungeonteleports the player to level 32 Wilderness, south of thechaos dwarvesnearVet'ion's Rest.
+
+Teleports close to the ditch[edit|edit source]
+
+The following methods can be used to safely teleport relatively close to the ditch (or other kind of border), but not yet into Wilderness:
+
+Trollheim Teleport(tablet) is relatively close to64Agility shortcut to Wilderness (One-way shortcut)Mind Altar Teleport(tablet)Combat bracelettoEdgeville MonasteryAmulet of glorytoEdgevilleAchievement diary capetoLesser FanaticPaddewwa Teleport(tablet) for access to theEdgeville DungeonCanoeto EdgevilleFairy ringDKR21Agility shortcut fromGrand Exchangeaccessible byVarrock Teleportafter completion of medium tier ofVarrock Diaryor viaSpirit TreeorminecartLumberyard teleportBalloonto Lumberyard
+
+Bosses[edit|edit source]
+
+The Wilderness is a host of many powerfulbosses, who are able to drop rare items that can't be obtained anywhere else such as themalediction&odium ward,viggora's chainmace,thammaron's sceptre&craw's bow, thering of the gods,tyrannical ring&treasonous ringand thevoidwaker.
+
+Although the lair itself is not in the Wilderness,KBDis still considered aWildernessboss by designation, as players must enter the Wilderness to fight him.
+
+There are a plethora of other bosses in the Wilderness; all of whom reside above level 20 Wilderness, making escape choices very limited.
+
+The "Big Three" bosses of the Wilderness are considered to beCallisto,VenenatisandVet'ion. They all reside in their individual lairs, all of which areMulticombat areas, though players who leave them will be placed in theEscape Caves, a small but still dangerous dungeon.
+
+These bosses also have weaker variants;Artio,SpindelandCalvar'ion. As with their stronger counterparts, they have their own individual lairs, though these are inSingles-plus combatareas and are fairly far apart from each other. In order to access these weaker bosses, the player must have completed theMedium Wilderness tasks.
+
+While inside the lairs of any of these six bosses, players that have not completed theHard Wilderness taskswill have to wait a 3 tick (1.8 second) delay before being able to teleport away. As the original three are above level 30 Wilderness, they cannot be teleported out of anyways. Logging out in the boss' lairs will either place them in the Escape Caves (original three) or outside the entrance (weaker variants) upon their return. These lairs can also be peeked into with 20 kill count at the boss to check if anyone is inside the lair. If the lair is empty, the resulting message will likewise state so. If the lair is occupied, the resulting message will inform the player that there is "movement" inside, anddoes notspecify the amount of player(s) inside.
+
+Warning: All of these bosses are accessed through the Wilderness where other players can try to engage inplayer killing, it is advised to checkitems kept on deathand only bring acceptable risk.
+
+Name | Image | Level | Hitpoints | Attack style | Location (combat type) | Notes
+
+Callisto |  | 470 | 1,000 | Crush,Magic,Ranged | Callisto's Den(multicombat) | A powerful bear that can deal massive AoE damage with his melee attacks, can deploy traps to limit the players' movement and a shockwave attack that can deal up to 50 damage if not protected against.Unique drops:Claws of callistoTyrannical ringVoidwaker hiltDragon pickaxeDragon 2h swordCallisto cub
+
+Vet'ion |  | 454 | 255 | Slash,Magic | Vet'ion's Rest(multicombat) | Uses attacks that can't be mitigated by prayer (but can be dodged) and when he reaches half health, it will summon two level 194skeleton hellhoundsto aid it, becoming invulnerable until they are killed. Also has a second form that is dealt with the same way as the first, except it summons level 231Greater Skeleton Hellhoundsinstead.Unique drops:Skull of vet'ionRing of the godsVoidwaker bladeDragon pickaxeDragon 2h swordVet'ion jr.
+
+Venenatis |  | 464 | 850 | Stab,Magic,Ranged | Silk Chasm(multicombat) | Attacks with all three combat styles, but switches ranged and magic attacks after a few attacks and are only used at a distance. Can summonspiderlingsthat drainPrayerand launch a sticky web that drains run energy and prayer points.Unique drops:Fangs of venenatisTreasonous ringVoidwaker gemDragon pickaxeDragon 2h swordVenenatis spiderling
+
+Artio |  | 320 | 450 | Crush,Magic,Ranged | Hunter's End(singles-plus) | A scaled-down, solo-able version of Callisto.Unique drops:Claws of callistoTyrannical ringVoidwaker hiltDragon pickaxeDragon 2h swordCallisto cub
+
+Calvar'ion |  | 264 | 150 | Slash,Magic | Skeletal Tomb(singles-plus) | A scaled-down, solo-able version of Vet'ion.Unique drops:Skull of vet'ionRing of the godsVoidwaker bladeDragon pickaxeDragon 2h swordVet'ion jr.
+
+Spindel |  | 302 | 515 | Stab,Magic,Ranged | Web Chasm(singles-plus) | A scaled-down, solo-able version of Venenatis.Unique drops:Fangs of venenatisTreasonous ringVoidwaker gemDragon pickaxeDragon 2h swordVenenatis spiderling
+
+Revenant maledictus |  | 397 | 1250 | Ranged,Magic | Revenant Caves(singles-plus) | Has a small chance to spawn when killingrevenants, can hit up to 30 with powerful Magic and has a 5x5area of effectattack.Unique drops:Amulet of avariceCraw's bow (u)Thammaron's sceptre (u)Viggora's chainmace (u)Ancient crystalAncient statuette
+
+Chaos Elemental |  | 305 | 250 | Magic,Ranged,Melee | West of theRogues' Castle(multicombat) | It can hit up to 28 in all threecombat styles.Unique drops:Dragon pickaxeDragon 2h swordDragon daggerPet chaos elemental
+
+Chaos Fanatic |  | 202 | 225 | Magic | West of theLava Maze(single combat) | Has aspecial attackthat must be avoided in order to prevent damage.Unique drops:Malediction shard 1Odium shard 1Ancient staffPet chaos elemental
+
+Crazy archaeologist |  | 204 | 225 | Crush,Ranged | Ruinssouth ofThe Forgotten Cemetery(single combat) | Has a multi-areaspecial attackthat must be avoided by running away.Unique drops:Malediction shard 2Odium shard 2Rune crossbowFedora
+
+Scorpia |  | 225 | 200 | Melee | Cavern beneathScorpion Pit(multicombat) | Has a powerfulpoisonthat can damage up to 20.Unique drops:Malediction shard 3Odium shard 3Dragon scimitarDragon 2h swordScorpia's offspring
+
+King Black Dragon |  | 276 | 255 | Melee,Dragonfire(long-ranged) | His lairis accessed by pulling the lever in the western entrance of theLava Maze Dungeon(single combat) | A particularly strongblack dragonthat is capable of various dragonfire attacks that canpoison,stunand freeze.Unique drops:Draconic visageDragon pickaxeKbd headsPrince black dragon
+
+Skill training[edit|edit source]
+
+Throughout the Wilderness, there are many locations where players can train their skills. Many of these training methods are more profitable or faster than other options, though they all carry with them increased risk due to the threat of hostile player killers.
+
+Resource Area[edit|edit source]
+
+TheResource Area, located very deep within the Wilderness, provides a wide assortment of resources, such as various amounts ofores,magic trees,yew trees, and tworunite golems, which can be killed and then mined forrunite ore. There are staticdark crabfishing spotsthat can be fished with alobster potanddark fishing bait.
+
+Players must pay 7,500coinsto enter the Resource Area, with free entry as a reward for completing the eliteWilderness Diary. While it is relatively safe,player killerscan also pay the fee and attack people training in the area.
+
+Prayer[edit|edit source]
+
+TheChaos Templein level 38 Wilderness acts as agilded altarwith two burners lit, granting the same Prayer experience bonus when used in aplayer-owned housechapel. However, offering bones here gives a50% chancefor a bone offered tonot be consumed, potentially saving lots of money if trainingprayerhere in bulk. Outside, theElder Chaos druidcan unnote a player's bones for 50 coins per bone.
+
+Runecraft[edit|edit source]
+
+Players can use theAbyssvia Wilderness to access the various altars throughoutRuneScapeto craft runes; theMage of Zamorakthat teleports players to the Abyss lurks around level 5 Wilderness, just north ofEdgeville. Many players willriskbeing killed to craft runes here as it is the fastest way available to trainRunecraftfor profit; normally, only runes abovecosmicare crafted here as any rune below this is not considered worth the risk, and/or it takes less time to reach the appropriate altar by other means.
+
+TheChaos Altaris located approximately north of Edgeville in level 9 Wilderness, and as with most other runic altars, requires achaos talismanortiarato enter. Here players can craftchaos runes; however, entering conventionally requires players to traverse a multi-floor maze to reach the altar itself.
+
+Mining[edit|edit source]
+
+Runite ore, which requires 85Mining, is found in the Wilderness and is the only area wherefree playersmay mine it.Memberscan also mine here, although there are much safer locations such as theHeroes' GuildandMourner Tunnels, which have somerunite rocks. TheWilderness Rejuvenationupdate added several runite rocks at theFrozen Waste Plateau, making the Wilderness have the most runite rocks in-game.
+
+There are also otherminesthat can be visited as there is usually no one around. TheSkeleton Mineis a mine containing a large amount ofcoal rocks, althoughskeletonswander around the mine. TheBandit Camp Minecontains a relatively large amount ofiron,coal,mithril, andadamantite rocks. However, given their extreme proximity from a bank and the dangers of the Wilderness, these mines are rarely frequented.
+
+Fishing[edit|edit source]
+
+Somefishing spotsare located throughout the Wilderness.
+
+In theBandit Camp, players can use thenet/bait fishing spotto fish forshrimps,anchovies,sardinesandherring.In theLava Maze, members can fish forLava eelsusing anoily fishing rodandfishing bait.South of theFountain of Runeand in theWilderness Resource Area, players can fishdark crabswithdark fishing baitand alobster pot. Dark crabs can be fished with 85Fishingand heal 22Hitpointseach once cooked, making it one of the best foods for players to use.
+
+Hunter[edit|edit source]
+
+There are twohuntingareas in the Wilderness: one for huntingblack chinchompas(requires 73Hunter), and another for huntingblack salamanders(requires 67Hunter). While in the Wilderness, the player can place one extra trap above their maximum amount, thus making hunting quicker and more profitable. The black chinchompa hunting location is particularly dangerous, as the location is a popularplayer-killingspot.
+
+Woodcutting[edit|edit source]
+
+Entsroam around the forests in low-level Wilderness, which if killed can be cut for notedlogs. The type of logs is based on theWoodcuttinglevel of the player and theAxeused.
+
+The Wilderness ents give double the amount of logs compared to the ents in the Woodcutting Guild, making it reasonably profitable at a high Woodcutting level if players are paying attention, as the ents are below level 20 Wilderness.
+
+Thieving[edit|edit source]
+
+At 84Thieving, players can loot theChest (Rogues' Castle)s. There are three chests that are at the base ofRogues' Castle. The chest contains some decent rewards ranging, all of which are stackable, which can yield high profit over time. However, when a player loots from a chest,rogueswithin range will become aggressive, making this a dangerous but profitable method ofmoney making.
+
+Agility[edit|edit source]
+
+Requiring 52Agility, there is theWilderness Agility Coursein the deep Wilderness. Although it can yield up to 40,000experienceper hour (without accounting for theagility tickets) it does not dropmarks of grace. Players can deposit 150,000 coins into theAgility dispenserif they choose to, which grants gradually increasing rewards the more laps the player completes around the course.
+
+Slayer[edit|edit source]
+
+Krystiliaassigns an array ofSlayer tasksthat must be completed within the Wilderness. Thesemonsterscan range fromcombat level1 to 470, assumingWilderness bosses, and they all have a chance at droppingLarran's keys,Slayer's enchantments,ring of wealth scrollsandmagic shortbow scrollsin addition to their regulardrops. Also, whilst wearing aring of wealth (i), players double their chances of receiving aclue scroll.
+
+Quests and Miniquests[edit|edit source]
+
+Family Crest[edit|edit source]
+
+TheFamily Crestquest requires you to killChronozon, who is located in the Wilderness part ofEdgeville dungeon.
+
+Enter the abyss & Devious minds[edit|edit source]
+
+The miniquestEnter the Abyssand the questDevious Mindsrequire you to talk to theMage of Zamorakwho is located in low level Wilderness.
+
+Curse of the Empty Lord[edit|edit source]
+
+TheCurse of the Empty Lordminiquestrequires players to enter the Wilderness, though the exact location varies per player.
+
+Mage Arena[edit|edit source]
+
+This is where players with at least level 60Magiccan attemptKolodion's challenge. Successful players receive thegod capeand thegod staffof their chosen God.
+
+Mage Arena II[edit|edit source]
+
+After completing the Mage Arena, players with at least level 75Magicand the ability to cast the god spells outside the Mage Arena can attempt Kolodion's second challenge. Successful players receive an imbued god cape of their chosen god.
+
+Other features[edit|edit source]
+
+Ferox Enclave[edit|edit source]
+
+TheFerox Enclaveis asafehaven in the central Wilderness (level 13-16). Players can access one of the only twobanksin the Wilderness here and use thePool of refreshmentto restore hitpoints, prayer points, run energy and stats. Ferox Enclave is also the location of theClan WarsandLast Man Standingminigames. 
+There are gates on all four sides of the settlement, which allows players in and out of the Enclave and there are numerous means of transportation to get there. Players who areteleblockedwill be denied access to the Enclave.
+
+Wilderness Diary[edit|edit source]
+
+TheWilderness Diarycan be completed by doing a set of tasks related to the Wilderness. Completing a tier gives aWilderness swordand variety of useful rewards and benefits. For example, completion of all tasks grants noteddragon bonedrops within the Wilderness and free access to theResource Area.
+
+Team capes[edit|edit source]
+
+A number ofCape merchantsare scattered across the Wilderness, each of them offering five colourfulcapesfor sale. When worn, other players with the same cape will appear as blue dots on theMinimap, rather than the usual white. The attack option for players with the same cape will also be moved to a right-click option, rather than the usual left-click default for the Wilderness. These capes are popular forclansor other groups of players in the Wilderness, both to identify their allies and avoid accidentally attacking each other.
+
+Shop selling[edit|edit source]
+
+Many players have items that are of very little value to merchants and skill specialists. TheBandit Duty Free, ageneral storein theBandit Camp, buys items for close toHigh Alchemyprices because the "tax collectors do not visit his store."
+
+Clue scrolls[edit|edit source]
+
+Hard,eliteandmaster clue scrollsoften require players to traverse through the Wilderness to complete a step of theTreasure Trail. In addition, players can still be attacked byplayer killerswhile fighting off any of the wizards that attack when in the process of digging for a clue or a reward casket. It is recommended to only bring what is absolutely necessary to complete the clue and prevent the loss of the clue scroll. Aclue boxcan be brought along to protect the clue scroll or casket in case of death within the Wilderness.
+
+Wearing thering of wealth (i)doubles the chance of clue scroll drops in the Wilderness by all monsters.
+
+Development history[edit|edit source]
+
+The Wilderness was introduced into the game on13 August2001, and quickly became famous as the only place where players could engage in Player-versus-Player (PvP)combat, to gain all items that the defeated dropped.
+
+Aditchwas added on18 April2007to prevent players getting accidentally killed,tricked and luredinto the Wilderness through tree luring.
+
+Currently, players passing the ditch are presented with a screen confirming that they actually want to enter the Wilderness. This can be toggled at theDoomsayer.
+
+Music Unlocked[edit|edit source]
+
+Army of DarknessEverlasting FireFaithlessForbiddenInspirationMoodyPirates of PerilRegalScape SadScape WildShiningTroubledUndercurrentUndergroundWild IsleWild SideWildernessWilderness 2Wilderness 3WitchingWonder
+
+Changes[edit|edit source]
+
+Date | Changes
+
+8 January2025(update) | Food, potions and the Phoenix Necklace no longer go to the Gravestone in the Wilderness, preventing unintended access to unlimited supply.
+
+10 April2024(update) | Reduced respawn timers for most NPCs in the Wilderness (including bosses, but excluding Revenants) to 9 seconds.Raw food no longer appears to other players when dropped in the Wilderness.Manually dropped food or potions will now despawn faster in the Wilderness.
+
+31 March2016(update) | Players can now attack one another when both stood on the tile outside of the Wilderness resource area.
+
+10 September2015(update) | All trail combat NPCs now cannot prevent a player from being attacked by a player inside a single combat zone of the Wilderness.All trail combat NPCs now also do not allow a player to be attacked by several players at once in a single combat zone.It is no longer possible to use the Jutting Wall entrance to the Wilderness GWD to avoid damage
+
+20 August2015(update) | The welcome screen will no longer appear when logging in within the Wilderness.
+
+6 August2015(update) | It is now possible to be attacked by a player in single combat Wilderness zones if you are fighting a Zamorak Mage when attempting to dig for your clue scroll.
+
+5 March2015(update|poll) | Alldragonbone drops in the Wilderness are now noted if you have completed theWilderness Elite Diary.
+
+13 March2014(update|poll) | The Wilderness Rejuvenation update has been released(patch notes).
+
+See also[edit|edit source]
+
+Skull (status)Items Kept on DeathForinthryWilderness ditchWilderness DiaryWilderness SignWilderness SlayerWilderness bossHigh-risk worldDeath
+
+v•t•eLocations in theWilderness
+
+Surface | Bandit CampBone YardChaos Temple(level 12)Chaos Temple(level 38)Dark Warriors' FortressDemonic RuinsDeserted KeepEastern RuinsFerox EnclaveThe Forgotten CemeteryFountain of RuneFrozen Waste PlateauGraveyard of ShadowsLarran's big chestLarran's small chestLava Dragon IsleLava MazeMage ArenaPirates' HideoutRogues' CastleResource AreaScorpion PitWestern RuinsWilderness Agility CourseWilderness Hunter areaWilderness Volcano
+
+Underground | Callisto's DenCorporeal Beast's LairDeep Wilderness DungeonEdgeville DungeonEscape CavesFerox Enclave DungeonHunter's EndKing Black Dragon LairLava Maze DungeonRevenant CavesSilk ChasmSkeletal TombVet'ion's RestWeb ChasmWilderness Agility Course DungeonWilderness God Wars DungeonWilderness Slayer Cave
+
+Mining sites | Bandit Camp mineLava Maze Dungeon mineLava Maze runite minePirates' Hideout mineSouth Wilderness mineSouth-west Wilderness mine
+
+v•t•eRegions
+
+ | Ape AtollAsgarniaFeldip HillsFremennik ProvinceGreat KourendKandarinKaramjaKebos LowlandsKharidian DesertMisthalinMorytaniaTirannwnTroll CountryVarlamoreWilderness(Forinthry)
+
+v•t•eFree-to-play PvP
+
+Gameplay | ActivitiesDangerousWildernessPvP worldsSafeCastle WarsClan WarsEmir's ArenaLast Man StandingMechanicsSkull statusTeam capesLoot keysLoot ChestTick manipulationPIDPJ timerStrategiesTechniquesTraining guideEquipment guideTransportation guide | Activities | DangerousWildernessPvP worldsSafeCastle WarsClan WarsEmir's ArenaLast Man Standing | Dangerous | WildernessPvP worlds | Safe | Castle WarsClan WarsEmir's ArenaLast Man Standing | Mechanics | Skull statusTeam capesLoot keysLoot ChestTick manipulationPIDPJ timer | Strategies | TechniquesTraining guideEquipment guideTransportation guide
+
+Activities | DangerousWildernessPvP worldsSafeCastle WarsClan WarsEmir's ArenaLast Man Standing | Dangerous | WildernessPvP worlds | Safe | Castle WarsClan WarsEmir's ArenaLast Man Standing
+
+Dangerous | WildernessPvP worlds
+
+Safe | Castle WarsClan WarsEmir's ArenaLast Man Standing
+
+Mechanics | Skull statusTeam capesLoot keysLoot ChestTick manipulationPIDPJ timer
+
+Strategies | TechniquesTraining guideEquipment guideTransportation guide
+
+Account builds | Combat pure guideAccount buildsOne-defence pureMain account1 defence buildsRanged-melee hybridMelee pureMagic pureStrength pureRanged-magic hybridRanged pureOther buildsRune pureAdamant pureTankDefence pureMagic tankStrength tankClan pure |  | Combat pure guideAccount buildsOne-defence pureMain account | 1 defence builds | Ranged-melee hybridMelee pureMagic pureStrength pureRanged-magic hybridRanged pure | Other builds | Rune pureAdamant pureTankDefence pureMagic tankStrength tankClan pure
+
+ | Combat pure guideAccount buildsOne-defence pureMain account
+
+1 defence builds | Ranged-melee hybridMelee pureMagic pureStrength pureRanged-magic hybridRanged pure
+
+Other builds | Rune pureAdamant pureTankDefence pureMagic tankStrength tankClan pure
+
+Community | CultureClansChat-channels

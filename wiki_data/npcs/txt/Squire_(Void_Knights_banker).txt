@@ -1,0 +1,2 @@
+Item: Squire (Void Knights banker)
+Summary: Squires of the Void Knights order can be found at the Void Knights' Outpost. They allow the player to access their banks from the island.

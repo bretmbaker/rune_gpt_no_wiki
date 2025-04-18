@@ -1,0 +1,74 @@
+[Weapon: Steel Pickaxe]
+
+
+Thesteel pickaxeis apickaxethat mines on a 6-tickcycle, 1-tick faster than theiron pickaxe. It can be used in combat or inminingto mine rocks. The steel pickaxe requires 6Miningto use, and 5Attackto equip. Players lacking 5 Attack can still use it for mining.
+Like all pickaxes, a steel pickaxecannotbe made with theSmithingskill.
+
+
+[Infobox]
+Released: 27 May2003(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Used for mining.
+General Store Value: 500 coins
+High alch: 300 coins
+Low alch: 200 coins
+Weight: 2.267 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 394 coins
+Grand Exchange Daily Buy Limit: 40
+Grand Exchange Daily Trades Volume: 2,030
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +8
+- Slash: -2
+- Crush: +6
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +9
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Spike | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Impale | Stab | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Bandit (Shayzien) | 22 | 1 | 1/128 | 
+Bandit (Varlamore) | 23 | 1 | 1/128 | 
+Barrel (Shaman Caves) | N/A | 1 | Rare | &
+Elaborate lockbox | N/A | 1 | 2 × 1/50 | 
+Emissary Acolyte | 34 | 1 | 1/128 | 
+Emissary Chosen | 76 | 1 | 1/128 | 
+Guard (H.A.M. Storerooms) | 20 | 1 | 6/500 | 
+H.A.M. Guard | 12; 18; 22 | 1 | 2/110 | 
+H.A.M. Member | 15 | 1 | 2/100 | 
+Ogre Coffin | 20 | 1 | 3/100 | 
+Possessed pickaxeCatacombs of Kourend | 50 | 1 | 10/500 | 
+Reward casket (easy) | N/A | 1 | 11/396 | 

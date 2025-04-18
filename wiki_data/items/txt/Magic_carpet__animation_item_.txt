@@ -1,0 +1,1 @@
+TheMagic carpetis an animation item that is temporarily wielded by the player when using amagic carpet. Because the item is technically wielded in the weapon slot, originally players could not carry any weapons when using the carpet. Its inventory sprite has the appearance of a knife, as it was never meant to be seen in the inventory.

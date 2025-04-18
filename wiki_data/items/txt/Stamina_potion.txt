@@ -1,0 +1,1 @@
+Astamina potionrestores 20% of the player'srun energyper dose, and offers a 70% reduction in run energy depletion for 2 minutes. This effect does not stack, and drinking additional doses before the timer has run out will simply reset it back to 2 minutes. When the stamina effect is active the boot in the run energy orb changes from its usual yellow to orange.

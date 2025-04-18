@@ -1,0 +1,132 @@
+[Weapon: Twisted Bow]
+
+
+Thetwisted bowis a rare reward from theChambers of Xericthat requires aRangedlevel of 85 to wield. It can fire any type of arrow, includingdragon arrows. The twisted bow is extremely valuable due to its unmatched power against monsters with a high Magic level or accuracy bonus, such asCommander ZilyanaandTzKal-Zuk.
+Similar to thecrystal bow, the bow has anattack rangeof 10 tiles. As all attacks have a maximum of 10 range,long rangedoes not provide any attack distance benefit but may still be used to gainDefenceXP.
+
+
+[Infobox]
+Released: 5 January2017(Update)
+Also called: Tbow
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A mystical bow carved from the twisted remains of the Great Olm.
+General Store Value: 4,000,000 coins
+High alch: 2,400,000 coins
+Low alch: 1,600,000 coins
+Weight: 1.814 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 1,480,108,971 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 404
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +70
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +20
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 6 ticks (3.6s) | 10 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 5 ticks (3.0s) | 10 tiles |  | None
+ | Longrange | Standard | Longrange | 6 ticks (3.6s) | 10 tiles |  | +3 Defence
+
+
+[Passive Effect]
+A graph that shows the accuracy and damage modifiers at different Magic levels. Note that the "buff %" is not anincrease: at 100%, the accuracy and damage are normal rather than doubled.
+Unlike other bows that have a set strength, the twisted bow functions differently: the higher the target'sMagiclevel or Magic accuracy is (whichever is higher), the higher the bow's accuracy and damage. The accuracy multiplier caps at 140%, while the damage multiplier caps at 250%.[1][2]The Magic level or accuracy caps at 250 outside theChambers of Xeric, and 350 within.
+Accuracy=140+10⋅3⋅Magic10−10100−(3⋅Magic10−100)2100%Accuracy∈[0,140]Damage=250+10⋅3⋅Magic10−14100−(3⋅Magic10−140)2100%Damage∈[0,250]
+Assumingdragon arrows, 99Rangedand all damage boosting items and effects, the maximum hit with the twisted bow outside of theChambers of Xeric,Tombs of AmascutorNightmare Zoneis 90 (92 on accurate) on a Slayer task and 79 (81 on accurate) off-task.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ancient chest | N/A | 1 | 2/69 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Abyssal Sire/Strategies(Phase 2 Ranged)
+2 | Adamant dragon/Strategies(Ranged)
+1 | Alchemical Hydra/Strategies(Ranged)
+1 | Araxxor/Strategies(Ranged)
+1 | Brutal black dragon/Strategies(Ranged)
+1 | Cerberus/Strategies(Ranged)
+1 | Chambers of Xeric/Challenge Mode(Ranged)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Ranged)
+2 | Chambers of Xeric/Challenge Mode/Strategies(Vespula)
+1 | Chambers of Xeric/Strategies(Ranged)
+4 | Chambers of Xeric/Strategies(Vespula)
+2 | Chambers of Xeric/Strategies(Mage Vanguard)
+1 | Chambers of Xeric/Strategies(Big Muttadile)
+1 | Chambers of Xeric/Strategies(Great Olm)
+2 | Chaos Elemental/Strategies(Ranged)
+2 | Chaos Fanatic/Strategies(Ranged)
+1 | Commander Zilyana/Strategies(Ranged)
+1 | Corporeal Beast/Strategies(Ranged masses)
+1 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+1 | Dagannoth Kings/Strategies(Range)
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+1 | Fight Caves Speed-Runner(Ranged)
+1 | Fortis Colosseum/Strategies(High efficiency)
+1 | Fortis Colosseum/Strategies(Ranged)
+1 | Giant Mole/Strategies(Ranged)
+1 | Giant Mole/Strategies(Ranged Void)
+1 | Inferno/Strategies(Learners)
+1 | Inferno/Strategies(On task)
+2 | K'ril Tsutsaroth/Strategies(Ranged)
+2 | Kalphite Queen/Strategies(High DPS (Phase Two))
+1 | King Black Dragon/Strategies(Ranged)
+1 | King Black Dragon/Strategies(Ranged BIS smuggle)
+3 | Kree'arra/Strategies(Ranged Tank)
+1 | Kree'arra/Strategies(Tbow / Bowfa)
+3 | Lizardman shaman/Strategies(Ranged)
+1 | The Mimic/Strategies(Ranged)
+1 | Nex/Strategies(Ranged)
+1 | Phantom Muspah/Strategies(Ranged)
+1 | Phantom Muspah/Strategies(Magic & Ranged)
+2 | Rune dragon/Strategies(Ranged)
+3 | Scurrius/Strategies(Range (high level))
+1 | Skotizo/Strategies(Ranged)
+2 | Spindel/Strategies(Ranged)
+1 | Theatre of Blood/Hard Mode(Range)
+1 | Theatre of Blood/Strategies(Range)
+1 | Theatre of Blood/Strategies(Range  Nylocas Vasilias)
+3 | Theatre of Blood/Strategies(Xarpus (0 defence))
+2 | Theatre of Blood/Strategies(Maiden (0 defence))
+1 | Tombs of Amascut/Strategies(Ranged switch)
+1 | Tombs of Amascut/Strategies(Wardens (Phase 2))
+2 | Tombs of Amascut/Strategies(Wardens (Phase 3))
+1 | Tombs of Amascut/Strategies(Zebak)
+1 | Tormented Demon/Strategies(Ranged switch)
+1 | TzHaar Fight Cave/Strategies(Pure)
+1 | TzHaar Fight Cave/Strategies(Ranged)
+1 | Ultimate Ironman Guide/Equipment
+2 | Venenatis/Strategies(Ranged)
+1 | Zulrah/Strategies(Ranged)

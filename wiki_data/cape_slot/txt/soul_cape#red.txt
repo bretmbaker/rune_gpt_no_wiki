@@ -1,0 +1,66 @@
+[Weapon: Soul Cape#Red]
+
+
+Asoul capeis a cape obtained from theSoul Warsminigame, costing 2,500Zeal Tokensto purchase from the reward shop. It requires level 70Prayerto purchase and equip, and offers the highestPrayer bonusin thecape slot. It is visually identical to the capes that are given to players upon entering a round in the Soul Wars minigame, however, the capes inside the minigame do not have any bonuses.
+It is worth noting that even though the capes act as Ava's Devices in the minigame after showing any varietyAva's devicetoNomad, thereward capedoesnothave this effect throughout Gielinor.
+
+
+[Infobox]
+Released: 6 January2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Toggle-colour, Drop
+Worn options: Toggle-colour
+Examine: A silky cape infused with the power of souls.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +8
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Deranged archaeologist/Strategies(Magic)
+3 | Duke Sucellus/Strategies(Melee)
+2 | Dust devil/Strategies(Bursting/Barraging)
+4 | Giant Mole/Strategies(Dharok's)
+3 | Lizardman shaman/Strategies(Ranged)
+2 | Maniacal monkey/Strategies(Ranged)
+2 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+2 | Maniacal monkey/Strategies(Magic - Ice Burst)
+2 | Slayer task/Abyssal demons(Magic)
+4 | Sulliuscep/Strategies
+3 | Sulliuscep/Strategies
+4 | Volcanic Mine(Solo)
+3 | Volcanic Mine(Group)
+3 | Vyrewatch Sentinel/Strategies(AFK Prayer)
+5 | Zalcano/Strategies(Mining)

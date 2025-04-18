@@ -1,0 +1,59 @@
+Name: Fiyr Shade
+Combat Level: 120
+Size: 1x1
+Info:
+- Description: The shadowy remains of a long departed soul.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 110 xp
+- Category: Shades
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 1286
+- Link: MOID
+
+Location:
+- Area: Shade Catacombs
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for Fiyr Shade:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 110
+Attack: 120
+Strength: 100
+Defence: 85
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

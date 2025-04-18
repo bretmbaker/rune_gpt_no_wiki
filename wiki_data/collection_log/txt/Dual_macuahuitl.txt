@@ -1,0 +1,4 @@
+Item: Dual macuahuitl
+Summary: The dual macuahuitl (pronounced mah-kwa-we-tl) is a two-handed weapon that requires level 70 Attack and 75 Strength to equip, which is obtained as a possible reward from the Lunar Chest in Neypotzli.
+Sources:
+- Lunar Chest (Level N/A, Quantity: 1, Rarity: 1/224)

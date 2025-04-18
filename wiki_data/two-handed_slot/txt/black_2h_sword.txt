@@ -1,0 +1,76 @@
+[Weapon: Black 2H Sword]
+
+
+Theblack 2h swordis atwo-handed swordstronger than thesteel 2h sword, requiring level 10Attackto wield. Players can purchase this two-handed sword fromGaius' Two Handed ShopinTaverley. It can also be a reward from theObservatory Quest, from theShades of Mort'ton minigame, completing aTreasure Trailor as a drop from various monsters.
+As with allblackandwhite equipment, the black 2h sword cannot be made from raw materials using theSmithingskill.
+
+
+[Infobox]
+Released: 27 February2002(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A two handed sword.
+General Store Value: 1,920 coins
+High alch: 1,152 coins
+Low alch: 768 coins
+Weight: 3.628 kg
+Grand Exchange Value: 1,066 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 954
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: +27
+- Crush: +21
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +26
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 7 ticks (4.2s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black Chest (black) | N/A | 1 | 2/141.11;2/133.27 | 
+Black Chest (brown) | N/A | 1 | 2/141.02;2/133.19 | 
+Black Chest (crimson) | N/A | 1 | 2/141.07;2/133.23 | 
+Black Chest (purple) | N/A | 1 | 2/141.15;2/133.31 | 
+Black Chest (red) | N/A | 1 | 2/140.98;2/131.15 | 
+Chilled jelly | 112 | 1 | 5/128 | 
+Cyclops (Catacombs of Kourend) | 56; 76 | 1 | 1/100 | 
+Cyclops (God Wars Dungeon) | 81 | 1 | 1/100 | 
+CyclopsWarriors' Guild Rooftop | 56; 76 | 1 | 1/100 | 
+Former Vampyre | N/A | 1(noted) | 4/256 | 
+JellyWilderness Slayer Cave | 78 | 1 | 5/64 | 
+Reward casket (beginner) | N/A | 1 | 11/8,856 | 
+Vampyre Juvinate | N/A | 1(noted) | 4/256 | 
+Vitreous warped Jelly | 241 | 1 | 3 × 5/128 | 
+Warped Jelly | 112 | 1 | 5/128 | 

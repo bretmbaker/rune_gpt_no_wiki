@@ -1,0 +1,57 @@
+[Weapon: Leaf-Bladed Spear]
+
+
+Theleaf-bladed spearis a two-handed weapon that is used to killturothandkurasksas an alternative to theMagic Dartspell,broad arrows,broad-tipped bolts,leaf-bladed sword, and theleaf-bladed battleaxe. ASlayerlevel of 55 as well as anAttacklevel of 50 are required in order to wield the spear. It can be purchased from anySlayer Masterfor 31,000coins.
+This weapon cannot bepoisonedlike other spears. Attempting to addweapon poisonto this weapon gives the message in the chat box: "The tip of this weapon is not designed to hold poison".
+
+
+[Infobox]
+Released: 26 January2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A spear with a leaf-shaped point.
+General Store Value: 31,000 coins
+High alch: 18,600 coins
+Low alch: 12,400 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +47
+- Slash: +42
+- Crush: +36
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +50
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Lunge | Stab | Controlled | 5 ticks (3.0s) | 1 tile |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Controlled |  | +1 Attack, Strength, Defence
+ | Pound | Crush | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Used in Recommended Equipment]

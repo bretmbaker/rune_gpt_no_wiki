@@ -1,0 +1,151 @@
+[Shop: Silk]
+
+Silk
+
+
+
+
+
+
+
+Released | 4 January2001(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Drop
+
+Examine | It's a sheet of silk.
+
+
+
+Values
+
+
+
+Value | 30 coins
+
+High alch | 18 coins
+
+Low alch | 12 coins
+
+Weight | 1 kg
+
+Respawn time | 100 ticks (60 seconds)
+
+
+
+Grand Exchange
+
+
+
+Exchange | 109coins (info)
+
+Buy limit | 18,000
+
+Daily volume | 23,186
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 950
+
+Link | MOID
+
+
+
+Silkcan be bought from various silk traders aroundGielinor.
+
+Silk can be stolen fromsilk stallswith aThievinglevel of 20, yielding 24experience. TheSilk merchantwho runs the silk stall in Ardougne will buy silk from the player for as much as 60 coins through his dialogue, if the player first offers to sell them for 120 coins each.
+
+Uses[edit|edit source]
+
+Achievement Diary[edit|edit source]
+
+Ardougne Diary (Easy): Sell silk to the Silk merchant in East Ardougne for 60 coins each.
+
+Quests[edit|edit source]
+
+Dragon Slayer I: 1 × silk to openmagic doorGhosts Ahoy: 1 × silk to makemodel ship with flagMourning's End Part I: 2 × silk to repairmourner trousersEnlightened Journey: 10 × silk to make theHot Air BalloonCold War: 1 × silk to make theclockwork suitSong of the Elves: 1 × silk to makeArdougne knight tabard
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Cleaning cloth |  | None | None | 1 ×Silk1 ×Karamjan rum
+
+ | Cleaning cloth |  | None | None | 1 ×Silk1 ×Karamjan rum (sliced banana)
+
+ | Clockwork suit |  | 30 | 15 | 1 ×Clockwork1 ×Plank1 ×Silk
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Christmas cracker | N/A | 1 | Always | N/A
+
+Mummy (Ancient Pyramid) | 103 | 1 | 40/513 | 
+
+Silk stall | 20 | 1 | Always | 
+
+Spawns[edit|edit source]
+
+Location | Members | Spawns | Map | Leagueregion
+
+Civitas illa Fortis1stfloor[UK]2ndfloor[US] |  | 1 | Show map | Varlamore✓
+
+Darkmeyer Seamstress |  | 1 | Show map | Morytania✓
+
+Prifddinas- west insideLliann's Wares |  | 1 | Show map | Tirannwn✓
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Anwen | Prifddinas | N/A | N/A | N/A | 60 | 0.0% |  | 
+
+Darkmeyer Seamstress | Darkmeyer | 5 | 1m | 39 | 12 | 2.0% |  | 
+
+Fortis Silk Stall | Civitas illa Fortis | 50 | 15s | 15 | 15 | 0.0% |  | 
+
+Prifddinas' Seamstress | Prifddinas | 5 | 1m | 39 | 12 | 2.0% |  | 
+
+Raetul and Co's Cloth Store.(afterContact!) | Sophanem | 10 | 24s | 30 | 22 | 1.0% |  | 
+
+Raetul and Co's Cloth Store. | Sophanem | 7 | 13.2s | 30 | 16 | 1.0% |  | 
+
+Silk merchant | East Ardougne,Great Kourend | N/A | N/A | N/A | 60 | 0.0% |  | 
+
+Silk trader | Al Kharid | ∞ | N/A | 2 | N/A | 0.0% |  | 
+
+Silk trader | Al Kharid | ∞ | N/A | 3 | N/A | 0.0% |  | 
+
+Thessalia's Fine Clothes. | Varrock | 5 | 5m | 30 | 16 | 1.0% |  | 
+
+Vermundi's Clothes Stall | Keldagrim Palace | 5 | 1m | 39 | 16 | 3.0% |  | 

@@ -1,0 +1,47 @@
+[Weapon: Green Slayer Helmet]
+
+
+Thegreen Slayer helmetis a piece of equipment that is worn in the helmet slot. It is a cosmetic upgrade to theSlayer helmet.
+It can be created by adding an unstuffedKq head(atattered kq headwillnotwork) after purchasing the abilityKalphite khatfor 1,000Slayer reward pointsfrom anySlayer master. This is reversible, and the head will be returned to the inventory along with the slayer helmet's components. The Kq head will be lost on death in PvP.
+
+
+[Infobox]
+Released: 26 May2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check, Disassemble, Drop
+Worn options: Check, Partner, Log
+Examine: You don't want to wear it inside-out.
+General Store Value: 40,000 coins
+High alch: 24,000 coins
+Low alch: 16,000 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +30
+- Slash: +32
+- Crush: +27
+- Magic: -1
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

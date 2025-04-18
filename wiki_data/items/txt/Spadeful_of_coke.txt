@@ -1,0 +1,2 @@
+Aspadeful of cokeis an item used within theBlast Furnaceminigame. Players may use the spadeful of coke to refuel theFurnace Stovefrom theCokestorage. Doing so will grant the player 5Firemakingexperience.
+Eventually, if a player keeps loading in the coke, they will receive a message in the chatbox saying that the furnace is full, after which they will have to move on to another task or wait until it requires more fuel.

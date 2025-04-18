@@ -1,0 +1,52 @@
+[Minigame: Eyatlalli]
+
+Eyatlalli
+
+
+
+
+
+
+
+Released | 20 March2024(Update)
+
+Members | Yes
+
+Race | Nagua
+
+Quest | Perilous Moons
+
+Location | Neypotzli
+
+Leagueregion | Varlamore✓
+
+Options | Talk-to, Scoreboard
+
+Examine | Streams animate across her softened clay skin.
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+NPC ID | 12869,12870
+
+Link | MOID
+
+
+
+Eyatlalliis anaguawho is first encountered duringPerilous Moons. Summoned by theOld Onesto ensure theMoons of Perilremain imprisoned inNeypotzli, Eyatlalli creates glyphs to guide and protect the player during their encounters with them.
+
+After completion ofPerilous Moons, Eyatlalli can be found on the east side of the Ancient Shrine. She will perform a number of services for the player:
+
+Open a scoreboard interface via her "Scoreboard" option, showing the player'sLunar Chestcount, amount of deaths, and the corresponding global statistics. As of22 March2025, the total chests opened are25,429,662and the global deaths are820,212.Reclaim their unequipped weapon from the Weapon Freeze special attack of theBlue Moon, in the event that the player logs out or disconnects during the attack.Exchangesulphurous essencefor 50Runecraftexperience each.Using a piece of undamagedblood moon armour,blue moon armour, oreclipse moon armoursets on her will prompt the player on whether they'd like to sacrifice it for a chance to obtain a different piece of equipment, but this is not guaranteed. The rate of receiving a piece of equipment is about ~1/50.All 12 pieces of equipment are equally likely to be received, including the same piece that was sacrificed. New equipment pieces received in this manner will unlock collection log slots. They donotrespect the dupe protection that the normalLunar Chestdrops have.
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.Click herefor a list of other transcripts that this NPC speaks in.
+

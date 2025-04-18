@@ -1,0 +1,1 @@
+TheFire capeis an animation item that is temporarily equipped by the player when travelling through aFairy ringwhile wearing aFire cape. It is impossible for the game to render animated textures as transparent; therefore, this non-animated fire cape is equipped during the animation. Aside from this, the item is unobtainable.

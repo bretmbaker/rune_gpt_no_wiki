@@ -1,0 +1,56 @@
+[Weapon: Bronze Hasta#(P)]
+
+
+Thebronze hastais a one-handedmeleemembers-onlyweapon, similar to thespear. It is the weakesthastainOld School RuneScape. To wield this weapon, players need to have completed theBarbarian Trainingminiquestup through theSmithingsection. To obtain a bronze hasta the player can either create one using theSmithingskill or trade with another player. It can bepoisoned.
+
+
+[Infobox]
+Released: 3 July2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A bronze-tipped, one-handed hasta.
+General Store Value: 26 coins
+High alch: 15 coins
+Low alch: 10 coins
+Weight: 2.267 kg
+Grand Exchange Value: 340 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 86
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +5
+- Slash: +5
+- Crush: +5
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: -1
+- Slash: -1
+- Crush: -1
+- Magic: +0
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Lunge | Stab | Controlled | 4 ticks (2.4s) | 1 tile |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Controlled |  | +1 Attack, Strength, Defence
+ | Pound | Crush | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Stab | Defensive |  | +3 Defence

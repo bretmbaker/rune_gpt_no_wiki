@@ -1,0 +1,85 @@
+[Weapon: Adamant Bolts#Poison]
+
+
+Adamant boltsare a ranged projectile that can be fired from anadamant crossbowor higher, effectively requiring 46Rangedto use.
+An alternative for players with 55Slayerand 61 Ranged isbroad bolts, as these are equally strong. However, broad bolts require arune crossbowor higher to use. As with mostbolts, they can bepoisoned, however this will prevent the addition ofbolt tips.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Adamantite crossbow bolts.
+General Store Value: 58 coins
+High alch: 34 coins
+Low alch: 23 coins
+Weight: 0 kg
+Grand Exchange Value: 30 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 11,272,113
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +100
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ambassador Ferrnook | N/A | 12–26 | 207/3,520 | &
+Ambassador Gimblewap | N/A | 12–26 | 207/3,520 | 
+Ambassador Spanfipple | N/A | 12–26 | 207/3,520 | &
+Captain Bleemadge | N/A | 12–26 | 207/3,520 | &
+Captain Dalbur | N/A | 12–26 | 207/3,520 | &
+Captain Klemfoodle | N/A | 12–26 | 207/3,520 | &
+Coffin (Hallowed Sepulchre)Mid | 66 | 50–200 | 1/10 | 
+G.L.O. Caranock | N/A | 12–26 | 207/3,520 | &
+Garkor | N/A | 12–26 | 207/3,520 | 
+Gnormadium Avlafrim | N/A | 12–26 | 207/3,520 | 
+Hallowed sack | N/A | 50–200 | 1/10 | 
+Hazelmere | N/A | 12–26 | 207/3,520 | 
+Iron dragon | 189; 215 | 2–12 | 6/128 | 
+King Bolren | N/A | 12–26 | 207/3,520 | 
+Lieutenant Schepbur | N/A | 12–26 | 207/3,520 | 
+Skeletal Wyvern | 140 | 75–99 | 3/128 | 
+Spiritual rangerZaros | 158 | 15 | 7/128 | 
+Spoils of war | N/A | 200–400 | 3 × 5/90 | 
+Tortured gorilla | 141; 142 | 1 | 86/1,000 | 
+Zombie (Tarn's Lair)High level | 81–100 | 7 | 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Artio/Strategies(Ranged)
+4 | Aviansie/Strategies(Ranged - Low Risk)
+5 | Basilisk Knight/Strategies(Ranged/Prayer)
+5 | Brutal black dragon/Strategies(Ranged)
+5 | Callisto/Strategies(Ranged)
+4 | Metal dragons/Strategies(Ranged)
+5 | Skeletal Wyvern/Strategies(Ranged (Void))
+3 | Slayer task/Wyrms(Ranged)

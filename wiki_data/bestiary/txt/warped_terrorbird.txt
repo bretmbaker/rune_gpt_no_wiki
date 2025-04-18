@@ -1,0 +1,76 @@
+Name: Warped Terrorbird
+Combat Level: 96
+Size: 2x2
+Info:
+- Description: What a horrible looking thing.
+
+Slayer Info:
+- Required Level: 56
+- Slayer XP: 150 xp
+- Category: Warped Creatures
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 12491,12492,12493,12494,12495,12496,12497,12498
+- Link: MOID
+
+Location:
+- Area: Poison Waste Dungeon - main level
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Rune battleaxe (1/64)
+- Rune kiteshield (1/64)
+- Rune warhammer (1/64)
+- Nothing (1/42.74; Never[d 1])
+- Uncut sapphire (1/85.33; 1/43.33[d 2])
+- Uncut emerald (1/170.67; 1/86.67[d 2])
+- Uncut ruby (1/341.33; 1/173.33[d 2])
+- Uncut diamond (1/1,365.33; 1/693.33[d 2])
+- Nature talisman (1/910.22; 1/462.22[d 2])
+- Loop half of key (1/2,730.67; 1/1,386.67[d 2])
+- Tooth half of key (1/2,730.67; 1/1,386.67[d 2])
+- Rune javelin (1/2,730.67; 1/1,386.67[d 2])
+- Rune spear (1/43,690.67; 1/2,600[d 2][d 3])
+- Shield left half (1/87,381.33; 1/5,200[d 2][d 3])
+- Dragon spear (1/116,508.44; 1/6,933.33[d 2][d 3])
+- Terrorbird wing (1/4[d 1])
+- Warped sceptre (uncharged) (1/320[3])
+- Brimstone key (1/82; 1/74[d 2])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 150
+Attack: 60
+Strength: 90
+Defence: 20
+Magic: 60
+Ranged: 40
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 240
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 50
+Slash: 50
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 62
+Standard: 62
+Heavy: 62

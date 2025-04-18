@@ -1,0 +1,2 @@
+Item: Ghommal
+Summary: Ghommal is the large guard of the Warriors' Guild, and taskmaster for the Combat Achievements system. He turns away players that don't have the level requirements to access the Guild.

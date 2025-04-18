@@ -1,0 +1,2 @@
+Item: Strange bush
+Summary: A strange bush is a plant that appears as part of the flowering tree event after players pollinate a specific pair of flowering bushes with strange pollen. Players are awarded 1-2 anima-infused bark after "tending-to" the flowering bushes by pollinating them. Note that players only have to exchange pollen with the pair of flowering bushes to change into strange bushes.

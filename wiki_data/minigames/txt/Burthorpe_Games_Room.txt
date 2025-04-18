@@ -1,0 +1,78 @@
+[Minigame: Burthorpe_Games_Room]
+
+ | This is a non-combat activity.Players should not expect to take damage or risk death from this activity.However, anydeathis still considereddangerousfor the purposes ofhardcore statusanditem retrieval services.
+
+Burthorpe Games Room
+
+
+
+
+
+Released | 24 November2004(Update)
+
+Also called | BGR
+
+Type | Minigame
+
+Members | Yes
+
+Location | Burthorpe Castle
+
+Leagueregion | Asgarnia✓
+
+Participants | 2
+
+Skills | None
+
+Requirements | None
+
+Reward currency | N/A
+
+Tutorial | No
+
+Music | Competition
+
+
+
+Map
+
+
+
+TheBurthorpe Games Roomis aminigamearea located underBurthorpe CastleinBurthorpe. Players can teleport there using agames necklace, or by using theGroupinginterface. There are no rewards or prizes for playing each except for game rankings. A branch ofthe Toad and Chickenpub is located by the entrance,SamandRachaelboth sell glasses of beer:Asgarnian ale,Wizard's mind bomb, andDwarven stoutfor 2coinseach.
+
+The games offered are identical to the ones at theGames Zone.
+
+Games[edit|edit source]
+
+The games in the Burthorpe Games Room are quite common brain-teasing puzzle games, such asOthello,Draughts(known as checkers inNorth America), andConnect Four. They are played with one person at a time, and the player can be challenged to any of the four games via the lobby. However, at the end of each game, the player is placed in a room in which they can only challenge their opponent to another match of the previous game; making it so you must return to the main room prior to challenging them to a different game.
+
+Interface | Game information
+
+ | DraughtsisRuneScape's version ofEnglish draughts(known in North America ascheckers), using runes instead of checkers. Like real checkers, the object of the game is to 'jump' over all of your opponent's pieces.
+
+ | RunelinkisRuneScape's version ofConnect Four, using runes instead of connect four checkers. Each player must click a column, which will drop their rune to the bottom-most empty space in that column. A player wins when they connects four of their runes diagonally or in a straight line.
+
+ | RuneversiisRuneScape's version ofReversior Othello using runes as game pieces. The goal is to have more of your runes on the board than your opponent. You can take your opponents pieces by trapping them between your own.
+
+ | RunesquaresisRuneScape's version ofDots and Boxes, using runes as game pieces. The board is arranged in a grid pattern. Each player fills in white line segments. If a player closes a box (their line completes a 1x1 square), that player's rune appears in the box. The player then gets another turn to place another segment. The game ends when all boxes are filled, and the player with the most filled-in squares is the winner.
+
+Official world[edit|edit source]
+
+The following officialworldis assigned to the Burthorpe Games Room:
+
+World | Location | Members | Activity
+
+491 | United States (east) | 1 | Burthorpe Games Room
+
+Rank system[edit|edit source]
+
+Players have a "rank" for each of the four games, which goes up or down depending on whether they beat their opponents in the game, similar to theElo systemfamously used for chess ratings. The rank initially starts at 1,000, and the rank change scales with the difference between the opponents' ranks.
+
+Δrank=50+rankloser−rankwinner16
+
+The resulting change is bounded between 1 and 100, and is added to the winner and subtracted from the loser. Your rank cannot go below 1 or above 60000. For example:
+
+a 1,000-rank player beating another 1,000-rank player will gain 50 pointsa 1,200-rank player beating a 800-rank player will gain 25 pointsa 800-rank player beating a 1,200 rank player will gain 75 pointsa 1,500 rank player beating a 500-rank player will only gain 1 pointa 643 rank playing beating a 1-rank player will gain 9 points, but the loser will not lose any points because they are already at the minimum rank.
+
+Players need 1,500 rank in the relevant game in order to go to some of the upstairs rooms in the Games Room.
+

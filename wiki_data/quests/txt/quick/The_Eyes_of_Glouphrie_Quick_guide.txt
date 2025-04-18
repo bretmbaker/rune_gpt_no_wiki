@@ -1,0 +1,89 @@
+ | This quest has an in-depth guide . It contains a more detailed description of dialogue, cutscenes, and storyline.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Brimstail in his cave south-west side of the Tree Gnome Stronghold , directly west of the bank near the Stronghold Slayer Cave . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Medium
+
+Description | After you foiled a plan to destroy the Grand Tree things have been quiet in the gnome world. Brimstail has found a strange machine, though, built by Oaknock the Engineer during the Gnomes' Golden Age. What does the weird device do? Why on Gielinor was it built? If you agree to help this bookworm gnome get this confusing device working, you will learn a little about gnome magicks, gnome history, and you will start to uncover a new threat (or is it an old one?) to gnome security - a threat that is a lot harder to see ...
+
+Requirements | Completed The Grand Tree quest 5 Construction ( not boostable ) 46 Magic ( not boostable ) ( not required to start )
+
+Items required | Bucket of sap (If you do not have one, you can use a knife on any tree that looks pointy (evergreen shaped trees) with a bucket in your inventory) Mud rune Maple logs Oak logs Hammer Saw Pestle and mortar
+
+Recommended | Several free inventory slots (about 8) to solve the puzzles more easily Fast travel to the Tree Gnome Stronghold ( Balloon Transport System , Gnome Glider , Spirit Tree or Slayer Ring to the Slayer Cave to directly reach the Stronghold -- alternatively, use a Necklace of Passage to the Outpost and walk north) Fast travel to Hazelmere ( Fairy rings to C L S , or Watchtower or Nightmare Zone minigame teleport and walk east if you have no access to fairy rings) Slayer ring to the Slayer Dungeon or a Necklace of Passage to the Wizards' Tower for easy access to fairy rings
+
+Enemies to defeat | 6 x Evil creature that each have 1 HP
+
+Ironman concerns | For mud runes, either 13 Runecraft to create them, 42 Hunter to catch essence implings, or 33 Magic to earn points at the Mage Training Arena . 45 Woodcutting recommended to cut Maple logs . Magic glue can be made before starting the quest by grinding the mud rune with the pestle and mortar and using it on a bucket of sap , saving inventory space.
+
+League notes | Unlocking Kandarin ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Digression [ edit | edit source ]
+
+Elven Mystery [ edit | edit source ]
+
+Memories [ edit | edit source ]
+
+Incapacitated [ edit | edit source ]
+
+Anti-Illusion [ edit | edit source ]
+
+Front Panel [ edit | edit source ]
+
+Control Panel [ edit | edit source ]
+
+Colour | Value
+
+Circle | Triangle | Square | Pentagon
+
+Red | 1 | 3 | 4 | 5
+
+Orange | 2 | 6 | 8 | 10
+
+Yellow | 3 | 9 | 12 | 15
+
+Green | 4 | 12 | 16 | 20
+
+Blue | 5 | 15 | 20 | 25
+
+Indigo | 6 | 18 | 24 | 30
+
+Violet | 7 | 21 | 28 | 35
+
+Assassination [ edit | edit source ]
+
+Rewards [ edit | edit source ]
+
+2 Quest points 12,000 Magic experience 2,500 Woodcutting experience 6,000 Runecraft experience 250 Construction experience A crystal saw seed — Either take it to Ilfeen in Tirannwn or use it on the singing bowl by Brimstail to get an enchanted crystal saw . It allows items (that require a saw ) to be made three levels above your Construction . It has a limited number of charges (28), but the recharge is free - use the bowl again.
+
+v • t • e The Eyes of Glouphrie
+
+NPCs | Brimstail Hazelmere King Healthorg Oaknock the Engineer Argento King Narnode Shareen Mibbiwocket Enemies Glouphrie the Untrusted Goblin Intruder Cute creature Evil creature |  | Brimstail Hazelmere King Healthorg Oaknock the Engineer Argento King Narnode Shareen Mibbiwocket | Enemies | Glouphrie the Untrusted Goblin Intruder Cute creature Evil creature
+
+ | Brimstail Hazelmere King Healthorg Oaknock the Engineer Argento King Narnode Shareen Mibbiwocket
+
+Enemies | Glouphrie the Untrusted Goblin Intruder Cute creature Evil creature
+
+Items | Bucket of sap Ground mud runes Magic glue Weird gloop A handwritten book Hazelmere's book Circles Red Orange Yellow Green Blue Indigo Violet Triangles Red Orange Yellow Green Blue Indigo Violet Squares Red Orange Yellow Green Blue Indigo Violet Pentagons Red Orange Yellow Green Blue Indigo Violet Rewards Crystal saw seed Crystal saw |  | Bucket of sap Ground mud runes Magic glue Weird gloop A handwritten book Hazelmere's book | Circles | Red Orange Yellow Green Blue Indigo Violet | Triangles | Red Orange Yellow Green Blue Indigo Violet | Squares | Red Orange Yellow Green Blue Indigo Violet | Pentagons | Red Orange Yellow Green Blue Indigo Violet | Rewards | Crystal saw seed Crystal saw
+
+ | Bucket of sap Ground mud runes Magic glue Weird gloop A handwritten book Hazelmere's book
+
+Circles | Red Orange Yellow Green Blue Indigo Violet
+
+Triangles | Red Orange Yellow Green Blue Indigo Violet
+
+Squares | Red Orange Yellow Green Blue Indigo Violet
+
+Pentagons | Red Orange Yellow Green Blue Indigo Violet
+
+Rewards | Crystal saw seed Crystal saw
+
+Scenery | Goblin crowd Gnome crowd Oaknock's Machine ( Control panel • Mysterious part • Tube • Cogs ) Oaknock's exchanger Ornament
+
+Related | Quick guide Transcript Aspidistra plant

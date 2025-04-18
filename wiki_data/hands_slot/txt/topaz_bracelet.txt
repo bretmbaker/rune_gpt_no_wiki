@@ -1,0 +1,49 @@
+[Weapon: Topaz Bracelet]
+
+
+Thetopaz braceletcan be enchanted into abracelet of slaughterthrough the use of theLvl-3 Enchantspell.
+The followingmoney making guideis available for Topaz bracelet:
+
+
+[Infobox]
+Released: 2 February2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I wonder if this is valuable.
+General Store Value: 1,500 coins
+High alch: 900 coins
+Low alch: 600 coins
+Weight: 0.25 kg
+Grand Exchange Value: 2,312 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 26,431
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

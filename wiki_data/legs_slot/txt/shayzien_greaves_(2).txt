@@ -1,0 +1,51 @@
+[Weapon: Shayzien Greaves (2)]
+
+
+TheShayzien greaves (2)are platelegs that require 20Defenceto equip, and are part of theShayzien armour (tier 2)set.
+It is dropped by thetier 2 soldierat theCombat Ringin theShayzien Encampment. It can also be created at an anvil with 61Smithingand 3lovakite bars.
+
+
+[Infobox]
+Released: 7 January2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Dress like a tier 2 Shayzien soldier.
+General Store Value: 45 coins
+High alch: 27 coins
+Low alch: 18 coins
+Weight: 9.071 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -14
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +14
+- Slash: +13
+- Crush: +12
+- Magic: -3
+- Ranged: +14
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Soldier (tier 2) | 48 | 1 | Always | 

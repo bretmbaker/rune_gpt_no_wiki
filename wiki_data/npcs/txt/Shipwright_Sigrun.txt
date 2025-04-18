@@ -1,0 +1,2 @@
+Item: Shipwright Sigrun
+Summary: Shipwright Sigrun is the shipwright located at Rellekka. Shipwrights are NPCs found at large ports. They offer several boat-related services, such as allowing players to purchase new boats, customize owned boats, and to retrieve boats that have capsized or are at another port.

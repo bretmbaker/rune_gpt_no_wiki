@@ -1,0 +1,4 @@
+Item: Blood spawn
+Summary: Blood spawn are monsters that spawn during the The Maiden of Sugadinti encounter in the Theatre of Blood, in which up to eight can spawn. If players successfully avoid the Maiden's blood splat attack, a maximum of one blood spawn will appear.
+Sources:
+No sources found

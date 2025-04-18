@@ -1,0 +1,179 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Royal Trouble (#105)
+
+
+
+
+
+Released | 22 May 2006 ( Update )
+
+Members | Yes
+
+Quest series | Miscellania , #2
+
+Lead developer(s) | Isobel H
+
+
+
+Royal Trouble is a Fremennik quest that takes you to Miscellania . Mysterious robberies threaten to plunge the island into a war with neighbouring Etceteria and, as regent, you are to investigate the occurrences to prevent this from happening.
+
+Details [ edit | edit source ]
+
+Start point | Go to Miscellania and speak to Advisor Ghrim in the castle. Show on map
+
+Official difficulty | Experienced
+
+Official length | Medium
+
+Description | It's tough being a regent of a small island kingdom, especially when the king has declared war while you were adventuring. Something is up in Miscellania and Etceteria , so you'd better find out what before both kingdoms end up in royal trouble.
+
+Requirements | 40 Agility ( boostable ) ( not required to start ) 40 Slayer ( boostable ) ( not required to start ) Completion of the following quests: Throne of Miscellania Heroes' Quest Shield of Arrav Lost City Merlin's Crystal Dragon Slayer I The Fremennik Trials
+
+Items required | 5 coal (obtainable during the quest with a pickaxe , which will also be obtainable) 2 rope (obtainable from crates during the quest) 1 plank (obtainable from a spawn during the quest)
+
+Recommended | 50 Combat level Weapon , armour and some food Superantipoison or any other poison cure 43 Prayer and Prayer potions for protection prayers Stamina or energy potions Multiple charged Rings of Wealth for fast travel to Miscellania
+
+Enemies to defeat | Giant Sea Snake (level 149)
+
+League notes | Fremennik ✓ — location requirement
+
+Walkthrough [ edit | edit source ]
+
+Travel to Miscellania (fairy ring: C I P ), and speak to Advisor Ghrim in the castle to start the quest. He'll say that since you took up the position of regent, King Vargas has grown bored and both he and Queen Sigrid have begun threatening each other with another war.
+
+Speak to Prince Brand or Princess Astrid , found in either of the two rooms next to the throne room, and a cutscene will follow. Prince Brand suggests that you convince the King and Queen Sigrid to marry to prevent further catastrophe, which Princess Astrid excitedly agrees upon.
+
+Stolen goods [ edit | edit source ]
+
+Speak to the King. He'll say that several items from many of Miscellania's citizens have been going missing, and that you should investigate.
+
+Find and speak with either Gunnhild by the herbs, Leif by the trees, Frodi on the dock, or Magnus by the mines (they will all say the same thing, you only need to talk to one of them). Apparently, Etceterian soldiers came to ask for tithes, the workers refused, and the next day items were stolen.
+
+Talk with the King again. He'll send you to discuss this situation with Queen Sigrid.
+
+More stolen goods [ edit | edit source ]
+
+Speak with Queen Sigrid in Etceteria . She'll tell you to talk to her citizens about things gone missing, criticising the king whenever she gets the chance.
+
+Go downstairs to speak to one of the Etceterian citizens such as Helga , Haming , or Matilda . They will tell you the same story as the workers in Miscellania , only with the roles reversed.
+
+Speak again with Queen Sigrid and update her on the known information. Soldiers have been mentioned in both stories, yet neither side has an army. She'll say this is your responsibility due to your position as regent and demand you solve things.
+
+Note: Be sure to have the things you will need for the fight at this point, utilising the bank directly north on Etceteria. Remember to take antipoison potions and prayer potions as needed. It is recommended to leave about 10 inventory spaces open for items you're going to use later on during the quest.
+
+To the dungeon with you! [ edit | edit source ]
+
+Go back to Miscellania and speak with King Vargas to review your conversation with the Queen. He'll ask you to speak with Ghrim about the presence of these alleged armies and the missing goods.
+
+Ghrim, assuming these happenings are being caused by outsiders, will suggest you speak with the Sailor at the docks to find out if he's seen any suspicious characters.
+
+Head to the Sailor at the docks of Miscellania . He will mention a group of children who came to the island recently, saying they had gone to go visit their family in the dungeon.
+
+The dungeon is still inaccessible at this point, so speak again with King Vargas to gain access. He'll give you a scroll with his signature.
+
+Take the scroll and enter the dungeon within Miscellania's castle walls (look for the dungeon icon on the minimap ), and you will arrive in a small underground settlement.
+
+Go to the pub and speak with a dwarf called Donal .
+
+Repairing the lift [ edit | edit source ]
+
+Items required: 9 free inventory spaces, 5 coal (or you can mine the coal from the chamber with a pickaxe you can find near the dwarf miners).
+
+Upon speaking with Donal, he'll talk about a monster deep within the caves. He'll give you a mining prop to get through the passage and into a room with a broken lift.
+
+Head up north, and you will see two dwarf miners. Pick up a pickaxe from the rock if you need one.
+
+Use the mining prop on the crevice and squeeze through it.
+
+Now, you need to repair the lift using items found in the boxes in the chamber:
+
+First, take an engine and three beams , three pulley beams , and two ropes from the crates. Before you start assembling the whole structure, add five chunks of coal to the engine (this can also be done last, after step 8). If you did not bring coal with you, the chamber has four coal rocks as well as a pickaxe near the dwarves if you forgot one. Use a pulley beam on the broken scaffold on the east side of the room to attach it. Use a beam on a pulley beam to make a long pulley beam , and then use it with another beam to get a longer pulley beam , which you must then attach to the scaffold. Use the final pulley beam on the scaffold. Use a rope on the scaffold to wind it through the pulleys. Use the third beam on the platform to repair it. Place the engine on the engine platform (Note: the engine platform is not the same as the platform from step 7. Rather, it is the one on the tile which faces the engine spawning spot) . Add the 5 pieces of coal to the engine (only necessary if not already added).
+
+The lift should be operational now. While making sure you have another rope, click the 'Use-Lift' option on the platform to head closer to the mysteries of the island. (If this option doesn't appear, make sure you have added 5 coal to the engine. You can do it when placed on the engine platform.)
+
+The burnt diary [ edit | edit source ]
+
+Take the plank and enter the small tunnel on the east wall. Continue travelling east and use a rope with the overhanging rock to swing across the water.
+
+You will come across the remains of a fire, search it to get the first part of a burnt diary . Read the diary, and save it for later.
+
+Use the plank to cross the slippery rocks - otherwise, you may be hit for 8 damage. The plank is not left behind and may be reused every time. The rocks can also be safely skipped without a plank via the run trick .
+
+As you proceed further into the caves, you will come across two more fire remains, search them to get the second and third part of the diary. After the third fire remains, there will be some steam vents in the ground. Do not walk across or stand on them as they repeatedly damage you depending on your Hitpoints level.
+
+After the vents, there will be another set of fire remains, search it for the fourth part of the diary. Going further down into the caves, there will be some rocks lying on the cliffs above your path. Do not stand or walk under those rocks as they will fall down on you and deal some damage depending on your Hitpoints level.
+
+After progressing through the area with the rocks, you will come across yet another fire remains. Search it to find the fifth and final page for the diary. Once you have completed the diary , you must read it before being able to enter a crevice at the end of the passage.
+
+Those meddling kids! [ edit | edit source ]
+
+Enter through the crevice, and you should see a cutscene involving some lost kids. Speak to them to get the full story. The kids had apparently not been able to pass the trials to become a Fremennik , so they were going to start a war here and then stop it, and be seen as heroes. They are to blame for everything.
+
+Travel out through the next exit, and roam the passages where there are lots of sea snakes and snake spawns until you reach another crevice; squeeze through and kill the Giant Sea Snake (level 149, with only 100 HP).
+
+King of Slither and Thither [ edit | edit source ]
+
+ | This fight takes place in an instance . On death , all unprotected items will be moved to a grave outside the instance. Any items left on the ground will be lost.
+
+Protect from Melee works fine if you want to run up close. From a distance the snake uses ranged attacks so use Protect from Missiles if ranging or maging . Level 60 Magic and Iban blast will be enough to kill the snake quickly. A Dwarf multicannon can be setup in the boss room to help lower levels defeat the Giant Sea Snake .
+
+Its poison damage hits 9 so an antipoison is strongly recommended. Note that a superantipoison will also negate any effects for 5 minutes. A player who has around level 70 Ranged, full Black d'hide , a Magic Shortbow (i) , and Rune arrows , for example, should only need 1 dose of normal Antipoison to kill the Snake. Similarly, level ~70 Melee stats with a Dragon scimitar should also only need 1 dose of antipoison. After the fight, it is also recommended to immediately drink your antipoison because the damage of the poison is very slow, yet heavy.
+
+At peace once again [ edit | edit source ]
+
+Pick up the heavy box that the snake drops. If you forget to collect the box before leaving, speak to the guard outside the dungeon on Etceteria.
+
+Return through the crevice. A guard will notice you and help you up, and you will surface near Sigrid's castle.
+
+Go to Queen Sigrid and talk to her. She'll be impressed with you, and she'll give you 20,000 coins as a reward and a letter to take to King Vargas (reading it will not affect the quest).
+
+Talk to King Vargas to give him the letter for the rest of your reward.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 20,000 Coins 5,000 Agility experience 5,000 Slayer experience 5,000 Hitpoints experience Enhanced rewards from Managing Miscellania
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+9 November 2022 ( update ) | You may now choose to romance either the handsome Prince Brand or the beautiful Princess Astrid, regardless of your character’s gender. Or, if you’re not looking for a long-term commitment, you can now choose to become your selected royal’s best friend instead of marrying them.
+
+4 April 2013 ( update ) | An issue when retrieving the diary pages in the Royal Trouble quest has been fixed.
+
+Trivia [ edit | edit source ]
+
+When the player attempts to enter the dungeon, the guard will say "You're the regent? Well I didn't vote for you!" . This is a reference to Monty Python and the Holy Grail . Armod's full name is shown to be "Armod Brundtson" within Armod's Diary. This is a clear reference to him being the son of Brundt , the Chieftain of Rellekka. Much of the antics of the kids in the cave and their interactions with the player reference the cartoon Scooby-Doo . Quotes such as "And we would have gotten away with it too, if it wasn't for that giant snake!" parody how the antagonist would almost always say "I would've gotten away with it too, if it weren't for those meddling kids!" in the show. The lift manual shows that the lift the player repairs is an AMCE brand lift, a reference to ACME, a fictional corporation that features prominently in the Road Runner cartoons as a running gag featuring outlandish products. The examine text of the Sea Snake Hatchlings in the cave reads "A baby sea snake. Snaaaaaaake!". This is a reference to the Metal Gear Solid game series. The examine text of the Sea Snake Young in the cave reads "Snake, snake, oh, it's a young snake...". This is a reference to the Badgers animation by British animator Jonti Picking (Weebl). The examine text of the empty box reads "It says 'To the dungeons' on the side", another reference to the Metal Gear Solid game series, in which the protagonist, Solid Snake, can use cardboard boxes with "To the _____" printed on the side to sneak around in (with _____ being one of three in-game locations depending on which cardboard box is currently being worn).
+
+v • t • e Royal Trouble
+
+NPCs | Advisor Ghrim Sailor Donal Arnor Ashild Matilda Moldof Haming Helga Teenagers Armod Beigarth Hild Reinn Signy Royalty King Vargas Queen Sigrid Prince Brand Princess Astrid Sea Snakes Hatchling Young Giant |  | Advisor Ghrim Sailor Donal Arnor Ashild Matilda Moldof Haming Helga | Teenagers | Armod Beigarth Hild Reinn Signy | Royalty | King Vargas Queen Sigrid Prince Brand Princess Astrid | Sea Snakes | Hatchling Young Giant
+
+ | Advisor Ghrim Sailor Donal Arnor Ashild Matilda Moldof Haming Helga
+
+Teenagers | Armod Beigarth Hild Reinn Signy
+
+Royalty | King Vargas Queen Sigrid Prince Brand Princess Astrid
+
+Sea Snakes | Hatchling Young Giant
+
+Items | Scroll Mining prop Lift manual Engine Burnt diary Letter Beams Beam Pulley Long Longer Boxes Heavy Empty |  | Scroll Mining prop Lift manual Engine Burnt diary Letter | Beams | Beam Pulley Long Longer | Boxes | Heavy Empty
+
+ | Scroll Mining prop Lift manual Engine Burnt diary Letter
+
+Beams | Beam Pulley Long Longer
+
+Boxes | Heavy Empty
+
+Locations | Miscellania Etceteria Miscellania and Etceteria dungeon
+
+Music | Land Down Under Corridors of Power Meddling Kids Slither and Thither
+
+Miscellaneous | Crate Platform Fire remains Quick guide Transcript Managing Miscellania Ropeswing

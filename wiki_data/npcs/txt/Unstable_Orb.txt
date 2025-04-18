@@ -1,0 +1,2 @@
+Item: Unstable Orb
+Summary: Unstable Orbs are objects that appear during the fight with Akkha in the Tombs of Amascut, where they appear once he rejuvenates himself at the tail end of the fight. These hit the player for moderate damage, and can be slightly mitigated with Protect from Magic. In addition, they move in a single direction as indicated by the arrows under them, making their movements easy to predict.

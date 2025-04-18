@@ -1,0 +1,83 @@
+[Weapon: Adamant Sword]
+
+
+Theadamant swordis the second-strongestswordavailable tofree players, after therune sword. As with mostadamant weapons, level 30Attackis required to wield it.
+Adamant swords can be created at level 74Smithing. Oneadamant baris required to make the sword, and 62.5 Smithing experience is rewarded per sword created.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A razor sharp sword.
+General Store Value: 2,080 coins
+High alch: 1,248 coins
+Low alch: 832 coins
+Weight: 2.041 kg
+Grand Exchange Value: 836 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 4,937
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +23
+- Slash: +18
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +2
+- Crush: +1
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +24
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black Chest (black) | N/A | 1 | 2/141.11;2/133.27 | 
+Black Chest (brown) | N/A | 1 | 2/141.02;2/133.19 | 
+Black Chest (crimson) | N/A | 1 | 2/141.07;2/133.23 | 
+Black Chest (purple) | N/A | 1 | 2/141.15;2/133.31 | 
+Black Chest (red) | N/A | 1 | 2/140.98;2/131.15 | 
+Elaborate lockbox | N/A | 1 | 4/2,625 | 
+Former Vampyre | N/A | 1(noted) | 3/256 | 
+Green dragonWilderness Slayer Cave | 88 | 1 | 1/128 | 
+Ice giantWilderness Slayer Cave | 67 | 1 | 4/62 | 
+Moss Giant (Iorwerth Dungeon) | 84 | 1 | 2/128 | 
+Ornate lockbox | N/A | 1 | 12/2,450 | 
+Simple lockbox | N/A | 1 | 4/10,850 | 
+Skeleton (Lucien's camp) | 132 | 1 | 2/120 | N/A
+Skeleton (Shayzien Crypts) | 132 | 1 | 2/120 | 
+Vampyre Juvinate | N/A | 1(noted) | 3/256 | 
+Zombie (Shayzien Crypts) | 132 | 1 | 2/120 | 
+Zombie (Tarn's Lair)High level | 81–100 | 1 | 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Free-to-play Ironman guide(Meleegear)

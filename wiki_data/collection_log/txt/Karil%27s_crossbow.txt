@@ -1,0 +1,4 @@
+Item: Karil's crossbow
+Summary: Karil's crossbow is a two-handed ranged weapon that is part of Karil the Tainted's set of barrows equipment. It requires 70 Ranged to wield. It fires bolt racks, which break upon firing. When equipped with the other three pieces of Karil the Tainted's set the wearer will receive the set effect, which has a chance to temporarily lower their target's Agility level. Additionally, if an amulet of the damned is worn alongside the set, there is also a 25% chance for each attack to deal a second hit for half the damage of the first.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

@@ -1,0 +1,802 @@
+{
+  "steel javelin#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_javelin#poison++.txt"
+  },
+  "ruby bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/ruby_bolts_(e).txt"
+  },
+  "dragonstone dragon bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/dragonstone_dragon_bolts.txt"
+  },
+  "runite bolts#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/runite_bolts#unpoisoned.txt"
+  },
+  "opal dragon bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/opal_dragon_bolts.txt"
+  },
+  "dragon arrow#(unp)": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_arrow#(unp).txt"
+  },
+  "adamant brutal": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_brutal.txt"
+  },
+  "rune brutal": {
+    "slot": "Ammunition",
+    "txt": "txt/rune_brutal.txt"
+  },
+  "iron bolts#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_bolts#poison++.txt"
+  },
+  "diamond dragon bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/diamond_dragon_bolts_(e).txt"
+  },
+  "amethyst javelin#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/amethyst_javelin#unpoisoned.txt"
+  },
+  "honourable blessing": {
+    "slot": "Ammunition",
+    "txt": "txt/honourable_blessing.txt"
+  },
+  "mith grapple": {
+    "slot": "Ammunition",
+    "txt": "txt/mith_grapple.txt"
+  },
+  "adamant arrow#(p+)": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_arrow#(p+).txt"
+  },
+  "silver bolts#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/silver_bolts#poison++.txt"
+  },
+  "bronze javelin#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_javelin#poison++.txt"
+  },
+  "dragon arrow#(p++)": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_arrow#(p++).txt"
+  },
+  "steel bolts#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_bolts#unpoisoned.txt"
+  },
+  "pearl dragon bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/pearl_dragon_bolts.txt"
+  },
+  "broad arrows": {
+    "slot": "Ammunition",
+    "txt": "txt/broad_arrows.txt"
+  },
+  "emerald bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/emerald_bolts.txt"
+  },
+  "rune javelin#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/rune_javelin#unpoisoned.txt"
+  },
+  "ghommal%27s lucky penny": {
+    "slot": "Ammunition",
+    "txt": "txt/ghommal%27s_lucky_penny.txt"
+  },
+  "silver bolts#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/silver_bolts#unpoisoned.txt"
+  },
+  "adamant arrow#(p)": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_arrow#(p).txt"
+  },
+  "iron fire arrow#lit": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_fire_arrow#lit.txt"
+  },
+  "adamant bolts#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_bolts#poison++.txt"
+  },
+  "blurite bolts#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/blurite_bolts#poison++.txt"
+  },
+  "pearl bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/pearl_bolts.txt"
+  },
+  "opal bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/opal_bolts_(e).txt"
+  },
+  "ancient blessing": {
+    "slot": "Ammunition",
+    "txt": "txt/ancient_blessing.txt"
+  },
+  "ruby dragon bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/ruby_dragon_bolts_(e).txt"
+  },
+  "marrentill tar": {
+    "slot": "Ammunition",
+    "txt": "txt/marrentill_tar.txt"
+  },
+  "unholy blessing": {
+    "slot": "Ammunition",
+    "txt": "txt/unholy_blessing.txt"
+  },
+  "rune javelin#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/rune_javelin#poison.txt"
+  },
+  "rada%27s blessing 1": {
+    "slot": "Ammunition",
+    "txt": "txt/rada%27s_blessing_1.txt"
+  },
+  "atlatl dart": {
+    "slot": "Ammunition",
+    "txt": "txt/atlatl_dart.txt"
+  },
+  "amethyst broad bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/amethyst_broad_bolts.txt"
+  },
+  "pearl dragon bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/pearl_dragon_bolts_(e).txt"
+  },
+  "mithril javelin#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_javelin#poison++.txt"
+  },
+  "dragon javelin#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_javelin#unpoisoned.txt"
+  },
+  "bronze javelin#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_javelin#poison+.txt"
+  },
+  "guam tar": {
+    "slot": "Ammunition",
+    "txt": "txt/guam_tar.txt"
+  },
+  "barbed arrow": {
+    "slot": "Ammunition",
+    "txt": "txt/barbed_arrow.txt"
+  },
+  "dragon bolts#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_bolts#poison.txt"
+  },
+  "dragon javelin#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_javelin#poison+.txt"
+  },
+  "sapphire dragon bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/sapphire_dragon_bolts.txt"
+  },
+  "broad bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/broad_bolts.txt"
+  },
+  "dragon fire arrow#unlit": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_fire_arrow#unlit.txt"
+  },
+  "bullet arrow": {
+    "slot": "Ammunition",
+    "txt": "txt/bullet_arrow.txt"
+  },
+  "field arrow": {
+    "slot": "Ammunition",
+    "txt": "txt/field_arrow.txt"
+  },
+  "war blessing": {
+    "slot": "Ammunition",
+    "txt": "txt/war_blessing.txt"
+  },
+  "training arrows": {
+    "slot": "Ammunition",
+    "txt": "txt/training_arrows.txt"
+  },
+  "bronze bolts#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_bolts#poison+.txt"
+  },
+  "diamond dragon bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/diamond_dragon_bolts.txt"
+  },
+  "bolt rack": {
+    "slot": "Ammunition",
+    "txt": "txt/bolt_rack.txt"
+  },
+  "rada%27s blessing 2": {
+    "slot": "Ammunition",
+    "txt": "txt/rada%27s_blessing_2.txt"
+  },
+  "jade dragon bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/jade_dragon_bolts.txt"
+  },
+  "topaz dragon bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/topaz_dragon_bolts.txt"
+  },
+  "iron bolts#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_bolts#poison+.txt"
+  },
+  "adamant javelin#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_javelin#poison.txt"
+  },
+  "mithril fire arrow#lit": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_fire_arrow#lit.txt"
+  },
+  "steel arrow#(p+)": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_arrow#(p+).txt"
+  },
+  "hallowed grapple": {
+    "slot": "Ammunition",
+    "txt": "txt/hallowed_grapple.txt"
+  },
+  "steel arrow#(p)": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_arrow#(p).txt"
+  },
+  "diamond bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/diamond_bolts.txt"
+  },
+  "topaz bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/topaz_bolts.txt"
+  },
+  "mithril fire arrow#unlit": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_fire_arrow#unlit.txt"
+  },
+  "runite bolts#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/runite_bolts#poison+.txt"
+  },
+  "amethyst arrow#(p+)": {
+    "slot": "Ammunition",
+    "txt": "txt/amethyst_arrow#(p+).txt"
+  },
+  "emerald bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/emerald_bolts_(e).txt"
+  },
+  "diamond bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/diamond_bolts_(e).txt"
+  },
+  "peaceful blessing": {
+    "slot": "Ammunition",
+    "txt": "txt/peaceful_blessing.txt"
+  },
+  "steel fire arrow#lit": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_fire_arrow#lit.txt"
+  },
+  "steel javelin#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_javelin#poison.txt"
+  },
+  "jade bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/jade_bolts.txt"
+  },
+  "iron javelin#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_javelin#poison++.txt"
+  },
+  "dragon arrow#(p+)": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_arrow#(p+).txt"
+  },
+  "emerald dragon bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/emerald_dragon_bolts_(e).txt"
+  },
+  "mithril arrow#(unp)": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_arrow#(unp).txt"
+  },
+  "dragon bolts#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_bolts#poison+.txt"
+  },
+  "emerald dragon bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/emerald_dragon_bolts.txt"
+  },
+  "iron bolts#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_bolts#poison.txt"
+  },
+  "sapphire bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/sapphire_bolts.txt"
+  },
+  "mithril brutal": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_brutal.txt"
+  },
+  "bronze bolts#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_bolts#poison++.txt"
+  },
+  "sapphire bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/sapphire_bolts_(e).txt"
+  },
+  "adamant arrow#(p++)": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_arrow#(p++).txt"
+  },
+  "kebbit bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/kebbit_bolts.txt"
+  },
+  "mithril bolts#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_bolts#unpoisoned.txt"
+  },
+  "adamant bolts#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_bolts#poison.txt"
+  },
+  "rune fire arrow#lit": {
+    "slot": "Ammunition",
+    "txt": "txt/rune_fire_arrow#lit.txt"
+  },
+  "steel bolts#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_bolts#poison++.txt"
+  },
+  "iron fire arrow#unlit": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_fire_arrow#unlit.txt"
+  },
+  "adamant bolts#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_bolts#unpoisoned.txt"
+  },
+  "bronze arrow#(p++)": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_arrow#(p++).txt"
+  },
+  "harralander tar": {
+    "slot": "Ammunition",
+    "txt": "txt/harralander_tar.txt"
+  },
+  "topaz bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/topaz_bolts_(e).txt"
+  },
+  "ruby dragon bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/ruby_dragon_bolts.txt"
+  },
+  "rada%27s blessing 3": {
+    "slot": "Ammunition",
+    "txt": "txt/rada%27s_blessing_3.txt"
+  },
+  "pearl bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/pearl_bolts_(e).txt"
+  },
+  "amethyst arrow#(p++)": {
+    "slot": "Ammunition",
+    "txt": "txt/amethyst_arrow#(p++).txt"
+  },
+  "rune arrow#(p)": {
+    "slot": "Ammunition",
+    "txt": "txt/rune_arrow#(p).txt"
+  },
+  "iron arrow#(p)": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_arrow#(p).txt"
+  },
+  "rune arrow#(p+)": {
+    "slot": "Ammunition",
+    "txt": "txt/rune_arrow#(p+).txt"
+  },
+  "irit tar": {
+    "slot": "Ammunition",
+    "txt": "txt/irit_tar.txt"
+  },
+  "dragonstone dragon bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/dragonstone_dragon_bolts_(e).txt"
+  },
+  "opal dragon bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/opal_dragon_bolts_(e).txt"
+  },
+  "holy blessing": {
+    "slot": "Ammunition",
+    "txt": "txt/holy_blessing.txt"
+  },
+  "steel javelin#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_javelin#unpoisoned.txt"
+  },
+  "bronze bolts#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_bolts#poison.txt"
+  },
+  "amethyst fire arrow#lit": {
+    "slot": "Ammunition",
+    "txt": "txt/amethyst_fire_arrow#lit.txt"
+  },
+  "onyx dragon bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/onyx_dragon_bolts.txt"
+  },
+  "iron arrow#(p+)": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_arrow#(p+).txt"
+  },
+  "onyx bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/onyx_bolts_(e).txt"
+  },
+  "amethyst javelin#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/amethyst_javelin#poison.txt"
+  },
+  "dragonstone bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/dragonstone_bolts.txt"
+  },
+  "rune arrow#(p++)": {
+    "slot": "Ammunition",
+    "txt": "txt/rune_arrow#(p++).txt"
+  },
+  "dragon fire arrow#lit": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_fire_arrow#lit.txt"
+  },
+  "terrifying charm": {
+    "slot": "Ammunition",
+    "txt": "txt/terrifying_charm.txt"
+  },
+  "rune fire arrow#unlit": {
+    "slot": "Ammunition",
+    "txt": "txt/rune_fire_arrow#unlit.txt"
+  },
+  "mithril arrow#(p++)": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_arrow#(p++).txt"
+  },
+  "adamant arrow#(unp)": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_arrow#(unp).txt"
+  },
+  "bronze brutal": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_brutal.txt"
+  },
+  "mithril arrow#(p+)": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_arrow#(p+).txt"
+  },
+  "long kebbit bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/long_kebbit_bolts.txt"
+  },
+  "mithril bolts#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_bolts#poison+.txt"
+  },
+  "barbed bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/barbed_bolts.txt"
+  },
+  "iron javelin#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_javelin#unpoisoned.txt"
+  },
+  "steel bolts#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_bolts#poison.txt"
+  },
+  "blunt arrow": {
+    "slot": "Ammunition",
+    "txt": "txt/blunt_arrow.txt"
+  },
+  "blurite bolts#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/blurite_bolts#poison.txt"
+  },
+  "onyx dragon bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/onyx_dragon_bolts_(e).txt"
+  },
+  "blurite bolts#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/blurite_bolts#unpoisoned.txt"
+  },
+  "dragon bolts#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_bolts#unpoisoned.txt"
+  },
+  "mithril bolts#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_bolts#poison++.txt"
+  },
+  "silver bolts#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/silver_bolts#poison.txt"
+  },
+  "dragon arrow#(p)": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_arrow#(p).txt"
+  },
+  "runite bolts#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/runite_bolts#poison++.txt"
+  },
+  "amethyst arrow#(unp)": {
+    "slot": "Ammunition",
+    "txt": "txt/amethyst_arrow#(unp).txt"
+  },
+  "iron bolts#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_bolts#unpoisoned.txt"
+  },
+  "sapphire dragon bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/sapphire_dragon_bolts_(e).txt"
+  },
+  "adamant javelin#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_javelin#unpoisoned.txt"
+  },
+  "steel javelin#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_javelin#poison+.txt"
+  },
+  "rune javelin#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/rune_javelin#poison+.txt"
+  },
+  "mithril javelin#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_javelin#poison.txt"
+  },
+  "tarromin tar": {
+    "slot": "Ammunition",
+    "txt": "txt/tarromin_tar.txt"
+  },
+  "iron arrow#(unp)": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_arrow#(unp).txt"
+  },
+  "adamant bolts#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_bolts#poison+.txt"
+  },
+  "dragon javelin#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_javelin#poison.txt"
+  },
+  "ruby bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/ruby_bolts.txt"
+  },
+  "steel brutal": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_brutal.txt"
+  },
+  "adamant javelin#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_javelin#poison++.txt"
+  },
+  "adamant fire arrow#unlit": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_fire_arrow#unlit.txt"
+  },
+  "mithril javelin#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_javelin#poison+.txt"
+  },
+  "dragon bolts#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_bolts#poison++.txt"
+  },
+  "runite bolts#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/runite_bolts#poison.txt"
+  },
+  "amethyst fire arrow#unlit": {
+    "slot": "Ammunition",
+    "txt": "txt/amethyst_fire_arrow#unlit.txt"
+  },
+  "amethyst javelin#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/amethyst_javelin#poison+.txt"
+  },
+  "black brutal": {
+    "slot": "Ammunition",
+    "txt": "txt/black_brutal.txt"
+  },
+  "adamant javelin#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_javelin#poison+.txt"
+  },
+  "steel bolts#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_bolts#poison+.txt"
+  },
+  "steel fire arrow#unlit": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_fire_arrow#unlit.txt"
+  },
+  "bronze bolts#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_bolts#unpoisoned.txt"
+  },
+  "iron brutal": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_brutal.txt"
+  },
+  "mithril bolts#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_bolts#poison.txt"
+  },
+  "bronze arrow#(unp)": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_arrow#(unp).txt"
+  },
+  "topaz dragon bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/topaz_dragon_bolts_(e).txt"
+  },
+  "adamant fire arrow#lit": {
+    "slot": "Ammunition",
+    "txt": "txt/adamant_fire_arrow#lit.txt"
+  },
+  "bronze fire arrow#lit": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_fire_arrow#lit.txt"
+  },
+  "silver bolts#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/silver_bolts#poison+.txt"
+  },
+  "bronze arrow#(p)": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_arrow#(p).txt"
+  },
+  "iron arrow#(p++)": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_arrow#(p++).txt"
+  },
+  "jade dragon bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/jade_dragon_bolts_(e).txt"
+  },
+  "sunlight antler bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/sunlight_antler_bolts.txt"
+  },
+  "bronze arrow#(p+)": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_arrow#(p+).txt"
+  },
+  "moonlight antler bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/moonlight_antler_bolts.txt"
+  },
+  "jade bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/jade_bolts_(e).txt"
+  },
+  "rune arrow#(unp)": {
+    "slot": "Ammunition",
+    "txt": "txt/rune_arrow#(unp).txt"
+  },
+  "ogre arrow": {
+    "slot": "Ammunition",
+    "txt": "txt/ogre_arrow.txt"
+  },
+  "opal bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/opal_bolts.txt"
+  },
+  "iron javelin#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_javelin#poison.txt"
+  },
+  "dragon javelin#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/dragon_javelin#poison++.txt"
+  },
+  "bronze fire arrow#unlit": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_fire_arrow#unlit.txt"
+  },
+  "onyx bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/onyx_bolts.txt"
+  },
+  "ice arrows": {
+    "slot": "Ammunition",
+    "txt": "txt/ice_arrows.txt"
+  },
+  "bone bolts": {
+    "slot": "Ammunition",
+    "txt": "txt/bone_bolts.txt"
+  },
+  "blurite bolts#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/blurite_bolts#poison+.txt"
+  },
+  "bronze javelin#poison": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_javelin#poison.txt"
+  },
+  "amethyst javelin#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/amethyst_javelin#poison++.txt"
+  },
+  "steel arrow#(p++)": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_arrow#(p++).txt"
+  },
+  "amethyst arrow#(p)": {
+    "slot": "Ammunition",
+    "txt": "txt/amethyst_arrow#(p).txt"
+  },
+  "steel arrow#(unp)": {
+    "slot": "Ammunition",
+    "txt": "txt/steel_arrow#(unp).txt"
+  },
+  "dragonstone bolts (e)": {
+    "slot": "Ammunition",
+    "txt": "txt/dragonstone_bolts_(e).txt"
+  },
+  "rune javelin#poison++": {
+    "slot": "Ammunition",
+    "txt": "txt/rune_javelin#poison++.txt"
+  },
+  "iron javelin#poison+": {
+    "slot": "Ammunition",
+    "txt": "txt/iron_javelin#poison+.txt"
+  },
+  "rada%27s blessing 4": {
+    "slot": "Ammunition",
+    "txt": "txt/rada%27s_blessing_4.txt"
+  },
+  "mithril javelin#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_javelin#unpoisoned.txt"
+  },
+  "mithril arrow#(p)": {
+    "slot": "Ammunition",
+    "txt": "txt/mithril_arrow#(p).txt"
+  },
+  "bronze javelin#unpoisoned": {
+    "slot": "Ammunition",
+    "txt": "txt/bronze_javelin#unpoisoned.txt"
+  }
+}

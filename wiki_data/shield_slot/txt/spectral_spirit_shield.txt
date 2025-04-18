@@ -1,0 +1,72 @@
+[Weapon: Spectral Spirit Shield]
+
+
+Thespectral spirit shieldis a shield which requires 75Defence, 70Prayerand 65Magicto wield.
+It is made by attaching aspectral sigil, a rare drop from theCorporeal Beast, to ablessed spirit shieldusing ahammerat ananvil; this process requires 90Prayerand 85Smithing. Players without the required skill levels to create the shield may askAbbot Langleyin theEdgeville Monasteryto combine the sigil and the blessed spirit shield, for a fee of 1,500,000 coins.
+
+
+[Infobox]
+Released: 16 October2014(Update)
+Also called: SSS
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: An ethereal shield with a spectral sigil attached to it.
+General Store Value: 2,000,000 coins
+High alch: 1,200,000 coins
+Low alch: 800,000 coins
+Weight: 2 kg
+Grand Exchange Value: 51,939,522 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 477
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +53
+- Slash: +55
+- Crush: +73
+- Magic: +30
+- Ranged: +52
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Shield slot
+
+
+[Passive Effect]
+The spectral spirit shield reduces the effectiveness of mostPrayerdraining attacks (outside ofPvPencounters) by 50%.
+Some examples:
+Summoned Soulsduring theCerberusfight will only drain 15 Prayer points when the shield is equipped instead of 30.The prayer drain on successful attacks atNexare halved.When worn againstspinolyps' magic attack and theKalphite Queen's ranged attack, one point of prayer is drained 50% of the time on average.[1]Barrows prayer drain.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Cerberus/Strategies(Melee)
+1 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Dagannoth Kings/Strategies(Magic (Rex only))
+4 | General Graardor/Strategies(Solo (Melee))
+2 | General Graardor/Strategies(Advanced Tank)
+2 | General Graardor/Strategies(Ranged Tank)
+5 | Gout tuber/Strategies(Tank)
+2 | Hunter training(Staff of the dead)
+3 | K'ril Tsutsaroth/Strategies(Melee Tank)
+2 | K'ril Tsutsaroth/Strategies(Solo Melee)
+4 | Kraken/Strategies(Magic)
+2 | Pay-to-play Prayer training(High Magic defence)

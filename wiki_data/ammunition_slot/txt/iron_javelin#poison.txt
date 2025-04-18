@@ -1,0 +1,58 @@
+[Weapon: Iron Javelin#Poison]
+
+
+Theiron javelinis a type ofmember's onlyRangedammunition used by thelightandheavy ballistas. They are the second weakest type ofjavelin. As with mostjavelins, they can bepoisoned.
+They can be fletched by attachingiron javelin headstojavelin shaftsat level 17Fletching, granting 30 experience per 15 javelins made. They can also be obtained by buying them from theRanging Guild, theVoid Knight Archery Storeor fromOobapohk's Javelin StoreafterMonkey Madness II.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: An iron tipped javelin.
+General Store Value: 6 coins
+High alch: 3 coins
+Low alch: 2 coins
+Weight: 0 kg
+Grand Exchange Value: 4 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 1,316
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +42
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Cockathrice | 89 | 5 | 1/128 | 
+Cockatrice | 37 | 5 | 1/128 | 
+HobgoblinArmed(m) | 28; 42; 47 | 5 | 1/128 | 
+Jungle horror | 70 | 5 | 2/129 | 
+Kalphite Worker | 28 | 5 | 1/128 | 

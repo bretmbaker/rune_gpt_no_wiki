@@ -1,0 +1,85 @@
+ | This miniquest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Bear Your Soul
+
+
+
+
+
+Released | 19 May 2016 ( Update )
+
+Members | Yes
+
+Quest series | Great Kourend
+
+Developer(s) | Mod Ash
+
+
+
+Bear Your Soul is a miniquest that involves the player searching for a damaged ancient artefact.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Aretha after reading a book called soul journey in the Arceuus Library . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | Unknown edit
+
+Requirements | None
+
+Items required | Spade Dusty key or 70/80 Agility ( boostable ) or Key master teleport
+
+Recommended | Transportation to the Key Master , such as Key master teleport or Falador Teleport Transportation to Arceuus via Kharedst's memoirs ( Book of the dead ) or the fairy ring code C I S Anti-dragon shield if going through Taverley Dungeon with less than 70 Antipoison potion
+
+Enemies to defeat | None
+
+League notes | Kourend ✓ - location requirement Asgarnia ✓ - location requirement
+
+Walkthrough [ edit | edit source ]
+
+Journey of Souls [ edit | edit source ]
+
+Begin the miniquest by making the trip to the Arceuus Library . The library can be reached by walking west from the ship you arrive in from in Port Piscarilius , and then north-west once you reach Arceuus . Alternatively, you can use the fairy ring code C I S and walk southward.
+
+Once in the library, search for a book called The Journey of Souls (called "Soul journey" in the inventory). If you are asked to find this book by other NPCs ( Sam , Professor Gracklebone , and Villia ), you can ask Biblia on the top floor to narrow-down its location.
+
+Once the book is obtained, read through it, and you will receive the message, The book referred to an artefact being buried in Kourend, but the author did not specify where it was buried. Maybe you could persuade her to change her mind. . If you do not get this message, read through the book again.
+
+Upon examining the book, you will find that it was written by Aretha , who can be found by the Soul Altar in the northern part of Arceuus . Walk north from the library, then slight north-east past the Dark Altar , and follow the green-bluish road to reach her.
+
+At the Soul Altar, speak to Aretha and select the option "I've been reading your book..." , and she will eventually mention the Key Master , who may have the knowledge to repair the artefact. She will further state that the artefact, known as the Soul Bearer, is buried in the crypt in the Arceuus church.
+
+The church is located east of the library, in the area with blue around the edges and green in the middle on the minimap. Once you have reached the church, climb up the stairs to enter the building, and then climb down the stairs that follow to enter the centre area. Dig anywhere with a spade to obtain a damaged soul bearer .
+
+The Key Master [ edit | edit source ]
+
+Head to the Key Master , who is found in Cerberus' Lair within the Taverley Dungeon (refer to the map below for his location). Speak to him, and he will repair the damaged artefact into a usable soul bearer . If the player loses it, they can receive another from digging in the crypt in the Arceuus church.
+
+Congratulations, miniquest complete!
+
+Rewards [ edit | edit source ]
+
+Soul bearer
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+v • t • e Bear Your Soul
+
+NPCs | Aretha Key Master
+
+Items | Damaged soul bearer Soul journey
+
+Reward | Soul bearer
+
+Related | Quick guide Transcript
+
+v • t • e Miniquests
+
+ | Alfred Grimhand's Barcrawl Architectural Alliance (removed) Barbarian Training Bear Your Soul Curse of the Empty Lord Daddy's Home The Enchanted Key Enter the Abyss Family Pest The Frozen Door The General's Shadow His Faithful Servants Hopespear's Will In Search of Knowledge Into the Tombs Lair of Tarn Razorlor Mage Arena I Mage Arena II Skippy and the Mogres
+
+Unofficial miniquests | Tutorial Island Natural history quiz Restoring the Sacred Bone Burner Knight Waves Training Grounds Rogue Trader Obtaining the ancient key

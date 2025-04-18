@@ -1,0 +1,85 @@
+Name: Calvar'ion
+Combat Level: 264
+Size: 3x3
+Info:
+- Description: Only the true lord & king of the lands can lift his burden.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 322.5 xp
+- Category: Skeletons, Bosses
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 11993
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guide is available for Calvar'ion:
+
+Notable Drops:
+- Dragon 2h sword (1/358[1])
+- Dragon pickaxe (1/358[1])
+- Skull of vet'ion (1/618[1])
+- Ring of the gods (1/716[1])
+- Voidwaker blade (1/912[1])
+- Grimy ranarr weed (1/128)
+- Coins (21/128)
+- Yew seed (1/128)
+- Magic seed (1/128)
+- Palm tree seed (1/128)
+- Dark fishing bait (1/128)
+- Blighted anglerfish (1/18)
+- Blighted karambwan (1/18)
+- Blighted super restore(3) (1/18)
+- Blighted super restore(4) (1/18)
+- Ranging potion(2) (1/18)
+- Super combat potion(2) (1/18)
+- Looting bag (1/3)
+- Long bone (1/400)
+- Curved bone (1/5,012.5)
+- Skeleton champion scroll (1/5,000)
+- Brimstone key (1/68[d 1])
+- Clue scroll (elite) (1/100; 1/50[d 3][d 2])
+- Vet'ion jr. (1/2,800[1])
+- Larran's key (1/65)
+- Slayer's enchantment (1/30)
+
+Combat Achievements:
+- Vet'ion Adept: Kill Vet'ion 10 times. (Hard (3 pts))
+- Vet'eran: Kill Vet'ion 20 times. (Elite (4 pts))
+
+[Combat stats]
+Hitpoints: 150
+Attack: 250
+Strength: 250
+Defence: 225
+Magic: 178
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 130
+Slash: 128
+Crush: -10
+
+[Magic defence]
+Magic: 198
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 211
+Standard: 211
+Heavy: 211

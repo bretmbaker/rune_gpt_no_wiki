@@ -1,0 +1,4 @@
+Item: Odium shard 3
+Summary: The odium shard 3 is an item dropped by Scorpia. When the two other shards, the odium shard 1 and 2 are obtained, they can be forged into an odium ward on the Wilderness Volcano on the most north-east part of the Wilderness.
+Sources:
+- Scorpia (Level 225, Quantity: 1, Rarity: 1/256)

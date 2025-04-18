@@ -1,0 +1,2 @@
+Item: Ent (random event)
+Summary: Ents were a RuneScape random event. When a player tried to chop a tree, the tree had a chance of becoming an ent, also known as a "dancing tree" to some players. Like most random events, its purpose was to stop macro users. Since the ent could appear for each player chopping the tree, the odds of it showing up increased when woodcutting with more players. However, once it appeared, it influenced all players chopping that tree.

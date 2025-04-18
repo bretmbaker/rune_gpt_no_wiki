@@ -1,0 +1,968 @@
+[Minigame: Achievement_Diary]
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+TheAchievement Diary(also known asDiaries) is a one-off set of tasks and challenges exclusive tomembersthat can be completed to obtain rewards and various benefits. Each Achievement Diary consists of tasks that are usually tied to a specific area, and are intended to test the player's skills and knowledge about the said area. There are currently twelve areas that have an Achievement Diary, and a total of 492 tasks.
+
+The tasks of each area are split into four categories based on their difficulty: Easy, Medium, Hard and Elite. The easiest tasks usually do not require any significant skill levels to complete, but most higher-level tasks require the player to have high skill levels and difficult quests completed, as well as in-depth knowledge of a particular area withinGielinor, such as theTzHaar Fight Cave.
+
+Easy requires skills up to level 40 (50 for ironmen), Medium up to level 65, Hard up to level 75, and Elite requires skills in the 90s. For this reason, if you are pursuing the completion of all the diaries of a specific difficulty, it is recommended that you have all your skills at the diary difficulty level.
+
+Diary tasks can be checked off from any tier regardless of overall diary completion, however you will be unable to claim your reward from a tier unless you have finished all of the preceding tiers. Rewards may be claimed at the diary's corresponding task master (see table below). Note that there are no requirements to begin completing tasks and you are only required to speak to a task master in order to claim your rewards.
+
+Players who have completed all the achievement diaries can purchase anAchievement diary capefromTwiggy O'KorninDraynor Villagefor 99,000coins. Completing all the achievement diaries will also add an optional cyan trim to theQuest point cape.  Completing all the achievement diaries is a requirement for the black trim to theMusic cape(with the additional requirements of all quests completed and all holiday music tracks unlocked).
+
+List of diaries[edit|edit source]
+
+There are currently twelve areas that have diaries:
+
+Diaries | Main reward | Taskmaster | Highest requirement
+
+Ardougne Diary |  |  |  |  | Ardougne cloak | Two-pints | 94Magic(boostable)
+
+Desert Diary |  |  |  |  | Desert amulet | Jarr | 95Fletching(boostable)
+
+Falador Diary |  |  |  |  | Falador shield | Sir Rebral | Unlocked allmusictracks,orlevel99in any skill,orCompletion of all quests
+
+Fremennik Diary |  |  |  |  | Fremennik sea boots | Thorodin | 83Slayer(boostable)
+
+Kandarin Diary |  |  |  |  | Kandarin headgear | The 'Wedge' | 90Smithing(boostable)
+
+Karamja Diary |  |  |  |  | Karamja gloves | Pirate Jackie the Fruit | 91Runecraft(boostable)
+
+Kourend & Kebos Diary |  |  |  |  | Rada's blessing | Elise | 95Slayer(boostable)
+
+Lumbridge & Draynor Diary |  |  |  |  | Explorer's ring | Hatius Cosaintus | 88Smithing(boostable)andCompletion of all quests
+
+Morytania Diary |  |  |  |  | Morytania legs | Le-sabrè | 96Fishing(boostable)
+
+Varrock Diary |  |  |  |  | Varrock armour | Toby | 95Cooking(boostable)
+
+Western Provinces Diary |  |  |  |  | Western banner | Elder gnome child | 93Slayer(not boostable)
+
+Wilderness Diary |  |  |  |  | Wilderness sword | Lesser Fanatic | 96Magic(boostable)
+
+All requirements[edit|edit source]
+
+The table below shows the total skill requirements for all diaries in each difficulty.
+
+Individual requirements[edit|edit source]
+
+The tables below provide a list of all diary tasks (with skill requirements) on a per skill basis (collapsed by default, click [show] to view table).
+
+Note:This list doesnotcontain every diary task, as some tasks do not have a skill required for completion.
+
+This list also doesnotcontain tasks which have quest requirements that require a particular skill to complete.
+
+Agility[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Climb over the westernFaladorwall. | None | 5 | None | Falador | Easy
+
+Cross the Coal truck log shortcut. | None | 20 | NoneTip:Take apickaxeto minecoalfor a medium diary task. | Kandarin | Easy
+
+Use the rope swing to travel to theMoss Giant Islandnorth-west ofKaramja. | None | 10 | None | Karamja | Easy
+
+ExploreCairn Isleto the west ofKaramja. | None | 15(Higher levels give better chances of success) | Dramen Staff - if you use the local fairy ring (c-k-r) | Karamja | Easy
+
+Complete a lap of theDraynor Village Rooftop Course. | None | 1 | None | Lumbridge & Draynor | Easy
+
+Jump over the fence south ofVarrock. | None | 13 | None | Varrock | Easy
+
+Kill anearth warriorin theWilderness beneath Edgeville. | None | 15 | Weaponto kill anearth warrior,Agilityis required to reach them | Wilderness | Easy
+
+Grapple overYanille's south wall. | None | 393821 | Mith grappleand anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Ardougne | Medium
+
+Climb to the summit of theAgility Pyramid. | None | 30 | WaterskinsandDesert robesrecommended.You mustspeak to Simon Templetonat the base before you climb the pyramid for the task to count.Beware:When you're at the top (directly below the golden pyramid), you must climb the rocks, take the golden pyramid, and click continue in the dialogue (or climb the rocks again) for the task to count.Do notgo through the passageway until you've done this. | Desert | Medium
+
+Grapple up and then jump off the northFaladorwall. | None | 113719 | Mith grappleand anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Falador | Medium
+
+Squeeze through the crevice in theDwarven Mines. | None | 42 | None | Falador | Medium
+
+Complete a lap of theBarbarian agility course. | Alfred Grimhand's Barcrawl | 35 | None | Kandarin | Medium
+
+Cross the lava using the stepping stones withinBrimhaven Dungeon. | None | 12 | Anywoodcutting axe,875 | Karamja | Medium
+
+Claim a ticket from theAgility arenainBrimhaven. | None | None (40recommended) | 200 | Karamja | Medium
+
+Use the boulder leapshortcutin thedense essence mine. | None | 49 | None | Kourend & Kebos | Medium
+
+Grapple across theRiver Lum. | None | 81937 | Mith grappleand anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Lumbridge & Draynor | Medium
+
+Complete a lap of theAl Kharid Rooftop Course. | None | 20 | None | Lumbridge & Draynor | Medium
+
+Complete a lap of theCanifis Rooftop Agility Course. | None | 40 | None | Morytania | Medium
+
+Complete a lap of theVarrock Rooftop Course. | None | 30 | None | Varrock | Medium
+
+Take theagility shortcutfrom theGrand TreetoOtto's Grotto. | Tree Gnome VillageThe Grand Tree | 37 | None | Western Provinces | Medium
+
+Complete a lap of theWilderness Agility Course. | None | 52 | None | Wilderness | Medium
+
+Enter theWilderness God Wars Dungeon. | None | 60or60 | None | Wilderness | Medium
+
+Complete a lap of thePollnivneach Rooftop Course. | None | 70 | None | Desert | Hard
+
+Complete a lap of theSeers' Village Rooftop Course. | None | 60 | None | Kandarin | Hard
+
+Kill ametal dragoninBrimhaven Dungeon. | None | 1234 | Good combat stats and equipment,875or 5000trading sticks, anywoodcutting axe. Recommended:anti-dragon shieldandantifire potionto negate alldragonfiredamage. | Karamja | Hard
+
+Kill aDeathwingin the dungeon under theKharazi Jungle. | Partial completion ofLegends' Quest(Until you access the cave with the Deathwings) | 5015505052 | Anywoodcutting axe,machete, anypickaxe,lockpick | Karamja | Hard
+
+Squeeze past the jutting wall on your way to theCosmic Altar. | Lost City | 46 | DramenorLunar staff | Lumbridge & Draynor | Hard
+
+Climb the advanced spike chain withinSlayer Tower. | None | 71 | NoneClimb the spiky chain located on the middle floor in the north-eastern room. If you are boosting, bring severalAgility potionsorSummer pies.Additional note:Bring aSlayer helmetornosepegto defend againstAberrant spectres. Also if damage is taken going up the spike chain it won't count towards the achievement. | Morytania | Hard
+
+Squeeze through the obstacle pipe inEdgeville Dungeon. | None | 51 | None | Varrock | Hard
+
+Use the shortcut to get to the bridge overthe Salve. | None | 65 | None (located just outside ofPaterdomus, along the path south of the temple).The shortcut must be started from top side, the chat will indicate the stages. | Morytania | Hard
+
+Complete a lap of theApe Atoll Agility Course. | Monkey Madness I | 48 | Ninja monkey greegree | Western Provinces | Hard
+
+Kill anelfwith acrystal bow. | Roving Elves | 5670 | Crystal bow(Elvesat theDark beastsdo not work.) | Western Provinces | Hard
+
+Take the Agility Shortcut fromTrollheiminto theWilderness. | Death Plateau | 64 | None | Wilderness | Hard
+
+Complete a lap of theFalador agility course. | None | 50 | None | Falador | Hard
+
+Complete a lap ofArdougne's rooftop agility course. | None | 90 | None | Ardougne | Elite
+
+Jump over the strange floor inTaverley Dungeon(without taking damage). | None | 80 | None | Falador | Elite
+
+Kill each of theGod Wars Dungeongenerals. | Troll Stronghold | 70,70,70,70 | Combat equipment to kill theGod Wars Dungeongenerals, highstrongly recommended.Boosts cannot be used. You must deal the most damage to the boss in order for the kill to count. See each individual pages for recommended gear/setups.Note:Unlike other similar tasks, kills do not reset upon logging out, hopping worlds, or completing other Achievement Diary tasks. They also do not provide a task update message ("Achievement Diary Stage Task - Current stage: x"). | Fremennik | Elite
+
+Complete a lap of theRellekka Rooftop Course. | None | 80 | None | Fremennik | Elite
+
+Mix aStamina mixon top of theSeers' Villagebank. | Barbarian Herblore | 6086 | Stamina potion(2),caviar | Kandarin | Elite
+
+Grapple across a pylon on theDorgesh-Kaan Agility Course. | Death to the Dorgeshuun | 707070 | Alight source,mith grapple, and anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Lumbridge & Draynor | Elite
+
+Use the Elven overpass advanced cliffside shortcut. | Underground Pass | 85 | None | Western Provinces | Elite
+
+Attack[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Equip anIban's upgraded staffor upgrade anIban's staff. | Underground Pass | 5050 | 200,000andIban's staff, orIban's upgraded staff.50Attackis not needed if Iban's staff has not been upgraded yet, simply upgrade the staff to complete the task. Iban's upgraded staff is obtained by bringing Iban's staff to theDark Mage, located inWest Ardougneat the last house before the entrance of theUnderground Pass. | Ardougne | Medium
+
+Defeat alocust riderwithKeris. (Scarab mageworks too) | Contact! | 50to wieldKeris | Keris,armourrecommended,Light source | Desert | Hard
+
+Enter theWarriors' Guild. | None | 130Combined levels or 99 in either | None | Falador | Hard
+
+Loot theBarrows chestwhile wearing any completeBarrows set. | None | Combat requirement varies per set, see below:70forGuthan'sorVerac's70forDharok'sorTorag's70forKaril's70forAhrim's | Any fullBarrows equipmentset. | Morytania | Elite
+
+Equip any completevoid set. | None | 404222 | Void knight top;Void knight robe;Void knight gloves; andVoid mage,ranger, ormelee helm. | Western Provinces | Elite
+
+Construction[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Find out what your family crest is fromSir Renitee. | None | 16 | None, but make sure you thank him to get the completion. | Falador | Easy
+
+Enter yourplayer-owned housefromHosidius. | None | 25 | 8,750 | Kourend & Kebos | Easy
+
+Teleport toPollnivneachwith a redirectedteleport to housetablet. (Ironman ModeAlternative) Enter yourPlayer-owned housefromPollnivneach. | None | 20 | Scroll of redirection,house tablet | Desert | Medium
+
+Repair a crane withinPort Piscarilius. | None | 3030 | Hammer, 30-100nails, 3planks | Kourend & Kebos | Medium
+
+Pick up yourpet rockfrom yourPOHmenagerie. | The Fremennik Trials | 37 | Pet rock. Enter yourhousein non-building mode; then,useyour pet rock on apet house. Then, you must retrieve the pet rock off the ground (by left-clicking it). Taking it from the "stored pets" interface on the pet house willnotcomplete the diary task. | Fremennik | Medium
+
+Enter yourPOHfromYanille. | None | 50 | 25,000 | Ardougne | Hard
+
+Have theSeers' Villageestate agentdecorate your house with Fancy Stone. | None | 50 | 25,000(30,000if your house is already decorated with Fancy Stone)You must finish the dialogue with theestate agent, or the task will not count! | Kandarin | Hard
+
+Enter theKharyrll portalin yourPOHthrough aPortal Chamber. | Desert Treasure I | 5066 | None, if you have already built a portal.2limestone bricks, ahammer, and asawto build a portal focus; 3teak planks, ahammer, and asawto build a portal; and100200to attune the portal. Must be in your own POH.Note:Aportal nexuscanbe used instead, requiring10002000, 4marble blocks, ahammer, and asaw. | Morytania | Hard
+
+Have theVarrockestate agentdecorate your house with Fancy Stone. | None | 50(cannotbe boosted) | 25,000(30,000if the player's house is already decorated with Fancy Stone, to switch off and back on)Players must finish the dialogue with the estate agent or the task will not count! | Varrock | Hard
+
+Build anIsafdar paintingin yourPOHQuest Hall. | Roving Elves | 65 | 3Mahogany planks, 1Isafdar painting,saw,hammer | Western Provinces | Hard
+
+Speak to theKq headin yourPOH. | Priest in Peril | 78 | Kq head(must bestuffedby theTaxidermist), 50000coins, 2mahogany plank, 2gold leaf | Desert | Elite
+
+Cooking[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Cook athin snailon thePort Phasmatysrange. | None | 12 | Thin snail(plus 2Ecto-tokensand aghostspeak amuletto enterPort PhasmatysifGhosts Ahoyis not completed) | Morytania | Easy
+
+Catch and cook abassinCatherby. | None | 4346 | Big fishing net(or20to buy one at theCatherby Fishing Shop) | Kandarin | Medium
+
+Cook aSpider on stick. | None | 16 | Spider carcass,Skewer sticks(made from using amacheteonThatching spars) or anarrow shaft | Karamja | Medium
+
+Complete a game ofTrouble Brewing. | Cabin Fever | 40 | Another player on the opposing team is required to start this game. Merely participating in a game is enough; winning is not required. | Morytania | Medium
+
+Complete a delivery for theGnome Restaurant. | None, butThe Grand Treestrongly recommended | 29-42 | 29 Cooking is required to begin theminigame, after which the level required depends on the requested food item, which can be up to 42.Note:You must first complete the Gnome Restaurant tutorial by speaking toBlurberryatBlurberry BarandAluft Gianne snr.atGianne's Restaurant. | Western Provinces | Medium
+
+Make aChocolate bombat theGrand Tree. | None | 42 | Gnomebowl mould,Gianne dough, 4Chocolate bars, 1equa leaf, 2pots of cream, 1chocolate dust. You must haveGianne's Cook Bookin your inventory for this task to trigger properly. | Western Provinces | Medium
+
+Cook araw karambwanthoroughly. | Tai Bwo Wannai Trio | 30 | Talk toTinsay, after completing the Tai Bwo Wannai Trio quest, to learn how to cook a karambwan thoroughly. (After completion ofTai Bwo Wannai Trio, he can be found in the southernmost hut inTai Bwo Wannai.) | Karamja | Hard
+
+Catch and cook amonkfishinPiscatoris. | Swan Song | 6262 | Small fishing net(ARangecan be found in the south-west building in Piscatoris) | Western Provinces | Hard
+
+Catch amanta rayin theFishing Trawlerand cook it inPort Khazard. | None | 9181 | MultipleRaw manta raysmay be needed in case the player burns them.Fishingboostsdo not workfor theFishing Trawlerminigame. However,Cookingmay be boosted. | Ardougne | Elite
+
+Bake awild pieat theNardahclay oven. | None | 85 | Raw wild pie | Desert | Elite
+
+Fish and cook 5SharksinCatherby(at the range next to the bank) using theCooking gauntlets. | Family Crest | 8076 | Harpoon,cooking gauntlets | Kandarin | Elite
+
+Catch ananglerfishand cook it whilst inGreat Kourend. | None | 8482 | Fishing rodandsandworms | Kourend & Kebos | Elite
+
+Bake asummer piein theCooking Guild. (The spell "Bake Pie" on the Lunar spell book CAN be used to complete this step.) | None | 95 | Raw summer pieand either achef's hat,Varrock armour 3orcooking cape. | Varrock | Elite
+
+Fishand cook adark crabin theResource Area. | None | 9085 | Lobster pot,dark fishing bait, and7,500(3,750if hard tasks are done,6,000with medium). | Wilderness | Elite
+
+Crafting[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Craft atiarafrom scratch inRellekka. | The Fremennik Trials | 232020 | Tiara mould, anypickaxe—mine thesilver orefrom theRellekka minelocated on the east side ofRellekka, a few steps north-west of theagility shortcut(aniron pickaxecan be obtained from north of the Rellekka mine).Superheatingwill not work.Note:You have to do this process without doing any other task or stage 2 will not complete and you will have to redo the process. | Fremennik | Easy
+
+Get apet fishfromHarryinCatherby.(Talk toHarrywith items needed in inventory) | None | 42(Ironman and ultimate ironman modeonly to craftfishbowl, or see the item page for NPCs that drop it) | Fishbowlfilled with water,seaweedand10 | Kandarin | Easy
+
+Craft anysnelmfrom scratch inMorytania. | None | 15 | Chisel, snail shell (Blamish shells works too. You donotneed to hunt down aGiant snailin theTemple Trekkingminigame) | Morytania | Easy
+
+Spin abowlon thepottery wheeland fire it in the oven inBarbarian Village. | None | 8 | Soft clay | Varrock | Easy
+
+Craft abasketon theFalador farmloom. | None | 30(30forIronman and ultimate ironman modesinceWillow branchescan only be obtained throughFarming) | 6Willow branches | Falador | Medium
+
+Mine somegold oreat theCrafting Guild. | None | 4040 | Anypickaxe,brown apronorCrafting cape | Falador | Medium
+
+Repair a crane withinPort Piscarilius. | None | 3030 | Hammer, 30-100Nails, 3planks | Kourend & Kebos | Medium
+
+Craft acoif(not cowl) in theLumbridge cow pen(eastern cows). | None | 38 | Leather,needle,thread | Lumbridge & Draynor | Medium
+
+Slay aDust devilin thedesert cavewith aSlayer helmetequipped. | StartedDesert Treasure I | 556510 | Slayer helmet,weaponsandarmour | Desert | Hard
+
+Craft, string and enchant anamulet of powerinLumbridge(not upstairs in castle). | None | 7057 | Standard spellbook:101, agold bar, acut diamond, aball of wool, and anamulet mould. | Lumbridge & Draynor | Hard
+
+Make arune crossbowyourself from scratch withinWitchavenorYanille. | None | 109169 | Yew logs,sinew, 1runite bar,hammer,knife.Smithrunite limbsinYanille.Fletch ayew stockin Yanille.Craft acrossbow stringinWitchaven(using tree roots will not count).Use the yew stock with the runite limbs.Use the crossbow string with theRunite crossbow (u). | Ardougne | Elite
+
+Create adragonstone amuletin theNeitiznotfurnace. | StartedThe Fremennik Isles | 80 | Dragonstone,gold bar,amulet mould(ball of wool not needed) | Fremennik | Elite
+
+Construct a pyre ship frommagic logs. | Barbarian Firemaking | 8585 | Magic logs,chewed bones,tinderbox, anywoodcutting axe | Kandarin | Elite
+
+Craft one or moreBlood runes. | None | 387738 | Anypickaxeandchisel | Kourend & Kebos | Elite
+
+Craft ablack dragonhide bodyinCanifisbank. | None | 84 | 3black dragon leather,needle,thread | Morytania | Elite
+
+Defence[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Pray at theAltar of GuthixinTaverleywhilst wearing fullInitiate armour. | Recruitment Drive | 2010 | Initiate armour | Falador | Medium
+
+Slay aDust devilin thedesert cavewith aSlayer helmetequipped. | StartedDesert Treasure I | 106555 | Slayer helmet,weaponsandarmour | Desert | Hard
+
+Recharge yourPrayerinPort Sarimchurch while wearing fullProselyte. | The Slug Menace | 30 | Proselyte armour | Falador | Hard
+
+Equip aDwarven helmetwithin theDwarven Mines. | Grim Tales | 50 | Dwarven helmet(if the completion of the task does not trigger when you enter the mines while wearing the helmet, take the helmet off and put it back on) | Falador | Hard
+
+Purchase and equip agranite bodyfromBarbarian Assault. | None | 5050 | Combat equipmentto pass through Waves 1-10 and95,000 | Kandarin | Hard
+
+Enter theSeers' Villagecourthouse withPietyturned on. | King's Ransom,Knight Waves Training Grounds | 7070 | None | Kandarin | Hard
+
+Pray at theAltar of Naturein the Nature Grotto withPietyactivated. | Nature Spirit,King's Ransom,Knight Waves Training Grounds | 7070(Cannot be boosted) | None (won't be counted unless you restore at least 1prayerpoint). | Morytania | Hard
+
+Perform theQuest point capeemote in theWise Old Man's house. | All | 65 | Quest point cape | Lumbridge & Draynor Diary | Elite
+
+Loot theBarrows chestwhile wearing any completeBarrows set. | None | Combat requirement varies per set, see below:70forGuthan'sorVerac's70forDharok'sorTorag's70forKaril's70forAhrim's | Any fullBarrows equipmentset. | Morytania | Elite
+
+Equip any completevoid set. | None | 404222 | Void knight top;Void knight robe;Void knight gloves; andVoid mage,ranger, ormelee helm. | Western Provinces | Elite
+
+Farming[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Growth time | Diary | Difficulty
+
+PlantJute seedsin thefarming patchnorth ofMcGrubor's Wood. | None | 13 | 3Jute seeds,rake, and aseed dibber. | None | Kandarin | Easy
+
+Place aScarecrowin theMorytaniaFlower (patch). | None | 23(47 forIronman accountssinceWatermelonscan only be obtained throughFarming) | Scarecrow(use anempty sackon ahay baleor a haystack to make ahay sack, then combine it with abronze spearand then awatermelon). | None | Morytania | Easy
+
+Harvest somestrawberriesfrom theArdougnefarming patch. | None | 31 | 3Strawberry seeds, farming equipment (rake, spade, seed dibber, and watering can), 1basket of apples(recommended) | 1 hour | Ardougne | Medium
+
+Place aScarecrowin theFalador farmflower patch. | None | 23(47 forIronman accountssinceWatermelonscan only be obtained throughFarming) | Bronze spear,watermelon,hay sack(You can fill anempty sackwith hay in the nearby chicken coop) | None | Falador | Medium
+
+Pick somelimpwurt rootfrom thefarming patchinCatherby. | None | 26 | Limpwurt seed,rake,seed dibber,supercompostorultracompost(recommended) | 20 minutes | Kandarin | Medium
+
+Grow a healthyfruit treein the patch nearBrimhaven. | None | 27 | Anyfruit tree seed(or itssaplingversion),spade,rake | 16 hours | Karamja | Medium
+
+Enter theFarming Guild. | None | 45 | None | None | Kourend & Kebos | Medium
+
+Pick awhite tree fruit. | Garden of Tranquillity | 25 | None | 20 minutes | Varrock | Medium
+
+Check the health of apalm treenearTree Gnome Village(not in Gnome Stronghold). | None | 68 | 1palm tree seed(or 1palm sapling); recommended: 15papaya fruit | 16 hours | Ardougne | Hard
+
+Pick somepoison ivy berriesfrom the patch south ofEast Ardougne(Near theArdougne Monastery). | None | 70 | 1poison ivy seed | 2 hours 40 minutes | Ardougne | Hard
+
+Plant someLogavano seedsat theTithe Farm. | None | 74 | Seed dibber | None | Kourend & Kebos | Hard
+
+Pick somebelladonnafrom thefarming patchatDraynor Manor. | None | 63 | Belladonna seed,seed dibber,spade,rake, anygloves. | 5 Hours 20 minutes | Lumbridge & Draynor | Hard
+
+Harvest somewatermelonfrom theallotment patchonHarmony Island. | StartedThe Great Brain Robbery | 47 | 3Watermelon seeds,farmingsupplies | 1 hour 20 minutes | Morytania | Hard
+
+Harvest someBittercap mushroomsfrom the patch inCanifis. | None | 53 | Mushroom spore,farmingsupplies | 4 hours | Morytania | Hard
+
+Collect at least 2yew rootsfrom thetree patchinVarrock Palace. (If boosting, make sure to boost when digging up theyew tree, not when planting!) | None | 68[a]60 | Yew sapling, (10Cactus spinesrecommended), any woodcuttingaxe,spade | 6 hours 40 minutes | Varrock | Hard
+
+Check the health of yourpalm treeinLletya | StartedMourning's End Part I | 68 | 1palm sapling, 15papayas(recommended) | 16 hours | Western Provinces | Hard
+
+Pick sometorstolfrom thepatchnorth ofEast Ardougne. | None | 85 | 1torstol seed,ultracompostrecommended | 1 hour 20 minutes | Ardougne | Elite
+
+Find at least 3magic rootsat once when digging up yourmagic treeinFalador. | None | 9175 | Magic seed,Spade, anyWoodcutting axe | 8 hours | Falador | Elite
+
+Pick somedwarf weedfrom theherb patchatCatherby. | None | 79 | Dwarf weed seed,seed dibber,spade,rake,ultracompost(recommended) | 1 hour 20 minutes | Kandarin | Elite
+
+Check the health of apalm treeinBrimhaven. | None | 68 | 1palm tree seed(or 1palm sapling), 15Papaya fruits(recommended),spade | 16 hours | Karamja | Elite
+
+Check the health of yourCalquat treepatch. | None | 72 | 1Calquat tree seed(or 1calquat sapling), 8poison ivy berries(recommended) | 21 hours 20 minutes | Karamja | Elite
+
+Create your ownbattlestafffrom scratch within theFarming Guild. | None | 8540 | Celastrus seed,knife, axe. Optional: 8potato cactusto protect your crop | 13 hours 20 minutes | Kourend & Kebos | Elite
+
+HavePrissy Scillaprotect yourmagic tree. | None | 75 | 1magic sapling, 25Coconuts | None | Western Provinces | Elite
+
+Firemaking[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Chop and burn someoak logsin theFremennik Province. | None | 1515 | Anyaxe,tinderbox | Fremennik | Easy
+
+Chop and burn someoak logsinLumbridge. | None | 1515 | Anyaxe,tinderbox | Lumbridge & Draynor | Easy
+
+Travel toCastle WarsbyHot Air Balloon. | Enlightened Journey | 50 | Yew log(11 yew logs and 1normal logto return back ifballoonroute hasn't been unlocked yet—you will have to unlock the route and then use it again afterwards. Unlocking the route costs 10 yew logs) | Ardougne | Medium
+
+Chop and burn somewillow logsinTaverley(can cut and burn willows just south along water). | None | 3030 | AnyWoodcutting axe,tinderbox | Falador | Medium
+
+Light abullseye lanternat theChemist's inRimmington. | None | 49 | Tinderbox,Bullseye lantern(Must be a normal bullseye lantern) | Falador | Medium
+
+Subdue theWintertodt. | None | 50 | Anyaxe,tinderbox(food,knifeandhammerrecommended) | Kourend & Kebos | Medium
+
+Use theballoonto travel fromVarrock. | Enlightened Journey | 40 | 10willow logsto unlock theVarrockballoon, and 1 normallogto use the balloon to travel from Varrock. | Varrock | Medium
+
+Chop and burn someteak logsonApe Atoll. | Monkey Madness I | 3535 | Anyaxe,tinderbox(Note:Barbarian firemakingwill not count toward the task! Do not use abowto burn the logs!)(If you have5050chop and burn somemahogany logsnearby while you're here to complete a hard diary task.) | Western Provinces | Medium
+
+Burn someyew logson theNardahMayor's balcony. | None | 60 | 1yew log,tinderbox | Desert | Hard
+
+Burn somemaple logswith a bow inSeers' Village. | Barbarian Firemaking | 65 | Maple logs, anybow(exceptOgre bow,Crystal bow,Twisted bow,Dark bow,Craw's bow, orCursed goblin bow) | Kandarin | Hard
+
+Light yourmining helmetin theLumbridge Castlebasement. | None | 65 | Tinderbox,mining helmet | Lumbridge & Draynor | Hard
+
+Chop and burn somemahogany logsonMos Le'Harmless. | Cabin Fever | 5050 | AnyWoodcutting axeandtinderbox(a bowcannotbe used).Witchwood iconrecommended while traversing theMos Le'Harmless Cavealong with anylight source. | Morytania | Hard
+
+Chop someyew logsinVarrockand burn them at the top of the Varrock church. | None | 6060 | Any woodcuttingaxe,tinderbox.Barbarian firemakingdoes not work. Players must chop theyew treenext to theVarrockchurch, behindVarrock Palace. Use the church in the north-east corner of the city. | Varrock | Hard
+
+Chop and burn somemahogany logsonApe Atoll. | Monkey Madness I | 5050 | AnyWoodcutting axe,tinderbox | Western Provinces | Hard
+
+Construct a pyre ship frommagic logs. | Barbarian Firemaking | 8585 | Magic logs,chewed bones,tinderbox, anywoodcutting axe | Kandarin | Elite
+
+Cremate anyShade remainson aMagicorRedwood pyre. | Shades of Mort'ton | 80 | Magic pyre logs, anyshade remains,tinderbox | Morytania | Elite
+
+Cut and burn somemagic logsin theResource Area. | None | 7575 | AnyWoodcutting axe,tinderbox, and7,500(3,750if hard tasks are done,6,000with medium). You cannot use a shortbow to light the magic log (Barbarian firemaking) to finish this task. | Wilderness | Elite
+
+Fishing[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Go out fishing on theFishing Trawler. | None | 15 | Fishing Trawler—only need to start the minigame | Ardougne | Easy
+
+Catch amackerelatCatherby. | None | 16 | Big fishing net(or20to buy one at theCatherby Fishing Shop) | Kandarin | Easy
+
+Fish aTroutfrom theRiver Molch. Spot located south ofFarming Guild. | None | 20 | Fly fishing rod,Feathers | Kourend & Kebos | Easy
+
+Catch someanchoviesinAl-Kharid. | None | 15 | Small fishing net | Lumbridge & Draynor | Easy
+
+Catch sometroutin theRiver LumatBarbarian Village. | None | 20 | Fly fishing rodand someFeathers | Varrock | Easy
+
+Catch and cook abassinCatherby. | None | 4643 | Big fishing net(or20to buy one at theCatherby Fishing Shop) | Kandarin | Medium
+
+Catch akarambwan. | Tai Bwo Wannai Trio(partial completion) | 65 | Karambwan vessel,raw karambwanji,small fishing net | Karamja | Medium
+
+Catch aBluegillonLake Molch. | None | 4335 | King wormorfish chunks | Kourend & Kebos | Medium
+
+Catch somesalmoninLumbridge. | None | 30 | Fly fishing rod,Feathers | Lumbridge & Draynor | Medium
+
+Fish somebassonApe Atoll. | Monkey Madness I | 46 | Big fishing net | Western Provinces | Medium
+
+Catch aleaping sturgeon. | Barbarian Training - Fishing | 704545 | Barbarian rod,fishing baitorFeathers | Kandarin | Hard
+
+Catch and cook amonkfishinPiscatoris. | Swan Song | 6262 | Small fishing net(ARangecan be found in the south-west building in Piscatoris) | Western Provinces | Hard
+
+Fish someraw lava eelin theWilderness. | None | 53 | Oily fishing rod,fishing bait,slash weaponto cut the webs. | Wilderness | Hard
+
+Catch amanta rayin theFishing Trawlerand cook it inPort Khazard. | None | 8191 | MultipleRaw manta raysmay be needed in case the player burns them.Fishingboostsdo not workfor theFishing Trawlerminigame. However,Cookingmay be boosted. | Ardougne | Elite
+
+Fish and cook 5SharksinCatherby(at the range next to the bank) using theCooking gauntlets. | Family Crest | 7680 | Harpoon,cooking gauntlets | Kandarin | Elite
+
+Catch ananglerfishand cook it whilst inGreat Kourend. | None | 8284 | Fishing rodandsandworms | Kourend & Kebos | Elite
+
+Catch asharkinBurgh de Rottwith your bare hands. | In Aid of the Myreque, parts ofBarbarian Training | 9676 | None | Morytania | Elite
+
+Fishand cook adark crabin theResource Area. | None | 8590 | Lobster pot,dark fishing bait, and7,500(3,750if hard tasks are done,6,000with medium). | Wilderness | Elite
+
+Fletching[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Claim anyChompy bird hatfromRantz. | Big Chompy Bird Hunting | 530 | Must have killed at least 30Chompy birdsorJubbly birdswithogre bellows,ogre boworcomp ogre bow, andOgre arrows.Must bring the bow to collect hat. | Western Provinces | Easy
+
+Fletch anoak shortbowin theGnome Stronghold(oak treejust north of the bank byNieve/Steve). | None | 20 | Oak shortbow (u),bow string(axeandknifeoptional, although it is not required) | Western Provinces | Easy
+
+String amaple shortbowinSeers' Villagebank. | None | 50 | Maple shortbow (u),bow string | Kandarin | Medium
+
+Claim aChompy bird hatfromRantzafter registering at least 125 kills. | Big Chompy Bird Hunting | 530 | Ogre bellows,ogre boworcomp ogre bow,Ogre arrows | Western Provinces | Medium
+
+Create ayew longbowfrom scratch aroundSeers' Village. | None | 706010(if crafting your own bowstring) | Anywoodcutting axe,bow string,knife(one spawns south of Seers' Village bank) | Kandarin | Hard
+
+Claim aChompy bird hatfromRantzafter registering at least 300 kills. | Big Chompy Bird Hunting | 530 | Ogre bellows,ogre boworcomp ogre bow,Ogre arrows/brutal arrows | Western Provinces | Hard
+
+Fletch someDragon dartsat theBedabin Camp. | The Tourist Trap | 95 | At least 1dragon dart tipand 1feather. You MUST be standing in one of the tents for this to work. | Desert | Elite
+
+Create your ownbattlestafffrom scratch within theFarming Guild. | None | 4085 | Celastrus seed,knife, axe. Optional: 8potato cactusto protect your crop | Kourend & Kebos | Elite
+
+Smith and fletch tenRune dartswithinVarrock. | The Tourist Trap | 8189 | 1runite bar, 10Feathers,hammer | Varrock | Elite
+
+Claim aChompy bird hatfromRantzafter registering at least 1,000 kills. | Big Chompy Bird Hunting | 530 | Ogre bellows,ogre boworcomp ogre bow,Ogre arrows | Western Provinces | Elite
+
+Fletch amagic longbowin theElven lands. | Mourning's End Part IORFairytale I - Growing Pains(use fairy ring codeDLR) | 85 | Magic longbow (u),bow string | Western Provinces | Elite
+
+Herblore[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Create astrength potionin theThe Deeper Lodepub inLovakengj. | Druidic Ritual | 12 | Tarromin potion (unf),limpwurt root | Kourend & Kebos | Easy
+
+Create acombat potionin thedesert. | Druidic Ritual | 36 | Harralander potion (unf),goat horn dust(must be made in thedesertand not within city limits) | Desert | Medium
+
+Create aSuperantipoisonpotion from scratch in theSeers' Village/Catherbyarea. | Druidic Ritual | 48 | Vial of water,irit leaf,unicorn horn dust | Kandarin | Medium
+
+Mix aGuthix balancepotion while inMorytania. | Partial completion ofIn Aid of the Myreque | 22 | Restore potion,garlicandsilver dust | Morytania | Medium
+
+Mix aSuper defencepotion in theFremennik Province. | Druidic Ritual | 66 | Vial of water,cadantine,white berries—Cadantine potion (unf)with white berries also works.Note:Assembling the potion inRellekka Hunter area, Jatizso, orNeitiznotwillnotcomplete the diary task. | Fremennik | Hard
+
+Mix aSaradomin brewinFalador East Bank. | Druidic Ritual | 81 | Toadflax potion (unf),crushed nest | Falador | Elite
+
+Mix aStamina mixon top of theSeers' Villagebank. | Barbarian Herblore | 8660 | Stamina potion(2),caviar | Kandarin | Elite
+
+Create anAnti-venompotion whilst standing in theHorseshoe mine. | Druidic Ritual | 87 | 1Antidote++, 5-20Zulrah's scales(5 per dose) | Karamja | Elite
+
+Create aSuper combat potioninVarrock West Bank. | Druidic Ritual | 90 | Super attack(4),super strength(4),super defence(4),torstol | Varrock | Elite
+
+Hitpoints[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Kill each of theGod Wars Dungeongenerals. | Troll Stronghold | 70707070 | Combat equipment to kill theGod Wars Dungeongenerals, highstrongly recommended.Boosts cannot be used. You must deal the most damage to the boss in order for the kill to count. See each individual pages for recommended gear/setups.Note:Unlike other similar tasks, kills do not reset upon logging out, hopping worlds, or completing other Achievement Diary tasks. They also do not provide a task update message ("Achievement Diary Stage Task - Current stage: x"). | Fremennik | Elite
+
+Equip any completevoid set. | None | 404222 | Void knight top;Void knight robe;Void knight gloves; andVoid mage,ranger, ormelee helm. | Western Provinces | Elite
+
+Hunter[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Catch agolden warbler. | None | 5 | Bird snare.Necklace of Passagetakes you right there. | Desert | Easy
+
+Catch acerulean twitch. | None | 11 | Bird snare | Fremennik | Easy
+
+Catch acopper longtail. | None | 9 | Bird snare. Located north of Eagles' Peak. Fairy RingAKQwill put you directly at the location. | Western Provinces | Easy
+
+Catch anorange salamander. | None | 47 | At least 1ropeandsmall fishing net | Desert | Medium
+
+Catch aSnowy knight. | None | 35 | Butterfly netandbutterfly jar | Fremennik | Medium
+
+Trap aHorned Graahk. | None | 41 | Teasing stick,knife,logs. Located just west of Fairy ringCKR. | Karamja | Medium
+
+Catch aBluegillonLake Molch. | None | 3543 | King wormorfish chunks | Kourend & Kebos | Medium
+
+Catch achinchompain theKourend Woodland. | Eagles' Peak | 53 | Box trap | Kourend & Kebos | Medium
+
+Catch anessenceoreclectic implinginPuro-Puro. | Lost City | 42/50 | DramenorLunar staff,Butterfly net,impling jar | Lumbridge & Draynor | Medium
+
+Catch aswamp lizard. | None | 29 | At least 1ropeandsmall fishing net | Morytania | Medium
+
+Trap aSpined larupia. | None | 31 | Teasing stick,logs,knife. Located inFeldip Hunter area, south-west of Fairy RingAKS. | Western Provinces | Medium
+
+Catch aRed Salamander. | None | 59 | At least 1ropeandsmall fishing net | Ardougne | Hard
+
+Catch aSabre-toothed kyatt. | None | 55 | Teasing stick,logs,axe,knife | Fremennik | Hard
+
+Trade furs with theFancy Dress Sellerfor aSpottier capeand equip it. | None | 66(cannotbe boosted).69forIronman Modeplayers to hunt theDashing kebbits. (this one can be boosted) | 2Dashing kebbit fur,800. | Varrock | Hard
+
+Catch adashing kebbit. | None | 69 | (66 Hunter and Hunting potion)500 | Western Provinces | Hard
+
+Catch ablack salamander. | None | 67 | Small fishing net,rope | Wilderness | Hard
+
+Magic[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+CastLow Alchemyat theFountain of Rune. | None | 21 | Standard spellbook:Any item that can be alched. | Wilderness | Easy
+
+Equip anIban's upgraded staffor upgrade anIban's staff. | Underground Pass | 5050 | 200,000andIban's staff, orIban's upgraded staff.50Attackis not needed if Iban's staff has not been upgraded yet, simply upgrade the staff to complete the task. Iban's upgraded staff is obtained by bringing Iban's staff to theDark Mage, located inWest Ardougneat the last house before the entrance of theUnderground Pass. | Ardougne | Medium
+
+Cast theArdougne Teleportspell. | Plague City | 51 | Standard spellbook:22 | Ardougne | Medium
+
+TelegrabsomeWine of zamorakat theChaos Templeby theWilderness. | None | 33 | Standard spellbook:11Note:Thetempleis not actually in theWilderness—it is simply by the edge of it. If the temple is ridden with bots, you are able to place your own wine and telegrab that, or go up to the upstairs wine located at the ladder at the entrance, if over500Total level. | Falador | Medium
+
+Teleport toFalador. | None | 37 | Standard spellbook:311 | Falador | Medium
+
+Teleport toCamelot. | None | 45 | Standard spellbook:51 | Kandarin | Medium
+
+Cast theLumbridge Teleportspell. | None | 31 | Standard spellbook:311 | Lumbridge & Draynor | Medium
+
+Cast the teleport toVarrockspell. | None | 25 | Standard spellbook:311 | Varrock | Medium
+
+Chargeanearth orb. | None | 60 | Standard spellbook:3031 | Wilderness | Medium
+
+Teleport to theWatchtower. | Watchtower | 58 | Standard spellbook:22 | Ardougne | Hard
+
+Enter theMagic Guild. | None | 66 | None | Ardougne | Hard
+
+Refill yourWaterskinsin theDesertusingLunar spells. | Dream Mentor | 68 | Lunar spellbook:131and an emptywaterskin.Note:Must be done within the desert itself, away from any city. | Desert | Hard
+
+Teleport toTrollheim. | Eadgar's Ruse | 61 | Standard spellbook:22 | Fremennik | Hard
+
+Teleport toWaterbirth Island. | Lunar Diplomacy | 72 | Lunar spellbook:121 | Fremennik | Hard
+
+Charge awater orb. | None | 56 | Standard spellbook:3031and either adusty keyor at least70for the shortcut. | Kandarin | Hard
+
+Teleport toPaddewwa. | Desert Treasure I | 54 | Ancient Magicks:112 | Varrock | Hard
+
+CastMonster Examineon amountain trollsouth ofMount Quidamortem. | Dream Mentor | 66 | Lunar spellbook:111 | Kourend & Kebos | Hard
+
+Craft, string, and enchant anamulet of powerinLumbridge(not upstairs in castle). | None | 5770 | Standard spellbook:101, agold bar, acut diamond, aball of wool, and anamulet mould. | Lumbridge & Draynor | Hard
+
+CastBones to PeachesinAl Kharid Palace. | None | 60UnlockedBones to Peachesfrom theMage Training Arena | Standard spellbook:442and anybones.Note:Themagic tabletwillnotwork. | Lumbridge & Draynor | Hard
+
+Enter theKharyrll portalin yourPOHthrough aPortal Chamber. | Desert Treasure I | 6650 | None, if you have already built a portal.2limestone bricks, ahammer, and asawto build a portal focus; 3teak planks, ahammer, and asawto build a portal; and100200to attune the portal. Must be in your own POH.Note:Aportal nexuscanbe used instead, requiring10002000, 4marble blocks, ahammer, and asaw. | Morytania | Hard
+
+KillZulrah. | StartedRegicide | None, but highandhighly recommended | DecentMagicorRangedequipment. | Western Provinces | Hard
+
+Teleport toApe Atoll. | Recipe for Disaster(Awowogei sub-quest) | 64 | Standard spellbook:2221 | Western Provinces | Hard
+
+Cast one of the 3God spellsagainst another player in theWilderness. | Mage Arena I | 60 | Standard spellbook:and a valid staff to cast. Number of runes required and eligible staves depends on the spell:Saradomin Strike:Saradomin stafforstaff of light.Claws of Guthix:Guthix staff,Void knight mace, orstaff of balance.Flames of Zamorak:Zamorak staff,staff of the dead, ortoxic staff of the dead.To cast any of thegod spellsoutside theMage Arena, you must first cast it 100 times in the arena (casting the spell on another player while inside the Mage Arena does not require 100 casts).Note:Splashingthe spell willnotcount. | Wilderness | Hard
+
+Chargeanair orb. | None | 66 | Standard spellbook:3031 | Wilderness | Hard
+
+CastIce Barrageon another player withinCastle Wars. | Desert Treasure I | 94 | Ancient Magicks:624Note:Splashingthe spell willnotcount. | Ardougne | Elite
+
+CastIce Barrageagainst a foe in theDesert. | Desert Treasure I | 94 | Ancient Magicks:624Note:Splashingthe spell willnotcount. Must be done within the desert itself, away from any city. | Desert | Elite
+
+Teleport toCatherby. | Lunar Diplomacy | 87 | Lunar spellbook:1033 | Kandarin | Elite
+
+Create anApe Atoll teleport tablet. | Monkey Madness I | 90 | Arceuus spellbook:222and adark essence block. | Kourend & Kebos | Elite
+
+Loot theBarrows chestwhile wearing any completeBarrows set. | None | Combat requirement varies per set, see below:70forAhrim's70forGuthan'sorVerac's70forDharok'sorTorag's70forKaril's | Any fullBarrows equipmentset. | Morytania | Elite
+
+Fertilize theMorytaniaherb patchusingLunar spells(Fertile Soil). | Lunar Diplomacy | 83 | Lunar spellbook:1532 | Morytania | Elite
+
+UseLunar magicto make 20Mahogany planksin theVarrockLumber Yard(Plank Make). | Dream Mentor | 86 | Lunar spellbook:3004020,21,000, and 20mahogany logs. | Varrock | Elite
+
+Equip any completevoid set. | None | 404222 | Void knight top;Void knight robe;Void knight gloves; andVoid mage,ranger, ormelee helm. | Western Provinces | Elite
+
+Teleport toGhorrock. | Desert Treasure I | 96 | Ancient Magicks:82 | Wilderness | Elite
+
+Mining[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Mine fiveclayin the north-eastern desert. | None | 5 | Anypickaxe.Necklace of Passagetakes you right there. | Desert | Easy
+
+Smith someBlurite limbsonDoric's anvil. | The Knight's Sword,Doric's Quest | 1013 | Hammer,Blurite barRemember, Doric's anvil is the one located north ofFalador; don't mistake it withThurgo's anvil atMudskipper Point. | Falador | Easy
+
+Craft atiarafrom scratch inRellekka. | The Fremennik Trials | 202320 | Tiara mould, anypickaxe—mine thesilver orefrom theRellekka minelocated on the east side ofRellekka, a few steps north-west of theagility shortcut(aniron pickaxecan be obtained from north of the Rellekka mine).Superheatingwill not work.Note:You have to do this process without doing any other task or stage 2 will not complete and you will have to redo the process. | Fremennik | Easy
+
+Mine somegoldfrom the rocks on the north-west peninsula ofKaramja. | None | 40 | Anypickaxe | Karamja | Easy
+
+Mine someiron oreat theMount Karuulm mine. | None | 15 | Anypickaxe | Kourend & Kebos | Easy
+
+Mine someiron oreat theAl-Kharid mine. | None | 15 | Anypickaxe | Lumbridge & Draynor | Easy
+
+Mine someironin thesouth-east Varrock mine. | None | 15 | Anypickaxe | Varrock | Easy
+
+Mine someiron orenearPiscatoris. | None | 15 | Anypickaxe | Western Provinces | Easy
+
+Mine someiron orein theWilderness. | None | 15 | Anypickaxe.Ironcan be found north-west of theMage of Zamorak. | Wilderness | Easy
+
+Mine somegold oreat theCrafting Guild. | None | 4040 | Anypickaxe,brown apronorCrafting cape | Falador | Medium
+
+Mine somecoalinRellekka. | The Fremennik Trials | 30 | Anypickaxe(aniron pickaxecan be obtained from north of theRellekka mine) | Fremennik | Medium
+
+Mine somegoldat theArzinian Mine. | Near full completion ofBetween a Rock... | 40 | Anypickaxe,gold helmet, and 2coinsor aring of charos (a) | Fremennik | Medium
+
+Mine somecoalnear thecoal trucks. | None | 30 | Anypickaxe | Kandarin | Medium
+
+Mine ared topazfrom agem rock(either fromShilo VillageorTai Bwo Wannai Cleanup). | Shilo VillageorJungle Potion | 40 | Anypickaxe | Karamja | Medium
+
+Mine somevolcanic sulphur. | None | 42 | AnypickaxeFace mask,gas maskorslayer helmet | Kourend & Kebos | Medium
+
+Mine somegold oreunderneath theGrand Tree. | The Grand Tree | 40 | Anypickaxe. Enter the mine by climbing down the trapdoor next toKing Narnode Shareen, then go north through the roots and head east. | Western Provinces | Medium
+
+Mine somemithril orein theWilderness. | None | 55 | Anypickaxe. Mithril can be found South of the Lava Maze and in theResource Area. | Wilderness | Medium
+
+Mine somegranite. | None | 45 | Anypickaxe | Desert | Hard
+
+Enter theMining Guildwearing aProspector helmet. | None | 60 | Prospector helmet | Falador | Hard
+
+Mine 5Adamantite oresonJatizso. | The Fremennik Isles | 70 | Anypickaxe. Adragon pickaxeis recommended to get a temporary boost from 67 to 70.Tip:FourAdamantite oresspawns are located right next to the entrance inside the mine right outside the walls of Jatizso. Hopping worlds does not reset the counter. | Fremennik | Hard
+
+Kill aDeathwingin the dungeon under theKharazi Jungle. | Partial completion ofLegends' Quest(Until you access the cave with the Deathwings) | 5215505050 | Anywoodcutting axe,machete, anypickaxe,lockpick | Karamja | Hard
+
+Mine someLovakite ore. | None | 65 | Anypickaxe | Kourend & Kebos | Hard
+
+Mine somemithril orein theAbandoned Mine. | Haunted Mine | 55 | Anypickaxe,crystal-mine key(obtained duringHaunted Mine).Mithrilcan be found on levels 2 and 6. Alternatively, once you enter the cave look immediately south and use the "Crawl-through Cart Tunnel Option." The key is not needed with this method. | Morytania | Hard
+
+Mine someadamantite oreinTirannwn. | Regicide | 70 | Anypickaxe(Dragon pickaxespecial attack can boost your mining level from 67 to 70.) | Western Provinces | Hard
+
+Craft one or moreBlood runes. | None | 387738 | Anypickaxeandchisel | Kourend & Kebos | Elite
+
+Smith arune scimitarfrom scratch in theResource Area. | None | 8590 | Anypickaxe,hammer, 16Coaland7,500(3,750if hard tasks are done,6,000with medium).Note: You must mine arunite golemand then smeltboththerunite oreand coal in the resource area for this to work. The 16coaldoes not need to be mined and can be brought with you prior. Superheatdoes not count here!You may leave the resource area to complete this task. Logging out doesnotinterfere with the stages. | Wilderness | Elite
+
+Prayer[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Pray at theAltar of GuthixinTaverleywhilst wearing fullInitiate armour. | Recruitment Drive | 1020 | Initiate armour | Falador | Medium
+
+Change your family crest to theSaradominsymbol. | None | 70 | 5,000(10,000if your family crest is already theSaradominsymbol—talk toSir Reniteein theWhite Knights' Castle.) | Falador | Hard
+
+Enter theSeers' Villagecourthouse withPietyturned on. | King's Ransom,Knight Waves Training Grounds | 7070 | None | Kandarin | Hard
+
+Recharge yourprayerat theEmir's ArenawithSmiteactivated. | None | 52 | None.Ring of duelingis recommended for quick teleportation. | Lumbridge & Draynor | Hard
+
+Pray at theAltar of Naturein the Nature Grotto withPietyactivated. | Nature Spirit,King's Ransom | 7070(Cannot be boosted) | None (won't be counted unless you restore at least 1prayerpoint). | Morytania | Hard
+
+Pray at the altar inVarrock PalacewithSmiteactive. (1stfloor[UK]2ndfloor[US], use the staircase in the kitchen.) | None | 52 | None | Varrock | Hard
+
+Restore at least 85Prayer pointswhen praying at thealtarinSophanem. | StartedIcthlarin's Little Helper | 85 | None.Cannotbe boosted | Desert | Elite
+
+Equip any completevoid set. | None | 404222 | Void knight top;Void knight robe;Void knight gloves; andVoid mage,ranger, ormelee helm. | Western Provinces | Elite
+
+Ranged[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Claim anyChompy bird hatfromRantz. | Big Chompy Bird Hunting | 305 | Must have killed at least 30Chompy birdsorJubbly birdswithogre bellows,ogre boworcomp ogre bow, andOgre arrows.Must bring the bow to collect hat. | Western Provinces | Easy
+
+Grapple overYanille's south wall. | None | 213839 | Mith grappleand anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Ardougne | Medium
+
+Grapple up and then jump off the northFaladorwall. | None | 193711 | Mith grappleand anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Falador | Medium
+
+Use the grapple shortcut to get from thewater obelisktoCatherbyshore. | None | 393622 | Rope,dusty keyor 70Agility,mith grapple, and anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.)Recommended:Anti-dragon shieldandantipoison.Tip:Take anunpowered orbandrunesforCharge Water Orbfor a hard diary task. | Kandarin | Medium
+
+Enter theRanging Guild. | None | 40 | None | Kandarin | Medium
+
+Grapple across theRiver Lum. | None | 37819 | Mith grappleand anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Lumbridge & Draynor | Medium
+
+Purchase anupgraded devicefromAva. | Animal Magnetism | 50(not boostable) | 999ORAva's attractor,AND75steel arrowsNote:The 75steel arrowsare required regardless of whether you bring coins or an attractor. | Lumbridge & Draynor | Medium
+
+Claim aChompy bird hatfromRantzafter registering at least 125 kills. | Big Chompy Bird Hunting | 305 | Ogre bellows,ogre boworcomp ogre bow,Ogre arrows | Western Provinces | Medium
+
+Use the crossbow shortcut south of the volcano. | None | 425321 | Mith grappleand anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Karamja | Hard
+
+KillZulrah. | StartedRegicide | None, but highandhighly recommended | DecentMagicorRangedequipment. | Western Provinces | Hard
+
+Claim aChompy bird hatfromRantzafter registering at least 300 kills. | Big Chompy Bird Hunting | 305 | Ogre bellows,ogre boworcomp ogre bow,Ogre arrows/brutal arrows | Western Provinces | Hard
+
+Kill anelfwith acrystal bow. | Roving Elves | 7056 | Crystal bow(Mournersdo not work.) | Western Provinces | Hard
+
+Kill each of theGod Wars Dungeongenerals. | Troll Stronghold | 70707070 | Combat equipment to kill theGod Wars Dungeongenerals, highstrongly recommended.Boosts cannot be used. You must deal the most damage to the boss in order for the kill to count. See each individual pages for recommended gear/setups.Note:Unlike other similar tasks, kills do not reset upon logging out, hopping worlds, or completing other Achievement Diary tasks. They also do not provide a task update message ("Achievement Diary Stage Task - Current stage: x"). | Fremennik | Elite
+
+Grapple across a pylon on theDorgesh-Kaan Agility Course. | Death to the Dorgeshuun | 707070 | Alight source,mith grapple, and anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Lumbridge & Draynor | Elite
+
+Loot theBarrows chestwhile wearing any completeBarrows set. | None | Combat requirement varies per set, see below:70forKaril's70forGuthan'sorVerac's70forDharok'sorTorag's70forAhrim's | Any fullBarrows equipmentset. | Morytania | Elite
+
+Claim aChompy bird hatfromRantzafter registering at least 1,000 kills. | Big Chompy Bird Hunting | 305 | Ogre bellows,ogre boworcomp ogre bow,ogre arrows | Western Provinces | Elite
+
+Equip any completevoid set. | None | 404222 | Void knight top;Void knight robe;Void knight gloves; andVoid mage,ranger, ormelee helm. | Western Provinces | Elite
+
+Runecraft[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Craft somewater runesfrom Essence. | None | 5 | Runeorpure essenceandwater talisman,water tiara, or access to theAbyss | Lumbridge & Draynor | Easy
+
+Craft someEarth runesfrom Essence. | None | 9 | Earth talismanortiaraand 1rune/pure essence, or use theAbyss. | Varrock | Easy
+
+Craft someLava runesat thefire altarinAl Kharid. | None | 23 | Fire talismanortiara,earth talisman,earth runes, andpure essence. Abinding necklaceis recommended. | Lumbridge & Draynor | Medium
+
+Craft someDeath runesfrom Essence. | Mourning's End Part II | 65 | Pure essence,death talisman(orRunecraft capeor access to theAbyss) | Ardougne | Hard
+
+Craft 140Mind runessimultaneously from Essence. | None | 56or44withRaiments of the Eyeset | 28pureorrune essence,mind tiaraor access to theAbyss | Falador | Hard
+
+Craft somenature runesfrom Essence. | None | 44 | Pure essence,nature talisman(or access to theAbyss) | Karamja | Hard
+
+Craft 56Cosmic runessimultaneously from Essence without the use ofExtracts. | Lost City | 59 | 28pure essenceandcosmic tiaraor access to theAbyss | Lumbridge & Draynor | Hard
+
+Craft 252Air Runessimultaneously from Essence without the use of Extracts. | None | 88or55withRaiments of the Eyeset | Air tiaraand 28runeorpure essence | Falador | Elite
+
+Craft 56astral runessimultaneously from Essence without the use of Extracts. | Lunar Diplomacy | 82 | 28pure essence | Fremennik | Elite
+
+Craft 56Nature runessimultaneously from Essence without the use of Extracts. | None | 91 | 28pure essenceandnature tiaraor access to theAbyss | Karamja | Elite
+
+Craft one or moreBlood runesfromDark essence fragments. | None | 773838 | Anypickaxeandchisel | Kourend & Kebos | Elite
+
+Craft 140 or moreWater runessimultaneously from Essence without the use of Extracts. | None | 76or57withRaiments of the Eyeset | 28runeorpure essenceandwater tiaraor access to theAbyss | Lumbridge & Draynor | Elite
+
+Craft 100 or moreearth runessimultaneously from Essence without the use of Extracts. | None | 78or52withRaiments of the Eyeset | 25rune/pure essence | Varrock | Elite
+
+Slayer[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Slay acave bugin theLumbridge Swamp Caves. | None | 7 | Light source,weapon, andrope(if you have never entered the area through the surface ofLumbridge Swampbefore) | Lumbridge & Draynor | Easy
+
+Kill abansheein theSlayer Tower. | None | 15 | None (Earmuffsor aSlayer helmetare highly recommended) | Morytania | Easy
+
+Slay adesert lizard. | None | 22 | Ice cooler | Desert | Medium
+
+Kill aMogreatMudskipper Point. | Skippy and the Mogres | 32 | Fishing explosive | Falador | Medium
+
+Slay abrine rat. | StartedOlaf's Quest | 47 | Anyweapon,spade,food(it is not required to finish the quest to gain access to theBrine Rat Cavern) | Fremennik | Medium
+
+Kill aterror dog. | Haunted Mine,Lair of Tarn Razorlor(miniquest) | 40 | Weaponandarmour. ASlayer ringcan teleport you nearby. | Morytania | Medium
+
+Kill afever spideronBraindeath Island. | Rum Deal | 42 | None (Slayer glovesrecommended) | Morytania | Medium
+
+Kill abloodveldin theWilderness God Wars Dungeon. | None | 50 | Weaponto killBloodveld,God equipmentto keep the gods' followers passive. | Wilderness | Medium
+
+Slay aDust devilin thedesert cavewith aSlayer helmetequipped. | StartedDesert Treasure I | 651055 | Slayer helmet,weaponsandarmour | Desert | Hard
+
+Kill aSkeletal Wyvernin theAsgarnia Ice Dungeon. | None | 72 | Decentweaponsandarmour,ElementalorMind shield, or aDragonfire shieldhighly recommended | Falador | Hard
+
+Be assigned aSlayertask byDuradelinShilo Village. | Shilo Village | 50100 | None | Karamja | Hard
+
+Kill awyrmin theKaruulm Slayer Dungeon. | None | 62 | Combat equipment,boots of stone | Kourend & Kebos | Hard
+
+Kill acave horror. | Cabin Fever | 58 | Witchwood icon,light source | Morytania | Hard
+
+Kill aspiritual warriorin theWilderness God Wars Dungeon. | None | 68 | Weaponto kill aSpiritual warrior,God equipmentto keep the gods' followers passive. | Wilderness | Hard
+
+Slay aSpiritual magewithin theGod Wars Dungeon. | Troll Stronghold | 83 | Combat equipment | Fremennik | Elite
+
+Kill ahydrain theKaruulm Slayer Dungeon. | None | 95 | Combat equipment. Boostscanbe used to kill a standard hydra. | Kourend & Kebos | Elite
+
+Kill anabyssal demonin theSlayer Tower. | None | 85 | Combat equipment | Morytania | Elite
+
+Kill theThermonuclear smoke devil. | None | 93 | Weaponsandarmour. Boostscannotbe used.Slayer task isnotrequired for your first kill. | Western Provinces | Elite
+
+Slay aspiritual mageinside theWilderness God Wars Dungeon. | None | 8360or60 | Weaponto killSpiritual mage,God equipmentto keep god followers passive. | Wilderness | Elite
+
+Smithing[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Smith someBlurite limbsonDoric's anvil. | The Knight's Sword,Doric's Quest | 1310 | Hammer,Blurite barRemember, Doric's anvil is the one located north ofFalador; don't mistake it withThurgo's anvil atMudskipper Point. | Falador | Easy
+
+Craft atiarafrom scratch inRellekka. | The Fremennik Trials | 202320 | Tiara mould, anypickaxe—mine thesilver orefrom theRellekka minelocated on the east side ofRellekka, a few steps north-west of theagility shortcut(aniron pickaxecan be obtained from north of the Rellekka mine).Superheatingwill not work.Note:You have to do this process without doing any other task or stage 2 will not complete and you will have to redo the process. | Fremennik | Easy
+
+Make a batch ofCannonballsat thePort Phasmatysfurnace. | Dwarf Cannon, partial completion ofGhosts Ahoy | 35 | Steel barandammo mould | Morytania | Medium
+
+Smith aGold helmetin theResource Area. | Between a Rock...(partially completed) | 50 | 7,500, 3gold bars, and ahammer.Hint:bring a pickaxe to complete another medium task at the same time.Note:It does not work if you already have agold helmet. You need to drop your helmet first, and then make a new one. | Wilderness | Medium
+
+Smith aDragon sq shieldinWest Ardougne. | Legends' Quest | 60 | Shield left half,shield right half,hammer | Ardougne | Hard
+
+Smith aMithril platebodynearArdougne. | None | 68 | 5Mithril bars,hammer(works atPort Khazard,Yanille, orWest Ardougneanvil) | Ardougne | Hard
+
+Create aMithril platebodyinNardah. | None | 68 | 5Mithril bars,hammer | Desert | Hard
+
+Obtain theBlast Furnace Foreman's permission to use theBlast Furnacefor free. | (Started)The Giant Dwarf | 60 | None. Boostsdo notwork. Must be done through dialogue (chat options 1-3-1) in order to count. | Fremennik | Hard
+
+Smith anadamant spearatOtto's Grotto. | Barbarian Smithing(withTai Bwo Wannai Trioas a prerequisite) | 75 | Yew logs,adamantite bar,hammer | Kandarin | Hard
+
+Smelt anadamantite barinThe Forsaken Tower. | The Forsaken Tower | 70 | Adamantite ore, 6coal | Kourend & Kebos | Hard
+
+Smith anadamant scimitarin theResource Area. | None | 75 | Hammer,7,500(6,000if medium tasks are done), 2adamantite bars | Wilderness | Hard
+
+Make arune crossbowyourself from scratch withinWitchavenorYanille. | None | 911069 | Yew logs,sinew, 1runite bar,hammer,knife.Smithrunite limbsinYanille.Fletch ayew stockin Yanille.Craft acrossbow stringinWitchaven(using tree roots will not count).Use the yew stock with the runite limbs.Use the crossbow string with theRunite crossbow (u). | Ardougne | Elite
+
+Smith arune hastaatOtto's Grotto.(TheBarbarian anvilinBarbarian Villagealso works) | Barbarian Smithing | 90 | Runite bar,magic logs,hammer | Kandarin | Elite
+
+Smith anadamant platebodydownDraynor Sewer. | None | 88 | 5Adamantite bars,hammer | Lumbridge & Draynor | Elite
+
+Smith and fletch tenRune dartswithinVarrock. | The Tourist Trap | 8981 | 1runite bar, 10Feathers,hammer | Varrock | Elite
+
+Smith arune scimitarfrom scratch in theResource Area. | None | 9085 | Anypickaxe,hammer, 16Coaland7,500(3,750if hard tasks are done,6,000with medium).Note:You must mine arunite golemand then smeltboththerunite oreand coal in the resource area for this to work. The 16coaldoes not need to be mined and can be brought with you prior. Superheatdoes not count here!You may leave the resource area to complete this task. Logging out doesnotinterfere with the stages. | Wilderness | Elite
+
+Strength[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Grapple overYanille's south wall. | None | 383921 | Mith grappleand anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Ardougne | Medium
+
+Grapple up and then jump off the northFaladorwall. | None | 371119 | Mith grappleand anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Falador | Medium
+
+Use the grapple shortcut to get from thewater obelisktoCatherbyshore. | None | 223639 | Rope,dusty keyor 70Agility,mith grapple, and anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.)Recommended:Anti-dragon shieldandantipoison.Tip:Take anunpowered orbandrunesforCharge Water Orbfor a hard diary task. | Kandarin | Medium
+
+Grapple across theRiver Lum. | None | 19837 | Mith grappleand anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Lumbridge & Draynor | Medium
+
+Enter theWilderness God Wars Dungeon. | None | 60or60 | None | Wilderness | Medium
+
+Enter theWarriors' Guild. | None | 130combined levelsor99 in either | None | Falador | Hard
+
+Catch aleaping sturgeon. | Barbarian Training - Fishing | 457045 | Barbarian rod,fishing baitorFeathers | Kandarin | Hard
+
+Purchase and equip agranite bodyfromBarbarian Assault. | None | 5050 | Combat equipmentto pass through Waves 1-10 and95,000 | Kandarin | Hard
+
+Use the crossbow shortcut south of the volcano. | None | 215342 | Mith grappleand anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Karamja | Hard
+
+Kill aDeathwingin the dungeon under theKharazi Jungle. | Partial completion ofLegends' Quest(Until you access the cave with the Deathwings) | 5015505052 | Anywoodcutting axe,machete, anypickaxe,lockpick | Karamja | Hard
+
+Kill each of theGod Wars Dungeongenerals. | Troll Stronghold | 70707070 | Combat equipment to kill theGod Wars Dungeongenerals, highstrongly recommended.Boosts cannot be used. You must deal the most damage to the boss in order for the kill to count. See each individual pages for recommended gear/setups.Note:Unlike other similar tasks, kills do not reset upon logging out, hopping worlds, or completing other Achievement Diary tasks. They also do not provide a task update message ("Achievement Diary Stage Task - Current stage: x"). | Fremennik | Elite
+
+Grapple across a pylon on theDorgesh-Kaan Agility Course. | Death to the Dorgeshuun | 707070 | Alight source,mith grapple, and anycrossbowthat you can wield.(Ironmen need59Fletchingand59Smithingto make the grapple from scratch; or to kill one of the NPCs that drop them.) | Lumbridge & Draynor | Elite
+
+Loot theBarrows chestwhile wearing any completeBarrows set. | None | Combat requirement varies per set, see below:70forDharok'sorTorag's70forGuthan'sorVerac's70forKaril's70forAhrim's | Any fullBarrows equipmentset. | Morytania | Elite
+
+Catch asharkinBurgh de Rottwith your bare hands. | In Aid of the Myreque, parts ofBarbarian Training | 7696 | None | Morytania | Elite
+
+Equip any completevoid set. | None | 404222 | Void knight top;Void knight robe;Void knight gloves; andVoid mage,ranger, ormelee helm. | Western Provinces | Elite
+
+Slay aspiritual mageinside theWilderness God Wars Dungeon. | None | 60or60and83 | Weaponto killSpiritual mage,God equipmentto keep god followers passive. | Wilderness | Elite
+
+Thieving[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Steal acakefrom theEast Ardougnemarket stalls. | None | 5 | None | Ardougne | Easy
+
+Open the sarcophagus in the first room ofPyramid Plunder. | StartedIcthlarin's Little Helper | 21 | None | Desert | Easy
+
+Steal from theKeldagrimcrafting or baker's stall. | StartedThe Giant Dwarf | 5 | None | Fremennik | Easy
+
+Steal from aHosidius Fruit Stall. | None | 25 | None | Kourend & Kebos | Easy
+
+Steal from thetea stallinVarrock. | None | 5 | None | Varrock | Easy
+
+Pickpocket themaster farmernorth ofEast Ardougne. | None | 38 | None | Ardougne | Medium
+
+Steal aPhoenix featherfrom theDesert phoenix. | None | 25 | None.Beware:You may already have aPhoenix quill penin your bank fromThe Golemquest, which won't allow you to get another feather. | Desert | Medium
+
+Pickpocket aFaladorguard. | None | 40 | None | Falador | Medium
+
+Steal from theRellekkaFish stalls | The Fremennik Trials | 42 | None | Fremennik | Medium
+
+Steal from the chest inHemenster. | None | 47 | Lockpick. The chest is located in the building between therangeand theanvil. | Kandarin | Medium
+
+PickpocketMartin the Master Gardener. | None | 38 | None | Lumbridge & Draynor | Medium
+
+Attempt to steal fromKing Lathas' chest. | None | 72 | Lockpick | Ardougne | Hard
+
+Knock out andpickpocketaMenaphite Thug. | The Feud | 65 | Anyblackjack | Desert | Hard
+
+Crack awall safewithinRogues' Den. | None | 50 | None, you only need to crack any of theWall safesin the main area (where the bank is); cracking the safes that you can only access by completing themini-gamewill not complete the task. | Falador | Hard
+
+Steal from theKeldagrimGem Stall. | (Started)The Giant Dwarf | 75 | None | Fremennik | Hard
+
+Kill ashadow houndin theShadow Dungeon. | StartedDesert Treasure I | 53 | Ring of visibility,combat equipment | Kandarin | Hard
+
+Kill aDeathwingin the dungeon under theKharazi Jungle. | Partial completion ofLegends' Quest(Until you access the cave with the Deathwings) | 5015505052 | Anywoodcutting axe,machete, anypickaxe,lockpick | Karamja | Hard
+
+Deliver anartefacttoCaptain Khaled. | None | 49 | Lockpick | Kourend & Kebos | Hard
+
+Pickpocket agnome. | Tree Gnome Village | 75 | None | Western Provinces | Hard
+
+Pickpocket ahero. | None | 80 | None | Ardougne | Elite
+
+Attempt to picklock the door to the basement ofYanille Agility dungeon. (Must have hands free, must succeed) | None | 82 | 1lockpick | Ardougne | Elite
+
+Steal from the Grand Gold Chest in the final room ofPyramid Plunder. | StartedIcthlarin's Little Helper | 91 | Thievingcannotbe boosted to get into the level 91 room with the gold chest. | Desert | Elite
+
+Steal from aDorgesh-Kaan rich chest. | Death to the Dorgeshuun | 78 | Lockpick | Lumbridge & Draynor | Elite
+
+Steal from theRogues' chest. | None | 84 | None | Wilderness | Elite
+
+Pickpocket anelf. | Mourning's End Part I | 85 | None | Western Provinces | Elite
+
+Woodcutting[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Chop and burn someoak logsin theFremennik Province. | None | 1515 | Anyaxe,tinderbox | Fremennik | Easy
+
+Chop and burn someoak logsinLumbridge. | None | 1515 | Anyaxe,tinderbox | Lumbridge & Draynor | Easy
+
+Chop someteak logsnearUzer. | None | 35 | Anyaxe | Desert | Medium
+
+Chop and burn somewillow logsinTaverley(can cut and burn willows just south along water). | None | 3030 | AnyWoodcutting axe,tinderbox | Falador | Medium
+
+Chop the vines to gain deeper access toBrimhaven Dungeon. | None | 10 | Anywoodcutting axe,875 | Karamja | Medium
+
+Climb the stairs withinBrimhaven Dungeon. | None | 10 | Anywoodcutting axe,875(Warning:Beware of level 92Greater demonsat the top of the stairs.) | Karamja | Medium
+
+Earn 100% favour in theTai Bwo Wannai Cleanupminigame. | Jungle Potion | 10 | Tai Bwo Wannai Cleanup items | Karamja | Medium
+
+Cut a log from ateak tree. | Jungle Potion | 35 | 100trading sticks(to enterHardwood Grove), anyWoodcutting axeORanymachete, any woodcutting axe (to enterKharazi Jungle) | Karamja | Medium
+
+Cut a log from amahogany tree. | Jungle Potion | 50 | 100trading sticks(to enterHardwood Grove), anyWoodcutting axeORanymachete, any woodcutting axe (to enterKharazi Jungle) | Karamja | Medium
+
+Chop somemahogany logsnorth of theFarming Guild. | None | 50 | Anyaxe | Kourend & Kebos | Medium
+
+Chop somewillow logsinDraynor Village. | None | 30 | Anyaxe | Lumbridge & Draynor | Medium
+
+Obtain somebarkfrom ahollow tree. | None | 45 | AnyWoodcutting axe(fairy ringaccessible by code:ALQ) | Morytania | Medium
+
+Chop and burn someteak logsonApe Atoll. | Monkey Madness I | 3535 | Anyaxe,tinderbox(Note:Barbarian firemakingwill not count toward the task! Do not use abowto burn the logs!)(If you have5050chop and burn somemahogany logsnearby while you're here to complete a hard diary task.) | Western Provinces | Medium
+
+Chop someyew logsfrom anent. | None | 61 | Runeaxeor better—stat boosts do not work. Anentcan be killed just east from theCorporeal Beast's lair, so it is recommended to bring a chargedgames necklace. Killing an ent in theWoodcutting Guilddungeon will not count towards this task. | Wilderness | Medium
+
+Craft aNeitiznot shieldonNeitiznot. | The Fremennik Isles | 56 | Anyaxe, 2arctic pine logs,hammer, 1rope, 1bronze nail.(An axe and hammer can be bought fromNeitiznot.) | Fremennik | Hard
+
+Create ayew longbowfrom scratch aroundSeers' Village. | None | 607010(if crafting your own bowstring) | Anywoodcutting axe,bow string,knife(one spawns south ofSeers' Villagebank) | Kandarin | Hard
+
+Collect 5palm leaves. | Partial completion ofLegends' Quest(Until you accessKharazi Jungle) | 15 | Anywoodcutting axe,machete(Tip:You can pick up and drop the samepalm leaffive times.) | Karamja | Hard
+
+Kill ametal dragoninBrimhaven Dungeon. | None | 3412 | Good combat stats and equipment,875or 5000trading sticks, anywoodcutting axe. Recommended:anti-dragon shieldandantifire potionto negate alldragonfiredamage. | Karamja | Hard
+
+Enter theWoodcutting Guild. | None | 60 | None | Kourend & Kebos | Hard
+
+Travel fromLumbridgetoEdgevilleon awaka canoe. | None | 57 | Anyaxe | Lumbridge & Draynor | Hard
+
+Chop and burn somemahogany logsonMos Le'Harmless. | Cabin Fever | 5050 | AnyWoodcutting axeandtinderbox(a bowcannotbe used).Witchwood iconrecommended while traversing theMos Le'Harmless Cavealong with anylight source. | Morytania | Hard
+
+Make aWaka canoenearEdgeville. | None | 57 | Any woodcuttingaxe | Varrock | Hard
+
+Chop someyew logsinVarrockand burn them at the top of the Varrock church. | None | 6060 | Any woodcuttingaxe,tinderbox.Barbarian firemakingdoes not work. Players must chop theyew treenext to theVarrockchurch, behindVarrock Palace. Use the church in the north-east corner of the city. | Varrock | Hard
+
+Collect at least 2yew rootsfrom thetree patchinVarrock Palace. (If boosting, make sure to boost when digging up theyew tree, not when planting!) | None | 6068[a] | Yew sapling, (10Cactus spinesrecommended), any woodcuttingaxe,spade | Varrock | Hard
+
+Chop and burn somemahogany logsonApe Atoll. | Monkey Madness I | 5050 | AnyWoodcutting axe,tinderbox | Western Provinces | Hard
+
+Find at least 3magic rootsat once when digging up yourmagic treeinFalador. | None | 7591 | Magic seed,Spade, anyWoodcutting axe | Falador | Elite
+
+Chop someredwood logs. | None | 90 | Anyaxe | Kourend & Kebos | Elite
+
+Chop somemagic logsat theMage Training Arena. | None | 75 | Anyaxe | Lumbridge & Draynor | Elite
+
+Cut and burn somemagic logsin theResource Area. | None | 7575 | AnyWoodcutting axe,tinderbox, 6000 coins if the Wilderness medium diary is done, 3750 coins if the Wilderness hard diary is done (or else bring 7500). You cannot use a shortbow to light the magic log (Barbarian firemaking) to finish this task. | Wilderness | Elite
+
+Quest points[edit|edit source]
+
+Task | Quest(s) required | Skill(s) required | Items required | Diary | Difficulty
+
+Recharge somejewelleryat the Totem pole in theLegends' Guild. | Legends' Quest | 107Quest points(forLegends' Quest) | Either an unchargedskills necklaceorcombat bracelet | Ardougne | Hard
+
+Smith aDragon sq shieldinWest Ardougne. | Legends' Quest | 107Quest points(forLegends' Quest)60 | Shield left half,shield right half,hammer | Ardougne | Hard
+
+Purchase someBarrows glovesfrom theCulinaromancer's Chest. | Recipe for Disaster(full completion) | 175Quest points(8 of which you will receive by releasing all the trapped characters and 79 of which you will have simply by having completed all required quests.)Seequestrequirements. | 130,000 | Lumbridge & Draynor | Hard
+
+Perform aCape of AccomplishmentorQuest point capeemote at the top ofWhite Knights' Castle. | None, or completed allquests | 321Quest pointsor any99Skill | Cape of AccomplishmentorQuest point cape(Cabbage capeormax capewill not work) | Falador | Elite
+
+Perform theQuest point capeemote in theWise Old Man's house. | AllQuests | 321Quest pointsSee here. | Quest point cape | Lumbridge & Draynor | Elite
+
+Gallery[edit|edit source]
+
+The Easy diary set on body type A.The Easy diary set on body type B.The Medium diary set on body type A.The Medium diary set on body type B.The Hard diary set on body type AThe Hard diary set on body type BThe Elite diary set on body type AThe Elite diary set on body type BAn extremely early concept of the easy set shown at Runefest 2014.
+

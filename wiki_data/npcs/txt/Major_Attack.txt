@@ -1,0 +1,2 @@
+Item: Major Attack
+Summary: Major Attack is a non-interactive character seen during the Barbarian Assault tutorial. He represents the Attacker role and wears the attacker icon around him.

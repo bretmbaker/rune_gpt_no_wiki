@@ -1,0 +1,59 @@
+[Weapon: Diamond Necklace]
+
+
+ADiamond necklaceis made by using agold bar, adiamond, and anecklace mouldon afurnace. This requires level 56Craftingand gives 90 Craftingexperience.
+A diamond necklace can be enchanted into aphoenix necklaceby using theLvl-4 Enchantspell. This requires level 57Magic, onecosmic rune, and tenearth runes.
+
+
+[Infobox]
+Released: 8 May2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I wonder if this is valuable.
+General Store Value: 3,675 coins
+High alch: 2,205 coins
+Low alch: 1,470 coins
+Weight: 0.01 kg
+Grand Exchange Value: 1,999 coins
+Grand Exchange Daily Buy Limit: 18,000
+Grand Exchange Daily Trades Volume: 972,113
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Casket (Reward pool) | N/A | 3–4(noted) | 9/230 | 
+Casket (Reward pool) | N/A | 4–8(noted) | 1/230 | 
+Chest (stealing valuables) | 50 | 1 | 1/6,250 | 
+Jewellery case (stealing valuables) | 50 | 1 | 1/6,250 | 
+Small chest | N/A | 1 | 2/150 | 
+Wardrobe (stealing valuables) | 50 | 1 | 1/6,250 | 

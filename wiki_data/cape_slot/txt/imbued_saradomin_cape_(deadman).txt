@@ -1,0 +1,45 @@
+[Weapon: Imbued Saradomin Cape (Deadman)]
+
+
+TheDeadman imbued Saradomin capeis an ornamented variant of theimbued Saradomin cape, made by givingNigelanArmageddon cape fabricto unlock the god cape transformations, and using the cape on him.
+This process can be undone by speaking to Nigel, returning the original cape back.
+
+
+[Infobox]
+Released: 17 July2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A cape from the almighty god Saradomin, imbued with great power.
+General Store Value: 80,000 coins
+Alchemy: Not alchemisable
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +3
+- Crush: +3
+- Magic: +15
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +2%
+- Prayer: +0
+
+Slot: Cape slot

@@ -1,0 +1,90 @@
+[Weapon: Infinity Boots]
+
+
+Infinity bootsaremagicalboots with the second highest Magic attack bonus available, below theEternal boots. They have the second highest Magic defence bonus in the game, alongside thesilly jester boots,bloodbark boots,pegasian boots, andboots of brimstone. They require 50 Magic and 25Defenceto equip.
+They can be obtained by playing theMage Training Arenaminigamefor:
+
+
+[Infobox]
+Released: 4 January2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Mystical boots.
+General Store Value: 12,000 coins
+High alch: 7,200 coins
+Low alch: 4,800 coins
+Weight: 0.453 kg
+Grand Exchange Value: 340,571 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 2,857
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Adamant dragon/Strategies(Magic)
+2 | Adamant dragon/Strategies(Magic)
+2 | Ancient Wyvern/Strategies(Magic)
+3 | Barbarian Assault/Strategies(Magic)
+2 | Barrows/Strategies(Magic equipment)
+2 | Commander Zilyana/Strategies(Magic)
+5 | Deranged archaeologist/Strategies(Magic)
+2 | General Graardor/Strategies(Solo (Magic))
+2 | Giant Mole/Strategies(Magic)
+2 | Hespori/Strategies(Mage)
+2 | K'ril Tsutsaroth/Strategies(Magic)
+2 | Kalphite Queen/Strategies(Max Mage (0 switches))
+1 | Kalphite Queen/Strategies(Flinching)
+2 | Kraken/Strategies(Magic)
+2 | Kree'arra/Strategies(Magic)
+4 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+4 | Maniacal monkey/Strategies(Magic - Ice Burst)
+2 | Metal dragons/Strategies(Magic)
+2 | The Mimic/Strategies(Magic)
+2 | Mithril dragon/Strategies(Magic)
+2 | Nightmare Zone/Strategies(Magic)
+3 | Phantom Muspah/Strategies(Magic & Ranged)
+3 | Rune dragon/Strategies(Magic)
+2 | Scurrius/Strategies(Magic (high level))
+2 | Skeletal Wyvern/Strategies(Magic)
+5 | Skeleton (Ape Atoll)(Magic)
+2 | Slayer task/Fossil Island wyverns(Magic)
+2 | Slayer task/Trolls(Magic (Ice trolls))
+3 | Slayer training(Magic (Barrage))
+2 | Smoke devil/Strategies
+2 | The Bane of Demons(Magic)
+2 | Thermonuclear smoke devil/Strategies(Magic)
+2 | Tormented Demon/Strategies(Magic switch)
+3 | TzHaar Fight Cave/Strategies(Magic)
+1 | Ultimate Ironman Guide/Equipment
+2 | The Whisperer/Strategies(Magic)
+2 | Zulrah/Strategies(Magic)

@@ -1,0 +1,47 @@
+[Weapon: Skeleton Gloves]
+
+
+TheSkeleton glovesare an untradeable cosmetic item. They are part of theskeleton outfit, which can be obtained by completing one of theHalloweenholiday eventsthat occur once per year.
+Previously, they were obtainable during the2013 Rare Dropsevent (from24 Juneto1 July) as part of arare item drop.
+
+
+[Infobox]
+Released: 30 October2006(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: Some skeletal gloves.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

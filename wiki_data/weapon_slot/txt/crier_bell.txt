@@ -1,0 +1,62 @@
+[Weapon: Crier Bell]
+
+
+Thecrier bellis a rare reward frommediumTreasure Trails, and is a part of thecrier outfit. It provides negative attack bonuses as it is intended to be cosmetic. Players can use it to perform an emote of ringing the bell.
+This item can be stored in thetreasure chestof acostume room, as part of thecrier outfitset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Ring, Drop
+Worn options: Ring
+Examine: For whom?
+General Store Value: 5,000 coins
+High alch: 3,000 coins
+Low alch: 2,000 coins
+Weight: 0.453 kg
+Grand Exchange Value: 3,439 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 54
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -50
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 

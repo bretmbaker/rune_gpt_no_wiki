@@ -1,0 +1,56 @@
+[Weapon: Ring Of 3Rd Age]
+
+
+Thering of 3rd agecan be obtained as a drop fromThe Mimic. It can change the model of the player to look like various3rd age equipment.
+While this effect is active, the player cannot move, or it will end. If another player right clicks on the image of the equipment, the normal options will appear (i.e. "Walk here Username", "Follow Username", etc.)
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: No
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Makes you look like something really old, for those moments when you want that.
+General Store Value: 12,000 coins
+High alch: 7,200 coins
+Low alch: 4,800 coins
+Weight: 0.005 kg
+Grand Exchange Value: 4,461,900 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 186
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Mimic | 186 | 1 | 1/38–1/44 | 
+Reward casket (elite)Mimic bonus | N/A | 1 | 1/41.8;1/44 | 
+Reward casket (master)Mimic bonus | N/A | 1 | 1/38;1/40 | 

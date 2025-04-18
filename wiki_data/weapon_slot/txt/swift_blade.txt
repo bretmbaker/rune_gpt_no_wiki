@@ -1,0 +1,57 @@
+[Weapon: Swift Blade]
+
+
+TheSwift bladeis a one-handed weapon purchased fromJustine's stuff for the Last Shopper Standingfor 350Last Man Standingpoints.
+Much like thegoblin paint cannonandham joint, it has no bonuses, but has anattack speedof 3.
+
+
+[Infobox]
+Released: 29 August2019(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A dull blade that moves at incredible speed.
+General Store Value: 1,500 coins
+High alch: 900 coins
+Low alch: 600 coins
+Weight: 1.814 kg
+Grand Exchange Value: 10,865,568 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 111
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 3 ticks (1.8s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence

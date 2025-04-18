@@ -1,0 +1,54 @@
+[Weapon: Black Wizard Robe (T)]
+
+
+TheBlack wizard robe (t)is a possible reward fromeasyTreasure Trails, and is part of theblack trimmed wizard robes. It has the exact same stats as a normalwizard robe, but the main colour is black, with a white trim on the sides.
+Unlike the regular robe, it cannot be combined withBlue dyeto try to create aBlue wizard robe (t).
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I can do magic better in this.
+General Store Value: 15 coins
+High alch: 9 coins
+Low alch: 6 coins
+Weight: 0.907 kg
+Grand Exchange Value: 67,230 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 168
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 1/1,404 | 

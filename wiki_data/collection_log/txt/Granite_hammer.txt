@@ -1,0 +1,4 @@
+Item: Granite hammer
+Summary: The granite hammer is a warhammer dropped by the Grotesque Guardians that can be found on the Slayer Tower's rooftop. Level 50 Attack and 50 Strength is required to wield it.
+Sources:
+- Grotesque Guardians (Level , Quantity: 1, Rarity: 2 × 1/750)

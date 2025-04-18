@@ -1,0 +1,1 @@
+AResearch packageis an item that players must deliver toAuburyin the questRune Mysteries. It is obtained fromArchmage Sedridor. If a player dies while having the research package in their inventory, Sedridor will give the player a replacement.

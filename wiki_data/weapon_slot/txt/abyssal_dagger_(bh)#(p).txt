@@ -1,0 +1,59 @@
+[Weapon: Abyssal Dagger (Bh)#(P)]
+
+
+Theabyssal dagger (bh)is a weapon that requires level 70 inAttackto wield. It is created by using anabyssal dagger imbue scrollon anabyssal dagger, which is purchased as a reward fromBounty Hunter. As with mostdaggers, it can bepoisoned.
+In comparison to the regular dagger, the imbued dagger has a +10 increased stab bonus, and the special attack's 15% damage reduction is reduced to 5%, though the cost is raised to 35% of the special bar from the original 25%.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle, Drop
+Examine: Something sharp from the body of a defeated Abyssal Sire.
+General Store Value: 115,001 coins
+High alch: 69,000 coins
+Low alch: 46,000 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +85
+- Slash: +40
+- Crush: -4
+- Magic: +1
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +1
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +75
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performs the abyssal dagger's special attack,Abyssal Puncture.
+The abyssal dagger (bh) has aspecial attack,Abyssal Puncture, which hits twice in quick succession with a 25% increase in accuracy and 5% reduced damage, consuming 35% of the player's special attack energy. A single attack roll is performed, meaning that either both hits are successful, or both hits miss. The damage calculation rolls against the opponent's slash defence.

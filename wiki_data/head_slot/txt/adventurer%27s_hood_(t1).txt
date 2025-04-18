@@ -1,0 +1,45 @@
+[Weapon: Adventurer%27S Hood (T1)]
+
+
+Thetier 1 adventurer's hoodis an item that is part of thetier 1 adventurer's outfit, which can be purchased for 200Quest Speedrunningreward points from theSpeedrunning Reward Shop.
+This item can be stored in thearmour caseof acostume room, as part of theAdventurer's outfit (tier 1).Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 12 October2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: The headgear of an adventurer.
+General Store Value: 50 coins
+Alchemy: Not alchemisable
+Weight: 0.4 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

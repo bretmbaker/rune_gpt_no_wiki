@@ -1,0 +1,195 @@
+[Minigame: Trading_sticks]
+
+Trading sticks
+
+
+
+
+
+
+
+Released | 9 August2005(Update)
+
+Members | Yes
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | Yes
+
+Noteable | No
+
+Options | Drop
+
+Examine | Karamja currency.
+
+
+
+Values
+
+
+
+Value | 1 coin
+
+High alch | 0 coins
+
+Low alch | 0 coins
+
+Weight | 0 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 10coins (info)
+
+Buy limit | 18,000
+
+Daily volume | 1,284,952
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 6306
+
+Link | MOID
+
+
+
+Trading sticksare the main currency of the jungle village ofTai Bwo WannaionKaramja. They can be received by participating in theTai Bwo Wannai Cleanupminigame, selling items toGabooty's Tai Bwo Wannai Cooperative, or killing Karamja-related monsters such asjogres.
+
+Acquiring trading sticks[edit|edit source]
+
+Players receive favour with the villagers of Tai Bwo Wannai by participating in theTai Bwo Wannai Cleanupminigame. If players talk to the villagers and tell them they've done some work, they will give the player some trading sticks in exchange for some of the player's favour. Wearing pieces of thevillager clothingset will cause the villagers to give you more trading sticks at once in exchange for favour. This is the most efficient way to get trading sticks since players can also train several skills while playing the minigame.
+
+Note: Players need to have repaired the fence in the village and then spoken toMurcailybefore the villagers will have the option to give them trading sticks.
+
+Players can mine semi-precious gems such asOpal,JadeandRed Topazor buy them from theGrand Exchangeand sell it toGabootyfor trading sticks if one doesn't want to doTai Bwo Wannai Cleanup. BuyingJadefrom theGrand Exchangeresults in the best trading sticks exchange rate. Mining theShilo Village Gem rocksfor semi-precious gems and selling them to Gabooty is the fastest way to obtain trading sticks for Ironmen.
+
+He will purchase the following from players:
+
+Item | Price bought at | GE Price | per 1
+
+Default | Diary | Default | Diary
+
+ | Gout tuber | 120 | 160 | 535,264 | 4,460.53 | 3,345.40
+
+ | Uncut opal | 12 | 16 | 136 | 11.33 | 8.50
+
+ | Opal | 60 | 80 | 198 | 3.30 | 2.48
+
+ | Uncut jade | 18 | 24 | 112 | 6.22 | 4.67
+
+ | Jade | 90 | 120 | 192 | 2.13 | 1.60
+
+ | Uncut red topaz | 24 | 32 | 1,442 | 60.08 | 45.06
+
+ | Red topaz | 120 | 160 | 1,679 | 13.99 | 10.49
+
+Note:Players must have their Karamja Gloves equipped to receive the increased amount of trading sticks.
+
+Uses[edit|edit source]
+
+The Village Shop[edit|edit source]
+
+Gabooty'sshopis located within the fenced area of Tai Bwo Wannai. Players can trade for premade gnome cocktails, villager clothes, gemmachetes, semi-preciousgems(opal,jade,red topaz), andgout tubers. By default, the shop does not have any gems or gout tubers in stock.
+
+Hardwood Grove[edit|edit source]
+
+Players can pay 100 trading sticks to access theHardwood Grove, an enclosed area near the eastern end of the village containingmahoganyandteaktrees.
+
+Rionasta's Parcel Service[edit|edit source]
+
+Players can, for a fee of 10 trading sticks per item, ship items from their inventory to their bank viaRionasta. This is particularly handy when cutting wood in the Hardwood grove, playing the Tai Bwo Wannai Cleanup minigame or banking loot obtained fromBrimhaven DungeonviaBanisoch's entrance.
+
+No forms of currency can be shipped using this method.
+
+Banisoch[edit|edit source]
+
+5000 trading sticks can be used as a one-time payment toBanisochto access a shortcut to themetal dragonarea of theBrimhaven Dungeon. These can be bought on the GE for50,000.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+HobgoblinUnarmed | 28 | 1 | 1/128 | 
+
+HobgoblinUnarmed | 28 | 5 | 12/128 | 
+
+HobgoblinUnarmed | 28 | 15 | 16/128 | 
+
+HobgoblinUnarmed | 28 | 28 | 16/128 | 
+
+HobgoblinUnarmed | 28 | 42 | 3/128 | 
+
+HobgoblinUnarmed | 28 | 62 | 4/128 | 
+
+Jogre | 53; 58 | 22 | 27/129 | 
+
+Tribesman | 32 | 15 | 25/138 | 
+
+Tribesman | 32 | 62 | 5/138 | 
+
+Tribeswoman | 32 | 15 | 25/138 | 
+
+Tribeswoman | 32 | 62 | 5/138 | 
+
+Gallery[edit|edit source]
+
+1 trading stick10 trading sticks100 trading sticks1,000 trading sticks10,000 trading sticks
+
+v•t•eCurrencies
+
+Tradeable | CoinsArchery ticketsNumulitesPlatinum tokensTrading sticks
+
+Untradeable | Agility arena ticketsAnima-infused barkAbyssal pearlsBarronite shardsBlood moneyBrimhaven voucherCastle wars ticketsEcto-tokensFrog tokensGolden nuggetsGlistening tearsHallowed marksMarks of graceMolch pearlsMermaid's tearsParamaya ticketsReward tokenStardustTermitesTokkulUnidentified mineralsWarrior guild tokens
+
+Virtual | Aga resinBounty Hunter pointsCarpenter pointsFoundry ReputationHonour pointsLast Man Standing pointsLeague PointsLye resinMox resinNightmare Zone reward pointsPieces of eightPizazz pointsPlauditsSlayer reward pointsQuest Speedrunning pointsVoid Knight commendation pointsZeal Tokens
+
+Discontinued | Survival tokensBounty Hunter pointsAgility arena ticket (discontinued)
+
+v•t•eTai Bwo Wannai Cleanup
+
+NPCs | FanellamanGabootyJagbakobaKaradayLayleenMamma BufettaMurcailyRionastaSafta DocSharimika
+
+Enemies | Broodoo victimTribesmanBush snakeLarge mosquitoMosquito swarmJungle spider
+
+Items | Gameplay ItemsMachetesNormalOpalJadeRed topazThatch sparLightMediumDenseSkewer stickLootTribal masksCombatPoisonDiseaseBroodoo shieldsCombatPoisonDiseaseTrading sticksGout tuberGemsProboscisSnake hideSpider carcassSpider on shaftSpider on stick | Gameplay Items | MachetesNormalOpalJadeRed topazThatch sparLightMediumDenseSkewer stick | Machetes | NormalOpalJadeRed topaz | Thatch spar | LightMediumDenseSkewer stick | Loot | Tribal masksCombatPoisonDiseaseBroodoo shieldsCombatPoisonDiseaseTrading sticksGout tuberGemsProboscisSnake hideSpider carcassSpider on shaftSpider on stick | Tribal masks | CombatPoisonDisease | Broodoo shields | CombatPoisonDisease |  | Trading sticksGout tuberGemsProboscisSnake hideSpider carcassSpider on shaftSpider on stick
+
+Gameplay Items | MachetesNormalOpalJadeRed topazThatch sparLightMediumDenseSkewer stick | Machetes | NormalOpalJadeRed topaz | Thatch spar | LightMediumDenseSkewer stick
+
+Machetes | NormalOpalJadeRed topaz
+
+Thatch spar | LightMediumDenseSkewer stick
+
+Loot | Tribal masksCombatPoisonDiseaseBroodoo shieldsCombatPoisonDiseaseTrading sticksGout tuberGemsProboscisSnake hideSpider carcassSpider on shaftSpider on stick | Tribal masks | CombatPoisonDisease | Broodoo shields | CombatPoisonDisease |  | Trading sticksGout tuberGemsProboscisSnake hideSpider carcassSpider on shaftSpider on stick
+
+Tribal masks | CombatPoisonDisease
+
+Broodoo shields | CombatPoisonDisease
+
+ | Trading sticksGout tuberGemsProboscisSnake hideSpider carcassSpider on shaftSpider on stick
+
+Other | Light JungleMedium JungleDense JungleHardwood GroveGabooty's Tai Bwo Wannai CooperativeGabooty's Tai Bwo Wannai Drinky Store

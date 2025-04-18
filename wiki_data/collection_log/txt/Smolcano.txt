@@ -1,0 +1,4 @@
+Item: Smolcano
+Summary: 
+Sources:
+- Zalcano (Level 336, Quantity: 1, Rarity: 1/2,250)

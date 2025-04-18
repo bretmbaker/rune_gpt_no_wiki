@@ -1,0 +1,119 @@
+[Spell: Lvl-7_Enchant]
+
+Lvl-7 Enchant
+
+
+
+
+
+
+
+Released | 6 May2016(Update)
+
+Members | Yes
+
+Level | 93
+
+Spellbook | Standard
+
+Type | Utility
+
+Experience | 110
+
+Runes | 20120
+
+Casting speed | 3 ticks (7 on autocast)
+
+Description | For use on zenyte jewellery
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Lvl-7 Enchantis autility spellin thestandard spellbook, requiring level 93Magicto cast. The spell enchantszenytejewellery, granting 110 Magic experience when doing so.
+
+Unlike other enchanting spells, this spell does not have amagic tabletequivalent that can be made.
+
+List of items[edit|edit source]
+
+Unenchanted | Enchanted | Profit[e 1]
+
+Item | GEprice | Item | GEprice
+
+ | Zenyte ring | 21,439,390 |  | Ring of suffering | 23,425,763 | 1,976,049
+
+ | Zenyte necklace | 22,334,148 |  | Necklace of anguish | 23,627,041 | 1,282,569
+
+ | Zenyte bracelet | 21,202,837 |  | Tormented bracelet | 23,603,202 | 2,390,041
+
+ | Zenyte amulet | 17,878,629 |  | Amulet of torture | 23,634,019 | 5,745,066
+
+Cost[edit|edit source]
+
+Input | Cost
+
+20201 | 10,324
+
+v•t•eUtility spells
+
+Standard | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxCharge OrbWaterEarthFireAirOtherLow Level AlchemyHigh Level AlchemyTelekinetic GrabSuperheat ItemBones to BananasBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Charge Orb | WaterEarthFireAir | Other | Low Level AlchemyHigh Level AlchemyTelekinetic GrabSuperheat ItemBones to BananasBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Charge Orb | WaterEarthFireAir
+
+Other | Low Level AlchemyHigh Level AlchemyTelekinetic GrabSuperheat ItemBones to BananasBones to Peaches
+
+Arceuus | ReanimationBasicAdeptExpertMasterOfferingDemonicSinisterOtherShadow VeilVile VigourDegrimeResurrect CropsDeath Charge | Reanimation | BasicAdeptExpertMaster | Offering | DemonicSinister | Other | Shadow VeilVile VigourDegrimeResurrect CropsDeath Charge
+
+Reanimation | BasicAdeptExpertMaster
+
+Offering | DemonicSinister
+
+Other | Shadow VeilVile VigourDegrimeResurrect CropsDeath Charge
+
+Lunar | Bake PieGeomancyCure PlantNPC ContactHumidifyHunter KitSpin FlaxSuperglass MakeTan LeatherString JewelleryMagic ImbueFertile SoilPlank MakeRecharge DragonstoneSpellbook Swap
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

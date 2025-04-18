@@ -1,0 +1,2 @@
+Item: Ghast
+Summary: Ghasts are lingering souls of people that starved to death in Mort Myre swamp. When they first appear they are invisible and have no combat level, and try to turn food into useless rotten food; if players have no food they will do damage instead. Upon completion of the easy Morytania Diary, ghasts will have a 50% chance of ignoring the player rather than attacking. Building the Fire of Dehumidification in the area stops these attacks (requires the completion of Making Friends with My Arm).

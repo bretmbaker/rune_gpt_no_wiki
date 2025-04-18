@@ -1,0 +1,2 @@
+Item: Duck (Common)
+Summary: Ducks are non-interactive, non-player characters typically found near rivers or lakes. Common ducks will attempt to flee players that approach them.

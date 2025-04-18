@@ -1,0 +1,74 @@
+Name: Market Guard
+Combat Level: 48
+Size: 1x1
+Info:
+- Description: Keeps the stalls secure.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3949
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Steel warhammer (1/128)
+- Black warhammer (1/128)
+- Fremennik helm (1/128[d 1])
+- Fremennik blade (1/128[d 1])
+- Fremennik shield (1/128[d 1])
+- Grimy guam leaf (1/256)
+- Grimy marrentill (1/341.3)
+- Grimy tarromin (1/455.1)
+- Grimy harralander (1/585.1)
+- Grimy ranarr weed (1/744.7)
+- Grimy irit leaf (1/1,024)
+- Grimy avantoe (1/1,365.3)
+- Grimy kwuarm (1/1,638.4)
+- Grimy cadantine (1/2,048)
+- Grimy lantadyme (1/2,730.7)
+- Grimy dwarf weed (1/2,730.7)
+- Bucket of water (1/128)
+- Bear fur (1/128)
+- Tin ore (1/128)
+- Raw sardine (1/128)
+- Beer (1/128)
+- Ring mould (1/128)
+- Nothing (1/256.47; Never[d 1])
+- Uncut sapphire (1/512; 1/260[d 2])
+- Uncut emerald (1/1,024; 1/520[d 2])
+- Uncut ruby (1/2,048; 1/1,040[d 2])
+- Uncut diamond (1/8,192; 1/4,160[d 2])
+- Nature talisman (1/5,461.33; 1/2,773.33[d 2])
+- Loop half of key (1/16,384; 1/8,320[d 2])
+- Tooth half of key (1/16,384; 1/8,320[d 2])
+- Rune javelin (1/16,384; 1/8,320[d 2])
+- Rune spear (1/262,144; 1/15,600[d 2][d 3])
+- Shield left half (1/524,288; 1/31,200[d 2][d 3])
+- Dragon spear (1/699,050.67; 1/41,600[d 2][d 3])
+- Clue scroll (medium) (1/128[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 50
+Attack: 40
+Strength: 40
+Defence: 40
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

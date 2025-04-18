@@ -1,0 +1,63 @@
+Name: Warped Tortoise
+Combat Level: 121
+Size: 3x3
+Info:
+- Description: What a horrible looking thing.
+
+Slayer Info:
+- Required Level: 56
+- Slayer XP: 200 xp
+- Category: Warped Creatures
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 12490
+- Link: MOID
+
+Location:
+- Area: Poison Waste Dungeon - main level
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Rune pickaxe (1/64)
+- Rune kiteshield (1/64)
+- Rune warhammer (1/64)
+- Nothing (1/42.74; Never[d 1])
+- Uncut sapphire (1/85.33; 1/43.33[d 2])
+- Uncut emerald (1/170.67; 1/86.67[d 2])
+- Uncut ruby (1/341.33; 1/173.33[d 2])
+- Uncut diamond (1/1,365.33; 1/693.33[d 2])
+- Nature talisman (1/910.22; 1/462.22[d 2])
+- Loop half of key (1/2,730.67; 1/1,386.67[d 2])
+- Tooth half of key (1/2,730.67; 1/1,386.67[d 2])
+- Rune javelin (1/2,730.67; 1/1,386.67[d 2])
+- Rune spear (1/43,690.67; 1/2,600[d 2][d 3])
+- Shield left half (1/87,381.33; 1/5,200[d 2][d 3])
+- Dragon spear (1/116,508.44; 1/6,933.33[d 2][d 3])
+- Long bone (1/400)
+- Curved bone (1/5,012.5)
+- Warped sceptre (uncharged) (1/320[1])
+- Brimstone key (1/76[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 200
+Attack: 78
+Strength: 106
+Defence: 78
+Magic: 50
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

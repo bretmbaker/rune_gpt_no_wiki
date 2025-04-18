@@ -1,0 +1,45 @@
+[Weapon: Helm Of Neitiznot (Or)]
+
+
+Thehelm of Neitiznot (or)is a cosmetic variant of thehelm of Neitiznotwith abounty hunter ornament kitadded to it.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle
+Examine: A gift from Neitiznot's Burgher.
+General Store Value: 51,000 coins
+High alch: 30,600 coins
+Low alch: 20,400 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +31
+- Slash: +29
+- Crush: +34
+- Magic: +3
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +3
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Head slot

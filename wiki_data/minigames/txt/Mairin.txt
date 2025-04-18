@@ -1,0 +1,125 @@
+[Minigame: Mairin]
+
+Mairin
+
+
+
+
+
+
+
+Released | 7 September2017(Update)
+
+Members | Yes
+
+Race | Mermaid
+
+Location | Underwater
+
+Leagueregion | Misthalin✓
+
+Shop | Mairin's Market
+
+Gender | Female
+
+Options | Talk-to, Trade, Training
+
+Examine | There's somefin fishy about her.
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+NPC ID | 7784
+
+Link | MOID
+
+
+
+Mairinis a mermaid located in theunderwatersection ofFossil Island. She runs amarketwhich sells a variety ofunderwater-related items, bought withmermaid's tears. She can also train the player'sAgilityandThievingin exchange forglistening tears. If players exchange them for experience with more than 700 glistening tears in the inventory, the excess will bediscarded. Both tears are obtained by searching chests and clams in themermaid's domain.
+
+Mairin objects tofishbowl helmetsand does not allow players to use them when talking to her or when going to the mermaid's domain, as her sister was once trapped in a fishbowl helmet by humans.
+
+Stock[edit|edit source]
+
+Item | Numberin stock | Restocktime | Pricesold at | GEprice
+
+ | Unidentified small fossil | 100 | 6s (10t) | 100 | Not sold
+
+ | Unidentified medium fossil | 100 | 6s (10t) | 200 | Not sold
+
+ | Unidentified large fossil | 100 | 6s (10t) | 300 | Not sold
+
+ | Merfolk trident | 10 | 6s (10t) | 400 | 2,269,584
+
+ | Seaweed spore | 100 | 6s (10t) | 20 | 286
+
+ | Bowl of fish | 100 | 1m  (100t) | 30 | Not sold
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.
+
+v•t•eFossil Island
+
+Museum Camp | Fossil StorageFossil Island bankFossil Island General StoreNotice boardNPCsCharlesDavidDogFossil CollectorJardricPeterJohnJohnMattimeoPetrified PeteShop keeperItemsFossil Island fossilsNumuliteSceneryBroken spinning wheel(built)Chest pieces(built)Fire pit(built)Half-built Loom(built)Ring of Stones(built)Table parts(built) |  | Fossil StorageFossil Island bankFossil Island General StoreNotice board | NPCs | CharlesDavidDogFossil CollectorJardricPeterJohnJohnMattimeoPetrified PeteShop keeper | Items | Fossil Island fossilsNumulite | Scenery | Broken spinning wheel(built)Chest pieces(built)Fire pit(built)Half-built Loom(built)Ring of Stones(built)Table parts(built)
+
+ | Fossil StorageFossil Island bankFossil Island General StoreNotice board
+
+NPCs | CharlesDavidDogFossil CollectorJardricPeterJohnJohnMattimeoPetrified PeteShop keeper
+
+Items | Fossil Island fossilsNumulite
+
+Scenery | Broken spinning wheel(built)Chest pieces(built)Fire pit(built)Half-built Loom(built)Ring of Stones(built)Table parts(built)
+
+Mushroom Forest | Mycelium poolWyvern CaveNPCsAncient ZygomiteIreneHerbiboarMazSquirrelWeveAmmonite CrabItemsPyrophosphiteCalcite |  | Mycelium poolWyvern Cave | NPCs | Ancient ZygomiteIreneHerbiboarMazSquirrelWeveAmmonite Crab | Items | PyrophosphiteCalcite
+
+ | Mycelium poolWyvern Cave
+
+NPCs | Ancient ZygomiteIreneHerbiboarMazSquirrelWeveAmmonite Crab
+
+Items | PyrophosphiteCalcite
+
+Tar Swamp | BellshroomSulliuscepSpine mushroomNPCsHoop SnakeCharles CharlingtonTar MonsterDeranged archaeologistItemsHoop snakeSulliuscep capUncooked mushroom pieMushroom pieBreadcrumbsArchaeologist's diary |  | BellshroomSulliuscepSpine mushroom | NPCs | Hoop SnakeCharles CharlingtonTar MonsterDeranged archaeologist | Items | Hoop snakeSulliuscep capUncooked mushroom pieMushroom pieBreadcrumbsArchaeologist's diary
+
+ | BellshroomSulliuscepSpine mushroom
+
+NPCs | Hoop SnakeCharles CharlingtonTar MonsterDeranged archaeologist
+
+Items | Hoop snakeSulliuscep capUncooked mushroom pieMushroom pieBreadcrumbsArchaeologist's diary
+
+Fossil Island Volcano | Volcanic MinePetrified Pete's Ore ShopNPCsLava beastPetrified PeteItemsSoda ashVolcanic ashVolcanic mine teleportCalcitePyrophosphiteIron ore fragmentSilver ore fragmentCoal fragmentGold ore fragmentMithril ore fragmentAdamantite ore fragmentRunite ore fragmentLarge rockAsh covered tomeHeat-proof vesselOre packDragon pickaxe (broken)SceneryAsh pileBoulder (Volcanic Mine) |  | Volcanic MinePetrified Pete's Ore Shop | NPCs | Lava beastPetrified Pete | Items | Soda ashVolcanic ashVolcanic mine teleportCalcitePyrophosphiteIron ore fragmentSilver ore fragmentCoal fragmentGold ore fragmentMithril ore fragmentAdamantite ore fragmentRunite ore fragmentLarge rockAsh covered tomeHeat-proof vesselOre packDragon pickaxe (broken) | Scenery | Ash pileBoulder (Volcanic Mine)
+
+ | Volcanic MinePetrified Pete's Ore Shop
+
+NPCs | Lava beastPetrified Pete
+
+Items | Soda ashVolcanic ashVolcanic mine teleportCalcitePyrophosphiteIron ore fragmentSilver ore fragmentCoal fragmentGold ore fragmentMithril ore fragmentAdamantite ore fragmentRunite ore fragmentLarge rockAsh covered tomeHeat-proof vesselOre packDragon pickaxe (broken)
+
+Scenery | Ash pileBoulder (Volcanic Mine)
+
+Underwater | Mairin's MarketPile of FishbowlsPlant doorClamChestHoleNPCsMerniaMairinCetoAnnettePuffer FishHarlequin FishParadise FishRed FantailFish shoalLobstrosityItemsMermaid's tearGlistening tearPufferfishDrift netMerfolk tridentSeaweed sporeBowl of fish |  | Mairin's MarketPile of FishbowlsPlant doorClamChestHole | NPCs | MerniaMairinCetoAnnettePuffer FishHarlequin FishParadise FishRed FantailFish shoalLobstrosity | Items | Mermaid's tearGlistening tearPufferfishDrift netMerfolk tridentSeaweed sporeBowl of fish
+
+ | Mairin's MarketPile of FishbowlsPlant doorClamChestHole
+
+NPCs | MerniaMairinCetoAnnettePuffer FishHarlequin FishParadise FishRed FantailFish shoalLobstrosity
+
+Items | Mermaid's tearGlistening tearPufferfishDrift netMerfolk tridentSeaweed sporeBowl of fish
+
+House on the Hill | Mycelium Transportation SystemStone chestStrange MachineStrange blocksStrange stoneNPCsSkekaItemsAncient wyvern shieldSmall enriched boneMedium enriched boneLarge enriched boneRare enriched boneFossil island note bookAncient diary |  | Mycelium Transportation SystemStone chestStrange MachineStrange blocksStrange stone | NPCs | Skeka | Items | Ancient wyvern shieldSmall enriched boneMedium enriched boneLarge enriched boneRare enriched boneFossil island note bookAncient diary
+
+ | Mycelium Transportation SystemStone chestStrange MachineStrange blocksStrange stone
+
+NPCs | Skeka
+
+Items | Ancient wyvern shieldSmall enriched boneMedium enriched boneLarge enriched boneRare enriched boneFossil island note bookAncient diary
+
+Other | Wilhelm
+
+Music | FossilisedLagoonLava is MinePreservationPreserved

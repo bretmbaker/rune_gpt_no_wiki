@@ -1,0 +1,55 @@
+[Weapon: Cursed Goblin Staff]
+
+
+ACursed goblin staffis one of the threeweaponsreleased duringOld School RuneScape'sfourth event: theGoblin Invasion. It was a drop from the goblin lieutenants found in the cave that theVarrockscout led to.
+It can now be bought fromDiangofor 45coins.
+
+
+[Infobox]
+Released: 23 August2013(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A curse has been placed on this magical staff.
+General Store Value: 30 coins
+High alch: 18 coins
+Low alch: 12 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None

@@ -1,0 +1,94 @@
+[Minigame: Champions%27_Challenge]
+
+ | This article has astrategy guide.All information on mechanics and strategy will be on this page.
+
+ | This is a dangerous activity.Ondeath,Hardcore Ironmenwill  lose their status.Unprotected items will be moved to a grave.
+
+Champions' Challenge
+
+
+
+
+
+Released | 12 December2005(Update)
+
+Type | Distraction and Diversion
+
+Members | Yes
+
+Location | Champions' Guild
+
+Leagueregion | Misthalin✓
+
+Skills | Combat
+
+Reward currency | None
+
+Music | Title Fight,Victory is Mine
+
+
+
+Map
+
+
+
+TheChampions' Challengeis aDistraction and Diversionfound in the basement of theChampions' Guild. While fighting various creatures ofGielinor, a player may be challenged to a duel by the champion of certain races, which are offered by means of achampion's scroll, which is received as an extremely rare drop(1/5,000 chance). These duels take place with certain rules, from limiting the player'sarmourto disallowing some items. In order to be eligible to receive a champion's scroll, a player must be on amembersserver and have at least 32quest points.
+
+Players cannot teleport out of theChampions' Guildbasement. Attempting to do so will promptLarxusto say"There's a ladder for a reason".If players need to escape the fight at any time, they must exit through the portcullis. Crossing through the portcullis does not end the fight or reset the Champion's hitpoints; rather, it ends once the ladder behind it is climbed up. This will not cause the Champion's scroll to be lost, it only disappears once players defeat the Champion.
+
+If the player dies during a Champion fight, their gravestone will appear on the ground floor of the Champion's Guild, a few tiles away from the trapdoor. Their Champion's scroll willnotdisappear upon death in this manner: it can be recovered from the gravestone.
+
+There are eleven champions that may challenge the player, and each one lays down certain rules for the fight. It is possible to use aDwarf multicannonin the arena in any fight where the use of range is not restricted. Thralls cannot be summoned.Rings of recoilcanbe used in the fights as a workaround for any combat-style restrictions; however, to get kill credit and thus complete the challenge, the player must be/have been actively engaged in combat with the champion.
+
+The Champions of Champions are those who are seated in the arena. There is a Champion for each of the races ofHumans,Dwarves,TzHaar,Werewolves,Elves, andGnomes, but only the Human champion,Leon D'Cour, may be challenged.
+
+Note for Ultimate Ironmen:Inventory must becompletely emptyduring the Ghoul Champion and Leon d'Cour fights. Players must also haveonly an item equipped in weapon slotfor the Ghoul Champion, but wearing anything in other slots for Leon d'Cour is accepted.
+
+Champions[edit|edit source]
+
+Champion | Level | Rules | Xpto bothHitpointsandSlayer | Scroll | Scroll dropper
+
+Imp Champion | 14 | No special attacks | 160 |  | Imp,Revenant imp
+
+Goblin Champion | 24 | Only Magic attacks | 128 |  | Goblin,Revenant goblin
+
+Skeleton Champion | 40 | Only Ranged attacks | 232 |  | Skeleton,skeleton monkey
+
+Zombies Champion | 51 | No Magic attacks | 240 |  | Zombie
+
+Giant Champion | 56 | Only melee attacks | 280 |  | Hill Giant,Fire giant,Moss giant,Ice giant
+
+Hobgoblin Champion | 56 | No melee attacks | 232 |  | Hobgoblin,Revenant hobgoblin
+
+Ghoul Champion | 85 | No armour or inventory; only weapons | 400 |  | Ghoul
+
+Earth Warrior Champion | 102 | No prayer allowed | 432 |  | Earth warrior
+
+Jogre Champion | 107 | No Ranged attacks | 480 |  | Jogre
+
+Lesser Demon Champion | 162 | No armour or weapons; only inventory | 592 |  | Lesser demon
+
+Leon d'Cour | 141 | No inventory | 492 |  | Unobtainable
+
+Rewards[edit|edit source]
+
+ | Beating a champion
+
+
+
+
+
+In addition to theHitpointsandSlayerexperience gained when defeating a champion, defeating them grants a banner hung on the northern wall of the basement. Players can also claim aChampion's lampafter defeating a champion, which awards ten times the experience that is given immediately after a champion's defeat. A total of 40,348 Hitpoints and Slayer experience is rewarded from defeating all the champions and claiming all the champion's lamps.
+
+Once players defeat all 11 champions, they receiveLeon d'Cour'schampion's cape. The cape is purely cosmetic, and has no stats.
+
+Gallery[edit|edit source]
+
+Banners[edit|edit source]
+
+The banner proclaiming victory over the Imp Champion.The banner proclaiming victory over the Goblin Champion.The banner proclaiming victory over the Skeleton Champion.The banner proclaiming victory over the Zombies Champion.The banner proclaiming victory over the Giant Champion.The banner proclaiming victory over the Hobgoblin Champion.The banner proclaiming victory over the Ghoul Champion.The banner proclaiming victory over the Earth Warrior Champion.The banner proclaiming victory over the Jogre Champion.The banner proclaiming victory over the Lesser Demon Champion.
+
+Fights[edit|edit source]
+
+A player duels with the Imp Champion.A player duels with the Earth Warrior Champion.A player duels with the Ghoul Champion.A player duels with the Giant Champion.A player duels with the Goblin Champion.A player duels with the Hobgoblin Champion.A player duels with the Jogre Champion.A player duels with the Lesser Demon Champion.A player duels with the Skeleton Champion.A player duels with the Zombies Champion.A player duels with Leon d'Cour, the Champion of champions.
+

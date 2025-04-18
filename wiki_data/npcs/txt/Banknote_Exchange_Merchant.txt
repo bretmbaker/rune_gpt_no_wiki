@@ -1,0 +1,2 @@
+Item: Banknote Exchange Merchant
+Summary: The Banknote Exchange Merchant is located next to the Pollnivneach General Store in Pollnivneach. Players can show him bank notes and he will offer to exchange them for their equivalent items for a fee of five coins per item.

@@ -1,0 +1,45 @@
+[Weapon: Moonclan Armour]
+
+
+TheMoonclan armouris part of theMoonclan robesset. It can be bought from the clothing shop onLunar Isleduring or afterLunar Diplomacy. It can be stored in amagic wardrobein a player-owned house.
+
+
+[Infobox]
+Released: 24 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Provides good protection.
+General Store Value: 1,000 coins
+High alch: 600 coins
+Low alch: 400 coins
+Weight: 4.535 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: -10
+
+Defence Bonuses:
+- Stab: +5
+- Slash: +5
+- Crush: +5
+- Magic: +5
+- Ranged: -10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

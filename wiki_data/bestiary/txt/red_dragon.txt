@@ -1,0 +1,94 @@
+Name: Red dragon
+Combat Level: 152
+Size: 4x4
+Info:
+- Description: A big powerful dragon.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 143.4 xp
+- Category: Red Dragons
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Burn: Immune to weak burns
+- Monster ID: 247
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guide is available for Red dragon:
+
+Notable Drops:
+- Mithril javelin (1/128)
+- Mithril kiteshield (1/128)
+- Adamant platebody (1/128)
+- Rune longsword (1/128)
+- Grimy guam leaf (1/256)
+- Grimy marrentill (1/341.3)
+- Grimy tarromin (1/455.1)
+- Grimy harralander (1/585.1)
+- Grimy ranarr weed (1/744.7)
+- Grimy irit leaf (1/1,024)
+- Grimy avantoe (1/1,365.3)
+- Grimy kwuarm (1/1,638.4)
+- Grimy cadantine (1/2,048)
+- Grimy lantadyme (1/2,730.7)
+- Grimy dwarf weed (1/2,730.7)
+- Coins (1/128)
+- Adamantite bar (1/128)
+- Nothing (1/51.29; Never[d 1])
+- Uncut sapphire (1/102.4; 1/52[d 2])
+- Uncut emerald (1/204.8; 1/104[d 2])
+- Uncut ruby (1/409.6; 1/208[d 2])
+- Uncut diamond (1/1,638.4; 1/832[d 2])
+- Nature talisman (1/1,092.27; 1/554.67[d 2])
+- Loop half of key (1/3,276.8; 1/1,664[d 2])
+- Tooth half of key (1/3,276.8; 1/1,664[d 2])
+- Rune javelin (1/3,276.8; 1/1,664[d 2])
+- Rune spear (1/52,428.8; 1/3,120[d 2][d 3])
+- Shield left half (1/104,857.6; 1/6,240[d 2][d 3])
+- Dragon spear (1/139,810.13; 1/8,320[d 2][d 3])
+- Tattered moon page (1/10[d 1][d 2])
+- Tattered sun page (1/10[d 1][d 2])
+- Tattered temple page (1/10[d 1][d 2])
+- Ensouled dragon head (1/40)
+- Grubby key (1/50[d 1])
+- Brimstone key (1/90[d 3])
+- Clue scroll (hard) (1/128[d 4])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 140
+Attack: 130
+Strength: 130
+Defence: 130
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 10
+Slash: 70
+Crush: 70
+
+[Magic defence]
+Magic: 60
+Elemental weakness: 50% weakness
+
+[Ranged defence]
+Light: 50
+Standard: 50
+Heavy: 15

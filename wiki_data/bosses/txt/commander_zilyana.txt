@@ -1,0 +1,88 @@
+Name: Commander Zilyana
+Combat Level: 596
+Size: 2x2
+Info:
+- Description: Commander of Saradomin's forces.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 350 xp
+- Category: Bosses
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 2205
+- Link: MOID
+
+Location:
+- Area: God Wars Dungeon (Saradomin boss room)
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for Commander Zilyana:
+
+Notable Drops:
+- Saradomin sword (1/127[3])
+- Saradomin's light (1/254[3])
+- Armadyl crossbow (1/508[3])
+- Saradomin hilt (1/508[3])
+- Godsword shard 1 (1/762[d 1][4])
+- Godsword shard 2 (1/762[d 1][4])
+- Godsword shard 3 (1/762[d 1][4])
+- Magic seed (1/127[6])
+- Loop half of key (1/94.93)
+- Tooth half of key (1/99.58)
+- Uncut sapphire (1/156.31)
+- Uncut emerald (1/312.62)
+- Rune sword (1/406.4)
+- Uncut ruby (1/625.23)
+- Nature rune (1/677.33)
+- Rune 2h sword (1/677.33)
+- Rune battleaxe (1/677.33)
+- Law rune (1/1,016)
+- Death rune (1/1,016)
+- Steel arrow (1/1,016)
+- Rune arrow (1/1,016)
+- Adamant javelin (1/1,016)
+- Rune sq shield (1/1,016)
+- Dragonstone (1/1,016)
+- Silver ore (1/1,016)
+- Chaos talisman (1/1,667.28)
+- Rune kiteshield (1/2,032)
+- Dragon med helm (1/2,032)
+- Rune spear (1/2,110.31)
+- Uncut diamond (1/2,500.92)
+- Shield left half (1/4,220.62)
+- Rune javelin (1/5,001.85)
+- Dragon spear (1/5,627.5)
+- Brimstone key (1/50[d 1])
+- Clue scroll (elite) (1/250[d 2][6])
+- Pet zilyana (1/5,000[9])
+
+Combat Achievements:
+- Commander Zilyana Adept: Kill Commander Zilyana 50 times. (Hard (3 pts))
+- Commander Showdown: Finish off Commander Zilyana while all of her bodyguards are dead. (Hard (3 pts))
+- Reminisce: Kill Commander Zilyana in a private instance with melee only. (Elite (4 pts))
+- Commander Zilyana Veteran: Kill Commander Zilyana 100 times. (Elite (4 pts))
+- Moving Collateral: Kill Commander Zilyana in a private instance without attacking her directly. (Master (5 pts))
+- Peach Conjurer: Kill Commander Zilyana 50 times in a privately rented instance without leaving the room. (Grandmaster (6 pts))
+- Animal Whisperer: Kill Commander Zilyana in a private instance without taking any damage from the boss or bodyguards. (Grandmaster (6 pts))
+
+[Combat stats]
+Hitpoints: 255
+Attack: 280
+Strength: 196
+Defence: 300
+Magic: 300
+Ranged: 250
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

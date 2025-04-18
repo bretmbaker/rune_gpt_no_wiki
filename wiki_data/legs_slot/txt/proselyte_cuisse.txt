@@ -1,0 +1,90 @@
+[Weapon: Proselyte Cuisse]
+
+
+Theproselyte cuisseis a piece ofTemple Knight Armourthat requires 30Defence, 20Prayer, and completion ofThe Slug Menacequest to equip. Along with itstasset counterpart, it is tied with the3rd age druidic robe bottomsand theZealot's robe bottomfor the second highestPrayer bonusof any leg slot equipment, beaten only by theSunfire fanatic chausses.
+It has the same bonuses asAdamant platelegs, except that it offers +6 Prayer bonus and weighs less. Like otherProselyteequipment, it is white with a dark-gold trim.
+
+
+[Infobox]
+Released: 20 September2006(Update)
+Members: Yes
+Quest item: The Slug Menace
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A Proselyte Temple Knight's leg armour.
+General Store Value: 10,000 coins
+High alch: 6,000 coins
+Low alch: 4,000 coins
+Weight: 7.711 kg
+Grand Exchange Value: 5,362 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 1,478
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +33
+- Slash: +31
+- Crush: +29
+- Magic: -4
+- Ranged: +31
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +6
+
+Slot: Legs slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Amoxliatl/Strategies(Melee)
+2 | Ancient Wyvern/Strategies(Prayer)
+5 | Basilisk Knight/Strategies(Ranged/Prayer)
+4 | Calvar'ion/Strategies(Melee)
+2 | Chaos Elemental/Strategies(Melee)
+3 | Dark beast/Strategies(Melee)
+5 | Drake/Strategies(Melee)
+5 | Duke Sucellus/Strategies(Melee)
+4 | Dust devil/Strategies(Bursting/Barraging)
+2 | Giant Mole/Strategies(Melee & Prayer Budget)
+4 | Giant Mole/Strategies(Melee)
+2 | Green dragon/Strategies(Melee)
+4 | King Black Dragon/Strategies(Melee BIS smuggle)
+2 | King Black Dragon/Strategies(4-item melee)
+4 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+4 | Maniacal monkey/Strategies(Magic - Ice Burst)
+4 | Metal dragons/Strategies(Melee)
+2 | Nightmare Zone/Strategies(Melee (Prayer))
+3 | Scurrius/Strategies(Melee (mid level))
+4 | Slayer task/Abyssal demons(Magic)
+2 | Slayer task/Fossil Island wyverns(Prayer)
+4 | Slayer task/Gargoyles(Melee)
+3 | Slayer task/Jellies(Melee)
+5 | Slayer training(Melee)
+4 | Slayer training(Magic (Barrage))
+2 | Spindel/Strategies(Melee)
+4 | Sulliuscep/Strategies
+3 | Sulliuscep/Strategies
+4 | The Hueycoatl/Strategies(Melee)
+2 | Ultimate Ironman Guide/Equipment
+1 | Ultimate Ironman Guide/Slayer
+2 | Venenatis/Strategies(Melee)
+4 | Vet'ion/Strategies(Melee)
+4 | Volcanic Mine(Solo)
+3 | Volcanic Mine(Group)
+2 | Vyrewatch Sentinel/Strategies(AFK Prayer)
+2 | Why Fletch?(Redemption strategy at Wintertodt)

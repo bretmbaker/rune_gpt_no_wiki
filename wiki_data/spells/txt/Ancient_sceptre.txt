@@ -1,0 +1,329 @@
+[Spell: Ancient_sceptre]
+
+Ancient sceptre
+
+
+
+
+
+
+
+Released | 11 January2023(Update)
+
+Members | Yes
+
+Quest item | No
+
+Leagueregion | Fremennik✓
+
+
+
+Properties
+
+
+
+Tradeable | No
+
+Equipable | Yes
+
+Stackable | No
+
+Noteable | No
+
+Options | Wield, Drop
+
+Examine | A very old and powerful stick.
+
+
+
+Values
+
+
+
+Value | 211,000 coins
+
+Alchemy | Not alchemisable
+
+Weight | 2.267 kg
+
+
+
+Advanced data
+
+
+
+Item ID | 27624
+
+Link | MOID
+
+
+
+Theancient sceptreis an upgraded version of theancient staffthat requires level 70Magic, 60Strength, and 50Attackto wield. It is made by bringing theancient iconand staff toEblis. This combination process is irreversible. As the icon is an untradeable drop from thePhantom Muspah, the sceptre requires completion ofSecrets of the Northto create.
+
+The ancient sceptre, like its predecessor, can be used toautocastspells from theAncient Magicksandstandard spellbook. Unlike the ancient staff, the ancient sceptre provides a 5% Magic damage bonus, as well as apassive effectthat increasesthe effectsof Ancient Magicks by 10%. This passive effect does not increase the Magic damage bonus.
+
+As aZarosian item, it will also grantgod protectiontowards Zarosian NPCs in theGod Wars Dungeon.
+
+If players die with it in the Wilderness, the ancient staff is dropped for the killer, and the ancient icon disappears. Players may lock the sceptre by bringing aTrouver parchmentand a payment of 500,000 coins toPerduin order to lock it (after which it gains the (l) suffix); this allows the sceptre to be kept in death in the Wilderness.
+
+Combat stats[edit|edit source]
+
+Attack bonuses |  | 
+
+
+
+ |  |  |  | 
+
++20 | -1 | +50 | +20 | +0
+
+
+
+Defence bonuses
+
+
+
+ |  |  |  | 
+
++2 | +3 | +1 | +15 | +0
+
+
+
+Other bonuses | Slot
+
+
+
+ |  |  |  | 
+
++60 | +0 | +5% | -1 | List
+
+
+
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+
+ | Bash | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+
+ | Pound | Crush | Aggressive |  | +3 Strength
+
+ | Focus | Crush | Defensive |  | +3 Defence
+
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+
+ | Spell | Magic | Autocast |  | None
+
+Autocasting options
+
+ |  | 
+
+Passive effect[edit|edit source]
+
+The ancient sceptre has a passive effect which increases the effects of all Ancient Magicks by 10%:
+
+Spell | Buffed effect
+
+ | Smoke Rush | Poison severityis increased to 11, up from 10.(Poison caused by these spells starts with 1 hit of 3 damage, instead of starting at 2 damage.)
+
+ | Smoke Burst
+
+ | Smoke Blitz | Poison severityis increased to 22, up from 20.(Poison caused by these spells starts with 2 hits of 5 damage, instead of starting at 4 damage.)
+
+ | Smoke Barrage
+
+ | Shadow Rush | Opponent'sAttacklevel is reduced by 11% instead of 10%.
+
+ | Shadow Burst
+
+ | Shadow Blitz | Opponent'sAttacklevel is reduced by 16.5% instead of 15%.
+
+ | Shadow Barrage
+
+ | Blood Rush | Successful hits heal the caster by 27.5% of the damage dealt instead of 25%.[a]
+
+ | Blood Burst
+
+ | Blood Blitz
+
+ | Blood Barrage
+
+ | Ice Rush | Ice Rush receives no buff from using the sceptre.[b]
+
+ | Ice Burst | Opponent is frozen for 17ticks(10.2 seconds) instead of 16 ticks (9.6 seconds).
+
+ | Ice Blitz | Opponent is frozen for 26 ticks (15.6 seconds) instead of 24 ticks (14.4 seconds).
+
+ | Ice Barrage | Opponent is frozen for 35 ticks (21 seconds) instead of 32 ticks (19.2 seconds).
+
+Creation[edit|edit source]
+
+Quartz upgrades[edit|edit source]
+
+The ancient sceptre can be enhanced with quartzes dropped by various bosses fromDesert Treasure II.[1]This processcanbe reversed.
+
+The enhanced sceptres require 75Magic, 60Strength, and 50Attackto wield.
+
+Sceptre | Quartz | Dropped by | Effect
+
+Blood ancient sceptre | Blood quartz | Vardorvis | Blood magiccan now overheal you by 10% of yourHitpoints.
+
+Ice ancient sceptre | Ice quartz | Duke Sucellus | Ice magicgains 10% accuracy, to freezable targets.
+
+Shadow ancient sceptre | Shadow quartz | The Whisperer | Shadow spellsalso drainStrengthandDefencein addition to the target'sAttacklevel.
+
+Smoke ancient sceptre | Smoke quartz | The Leviathan | Smoke spellsreduce healing received by 20% for 10 ticks on hit if the target ispoisoned.
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Blood ancient sceptre |  | None | None | 1 ×Ancient sceptre1 ×Blood quartz
+
+ | Ice ancient sceptre |  | None | None | 1 ×Ancient sceptre1 ×Ice quartz
+
+ | Shadow ancient sceptre |  | None | None | 1 ×Ancient sceptre1 ×Shadow quartz
+
+ | Smoke ancient sceptre |  | None | None | 1 ×Ancient sceptre1 ×Smoke quartz
+
+Used in recommended equipment[edit|edit source]
+
+Rank | Method
+
+5 | Abyssal Sire/Strategies(Phase 1 Magic)
+
+3 | Barrows/Strategies(Tank & Lower level)
+
+3 | Dust devil/Strategies(Bursting/Barraging)
+
+2 | Ecumenical key/Strategies(Magic)
+
+3 | Greater Nechryael/Strategies(Bursting/Barraging)
+
+4 | Hespori/Strategies(Mage)
+
+4 | Inferno/Strategies(Learners)
+
+4 | Inferno/Strategies(On task)
+
+3 | Maniacal monkey/Strategies(Magic - Ice Burst)
+
+3 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+
+4 | Nightmare Zone/Strategies(Magic)
+
+5 | Phantom Muspah/Strategies(Magic & Ranged)
+
+4 | Royal Titans/Strategies(Magic weapon)
+
+3 | Skeleton (Ape Atoll)(Magic)
+
+3 | Slayer task/Abyssal demons(Magic)
+
+3 | Slayer task/Jellies(Magic)
+
+3 | Slayer task/Nechryael(Magic)
+
+4 | Slayer task/Trolls(Magic (Ice trolls))
+
+3 | Slayer training(Magic (Barrage))
+
+4 | Smoke devil/Strategies
+
+3 | Theatre of Blood/Strategies(Magic)
+
+3 | Ultimate Ironman Guide/Equipment
+
+3 | Ultimate Ironman Guide/Slayer
+
+Changes[edit|edit source]
+
+Date | Changes
+
+9 April2025(update) | An issue in which the sceptre's passive effect did not apply to multiple hits that added up to 10 Hitpoints has been fixed.
+
+25 January2023(update) | The item has been rotated slightly when worn.
+
+Gallery (historical)[edit|edit source]
+
+ | 
+
+ | 
+
+11 January 2023 –25 January 2023 | 25 January 2023 –present
+
+Gallery[edit|edit source]
+
+Concept art of the ancient sceptre byMod Jerv.
+
+Trivia[edit|edit source]
+
+When pitched inthe poll blog, the item's name was "Soulblight sceptre". This was because the name of the quest and its rewards were polled by the development team as a "Mysterious Quest", where they wished to keep the Zarosian nature of the rewards a secret.The true name of the quest and its rewards from the boss were then revealed in theWinter Summit 2022a month later.It is currently one of six items with a negativeprayer bonus, the other items being the upgrades to the sceptre, and the base item the sceptre is made of: theancient staff.
+
+References[edit|edit source]
+
+v•t•ePhantom Muspah
+
+Signature drops | Ancient essenceAncient iconVenator shardFrozen cacheCharged iceMuphin
+
+Equipment | Forgotten brewAncient sceptreVenator bowSaturated heart
+
+Other | StrategiesScoreboard
+
+v•t•eMagicweapons
+
+Staves | Staff(+4)Magic(+10)Bob the Cat(+10)Iban's(u)(+10)White(+10)Slayer's(e)(+12)Twinflame(+12)Ancient(+15)Bryophyta's(+15)Toktz-mej-tal(+15)Thammaron's (a)(+15)Ahrim's(echo)(+15)Nightmare(+16)Zuriel's(+18)Accursed (a)(+22)Purging(+37)Elemental stavesAir(+10)Water(+10)Earth(+10)Fire(+10)God stavesGuthix(+6)Saradomin(+6)Zamorak(+6) |  | Staff(+4)Magic(+10)Bob the Cat(+10)Iban's(u)(+10)White(+10)Slayer's(e)(+12)Twinflame(+12)Ancient(+15)Bryophyta's(+15)Toktz-mej-tal(+15)Thammaron's (a)(+15)Ahrim's(echo)(+15)Nightmare(+16)Zuriel's(+18)Accursed (a)(+22)Purging(+37) | Elemental staves | Air(+10)Water(+10)Earth(+10)Fire(+10) | God staves | Guthix(+6)Saradomin(+6)Zamorak(+6)
+
+ | Staff(+4)Magic(+10)Bob the Cat(+10)Iban's(u)(+10)White(+10)Slayer's(e)(+12)Twinflame(+12)Ancient(+15)Bryophyta's(+15)Toktz-mej-tal(+15)Thammaron's (a)(+15)Ahrim's(echo)(+15)Nightmare(+16)Zuriel's(+18)Accursed (a)(+22)Purging(+37)
+
+Elemental staves | Air(+10)Water(+10)Earth(+10)Fire(+10)
+
+God staves | Guthix(+6)Saradomin(+6)Zamorak(+6)
+
+Battlestaves | Battlestaff(+12)Air(+12)Water(+12)Earth(+12)Fire(+12)Lava(or)(+12)Mud(+12)Steam(or)(+12)Smoke(+12)Mist(+12)Dust(+12)
+
+Mystic staves | Air(+14)Water(+14)Earth(+14)Fire(+14)Lava(or)(+14)Mud(+14)Steam(or)(+14)Smoke(+14)Mist(+14)Dust(+14)
+
+Powered staves | Starter staff(+10)Warped sceptre(+12)Bone staff(+14)Thammaron's sceptre(+15)Trident of the seas(e)(+15)Accursed sceptre(+22)Trident of the swamp(e)(+25)Sanguinesti staff(holy)(+25)Dawnbringer(+25)Tumeken's shadow(+35)The GauntletCrystal staff (basic)(+84)Crystal staff (attuned)(+128)Crystal staff (perfected)(+184) |  | Starter staff(+10)Warped sceptre(+12)Bone staff(+14)Thammaron's sceptre(+15)Trident of the seas(e)(+15)Accursed sceptre(+22)Trident of the swamp(e)(+25)Sanguinesti staff(holy)(+25)Dawnbringer(+25)Tumeken's shadow(+35) | The Gauntlet | Crystal staff (basic)(+84)Crystal staff (attuned)(+128)Crystal staff (perfected)(+184)
+
+ | Starter staff(+10)Warped sceptre(+12)Bone staff(+14)Thammaron's sceptre(+15)Trident of the seas(e)(+15)Accursed sceptre(+22)Trident of the swamp(e)(+25)Sanguinesti staff(holy)(+25)Dawnbringer(+25)Tumeken's shadow(+35)
+
+The Gauntlet | Crystal staff (basic)(+84)Crystal staff (attuned)(+128)Crystal staff (perfected)(+184)
+
+Bladed staves | Staff of the dead(+17)Staff of light(+17)Staff of balance(+17)Toxic staff of the dead(+25)Blue moon(+30)
+
+Wands | Beginner(+5)Apprentice(+10)Teacher(+15)Dragon hunter(+16)Master(+20)3rd age(+20)Kodai(+28)
+
+Croziers | Ancient(+10)Armadyl(+10)Bandos(+10)Guthix(+10)Saradomin(+10)Zamorak(+10)
+
+Other | Cursed goblin staff(+0)Salamanders(+0)Rod of ivandis(+4)Ivandis flail(+8)Blisterwood flail(+8)Void knight mace(+8)Dramen(+10)Skull sceptre(i)(+10)Pharaoh's sceptre(+10)Lunar(+13)Ancient sceptre(smoke) (shadow) (blood) (ice)(+20)
+
+v•t•eUpgraded equipment
+
+Upgrade items | StonesPrimordial crystalEternal crystalPegasian crystalBlack tourmaline coreSmouldering stoneCrystal tool seedBlood shardSmoke quartzShadow quartzBlood quartzIce quartzEcho crystalMonster partsAraxyte fangKraken tentacleMagic fangDrake's clawDrake's toothHydra tailNihil hornBasilisk jawDragon metalLumpSliceShardOtherGuthixian iconSaradomin's lightKodai insigniaRunescroll of swampbarkRunescroll of bloodbarkArmadylean plateBandosian componentsAncient icon | Stones | Primordial crystalEternal crystalPegasian crystalBlack tourmaline coreSmouldering stoneCrystal tool seedBlood shardSmoke quartzShadow quartzBlood quartzIce quartzEcho crystal | Monster parts | Araxyte fangKraken tentacleMagic fangDrake's clawDrake's toothHydra tailNihil hornBasilisk jaw | Dragon metal | LumpSliceShard | Other | Guthixian iconSaradomin's lightKodai insigniaRunescroll of swampbarkRunescroll of bloodbarkArmadylean plateBandosian componentsAncient icon
+
+Stones | Primordial crystalEternal crystalPegasian crystalBlack tourmaline coreSmouldering stoneCrystal tool seedBlood shardSmoke quartzShadow quartzBlood quartzIce quartzEcho crystal
+
+Monster parts | Araxyte fangKraken tentacleMagic fangDrake's clawDrake's toothHydra tailNihil hornBasilisk jaw
+
+Dragon metal | LumpSliceShard
+
+Other | Guthixian iconSaradomin's lightKodai insigniaRunescroll of swampbarkRunescroll of bloodbarkArmadylean plateBandosian componentsAncient icon
+
+Equipment | WeaponsAbyssal tentacleTrident of the seas (e)Trident of the swamp(enhanced)Toxic staff of the deadStaff of balanceStaff of lightKodai wandZaryte crossbowAncient sceptre(Smoke)(Shadow)(Blood)(Ice)ArmourDragonPlatebodyKiteshieldSwampbarkHelmBodyLegsGauntletsBootsBloodbarkHelmBodyLegsGauntletsBootsMasoriMaskBodyChapsTorvaFull HelmPlatebodyPlatelegsPrimordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguardToolsInfernal pickaxeInfernal axeInfernal harpoonCrystal pickaxeCrystal axeCrystal felling axeCrystal harpoonOtherAmulet of blood furyAmulet of rancourBonecrusher necklace | Weapons | Abyssal tentacleTrident of the seas (e)Trident of the swamp(enhanced)Toxic staff of the deadStaff of balanceStaff of lightKodai wandZaryte crossbowAncient sceptre(Smoke)(Shadow)(Blood)(Ice) | Armour | DragonPlatebodyKiteshieldSwampbarkHelmBodyLegsGauntletsBootsBloodbarkHelmBodyLegsGauntletsBootsMasoriMaskBodyChapsTorvaFull HelmPlatebodyPlatelegsPrimordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguard | Dragon | PlatebodyKiteshield | Swampbark | HelmBodyLegsGauntletsBoots | Bloodbark | HelmBodyLegsGauntletsBoots | Masori | MaskBodyChaps | Torva | Full HelmPlatebodyPlatelegs |  | Primordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguard | Tools | Infernal pickaxeInfernal axeInfernal harpoonCrystal pickaxeCrystal axeCrystal felling axeCrystal harpoon | Other | Amulet of blood furyAmulet of rancourBonecrusher necklace
+
+Weapons | Abyssal tentacleTrident of the seas (e)Trident of the swamp(enhanced)Toxic staff of the deadStaff of balanceStaff of lightKodai wandZaryte crossbowAncient sceptre(Smoke)(Shadow)(Blood)(Ice)
+
+Armour | DragonPlatebodyKiteshieldSwampbarkHelmBodyLegsGauntletsBootsBloodbarkHelmBodyLegsGauntletsBootsMasoriMaskBodyChapsTorvaFull HelmPlatebodyPlatelegsPrimordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguard | Dragon | PlatebodyKiteshield | Swampbark | HelmBodyLegsGauntletsBoots | Bloodbark | HelmBodyLegsGauntletsBoots | Masori | MaskBodyChaps | Torva | Full HelmPlatebodyPlatelegs |  | Primordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguard
+
+Dragon | PlatebodyKiteshield
+
+Swampbark | HelmBodyLegsGauntletsBoots
+
+Bloodbark | HelmBodyLegsGauntletsBoots
+
+Masori | MaskBodyChaps
+
+Torva | Full HelmPlatebodyPlatelegs
+
+ | Primordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguard
+
+Tools | Infernal pickaxeInfernal axeInfernal harpoonCrystal pickaxeCrystal axeCrystal felling axeCrystal harpoon
+
+Other | Amulet of blood furyAmulet of rancourBonecrusher necklace

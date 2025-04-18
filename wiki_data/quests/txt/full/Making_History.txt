@@ -1,0 +1,123 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Making History (#92)
+
+
+
+
+
+Released | 22 November 2005 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Tim C
+
+
+
+Making History is a quest about the restoration of the outpost north of West Ardougne and preventing it from being destroyed. During the quest, major parts of Kandarin 's history are revealed.
+
+Details [ edit | edit source ]
+
+Start point | Talk to Jorral in the outpost north-west of West Ardougne . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | A secluded outpost has served the City of Ardougne for generations, playing stage to many exceptional events. Its current occupant wants to employ your skills to construct its true history before time runs out and history itself is wiped away!
+
+Requirements | Completion of the following quests: Priest in Peril The Restless Ghost
+
+Items required | Spade Sapphire amulet Ghostspeak amulet or Morytania legs 2 or higher A way to enter Port Phasmatys Completion of Ghosts Ahoy or 2 ecto-token or 1 bone , 1 pot and 1 bucket to earn 5 ecto-tokens (you still only need two) or 5,200 gold for a Charter ship to Port Phasmatys (cheaper depending upon where you travel from and if you use ring of charos ).
+
+Recommended | Teleport runes for Ardougne Teleport or Ardougne teleport tablets Ectophial Ring of dueling Enchanted lyre , Rellekka teleport tablets or Fremennik Sea Boots 1 or higher Necklace of passage (to teleport to Jorral instead of walking from Ardougne ) or access to: Fairy rings (or Teleport to House if player's house is in Rellekka ), Stamina or Energy potions
+
+Enemies to defeat | None
+
+Ironman concerns | 24 Crafting (if making own sapphire amulet (u) )
+
+League notes | Fremennik ✓ — location requirement Kandarin ✓ — location requirement Morytania ✓ — location requirement Unlocking Tirannwn ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Talk to Jorral in the outpost just north-west of West Ardougne . It is directly south of the Tree Gnome Stronghold (One can use a Necklace of passage and teleport to The Outpost ). In order to save the outpost from King Lathas , the player will need to talk to Erin the silver merchant , Droalak the ghost, and Dron the warrior. They can be visited in any order, and the player does not need to revisit Jorral until they've met all characters. Before all of this, Jorral takes you into a cutscene.
+
+Note: If the door is open when talking to Jorral, occasionally an aggressive hobgoblin can attack you during the cutscene, which will cancel the dialogue afterwards and force you to watch the cutscene again.
+
+Erin the silver merchant [ edit | edit source ]
+
+Note: Erin won't talk to you if you've recently stolen from his stall.
+
+Talk to Erin, the Silver merchant, in East Ardougne. He is at the north-western stall in the central market. He will tell you about his great grandfather, and that he has an enchanted key . Ask him if you can borrow it and he will agree. The key changes temperature as you walk.
+
+Teleport to Castle Wars (ring of dueling or minigames teleport) and cross both of the bridges to the north until you are around 4 steps north from the east side of the second bridge. As soon as you feel that the enchanted key is steaming, take out your spade and dig to find a chest . Use the enchanted key to open it and you will find a Journal.
+
+The enchanted key cannot be used to find additional treasure until this quest is complete. If the player uses the key, they get the message, "You have already found the chest" (if not opened to get the journal yet) or, "You have already found the journal". If the player has already given the journal to Jorral, the message is, "You've already delivered the journal."
+
+Droalak the ghost [ edit | edit source ]
+
+Travel to Port Phasmatys ; if Ghosts Ahoy has not been completed, you must pay two ecto-tokens to the town guards. ( Get ecto-tokens by heading to the Ectofuntus, just north of Port Phasmatys. Use the bones in the bone grinder on the second floor, get a bucket of slime from the trapdoor west of the fountain, and use those items on the fountain. Then, talk to a ghost disciple to claim your ecto-tokens.) The port can also be reached by Charter Ship to Port Phasmatys or use fairy ring A L Q (Note: fairy ring still requires ecto-token).
+
+Once in Port Phasmatys, head to the general store. Then talk-to Droalak in, or around the general store. He will give the player a scroll if they give his wife, Melina , a strung sapphire amulet . Melina is in the building directly east of the general store.
+
+(Note: To make a strung sapphire amulet if you don't already have one, use a gold bar on a furnace while having a cut sapphire and amulet mould in your inventory. Then use a ball of wool on the unstrung sapphire amulet, to get a strung sapphire amulet.)
+
+After giving Melina the amulet, the player must go back to Droalak to receive the scroll.
+
+Dron the warrior [ edit | edit source ]
+
+Go to Rellekka (players can use fairy ring code A J R to reach the nearby slayer dungeon or Fremennik sea boots to teleport.) Talk to Dron's brother, Blanin (he can be found near the Dairy churn , east of the Longhall).
+
+Go north of Skulgrimen's Battle Gear , and speak to Dron . He can be found close to the northern-most dock. He will quiz the player on the information that Blanin gave them. Dron will ask various questions; these are the answers (in the order used):
+
+To get through the conversation quickly, the numbers you can press are: 3, 2, 2, 1, 2, 1, 2, 2, 1, 3, 3, 1, 1, 1.
+
+I'm after important answers Why, you're the famous warrior Dron! He wields an iron mace in battle. He eats rats for breakfast . He eats kittens for lunch . He eats bunnies for tea . His favourite drink is red spider blood. He is 36 years, 8 months (21 days) old. He studies the Fifth and Fourth ages. His house is on the north-east side of town. His brother's name is Blanin . His pet cat is named Fluffy . 5 and 7 is 12.
+
+Dron will immediately end the conversation if a wrong answer is given.
+
+After answering the questions, Dron will reveal part of the outpost's history that involves two friends battling each other at the Outpost. One sided with Zamorak, and the other sided with Saradomin. It's later learned that they both decided to stand down after observing the destruction of the battle, and chose to side with Guthix. As time went on, one became King of Ardougne and the other ran the Ardougne marketplace.
+
+Back to Jorral [ edit | edit source ]
+
+Give everything to Jorral . He'll give the player a letter to take to the king of East Ardougne . King Lathas can be found upstairs in his castle in central Ardougne just across the river. He will give back a letter to take to Jorral, in which he promises not to tear down the outpost. After taking it to Jorral, Jorral will make a museum out of the Outpost.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+3 Quest points 1,000 Crafting experience 1,000 Prayer experience 750 coins Enchanted key , allowing you to go on your own treasure digs until it disappears Access to the museum in the outpost Ability to complete master clue hot/cold Treasure Trails . Ability to claim 5 Kudos and an antique lamp for 1,000 experience (in any skill over level 20) by talking to Historian Minas in the Varrock Museum .
+
+Required for completing [ edit | edit source ]
+
+Completion of Making History is required for the following:
+
+Song of the Elves The Enchanted Key (miniquest)
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+17 January 2019 ( update ) | Mobile The chatbox interface no longer obstructs cutscenes on mobile.
+
+Trivia [ edit | edit source ]
+
+If you visit Droalak after the quest, the player's character will tell him that they have delivered the scroll and it was of good use. Droalak finally rests in peace. When the quest is completed, Jorral will tell you there is something that may interest you in his museum. If you search the bookcase and choose the book titled ' The Mysterious Adventurer ', it will be a book written about your character, telling you stories of some of your completed quests. Jorral's quote "Do you want to know more?" at the beginning of the quest is a reference to a repeated line in the 1997 film Starship Troopers . If you talk to Jorral before completing this quest whilst having a master clue in your inventory, he will reply with '"Stop! I can't help you unless you help me out first." To which your character replies "Okay then, moving on ..." and continues the dialogue of the quest. Studying the 'Large Display' when the museum is built, shows Wally's helmet. Recall, during the 'Demon Slayer' Quest, Wally is seen defeating Delrith the Demon in a flashback 150 years ago. Also, displayed in the museum is 'The axe of Arrav'. It was left behind by an adventurer on a quest to find 'The shield of Arrav', needed to save the people of Avarrocka.
+
+v • t • e Making History
+
+NPCs | Jorral Silver merchant Droalak Melina Dron Blanin King Lathas Drozal
+
+Items | Chest Drozal's journal Scroll Letter for King Lathas Letter for Jorral Enchanted key Guthix mjolnir Saradomin mjolnir Zamorak mjolnir
+
+Locations | Outpost Ardougne Observatory Port Phasmatys Rellekka
+
+History | Ardignas family Dreaded Years of Tragedy The Great Battle
+
+Related | The Enchanted Key The History of the Outpost The Mysterious Adventurer Quick guide

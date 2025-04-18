@@ -1,0 +1,75 @@
+[Weapon: Iron Sword]
+
+
+Theiron swordis a low-levelweaponmade ofiron, stronger than thebronze sword. It can be purchased fromVarrock Swordshopor made at level 19Smithingwith 1iron bar, granting 25 experience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A razor sharp sword.
+General Store Value: 91 coins
+High alch: 54 coins
+Low alch: 36 coins
+Weight: 1.814 kg
+Respawn time: 500 ticks (300 seconds)
+Grand Exchange Value: 121 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 2,736
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +6
+- Slash: +4
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +2
+- Crush: +1
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +7
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black Knight | 33 | 1 | 4/128 | 
+Cave slime | 23 | 1 | 7/128 | 
+Cockathrice | 89 | 1 | 3/128 | 
+Cockatrice | 37 | 1 | 3/128 | 
+HobgoblinUnarmed | 28 | 1 | 3/128 | 
+HobgoblinArmed | 28; 42; 47 | 1 | 3/128 | 
+Kalphite Worker | 28 | 1 | 3/128 | 
+Rusty swordTindel Marchant | N/A | 1 | 20/100 | 
+Rusty swordPOH repair | 1 | 1 | 20/100 | 
+Simple lockbox | N/A | 1 | 32/10,850 | 
+Skeletal miner | 42 | 1 | 4/128 | 
+Skeleton (Catacombs of Kourend) | 22 | 1 | 4/128 | 
+SkeletonArmed | 25; 45 | 1 | 4/128 | 
+Spiritual warrior | 115–158 | 1 | 3/127 | 

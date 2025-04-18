@@ -1,0 +1,141 @@
+[Spell: Entangle]
+
+Entangle
+
+
+
+
+
+
+
+Released | 29 March2004(Update)
+
+Members | Yes
+
+Level | 79
+
+Spellbook | Standard
+
+Type | Combat
+
+Experience | 89 (70 on splash)
+
+Base max hit | 5
+
+Runes | 554
+
+Casting speed | 5 ticks
+
+Description | Holds your opponent for 15 seconds
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Entangleis a members-onlyspellthat requires level 79Magicto cast. Casting Entangle will hold your target in place for 24ticks(14.4 seconds) and grants 89 Magic experience (in addition to 2 experience per damage dealt). A successful hit, without any damage boosting items, can deal up to 5 damage. When used on a player and the entanglement is about to wear off, the entangled player will receive this message in their chatbox:The holding effect is beginning to fade.Players can increase the binding duration by equippingswampbark armour; thehelm,body, andlegswill increase the duration by 2ticks(1.2 seconds) each, up to a maximum of 30ticks(18.0 seconds).
+
+Once the spell wears off, the target has 5 ticks (3 seconds) of immunity before they can be entangled again.
+
+Unsuccessful cast, or asplash, yields only 70Magicexperience.
+
+Entangle is a stronger version of the level 20 spellBindand the level 50 spellSnare.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+554 | 510
+
+Combo runes
+
+545 | 530
+
+45 | 1,005
+
+545 | 620
+
+545 | 985
+
+545 | 1,100
+
+Main-hands
+
+54Alt | 485
+
+54Alt | 485
+
+4 | 460
+
+553.93 | 501
+
+Main and off-hands
+
+540.05 | 589
+
+54 | 485
+
+4Alt | 460
+
+40.05Alt | 563
+
+53.930.05 | 580
+
+53.93 | 477
+
+Wilderness-only casting
+
+ | Blighted entangle sack | 58
+
+Changes[edit|edit source]
+
+Date | Changes
+
+13 September2023(update) | LowerMagicexperiencegain of 70 for splashing an Entangle spell is now consistent in both PvP and PvM combat.
+
+21 June2023(update|poll) | The maximum Swampbark Armour set bonus for the Entangle spell can now be achieved with just thehelm,bodyandlegsas opposed to the full set.Each outfit piece now increases the duration of the Entangle spell by an additionaltick, so the complete bonus increases the duration to 6 ticks.
+
+11 January2023(update) | An audio cue and message have been added to the Entangle spell to tell the victims when the freeze is about to expire.
+
+5 September2019(update) | Protect from Magicno longer halves the duration of Entangle.
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

@@ -1,0 +1,49 @@
+[Weapon: Larupia Top]
+
+
+Alarupia topis amembers onlypiece oflarupia hunter gear, and does not influence the chance of successfully catching creatures.[1]You must have level 28Hunterto wear it. To make, take a normal or tatteredlarupia furand 100coinsto theFancy Clothes StoreinVarrock, toPellemin theHunter Guild, or toPrifddinas' Seamstress.
+This item can be stored in thearmour caseof acostume room, as part of theHunter Gear: Larupia.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: This should make me harder to spot in woodland and jungle areas.
+General Store Value: 100 coins
+High alch: 60 coins
+Low alch: 40 coins
+Weight: 0.226 kg
+Grand Exchange Value: 708 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 19
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +10
+- Slash: +15
+- Crush: +19
+- Magic: +0
+- Ranged: +12
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

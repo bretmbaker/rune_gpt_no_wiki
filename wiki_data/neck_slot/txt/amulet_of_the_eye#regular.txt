@@ -1,0 +1,47 @@
+[Weapon: Amulet Of The Eye#Regular]
+
+
+TheAmulet of the Eyeis an item that allows unlimited teleportation to theTemple of the Eye, just south of theportal. It is obtained by inspecting thetarnished locketand then showing it toPhileas the Lumbridge Guide.
+The amulet can be recoloured usingAbyssal dye(received from theRewards Guardian) to a red, blue, or green colour scheme.
+
+
+[Infobox]
+Released: 23 March2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Teleport, Destroy
+Worn options: Teleport
+Destroy: You can claim another from the Lumbridge Guide in Lumbridge.
+Examine: An amulet in the shape of an eye.
+General Store Value: 30 coins
+Alchemy: Not alchemisable
+Weight: 0.25 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

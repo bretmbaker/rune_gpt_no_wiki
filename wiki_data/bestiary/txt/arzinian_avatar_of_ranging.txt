@@ -1,0 +1,51 @@
+Name: Arzinian Avatar of Ranging
+Combat Level: N/A
+Size: 1x1
+Info:
+- Description: It is the avatar of the Arzinian Being of Bordanzan, representing ranging.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: ? (edit)
+- Monster ID: 1230
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 200
+Attack: 20
+Strength: 110
+Defence: 130
+Magic: 0
+Ranged: 140
+
+[Aggressive stats]
+Attack bonus: None
+Strength bonus: None
+Magic attack bonus: None
+Magic strength bonus: None
+Ranged attack bonus: None
+Ranged strength bonus: None
+
+[Melee defence]
+Stab: None
+Slash: None
+Crush: None
+
+[Magic defence]
+Magic: None
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: None
+Standard: None
+Heavy: None

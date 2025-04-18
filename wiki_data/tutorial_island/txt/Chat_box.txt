@@ -1,0 +1,74 @@
+[Page: Chat Interface]
+
+TheChat Interfaceis a panel in theGUIin which various messages throughoutOld School RuneScapeare displayed. These messages include public and private player chat, as well as game messages. The content displayed in the chat interface can be filtered using the six buttons that run across the bottom of the chat panel.
+
+Contents
+
+Filters[edit|edit source]
+
+There are six filter buttons (also known as tab buttons) that allow the player to filter content that appears in the chat panel, both to view only a specific type of content, and to exclude a specific type of content. Clicking or tapping on one of these buttons will display only the content relating to that filter. For instance, theTradefilter is useful when selling in crowded worlds because it allows the player to see only Trade Requests being made. To show the entire chat with no filters, theAllbutton may be pressed. Right-clicking or long-pressing on a button will show options to control the sub-categories of that content that are shown both when that button is selected and when the All button is selected.
+
+All[edit|edit source]
+
+TheAlltab shows all available content, excluding any that are filtered by active filter settings.
+
+Game[edit|edit source]
+
+TheGametab shows game messages that appear as a result of taking actions such as drinkingpotions, choppingtrees, and more.
+
+Public[edit|edit source]
+
+ThePublictab shows public messages sent by yourself and nearby players. These messages are accompanied by text above that player displaying the same message. There are five different filter options, as well as an option to filter by content, and an autochat option.
+
+Private[edit|edit source]
+
+ThePrivatetab shows private messages sent to you by other players, messages you sent to other players, and login/logout messages if configured to appear in this tab.
+
+Channel[edit|edit source]
+
+TheChanneltab shows messages sent in the connectedchat-channel.
+
+Clan[edit|edit source]
+
+TheClantab shows messages sent in the connectedclanand guest clan, including announcements such as player levels or combat achievements, but not for the guest clan.
+
+Trade/Group[edit|edit source]
+
+This tab will be labelled "Group" if you are aGroup ironmanor "Trade" if you are any other account type.
+
+Chat input[edit|edit source]
+
+The chat input line is where messages that are about to be sent will be displayed as they are typed. It is located below the area where messages from the currently selected filter are displayed. The chat input is preceded by the player's name and theirbadgeif they have one.
+
+The chat input directs messages to a specific chat. By default this is the Public chat, but alternate chat modes may be activated, which will cause messages submitted through the chat input to be sent to that channel. This occurs even if that tab is not activated. If a chat mode other than Public is selected, the chat mode will be indicated after the player's name and before the typed text.
+
+The following commands may be entered in the chat input to activate a given chat mode, and optionally send a message after changing the mode. These have the same effect as selecting a mode via options on theAlltab. To send a message after changing the mode, type the command and then the message; for example, both "/@fHello" and "/@f Hello" will switch to the Channel mode and send the message "Hello" in the connected chat-channel.
+
+Settings[edit|edit source]
+
+Reporting abuse[edit|edit source]
+
+If someone is engaging in rule-breaking, they can bereportedby doing either of the following:
+
+After successfully reporting the rule-breaker, the messageThank-you, your abuse report has been received.will be displayed as confirmation. In addition, whenever your macroing (botting) report has been reviewed and actioned, you'll receive an inbox message directly in your Message Centre.
+
+Chat effects[edit|edit source]
+
+Public messages can have various effects other than the standard yellow text.
+
+Colour effects[edit|edit source]
+
+Text effects[edit|edit source]
+
+Players can combine colour and text effects by typingcolour:effect:Message. The colour must be written before the effect.
+
+Commands[edit|edit source]
+
+Players have access to a limited set of commands through the chat interface:
+
+Further commands are offered by somegame clientssuch asRuneLite, often prefixed with a!.Jagex Moderatorshave an extended command set that serves to make testing content and running community events easier.
+
+Badges/Icons[edit|edit source]
+
+These badges/icons may appear in your chat interface:
+

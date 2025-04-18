@@ -1,0 +1,48 @@
+[Weapon: Opal Ring]
+
+
+Theopal ringcan be enchanted into aring of pursuitthrough the use of theLvl-1 Enchantspell.
+
+
+[Infobox]
+Released: 2 February2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A valuable ring.
+General Store Value: 1,050 coins
+High alch: 630 coins
+Low alch: 420 coins
+Weight: 0.006 kg
+Grand Exchange Value: 898 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 285
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot

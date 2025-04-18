@@ -1,0 +1,53 @@
+[Weapon: Holy Handegg]
+
+
+Aholy handeggis an item obtained during the2018 Easter event. It is a reward for defeating theColossal Chocco Chicken.
+With the item in your inventory, you can right-clickUseon it, and click another player. If the player has both of their hands empty, they will catch the egg, and it will end up in their weapon slot.Ironmencannot throw the egg to other players, nor can they have the egg be thrown to them.
+
+
+[Infobox]
+Released: 29 March2018(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Hold, Drop
+Examine: A chocolate egg decorated in the colours of Saradomin.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.25 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Punch | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Kick | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

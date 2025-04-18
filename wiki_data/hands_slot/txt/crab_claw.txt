@@ -1,0 +1,46 @@
+[Weapon: Crab Claw]
+
+
+Acrab clawis a gauntlet worn in the gloves slot. There are no level requirements to wear the crab claw. Crafting this claw has a chance to fail, producing abroken crab claw.
+Players cannot wear crab claws whilst havingclawsequipped; attempting to do so results in the chatbox stating "You need to remove your claws first."
+
+
+[Infobox]
+Released: 15 March2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: If it's good enough for crabs, it's good enough for me!
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +4
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +1
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

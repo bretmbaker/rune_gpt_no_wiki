@@ -1,0 +1,68 @@
+[Weapon: 3Rd Age Bow]
+
+
+The3rd age bowis a part of the3rd age range set. It is a possible reward fromeliteandmasterTreasure Trailsand cannot be made via theFletchingskill. Requiring 65Rangedto wield, the 3rd age bow can fire arrows up todragon arrowsat the same speed as that of ashortbowwhilst having a longer attack range.
+It is considered to be one of the more useful 3rd age equipment pieces; it can be utilised to shoot faraway monsters duringFight CavesandInfernospeed runs and is also valued in theBarbarian Assaultattacker role.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A beautifully crafted bow carved by ancient archers.
+General Store Value: 150,000 coins
+High alch: 90,000 coins
+Low alch: 60,000 coins
+Weight: 3.175 kg
+Grand Exchange Value: 2,147,482,825 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 0
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +80
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 4 ticks (2.4s) | 9 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 3 ticks (1.8s) | 9 tiles |  | None
+ | Longrange | Standard | Longrange | 4 ticks (2.4s) | 10 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Mimic | N/A | 1 | 1/5,244;1/5,750 | 
+Reward casket (elite) | N/A | 1 | 1/249,262.5 | 
+Reward casket (master) | N/A | 1 | 1/313,168 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Barbarian Assault/Strategies(Ranged (high level))

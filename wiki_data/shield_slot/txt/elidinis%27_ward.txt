@@ -1,0 +1,98 @@
+[Weapon: Elidinis%27 Ward]
+
+
+Elidinis' wardis a magical shield requiring 80Magic,Defence, andPrayerto equip. Obtained as a rare drop from theTombs of Amascut, the ward once belonged to thegoddessElidinisherself, who gave it to PharaohOsmumtenbefore disappearing to mourn the loss of her husbandTumekenat the end of theKharidian–Zarosian War.
+The ward can befortifiedby attaching anArcane Sigilto the ward, creating theElidinis' ward (f); doing so requires level 90Prayer, 90Smithing, and 10,000soul runes, granting 260 experience in both skills in the process. Players cannot payAbbot Langleyto fortify the ward, though he can remove the sigil from anarcane spirit shield.
+
+
+[Infobox]
+Released: 24 August2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A ward once used by Elidinis herself.
+General Store Value: 5,000,000 coins
+High alch: 3,000,000 coins
+Low alch: 2,000,000 coins
+Weight: 0.708 kg
+Grand Exchange Value: 3,964,874 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 1,245
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +5
+- Slash: +3
+- Crush: +9
+- Magic: +0
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +3%
+- Prayer: +1
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Tombs of Amascut) | N/A | 1 | 3/24 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Abyssal Sire/Strategies(Phase 1 Magic)
+2 | Abyssal Sire/Strategies(Phase 2 Magic)
+4 | Adamant dragon/Strategies(Magic)
+4 | Artio/Strategies(Magic)
+3 | Barbarian Assault/Strategies(Magic)
+2 | Barrows/Strategies(Magic equipment)
+2 | Callisto/Strategies(Magic)
+2 | Chambers of Xeric/Strategies(Magic)
+1 | Crazy archaeologist/Strategies(Magic)
+2 | Deranged archaeologist/Strategies(Magic)
+2 | Dust devil/Strategies(Bursting/Barraging)
+2 | Giant Mole/Strategies(Magic)
+3 | Greater Nechryael/Strategies(Bursting/Barraging)
+3 | K'ril Tsutsaroth/Strategies(Magic)
+2 | Kraken/Strategies(Magic)
+2 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+2 | Maniacal monkey/Strategies(Magic - Ice Burst)
+2 | The Mimic/Strategies(Magic)
+2 | Mithril dragon/Strategies(Magic)
+3 | Nightmare Zone/Strategies(Magic)
+3 | The Nightmare/Strategies(Mage)
+3 | Phantom Muspah/Strategies(Magic & Ranged)
+3 | Phosani's Nightmare/Strategies(Mage)
+2 | Revenants/Strategies(Magic)
+4 | Rune dragon/Strategies(Magic)
+2 | Scorpia/Strategies(Magic)
+3 | Scurrius/Strategies(Magic (high level))
+2 | Skeleton (Ape Atoll)(Magic)
+3 | Slayer task/Abyssal demons(Magic)
+2 | Slayer task/Jellies(Magic)
+3 | Slayer task/Nechryael(Magic)
+3 | Slayer task/Trolls(Magic (Ice trolls))
+2 | Slayer training(Magic (Barrage))
+1 | Smoke devil/Strategies
+2 | Theatre of Blood/Hard Mode(Magic)
+2 | Theatre of Blood/Strategies(Magic)
+2 | Tombs of Amascut/Strategies(Magic switch)
+2 | Tormented Demon/Strategies(Magic switch)
+2 | The Whisperer/Strategies(Magic)
+3 | Zulrah/Strategies(Magic)

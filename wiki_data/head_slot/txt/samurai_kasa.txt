@@ -1,0 +1,54 @@
+[Weapon: Samurai Kasa]
+
+
+Thesamurai kasais obtained as a possible reward frommasterTreasure Trails. It is part of thesamurai armourset, and requires level 35 inDefenceto wear.
+This item can be stored in thetreasure chestof acostume room, as part of thesamurai armourset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A conical hat.
+General Store Value: 4,000 coins
+High alch: 2,400 coins
+Low alch: 1,600 coins
+Weight: 0.6 kg
+Grand Exchange Value: 46,160 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 92
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +16
+- Slash: +17
+- Crush: +15
+- Magic: +4
+- Ranged: +16
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (master) | N/A | 1 | 1/851 | 

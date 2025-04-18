@@ -1,0 +1,1 @@
+Thebank filleris an item found exclusively within a player'sbank, and cannot be withdrawn. It fills the entire player's bank, with the amount filled dependent on the number of bank spaces remaining.

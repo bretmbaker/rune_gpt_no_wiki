@@ -1,0 +1,64 @@
+[Weapon: Dawnbringer]
+
+
+TheDawnbringeris apowered staffobtained from theskeletonnext to the entrance toVerzik Vitur's throne room in theTheatre of Blood. When a player takes the staff from the skeleton, a chatbox message will stateYou find the Dawnbringer; you feel a pulse of energy burst through it.
+Used to break Verzik Vitur's shield during the first phase of the final fight against her, the Dawnbringer ignoresaccuracy rolls, meaning the player will always dealsuccessful hits, even when below -65 magic attack.
+
+
+[Infobox]
+Released: 7 June2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A weapon of light to hold back the darkness.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 1.5 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +25
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +15
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Magic | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Magic
+ | Accurate | Magic | Accurate | 7 tiles |  | +3 Magic
+ | Longrange | Magic | Longrange | 9 tiles |  | +1 Magic, +3 Defence
+
+
+[Special Attack]
+A player using the Dawnbringer's special attack,Pulsate.
+The staff'sspecial attack,Pulsate, fires a powerful blast towardsVerzik Vitur, inflicting 75-150hitpointsof damage towards her and consuming 35% of the wielder's special attack energy.
+As players must deplete her health quickly before all the pillars in her throne room collapses, it is mandatory for teammates to drop the staff for another player to perform the special attack once they have depleted their own special attack energy.
+Magic damagegear bonuses, prayer and base magic level/boosts do not affect the damage inflicted by the Dawnbringer's special attack, and it is guaranteed to be asuccessful hit.[1]
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Skeleton (Theatre of Blood, Dawnbringer) | N/A | 1 | Always | 

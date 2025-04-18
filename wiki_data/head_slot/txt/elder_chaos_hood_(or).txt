@@ -1,0 +1,45 @@
+[Weapon: Elder Chaos Hood (Or)]
+
+
+Theelder chaos hood (or)is a cosmetic variant of theelder chaos hoodwith anelder chaos robes ornament kitadded to it. It can be dismantled at any time, returning both parts back to the player.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: None
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle
+Examine: The hood worn by the dangerous elder druids, tastefully decorated.
+General Store Value: 500 coins
+High alch: 300 coins
+Low alch: 200 coins
+Weight: 0.18 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +4
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +1%
+- Prayer: +0
+
+Slot: Head slot

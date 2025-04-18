@@ -1,0 +1,189 @@
+[Minigame: Raging_Echoes_League/Areas/Karamja]
+
+Raging Echoes
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+Guides
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+TheKaramjaarea covers the entire island ofKaramjaalong with the island ofCrandorand theRealm of the Fisher King. Instances of areas in Karamja and underground areas with an entrance in Karamja will also be included.
+
+Overview of area[edit|edit source]
+
+Notable settlements[edit|edit source]
+
+BrimhavenKaramja Ship YardMusa PointShilo VillageTai Bwo WannaiMor-Ul-Rek
+
+Notable combat-related activities[edit|edit source]
+
+Brimhaven DungeonTai Bwo Wannai Dungeon (Jogre Dungeon)The Fight CavesThe Fight PitsTzHaar-Ket-Rak's ChallengesThe InfernoTzhaar creatures
+
+Notable non-combat activities[edit|edit source]
+
+Brimhaven Agility ArenaBrimhaven House PortalCalquattree patchFishinginfernal eelFruit tree patchnorth of BrimhavenFishingkarambwanNature AltarTai Bwo Wannai CleanupTeakandMahoganywoodcuttingTzhaarpickpocketingThieving from thegem stallin Mor-Ul-RekUncut gems from theShilo Village mine
+
+Notable shops[edit|edit source]
+
+Fernahei's Fishing Hut.TzHaar-Hur-Tel's Equipment StoreTzHaar-Mej-Roh's Rune StoreTzHaar-Hur-Lek's Ore and Gem StoreJiminua's Jungle Store.Obli's General Store.The Shrimp and ParrotTiadeche's Karambwan Stall
+
+Other information[edit|edit source]
+
+When purchasing aPlayer Owned Housefrom anEstate Agentyour house will be placed inBrimhavenso thatConstructioncan be trained from level 1.Tzhaar-Ket-Rakwill let you do all of hischallengesimmediately.
+
+Unlocks[edit|edit source]
+
+The following quests and achievement diary tasks are automatically completed after unlocking the area.
+
+Quests[edit|edit source]
+
+Shilo VillageJungle Potion
+
+Achievement diary tasks[edit|edit source]
+
+ | Karamja Diary
+
+Easy Tasks | Travel toPort Sarimvia the dock, east ofMusa Point.Travel toArdougnevia the port nearBrimhaven.
+
+Medium Tasks | Charter theLady of the Wavesfrom south ofCairn IsletoPort Khazard.Use thegnome gliderto travel toKaramja.Charter a ship from theshipyardin the far east ofKaramja.
+
+Hard Tasks | Eat anoomlie wrap.Kill adeathwingin thedungeonunder theKharazi Jungle.Collect 5palm leaves.
+
+Elite Tasks | Create anantivenompotion whilst standing in thehorse shoe mine.
+
+Slayer[edit|edit source]
+
+The following slayer tasks will be available after unlocking the area. (Combat levelwhere they are enabled):
+
+Zombies(10 - 50)Fire Giants(65 - 126)Moss Giants(40 - 100)Red Dragons(65 - 126)Greater Demons(70 - 126)Iron Dragons(80 - 126)Steel Dragons(85 - 126)Harpie Bug Swarms(45 - 85)Tzhaar(60 - 126)
+
+Notable drops[edit|edit source]
+
+These items are highlighted as key drops from the area which are affected by the boosted drop rate granted by passive relics.
+
+ | Item | Source | BaseRarity | 2x DropMultiplier | 5x DropMultiplier
+
+ | Obsidian helmet,platebody, andlegs | TzHaar-Ket | 1/2,000 | 1/1,000 | 1/400
+
+ | TzHaar weaponry | TzHaar-KetandTzHaar-Xil | 1/512 | 1/256 | 1/102
+
+ | Toktz-mej-tal | TzHaar-Mej | 1/4,096 | 1/2,048 | 1/819
+
+ | Toktz-xil-akandToktz-xil-ek | TzHaar-Xil | 1/682 | 1/341 | 1/136
+
+ | Draconic visage | SteelandIron dragons | 1/10,000 | 1/5,000 | 1/2,000
+
+ | Gout tuber | Tai Bwo Wannai Cleanup | 1/100 | 1/50 | 1/20
+
+Boosted Activities[edit|edit source]
+
+These activities and rewards are subject to boosted rates up to 8x as players progress through the tiers of relics:
+
+Tai Bwo Wannai Cleanupfavour
+
+References[edit|edit source]
+
+v•t•eRaging Echoes League
+
+ | The SageLeagues TutorInfo BoardLeagues Reward ShopGuideTasksQuestsRelicsCombat Masteries
+
+Areas | MisthalinKaramjaAsgarniaFremennik ProvinceKandarinKharidian DesertMorytaniaTirannwnWildernessKourendVarlamore
+
+Skill guides | AgilityConstructionCookingCraftingFarmingFiremakingFishingFletchingHerbloreHunterMagicMeleeMiningPrayerRangedRunecraftSlayerSmithingThievingWoodcutting
+
+Relics | Tier 1Power MinerLumberjackAnimal WranglerTier 2Corner CutterFriendly ForagerDodgy DealsTier 3Clue CompassBank HeistFairy's FlightTier 4Golden GodReloadedEquilibriumTier 5Treasure ArbiterProduction MasterSlayer MasterTier 6Total RecallBanker's NoteTier 7Pocket KingdomGrimoireOvergrownTier 8SpecialistGuardianLast Stand | Tier 1 | Power MinerLumberjackAnimal Wrangler | Tier 2 | Corner CutterFriendly ForagerDodgy Deals | Tier 3 | Clue CompassBank HeistFairy's Flight | Tier 4 | Golden GodReloadedEquilibrium | Tier 5 | Treasure ArbiterProduction MasterSlayer Master | Tier 6 | Total RecallBanker's Note | Tier 7 | Pocket KingdomGrimoireOvergrown | Tier 8 | SpecialistGuardianLast Stand
+
+Tier 1 | Power MinerLumberjackAnimal Wrangler
+
+Tier 2 | Corner CutterFriendly ForagerDodgy Deals
+
+Tier 3 | Clue CompassBank HeistFairy's Flight
+
+Tier 4 | Golden GodReloadedEquilibrium
+
+Tier 5 | Treasure ArbiterProduction MasterSlayer Master
+
+Tier 6 | Total RecallBanker's Note
+
+Tier 7 | Pocket KingdomGrimoireOvergrown
+
+Tier 8 | SpecialistGuardianLast Stand
+
+Combat Masteries | MeleeTier 1Tier 2Tier 3Tier 4Tier 5Tier 6RangedTier 1Tier 2Tier 3Tier 4Tier 5Tier 6MagicTier 1Tier 2Tier 3Tier 4Tier 5Tier 6 | Melee | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6 | Ranged | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6 | Magic | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6
+
+Melee | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6
+
+Ranged | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6
+
+Magic | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6
+
+Echo bosses | CerberusKalphite QueenDagannoth Kings(Prime•Rex•Supreme)Thermonuclear smoke devilHesporiGrotesque Guardians(Dawn•Dusk•Definitely Not Dusk)Corrupted HunllefSol HereditKing Black DragonEcho orbsAsgarniaDesertFremennikKandarinKourendMorytaniaTirannwnVarlamoreWildernessEcho equipmentThe dogswordDrygore blowpipeAmulet of the monarchsEmperor ringDevil's elementNature's reprisalGloves of the damnedCrystal blessingSunlight spearSunlit bracersThunder khopeshThousand-dragon ward |  | CerberusKalphite QueenDagannoth Kings(Prime•Rex•Supreme)Thermonuclear smoke devilHesporiGrotesque Guardians(Dawn•Dusk•Definitely Not Dusk)Corrupted HunllefSol HereditKing Black Dragon | Echo orbs | AsgarniaDesertFremennikKandarinKourendMorytaniaTirannwnVarlamoreWilderness | Echo equipment | The dogswordDrygore blowpipeAmulet of the monarchsEmperor ringDevil's elementNature's reprisalGloves of the damnedCrystal blessingSunlight spearSunlit bracersThunder khopeshThousand-dragon ward
+
+ | CerberusKalphite QueenDagannoth Kings(Prime•Rex•Supreme)Thermonuclear smoke devilHesporiGrotesque Guardians(Dawn•Dusk•Definitely Not Dusk)Corrupted HunllefSol HereditKing Black Dragon
+
+Echo orbs | AsgarniaDesertFremennikKandarinKourendMorytaniaTirannwnVarlamoreWilderness
+
+Echo equipment | The dogswordDrygore blowpipeAmulet of the monarchsEmperor ringDevil's elementNature's reprisalGloves of the damnedCrystal blessingSunlight spearSunlit bracersThunder khopeshThousand-dragon ward
+
+Gameplay items | Arcane grimoireBanker's briefcaseBanker's noteClue compassCrystal of echoesCrystal dagger (perfected)Fairy mushroomForager's pouchGuardian hornLeprechaun's vaultRaids megarare voucherPocket kingdomSage's greavesToolsEcho axeEcho harpoonEcho pickaxeScroll boxesBeginnerEasyMediumHardEliteMaster |  | Arcane grimoireBanker's briefcaseBanker's noteClue compassCrystal of echoesCrystal dagger (perfected)Fairy mushroomForager's pouchGuardian hornLeprechaun's vaultRaids megarare voucherPocket kingdomSage's greaves | Tools | Echo axeEcho harpoonEcho pickaxe | Scroll boxes | BeginnerEasyMediumHardEliteMaster
+
+ | Arcane grimoireBanker's briefcaseBanker's noteClue compassCrystal of echoesCrystal dagger (perfected)Fairy mushroomForager's pouchGuardian hornLeprechaun's vaultRaids megarare voucherPocket kingdomSage's greaves
+
+Tools | Echo axeEcho harpoonEcho pickaxe
+
+Scroll boxes | BeginnerEasyMediumHardEliteMaster
+
+Rewards | TrophiesBronzeIronSteelMithrilAdamantRuneDragonRaging Echoes Hunter OutfitsTier 1HatTopTrousersBootsSetTier 2HatTopTrousersBootsSetTier 3HatTopTrousersBootsSetOrnament kitsAhrim's robesVenator bowVirtus robesItemsEcho venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottomHome decorationsCurtainsRugPortal framePortal nexusScrying poolSpirit treeFurnitureRaging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy treeAnimation overridesDeathHome teleportNPC ContactOtherBannerCane | Trophies | BronzeIronSteelMithrilAdamantRuneDragon | Raging Echoes Hunter Outfits | Tier 1HatTopTrousersBootsSetTier 2HatTopTrousersBootsSetTier 3HatTopTrousersBootsSet | Tier 1 | HatTopTrousersBootsSet | Tier 2 | HatTopTrousersBootsSet | Tier 3 | HatTopTrousersBootsSet | Ornament kits | Ahrim's robesVenator bowVirtus robesItemsEcho venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottom |  | Ahrim's robesVenator bowVirtus robes | Items | Echo venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottom |  | Echo venator bow | Ahrim's robes | HoodRobetopRobeskirtStaff | Virtus robes | MaskRobe topRobe bottom | Home decorations | CurtainsRugPortal framePortal nexusScrying poolSpirit treeFurnitureRaging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy tree |  | CurtainsRugPortal framePortal nexusScrying poolSpirit tree | Furniture | Raging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy tree | Animation overrides | DeathHome teleportNPC Contact | Other | BannerCane
+
+Trophies | BronzeIronSteelMithrilAdamantRuneDragon
+
+Raging Echoes Hunter Outfits | Tier 1HatTopTrousersBootsSetTier 2HatTopTrousersBootsSetTier 3HatTopTrousersBootsSet | Tier 1 | HatTopTrousersBootsSet | Tier 2 | HatTopTrousersBootsSet | Tier 3 | HatTopTrousersBootsSet
+
+Tier 1 | HatTopTrousersBootsSet
+
+Tier 2 | HatTopTrousersBootsSet
+
+Tier 3 | HatTopTrousersBootsSet
+
+Ornament kits | Ahrim's robesVenator bowVirtus robesItemsEcho venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottom |  | Ahrim's robesVenator bowVirtus robes | Items | Echo venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottom |  | Echo venator bow | Ahrim's robes | HoodRobetopRobeskirtStaff | Virtus robes | MaskRobe topRobe bottom
+
+ | Ahrim's robesVenator bowVirtus robes
+
+Items | Echo venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottom |  | Echo venator bow | Ahrim's robes | HoodRobetopRobeskirtStaff | Virtus robes | MaskRobe topRobe bottom
+
+ | Echo venator bow
+
+Ahrim's robes | HoodRobetopRobeskirtStaff
+
+Virtus robes | MaskRobe topRobe bottom
+
+Home decorations | CurtainsRugPortal framePortal nexusScrying poolSpirit treeFurnitureRaging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy tree |  | CurtainsRugPortal framePortal nexusScrying poolSpirit tree | Furniture | Raging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy tree
+
+ | CurtainsRugPortal framePortal nexusScrying poolSpirit tree
+
+Furniture | Raging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy tree
+
+Animation overrides | DeathHome teleportNPC Contact
+
+Other | BannerCane

@@ -1,0 +1,69 @@
+[Weapon: Ancient Crozier]
+
+
+TheAncient crozieris part of theancient vestment set. To wield one, the player needs at least 60Prayer.
+The crozier is equipped as astaffin theweapons slotand counts as aZarosianitem within theGod Wars Dungeon. Despite this fact, itcannotbe used toautocastAncient magicks.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: An Ancient crozier.
+General Store Value: 5,000 coins
+High alch: 3,000 coins
+Low alch: 2,000 coins
+Weight: 0.005 kg
+Grand Exchange Value: 7,197 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 136
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +7
+- Slash: -1
+- Crush: +25
+- Magic: +10
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +10
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +32
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +6
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Volcanic Mine(Solo)
+1 | Volcanic Mine(Group)

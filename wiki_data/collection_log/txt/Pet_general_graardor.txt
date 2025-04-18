@@ -1,0 +1,4 @@
+Item: Pet general graardor
+Summary: 
+Sources:
+- General Graardor (Level 624, Quantity: 1, Rarity: 1/5,000)

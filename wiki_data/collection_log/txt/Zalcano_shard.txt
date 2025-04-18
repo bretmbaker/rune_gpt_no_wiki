@@ -1,0 +1,4 @@
+Item: Zalcano shard
+Summary: The Zalcano shard is an item dropped by Zalcano. It can be used on the dragon pickaxe to create the dragon pickaxe (or), which alters its appearance. It is solely a cosmetic upgrade and does not change the stats.
+Sources:
+- Zalcano (Level 336, Quantity: 1, Rarity: 1/750–1/1,500)

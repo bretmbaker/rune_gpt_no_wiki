@@ -1,0 +1,167 @@
+[Shop: Lighthouse]
+
+Lighthouse
+
+
+
+
+
+Released | 17 November2004(Update)
+
+Members | Yes
+
+Location | Fremennik Province
+
+Leagueregion | Fremennik✓
+
+Requirements | Horror from the Deep
+
+Inhabitants | Dagannoths
+
+Music | Lighthouse
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | building
+
+
+
+Location onWorld Map
+
+Waterbirth Island
+
+↑
+
+Piscatoris Fishing Colony | ← | Lighthouse | → | Rellekka
+
+↓
+
+Barbarian Outpost
+
+TheLighthouseis an area north of theBarbarian Outpost, and features prominently in theHorror from the Deepquest. The Lighthouse can only be entered during and after the quest; however, the island itself can be visited prior to starting the quest. Its dungeon is a popular place for players to killdagannothforSlayer.Jossikcan be found upstairs after completing the aforementioned quest. He runs ageneral storeand will provide players withGod books, as well as replace any that are lost.
+
+Getting there[edit|edit source]
+
+The fastest way getting there isfairy ringcodeALP. Players can get there from theBarbarian Outpostby jumping across the northernbasalt rocksthat protrude from the sea. It is possible to slip on the rocks, which results in the player falling into the water, being swept back to shore, and taking up to 10 damage. It is noted that having anAgilitylevel above 35 increases the likelihood of successfully jumping across the rocks. Players seem to have a lot of trouble getting over the rock as the character "fails" to jump over it several times.
+
+Another route of access is via a bridge, which is fixed during the quest. The bridge is located in the south-western part of theFremennik Province. If the bridge has not been fixed, the player can jump across it and gain 1 Agility experience, but failing to cross the bridge will deal anywhere between 1 and 5 damage and grant 0.7 Agility experience.
+
+Besides the fairy ring, there are three teleports that arrive near the Lighthouse:
+
+Agames necklaceor theGrouping teleportto the Barbarian Outpost.Teleport to House, if the player's house is atRellekka.Anenchanted lyreteleport to the entrance to Rellekka.
+
+Features[edit|edit source]
+
+The Lighthouse is the start point of the questHorror from the Deep, and is where most of the quest takes place. It cannot be entered untilLarrissa, who stands outside the Lighthouse, gives the player theLighthouse key. After unlocking the door for the first time, the key is no longer needed.
+
+Ground floor[edit|edit source]
+
+Theground floor[UK]1stfloor[US]has the stairs to the1stfloor[UK]2ndfloor[US]and a metal ladder to the basement.
+
+First floor[edit|edit source]
+
+The1stfloor[UK]2ndfloor[US]is the room for the Lighthouse's tender. It contains a bed, bookcase, two sets of drawers, and stairs leading up and down.
+
+Jossikcan be found here after the player rescues him in the quest. He replacesSilasas the keeper of the Lighthouse. Jossik runs ageneral storein this room. Besides the usual items likehammersandrope, the store also sells:
+
+Poison. This isnotweapon poison. Instead, it is a poison that is used in some quests, such asErnest the Chicken.Pestle and mortarsandvials, both of which are used mostly forHerblore.A large variety of alcoholic beverages:brandy,dwarven stout,gin,Greenman's ale,grog,vodka,whiskey, andWizard's mind bomb.
+
+Jossik will replace a player'sdamaged bookorgod bookif it is lost, with collected pages intact. He will also sell a new book for 5,000 coins.
+
+Second floor[edit|edit source]
+
+The2ndfloor[UK]3rdfloor[US]contains the light and its mechanism. The player repairs the mechanism during theHorror from the Deepquest.
+
+The Lighthouse building is difficult to see from the ground, but a better view of it is possible on this floor.
+
+Basement[edit|edit source]
+
+The basement contains the ladder back up, a small pool of water, and a door to the north. Beyond the door is a foyer with a ladder down into the dungeon.
+
+At first, the door is a"strange wall", which the player activates during the quest. Once activated, the wall becomes two one-way doorways. The eastern door is used to enter the foyer from the basement and the western one is used to enter the basement from the foyer.
+
+After the quest, you can re-enter the dungeon by clicking on the piece of blank wall beside the door ("open wall"), since clicking on the door itself will only show a puzzle.
+
+Dungeon[edit|edit source]
+
+The dungeon is a single large chamber. The westernmost part is a pool of water, presumably connecting to the sea outside, while the rest is dry land.
+
+After the quest, the dungeon is crawling with manydagannoth. It is amulti-combat area, and the dagannoth here, although moderately strong, are inaccurate in their attacks and are not as powerful as their levels suggest. The lower level dagannoth shoot spikes at players as a rather poorRangedattack, and the higher level dagannoth attack with a slightly more accurate close-range (Melee) bite. Many dagannoth wander about near the entrance ladder, so players should be prepared for combat as soon as they descend into the dungeon.
+
+Personalities[edit|edit source]
+
+JossikLarrissaSilas
+
+Monsters[edit|edit source]
+
+DagannothDagannoth mother(only during quest)
+
+Quests[edit|edit source]
+
+Horror from the Deep(required to enter the Lighthouse)
+
+Treasure Trails[edit|edit source]
+
+ALP 1140Go to this building to be illuminated, and check the drawers while you are there.Bow at the top of the lighthouse.
+
+Music[edit|edit source]
+
+LighthouseOut of the Deep(unlocked duringHorror from the Deepquest)
+
+Trivia[edit|edit source]
+
+Horrors of the deep, and the dagannoth creature and sprite are all references to the short story "Dagon" written by H.P. Lovecraft.The basalt rocks north ofBarbarian Outpostmay be in reference to theGiant's Causewayin Northern Ireland.The Lighthouse is owned by theRuneScape Council, who also employ its keepers.Even though the player builds a walkway to the island, the broken bridge's examine keeps referring to "jumping off" rather than crossing it.
+
+v•t•eHorror from the Deep
+
+NPCs | LarrissaGunnjornJossikSilasEnemiesDagannothDagannoth mother |  | LarrissaGunnjornJossikSilas | Enemies | DagannothDagannoth mother
+
+ | LarrissaGunnjornJossikSilas
+
+Enemies | DagannothDagannoth mother
+
+Items | Lighthouse keyManualDiaryJournalRusty casket
+
+Rewards | Holy book(or)(damaged)Unholy book(or)(damaged)Book of balance(or)(damaged)Book of war(or)(damaged)Book of law(or)(damaged)Book of darkness(or)(damaged)
+
+Locations | Lighthouse
+
+Music | Out of the DeepLighthouse
+
+Related | Quick guideGod bookLightomaticTranscript
+
+v•t•eDungeons
+
+Asgarnia | Asgarnian Ice DungeonDwarven MineMole HoleIce Queen's LairMelzar's MazeMouse holeScrubfoot's caveTaverley DungeonWhite Knights' Castle Crypt
+
+Feldip Hills | Corsair Cove DungeonJiggig Burial TombOgre EnclaveRed chinchompa hunting ground
+
+Fremennik Province | Brine Rat CavernFremennik Slayer DungeonJatizso mineJormungand's PrisonLighthouseLunar Isle mineMiscellania & Etceteria DungeonWaterbirth Island Dungeon
+
+Great Kourend | Catacombs of KourendChasm of FireCrabclaw CavesForthos DungeonGiants' DenShayzien CryptsThe Warrens
+
+Kandarin | Ancient CavernArdougne SewersBrimstail's caveChaos Druid Tower DungeonClock Tower DungeonCrash Site CavernEagles' Peak DungeonElemental WorkshopGlarial's TombGoblin CaveGrand Tree TunnelsKraken CoveMogre Camp(Port Khazard)Mourner TunnelsObservatory DungeonOurania CaveShadow DungeonSmoke Devil DungeonStronghold Slayer CaveTemple of IkovTower of Life DungeonTree Gnome Village DungeonUnderground PassWaterfall DungeonWhite Wolf Mountain CavesWitchaven DungeonYanille Agility Dungeon
+
+Karamja | Ah Za RhoonBrimhaven DungeonCrandor and Karamja DungeonKaramjan TempleKharazi DungeonPothole DungeonRashiliyia's TombTomb of BerviriusShaman CavesViyeldi caves
+
+Kebos Lowlands | Chambers of XericKaruulm Slayer DungeonLizardman CavesLizardman TempleQuidamortem Cave
+
+Kharidian Desert | Enakhra's TempleKalphite CaveKalphite LairScabaras DungeonSmoke DungeonSophanem DungeonWater Ravine Dungeon
+
+Misthalin | Digsite DungeonDorgeshuun MinesDorgesh-Kaan mineDraynor SewersTolna's riftEdgeville DungeonH.A.M. HideoutLumbridge Swamp CavesPaterdomus TempleSourhog CaveStronghold of SecurityTunnel of ChaosVarrock SewersWater mill cellarWyvern Cave
+
+Morytania | Abandoned MineBarrowsExperiment caveMeiyerditch LaboratoriesMorytania Spider CaveShade CatacombsSisterhood SanctuarySlayer TowerTarn's Lair
+
+Varlamore | NeypotzliRuins of Tapoyauik
+
+Wilderness | Deep Wilderness DungeonEscape CavesFerox Enclave DungeonKing Black Dragon LairLava Maze DungeonRevenant CavesWilderness Agility Course DungeonWilderness God Wars DungeonWilderness Slayer Cave
+
+Others | Ape Atoll DungeonCrash Island DungeonDorgesh-Kaan South DungeonDungeon (player-owned house)Elven rabbit caveEntrana DungeonEvil Chicken's LairGod Wars DungeonGhorrock DungeonKruk's DungeonIorwerth DungeonIsle of Souls DungeonLithkren VaultMos Le'Harmless CavePoison Waste DungeonTemple of Marimbo DungeonTrollweiss DungeonTutorial Island mineUnderwater Tunnel

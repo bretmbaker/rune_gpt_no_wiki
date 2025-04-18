@@ -1,0 +1,49 @@
+[Weapon: Twisted Trousers (T3)]
+
+
+Thetier 3 twisted trousersare a tradeable cosmetic item. They are part of the tier 3tier 3 Twisted Relic Hunter, which can be purchased for 10,000 League points from theLeagues Reward Shop.
+This item can be stored in thearmour caseof acostume room. It can also be displayed (with the rest of the outfit and theTwisted cane) by using it on furniture built in theLeague hall'soutfit stand space.
+
+
+[Infobox]
+Released: 16 January2020(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: The trousers of a twisted relic hunter.
+General Store Value: 100,000 coins
+High alch: 60,000 coins
+Low alch: 40,000 coins
+Weight: 0.907 kg
+Grand Exchange Value: 412,463 coins
+Grand Exchange Daily Buy Limit: 5
+Grand Exchange Daily Trades Volume: 40
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

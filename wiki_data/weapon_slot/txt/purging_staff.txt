@@ -1,0 +1,71 @@
+[Weapon: Purging Staff]
+
+
+Thepurging staffis a one-handed magicdemonbane weaponrequiring level 77Magicand 50Attackto wield. It is made by using atormented synapseon an anvil with abattlestaff,iron bar, and ahammerin the inventory. This requires level 74Crafting(boostable), level 55Smithing(not boostable), and having readDuradel's notesafter completion ofWhile Guthix Sleeps.
+Able toautocastoffensiveArceuus spells, castingdemonbane spellswith the staff will double their bonuses; this also doubles the bonuses gained whilst theMark of Darknessspell is active. Additionally, the duration of Mark of Darkness lasts 5 times longer if the staff is equipped when cast. Unequipping the staff will not reduce the duration of Mark of Darkness or remove the mark. The purging staff can also autocast elemental combat spells from thestandard spellbook.
+
+
+[Infobox]
+Released: 10 July2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Revert, Drop
+Examine: Fire and lightning sizzle in the brazier.
+General Store Value: 800,000 coins
+High alch: 480,000 coins
+Low alch: 320,000 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +10
+- Slash: -5
+- Crush: +83
+- Magic: +37
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +0
+- Magic: +25
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +62
+- Ranged Strength: +0
+- Magic Damage: +10%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Special Attack]
+A player performing the purging staff's special attack,Scatter ashes, withDark Demonbane.
+The purging staff has aspecial attack,Scatter ashes, which drains 25% of the player's special attack energy and requires being on theArceuus spellbook.
+Scatter ashesuses the bestdemonbane spellthe player can cast; if thedemonic creaturetargeted dies fromScatter ashes, the special attack energy used is refunded, and the player's next attack can be used three ticks earlier.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Hespori/Strategies(Mage)
+2 | K'ril Tsutsaroth/Strategies(Magic)
+3 | Nightmare Zone/Strategies(Magic)
+2 | Royal Titans/Strategies(Magic weapon)
+1 | The Bane of Demons(Magic)
+1 | Tormented Demon/Strategies(Magic switch)

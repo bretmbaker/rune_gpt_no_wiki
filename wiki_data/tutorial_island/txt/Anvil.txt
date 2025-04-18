@@ -1,0 +1,21 @@
+[Page: Anvil]
+
+Ananvilis used to smith items through theSmithingskill. An anvil can be used to smith items by using abaron an anvil while the player wields anImcando hammeror has ahammerin theirinventory. When interacted with, a selection screen will come up allowing the player to choose an item to make. Multiple players can use an anvil simultaneously.
+There are several anvils located aroundGielinorwhich are identified with an anviliconon theminimapandworld map.
+The most convenient anvil may be that in westernVarrock, since it is directly opposite abankand close to theGrand Exchange. Players who have completedSong of the Elvescan use the anvil inPrifddinasnear the south-eastern bank, and it is the closest to abankand afurnace.
+There are several unusual anvils inRuneScape. Included among these are the experimental anvil that players use inThe Tourist Trapto help make a prototype dart and thebarbarian anvilinOtto's Grotto, used to smithspearsandhastae. Additionally, therusted anvilinLumbridgeallows players to smith onlybronzeitems.
+As of 23 April 2015, players can left-click an anvil to smith.
+143: F2P106:Agility shortcut90:MLMbank
+150:Al Kharidbank
+119: Myths' guild bank
+Zanaris: 72
+94: Lovakengj Bank
+86: Ardougne North
+107: Mage arena (see notes for more)
+88-108: Lunar Isle (movingNPCand 2 screen transitions)
+107: Neitiznot
+165: North East Ardougne withshortcutused and falling off,168: with successful shortcut,197: without shortcut, to north East Ardougne bank,195: to south East Ardougne bank
+281: North East Ardougne withshortcutused and falling off,284: with successful shortcut,316: without shortcut, to north East Ardougne bank,314: to south East Ardougne bank
+236: Nardah bank
+A Left-click 'Smith' option has been added to anvils.
+8mago-Crabby

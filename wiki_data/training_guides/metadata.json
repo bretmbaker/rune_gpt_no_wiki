@@ -1,0 +1,283 @@
+{
+  "members": {
+    "Agility_training": {
+      "title": "Agility training",
+      "html": "training/html/members/Agility_training.html",
+      "txt": "training/txt/members/Agility_training.txt"
+    },
+    "Construction_training": {
+      "title": "Construction training",
+      "html": "training/html/members/Construction_training.html",
+      "txt": "training/txt/members/Construction_training.txt"
+    },
+    "Pay-to-play_Cooking_training": {
+      "title": "Pay-to-play Cooking training",
+      "html": "training/html/members/Pay-to-play_Cooking_training.html",
+      "txt": "training/txt/members/Pay-to-play_Cooking_training.txt"
+    },
+    "Pay-to-play_Crafting_training": {
+      "title": "Pay-to-play Crafting training",
+      "html": "training/html/members/Pay-to-play_Crafting_training.html",
+      "txt": "training/txt/members/Pay-to-play_Crafting_training.txt"
+    },
+    "Defence_training": {
+      "title": "Defence training",
+      "html": "training/html/members/Defence_training.html",
+      "txt": "training/txt/members/Defence_training.txt"
+    },
+    "Farming_training": {
+      "title": "Farming training",
+      "html": "training/html/members/Farming_training.html",
+      "txt": "training/txt/members/Farming_training.txt"
+    },
+    "Pay-to-play_Firemaking_training": {
+      "title": "Pay-to-play Firemaking training",
+      "html": "training/html/members/Pay-to-play_Firemaking_training.html",
+      "txt": "training/txt/members/Pay-to-play_Firemaking_training.txt"
+    },
+    "Pay-to-play_Fishing_training": {
+      "title": "Pay-to-play Fishing training",
+      "html": "training/html/members/Pay-to-play_Fishing_training.html",
+      "txt": "training/txt/members/Pay-to-play_Fishing_training.txt"
+    },
+    "Fletching_training": {
+      "title": "Fletching training",
+      "html": "training/html/members/Fletching_training.html",
+      "txt": "training/txt/members/Fletching_training.txt"
+    },
+    "Herblore_training": {
+      "title": "Herblore training",
+      "html": "training/html/members/Herblore_training.html",
+      "txt": "training/txt/members/Herblore_training.txt"
+    },
+    "Hunter_training": {
+      "title": "Hunter training",
+      "html": "training/html/members/Hunter_training.html",
+      "txt": "training/txt/members/Hunter_training.txt"
+    },
+    "Pay-to-play_Magic_training": {
+      "title": "Pay-to-play Magic training",
+      "html": "training/html/members/Pay-to-play_Magic_training.html",
+      "txt": "training/txt/members/Pay-to-play_Magic_training.txt"
+    },
+    "Pay-to-play_melee_training": {
+      "title": "Pay-to-play melee training",
+      "html": "training/html/members/Pay-to-play_melee_training.html",
+      "txt": "training/txt/members/Pay-to-play_melee_training.txt"
+    },
+    "Pay-to-play_Mining_training": {
+      "title": "Pay-to-play Mining training",
+      "html": "training/html/members/Pay-to-play_Mining_training.html",
+      "txt": "training/txt/members/Pay-to-play_Mining_training.txt"
+    },
+    "Pay-to-play_Prayer_training": {
+      "title": "Pay-to-play Prayer training",
+      "html": "training/html/members/Pay-to-play_Prayer_training.html",
+      "txt": "training/txt/members/Pay-to-play_Prayer_training.txt"
+    },
+    "Pay-to-play_Ranged_training": {
+      "title": "Pay-to-play Ranged training",
+      "html": "training/html/members/Pay-to-play_Ranged_training.html",
+      "txt": "training/txt/members/Pay-to-play_Ranged_training.txt"
+    },
+    "Pay-to-play_Runecraft_training": {
+      "title": "Pay-to-play Runecraft training",
+      "html": "training/html/members/Pay-to-play_Runecraft_training.html",
+      "txt": "training/txt/members/Pay-to-play_Runecraft_training.txt"
+    },
+    "Slayer_training": {
+      "title": "Slayer training",
+      "html": "training/html/members/Slayer_training.html",
+      "txt": "training/txt/members/Slayer_training.txt"
+    },
+    "Pay-to-play_Smithing_training": {
+      "title": "Pay-to-play Smithing training",
+      "html": "training/html/members/Pay-to-play_Smithing_training.html",
+      "txt": "training/txt/members/Pay-to-play_Smithing_training.txt"
+    },
+    "Thieving_training": {
+      "title": "Thieving training",
+      "html": "training/html/members/Thieving_training.html",
+      "txt": "training/txt/members/Thieving_training.txt"
+    },
+    "Pay-to-play_Woodcutting_training": {
+      "title": "Pay-to-play Woodcutting training",
+      "html": "training/html/members/Pay-to-play_Woodcutting_training.html",
+      "txt": "training/txt/members/Pay-to-play_Woodcutting_training.txt"
+    }
+  },
+  "free_to_play": {
+    "Free-to-play_Cooking_training": {
+      "title": "Free-to-play Cooking training",
+      "html": "training/html/free_to_play/Free-to-play_Cooking_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_Cooking_training.txt"
+    },
+    "Free-to-play_Crafting_training": {
+      "title": "Free-to-play Crafting training",
+      "html": "training/html/free_to_play/Free-to-play_Crafting_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_Crafting_training.txt"
+    },
+    "Defence_pure_(free-to-play)": {
+      "title": "Defence pure (free-to-play)",
+      "html": "training/html/free_to_play/Defence_pure_(free-to-play).html",
+      "txt": "training/txt/free_to_play/Defence_pure_(free-to-play).txt"
+    },
+    "Free-to-play_Firemaking_training": {
+      "title": "Free-to-play Firemaking training",
+      "html": "training/html/free_to_play/Free-to-play_Firemaking_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_Firemaking_training.txt"
+    },
+    "Free-to-play_Fishing_training": {
+      "title": "Free-to-play Fishing training",
+      "html": "training/html/free_to_play/Free-to-play_Fishing_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_Fishing_training.txt"
+    },
+    "Free-to-play_Magic_training": {
+      "title": "Free-to-play Magic training",
+      "html": "training/html/free_to_play/Free-to-play_Magic_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_Magic_training.txt"
+    },
+    "Free-to-play_melee_training": {
+      "title": "Free-to-play melee training",
+      "html": "training/html/free_to_play/Free-to-play_melee_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_melee_training.txt"
+    },
+    "Free-to-play_Mining_training": {
+      "title": "Free-to-play Mining training",
+      "html": "training/html/free_to_play/Free-to-play_Mining_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_Mining_training.txt"
+    },
+    "Free-to-play_Prayer_training": {
+      "title": "Free-to-play Prayer training",
+      "html": "training/html/free_to_play/Free-to-play_Prayer_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_Prayer_training.txt"
+    },
+    "Free-to-play_Ranged_training": {
+      "title": "Free-to-play Ranged training",
+      "html": "training/html/free_to_play/Free-to-play_Ranged_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_Ranged_training.txt"
+    },
+    "Free-to-play_Runecraft_training": {
+      "title": "Free-to-play Runecraft training",
+      "html": "training/html/free_to_play/Free-to-play_Runecraft_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_Runecraft_training.txt"
+    },
+    "Free-to-play_Smithing_training": {
+      "title": "Free-to-play Smithing training",
+      "html": "training/html/free_to_play/Free-to-play_Smithing_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_Smithing_training.txt"
+    },
+    "Free-to-play_Woodcutting_training": {
+      "title": "Free-to-play Woodcutting training",
+      "html": "training/html/free_to_play/Free-to-play_Woodcutting_training.html",
+      "txt": "training/txt/free_to_play/Free-to-play_Woodcutting_training.txt"
+    }
+  },
+  "ironman": {
+    "Ironman_Guide_Agility": {
+      "title": "Ironman Guide/Agility",
+      "html": "training/html/ironman/Ironman_Guide_Agility.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Agility.txt"
+    },
+    "Ironman_Guide_Construction": {
+      "title": "Ironman Guide/Construction",
+      "html": "training/html/ironman/Ironman_Guide_Construction.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Construction.txt"
+    },
+    "Ironman_Guide_Cooking": {
+      "title": "Ironman Guide/Cooking",
+      "html": "training/html/ironman/Ironman_Guide_Cooking.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Cooking.txt"
+    },
+    "Ironman_Guide_Crafting": {
+      "title": "Ironman Guide/Crafting",
+      "html": "training/html/ironman/Ironman_Guide_Crafting.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Crafting.txt"
+    },
+    "Defence_training": {
+      "title": "Defence training",
+      "html": "training/html/ironman/Defence_training.html",
+      "txt": "training/txt/ironman/Defence_training.txt"
+    },
+    "Ironman_Guide_Farming": {
+      "title": "Ironman Guide/Farming",
+      "html": "training/html/ironman/Ironman_Guide_Farming.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Farming.txt"
+    },
+    "Ironman_Guide_Firemaking": {
+      "title": "Ironman Guide/Firemaking",
+      "html": "training/html/ironman/Ironman_Guide_Firemaking.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Firemaking.txt"
+    },
+    "Ironman_Guide_Fishing": {
+      "title": "Ironman Guide/Fishing",
+      "html": "training/html/ironman/Ironman_Guide_Fishing.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Fishing.txt"
+    },
+    "Ironman_Guide_Fletching": {
+      "title": "Ironman Guide/Fletching",
+      "html": "training/html/ironman/Ironman_Guide_Fletching.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Fletching.txt"
+    },
+    "Ironman_Guide_Herblore": {
+      "title": "Ironman Guide/Herblore",
+      "html": "training/html/ironman/Ironman_Guide_Herblore.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Herblore.txt"
+    },
+    "Ironman_Guide_Hunter": {
+      "title": "Ironman Guide/Hunter",
+      "html": "training/html/ironman/Ironman_Guide_Hunter.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Hunter.txt"
+    },
+    "Ironman_Guide_Magic": {
+      "title": "Ironman Guide/Magic",
+      "html": "training/html/ironman/Ironman_Guide_Magic.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Magic.txt"
+    },
+    "Ironman_Guide_Melee": {
+      "title": "Ironman Guide/Melee",
+      "html": "training/html/ironman/Ironman_Guide_Melee.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Melee.txt"
+    },
+    "Ironman_Guide_Mining": {
+      "title": "Ironman Guide/Mining",
+      "html": "training/html/ironman/Ironman_Guide_Mining.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Mining.txt"
+    },
+    "Ironman_Guide_Prayer": {
+      "title": "Ironman Guide/Prayer",
+      "html": "training/html/ironman/Ironman_Guide_Prayer.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Prayer.txt"
+    },
+    "Ironman_Guide_Ranged": {
+      "title": "Ironman Guide/Ranged",
+      "html": "training/html/ironman/Ironman_Guide_Ranged.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Ranged.txt"
+    },
+    "Ironman_Guide_Runecraft": {
+      "title": "Ironman Guide/Runecraft",
+      "html": "training/html/ironman/Ironman_Guide_Runecraft.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Runecraft.txt"
+    },
+    "Ironman_Guide_Slayer": {
+      "title": "Ironman Guide/Slayer",
+      "html": "training/html/ironman/Ironman_Guide_Slayer.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Slayer.txt"
+    },
+    "Ironman_Guide_Smithing": {
+      "title": "Ironman Guide/Smithing",
+      "html": "training/html/ironman/Ironman_Guide_Smithing.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Smithing.txt"
+    },
+    "Ironman_Guide_Thieving": {
+      "title": "Ironman Guide/Thieving",
+      "html": "training/html/ironman/Ironman_Guide_Thieving.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Thieving.txt"
+    },
+    "Ironman_Guide_Woodcutting": {
+      "title": "Ironman Guide/Woodcutting",
+      "html": "training/html/ironman/Ironman_Guide_Woodcutting.html",
+      "txt": "training/txt/ironman/Ironman_Guide_Woodcutting.txt"
+    }
+  }
+}

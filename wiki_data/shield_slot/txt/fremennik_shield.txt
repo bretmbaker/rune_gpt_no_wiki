@@ -1,0 +1,62 @@
+[Weapon: Fremennik Shield]
+
+
+TheFremennik shieldis ashieldcommonly worn byFremennikwarriors. To wield one, the player must have completedThe Fremennik Trialsquest. They can be obtained as a monster drop from Fremennikmarket guards,dagannoths(only in theWaterbirth Island Dungeon) or Fremennikwarriors. ADefencelevel of 30 is required to wield the shield.
+The stats of the shield are identical to those of anadamant kiteshieldexcept that the Fremennik shield is lighter.
+
+
+[Infobox]
+Released: 2 November2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A shield worn by Fremennik warriors.
+General Store Value: 5,000 coins
+High alch: 3,000 coins
+Low alch: 2,000 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -8
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +27
+- Slash: +31
+- Crush: +29
+- Magic: -1
+- Ranged: +29
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Borrokar | 48 | 1 | 1/512 | 
+Dagannoth (Waterbirth Island)Level 90 | 90 | 1 | 3/128 | 
+Dagannoth (Waterbirth Island)Level 88 | 88 | 1 | 3/128 | 
+Dagannoth Prime | 303 | 1 | 1/128 | 
+Dagannoth Rex | 303 | 1 | 1/128 | 
+Dagannoth Supreme | 303 | 1 | 1/128 | 
+Freidir | 48 | 1 | 1/512 | 
+Jennella | 48 | 1 | 1/512 | 
+Lanzig | 48 | 1 | 1/512 | 
+Lensa | 48 | 1 | 1/512 | 
+Market Guard | 48 | 1 | 1/128 | 
+Warrior (Rellekka) | 48 | 1 | 1/128 | 

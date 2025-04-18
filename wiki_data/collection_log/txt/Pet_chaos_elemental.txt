@@ -1,0 +1,5 @@
+Item: Pet chaos elemental
+Summary: 
+Sources:
+- Chaos Elemental (Level 305, Quantity: 1, Rarity: 1/300)
+- Chaos Fanatic (Level 202, Quantity: 1, Rarity: 1/1,000)

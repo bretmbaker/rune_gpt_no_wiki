@@ -1,0 +1,67 @@
+[Weapon: Tzhaar-Ket-Om]
+
+
+TheTzhaar-ket-om, also known as theobsidian maul, is a weapon that requires aStrengthlevel of 60 to wield. It is a two-handed weapon. It is affected by theBerserker necklace, receiving a 20% damage increase when the necklace is worn. It is also affected by theObsidian armour(helmet,platebodyandplatelegs) which will increase the melee attack and melee strength by 10%. These damage bonusesdostack with each other.
+Two of these are used to build anobsidian fenceat level 83Constructionin a player'sSuperior Garden.
+
+
+[Infobox]
+Released: 19 September2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A maul of obsidian.
+General Store Value: 50,001 coins
+High alch: 30,000 coins
+Low alch: 20,000 coins
+Weight: 3.628 kg
+Grand Exchange Value: 309,974 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 2,033
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +80
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +85
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 7 ticks (4.2s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+TzHaar-KetLevel 149 | 149 | 1 | 1/512 | 
+TzHaar-KetLevel 221 | 221 | 1 | 1/512 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Kalphite Queen/Strategies(Mid-game Players (Phase One))

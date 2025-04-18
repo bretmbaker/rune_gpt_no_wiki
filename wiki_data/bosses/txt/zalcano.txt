@@ -1,0 +1,69 @@
+Name: Zalcano
+Combat Level: 336
+Size: 5x5
+Info:
+- Description: A former demon of Zamorak that has been turned to stone.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 9049
+- Link: MOID
+
+Location:
+- Area: Volcanic caverns beneath Prifddinas
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for Zalcano:
+
+Notable Drops:
+- Blood rune (1/36)
+- Cosmic rune (1/36)
+- Death rune (1/36)
+- Law rune (1/36)
+- Soul rune (1/36)
+- Nature rune (1/36)
+- Coal (1/36)
+- Pure essence (1/36)
+- Zalcano shard (1/750–1/1,500[10])
+- Smolcano (1/2,250[11])
+- Uncut onyx (1/8,000)
+
+Combat Achievements:
+- Perfect Zalcano: Kill Zalcano 5 times in a row without leaving or getting hit by the following: Falling rocks, rock explosions, Zalcano powering up, or standing in a red symbol. (Elite (4 pts))
+- The Spurned Hero: Kill Zalcano as the player who has dealt the most damage to her. (Elite (4 pts))
+- Team Player: Receive imbued tephra from a golem. (Elite (4 pts))
+- Zalcano Veteran: Kill Zalcano 25 times. (Elite (4 pts))
+
+[Combat stats]
+Hitpoints: 300
+Attack: 1
+Strength: 1
+Defence: 1
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

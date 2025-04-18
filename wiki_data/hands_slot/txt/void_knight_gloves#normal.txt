@@ -1,0 +1,98 @@
+[Weapon: Void Knight Gloves#Normal]
+
+
+Void Knight glovesare a piece ofVoid Knight equipment. They can be bought from aVoid Knightfor 150commendations, although a player must have at least 42Attack,Strength,Defence,Hitpoints,Ranged, andMagic, along with 22Prayerto buy and wear them.
+If the player dies below level 20Wilderness, it will remain in the player's inventory. However, the item will be unusable and must be repaired with120,000 coinsby using the item onPerdu.
+
+
+[Infobox]
+Released: 6 June2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Gloves as used by the order of the Void Knights.
+General Store Value: 6,052 coins
+High alch: 3,631 coins
+Low alch: 2,420 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +6
+- Crush: +6
+- Magic: +4
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Adamant dragon/Strategies(Ranged)
+1 | Barbarian Assault/Strategies(Ranged (high level))
+5 | Barbarian Assault/Strategies(Magic)
+1 | Barbarian Assault/Strategies(Ranged (mid level))
+2 | Barbarian Assault/Strategies(Melee (mid level))
+1 | Barrows/Strategies(Ranged (Ahrim))
+3 | Barrows/Strategies(Magic equipment)
+2 | Corporeal Beast/Strategies(Melee masses)
+2 | Corporeal Beast/Strategies(Solo melee)
+2 | Corporeal Beast/Strategies(Team melee)
+2 | Duke Sucellus/Strategies(Melee)
+3 | Fortis Colosseum/Strategies(Ranged)
+5 | Galvek Speed-Trialist(Melee)
+3 | Giant Mole/Strategies(Melee)
+1 | Giant Mole/Strategies(Ranged Void)
+1 | Green dragon/Strategies(Ranged)
+2 | Hespori/Strategies(Mage)
+1 | Maniacal monkey/Strategies(Ranged)
+1 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+1 | Maniacal monkey/Strategies(Magic - Ice Burst)
+4 | Metal dragons/Strategies(Magic)
+3 | The Mimic/Strategies(Ranged)
+2 | The Mimic/Strategies(Magic)
+2 | Nightmare Zone/Strategies(Magic)
+1 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+1 | Royal Titans/Strategies(Minimal gear switching)
+5 | Rune dragon/Strategies(Ranged)
+1 | Scurrius/Strategies(Melee (mid level))
+4 | Scurrius/Strategies(Melee (high level))
+2 | Scurrius/Strategies(Range (high level))
+1 | Scurrius/Strategies(Range (mid level))
+1 | Skeletal Wyvern/Strategies(Ranged (Void))
+2 | Skeleton (Ape Atoll)(Ranged)
+3 | Skotizo/Strategies(Melee)
+5 | Skotizo/Strategies(Ranged)
+1 | Theatre of Blood/Hard Mode(Range)
+2 | Theatre of Blood/Hard Mode(Magic)
+1 | Theatre of Blood/Strategies(Entry mode)
+1 | Theatre of Blood/Strategies(Range)
+1 | Theatre of Blood/Strategies(Learner)
+3 | Theatre of Blood/Strategies(Melee)
+2 | Theatre of Blood/Strategies(Magic)
+1 | Tormented Demon/Strategies(Ranged switch)
+3 | TzHaar Fight Cave/Strategies(Early-game iron)
+2 | Vorkath/Strategies(Ranged (crossbow))
+2 | The Whisperer/Strategies(Magic)
+5 | Zulrah/Strategies(Ranged)
+4 | Zulrah/Strategies(Magic)

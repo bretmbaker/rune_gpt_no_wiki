@@ -1,0 +1,1 @@
+Thefish sack barrelis made by using afish sackon afish barrel. It is an equipable version of the fish barrel, and has the same functions; players can right-click to open the box to have raw fish that the player picks up or fishes be automatically placed inside the barrel, provided there is space for it.

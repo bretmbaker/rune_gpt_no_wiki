@@ -1,0 +1,58 @@
+Name: Flawed Golem
+Combat Level: 13
+Size: 2x2
+Info:
+- Description: How long has it dwelled down here?
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 10695
+- Link: MOID
+
+Location:
+- Area: Ruins of Camdozaal
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Uncut emerald (1/52)
+- Barronite shards (~1/16)
+- Barronite guard (1/800)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 25
+Attack: 7
+Strength: 12
+Defence: 6
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 15
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 5
+Slash: 5
+Crush: 0
+
+[Magic defence]
+Magic: 2
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 10
+Standard: 10
+Heavy: 10

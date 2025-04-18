@@ -1,0 +1,163 @@
+[Shop: Fur]
+
+Fur
+
+
+
+
+
+
+
+Released | 12 December2005(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Drop
+
+Examine | This would make warm clothing.
+
+
+
+Values
+
+
+
+Value | 10 coins
+
+High alch | 6 coins
+
+Low alch | 4 coins
+
+Weight | 3 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 552coins (info)
+
+Buy limit | 18,000
+
+Daily volume | 1,194
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 6814
+
+Link | MOID
+
+
+
+Furis an item dropped bywerewolves. It can be sold toBaraekfor 12 coins. It has no other use other than a fewquests.
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Wooden cat |  | 16 | 15 | 1 ×Plank1 ×Fur
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Alexis | 24 | 1 | 100/512 | 
+
+Boris | 24 | 1 | 100/512 | 
+
+Eduard | 24 | 1 | 100/512 | 
+
+Galina | 24 | 1 | 100/512 | 
+
+Georgy | 24 | 1 | 100/512 | 
+
+Imre | 24 | 1 | 100/512 | 
+
+Irina | 24 | 1 | 100/512 | 
+
+Joseph | 24 | 1 | 100/512 | 
+
+Ksenia | 24 | 1 | 100/512 | 
+
+Lev | 24 | 1 | 100/512 | 
+
+Liliya | 24 | 1 | 100/512 | 
+
+Milla | 24 | 1 | 100/512 | 
+
+Nikita | 24 | 1 | 100/512 | 
+
+Nikolai | 24 | 1 | 100/512 | 
+
+Sofiya | 24 | 1 | 100/512 | 
+
+Svetlana | 24 | 1 | 100/512 | 
+
+Vera | 24 | 1 | 100/512 | 
+
+Werewolf | 88; 93 | 1 | 100/512 | 
+
+Yadviga | 24 | 1 | 100/512 | 
+
+Yuri | 24 | 1 | 100/512 | 
+
+Zoja | 24 | 1 | 100/512 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Baraek | Varrock Square | N/A | N/A | N/A | 12 | 0.0% |  | 
+
+Baraek(Ring of charos) | Varrock Square | N/A | N/A | N/A | 20 | 0.0% |  | 
+
+Darkmeyer Seamstress | Darkmeyer | 3 | 1m | 13 | 4 | 2.0% |  | 
+
+Pellem's Fur Store | Hunter Guild | 3 | 1m | 13 | 4 | 2.0% |  | 
+
+Prifddinas' Seamstress | Prifddinas | 3 | 1m | 13 | 4 | 2.0% |  | 
+
+Quests[edit|edit source]
+
+10 ×The Great Brain Robbery, orbear furorgrey wolf furto make 10wooden catsin aplayer-owned house
+
+v•t•eFurs
+
+Wild animal furs | RegularBearGrey wolfJaguar
+
+TrappingKebbitfurs | CommonPolarFeldip weaselDesert devil
+
+Falconry Kebbit furs | SpottedDarkDashing
+
+Pitfall furs | LarupiaTatty larupiaGraahkTatty graahkKyattTatty kyattSunlight antelopeMoonlight antelope
+
+Other furs | Pyre fox

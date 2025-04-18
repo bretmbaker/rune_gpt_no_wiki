@@ -1,0 +1,89 @@
+[Weapon: Crystal Helm (Crwys)#Inactive]
+
+
+TheCrwys crystal helmis a cosmetic variant of thecrystal helmmade by using thecrystal of Crwyson any variant of the helm.
+The helm's colours, based on that of theCrwys Clan, may be changed to other colours of theElven Clansby buying crystals fromLliann's WaresinPrifddinas, which cost 500,000 coins each.
+
+
+[Infobox]
+Released: 8 February2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check, Revert, Drop
+Worn options: Check
+Examine: This helmet shines bright, like a diamond.
+General Store Value: 500,000 coins
+Alchemy: Not alchemisable
+Weight: 0.5 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +9
+
+Defence Bonuses:
+- Stab: +12
+- Slash: +8
+- Crush: +14
+- Magic: +10
+- Ranged: +18
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Adamant dragon/Strategies(Ranged)
+2 | Artio/Strategies(Ranged)
+4 | Aviansie/Strategies(Ranged)
+1 | Basilisk Knight/Strategies(Ranged/Prayer)
+3 | Basilisk Knight/Strategies(Ranged)
+2 | Callisto/Strategies(Ranged)
+3 | Chambers of Xeric/Challenge Mode(Ranged)
+3 | Chambers of Xeric/Strategies(Ranged)
+1 | Commander Zilyana/Strategies(Solo Ranged Bowfa (No Stamina))
+2 | Commander Zilyana/Strategies(Ranged)
+4 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+3 | Dagannoth Kings/Strategies(Range)
+3 | Demonic gorilla/Strategies(upgrades and downgrades)
+2, 3 | Fortis Colosseum/Strategies(Ranged)
+1, 2 | Fortis Colosseum/Strategies(Budget)
+3 | General Graardor/Strategies(Solo (Ranged 6:0))
+2 | General Graardor/Strategies(Ranged Attacker)
+2 | General Graardor/Strategies(Solo (Ranged 7:0))
+3 | Giant Mole/Strategies(Ranged)
+2 | Inferno/Strategies(Learners)
+4 | K'ril Tsutsaroth/Strategies(Ranged)
+4 | Kalphite Queen/Strategies(High DPS (Phase Two))
+2 | King Black Dragon/Strategies(Ranged)
+3 | Kree'arra/Strategies(Tbow / Bowfa)
+2 | The Leviathan/Strategies(Ranged)
+2 | The Mimic/Strategies(Ranged)
+2 | Phantom Muspah/Strategies(Ranged)
+3 | Royal Titans/Strategies(Best-in-slot)
+2 | Rune dragon/Strategies(Ranged)
+3 | Skeletal Wyvern/Strategies(Ranged)
+3 | Skotizo/Strategies(Ranged)
+2 | Slayer task/Gargoyles(Ranged)
+4 | Slayer task/Wyrms(Ranged)
+2 | Tombs of Amascut/Strategies(Ranged switch)
+3 | Tormented Demon/Strategies(Ranged switch)
+3 | TzHaar Fight Cave/Strategies(Ranged)
+1 | Ultimate Ironman Guide/Equipment
+4 | Vorkath/Strategies(Ranged (crossbow))
+2 | Zulrah/Strategies(Ranged)

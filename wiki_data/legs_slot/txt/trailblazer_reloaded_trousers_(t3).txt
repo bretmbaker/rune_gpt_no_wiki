@@ -1,0 +1,49 @@
+[Weapon: Trailblazer Reloaded Trousers (T3)]
+
+
+Thetier 3 Trailblazer Reloaded trousersis a tradeable cosmetic item. It is part of thetier 3 Trailblazer Reloaded Relic Hunter, which can be purchased for 18,000 League points from theLeagues Reward Shop.
+This item can be stored in thearmour caseof acostume room. It can also be displayed (with the rest of the outfit) by using it on furniture built in theLeague hall'soutfit stand space.
+
+
+[Infobox]
+Released: 29 November2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: The trousers of a Trailblazer Reloaded Relic Hunter.
+General Store Value: 15,000 coins
+High alch: 9,000 coins
+Low alch: 6,000 coins
+Weight: 0.907 kg
+Grand Exchange Value: 286,736 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 2
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

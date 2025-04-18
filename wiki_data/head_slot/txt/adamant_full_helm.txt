@@ -1,0 +1,99 @@
+[Weapon: Adamant Full Helm]
+
+
+Anadamant full helmis a full helmet made out ofadamant. It can be worn with at least level 30 inDefenceand can be smithed with at least level 77Smithingusing 2adamantite bars(this grants 125 Smithingexperience). These helms are stronger thanmithril full helmsbut weaker thanrune full helms.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A full face helmet.
+General Store Value: 3,520 coins
+High alch: 2,112 coins
+Low alch: 1,408 coins
+Weight: 3.175 kg
+Grand Exchange Value: 1,700 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 33,369
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +19
+- Slash: +21
+- Crush: +16
+- Magic: -1
+- Ranged: +19
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Agility dispenserLaps 1-15 | N/A | 1(noted) | 1/10 | 
+Agility dispenserLaps 16-30 | N/A | 1(noted) | 1/9 | 
+Agility dispenserLaps 31-60 | N/A | 1(noted) | 1/10 | 
+Agility dispenserLaps 61+ | N/A | 1(noted) | 1/20 | 
+Animated Adamant Armour | 113 | 1 | Always | 
+Basilisk | 61 | 1 | 1/128 | 
+Blue dragon | 111 | 1 | 1/128 | &
+Brutal red dragon | 289 | 1 | 5/128 | 
+Cave abomination | 206 | 1 | 1/128 | 
+Cave horror | 80 | 1 | 1/128 | 
+Elf Archer | 90 | 1 | 1/128 | 
+Elf Warrior | 108 | 1 | 1/128 | 
+Gold Chest (black) | N/A | 1 | 8/144.18 | 
+Gold Chest (brown) | N/A | 1 | 8/143.99 | 
+Gold Chest (crimson) | N/A | 1 | 8/144.08 | 
+Gold Chest (purple) | N/A | 1 | 8/144.28 | 
+Gold Chest (red) | N/A | 1 | 8/143.91 | 
+Green dragonWilderness Slayer Cave | 88 | 1 | 1/128 | 
+Green dragonRegular | 79 | 1 | 1/128 | &
+Guard (Prifddinas) | 108 | 1 | 1/128 | 
+Ice troll femaleVariant 1 | 82 | 1 | 10/128 | 
+Ice troll grunt | 100 | 1 | 10/128 | 
+Ice troll maleVariant 1 | 82 | 1 | 10/128 | 
+Ice troll runtVariant 1 | 74 | 1 | 10/128 | 
+Iorwerth Archer | 90 | 1 | 1/128 | 
+Iorwerth WarriorIorwerth Camp | 108 | 1 | 1/128 | 
+Iorwerth WarriorIorwerth Dungeon | 108 | 1 | 1/128 | 
+Long-tailed Wyvern | 152 | 1 | 2/123 | 
+Monstrous basilisk | 135 | 1 | 3 × 1/128 | 
+MournerLevel 108 | 108 | 1 | 1/128 | 
+Reward Chest (The Gauntlet) | N/A | 1 | 1/27 | 
+Reward casket (medium) | N/A | 1 | 10/341 | 
+Spiked Turoth | 244 | 1 | 3 × 1/128 | 
+Spiritual warrior | 115–158 | 1 | 8/127 | 
+Spitting Wyvern | 139 | 1 | 2/123 | 
+Taloned Wyvern | 147 | 1 | 2/123 | 
+Terror dogLevel 110 | 110 | 1 | 1/128 | 
+Terror dogLevel 100 | 100 | 1 | 1/128 | 
+Turoth | 83; 85; 87; 89 | 1 | 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Free-to-play Ironman guide(Meleegear)
+2 | Free-to-play melee training(Meleegear)
+3 | Green dragon/Strategies(Melee)
+5 | Scurrius/Strategies(Melee (mid level))

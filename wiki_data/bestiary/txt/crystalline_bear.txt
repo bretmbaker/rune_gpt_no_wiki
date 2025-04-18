@@ -1,0 +1,37 @@
+Name: Crystalline Bear
+Combat Level: 172
+Size: 3x3
+Info:
+- Description: That is one big bear.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 9032
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 100
+Attack: 98
+Strength: 98
+Defence: 98
+Magic: 98
+Ranged: 98
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

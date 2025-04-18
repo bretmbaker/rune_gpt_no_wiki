@@ -1,0 +1,52 @@
+[Weapon: Silly Jester Tights]
+
+
+Silly jester tightsare part of thesilly jester costumeobtained duringThe Fremennik Islesquestto spy and obtain information fromMawnis BurowgarforKing Gjuki Sorvott IV.
+If lost, they can be reobtained by searching the king's chest onJatizso.
+
+
+[Infobox]
+Released: 6 February2007(Update)
+Members: Yes
+Quest item: Fremennik Isles
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: Are you sure? You can find another in King Sorvott's chest.
+Examine: Silly jester tights.
+General Store Value: 100 coins
+High alch: 60 coins
+Low alch: 40 coins
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: -5
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Jester costume) | N/A | 1 | Always | 

@@ -1,0 +1,50 @@
+[Weapon: Dragon Platebody]
+
+
+Thedragon platebodyis an armour used inmeleeand the strongest of all standardplatebodies. It requires 60Defenceand completion of thequestDragon Slayer Ito equip.
+It offers some of the highestbonusesof any non-degradable armour in the game, providing higher slash and stab defence than theBandos chestplate. For melee use it is a direct upgrade to thedragon chainbodyin every stat except crush, with the chainbody having +1 crush defence more than the platebody. Despite its high defensive bonuses however, the dragon platebody lacks a strength bonus, making it less commonly used for general melee training.
+
+
+[Infobox]
+Released: 4 January2018(Update)
+Also called: DPB
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Provides excellent protection.
+General Store Value: 2,000,000 coins
+High alch: 1,200,000 coins
+Low alch: 800,000 coins
+Weight: 11.339 kg
+Grand Exchange Value: 2,235,258 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 302
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -30
+- Ranged: -15
+
+Defence Bonuses:
+- Stab: +109
+- Slash: +107
+- Crush: +97
+- Magic: -6
+- Ranged: +106
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

@@ -1,0 +1,2 @@
+Item: Demon butler
+Summary: Alathazdrar the demon butler is a servant that players with at least level 50 Construction can hire to do various services in their player-owned house. Alathazdrar has the highest wage at 10,000. Players must pay him the wage every eight uses of his services making him cost 1,250.00 per service. Alathazdrar has inventory space for 26 items and a trip time of 7 seconds.

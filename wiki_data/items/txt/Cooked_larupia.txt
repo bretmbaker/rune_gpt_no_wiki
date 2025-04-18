@@ -1,0 +1,1 @@
+Cooked larupiais a type ofhunter meatthat restores a total of 11Hitpointswhen eaten, 6 are restored immediately, 5 are restored after a delay of 7ticks(4.2s). Eating another hunter meat too quickly will waste any pending healing, as the most recent delayed heal will replace older effects that have not completed yet. Standard foods and potions do not interrupt this pending heal.

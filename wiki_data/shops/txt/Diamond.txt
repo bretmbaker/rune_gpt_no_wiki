@@ -1,0 +1,265 @@
+[Shop: Diamond]
+
+Diamond
+
+
+
+
+
+
+
+Released | 23 January2001(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Drop
+
+Examine | This looks valuable.
+
+
+
+Values
+
+
+
+Value | 2,000 coins
+
+High alch | 1,200 coins
+
+Low alch | 800 coins
+
+Weight | 0.002 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 1,559coins (info)
+
+Buy limit | 11,000
+
+Daily volume | 2,924,829
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 1601
+
+Link | MOID
+
+
+
+Diamondsare preciousgemsused mainly inCrafting. They can be cut fromuncut diamondswith achiselat level 43 Crafting, yielding 107.5experience.
+
+A diamond is required to enter theZanarismarketplace.
+
+Creation[edit|edit source]
+
+Money making[edit|edit source]
+
+The followingmoney making guideis available for Diamond:
+
+Method | Hourly profit | Skills
+
+Cutting diamond bolt tips | 581,900 | 65
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Diamond amulet (u) |  | 70 | 100 | 1 ×Gold bar1 ×Diamond
+
+ | Diamond bolt tips× 12 |  | 65 | 7 | 1 ×Diamond
+
+ | Diamond bracelet |  | 58 | 95 | 1 ×Diamond1 ×Gold bar
+
+ | Diamond necklace |  | 56 | 90 | 1 ×Gold bar1 ×Diamond
+
+ | Diamond ring |  | 43 | 85 | 1 ×Gold bar1 ×Diamond
+
+Training[edit|edit source]
+
+Crafting[edit|edit source]
+
+Diamonds can becraftedinto jewellery at afurnaceby using agold barand the appropriate craftingmould.
+
+Level | Input | Material Cost[1] | Output | Sell Price | Profit / loss | XP/Craft | XP/Hour | Coins/XP | High Alch
+
+43 | DiamondGold bar | 1,659 | Diamond ring | 1,896 | 237 | 85 | 106,250 | 2.79 | 
+
+56 | DiamondGold bar | 1,659 | Diamond necklace | 1,999 | 340 | 90 | 112,500 | 3.78 | 
+
+58 | DiamondGold bar | 1,659 | Diamond bracelet | 1,969 | 310 | 95 | 118,750 | 3.26 | 
+
+70 | DiamondGold bar | 1,659 | Diamond amulet (u) | 1,893 | 234 | 100 | 125,000 | 2.34 | 
+
+1 | Diamond amulet (u)Ball of wool | 1,949 | Diamond amulet | 1,989 | 40 | 4 | 8,000 | 10.00 | 
+
+Fletching[edit|edit source]
+
+Level | Input | Material Cost[1] | Output | Sell Price | Profit/Loss | XP/Fletch | XP/Hour | Coins/XP
+
+65 | Diamond | 1,559 | Diamond bolt tipsx12 | 2,004 | 445 | 7 | 11,200 | 63.57
+
+Magic[edit|edit source]
+
+Diamond jewellery can be enchanted usingLvl-4 Enchant, requiring level 57Magic. The spell requires 1cosmic rune, 10earth runesand the piece of diamondjewellerythat is to be enchanted.
+
+Unenchanted | Cost of Unenchanted Jewellery | Material Cost[2] | Enchanted | Sell price | Profit/Loss | XP/Cast | XP/Hour | Coins/XP
+
+Diamond ring | 1,896 | 2,020 | Ring of life | 1,791 | −229 | 67 | 107,200 | -3.42
+
+Diamond necklace | 1,999 | 2,123 | Phoenix necklace | 2,250 | 127 | 67 | 107,200 | 1.90
+
+Diamond bracelet | 1,969 | 2,093 | Abyssal bracelet | 2,188 | 95 | 67 | 107,200 | 1.42
+
+Diamond amulet | 1,989 | 2,113 | Amulet of power | 2,107 | −6 | 67 | 107,200 | -0.09
+
+Combined[edit|edit source]
+
+Requires 57 Magic; for experience rates and Crafting requirements, see above tables. Assumes astaff of earthis wielded for enchantment and astaff of fireis wielded for alchemy.High Alchemyprofits account for the price of anature rune.
+
+Materials | Material cost | Product | Product value | Profit | Product value (HA) | Profit (HA)
+
+DiamondGold barCosmic rune | 1,783 | Ring of life | 1,791 | 8 | 2,115 | 217
+
+DiamondGold barCosmic rune | 1,783 | Phoenix necklace | 2,250 | 467 | 2,430 | 532
+
+DiamondGold barCosmic rune | 1,783 | Abyssal bracelet | 2,188 | 405 | 2,520 | 622
+
+DiamondGold barCosmic runeBall of wool | 1,839 | Amulet of power | 2,107 | 268 | 2,115 | 161
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Adamant dragon | 338 | 1–3(noted) | 7/110 | &
+
+Ancient Wyvern | 210 | 3–5(noted) | 3/132 | 
+
+Chest (Tombs of Amascut) | N/A | 2–128(noted) | 3 × 1/27 | 
+
+Chewed bones | N/A | 2(noted) | 8/128 | 
+
+Commander Zilyana | 596 | 6(noted) | 8/127 | 
+
+Crystal chest | N/A | 2 | 12/128 | 
+
+Demonic gorilla | 275 | 4–6(noted) | 17/500 | 
+
+Drake | 192 | 3–6(noted) | 4/85 | 
+
+Eclectic impling jar | N/A | 1 | 1/100 | 
+
+Eclectic impling | 50; 60 | 1 | 1/100 | 
+
+Elf (Thieving) | 85 | 1 | 1/128 | 
+
+Guardian Drake | 386 | 3–6(noted) | 3 × 4/85 | 
+
+Hero | 80 | 1 | 1/128 | 
+
+Kraken | 291 | 8(noted) | 1/128 | 
+
+Magpie impling jar | N/A | 4(noted) | 1/21 | 
+
+Magpie impling | 65; 75 | 4(noted) | 1/21 | 
+
+Mystery boxMembers | N/A | 1 | 1/15 | 
+
+Mystery boxFree-to-play | N/A | 1 | 1/6 | N/A
+
+Mystery boxEntrana | N/A | 1 | 1/15 | 
+
+Pinball | N/A | 2(noted) | 1/10 | 
+
+Shop Counter (gems) | 75 | 1 | 49/3,000 | 
+
+Small chest | N/A | 1 | 2/150 | 
+
+Thermonuclear smoke devil | 301 | 10(noted) | 1/107 | 
+
+VorkathPost-quest | 732 | 10–20(noted) | 2 × 4/150 | 
+
+Vyre | 82 | 1 | 1/132 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Ardougne Gem Stall. | East Ardougne | 0 | 40m | 3,000 | 1,600 | 3.0% |  | 
+
+Conara's Jewels | Cam Torum | 0 | unknown | 2,000 | 1,400 | 2.0% |  | 
+
+Fortis Gem Stall | Civitas illa Fortis | 0 | 40m | 3,000 | 1,600 | 3.0% |  | 
+
+Gem Trader. | Al Kharid | 0 | 40m | 2,000 | 1,400 | 3.0% |  | 
+
+Green Gemstone Gems | Keldagrim | 0 | 40m | 3,000 | 1,600 | 3.0% |  | 
+
+Herquin's Gems. | Falador | 0 | 40m | 2,000 | 1,400 | 3.0% |  | 
+
+Kourend Castle Gem Stall. | Kourend Castle | 0 | 40m | 2,000 | 1,600 | 2.0% |  | 
+
+Prifddinas Gem Stall | Prifddinas | 0 | 40m | 2,000 | 1,600 | 2.0% |  | 
+
+Toci's Gem Store | Aldarin | 0 | 2h | 2,000 | 1,400 | 3.0% |  | 
+
+Changes[edit|edit source]
+
+Date | Changes
+
+Date unknown | Gems available onfree-to-playworlds can no longer be crushed with ahammerto receive amembers object(crushed gem).
+
+Trivia[edit|edit source]
+
+Diamond was used as one of the tiers of post count badges on theofficial Runescape Forums. Players needed to have made 250,000 posts to be given the diamond badge.
+
+v•t•eDiamond
+
+ | UncutDiamond
+
+Jewellery | NecklaceAmulet(Unstrung)RingBracelet
+
+Enchanted jewellery | Phoenix necklaceAmulet of powerRing of lifeAbyssal bracelet
+
+Fletching | Bolt tipsBolts(enchanted)Dragon bolts(enchanted)
+
+v•t•eGems
+
+Semiprecious stones | Pearl(Pearls)Opal(Uncut)Jade(Uncut)Red topaz(Uncut)Amethyst
+
+Precious stones | Sapphire(Uncut)Emerald(Uncut)Ruby(Uncut)Diamond(Uncut)Dragonstone(Uncut)Onyx(Uncut)Zenyte(Uncut)(Shard)
+
+Quest-related gems | Blood diamondIce diamondSmoke diamondShadow diamondBlack prismCharged onyxDeconstructed onyx
+
+Others | Carved gemCrushed gemEnchanted gemEternal gemMystic jewelPolished blue gem(Unpolished)

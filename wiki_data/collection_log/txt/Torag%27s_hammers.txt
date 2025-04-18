@@ -1,0 +1,4 @@
+Item: Torag's hammers
+Summary: Torag's hammers are a two-handed melee weapon that is part of Torag the Corrupted's set of barrows equipment. To wield Torag's hammers, a player must have 70 Attack and Strength.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

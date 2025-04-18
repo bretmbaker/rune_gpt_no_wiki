@@ -1,0 +1,2 @@
+Item: Woodsman tutor
+Summary: Wilfred the Woodsman tutor is a master of Woodcutting. He can be found in Lumbridge, south of the furnace. Players can speak to him for information about basic and advanced Woodcutting and Firemaking, depending on their skill level. He can also give players a bronze axe and tinderbox if they do not have one already.

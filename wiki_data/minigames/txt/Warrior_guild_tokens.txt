@@ -1,0 +1,119 @@
+[Minigame: Warrior_guild_tokens]
+
+Warrior guild token
+
+
+
+
+
+
+
+Released | 13 June2006(Update)
+
+Members | Yes
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | No
+
+Equipable | No
+
+Stackable | Yes
+
+Noteable | No
+
+Options | Drop
+
+Examine | Warrior Guild Token.
+
+
+
+Values
+
+
+
+Value | 1 coin
+
+High alch | 0 coins
+
+Low alch | 0 coins
+
+Weight | 0 kg
+
+
+
+Advanced data
+
+
+
+Item ID | 8851
+
+Link | MOID
+
+
+
+Warrior guild tokensare obtained in various activities found in theWarriors' Guild, with their use being for entry to the2ndfloor[UK]3rdfloor[US]Cyclopschamber and basement where the monsters dropdefenders. To enter the area, players need a minimum of 100 tokens in their inventory (will not be consumed upon entry).
+
+Upon entry, 10 tokens are taken from your inventory immediately. Every minute, 10 tokens will crumble away.When you run out of tokens, you are asked to leave, and if you stay, you will be teleported out in another minute.
+
+Unlocking theeasy Combat Achievementsreward tier doubles the amount of tokens earned throughout the guild, while unlocking themedium Combat Achievementsreward tier triples the amount of tokens earned throughout the guild.
+
+Treasure Trails[edit|edit source]
+
+The warrior guild token is the itemFalorequires players to show him when he sings about:A token used to kill mythical beasts, in hopes of a blade or just for an xp feast.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Animated Adamant Armour | 113 | 30 | Always | 
+
+Animated Black Armour | 69 | 20 | Always | 
+
+Animated Bronze Armour | 11 | 5 | Always | 
+
+Animated Iron Armour | 23 | 10 | Always | 
+
+Animated Mithril Armour | 92 | 25 | Always | 
+
+Animated Rune Armour | 138 | 40 | Always | 
+
+Animated Steel Armour | 46 | 15 | Always | 
+
+Gallery[edit|edit source]
+
+One warrior guild tokenTwo warrior guild tokensThree warrior guild tokensFour warrior guild tokensFive warrior guild tokens
+
+v•t•eCurrencies
+
+Tradeable | CoinsArchery ticketsNumulitesPlatinum tokensTrading sticks
+
+Untradeable | Agility arena ticketsAnima-infused barkAbyssal pearlsBarronite shardsBlood moneyBrimhaven voucherCastle wars ticketsEcto-tokensFrog tokensGolden nuggetsGlistening tearsHallowed marksMarks of graceMolch pearlsMermaid's tearsParamaya ticketsReward tokenStardustTermitesTokkulUnidentified mineralsWarrior guild tokens
+
+Virtual | Aga resinBounty Hunter pointsCarpenter pointsFoundry ReputationHonour pointsLast Man Standing pointsLeague PointsLye resinMox resinNightmare Zone reward pointsPieces of eightPizazz pointsSlayer reward pointsQuest Speedrunning pointsVoid Knight commendation pointsZeal Tokens
+
+Discontinued | Survival tokensBounty Hunter pointsAgility arena ticket (discontinued)
+
+v•t•eWarriors' Guild
+
+Monsters | CyclopsBronze armourIron armourSteel armourBlack armourMithril armourAdamant armourRune armour
+
+Defenders | BronzeIronSteelBlackMithrilAdamantRuneDragonAvernic
+
+Barrels | OneTwoThreeFourFive
+
+Other items | Warrior guild tokenDefensive shield18lb shot22lb shotGround ashes
+
+Shops | ArmouryFood shopPotion shop
+
+Features | Warriors' Guild bank
+
+NPCs | AjjatAntonGamfredGhommalLaidee GnonockHarrallak MenarousJadeJimmyKamfreenaLidioLillyRefShanomiSloaneYadech StrongarmLorelaiRory
+
+Scenery | DummyHeavy doorMagical Animator

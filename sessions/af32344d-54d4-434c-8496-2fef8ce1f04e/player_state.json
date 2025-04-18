@@ -1,0 +1,47 @@
+{
+  "username": "New Adventurer",
+  "created_at": "2025-04-14T18:33:48.502429",
+  "tutorial_progress": {
+    "character_created": false,
+    "tutorial_island_started": true,
+    "tutorial_island_completed": false
+  },
+  "skills": {
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "prayer": 1,
+    "magic": 1,
+    "runecraft": 1,
+    "hitpoints": 10,
+    "crafting": 1,
+    "mining": 1,
+    "smithing": 1,
+    "fishing": 1,
+    "cooking": 1,
+    "firemaking": 1,
+    "woodcutting": 1,
+    "agility": 1,
+    "herblore": 1,
+    "thieving": 1,
+    "fletching": 1,
+    "slayer": 1,
+    "farming": 1,
+    "construction": 1,
+    "hunter": 1
+  },
+  "inventory": [
+    {
+      "name": "Bronze sword",
+      "quantity": 1
+    },
+    {
+      "name": "Bronze axe",
+      "quantity": 1
+    }
+  ],
+  "quest_log": {},
+  "current_location": "Tutorial Island",
+  "last_save": "2025-04-14T18:33:51.513713"
+}

@@ -1,0 +1,57 @@
+[Weapon: Mining Helmet#Unlit]
+
+
+Amining helmetis an item primarily dropped byCave goblin miners. It is dropped unlit, but can be lit by players who have aFiremakinglevel of 65. It can also be obtained by showing thebroochtoMistagafter completingThe Lost Tribequest, or purchased fromMiltog's Lampsin theDorgesh-Kaanmarket place. It has the same stats as an iron med helm.
+This is one of sixlight sourcesthat can be equipped; the others being theKandarin headgear, theFiremaking cape, themax cape, theAbyssal Lantern, and theBruma torch.
+
+
+[Infobox]
+Released: 31 May2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A helmet with an unlit lamp on it.
+General Store Value: 600 coins
+High alch: 360 coins
+Low alch: 240 coins
+Weight: 0.907 kg
+Grand Exchange Value: 1,008 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 231
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +5
+- Crush: +3
+- Magic: -1
+- Ranged: +4
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Cave goblin miner | 11 | 1 | 20/128 | 
+Chest (Dorgesh-Kaan Average)Normal |  | 1 | 1/7 | N/A
+Chest (Dorgesh-Kaan Average)Zanik's house |  | 1 | 1/23 | N/A
+Chest (Dorgesh-Kaan Rich) | 78 | 1 | 1/15 | 

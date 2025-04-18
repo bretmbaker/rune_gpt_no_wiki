@@ -1,0 +1,137 @@
+[Weapon: Bandos Chestplate]
+
+
+TheBandos chestplateis a part of theBandos armourset, which requires 65Defenceto wear. It is dropped byGeneral Graardorand his bodyguards in theGod Wars Dungeon. The Bandos chestplate provides a +4Strength bonus, and more defensive bonuses than comparable body armours such as thefighter torsoandinquisitor's hauberk. Despite seemingly being made of metal, the Bandos chestplate does not interfere withAva's devices.
+Bandos armour is among the most powerful melee armours inOld School RuneScape. Because it never degrades, it is ideal formelee training,Slayer tasks, and other prolonged combat encounters.
+
+
+[Infobox]
+Released: 17 October2013(Update)
+Also called: BCP
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A sturdy chestplate.
+General Store Value: 290,010 coins
+High alch: 174,006 coins
+Low alch: 116,004 coins
+Weight: 12 kg
+Grand Exchange Value: 20,912,967 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 2,410
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: -10
+
+Defence Bonuses:
+- Stab: +98
+- Slash: +93
+- Crush: +105
+- Magic: -6
+- Ranged: +133
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+General Graardor | 624 | 1 | 1/381 | 
+Sergeant Grimspike | 142 | 1 | 1/16,256 | 
+Sergeant Steelwill | 142 | 1 | 1/16,256 | 
+Sergeant Strongstack | 141 | 1 | 1/16,256 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+2 | Abyssal Sire/Strategies(Phase 1 Melee)
+2 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+2 | Adamant dragon/Strategies(Melee)
+2 | Alchemical Hydra/Strategies(Melee)
+3 | Amoxliatl/Strategies(Melee)
+2 | Ancient Wyvern/Strategies(Melee)
+3 | Araxxor/Strategies(Melee)
+3 | Barbarian Assault/Strategies(Melee (high level))
+2 | Basilisk Knight/Strategies(Melee)
+3 | Cerberus/Strategies(Melee)
+2 | Chambers of Xeric/Challenge Mode(Melee)
+2 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+2 | Chambers of Xeric/Strategies(Melee)
+2 | Chompington(Melee)
+2 | Corporeal Beast/Strategies(Melee masses)
+2 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Dagannoth Kings/Strategies(Magic (Rex only))
+2 | Dark beast/Strategies(Melee)
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | Down Do Specs(Melee)
+2 | Drake/Strategies(Melee)
+2 | Duke Sucellus/Strategies(Melee)
+2 | Fortis Colosseum/Strategies(High efficiency)
+2 | Fortis Colosseum/Strategies(Ranged)
+2 | Fortis Colosseum/Strategies(Mage)
+2 | Fortis Colosseum/Strategies(Melee)
+2 | Galvek Speed-Trialist(Melee)
+5 | General Graardor/Strategies(Solo (Melee))
+4 | General Graardor/Strategies(Advanced Tank)
+5 | General Graardor/Strategies(Melee Attacker)
+2 | Giant Mole/Strategies(Melee)
+2 | Glough Speed-Trialist(Melee)
+4 | Gout tuber/Strategies(Tank)
+2 | Grotesque Guardians/Strategies(Melee)
+4 | K'ril Tsutsaroth/Strategies(Melee Tank)
+2 | K'ril Tsutsaroth/Strategies(Melee)
+2 | Kalphite Queen/Strategies(High DPS (Phase One))
+2 | King Black Dragon/Strategies(Melee BIS smuggle)
+2 | Metal dragons/Strategies(Melee)
+2 | Mithril dragon/Strategies(Melee)
+4 | Mithril dragon/Strategies(Melee tank)
+3 | Moons of Peril/Strategies(Moons of Peril Armour)
+2 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+3 | Nightmare Zone/Strategies(Melee)
+3 | Nightmare Zone/Strategies(Melee (Dharok's))
+3 | The Nightmare/Strategies(Melee)
+2 | Phantom Muspah/Strategies(Melee)
+3 | Phosani's Nightmare/Strategies(Melee)
+2 | Rune dragon/Strategies(Melee)
+2 | Scurrius/Strategies(Melee (high level))
+2 | Skeletal Wyvern/Strategies(Melee)
+2 | Skotizo/Strategies(Melee)
+2 | Slayer task/Fossil Island wyverns(Melee)
+2 | Slayer task/Gargoyles(Melee)
+2 | Slayer task/Jellies(Melee)
+2 | Slayer task/Nechryael(Melee)
+2 | Slayer task/Suqah(Melee (South))
+3 | Slayer task/Trolls(Melee (Mountain trolls))
+3 | Slayer task/Trolls(Melee (Ice trolls))
+2 | Slayer task/Wyrms(Melee)
+2 | Slayer training(Melee)
+2 | Sulliuscep/Strategies
+2 | The Hueycoatl/Strategies(Melee)
+2 | Theatre of Blood/Hard Mode(Melee)
+2 | Theatre of Blood/Strategies(Melee)
+3 | Thermonuclear smoke devil/Strategies(Melee)
+2 | Tombs of Amascut/Strategies(Melee switch)
+2 | Tormented Demon/Strategies(Melee switch)
+2 | TzHaar Fight Cave/Strategies(Melee)
+2 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+2 | Ultimate Ironman Guide/Equipment
+2 | Vardorvis/Strategies(Melee)
+2 | Vorkath/Strategies(Melee)
+3 | Vyrewatch Sentinel/Strategies(DPS)

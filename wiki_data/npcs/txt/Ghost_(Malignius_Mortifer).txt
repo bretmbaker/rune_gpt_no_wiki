@@ -1,0 +1,2 @@
+Item: Ghost (Malignius Mortifer)
+Summary: The ghost is an undead being occasionally summoned by Malignius Mortifer. It will follow Malignius around for roughly 15 seconds before dying. It cannot be attacked. Wearing a ghostspeak amulet does not affect the text that appears when the ghost is summoned.

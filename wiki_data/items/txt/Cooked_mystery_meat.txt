@@ -1,0 +1,1 @@
+Cooked mystery meatcan be obtained by cookingraw mystery meator obtained when pickpocketingvyresinDarkmeyer. It heals 5 hitpoints. When eaten, a message will appear in the chatbox: "It heals some health, and tastes concerningly nice."

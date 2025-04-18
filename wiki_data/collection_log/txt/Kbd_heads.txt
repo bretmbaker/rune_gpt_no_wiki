@@ -1,0 +1,4 @@
+Item: Kbd heads
+Summary: Kbd heads are a rare drop from the King Black Dragon. It can be stuffed at the Taxidermist in Canifis by using the item on her and paying 50,000 coins, returning a stuffed kbd heads. When players take it to the her, she will tell players "Three?! This must be a King Black Dragon! I'll have to get out my heavy duty tools -- this skin's as tough as iron!"
+Sources:
+- King Black Dragon (Level 276, Quantity: 1, Rarity: 1/128)

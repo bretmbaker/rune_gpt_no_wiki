@@ -1,0 +1,4 @@
+Item: Soiled page
+Summary: Soiled pages are a possible drop from the Hueycoatl, or created at the Book of Earthen Might with desiccated pages and level 50 Runecraft. They are used to charge the tome of earth, which gives it additional effects.
+Sources:
+- The Hueycoatl (Level 642, Quantity: 4–80, Rarity: 5/68)

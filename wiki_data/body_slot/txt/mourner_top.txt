@@ -1,0 +1,52 @@
+[Weapon: Mourner Top]
+
+
+Amourner topis an article of clothing that may be equipped on the torso slot of a player character. To obtain one, players must kill a level 11Mourneron the path toPrifddinas. However, the Mourner will bring all combat stats down to 20, so it is recommended players bring astat restore potionor asuper restore potion, although a stat restore potion is a cheaper option. The top is identical to aPlague jacket, with the exception of the built-in gloves.
+This, along with the rest of the mourner gearCANNOTbe used to enter the incinerator area north ofWest Ardougne.
+
+
+[Infobox]
+Released: 19 July2005(Update)
+Members: Yes
+Quest item: Mourning's End Part I
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A thick heavy leather top.
+General Store Value: 150 coins
+High alch: 90 coins
+Low alch: 60 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Closed Chest (Mourner Headquarters) | N/A | 1 | Always | N/A
+MournerLevel 108 | 108 | 1 | Always | 

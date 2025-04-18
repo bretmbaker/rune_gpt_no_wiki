@@ -1,0 +1,144 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+The Lost Tribe (#81)
+
+
+
+
+
+Released | 31 May 2005 ( Update )
+
+Members | Yes
+
+Quest series | Dorgeshuun , #1
+
+Lead developer(s) | John A
+
+
+
+The Lost Tribe is the first quest in the Dorgeshuun quest series . Sigmund , the advisor to the Duke of Lumbridge tasks you to investigate sightings of goblins emerging from a newly formed crack in the castle's basement. The goblins turn out to be the pacifist Dorgeshuun tribe which has been lost from history for many years.
+
+Details [ edit | edit source ]
+
+Start point | Talk to Sigmund in Lumbridge Castle . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | Sigmund is the advisor to the Duke of Lumbridge, but the duke does not always take his advice. When part of the cellar wall collapses the duke insists the damage was caused by an earthquake, but Sigmund is worried about a monster attack. If you investigate this mystery it will lead you through treacherous caves to uncover something lost by the Gods for thousands of years.
+
+Requirements | Completion of the following quests: Goblin Diplomacy Rune Mysteries 13 Agility ( boostable ) 13 Thieving ( boostable ) 17 Mining ( boostable )
+
+Items required | Pickaxe Light source ( Note: Candles , torches and oil lamps can cause swamp gas explosions if going off-route, and need a tinderbox to stay lit)
+
+Recommended | Fast travel to Varrock , Falador , Lumbridge , and Mind Altar Teleport ( teleport spells or tablets ) Lockpick for the H.A.M. Hideout if Thieving is low. Stamina potion if below 70 Agility
+
+Enemies to defeat | None
+
+League notes | Unlocking Misthalin ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Crashing in the cellar [ edit | edit source ]
+
+Start by talking to Sigmund , who is located on the 1 st floor [ UK ] 2 nd floor [ US ] of Lumbridge Castle in the same room with Duke Horacio .
+
+Talk to the Cook , Hans , Father Aereck , and Bob . One of them will tell you that they saw a goblin with huge eyes in the castle basement. Note: Once someone has told you that they saw a goblin, you do not need to question anyone else.
+
+Report this to the Duke Horacio . Sigmund will join in on the conversation. After the conversation is finished, you'll be able to go down to the basement, entrance is in the kitchen through the trapdoor.
+
+Once in the basement look for a blocked tunnel (rubble) on the east side of the cellar. Use your pickaxe on it. Light your light source , then squeeze through (requires 13 Agility), grab the brooch , and turn back. Otherwise, you'll fall into a pit.
+
+Go back to the duke and show him the brooch. You will be asked to show it to Reldo in the library (located north of the ground floor [ UK ] 1 st floor [ US ] ) in Varrock Palace .
+
+Investigating in the library [ edit | edit source ]
+
+Show the brooch to Reldo , the librarian. He'll tell you to search the bookcases for a book on goblin history, the Goblin symbol book . It's called "the History of the Goblin race" when you first pick it up, but the character mentions that "this must be it", so you'll know when you've hit the right shelf. The book is found in a bookcase at the north-western portion of the room; the furthest up the west wall of the room.
+
+Turn to the last page to see that the symbol on the brooch translates to " Dorgeshuun , goblins of the strong spears". Keep the book for the remainder of the quest since it's very important.
+
+Goblin history [ edit | edit source ]
+
+Head to Goblin Village (using a Falador Teleport or Mind Altar Teleport via Arceuus spellbook) and talk to the Generals. Eventually, they will teach you the goblin salute and the goblin bow emotes .
+
+During the dialogue with the Generals, you should choose the following options:
+
+You will then receive confirmation you've learned both emotes. Double check your emote page to be sure, then move on to the next section.
+
+The Goblin Maze [ edit | edit source ]
+
+Go back to Lumbridge, and talk to the duke. He will tell you to investigate the caves further. Go back into the tunnel. See the map for the correct path.
+
+Warning : Players using an open flame must pay very close attention to this guide. Taking the wrong route will cause a trapdoor to be opened, which leads to the Lumbridge Swamp Caves , which has explosive swamp gas . Players using such a light source might want to consider bringing a teleport out (such as the chronicle , for lower-levelled players) in case they take the wrong route. When taking the correct route, no swamp gas will be encountered, so open flames are safe in that case.
+
+If you go the wrong way, one of two things will happen:
+
+A rock will fall in front of you or on top of you, dealing damage. You'll fall down a trapdoor and end up in the main part of the Lumbridge Swamp Caves . Exposed flames will be put out, so be ready to use your Tinderbox to relight it. You can find your way back through the hole you created earlier by heading north.
+
+The way through the Goblin Maze is the same for all players. See the map.
+
+Contact [ edit | edit source ]
+
+When you reach the end, you'll find the Dorgeshuun tribe. Talk to Mistag , and do your Goblin Bow in front of him. He will tell you that the Dorgeshuun are actually peaceful, and the Lumbridge kitchen incident was an accident. You'll also learn about the goblins ' backstory. Mistag will offer to take you back to Lumbridge if you ask him to show you the way out. Agree and talk to the duke.
+
+Missing silverware [ edit | edit source ]
+
+Speak with the duke and tell him that you've made contact with the goblins. Some silverware was stolen from the castle basement, and the goblins are being blamed for it.
+
+Pickpocket Sigmund (requires 13 Thieving) and unlock his chest (located in the spinning wheel room) to find some H.A.M. robes (keep them as you'll need these for Death to the Dorgeshuun , the sequel quest ).
+
+Tell the duke that Sigmund is part of Humans Against Monsters .
+
+Exit through the west side of Lumbridge castle and go to the H.A.M. Hideout (the trapdoor entrance is north-west of Lumbridge castle ; pick the lock; you do not need a lockpick).
+
+You will find the stolen silverware in the crate near the entrance, before the large meeting area.
+
+Give it back to the duke, who will fire Sigmund.
+
+Peace [ edit | edit source ]
+
+The duke will give you a peace treaty. He will sign it and ask you to set up a meeting with the leader of the Dorgeshuun to sign it as well. Go into the tunnel. This time, you won't have to navigate through yourself because you'll see a new goblin there, Kazgar , whom you will follow to the mines.
+Talk to Mistag , who will summon the Dorgeshuun leader, Ur-tag to sign the treaty. The signing will commence with a cutscene in the Lumbridge dining room, with you and Mistag as witnesses. During the cutscene you will see Sigmund outside, saying that the goblins will soon be destroyed.
+
+Congratulations, quest complete!
+
+ | Dorgeshuun Treaty
+
+The music track that only plays during the cutscene.
+
+
+
+Rewards [ edit | edit source ]
+
+1 Quest point 3,000 Mining experience The ability to use the Goblin Bow and Goblin Salute emotes Access to the Dorgesh-Kaan mine A ring of life Access to Nardok's Bone Weapon's store where players can purchase the Dorgeshuun crossbow , bone bolts and other bone weapons . A mining helmet from giving the brooch back to Mistag .
+
+Required for completing [ edit | edit source ]
+
+Completion of The Lost Tribe is required for the following:
+
+Death to the Dorgeshuun Wanted!
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Trivia [ edit | edit source ]
+
+If the player has completed the quest Dragon Slayer I or Rune Mysteries , Sigmund will convince Duke Horacio to listen to them by telling him that the player is the adventurer who slew Elvarg or that they were the one who delivered the Air talisman to Sedridor. Father Aelbeck will also remark about Restless Ghost and the Cook about Recipe for Disaster
+
+v • t • e The Lost Tribe
+
+NPCs | Sigmund Duke Horacio Cook Hans Father Aereck Bob Reldo General Bentnoze General Wartface Mistag Kazgar Ur-tag
+
+Items | Brooch Goblin symbol book Key Silverware Peace treaty H.A.M. robes Hood Shirt Robe Gloves Boots Cloak Logo |  | Brooch Goblin symbol book Key Silverware Peace treaty | H.A.M. robes | Hood Shirt Robe Gloves Boots Cloak Logo
+
+ | Brooch Goblin symbol book Key Silverware Peace treaty
+
+H.A.M. robes | Hood Shirt Robe Gloves Boots Cloak Logo
+
+Locations | Lumbridge Swamp Caves Dorgesh-Kaan mine
+
+Music | Cave of the Goblins The Lost Melody The Lost Tribe
+
+Related | Quick guide Transcript Dorgeshuun

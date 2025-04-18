@@ -1,0 +1,388 @@
+ | This miniquest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Barbarian Training
+
+
+
+
+
+Released | 3 July 2007 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Developer(s) | Rework: Mod Arcane , Mod Maylea [1]
+
+
+
+Barbarian Training is a miniquest that explores a set of expansions to Farming , Firemaking , Herblore , Fishing , and Smithing . The miniquest provides access to the Ancient Cavern and the numerous monsters within, such as the mithril dragon .
+
+Initially released as a standalone activity on 3 July 2007 , Barbarian Training was reworked into a miniquest on 14 February 2024 , alongside the addition of Barbarian Farming. This page contains information on both the miniquest itself, as well as the individual methods of training skills.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Otto Godblessed in his grotto at the lake atop Baxtorian Falls . Show on map
+
+Official difficulty | Experienced
+
+Official length | Medium
+
+Description | Otto Godblessed has been researching his history and training people in the ways of his ancestors, and now he's ready to teach you. From his hut on the banks of the lake at the top of Baxtorian Falls, you'll go Fishing with your bare hands, mix fish eggs into your potions, wield one-handed spears and, finally, go deep into the ancient cavern beneath the lake.
+
+Requirements | Completion of Tai Bwo Wannai Trio ( not required to start ) 55 Fishing ( boostable ) ( not required to start ) 35 Firemaking ( not boostable ) ( not required to start ) 35 Strength ( not boostable ) ( not required to start ) 15 Agility ( not boostable ) ( not required to start ) 15 Farming ( not boostable ) ( not required to start ) 11 Crafting ( not boostable ) ( not required to start ) 5 Smithing ( not boostable ) ( not required to start ) 4 Herblore ( not boostable ) ( not required to start )
+
+Items required | Farming: Any seed that can be planted with a seed dibber (such as allotment and herb seeds) and a free Farming patch for it (part 1) Any sapling and a free Farming patch for it (part 2) A spade (part 2) An axe or 200 coins (part 2, to clear a required patch if it is occupied) Firemaking: Any bow except twisted , cursed , dark , crystal , ogre , rain or the signed oak bow (part 1) Oak logs (can get some oak logs north of Otto's house , down a hill) (part 1) A tinderbox (part 2) An axe (part 2) Fishing: Some fishing bait or feathers A knife Smithing: Hammer Two metal bars of a level you can smith Two logs corresponding to the type of metal bars you are using. Bronze , iron , steel , mithril , adamantite , and runite bars require normal , oak , willow , maple , yew or magic logs , respectively. Herblore: A normal attack potion (2 doses) Roe (can be obtained during Barbarian Fishing) A knife for roe or caviar
+
+Recommended | 70 Combat level A games necklace to teleport to the Barbarian Outpost Armour , weapons and food for fighting Mithril dragons to obtain chewed bones A tinderbox Teleport to Camelot or Catherby teleport for Catherby beach or transport to the Fishing Guild
+
+Enemies to defeat | Multiple mithril dragons (level 304)
+
+League notes | Karamja ✓ - location requirement Kandarin ✓ - location requirement
+
+Starting out [ edit | edit source ]
+
+Talk to Otto Godblessed in his grotto , on top of Baxtorian Falls . Players can get there quickly by using the games necklace teleport to the Barbarian Outpost and running south. Alternatively, players can also use the Barbarian Assault minigame teleport (after fully playing through the tutorial), or run up directly from East Ardougne and climb the cliff side of the waterfall to the plateau.
+
+Otto is interested in the cultural history of his people and will offer to teach eligible players about barbarian skills. Upon speaking to him, respond with, "You think so?" to start the miniquest.
+
+Later on, if you ask about the Ancient Cavern under the lake, he will give a blank note book . You can add to the note book as you find ancient pages within, which are usually collected by searching skeletons on the cave floor. Note that doing so may result in a skeleton heavy or skeleton hero attacking.
+
+Fishing [ edit | edit source ]
+
+Otto will give the player information about barbarian Fishing , allowing the player to fish with a heavy rod and catch new fish, as well as catch fish barehanded. Note that you do not need to complete both sections to begin fishing in the nearby waters with a barbarian rod .
+
+Heavy rod fishing [ edit | edit source ]
+
+Requirements: 48 Fishing , 15 Agility , 15 Strength
+
+Speak to Otto and ask "What can I learn about the use of a fishing rod?" He will tell you that barbarians use heavier tackle to catch leaping fish in the lake nearby. He will tell you to search under his bed to obtain a barbarian rod .
+
+Use the fishing spots around the lake to catch a leaping fish. The fish provide a low-effort training method, as well as small amounts Cooking experience from successfully gutting the fish with a knife and obtaining roe or caviar . Though gutting is not necessary for general training, it gives a good chance of obtaining fish offcuts , which can be used as bait for these fishing spots. Roe and caviar can also be used as bait if there are no other types of bait in the player's inventory.
+
+One roe is needed for the Barbarian Herblore section further below, and multiple fish may need to be gutted due to the possibility of failing to do so. At level 80 Cooking, it is no longer possible to fail cutting salmon and sturgeon .
+
+Fish | Level | Experience
+
+ |  |  |  |  |  |  |  | 
+
+ | Leaping trout | 48 | 15 | 15 | 0 | 50 | 5 | 5 | 10 | 70
+
+ | Leaping salmon | 58 | 30 | 30 | 0 | 70 | 6 | 6 | 10 | 92
+
+ | Leaping sturgeon | 70 | 45 | 45 | 0 | 80 | 7 | 7 | 15 | 109
+
+Level | XP/h (AFK) | XP/h (3-tick)
+
+ | / | Total |  | / |  | Total
+
+48 | 23,000 | 2,300 | 27,600 | 41,000 | 4,100 | 5,400 | 54,600
+
+58 | 37,000 | 3,400 | 43,800 | 68,000 | 6,300 | 9,300 | 89,900
+
+70 | 48,000 | 4,400 | 56,800 | 90,000 | 8,200 | 13,800 | 120,200
+
+80 | 52,000 | 4,700 | 61,400 | 97,000 | 8,800 | 14,800 | 129,400
+
+90 | 54,000 | 4,900 | 63,800 | 103,000 | 9,300 | 15,800 | 137,400
+
+99 | 57,000 | 5,200 | 67,400 | 108,000 | 9,800 | 16,800 | 144,400
+
+The following table shows the ratio between Fishing and Agility/Strength experience:
+
+Level | Ratio (Fishing:other skills)
+
+50-58 | Exactly 10:1
+
+58-70 | ~10.8:1
+
+70-80 | ~10.9:1
+
+80-90 | ~11.1:1
+
+90-99 | ~11.3:1
+
+99 | ~11.4:1
+
+Barehanded fishing [ edit | edit source ]
+
+Requirements: 55 Fishing , 15 Agility , 35 Strength
+
+Speak to Otto and ask "Please teach me of your cunning with harpoons." He will tell you that instead of using a harpoon, you will use your arm as bait. Find a fishing spot where a harpoon is required; Catherby is a good location with no requirements, while the Fishing Guild is closer but requires level 68 Fishing to enter. The fishing spots in Tempoross Cove will work as well.
+
+While barehanded fishing is identical in speed as fishing with a regular harpoon , it requires 20 additional Fishing levels to fish the same fish barehanded ( boosts can be used). Barehanded fishing also gives small amounts of bonus Strength experience (see the table below).
+
+Fish | Level | Experience
+
+ |  |  |  | 
+
+ | Raw harpoonfish | 55 | 35 | 8.5 | 10 | 18.5
+
+ | Raw tuna | 55 | 35 | 80 | 8 | 88
+
+ | Raw swordfish | 70 | 50 | 100 | 10 | 110
+
+ | Raw shark | 96 | 76 | 110 | 11 | 121
+
+Firemaking [ edit | edit source ]
+
+After completion of the Fishing section, speak to Otto and ask about barbarian Firemaking . He will tell you to take a bow and use it with oak logs as a way of lighting them without a tinderbox .
+
+Lighting fires with a bow [ edit | edit source ]
+
+Requirements: 35 Firemaking , 11 Crafting
+
+Lighting logs with a bow gives the same experience as lighting them with a tinderbox. You can use your logs on the bow to make it less click intensive. After lighting your first set of Oak logs , speak to Otto again to be able to continue.
+
+This stage of barbarian training is required to enter the Ancient Cavern , which is the location of mithril dragons , and required for completion of Dragon Slayer II .
+
+Logs | Firemaking
+
+Level | Exp
+
+ | Logs | 21 | 40
+
+ | Achey tree logs | 21 | 40
+
+ | Oak logs | 35 | 60
+
+ | Willow logs | 50 | 90
+
+ | Teak logs | 55 | 105
+
+ | Arctic pine logs | 62 | 125
+
+ | Maple logs | 65 | 135
+
+ | Mahogany logs | 70 | 157.5
+
+ | Yew logs | 80 | 202.5
+
+ | Magic logs | 95 | 303.8
+
+ | Redwood logs | 99 | 350
+
+Pyre ships [ edit | edit source ]
+
+Warning: This section involves entering the Ancient Cavern , a dangerous area filled with high-level monsters that can attack using multiple combat styles, including dragonfire . There is no exit immediately available upon entering the dungeon, so it is highly recommended to bring a one-click teleport. Don't bring in anything you are not willing to lose.
+
+After creating a fire with a bow, players can ask Otto "I have completed firemaking with a bow. What follows this?", and he will explain how to make pyre ships , which involves diving into the Ancient Cavern below the lake to obtain chewed bones . Only mithril dragons will drop chewed bones (at a rate of ~1/42), and obtaining one is required to complete the miniquest; mangled bones will not count.
+
+After receiving the bones, players can build the pyre ship, requiring a set of logs (preferably magic logs for the Elite Kandarin diary requirement) , a woodcutting axe , and a tinderbox or suitable bow. Pyre ships can be created on the pyre sites around the lake near Otto's Grotto . Burning a pyre ship will grant the player an experience bonus of up to 300%, depending on the logs used, the next time they bury bones . In order to receive this bonus, the player must have fully completed the Firemaking portion of barbarian training.
+
+Peaceful barbarian spirits released from chewed bones will give you some items , including a 1/256 chance for a dragon full helm , while spirits released from mangled bones result in a level 166 ferocious barbarian spirit appearing, who will attack the player. Please note that if you use mangled bones to make a pyre ship, you will be unable to make another pyre ship until you kill the spirit. If you attempt to make another one while a barbarian spirit is around, the sacrifice will be declined.
+
+Pyre ships have boostable Firemaking and Crafting level requirements.
+
+Logs | Level | Experience | Number of bones with bonus exp
+
+ |  |  | 
+
+ | Logs | 11 | 11 | 10 | 40 | 1
+
+ | Achey tree logs | 11 | 11 | 10 | 40 | 1
+
+ | Oak logs | 25 | 25 | 15 | 60 | 2
+
+ | Willow logs | 40 | 40 | 22.5 | 90 | 2
+
+ | Teak logs | 45 | 45 | 26.2 | 105 | 3
+
+ | Arctic pine logs | 52 | 52 | 31.2 | 125 | 3
+
+ | Maple logs | 55 | 55 | 33.7 | 135 | 3
+
+ | Mahogany logs | 60 | 60 | 39.3 | 157.5 | 4
+
+ | Yew logs | 70 | 70 | 50.6 | 202.5 | 4
+
+ | Magic logs | 85 | 85 | 75.9 | 303.8 | 5
+
+ | Redwood logs | 95 | 95 | 87 | 350 | 5
+
+Farming [ edit | edit source ]
+
+Otto will give the player information about barbarian Farming . Completion of barbarian Farming allows players to plant seeds without a seed dibber , and automatically destroy empty plant pots when planting trees .
+
+Bare-handed planting [ edit | edit source ]
+
+After asking about agricultural training, Otto will request that you plant a seed without a seed dibber. This can be done using any type of patch that requires a seed dibber to plant seeds, for example herbs and allotments , however planting grape seeds will not progress the miniquest. After the seed is planted, you can return to Otto immediately; you don't need to wait for it to grow. Note that this can fail, so it is advised to use low cost/plentiful seeds. You'll know you succeed when you receive the message You feel you have learned more of barbarian ways. Otto might wish to talk to
+you more. Once completed, you will no longer fail to plant seeds bare-handed.
+
+Pot-smashing [ edit | edit source ]
+
+Requirements: 15 Farming
+
+Talk to Otto again after planting a seed bare-handed, and ask again about agricultural training. He will speak about channeling your anger and strength into smashing the pot into dust, as not to leave a mess of pot shards all over the place. Otto will then give you the ability to smash and destroy pots automatically after planting the contents within.
+
+After planting a filled plant pot with any sapling to an empty tree patch , your character will smash the pot to dust, and you can return to Otto to complete your Barbarian Farming training. This feature can be toggled in the settings menu under "Automatically smash empty plant pots."
+
+Note: Spirit trees will not work with completing this training.
+
+Smithing [ edit | edit source ]
+
+After completion of the Fishing section, speak to Otto and ask him to tell you more about the use of spears. He will teach you how to make spears and hastae , but only after you've completed Tai Bwo Wannai Trio . Completion of this section is required to equip the Zamorakian hasta and dragon hunter lance .
+
+Making the weapons [ edit | edit source ]
+
+Requirements: 5 Smithing , completion of Tai Bwo Wannai Trio
+
+Take a metal bar and some corresponding logs , and use them on the barbarian anvil outside Otto's Grotto . Once you've made the spear, talk to Otto again, and he will tell you about hastae . Be careful to make only one spear, as the second bar is required for the next step.
+
+Forging hastae is exactly the same; take a metal bar and the corresponding logs , and then use them on the barbarian anvil. Next, talk to Otto again, and your Barbarian Smithing training will be completed. If Otto says, "You do not exude the presence of one who has poured his soul into manufacturing spears," it means that you need to first smith a spear on the anvil near his grotto.
+
+A table of the spears and hastae that you can make, as well as the logs and bars needed, is found below:
+
+Spears | Hastae | Logs required | Smithing
+
+Level | Exp
+
+ | Bronze spear |  | Bronze hasta |  | Logs | 5 | 25
+
+ | Iron spear |  | Iron hasta |  | Oak logs | 20 | 50
+
+ | Steel spear |  | Steel hasta |  | Willow logs | 35 | 75
+
+ | Mithril spear |  | Mithril hasta |  | Maple logs | 55 | 100
+
+ | Adamant spear |  | Adamant hasta |  | Yew logs | 75 | 125
+
+ | Rune spear |  | Rune hasta |  | Magic logs | 90 | 150
+
+ | Zamorakian spear [n 1] |  | Zamorakian hasta [n 1] | N/A | N/A | N/A | N/A
+
+Herblore [ edit | edit source ]
+
+Requirements: 4 Herblore , completion of Druidic Ritual
+
+After completion of Barbarian Fishing and Firemaking (except pyre ships), speak to Otto and ask "What was that secret knowledge of herblore we talked of?" He will tell you that the secret is in the roe and caviar that you may receive when gutting leaping fish.
+
+Otto will ask you to make an attack mix from a 2-dose attack potion . Add the roe you obtained during the Fishing section to the two-dose attack potion, and hand it back to Otto. This will fully complete the training.
+
+Barbarian potions [ edit | edit source ]
+
+After finishing this training stage, many other potions can be enhanced by adding roe or caviar to a two-dose variant of the potions. To make 2 two-dose potions from a four-dose potion, players can use the four-dose potion on an empty vial , or have certain NPCs do it for them.
+
+Through the creation of barbarian mixes, they will additionally heal 3 or 6 Hitpoints (depending on the mix type) in addition to the regular effects to normal potions, with the trade-off being that each potion mix is only two doses, as well as incurring the standard attack delay from eating food. Note that roe cannot be used in mixes higher levelled than the stat restore mix ; any higher level mix requires caviar , which is obtained the same way as roe.
+
+Left-clicking will not work for barbarian Herblore. The best way to avoid accidentally consuming the fish eggs is to position them in the bottom row of the inventory so that one can select the "use" option immediately after right-clicking, without needing to move the cursor.
+
+Potion | Herblore | Heals (per dose) | Eggs used
+
+Level | Exp
+
+ | Attack mix | 4 | 8 | 3 | or
+
+ | Antipoison mix | 6 | 12 | 3 | or
+
+ | Relicym's mix | 9 | 14 | 3 | or
+
+ | Strength mix | 14 | 17 | 3 | or
+
+ | Restore mix | 24 | 21 | 3 | or
+
+ | Energy mix | 29 | 23 | 3 | 
+
+ | Defence mix | 33 | 25 | 6 | 
+
+ | Agility mix | 37 | 27 | 6 | 
+
+ | Combat mix | 40 | 28 | 3 | 
+
+ | Prayer mix | 42 | 29 | 6 | 
+
+ | Superattack mix | 47 | 33 | 6 | 
+
+ | Anti-poison supermix | 51 | 35 | 6 | 
+
+ | Fishing mix | 53 | 38 | 6 | 
+
+ | Super energy mix | 56 | 39 | 6 | 
+
+ | Hunting mix | 58 | 40 | 6 | 
+
+ | Super str. mix | 59 | 42 | 6 | 
+
+ | Magic essence mix | 61 | 43 | 6 | 
+
+ | Super restore mix | 67 | 48 | 6 | 
+
+ | Super def. mix | 71 | 50 | 6 | 
+
+ | Antidote+ mix | 74 | 52 | 6 | 
+
+ | Antifire mix | 75 | 53 | 6 | 
+
+ | Ranging mix | 80 | 54 | 6 | 
+
+ | Magic mix | 83 | 57 | 6 | 
+
+ | Zamorak mix | 85 | 58 | 6 | 
+
+ | Stamina mix | 86 | 60 | 6 | 
+
+ | Extended antifire mix | 91 | 61 | 6 | 
+
+ | Ancient mix | 92 | 63 | 6 | 
+
+ | Super antifire mix | 98 | 70 | 6 | 
+
+ | Extended super antifire mix | 99 | 78 | 6 | 
+
+Required for completing [ edit | edit source ]
+
+Completion of barbarian training is required for the following:
+
+Dragon Slayer II - Partial completion of barbarian Firemaking is required in order to access the Ancient Cavern . Hard Kandarin Diary Elite Kandarin Diary Elite Morytania Diary
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+8 May 2024 ( update ) | Barbarian potions can now use the Make-all functionality. This can be toggled in the Settings menu.
+
+14 February 2024 ( update ) | The Barbarian Training activity has been reworked into a miniquest . Players who have participated any previous sections of the activity have had those parts of the miniquest automatically completed. Barbarian Farming has been added as an additional skill expansion for Barbarian Training. Completion of Barbarian Farming allows players to plant seeds without a seed dibber and automatically destroy empty plant pots when planting trees .
+
+24 September 2015 ( update ) | The Firemaking skillguide has been updated to include information about barbarian Firemaking.
+
+9 April 2015 ( update | poll ) | Offcuts are now prioritised over other kinds of bait when barbarian fishing.
+
+Trivia [ edit | edit source ]
+
+Earlier drafts of barbarian training briefly contained a design for Barbarian Woodcutting, which would involve shouting at trees to topple them over, along with a design for Barbarian Mining, which would allow players to excavate ore by bashing their head against the rocks. [2] Completing Alfred Grimhand's Barcrawl also grants what could be seen as a form of barbarian training, with a barbarian teaching how to smash empty vials into dust on finishing a potion, similarly to smashing plant pots as taught in the Farming segment of the miniquest.
+
+References [ edit | edit source ]
+
+v • t • e Barbarian Training
+
+NPCs | Otto Godblessed
+
+Fishing | Barbarian rod Leaping trout Leaping salmon Leaping sturgeon Fish offcuts Roe Caviar
+
+Herblore | Roe Attack mix Antipoison mix Relicym's mix Strength mix Restore mix Caviar Energy mix Defence mix Agility mix Combat mix Prayer mix Superattack mix Anti-poison supermix Fishing mix Super energy mix Hunting mix Super str. mix Magic essence mix Super restore mix Super def. mix Antidote+ mix Antifire mix Ranging mix Magic mix Zamorak mix Stamina mix Extended antifire mix Ancient mix Super antifire mix Extended super antifire mix | Roe | Attack mix Antipoison mix Relicym's mix Strength mix Restore mix | Caviar | Energy mix Defence mix Agility mix Combat mix Prayer mix Superattack mix Anti-poison supermix Fishing mix Super energy mix Hunting mix Super str. mix Magic essence mix Super restore mix Super def. mix Antidote+ mix Antifire mix Ranging mix Magic mix Zamorak mix Stamina mix Extended antifire mix Ancient mix Super antifire mix Extended super antifire mix
+
+Roe | Attack mix Antipoison mix Relicym's mix Strength mix Restore mix
+
+Caviar | Energy mix Defence mix Agility mix Combat mix Prayer mix Superattack mix Anti-poison supermix Fishing mix Super energy mix Hunting mix Super str. mix Magic essence mix Super restore mix Super def. mix Antidote+ mix Antifire mix Ranging mix Magic mix Zamorak mix Stamina mix Extended antifire mix Ancient mix Super antifire mix Extended super antifire mix
+
+Smithing | Spears Bronze spear Iron spear Steel spear Mithril spear Adamant spear Rune spear Hastas Bronze hasta Iron hasta Steel hasta Mithril hasta Adamant hasta Rune hasta Special Dragon hasta (broken) Zamorakian hasta | Spears | Bronze spear Iron spear Steel spear Mithril spear Adamant spear Rune spear | Hastas | Bronze hasta Iron hasta Steel hasta Mithril hasta Adamant hasta Rune hasta | Special | Dragon hasta (broken) Zamorakian hasta
+
+Spears | Bronze spear Iron spear Steel spear Mithril spear Adamant spear Rune spear
+
+Hastas | Bronze hasta Iron hasta Steel hasta Mithril hasta Adamant hasta Rune hasta
+
+Special | Dragon hasta (broken) Zamorakian hasta
+
+Firemaking | Chewed bones Mangled bones Ferocious barbarian spirit Peaceful barbarian spirit Funeral pyre
+
+Related | Quick guide Transcript My notes Ancient page Barbarian anvil Barbarian bed Barbarian skills (removed)
+
+v • t • e Miniquests
+
+ | Alfred Grimhand's Barcrawl Architectural Alliance (removed) Barbarian Training Bear Your Soul Curse of the Empty Lord Daddy's Home The Enchanted Key Enter the Abyss Family Pest The Frozen Door The General's Shadow His Faithful Servants Hopespear's Will In Search of Knowledge Into the Tombs Lair of Tarn Razorlor Mage Arena I Mage Arena II Skippy and the Mogres
+
+Unofficial miniquests | Tutorial Island Natural history quiz Restoring the Sacred Bone Burner Knight Waves Training Grounds Rogue Trader Obtaining the ancient key

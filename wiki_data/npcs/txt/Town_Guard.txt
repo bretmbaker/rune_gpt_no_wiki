@@ -1,0 +1,2 @@
+Item: Town Guard
+Summary: Town Guards are Fremennik men standing on guard duty in front of the front gate to Rellekka. They cannot be spoken to or battled.

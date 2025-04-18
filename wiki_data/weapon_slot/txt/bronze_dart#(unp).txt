@@ -1,0 +1,62 @@
+[Weapon: Bronze Dart#(Unp)]
+
+
+Bronze dartsareRangedthrowing weaponsmade frombronzethat are only available tomembers. Bronze darts only require level 1 Ranged to wield. They can be obtained by either using theSmithingandFletchingskills or trading with another player. Bronze darts can bepoisonedand can be wielded with ashieldorgod bookfor protection.
+To create bronze darts the player must have completed theTourist Trapquest and have at least level 4 Smithing and level 10 Fletching. Players can smith bronze bars intobronze dart tips. Each bronze bar creates 10 bronze dart tips and gives the player 12.5 Smithing experience.Feathersthen must be added to create the bronze darts. 1.8 Fletching experience is rewarded per bronze dart.
+
+
+[Infobox]
+Released: 14 April2003(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A deadly throwing dart with a bronze tip.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0 kg
+Grand Exchange Value: 16 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 523,236
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +1
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 3 ticks (1.8s) | 3 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 2 ticks (1.2s) | 3 tiles |  | None
+ | Longrange | Light | Longrange | 3 ticks (1.8s) | 5 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Barrel (Shaman Caves) | N/A | 1 | Uncommon | &
+Ork | 107 | 2 | 5/128 | 

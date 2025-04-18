@@ -1,0 +1,90 @@
+[Minigame: Wealthy_citizen]
+
+Wealthy citizen
+
+
+
+
+
+
+
+Released | 20 March2024(Update)
+
+Members | Yes
+
+Race | Human
+
+Location | Bazaar
+
+Leagueregion | Varlamore✓
+
+Gender | Female
+
+Options | Pickpocket, Examine, Talk to
+
+Examine | Looks to be flaunting alot[sic]of wealth.
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+NPC ID | 13302
+
+Link | MOID
+
+
+
+Wealthy citizensare a wealthier class ofFortis citizensfound throughoutCivitas illa Fortis,Varlamore. They may be pickpocketed at 50Thieving, yielding 96 Thievingexperienceand 85coins. They sometimes dropHouse keyswhich can be used in theStealing valuablesactivity.
+
+Every 84-99 seconds, three street urchins (Leowithin theBazaar,Juliaeast of the Bazaar, andAureliasouth of the Bazaar) will simultaneously distract one each for approximately 20 seconds, coupled with a sound similar to those that play in some bank areas, and with the chat messageYou notice an urchin distract a wealthy citizen nearby.During this time, players automatically pickpocket the NPC with a 100% success rate, and automatically stop once the wealthy citizen is no longer distracted.
+
+If a player has recently[clarification needed]hopped worldswhen an urchin begins a distraction, they will auto-pickpocket at a much slower rate and receive no items for approximately 15 seconds, signaled by the chat messageYour hands are sweaty and keep dropping the items in the Citizen's pockets.
+
+Pickpocketing[edit|edit source]
+
+Pickpocket chance[edit|edit source]
+
+Success rates estimated based on 333,923 samples from theDrop Rate Project, unless otherwise cited.
+
+Note that pickpocket chance becomes 100% while the wealthy citizen is distracted.
+
+Pickpocketing info[edit|edit source]
+
+Wealthy citizen
+
+
+
+Level required | 50
+
+Thieving XP | 96xp
+
+Type | Pickpocket
+
+StunTimer | 4s
+
+Damage | 3
+
+
+
+Loot[edit|edit source]
+
+Drop rates estimated based on 147,715 samples from theDrop Rate Project, unless otherwise cited.
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Coins | 85 | ~79/85 | 85 | 85
+
+ | House keys | 1 | ~5/85[d 1] | Not sold | N/A
+
+ | Clue scroll (easy) | 1 | 1/85[d 2][d 1] | Not sold | 12
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.
+

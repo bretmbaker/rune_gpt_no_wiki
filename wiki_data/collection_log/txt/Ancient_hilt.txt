@@ -1,0 +1,4 @@
+Item: Ancient hilt
+Summary: The ancient hilt is a rare drop from Nex, in the God Wars Dungeon. Its design bears the Zarosian symbol, and was created under Nex's orders after her escape from the Ancient Prison. Though the hilt was created, it never saw usage as the four armies of the gods joined forces to imprison Nex once more before the weapon could be completed.
+Sources:
+- Nex (Level 1001, Quantity: 1, Rarity: 1/516)

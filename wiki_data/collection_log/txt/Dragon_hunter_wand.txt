@@ -1,0 +1,4 @@
+Item: Dragon hunter wand
+Summary: The Dragon hunter wand is a magic dragonbane weapon requiring level 65 Magic to wield. It is obtained as a rare drop from the the Hueycoatl.
+Sources:
+- The Hueycoatl (Level 642, Quantity: 1, Rarity: 1/207)

@@ -1,0 +1,82 @@
+[Weapon: Berserker Helm]
+
+
+Theberserker helmis a mid-levelled melee-based helmet. Players must have level 45Defenceand also have completed the questThe Fremennik Trialsin order to wear it. It can be purchased fromSkulgrimen's Battle Gearshop inRellekkafor 78,000 coins. It's also a possible reward fromBarbarian AssaultHigh Gamblesor a drop from a Dagannoth.
+This helmet is favoured amongcombat puresfor being the second lowest level headgear to offer aStrengthbonus, which offers the same strength bonus as ahelm of Neitiznotand anObsidian helmet.
+
+
+[Infobox]
+Released: 2 November2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: This helmet is worn by berserkers.
+General Store Value: 60,000 coins
+High alch: 36,000 coins
+Low alch: 24,000 coins
+Weight: 2.721 kg
+Grand Exchange Value: 85,828 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 2,542
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -5
+- Ranged: -5
+
+Defence Bonuses:
+- Stab: +31
+- Slash: +29
+- Crush: +33
+- Magic: +0
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +3
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Barbarian Assault/GamblesHigh | N/A | 1 | 1/32 | 
+Dagannoth (Waterbirth Island)Level 88 | 88 | 1 | 1/2,048 | 
+Dagannoth (Waterbirth Island)Level 90 | 90 | 1 | 1/2,048 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Amoxliatl/Strategies(Melee)
+4 | Barbarian Assault/Strategies(Melee (high level))
+1 | Barbarian Assault/Strategies(Melee (mid level))
+3 | Barrows/Strategies(Tank & Lower level)
+5 | Basilisk Knight/Strategies(Melee)
+3 | Budget Cutter
+4 | Calvar'ion/Strategies(Melee)
+5 | Dark beast/Strategies(Melee)
+5 | Down Do Specs(Melee)
+4 | Drake/Strategies(Melee)
+4 | King Black Dragon/Strategies(Melee BIS smuggle)
+2 | King Black Dragon/Strategies(4-item melee)
+5 | Metal dragons/Strategies(Melee)
+5 | Moons of Peril/Strategies(Moons of Peril Armour)
+5 | Nightmare Zone/Strategies(Melee (Prayer))
+3 | Revenants/Strategies(Melee)
+3 | Scurrius/Strategies(Melee (mid level))
+5 | Skeletal Wyvern/Strategies(Melee)
+5 | Skotizo/Strategies(Melee)
+5 | Ultimate Ironman Guide/Equipment
+4 | Vet'ion/Strategies(Melee)
+4 | Vyrewatch Sentinel/Strategies(AFK Prayer)

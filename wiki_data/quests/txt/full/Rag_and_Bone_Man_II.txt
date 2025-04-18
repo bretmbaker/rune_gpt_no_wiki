@@ -1,0 +1,189 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Rag and Bone Man II (#131)
+
+
+
+
+
+Released | 10 April 2006 ( Update )
+
+Members | Yes
+
+Quest series | Rag and Bone Man , #2
+
+Lead developer(s) | Anthony W
+
+
+
+Rag and Bone Man II is the sequel to Rag and Bone Man I , and involves collecting a large number of assorted bones for the Odd Old Man 's collection.
+
+Details [ edit | edit source ]
+
+Start point | Speak to the Odd Old Man , located at the end of the northern path in central Silvarea . Show on map
+
+Official difficulty | Experienced
+
+Official length | Medium
+
+Description | An archeological bone gathering quest. Requires the start and/or completion of multiple quests. Lots of creatures and animals necessary to be scavenged for specific bones, that will then need to be cleaned and given to the Odd Old Man for his marvelous collection of bone remains.
+
+Requirements | 40 Slayer ( boostable ) ( not required to start ) 20 Defence ( not boostable ) to wield a mirror shield to kill a basilisk (though not necessary; see below) Completed Rag and Bone Man I ( required to start ) Completed Skippy and the Mogres ( not required to start ) Completed Horror from the Deep or partial completion of The Fremennik Trials ( not required to start ) Partial completion of Creature of Fenkenstrain ( not required to start ) Partial completion of Waterfall Quest ( not required to start ) The ability to kill several high-level monsters
+
+Items required | 27 pots 27 jugs of vinegar (bought from Fortunato for 27 coins) 27 sets of logs (any logs - normal logs can be obtained on the path just below the Odd Old Man 's hut if you bring an axe ). Tinderbox Light source Dusty key (if under 70 Agility ) Rope Combat gear to kill zogres (an ogre composite bow with brutal arrows or runes for Crumble Undead casts is advised) Slayer equipment: Ice coolers Fishing explosives Mirror shield or V's shield (unless using a workaround - see guide for how to get around using this)
+
+Recommended | 40 Combat level Anti-dragon shield (if concerned about blue dragons while in Taverley Dungeon ) Partial completion of Zogre Flesh Eaters for access to brutal arrows for killing zogres Inoculation bracelet , or Relicym's balm or Sanfew serum (to deflect or cure disease when killing zogres Dramen staff or lunar staff would save a great deal of time by using fairy rings Digsite pendant Ectophial Fenkenstrain's Castle Teleport Ring of dueling Enchanted lyre Games necklace Log basket for just 1 trip with bones in vinegar Runes or tablets for teleporting all across Gielinor (if no better travelling method is available) Slayer Equipment: Spiny helmet or Slayer helmet
+
+Enemies to defeat | Several (27): see below.
+
+League notes | Impossible to complete, as it requires visits to Asgarnia ✓ , Kandarin ✓ , Desert ✓ , Fremennik ✓ , and Morytania ✓ . As such, players are advised not to start the quest, so that the quest-specific bones do not pollute the ground. If the player has started the quest, the pollution can be avoided by keeping the bone in the inventory or bank.
+
+Overview [ edit | edit source ]
+
+The monsters you need to kill are mentioned on the Wish List that is pinned to the Odd Old Man 's house as well as in your quest journal . Monsters are only removed from these lists after the bones have been properly turned in to the Odd Old Man. Each monster on the list has a 1/4 [1] chance to drop the bone you need. It is possible to hand in the collected bones in smaller batches. The Odd Old Man will kindly update the wish list, taking off the bone(s) you've submitted. It is possible to collect the basilisk bone without 20 Defence , but you must freeze the basilisk or safespot it. Due to the variety of monsters you're required to kill, it may be a good idea to simply start the quest, especially early in your adventures, and collect some of the bones while traversing Gielinor (or training skills, such as Slayer ). Note that when you die, bones will be taken to Death's Coffer . If the bones aren't dropped or in your bank, you may find them in Death's office.
+
+List [ edit | edit source ]
+
+Below is the list of monsters that need to be killed to obtain all the bones (27 total).
+
+Note: All of these monsters can be found in other places; listed are the most convenient spots.
+
+Drop | Monster | Locations (preferable) - Click to mark | Walkthrough Region
+
+ | Wolf bone | Wolf | Feldip Hills , Rellekka , Ardougne Zoo (with Telekinetic Grab ). Note: only level 64 wolves drop the wolf bone. White wolves and desert wolves are lower-level alternatives. | Feldip Hills
+
+ | Bat wing | Bat | Near the Odd Old Man (must be the bats near the limestone quarry; giant bats do not drop bat wings ) | Odd Old Man's House
+
+ | Rat bone | Rat | Varrock Sewers , Lumbridge Castle , Draynor Sewers ( giant rats do not drop rat bones ) | Misthalin
+
+ | Baby dragon bone | Baby blue dragon | Taverley Dungeon , Isle of Souls Dungeon , Myths' Guild Dungeon | Taverley Dungeon
+
+ | Ogre ribs | Ogre | Feldip Hills ( A K S ) | Feldip Hills
+
+ | Jogre bone | Jogre | Karamja (near the crashed gnome glider (fairy ring D K P ) east of Tai Bwo Wannai , Pothole Dungeon in northern Karamja near the sea), Ardougne Zoo next to the snakes (with Telekinetic Grab ) (Make sure you pick up the jogre bone , not the jogre bones ) | Karamja
+
+ | Zogre bone | Zogre | Jiggig , south of Castle Wars (partial completion of Zogre Flesh Eaters recommended but not strictly required, fairy ring B K P ) Use an ogre bow and ogre arrows , comp ogre bow and brutal arrows or Crumble Undead casts | Feldip Hills
+
+ | Mogre bone | Mogre | Mudskipper Point by fairy ring A I Q (use fishing explosive on "Ominous Fishing Spot") (requires full completion of Skippy and the Mogres and Slayer level 32). | Port Sarim
+
+ | Dagannoth ribs | Dagannoth | Waterbirth Island (requires starting The Fremennik Trials ) or basement level of the Lighthouse ( fairy ring A L P ) (requires full completion of Horror from the Deep ). Cannot be obtained in Catacombs of Kourend or the Jormungand's Prison . | Kandarin
+
+ | Snake spine | Snake | Throughout Karamja (such as near the functioning gnome glider south-east of the island and the mine north of Shilo Village ), throughout the Kharidian Desert ( desert snakes - close to the jackals ), Ardougne Zoo under the bridge next to the jogres (with Telekinetic Grab ). | Karamja
+
+ | Zombie bone | Zombie | Varrock Sewers , Edgeville Dungeon , Draynor Sewers , Entrana Dungeon . Cannot be obtained in the Stronghold of Security . | Misthalin
+
+ | Werewolf bone | Werewolf | Canifis (must be dropped by werewolves, so you cannot get the bones if you use Wolfbane ). | Morytania
+
+ | Moss giant bone | Moss giant | Varrock Sewers (slash weapon or knife for web), west of the Fishing Guild , Crandor , Moss Giant Island west of Brimhaven (requires 10 Agility ). Catacombs of Kourend . | Misthalin
+
+ | Fire giant bone | Fire giant | Waterfall Dungeon (requires partial completion of Waterfall Quest , and a rope ), Brimhaven Dungeon (requires an axe, 875 coins and 12 Agility ). Catacombs of Kourend . Isle Of Souls Dungeon . Cannot be obtained in Nieve 's Slayer Stronghold . | Kandarin
+
+ | Ice giant ribs | Ice giant | Asgarnian Ice Dungeon (north of Mudskipper Point , A I Q ), White Wolf Mountain (bring pickaxe to clear rockslide on mountain). | Port Sarim
+
+ | Terrorbird wing | Terrorbird | Tree Gnome Stronghold (easily found at the terrorbird pen on the west side of the Gnome Stronghold across the river. Mounted terrorbird gnomes do not drop the bone). | Tree Gnome Stronghold
+
+ | Ghoul bone | Ghoul | Canifis graveyard (between Canifis and Paterdomus Temple , near fairy ring C K S ). | Morytania
+
+ | Troll bone | Troll | Trollheim (especially the western part of it), Keldagrim entrance, Death Plateau in Burthorpe , Troll Country . | Trollheim
+
+ | Seagull wing | Seagull | Port Sarim docks, Port Piscarilius docks, or Corsair Cove . | Port Sarim
+
+ | Undead cow ribs | Undead cow | In the farm north-west of Port Phasmatys | Morytania
+
+ | Experiment bone | Experiment | Under the grave east of Fenkenstrain's Castle (requires partial completion of Creature of Fenkenstrain ), manhole east of Taverley POH or mouse experiments (requires partial completion of Grim Tales ). | Morytania
+
+ | Rabbit bone | Rabbit / Bunny | The forest south-east of Rellekka (by the swaying tree , north-west of fairy ring A J R ), throughout Miscellania , throughout Tirannwn , Nature Altar (with telegrab ). | Fremennik Province
+
+ | Basilisk bone | Basilisk | Fremennik Slayer Dungeon ( fairy ring A J R ) (requires Slayer level 40 and a mirror shield or V's shield ). Note: It is possible to kill basilisks without a mirror shield by using poison and multiple rings of recoil for melee, can be safespotted with a mirror shield equipped. Minimum of one damage by hand required to be granted any drops. They can lower combat stats with their attacks, so it is recommended to use restore potions if you're having trouble damaging them. | Fremennik Province
+
+ | Desert lizard bone | Lizard | North of Nardah and south-west of Ruins of Uzer in the Kharidian Desert (north of fairy ring D L Q ) (marked on map). You must kill level 42 lizard (greyish skin) (requires ice coolers ). It is NOT dropped by the level 24 desert lizard . | Nardah
+
+ | Cave goblin skull | Cave goblin | Lumbridge Swamp Caves , Dorgesh-Kaan mines (requires partial completion of The Lost Tribe ). | Lumbridge
+
+ | Vulture wing | Vulture | South-west of Nardah and north-west of Agility Pyramid in the Kharidian Desert (marked on map). Ranged / Magic may be required to kill them if you have very low melee stats, as they can fly and become unable to be attacked with melee. | Nardah
+
+ | Jackal bone | Jackal | Throughout the Kharidian Desert (north of Nardah and south-west of Ruins of Uzer (near fairy ring D L Q ); also found at the same location as the vultures, north-west of Agility Pyramid ). | Nardah
+
+Obtaining bones - Walkthrough [ edit | edit source ]
+
+This walkthrough can be completed in any order. It's sectioned by distance to the starting location of the quest (the Odd Old Man 's house) and also by what bones are most easily found in that particular area. Traverse from area to area in whatever way is most convenient for you. The determining factor will be the travelling methods ( gnome glider , fairy rings ) and teleports you have access to or prefer to use.
+
+Further, the below guide only exists to group various monsters together and create a sensible path (even if walking the distance) to collect all of the bones. Use the above list or view the individual pages for the monsters to see other possible locations they can be found at.
+
+Note: You do not have to bring all of the bones to the Odd Old Man at once. If at any point you obtain a bone or collection of bones and wish to turn them in, you can jump to the polishing the bones section in order to do so.
+
+Odd Old Man's house [ edit | edit source ]
+
+Morytania [ edit | edit source ]
+
+Misthalin [ edit | edit source ]
+
+Lumbridge [ edit | edit source ]
+
+Nardah [ edit | edit source ]
+
+Port Sarim [ edit | edit source ]
+
+Karamja [ edit | edit source ]
+
+Taverley Dungeon [ edit | edit source ]
+
+Trollheim [ edit | edit source ]
+
+Fremennik Province [ edit | edit source ]
+
+Kandarin [ edit | edit source ]
+
+Tree Gnome Stronghold [ edit | edit source ]
+
+Feldip Hills [ edit | edit source ]
+
+Polishing the bones [ edit | edit source ]
+
+Tip: To cut down on trips, lower your hitpoints to 1 using a dwarven rock cake or locator orb , then bring a tinder box and 27 logs to the Odd Old Man and let the bats nearby kill you. Then, bring your bones in vinegar to the Odd Old Man and withdraw your tinderbox and a log from your gravestone. Continue to withdraw logs as needed. This allows you to polish all the bones in 2 trips.
+
+Using an equipped log basket can allow for all bones to be done in 1 trip.
+
+Finishing up [ edit | edit source ]
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 5,000 Prayer experience Bonesack Ram skull helm
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+18 June 2020 ( update | poll ) | Players can now simultaneously own the ram skull helm and bonesack .
+
+17 August 2017 ( update ) | The Rag & Bone Man Wishlist is reclassified as a quest
+
+27 February 2014 ( update | poll ) | The bunnies south-east of Rellekka can now drop the rabbit bone required for the Odd Old Man's list.
+
+Trivia [ edit | edit source ]
+
+Rag-and-bone man is a British phrase for a junk dealer. Historically, the phrase referred to an individual who would travel the streets of a city with a horsedrawn cart, and would collect old rags (for converting into fabric and paper), bones for making glue, scrap iron and other items, often trading them for other items of limited value. The bones scattered in and around the Odd Old Man 's house have many interesting "examine" texts (a good activity to partake in while waiting for the bones to be polished). One such skeleton states "What a waste of prayer xp!" Examining the pot-boiler at the various stages of boiling the bones will also give interesting texts, the one while the bone is boiling being "This smells so very, very bad..." After completing the quest, the Wish-List on his house will have "Non-chafing Manacles" written on it. Rag and Bone Man II was formerly the miniquest named "Rag & Bone Wish List"; it is not the same as RuneScape ' s sequel quest Fur 'n Seek . As, unlike all other miniquests, the wish list awarded one quest point, it was renamed Rag and Bone Man II and reclassified as a quest in an update on 17 August 2017 . Previously in the game, a player needed to choose between the bonesack and ram skull helm as a reward for having completed the quest, but could swap one for the other at any time by talking to the Odd Old Man again. This was later changed at an update , allowing players to possess both at the same time.
+
+The quest completion scroll before an update when selecting the ram skull helm . The quest completion scroll before an update when selecting the bonesack .
+
+References [ edit | edit source ]
+
+v • t • e Rag and Bone Man II
+
+NPCs | Odd Old Man Fortunato
+
+Items | Jug of vinegar Pot of vinegar Bone in vinegar Bonesack Ram skull helm Bones Wolf Bat Rat Baby dragon Ogre Jogre Zogre Mogre Dagannoth Snake Zombie Werewolf Moss giant Fire giant Ice giant Terrorbird Ghoul Troll Seagull Undead cow Experiment Rabbit Basilisk Desert lizard Cave goblin Vulture Jackal |  | Jug of vinegar Pot of vinegar Bone in vinegar Bonesack Ram skull helm | Bones | Wolf Bat Rat Baby dragon Ogre Jogre Zogre Mogre Dagannoth Snake Zombie Werewolf Moss giant Fire giant Ice giant Terrorbird Ghoul Troll Seagull Undead cow Experiment Rabbit Basilisk Desert lizard Cave goblin Vulture Jackal
+
+ | Jug of vinegar Pot of vinegar Bone in vinegar Bonesack Ram skull helm
+
+Bones | Wolf Bat Rat Baby dragon Ogre Jogre Zogre Mogre Dagannoth Snake Zombie Werewolf Moss giant Fire giant Ice giant Terrorbird Ghoul Troll Seagull Undead cow Experiment Rabbit Basilisk Desert lizard Cave goblin Vulture Jackal
+
+Scenery | Pot-boiler
+
+Related | Quick guide Quest 1 Transcript

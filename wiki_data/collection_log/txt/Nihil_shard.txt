@@ -1,0 +1,9 @@
+Item: Nihil shard
+Summary: Nihil shards are an item dropped by all NPCs in the Ancient Prison.
+Sources:
+- Blood Reaver (Level 161; 174, Quantity: 2–7, Rarity: 1/128)
+- Nex (Level 1001, Quantity: 80–85, Rarity: 5/82)
+- Nex (Level 1001, Quantity: 85–95, Rarity: 8/209)
+- Spiritual mage Zaros (Level 182, Quantity: 5–9, Rarity: 1/128)
+- Spiritual ranger Zaros (Level 158, Quantity: 2–7, Rarity: 1/128)
+- Spiritual warrior Zaros (Level 158, Quantity: 2–5, Rarity: 1/128)

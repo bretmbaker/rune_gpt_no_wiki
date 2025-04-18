@@ -1,0 +1,4 @@
+Item: Dharok's platebody
+Summary: Dharok's platebody is melee armour worn in the body slot that is part of Dharok the Wretched's set of Barrows equipment. To wear Dharok's platebody, a player must have 70 Defence.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

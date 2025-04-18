@@ -1,0 +1,61 @@
+[Weapon: Crystal Grail]
+
+
+Thecrystal grailis obtained as a drop from killing the powerfulrabbitlocated in thecavein theGwenith Hunter areanorth ofPrifddinas, requiring completion ofSong of the Elvesto access.
+This item is purely cosmetic. When equipped, it causes the player to sway around when standing or walking to mimic drunkenness, similar to theale of the gods.
+
+
+[Infobox]
+Released: 25 July2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Smells of victory.
+General Store Value: 30,000 coins
+High alch: 18,000 coins
+Low alch: 12,000 coins
+Weight: 0.001 kg
+Grand Exchange Value: 288,063 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 71
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Punch | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Kick | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Rabbit (Prifddinas) | 2 | 1 | Always | 

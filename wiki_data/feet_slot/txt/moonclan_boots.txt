@@ -1,0 +1,53 @@
+[Weapon: Moonclan Boots]
+
+
+Moonclan bootsof theMoonclan robesset are purchased from theMoon Clan Fine Clothesclothes shoponLunar Isleduring or afterLunar Diplomacy. They can be stored in amagic wardrobein thecostume roomof aplayer-owned house.
+
+
+[Infobox]
+Released: 24 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Groovy foot protection.
+General Store Value: 900 coins
+High alch: 540 coins
+Low alch: 360 coins
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +2
+- Ranged: -5
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: +2
+- Ranged: -5
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Artio/Strategies(Magic)
+5 | Callisto/Strategies(Magic)
+4 | Crazy archaeologist/Strategies(Magic)
+4 | Scorpia/Strategies(Magic)

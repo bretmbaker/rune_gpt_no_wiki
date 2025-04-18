@@ -1,0 +1,48 @@
+[Weapon: Citizen Top]
+
+
+Citizen topis part of theCitizen outfit, and can be bought fromTrader SveninMeiyerditch. It has no quest or level requirements to wear.
+
+
+[Infobox]
+Released: 4 September2006(Update)
+Members: Yes
+Quest item: Darkness of Hallowvale
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Ghetto disguise!
+General Store Value: 5 coins
+High alch: 3 coins
+Low alch: 2 coins
+Weight: 0.907 kg
+Grand Exchange Value: 592 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 8
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +2
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

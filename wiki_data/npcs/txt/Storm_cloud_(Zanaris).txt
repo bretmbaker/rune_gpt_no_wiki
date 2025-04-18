@@ -1,0 +1,2 @@
+Item: Storm cloud (Zanaris)
+Summary: Storm clouds are clouds that occasionally appear in Zanaris. They will briefly appear to the player and produce some rain before disappearing.

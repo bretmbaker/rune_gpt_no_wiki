@@ -1,0 +1,1 @@
+Thetoy mouseis a clockwork item that players can wind up and release, whereupon it will move around on the floor. If the player can catch it before it stops moving, they will gain 3Agilityexperience. Despite being a members item, members used to be able to use it on a non-members server. However, this is no longer possible.

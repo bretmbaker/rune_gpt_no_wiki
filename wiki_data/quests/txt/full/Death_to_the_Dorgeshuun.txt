@@ -1,0 +1,183 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Death to the Dorgeshuun (#106)
+
+
+
+
+
+Released | 21 June 2006 ( Update )
+
+Members | Yes
+
+Quest series | Dorgeshuun , #2
+
+Lead developer(s) | John A
+
+
+
+Death to the Dorgeshuun is the second quest in the Dorgeshuun quest series and sees the return of Sigmund , who attempts to destroy the Dorgeshuun once again. It also sees the first appearance of Zanik , the series' main protagonist.
+
+Note: If you are planning to do this quest and obtain the robes yourself, make sure to first start the quest since this improves your chances to obtain robes. Because of this, it is not recommended to prepare for the quest by collecting the robes in advance.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Mistag in the Dorgesh-Kaan mine . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Medium
+
+Description | Humans have been visiting the Dorgeshuun mines for some time now, but no Dorgeshuun has visited the surface since the signing of the Lumbridge-Dorgeshuun treaty. The Dorgeshuun Council fears that the H.A.M. group may be planning another attack, and want to send an agent to the surface to investigate. But they do not want to send someone to the surface without a guide...
+
+Requirements | Completion of the following quests: The Lost Tribe Goblin Diplomacy Rune Mysteries 23 Agility ( boostable ) 23 Thieving ( boostable ) ( not required to start ) The ability to defeat a level 50 enemy with Melee or Magic
+
+Items required | Any light source ( lanterns are recommended - open light sources such as a candle can cause gas explosions and require a tinderbox ) 2 full sets of H.A.M. robes (all 7 pieces) (chance to receive robes is significantly higher during the quest) [1] Pickaxe (if not using a games necklace to teleport to Tears of Guthix ) - only usable after you have completed the Tears of Guthix quest
+
+Recommended | 30 Combat level Weapon , armour and some food Games necklace to Tears of Guthix (only usable after you have completed the Tears of Guthix quest) Lumbridge teleport runes or teleportation tabs Optional (to quickly complete the Tears of Guthix quest while in the Lumbridge Swamp Caves ): A lit sapphire lantern . Chisel Pickaxe Rope (if using the Lumbridge Swamp entrance for the first time)
+
+Enemies to defeat | Sigmund (level 50) 3 H.A.M. Guards (level 22)
+
+League notes | Unlocking Misthalin ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Items needed : A light source .
+
+Items Recommended : 2 full sets of H.A.M. robes to save some time later on.
+
+Note: Obtaining H.A.M. robes through pickpocketing is easier during the quest, as they have a higher chance of being received. For ironman accounts , it is recommended to obtain one additional pair of boots and two robe bottoms for easy Treasure Trails during the quest.
+
+Go to Lumbridge , and go to the basement in the castle below the cook . Take a light source , such as a lantern , and enter the cave to the rear of the basement.                                                                                             Talk to Kazgar (right click and choose follow) who will show you through the caves.
+
+Talk to Mistag who will ask you to obtain two sets of H.A.M. robes so that you may show one of their agents around the surface and the H.A.M. Hideout without detection. Get two sets of H.A.M. robes any way you can (by pickpocketing H.A.M. Members , killing H.A.M. Guards , or buying them on the Grand Exchange ). A full set of H.A.M. clothes consists of:
+
+Once you have these, return to the Lumbridge Castle cellar, and talk to Zanik who will have appeared next to the ladder to the cellar. (Note: You cannot have a pet following you before talking to Zanik.)
+
+Zanik follows you around rather like a pet and tends to get stuck behind walls and doors but she will return to your side like any other pet. Unlike pets, any teleports will make her return to the basement below the cook, and talking to her will make her follow you again. The following can be completed in any order but the quickest is as listed:
+
+Infiltrating the H.A.M. hideout [ edit | edit source ]
+
+After speaking to all the aforementioned denizens of Lumbridge, ask her, "Have you seen enough of Lumbridge yet?" (Zanik will tell you to go back to Lumbridge if you ask this question inside the H.A.M. headquarters). Zanik will now explain about the mark on her forehead; she received it whilst doing Tears of Guthix , meaning that she is destined to do something great.
+
+Zanik will now suggest going to the H.A.M. headquarters . Put on your set of H.A.M. robes, and go to the H.A.M. headquarters.
+
+When you arrive at the trapdoor that leads down to the H.A.M. headquarters , you can right-click and select pick-lock trapdoor, This may take some time.
+
+Talk to a regular H.A.M. Member or guard , and go through all the questions. They will tell you that the leaders are planning something big in order to get rid of the Dorgeshuun , but they won't tell any regular members.
+
+Talk to Johanhus Ulsbrecht near the jail about the Cave Goblins.
+
+Wander around the south part of the main H.A.M. room where Zanik will spot a trapdoor located slightly west of Johanhus and south of the stage. Pick-lock the trapdoor, and go down. You are now in a storeroom. You will need to distract each of the guards in such a way that Zanik can shoot them from behind. Note: If you get caught by a guard, you will be jailed and Zanik will free you - if you interrupt Zanik before she lets you out, pick the lock on the door. You will have to repeat the process of killing the guards.
+
+Reviving Zanik [ edit | edit source ]
+
+You find yourself in the jail. Talk to Jimmy the Chisel . He will tell you that Sigmund took Zanik outside. Pick the lock to escape. If you accidentally leave the jail before talking to Jimmy, you can speak with Johanhus again and he will tell you about Zanik and you can continue.
+
+Go back outside, and you'll find Zanik lying on the ground, dead. Investigate her and your character will find that her mark is glowing. Take her body to Juna in the Chasm of Tears .
+
+Note: If you for some reason die with Zanik, she will spawn again at the H.A.M hideout.
+
+If the Tears of Guthix quest has already been completed [ edit | edit source ]
+
+Go to the Tears of Guthix minigame . A games necklace will teleport you nearby. Juna will tell you to collect 20 tears using Zanik's bowl, which will restore Zanik to life.
+
+Note: This does NOT count for your weekly Tears of Guthix game, and it gives you no experience.
+
+A cutscene will follow, where Zanik tells you what she heard just before she died. Johanhus, Sigmund, the H.A.M. deacon, and a senior guard will talk about using a drilling machine at the Lumbridge water wheel, to cause the swamp caves to flood!
+
+If Tears of Guthix has not been completed [ edit | edit source ]
+
+If you meet the Tears of Guthix requirements, now is a good opportunity to complete that quest  during this step, in which case you also need a chisel and a sapphire lantern .
+
+Either enter the hole in Lumbridge Swamp or enter the Dorgesh-Kaan mine through the hole in the Lumbridge Castle cellar. In the mine, go directly south of the entrance and Kazgar to a blocked tunnel, mine it with your pickaxe, and squeeze through into the Lumbridge Swamp Caves . In the south-eastern part of the cave, directly south of the entrance from the Dorgesh-Kaan mine, cross the stepping stone in the stream. Warning: If you fail, it will extinguish your light source. On the southern side you will find the entrance to the Tears of Guthix Cavern. Go through it and follow the path, climb down the rocks and speak to Juna .
+
+Warning for Hardcore Ironmen: It is recommended you enter the Lumbridge Swamp caves via the dark hole entrance in the western part of Lumbridge Swamp. This way you bypass the Cave Crawlers that if aggressive will poison you. Also bring plenty of food as the Wall Beasts deal on average 9 damage, with a max hit of 18.
+
+Warning: If you happen to slip on the stepping stones carrying a candle lantern it will break, leaving you stranded without a light source (apart from a candle itself after the lantern breaks, which is risky to use in the Swamp Caves). For safety precautions, bring any kind of quick teleportation if needed.
+
+Juna will ask you to gather blue tears from the waterfalls. Your hands must be empty for this. Once you talk to her with empty hands and you are holding the bowl, just click on the blue waterfalls as they spawn until you are at 20. A cutscene will begin and Zanik will be revived. Zanik tells you what she heard just before she died. Johanhus, Sigmund, the H.A.M. deacon, and a senior guard will talk about using a drilling machine at the Lumbridge water wheel, to cause the swamp caves to flood!
+
+To complete the Tears of Guthix quest, after talking to Juna use the optional Sapphire lantern on a Light creature to be carried to the upper level of the south mine. There you can mine the Magic Stone ; use a chisel on it to make the Stone Bowl and return to Juna to complete Tears of Guthix.
+
+Preparing for battle [ edit | edit source ]
+
+Items recommended : H.A.M. outfit, Melee or Magic equipment ( not Ranged) to deal with three level 22 guards and one level 50 boss, food and enough space to have both your hands empty.
+
+Get back to Lumbridge (if you teleport Zanik will be in the Lumbridge cellar without her H.A.M. robes - this is not a problem, though you will need to retrieve her from the Lumbridge cellar before proceeding). Collect anything from the bank that you think you'll need for the fight. Then go to the chicken farm near the water mill with Zanik (across the river from Lumbridge Castle).
+
+Equip the full H.A.M. outfit then search one of the southern crates (the empty ones, not the ones with machine parts in them), Zanik will suggest she hides in it whilst you carry it, pick her up, and go down the trapdoor. You must have free hands (no weapon or offhand).
+
+Note: If you walk too far away from the trap door Zanik will leave the crate and suggest "we get down there and save my city!".
+
+Also, immediately exiting the cave will make you unable to re-enter the trapdoor due to Zanik waiting for you in the cave. Logging out and back in will resolve this but you may have to return to the Lumbridge basement to have her follow you again.
+
+The battle [ edit | edit source ]
+
+ | This fight takes place in an instance . On death , all unprotected items will be moved to a grave outside the instance. Any items left on the ground will be lost.
+
+Go to the west room after climbing down the ladder of the nearby trapdoor. Sigmund, who is level 50, will appear, along with three level 22 H.A.M. Guards . Sigmund will use a protection prayer based on the attack you are using, so focus on his henchmen first.
+
+Note: By using the crates nearby, you are able to safespot using magic.
+
+After they're dead, Zanik will attack him with her crossbow. He will switch to Protect from Missiles . Attack him with melee or magic. At 1 HP, he will escape with a ring of life . Smash the drilling machine in the same location.
+
+Go down the southern tunnel and exit there; you'll find yourself back with the Dorgeshuun leaders. After the cutscene, the quest will be completed!
+
+Note: If you don't have a light source, Zanik will provide you one after the cut scene when going through the short cut.
+
+Note: You must return through the tunnel here. If you try to run back to the Lumbridge cellar entrance, the cutscene will not play.
+
+Rewards [ edit | edit source ]
+
+1 Quest point 2,000 Thieving experience 2,000 Ranged experience
+
+Access to the H.A.M. Store room , where you can loot gems, jewellery, and coins from chests Access to the water wheel tunnel ( Dartog will appear there, and you'll be able to travel between the Lumbridge Castle cellar, the Dorgeshuun Mines and the water wheel tunnel at will) Ability to use the bone dagger and Dorgeshuun crossbow special attacks Access to Dorgesh-Kaan , the Dorgeshuun city A torch if you did not have a light source in your inventory at the end of the quest
+
+Required for completing [ edit | edit source ]
+
+Completion of Death to the Dorgeshuun is required for the following:
+
+Another Slice of H.A.M.
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+18 December 2014 ( update ) | Leaving Lumbridge castle via the back door with Zanik now triggers the correct cutscene.
+
+21 March 2013 ( update ) | The Death to the Dorgeshuun quest is now accessible.
+
+22 February 2013 ( update ) | Old School RuneScape servers are officially launched, with the Death to the Dorgeshuun quest temporarily disabled.
+
+Trivia [ edit | edit source ]
+
+When introducing Zanik to the cook, the cook says it is the Duke's birthday and he needs the basic ingredients to bake a cake. This is a reference to the Cook's Assistant quest. When examining Zanik at certain points later in the quest, the info "She's kicking HAM ass" is given. This caused some anger among players who thought it offensive. When examining Zanik's dead body while at Juna , it says "Alas, poor Zanik." referring to a line from Shakespeare's Hamlet : "Alas, poor Yorick." The quest was disabled for a month starting at the launch of the Old School RuneScape servers. It is most likely because the quest is involved in a famous graphical glitch, known as "the box glitch" in which a player could carry the crate with Zanik in it anywhere. The glitch would be fixed much later in RuneScape ' s history of development. If you complete the quest with no light source, a lit torch will be given to you. If you have a full inventory, you will instead be sent back to the watermill cellar.
+
+References [ edit | edit source ]
+
+v • t • e Death to the Dorgeshuun
+
+NPCs | Mistag Zanik Juna Jimmy the Chisel Duke Horacio Lumbridge Guide Father Aereck Dwarf H.A.M. Member Tignik Enemies Sigmund Johanhus Ulsbrecht H.A.M. Deacon Guard |  | Mistag Zanik Juna Jimmy the Chisel Duke Horacio Lumbridge Guide Father Aereck Dwarf H.A.M. Member Tignik | Enemies | Sigmund Johanhus Ulsbrecht H.A.M. Deacon Guard
+
+ | Mistag Zanik Juna Jimmy the Chisel Duke Horacio Lumbridge Guide Father Aereck Dwarf H.A.M. Member Tignik
+
+Enemies | Sigmund Johanhus Ulsbrecht H.A.M. Deacon Guard
+
+Items | Zanik Crate with zanik H.A.M. robes Hood Shirt Robe Gloves Boots Cloak Logo Keys Bronze Silver Iron Steel |  | Zanik Crate with zanik | H.A.M. robes | Hood Shirt Robe Gloves Boots Cloak Logo | Keys | Bronze Silver Iron Steel
+
+ | Zanik Crate with zanik
+
+H.A.M. robes | Hood Shirt Robe Gloves Boots Cloak Logo
+
+Keys | Bronze Silver Iron Steel
+
+Locations | Dorgesh-Kaan ( Dorgesh-Kaan mine ) H.A.M. Hideout Chasm of Tears Water mill cellar
+
+Music | H.A.M. Fisted Sigmund's Showdown
+
+Related | Quick guide Transcript

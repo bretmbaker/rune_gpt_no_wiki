@@ -1,0 +1,2 @@
+Item: Miner (Motherlode Mine)
+Summary: Miners are dwarves that are located throughout the Motherlode Mine. Eleven are found throughout the mine, and their appearance and examine text varies on each dwarf.

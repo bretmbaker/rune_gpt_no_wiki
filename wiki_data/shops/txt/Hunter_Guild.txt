@@ -1,0 +1,155 @@
+[Shop: Hunter_Guild]
+
+Hunter Guild
+
+
+
+
+
+Released | 20 March2024(Update)
+
+Members | Yes
+
+Location | Avium Savannah
+
+Leagueregion | Varlamore✓
+
+Requirements | 46
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | guild
+
+
+
+TheHunter Guildis amembers-only guild located within the north-western part of theAvium Savannah, just outsideCivitas illa Fortis. To access the guild's amenities, a minimumHunterlevel of 46 (not boostable) is required.
+
+The guild, currently led byGuildmaster Apatura, has been around since ancient times, originally called Cor Venationis, or "the Heart of the Hunt". The guild hosts a variety of features related to theHunterskill.
+
+Getting there[edit|edit source]
+
+The player must have travelled toCivitas illa FortisviaRegulus Centoafter completion ofChildren of the Sunat least once before you can accessVarlamore.
+
+TheHunter capeorMax capeteleports players to the centre of the guild. Speak toGuildmaster Apaturawith either cape equipped or in your inventory and she will unlock the teleport option after a brief conversation.Aquetzal whistleteleports players to the quetzal landing zone in front of the guild. Quetzal whistles can be unlocked after completing 10 rumours with the guild.TheQuetzal Transport System, unlocked duringTwilight's Promise, has a landing zone in front of the guild.Thefairy ringAJPis south-east of the Hunter Guild.Civitas illa Fortis Teleportcan be used afterTwilight's Promise, and is near a quetzal landing site.
+
+Features[edit|edit source]
+
+Bank[edit|edit source]
+
+The guild features abank, notably three tiles away from a fire forCooking.
+
+Hunters' Rumours[edit|edit source]
+
+Withinthe Burrow, the guild's pub underground, players can speak toGuild Scribe Verityto begin taking on Hunters' Rumours, an assignment system similar toSlayer tasksandfarming contracts. She may also enable back to back hunter rumours. By speaking to one of the Guild Hunters in the Burrow, players are tasked to investigate a rumour involving a specifichunter creature. This is done by hunting the creature until a rare creature part is received, and then bringing it back to the Guild Hunter.
+
+Completing Hunters' Rumours reward the player with Hunter experience and ahunter's loot sack; the quality of these depend on the tier of the rumour assigned. Hunter's loot sacks typically contain various hunter meats, furs, andblessed bone shards, and may also reward unique items like theguild hunter outfitandhuntsman's kit. Players will also gain the ability to cook various hunter meats upon completing a specific amount of rumours.
+
+The Roost[edit|edit source]
+
+The Roost, found atop the guild, is where the guild raises Varlamore's quetzals. Though the player's personal landing site is found on the ground by the guild's entrance, players who have completed tenHunters' Rumourscan come up here and talk toSoar Leader Pitrito receive abasic quetzal whistle blueprint, which can be crafted into abasic quetzal whistle.
+
+Quetzal whistles are used to "teleport" to the entrance of guild, allowing instant access to theQuetzal Transport Systemupon arrival, though players must charge it by giving Pitri certain hunter meats to feed the guild's quetzals; the higher level the meat, the more charges one receives. Blueprints for better variants, which hold more charges, can be obtained as possible loot from hunter's loot sacks.
+
+Additionally, the whistles allow players to check their current Hunters' Rumour.
+
+Hunter meats[edit|edit source]
+
+Hunter meats, when eaten, will heal an initial amount before doing so again after 7 ticks (4.2 seconds), making it heal moreHitpointsoverall than otherFoodin its level bracket. If a second meat is eaten before the effect happens, only the most recent secondary heal will occur; however, the secondary effect willnotbe cancelled when eatingcooked karambwansor drinking a potion with a healing effect, such as a dose of aSaradomin Brewor aBarbarian Potion Mix.
+
+Hunter meats are unique in that their raw forms can be stored in asmallorlarge meat pouchwhich iscraftedwith hunted creature products. This can allow for extended hunting trips but has limited use otherwise as the pouch cannot be emptied outside of abank.
+
+By default, players with the appropriateCookinglevel can cook low tier hunter meat, but better quality meats require having completed a set amount ofHunters' Rumoursbefore being able to cook them:
+
+Level | Item | Rumours | XP | Initial heal | Secondary heal | Total heal | Additional effect | Comparison
+
+23 |  | Cooked wild kebbit | 0 | 73 | 4 | 4 | 8 |  |  | Pike | 8
+
+31 |  | Cooked larupia | 0 | 91 | 6 | 5 | 11 |  |  | Rainbow fish | 11
+
+32 |  | Cooked barb-tailed kebbit | 0 | 106 | 7 | 5 | 12 |  |  | Lobster | 12
+
+41 |  | Cooked graahk | 25 | 124 | 8 | 6 | 14 |  |  | Swordfish | 14
+
+51 |  | Cooked kyatt | 25 | 143 | 9 | 8 | 17 |  |  | Monkfish | 16
+
+59 |  | Cooked pyre fox | 25 | 154 | 11 | 8 | 19 |  |  | Shark | 20
+
+68 |  | Cooked sunlight antelope | 50 | 175 | 12 | 9 | 21 |  |  | Sea turtle | 21
+
+82 |  | Cooked dashing kebbit | 50 | 215 | 13 | 10 | 23 | Restores 10 run energy |  | Manta ray | 22
+
+92 |  | Cooked moonlight antelope | 50 | 220 | 14 | 12 | 26 | Curespoison |  | 
+
+Shops[edit|edit source]
+
+The BurrowImia's SuppliesPellem's Fur Store
+
+Gallery[edit|edit source]
+
+Areas[edit|edit source]
+
+Concept art of the guild environment, byMod Jerv.Concept art of the underground pub, by Mod Jerv.
+
+NPCs[edit|edit source]
+
+Concept art of the various NPCs in the guild, by Mod Jerv.Concept art of the quetzals, by Mod Jerv.Concept art of the guild banker and the bank buffalo, by Mod Jerv.Concept art of the guild hunters in the underground pub, by Mod Jerv.
+
+v•t•eHunter Guild
+
+NPCs | Guildmaster ApaturaGuild Scribe VeritySoar Leader PitriImiaOrsagaPellemBankerBank buffaloGuild HuntersHuntmaster GilmanOrnusCervusAcoTecoWolfFoxKiko |  | Guildmaster ApaturaGuild Scribe VeritySoar Leader PitriImiaOrsagaPellemBankerBank buffalo | Guild Hunters | Huntmaster GilmanOrnusCervusAcoTecoWolfFoxKiko
+
+ | Guildmaster ApaturaGuild Scribe VeritySoar Leader PitriImiaOrsagaPellemBankerBank buffalo
+
+Guild Hunters | Huntmaster GilmanOrnusCervusAcoTecoWolfFoxKiko
+
+Hunters' Rumours | Rare creature partsTuftsKebbityGrey chinchompaRed chinchompaHerbyWingsBlue butterflyWhite butterflyBlack butterflySunlight mothMoonlight mothClawsSwamp lizardOrange salamanderRed salamanderTecu salamanderOtherTailfeathersLarupia earLarge jerboa tailGraahk horn spurKyatt tooth chipFox fluffAntelope hoof shard (sunlight)Antelope hoof shard (moonlight)RewardsHunters' loot sacksBasicAdeptExpertMasterSuppliesQuetzal whistle blueprintsBasicEnhanced(torn)Perfected(torn)Quetzal whistlesBasicEnhancedPerfectedGuild hunter outfitHeadwearTopLegsBootsOtherHunter spear tipsHuntsman's kitQuetzal feedTattered request noteGuild history excerptApatura's keyApatura's noteQuetzin | Rare creature parts | TuftsKebbityGrey chinchompaRed chinchompaHerbyWingsBlue butterflyWhite butterflyBlack butterflySunlight mothMoonlight mothClawsSwamp lizardOrange salamanderRed salamanderTecu salamanderOtherTailfeathersLarupia earLarge jerboa tailGraahk horn spurKyatt tooth chipFox fluffAntelope hoof shard (sunlight)Antelope hoof shard (moonlight) | Tufts | KebbityGrey chinchompaRed chinchompaHerby | Wings | Blue butterflyWhite butterflyBlack butterflySunlight mothMoonlight moth | Claws | Swamp lizardOrange salamanderRed salamanderTecu salamander | Other | TailfeathersLarupia earLarge jerboa tailGraahk horn spurKyatt tooth chipFox fluffAntelope hoof shard (sunlight)Antelope hoof shard (moonlight) | Rewards | Hunters' loot sacksBasicAdeptExpertMasterSuppliesQuetzal whistle blueprintsBasicEnhanced(torn)Perfected(torn)Quetzal whistlesBasicEnhancedPerfectedGuild hunter outfitHeadwearTopLegsBootsOtherHunter spear tipsHuntsman's kitQuetzal feedTattered request noteGuild history excerptApatura's keyApatura's noteQuetzin | Hunters' loot sacks | BasicAdeptExpertMasterSupplies | Quetzal whistle blueprints | BasicEnhanced(torn)Perfected(torn) | Quetzal whistles | BasicEnhancedPerfected | Guild hunter outfit | HeadwearTopLegsBoots | Other | Hunter spear tipsHuntsman's kitQuetzal feedTattered request noteGuild history excerptApatura's keyApatura's noteQuetzin
+
+Rare creature parts | TuftsKebbityGrey chinchompaRed chinchompaHerbyWingsBlue butterflyWhite butterflyBlack butterflySunlight mothMoonlight mothClawsSwamp lizardOrange salamanderRed salamanderTecu salamanderOtherTailfeathersLarupia earLarge jerboa tailGraahk horn spurKyatt tooth chipFox fluffAntelope hoof shard (sunlight)Antelope hoof shard (moonlight) | Tufts | KebbityGrey chinchompaRed chinchompaHerby | Wings | Blue butterflyWhite butterflyBlack butterflySunlight mothMoonlight moth | Claws | Swamp lizardOrange salamanderRed salamanderTecu salamander | Other | TailfeathersLarupia earLarge jerboa tailGraahk horn spurKyatt tooth chipFox fluffAntelope hoof shard (sunlight)Antelope hoof shard (moonlight)
+
+Tufts | KebbityGrey chinchompaRed chinchompaHerby
+
+Wings | Blue butterflyWhite butterflyBlack butterflySunlight mothMoonlight moth
+
+Claws | Swamp lizardOrange salamanderRed salamanderTecu salamander
+
+Other | TailfeathersLarupia earLarge jerboa tailGraahk horn spurKyatt tooth chipFox fluffAntelope hoof shard (sunlight)Antelope hoof shard (moonlight)
+
+Rewards | Hunters' loot sacksBasicAdeptExpertMasterSuppliesQuetzal whistle blueprintsBasicEnhanced(torn)Perfected(torn)Quetzal whistlesBasicEnhancedPerfectedGuild hunter outfitHeadwearTopLegsBootsOtherHunter spear tipsHuntsman's kitQuetzal feedTattered request noteGuild history excerptApatura's keyApatura's noteQuetzin | Hunters' loot sacks | BasicAdeptExpertMasterSupplies | Quetzal whistle blueprints | BasicEnhanced(torn)Perfected(torn) | Quetzal whistles | BasicEnhancedPerfected | Guild hunter outfit | HeadwearTopLegsBoots | Other | Hunter spear tipsHuntsman's kitQuetzal feedTattered request noteGuild history excerptApatura's keyApatura's noteQuetzin
+
+Hunters' loot sacks | BasicAdeptExpertMasterSupplies
+
+Quetzal whistle blueprints | BasicEnhanced(torn)Perfected(torn)
+
+Quetzal whistles | BasicEnhancedPerfected
+
+Guild hunter outfit | HeadwearTopLegsBoots
+
+Other | Hunter spear tipsHuntsman's kitQuetzal feedTattered request noteGuild history excerptApatura's keyApatura's noteQuetzin
+
+Related | Mixed hide baseImia's SuppliesPellem's Fur StoreThe Burrow
+
+v•t•eLocations inVarlamore
+
+Civitas illa Fortis | Fortis AqueductFortis ColosseumFortis CothonGrand MuseumKualti HeadquartersOrtus FarmOuter Fortis
+
+Avium Savannah | Colossal Wyrm RemainsHunter GuildLocus OasisStonecutter OutpostSunset Coast
+
+Aldarin | Alchemical SocietyDarkmoon RavineMistrockMoonrise Brewery and WineryVilla Lucens
+
+Hailstorm Mountains | The DarkfrostMons GratiaThe ProudspireQuetzacalli GorgeRalos' RiseThe Teomat
+
+Other areas | Cam TorumCustodia MountainsRuins of TapoyauikSalvager OverlookTal TeklanTempestusTlati RainforestTwilight TempleRiver VarlaRiver Ortus
+
+v•t•eGuilds
+
+Free-to-play | Champions'CookingCraftingMining
+
+Members | FarmingFishingHeroes'HunterLegends'Myths'RangingWarriors'Wizards'Woodcutting

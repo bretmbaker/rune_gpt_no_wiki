@@ -1,0 +1,4 @@
+Item: Karil's leatherskirt
+Summary: Karil's leatherskirt is Ranged armour worn in the legwear slot that is part of Karil the Tainted's set of Barrows equipment. To wear Karil's leatherskirt, a player must have 70 Defence and 70 Ranged.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

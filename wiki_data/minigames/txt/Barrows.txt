@@ -1,0 +1,134 @@
+[Minigame: Barrows]
+
+ | This is a dangerous activity.Ondeath,Hardcore Ironmenwill  lose their status.Unprotected items will be moved to a grave.
+
+ | This article has astrategy guide.All information on mechanics and strategy will be on this page.
+
+Barrows
+
+
+
+
+
+Released | 9 May2005(Update)
+
+Type | Boss
+
+Members | Yes
+
+Location | East ofMort'ton
+
+Leagueregion | Morytania✓
+
+Participants | 1
+
+Skills | Combat
+
+Reward currency | N/A
+
+Tutorial | No
+
+Music | Dangerous Way,Dance of the Undead
+
+
+
+Map
+
+
+
+TheBarrowsis a series of six burial mounds east of Mort'ton in which theBarrows brotherswere entombed after their deaths during theThird Age. 'Barrows' also commonly refers to the minigame-like dungeon-delving experience of lootingthe chestat the centre of the tunnels beneath the crypts, released on9 May2005.
+
+Players can attempt to rob valuable items from the Barrows brothers' crypts. However, due to an ancient spell, the brothers'wightscontinued to dwell in the barrows, protecting these treasures.
+
+Looting the Barrows is popular due to the potential of receiving valuable rewards, including the uniqueBarrows equipment, with increasingly valuable rewards for killing more monsters in the crypts, including theBarrows brothersthemselves.
+
+In theminiquestHis Faithful Servantsplayers are tasked to slay all sixBarrows brothersand then loot the chest for thestrange icon. Completing the miniquest rewards some Prayer experience and the ability to use yourminimapwithin theBarrows tunnels.
+
+History[edit|edit source]
+
+TheBarrows brotherswere ancient warriors ofSaradominwho established a reputation of near invincibility while fighting in theGod Wars.
+
+They launched a massive attack, known as theMorytania Campaign, to liberateMorytaniafrom the clutches ofLord Lowerniel Vergidiyad Drakanand hisvampyres. As the brothers departed, a mysterious stranger granted them superhuman power to battle Drakan's forces, by supplying them with the weapons and armour now known as theBarrows equipment. It succeeded, for the brothers, who were in the front line, seemed invincible. They had not anticipated, however, that the stranger had ulterior motives for helping them.
+
+As the brothers and their accompanying army progressed further into enemy territory inMorytania, the stranger followed them until the brothers became weakened. The brothers were grievously wounded in battle near the Great Vyrewall, and thus the army set up camp just west ofMeiyerditch. Soon, the brothers died of their infected wounds simultaneously in the army's camp. The army quickly decided to retreat from Morytania, realising they could never succeed without their former leaders' prowess, but as a reflection of the brothers' bravery, they vowed to honour their martyred heroes as a final act before retreating.
+
+The army spent six days and nights holding off the attacking vampyres to construct burial mounds, the Barrows, to honour the fallen brothers.
+
+As the army began its return, the stranger slowly started walking towards the brothers, now dead and interred in their barrows. Arms outstretched atop the central mound, the stranger chanted in some foul, ancient language, casting his old magic. A vulgar purple light formed in front of him, fell to the earth, and bled into each of the barrows.
+
+Not many of the original army made it back on the journey home, but tales were told of how each night an unnatural glow could be seen on the horizon where they had buried the brothers. Even today there are stories told about those mounds of earth, and of the sights and sounds that have been witnessed nearby.
+
+Acrumbling tome, obtained by searching the hut near the mounds or by talking to theStrange Old Manfound digging the crypts, provides a detailed account of how the brothers came to be buried.
+
+Getting there[edit|edit source]
+
+There are several different methods for travelling to the Barrows. The best options, ordered from fast to slow, are:
+
+CastingBarrows Teleportin theArceuus spellbook(requires level 83Magic), or using aBarrows teleport tabletorhouse portalto teleport right next to the entrance.Using theMort'ton teleportscroll and then running east to Barrows.Using theMorytania legs 3or4toBurgh de Rottand running north throughMort'tontowards Barrows.Using theGroupinginterface to teleport toShades of Mort'ton(requires completion of theShades of Mort'tonquest). This method is free and takes up no inventory or equipment spaces, though there is a 20-minute cooldown between uses.UsingDrakan's medallionto teleport toVer Sinhaza(requires completion ofA Taste of Hope), leaving through the western door, running south-west to board theboatto Burgh de Rott, and running north through Mort'ton to Barrows.CastingKharyrll Teleportin theAncient spellbook(requires level 66 Magic and completion ofDesert Treasure I), or using aKharyrll teleport tabletor house portal to teleport toCanifis, then using theMyreque Hideoutshortcut south of the pub and running south, crossing the rope bridge, continuing south and using theswamp boatyto travel to Mort'ton, then running east.Using thefairy ringcodeBKR, running south-east and using the swamp boaty to travel to Mort'ton, then running east.Using the fairy ring codeBIP, hopping across thestepping stoneshortcut (requires level 50Agility), then going east and south, following the path through Mort'ton.Running east from Canifis, then south through the swamp, turning east at the northmost hunter spot, looping around to the other nearby hunter spot, then running south-west to the swamp exit.
+
+Non-Ironmanplayers may attempt to visit aplayer-owned houseon ahouse partyworld with aportal nexusfor a quick and cheap teleport to Barrows or Canifis. Additionally, players with level 72Agilitycan use thedry stone wallshortcut on the south west side of the mounds, just east of the bridge.
+
+Requirements[edit|edit source]
+
+Completion ofPriest in Perilis required to enterMorytania.StartedHis Faithful Servantsto begin digging into the crypts.
+
+Money making[edit|edit source]
+
+The followingmoney making guideis available for Barrows:
+
+Method | Hourly profit | Skills
+
+Barrows | 835,019 | 43+strongly recommended forprotection prayers(higher prayer means fewer supplies used per trip)70+,,recommended for Melee50+(75+ recommended forpowered staves) for Magic50+(75+ recommended forToxic blowpipe) for Ranged
+
+Rewards[edit|edit source]
+
+The table below lists the possible rewards from the chest at the centre of the Barrows crypt. For more information about reward mechanics and rarities, seeChest (Barrows).
+
+Image | Name
+
+ | Ahrim the Blighted's equipment
+
+ | Dharok the Wretched's equipment
+
+ | Guthan the Infested's equipment
+
+ | Karil the Tainted's equipment
+
+ | Torag the Corrupted's equipment
+
+ | Verac the Defiled's equipment
+
+ | Other items
+
+Combat Achievements[edit|edit source]
+
+There are 7Combat Achievementtasks (totalling 14 points) available for Barrows.
+
+Name | Description | Type | Tier | Comp%
+
+Defence? What Defence? | Kill any Barrows Brother using only magical damage. | Restriction | Easy (1 pt) | 62.7%
+
+Barrows Novice | Open the Barrows chest 10 times. | Kill Count | Easy (1 pt) | 57.9%
+
+Can't Touch Me | Kill Dharok, Verac, Torag and Guthan without letting them attack you with melee. | Mechanical | Medium (2 pts) | 20.5%
+
+Barrows Champion | Open the Barrows chest 25 times. | Kill Count | Medium (2 pts) | 51.2%
+
+Pray for Success | Kill all six Barrows Brothers and loot the Barrows chest without taking any damage from any of the brothers. | Perfection | Medium (2 pts) | 43.6%
+
+Just Like That | Kill Karil using only damage dealt by special attacks. | Restriction | Hard (3 pts) | 30.8%
+
+Faithless Crypt Run | Kill all six Barrows Brothers and loot the Barrows chest without ever having more than 0 prayer points. | Restriction | Hard (3 pts) | 27.5%
+
+Gallery[edit|edit source]
+
+Ahrim the BlightedDharok the WretchedGuthan the InfestedKaril the TaintedTorag the CorruptedVerac the Defiled
+
+Music unlocked[edit|edit source]
+
+Name | Unlock details | Music track
+
+Dance of the Undead | Unlocked in the Barrows area. | 
+
+Dangerous Way | Unlocked in the crypts and tunnels. | 
+

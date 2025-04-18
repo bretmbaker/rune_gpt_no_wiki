@@ -1,0 +1,57 @@
+Name: Monkey Zombie
+Combat Level: 82
+Size: 1x1
+Info:
+- Description: A recently deceased monkey. Its flesh seems to be worse for the wear.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 60 xp
+- Category: Monkeys, Zombies
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 5283
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Zombie champion scroll (1/5,000)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 60
+Attack: 100
+Strength: 60
+Defence: 60
+Magic: 60
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 15
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

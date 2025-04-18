@@ -1,0 +1,1 @@
+TheExploding vialis an animation item used during theWatchtower. It is temporarily wielded during an animation if the player makes a mistake while creating theMagic ogre potion. Aside from this, it cannot be obtained.

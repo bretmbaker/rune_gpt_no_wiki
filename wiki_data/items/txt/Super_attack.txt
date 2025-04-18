@@ -1,0 +1,1 @@
+Asuper attackis apotionmade by using aneye of newton anirit potion (unf), requiring 45Herblore, yielding a super attack(3) and 100 Herbloreexperience. A dose of super attack provides atemporary skill boosttoAttackequal to 5 + 15% of the player's current Attack level, rounded down.

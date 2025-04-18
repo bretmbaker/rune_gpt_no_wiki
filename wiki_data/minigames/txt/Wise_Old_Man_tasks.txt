@@ -1,0 +1,287 @@
+[Minigame: Wise_Old_Man_tasks]
+
+Wise Old Man tasks
+
+
+
+
+
+Released | 6 June2005(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Draynor Village
+
+Leagueregion | Misthalin✓
+
+Participants | 1
+
+Skills | None
+
+Reward currency | None
+
+Tutorial | No
+
+Music | None
+
+
+
+TheWise Old Mancan assign various tasks onmemberworlds and give small rewards in return.
+
+The most common tasks are to fetch between 3 and 15 of one of the following items (this list may not be exhaustive). They can be brought in more than one batch. The Wise Old Man doesn't acceptbank notes, as they have no use to him. In addition, the Wise Old Man will only give tasks that match the player's current level. For example, he will not assign the player to fetch 15anchoviesif the player does not have level 15Fishing.
+
+There are 59 tasks in total that can be assigned, each of which is allotted an equal weight.[1]That said, the Wise Old Man will not request an item if theadventurerlacks the skill to create it themselves.
+
+Item delivery[edit|edit source]
+
+These make up approximately 82% of all tasks.
+
+Easy task items[edit|edit source]
+
+Items
+
+Anchovies | Beer glass | Bones
+
+Bronze arrow | Bronze bar | Bronze dagger
+
+Bronze axe | Bronze mace | Bronze med helm
+
+Bronze spear | Bronze sword | Beer
+
+Cadava berries | Cooked chicken | Cooked meat
+
+Copper ore | Cowhide | Egg
+
+Feather | Grain | Iron bar
+
+Iron mace | Iron ore | Soft clay
+
+Leather gloves | Logs | Molten glass
+
+Potato | Raw rat meat | Rune essence[a](pureaccepted)
+
+Shrimps | Silk | Leather
+
+Tin ore | 
+
+Hard task items[edit|edit source]
+
+Items
+
+Ball of wool | Bow string | Bread
+
+Bronze arrowtips | Bronze knife | Bronze warhammer
+
+Bronze wire | Headless arrow | Swamp paste
+
+Iron arrowtips | Iron knife | Iron warhammer
+
+Leather cowl | Pot of flour | Unfired pie dish
+
+Unfired pot | Leather boots
+
+Letter delivery[edit|edit source]
+
+Some tasks require the player to deliver aletterto one of the following NPCs. In these cases the recipient will reward the player, rather than the Wise Old Man. The player can read the letter before delivering it. These make up approximately 16% of all tasks.
+
+Thedrop trickused to allow players to complete these tasks significantly more efficiently than anticipated, and it has been patched to no longer work for these tasks.
+
+Abbot Langleyin theEdgeville MonasteryFather AereckofLumbridge ChurchFather LawrenceinVarrockTheHigh PriestofEntranaTheOracleonIce MountainReldo, librarian ofVarrockThurgo, south ofPort Sarim
+
+The thing under the bed[edit|edit source]
+
+Finally, the Wise Old Man will occasionally ask the player to investigate thethingunder his bed; the player must then defeat it incombat. This makes up approximately 2% of all tasks.
+
+Rewards[edit|edit source]
+
+The task reward for killing the thing under the bed is 280-300Hitpointsexperience. Upon completing a delivery task, the player will receive a random reward from the lists below whereas completing an item task the player will receive eitherPrayerexperience or a random reward from the lists below.
+
+Killing the 'thing under the bed'
+
+
+
+Level required | 1
+
+Hitpoints XP | 280-300
+
+Type | other
+
+
+
+Prayer experience[edit|edit source]
+
+If a player has at least level 3 Prayer they will be awarded Prayer experience 43.75% of the time. Players receive between 185-215 experience for an easy task and between 370-430 experience for a hard task.
+
+Wise Old Man tasks
+
+
+
+Level required | 3
+
+Prayer XP | 185-215
+
+Type | other
+
+
+
+Coins[edit|edit source]
+
+An easy task will reward 185-215 coins, and a hard task will award 990-1020. If the player has less than level 3 Prayer, the rate for coins is 9/16.
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Coins | 180–220 | 2/16 | 180–220 | 180–220
+
+ | Coins | 990–1,020 | 2/16 | 990–1,020 | 990–1,020
+
+Gems[edit|edit source]
+
+The gem table is rolled 6.25% of the time.
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Uncut sapphire | 1 | Uncommon | 253 | 15
+
+ | Uncut opal | 1 | Uncommon | 136 | 12
+
+ | Uncut red topaz | 1 | 2/25[2] | 1,442 | 24
+
+ | Uncut emerald | 1 | Uncommon | 423 | 30
+
+ | Uncut ruby | 1 | Uncommon | 958 | 60
+
+ | Uncut jade | 1 | Uncommon | 112 | 18
+
+ | Uncut diamond | 1 | Rare | 2,253 | 120
+
+Runes[edit|edit source]
+
+The runes table is rolled 12.5% of the time. An easy task will reward up to 10 sets of runes, and a hard task will reward up to 25. A "set of runes" may consist of one of the following: 1 chaos, 1 nature, 1 law, 1 fire, 2 mind, 2 body, 2 earth, 2 water, 3 air runes. Each set is equally likely.
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Air rune | 3–75 | Common | 15–375 | 6–150
+
+ | Water rune | 2–50 | Common | 10–250 | 4–100
+
+ | Earth rune | 2–50 | Common | 10–250 | 4–100
+
+ | Body rune | 2–50 | Common | 10–250 | 2–50
+
+ | Mind rune | 2–50 | Common | 6–150 | 2–50
+
+ | Fire rune | 1–25 | Common | 5–125 | 2–50
+
+ | Law rune | 1–25 | Common | 132–3,300 | 144–3,600
+
+ | Nature rune | 1–25 | Common | 115–2,875 | 108–2,700
+
+ | Chaos rune | 1–25 | Common | 104–2,600 | 54–1,350
+
+Herbs[edit|edit source]
+
+The herb table is rolled 12.5% of the time. An easy task will reward up to 3 herbs and a hard task will reward up to 10 herbs.
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Grimy guam leaf | 1–10(noted) | Common | 424–4,240 | 7–70
+
+ | Grimy marrentill | 1–10(noted) | Common | 311–3,110 | 8–80
+
+ | Grimy tarromin | 1–10(noted) | Common | 325–3,250 | 9–90
+
+ | Grimy ranarr weed | 1–10(noted) | Common | 5,765–57,650 | 18–180
+
+ | Grimy harralander | 1–10(noted) | Common | 551–5,510 | 9–90
+
+Seeds[edit|edit source]
+
+The seeds table is rolled 12.5% of the time.
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Potato seed | 1–9 | Common | 2–18 | 1–9
+
+ | Onion seed | 1–6 | Common | 1–6 | 1–6
+
+ | Tomato seed | 1–4 | Common | 2–8 | 2–8
+
+ | Cabbage seed | 1–3 | Common | 2–6 | 1–3
+
+ | Marigold seed | 1–2 | Common | 3–6 | 1–2
+
+ | Yanillian seed | 1–6 | Uncommon | 6–36 | 3–18
+
+ | Cactus seed | 1 | Uncommon | 80 | 59
+
+ | Cadavaberry seed | 1 | Uncommon | 5 | 5
+
+ | Hammerstone seed | 1–9 | Uncommon | 5–45 | 1–9
+
+ | Jangerberry seed | 1 | Uncommon | 5 | 36
+
+ | Barley seed | 1–13 | Uncommon | 6–78 | 1–13
+
+ | Nasturtium seed | 1 | Uncommon | 3 | 6
+
+ | Strawberry seed | 1 | Uncommon | 10 | 10
+
+ | Jute seed | 1–9 | Uncommon | 5–45 | 3–27
+
+ | Woad seed | 1 | Uncommon | 9 | 6
+
+ | Guam seed | 1 | Uncommon | 29 | 0
+
+ | Marrentill seed | 1 | Uncommon | 21 | 1
+
+ | Tarromin seed | 1 | Uncommon | 17 | 1
+
+ | Toadflax seed | 1 | Uncommon | 1,053 | 6
+
+ | Harralander seed | 1 | Uncommon | 41 | 2
+
+ | Watermelon seed | 2 | Uncommon | 148 | 66
+
+ | Rosemary seed | 1 | Uncommon | 3 | 2
+
+ | Krandorian seed | 1–4 | Uncommon | 4–16 | 4–16
+
+ | Redberry seed | 1 | Uncommon | 2 | 2
+
+ | Dwellberry seed | 1 | Uncommon | 5 | 15
+
+ | Asgarnian seed | 1–7 | Uncommon | 2–14 | 1–7
+
+ | Sweetcorn seed | 2 | Uncommon | 6 | 8
+
+ | Whiteberry seed | 1 | Uncommon | 12 | 79
+
+ | Wildblood seed | 3 | Uncommon | 126 | 24
+
+ | Limpwurt seed | 1 | Rare | 33 | 7
+
+ | Snape grass seed | 1 | Rare | 8,347 | 56
+
+References[edit|edit source]
+
+v•t•eSolo and Group Activities
+
+Minigames | Player versus MonsterBarbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's ChallengesPlayer versus PlayerBounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man StandingSkillingBrimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic MineCombat & SkillingShades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' GuildMiscellaneousBurthorpe Games Room(Games Zone)Rat PitsTears of Guthix | Player versus Monster | Barbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's Challenges | Player versus Player | Bounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man Standing | Skilling | Brimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic Mine | Combat & Skilling | Shades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' Guild | Miscellaneous | Burthorpe Games Room(Games Zone)Rat PitsTears of Guthix
+
+Player versus Monster | Barbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's Challenges
+
+Player versus Player | Bounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man Standing
+
+Skilling | Brimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic Mine
+
+Combat & Skilling | Shades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' Guild
+
+Miscellaneous | Burthorpe Games Room(Games Zone)Rat PitsTears of Guthix
+
+Raids | Chambers of XericTheatre of BloodTombs of Amascut
+
+Distractions and Diversions | Champions' ChallengeShooting StarsTreasure Trails
+
+Other | Blast mineCamdozaal VaultChompy bird huntingCreature CreationDorgesh-Kaan market tradingKeldagrim tasksManaging MiscellaniaShayzien Combat RingStealing valuablesUnderwater Agility and ThievingWise Old Man tasks

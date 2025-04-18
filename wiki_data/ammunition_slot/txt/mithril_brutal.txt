@@ -1,0 +1,48 @@
+[Weapon: Mithril Brutal]
+
+
+Mithril brutal arrowsare used to killzogressouth of theCastle Warsarena orChompy birds. They are made withflighted ogre arrowsandmithril nails. Level 49Fletchingis required to make these and they will yield 7.5experienceper arrow.
+
+
+[Infobox]
+Released: 17 May2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Blunt mithril arrow... ouch.
+General Store Value: 50 coins
+High alch: 30 coins
+Low alch: 20 coins
+Weight: 0 kg
+Grand Exchange Value: 214 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 30,200
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +34
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

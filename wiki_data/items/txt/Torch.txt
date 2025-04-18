@@ -1,0 +1,1 @@
+Anunlit torchmay be used with atinderboxor used on arangeto get a lit torch. It is useful for dark tunnels and smokingHuntertraps once lit. 39 Hunter is required to smoke traps. Smoking traps increases the chance of catching a creature by 2% (additive).

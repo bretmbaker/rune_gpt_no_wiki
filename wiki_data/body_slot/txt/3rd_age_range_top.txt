@@ -1,0 +1,63 @@
+[Weapon: 3Rd Age Range Top]
+
+
+The3rd age range topis a part of the3rd age range set. Requiring level 65Rangedand 45Defenceto wear, it offers identical bonuses to ablessed d'hide bodyexcept for having higherMagic defenceand noprayer bonus.
+The 3rd age range top is a possible reward fromhard,eliteandmastertierTreasure Trailsand cannot be made through any skills.
+
+
+[Infobox]
+Released: 5 December2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Fabulously ancient range protection crafted from white dragonhide.
+General Store Value: 50,800 coins
+High alch: 30,480 coins
+Low alch: 20,320 coins
+Weight: 4 kg
+Grand Exchange Value: 56,947,202 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 26
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: +30
+
+Defence Bonuses:
+- Stab: +55
+- Slash: +47
+- Crush: +60
+- Magic: +60
+- Ranged: +55
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Mimic | N/A | 1 | 1/5,244;1/5,750 | 
+Reward casket (elite) | N/A | 1 | 1/249,262.5 | 
+Reward casket (hard) | N/A | 1 | 1/211,250 | 
+Reward casket (master) | N/A | 1 | 1/313,168 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Ancient Wyvern/Strategies(Ranged)
+4 | Slayer task/Fossil Island wyverns(Ranged)

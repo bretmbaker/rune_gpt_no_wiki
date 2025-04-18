@@ -1,0 +1,49 @@
+[Weapon: Necklace Of Faith]
+
+
+Anecklace of faithis atopaz necklaceenchanted via theLvl-3 Enchantspell.
+When worn, the necklace will restore the wearer'sprayer pointsby 25% ofPrayerlevel if theirhitpointsdrop below 20% of their maximum. Once the effect takes place, the necklace will degrade to dust. However, if the player is reduced to zero hitpoints from above 20%, the necklace will have no effect and the player will die as usual.
+
+
+[Infobox]
+Released: 2 February2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Can grant me prayer in an emergency.
+General Store Value: 1,425 coins
+High alch: 855 coins
+Low alch: 570 coins
+Weight: 0.01 kg
+Grand Exchange Value: 975 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 497
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

@@ -1,0 +1,59 @@
+[Weapon: Book Of The Dead]
+
+
+Thebook of the deadis an equipable book obtained as a reward from completingA Kingdom Divided. Having it equipped or in the player's inventory is required when castingresurrection spells.
+As it is an improved version ofKharedst's memoirs, the book is able to teleport to the same locations as the memoirs, and holds up to 250 teleport charges (150 + 20 per page added) compared to the memoirs' 100 (20 per page added).
+
+
+[Infobox]
+Released: 16 June2021(Update)
+Members: Yes
+Quest item: A Kingdom Divided
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Reminisce, Read, Check, Destroy
+Worn options: Lunch by the Lancalliums, The Fisher's Flute, History and Hearsay, Jewellery of Jubilation, A Dark Disposition, Check
+Destroy: You can obtain another from Commander Fullore at Kourend Castle.
+Examine: A book that grants its holder the powers of resurrection.
+General Store Value: 80 coins
+High alch: 48 coins
+Low alch: 32 coins
+Weight: 0.2 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +6
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Shield slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Chambers of Xeric/Challenge Mode(Magic)
+4 | Chambers of Xeric/Strategies(Magic)
+4 | Tombs of Amascut/Strategies(Magic switch)
+4 | Tormented Demon/Strategies(Magic switch)
+1 | Ultimate Ironman Guide/Equipment
+3 | Zalcano/Strategies(Mining)
+5 | Zulrah/Strategies(Magic)

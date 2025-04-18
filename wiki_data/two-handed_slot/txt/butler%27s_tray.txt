@@ -1,0 +1,53 @@
+[Weapon: Butler%27S Tray]
+
+
+TheButler's traycan be obtained by speaking to theHead Butlerat theVilla LucensinAldarinafter completing theDeath on the Islequest.  Multiple trays may be obtained by speaking to Head Butler again.
+The butler's tray is equipped in both hands when worn and gives the player a unique pose and walking animation, in which the tray is held in the player's left hand, and the player's right hand is held behind their back.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: Death on the Isle
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get another from the Villa Lucens Head Butler.
+Examine: A neat way to carry things!
+General Store Value: 100 coins
+Alchemy: Not alchemisable
+Weight: 0.05 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Punch | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Kick | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

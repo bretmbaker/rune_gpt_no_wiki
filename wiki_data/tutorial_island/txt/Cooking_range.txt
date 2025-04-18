@@ -1,0 +1,20 @@
+[Page: Range]
+
+Arangeis used to cookfoodthrough theCookingskill. Except for special cases, any food that can be cooked on afirecan be cooked on a range. To cook food, simply 'use' it on the range. Ranges are marked on a player'smapby theicon.Clay ovensalso serve the same function as a range.
+Cooking on a range reduces theburn chancefor certain foods. The range inLumbridge Castle(referred to as the "Cook-o-matic 100"), which requires completion ofCook's Assistantto use, has an even lower burn rate for certain foods. Lastly, the clay ovens in theHosidius Kitchengive the best reduction in burn rates, provided the player has completed theeasy Kourend & Kebos Diary.
+A table of the levels where cooking food items becomes successful 100% of the time can be foundhere.
+For players training Cooking with a low Cooking level, ranges can come in handy, especially the ranges withinchickenfarms. A common tactic would be to collect as manyraw chickensas possible, and cook them in the range by selecting "cook all". A good place to train at low levels is in theChampions' Guild. You can easily kill chickens, cook them, then sell them upstairs.
+It is highly recommended to use a Range over a Fire, as it will greatly reduce your burn rate, and thus increase your experience gained. Even better is to use the range on the ground floor ofLumbridge Castle, theCook-o-matic 100, after completion ofCook's Assistant.
+The best place for levelling cooking is the bank chest in theMyths' Guild, which requires completion ofDragon Slayer II. The range and bank border the same tile, meaning no walking is required to cook at this location. Another area, which has lower requirements, is in theCooks' Guild. This requires the completion of theVarrock Hard Diaryin order to access the bank. The range there is right next to the bank, so the time between banking and cooking is only a tiny bit slower than at theRogues' Den FireinBurthorpe. The time lost is more than compensated for, however, by the reduced burn rate when cooking on a range.
+If you do not have the requirements for theCooks' Guildbank area, the second best place to level cooking is inHosidius Kitchen. Completion of theeasy Kourend & Kebos Diaryis required to use the clay ovens here, but there is a bank only 6 spaces away, and it also provides a 5% lower burn chance.
+When cooking certainfish, you should always be wearing theCooking gauntlets, a possible reward from theFamily Crestquest. These gauntlets significantly decrease the likelihood of burninglobsters,swordfish,monkfish,sharksandanglerfish.
+Fixed occasional render issue with certain ranges during the cooking animation.
+Several notable ranges:
+A common range as found in many places in Gielinor
+A variant with a wooden pedestal, such as theversionfound inLumbridge Castle.
+A brown variant, such as theversionfound inRellekka.
+Asteel rangeas built in thePlayer Owned House.
+Afancy rangeas built in thePlayer Owned House.
+Ablue rangeas found inThe Gauntlet.
+Ared rangeas found inThe Corrupted Gauntlet.
+9mago-Crabby

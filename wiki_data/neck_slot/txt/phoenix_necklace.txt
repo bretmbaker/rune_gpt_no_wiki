@@ -1,0 +1,57 @@
+[Weapon: Phoenix Necklace]
+
+
+Phoenix necklacesare necklaces that automatically restore the wearer'sHitpointsby 30% of maximum if they drop to 20% of the maximum or below. They only have one use, after which they are destroyed.
+In addition to restoring health, the phoenix necklace also clears out any pending attacks on the player from the attack buffer. This negates any pending damage from delayed attacks such as spells and arrows from afar. This also notably works on certain multi-hitspecial attacks, such as those fromdragon clawsanddark bows, where if one of the multi-hits triggers the effect, it will cancel the damage from subsequent multi-hits. The phoenix necklace is often brought inPvPas a gear switch to counter these special attacks finishers.
+
+
+[Infobox]
+Released: 30 April2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: In case of emergency, wear necklace.
+General Store Value: 4,050 coins
+High alch: 2,430 coins
+Low alch: 1,620 coins
+Weight: 0.01 kg
+Grand Exchange Value: 2,250 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 183,055
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Hunter training(Dinh's bulwark)
+1 | Hunter training(Staff of the dead)
+1 | Pay-to-play Prayer training(High Magic defence)
+1 | Pay-to-play Prayer training(Dinh's bulwark)

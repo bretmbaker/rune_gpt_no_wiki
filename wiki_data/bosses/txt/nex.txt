@@ -1,0 +1,61 @@
+Name: Nex
+Combat Level: 1,001
+Size: 3x3
+Info:
+- Description: Even the gods fear her.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Thralls: Not immune
+- Monster ID: 11278,11279,11280,11281,11282
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guides are available for Nex:
+
+Notable Drops:
+- Ancient hilt (1/516)
+- Nihil horn (1/258)
+- Torva full helm (damaged) (1/258)
+- Torva platebody (damaged) (1/258)
+- Torva platelegs (damaged) (1/258)
+- Zaryte vambraces (1/172)
+- Blood essence (1/82[16])
+- Rune sword (1/209[17])
+- Clue scroll (elite) (1/48[19])
+- Nexling (1/500[20][21])
+
+Combat Achievements:
+- Nex Survivors: Kill Nex without anyone dying. (Elite (4 pts))
+- Nex Veteran: Kill Nex once. (Elite (4 pts))
+- Shadows Move...: Kill Nex without anyone being hit by the Shadow Smash attack. (Master (5 pts))
+- Nex Trio: Kill Nex with three or less players at the start of the fight. (Master (5 pts))
+- Nex Master: Kill Nex 25 times. (Master (5 pts))
+- A siphon will solve this: Kill Nex without letting her heal from her Blood Siphon special attack. (Master (5 pts))
+- There is no escape!: Kill Nex without anyone being hit by the Smoke Dash special attack. (Master (5 pts))
+- Contain this!: Kill Nex without anyone taking damage from any Ice special attack. (Master (5 pts))
+- Nex Duo: Kill Nex with two or less players at the start of the fight. (Grandmaster (6 pts))
+- Perfect Nex: Kill Nex whilst completing the requirements for "There is no escape", "Shadows move", "A siphon will solve this", and "Contain this!" (Grandmaster (6 pts))
+- I should see a doctor: Kill Nex whilst a player is coughing. (Grandmaster (6 pts))
+
+[Combat stats]
+Hitpoints: 3400
+Attack: 315
+Strength: 200
+Defence: 260
+Magic: 230
+Ranged: 350
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

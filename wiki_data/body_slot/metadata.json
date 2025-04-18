@@ -1,0 +1,2070 @@
+{
+  "decorative armour (ranged top)#locked": {
+    "slot": "Body",
+    "txt": "txt/decorative_armour_(ranged_top)#locked.txt"
+  },
+  "bandos platebody": {
+    "slot": "Body",
+    "txt": "txt/bandos_platebody.txt"
+  },
+  "black robe": {
+    "slot": "Body",
+    "txt": "txt/black_robe.txt"
+  },
+  "initiate hauberk": {
+    "slot": "Body",
+    "txt": "txt/initiate_hauberk.txt"
+  },
+  "rainbow crown shirt#pride": {
+    "slot": "Body",
+    "txt": "txt/rainbow_crown_shirt#pride.txt"
+  },
+  "blood moon chestplate#used": {
+    "slot": "Body",
+    "txt": "txt/blood_moon_chestplate#used.txt"
+  },
+  "verac%27s brassard#(broken)": {
+    "slot": "Body",
+    "txt": "txt/verac%27s_brassard#(broken).txt"
+  },
+  "green d%27hide body": {
+    "slot": "Body",
+    "txt": "txt/green_d%27hide_body.txt"
+  },
+  "torag%27s platebody#25": {
+    "slot": "Body",
+    "txt": "txt/torag%27s_platebody#25.txt"
+  },
+  "stripy pirate shirt (blue)": {
+    "slot": "Body",
+    "txt": "txt/stripy_pirate_shirt_(blue).txt"
+  },
+  "gilded chainbody": {
+    "slot": "Body",
+    "txt": "txt/gilded_chainbody.txt"
+  },
+  "gravedigger top#during event": {
+    "slot": "Body",
+    "txt": "txt/gravedigger_top#during_event.txt"
+  },
+  "studded body (g)": {
+    "slot": "Body",
+    "txt": "txt/studded_body_(g).txt"
+  },
+  "ancient robe top": {
+    "slot": "Body",
+    "txt": "txt/ancient_robe_top.txt"
+  },
+  "white elegant blouse": {
+    "slot": "Body",
+    "txt": "txt/white_elegant_blouse.txt"
+  },
+  "corrupted vesta%27s chainbody (bh)#activated": {
+    "slot": "Body",
+    "txt": "txt/corrupted_vesta%27s_chainbody_(bh)#activated.txt"
+  },
+  "fremennik beige shirt": {
+    "slot": "Body",
+    "txt": "txt/fremennik_beige_shirt.txt"
+  },
+  "crystal body (crwys)#active": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(crwys)#active.txt"
+  },
+  "ancient platebody": {
+    "slot": "Body",
+    "txt": "txt/ancient_platebody.txt"
+  },
+  "desert top": {
+    "slot": "Body",
+    "txt": "txt/desert_top.txt"
+  },
+  "hardcore group ironman platebody#iii": {
+    "slot": "Body",
+    "txt": "txt/hardcore_group_ironman_platebody#iii.txt"
+  },
+  "crystal body (iorwerth)#active": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(iorwerth)#active.txt"
+  },
+  "clown gown#reward": {
+    "slot": "Body",
+    "txt": "txt/clown_gown#reward.txt"
+  },
+  "black d%27hide body (g)": {
+    "slot": "Body",
+    "txt": "txt/black_d%27hide_body_(g).txt"
+  },
+  "rainbow jumper#genderqueer": {
+    "slot": "Body",
+    "txt": "txt/rainbow_jumper#genderqueer.txt"
+  },
+  "light tuxedo jacket": {
+    "slot": "Body",
+    "txt": "txt/light_tuxedo_jacket.txt"
+  },
+  "black platebody (h3)": {
+    "slot": "Body",
+    "txt": "txt/black_platebody_(h3).txt"
+  },
+  "dragonstone platebody": {
+    "slot": "Body",
+    "txt": "txt/dragonstone_platebody.txt"
+  },
+  "santa jacket": {
+    "slot": "Body",
+    "txt": "txt/santa_jacket.txt"
+  },
+  "blood moon chestplate#broken": {
+    "slot": "Body",
+    "txt": "txt/blood_moon_chestplate#broken.txt"
+  },
+  "mummy%27s body": {
+    "slot": "Body",
+    "txt": "txt/mummy%27s_body.txt"
+  },
+  "karil%27s leathertop#25": {
+    "slot": "Body",
+    "txt": "txt/karil%27s_leathertop#25.txt"
+  },
+  "slave shirt": {
+    "slot": "Body",
+    "txt": "txt/slave_shirt.txt"
+  },
+  "rune platebody (h1)": {
+    "slot": "Body",
+    "txt": "txt/rune_platebody_(h1).txt"
+  },
+  "desert camo top": {
+    "slot": "Body",
+    "txt": "txt/desert_camo_top.txt"
+  },
+  "iron platebody (g)": {
+    "slot": "Body",
+    "txt": "txt/iron_platebody_(g).txt"
+  },
+  "blue goblin mail": {
+    "slot": "Body",
+    "txt": "txt/blue_goblin_mail.txt"
+  },
+  "emissary robe top": {
+    "slot": "Body",
+    "txt": "txt/emissary_robe_top.txt"
+  },
+  "green elegant shirt": {
+    "slot": "Body",
+    "txt": "txt/green_elegant_shirt.txt"
+  },
+  "mithril platebody": {
+    "slot": "Body",
+    "txt": "txt/mithril_platebody.txt"
+  },
+  "vyre noble corset (red)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_corset_(red).txt"
+  },
+  "rune platebody (g)": {
+    "slot": "Body",
+    "txt": "txt/rune_platebody_(g).txt"
+  },
+  "leather body (g)": {
+    "slot": "Body",
+    "txt": "txt/leather_body_(g).txt"
+  },
+  "adamant platebody (g)": {
+    "slot": "Body",
+    "txt": "txt/adamant_platebody_(g).txt"
+  },
+  "desert top (overcoat)": {
+    "slot": "Body",
+    "txt": "txt/desert_top_(overcoat).txt"
+  },
+  "snow imp costume body#reward": {
+    "slot": "Body",
+    "txt": "txt/snow_imp_costume_body#reward.txt"
+  },
+  "group ironman platebody (unranked)#ii": {
+    "slot": "Body",
+    "txt": "txt/group_ironman_platebody_(unranked)#ii.txt"
+  },
+  "egg priest robe top": {
+    "slot": "Body",
+    "txt": "txt/egg_priest_robe_top.txt"
+  },
+  "group ironman platebody (unranked)#iii": {
+    "slot": "Body",
+    "txt": "txt/group_ironman_platebody_(unranked)#iii.txt"
+  },
+  "graceful top#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top#worn.txt"
+  },
+  "steel chainbody": {
+    "slot": "Body",
+    "txt": "txt/steel_chainbody.txt"
+  },
+  "decorative armour (magic top)#broken": {
+    "slot": "Body",
+    "txt": "txt/decorative_armour_(magic_top)#broken.txt"
+  },
+  "bob%27s red shirt": {
+    "slot": "Body",
+    "txt": "txt/bob%27s_red_shirt.txt"
+  },
+  "crystal body (ithell)#inactive": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(ithell)#inactive.txt"
+  },
+  "desert shirt": {
+    "slot": "Body",
+    "txt": "txt/desert_shirt.txt"
+  },
+  "teal robe top": {
+    "slot": "Body",
+    "txt": "txt/teal_robe_top.txt"
+  },
+  "trailblazer reloaded top (t3)": {
+    "slot": "Body",
+    "txt": "txt/trailblazer_reloaded_top_(t3).txt"
+  },
+  "graceful top (varlamore)#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top_(varlamore)#worn.txt"
+  },
+  "adventurer%27s top (t3)": {
+    "slot": "Body",
+    "txt": "txt/adventurer%27s_top_(t3).txt"
+  },
+  "echo ahrim%27s robetop#(broken)": {
+    "slot": "Body",
+    "txt": "txt/echo_ahrim%27s_robetop#(broken).txt"
+  },
+  "mystic robe top (or)": {
+    "slot": "Body",
+    "txt": "txt/mystic_robe_top_(or).txt"
+  },
+  "adamant platebody": {
+    "slot": "Body",
+    "txt": "txt/adamant_platebody.txt"
+  },
+  "prospector jacket": {
+    "slot": "Body",
+    "txt": "txt/prospector_jacket.txt"
+  },
+  "royal frog tunic": {
+    "slot": "Body",
+    "txt": "txt/royal_frog_tunic.txt"
+  },
+  "elite void top#locked": {
+    "slot": "Body",
+    "txt": "txt/elite_void_top#locked.txt"
+  },
+  "white goblin mail": {
+    "slot": "Body",
+    "txt": "txt/white_goblin_mail.txt"
+  },
+  "vyre noble blazer (grey)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_blazer_(grey).txt"
+  },
+  "black chainbody": {
+    "slot": "Body",
+    "txt": "txt/black_chainbody.txt"
+  },
+  "ghostly robe (top)": {
+    "slot": "Body",
+    "txt": "txt/ghostly_robe_(top).txt"
+  },
+  "echo ahrim%27s robetop#undamaged": {
+    "slot": "Body",
+    "txt": "txt/echo_ahrim%27s_robetop#undamaged.txt"
+  },
+  "rainbow crown shirt#gay": {
+    "slot": "Body",
+    "txt": "txt/rainbow_crown_shirt#gay.txt"
+  },
+  "mystic robe top (dark)": {
+    "slot": "Body",
+    "txt": "txt/mystic_robe_top_(dark).txt"
+  },
+  "angler top": {
+    "slot": "Body",
+    "txt": "txt/angler_top.txt"
+  },
+  "ironman platebody": {
+    "slot": "Body",
+    "txt": "txt/ironman_platebody.txt"
+  },
+  "elven top (yellow)": {
+    "slot": "Body",
+    "txt": "txt/elven_top_(yellow).txt"
+  },
+  "ahrim%27s robetop#75": {
+    "slot": "Body",
+    "txt": "txt/ahrim%27s_robetop#75.txt"
+  },
+  "blue d%27hide body": {
+    "slot": "Body",
+    "txt": "txt/blue_d%27hide_body.txt"
+  },
+  "skeleton shirt": {
+    "slot": "Body",
+    "txt": "txt/skeleton_shirt.txt"
+  },
+  "green goblin mail": {
+    "slot": "Body",
+    "txt": "txt/green_goblin_mail.txt"
+  },
+  "black platebody (t)": {
+    "slot": "Body",
+    "txt": "txt/black_platebody_(t).txt"
+  },
+  "twisted ancestral robe top": {
+    "slot": "Body",
+    "txt": "txt/twisted_ancestral_robe_top.txt"
+  },
+  "lumberjack top": {
+    "slot": "Body",
+    "txt": "txt/lumberjack_top.txt"
+  },
+  "clue hunter garb": {
+    "slot": "Body",
+    "txt": "txt/clue_hunter_garb.txt"
+  },
+  "elite void top (or)#locked": {
+    "slot": "Body",
+    "txt": "txt/elite_void_top_(or)#locked.txt"
+  },
+  "corrupted platebody": {
+    "slot": "Body",
+    "txt": "txt/corrupted_platebody.txt"
+  },
+  "black d%27hide body (t)": {
+    "slot": "Body",
+    "txt": "txt/black_d%27hide_body_(t).txt"
+  },
+  "shirt (yellow)": {
+    "slot": "Body",
+    "txt": "txt/shirt_(yellow).txt"
+  },
+  "sandwich lady top": {
+    "slot": "Body",
+    "txt": "txt/sandwich_lady_top.txt"
+  },
+  "elite void top#broken": {
+    "slot": "Body",
+    "txt": "txt/elite_void_top#broken.txt"
+  },
+  "vyre noble corset (purple)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_corset_(purple).txt"
+  },
+  "citizen top": {
+    "slot": "Body",
+    "txt": "txt/citizen_top.txt"
+  },
+  "blue elegant blouse": {
+    "slot": "Body",
+    "txt": "txt/blue_elegant_blouse.txt"
+  },
+  "black platebody (h4)": {
+    "slot": "Body",
+    "txt": "txt/black_platebody_(h4).txt"
+  },
+  "fremennik blue shirt": {
+    "slot": "Body",
+    "txt": "txt/fremennik_blue_shirt.txt"
+  },
+  "deadman%27s chest#deadman mode": {
+    "slot": "Body",
+    "txt": "txt/deadman%27s_chest#deadman_mode.txt"
+  },
+  "blue elegant shirt": {
+    "slot": "Body",
+    "txt": "txt/blue_elegant_shirt.txt"
+  },
+  "studded body (t)": {
+    "slot": "Body",
+    "txt": "txt/studded_body_(t).txt"
+  },
+  "menaphite red top": {
+    "slot": "Body",
+    "txt": "txt/menaphite_red_top.txt"
+  },
+  "black d%27hide body": {
+    "slot": "Body",
+    "txt": "txt/black_d%27hide_body.txt"
+  },
+  "decorative armour (gold platebody)#normal": {
+    "slot": "Body",
+    "txt": "txt/decorative_armour_(gold_platebody)#normal.txt"
+  },
+  "trailblazer top (t1)": {
+    "slot": "Body",
+    "txt": "txt/trailblazer_top_(t1).txt"
+  },
+  "tribal top (yellow)": {
+    "slot": "Body",
+    "txt": "txt/tribal_top_(yellow).txt"
+  },
+  "shayzien platebody (3)": {
+    "slot": "Body",
+    "txt": "txt/shayzien_platebody_(3).txt"
+  },
+  "brown naval shirt": {
+    "slot": "Body",
+    "txt": "txt/brown_naval_shirt.txt"
+  },
+  "carpenter%27s shirt": {
+    "slot": "Body",
+    "txt": "txt/carpenter%27s_shirt.txt"
+  },
+  "bob%27s purple shirt": {
+    "slot": "Body",
+    "txt": "txt/bob%27s_purple_shirt.txt"
+  },
+  "torva platebody (unobtainable item)": {
+    "slot": "Body",
+    "txt": "txt/torva_platebody_(unobtainable_item).txt"
+  },
+  "decorative armour (gold platebody)#locked": {
+    "slot": "Body",
+    "txt": "txt/decorative_armour_(gold_platebody)#locked.txt"
+  },
+  "rainbow jumper#non-binary": {
+    "slot": "Body",
+    "txt": "txt/rainbow_jumper#non-binary.txt"
+  },
+  "beekeeper%27s top": {
+    "slot": "Body",
+    "txt": "txt/beekeeper%27s_top.txt"
+  },
+  "rainbow crown shirt#bisexual": {
+    "slot": "Body",
+    "txt": "txt/rainbow_crown_shirt#bisexual.txt"
+  },
+  "ahrim%27s robetop#25": {
+    "slot": "Body",
+    "txt": "txt/ahrim%27s_robetop#25.txt"
+  },
+  "graceful top (trailblazer)#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top_(trailblazer)#worn.txt"
+  },
+  "dharok%27s platebody#(broken)": {
+    "slot": "Body",
+    "txt": "txt/dharok%27s_platebody#(broken).txt"
+  },
+  "shattered top (t3)": {
+    "slot": "Body",
+    "txt": "txt/shattered_top_(t3).txt"
+  },
+  "crystal body (amlodd)#active": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(amlodd)#active.txt"
+  },
+  "twisted coat (t2)": {
+    "slot": "Body",
+    "txt": "txt/twisted_coat_(t2).txt"
+  },
+  "echo ahrim%27s robetop#25": {
+    "slot": "Body",
+    "txt": "txt/echo_ahrim%27s_robetop#25.txt"
+  },
+  "decorative armour (white platebody)": {
+    "slot": "Body",
+    "txt": "txt/decorative_armour_(white_platebody).txt"
+  },
+  "rainbow crown shirt#pansexual": {
+    "slot": "Body",
+    "txt": "txt/rainbow_crown_shirt#pansexual.txt"
+  },
+  "group ironman platebody#iii": {
+    "slot": "Body",
+    "txt": "txt/group_ironman_platebody#iii.txt"
+  },
+  "steel platebody (t)": {
+    "slot": "Body",
+    "txt": "txt/steel_platebody_(t).txt"
+  },
+  "tree top": {
+    "slot": "Body",
+    "txt": "txt/tree_top.txt"
+  },
+  "eclipse moon chestplate#new": {
+    "slot": "Body",
+    "txt": "txt/eclipse_moon_chestplate#new.txt"
+  },
+  "pyromancer garb": {
+    "slot": "Body",
+    "txt": "txt/pyromancer_garb.txt"
+  },
+  "purple elegant blouse": {
+    "slot": "Body",
+    "txt": "txt/purple_elegant_blouse.txt"
+  },
+  "splitbark body": {
+    "slot": "Body",
+    "txt": "txt/splitbark_body.txt"
+  },
+  "dharok%27s platebody#100": {
+    "slot": "Body",
+    "txt": "txt/dharok%27s_platebody#100.txt"
+  },
+  "christmas jumper": {
+    "slot": "Body",
+    "txt": "txt/christmas_jumper.txt"
+  },
+  "gravedigger top#reward": {
+    "slot": "Body",
+    "txt": "txt/gravedigger_top#reward.txt"
+  },
+  "red elegant shirt": {
+    "slot": "Body",
+    "txt": "txt/red_elegant_shirt.txt"
+  },
+  "rainbow jumper#asexual": {
+    "slot": "Body",
+    "txt": "txt/rainbow_jumper#asexual.txt"
+  },
+  "black platebody (h2)": {
+    "slot": "Body",
+    "txt": "txt/black_platebody_(h2).txt"
+  },
+  "corrupted zuriel%27s robe top (bh)#activated": {
+    "slot": "Body",
+    "txt": "txt/corrupted_zuriel%27s_robe_top_(bh)#activated.txt"
+  },
+  "lunar torso": {
+    "slot": "Body",
+    "txt": "txt/lunar_torso.txt"
+  },
+  "red robe top": {
+    "slot": "Body",
+    "txt": "txt/red_robe_top.txt"
+  },
+  "black wizard robe (t)": {
+    "slot": "Body",
+    "txt": "txt/black_wizard_robe_(t).txt"
+  },
+  "pink elegant shirt": {
+    "slot": "Body",
+    "txt": "txt/pink_elegant_shirt.txt"
+  },
+  "3rd age range top": {
+    "slot": "Body",
+    "txt": "txt/3rd_age_range_top.txt"
+  },
+  "blood moon chestplate#new": {
+    "slot": "Body",
+    "txt": "txt/blood_moon_chestplate#new.txt"
+  },
+  "crystal body (hefin)#inactive": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(hefin)#inactive.txt"
+  },
+  "rock-shell plate": {
+    "slot": "Body",
+    "txt": "txt/rock-shell_plate.txt"
+  },
+  "robe top of ruin": {
+    "slot": "Body",
+    "txt": "txt/robe_top_of_ruin.txt"
+  },
+  "menaphite purple top": {
+    "slot": "Body",
+    "txt": "txt/menaphite_purple_top.txt"
+  },
+  "eclipse moon chestplate#broken": {
+    "slot": "Body",
+    "txt": "txt/eclipse_moon_chestplate#broken.txt"
+  },
+  "vyre noble vest (grey)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_vest_(grey).txt"
+  },
+  "mithril platebody (t)": {
+    "slot": "Body",
+    "txt": "txt/mithril_platebody_(t).txt"
+  },
+  "robe top of darkness": {
+    "slot": "Body",
+    "txt": "txt/robe_top_of_darkness.txt"
+  },
+  "void knight top#locked": {
+    "slot": "Body",
+    "txt": "txt/void_knight_top#locked.txt"
+  },
+  "saradomin platebody": {
+    "slot": "Body",
+    "txt": "txt/saradomin_platebody.txt"
+  },
+  "graceful top (hallowed)#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top_(hallowed)#worn.txt"
+  },
+  "mithril chainbody": {
+    "slot": "Body",
+    "txt": "txt/mithril_chainbody.txt"
+  },
+  "camo top": {
+    "slot": "Body",
+    "txt": "txt/camo_top.txt"
+  },
+  "3rd age druidic robe top": {
+    "slot": "Body",
+    "txt": "txt/3rd_age_druidic_robe_top.txt"
+  },
+  "spirit angler top": {
+    "slot": "Body",
+    "txt": "txt/spirit_angler_top.txt"
+  },
+  "guild hunter top": {
+    "slot": "Body",
+    "txt": "txt/guild_hunter_top.txt"
+  },
+  "mithril platebody (g)": {
+    "slot": "Body",
+    "txt": "txt/mithril_platebody_(g).txt"
+  },
+  "green naval shirt": {
+    "slot": "Body",
+    "txt": "txt/green_naval_shirt.txt"
+  },
+  "rune chainbody": {
+    "slot": "Body",
+    "txt": "txt/rune_chainbody.txt"
+  },
+  "zamorak platebody": {
+    "slot": "Body",
+    "txt": "txt/zamorak_platebody.txt"
+  },
+  "witch top": {
+    "slot": "Body",
+    "txt": "txt/witch_top.txt"
+  },
+  "light infinity top": {
+    "slot": "Body",
+    "txt": "txt/light_infinity_top.txt"
+  },
+  "woven top (blue)": {
+    "slot": "Body",
+    "txt": "txt/woven_top_(blue).txt"
+  },
+  "armadyl platebody": {
+    "slot": "Body",
+    "txt": "txt/armadyl_platebody.txt"
+  },
+  "varrock armour 3": {
+    "slot": "Body",
+    "txt": "txt/varrock_armour_3.txt"
+  },
+  "nutcracker top#festive": {
+    "slot": "Body",
+    "txt": "txt/nutcracker_top#festive.txt"
+  },
+  "bandos robe top": {
+    "slot": "Body",
+    "txt": "txt/bandos_robe_top.txt"
+  },
+  "mystic robe top (light)": {
+    "slot": "Body",
+    "txt": "txt/mystic_robe_top_(light).txt"
+  },
+  "monk%27s robe top (g)": {
+    "slot": "Body",
+    "txt": "txt/monk%27s_robe_top_(g).txt"
+  },
+  "blue d%27hide body (t)": {
+    "slot": "Body",
+    "txt": "txt/blue_d%27hide_body_(t).txt"
+  },
+  "masori body": {
+    "slot": "Body",
+    "txt": "txt/masori_body.txt"
+  },
+  "grey naval shirt": {
+    "slot": "Body",
+    "txt": "txt/grey_naval_shirt.txt"
+  },
+  "tribal top (pink)": {
+    "slot": "Body",
+    "txt": "txt/tribal_top_(pink).txt"
+  },
+  "virtus robe top": {
+    "slot": "Body",
+    "txt": "txt/virtus_robe_top.txt"
+  },
+  "ancient d%27hide body": {
+    "slot": "Body",
+    "txt": "txt/ancient_d%27hide_body.txt"
+  },
+  "dharok%27s platebody#75": {
+    "slot": "Body",
+    "txt": "txt/dharok%27s_platebody#75.txt"
+  },
+  "purple elegant shirt": {
+    "slot": "Body",
+    "txt": "txt/purple_elegant_shirt.txt"
+  },
+  "verac%27s brassard#undamaged": {
+    "slot": "Body",
+    "txt": "txt/verac%27s_brassard#undamaged.txt"
+  },
+  "rainbow jumper#bisexual": {
+    "slot": "Body",
+    "txt": "txt/rainbow_jumper#bisexual.txt"
+  },
+  "blue wizard robe (t)": {
+    "slot": "Body",
+    "txt": "txt/blue_wizard_robe_(t).txt"
+  },
+  "evil chicken wings": {
+    "slot": "Body",
+    "txt": "txt/evil_chicken_wings.txt"
+  },
+  "kyatt top": {
+    "slot": "Body",
+    "txt": "txt/kyatt_top.txt"
+  },
+  "polar camo top": {
+    "slot": "Body",
+    "txt": "txt/polar_camo_top.txt"
+  },
+  "group ironman platebody (unranked)#v": {
+    "slot": "Body",
+    "txt": "txt/group_ironman_platebody_(unranked)#v.txt"
+  },
+  "20th anniversary top": {
+    "slot": "Body",
+    "txt": "txt/20th_anniversary_top.txt"
+  },
+  "torag%27s platebody#undamaged": {
+    "slot": "Body",
+    "txt": "txt/torag%27s_platebody#undamaged.txt"
+  },
+  "cream robe top": {
+    "slot": "Body",
+    "txt": "txt/cream_robe_top.txt"
+  },
+  "vyre noble vest (red)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_vest_(red).txt"
+  },
+  "pink goblin mail": {
+    "slot": "Body",
+    "txt": "txt/pink_goblin_mail.txt"
+  },
+  "varrock armour 2": {
+    "slot": "Body",
+    "txt": "txt/varrock_armour_2.txt"
+  },
+  "black platebody (h1)": {
+    "slot": "Body",
+    "txt": "txt/black_platebody_(h1).txt"
+  },
+  "red d%27hide body": {
+    "slot": "Body",
+    "txt": "txt/red_d%27hide_body.txt"
+  },
+  "rainbow crown shirt#transgender": {
+    "slot": "Body",
+    "txt": "txt/rainbow_crown_shirt#transgender.txt"
+  },
+  "builder%27s shirt": {
+    "slot": "Body",
+    "txt": "txt/builder%27s_shirt.txt"
+  },
+  "rune platebody (h5)": {
+    "slot": "Body",
+    "txt": "txt/rune_platebody_(h5).txt"
+  },
+  "stripy pirate shirt (red)": {
+    "slot": "Body",
+    "txt": "txt/stripy_pirate_shirt_(red).txt"
+  },
+  "black platebody": {
+    "slot": "Body",
+    "txt": "txt/black_platebody.txt"
+  },
+  "farmer%27s jacket": {
+    "slot": "Body",
+    "txt": "txt/farmer%27s_jacket.txt"
+  },
+  "ahrim%27s robetop#(broken)": {
+    "slot": "Body",
+    "txt": "txt/ahrim%27s_robetop#(broken).txt"
+  },
+  "red goblin mail": {
+    "slot": "Body",
+    "txt": "txt/red_goblin_mail.txt"
+  },
+  "guthan%27s platebody#25": {
+    "slot": "Body",
+    "txt": "txt/guthan%27s_platebody#25.txt"
+  },
+  "snow imp costume body#during event": {
+    "slot": "Body",
+    "txt": "txt/snow_imp_costume_body#during_event.txt"
+  },
+  "shattered top (t2)": {
+    "slot": "Body",
+    "txt": "txt/shattered_top_(t2).txt"
+  },
+  "karil%27s leathertop#undamaged": {
+    "slot": "Body",
+    "txt": "txt/karil%27s_leathertop#undamaged.txt"
+  },
+  "musketeer tabard": {
+    "slot": "Body",
+    "txt": "txt/musketeer_tabard.txt"
+  },
+  "karil%27s leathertop#100": {
+    "slot": "Body",
+    "txt": "txt/karil%27s_leathertop#100.txt"
+  },
+  "green d%27hide body (g)": {
+    "slot": "Body",
+    "txt": "txt/green_d%27hide_body_(g).txt"
+  },
+  "rainbow crown shirt#lesbian": {
+    "slot": "Body",
+    "txt": "txt/rainbow_crown_shirt#lesbian.txt"
+  },
+  "crystal body (amlodd)#inactive": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(amlodd)#inactive.txt"
+  },
+  "blue moon chestplate#broken": {
+    "slot": "Body",
+    "txt": "txt/blue_moon_chestplate#broken.txt"
+  },
+  "yellow robe top": {
+    "slot": "Body",
+    "txt": "txt/yellow_robe_top.txt"
+  },
+  "fremennik red shirt": {
+    "slot": "Body",
+    "txt": "txt/fremennik_red_shirt.txt"
+  },
+  "vyre noble blazer (red)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_blazer_(red).txt"
+  },
+  "armadyl d%27hide body": {
+    "slot": "Body",
+    "txt": "txt/armadyl_d%27hide_body.txt"
+  },
+  "pink elegant blouse": {
+    "slot": "Body",
+    "txt": "txt/pink_elegant_blouse.txt"
+  },
+  "jungle camo top": {
+    "slot": "Body",
+    "txt": "txt/jungle_camo_top.txt"
+  },
+  "wood camo top": {
+    "slot": "Body",
+    "txt": "txt/wood_camo_top.txt"
+  },
+  "yak-hide armour (top)": {
+    "slot": "Body",
+    "txt": "txt/yak-hide_armour_(top).txt"
+  },
+  "rainbow crown shirt#genderqueer": {
+    "slot": "Body",
+    "txt": "txt/rainbow_crown_shirt#genderqueer.txt"
+  },
+  "bob%27s black shirt": {
+    "slot": "Body",
+    "txt": "txt/bob%27s_black_shirt.txt"
+  },
+  "ornate top": {
+    "slot": "Body",
+    "txt": "txt/ornate_top.txt"
+  },
+  "tribal top (blue)": {
+    "slot": "Body",
+    "txt": "txt/tribal_top_(blue).txt"
+  },
+  "crystal body (cadarn)#active": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(cadarn)#active.txt"
+  },
+  "obsidian platebody": {
+    "slot": "Body",
+    "txt": "txt/obsidian_platebody.txt"
+  },
+  "dragon platebody": {
+    "slot": "Body",
+    "txt": "txt/dragon_platebody.txt"
+  },
+  "samurai shirt": {
+    "slot": "Body",
+    "txt": "txt/samurai_shirt.txt"
+  },
+  "green elegant blouse": {
+    "slot": "Body",
+    "txt": "txt/green_elegant_blouse.txt"
+  },
+  "moonclan armour": {
+    "slot": "Body",
+    "txt": "txt/moonclan_armour.txt"
+  },
+  "justiciar chestguard": {
+    "slot": "Body",
+    "txt": "txt/justiciar_chestguard.txt"
+  },
+  "vyre noble dress top (grey)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_dress_top_(grey).txt"
+  },
+  "bomber jacket": {
+    "slot": "Body",
+    "txt": "txt/bomber_jacket.txt"
+  },
+  "red naval shirt": {
+    "slot": "Body",
+    "txt": "txt/red_naval_shirt.txt"
+  },
+  "steel platebody (g)": {
+    "slot": "Body",
+    "txt": "txt/steel_platebody_(g).txt"
+  },
+  "graceful top (hosidius)#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top_(hosidius)#worn.txt"
+  },
+  "alchemist labcoat#apron on": {
+    "slot": "Body",
+    "txt": "txt/alchemist_labcoat#apron_on.txt"
+  },
+  "rainbow crown shirt#non-binary": {
+    "slot": "Body",
+    "txt": "txt/rainbow_crown_shirt#non-binary.txt"
+  },
+  "alchemist labcoat#apron off": {
+    "slot": "Body",
+    "txt": "txt/alchemist_labcoat#apron_off.txt"
+  },
+  "vyre noble vest (purple)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_vest_(purple).txt"
+  },
+  "decorative armour (ranged top)#broken": {
+    "slot": "Body",
+    "txt": "txt/decorative_armour_(ranged_top)#broken.txt"
+  },
+  "rune platebody (t)": {
+    "slot": "Body",
+    "txt": "txt/rune_platebody_(t).txt"
+  },
+  "verac%27s brassard#50": {
+    "slot": "Body",
+    "txt": "txt/verac%27s_brassard#50.txt"
+  },
+  "hueycoatl hide body": {
+    "slot": "Body",
+    "txt": "txt/hueycoatl_hide_body.txt"
+  },
+  "larupia top": {
+    "slot": "Body",
+    "txt": "txt/larupia_top.txt"
+  },
+  "verac%27s brassard#75": {
+    "slot": "Body",
+    "txt": "txt/verac%27s_brassard#75.txt"
+  },
+  "adamant platebody (h2)": {
+    "slot": "Body",
+    "txt": "txt/adamant_platebody_(h2).txt"
+  },
+  "raging echoes top (t3)": {
+    "slot": "Body",
+    "txt": "txt/raging_echoes_top_(t3).txt"
+  },
+  "dragon chainbody (cr)": {
+    "slot": "Body",
+    "txt": "txt/dragon_chainbody_(cr).txt"
+  },
+  "masori body (f)": {
+    "slot": "Body",
+    "txt": "txt/masori_body_(f).txt"
+  },
+  "mourner top": {
+    "slot": "Body",
+    "txt": "txt/mourner_top.txt"
+  },
+  "robe top of the eye#blue": {
+    "slot": "Body",
+    "txt": "txt/robe_top_of_the_eye#blue.txt"
+  },
+  "proselyte hauberk": {
+    "slot": "Body",
+    "txt": "txt/proselyte_hauberk.txt"
+  },
+  "purple robe top": {
+    "slot": "Body",
+    "txt": "txt/purple_robe_top.txt"
+  },
+  "guthix robe top": {
+    "slot": "Body",
+    "txt": "txt/guthix_robe_top.txt"
+  },
+  "red d%27hide body (g)": {
+    "slot": "Body",
+    "txt": "txt/red_d%27hide_body_(g).txt"
+  },
+  "goblin mail": {
+    "slot": "Body",
+    "txt": "txt/goblin_mail.txt"
+  },
+  "void knight top (or)#locked": {
+    "slot": "Body",
+    "txt": "txt/void_knight_top_(or)#locked.txt"
+  },
+  "cow top": {
+    "slot": "Body",
+    "txt": "txt/cow_top.txt"
+  },
+  "silly jester top": {
+    "slot": "Body",
+    "txt": "txt/silly_jester_top.txt"
+  },
+  "hardleather body": {
+    "slot": "Body",
+    "txt": "txt/hardleather_body.txt"
+  },
+  "mime top": {
+    "slot": "Body",
+    "txt": "txt/mime_top.txt"
+  },
+  "vyre noble dress top (red)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_dress_top_(red).txt"
+  },
+  "black elegant shirt": {
+    "slot": "Body",
+    "txt": "txt/black_elegant_shirt.txt"
+  },
+  "ugly halloween jumper#black": {
+    "slot": "Body",
+    "txt": "txt/ugly_halloween_jumper#black.txt"
+  },
+  "ardougne knight platebody": {
+    "slot": "Body",
+    "txt": "txt/ardougne_knight_platebody.txt"
+  },
+  "red elegant blouse": {
+    "slot": "Body",
+    "txt": "txt/red_elegant_blouse.txt"
+  },
+  "golden prospector jacket": {
+    "slot": "Body",
+    "txt": "txt/golden_prospector_jacket.txt"
+  },
+  "rainbow jumper#lesbian": {
+    "slot": "Body",
+    "txt": "txt/rainbow_jumper#lesbian.txt"
+  },
+  "crystal body (hefin)#active": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(hefin)#active.txt"
+  },
+  "green d%27hide body (t)": {
+    "slot": "Body",
+    "txt": "txt/green_d%27hide_body_(t).txt"
+  },
+  "armadyl chestplate": {
+    "slot": "Body",
+    "txt": "txt/armadyl_chestplate.txt"
+  },
+  "adamant platebody (h5)": {
+    "slot": "Body",
+    "txt": "txt/adamant_platebody_(h5).txt"
+  },
+  "xerician top": {
+    "slot": "Body",
+    "txt": "txt/xerician_top.txt"
+  },
+  "carnillean armour": {
+    "slot": "Body",
+    "txt": "txt/carnillean_armour.txt"
+  },
+  "nutcracker top#sweet": {
+    "slot": "Body",
+    "txt": "txt/nutcracker_top#sweet.txt"
+  },
+  "adamant platebody (h1)": {
+    "slot": "Body",
+    "txt": "txt/adamant_platebody_(h1).txt"
+  },
+  "verac%27s brassard#100": {
+    "slot": "Body",
+    "txt": "txt/verac%27s_brassard#100.txt"
+  },
+  "corrupted statius%27s platebody (bh)#activated": {
+    "slot": "Body",
+    "txt": "txt/corrupted_statius%27s_platebody_(bh)#activated.txt"
+  },
+  "elite black platebody": {
+    "slot": "Body",
+    "txt": "txt/elite_black_platebody.txt"
+  },
+  "bloodbark body": {
+    "slot": "Body",
+    "txt": "txt/bloodbark_body.txt"
+  },
+  "robe top of the eye#green": {
+    "slot": "Body",
+    "txt": "txt/robe_top_of_the_eye#green.txt"
+  },
+  "zuriel%27s robe top (bh)#activated": {
+    "slot": "Body",
+    "txt": "txt/zuriel%27s_robe_top_(bh)#activated.txt"
+  },
+  "shirt (brown)": {
+    "slot": "Body",
+    "txt": "txt/shirt_(brown).txt"
+  },
+  "zamorak d%27hide body": {
+    "slot": "Body",
+    "txt": "txt/zamorak_d%27hide_body.txt"
+  },
+  "blue naval shirt": {
+    "slot": "Body",
+    "txt": "txt/blue_naval_shirt.txt"
+  },
+  "stripy pirate shirt (beige)": {
+    "slot": "Body",
+    "txt": "txt/stripy_pirate_shirt_(beige).txt"
+  },
+  "guthan%27s platebody#50": {
+    "slot": "Body",
+    "txt": "txt/guthan%27s_platebody#50.txt"
+  },
+  "torva platebody#restored": {
+    "slot": "Body",
+    "txt": "txt/torva_platebody#restored.txt"
+  },
+  "fighter torso (or)#normal": {
+    "slot": "Body",
+    "txt": "txt/fighter_torso_(or)#normal.txt"
+  },
+  "spookier robe": {
+    "slot": "Body",
+    "txt": "txt/spookier_robe.txt"
+  },
+  "rainbow jumper#transgender": {
+    "slot": "Body",
+    "txt": "txt/rainbow_jumper#transgender.txt"
+  },
+  "3rd age robe top": {
+    "slot": "Body",
+    "txt": "txt/3rd_age_robe_top.txt"
+  },
+  "dark tuxedo jacket": {
+    "slot": "Body",
+    "txt": "txt/dark_tuxedo_jacket.txt"
+  },
+  "dragon platebody (g)": {
+    "slot": "Body",
+    "txt": "txt/dragon_platebody_(g).txt"
+  },
+  "monk%27s robe top (t)": {
+    "slot": "Body",
+    "txt": "txt/monk%27s_robe_top_(t).txt"
+  },
+  "guthan%27s platebody#(broken)": {
+    "slot": "Body",
+    "txt": "txt/guthan%27s_platebody#(broken).txt"
+  },
+  "raging echoes top (t2)": {
+    "slot": "Body",
+    "txt": "txt/raging_echoes_top_(t2).txt"
+  },
+  "void knight top (or)#normal": {
+    "slot": "Body",
+    "txt": "txt/void_knight_top_(or)#normal.txt"
+  },
+  "scarecrow shirt": {
+    "slot": "Body",
+    "txt": "txt/scarecrow_shirt.txt"
+  },
+  "iron platebody (t)": {
+    "slot": "Body",
+    "txt": "txt/iron_platebody_(t).txt"
+  },
+  "decorative armour (gold platebody)#broken": {
+    "slot": "Body",
+    "txt": "txt/decorative_armour_(gold_platebody)#broken.txt"
+  },
+  "decorative armour (ranged top)#normal": {
+    "slot": "Body",
+    "txt": "txt/decorative_armour_(ranged_top)#normal.txt"
+  },
+  "elven top (white)": {
+    "slot": "Body",
+    "txt": "txt/elven_top_(white).txt"
+  },
+  "elite void top#normal": {
+    "slot": "Body",
+    "txt": "txt/elite_void_top#normal.txt"
+  },
+  "varrock armour 4": {
+    "slot": "Body",
+    "txt": "txt/varrock_armour_4.txt"
+  },
+  "turquoise robe top": {
+    "slot": "Body",
+    "txt": "txt/turquoise_robe_top.txt"
+  },
+  "stripy pirate shirt (brown)": {
+    "slot": "Body",
+    "txt": "txt/stripy_pirate_shirt_(brown).txt"
+  },
+  "iron platebody": {
+    "slot": "Body",
+    "txt": "txt/iron_platebody.txt"
+  },
+  "zamorak monk top": {
+    "slot": "Body",
+    "txt": "txt/zamorak_monk_top.txt"
+  },
+  "verac%27s brassard#25": {
+    "slot": "Body",
+    "txt": "txt/verac%27s_brassard#25.txt"
+  },
+  "vyre noble dress top (purple)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_dress_top_(purple).txt"
+  },
+  "echo ahrim%27s robetop#50": {
+    "slot": "Body",
+    "txt": "txt/echo_ahrim%27s_robetop#50.txt"
+  },
+  "iron chainbody": {
+    "slot": "Body",
+    "txt": "txt/iron_chainbody.txt"
+  },
+  "rainbow jumper#gay": {
+    "slot": "Body",
+    "txt": "txt/rainbow_jumper#gay.txt"
+  },
+  "crier coat": {
+    "slot": "Body",
+    "txt": "txt/crier_coat.txt"
+  },
+  "morrigan%27s leather body (bh)#activated": {
+    "slot": "Body",
+    "txt": "txt/morrigan%27s_leather_body_(bh)#activated.txt"
+  },
+  "group ironman platebody#v": {
+    "slot": "Body",
+    "txt": "txt/group_ironman_platebody#v.txt"
+  },
+  "royal frog blouse": {
+    "slot": "Body",
+    "txt": "txt/royal_frog_blouse.txt"
+  },
+  "blue d%27hide body (g)": {
+    "slot": "Body",
+    "txt": "txt/blue_d%27hide_body_(g).txt"
+  },
+  "rune platebody": {
+    "slot": "Body",
+    "txt": "txt/rune_platebody.txt"
+  },
+  "hardcore group ironman platebody#ii": {
+    "slot": "Body",
+    "txt": "txt/hardcore_group_ironman_platebody#ii.txt"
+  },
+  "rangers%27 tunic": {
+    "slot": "Body",
+    "txt": "txt/rangers%27_tunic.txt"
+  },
+  "gold elegant blouse": {
+    "slot": "Body",
+    "txt": "txt/gold_elegant_blouse.txt"
+  },
+  "crystal body (trahaearn)#active": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(trahaearn)#active.txt"
+  },
+  "zombie shirt": {
+    "slot": "Body",
+    "txt": "txt/zombie_shirt.txt"
+  },
+  "torag%27s platebody#75": {
+    "slot": "Body",
+    "txt": "txt/torag%27s_platebody#75.txt"
+  },
+  "bandos chestplate": {
+    "slot": "Body",
+    "txt": "txt/bandos_chestplate.txt"
+  },
+  "graceful top (adventurer)#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top_(adventurer)#worn.txt"
+  },
+  "steel platebody": {
+    "slot": "Body",
+    "txt": "txt/steel_platebody.txt"
+  },
+  "smiths tunic": {
+    "slot": "Body",
+    "txt": "txt/smiths_tunic.txt"
+  },
+  "dark squall robe top": {
+    "slot": "Body",
+    "txt": "txt/dark_squall_robe_top.txt"
+  },
+  "void knight top#normal": {
+    "slot": "Body",
+    "txt": "txt/void_knight_top#normal.txt"
+  },
+  "hardcore ironman platebody": {
+    "slot": "Body",
+    "txt": "txt/hardcore_ironman_platebody.txt"
+  },
+  "dagon%27hai robe top": {
+    "slot": "Body",
+    "txt": "txt/dagon%27hai_robe_top.txt"
+  },
+  "forestry top": {
+    "slot": "Body",
+    "txt": "txt/forestry_top.txt"
+  },
+  "3rd age platebody": {
+    "slot": "Body",
+    "txt": "txt/3rd_age_platebody.txt"
+  },
+  "adventurer%27s top (t1)": {
+    "slot": "Body",
+    "txt": "txt/adventurer%27s_top_(t1).txt"
+  },
+  "corrupted morrigan%27s leather body (bh)#activated": {
+    "slot": "Body",
+    "txt": "txt/corrupted_morrigan%27s_leather_body_(bh)#activated.txt"
+  },
+  "granite body": {
+    "slot": "Body",
+    "txt": "txt/granite_body.txt"
+  },
+  "black desert shirt": {
+    "slot": "Body",
+    "txt": "txt/black_desert_shirt.txt"
+  },
+  "group ironman platebody (unranked)#iv": {
+    "slot": "Body",
+    "txt": "txt/group_ironman_platebody_(unranked)#iv.txt"
+  },
+  "white platebody": {
+    "slot": "Body",
+    "txt": "txt/white_platebody.txt"
+  },
+  "trailblazer top (t2)": {
+    "slot": "Body",
+    "txt": "txt/trailblazer_top_(t2).txt"
+  },
+  "zealot%27s robe top": {
+    "slot": "Body",
+    "txt": "txt/zealot%27s_robe_top.txt"
+  },
+  "group ironman platebody#ii": {
+    "slot": "Body",
+    "txt": "txt/group_ironman_platebody#ii.txt"
+  },
+  "yellow goblin mail": {
+    "slot": "Body",
+    "txt": "txt/yellow_goblin_mail.txt"
+  },
+  "snakeskin body": {
+    "slot": "Body",
+    "txt": "txt/snakeskin_body.txt"
+  },
+  "fremennik brown shirt": {
+    "slot": "Body",
+    "txt": "txt/fremennik_brown_shirt.txt"
+  },
+  "black naval shirt": {
+    "slot": "Body",
+    "txt": "txt/black_naval_shirt.txt"
+  },
+  "guthan%27s platebody#undamaged": {
+    "slot": "Body",
+    "txt": "txt/guthan%27s_platebody#undamaged.txt"
+  },
+  "fighter torso#locked": {
+    "slot": "Body",
+    "txt": "txt/fighter_torso#locked.txt"
+  },
+  "fighter torso#broken": {
+    "slot": "Body",
+    "txt": "txt/fighter_torso#broken.txt"
+  },
+  "adamant chainbody": {
+    "slot": "Body",
+    "txt": "txt/adamant_chainbody.txt"
+  },
+  "decorative armour (red platebody)": {
+    "slot": "Body",
+    "txt": "txt/decorative_armour_(red_platebody).txt"
+  },
+  "rune platebody (h3)": {
+    "slot": "Body",
+    "txt": "txt/rune_platebody_(h3).txt"
+  },
+  "rainbow crown shirt#asexual": {
+    "slot": "Body",
+    "txt": "txt/rainbow_crown_shirt#asexual.txt"
+  },
+  "vyre noble blazer (purple)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_blazer_(purple).txt"
+  },
+  "graceful top (kourend)#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top_(kourend)#worn.txt"
+  },
+  "blue moon chestplate#new": {
+    "slot": "Body",
+    "txt": "txt/blue_moon_chestplate#new.txt"
+  },
+  "bob%27s blue shirt": {
+    "slot": "Body",
+    "txt": "txt/bob%27s_blue_shirt.txt"
+  },
+  "woven top (brown)": {
+    "slot": "Body",
+    "txt": "txt/woven_top_(brown).txt"
+  },
+  "sunfire fanatic cuirass": {
+    "slot": "Body",
+    "txt": "txt/sunfire_fanatic_cuirass.txt"
+  },
+  "zamorak robe top": {
+    "slot": "Body",
+    "txt": "txt/zamorak_robe_top.txt"
+  },
+  "graahk top": {
+    "slot": "Body",
+    "txt": "txt/graahk_top.txt"
+  },
+  "guthan%27s platebody#75": {
+    "slot": "Body",
+    "txt": "txt/guthan%27s_platebody#75.txt"
+  },
+  "dharok%27s platebody#undamaged": {
+    "slot": "Body",
+    "txt": "txt/dharok%27s_platebody#undamaged.txt"
+  },
+  "dharok%27s platebody#50": {
+    "slot": "Body",
+    "txt": "txt/dharok%27s_platebody#50.txt"
+  },
+  "dragon chainbody (g)": {
+    "slot": "Body",
+    "txt": "txt/dragon_chainbody_(g).txt"
+  },
+  "shade robe top": {
+    "slot": "Body",
+    "txt": "txt/shade_robe_top.txt"
+  },
+  "leather body": {
+    "slot": "Body",
+    "txt": "txt/leather_body.txt"
+  },
+  "black goblin mail": {
+    "slot": "Body",
+    "txt": "txt/black_goblin_mail.txt"
+  },
+  "crystal body#inactive": {
+    "slot": "Body",
+    "txt": "txt/crystal_body#inactive.txt"
+  },
+  "antisanta jacket": {
+    "slot": "Body",
+    "txt": "txt/antisanta_jacket.txt"
+  },
+  "bronze platebody (t)": {
+    "slot": "Body",
+    "txt": "txt/bronze_platebody_(t).txt"
+  },
+  "black wizard robe (g)": {
+    "slot": "Body",
+    "txt": "txt/black_wizard_robe_(g).txt"
+  },
+  "karil%27s leathertop#50": {
+    "slot": "Body",
+    "txt": "txt/karil%27s_leathertop#50.txt"
+  },
+  "gold elegant shirt": {
+    "slot": "Body",
+    "txt": "txt/gold_elegant_shirt.txt"
+  },
+  "inquisitor%27s hauberk": {
+    "slot": "Body",
+    "txt": "txt/inquisitor%27s_hauberk.txt"
+  },
+  "rune platebody (h4)": {
+    "slot": "Body",
+    "txt": "txt/rune_platebody_(h4).txt"
+  },
+  "woven top (yellow)": {
+    "slot": "Body",
+    "txt": "txt/woven_top_(yellow).txt"
+  },
+  "group ironman platebody#iv": {
+    "slot": "Body",
+    "txt": "txt/group_ironman_platebody#iv.txt"
+  },
+  "guthix d%27hide body": {
+    "slot": "Body",
+    "txt": "txt/guthix_d%27hide_body.txt"
+  },
+  "poet%27s jacket": {
+    "slot": "Body",
+    "txt": "txt/poet%27s_jacket.txt"
+  },
+  "statius%27s platebody (bh)#activated": {
+    "slot": "Body",
+    "txt": "txt/statius%27s_platebody_(bh)#activated.txt"
+  },
+  "elven top (yellow vest)": {
+    "slot": "Body",
+    "txt": "txt/elven_top_(yellow_vest).txt"
+  },
+  "medical gown": {
+    "slot": "Body",
+    "txt": "txt/medical_gown.txt"
+  },
+  "green robe top": {
+    "slot": "Body",
+    "txt": "txt/green_robe_top.txt"
+  },
+  "adamant platebody (t)": {
+    "slot": "Body",
+    "txt": "txt/adamant_platebody_(t).txt"
+  },
+  "orange goblin mail": {
+    "slot": "Body",
+    "txt": "txt/orange_goblin_mail.txt"
+  },
+  "graceful top (lovakengj)#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top_(lovakengj)#worn.txt"
+  },
+  "vesta%27s chainbody (bh)#activated": {
+    "slot": "Body",
+    "txt": "txt/vesta%27s_chainbody_(bh)#activated.txt"
+  },
+  "brown apron": {
+    "slot": "Body",
+    "txt": "txt/brown_apron.txt"
+  },
+  "tribal top (brown)": {
+    "slot": "Body",
+    "txt": "txt/tribal_top_(brown).txt"
+  },
+  "graceful top (arceuus)#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top_(arceuus)#worn.txt"
+  },
+  "priest gown (top)": {
+    "slot": "Body",
+    "txt": "txt/priest_gown_(top).txt"
+  },
+  "grey robe top": {
+    "slot": "Body",
+    "txt": "txt/grey_robe_top.txt"
+  },
+  "mystic robe top": {
+    "slot": "Body",
+    "txt": "txt/mystic_robe_top.txt"
+  },
+  "graceful top (shayzien)#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top_(shayzien)#worn.txt"
+  },
+  "fremennik robe": {
+    "slot": "Body",
+    "txt": "txt/fremennik_robe.txt"
+  },
+  "sanguine torva platebody": {
+    "slot": "Body",
+    "txt": "txt/sanguine_torva_platebody.txt"
+  },
+  "crystal body (trahaearn)#inactive": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(trahaearn)#inactive.txt"
+  },
+  "purple goblin mail": {
+    "slot": "Body",
+    "txt": "txt/purple_goblin_mail.txt"
+  },
+  "vyre noble corset (grey)": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_corset_(grey).txt"
+  },
+  "mixed hide top": {
+    "slot": "Body",
+    "txt": "txt/mixed_hide_top.txt"
+  },
+  "fremennik grey shirt": {
+    "slot": "Body",
+    "txt": "txt/fremennik_grey_shirt.txt"
+  },
+  "shayzien platebody (4)": {
+    "slot": "Body",
+    "txt": "txt/shayzien_platebody_(4).txt"
+  },
+  "crystal body#active": {
+    "slot": "Body",
+    "txt": "txt/crystal_body#active.txt"
+  },
+  "blue wizard robe": {
+    "slot": "Body",
+    "txt": "txt/blue_wizard_robe.txt"
+  },
+  "white apron": {
+    "slot": "Body",
+    "txt": "txt/white_apron.txt"
+  },
+  "purple naval shirt": {
+    "slot": "Body",
+    "txt": "txt/purple_naval_shirt.txt"
+  },
+  "torag%27s platebody#100": {
+    "slot": "Body",
+    "txt": "txt/torag%27s_platebody#100.txt"
+  },
+  "rainbow jumper#pride": {
+    "slot": "Body",
+    "txt": "txt/rainbow_jumper#pride.txt"
+  },
+  "chicken wings": {
+    "slot": "Body",
+    "txt": "txt/chicken_wings.txt"
+  },
+  "ham shirt": {
+    "slot": "Body",
+    "txt": "txt/ham_shirt.txt"
+  },
+  "torag%27s platebody#(broken)": {
+    "slot": "Body",
+    "txt": "txt/torag%27s_platebody#(broken).txt"
+  },
+  "ahrim%27s robetop#undamaged": {
+    "slot": "Body",
+    "txt": "txt/ahrim%27s_robetop#undamaged.txt"
+  },
+  "fighter torso (or)#locked": {
+    "slot": "Body",
+    "txt": "txt/fighter_torso_(or)#locked.txt"
+  },
+  "druid%27s robe top": {
+    "slot": "Body",
+    "txt": "txt/druid%27s_robe_top.txt"
+  },
+  "ancestral robe top": {
+    "slot": "Body",
+    "txt": "txt/ancestral_robe_top.txt"
+  },
+  "ancient ceremonial top": {
+    "slot": "Body",
+    "txt": "txt/ancient_ceremonial_top.txt"
+  },
+  "bunny top": {
+    "slot": "Body",
+    "txt": "txt/bunny_top.txt"
+  },
+  "torag%27s platebody#50": {
+    "slot": "Body",
+    "txt": "txt/torag%27s_platebody#50.txt"
+  },
+  "monk%27s robe top": {
+    "slot": "Body",
+    "txt": "txt/monk%27s_robe_top.txt"
+  },
+  "karil%27s leathertop#75": {
+    "slot": "Body",
+    "txt": "txt/karil%27s_leathertop#75.txt"
+  },
+  "robe of elidinis (top)": {
+    "slot": "Body",
+    "txt": "txt/robe_of_elidinis_(top).txt"
+  },
+  "khazard armour": {
+    "slot": "Body",
+    "txt": "txt/khazard_armour.txt"
+  },
+  "shayzien platebody (2)": {
+    "slot": "Body",
+    "txt": "txt/shayzien_platebody_(2).txt"
+  },
+  "twisted coat (t1)": {
+    "slot": "Body",
+    "txt": "txt/twisted_coat_(t1).txt"
+  },
+  "dark infinity top": {
+    "slot": "Body",
+    "txt": "txt/dark_infinity_top.txt"
+  },
+  "raging echoes top (t1)": {
+    "slot": "Body",
+    "txt": "txt/raging_echoes_top_(t1).txt"
+  },
+  "plague jacket": {
+    "slot": "Body",
+    "txt": "txt/plague_jacket.txt"
+  },
+  "frog-leather body": {
+    "slot": "Body",
+    "txt": "txt/frog-leather_body.txt"
+  },
+  "crystal body (cadarn)#inactive": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(cadarn)#inactive.txt"
+  },
+  "guthix platebody": {
+    "slot": "Body",
+    "txt": "txt/guthix_platebody.txt"
+  },
+  "saradomin robe top": {
+    "slot": "Body",
+    "txt": "txt/saradomin_robe_top.txt"
+  },
+  "oldschool jumper": {
+    "slot": "Body",
+    "txt": "txt/oldschool_jumper.txt"
+  },
+  "swampbark body": {
+    "slot": "Body",
+    "txt": "txt/swampbark_body.txt"
+  },
+  "decorative armour (magic top)#normal": {
+    "slot": "Body",
+    "txt": "txt/decorative_armour_(magic_top)#normal.txt"
+  },
+  "ahrim%27s robetop#100": {
+    "slot": "Body",
+    "txt": "txt/ahrim%27s_robetop#100.txt"
+  },
+  "golden apron": {
+    "slot": "Body",
+    "txt": "txt/golden_apron.txt"
+  },
+  "rogue top": {
+    "slot": "Body",
+    "txt": "txt/rogue_top.txt"
+  },
+  "skeletal top": {
+    "slot": "Body",
+    "txt": "txt/skeletal_top.txt"
+  },
+  "blue robe top": {
+    "slot": "Body",
+    "txt": "txt/blue_robe_top.txt"
+  },
+  "icy jumper": {
+    "slot": "Body",
+    "txt": "txt/icy_jumper.txt"
+  },
+  "clown gown#during event": {
+    "slot": "Body",
+    "txt": "txt/clown_gown#during_event.txt"
+  },
+  "crystal body (iorwerth)#inactive": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(iorwerth)#inactive.txt"
+  },
+  "varrock armour 1": {
+    "slot": "Body",
+    "txt": "txt/varrock_armour_1.txt"
+  },
+  "shayzien body (5)": {
+    "slot": "Body",
+    "txt": "txt/shayzien_body_(5).txt"
+  },
+  "shirt (lilac)": {
+    "slot": "Body",
+    "txt": "txt/shirt_(lilac).txt"
+  },
+  "elite void top (or)#normal": {
+    "slot": "Body",
+    "txt": "txt/elite_void_top_(or)#normal.txt"
+  },
+  "twisted coat (t3)": {
+    "slot": "Body",
+    "txt": "txt/twisted_coat_(t3).txt"
+  },
+  "adventurer%27s top (t2)": {
+    "slot": "Body",
+    "txt": "txt/adventurer%27s_top_(t2).txt"
+  },
+  "vyre noble top": {
+    "slot": "Body",
+    "txt": "txt/vyre_noble_top.txt"
+  },
+  "armadyl robe top": {
+    "slot": "Body",
+    "txt": "txt/armadyl_robe_top.txt"
+  },
+  "banshee top": {
+    "slot": "Body",
+    "txt": "txt/banshee_top.txt"
+  },
+  "butler%27s uniform (top)": {
+    "slot": "Body",
+    "txt": "txt/butler%27s_uniform_(top).txt"
+  },
+  "bandos d%27hide body": {
+    "slot": "Body",
+    "txt": "txt/bandos_d%27hide_body.txt"
+  },
+  "deadman%27s chest#cosmetic": {
+    "slot": "Body",
+    "txt": "txt/deadman%27s_chest#cosmetic.txt"
+  },
+  "mystic robe top (dusk)": {
+    "slot": "Body",
+    "txt": "txt/mystic_robe_top_(dusk).txt"
+  },
+  "farmer%27s shirt": {
+    "slot": "Body",
+    "txt": "txt/farmer%27s_shirt.txt"
+  },
+  "decorative armour (magic top)#locked": {
+    "slot": "Body",
+    "txt": "txt/decorative_armour_(magic_top)#locked.txt"
+  },
+  "hardcore group ironman platebody#iv": {
+    "slot": "Body",
+    "txt": "txt/hardcore_group_ironman_platebody#iv.txt"
+  },
+  "ahrim%27s robetop#50": {
+    "slot": "Body",
+    "txt": "txt/ahrim%27s_robetop#50.txt"
+  },
+  "graceful top (agility arena)#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top_(agility_arena)#worn.txt"
+  },
+  "white chainbody": {
+    "slot": "Body",
+    "txt": "txt/white_chainbody.txt"
+  },
+  "blue wizard robe (g)": {
+    "slot": "Body",
+    "txt": "txt/blue_wizard_robe_(g).txt"
+  },
+  "studded body": {
+    "slot": "Body",
+    "txt": "txt/studded_body.txt"
+  },
+  "trailblazer top (t3)": {
+    "slot": "Body",
+    "txt": "txt/trailblazer_top_(t3).txt"
+  },
+  "shattered top (t1)": {
+    "slot": "Body",
+    "txt": "txt/shattered_top_(t1).txt"
+  },
+  "lederhosen top": {
+    "slot": "Body",
+    "txt": "txt/lederhosen_top.txt"
+  },
+  "eggshell platebody": {
+    "slot": "Body",
+    "txt": "txt/eggshell_platebody.txt"
+  },
+  "spined body": {
+    "slot": "Body",
+    "txt": "txt/spined_body.txt"
+  },
+  "red d%27hide body (t)": {
+    "slot": "Body",
+    "txt": "txt/red_d%27hide_body_(t).txt"
+  },
+  "elven top (white vest)": {
+    "slot": "Body",
+    "txt": "txt/elven_top_(white_vest).txt"
+  },
+  "hardcore group ironman platebody#v": {
+    "slot": "Body",
+    "txt": "txt/hardcore_group_ironman_platebody#v.txt"
+  },
+  "gilded platebody": {
+    "slot": "Body",
+    "txt": "txt/gilded_platebody.txt"
+  },
+  "trailblazer reloaded top (t1)": {
+    "slot": "Body",
+    "txt": "txt/trailblazer_reloaded_top_(t1).txt"
+  },
+  "infinity top": {
+    "slot": "Body",
+    "txt": "txt/infinity_top.txt"
+  },
+  "spooky robe#reward": {
+    "slot": "Body",
+    "txt": "txt/spooky_robe#reward.txt"
+  },
+  "crystal body (ithell)#active": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(ithell)#active.txt"
+  },
+  "robe top of the eye#regular": {
+    "slot": "Body",
+    "txt": "txt/robe_top_of_the_eye#regular.txt"
+  },
+  "rainbow jumper#pansexual": {
+    "slot": "Body",
+    "txt": "txt/rainbow_jumper#pansexual.txt"
+  },
+  "echo virtus robe top": {
+    "slot": "Body",
+    "txt": "txt/echo_virtus_robe_top.txt"
+  },
+  "pink robe top": {
+    "slot": "Body",
+    "txt": "txt/pink_robe_top.txt"
+  },
+  "dharok%27s platebody#25": {
+    "slot": "Body",
+    "txt": "txt/dharok%27s_platebody#25.txt"
+  },
+  "guthan%27s platebody#100": {
+    "slot": "Body",
+    "txt": "txt/guthan%27s_platebody#100.txt"
+  },
+  "echo ahrim%27s robetop#100": {
+    "slot": "Body",
+    "txt": "txt/echo_ahrim%27s_robetop#100.txt"
+  },
+  "adamant platebody (h4)": {
+    "slot": "Body",
+    "txt": "txt/adamant_platebody_(h4).txt"
+  },
+  "rune platebody (h2)": {
+    "slot": "Body",
+    "txt": "txt/rune_platebody_(h2).txt"
+  },
+  "enchanted top": {
+    "slot": "Body",
+    "txt": "txt/enchanted_top.txt"
+  },
+  "crystal body (crwys)#inactive": {
+    "slot": "Body",
+    "txt": "txt/crystal_body_(crwys)#inactive.txt"
+  },
+  "saradomin d%27hide body": {
+    "slot": "Body",
+    "txt": "txt/saradomin_d%27hide_body.txt"
+  },
+  "elder chaos top": {
+    "slot": "Body",
+    "txt": "txt/elder_chaos_top.txt"
+  },
+  "bronze chainbody": {
+    "slot": "Body",
+    "txt": "txt/bronze_chainbody.txt"
+  },
+  "karil%27s leathertop#(broken)": {
+    "slot": "Body",
+    "txt": "txt/karil%27s_leathertop#(broken).txt"
+  },
+  "dragon chainbody": {
+    "slot": "Body",
+    "txt": "txt/dragon_chainbody.txt"
+  },
+  "echo ahrim%27s robetop#75": {
+    "slot": "Body",
+    "txt": "txt/echo_ahrim%27s_robetop#75.txt"
+  },
+  "ankou top": {
+    "slot": "Body",
+    "txt": "txt/ankou_top.txt"
+  },
+  "bronze platebody": {
+    "slot": "Body",
+    "txt": "txt/bronze_platebody.txt"
+  },
+  "ultimate ironman platebody": {
+    "slot": "Body",
+    "txt": "txt/ultimate_ironman_platebody.txt"
+  },
+  "bronze platebody (g)": {
+    "slot": "Body",
+    "txt": "txt/bronze_platebody_(g).txt"
+  },
+  "trailblazer reloaded top (t2)": {
+    "slot": "Body",
+    "txt": "txt/trailblazer_reloaded_top_(t2).txt"
+  },
+  "shayzien platebody (1)": {
+    "slot": "Body",
+    "txt": "txt/shayzien_platebody_(1).txt"
+  },
+  "void knight top#broken": {
+    "slot": "Body",
+    "txt": "txt/void_knight_top#broken.txt"
+  },
+  "black platebody (g)": {
+    "slot": "Body",
+    "txt": "txt/black_platebody_(g).txt"
+  },
+  "vyrewatch top": {
+    "slot": "Body",
+    "txt": "txt/vyrewatch_top.txt"
+  },
+  "bob%27s green shirt": {
+    "slot": "Body",
+    "txt": "txt/bob%27s_green_shirt.txt"
+  },
+  "eclipse moon chestplate#used": {
+    "slot": "Body",
+    "txt": "txt/eclipse_moon_chestplate#used.txt"
+  },
+  "royal gown top": {
+    "slot": "Body",
+    "txt": "txt/royal_gown_top.txt"
+  },
+  "adamant platebody (h3)": {
+    "slot": "Body",
+    "txt": "txt/adamant_platebody_(h3).txt"
+  },
+  "robe top of the eye#red": {
+    "slot": "Body",
+    "txt": "txt/robe_top_of_the_eye#red.txt"
+  },
+  "graceful top (piscarilius)#worn": {
+    "slot": "Body",
+    "txt": "txt/graceful_top_(piscarilius)#worn.txt"
+  },
+  "blue moon chestplate#used": {
+    "slot": "Body",
+    "txt": "txt/blue_moon_chestplate#used.txt"
+  },
+  "ugly halloween jumper#orange": {
+    "slot": "Body",
+    "txt": "txt/ugly_halloween_jumper#orange.txt"
+  },
+  "fighter torso#normal": {
+    "slot": "Body",
+    "txt": "txt/fighter_torso#normal.txt"
+  },
+  "elder chaos top (or)": {
+    "slot": "Body",
+    "txt": "txt/elder_chaos_top_(or).txt"
+  },
+  "black platebody (h5)": {
+    "slot": "Body",
+    "txt": "txt/black_platebody_(h5).txt"
+  },
+  "gilded d%27hide body": {
+    "slot": "Body",
+    "txt": "txt/gilded_d%27hide_body.txt"
+  }
+}

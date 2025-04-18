@@ -1,0 +1,5 @@
+Item: Inquisitor's mace
+Summary: The Inquisitor's mace is a one-handed crush weapon requiring 80 Attack to wield. Received as a drop from The Nightmare, it has bonuses nearly identical to the Ghrazi rapier and blade of Saeldor, acting as the crush variant of these weapons; unlike those weapons, it also has +2 Prayer bonus.
+Sources:
+- The Nightmare (Level 814, Quantity: 1, Rarity: 1/750–1/428.7)
+- Phosani's Nightmare (Level 1024, Quantity: 1, Rarity: 1/1,250)

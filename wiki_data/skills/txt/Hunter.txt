@@ -1,0 +1,521 @@
+[Skill: Hunter]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+ | This article has skill training guides:Members/IronmanSkill training guidesdocument optimal XP/hour methods to train a skill, as well as alternate passive or less expensive methods.
+
+Hunter
+
+
+
+
+
+
+
+Released | 21 November2006(Update)
+
+Also called | Hunt
+
+Members | Yes
+
+Type | Gathering
+
+
+
+Statistics
+
+
+
+Players with99 | 117,297as of 1 April 2025 -update
+
+Players with200M XP | 325as of 3 April 2025 -update
+
+
+
+Hunteris amembers-onlyskillin which players catch differentanimals and creaturesinRuneScape. Although Hunter is a non-combatskill, players can still be damaged while hunting. Using hunting equipment bought fromHunter stores, players can hunt specific creatures obtaining rewards such asspotted kebbit furforspotted cape,chinchompas,black salamanders, anddragon implings.
+
+Hunter can be trained in a variety of locations throughout the game, with most players beginning their training in theFeldip Hills.Bird house trappingare often utilised at later levels, and at level 46 players can access theHunter Guild, located in theAvium Savannah, along with its associatedrumours.
+
+Released in November 2006, Hunter is the most recent skill added toOld School RuneScape.
+
+ | Hunter level up - even-numbered levels
+
+The music that plays when achieving even-numbered levels.
+
+
+
+ | Hunter level up - odd-numbered levels
+
+The music that plays when achieving odd-numbered levels.
+
+
+
+Hunter areas[edit|edit source]
+
+There are a couple designated Hunter areas that form a habitat housing multipleHunter creatures. These habitats are a desert, jungle, woodland and a snowy area. These Hunter areas are not the only locations inGielinorthat house Hunter creatures. There are also several other locations housing a single species.
+
+After completion of theEagles' Peakquest, a player can use theeagle transport systemto fly an eagle from Eagles' Peak in the woodland area to three of the other training areas: snow, jungle and desert.
+
+Hunter guide's name | Area |  | Hunter creatures | Map
+
+Aerial | Lake Molch | 35 |  | Bluegill | 
+
+51 |  | Common tench
+
+68 |  | Mottled eel
+
+87 |  | Greater siren
+
+Ape Atoll | Kruk's Dungeon | 60 |  | Maniacal monkey | N/A
+
+Desert | Uzer Hunter area | 5 |  | Golden warbler | 
+
+13 |  | Desert devil
+
+47 |  | Orange salamander
+
+Necropolis Hunter area | 47 |  | Orange salamander | N/A
+
+Jungle | Feldip Hunter area | 1 |  | Crimson swift | 
+
+7 |  | Feldip Weasel
+
+19 |  | Tropical wagtail
+
+31 |  | Spined larupia
+
+33 |  | Barb-tailed kebbit
+
+45 |  | Black warlock
+
+63 |  | Carnivorous chinchompa
+
+Karamja | Karamja Hunter area | 41 |  | Horned graahk | N/A
+
+Lava | Ourania Hunter area | 59 |  | Red salamander | N/A
+
+Boneyard Hunter area | 67 |  | Black salamander | N/A
+
+Savannah | Avium Savannah | 39 |  | Embertailed jerboa | 
+
+57 |  | Pyre fox
+
+65 |  | Sunlight Moth
+
+72 |  | Sunlight antelope
+
+75 |  | Moonlight moth
+
+79 |  | Tecu salamander
+
+91 |  | Moonlight antelope
+
+Snow | Rellekka Hunter area | 1 |  | Polar kebbit | 
+
+11 |  | Cerulean twitch
+
+25 |  | Sapphire glacialis
+
+35 |  | Snowy knight
+
+51 |  | Sabre-toothed kebbit
+
+55 |  | Sabre-toothed kyatt
+
+Swamp | Canifis Hunter area | 29 |  | Swamp lizard | N/A
+
+Woodland | Piscatoris Hunter area | 3 |  | Common kebbit | 
+
+9 |  | Copper longtail
+
+15 |  | Ruby harvest
+
+23 |  | Wild kebbit
+
+27 |  | Ferret
+
+27 |  | White rabbit
+
+37 |  | Prickly kebbit
+
+49 |  | Razor-backed kebbit
+
+53 |  | Chinchompa
+
+Falconry | 43 |  | Spotted kebbit | 
+
+57 |  | Dark kebbit
+
+69 |  | Dashing kebbit
+
+Kourend Woodland | 9 |  | Copper longtail | 
+
+15 |  | Ruby harvest
+
+53 |  | Chinchompa
+
+Other | Gwenith Hunter area | 63 |  | Carnivorous chinchompa | N/A
+
+Fossil Island underwater | 44 |  | Fish shoal | N/A
+
+Mushroom ForestandFossil Island Volcano | 5 |  | Bird houses | N/A
+
+Mushroom Forest | 80 |  | Herbiboar | N/A
+
+Wilderness | 73 |  | Black chinchompa | N/A
+
+Gielinor | 71 |  | Imp | N/A
+
+Hunting techniques[edit|edit source]
+
+Aerial fishing[edit|edit source]
+
+Aerial fishing is a Hunter technique requiring 35 Hunter and 43Fishing. The aerial fishing technique is used to catch severalfishspecies atLake Molch. With the required Hunter and Fishing level and acormorant's gloveequipped, clicking on a fishing spot will send the cormorant towards the spot to catch a fish. The cormorant will always return to the player with a fish.
+
+Bird house trapping[edit|edit source]
+
+The bird house trapping technique is used to catch birds onFossil Island. With the required Hunter level, the player may set up a bird house and fill it with seeds and wait approximately 50 minutes for it to fill up with birds. The player may then check the bird houses, from which they will receive Hunter experience,feathers,raw bird meatand abird nests. The bird house will be lost in the process, but the clockwork will be returned.
+
+Bird snaring[edit|edit source]
+
+The bird snaring technique is used to catch severalbirds. With the required Hunter level, the player may set up a bird snare. When a bird passes the trap, it may be caught, but only when the player is not standing on the trap.
+
+Box trapping[edit|edit source]
+
+The box trapping technique is used to catchferretsandchinchompas. With the required Hunter level and completion of theEagles' Peakquest, the player may set up a box trap. When a chinchompa or ferret passes the trap, it may be caught, but only when the player is not standing on the trap.
+
+Butterfly netting[edit|edit source]
+
+The butterfly netting technique is used to catchbutterflies,implings, and bats. With the required Hunter level and abutterfly net(ormagic butterfly net), the player may left-click on a flying creature to capture it. With an appropriate container (abutterflyorimpling jar), the caught creature can be saved for later use.
+
+Deadfall trapping[edit|edit source]
+
+The deadfall trapping technique is used to catchkebbits,maniacal monkeys, andpyre foxes. With the required Hunter level, aknifeandlogsin the inventory (or abananawhen hunting maniacal monkeys), clicking on a boulder will set the trap. When the kebbit or monkey paths towards the trap, it may be caught.
+
+Drift net fishing[edit|edit source]
+
+The drift net fishing technique is used to catchfish shoals. With the required Hunter andFishinglevel, and adrift netin the inventory, clicking on the drift net anchors will set the trap. When afish shoalswims towards the net, it may get stuck in the net. The player can choose to actively chase the fish shoals to speed up the process. Amerfolk tridentgives an increased chance to scare off fish shoals into the net.
+
+If ten fish shoals get stuck in the trap, the net will be full, and the player will have the option to "check" the drift net. This will reward the player with ten random raw fish.
+
+Falconry[edit|edit source]
+
+The falconry technique is used to catch severalkebbits. With the required Hunter level and aGyr Falcon, clicking on a kebbit will send the falcon towards the kebbit. When the falcon catches the kebbit, the hunter needs to retrieve both the falcon and the drops.
+
+Implings[edit|edit source]
+
+Implingsare small creatures that can be hunted withinPuro-Puroas well as spawning at random points around the world. Catching an Impling requires the use of abutterfly netormagic butterfly net. Alternatively, implings can be caught barehanded - without the use of a net - although this requires a Hunter level of 10 levels above the normal requirement. With animpling jarin the inventory, the impling can be saved for later use, otherwise it is looted immediately.
+
+Net trapping[edit|edit source]
+
+The net trapping technique is used to catchsalamanders. With the required Hunter level, aropeandsmall fishing netin the inventory, clicking on ayoung treewill set the trap. When the lizard or salamander passes the trap, it may be caught, but only when the player is not standing on the net.
+
+Magic box trapping[edit|edit source]
+
+The magic box trapping technique is used to catchimps. With the required Hunter level, the player may set up a magic box. When an imp passes the trap, it may be caught, but only when the player is not standing on the trap.
+
+Pitfall trapping[edit|edit source]
+
+The pitfall trapping technique is used to catchSpined larupias,Horned graahks,Sabre-toothed kyatts,Sunlight antelopeandMoonlight antelope.With the required Hunter level, aknifeandlogsin the inventory, clicking on a pit will set the trap. With ateasing stickin the inventory or ahunter's spearin the weapon slot, the player has to tease the creature and then jump over the spiked pit. When the creature passes the trap, it may be caught.
+
+Rabbit snaring[edit|edit source]
+
+The rabbit snaring technique is used to catchwhite rabbits. With the required Hunter level, completion of theEagles' Peakquest and aferretin the inventory, the player may set up arabbit snareand flush arabbit holeto trap a white rabbit.
+
+Tracking[edit|edit source]
+
+The tracking technique is used to catch severalkebbitsandherbiboars. With this technique the player inspects scenery objects in the creature's habitat to uncover a creature's tracks. These tracks will eventually lead the player towards the hiding creature. Aring of pursuitwill reveal the entire track (excluding herbiboars). When the hiding creature is found, right-click 'Attack' while wielding anoose wandto receive loot and experience. A noose wand is not needed to catch herbiboar.
+
+Miscellaneous[edit|edit source]
+
+Bait and smoking traps[edit|edit source]
+
+There are three ways for player to increase the catch rate of creatures: a higher skill level, using bait, and smoking the trap. ManyHunter creatureshave a preferred bait that players can use on a trap to increase the catch rate. To find out what the preferred bait of a creature is, visit the creature's page or the in-game Hunter guide. By smoking a trap, the player's scent will vanish, and thus make the creature less suspicious of the trap. A trap can be smoked by using alit torchorbruma torchon the trap.
+
+Adding a creature's corresponding bait to a trap will increase the catch rate by +3%, while smoking a trap with atorchwill increase the catch rate by +2%.[1]Due to the low increase of the catch rate, most players believe that smoking or adding bait to traps doesn't justify the extra actions it takes.
+
+Multiple traps[edit|edit source]
+
+Box trapping, net trapping, bird snaring and rabbit snaring can be done with multiple traps at once, with the maximum amount of traps depending on the player's Hunter level.
+
+An extra trap may be set while huntingblack salamandersorblack chinchompasin theWilderness.
+
+Temporary boosts make it possible to use more traps at lower levels.
+
+ | Traps
+
+1 | 1
+
+20 | 2
+
+40 | 3
+
+60 | 4
+
+80 | 5
+
+Hunter shops[edit|edit source]
+
+There are threeHunter storesin which players can buy Hunter tools. These shops areAleck's Hunter EmporiuminYanille,Imia's Suppliesin theHunter Guild, andNardah Hunter ShopinNardah. All three shops have the same items in stock.
+
+Item | Numberin stock | Restocktime | Pricesold at | Pricebought at | GEprice
+
+ | Butterfly net | 5 | 6s (10t) | 24 | 14 | 6
+
+ | Butterfly jar | 100 | 6s (10t) | 1 | 0 | 95
+
+ | Magic box | 30 | 30s (50t) | 720 | 420 | 401
+
+ | Noose wand | 50 | 3s (5t) | 4 | 2 | 1
+
+ | Bird snare | 50 | 3s (5t) | 6 | 3 | 4
+
+ | Box trap | 25 | 6s (10t) | 38 | 22 | 39
+
+ | Teasing stick | 5 | 6s (10t) | 60 | 35 | 1
+
+ | Unlit torch | 20 | 6s (10t) | 4 | 2 | 1
+
+ | Rabbit snare | 10 | 6s (10t) | 18 | 10 | 1
+
+ | Bird snare pack | 3 | 6s (10t) | 606 | 353 | Not sold
+
+ | Box trap pack | 3 | 6s (10t) | 3,840 | 2,240 | Not sold
+
+ | Magic imp box pack | 3 | 6s (10t) | 72,000 | 42,000 | Not sold
+
+Hunter spell[edit|edit source]
+
+Casting theHunter Kit spellon theLunar spellbook, requiring level 71MagicandDream Mentor, players will obtain aHunter kitwhich contains various useful Hunter tools: abird snare,box trap,butterfly net,impling jar,noose wand,rabbit snare,teasing stickandunlit torch.
+
+Hunter crossbow[edit|edit source]
+
+Leon, who is located inside the Hunter shop inYanille, sells aHunter's crossbowfor 1,300 coins. This crossbow possesses a firing speed of 4, which is equivalent to that of ashortbow, requires 50Rangedto wield and can only usekebbit boltsandlong kebbit boltsas ammunition. At level 74Fletching, this crossbow can be upgraded with aSunlight antelope antlerto create theHunters' sunlight crossbow.
+
+Players can make their own bolts using theFletchingskill by using achiselon a kebbit spike, or they can pay Leon a small fee to makes the bolts for them.
+
+6 Kebbit bolts costs akebbit spike(Prickly kebbit) and 20 coins6 long kebbit bolts cost along kebbit spike(Razor-backed kebbit) and 40 coins
+
+Additionally, players can make bolts for their upgraded Hunters' sunlight crossbow by fletching antelope antlers.
+
+12Sunlight boltsfrom oneSunlight antelope antler(requires level 62Fletching)12Moonlight boltsfrom oneMoonlight antelope antler(requires level 72Fletching)
+
+Hunter and camouflage clothing[edit|edit source]
+
+Some Hunter creatures will reward the player with the creature's fur when caught. These furs may be traded in at theFancy Clothes Storein south-eastVarrockfor different types ofhunter gear. In addition to the furs, the costume maker will also charge a small fee to create this gear.
+
+Polar camouflage gear-Polar kebbit furWoodland camouflage gear-Common kebbit furJungle camouflage gear-Feldip weasel furDesert camouflage gear-Desert devil furLarupia hunter gear-Larupia furandtatty larupia furGraahk hunter gear-Graahk furandtatty graahk furKyatt hunter gear-Kyatt furandtatty kyatt fur
+
+Wearing camouflage gear does not improve the chance of successfully capturing creatures[2], although the tops and legs reduce the player's weight when worn by 3kg and 2kg, respectively.
+
+The Larupia, Graahk, and Kyatt Hunter gear sets reduce damage from Hunter creatures by 20%, 40%, and 60%, respectively.
+
+The costume maker can also make a few other items.Spottedandspottier capesreduce the player's weight when worn, and thegloves of silencemade from dark kebbit furs makepickpocketingeasier.
+
+When the player wears the fullGuild Hunterset, this increases the catch rate ofHunter creaturesby 2.5% as well as the chance of receiving rare creature parts fromHunters' Rumoursby 5%.
+
+Storage items[edit|edit source]
+
+The following items can be used to store or produce Hunter equipment and catch:
+
+Item | What is stored | Source
+
+Small meat pouch | 14 pieces of meat | Sewn from 4Fox furs
+
+Large meat pouch | 28 pieces of meat | Sewn from a small pouch and 3sunlight antelope furs
+
+Small fur pouch | 14 furs | Sewn from a 4larupia furs
+
+Medium fur pouch | 21 furs | Sewn from a small pouch and 3graahk furs
+
+Large fur pouch | 28 furs | Sewn from a medium pouch and 3kyatt furs
+
+Huntsman's kit | Various pieces of Hunter gear | Hunters' loot sacksfromrumours
+
+Tackle box | Small netsfornet traps, diving equipment fordrift net fishingandMolch pearlsfromaerial fishing | Tempoross, via thereward pool
+
+Herb sack | GrimyherbsfromHerbiboar | Slayer RewardsorFarmer Gricoller's RewardsfromTithe Farm
+
+Log basket | Logsfordeadfall trappingandpitfall trapping | Forestry Shop
+
+Jar generator | Producesbutterflyandimpling jars | Elnock's ExchangeinPuro-Puro
+
+Hunter kit | Produces various hunting tools | Hunter kitspell
+
+In addition, the following NPCs offer storage services for Hunter-related items:
+
+NPC | What is stored | Activity
+
+Annette | Drift nets | Drift net fishing
+
+Elnock Inquisitor | Butterfly nets,imp repellentandimpling jars | Impetuous impulses
+
+Hunter pets[edit|edit source]
+
+Baby chinchompa[edit|edit source]
+
+Thebaby chinchompais a skillingpetthat can be obtained while catching any kind ofchinchompa. The chances of getting it are dependent on the player's Hunter level and the type of chinchompa being hunted.
+
+Herbi[edit|edit source]
+
+Herbiis apetobtained from huntingherbiboarsfound inFossil Island'sMushroom Forest. There is a 1/6,500 chance to receive the pet after the player harvests the herbs from the herbiboar.
+
+Quetzin[edit|edit source]
+
+Quetzinis apetthat can be obtained as apotential rewardfrom completingHunters' Rumoursin theHunter Guild. The pet can only be obtained from expert or master rumours.
+
+Temporary boosts[edit|edit source]
+
+Boost | Levelincrease | Visibility | Other info
+
+ | Hunter cape | 1 | Visible | The cape provides five teleports per day which can be used to travel to thecarnivorous chinchompasin theFeldip Hunter areaor theblack chinchompasin theWilderness. Additionally, players with access to theHunter Guildcan unlock an unlimited third teleport to the guild.
+
+ | Blackbird red | 1 | Visible | Hitpoints16Attack-5Slayer-1
+
+ | Trapper's tipple | 2 | Visible | Found in theHunter guild, requires a minimumHunterlevel of 46 (not boostable) to access.Attack-2Strength-1
+
+ | Hunter potion | 3 | Visible | N/A
+
+ | Hunting mix | 3 | Visible | Hitpoints6 per dose.RequiresBarbarian training.
+
+ | Spicy stew(yellow spice) | ±0-5 | Visible | Hitpoints11Depending on type of stew, any skill exceptHitpointscan be boosted or reduced by 0 to 5 levels randomly.
+
+Quests[edit|edit source]
+
+Quests requiring Hunter[edit|edit source]
+
+Quest | Hunterrequirement | Other skill requirements
+
+Cold War | 10 | 34,30,30,15
+
+The Ascent of Arceuus | 12 | -
+
+Perilous Moons | 20 | 10,20,20,48
+
+Eagles' Peak | 27 | -
+
+At First Light | 46 | 27,30
+
+Defender of Varrock | 52 | 55
+
+Secrets of the North | 56 | 69,64
+
+Monkey Madness II | 60 | 69,70,55,55
+
+While Guthix Sleeps | 62 | 180,67,66,65,65,40,72
+
+Song of the Elves | 70 | 70,70,70,70,70,70,70
+
+Quests rewarding Hunter experience[edit|edit source]
+
+Quest | Experiencereward | Hunterrequirement | Other requirements
+
+Natural history quiz(miniquest) | 1,000 | - | -
+
+The Ascent of Arceuus | 1,500 | 12 | -
+
+Eagles' Peak | 2,500 | 27 | -
+
+At First Light | 4,500 | 46 | 27,30
+
+Perilous Moons | 5,000 | 20 | 10,20,20,48
+
+Defender of Varrock | 15,000 | 52 | 55
+
+Secrets of the North | 40,000 | 56 | 69,64
+
+Song of the Elves | 40,000 | 70 | 70,70,70,70,70,70,70
+
+Monkey Madness II | 50,000 | 60 | 69,70,55,55
+
+While Guthix Sleeps | 50,000 | 62 | 180,67,66,65,65,40,72
+
+Total | 209,500 | 
+
+Skill choice[edit|edit source]
+
+Upon completing any of the following quests, players may choose to allocate experience to Hunter. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.
+
+Quest | Experiencereward | Skills available | Skill requirements
+
+X Marks the Spot | 300 | Any | None
+
+Client of Kourend | 500 twice | Any | None
+
+Fairytale II - Cure a Queen | 2,500 | Any skill above 30 | 49,57
+
+A Tail of Two Cats | 2,500 twice | Any skill above 30 | None
+
+The Great Brain Robbery | 5,000 | Any skill above 30 | 16,30,50
+
+King's Ransom | 5,000 | Any skill above 50 | 65
+
+Darkness of Hallowvale | 2,000 three times | Any skill above 30 | 5,20,22,32,33,40
+
+A Taste of Hope | 2,500 three times | Any skill above 35 | 48,40,40,45,38
+
+A Kingdom Divided | 10,000 twice | Any skill above 40 | 54,52,52,50,42,38,35
+
+In Search of Knowledge(miniquest) | 10,000 | Any skill above 40 | None
+
+Curse of the Empty Lord(miniquest) | 10,000 | Any skill above 50 | Some players will need31
+
+One Small Favour | 10,000 twice | Any skill above 30 | 36,25,18,30
+
+Recipe for Disaster(The final battle) | 20,000 | Any skill above 50 | 175,70,48,50,53,53,25,59,40,50,40,40,10,10,36
+
+Sins of the Father | 15,000 six times | Any skill above 60 | 62,60,56,52,50,50,49
+
+Total | 202,300 | 
+
+Level up messages[edit|edit source]
+
+This article on a skill has an associated transcript page for level up messages.Click herefor the transcript.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+22 November2018(update) | The message received when smoking a trap can now be filtered.
+
+21 April2016(update|poll) | Implings can now be caught barehanded and do not require a jar.Clue scrolls have been added to impling drop tables.
+
+14 April2016(update) | Levelling up to 22 hunter now states you can catch young implings rather than adolescent implings.
+
+Trivia[edit|edit source]
+
+ | Scape Hunter
+
+The login screen music for the release of Hunter.
+
+
+
+The falconer mentions that some noblemen consider falconry a suitably refined sport for them. Hunting and falconry in particular was indeed an extremely popular sport among European nobility during the Middle Ages.The Hunter skill was developed by Ian Gower.
+
+On the day of the skill's release, the two rock pillars on each side of theRuneScapemain page were replaced with totem poles, on which were drawings of imps, lizards, and razorbacked kebbits. A few pawprints were also scattered around the tiled background.
+
+The login screen was changed as well. A piece of graahk fur was hung on each side of the screen, and a pair of orange salamanders clung onto the pillars. A box trap appeared below the login box, while a butterfly was placed on the top-left corner of the login box. A patch of grass grew on the bottom of the screen, parting at the middle. The burning rune symbols were replaced with paw prints, lizards, kebbits, and butterflies.
+
+See also[edit|edit source]
+
+Hunter/Experience table, a list of all Hunter experience sourcesHunter/Level up table, a list of all requirements and unlockables within the Hunter skill
+
+References[edit|edit source]
+
+v•t•eSkills
+
+Combat | AttackStrengthDefenceRangedPrayerMagicHitpoints
+
+Gathering | FarmingFishingHunterMiningWoodcutting
+
+Production | CookingCraftingFletchingHerbloreRunecraftSmithing
+
+Utility | AgilityConstructionFiremakingSlayerThieving
+
+Proposed skills | In developmentSailingPreviously proposedArtisanSailing (2015)WardingTamingShamanism | In development | Sailing | Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+In development | Sailing
+
+Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+Related | ExperienceSkill mastery200 million experienceSummoning

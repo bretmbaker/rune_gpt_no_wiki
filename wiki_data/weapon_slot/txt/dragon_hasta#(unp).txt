@@ -1,0 +1,64 @@
+[Weapon: Dragon Hasta#(Unp)]
+
+
+Thedragon hastais a one-handedmeleeweaponthat requires 60Attackand completion of theSmithingsection of theBarbarian Trainingminiquestto be wielded. Likespears, the dragon hasta can bepoisoned.
+Dragon hastae are obtained as loot from thebrimstone chest, which requires abrimstone keyto open. The dragon hasta is obtained inbrokenform and it can be repaired for free by showing it toOtto Godblessed(the repair doesnotrequire Barbarian Smithing).
+
+
+[Infobox]
+Released: 10 January2019(Update)
+Also called: Dhasta
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A one-handed dragon hasta.
+General Store Value: 62,400 coins
+High alch: 37,440 coins
+Low alch: 24,960 coins
+Weight: 2.267 kg
+Grand Exchange Value: 40,540 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 185
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +55
+- Slash: +55
+- Crush: +55
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: -15
+- Slash: -15
+- Crush: -12
+- Magic: +0
+- Ranged: -15
+
+Other Bonuses:
+- Strength: +60
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Lunge | Stab | Controlled | 4 ticks (2.4s) | 1 tile |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Controlled |  | +1 Attack, Strength, Defence
+ | Pound | Crush | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performs the dragon hasta's special attack,Unleash.
+The dragon hasta has aspecial attackcalledUnleash, which drains the player's special attack bar and attacks with a 5% boost in accuracy and a 2.5% boost in damage for every 5% of special attack energy used. Notably, it ignores the 40% damage reduction fromProtect from Meleeif the opponent has the prayer active.[1]This special rolls off of the opponents stab defence regardless of which mode it is in.
+For example, a player with 100% special attack energy who performs the special attack will have 100% increased accuracy (meaning the accuracy is doubled) and a damage boost of 50%.

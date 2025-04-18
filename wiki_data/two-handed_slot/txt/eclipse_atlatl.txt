@@ -1,0 +1,87 @@
+[Weapon: Eclipse Atlatl]
+
+
+Theeclipse atlatlis a two-handed ranged weapon that requires level 75Ranged, 50Attack, and 50Strengthto equip. It can be obtained as a possible reward from theLunar ChestinNeypotzli.
+The atlatl can only useatlatl dartsas ammunition, which are collected byAva's devices. Unlikethrowable dartsthat targetlight rangeddefence, the atlatl targets the enemy'sstandard rangeddefence, likearrows.[1]In addition, its max hit is determined by the player's melee strength bonus, while accuracy is still based on their ranged bonus, making it a unique ranged option for players with a high Strength level relative to their Attack or Ranged levels.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A powerful thrown weapon forged from an eclipse.
+General Store Value: 160,000 coins
+High alch: 96,000 coins
+Low alch: 64,000 coins
+Weight: 3.628 kg
+Grand Exchange Value: 2,808,164 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 2,139
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +87
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +40
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 4 ticks (2.4s) | 6 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 3 ticks (1.8s) | 6 tiles |  | None
+ | Longrange | Standard | Longrange | 4 ticks (2.4s) | 8 tiles |  | +3 Defence
+
+
+[Special Attack]
+A player performing the eclipse atlatl's special attack,Eclipse.
+The eclipse atlatl has a special attack,Eclipse, costing 50% special attack energy and requiring the full eclipse moon armour set to use. The attack itself is magic-based and performed at melee distance, with a 50% accuracy bonus.
+If the target was inflicted with a burn from the armour's set effect or the special attack fromBurning claws, the special attack will consume the remainder of the burn damage it would have dealt to the target, increasing the player's max hit by that number and their minimum hit by half of that number, capped at 50.
+For example, if the burn effect would have dealt 6 more damage before dissipating, the special attack would increase the player's max hit by 6, and their minimum hit by 3, for that attack.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Lunar Chest | N/A | 1 | 1/224 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Alchemical Hydra/Strategies(Ranged)
+3 | Aviansie/Strategies(Ranged)
+5 | Chambers of Xeric/Strategies(Ranged)
+4 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+3 | Demonic gorilla/Strategies(upgrades and downgrades)
+3 | Fortis Colosseum/Strategies(Ranged)
+3 | Fortis Colosseum/Strategies(Mage)
+3 | Fortis Colosseum/Strategies(Melee)
+2 | Grotesque Guardians/Strategies(Ranged switches)
+2 | Royal Titans/Strategies(Mid-game)
+3 | Royal Titans/Strategies(Minimal gear switching)
+4 | Slayer task/Gargoyles(Ranged)
+3 | Tormented Demon/Strategies(Ranged switch)
+1 | TzHaar Fight Cave/Strategies(Ranged (Atlatl))
+3 | Ultimate Ironman Guide/Equipment

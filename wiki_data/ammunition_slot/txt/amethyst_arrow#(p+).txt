@@ -1,0 +1,101 @@
+[Weapon: Amethyst Arrow#(P+)]
+
+
+Amethyst arrowscan be used with anybowmade withmagiclogs or stronger, such as themagic shortbow(i). They can also be used by thebone shortbow. As with mostarrows, they can bepoisoned.
+They can be crafted with aFletchinglevel of 82 or higher by usingheadless arrowsonamethyst arrowtipsin sets of 15, granting 202.5 Fletchingexperience.
+
+
+[Infobox]
+Released: 22 June2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Arrows with amethyst heads.
+General Store Value: 490 coins
+High alch: 294 coins
+Low alch: 196 coins
+Weight: 0 kg
+Grand Exchange Value: 160 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 12,791,324
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +55
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Abyssal Sire/Strategies(Phase 1 Ranged)
+2 | Abyssal Sire/Strategies(Phase 2 Ranged)
+2 | Araxxor/Strategies(Ranged)
+5 | Artio/Strategies(Ranged)
+3 | Barrows/Strategies(Ranged (Ahrim))
+4 | Callisto/Strategies(Ranged)
+2 | Cerberus/Strategies(Ranged)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Ranged)
+3 | Chaos Elemental/Strategies(Ranged)
+2 | Chaos Fanatic/Strategies(Ranged)
+2 | Commander Zilyana/Strategies(Ranged)
+1 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+1 | Dagannoth Kings/Strategies(Range)
+4 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | Giant Mole/Strategies(Ranged)
+2 | Giant Mole/Strategies(Ranged Void)
+4 | Green dragon/Strategies(Ranged)
+5 | Grotesque Guardians/Strategies(Ranged switches)
+1 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+4 | Kalphite Queen/Strategies(High DPS (Phase Two))
+2 | King Black Dragon/Strategies(Ranged)
+2 | King Black Dragon/Strategies(Ranged BIS smuggle)
+2 | Kree'arra/Strategies(Chinchompas)
+2 | Kree'arra/Strategies(Ranged Tank)
+2 | Kree'arra/Strategies(Tbow / Bowfa)
+1 | The Mimic/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+2 | Phantom Muspah/Strategies(Ranged)
+2 | Phantom Muspah/Strategies(Magic & Ranged)
+3 | Revenants/Strategies(Ranged)
+1 | Royal Titans/Strategies(Mid-game)
+1 | Scurrius/Strategies(Range (high level))
+1 | Scurrius/Strategies(Range (mid level))
+2 | Skotizo/Strategies(Ranged)
+2 | Slayer task/Abyssal demons(Ranged)
+1 | Slayer task/Jellies(Ranged)
+3 | Slayer task/Suqah(Ranged (North))
+1 | Slayer training(Ranged)
+2 | Theatre of Blood/Hard Mode(Range)
+2 | Theatre of Blood/Hard Mode(Melee)
+2 | Theatre of Blood/Hard Mode(Magic)
+1 | Theatre of Blood/Strategies(Entry mode)
+2 | Theatre of Blood/Strategies(Range)
+2 | Theatre of Blood/Strategies(Melee)
+2 | Theatre of Blood/Strategies(Magic)
+1 | Tormented Demon/Strategies(Ranged switch)
+2 | TzHaar Fight Cave/Strategies(Ranged)
+2 | Zulrah/Strategies(Ranged)

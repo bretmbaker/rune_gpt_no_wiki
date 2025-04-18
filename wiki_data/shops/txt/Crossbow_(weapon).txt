@@ -1,0 +1,243 @@
+[Shop: Crossbow_(weapon)]
+
+Crossbow
+
+
+
+
+
+
+
+Ammunition | Bolts
+
+Two handed? | No
+
+
+
+Attack speed
+
+
+
+6 ticks (3.6 seconds)
+
+
+
+Crossbowsareweaponsused inranged combatthat require a certainRangedlevel to wield. They are different thanbowsin that they are horizontal and can be held with one hand (except for theKaril's crossbow), allowing a player to carry ashieldwith the other.
+
+Free-to-playplayers are recommended to stay with bows as the crossbows available to them are weak, whilemembershave very strong crossbows. Crossbows requireammunitionin the form ofbolts.
+
+Most crossbows (including the dragon hunter crossbow) have a normal attack range of 7 and a long distance range of 9. However, there are some exceptions:
+
+The "plain" crossbow has an attack range of 10 regardless of attack style.The Phoenix crossbow has a normal attack range of 5 and a long distance range of 7.
+
+The Dorgeshuun crossbow has a normal attack range of 6 and a long distance range of 8.Karil's crossbow, the hunter's/hunters' sunlight crossbows, Armadyl crossbow, and Zaryte crossbow have a normal attack range of 8 and a long distance range of 10.
+
+Combat styles[edit|edit source]
+
+Combat style | Attack type | Weapon style | Experience | Level boost
+
+ | Accurate | Heavy | Accurate |  | +3 Ranged
+
+ | Rapid | Heavy | Rapid |  | None
+
+ | Longrange | Heavy | Longrange |  | +3 Defence
+
+Free-to-play crossbows[edit|edit source]
+
+Free-to-playhas access to only two crossbows that are both available fromlevel1 Ranged. They have both +6 Ranged accuracy and are only capable of shootingbronze bolts.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Crossbow | 0 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 8 | 
+
+ | Phoenix crossbow | 0 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 3.628 | 
+
+Standard crossbows[edit|edit source]
+
+Metal crossbows can be created through theFletchingskill. Most limbs and stocks can be purchased at thecrossbow shopin the dwarven city ofKeldagrim, or in theDwarven Mine.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze crossbow | 0 | 0 | 0 | 0 | 18 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 4 | 
+
+ | Blurite crossbow | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 4 | 
+
+ | Iron crossbow | 0 | 0 | 0 | 0 | 42 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 4 | 
+
+ | Steel crossbow | 0 | 0 | 0 | 0 | 54 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 5 | 
+
+ | Mithril crossbow | 0 | 0 | 0 | 0 | 66 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 5 | 
+
+ | Adamant crossbow | 0 | 0 | 0 | 0 | 78 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 6 | 
+
+ | Rune crossbow | 0 | 0 | 0 | 0 | 90 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 6 | 
+
+ | Dragon crossbow | 0 | 0 | 0 | 0 | 94 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 6 | 
+
+Ballistae[edit|edit source]
+
+Two-handed crossbows that shootjavelinsinstead of bolts.
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Light ballista | 0 | 0 | 0 | 0 | 110 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 3 | 
+
+ | Heavy ballista | 0 | 0 | 0 | 0 | 125 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 15 | 0 | 6 | 
+
+Other crossbows[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Dorgeshuun crossbow | 0 | 0 | 0 | 0 | 42 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 2.267 | 
+
+ | Hunters' crossbow | 0 | 0 | 0 | 0 | 55 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 5 | 
+
+ | Hunters' sunlight crossbow | 0 | 0 | 0 | 0 | 79 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 6 | 
+
+ | Karil's crossbow | 0 | 0 | 0 | 0 | 84 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 3.628 | 
+
+ | Dragon hunter crossbow | 0 | 0 | 0 | 0 | 95 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 7 | 
+
+ | Armadyl crossbow | 0 | 0 | 0 | 0 | 100 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 1 | 6 | 
+
+ | Zaryte crossbow | 0 | 0 | 0 | 0 | 110 | 14 | 14 | 12 | 15 | 16 | 0 | 0% | 0 | 1 | 6.001 | 
+
+Ammunition table[edit|edit source]
+
+Level | Crossbow | Accuracybonus | Ammo
+
+1 |  | Crossbow | +6 | Bronze bolts
+
+1 |  | Phoenix crossbow | +6 | Bronze bolts
+
+1 |  | Bronze crossbow | +18 | Bronze bolts
+
+16[a] |  | Blurite crossbow | +30 | Up toblurite bolts
+
+26 |  | Iron crossbow | +42 | Up toiron bolts
+
+28 |  | Dorgeshuun crossbow | +42 | Up toiron bolts(exceptsilver)Bone bolts
+
+31 |  | Steel crossbow | +54 | Up tosteel bolts
+
+36 |  | Mithril crossbow | +66 | Up tomithril bolts
+
+46 |  | Adamant crossbow | +78 | Up toadamant bolts
+
+50 |  | Hunters' crossbow | +55 | Kebbit boltsLong kebbit bolts
+
+61 |  | Rune crossbow | +90 | Up torunite bolts
+
+64 |  | Dragon crossbow | +94 | Up todragon bolts
+
+65 |  | Light ballista | +110 | Javelins
+
+66[b] |  | Hunters' sunlight crossbow | +79 | Sunlight antler boltsMoonlight antler bolts
+
+70 |  | Karil's crossbow | +84 | Bolt racks
+
+70 |  | Dragon hunter crossbow | +95 | Up todragon bolts
+
+70 |  | Armadyl crossbow | +100 | Up todragon bolts
+
+75[c] |  | Heavy ballista | +125 | Javelins
+
+80 |  | Zaryte crossbow | +110 | Up todragon bolts
+
+Fletching table[edit|edit source]
+
+Level | Item | Materials | Experience | Total
+
+9 |  | Stock (wood) |  | 6 | 24
+
+ | Bronze (unstrung) |  | 12
+
+ | Bronze (strung) |  | 6
+
+24 |  | Stock (oak) |  | 16 | 64
+
+ | Blurite (unstrung) |  | 32
+
+ | Blurite (strung) |  | 16
+
+39 |  | Stock (willow) |  | 22 | 88
+
+ | Iron (unstrung) |  | 44
+
+ | Iron (strung) |  | 22
+
+46 |  | Stock (teak) |  | 27 | 108
+
+ | Steel (unstrung) |  | 54
+
+ | Steel (strung) |  | 27
+
+54 |  | Stock (maple) |  | 32 | 128
+
+ | Mithril (unstrung) |  | 64
+
+ | Mithril (strung) |  | 32
+
+61 |  | Stock (mahogany) |  | 41 | 164
+
+ | Adamant (unstrung) |  | 82
+
+ | Adamant (strung) |  | 41
+
+69 |  | Stock (yew) |  | 50 | 200
+
+ | Rune (unstrung) |  | 100
+
+ | Rune (strung) |  | 50
+
+78 |  | Stock (magic) |  | 70 | 275
+
+ | Dragon (unstrung) |  | 135
+
+ | Dragon (strung) |  | 70
+
+Changes[edit|edit source]
+
+Date | Changes
+
+24 September2015(update) | It is now possible to boost your fletching level to make crossbows like most other equipment.
+
+v•t•eWeapons
+
+Melee | StabPickaxeHarpoonDaggerSwordHastaSpearPartisanSlashSickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberdCrushBannerBlackjackCanePolestaffMaceMaulWarhammer | Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan | Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd | Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan
+
+Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd
+
+Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Magic | StaffBattlestaffCrozierMystic staffPowered staffBladed staffWand
+
+Ranged | ShortbowLongbowComposite bowCrossbowBallistaThrownDartThrowing knifeThrowing axeChinchompa |  | ShortbowLongbowComposite bowCrossbowBallista | Thrown | DartThrowing knifeThrowing axeChinchompa
+
+ | ShortbowLongbowComposite bowCrossbowBallista
+
+Thrown | DartThrowing knifeThrowing axeChinchompa
+
+Other | DefenderSalamanderShieldFun weapons
+
+v•t•eCrossbows
+
+Metal crossbows | BronzeBluriteIronSteelMithrilAdamantRune(or)Dragon(cr)
+
+Other crossbows | NormalPhoenixDorgeshuunHunters'Hunters' sunlightKaril'sDragon hunter(b) (t)ArmadylZaryte
+
+Unstrung crossbows | BronzeBluriteIronSteelMithrilAdamantRuniteDragon
+
+Crossbow limbs | BronzeBluriteIronSteelMithrilAdamantiteRuniteDragon
+
+Crossbow stock | WoodenOakWillowTeakMapleMahoganyYewMagic

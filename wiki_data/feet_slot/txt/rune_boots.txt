@@ -1,0 +1,106 @@
+[Weapon: Rune Boots]
+
+
+Rune bootsare a pair ofbootsmade ofrunite. They require aDefencelevel of 40 to equip. Players without the required Defence level can choose to wearclimbing bootsinstead, which have the same strength bonus but lower defence bonuses.
+As with allmetal boots, this piece of armourcannotbe made using theSmithingskill.
+
+
+[Infobox]
+Released: 26 January2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: These will protect my feet.
+General Store Value: 12,500 coins
+High alch: 7,500 coins
+Low alch: 5,000 coins
+Weight: 1.36 kg
+Grand Exchange Value: 7,716 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 8,814
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +12
+- Slash: +13
+- Crush: +14
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Greater NechryaelWilderness Slayer Cave | 200 | 1 | 1/112 | 
+Greater NechryaelRegular | 200 | 1 | 1/128 | 
+Nechryael | 115 | 1 | 1/116 | 
+NechryarchNormal | 300 | 1 | 3 × 1/116 | 
+NechryarchGreater | 300 | 1 | 3 × 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+3 | Abyssal Sire/Strategies(Phase 1 Melee)
+5 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+4 | Amoxliatl/Strategies(Melee)
+5 | Ancient Wyvern/Strategies(Prayer)
+4 | Araxxor/Strategies(Melee)
+4 | Barbarian Assault/Strategies(Melee (mid level))
+2 | Barrows/Strategies(Tank & Lower level)
+4 | Budget Cutter
+2 | Calvar'ion/Strategies(Melee)
+5 | Cerberus/Strategies(Melee)
+2 | Chaos Elemental/Strategies(Melee)
+2 | Green dragon/Strategies(Melee)
+4 | Grotesque Guardians/Strategies(Melee)
+5 | K'ril Tsutsaroth/Strategies(Melee Tank)
+4 | K'ril Tsutsaroth/Strategies(Melee)
+5 | King Black Dragon/Strategies(Melee BIS smuggle)
+2 | King Black Dragon/Strategies(4-item melee)
+5 | Moons of Peril/Strategies(Moons of Peril Armour)
+3 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+5 | Nightmare Zone/Strategies(Melee)
+5 | Nightmare Zone/Strategies(Melee (Guthan's))
+5 | Nightmare Zone/Strategies(Melee (Dharok's))
+5 | Nightmare Zone/Strategies(Melee (Prayer))
+2 | Revenants/Strategies(Melee)
+4 | Sarachnis/Strategies(Melee)
+5 | Sarachnis/Strategies(Melee tank)
+3 | Scurrius/Strategies(Melee (mid level))
+4 | Scurrius/Strategies(Melee (high level))
+4 | Skotizo/Strategies(Melee)
+5 | Slayer task/Fossil Island wyverns(Prayer)
+4 | Slayer task/Gargoyles(Melee)
+4 | Slayer task/Jellies(Melee)
+4 | Slayer task/Suqah(Melee (South))
+4 | Slayer task/Trolls(Melee (Mountain trolls))
+4 | Slayer task/Trolls(Melee (Ice trolls))
+4 | Slayer training(Melee)
+3 | Spindel/Strategies(Melee)
+4 | The Hueycoatl/Strategies(Melee)
+5 | TzHaar Fight Cave/Strategies(Melee)
+5 | Vardorvis/Strategies(Melee)
+3 | Venenatis/Strategies(Melee)
+2 | Vet'ion/Strategies(Melee)
+4 | Vyrewatch Sentinel/Strategies(DPS)

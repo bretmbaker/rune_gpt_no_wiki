@@ -1,0 +1,87 @@
+Name: Giant Mole
+Combat Level: 230
+Size: 3x3
+Info:
+- Description: Holy Mole-y!
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 215 xp
+- Category: Bosses
+
+Immunities:
+- Poison: Not immune
+- Venom: Converts to poison
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 5779
+- Link: MOID
+
+Location:
+- Area: Falador Mole Lair (Under the park)
+- Members Only: No
+
+Money Making:
+- The following money making guides are available for Giant Mole:
+
+Notable Drops:
+- Mithril battleaxe (1/128)
+- Rune med helm (1/128)
+- Fire rune (11/128)
+- Oyster pearls (1/128)
+- Nothing (1/34.41; Never[d 1])
+- Coins (1/195.05)
+- Loop half of key (1/189.14; 1/176.08[d 2])
+- Tooth half of key (1/189.14; 1/176.08[d 2])
+- Uncut sapphire (1/77.28; 1/39.25[d 2])
+- Runite bar (1/819.2)
+- Nature rune (1/1,365.33)
+- Rune 2h sword (1/1,365.33)
+- Rune battleaxe (1/1,365.33)
+- Uncut emerald (1/154.57; 1/78.49[d 2])
+- Law rune (1/2,048)
+- Death rune (1/2,048)
+- Steel arrow (1/2,048)
+- Rune arrow (1/2,048)
+- Adamant javelin (1/2,048)
+- Rune sq shield (1/2,048)
+- Dragonstone (1/2,048)
+- Silver ore (1/2,048)
+- Uncut ruby (1/309.13; 1/156.98[d 2])
+- Rune kiteshield (1/4,096)
+- Dragon med helm (1/4,096)
+- Rune spear (1/3,934.62; 1/420.56[d 2][d 3])
+- Shield left half (1/7,869.24; 1/841.11[d 2][d 3])
+- Nature talisman (1/824.35; 1/418.62[d 2])
+- Dragon spear (1/10,492.32; 1/1,121.48[d 2][d 3])
+- Uncut diamond (1/1,236.53; 1/627.92[d 2])
+- Rune javelin (1/2,473.06; 1/1,255.85[d 2])
+- Brimstone key (1/74[d 1])
+- Long bone (1/400)
+- Clue scroll (elite) (1/500[d 2])
+- Baby mole (1/3,000[4])
+- Curved bone (1/5,012.5)
+
+Combat Achievements:
+- Giant Mole Novice: Kill the Giant Mole 10 times. (Easy (1 pt))
+- Giant Mole Champion: Kill the Giant mole 25 times. (Medium (2 pts))
+- Avoiding Those Little Arms: Kill the Giant Mole without her damaging anyone. (Medium (2 pts))
+- Why Are You Running?: Kill the Giant Mole without her burrowing more than 2 times. (Hard (3 pts))
+- Whack-a-Mole: Kill the Giant Mole within 10 seconds of her resurfacing. (Hard (3 pts))
+- Hard Hitter: Kill the Giant Mole with 4 or fewer instances of damage. (Elite (4 pts))
+
+[Combat stats]
+Hitpoints: 200
+Attack: 200
+Strength: 200
+Defence: 200
+Magic: 200
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

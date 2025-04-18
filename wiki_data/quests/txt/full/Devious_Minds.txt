@@ -1,0 +1,123 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Devious Minds (#95)
+
+
+
+
+
+Released | 19 December 2005 ( Update )
+
+Members | Yes
+
+Quest series | Mahjarrat , #11
+
+Lead developer(s) | Graham B
+
+
+
+Devious Minds is a quest involving a plot against the clergy of Entrana . The quest connects to the Temple Knight storyline and the Mahjarrat storyline.
+
+Details [ edit | edit source ]
+
+Start point | Talk to the monk outside Paterdomus , next to the River Salve . Show on map
+
+Official difficulty | Experienced
+
+Official length | Short
+
+Description | No-one likes to miss a good ceremony, least of all a poor lowly monk who needs your assistance! Will you be able to aid him and make his dreams come true?
+
+Requirements | 65 Smithing ( boostable ) ( not required to start ) 50 Runecraft ( not boostable ) 50 Fletching ( boostable ) Completion of the following quests: Wanted! Recruitment Drive Black Knights' Fortress Druidic Ritual The Lost Tribe Goblin Diplomacy Rune Mysteries Priest in Peril Troll Stronghold Death Plateau Doric's Quest Enter the Abyss
+
+Items required | A mithril 2h sword A bow string A non-degraded large or colossal pouch (You will lose all 3 items!) unless a colossal pouch is used.
+
+Recommended | 30 Combat level Falador teleports Lumberyard teleports ,  a Digsite pendant , a Salve graveyard teleport (tablet) , or a Dramen / Lunar staff An amulet of glory or Paddewwa teleports
+
+Enemies to defeat | Abyssal creatures level 41+ (if not using Guardians of the Rift to obtain a large pouch)
+
+Ironman concerns | The player visits Entrana for a portion of the quest. Plan ahead as the Large Pouch with the orb in it is lost on death. Warning: The quest involves travelling via the Abyss located in level 4-7 Wilderness , with a chance of getting killed by other players.
+
+League notes | Asgarnia ✓ — location requirement Morytania ✓ — location requirement Wilderness ✓ — location requirement Only possible to manually complete if the random locations in the prerequisite quest Wanted! are in the 3 required regions of Asgarnia ✓ , Morytania ✓ and Wilderness ✓ Unlocking Desert ✓ will auto-complete the quest Unlocking Fremennik ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+The monk [ edit | edit source ]
+
+Items required: None.
+
+You start this quest by speaking to the monk just outside the Paterdomus Temple (this is the temple you encountered during Priest in Peril ), the temple on the River Salve . It is east of Varrock and can be reached by walking north-east from the Digsite teleport , or east of the ruins of the Earth Altar or the Lumberyard teleport . Or it can be reached by walking west from Morytania ; the closest fairy ring is C K S .
+
+The monk requires a new, stronger weapon for a certain group of warriors, in order to secure more victories. He wants you to make a bow-sword .
+
+A strange weapon [ edit | edit source ]
+
+Items required: A mithril 2h sword and a bow string .
+
+To make this bow-sword, take a mithril 2h sword to Doric 's house, just north of Falador , and use it on the whetstone inside to make a slender blade , then attach a bow string to it to make the bow-sword .
+
+It is possible to use temporary boosts ( dwarven stout , dwarven stout (m) , Kovac's grog , or spicy stew ) to reach the required Smithing level of 65.
+
+When you've made the bow-sword, make your way back to the monk. You can use the balloon transport system to fly from Taverley back to the Earth Altar by using a set of willow logs , if you have already unlocked the Varrock destination.
+
+A gift for Entrana [ edit | edit source ]
+
+Items required: The bow-sword and a large / colossal pouch .
+
+Give the bow-sword to the Monk and he will be grateful for it; although he needs one more favour. A special ceremony is to be held on the island of Entrana , though unfortunately the monk cannot attend it and he wants to give them a special present to mark the occasion.
+
+He gives you an orb to deliver to the church in Entrana . But for the surprise to work, you must sneak into the church and not be seen entering the island. He advises using the realm of the Abyss to get to the Law Altar on Entrana ; he also wants you to keep the orb in a vessel from the realm to avoid it from being damaged. To do this, hide the orb in a large pouch - thus creating an illuminated large pouch . A colossal pouch can also be used, but will not be destroyed like a large pouch.
+
+Large pouches can be obtained as rewards from the Rewards Guardian at Guardians of the Rift or as drops from abyssal leeches , guardians and walkers found within the Abyss or the Abyssal Area . In addition, the pouch is only dropped if you have all the pouches below it. You do not need to have the Runecraft level (50) in order for it to be dropped, but it is required to use it.
+
+As usual, no other weapons or armour are allowed on Entrana , so bank them before entering the Abyss. The Abyss is accessible only through a teleport from the Mage of Zamorak , who is located in the Wilderness at the point where the River Lum goes underground, just north of Edgeville . Enter the Abyss to reach the Law Altar, and through it, Entrana.
+
+If your pouch is degraded, you will be denied access into Entrana with the orb in it. Contact the dark mage , either by the NPC Contact spell or directly in the Abyss to get it repaired.
+
+Surprise! [ edit | edit source ]
+
+Items required: The large pouch (Devious Minds)
+
+On Entrana , head to the church at the heart of the island and use your large pouch on the altar. A cutscene ensues, wherein the monks are walking towards the altar to begin the ceremony, one of them holding a mysterious relic , when suddenly an Assassin wielding the bow-sword teleports in, swiftly kills the monks and steals the relic! It turns out that the orb you delivered was in fact a teleportation item using ancient magic, which allowed the assassin to sneak into the holy island, unhindered.
+
+After the cutscene, talk to the High Priest , who'll forgive for it not being your fault and tells you to return to the monk at Paterdomus to investigate.
+
+On arriving back at the Paterdomus Temple , you see the monk you helped is gone, replaced by a Dead Monk . Searching the body reveals that he has been killed by powerful magic, and is not the same person you spoke to earlier.
+
+Go back to Entrana and speak with the High Priest again (you can travel via Port Sarim this time if you wish). Upon hearing about the strange events, he asks you to contact Sir Tiffy Cashien at the Falador park. Locate Sir Tiffy sitting on a bench in Falador Park and tell him about the incident; he too seems puzzled, and promises to investigate with his Temple Knights resources.
+
+Rewards [ edit | edit source ]
+
+1 Quest point 5,000 Fletching experience 5,000 Runecraft experience 6,500 Smithing experience
+
+Required for completing [ edit | edit source ]
+
+Completion of Devious Minds is required for the following:
+
+Secrets of the North
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+4 May 2017 ( update ) | Fixed the capitalisation of 'Runecrafting' in the Devious Minds quest journal list of requirements.
+
+Trivia [ edit | edit source ]
+
+After delivering the bow-sword , the monk will ask the player for one more small favour. They may respond thinking this is familiar, which likely is in reference to the One Small Favour quest. (although, this dialogue occurs whether or not said quest is complete) According to Mod Mat K's 2016 data session, Devious Minds was the quest least often completed by players as of 2016. In 2009, Mod Mark stated that Devious Minds had the shortest development time of any quest released since RuneScape Classic . [1] The developer of this quest was cajoled by Mod Mark to make it, and left before being able to create the sequel, which is why it ended up as an unresolved cliffhanger before the release of Secrets of the North . [2] The name Devious Minds probably originates from DeviousMUD (Devious Multi-User Dungeon), a game created in 1998 by Andrew Gower that eventually evolved into the current-day game of RuneScape.
+
+References [ edit | edit source ]
+
+v • t • e Devious Minds
+
+NPCs | Monk Doric High Priest Assassin Dead Monk Sir Tiffy Cashien
+
+Items | Slender blade Bow-sword Orb Large pouch Colossal pouch Relic
+
+Locations | Paterdomus Temple Doric's hut Entrana
+
+Related | Quick guide Transcript

@@ -1,0 +1,2 @@
+Item: Count Check (random event)
+Summary: Count Check is a vampyre who appears as a random event. The Count appears near players and asks them about their account's security settings. If players are using a Jagex Account and have a Bank PIN set, he will give player a lamp which grants 10 times experience of the current level in a skill of choice. Count Check is one of three events which will follow players into banks and will not despawn at banks, alongside Dr Jekyll and the Genie.

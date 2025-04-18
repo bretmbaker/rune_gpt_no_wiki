@@ -1,0 +1,254 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+The Fremennik Isles (#119)
+
+
+
+
+
+Released | 6 February 2007 ( Update )
+
+Members | Yes
+
+Quest series | Fremennik , #2
+
+Lead developer(s) | Chihiro Y, Ben W, Douglas H
+
+
+
+The Fremennik Isles is a quest about the two Fremennik islands Jatizso and Neitiznot , who are under the threat of invading ice trolls but also have a feud with each other.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Mord Gunnars at the northernmost dock of Rellekka . Show on map
+
+Official difficulty | Experienced
+
+Official length | Medium
+
+Description | Sibling rivalry can get messy - more so when the siblings are Fremennik princes with a point to prove. The islands of Jatizso and Neitiznot were set up by two brothers who hated each other, and they have been at loggerheads ever since. But now there is a new threat from trolls in the north...
+Can you prove your loyalty to both brothers and save the islanders from a fate as troll food? Your skills as a Fremennik warrior, a bridge builder and... a jester will be tested on the islands.
+
+Requirements | Completion of The Fremennik Trials 20 Construction ( boostable ) ( not required to start ) [1] The ability to kill a level 122 Troll King (Damage can be reduced) and, separately, 10 rock throwing ice trolls in a multicombat area .
+
+Items required | A raw tuna (obtainable during quest, with 35 fishing or bought from the shop) Either 8 tin ores , 7 pieces of coal , or 6 mithril ores (depends on your Mining level; level 1 will require tin ore, 2-54 will require coal, and 55-99 require mithril ore). Note: The ores can be noted. 9 ropes (obtainable during quest with 30 Crafting ) If the Neitiznot shield is already purchased, only 8 ropes are required. A knife 8 split logs (obtainable during the quest with 56 Woodcutting and an axe) a Neitiznot shield (or 56 Woodcutting, a hammer and a bronze nail ) Yak-hide armour top and legs (or 46 Crafting, a needle and two thread ) 5000 coins (optional) Silly jester costume (obtainable during quest)
+
+Recommended | 50 Combat level 40 Agility ( boostable ) to optionally go to the Central Fremennik Isles mine 43 for Protect from Melee A Catspeak amulet for amusing dialogue during the initial conversation with Jatizso's king Food / armour at all times (in case you get attacked by trolls on the northern island) Prayer potions - as there is no altar close by Good combat equipment to kill 10 low- Defence , high- Attack monsters, and one level 122 A melee weapon and decent melee stats - as the Ice Troll King has very high Ranged and Magic Defence An emergency teleport
+
+Enemies to defeat | 10 Ice Trolls (level 74-82) Ice Troll King (level 122)
+
+Ironman concerns | 56 Woodcutting Required to make a Neitiznot shield with a hammer and one bronze nail 46 Crafting Required to make yak-hide armour with a needle and a thread An axe The player will need to hand 17 items in at once.
+
+League notes | Unlocking Fremennik ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Before you begin, it's worthwhile to know a few things beforehand: the final boss is a relatively simple fight in which you are given more than enough supplies to defeat, including two prayer potions , and several strength potions . You will likely only use one prayer potion killing the 10 trolls before the fight. It is recommended you bring and have a Neitiznot shield equipped before you begin and at all times to lower the max hit of Ranged trolls from 6 to 2, as repairing one of the bridges can be dangerous, and running to the eastern side of the northern-most island can be fatal without this. The quest is also relatively short if you gather all the items beforehand, and you'll likely only need 5-6 good food prior to the boss.
+
+Area overview [ edit | edit source ]
+
+The Fremennik Isles are a collection of islands interconnected by bridges. The map below shows the islands and their interconnections. There are two major villages on the islands: Neitiznot and Jatizso .
+
+The teleport locations show the landing docks that can be reached from the most northern dock in Rellekka using the appropriate ferry operator.
+
+The numbers on the map represent the following locations relevant during the quest:
+
+The court of King Gjuki Sorvott IV . The court of King Mawnis Burowgar . A bridge that needs repairs. Another bridge that needs repairs. Entrance to the Ice Troll Caves for the final battle.
+
+Do not go to the northern islands without food , or you may die.
+
+Both villages have a bank that can be used.
+
+At any time during the quest, it is possible to travel around all islands.
+
+King Gjuki Sorvott IV [ edit | edit source ]
+
+To start the quest, talk to Mord Gunnars at the most northern dock in Rellekka to be taken to Jatizso .
+
+Talk to King Gjuki Sorvott IV in the checkered floor room. His cat will intervene. The king asks you to get the cat a raw tuna .
+
+Give the tuna to the king's cat, and talk to the king.
+
+Give the king the ores you are assigned (8 tin if 1, 7 pieces of coal if 2-54, 6 mithril if 55+). If needed, these ores can be mined at the cave below the village. It is accessible by exiting the west gate and going north-east. Enter the dungeon, and mine the ores. Coal can also be bought from Hring Hring . The king's reward for the ores consists of some coins .
+
+Take all 4 pieces of Jester clothes from the chest behind the king's throne.
+
+Travel back to Rellekka by talking to Mord Gunners on the dock to the south, and then travel to Neitiznot by talking to Mord's wife, Maria , who stands next to where you land.
+
+Burgher Mawnis Burowgar [ edit | edit source ]
+
+Put on all four pieces of the jester costume, unequip anything in your weapon and shield slots and talk to Slug Hemligssen , behind the bank, and say, "Free stuff please."
+
+If you have a follower out while attempting to do the Jester's Performance, you will be prompted to put your cat away regardless of the pet you have out
+
+Talk to Mawnis Burowgar in the building just south of the bank while wearing the jester costume and entertain him—do everything he says using the jester control panel shown in the picture. Keep an eye on the guards exchange:
+
+Back to Slug, and answer his questions. The answers are:
+
+2 days 17 militia 2 bridges
+
+Head back to Mawnis Burowgar, without the jester costume this time.
+
+Bridge repairs [ edit | edit source ]
+
+Bring Mawnis Burowgar eight ropes . If you are missing ropes, go kill some yaks and take the hair drop to the spinning wheel in the village. You will keep the ropes and receive 1,000 coins .
+
+He will then ask you to get eight split logs . If you have 56 Woodcutting, go and cut eight arctic pine logs and split them on the woodcutting stump in the middle of the village. (If you do not have the Woodcutting level, you may buy the split logs from other players and still continue with the quest.) Bring them to Mawnis and receive another 1,500 coins.
+
+Speak to the guard Thakkrad Sigmundson , and you will be able to repair the bridges.
+
+Get a knife , eight split logs , and eight ropes from the bank (or buy the knife from the general supply NPC in the bank ). Travel over the first set of bridges to get to the broken ones further north to repair the bridges (right-click). You will have to travel past trolls to get there, some of which can use Ranged . Each bridge only needs one repair, and level 20 Construction.
+
+Note : If you wish to be safe, turn on Protect from Missiles before repairing the eastern bridge. Prayers cannot be activated during the repair. All damage dealt to you will be applied at once after repairing the bridge, and can easily kill you at lower levels.
+
+Go back to talk to the king ( Mawnis Burowgar ) again; he'll pay another 1,500 coins for repairing the bridges. Now, the request is to investigate the troll caves , but first, you need to make sure that the other king does not take the raid on the trolls in the wrong way.
+
+Tax collector [ edit | edit source ]
+
+Use the boat to go back to Rellekka , and use Mord 's ferry service to return to King Gjuki Sorvott IV on Jatizso .
+
+King Gjuki Sorvott IV requires a tax collector for his new window tax, which needs to pay for the expenses of the army.
+
+Collect taxes from the following people:
+
+Hring Hring or Raum Urda-Stein at the armourer's hut (8,000 coins ) Skuli Myrka at the weaponsmith hut (6,000 coins ) Flosi Dalksson or Keepa Kettilon at the fish shop/ general store (5,000 coins ) Vanligga Gastfrihet at the eating hall (5,000 coins ) (Offer to pay her taxes for her; this provides the capability to trade in black market yak goods after the quest.)
+
+Note: You can speak to Magnus Gram (banker) about taxes, in which he'll politely make you change your mind about taxing him.
+
+Go back to King Sorvott, who now requires a tax collector for the newly invented "facial hair tax."
+
+Now, collect from:
+
+Raum Urda-Stein (armour trader) Hring Hring (ore trader, in the same building as Raum ) Skuli Myrka (weapon trader at the anvil north of Raum ) Flosi Dalksson (raw fish seller in the general store) Keepa Kettilon (cooked fish seller in the general store)
+
+Note: You can speak to Eric , who has no money and will throw a cabbage at you.
+
+The tax bag now contains 29,000 coins. The same taxpayer options apply as in the previous tax collection round. Return to the king.
+
+The taxes are finally enough. Now, the king requires more spying assistance. So, it's time to return to Slug the spymaster in Neitiznot .
+
+Note: If you do not have a Neitiznot shield already and don't have a bronze nail in your bank, buy one copper and one tin ore from Hring Hring to make a bronze bar at the clay forge in Neitiznot (or use Superheat Item ). When returning to Jatizso later in quest, use the anvil to make some bronze nails.
+
+The jester part 2 [ edit | edit source ]
+
+Return to Slug once more, only to get an assignment as jester again.
+
+A rough capture of the guards exchange:
+
+Now, return to Slug and bring out a report. The answers are:
+
+Etceteria Some potions I have been helping
+
+Slug is pleased with the answers and pays another 2,500 coins. Then, he suggests to visit King Gjuki Sorvott IV and give an update on the spying progress.
+
+Traditional Fremennik rites [ edit | edit source ]
+
+ | The Fremennik Kings
+
+The music which plays when the player berates King Gjuki Sorvott IV.
+
+
+
+King Gjuki Sorvott IV gets an update that he is not prepared for, but he won't listen to sound advice.
+
+Note: You will need 1 free slot to receive the decree, in order to continue the quest, in this next dialogue with the king.
+
+He will give you a Royal decree that you need to deliver to Mawnis Burowgar .
+
+Hop islands again to talk to Mawnis, who is obviously disappointed in learning the decree from King Sorvott. As leader of his troops, go through the ancient Neitiznot warrior rites.
+
+First, Thakkrad Sigmundson will tell you to make yak-hide armour . Get three yak-hides , and have them cured by Thakkrad for a fee of 5 coins per hide. Take a needle and thread from bank or the nearby shop, and craft the cured yak-hides into a yak-hide body (2 hides) and into yak-hide chaps (1 hide). Thakkrad states that the armour is ideal for protection from the trolls ' granite clubs, however the armour does not have any such effect.
+
+Talk to King Burowgar again to learn how to make a large Fremennik round shield, the Neitiznot shield . This shield is ideal for protection from stones that are thrown by the trolls, reducing their max hit from 6 to 2.
+
+Making the shield requires two arctic pine logs , one bronze nail , a hammer , and a rope . Make the shield on the Woodcutting stump located east of bank. Make sure to have a hammer in the inventory.
+
+Return to King Burowgar one more time, and he will make you the champion of Neitiznot and give you the assignment to kill the Ice Troll King and deliver his head.
+
+The troll king [ edit | edit source ]
+
+ | This fight takes place in an instance . On death , all unprotected items will be moved to a grave outside the instance. Any items left on the ground will be lost.
+
+Go to the bank to stock up for battle. Take a melee weapon and armour, the Neitiznot shield , and plenty of good food. Prayer potions should not be required as you will be able to obtain some for free in the cave. An emergency teleport and a ring of life are also useful.
+
+When ready, equip the Neitiznot shield and cross the eastern rope bridge, run north-east and cross the next rope bridge, then due north until you reach the sea, then straight east to the north-eastern cave . There is an unmarked dead-end entrance half way, do not try to go in, keep going.)
+
+There are no trolls in the area directly outside the cave, so you can use this opportunity to rest and heal up.
+
+ | King of the Trolls
+
+The music which plays upon entering the Ice Troll Caves.
+
+
+
+After entering the cave, a cutscene follows. You will have to kill 10 frenzied ice trolls (of any kind) in a somewhat chaotic multicombat area , with help from the Fremennik Honour guards , before you can cross the bridge to the south to assault the Ice Troll King , which you fight one-on-one. The frenzied ice troll females (the ones with blonde hair) use ranged attacks that hit fast and accurately, but the Neitiznot shield reduces their max hit to only 2. The troll males , grunts and runts use Melee and have max hits of 17, 21 and 15 respectively.
+
+First, talk to Bork Sigmundson near the cave entrance - he will give you nine to ten tunas , two to four 4-dose strength potions , and two to four 3-dose prayer potions a single time each upon request. If there is not enough inventory space, then the player gets enough to fill their inventory and does not get any more. Players can make only one request for each supply. A good strategy would be to fight trolls until you've mostly used up your own food, then talk to Bork to resupply with tuna.
+
+It is strongly recommended to position yourself at the edges of the battle, since going into the densest concentration of trolls can result in the player being attacked by 5 or more trolls at once and becoming overwhelmed. The safest strategy would be to use Protect from Melee whenever attacked by melee trolls as these do the greatest damage, and pick off trolls one by one. You can also target trolls that have been reduced to low health by the Fremenniks. If you don't have access to Protect from Melee, try to exclusively fight female trolls and avoid the males. Keep an eye on the trolls around you at all times so you don't get surrounded.
+
+Once 10 trolls have been killed a message will appear in the chatbox stating that the bridge to the Ice Troll King can be used. Leaving the cave will not revoke your access to the Ice Troll King, so restock on supplies if you need to.
+
+When crossing the bridge, a short cut scene shows the Troll King moving towards you. He will land the first strike, so turn on the Protect from Magic prayer ( not Protect from Melee ) before crossing bridge or while the cut scene is playing, and top up prayer if needed.
+
+The Troll King has a Combat level of 122 and uses a powerful mix of attacks (Melee, Ranged, Magic and teleport); turn on Protect from Magic and you won't get hit much. Using a Neitiznot shield as well will leave melee as his only effective attack, decreasing damage significantly. Do not use Protect from Melee against the troll king for he will use a strong knockback attack for as long as you have it activated or if you run out of prayer, making you unable to attack him. Bring high healing food and a few doses of prayer potion. It is possible to kill him with Ranged or Magic, however it will be slow, only do this if you cannot use Melee effectively.
+
+After killing the Troll King, decapitate the head from the body. (You do not need any particular weapon/ knife for this step, you simply pull it off). If you die with the troll king head in your inventory, you do not need to kill the king again; just return to the spot to find the troll king with a new head for you to take.
+
+Do not take the east bridge after defeating the Troll King if you are low level. It is full of powerful trolls with no Fremennik NPCs to soak up hits.
+
+Teleport away, or return the way you came. Return to Neitiznot to talk to Burowgar. He will give his helm of neitiznot in return for the Troll King's head . After taking two choices for a 10,000 experience reward to any one of Attack , Strength , Defence , or Hitpoints (you may choose the same skill twice), the quest is complete.
+
+Rewards [ edit | edit source ]
+
+1 Quest point 5,000 Construction experience 5,000 Crafting experience 10,000 Woodcutting experience Two lots of 10,000 Combat experience (choose between Strength , Attack , Defence or Hitpoints ). A Fremennik royal helm known as the helm of Neitiznot , which is the equivalent of a berserker helm with a +3 Prayer bonus , slightly better Magic and crush Defence , and no negative bonuses. If a player loses the helm, they can talk to Mawnis Burowgar to buy another one for 50,000 coins . Access to arctic pine trees. Access to an island with a runite rock north-east of Neitiznot , which also has seven (7) coal rocks nearby. Access to the Jatizso mine , which contains up to adamantite rocks . Around 20,000 coins in assorted rewards during quest. The banks in Neitiznot and Jatizso are close to water , range , furnace , fishing spots , mining ores ; a spinning wheel is also nearby. If the jester outfit is lost, a player can retrieve another one from the chest behind King Gjuki Sorvott IV 's throne. Learn the ability to create yak-hide armour and Neitiznot shields . The Contraband Yak Produce shop is available on Jatizso if a player refunds the 5,000 coin tax to Vanligga Gastfrihet , who is north of the king.
+
+Unlocks:
+
+Ice Troll King accessible in the Nightmare Zone .
+
+Required for completing [ edit | edit source ]
+
+Completion of The Fremennik Isles is required for the following:
+
+The Fremennik Exiles Hard Fremennik diary (partial completion required) Elite Fremennik diary (partial completion required)
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Music [ edit | edit source ]
+
+The Fremennik Kings Island of the Trolls Jester Minute King of the Trolls Major Miner Norse Code Ogre the Top Volcanic Vikings
+
+Trivia [ edit | edit source ]
+
+If you attempt to tax the tramp Eric , he will throw a cabbage at you. The cabbage is added to your inventory. The taxes that King Gjuki Sorvott IV imposes are based on some real historical taxes. The window tax was also a British glass tax during 1696-1851. The beard tax of 1698 is the best known of a series of measures enacted by Tsar Peter the Great to transform and regulate the appearance of his subjects. The exchange with Slug regarding your codename is a reference to the film Reservoir Dogs . The choice of password to give to Slug , Colorless green ideas sleep furiously , is a reference to a sentence devised by linguist Noam Chomsky. The password "free stuff please" used to talk with Slug Hemligssen is a phrase commonly used by players who beg for items. The watchtowers between the two islands have a special cutscene when spoken to, in which they are yelling insults to each other which are quotes from Monty Python and the Holy Grail , such as "Your mother was a hamster. ... And your father smelled of elderberries." Same insult was also used in Eagles' Peak quest. If a catspeak amulet is worn, or the player has completed Dragon Slayer II , the player is able to understand what HRH Hrafn is saying during an early cutscene. If you already have enough ores in your bank when tasked with acquiring them early in the quest, you will have a unique exchange with Thorkel Silkbeard . Speaking to Mawnis Burowgar with at least 8 ropes in your inventory, before he tells you that you need to get ropes to repair the bridges will result in a humorous conversation in which he accuses you of being a witch while you defend that you are a ropes salesperson. When the quest was first released, one of the NPCs used the word damn , which was originally a censored word when used by players. It was later changed to blasted . The names of the two villages sound similar to "yeah, it is so," and "no, it is not," which reflects their history of disagreement. If the player tries to tax the banker teller, the bank teller will tell the player that he will start taxing him/her 10gp per transaction, plus back taxes. They come to an agreement not to tax him and the bank teller states he won't implement his taxes. If you tell Mord Gunnars in the beginning of the quest that you're "too busy to help the king", he actually says "bye" in-game (overhead). During the quest, King Gjuki Sorvott IV claims that Mawnis Burowgar is only attacking the trolls so that he can take the glory for killing the Troll King, and says that he will send his troops to the northwestern cave to beat him to it. However, the Neitiznot militia is attacking the northeastern cave. If the player goes to the northwestern cave during the quest, they will get the message "Just inside the cave mouth lays the body of one of Jatizso's guards. Maybe I should enter the caves to the east, so I can find Neitiznot's militia."
+
+v • t • e The Fremennik Isles
+
+NPCs | Mord Gunnars Maria Gunnars Jatizso King Gjuki Sorvott IV Thorkel Silkbeard HRH Hrafn Vanligga Gastfrihet Flosi Dalksson Hring Hring Keepa Kettilon Raum Urda-Stein Skuli Myrka Bork Sigmundson Neitiznot Mawnis Burowgar Fridleif Shieldson Kjedelig Uppsen Trogen Konungarde Slug Hemligssen Thakkrad Sigmundson Honour guard Enemies Ice Troll King |  | Mord Gunnars Maria Gunnars | Jatizso | King Gjuki Sorvott IV Thorkel Silkbeard HRH Hrafn Vanligga Gastfrihet Flosi Dalksson Hring Hring Keepa Kettilon Raum Urda-Stein Skuli Myrka Bork Sigmundson | Neitiznot | Mawnis Burowgar Fridleif Shieldson Kjedelig Uppsen Trogen Konungarde Slug Hemligssen Thakkrad Sigmundson Honour guard | Enemies | Ice Troll King
+
+ | Mord Gunnars Maria Gunnars
+
+Jatizso | King Gjuki Sorvott IV Thorkel Silkbeard HRH Hrafn Vanligga Gastfrihet Flosi Dalksson Hring Hring Keepa Kettilon Raum Urda-Stein Skuli Myrka Bork Sigmundson
+
+Neitiznot | Mawnis Burowgar Fridleif Shieldson Kjedelig Uppsen Trogen Konungarde Slug Hemligssen Thakkrad Sigmundson Honour guard
+
+Enemies | Ice Troll King
+
+Items | Hair Split log Arctic pine logs Royal decree Yak-hide Cured yak-hide Yak-hide body Yak-hide legs Neitiznot shield Decapitated head Helm of neitiznot Silly jester costume Hat Top Tights Boots Tax bag Empty Light Normal Hefty Bulging Unobtainable A jester stick Apricot cream pie Documents |  | Hair Split log Arctic pine logs Royal decree Yak-hide Cured yak-hide Yak-hide body Yak-hide legs Neitiznot shield Decapitated head Helm of neitiznot | Silly jester costume | Hat Top Tights Boots | Tax bag | Empty Light Normal Hefty Bulging | Unobtainable | A jester stick Apricot cream pie Documents
+
+ | Hair Split log Arctic pine logs Royal decree Yak-hide Cured yak-hide Yak-hide body Yak-hide legs Neitiznot shield Decapitated head Helm of neitiznot
+
+Silly jester costume | Hat Top Tights Boots
+
+Tax bag | Empty Light Normal Hefty Bulging
+
+Unobtainable | A jester stick Apricot cream pie Documents
+
+Locations | Jatizso Jatizso mine Neitiznot Rellekka Ice Troll Caves
+
+Music | The Fremennik Kings Island of the Trolls Jester Minute King of the Trolls Major Miner Norse Code Ogre the Top Volcanic Vikings
+
+Related | Quick guide Transcript Contraband Yak Produce

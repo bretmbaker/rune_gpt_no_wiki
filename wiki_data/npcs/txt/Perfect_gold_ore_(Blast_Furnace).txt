@@ -1,0 +1,2 @@
+Item: Perfect gold ore (Blast Furnace)
+Summary: Perfect gold ore is an entity seen at the Blast Furnace. It appears on the conveyor belt when a player deposits some 'perfect' gold ore, before being dropped into the furnace.

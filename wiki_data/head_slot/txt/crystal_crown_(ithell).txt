@@ -1,0 +1,45 @@
+[Weapon: Crystal Crown (Ithell)]
+
+
+Thecrystal crownis a purely cosmetic crown purchasable from theLliann's WaresinPrifddinas's Ithell district for 250,000,000 coins. The crown is untradeable, and it cannot be alchemised or sold back toLliann's shop.
+It should be noted that Lliann's Wares initially carries three crowns in stock. Each crown in stock is set to resupply after as muchgame ticksas for how much it costs (250 million), which can take several years. However, like all other shops, the stock refreshes back to three crowns after server restarts, such as maintenance orgame updates. Due to the highly vague amount of players wishing to buy crystal crowns, the restock time should not be a concern.
+
+
+[Infobox]
+Released: 25 July2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A crown fit for the most wealthy of elves.
+General Store Value: 250,000,000 coins
+Alchemy: Not alchemisable
+Weight: 0.3 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

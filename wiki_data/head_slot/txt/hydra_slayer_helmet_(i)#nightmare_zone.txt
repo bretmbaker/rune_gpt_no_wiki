@@ -1,0 +1,47 @@
+[Weapon: Hydra Slayer Helmet (I)#Nightmare Zone]
+
+
+Thehydra Slayer helmet (i)is a piece of equipment that is worn in the helmet slot. It is a cosmetic upgrade to theSlayer helmet (i).
+It can be created by addingAlchemical hydra headsafter purchasing the abilityUse more headfor 1,000Slayer reward pointsfrom anySlayer master. This is reversible, and the heads will be returned to the inventory along with the slayer helmet's components. The heads will be lost on death in PvP.
+
+
+[Infobox]
+Released: 7 February2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check, Disassemble, Drop
+Worn options: Check, Partner, Log
+Examine: You really don't want to wear it inside-out.
+General Store Value: 90,000 coins
+High alch: 54,000 coins
+Low alch: 36,000 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +3
+
+Defence Bonuses:
+- Stab: +30
+- Slash: +32
+- Crush: +27
+- Magic: +10
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

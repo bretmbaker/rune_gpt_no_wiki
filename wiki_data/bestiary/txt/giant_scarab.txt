@@ -1,0 +1,54 @@
+Name: Giant Scarab
+Combat Level: 191
+Size: 3x3
+Info:
+- Description: A huge scarab.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 137 xp
+- Category: Scabarites
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 797,798,6343
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 130
+Attack: 169
+Strength: 190
+Defence: 169
+Magic: 1
+Ranged: 190
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 70
+Slash: 99
+Crush: 99
+
+[Magic defence]
+Magic: 159
+Elemental weakness: 50% weakness
+
+[Ranged defence]
+Light: 149
+Standard: 149
+Heavy: 149

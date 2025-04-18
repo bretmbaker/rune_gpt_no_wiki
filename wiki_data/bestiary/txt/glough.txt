@@ -1,0 +1,39 @@
+Name: Glough
+Combat Level: 431
+Size: 2x2
+Info:
+- Description: A gnome consumed by his own wrath.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Thralls: Not immune
+- Monster ID: 7101,7102,7103
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+- Glough Speed-Trialist: Kill Glough in less than 2 minutes and 30 seconds. (Elite (4 pts))
+
+[Combat stats]
+Hitpoints: 575
+Attack: 260
+Strength: 270
+Defence: 248
+Magic: 250
+Ranged: 262
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

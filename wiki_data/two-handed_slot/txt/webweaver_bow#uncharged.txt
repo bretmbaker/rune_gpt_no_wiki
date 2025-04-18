@@ -1,0 +1,83 @@
+[Weapon: Webweaver Bow#Uncharged]
+
+
+Thewebweaver bowis an upgraded variant ofCraw's bow, requiring level 70 inRangedto wield. It is created by combining Craw's bow with theFangs of Venenatis. This process requires level 85Fletching. Players without the required level to combine the items may askDerse VenatorinFerox Enclaveto do so instead, for a fee of500,000. The item counts as anArmadyleanitem in theGod Wars Dungeon.
+The bow is identical in function toCraw's bow, but with increased stats and aspecial attack.
+
+
+[Infobox]
+Released: 25 January2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Dismantle, Drop
+Examine: A bow of a follower of Armadyl, corrupted by the power of Venenatis.
+General Store Value: 175,000 coins
+High alch: 105,000 coins
+Low alch: 70,000 coins
+Weight: 3.175 kg
+Grand Exchange Value: 17,771,906 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 1,459
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +85
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +65
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 4 ticks (2.4s) | 9 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 3 ticks (1.8s) | 9 tiles |  | None
+ | Longrange | Standard | Longrange | 4 ticks (2.4s) | 10 tiles |  | +3 Defence
+
+
+[Passive Effect]
+When attacking anyNPCin theWilderness, an additional 50% ranged accuracy and damage boost is applied. This effect will stack multiplicatively with aSlayer helmet (i)or aSalve amulet(i)and their variants, but not both simultaneously. This makes it the strongest ranged weapon in the Wilderness, surpassing the damage output of atoxic blowpipewithdragon darts.
+
+
+[Special Attack]
+A player performing the Webweaver bow's special attack,Swarm.
+The webweaver bow has aspecial attack,Swarm, which consumes 50% of the player's special attack energy. The special attack hits an enemy four times in succession with doubled accuracy, each dealing up to 40%, rounded up, of the player's max hit.[1]
+Each hit also has a chance to inflictpoison, starting at four damage.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Abyssal Sire/Strategies(Phase 1 Ranged)
+1 | Artio/Strategies(Ranged)
+1 | Callisto/Strategies(Ranged)
+1 | Chaos Elemental/Strategies(Ranged)
+1 | Chaos Fanatic/Strategies(Ranged)
+1 | Fight Caves Speed-Runner(Ranged)
+1 | Green dragon/Strategies(Ranged)
+1 | Krystilia/Strategies(Ranged)
+1 | Lava dragon/Strategies(Ranged)
+1 | Revenants/Strategies(Ranged)
+1 | Slayer training(Ranged (Wilderness))
+1 | Spindel/Strategies(Ranged)
+1 | Venenatis/Strategies(Ranged)

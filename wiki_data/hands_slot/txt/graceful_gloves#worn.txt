@@ -1,0 +1,61 @@
+[Weapon: Graceful Gloves#Worn]
+
+
+Thegraceful glovesare part of thegraceful outfit, costing 30marks of gracefromGracein theRogues' Den. When worn, they reduceweightby 3 kg and increase therun energyrestoration rate by 3%; this is increased to 30% when the full outfit is worn.
+This item can be stored in themagic wardrobeof acostume room.
+
+
+[Infobox]
+Released: 5 December2013(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A sign of your grace.
+General Store Value: 30 coins
+High alch: 18 coins
+Low alch: 12 coins
+Weight: 0.1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyss/Strategies(Graceful)
+4 | Abyss/Strategies(Defence)
+1 | Blast mine/Strategies
+1 | Fishing Trawler/Strategies
+1 | Guardians of the Rift/Strategies(Runecrafting)
+1 | Hallowed Sepulchre/Strategies(Agility)
+1 | Sorceress's Garden
+2 | Sulliuscep/Strategies
+1 | Volcanic Mine(Solo)
+2 | Wintertodt/Strategies(Solo)
+2 | Zalcano/Strategies(Mining)

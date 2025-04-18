@@ -1,0 +1,51 @@
+[Weapon: Decorative Shield (White)]
+
+
+Thedecorative shield (white)can be bought in theCastle Warsarea south of theObservatoryfor 60Castle wars tickets. They can only be bought fromLanthus. The white decorative shield offers the same stats as amithril kiteshield, and requires level 20Defenceto wear.
+This item can be stored in thearmour caseof acostume room, as part of theCastle Wars armour (2)set.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 7 March2005(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A very decorative shield.
+General Store Value: 2,210 coins
+High alch: 1,326 coins
+Low alch: 884 coins
+Weight: 4.535 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -8
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +18
+- Slash: +22
+- Crush: +20
+- Magic: -1
+- Ranged: +20
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Free-to-play Ironman guide(Meleegear)

@@ -1,0 +1,109 @@
+ | This quest has an in-depth guide . It contains a more detailed description of dialogue, cutscenes, and storyline.
+
+Details [ edit | edit source ]
+
+Start point | Talk to Edmond , who can be found at his home in East Ardougne, north of the Flying Horse Inn . Show on map
+
+Official difficulty | Grandmaster
+
+Official length | Very Long
+
+Description | Our story begins with you, the hero, answering the call to adventure when Edmond, a resident of Ardougne, asks for your aid. By rescuing his daughter Elena from Plague City, the quarantined West Ardougne, you begin to unravel the mystery surrounding the disease. With her help, you discover the plague is a hoax - a plot by King Lathas to section off the West Ardougne. By confronting him, you find out this was done to protect the rest of Gielinor from the threat in the elven lands. The king sends you on a mission to travel through the Underground Pass and help his ally, Lord Iorwerth, in eradicating his brother King Tyras who threatens to revive the mysterious Dark Lord. After an arduous journey through the pass, you meet with Iorwerth and his forces to end Tyras' evil once and for all. Upon your return to Lathas you are intercepted by Arianwyn, a rebel elf who opposes Lord Iorwerth. He informs you of Lathas and Iorwerth's deception. They manipulated you into removing their final opposition and were now free to bring the Dark Lord back to Gielinor for their own intentions. You work with the elven rebellion to discover the purpose of the plague was to disguise the digsite of the long lost Temple of Light. An ancient place that is key to bringing back the Dark Lord. To make amends for your past mistakes and put a halt in King Lathas' and Lord Iorwerth's plans, you solve the intricate light puzzle designed to protect the Death Altar within the temple. After sealing off the temple and preventing the return of the Dark Lord, it's now time to turn your attention to King Lathas and Lord Iorwerth to end their schemes once and for all in Song of the Elves.
+
+Requirements | Completion of the following quests: Mourning's End Part II Mourning's End Part I Big Chompy Bird Hunting Sheep Herder Roving Elves Waterfall Quest Regicide Underground Pass Biohazard Plague City Making History Priest in Peril The Restless Ghost Druidic Ritual 70 Agility ( not boostable ) ( required to start ) 70 Construction ( not boostable ) ( required to start ) 70 Farming ( not boostable ) ( required to start ) 70 Herblore ( not boostable ) ( required to start ) 70 Hunter ( not boostable ) ( required to start ) 70 Mining ( not boostable ) ( required to start ) 70 Smithing ( not boostable ) ( required to start ) 70 Woodcutting ( not boostable ) ( required to start )
+
+Items required | Steel full helm Steel platebody Steel platelegs Red dye Purple dye Mourner gear including gas mask ( plague jacket and trousers do not work) Silk Runite bar Limestone brick x 8 Tinderbox Rope Nature rune Flowers from mithril seeds or adamant seeds , or an irit leaf Adamant chainbody (consumed during the quest) Wine of zamorak OR Zamorak brew(4) Cabbage (obtainable during the quest) Black knife OR black dagger Cadantine seed Seed dibber (or partial completion of the Farming portion of the Barbarian Training miniquest ) Vial of water Pestle and mortar Hammer Saw Pickaxe Axe Spade
+
+Recommended | 95 Combat level 80+ Magic for the Fragment of Seren . 40 Prayer to be able to use Protect from Missiles at boss fight. Completion of Desert Treasure I for Ancient Magicks . High healing food, such as monkfish or sharks . West Ardougne Teleport Games necklace for teleportation to Baxtorian Falls . Weight-reducing clothing and energy restoration items such as stamina potion . Charged teleport crystals to skip large amounts of walking. 3x Iorwerth camp teleport or equivalent method. Zul-Andra teleport
+
+Enemies to defeat | 21 Mourners (level 24, 51 and 106) Paladin (level 49 and 118) Knight of Ardougne (level 27 and 53) Several Iorwerth Archers and Warriors (level 90 and 108) Arianwyn (level 212) Essyllt (level 236) Fragment of Seren (level 494)
+
+League notes | Unlocking Tirannwn ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+The escape of Elena [ edit | edit source ]
+
+Items required: Steel full helm , Steel platebody , Steel platelegs , Red dye , Purple dye , Silk . Recommended: Stamina potion, West Ardougne Teleport .
+
+Causing an insurrection [ edit | edit source ]
+
+Items required: Ardougne knight helm , Ardougne knight platebody , Steel platelegs or Ardougne knight platelegs , Mourner gear , Tinderbox .
+
+Causing an insurrection [ edit | edit source ]
+
+Recommended: Food, potions, and combat equipment. Protect from Melee can be used to negate all damage during this section.
+
+Arianwyn's plan [ edit | edit source ]
+
+Visiting Baxtorian Falls [ edit | edit source ]
+
+Items required: Rope , Flowers or Irit leaf , Cabbage , Wine of zamorak or Zamorak brew , Nature rune , Adamant chainbody , Black knife or Black dagger . Recommended: Teleport crystal , Games Necklace.
+
+Preparing to enter Prifddinas [ edit | edit source ]
+
+Items required: Cadantine seed , Seed dibber , Hammer , Runite bar , Pickaxe , Pestle and mortar , Vial of water , Recommended: Antipoison , Teleport crystal (only if searching for Lord Amlodd before Lady Trahaearn)
+
+The Grand Library of Prifddinas [ edit | edit source ]
+
+Note: It is recommended to charge your teleport crystals now if you're running low, since the area becomes instanced later on and you cannot do this until much later.
+
+Talk to Lord Ieuan Amlodd to be transported into the Grand Library. ( 1 ) …
+
+If you log out inside, you will be kicked out but your progress will be saved.
+
+Finding Lord Crwys and Lady Hefin [ edit | edit source ]
+
+Items needed : An axe
+
+Items recommended : Iorwerth camp teleport , teleport crystal , weight-reducing clothing .
+
+Recovering the orb [ edit | edit source ]
+
+Items recommended : Iorwerth camp teleport , teleport crystal , combat gear, food, potions.
+
+Tracking down Ysgawyn [ edit | edit source ]
+
+Items recommended : Iorwerth camp teleport , teleport crystal , combat gear, food, potions (drink 1 dose of antidote++ before leaving Lletya to save inventory space).
+
+The attack on Lletya [ edit | edit source ]
+
+Finding Lady Ithell and Lady Meilyr [ edit | edit source ]
+
+Sealing the Underground Pass [ edit | edit source ]
+
+Required items: Combat gear, food, Super restores or Restore potions . A teleport to a bank to gear up for the final battle, You also need 1 inventory space to hold the 'Explosive Potions' .
+
+Fighting the Dark Lord [ edit | edit source ]
+
+Rewards [ edit | edit source ]
+
+4 Quest points 40,000 Agility experience 40,000 Construction experience 40,000 Farming experience 40,000 Herblore experience 40,000 Hunter experience 40,000 Mining experience 40,000 Smithing experience 40,000 Woodcutting experience Access to Prifddinas Ability to fight Zalcano Access to The Gauntlet Access to Trahaearn Mine Access to Iorwerth Dungeon Ability to change respawn point to Prifddinas Ability to move Player-owned house to Prifddinas Ability to teleport to Prifddinas with a teleport crystal Access to a new spirit tree destination in Prifddinas Ability to make divine potions Ability to make crystal tools, armour and weaponry
+
+Unlocks:
+
+Arianwyn (as Elven Traitor ) and Essyllt accessible in the Nightmare Zone .
+
+v • t • e Song of the Elves
+
+NPCs | Edmond Alrena Elena Ted Rehnison Martha Rehnison Councillor Halgrive Carla Jethick Kilron Omart Nurse Sarah Priest (West Ardougne) Town Crier Doctor Orbon Priest (East Ardougne) Resistance Fighter Gnome Executioner Arianwyn Rebel Archer Ysgawyn Eluned Ilfeen Islwyn Elven Scout Memory of Seren Iestin Edern Rebel Scout Rebel Warrior Mawrth Eoin Iona General Hining Tyras guard Niloof Klank Kamen Thorgel Hidden clan leaders Lord Baxtorian Cadarn Lord Ieuan Amlodd Lady Tangwen Trahaearn Lord Piquan Crwys Lady Kelyn Ithell Lady Carys Hefin Lady Ffion Meilyr Enemies King Lathas Mourner Knight of Ardougne Paladin Hooded Figure Lord Iorwerth Essyllt Morvran Iorwerth Warrior Iorwerth Archer Fragment of Seren Business owners Chadwell Aemad Kortan Probita Estate agent Zenesha Spice seller Silk merchant Silver merchant Fur trader Gem merchant Baker Richard Bartender |  | Edmond Alrena Elena Ted Rehnison Martha Rehnison Councillor Halgrive Carla Jethick Kilron Omart Nurse Sarah Priest (West Ardougne) Town Crier Doctor Orbon Priest (East Ardougne) Resistance Fighter Gnome Executioner Arianwyn Rebel Archer Ysgawyn Eluned Ilfeen Islwyn Elven Scout Memory of Seren Iestin Edern Rebel Scout Rebel Warrior Mawrth Eoin Iona General Hining Tyras guard Niloof Klank Kamen Thorgel | Hidden clan leaders | Lord Baxtorian Cadarn Lord Ieuan Amlodd Lady Tangwen Trahaearn Lord Piquan Crwys Lady Kelyn Ithell Lady Carys Hefin Lady Ffion Meilyr | Enemies | King Lathas Mourner Knight of Ardougne Paladin Hooded Figure Lord Iorwerth Essyllt Morvran Iorwerth Warrior Iorwerth Archer Fragment of Seren | Business owners | Chadwell Aemad Kortan Probita Estate agent Zenesha Spice seller Silk merchant Silver merchant Fur trader Gem merchant Baker Richard Bartender
+
+ | Edmond Alrena Elena Ted Rehnison Martha Rehnison Councillor Halgrive Carla Jethick Kilron Omart Nurse Sarah Priest (West Ardougne) Town Crier Doctor Orbon Priest (East Ardougne) Resistance Fighter Gnome Executioner Arianwyn Rebel Archer Ysgawyn Eluned Ilfeen Islwyn Elven Scout Memory of Seren Iestin Edern Rebel Scout Rebel Warrior Mawrth Eoin Iona General Hining Tyras guard Niloof Klank Kamen Thorgel
+
+Hidden clan leaders | Lord Baxtorian Cadarn Lord Ieuan Amlodd Lady Tangwen Trahaearn Lord Piquan Crwys Lady Kelyn Ithell Lady Carys Hefin Lady Ffion Meilyr
+
+Enemies | King Lathas Mourner Knight of Ardougne Paladin Hooded Figure Lord Iorwerth Essyllt Morvran Iorwerth Warrior Iorwerth Archer Fragment of Seren
+
+Business owners | Chadwell Aemad Kortan Probita Estate agent Zenesha Spice seller Silk merchant Silver merchant Fur trader Gem merchant Baker Richard Bartender
+
+Items | Ardougne knight helm Ardougne knight platebody Ardougne knight tabard Ardougne knight platelegs Clear liquid Blue liquid Green powder Red powder Ode to eternity Crystal seed Crystal Elder cadantine Elder cadantine potion (unf) Crystal dust Inversion potion Orb of light Explosive potion Light puzzle Colour wheel Hand mirror Red crystal Fractured crystal Green crystal Cyan crystal Yellow crystal Blue crystal Magenta crystal Unobtainable Black crystal Green crystal |  | Ardougne knight helm Ardougne knight platebody Ardougne knight tabard Ardougne knight platelegs Clear liquid Blue liquid Green powder Red powder Ode to eternity Crystal seed Crystal Elder cadantine Elder cadantine potion (unf) Crystal dust Inversion potion Orb of light Explosive potion | Light puzzle | Colour wheel Hand mirror Red crystal Fractured crystal Green crystal Cyan crystal Yellow crystal Blue crystal Magenta crystal | Unobtainable | Black crystal Green crystal
+
+ | Ardougne knight helm Ardougne knight platebody Ardougne knight tabard Ardougne knight platelegs Clear liquid Blue liquid Green powder Red powder Ode to eternity Crystal seed Crystal Elder cadantine Elder cadantine potion (unf) Crystal dust Inversion potion Orb of light Explosive potion
+
+Light puzzle | Colour wheel Hand mirror Red crystal Fractured crystal Green crystal Cyan crystal Yellow crystal Blue crystal Magenta crystal
+
+Unobtainable | Black crystal Green crystal
+
+Music | The Fires of Lletya The Fragment No Pasaran Song of the Elves Stand Up and Be Counted
+
+Related | Quick guide Transcript Soundtrack Ceidwad The Rehnison household Statue Space Fragment of Seren (Defeated)

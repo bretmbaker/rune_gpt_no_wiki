@@ -1,0 +1,13 @@
+[Page: Tree]
+
+Treesare the most commonsceneryfound almost everywhere aroundGielinor, and can be chopped down to providelogsand 25Woodcuttingexperience.
+There are two main varieties of regular trees inGielinor: a double canopy tree with round leaves, and a single canopy with a pointy tip. The single canopy variety can be used with aknifeto fill abucket of sapfrom an emptybucket. The trees can also be distinguished by their examine text and the icon that appears on the minimap, with the double canopy tree showing a round tree icon () and the single canopy variety showing a pointy-tipped icon ().
+Many other variants of trees also provide regular logs and have the same mechanics as regular trees. These include a number of variants all called "tree", such as those found inTirannwn,Prifddinas, theIsle of Souls,Great Kourend, andShayzien. There are also cosmetic variants that areyoung,crystalline, andsnow covered. Other trees that form the regular tree category includedying trees,dead trees,evergreens, andjungle trees.
+Drop rates estimated based on 153,894 samples from theDrop Rate Project, unless otherwise cited.
+Trees are extremely common in almost every part ofGielinor. Some more popular spots to cut regular trees are near the bank inDraynor Village, as well as in the areas surrounding theGrand ExchangeandVarrock West Bank. OnKaramja, inMorytania, theKharidian Desertand several tropical islands, regular trees are less common or even rare. Most trees on Karamja cannot be cut down. TheWildernessalso lacks trees beyond level 10, wheredead treesare found instead.
+The regular tree category includes trees that give regular logs when cut down. Trees in this category are always felled after one log has been cut.
+The tree respawns between 36–60 seconds, randomly, and is not influenced by world population.[1]The chance to successfully chop is affected by theaxeused and Woodcutting level, better axes and a higher woodcutting level increases the likelihood of successfully receiving a log.Kandarin headgear 1and above gives double logs when cutting any normal tree.
+Shadows on normal trees were removed.
+Cutting normal trees (and other activities) onMiscellanianow grant the full 25 experience. Previously this activity would yield 0.1woodcuttingexperience. This does not appear to apply toMahogany treesorTeak treesonEtceteria.
+Normal trees now give doublelogswhen chopped down (no additional experience) while wearingKandarin headgear 1.
+The scenery was graphically updated with the release of Farming.

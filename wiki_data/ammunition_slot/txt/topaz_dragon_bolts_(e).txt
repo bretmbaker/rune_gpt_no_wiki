@@ -1,0 +1,49 @@
+[Weapon: Topaz Dragon Bolts (E)]
+
+
+Topaz dragon bolts (e)aretopaz dragon boltsenchanted with theEnchant Crossbow Bolt (Red Topaz)spell, requiring 29Magic, 1cosmic runeand 2fire runes. These bolts can only be used with aDragon crossbowor better.
+Enchanted topaz dragon bolts have a 4.0% chance to trigger theDown to Eartheffect, lowering the target'sMagiclevel by 1, itonlyworks on other players.
+
+
+[Infobox]
+Released: 4 January2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Enchanted Dragon crossbow bolts, tipped with red topaz.
+General Store Value: 730 coins
+High alch: 438 coins
+Low alch: 292 coins
+Weight: 0 kg
+Grand Exchange Value: 1,229 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 17,080
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +122
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

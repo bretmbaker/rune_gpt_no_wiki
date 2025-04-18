@@ -1,0 +1,76 @@
+[Weapon: Voidwaker]
+
+
+TheVoidwakeris a melee weapon that requires level 75Attackto wield. It is acquired by havingMadam Sikaroin theFerox Enclave Dungeonreassemble theVoidwaker blade,hilt, andgemfor a fee of500,000 coins, which are obtained as rare drops fromVet'ion,Callisto, andVenenatisrespectively (or their lesser counterparts).
+The Voidwaker has aspecial attack,Disrupt, which consumes 50% of the player's special attack energy. The special attack dealsguaranteedMagic damage between 50-150% of the wielder's maximum melee hit. The special attack will provide Magic experience with the same formula aspowered staves.
+
+
+[Infobox]
+Released: 25 January2023(Update)
+Also called: VW,Korasi
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A truly fearsome weapon.
+General Store Value: 2,000,000 coins
+High alch: 1,200,000 coins
+Low alch: 800,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 71,262,859 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 1,861
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +70
+- Slash: +80
+- Crush: -2
+- Magic: +5
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +2
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +80
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing the Voidwaker's special attack,Disrupt.
+The Voidwaker has aspecial attack,Disrupt, which consumes 50% of the player's special attack energy. The special attack dealsguaranteedMagic damage between 50-150% of the wielder's maximum melee hit. The special attack will provide Magic experience with the same formula aspowered staves.
+The special attack is particularly useful due to its guaranteed medium to high damage. InPvP, it can be used for a consistent finishing blow and it pairs well with other high-damage special attack weapons such as theArmadylorancient godsword,dragon clawsorgranite mauldue to its special attack cost. InPvM, it excels against opponents with high Defence and low-medium Hitpoints, such asKalphite Queen,God Wars Dungeonbosses andPhosani's Nightmare, where dragon claws or other weapons would deal less damage on average and Defence reduction is less effective.
+As it deals Magic damage, it is less effective against opponents with a Magic damage resistance, such as players usingProtect from MagicorGreat Olm's melee claw. Conversely, it deals full damage against theCorporeal Beast. In theTheatre of Blood, in the fight againstNylocas Vasilias, this special attack only deals damage against the magic (blue) form.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Chambers of Xeric/Strategies(Crystals)
+4 | Lizardman shaman/Strategies(Melee)
+4 | Mithril dragon/Strategies(Melee)
+4 | Moons of Peril/Strategies(Eclipse Moon)
+4 | Tombs of Amascut/Strategies(Melee switch)
+3 | Tombs of Amascut/Strategies(Core (Phase 2))
+3 | Ultimate Ironman Guide/Equipment

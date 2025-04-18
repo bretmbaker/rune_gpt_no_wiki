@@ -1,0 +1,7 @@
+Item: Araxyte head
+Summary: The araxyte head is a rare drop from Araxytes, as well as Araxxor. It can be combined with a slayer helmet or slayer helmet (i) to create an araxyte slayer helmet or araxyte slayer helmet (i), respectively. Doing so requires purchasing the ability Eye see you for 1,000 Slayer reward points.
+Sources:
+- Araxxor (Level 890, Quantity: 1, Rarity: 1/250)
+- Araxyte Level 146 (Level 146, Quantity: 1, Rarity: 1/2,000)
+- Araxyte Level 96 (Level 96, Quantity: 1, Rarity: 1/2,000)
+- Dreadborn Araxyte (Level 281, Quantity: 1, Rarity: 3 × 1/2,000)

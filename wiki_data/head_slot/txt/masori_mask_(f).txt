@@ -1,0 +1,107 @@
+[Weapon: Masori Mask (F)]
+
+
+Thefortified Masori maskis an upgraded variant of theMasori mask. It is created by combining a Masori mask with oneArmadylean plate. This process requires level 90Crafting, and is not reversible.
+Part of theMasori armourset, the fortified mask requires level 80RangedandDefenceto equip, and boasts increased defence bonuses and a +1prayer bonusin comparison to the standard variant.
+
+
+[Infobox]
+Released: 24 August2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A fortified mask once worn by a powerful ranger.
+General Store Value: 900,000 coins
+High alch: 540,000 coins
+Low alch: 360,000 coins
+Weight: 1.5 kg
+Grand Exchange Value: 19,753,476 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 657
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -1
+- Ranged: +12
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +10
+- Crush: +12
+- Magic: +12
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +2
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Adamant dragon/Strategies(Ranged)
+3 | Ancient Wyvern/Strategies(Ranged)
+3 | Aviansie/Strategies(Ranged)
+2 | Barbarian Assault/Strategies(Ranged (high level))
+1 | Basilisk Knight/Strategies(Ranged)
+1 | Brutal black dragon/Strategies(Ranged)
+1 | Chambers of Xeric/Challenge Mode(Ranged)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Ranged)
+1 | Chambers of Xeric/Strategies(Ranged)
+1 | Chompy bird hunting/Strategy
+1 | Commander Zilyana/Strategies(Ranged)
+1 | Corporeal Beast/Strategies(Ranged masses)
+2 | Dagannoth Kings/Strategies(Range)
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | Drake/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(High efficiency)
+1 | Fortis Colosseum/Strategies(Ranged)
+1 | Galvek Speed-Trialist(Melee)
+2 | General Graardor/Strategies(Solo (Ranged 6:0))
+3 | General Graardor/Strategies(Ranged Tank)
+3 | General Graardor/Strategies(Ranged Attacker)
+1 | Giant Mole/Strategies(Ranged)
+3 | Inferno/Strategies(Learners)
+2 | K'ril Tsutsaroth/Strategies(Ranged)
+2 | Kalphite Queen/Strategies(High DPS (Phase Two))
+1 | King Black Dragon/Strategies(Ranged BIS smuggle)
+4 | Kree'arra/Strategies(Ranged Tank)
+2 | Kree'arra/Strategies(Tbow / Bowfa)
+1 | The Leviathan/Strategies(Ranged)
+2 | Maniacal monkey/Strategies(Ranged)
+2 | Metal dragons/Strategies(Ranged)
+1 | The Mimic/Strategies(Ranged)
+2 | Mithril dragon/Strategies(Ranged)
+1 | Nex/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+1 | Phantom Muspah/Strategies(Ranged)
+1 | Phantom Muspah/Strategies(Magic & Ranged)
+2 | Royal Titans/Strategies(Best-in-slot)
+2 | Rune dragon/Strategies(Ranged)
+1 | Scurrius/Strategies(Range (high level))
+1 | Skeletal Wyvern/Strategies(Ranged)
+1 | Skeleton (Ape Atoll)(Ranged)
+1 | Skotizo/Strategies(Ranged)
+2 | Slayer task/Abyssal demons(Ranged)
+3 | Slayer task/Fossil Island wyverns(Ranged)
+2 | Slayer task/Gargoyles(Ranged)
+2 | Slayer task/Suqah(Ranged (North))
+2 | Slayer task/Wyrms(Ranged)
+1 | Tombs of Amascut/Strategies(Ranged switch)
+2 | Tormented Demon/Strategies(Ranged switch)
+2 | TzHaar Fight Cave/Strategies(Ranged)
+1 | Ultimate Ironman Guide/Equipment
+1 | Vorkath/Strategies(Ranged (crossbow))
+1 | Zulrah/Strategies(Ranged)

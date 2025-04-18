@@ -1,0 +1,85 @@
+[Weapon: Steel Sword]
+
+
+Thesteel swordis a low-levelweaponmade ofsteel, stronger than theiron sword. It can be purchased from theVarrock Swordshop, or made at level 34Smithingusing 1steel bar, granting 37.5 experience. It requires 5Attackto wield.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A razor sharp sword.
+General Store Value: 325 coins
+High alch: 195 coins
+Low alch: 130 coins
+Weight: 1.814 kg
+Respawn time: 1000 ticks (600 seconds)
+Grand Exchange Value: 77 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 1,977
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +11
+- Slash: +8
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +2
+- Crush: +1
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +12
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Bronze Chest (black) | N/A | 1 | 4/98.64;4/95.56 | 
+Bronze Chest (brown) | N/A | 1 | 4/98.59;4/95.51 | 
+Bronze Chest (crimson) | N/A | 1 | 4/98.62;4/95.53 | 
+Bronze Chest (purple) | N/A | 1 | 4/98.67;4/95.59 | 
+Bronze Chest (red) | N/A | 1 | 4/98.56;4/95.48 | 
+Cyclops (Catacombs of Kourend) | 56; 76 | 1 | 2/100 | 
+Cyclops (God Wars Dungeon) | 81 | 1 | 2/100 | 
+CyclopsWarriors' Guild Rooftop | 56; 76 | 1 | 2/100 | 
+Elaborate lockbox | N/A | 1 | 22/2,625 | 
+Giant skeleton (Shadow Dungeon) | 80 | 1 | 4/128 | 
+Ice giantRegular | 53 | 1 | 4/128 | 
+Paladin | 62 | 1 | 2/128 | 
+Rusty swordPOH repair | 1 | 1 | 6/100 | 
+Rusty swordTindel Marchant | N/A | 1 | 6/100 | 
+Simple lockbox | N/A | 1 | 22/10,850 | 
+Sir Carl | 62 | 1 | 2/128 | 
+Sir Harry | 62 | 1 | 2/128 | 
+Sir Jerro | 62 | 1 | 2/128 | 
+Skeleton fremennik | 40; 50; 60 | 1 | 4/128 | 
+Spiritual warrior | 115–158 | 1 | 7/127 | 
+White KnightLevel 39 | 39 | 1 | 2/128 | 
+White KnightLevel 42 | 42 | 1 | 2/128 | 
+White KnightLevel 36 | 36 | 1 | 1/128 | 
+White KnightLevel 38 | 38 | 1 | 1/128 | 

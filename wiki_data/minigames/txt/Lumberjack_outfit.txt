@@ -1,0 +1,54 @@
+[Minigame: Lumberjack_outfit]
+
+Thelumberjack outfitis anexperience-boosting clothing setthat grants additional experience when worn whilstWoodcutting. Equipping any piece of the outfit requires 44(not boostable)Woodcutting.
+
+Each piece equipped increases Woodcutting experience by 0.2–0.8% depending on the piece; wearing the complete set grants an additional set bonus of 0.5%, resulting in a total of 2.5% for the entire set. This stacks with the bonus 10% experience when cuttingmaplesfrom theKandarin Diarymedium reward, as well as the bonus 10% experience when using afelling axewithForester's rationsin the player'sForestry kit. Pieces of theForestry outfitwill act as lumberjack pieces to obtain the set bonus.
+
+The entire lumberjack outfit can be stored in thearmour caseof thecostume roomof aplayer-owned house.
+
+Obtaining[edit|edit source]
+
+Forestry Shop[edit|edit source]
+
+The Lumberjack outfit pieces can be purchased from theForestry Shop. Each piece costs a certain amount ofanima-infused barkandnotedlogs:
+
+Item | XP Bonus | Anima-infused Bark | Logs (Forestry Shop)
+
+Lumberjack hat | 0.4% | 1200 | 200 yew logs, 100 magic logs
+
+Lumberjack top | 0.8% | 1500 | 60 yew logs, 120 magic logs, 120 redwood logs
+
+Lumberjack legs | 0.6% | 1300 | 160 yew logs, 140 magic logs
+
+Lumberjack boots | 0.2% | 1000 | 100 maple logs, 200 yew logs
+
+Sub-total | 2% | 5000 | 100 maple logs, 620 yew logs, 360 magic logs, 120 redwood logs
+
+Set bonus | 0.5% |  | 
+
+Full set | 2.5% |  | 
+
+The set costs 5,000 Anima-infused bark, 100 maple logs, 620 yew logs, 360 magic logs, and 120 redwood logs in total.
+
+Using the formula XP Bonus / # of Anima-infused bark, the most efficient order is: Top (0.0005333), Legs (0.0004615), Hat (0.0003333), then Boots (0.0002).
+
+This method is considerably slower than simply obtaining the pieces from Temple Trekking.
+
+Temple Trekking[edit|edit source]
+
+The quickest way to obtain the lumberjack outfit's pieces is from theTemple Trekkingminigame. In one of the minigame's randomized events, the player is tasked with repairing a bridge and must killundead lumberjacksto obtainplanks. The undead lumberjacks in this event all have a 25% chance to drop a piece of the lumberjack outfit, with a limit of one piece of the outfit per event.
+
+As long as the bridge is not fully rebuilt and the dropped planks are not picked up, lumberjacks will continue to spawn and the player can continue to kill them until they receive a piece of the outfit. Players can also repair and cross the bridge, then cross back to cause more lumberjacks to spawn.
+
+It should be noted that there is a similar Temple Trekking random event involving repairing a bridge, but with trees on the map. The undead lumberjacks that spawn in this eventdo notdrop pieces of the lumberjack outfit. The simplest way to differentiate between the two bridge events is that the event that CAN drop clothing will have 0 trees; the event thatcannotdrop clothing will have trees.
+
+The fastest way to obtain the lumberjack outfit is to take any person through Route One. This lets the player skip past most combat events by taking theevade-eventpath. Themageby the River Salve orDalcianinBurgh de Rottare good choices. If a longer non-combat event is encountered, simply teleport out of the minigame and start a new round. The closest teleports toBurgh de Rottare theMorytania legs 3and4, and the closest teleports to the River Salve starting point are theslayer ring,Kharyrll Teleport,Salve Graveyard Teleport(ortablet), and theCKSfairy ring.
+
+Treasure Trails[edit|edit source]
+
+Wearing the full lumberjack outfit whilst chopping aredwood logis required to complete amaster clue scrollskill challenge assigned bySherlock.
+
+Gallery[edit|edit source]
+
+The lumberjack outfit on body type A.The lumberjack outfit on body type B.
+

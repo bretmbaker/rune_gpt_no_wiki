@@ -1,0 +1,40 @@
+Name: Kalrag
+Combat Level: 89
+Size: 3x3
+Info:
+- Description: A giant spider.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Monster ID: 8993
+- Link: MOID
+
+Location:
+- Area: Underground Pass (beneath Iban's lair)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 78
+Attack: 78
+Strength: 78
+Defence: 78
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

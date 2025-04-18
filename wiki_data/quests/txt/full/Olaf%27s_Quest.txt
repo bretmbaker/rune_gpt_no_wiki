@@ -1,0 +1,135 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Olaf's Quest (#123)
+
+
+
+
+
+Released | 10 April 2007 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Anthony W
+
+
+
+Olaf's Quest is a quest about the unfortunate Fremennik Olaf Hradson , whose boat has crashed, rendering him unable to find his grandfather's treasure. You must help him find it and make sure his family does not find out about his failure.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Olaf Hradson by the isthmus leading to the Rellekka Hunter area . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | Poor Olaf Hradson. He has to live up to such expectations. His ancestors sailed all over the world, and now he has to go out and prove himself their equal. If only he could read a map... If only he could sail... If only he hadn't crashed! Can you help a depressed and soggy Fremennik regain his pride, and possibly the lost treasure of his grandfather?
+
+Requirements | Completion of The Fremennik Trials 40 Firemaking ( boostable ) 50 Woodcutting ( boostable ) The ability to defeat a level 100 monster
+
+Items required | Any woodcutting axe Tinderbox Spade 6 Ropes (can be obtained during the quest) 4 free inventory slots (10 if not bringing your own ropes)
+
+Recommended | 50+ Combat level 50+ Agility is an advantage (57+ for Rellekka east fence shortcut) Combat equipment (using Crumble Undead and/or a salve amulet (i) is useful here as all enemies are undead ) Food and prayer potions Summer pies or agility potions Stamina or energy potions Fast travel to Olaf ( Fairy Rings to D K S , Enchanted Lyre , Fremennik sea boots , House teleport if your house is in Rellekka, or Slayer Ring to Fremennik Slayer Dungeon)
+
+Enemies to defeat | Skeleton fremennik (level 40) Ulfric (level 100) ( safespottable )
+
+League notes | Unlocking Fremennik ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Family honour [ edit | edit source ]
+
+Talk to Olaf Hradson , who is north-east of Rellekka by the entrance to the snow hunting area and Keldagrim . Both the fairy ring with code D K S or the polar eagle are close to Olaf. He is miserable and damp and wants a favour from you. He will tell you about his attempt to live up to his family's reputation by becoming an expert explorer. Although he failed miserably, he wants to liven up his family's spirits and asks you to deliver some special carvings to his wife and son in Rellekka , pretending they are from a faraway land. Unfortunately, he only has damp driftwood on him, as his ship was allegedly smashed thrice onto the rocks in a huge storm. He directs you to the windswept tree up the mountain path to the east, from which you could obtain some dry wood. He promises you the treasure map he had been carrying in return.
+
+Go up the snowy hill to the east and cut the windswept tree with any axe to get windswept logs . Once you bring the logs back, Olaf will make a crude carving for you to take to his wife Ingrid , telling you to say it's tribal or something, and an even cruder carving to give his son Volf (because 'children love planks' in Olaf's experience) back in Rellekka.
+
+To Rellekka [ edit | edit source ]
+
+Olaf's wife, Ingrid Hradson , is found wandering around the well, just south-east of the longhall in Rellekka . You can take the agility shortcut at the eastern fence if you have 57 Agility or you can teleport to Rellekka using an Enchanted lyre or Fremennik sea boots . After you give her the carving (which you call the "Obscurian Tribal Artefact(tm)" and describe it as 'An expensive, exotic gift from the far-flung and tropical shores of the Island of Obscurity,' although it's log with "Olaf was here" carved into it), she will give you a loaf of bread in return for your troubles.
+
+Olaf's son, Volf Olafson , is further north by the helmet shop . After you tell him that his father has sent him a very valuable gift from the Island of Obscurity, he exchanges the plank for a cooked shark . Save this in your inventory for later as Olaf will ask for food.
+
+Cold, damp and hungry [ edit | edit source ]
+
+Talk to Olaf again, whose fire seems to have gone out. He is freezing but would rather die than return to Rellekka so soon and admit his lie. He will ask you to make a fire with some damp planks . Use them on the embers , and light it with your tinderbox (40 Firemaking required). After you make the fire, he will ask for food, having eaten nought but seaweed and biscuits for a week. Give him Volf's shark and he will admit the treasure map is probably cursed. He will give you the last map of his grandfather, Sven the Helmsman . It supposedly leads to his last treasure hoard, but Olaf has been unable to decipher the runic inscriptions. He wishes you luck on your search and decides to remain where he is for now to practise his carving and possibly starve.
+
+Note: Olaf will ask for a piece of food from you in exchange for the map, but you will provide it regardless of whether or not you agree to this. If you have any food in your inventory that you don't want to lose (such as summer pies if you brought them for later, OR any food given to you by the quest NPC's), drop them before talking to Olaf and pick them up afterwards to prevent the risk of losing them. You only have to give him one piece of food.
+
+Read Sven's map. It depicts the precise area where you are. The X represents the tree up on the hill that you visited earlier. Dig next to the same windswept tree on the hill from earlier and you will fall into a cave .
+
+The dank cave [ edit | edit source ]
+
+There is a boulder here that you may roll up to exit the cave. However, this is a one-way exit and using it will place you by Olaf. You will have to climb the hill and dig by the windswept tree in order to reenter. This is the same exit that you are sent to if you fall off of the slippery bridge later in the quest. Head east and north in the cave. Players may kill a brine rat en route to complete a task in the Medium Fremennik Diary (47 Slayer required).
+
+Once at the picture wall, kill a level 40 Skeleton fremennik to get a key , or you can wait and kill one once you're in the room past the puzzle door (explained below). Crumble Undead is useful to kill the skeleton quickly.
+
+Search the picture wall to find a puzzle on it that must be solved by pulling levers. The pieces must be rotated to get an image of a skull and crossbones. The top lever turns the top and left circles anticlockwise . The left lever rotates the left and bottom circles. The bottom lever rotates the top and bottom circles. Finally, the lever on the right rotates the left and right circles. Once the image is correct, pull the horizontal lever at the very bottom.
+
+The levers in order are: right , up , left , down , and then the very bottom .
+
+Inside the next room, you will find ropes and rotten barrels that can be picked up. Take two barrels and, if you haven't brought them with you, six ropes. If you brought an agility potion or a summer pie , drink or eat it here to boost your Agility level. Cross the bridge to the north-east and use a barrel on the broken section of the bridge to fix it. Do this again on the next broken section. You may slip and fall off the bridge. If this happens, you will appear just north of Olaf and will have to climb up the hill by the windswept tree and dig to enter the cave again.
+
+Contrary to popular belief, there is no specific method to aid crossing the bridge, e.g. having a lower weight or waiting a few seconds in between each step. Simply having a higher Agility level will help increase the player's chance of successfully crossing the bridge. For example, a player with level 1 Agility will have a 33.3% chance of success, while a player with level 99 Agility will have a 117.6% chance of success (being guaranteed). If a player fails, their chance of success is increased by +2.4%. [1]
+
+If these numbers are accurate, then ℙ ( success ) = ( 0 . 8 6 ⋅ Agility level ) + ( 2 . 4 ⋅ # { failed attempts } ) + 3 2 . 4 7 . This equation shows that the lowest Agility level that guarantees crossing the walkway is 78. Each of the 12 tiles rolls a success chance when walking on to it, meaning the probability of successfully crossing the entire bridge is significantly reduced. [2] Although players are guaranteed success at 78 Agility, there is only a ~50% probability of successfully crossing the entire walkway at 73 Agility despite the small difference in level.
+
+There is a locked gate in the middle of the bridge. Try to open it by using your key on it and selecting the right shape, and you will be shown five different locks. If you fall after you opened the gate you will have to collect a key again from a Skeleton fremennik nearby. Choose the one that matches the loop of your key, and the gate will open. If you lose your key, or fall off after the door, but before you complete the rest of the bridge, you will need to kill another Skeleton fremennik to get another key to be able to get back through the door.
+
+Once through the gate, make your way to the end of the rotten bridge. Again, you can fail, in which case you are washed out of the cave. The final section of the cavern contains a rotten shipwreck containing a treasure chest.
+
+Attempt to open the chest. A level 100 skeleton named Captain Ulfric will appear from a grave. He uses only melee and you may use his grave as an obstacle for a safespot . It is worth noting that he can teleport to you during the fight. Although the undead Fremennik is strong and accurate, he only has 60 Hitpoints and can be killed quickly.
+
+One strategy is to only bring runes for Crumble Undead and/or a salve amulet (or its stronger variants) as both Ulfric and the skeleton fremennik fought earlier are undead and you can fight them with no armour using Protect from Melee .
+
+After defeating Ulfric, search the chest again to claim Sven's treasure and finish the quest.
+
+Congratulations, quest complete!!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 12,000 Defence experience 20,000 coins 4 cut rubies Access to a cave where you can fight brine rats . A piece of parchment telling you of other shipwrecks with more treasure. (This extra treasure is currently not available in the game)
+
+Required for completing [ edit | edit source ]
+
+Completion of Olaf's Quest is required for the following:
+
+Medium tier of the Fremennik Diary (only partial completion of the quest is required)
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Music unlocked [ edit | edit source ]
+
+Rising Damp
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+11 April 2007 ( update ) | The bridge success chance was changed from all 12 tiles rolling the same rate based on Agility level to increase every time the player slips, so the more failures the more likely a success occurs
+
+Trivia [ edit | edit source ]
+
+When the quest was first released, the slippery bridge towards the end of the quest was considered by many players to be too difficult, and Jagex received many complaints. The next day, they issued a fix that made it slightly easier to cross the bridge after each failed attempt. When you examine the boulder that you can roll once in the Brine Rat Cavern , the text is a reference to the game show Family Feud . After rolling the boulder that blocks the Brine Rat Cavern exit, its examine text becomes "Keeps rolling, rolling, rolling..." which is a reference to the song " Rollin' (Air Raid Vehicle) " by the band Limp Bizkit . Olaf's claim that 'children love planks' is likely a reference to the character Jonny 2x4 and his imaginary friend, Plank from the cartoon show Ed, Edd and Eddy. His son Volf's name may also be a reference to another character, Rolf, from the same show. If a player digs near the windswept tree before receiving Sven's map, they will get a message "You shovel some snow. Congratulations!"
+
+References [ edit | edit source ]
+
+v • t • e Olaf's Quest
+
+NPCs | Olaf Hradson Ingrid Hradson Volf Olafson Sven the Helmsman Enemies Ulfric Skeleton fremennik |  | Olaf Hradson Ingrid Hradson Volf Olafson Sven the Helmsman | Enemies | Ulfric Skeleton fremennik
+
+ | Olaf Hradson Ingrid Hradson Volf Olafson Sven the Helmsman
+
+Enemies | Ulfric Skeleton fremennik
+
+Items | Windswept logs Crude carving Cruder carving Damp planks Sven's last map Key Rotten barrel Brine sabre Parchment
+
+Scenery | Olaf's boat Windswept tree Chest
+
+Music | Rising Damp
+
+Related | Quick guide Transcript Brine Rat Cavern Brine rat

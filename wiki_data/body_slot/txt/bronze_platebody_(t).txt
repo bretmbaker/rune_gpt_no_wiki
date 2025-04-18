@@ -1,0 +1,54 @@
+[Weapon: Bronze Platebody (T)]
+
+
+Bronze platebody (t)is a part ofbronze trimmed armourand a reward fromeasyTreasure Trails. It has the same stats as a normalBronze platebody. This itemcannotbe made via theSmithingskill.
+This item can be stored in thetreasure chestof acostume room, as part of thebronze trimmed armour.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Bronze platebody with trim.
+General Store Value: 160 coins
+High alch: 96 coins
+Low alch: 64 coins
+Weight: 9.979 kg
+Grand Exchange Value: 4,664 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 56
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -30
+- Ranged: -15
+
+Defence Bonuses:
+- Stab: +15
+- Slash: +14
+- Crush: +9
+- Magic: -6
+- Ranged: +14
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 1/1,404 | 

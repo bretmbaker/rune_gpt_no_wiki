@@ -1,0 +1,61 @@
+[Weapon: Bone Club]
+
+
+Thebone clubcan be purchased fromNardok's Bone Weaponsstore, run byNardokin theDorgeshuun Minesafter completingThe Lost Tribequest. It may also be obtained as a drop from either aCave goblinorCave goblin guard. Its power is between that of anIron warhammerand aSteel warhammer.
+
+
+[Infobox]
+Released: 31 May2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Basic but brutal!
+General Store Value: 600 coins
+High alch: 360 coins
+Low alch: 240 coins
+Weight: 0.907 kg
+Grand Exchange Value: 711 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 16
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: -4
+- Crush: +16
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +15
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Cave goblin guard | 24; 26 | 1 | 20/128 | 
+Guard (Cave goblin) | 24; 26 | 1 | 20/128 | 

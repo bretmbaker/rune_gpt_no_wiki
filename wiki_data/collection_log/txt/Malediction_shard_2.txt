@@ -1,0 +1,4 @@
+Item: Malediction shard 2
+Summary: The malediction shard 2 is an item dropped by the Crazy archaeologist. When the two other shards, the malediction shard 1 and 3 are obtained, they can be forged into a malediction ward on the Wilderness Volcano on the most north-east part of the Wilderness.
+Sources:
+- Crazy archaeologist (Level 204, Quantity: 1, Rarity: 1/256)

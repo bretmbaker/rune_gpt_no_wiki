@@ -1,0 +1,84 @@
+[Minigame: PvP_world]
+
+PvP worlds(also known asPlayer-versus-Player worlds) are a type of themedserversthat allow players to engage in combat almost everywhere. On these worlds, players may attack each other within all locations outside of safe zones, which include banks and respawn areas.
+
+Mechanics[edit|edit source]
+
+PvP worlds employ the following additional mechanics:
+
+Players may engage in combat with other players on the majority of the world map. The maximum difference between players that can attack each other is 15combat levels, which is further increased by the wilderness depth level within thewilderness.Similarly to thewilderness, attacking other players assigns theskull status.Safe zones are added around the majority of the banks, as well asrespawnpoints and locations such as theGrand ExchangeorFerox Enclave. Players may not initiate combat within safe areas, but they might still continue fighting for a short period of time after entering a safe zone as long as they have retaliated at least once.Bank chests andarmour standsare added near therespawnpoints such asLumbridge,EdgevilleandFalador. Respawn points are within safe zones.The so-calledPJ timer, or the time before a player can be attacked by another opponent after engaging inplayer-versus-playercombat, is increased. This makes it impossible to attack players immediately after they score a kill insingle-way combatareas.After attacking a player in asingle-way combatarea, both players are locked in combat with each other, and their fight cannot be interrupted by other players. However, if a player is attacking, but has not been attacked themself recently, they can change the target to lock with another opponent.Players cannot teleport immediately after using a special attack. This is done to prevent players from using their special attack on a player and immediately teleporting away without consequence. Players are also prevented from teleporting while their special attack bar is activated on these worlds.Each player has a separate player-versus-player kills and deaths counter within these worlds.Newfree-to-playplayers need to log over 20 hours of game time, earn 10quest points, and reach 100total levelto enter the PvP worlds.Players are warned before logging into or switching to a PvP world.Gravestones left on PvP worlds must be looted on PvP worlds. You cannot hop to a non-PvP world to loot your gravestone.
+
+High-risk worlds[edit|edit source]
+
+Extra mechanics onhigh-risk worldsinclude:
+
+All items are lost upon death in PvP. Upon killing any opponent, the player will always get the items that they were wearing and carrying, unless the item is untradeable, in which case it will usually turn into coins according to its value.TheProtect Itemprayer cannot be used.A warning is shown on attempting to login to a high-risk server from the login screen. If using theWorld Switcherinstead, a confirmation dialogue will appear. Upon logging into a PvP world, a second notification in the form of a message in red will appear in thechatboxinforming the players that others may attack them.
+
+Note that currently there are nofree-to-playhigh-risk worlds.
+
+Restrictions[edit|edit source]
+
+Brand-new players cannot log into PvP worlds. Restrictions on new accounts can be removed either by buyingmembership, or logging over 20 hours of game time, earning 10 quest points,andreaching a total level of 100.
+
+Benefits and risks[edit|edit source]
+
+PvP worlds are commonly used by players willing to participate inplayer-versus-playercombat, both individually as well as inclans. Locations that are easy to get to such asLumbridgeorVarrockare common hotspots for player-versus-player engagements. Thanks to additional banks near therespawnspots,armour standsallowing to repair damaged items and increasedPJtimer, these worlds are more convenient in general for dangerous player-versus-player activities than themedwildernessworlds which offer no extra mechanics.
+
+Players used to duelling in low levelwildernesson regular worlds should be aware that the attackablecombat levelrange on PvP worlds is higher and equivalent to 15 level of the wilderness. Such high combat level brackets can lead to some unfair fights, especially on low combat levels where the difference in damage output can be overwhelming.
+
+PvM and Skilling based activities can occasionally benefit from being able to be done using blighted supplies on PvP worlds, saving money for mains or letting Ironman players avoid using normal prayer/restore potions, as well as being able to use blighted supplies much earlier in progression.
+
+Bank chests[edit|edit source]
+
+Other players might benefit from the additional banks in variousrespawnareas, which speed up some banking when performingskillingorPvMactivities. Common training locations also tend to be less crowded on these worlds due to the risk associated with being attacked by other players. In general players should avoid using expensive items outside of the safe zones due to the risk of losing them in a PvP death.
+
+Rotation[edit|edit source]
+
+Normally some PvP worlds are affected by the PvP world rotation, changing when they are available inone weekintervals. This is to reduce the number of worlds to make each more active, while changing locations to provide fairerlagto players across the world.
+
+Note:The rotation displayed may not update immediately following game updates.Click here to clear the cache and force an update.
+
+This rotation is currentlyinactive.
+
+318 – Bounty Hunter world390 – LMS CompetitiveThis world is online at all times, but it can only be used to play LMS competitive during rotation A539 — PvP World548 — PvP World - High Risk559 — LMS Competitive569 — Bounty Hunter WorldThis world is online at all times, but it can only be used to play Bounty Hunter during rotation A577 — PvP World - Free
+
+This rotation is currentlyactiveand will change to A in 1 days.
+
+319 — Bounty Hunter World560 — PvP World561 — PvP World - Free579 — PvP World - High Risk580 — LMS Competitive
+
+Hotspots[edit|edit source]
+
+This section lists locations commonly used forplayer-versus-playercombat.
+
+Free-to-play worlds[edit|edit source]
+
+Low level PvP scene is rather small infree-to-playdue to restrictions on new accounts that prevent them from entering these worlds. As a rule of thumb, PvP worlds are popular among players with at least 50 combat.
+
+Location | Type | Activity | Transportation | Comment | 
+
+Grand Exchange | 1-vs-1 | Low | Varrock Teleport,Chronicle | The area around theGrand Exchange, as well as some spots throughoutVarrocksuch as the city centre and west bank are common PvP hotspots.Mainsusually fight east of theGrand Exchangeand north of the west bank, while other areas are common among1 defence puresandrune pures. | 
+
+Lumbridge | 1-vs-1 | High | Lumbridge Teleport,Home Teleport,Respawn | Due to ease of access, the area in front of the castle is popular among lower level accounts andraggers, with a notable exception of thechurchwhere fights between high level players often take place. | 
+
+Falador | Multi | Medium | Falador Teleport | The most commonmulticombatarea within the PvP worlds. | 
+
+Edgeville | 1-vs-1 | Low | Canoe,Respawn | Although not as popular as within the 308wildernessworld, it is notable for therespawn point. | 
+
+Members worlds[edit|edit source]
+
+Membersare not restricted from entering PvP worlds.
+
+Location | Popularity | Comment | 
+
+Grand Exchange | High | Extremely varied. Pure, dharok, zerker, void, rushers, as well as mains. | 
+
+Lumbridge | High | Varied. Pure, zerker, void and mains. | 
+
+Edgeville | Moderate | Common spot forno honourPKing, both pure and main, as well asmain hybridding. | 
+
+Rimmingtonhouse portal | Moderate | Varied. Pure, Dharok's anda lotof rushers. | 
+
+Camelot | Moderate | Pure, Dharok's, Risk Fighting and occasional Hybrid Fights. | 
+
+Castle Warslobby | Low | Common spot forno honourpking, both pure and main, as well asmain hybridding. | 
+

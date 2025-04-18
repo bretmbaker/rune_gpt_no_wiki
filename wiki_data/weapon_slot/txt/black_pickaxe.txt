@@ -1,0 +1,68 @@
+[Weapon: Black Pickaxe]
+
+
+Theblack pickaxeis apickaxethat mines on a 5-tick cycle, 1-tick faster than thesteel pickaxeand is the same speed as themithril pickaxe. It is a possible reward frombeginnerandeasyTreasure Trails. This item can be stored in thetreasure chestof acostume room.
+Players need 10Attackto wield thepickaxeand 11Miningto mine with it.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Used for mining.
+General Store Value: 145 coins
+High alch: 87 coins
+Low alch: 58 coins
+Weight: 0.01 kg
+Grand Exchange Value: 1,196 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 1,528
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +10
+- Slash: -2
+- Crush: +8
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +11
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Spike | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Impale | Stab | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (beginner) | N/A | 1 | 11/8,856 | 
+Reward casket (easy) | N/A | 1 | 11/396 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyss/Strategies(Defence)

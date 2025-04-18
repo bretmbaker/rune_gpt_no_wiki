@@ -1,0 +1,68 @@
+[Weapon: Obsidian Helmet]
+
+
+Obsidian helmetis a piece ofobsidian armourthat can be purchased fromTzHaar-Hur-Zal's Equipment Storefor 84,480Tokkul(73,216 withKaramja gloves). It requires level 60 inDefenceto wear.
+When used in conjunction with theobsidian platebodyandobsidian platelegs, allobsidian weaponrywill be given a 10% boost in melee accuracy and melee strength. The damage bonusdoesstack with theberserker necklacemultiplicatively, and is applied first.
+
+
+[Infobox]
+Released: 1 June2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Provides excellent protection.
+General Store Value: 56,320 coins
+High alch: 33,792 coins
+Low alch: 22,528 coins
+Weight: 3.628 kg
+Grand Exchange Value: 769,213 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 846
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +25
+- Slash: +23
+- Crush: +26
+- Magic: +0
+- Ranged: +24
+
+Other Bonuses:
+- Strength: +3
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+TzHaar-KetLevel 221 | 221 | 1 | 1/2,000 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Barbarian Assault/Strategies(Melee (mid level))
+5 | Down Do Specs(Melee)
+4 | King Black Dragon/Strategies(Melee BIS smuggle)
+4 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+1 | Nightmare Zone/Strategies(Melee)
+5 | Nightmare Zone/Strategies(Melee (Prayer))
+5 | Skeletal Wyvern/Strategies(Melee)
+5 | Skotizo/Strategies(Melee)
+4 | The Hueycoatl/Strategies(Melee)
+4 | Vyrewatch Sentinel/Strategies(AFK Prayer)

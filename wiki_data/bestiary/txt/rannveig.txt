@@ -1,0 +1,41 @@
+Name: Rannveig
+Combat Level: 2
+Size: 1x1
+Info:
+- Description: A subject of Miscellania.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3681
+- Link: MOID
+
+Location:
+- Area: Miscellania Castle courtyard
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 1
+Attack: 3
+Strength: 3
+Defence: 3
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

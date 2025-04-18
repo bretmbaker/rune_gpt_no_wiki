@@ -1,0 +1,90 @@
+[Weapon: Ava%27S Attractor]
+
+
+Ava's attractoris an item awarded to the player by completing the questAnimal Magnetismif the player is below level 50Ranged. It is equipped in thecape slot, can pick up a player's ranged ammunition after they fire it, and every 3.5 minutes, will attract an assortment of metal ammunition.
+It also provides a ranged attack bonus. It can also generateiron arrowsinto the player'sammo slotif it's empty or there are iron arrows in it. Like all ofAva's devices, the attractor won't work when metal torso armour is worn, as this will cause 'interference'. A list of metal torso armour that doesnotinterfere with Ava's attractor can be foundhere.
+
+
+[Infobox]
+Released: 12 December2006(Update)
+Members: Yes
+Quest item: Animal Magnetism
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Commune, Drop
+Worn options: Commune
+Examine: A bagged chicken ready to serve you, magnet in claw.
+General Store Value: 769 coins
+Alchemy: Not alchemisable
+Weight: 4.535 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +2
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +2
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Drop Sources]
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+Ava | Draynor Manor | ∞ | N/A | 999 | N/A | 0.0% |  | 
+Lost Property shop(1) | Lumbridge | ∞ | N/A | 7,000 | N/A | 0.0% |  | 
+Lost Property shop(2) | Catherby | ∞ | N/A | 7,000 | N/A | 0.0% |  | 
+Lost Property shop(3) | Edgeville | ∞ | N/A | 7,000 | N/A | 0.0% |  | 
+Lost Property shop(4) | Falador | ∞ | N/A | 7,000 | N/A | 0.0% |  | 
+Lost Property shop(5) | Ferox Enclave | ∞ | N/A | 7,000 | N/A | 0.0% |  | 
+Lost Property shop(6) | Emir's Arena | ∞ | N/A | 7,000 | N/A | 0.0% |  | 
+Lost Property shop(7) | Daimon's Crater | ∞ | N/A | 7,000 | N/A | 0.0% |  | N/A
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Ancient Wyvern/Strategies(Ranged)
+4 | Artio/Strategies(Ranged)
+3 | Aviansie/Strategies(Ranged - Low Risk)
+5 | Aviansie/Strategies(Ranged)
+2 | Barbarian Assault/Strategies(Ranged (mid level))
+4 | Barrows/Strategies(Ranged (Ahrim))
+4 | Brutal black dragon/Strategies(Ranged)
+4 | Callisto/Strategies(Ranged)
+4 | Chompy bird hunting/Strategy
+3 | Chompy bird hunting/Strategy
+5 | Commander Zilyana/Strategies(Ranged)
+5 | Corporeal Beast/Strategies(Ranged masses)
+4 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+4 | King Black Dragon/Strategies(Ranged)
+4 | King Black Dragon/Strategies(Crossbow)
+5 | King Black Dragon/Strategies(Ranged BIS smuggle)
+4 | Metal dragons/Strategies(Ranged)
+4 | The Mimic/Strategies(Ranged)
+4 | Nightmare Zone/Strategies(Ranged)
+4 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+5 | Revenants/Strategies(Ranged)
+2 | Scurrius/Strategies(Range (mid level))
+4 | Skeleton (Ape Atoll)(Ranged)
+4 | Skotizo/Strategies(Ranged)
+5 | Slayer task/Fossil Island wyverns(Ranged)
+5 | Slayer training(Ranged)
+4 | Spindel/Strategies(Ranged)
+4 | Venenatis/Strategies(Ranged)

@@ -1,0 +1,22 @@
+[Minigame: Jal-nib-rek]
+
+TheJal-nib-rek(roughly translated asForeign Nibbler Baby/Young) is aJal-Nibdropped byTzKal-Zukupon completion of theInferno. The standard drop rate is 1/100, but this is increased to 1/75 if TzKal-Zuk is defeated while on aSlayertask. Players may also exchange theirinfernal capesby speaking toTzHaar-Ket-Kehfor a 1/100 chance of obtaining the pet. Providing a player defeats TzKal-Zuk while on a slayer task for a 1/75 chance of the pet,andhands in their cape, the overall chance of receiving the pet from either the boss or the cape is approximately 1/43.
+
+Players can right click "Metamorphosis"to change between the Jal-Nib and TzRek-Zuk, which is a smaller version of TzKal-Zuk.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+TzKal-Zuk | 1400 | 1 | 1/100;1/75 | 
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+

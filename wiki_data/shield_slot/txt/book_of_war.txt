@@ -1,0 +1,69 @@
+[Weapon: Book Of War]
+
+
+Thebook of waris a book held in place of a shield, and is thegod bookaligned withBandos. It can be purchased fromJossikfor5,000 coinsat theLighthouse. Books of war must be made using all four tornBandos pageswhich can be purchased from other players or obtained fromTreasure Trails. Equipping a book of war allows the player to preach and perform ceremonies, such as blessing, last rites, and wedding rites, by operating it (none of which have any effect on the game itself, and are simply recited lines of text), costing 25% of the player'sspecial attackenergy.
+Lost books of war can be reclaimed by speaking toJossik, complete with all pages that have been added, for no cost. Alternatively, for those who do not wish to travel to the Lighthouse,Perduwill return them to players for14,000 coins.
+
+
+[Infobox]
+Released: 3 July2014(Update)
+Members: Yes
+Quest item: Horror from the Deep
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Preach, Drop
+Worn options: Read
+Examine: The short book of the wisdom of Bandos.
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Shield slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Barbarian Assault/Strategies(Melee (mid level))
+5 | Calvar'ion/Strategies(Melee)
+5 | Dust devil/Strategies(Bursting/Barraging)
+3 | Krystilia/Strategies(Melee)
+5 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+5 | Maniacal monkey/Strategies(Magic - Ice Burst)
+4 | Revenants/Strategies(Magic)
+4 | Scorpia/Strategies(Magic)
+4 | Slayer task/Gargoyles(Melee)
+5 | Slayer training(Melee)
+5 | Spindel/Strategies(Melee)
+4 | Tombs of Amascut/Strategies(Magic switch)
+5 | Venenatis/Strategies(Melee)
+5 | Vet'ion/Strategies(Melee)
+3 | Volcanic Mine(Solo)
+3 | Volcanic Mine(Group)
+4, 5 | Vyrewatch Sentinel/Strategies(AFK Prayer)
+1 | Zalcano/Strategies(Mining)

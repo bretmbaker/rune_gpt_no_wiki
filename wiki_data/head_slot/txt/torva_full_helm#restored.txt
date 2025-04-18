@@ -1,0 +1,132 @@
+[Weapon: Torva Full Helm#Restored]
+
+
+TheTorva full helmis part of theTorva armourset, requiring 80Defenceto wear. The helmet boasts the higheststrength bonusof any helmet, being 2 higher than theNeitiznot faceguardand 3 higher than theserpentine helm. As aZarosian-aligned item, Torva armour will giveZarosian protectionwithin theGod Wars Dungeon.
+The helmet is created by combining a damaged Torva full helm, obtained as a drop fromNex, with oneBandosian component. This process requires level 90Smithing, and is not reversible.
+
+
+[Infobox]
+Released: 5 January2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: No
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: An ancient warrior's full helm.
+General Store Value: 200,000 coins
+High alch: 120,000 coins
+Low alch: 80,000 coins
+Weight: 2.721 kg
+Grand Exchange Value: 190,617,430 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 44
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -5
+- Ranged: -5
+
+Defence Bonuses:
+- Stab: +59
+- Slash: +60
+- Crush: +62
+- Magic: -2
+- Ranged: +57
+
+Other Bonuses:
+- Strength: +8
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Nex | 1001 | 1 | 1/258 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Adamant dragon/Strategies(Melee)
+1 | Amoxliatl/Strategies(Melee)
+1 | Ancient Wyvern/Strategies(Melee)
+1 | Barbarian Assault/Strategies(Melee (high level))
+1 | Basilisk Knight/Strategies(Melee)
+1 | Calvar'ion/Strategies(Melee)
+1 | Chambers of Xeric/Challenge Mode(Melee)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+1 | Chambers of Xeric/Strategies(Melee)
+1 | Chompington(Melee)
+1 | Corporeal Beast/Strategies(Dolo)
+1 | Corporeal Beast/Strategies(Melee masses)
+1 | Corporeal Beast/Strategies(Fewer stat drains)
+1 | Corporeal Beast/Strategies(Team melee)
+1 | Corporeal Beast/Strategies(Solo melee)
+1 | Corporeal Beast/Strategies(Solo melee)
+2 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+1 | Down Do Specs(Melee)
+1 | Duke Sucellus/Strategies(Melee)
+1 | Fortis Colosseum/Strategies(High efficiency)
+1 | Fortis Colosseum/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Melee)
+1 | Galvek Speed-Trialist(Melee)
+1 | General Graardor/Strategies(Solo (Melee))
+2 | General Graardor/Strategies(Advanced Tank)
+1 | General Graardor/Strategies(Melee Attacker)
+2 | General Graardor/Strategies(Ranged Tank)
+1 | Giant Mole/Strategies(Melee)
+1 | Glough Speed-Trialist(Melee)
+1 | Hespori/Strategies(Best-in-slot)
+1 | K'ril Tsutsaroth/Strategies(Melee Tank)
+1 | K'ril Tsutsaroth/Strategies(Solo Melee)
+1 | K'ril Tsutsaroth/Strategies(Melee)
+2 | Kalphite Queen/Strategies(High DPS (Phase One))
+1 | King Black Dragon/Strategies(Melee BIS smuggle)
+2 | Metal dragons/Strategies(Melee)
+2 | Mithril dragon/Strategies(Melee)
+3 | Mithril dragon/Strategies(Melee tank)
+1 | Moons of Peril/Strategies(Moons of Peril Armour)
+1 | Nex/Strategies(Hybrid)
+1 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+2 | Nightmare Zone/Strategies(Melee (Dharok's))
+2 | The Nightmare/Strategies(Melee)
+1 | Phantom Muspah/Strategies(Melee)
+2 | Phosani's Nightmare/Strategies(Melee)
+2 | Royal Titans/Strategies(Best-in-slot)
+1 | Rune dragon/Strategies(Melee)
+2 | Sarachnis/Strategies(Melee)
+1 | Scurrius/Strategies(Melee (high level))
+1 | Skeletal Wyvern/Strategies(Melee)
+2 | Skotizo/Strategies(Melee)
+1 | Slayer task/Fossil Island wyverns(Melee)
+2 | Slayer task/Gargoyles(Melee)
+2 | Slayer task/Jellies(Melee)
+2 | Slayer task/Suqah(Melee (South))
+2 | Slayer task/Trolls(Melee (Mountain trolls))
+2 | Slayer task/Trolls(Melee (Ice trolls))
+2 | Slayer task/Wyrms(Melee)
+2 | Sulliuscep/Strategies
+1 | The Hueycoatl/Strategies(Melee)
+1 | Theatre of Blood/Hard Mode(Melee)
+1 | Theatre of Blood/Strategies(Melee)
+1 | Tombs of Amascut/Strategies(Melee switch)
+1 | Tormented Demon/Strategies(Melee switch)
+1 | TzHaar Fight Cave/Strategies(Melee)
+1 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+1 | Ultimate Ironman Guide/Equipment
+1 | Vardorvis/Strategies(Melee)
+1 | Vet'ion/Strategies(Melee)
+1 | Vorkath/Strategies(Melee)
+3 | Vyrewatch Sentinel/Strategies(DPS)
+1 | Vyrewatch Sentinel/Strategies(AFK Prayer)

@@ -1,0 +1,111 @@
+[Minigame: Gnome_Ball]
+
+ | This is a dangerous activity.Ondeath,Hardcore Ironmenwill  lose their status.Unprotected items will be moved to a grave.
+
+Gnome Ball
+
+
+
+
+
+Released | 28 January2003(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Tree Gnome Stronghold
+
+Leagueregion | Kandarin✓
+
+Participants | Any
+
+Skills | Ranged,Agility
+
+Reward currency | None
+
+Tutorial | No
+
+Music | Gnomeball
+
+
+
+Map
+
+
+
+Gnome Ballis aminigamein which one or more players attempt to score goals againstgnomes. Goals are scored by throwing thegnomeballinto the goal, and the game is won when five goals are scored. Players earn someRangedandAgilityexperienceupon scoring a goal and winning the game.
+
+When a player first enters the field, they should talk to thegnome ball refereeto gain the ball.
+
+Scoring a goal in a Gnome Ball match is a requirement for theeasy Western Provinces Diary.
+
+Getting there[edit|edit source]
+
+Gnome Ball is located in the north-western part of theTree Gnome Stronghold. There are several methods to get to the minigame.
+
+Travel to thespirit treein the centre of the Stronghold, then walk north-west.Grand seed podorroyal seed podteleport, then walk west outside of theGrand Tree.Balloon transport systemto the Grand Tree, then go north-west.Slayer ringteleport to theStronghold Slayer Cavethen walk north-west.Achievement diary capeteleport to theElder Gnome child, then walk north-west.Gnome glidertransport system toTa Quir Priw, climb down and walk west, outside of the Grand Tree.
+
+Gameplay[edit|edit source]
+
+Players with very fewHitpointsmay need to bring somefooddue to the rough nature of this game. The objective of the game is to get a gnome ball from the referee, and then throw it through the net at the other end of the pitch. Weapons are automatically unequipped and placed in the inventory when entering the game.
+
+This game has three simple mechanics:
+
+Pass- The gnomeball can be passed to another participating player or either of the two greengnome wingers. The gnome wingers will pass it back after a few seconds.Tackle- Gnomes of opposing teams can be tackled, knocking them out for a few seconds. However, gnomes may also tackle the player who is holding the ball, dealing 1–2 damage. When someone holding the gnomeball is tackled, they will lose the ball to the one who tackled them. The chance of tackling and being tackled depends on the player'sAgilitylevel.Shoot- Players must attempt to shoot the gnomeball at thegnome goal. The chance to successfully score depends on the player'sRangedlevel and the proximity to the goal. When a goal is scored, the player that scored will receive a point. Whether the ball hit or missed, a new ball has to be asked from the gnome ball referee.
+
+Whenever a player earns five points, they win the game and their score is reset.
+
+Strategy[edit|edit source]
+
+The simplest tactic is to pass the gnome ball to a gnome winger directly after receiving the ball. Then, run forward towards the goal. When the winger passes it back, shoot it at the goal. This strategy should also prevent any gnomes from attacking the player.
+
+Rewards[edit|edit source]
+
+For every successful goal, a low amount (4–7) of Agility and Ranged experience is granted. Winning the game will reward an additional 25 experience in both skills.If the player earns five points, they will receive agnomeballupon exiting the pitch. Gnomeballs are worth25,832coins on theGrand Exchange. Only one gnomeball may be awarded per game. Gnomeballs brought onto the pitch will be kept by the gnome ball referee until the player leaves the game. Additionally, players that brought a gnomeball to the game will not receive a new one from winning.
+
+Trivia[edit|edit source]
+
+Gnome Ball is a clear reference toRugbyandAmerican Football.When a player attempts to throw ahandeggto a player holding the gnomeball, the messageThey already have a ball in play, an egg would just confuse them..[sic]appears.Attempting to throw a gnomeball to a teleporting player prompts the message[Player name] won't thank you for chucking balls at [him/her] while [he/she][clarification needed]is trying to teleport.There is no option to talk with opposing gnomes. Gnome wingers may only be talked to when they are holding the gnomeball.There appears to be blood splattered across the pitch from previous games.To levelRangedfrom 1 to 99 with just Gnome Ball, a player would have to win 250,663 games, which means scoring 1,253,315 goals.
+
+v•t•eGnome Ball
+
+NPCs | Gnome ball refereeGnome CoachGnome ballerGnome wingerCheerleader
+
+Rewards | Gnomeball
+
+v•t•eSolo and Group Activities
+
+Minigames | Player versus MonsterBarbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's ChallengesPlayer versus PlayerBounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man StandingSkillingBrimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic MineCombat & SkillingShades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' GuildMiscellaneousBurthorpe Games Room(Games Zone)Rat PitsTears of Guthix | Player versus Monster | Barbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's Challenges | Player versus Player | Bounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man Standing | Skilling | Brimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic Mine | Combat & Skilling | Shades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' Guild | Miscellaneous | Burthorpe Games Room(Games Zone)Rat PitsTears of Guthix
+
+Player versus Monster | Barbarian AssaultFortis ColosseumInfernoMage ArenaNightmare ZonePest ControlTackle organised crimeTemple TrekkingTzHaar Fight CaveTzHaar-Ket-Rak's Challenges
+
+Player versus Player | Bounty HunterCastle WarsClan WarsEmir's ArenaSoul WarsTzHaar Fight PitLast Man Standing
+
+Skilling | Brimhaven Agility ArenaFishing TrawlerForestryGiants' FoundryGnome BallGnome RestaurantGuardians of the RiftHallowed SepulchreImpetuous ImpulsesMage Training ArenaMahogany HomesMastering MixologyPyramid PlunderRanging GuildRogues' DenSorceress's GardenStealing artefactsThe MessTithe FarmTrouble BrewingVolcanic Mine
+
+Combat & Skilling | Shades of Mort'tonTai Bwo Wannai CleanupThe GauntletWarriors' Guild
+
+Miscellaneous | Burthorpe Games Room(Games Zone)Rat PitsTears of Guthix
+
+Raids | Chambers of XericTheatre of BloodTombs of Amascut
+
+Distractions and Diversions | Champions' ChallengeShooting StarsTreasure Trails
+
+Other | Blast mineCamdozaal VaultChompy bird huntingCreature CreationDorgesh-Kaan market tradingKeldagrim tasksManaging MiscellaniaShayzien Combat RingStealing valuablesUnderwater Agility and ThievingWise Old Man tasks
+
+v•t•eTree Gnome Stronghold
+
+Inhabitants | AnitaAssistant Le SmithAssistant LoriBarmanBolongoBrimstailBurkorDamwinElder Gnome childErminFemiGnome bankerGnome guardGnome trainerGnome troopGuard VemmeldoMeegleNievePrissy ScillaSarbleSteveTerrorbirdTerrorchick gnomeTrainer NacklepenGrand TreeAluft Gianne snr.BlurberryCaptain ErrdoCaptain LamdooCharlieDaeroDalilaGianne jnr.Gnome WaiterGulluckHeckel FunchHudoKing Narnode ShareenPerrdurRomettiSpangTambleTimbleGnome BallCheerleaderGnome ball refereeGnome ballerGnome CoachGnome wingerWurbel10th SquadBunkdoBunkwicketCaradoGarkorLumoWaymottinZooknock |  | AnitaAssistant Le SmithAssistant LoriBarmanBolongoBrimstailBurkorDamwinElder Gnome childErminFemiGnome bankerGnome guardGnome trainerGnome troopGuard VemmeldoMeegleNievePrissy ScillaSarbleSteveTerrorbirdTerrorchick gnomeTrainer Nacklepen | Grand Tree | Aluft Gianne snr.BlurberryCaptain ErrdoCaptain LamdooCharlieDaeroDalilaGianne jnr.Gnome WaiterGulluckHeckel FunchHudoKing Narnode ShareenPerrdurRomettiSpangTambleTimble | Gnome Ball | CheerleaderGnome ball refereeGnome ballerGnome CoachGnome wingerWurbel | 10th Squad | BunkdoBunkwicketCaradoGarkorLumoWaymottinZooknock
+
+ | AnitaAssistant Le SmithAssistant LoriBarmanBolongoBrimstailBurkorDamwinElder Gnome childErminFemiGnome bankerGnome guardGnome trainerGnome troopGuard VemmeldoMeegleNievePrissy ScillaSarbleSteveTerrorbirdTerrorchick gnomeTrainer Nacklepen
+
+Grand Tree | Aluft Gianne snr.BlurberryCaptain ErrdoCaptain LamdooCharlieDaeroDalilaGianne jnr.Gnome WaiterGulluckHeckel FunchHudoKing Narnode ShareenPerrdurRomettiSpangTambleTimble
+
+Gnome Ball | CheerleaderGnome ball refereeGnome ballerGnome CoachGnome wingerWurbel
+
+10th Squad | BunkdoBunkwicketCaradoGarkorLumoWaymottinZooknock
+
+Shops | Funch's Fine GroceriesGianne's RestaurantGrand Tree GroceriesGulluck and SonsFine FashionsSlayer EquipmentSlayer RewardsKing Narnode's Royal Seed Pods
+
+Features | Blurberry BarBrimstail's caveGnome BallGnome RestaurantGnome Stronghold Agility CourseGrand TreeGrand Tree mineGrand Tree TunnelsSpirit treeStronghold Slayer Cave

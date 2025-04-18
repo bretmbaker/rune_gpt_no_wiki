@@ -1,0 +1,83 @@
+[Weapon: Karil%27S Coif#(Broken)]
+
+
+Karil's coifisranged armourworn in theheadwear slotthat is part ofKaril the Tainted's setofbarrows equipment. To wear Karil's coif, a player must have 70Defenceand 70Ranged.
+Being part of Karil's barrows set, if Karil's coif is worn along with the other three pieces of Karil's set, the player's attacks gains a special effect: on successful attacks withKaril's crossbowagainst another player, there is a 25% chance that it may temporarily lower that player'sAgilitylevel by 20%. Additionally, if anamulet of the damnedis worn alongside the set, there is also a 25% chance for each attack to deal a second hit for half the damage of the first.
+
+
+[Infobox]
+Released: 9 May2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Check, Drop
+Worn options: Check
+Destroy: If you drop this item it will break. Are you sure you want to drop it?
+Examine: Karil the Tainted's coif.
+General Store Value: 13,000 coins
+High alch: 7,800 coins
+Low alch: 5,200 coins
+Weight: 0.907 kg
+Grand Exchange Value: 56,108 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 1,065
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -1
+- Ranged: +7
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +9
+- Crush: +12
+- Magic: +6
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Barrows) | N/A | 1 | 7 × 1/2,448 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Ancient Wyvern/Strategies(Ranged)
+3 | Artio/Strategies(Ranged)
+4 | Basilisk Knight/Strategies(Ranged/Prayer)
+5 | Basilisk Knight/Strategies(Ranged)
+3 | Brutal black dragon/Strategies(Ranged)
+3 | Chaos Elemental/Strategies(Ranged)
+3 | Chaos Fanatic/Strategies(Ranged)
+5 | Corporeal Beast/Strategies(Ranged masses)
+4 | Drake/Strategies(Ranged)
+5 | General Graardor/Strategies(Solo (Ranged 6:0))
+3 | King Black Dragon/Strategies(Ranged)
+2 | King Black Dragon/Strategies(Crossbow)
+3 | King Black Dragon/Strategies(Ranged BIS smuggle)
+5 | Kree'arra/Strategies(Chinchompas)
+4 | The Leviathan/Strategies(Ranged)
+4 | Metal dragons/Strategies(Ranged)
+4 | Mithril dragon/Strategies(Ranged)
+5 | Nightmare Zone/Strategies(Ranged)
+5 | Phantom Muspah/Strategies(Ranged)
+4 | Phantom Muspah/Strategies(Magic & Ranged)
+4 | Scurrius/Strategies(Range (high level))
+5 | Skeletal Wyvern/Strategies(Ranged)
+5 | Slayer task/Fossil Island wyverns(Ranged)

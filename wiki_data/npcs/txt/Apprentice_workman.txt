@@ -1,0 +1,2 @@
+Item: Apprentice workman
+Summary: The apprentice workman works for the workman. If he was spoken with before the graphical rework of Varrock, one would be told of him working on a complete refurnishing of Varrock ordered by Queen Ellamaria. Since the update, he instead refers to having just finished the order.

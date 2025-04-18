@@ -1,0 +1,47 @@
+[Weapon: Morytania Legs 4]
+
+
+TheMorytania legs 4are a reward for completing all of the tasks in theMorytania Diaryand speaking toLe-sabrèinCanifis. Its defensive bonuses are equivalent toadamant platelegs, but weigh less and have a lowerRangedattack penalty.
+A number of other benefitsare always active upon claiming rewards from the elite tier of the Morytania diary.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Ecto Teleport, Burgh Teleport, Drop
+Worn options: Ectofuntus Pit, Burgh de Rott
+Examine: Platelegs adorned with the crest of Morytania.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 9.071 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -7
+
+Defence Bonuses:
+- Stab: +33
+- Slash: +31
+- Crush: +29
+- Magic: -4
+- Ranged: +31
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

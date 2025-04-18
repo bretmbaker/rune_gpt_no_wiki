@@ -1,0 +1,39 @@
+Name: Cursed Baboon
+Combat Level: 77
+Size: 1x1
+Info:
+- Description: An undead cursed baboon.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Thralls: Immune
+- Monster ID: 11717
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 10
+Attack: 60
+Strength: 60
+Defence: 20
+Magic: 60
+Ranged: 60
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

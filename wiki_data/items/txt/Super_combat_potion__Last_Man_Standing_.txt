@@ -1,0 +1,1 @@
+Super combat potionsare a stat boosting potion found in theLast Man Standingminigamethat combines the effects ofsuper attackandsuper strengthinto one potion, increasing the player'sAttackandStrengthlevel respectively by 5 + 15%, rounded down. Unlike normalSuper combat potions, these lack asuper defenceboost and an "Empty" option.

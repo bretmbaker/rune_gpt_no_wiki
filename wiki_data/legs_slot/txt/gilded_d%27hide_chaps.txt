@@ -1,0 +1,56 @@
+[Weapon: Gilded D%27Hide Chaps]
+
+
+Gilded d'hide chapsis a part of thegilded dragonhide armourthat can be obtained as a rare reward fromeliteTreasure Trails. It offers considerably higher defensive bonuses than thegreen d'hide chapsand similarly requires 40Ranged. They are currently the bestfree-to-playlegging item for ranged combat.
+This item can be stored in thetreasure chestof acostume room, as part of thegilded dragonhide armourset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Also called: Gilded dragonhide chaps
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Made with 100% golden dragonhide.
+General Store Value: 40,000 coins
+High alch: 24,000 coins
+Low alch: 16,000 coins
+Weight: 5 kg
+Grand Exchange Value: 12,133,069 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 34
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +8
+
+Defence Bonuses:
+- Stab: +22
+- Slash: +16
+- Crush: +24
+- Magic: +8
+- Ranged: +22
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/14,662.5 | 
+Reward casket (master) | N/A | 1 | 1/13,616 | 

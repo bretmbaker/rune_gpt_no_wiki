@@ -1,0 +1,11 @@
+[Page: Furnace]
+
+Afurnaceis an interactive scenery object primarily used inSmithingto smelt variousoresintometal bars. Furnaces aroundGielinorare identified with the furnaceiconon theworld mapandminimap.
+Furnaces are also used forCraftingfrom metal bars. With the appropriate mould in theirinventoryand the required Craftinglevel, players can use the furnace to craftgoldorsilver barsintojewellerysuch asringsorholy symbols, assuming they have the appropriate mould in their inventory and the required Crafting level. Players may also makemolten glassby smeltingsoda ashand abucket of sand.
+Due to a furnace's distance from a bank, players with level 43Magicmay choose to useSuperheat Iteminstead of furnaces for smelting bars, earning both Magic and Smithing experience, at a higher overall cost.
+If you are a new player with limited teleport options and need to make use of a furnace just once, you can teleport toLumbridgeand use the furnace slightly north of the teleport area.
+27 to 32 (Outer area - 8.4 to 9.6 seconds)
+109 squares from the Mage Arena bank (33 seconds)
+Players can now use the Make-x option while smithing gold and silver items.
+You can no longer smelt at the side of a Furnace.
+9mago-Crabby

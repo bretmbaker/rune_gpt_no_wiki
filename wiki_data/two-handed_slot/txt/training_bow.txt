@@ -1,0 +1,53 @@
+[Weapon: Training Bow]
+
+
+Thetraining bowcan be obtained from theRanged combat tutorinLumbridge. As it only requires aRangedlevel of 1 to wield, it can be used by all players. It can only firetraining arrows, which are given to players in sets of 25 by the tutor. It has the same stats as ashortbow.
+
+
+[Infobox]
+Released: 27 September2006(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destroy
+Destroy: You can get another Training bow by talking to the Ranged Combat skill tutor north of Lumbridge Castle.
+Examine: Light and flexible, good for a beginner.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 1.36 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +8
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 3 ticks (1.8s) | 7 tiles |  | None
+ | Longrange | Standard | Longrange | 4 ticks (2.4s) | 9 tiles |  | +3 Defence

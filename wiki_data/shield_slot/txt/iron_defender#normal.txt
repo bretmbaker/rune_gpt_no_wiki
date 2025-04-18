@@ -1,0 +1,51 @@
+[Weapon: Iron Defender#Normal]
+
+
+Theiron defenderis a defender made ofiron. It is dropped by any of theCyclopson the top floor of theWarriors' Guild, but only once players have obtained abronze defender. It is one of the two defenders that does not provide astrength bonus, along with the bronze defender.
+If the player dies below level 20Wilderness, it will remain in the player's inventory. However, the item will be unusable and must be repaired with 2,000 coins by using the item onPerdu.
+
+
+[Infobox]
+Released: 13 June2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A defensive weapon.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +5
+- Slash: +4
+- Crush: +3
+- Magic: -3
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +5
+- Slash: +4
+- Crush: +3
+- Magic: -3
+- Ranged: -2
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+CyclopsWarriors' Guild Rooftop | 56; 76 | 1 | 2/100 | 

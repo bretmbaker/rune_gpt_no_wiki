@@ -1,0 +1,41 @@
+Name: Spidine
+Combat Level: 42
+Size: 1x1
+Info:
+- Description: It's a spider. No, a giant sardine...
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3602
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guide is available for Spidine:
+
+Notable Drops:
+- Tea flask (1/10)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 35
+Attack: 37
+Strength: 40
+Defence: 36
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

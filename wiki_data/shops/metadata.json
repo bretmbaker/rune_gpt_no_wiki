@@ -1,0 +1,2418 @@
+{
+  "2h_sword": {
+    "html": "shops/html/2h_sword.html",
+    "txt": "shops/txt/2h_sword.txt"
+  },
+  "Aaron%27s_Archery_Appendages.": {
+    "html": "shops/html/Aaron%27s_Archery_Appendages..html",
+    "txt": "shops/txt/Aaron%27s_Archery_Appendages..txt"
+  },
+  "Achievement_Diary": {
+    "html": "shops/html/Achievement_Diary.html",
+    "txt": "shops/txt/Achievement_Diary.txt"
+  },
+  "Adamant_armour": {
+    "html": "shops/html/Adamant_armour.html",
+    "txt": "shops/txt/Adamant_armour.txt"
+  },
+  "Adamant_chainbody": {
+    "html": "shops/html/Adamant_chainbody.html",
+    "txt": "shops/txt/Adamant_chainbody.txt"
+  },
+  "Adamant_platebody": {
+    "html": "shops/html/Adamant_platebody.html",
+    "txt": "shops/txt/Adamant_platebody.txt"
+  },
+  "Adamant_plateskirt": {
+    "html": "shops/html/Adamant_plateskirt.html",
+    "txt": "shops/txt/Adamant_plateskirt.txt"
+  },
+  "Adamant_scimitar": {
+    "html": "shops/html/Adamant_scimitar.html",
+    "txt": "shops/txt/Adamant_scimitar.txt"
+  },
+  "Aemad%27s_Adventuring_Supplies.": {
+    "html": "shops/html/Aemad%27s_Adventuring_Supplies..html",
+    "txt": "shops/txt/Aemad%27s_Adventuring_Supplies..txt"
+  },
+  "Agelus%27_Farm_Shop": {
+    "html": "shops/html/Agelus%27_Farm_Shop.html",
+    "txt": "shops/txt/Agelus%27_Farm_Shop.txt"
+  },
+  "Agmundi_Quality_Clothes": {
+    "html": "shops/html/Agmundi_Quality_Clothes.html",
+    "txt": "shops/txt/Agmundi_Quality_Clothes.txt"
+  },
+  "Ak-Haranu%27s_Exotic_Shop.": {
+    "html": "shops/html/Ak-Haranu%27s_Exotic_Shop..html",
+    "txt": "shops/txt/Ak-Haranu%27s_Exotic_Shop..txt"
+  },
+  "Al_Kharid": {
+    "html": "shops/html/Al_Kharid.html",
+    "txt": "shops/txt/Al_Kharid.txt"
+  },
+  "Al_Kharid_General_Store": {
+    "html": "shops/html/Al_Kharid_General_Store.html",
+    "txt": "shops/txt/Al_Kharid_General_Store.txt"
+  },
+  "Aldarin": {
+    "html": "shops/html/Aldarin.html",
+    "txt": "shops/txt/Aldarin.txt"
+  },
+  "Aldarin_General_Store": {
+    "html": "shops/html/Aldarin_General_Store.html",
+    "txt": "shops/txt/Aldarin_General_Store.txt"
+  },
+  "Aleck%27s_Hunter_Emporium.": {
+    "html": "shops/html/Aleck%27s_Hunter_Emporium..html",
+    "txt": "shops/txt/Aleck%27s_Hunter_Emporium..txt"
+  },
+  "Ali%27s_Discount_Wares.": {
+    "html": "shops/html/Ali%27s_Discount_Wares..html",
+    "txt": "shops/txt/Ali%27s_Discount_Wares..txt"
+  },
+  "Alice%27s_Farming_shop.": {
+    "html": "shops/html/Alice%27s_Farming_shop..html",
+    "txt": "shops/txt/Alice%27s_Farming_shop..txt"
+  },
+  "Allanna%27s_Farming_Shop": {
+    "html": "shops/html/Allanna%27s_Farming_Shop.html",
+    "txt": "shops/txt/Allanna%27s_Farming_Shop.txt"
+  },
+  "Amelia%27s_Seed_Shop": {
+    "html": "shops/html/Amelia%27s_Seed_Shop.html",
+    "txt": "shops/txt/Amelia%27s_Seed_Shop.txt"
+  },
+  "Amlodd%27s_Magical_Supplies": {
+    "html": "shops/html/Amlodd%27s_Magical_Supplies.html",
+    "txt": "shops/txt/Amlodd%27s_Magical_Supplies.txt"
+  },
+  "Amulet": {
+    "html": "shops/html/Amulet.html",
+    "txt": "shops/txt/Amulet.txt"
+  },
+  "Amulet_shops": {
+    "html": "shops/html/Amulet_shops.html",
+    "txt": "shops/txt/Amulet_shops.txt"
+  },
+  "Aneirin%27s_Armour": {
+    "html": "shops/html/Aneirin%27s_Armour.html",
+    "txt": "shops/txt/Aneirin%27s_Armour.txt"
+  },
+  "Ape_Atoll": {
+    "html": "shops/html/Ape_Atoll.html",
+    "txt": "shops/txt/Ape_Atoll.txt"
+  },
+  "Arceuus": {
+    "html": "shops/html/Arceuus.html",
+    "txt": "shops/txt/Arceuus.txt"
+  },
+  "Archery_shops": {
+    "html": "shops/html/Archery_shops.html",
+    "txt": "shops/txt/Archery_shops.txt"
+  },
+  "Arclight": {
+    "html": "shops/html/Arclight.html",
+    "txt": "shops/txt/Arclight.txt"
+  },
+  "Ardougne_Baker%27s_Stall.": {
+    "html": "shops/html/Ardougne_Baker%27s_Stall..html",
+    "txt": "shops/txt/Ardougne_Baker%27s_Stall..txt"
+  },
+  "Ardougne_Fur_Stall.": {
+    "html": "shops/html/Ardougne_Fur_Stall..html",
+    "txt": "shops/txt/Ardougne_Fur_Stall..txt"
+  },
+  "Ardougne_Gem_Stall.": {
+    "html": "shops/html/Ardougne_Gem_Stall..html",
+    "txt": "shops/txt/Ardougne_Gem_Stall..txt"
+  },
+  "Ardougne_Silver_Stall.": {
+    "html": "shops/html/Ardougne_Silver_Stall..html",
+    "txt": "shops/txt/Ardougne_Silver_Stall..txt"
+  },
+  "Ardougne_Spice_Stall.": {
+    "html": "shops/html/Ardougne_Spice_Stall..html",
+    "txt": "shops/txt/Ardougne_Spice_Stall..txt"
+  },
+  "Arhein_Store": {
+    "html": "shops/html/Arhein_Store.html",
+    "txt": "shops/txt/Arhein_Store.txt"
+  },
+  "Armour_Shop_(Jatizso)": {
+    "html": "shops/html/Armour_Shop_(Jatizso).html",
+    "txt": "shops/txt/Armour_Shop_(Jatizso).txt"
+  },
+  "Armour_store.": {
+    "html": "shops/html/Armour_store..html",
+    "txt": "shops/txt/Armour_store..txt"
+  },
+  "Armoury": {
+    "html": "shops/html/Armoury.html",
+    "txt": "shops/txt/Armoury.txt"
+  },
+  "Arnold%27s_Eclectic_Supplies.": {
+    "html": "shops/html/Arnold%27s_Eclectic_Supplies..html",
+    "txt": "shops/txt/Arnold%27s_Eclectic_Supplies..txt"
+  },
+  "Arrows": {
+    "html": "shops/html/Arrows.html",
+    "txt": "shops/txt/Arrows.txt"
+  },
+  "Artima%27s_Crafting_Supplies": {
+    "html": "shops/html/Artima%27s_Crafting_Supplies.html",
+    "txt": "shops/txt/Artima%27s_Crafting_Supplies.txt"
+  },
+  "Asgarnia": {
+    "html": "shops/html/Asgarnia.html",
+    "txt": "shops/txt/Asgarnia.txt"
+  },
+  "Atlazora%27s_Rest": {
+    "html": "shops/html/Atlazora%27s_Rest.html",
+    "txt": "shops/txt/Atlazora%27s_Rest.txt"
+  },
+  "Aubury%27s_Rune_Shop.": {
+    "html": "shops/html/Aubury%27s_Rune_Shop..html",
+    "txt": "shops/txt/Aubury%27s_Rune_Shop..txt"
+  },
+  "Aurel%27s_Supplies": {
+    "html": "shops/html/Aurel%27s_Supplies.html",
+    "txt": "shops/txt/Aurel%27s_Supplies.txt"
+  },
+  "Authentic_Throwing_Weapons.": {
+    "html": "shops/html/Authentic_Throwing_Weapons..html",
+    "txt": "shops/txt/Authentic_Throwing_Weapons..txt"
+  },
+  "Ava%27s_Odds_and_Ends": {
+    "html": "shops/html/Ava%27s_Odds_and_Ends.html",
+    "txt": "shops/txt/Ava%27s_Odds_and_Ends.txt"
+  },
+  "Axe": {
+    "html": "shops/html/Axe.html",
+    "txt": "shops/txt/Axe.txt"
+  },
+  "Axe_shops": {
+    "html": "shops/html/Axe_shops.html",
+    "txt": "shops/txt/Axe_shops.txt"
+  },
+  "Baba_Yaga%27s_Magic_Shop.": {
+    "html": "shops/html/Baba_Yaga%27s_Magic_Shop..html",
+    "txt": "shops/txt/Baba_Yaga%27s_Magic_Shop..txt"
+  },
+  "Bandit_Bargains": {
+    "html": "shops/html/Bandit_Bargains.html",
+    "txt": "shops/txt/Bandit_Bargains.txt"
+  },
+  "Bandit_Camp_(Kharidian_Desert)": {
+    "html": "shops/html/Bandit_Camp_(Kharidian_Desert).html",
+    "txt": "shops/txt/Bandit_Camp_(Kharidian_Desert).txt"
+  },
+  "Bandit_Duty_Free": {
+    "html": "shops/html/Bandit_Duty_Free.html",
+    "txt": "shops/txt/Bandit_Duty_Free.txt"
+  },
+  "Bar_(location)": {
+    "html": "shops/html/Bar_(location).html",
+    "txt": "shops/txt/Bar_(location).txt"
+  },
+  "Barbarian_Village": {
+    "html": "shops/html/Barbarian_Village.html",
+    "txt": "shops/txt/Barbarian_Village.txt"
+  },
+  "Barker%27s_Haberdashery": {
+    "html": "shops/html/Barker%27s_Haberdashery.html",
+    "txt": "shops/txt/Barker%27s_Haberdashery.txt"
+  },
+  "Battle_Runes": {
+    "html": "shops/html/Battle_Runes.html",
+    "txt": "shops/txt/Battle_Runes.txt"
+  },
+  "Battleaxe": {
+    "html": "shops/html/Battleaxe.html",
+    "txt": "shops/txt/Battleaxe.txt"
+  },
+  "Battleaxes": {
+    "html": "shops/html/Battleaxes.html",
+    "txt": "shops/txt/Battleaxes.txt"
+  },
+  "Bedabin_Camp": {
+    "html": "shops/html/Bedabin_Camp.html",
+    "txt": "shops/txt/Bedabin_Camp.txt"
+  },
+  "Bedabin_Village_Bartering": {
+    "html": "shops/html/Bedabin_Village_Bartering.html",
+    "txt": "shops/txt/Bedabin_Village_Bartering.txt"
+  },
+  "Beer": {
+    "html": "shops/html/Beer.html",
+    "txt": "shops/txt/Beer.txt"
+  },
+  "Betty%27s_Magic_Emporium.": {
+    "html": "shops/html/Betty%27s_Magic_Emporium..html",
+    "txt": "shops/txt/Betty%27s_Magic_Emporium..txt"
+  },
+  "Black_kiteshield": {
+    "html": "shops/html/Black_kiteshield.html",
+    "txt": "shops/txt/Black_kiteshield.txt"
+  },
+  "Blades_by_Urbi.": {
+    "html": "shops/html/Blades_by_Urbi..html",
+    "txt": "shops/txt/Blades_by_Urbi..txt"
+  },
+  "Blair%27s_Armour": {
+    "html": "shops/html/Blair%27s_Armour.html",
+    "txt": "shops/txt/Blair%27s_Armour.txt"
+  },
+  "Blood_rune": {
+    "html": "shops/html/Blood_rune.html",
+    "txt": "shops/txt/Blood_rune.txt"
+  },
+  "Blurberry_Bar": {
+    "html": "shops/html/Blurberry_Bar.html",
+    "txt": "shops/txt/Blurberry_Bar.txt"
+  },
+  "Bob": {
+    "html": "shops/html/Bob.html",
+    "txt": "shops/txt/Bob.txt"
+  },
+  "Bob%27s_Brilliant_Axes": {
+    "html": "shops/html/Bob%27s_Brilliant_Axes.html",
+    "txt": "shops/txt/Bob%27s_Brilliant_Axes.txt"
+  },
+  "Bob%27s_Brilliant_Axes.": {
+    "html": "shops/html/Bob%27s_Brilliant_Axes..html",
+    "txt": "shops/txt/Bob%27s_Brilliant_Axes..txt"
+  },
+  "Bolkoy%27s_Village_Shop": {
+    "html": "shops/html/Bolkoy%27s_Village_Shop.html",
+    "txt": "shops/txt/Bolkoy%27s_Village_Shop.txt"
+  },
+  "Bounty_Hunter_Shop": {
+    "html": "shops/html/Bounty_Hunter_Shop.html",
+    "txt": "shops/txt/Bounty_Hunter_Shop.txt"
+  },
+  "Bow": {
+    "html": "shops/html/Bow.html",
+    "txt": "shops/txt/Bow.txt"
+  },
+  "Branwen%27s_Farming_Shop": {
+    "html": "shops/html/Branwen%27s_Farming_Shop.html",
+    "txt": "shops/txt/Branwen%27s_Farming_Shop.txt"
+  },
+  "Brian%27s_Archery_Supplies.": {
+    "html": "shops/html/Brian%27s_Archery_Supplies..html",
+    "txt": "shops/txt/Brian%27s_Archery_Supplies..txt"
+  },
+  "Brian%27s_Battleaxe_Bazaar.": {
+    "html": "shops/html/Brian%27s_Battleaxe_Bazaar..html",
+    "txt": "shops/txt/Brian%27s_Battleaxe_Bazaar..txt"
+  },
+  "Briget%27s_Weapons": {
+    "html": "shops/html/Briget%27s_Weapons.html",
+    "txt": "shops/txt/Briget%27s_Weapons.txt"
+  },
+  "Brimhaven": {
+    "html": "shops/html/Brimhaven.html",
+    "txt": "shops/txt/Brimhaven.txt"
+  },
+  "Burgh_de_Rott": {
+    "html": "shops/html/Burgh_de_Rott.html",
+    "txt": "shops/txt/Burgh_de_Rott.txt"
+  },
+  "Burthorpe": {
+    "html": "shops/html/Burthorpe.html",
+    "txt": "shops/txt/Burthorpe.txt"
+  },
+  "Burthorpe_Supplies": {
+    "html": "shops/html/Burthorpe_Supplies.html",
+    "txt": "shops/txt/Burthorpe_Supplies.txt"
+  },
+  "Cabbage": {
+    "html": "shops/html/Cabbage.html",
+    "txt": "shops/txt/Cabbage.txt"
+  },
+  "Calculators": {
+    "html": "shops/html/Calculators.html",
+    "txt": "shops/txt/Calculators.txt"
+  },
+  "Calvar'ion%2FStrategies": {
+    "html": "shops/html/Calvar'ion%2FStrategies.html",
+    "txt": "shops/txt/Calvar'ion%2FStrategies.txt"
+  },
+  "Cam_Torum": {
+    "html": "shops/html/Cam_Torum.html",
+    "txt": "shops/txt/Cam_Torum.txt"
+  },
+  "Cam_Torum_Blacksmith": {
+    "html": "shops/html/Cam_Torum_Blacksmith.html",
+    "txt": "shops/txt/Cam_Torum_Blacksmith.txt"
+  },
+  "Cam_Torum_General_Store": {
+    "html": "shops/html/Cam_Torum_General_Store.html",
+    "txt": "shops/txt/Cam_Torum_General_Store.txt"
+  },
+  "Camdozaal": {
+    "html": "shops/html/Camdozaal.html",
+    "txt": "shops/txt/Camdozaal.txt"
+  },
+  "Candle": {
+    "html": "shops/html/Candle.html",
+    "txt": "shops/txt/Candle.txt"
+  },
+  "Candle_Shop": {
+    "html": "shops/html/Candle_Shop.html",
+    "txt": "shops/txt/Candle_Shop.txt"
+  },
+  "Candle_shops": {
+    "html": "shops/html/Candle_shops.html",
+    "txt": "shops/txt/Candle_shops.txt"
+  },
+  "Canifis": {
+    "html": "shops/html/Canifis.html",
+    "txt": "shops/txt/Canifis.txt"
+  },
+  "Cape_of_Accomplishment": {
+    "html": "shops/html/Cape_of_Accomplishment.html",
+    "txt": "shops/txt/Cape_of_Accomplishment.txt"
+  },
+  "Carefree_Crafting_Stall": {
+    "html": "shops/html/Carefree_Crafting_Stall.html",
+    "txt": "shops/txt/Carefree_Crafting_Stall.txt"
+  },
+  "Cassie%27s_Shield_Shop.": {
+    "html": "shops/html/Cassie%27s_Shield_Shop..html",
+    "txt": "shops/txt/Cassie%27s_Shield_Shop..txt"
+  },
+  "Catherby": {
+    "html": "shops/html/Catherby.html",
+    "txt": "shops/txt/Catherby.txt"
+  },
+  "Chainbodies": {
+    "html": "shops/html/Chainbodies.html",
+    "txt": "shops/txt/Chainbodies.txt"
+  },
+  "Chainbody_shops": {
+    "html": "shops/html/Chainbody_shops.html",
+    "txt": "shops/txt/Chainbody_shops.txt"
+  },
+  "Champions%27_Guild": {
+    "html": "shops/html/Champions%27_Guild.html",
+    "txt": "shops/txt/Champions%27_Guild.txt"
+  },
+  "Civitas_illa_Fortis": {
+    "html": "shops/html/Civitas_illa_Fortis.html",
+    "txt": "shops/txt/Civitas_illa_Fortis.txt"
+  },
+  "Clothes": {
+    "html": "shops/html/Clothes.html",
+    "txt": "shops/txt/Clothes.txt"
+  },
+  "Clothes_shops": {
+    "html": "shops/html/Clothes_shops.html",
+    "txt": "shops/txt/Clothes_shops.txt"
+  },
+  "Cobado%27s_Groceries": {
+    "html": "shops/html/Cobado%27s_Groceries.html",
+    "txt": "shops/txt/Cobado%27s_Groceries.txt"
+  },
+  "Coins": {
+    "html": "shops/html/Coins.html",
+    "txt": "shops/txt/Coins.txt"
+  },
+  "Combat_Achievements": {
+    "html": "shops/html/Combat_Achievements.html",
+    "txt": "shops/txt/Combat_Achievements.txt"
+  },
+  "Conara%27s_Jewels": {
+    "html": "shops/html/Conara%27s_Jewels.html",
+    "txt": "shops/txt/Conara%27s_Jewels.txt"
+  },
+  "Construction_supplies": {
+    "html": "shops/html/Construction_supplies.html",
+    "txt": "shops/txt/Construction_supplies.txt"
+  },
+  "Contraband_yak_produce.": {
+    "html": "shops/html/Contraband_yak_produce..html",
+    "txt": "shops/txt/Contraband_yak_produce..txt"
+  },
+  "Cooking": {
+    "html": "shops/html/Cooking.html",
+    "txt": "shops/txt/Cooking.txt"
+  },
+  "Cooking_shops": {
+    "html": "shops/html/Cooking_shops.html",
+    "txt": "shops/txt/Cooking_shops.txt"
+  },
+  "Cooks%27_Guild": {
+    "html": "shops/html/Cooks%27_Guild.html",
+    "txt": "shops/txt/Cooks%27_Guild.txt"
+  },
+  "Count": {
+    "html": "shops/html/Count.html",
+    "txt": "shops/txt/Count.txt"
+  },
+  "Crafting": {
+    "html": "shops/html/Crafting.html",
+    "txt": "shops/txt/Crafting.txt"
+  },
+  "Crafting_shops": {
+    "html": "shops/html/Crafting_shops.html",
+    "txt": "shops/txt/Crafting_shops.txt"
+  },
+  "Crossbow_(weapon)": {
+    "html": "shops/html/Crossbow_(weapon).html",
+    "txt": "shops/txt/Crossbow_(weapon).txt"
+  },
+  "Crossbow_Shop_(Dwarven_Mine)": {
+    "html": "shops/html/Crossbow_Shop_(Dwarven_Mine).html",
+    "txt": "shops/txt/Crossbow_Shop_(Dwarven_Mine).txt"
+  },
+  "Crossbow_Shop_(Keldagrim)": {
+    "html": "shops/html/Crossbow_Shop_(Keldagrim).html",
+    "txt": "shops/txt/Crossbow_Shop_(Keldagrim).txt"
+  },
+  "Crossbow_Shop_(White_Wolf_Mountain)": {
+    "html": "shops/html/Crossbow_Shop_(White_Wolf_Mountain).html",
+    "txt": "shops/txt/Crossbow_Shop_(White_Wolf_Mountain).txt"
+  },
+  "Crossbow_limbs": {
+    "html": "shops/html/Crossbow_limbs.html",
+    "txt": "shops/txt/Crossbow_limbs.txt"
+  },
+  "Crossbow_shops": {
+    "html": "shops/html/Crossbow_shops.html",
+    "txt": "shops/txt/Crossbow_shops.txt"
+  },
+  "Crossbow_stock": {
+    "html": "shops/html/Crossbow_stock.html",
+    "txt": "shops/txt/Crossbow_stock.txt"
+  },
+  "Culinaromancer%27s_Chest": {
+    "html": "shops/html/Culinaromancer%27s_Chest.html",
+    "txt": "shops/txt/Culinaromancer%27s_Chest.txt"
+  },
+  "Currencies": {
+    "html": "shops/html/Currencies.html",
+    "txt": "shops/txt/Currencies.txt"
+  },
+  "Daga%27s_Scimitar_Smithy": {
+    "html": "shops/html/Daga%27s_Scimitar_Smithy.html",
+    "txt": "shops/txt/Daga%27s_Scimitar_Smithy.txt"
+  },
+  "Daggers": {
+    "html": "shops/html/Daggers.html",
+    "txt": "shops/txt/Daggers.txt"
+  },
+  "Dal%27s_General_Ogre_Supplies": {
+    "html": "shops/html/Dal%27s_General_Ogre_Supplies.html",
+    "txt": "shops/txt/Dal%27s_General_Ogre_Supplies.txt"
+  },
+  "Dargaud%27s_Bow_and_Arrows.": {
+    "html": "shops/html/Dargaud%27s_Bow_and_Arrows..html",
+    "txt": "shops/txt/Dargaud%27s_Bow_and_Arrows..txt"
+  },
+  "Darkmeyer": {
+    "html": "shops/html/Darkmeyer.html",
+    "txt": "shops/txt/Darkmeyer.txt"
+  },
+  "Darkmeyer_General_Store": {
+    "html": "shops/html/Darkmeyer_General_Store.html",
+    "txt": "shops/txt/Darkmeyer_General_Store.txt"
+  },
+  "Darkmeyer_Lantern_Shop": {
+    "html": "shops/html/Darkmeyer_Lantern_Shop.html",
+    "txt": "shops/txt/Darkmeyer_Lantern_Shop.txt"
+  },
+  "Darkmeyer_Meat_Shop": {
+    "html": "shops/html/Darkmeyer_Meat_Shop.html",
+    "txt": "shops/txt/Darkmeyer_Meat_Shop.txt"
+  },
+  "Darkmeyer_Seamstress": {
+    "html": "shops/html/Darkmeyer_Seamstress.html",
+    "txt": "shops/txt/Darkmeyer_Seamstress.txt"
+  },
+  "Darren%27s_Wilderness_Cape_Shop.": {
+    "html": "shops/html/Darren%27s_Wilderness_Cape_Shop..html",
+    "txt": "shops/txt/Darren%27s_Wilderness_Cape_Shop..txt"
+  },
+  "Daryl%27s_Ranging_Surplus": {
+    "html": "shops/html/Daryl%27s_Ranging_Surplus.html",
+    "txt": "shops/txt/Daryl%27s_Ranging_Surplus.txt"
+  },
+  "Davon%27s_Amulet_Store.": {
+    "html": "shops/html/Davon%27s_Amulet_Store..html",
+    "txt": "shops/txt/Davon%27s_Amulet_Store..txt"
+  },
+  "Deadman_Reward_Store": {
+    "html": "shops/html/Deadman_Reward_Store.html",
+    "txt": "shops/txt/Deadman_Reward_Store.txt"
+  },
+  "Diamond": {
+    "html": "shops/html/Diamond.html",
+    "txt": "shops/txt/Diamond.txt"
+  },
+  "Diango%27s_Toy_Store": {
+    "html": "shops/html/Diango%27s_Toy_Store.html",
+    "txt": "shops/txt/Diango%27s_Toy_Store.txt"
+  },
+  "Dodgy_Mike%27s_Second_Hand_Clothing.": {
+    "html": "shops/html/Dodgy_Mike%27s_Second_Hand_Clothing..html",
+    "txt": "shops/txt/Dodgy_Mike%27s_Second_Hand_Clothing..txt"
+  },
+  "Dommik%27s_Crafting_Store.": {
+    "html": "shops/html/Dommik%27s_Crafting_Store..html",
+    "txt": "shops/txt/Dommik%27s_Crafting_Store..txt"
+  },
+  "Dorgesh-Kaan": {
+    "html": "shops/html/Dorgesh-Kaan.html",
+    "txt": "shops/txt/Dorgesh-Kaan.txt"
+  },
+  "Dorgesh-Kaan_General_Supplies": {
+    "html": "shops/html/Dorgesh-Kaan_General_Supplies.html",
+    "txt": "shops/txt/Dorgesh-Kaan_General_Supplies.txt"
+  },
+  "Dorgeshuun_weapons": {
+    "html": "shops/html/Dorgeshuun_weapons.html",
+    "txt": "shops/txt/Dorgeshuun_weapons.txt"
+  },
+  "Dragon_scimitar": {
+    "html": "shops/html/Dragon_scimitar.html",
+    "txt": "shops/txt/Dragon_scimitar.txt"
+  },
+  "Draynor_Seed_Market": {
+    "html": "shops/html/Draynor_Seed_Market.html",
+    "txt": "shops/txt/Draynor_Seed_Market.txt"
+  },
+  "Draynor_Village": {
+    "html": "shops/html/Draynor_Village.html",
+    "txt": "shops/txt/Draynor_Village.txt"
+  },
+  "Drogo%27s_Mining_Emporium.": {
+    "html": "shops/html/Drogo%27s_Mining_Emporium..html",
+    "txt": "shops/txt/Drogo%27s_Mining_Emporium..txt"
+  },
+  "Dusuri%27s_Star_Shop": {
+    "html": "shops/html/Dusuri%27s_Star_Shop.html",
+    "txt": "shops/txt/Dusuri%27s_Star_Shop.txt"
+  },
+  "Dwarven_Mine": {
+    "html": "shops/html/Dwarven_Mine.html",
+    "txt": "shops/txt/Dwarven_Mine.txt"
+  },
+  "Dwarven_Shopping_Store": {
+    "html": "shops/html/Dwarven_Shopping_Store.html",
+    "txt": "shops/txt/Dwarven_Shopping_Store.txt"
+  },
+  "Dye": {
+    "html": "shops/html/Dye.html",
+    "txt": "shops/txt/Dye.txt"
+  },
+  "Dye_shop": {
+    "html": "shops/html/Dye_shop.html",
+    "txt": "shops/txt/Dye_shop.txt"
+  },
+  "East_Ardougne": {
+    "html": "shops/html/East_Ardougne.html",
+    "txt": "shops/txt/East_Ardougne.txt"
+  },
+  "Edgeville": {
+    "html": "shops/html/Edgeville.html",
+    "txt": "shops/txt/Edgeville.txt"
+  },
+  "Edgeville_General_Store": {
+    "html": "shops/html/Edgeville_General_Store.html",
+    "txt": "shops/txt/Edgeville_General_Store.txt"
+  },
+  "Edmond%27s_Wilderness_Cape_Shop.": {
+    "html": "shops/html/Edmond%27s_Wilderness_Cape_Shop..html",
+    "txt": "shops/txt/Edmond%27s_Wilderness_Cape_Shop..txt"
+  },
+  "Edward%27s_Wilderness_Cape_Shop.": {
+    "html": "shops/html/Edward%27s_Wilderness_Cape_Shop..html",
+    "txt": "shops/txt/Edward%27s_Wilderness_Cape_Shop..txt"
+  },
+  "Elemental_staves": {
+    "html": "shops/html/Elemental_staves.html",
+    "txt": "shops/txt/Elemental_staves.txt"
+  },
+  "Elgan%27s_Exceptional_Staffs!": {
+    "html": "shops/html/Elgan%27s_Exceptional_Staffs!.html",
+    "txt": "shops/txt/Elgan%27s_Exceptional_Staffs!.txt"
+  },
+  "Emir%27s_Arena": {
+    "html": "shops/html/Emir%27s_Arena.html",
+    "txt": "shops/txt/Emir%27s_Arena.txt"
+  },
+  "Entrana": {
+    "html": "shops/html/Entrana.html",
+    "txt": "shops/txt/Entrana.txt"
+  },
+  "Etceteria": {
+    "html": "shops/html/Etceteria.html",
+    "txt": "shops/txt/Etceteria.txt"
+  },
+  "Etceteria_Fish": {
+    "html": "shops/html/Etceteria_Fish.html",
+    "txt": "shops/txt/Etceteria_Fish.txt"
+  },
+  "Fairy_Fixit%27s_Fairy_Enchantment": {
+    "html": "shops/html/Fairy_Fixit%27s_Fairy_Enchantment.html",
+    "txt": "shops/txt/Fairy_Fixit%27s_Fairy_Enchantment.txt"
+  },
+  "Falador": {
+    "html": "shops/html/Falador.html",
+    "txt": "shops/txt/Falador.txt"
+  },
+  "Falador_General_Store": {
+    "html": "shops/html/Falador_General_Store.html",
+    "txt": "shops/txt/Falador_General_Store.txt"
+  },
+  "Fancy_Clothes_Store": {
+    "html": "shops/html/Fancy_Clothes_Store.html",
+    "txt": "shops/txt/Fancy_Clothes_Store.txt"
+  },
+  "Farming": {
+    "html": "shops/html/Farming.html",
+    "txt": "shops/txt/Farming.txt"
+  },
+  "Farming_Guild": {
+    "html": "shops/html/Farming_Guild.html",
+    "txt": "shops/txt/Farming_Guild.txt"
+  },
+  "Farming_Supplies": {
+    "html": "shops/html/Farming_Supplies.html",
+    "txt": "shops/txt/Farming_Supplies.txt"
+  },
+  "Farming_shops": {
+    "html": "shops/html/Farming_shops.html",
+    "txt": "shops/txt/Farming_shops.txt"
+  },
+  "Faustus%27_Fruit_and_Veg": {
+    "html": "shops/html/Faustus%27_Fruit_and_Veg.html",
+    "txt": "shops/txt/Faustus%27_Fruit_and_Veg.txt"
+  },
+  "Feldip_Hills": {
+    "html": "shops/html/Feldip_Hills.html",
+    "txt": "shops/txt/Feldip_Hills.txt"
+  },
+  "Fernahei%27s_Fishing_Hut.": {
+    "html": "shops/html/Fernahei%27s_Fishing_Hut..html",
+    "txt": "shops/txt/Fernahei%27s_Fishing_Hut..txt"
+  },
+  "Filamina%27s_Wares": {
+    "html": "shops/html/Filamina%27s_Wares.html",
+    "txt": "shops/txt/Filamina%27s_Wares.txt"
+  },
+  "Fine_Fashions": {
+    "html": "shops/html/Fine_Fashions.html",
+    "txt": "shops/txt/Fine_Fashions.txt"
+  },
+  "Fish": {
+    "html": "shops/html/Fish.html",
+    "txt": "shops/txt/Fish.txt"
+  },
+  "Fishing": {
+    "html": "shops/html/Fishing.html",
+    "txt": "shops/txt/Fishing.txt"
+  },
+  "Fishing_Guild": {
+    "html": "shops/html/Fishing_Guild.html",
+    "txt": "shops/txt/Fishing_Guild.txt"
+  },
+  "Fishing_Guild_Shop.": {
+    "html": "shops/html/Fishing_Guild_Shop..html",
+    "txt": "shops/txt/Fishing_Guild_Shop..txt"
+  },
+  "Fishing_shops": {
+    "html": "shops/html/Fishing_shops.html",
+    "txt": "shops/txt/Fishing_shops.txt"
+  },
+  "Floria%27s_Fashion": {
+    "html": "shops/html/Floria%27s_Fashion.html",
+    "txt": "shops/txt/Floria%27s_Fashion.txt"
+  },
+  "Flosi%27s_Fishmongers": {
+    "html": "shops/html/Flosi%27s_Fishmongers.html",
+    "txt": "shops/txt/Flosi%27s_Fishmongers.txt"
+  },
+  "Flynn%27s_Mace_Market.": {
+    "html": "shops/html/Flynn%27s_Mace_Market..html",
+    "txt": "shops/txt/Flynn%27s_Mace_Market..txt"
+  },
+  "Food": {
+    "html": "shops/html/Food.html",
+    "txt": "shops/txt/Food.txt"
+  },
+  "Food_Store": {
+    "html": "shops/html/Food_Store.html",
+    "txt": "shops/txt/Food_Store.txt"
+  },
+  "Food_shops": {
+    "html": "shops/html/Food_shops.html",
+    "txt": "shops/txt/Food_shops.txt"
+  },
+  "Forestry_Shop": {
+    "html": "shops/html/Forestry_Shop.html",
+    "txt": "shops/txt/Forestry_Shop.txt"
+  },
+  "Forestry_shop": {
+    "html": "shops/html/Forestry_shop.html",
+    "txt": "shops/txt/Forestry_shop.txt"
+  },
+  "Fortis_Baker%27s_Stall": {
+    "html": "shops/html/Fortis_Baker%27s_Stall.html",
+    "txt": "shops/txt/Fortis_Baker%27s_Stall.txt"
+  },
+  "Fortis_Blacksmith": {
+    "html": "shops/html/Fortis_Blacksmith.html",
+    "txt": "shops/txt/Fortis_Blacksmith.txt"
+  },
+  "Fortis_Fur_Stall": {
+    "html": "shops/html/Fortis_Fur_Stall.html",
+    "txt": "shops/txt/Fortis_Fur_Stall.txt"
+  },
+  "Fortis_Gem_Stall": {
+    "html": "shops/html/Fortis_Gem_Stall.html",
+    "txt": "shops/txt/Fortis_Gem_Stall.txt"
+  },
+  "Fortis_General_Store": {
+    "html": "shops/html/Fortis_General_Store.html",
+    "txt": "shops/txt/Fortis_General_Store.txt"
+  },
+  "Fortis_Silk_Stall": {
+    "html": "shops/html/Fortis_Silk_Stall.html",
+    "txt": "shops/txt/Fortis_Silk_Stall.txt"
+  },
+  "Fortis_Spice_Stall": {
+    "html": "shops/html/Fortis_Spice_Stall.html",
+    "txt": "shops/txt/Fortis_Spice_Stall.txt"
+  },
+  "Fossil_Island": {
+    "html": "shops/html/Fossil_Island.html",
+    "txt": "shops/txt/Fossil_Island.txt"
+  },
+  "Fossil_Island_General_Store": {
+    "html": "shops/html/Fossil_Island_General_Store.html",
+    "txt": "shops/txt/Fossil_Island_General_Store.txt"
+  },
+  "Frankie%27s_Fishing_Emporium": {
+    "html": "shops/html/Frankie%27s_Fishing_Emporium.html",
+    "txt": "shops/txt/Frankie%27s_Fishing_Emporium.txt"
+  },
+  "Free-to-play": {
+    "html": "shops/html/Free-to-play.html",
+    "txt": "shops/txt/Free-to-play.txt"
+  },
+  "Fremennik_Fishmonger": {
+    "html": "shops/html/Fremennik_Fishmonger.html",
+    "txt": "shops/txt/Fremennik_Fishmonger.txt"
+  },
+  "Fremennik_Fur_Trader": {
+    "html": "shops/html/Fremennik_Fur_Trader.html",
+    "txt": "shops/txt/Fremennik_Fur_Trader.txt"
+  },
+  "Fremennik_Province": {
+    "html": "shops/html/Fremennik_Province.html",
+    "txt": "shops/txt/Fremennik_Province.txt"
+  },
+  "Fremennik_helmet": {
+    "html": "shops/html/Fremennik_helmet.html",
+    "txt": "shops/txt/Fremennik_helmet.txt"
+  },
+  "Frenita%27s_Cookery_Shop.": {
+    "html": "shops/html/Frenita%27s_Cookery_Shop..html",
+    "txt": "shops/txt/Frenita%27s_Cookery_Shop..txt"
+  },
+  "Frincos%27_Fabulous_Herb_Store.": {
+    "html": "shops/html/Frincos%27_Fabulous_Herb_Store..html",
+    "txt": "shops/txt/Frincos%27_Fabulous_Herb_Store..txt"
+  },
+  "Full_helmet": {
+    "html": "shops/html/Full_helmet.html",
+    "txt": "shops/txt/Full_helmet.txt"
+  },
+  "Funch%27s_Fine_Groceries": {
+    "html": "shops/html/Funch%27s_Fine_Groceries.html",
+    "txt": "shops/txt/Funch%27s_Fine_Groceries.txt"
+  },
+  "Fur": {
+    "html": "shops/html/Fur.html",
+    "txt": "shops/txt/Fur.txt"
+  },
+  "Fur_traders": {
+    "html": "shops/html/Fur_traders.html",
+    "txt": "shops/txt/Fur_traders.txt"
+  },
+  "Gabooty%27s_Tai_Bwo_Wannai_Cooperative.": {
+    "html": "shops/html/Gabooty%27s_Tai_Bwo_Wannai_Cooperative..html",
+    "txt": "shops/txt/Gabooty%27s_Tai_Bwo_Wannai_Cooperative..txt"
+  },
+  "Gabooty%27s_Tai_Bwo_Wannai_Drinky_Store.": {
+    "html": "shops/html/Gabooty%27s_Tai_Bwo_Wannai_Drinky_Store..html",
+    "txt": "shops/txt/Gabooty%27s_Tai_Bwo_Wannai_Drinky_Store..txt"
+  },
+  "Gaius%27_Two_Handed_Shop.": {
+    "html": "shops/html/Gaius%27_Two_Handed_Shop..html",
+    "txt": "shops/txt/Gaius%27_Two_Handed_Shop..txt"
+  },
+  "Garden_Centre": {
+    "html": "shops/html/Garden_Centre.html",
+    "txt": "shops/txt/Garden_Centre.txt"
+  },
+  "Gem_Trader.": {
+    "html": "shops/html/Gem_Trader..html",
+    "txt": "shops/txt/Gem_Trader..txt"
+  },
+  "Gem_shops": {
+    "html": "shops/html/Gem_shops.html",
+    "txt": "shops/txt/Gem_shops.txt"
+  },
+  "Gems": {
+    "html": "shops/html/Gems.html",
+    "txt": "shops/txt/Gems.txt"
+  },
+  "General_Store_(Canifis)": {
+    "html": "shops/html/General_Store_(Canifis).html",
+    "txt": "shops/txt/General_Store_(Canifis).txt"
+  },
+  "General_store": {
+    "html": "shops/html/General_store.html",
+    "txt": "shops/txt/General_store.txt"
+  },
+  "Gerrant%27s_Fishy_Business.": {
+    "html": "shops/html/Gerrant%27s_Fishy_Business..html",
+    "txt": "shops/txt/Gerrant%27s_Fishy_Business..txt"
+  },
+  "Gianne%27s_Restaurant": {
+    "html": "shops/html/Gianne%27s_Restaurant.html",
+    "txt": "shops/txt/Gianne%27s_Restaurant.txt"
+  },
+  "Gnome_spice": {
+    "html": "shops/html/Gnome_spice.html",
+    "txt": "shops/txt/Gnome_spice.txt"
+  },
+  "Grace%27s_Graceful_Clothing": {
+    "html": "shops/html/Grace%27s_Graceful_Clothing.html",
+    "txt": "shops/txt/Grace%27s_Graceful_Clothing.txt"
+  },
+  "Grand_Exchange": {
+    "html": "shops/html/Grand_Exchange.html",
+    "txt": "shops/txt/Grand_Exchange.txt"
+  },
+  "Grand_Tree_Groceries": {
+    "html": "shops/html/Grand_Tree_Groceries.html",
+    "txt": "shops/txt/Grand_Tree_Groceries.txt"
+  },
+  "Great_Kourend": {
+    "html": "shops/html/Great_Kourend.html",
+    "txt": "shops/txt/Great_Kourend.txt"
+  },
+  "Green_Gemstone_Gems": {
+    "html": "shops/html/Green_Gemstone_Gems.html",
+    "txt": "shops/txt/Green_Gemstone_Gems.txt"
+  },
+  "Greengrocer_of_Miscellania": {
+    "html": "shops/html/Greengrocer_of_Miscellania.html",
+    "txt": "shops/txt/Greengrocer_of_Miscellania.txt"
+  },
+  "Grud%27s_Herblore_Stall.": {
+    "html": "shops/html/Grud%27s_Herblore_Stall..html",
+    "txt": "shops/txt/Grud%27s_Herblore_Stall..txt"
+  },
+  "Grum%27s_Gold_Exchange.": {
+    "html": "shops/html/Grum%27s_Gold_Exchange..html",
+    "txt": "shops/txt/Grum%27s_Gold_Exchange..txt"
+  },
+  "Gu%27Tanoth": {
+    "html": "shops/html/Gu%27Tanoth.html",
+    "txt": "shops/txt/Gu%27Tanoth.txt"
+  },
+  "Guilds": {
+    "html": "shops/html/Guilds.html",
+    "txt": "shops/txt/Guilds.txt"
+  },
+  "Guinevere%27s_Dyes": {
+    "html": "shops/html/Guinevere%27s_Dyes.html",
+    "txt": "shops/txt/Guinevere%27s_Dyes.txt"
+  },
+  "Gulluck_and_Sons": {
+    "html": "shops/html/Gulluck_and_Sons.html",
+    "txt": "shops/txt/Gulluck_and_Sons.txt"
+  },
+  "Gunslik%27s_Assorted_Items": {
+    "html": "shops/html/Gunslik%27s_Assorted_Items.html",
+    "txt": "shops/txt/Gunslik%27s_Assorted_Items.txt"
+  },
+  "Gwyn%27s_Mining_Emporium": {
+    "html": "shops/html/Gwyn%27s_Mining_Emporium.html",
+    "txt": "shops/txt/Gwyn%27s_Mining_Emporium.txt"
+  },
+  "Halberds": {
+    "html": "shops/html/Halberds.html",
+    "txt": "shops/txt/Halberds.txt"
+  },
+  "Hamab%27s_Crafting_Emporium": {
+    "html": "shops/html/Hamab%27s_Crafting_Emporium.html",
+    "txt": "shops/txt/Hamab%27s_Crafting_Emporium.txt"
+  },
+  "Happy_Heroes%27_H%27emporium.": {
+    "html": "shops/html/Happy_Heroes%27_H%27emporium..html",
+    "txt": "shops/txt/Happy_Heroes%27_H%27emporium..txt"
+  },
+  "Harpoon": {
+    "html": "shops/html/Harpoon.html",
+    "txt": "shops/txt/Harpoon.txt"
+  },
+  "Harpoon_Joe%27s_House_of_%27Rum%27.": {
+    "html": "shops/html/Harpoon_Joe%27s_House_of_%27Rum%27..html",
+    "txt": "shops/txt/Harpoon_Joe%27s_House_of_%27Rum%27..txt"
+  },
+  "Harry%27s_Fishing_Shop.": {
+    "html": "shops/html/Harry%27s_Fishing_Shop..html",
+    "txt": "shops/txt/Harry%27s_Fishing_Shop..txt"
+  },
+  "Hefin_Inn": {
+    "html": "shops/html/Hefin_Inn.html",
+    "txt": "shops/txt/Hefin_Inn.txt"
+  },
+  "Helmet_Shop.": {
+    "html": "shops/html/Helmet_Shop..html",
+    "txt": "shops/txt/Helmet_Shop..txt"
+  },
+  "Helmet_shops": {
+    "html": "shops/html/Helmet_shops.html",
+    "txt": "shops/txt/Helmet_shops.txt"
+  },
+  "Hemenster": {
+    "html": "shops/html/Hemenster.html",
+    "txt": "shops/txt/Hemenster.txt"
+  },
+  "Hendor%27s_Awesome_Ores": {
+    "html": "shops/html/Hendor%27s_Awesome_Ores.html",
+    "txt": "shops/txt/Hendor%27s_Awesome_Ores.txt"
+  },
+  "Herblore": {
+    "html": "shops/html/Herblore.html",
+    "txt": "shops/txt/Herblore.txt"
+  },
+  "Herblore_shops": {
+    "html": "shops/html/Herblore_shops.html",
+    "txt": "shops/txt/Herblore_shops.txt"
+  },
+  "Heroes%27_Guild": {
+    "html": "shops/html/Heroes%27_Guild.html",
+    "txt": "shops/txt/Heroes%27_Guild.txt"
+  },
+  "Herquin%27s_Gems.": {
+    "html": "shops/html/Herquin%27s_Gems..html",
+    "txt": "shops/txt/Herquin%27s_Gems..txt"
+  },
+  "Hickton%27s_Archery_Emporium.": {
+    "html": "shops/html/Hickton%27s_Archery_Emporium..html",
+    "txt": "shops/txt/Hickton%27s_Archery_Emporium..txt"
+  },
+  "Holy_symbol": {
+    "html": "shops/html/Holy_symbol.html",
+    "txt": "shops/txt/Holy_symbol.txt"
+  },
+  "Honest_Jimmy%27s_House_of_Stuff": {
+    "html": "shops/html/Honest_Jimmy%27s_House_of_Stuff.html",
+    "txt": "shops/txt/Honest_Jimmy%27s_House_of_Stuff.txt"
+  },
+  "Horvik%27s_Armour_Shop.": {
+    "html": "shops/html/Horvik%27s_Armour_Shop..html",
+    "txt": "shops/txt/Horvik%27s_Armour_Shop..txt"
+  },
+  "Hosidius": {
+    "html": "shops/html/Hosidius.html",
+    "txt": "shops/txt/Hosidius.txt"
+  },
+  "Huita%27s_Herbal_Supplies": {
+    "html": "shops/html/Huita%27s_Herbal_Supplies.html",
+    "txt": "shops/txt/Huita%27s_Herbal_Supplies.txt"
+  },
+  "Hunter": {
+    "html": "shops/html/Hunter.html",
+    "txt": "shops/txt/Hunter.txt"
+  },
+  "Hunter_Guild": {
+    "html": "shops/html/Hunter_Guild.html",
+    "txt": "shops/txt/Hunter_Guild.txt"
+  },
+  "Hunter_shops": {
+    "html": "shops/html/Hunter_shops.html",
+    "txt": "shops/txt/Hunter_shops.txt"
+  },
+  "Ian%27s_Wilderness_Cape_Shop.": {
+    "html": "shops/html/Ian%27s_Wilderness_Cape_Shop..html",
+    "txt": "shops/txt/Ian%27s_Wilderness_Cape_Shop..txt"
+  },
+  "Ifaba%27s_General_Store": {
+    "html": "shops/html/Ifaba%27s_General_Store.html",
+    "txt": "shops/txt/Ifaba%27s_General_Store.txt"
+  },
+  "Imia%27s_Supplies": {
+    "html": "shops/html/Imia%27s_Supplies.html",
+    "txt": "shops/txt/Imia%27s_Supplies.txt"
+  },
+  "Initiate_Temple_Knight_Armoury": {
+    "html": "shops/html/Initiate_Temple_Knight_Armoury.html",
+    "txt": "shops/txt/Initiate_Temple_Knight_Armoury.txt"
+  },
+  "Iorwerth%27s_Arms": {
+    "html": "shops/html/Iorwerth%27s_Arms.html",
+    "txt": "shops/txt/Iorwerth%27s_Arms.txt"
+  },
+  "Irksol_(shop)": {
+    "html": "shops/html/Irksol_(shop).html",
+    "txt": "shops/txt/Irksol_(shop).txt"
+  },
+  "Ironmen": {
+    "html": "shops/html/Ironmen.html",
+    "txt": "shops/txt/Ironmen.txt"
+  },
+  "Ishmael%27s_Fish_He_Sells": {
+    "html": "shops/html/Ishmael%27s_Fish_He_Sells.html",
+    "txt": "shops/txt/Ishmael%27s_Fish_He_Sells.txt"
+  },
+  "Island_Fishmonger": {
+    "html": "shops/html/Island_Fishmonger.html",
+    "txt": "shops/txt/Island_Fishmonger.txt"
+  },
+  "Island_Greengrocer": {
+    "html": "shops/html/Island_Greengrocer.html",
+    "txt": "shops/txt/Island_Greengrocer.txt"
+  },
+  "Ivan%27s_Supplies": {
+    "html": "shops/html/Ivan%27s_Supplies.html",
+    "txt": "shops/txt/Ivan%27s_Supplies.txt"
+  },
+  "Iwan%27s_Maces": {
+    "html": "shops/html/Iwan%27s_Maces.html",
+    "txt": "shops/txt/Iwan%27s_Maces.txt"
+  },
+  "Jamila%27s_Craft_Stall.": {
+    "html": "shops/html/Jamila%27s_Craft_Stall..html",
+    "txt": "shops/txt/Jamila%27s_Craft_Stall..txt"
+  },
+  "Jatix%27s_Herblore_Shop.": {
+    "html": "shops/html/Jatix%27s_Herblore_Shop..html",
+    "txt": "shops/txt/Jatix%27s_Herblore_Shop..txt"
+  },
+  "Jatizso": {
+    "html": "shops/html/Jatizso.html",
+    "txt": "shops/txt/Jatizso.txt"
+  },
+  "Jennifer%27s_General_Supplies": {
+    "html": "shops/html/Jennifer%27s_General_Supplies.html",
+    "txt": "shops/txt/Jennifer%27s_General_Supplies.txt"
+  },
+  "Jewellery_shops": {
+    "html": "shops/html/Jewellery_shops.html",
+    "txt": "shops/txt/Jewellery_shops.txt"
+  },
+  "Jiggig": {
+    "html": "shops/html/Jiggig.html",
+    "txt": "shops/txt/Jiggig.txt"
+  },
+  "Jiminua%27s_Jungle_Store.": {
+    "html": "shops/html/Jiminua%27s_Jungle_Store..html",
+    "txt": "shops/txt/Jiminua%27s_Jungle_Store..txt"
+  },
+  "Jukat_(shop)": {
+    "html": "shops/html/Jukat_(shop).html",
+    "txt": "shops/txt/Jukat_(shop).txt"
+  },
+  "Justine%27s_stuff_for_the_Last_Shopper_Standing": {
+    "html": "shops/html/Justine%27s_stuff_for_the_Last_Shopper_Standing.html",
+    "txt": "shops/txt/Justine%27s_stuff_for_the_Last_Shopper_Standing.txt"
+  },
+  "Kandarin": {
+    "html": "shops/html/Kandarin.html",
+    "txt": "shops/txt/Kandarin.txt"
+  },
+  "Karamja": {
+    "html": "shops/html/Karamja.html",
+    "txt": "shops/txt/Karamja.txt"
+  },
+  "Karamja_General_Store": {
+    "html": "shops/html/Karamja_General_Store.html",
+    "txt": "shops/txt/Karamja_General_Store.txt"
+  },
+  "Karamja_Wines,_Spirits,_and_Beers.": {
+    "html": "shops/html/Karamja_Wines,_Spirits,_and_Beers..html",
+    "txt": "shops/txt/Karamja_Wines,_Spirits,_and_Beers..txt"
+  },
+  "Kebab": {
+    "html": "shops/html/Kebab.html",
+    "txt": "shops/txt/Kebab.txt"
+  },
+  "Kebab_seller": {
+    "html": "shops/html/Kebab_seller.html",
+    "txt": "shops/txt/Kebab_seller.txt"
+  },
+  "Kebos_Lowlands": {
+    "html": "shops/html/Kebos_Lowlands.html",
+    "txt": "shops/txt/Kebos_Lowlands.txt"
+  },
+  "Keepa_Kettilon%27s_Store": {
+    "html": "shops/html/Keepa_Kettilon%27s_Store.html",
+    "txt": "shops/txt/Keepa_Kettilon%27s_Store.txt"
+  },
+  "Keldagrim": {
+    "html": "shops/html/Keldagrim.html",
+    "txt": "shops/txt/Keldagrim.txt"
+  },
+  "Keldagrim%27s_Best_Bread": {
+    "html": "shops/html/Keldagrim%27s_Best_Bread.html",
+    "txt": "shops/txt/Keldagrim%27s_Best_Bread.txt"
+  },
+  "Keldagrim_Stonemason": {
+    "html": "shops/html/Keldagrim_Stonemason.html",
+    "txt": "shops/txt/Keldagrim_Stonemason.txt"
+  },
+  "Kenelme%27s_Wares": {
+    "html": "shops/html/Kenelme%27s_Wares.html",
+    "txt": "shops/txt/Kenelme%27s_Wares.txt"
+  },
+  "Kharidian_Desert": {
+    "html": "shops/html/Kharidian_Desert.html",
+    "txt": "shops/txt/Kharidian_Desert.txt"
+  },
+  "Khazard_General_Store": {
+    "html": "shops/html/Khazard_General_Store.html",
+    "txt": "shops/txt/Khazard_General_Store.txt"
+  },
+  "King_Lathas%27s_training_ground": {
+    "html": "shops/html/King_Lathas%27s_training_ground.html",
+    "txt": "shops/txt/King_Lathas%27s_training_ground.txt"
+  },
+  "King_Narnode%27s_Royal_Seed_Pods": {
+    "html": "shops/html/King_Narnode%27s_Royal_Seed_Pods.html",
+    "txt": "shops/txt/King_Narnode%27s_Royal_Seed_Pods.txt"
+  },
+  "Kiteshield": {
+    "html": "shops/html/Kiteshield.html",
+    "txt": "shops/txt/Kiteshield.txt"
+  },
+  "Kjut%27s_Kebabs": {
+    "html": "shops/html/Kjut%27s_Kebabs.html",
+    "txt": "shops/txt/Kjut%27s_Kebabs.txt"
+  },
+  "Kourend_Castle": {
+    "html": "shops/html/Kourend_Castle.html",
+    "txt": "shops/txt/Kourend_Castle.txt"
+  },
+  "Kourend_Castle_Baker%27s_Stall.": {
+    "html": "shops/html/Kourend_Castle_Baker%27s_Stall..html",
+    "txt": "shops/txt/Kourend_Castle_Baker%27s_Stall..txt"
+  },
+  "Kourend_Castle_Gem_Stall.": {
+    "html": "shops/html/Kourend_Castle_Gem_Stall..html",
+    "txt": "shops/txt/Kourend_Castle_Gem_Stall..txt"
+  },
+  "Larry%27s_Wilderness_Cape_Shop.": {
+    "html": "shops/html/Larry%27s_Wilderness_Cape_Shop..html",
+    "txt": "shops/txt/Larry%27s_Wilderness_Cape_Shop..txt"
+  },
+  "Leagues_Reward_Shop": {
+    "html": "shops/html/Leagues_Reward_Shop.html",
+    "txt": "shops/txt/Leagues_Reward_Shop.txt"
+  },
+  "Leenz%27s_General_Supplies": {
+    "html": "shops/html/Leenz%27s_General_Supplies.html",
+    "txt": "shops/txt/Leenz%27s_General_Supplies.txt"
+  },
+  "Legends%27_Guild": {
+    "html": "shops/html/Legends%27_Guild.html",
+    "txt": "shops/txt/Legends%27_Guild.txt"
+  },
+  "Legends_Guild_General_Store.": {
+    "html": "shops/html/Legends_Guild_General_Store..html",
+    "txt": "shops/txt/Legends_Guild_General_Store..txt"
+  },
+  "Legends_Guild_Shop_of_Useful_Items.": {
+    "html": "shops/html/Legends_Guild_Shop_of_Useful_Items..html",
+    "txt": "shops/txt/Legends_Guild_Shop_of_Useful_Items..txt"
+  },
+  "Leon%27s_Prototype_Crossbow.": {
+    "html": "shops/html/Leon%27s_Prototype_Crossbow..html",
+    "txt": "shops/txt/Leon%27s_Prototype_Crossbow..txt"
+  },
+  "Leprechaun_Larry%27s_Farming_Supplies.": {
+    "html": "shops/html/Leprechaun_Larry%27s_Farming_Supplies..html",
+    "txt": "shops/txt/Leprechaun_Larry%27s_Farming_Supplies..txt"
+  },
+  "Lighthouse": {
+    "html": "shops/html/Lighthouse.html",
+    "txt": "shops/txt/Lighthouse.txt"
+  },
+  "Little_Munty%27s_Little_Shop": {
+    "html": "shops/html/Little_Munty%27s_Little_Shop.html",
+    "txt": "shops/txt/Little_Munty%27s_Little_Shop.txt"
+  },
+  "Little_Shop_of_Horace": {
+    "html": "shops/html/Little_Shop_of_Horace.html",
+    "txt": "shops/txt/Little_Shop_of_Horace.txt"
+  },
+  "Lletya": {
+    "html": "shops/html/Lletya.html",
+    "txt": "shops/txt/Lletya.txt"
+  },
+  "Lletya_Archery_Shop": {
+    "html": "shops/html/Lletya_Archery_Shop.html",
+    "txt": "shops/txt/Lletya_Archery_Shop.txt"
+  },
+  "Lletya_Food_Store": {
+    "html": "shops/html/Lletya_Food_Store.html",
+    "txt": "shops/txt/Lletya_Food_Store.txt"
+  },
+  "Lletya_General_Store": {
+    "html": "shops/html/Lletya_General_Store.html",
+    "txt": "shops/txt/Lletya_General_Store.txt"
+  },
+  "Lletya_Seamstress": {
+    "html": "shops/html/Lletya_Seamstress.html",
+    "txt": "shops/txt/Lletya_Seamstress.txt"
+  },
+  "Lliann%27s_Wares": {
+    "html": "shops/html/Lliann%27s_Wares.html",
+    "txt": "shops/txt/Lliann%27s_Wares.txt"
+  },
+  "Logava_Gricoller%27s_Cooking_Supplies": {
+    "html": "shops/html/Logava_Gricoller%27s_Cooking_Supplies.html",
+    "txt": "shops/txt/Logava_Gricoller%27s_Cooking_Supplies.txt"
+  },
+  "Longsword": {
+    "html": "shops/html/Longsword.html",
+    "txt": "shops/txt/Longsword.txt"
+  },
+  "Louie%27s_Armoured_Legs_Bazaar.": {
+    "html": "shops/html/Louie%27s_Armoured_Legs_Bazaar..html",
+    "txt": "shops/txt/Louie%27s_Armoured_Legs_Bazaar..txt"
+  },
+  "Lovakengj": {
+    "html": "shops/html/Lovakengj.html",
+    "txt": "shops/txt/Lovakengj.txt"
+  },
+  "Lovecraft%27s_Tackle": {
+    "html": "shops/html/Lovecraft%27s_Tackle.html",
+    "txt": "shops/txt/Lovecraft%27s_Tackle.txt"
+  },
+  "Lowe%27s_Archery_Emporium": {
+    "html": "shops/html/Lowe%27s_Archery_Emporium.html",
+    "txt": "shops/txt/Lowe%27s_Archery_Emporium.txt"
+  },
+  "Lumbridge": {
+    "html": "shops/html/Lumbridge.html",
+    "txt": "shops/txt/Lumbridge.txt"
+  },
+  "Lumbridge_General_Store": {
+    "html": "shops/html/Lumbridge_General_Store.html",
+    "txt": "shops/txt/Lumbridge_General_Store.txt"
+  },
+  "Lunar_Isle": {
+    "html": "shops/html/Lunar_Isle.html",
+    "txt": "shops/txt/Lunar_Isle.txt"
+  },
+  "Lundail%27s_Arena-side_Rune_Shop.": {
+    "html": "shops/html/Lundail%27s_Arena-side_Rune_Shop..html",
+    "txt": "shops/txt/Lundail%27s_Arena-side_Rune_Shop..txt"
+  },
+  "Mace": {
+    "html": "shops/html/Mace.html",
+    "txt": "shops/txt/Mace.txt"
+  },
+  "Mace_shops": {
+    "html": "shops/html/Mace_shops.html",
+    "txt": "shops/txt/Mace_shops.txt"
+  },
+  "Maces": {
+    "html": "shops/html/Maces.html",
+    "txt": "shops/txt/Maces.txt"
+  },
+  "Mage_Arena_Staffs.": {
+    "html": "shops/html/Mage_Arena_Staffs..html",
+    "txt": "shops/txt/Mage_Arena_Staffs..txt"
+  },
+  "Magic_Guild_Store_(Mystic_Robes)": {
+    "html": "shops/html/Magic_Guild_Store_(Mystic_Robes).html",
+    "txt": "shops/txt/Magic_Guild_Store_(Mystic_Robes).txt"
+  },
+  "Magic_Guild_Store_(Runes_and_Staves)": {
+    "html": "shops/html/Magic_Guild_Store_(Runes_and_Staves).html",
+    "txt": "shops/txt/Magic_Guild_Store_(Runes_and_Staves).txt"
+  },
+  "Magic_shops": {
+    "html": "shops/html/Magic_shops.html",
+    "txt": "shops/txt/Magic_shops.txt"
+  },
+  "Main_account": {
+    "html": "shops/html/Main_account.html",
+    "txt": "shops/txt/Main_account.txt"
+  },
+  "Mairin%27s_Market": {
+    "html": "shops/html/Mairin%27s_Market.html",
+    "txt": "shops/txt/Mairin%27s_Market.txt"
+  },
+  "Martin_Thwait%27s_Lost_and_Found.": {
+    "html": "shops/html/Martin_Thwait%27s_Lost_and_Found..html",
+    "txt": "shops/txt/Martin_Thwait%27s_Lost_and_Found..txt"
+  },
+  "Medium_helmet": {
+    "html": "shops/html/Medium_helmet.html",
+    "txt": "shops/txt/Medium_helmet.txt"
+  },
+  "Meiyerditch": {
+    "html": "shops/html/Meiyerditch.html",
+    "txt": "shops/txt/Meiyerditch.txt"
+  },
+  "Members": {
+    "html": "shops/html/Members.html",
+    "txt": "shops/txt/Members.txt"
+  },
+  "Miltog%27s_Lamps": {
+    "html": "shops/html/Miltog%27s_Lamps.html",
+    "txt": "shops/txt/Miltog%27s_Lamps.txt"
+  },
+  "Mining_Guild": {
+    "html": "shops/html/Mining_Guild.html",
+    "txt": "shops/txt/Mining_Guild.txt"
+  },
+  "Mining_Guild_Mineral_Exchange": {
+    "html": "shops/html/Mining_Guild_Mineral_Exchange.html",
+    "txt": "shops/txt/Mining_Guild_Mineral_Exchange.txt"
+  },
+  "Mining_shops": {
+    "html": "shops/html/Mining_shops.html",
+    "txt": "shops/txt/Mining_shops.txt"
+  },
+  "Miscellania": {
+    "html": "shops/html/Miscellania.html",
+    "txt": "shops/txt/Miscellania.txt"
+  },
+  "Miscellanian_Clothes_Shop": {
+    "html": "shops/html/Miscellanian_Clothes_Shop.html",
+    "txt": "shops/txt/Miscellanian_Clothes_Shop.txt"
+  },
+  "Miscellanian_Food_Shop": {
+    "html": "shops/html/Miscellanian_Food_Shop.html",
+    "txt": "shops/txt/Miscellanian_Food_Shop.txt"
+  },
+  "Miscellanian_General_Store": {
+    "html": "shops/html/Miscellanian_General_Store.html",
+    "txt": "shops/txt/Miscellanian_General_Store.txt"
+  },
+  "Misthalin": {
+    "html": "shops/html/Misthalin.html",
+    "txt": "shops/txt/Misthalin.txt"
+  },
+  "Mistrock_Mining_Supplies": {
+    "html": "shops/html/Mistrock_Mining_Supplies.html",
+    "txt": "shops/txt/Mistrock_Mining_Supplies.txt"
+  },
+  "Mithril_square_shield": {
+    "html": "shops/html/Mithril_square_shield.html",
+    "txt": "shops/txt/Mithril_square_shield.txt"
+  },
+  "Money_making_guide": {
+    "html": "shops/html/Money_making_guide.html",
+    "txt": "shops/txt/Money_making_guide.txt"
+  },
+  "Moon_Clan_Fine_Clothes.": {
+    "html": "shops/html/Moon_Clan_Fine_Clothes..html",
+    "txt": "shops/txt/Moon_Clan_Fine_Clothes..txt"
+  },
+  "Moon_Clan_General_Store.": {
+    "html": "shops/html/Moon_Clan_General_Store..html",
+    "txt": "shops/txt/Moon_Clan_General_Store..txt"
+  },
+  "Moonrise_Wines": {
+    "html": "shops/html/Moonrise_Wines.html",
+    "txt": "shops/txt/Moonrise_Wines.txt"
+  },
+  "Mor_Ul_Rek": {
+    "html": "shops/html/Mor_Ul_Rek.html",
+    "txt": "shops/txt/Mor_Ul_Rek.txt"
+  },
+  "Mort%27ton": {
+    "html": "shops/html/Mort%27ton.html",
+    "txt": "shops/txt/Mort%27ton.txt"
+  },
+  "Morytania": {
+    "html": "shops/html/Morytania.html",
+    "txt": "shops/txt/Morytania.txt"
+  },
+  "Mos_Le%27Harmless": {
+    "html": "shops/html/Mos_Le%27Harmless.html",
+    "txt": "shops/txt/Mos_Le%27Harmless.txt"
+  },
+  "Mount_Karuulm": {
+    "html": "shops/html/Mount_Karuulm.html",
+    "txt": "shops/txt/Mount_Karuulm.txt"
+  },
+  "Mount_Karuulm_Weapon_Shop": {
+    "html": "shops/html/Mount_Karuulm_Weapon_Shop.html",
+    "txt": "shops/txt/Mount_Karuulm_Weapon_Shop.txt"
+  },
+  "Multicannon_parts_for_sale": {
+    "html": "shops/html/Multicannon_parts_for_sale.html",
+    "txt": "shops/txt/Multicannon_parts_for_sale.txt"
+  },
+  "Musa_Point": {
+    "html": "shops/html/Musa_Point.html",
+    "txt": "shops/txt/Musa_Point.txt"
+  },
+  "Mysterious_Hallowed_Goods": {
+    "html": "shops/html/Mysterious_Hallowed_Goods.html",
+    "txt": "shops/txt/Mysterious_Hallowed_Goods.txt"
+  },
+  "Mysterious_Stranger_(shop)": {
+    "html": "shops/html/Mysterious_Stranger_(shop).html",
+    "txt": "shops/txt/Mysterious_Stranger_(shop).txt"
+  },
+  "Mythical_Cape_Store": {
+    "html": "shops/html/Mythical_Cape_Store.html",
+    "txt": "shops/txt/Mythical_Cape_Store.txt"
+  },
+  "Myths%27_Guild": {
+    "html": "shops/html/Myths%27_Guild.html",
+    "txt": "shops/txt/Myths%27_Guild.txt"
+  },
+  "Myths%27_Guild_Armoury": {
+    "html": "shops/html/Myths%27_Guild_Armoury.html",
+    "txt": "shops/txt/Myths%27_Guild_Armoury.txt"
+  },
+  "Myths%27_Guild_Herbalist": {
+    "html": "shops/html/Myths%27_Guild_Herbalist.html",
+    "txt": "shops/txt/Myths%27_Guild_Herbalist.txt"
+  },
+  "Myths%27_Guild_Weaponry": {
+    "html": "shops/html/Myths%27_Guild_Weaponry.html",
+    "txt": "shops/txt/Myths%27_Guild_Weaponry.txt"
+  },
+  "Nardah": {
+    "html": "shops/html/Nardah.html",
+    "txt": "shops/txt/Nardah.txt"
+  },
+  "Nardah_General_Store.": {
+    "html": "shops/html/Nardah_General_Store..html",
+    "txt": "shops/txt/Nardah_General_Store..txt"
+  },
+  "Nardah_Hunter_Shop.": {
+    "html": "shops/html/Nardah_Hunter_Shop..html",
+    "txt": "shops/txt/Nardah_Hunter_Shop..txt"
+  },
+  "Nardok%27s_Bone_Weapons": {
+    "html": "shops/html/Nardok%27s_Bone_Weapons.html",
+    "txt": "shops/txt/Nardok%27s_Bone_Weapons.txt"
+  },
+  "Nathifa%27s_Bake_Stall.": {
+    "html": "shops/html/Nathifa%27s_Bake_Stall..html",
+    "txt": "shops/txt/Nathifa%27s_Bake_Stall..txt"
+  },
+  "Ned%27s_Handmade_Rope_(100%25_Wool)": {
+    "html": "shops/html/Ned%27s_Handmade_Rope_(100%25_Wool).html",
+    "txt": "shops/txt/Ned%27s_Handmade_Rope_(100%25_Wool).txt"
+  },
+  "Neil%27s_Wilderness_Cape_Shop.": {
+    "html": "shops/html/Neil%27s_Wilderness_Cape_Shop..html",
+    "txt": "shops/txt/Neil%27s_Wilderness_Cape_Shop..txt"
+  },
+  "Neitiznot": {
+    "html": "shops/html/Neitiznot.html",
+    "txt": "shops/txt/Neitiznot.txt"
+  },
+  "Neitiznot_supplies.": {
+    "html": "shops/html/Neitiznot_supplies..html",
+    "txt": "shops/txt/Neitiznot_supplies..txt"
+  },
+  "New_player_guide": {
+    "html": "shops/html/New_player_guide.html",
+    "txt": "shops/txt/New_player_guide.txt"
+  },
+  "Nurmof%27s_Pickaxe_Shop.": {
+    "html": "shops/html/Nurmof%27s_Pickaxe_Shop..html",
+    "txt": "shops/txt/Nurmof%27s_Pickaxe_Shop..txt"
+  },
+  "Obli%27s_General_Store.": {
+    "html": "shops/html/Obli%27s_General_Store..html",
+    "txt": "shops/txt/Obli%27s_General_Store..txt"
+  },
+  "Onion": {
+    "html": "shops/html/Onion.html",
+    "txt": "shops/txt/Onion.txt"
+  },
+  "Oobapohk%27s_Javelin_Store": {
+    "html": "shops/html/Oobapohk%27s_Javelin_Store.html",
+    "txt": "shops/txt/Oobapohk%27s_Javelin_Store.txt"
+  },
+  "Ore_seller.": {
+    "html": "shops/html/Ore_seller..html",
+    "txt": "shops/txt/Ore_seller..txt"
+  },
+  "Ore_store": {
+    "html": "shops/html/Ore_store.html",
+    "txt": "shops/txt/Ore_store.txt"
+  },
+  "Outer_Fortis": {
+    "html": "shops/html/Outer_Fortis.html",
+    "txt": "shops/txt/Outer_Fortis.txt"
+  },
+  "Outer_Fortis_General_Store": {
+    "html": "shops/html/Outer_Fortis_General_Store.html",
+    "txt": "shops/txt/Outer_Fortis_General_Store.txt"
+  },
+  "Oziach_(shop)": {
+    "html": "shops/html/Oziach_(shop).html",
+    "txt": "shops/txt/Oziach_(shop).txt"
+  },
+  "Palm": {
+    "html": "shops/html/Palm.html",
+    "txt": "shops/txt/Palm.txt"
+  },
+  "Pellem%27s_Fur_Store": {
+    "html": "shops/html/Pellem%27s_Fur_Store.html",
+    "txt": "shops/txt/Pellem%27s_Fur_Store.txt"
+  },
+  "Perry%27s_Chop-chop_Shop": {
+    "html": "shops/html/Perry%27s_Chop-chop_Shop.html",
+    "txt": "shops/txt/Perry%27s_Chop-chop_Shop.txt"
+  },
+  "Petrified_Pete%27s_Ore_Shop": {
+    "html": "shops/html/Petrified_Pete%27s_Ore_Shop.html",
+    "txt": "shops/txt/Petrified_Pete%27s_Ore_Shop.txt"
+  },
+  "Picaria%27s_Fishing_Shop": {
+    "html": "shops/html/Picaria%27s_Fishing_Shop.html",
+    "txt": "shops/txt/Picaria%27s_Fishing_Shop.txt"
+  },
+  "Pickaxe": {
+    "html": "shops/html/Pickaxe.html",
+    "txt": "shops/txt/Pickaxe.txt"
+  },
+  "Pickaxe-Is-Mine": {
+    "html": "shops/html/Pickaxe-Is-Mine.html",
+    "txt": "shops/txt/Pickaxe-Is-Mine.txt"
+  },
+  "Pie_Shop": {
+    "html": "shops/html/Pie_Shop.html",
+    "txt": "shops/txt/Pie_Shop.txt"
+  },
+  "Piscatoris_Fishing_Colony": {
+    "html": "shops/html/Piscatoris_Fishing_Colony.html",
+    "txt": "shops/txt/Piscatoris_Fishing_Colony.txt"
+  },
+  "Plant_pot": {
+    "html": "shops/html/Plant_pot.html",
+    "txt": "shops/txt/Plant_pot.txt"
+  },
+  "Platebody": {
+    "html": "shops/html/Platebody.html",
+    "txt": "shops/txt/Platebody.txt"
+  },
+  "Platebody_shops": {
+    "html": "shops/html/Platebody_shops.html",
+    "txt": "shops/txt/Platebody_shops.txt"
+  },
+  "Plateleg": {
+    "html": "shops/html/Plateleg.html",
+    "txt": "shops/txt/Plateleg.txt"
+  },
+  "Platelegs_shops": {
+    "html": "shops/html/Platelegs_shops.html",
+    "txt": "shops/txt/Platelegs_shops.txt"
+  },
+  "Plateskirt": {
+    "html": "shops/html/Plateskirt.html",
+    "txt": "shops/txt/Plateskirt.txt"
+  },
+  "Plateskirt_shops": {
+    "html": "shops/html/Plateskirt_shops.html",
+    "txt": "shops/txt/Plateskirt_shops.txt"
+  },
+  "Pollnivneach": {
+    "html": "shops/html/Pollnivneach.html",
+    "txt": "shops/txt/Pollnivneach.txt"
+  },
+  "Pollnivneach_general_store": {
+    "html": "shops/html/Pollnivneach_general_store.html",
+    "txt": "shops/txt/Pollnivneach_general_store.txt"
+  },
+  "Pollnivneach_general_store.": {
+    "html": "shops/html/Pollnivneach_general_store..html",
+    "txt": "shops/txt/Pollnivneach_general_store..txt"
+  },
+  "Port_Khazard": {
+    "html": "shops/html/Port_Khazard.html",
+    "txt": "shops/txt/Port_Khazard.txt"
+  },
+  "Port_Phasmatys": {
+    "html": "shops/html/Port_Phasmatys.html",
+    "txt": "shops/txt/Port_Phasmatys.txt"
+  },
+  "Port_Phasmatys_General_Store": {
+    "html": "shops/html/Port_Phasmatys_General_Store.html",
+    "txt": "shops/txt/Port_Phasmatys_General_Store.txt"
+  },
+  "Port_Piscarilius": {
+    "html": "shops/html/Port_Piscarilius.html",
+    "txt": "shops/txt/Port_Piscarilius.txt"
+  },
+  "Port_Sarim": {
+    "html": "shops/html/Port_Sarim.html",
+    "txt": "shops/txt/Port_Sarim.txt"
+  },
+  "Pot": {
+    "html": "shops/html/Pot.html",
+    "txt": "shops/txt/Pot.txt"
+  },
+  "Potato": {
+    "html": "shops/html/Potato.html",
+    "txt": "shops/txt/Potato.txt"
+  },
+  "Prifddinas": {
+    "html": "shops/html/Prifddinas.html",
+    "txt": "shops/txt/Prifddinas.txt"
+  },
+  "Prifddinas%27_Seamstress": {
+    "html": "shops/html/Prifddinas%27_Seamstress.html",
+    "txt": "shops/txt/Prifddinas%27_Seamstress.txt"
+  },
+  "Prifddinas_Foodstuffs": {
+    "html": "shops/html/Prifddinas_Foodstuffs.html",
+    "txt": "shops/txt/Prifddinas_Foodstuffs.txt"
+  },
+  "Prifddinas_Gem_Stall": {
+    "html": "shops/html/Prifddinas_Gem_Stall.html",
+    "txt": "shops/txt/Prifddinas_Gem_Stall.txt"
+  },
+  "Prifddinas_General_Store": {
+    "html": "shops/html/Prifddinas_General_Store.html",
+    "txt": "shops/txt/Prifddinas_General_Store.txt"
+  },
+  "Prifddinas_Herbal_Supplies": {
+    "html": "shops/html/Prifddinas_Herbal_Supplies.html",
+    "txt": "shops/txt/Prifddinas_Herbal_Supplies.txt"
+  },
+  "Prifddinas_Silver_Stall": {
+    "html": "shops/html/Prifddinas_Silver_Stall.html",
+    "txt": "shops/txt/Prifddinas_Silver_Stall.txt"
+  },
+  "Prifddinas_Spice_Stall": {
+    "html": "shops/html/Prifddinas_Spice_Stall.html",
+    "txt": "shops/txt/Prifddinas_Spice_Stall.txt"
+  },
+  "Proselyte_Temple_Knight_Armoury": {
+    "html": "shops/html/Proselyte_Temple_Knight_Armoury.html",
+    "txt": "shops/txt/Proselyte_Temple_Knight_Armoury.txt"
+  },
+  "Prospector_Percy%27s_Nugget_Shop": {
+    "html": "shops/html/Prospector_Percy%27s_Nugget_Shop.html",
+    "txt": "shops/txt/Prospector_Percy%27s_Nugget_Shop.txt"
+  },
+  "PvP_Arena_Rewards": {
+    "html": "shops/html/PvP_Arena_Rewards.html",
+    "txt": "shops/txt/PvP_Arena_Rewards.txt"
+  },
+  "Quality_Armour_Shop": {
+    "html": "shops/html/Quality_Armour_Shop.html",
+    "txt": "shops/txt/Quality_Armour_Shop.txt"
+  },
+  "Quality_Weapons_Shop": {
+    "html": "shops/html/Quality_Weapons_Shop.html",
+    "txt": "shops/txt/Quality_Weapons_Shop.txt"
+  },
+  "Quartermaster%27s_Stores": {
+    "html": "shops/html/Quartermaster%27s_Stores.html",
+    "txt": "shops/txt/Quartermaster%27s_Stores.txt"
+  },
+  "Quests/List": {
+    "html": "shops/html/Quests_List.html",
+    "txt": "shops/txt/Quests_List.txt"
+  },
+  "Quetzacalli_Gorge": {
+    "html": "shops/html/Quetzacalli_Gorge.html",
+    "txt": "shops/txt/Quetzacalli_Gorge.txt"
+  },
+  "Quetzacalli_Gorge_General_Store": {
+    "html": "shops/html/Quetzacalli_Gorge_General_Store.html",
+    "txt": "shops/txt/Quetzacalli_Gorge_General_Store.txt"
+  },
+  "Raetul_and_Co%27s_Cloth_Store.": {
+    "html": "shops/html/Raetul_and_Co%27s_Cloth_Store..html",
+    "txt": "shops/txt/Raetul_and_Co%27s_Cloth_Store..txt"
+  },
+  "Ramarno%27s_Shard_Exchange": {
+    "html": "shops/html/Ramarno%27s_Shard_Exchange.html",
+    "txt": "shops/txt/Ramarno%27s_Shard_Exchange.txt"
+  },
+  "Ranael%27s_Super_Skirt_Store.": {
+    "html": "shops/html/Ranael%27s_Super_Skirt_Store..html",
+    "txt": "shops/txt/Ranael%27s_Super_Skirt_Store..txt"
+  },
+  "Ranged": {
+    "html": "shops/html/Ranged.html",
+    "txt": "shops/txt/Ranged.txt"
+  },
+  "Ranging_Guild": {
+    "html": "shops/html/Ranging_Guild.html",
+    "txt": "shops/txt/Ranging_Guild.txt"
+  },
+  "Rasolo_the_Wandering_Merchant": {
+    "html": "shops/html/Rasolo_the_Wandering_Merchant.html",
+    "txt": "shops/txt/Rasolo_the_Wandering_Merchant.txt"
+  },
+  "Razmire_Builders_Merchants.": {
+    "html": "shops/html/Razmire_Builders_Merchants..html",
+    "txt": "shops/txt/Razmire_Builders_Merchants..txt"
+  },
+  "Razmire_General_Store.": {
+    "html": "shops/html/Razmire_General_Store..html",
+    "txt": "shops/txt/Razmire_General_Store..txt"
+  },
+  "Regath%27s_Wares": {
+    "html": "shops/html/Regath%27s_Wares.html",
+    "txt": "shops/txt/Regath%27s_Wares.txt"
+  },
+  "Reldak%27s_Leather_Armour": {
+    "html": "shops/html/Reldak%27s_Leather_Armour.html",
+    "txt": "shops/txt/Reldak%27s_Leather_Armour.txt"
+  },
+  "Rellekka": {
+    "html": "shops/html/Rellekka.html",
+    "txt": "shops/txt/Rellekka.txt"
+  },
+  "Rellekka_Longhall_Bar": {
+    "html": "shops/html/Rellekka_Longhall_Bar.html",
+    "txt": "shops/txt/Rellekka_Longhall_Bar.txt"
+  },
+  "Richard%27s_Farming_shop.": {
+    "html": "shops/html/Richard%27s_Farming_shop..html",
+    "txt": "shops/txt/Richard%27s_Farming_shop..txt"
+  },
+  "Richard%27s_Wilderness_Cape_Shop.": {
+    "html": "shops/html/Richard%27s_Wilderness_Cape_Shop..html",
+    "txt": "shops/txt/Richard%27s_Wilderness_Cape_Shop..txt"
+  },
+  "Rimmington": {
+    "html": "shops/html/Rimmington.html",
+    "txt": "shops/txt/Rimmington.txt"
+  },
+  "Rimmington_General_Store": {
+    "html": "shops/html/Rimmington_General_Store.html",
+    "txt": "shops/txt/Rimmington_General_Store.txt"
+  },
+  "Rok%27s_Chocs_Box": {
+    "html": "shops/html/Rok%27s_Chocs_Box.html",
+    "txt": "shops/txt/Rok%27s_Chocs_Box.txt"
+  },
+  "Rommik%27s_Crafty_Supplies.": {
+    "html": "shops/html/Rommik%27s_Crafty_Supplies..html",
+    "txt": "shops/txt/Rommik%27s_Crafty_Supplies..txt"
+  },
+  "Rufus%27s_Meat_Emporium": {
+    "html": "shops/html/Rufus%27s_Meat_Emporium.html",
+    "txt": "shops/txt/Rufus%27s_Meat_Emporium.txt"
+  },
+  "Ruins_of_Unkah": {
+    "html": "shops/html/Ruins_of_Unkah.html",
+    "txt": "shops/txt/Ruins_of_Unkah.txt"
+  },
+  "Rune_mace": {
+    "html": "shops/html/Rune_mace.html",
+    "txt": "shops/txt/Rune_mace.txt"
+  },
+  "Rune_pickaxe": {
+    "html": "shops/html/Rune_pickaxe.html",
+    "txt": "shops/txt/Rune_pickaxe.txt"
+  },
+  "Rune_platelegs": {
+    "html": "shops/html/Rune_platelegs.html",
+    "txt": "shops/txt/Rune_platelegs.txt"
+  },
+  "Rune_scimitar": {
+    "html": "shops/html/Rune_scimitar.html",
+    "txt": "shops/txt/Rune_scimitar.txt"
+  },
+  "Runes": {
+    "html": "shops/html/Runes.html",
+    "txt": "shops/txt/Runes.txt"
+  },
+  "Sack": {
+    "html": "shops/html/Sack.html",
+    "txt": "shops/txt/Sack.txt"
+  },
+  "Salius%27_Armour_Shop": {
+    "html": "shops/html/Salius%27_Armour_Shop.html",
+    "txt": "shops/txt/Salius%27_Armour_Shop.txt"
+  },
+  "Salvager_Overlook": {
+    "html": "shops/html/Salvager_Overlook.html",
+    "txt": "shops/txt/Salvager_Overlook.txt"
+  },
+  "Salvager_Overlook_General_Store": {
+    "html": "shops/html/Salvager_Overlook_General_Store.html",
+    "txt": "shops/txt/Salvager_Overlook_General_Store.txt"
+  },
+  "Sam%27s_Wilderness_Cape_Shop.": {
+    "html": "shops/html/Sam%27s_Wilderness_Cape_Shop..html",
+    "txt": "shops/txt/Sam%27s_Wilderness_Cape_Shop..txt"
+  },
+  "Sarah%27s_Farming_shop.": {
+    "html": "shops/html/Sarah%27s_Farming_shop..html",
+    "txt": "shops/txt/Sarah%27s_Farming_shop..txt"
+  },
+  "Scavvo%27s_Rune_Store.": {
+    "html": "shops/html/Scavvo%27s_Rune_Store..html",
+    "txt": "shops/txt/Scavvo%27s_Rune_Store..txt"
+  },
+  "Scimitar": {
+    "html": "shops/html/Scimitar.html",
+    "txt": "shops/txt/Scimitar.txt"
+  },
+  "Scimitar_shops": {
+    "html": "shops/html/Scimitar_shops.html",
+    "txt": "shops/txt/Scimitar_shops.txt"
+  },
+  "Seddu%27s_Adventurer%27s_Store.": {
+    "html": "shops/html/Seddu%27s_Adventurer%27s_Store..html",
+    "txt": "shops/txt/Seddu%27s_Adventurer%27s_Store..txt"
+  },
+  "Shantay_Pass_Shop": {
+    "html": "shops/html/Shantay_Pass_Shop.html",
+    "txt": "shops/txt/Shantay_Pass_Shop.txt"
+  },
+  "Shayzien": {
+    "html": "shops/html/Shayzien.html",
+    "txt": "shops/txt/Shayzien.txt"
+  },
+  "Shayzien_Styles": {
+    "html": "shops/html/Shayzien_Styles.html",
+    "txt": "shops/txt/Shayzien_Styles.txt"
+  },
+  "Shield_shops": {
+    "html": "shops/html/Shield_shops.html",
+    "txt": "shops/txt/Shield_shops.txt"
+  },
+  "Shields_of_Mistrock": {
+    "html": "shops/html/Shields_of_Mistrock.html",
+    "txt": "shops/txt/Shields_of_Mistrock.txt"
+  },
+  "Shilo_Village_(location)": {
+    "html": "shops/html/Shilo_Village_(location).html",
+    "txt": "shops/txt/Shilo_Village_(location).txt"
+  },
+  "Shop": {
+    "html": "shops/html/Shop.html",
+    "txt": "shops/txt/Shop.txt"
+  },
+  "Shop_of_Distaste": {
+    "html": "shops/html/Shop_of_Distaste.html",
+    "txt": "shops/txt/Shop_of_Distaste.txt"
+  },
+  "Sian%27s_Ranged_Weaponry": {
+    "html": "shops/html/Sian%27s_Ranged_Weaponry.html",
+    "txt": "shops/txt/Sian%27s_Ranged_Weaponry.txt"
+  },
+  "Sigmund_the_Merchant_(shop)": {
+    "html": "shops/html/Sigmund_the_Merchant_(shop).html",
+    "txt": "shops/txt/Sigmund_the_Merchant_(shop).txt"
+  },
+  "Silk": {
+    "html": "shops/html/Silk.html",
+    "txt": "shops/txt/Silk.txt"
+  },
+  "Silk_shops": {
+    "html": "shops/html/Silk_shops.html",
+    "txt": "shops/txt/Silk_shops.txt"
+  },
+  "Silver_Cog_Silver_Stall": {
+    "html": "shops/html/Silver_Cog_Silver_Stall.html",
+    "txt": "shops/txt/Silver_Cog_Silver_Stall.txt"
+  },
+  "Silver_shops": {
+    "html": "shops/html/Silver_shops.html",
+    "txt": "shops/txt/Silver_shops.txt"
+  },
+  "Simon%27s_Wilderness_Cape_Shop.": {
+    "html": "shops/html/Simon%27s_Wilderness_Cape_Shop..html",
+    "txt": "shops/txt/Simon%27s_Wilderness_Cape_Shop..txt"
+  },
+  "Skill_training_guides": {
+    "html": "shops/html/Skill_training_guides.html",
+    "txt": "shops/txt/Skill_training_guides.txt"
+  },
+  "Skulgrimen%27s_Battle_Gear": {
+    "html": "shops/html/Skulgrimen%27s_Battle_Gear.html",
+    "txt": "shops/txt/Skulgrimen%27s_Battle_Gear.txt"
+  },
+  "Slayer_Equipment_(shop)": {
+    "html": "shops/html/Slayer_Equipment_(shop).html",
+    "txt": "shops/txt/Slayer_Equipment_(shop).txt"
+  },
+  "Slayer_Rewards": {
+    "html": "shops/html/Slayer_Rewards.html",
+    "txt": "shops/txt/Slayer_Rewards.txt"
+  },
+  "Small_net": {
+    "html": "shops/html/Small_net.html",
+    "txt": "shops/txt/Small_net.txt"
+  },
+  "Smithing_Smith%27s_Shop.": {
+    "html": "shops/html/Smithing_Smith%27s_Shop..html",
+    "txt": "shops/txt/Smithing_Smith%27s_Shop..txt"
+  },
+  "Solihib%27s_Food_Stall": {
+    "html": "shops/html/Solihib%27s_Food_Stall.html",
+    "txt": "shops/txt/Solihib%27s_Food_Stall.txt"
+  },
+  "Sophanem": {
+    "html": "shops/html/Sophanem.html",
+    "txt": "shops/txt/Sophanem.txt"
+  },
+  "Spears": {
+    "html": "shops/html/Spears.html",
+    "txt": "shops/txt/Spears.txt"
+  },
+  "Speedrunning_Reward_Shop": {
+    "html": "shops/html/Speedrunning_Reward_Shop.html",
+    "txt": "shops/txt/Speedrunning_Reward_Shop.txt"
+  },
+  "Spice": {
+    "html": "shops/html/Spice.html",
+    "txt": "shops/txt/Spice.txt"
+  },
+  "Spice_shops": {
+    "html": "shops/html/Spice_shops.html",
+    "txt": "shops/txt/Spice_shops.txt"
+  },
+  "Spike%27s_Spikes": {
+    "html": "shops/html/Spike%27s_Spikes.html",
+    "txt": "shops/txt/Spike%27s_Spikes.txt"
+  },
+  "Square_shield": {
+    "html": "shops/html/Square_shield.html",
+    "txt": "shops/txt/Square_shield.txt"
+  },
+  "Staff_shops": {
+    "html": "shops/html/Staff_shops.html",
+    "txt": "shops/txt/Staff_shops.txt"
+  },
+  "Staves": {
+    "html": "shops/html/Staves.html",
+    "txt": "shops/txt/Staves.txt"
+  },
+  "Steel_axe": {
+    "html": "shops/html/Steel_axe.html",
+    "txt": "shops/txt/Steel_axe.txt"
+  },
+  "Stick_Your_Ore_Inn": {
+    "html": "shops/html/Stick_Your_Ore_Inn.html",
+    "txt": "shops/txt/Stick_Your_Ore_Inn.txt"
+  },
+  "Stonecutter_Supplies": {
+    "html": "shops/html/Stonecutter_Supplies.html",
+    "txt": "shops/txt/Stonecutter_Supplies.txt"
+  },
+  "Sunlight%27s_Sanctum": {
+    "html": "shops/html/Sunlight%27s_Sanctum.html",
+    "txt": "shops/txt/Sunlight%27s_Sanctum.txt"
+  },
+  "Sunset_Coast": {
+    "html": "shops/html/Sunset_Coast.html",
+    "txt": "shops/txt/Sunset_Coast.txt"
+  },
+  "Sunset_Coast_General_Store": {
+    "html": "shops/html/Sunset_Coast_General_Store.html",
+    "txt": "shops/txt/Sunset_Coast_General_Store.txt"
+  },
+  "Sword": {
+    "html": "shops/html/Sword.html",
+    "txt": "shops/txt/Sword.txt"
+  },
+  "Sword_shops": {
+    "html": "shops/html/Sword_shops.html",
+    "txt": "shops/txt/Sword_shops.txt"
+  },
+  "Tai_Bwo_Wannai": {
+    "html": "shops/html/Tai_Bwo_Wannai.html",
+    "txt": "shops/txt/Tai_Bwo_Wannai.txt"
+  },
+  "Tamayu%27s_Spear_Stall": {
+    "html": "shops/html/Tamayu%27s_Spear_Stall.html",
+    "txt": "shops/txt/Tamayu%27s_Spear_Stall.txt"
+  },
+  "Taverley": {
+    "html": "shops/html/Taverley.html",
+    "txt": "shops/txt/Taverley.txt"
+  },
+  "The_Asp_%26_Snake_Bar.": {
+    "html": "shops/html/The_Asp_%26_Snake_Bar..html",
+    "txt": "shops/txt/The_Asp_%26_Snake_Bar..txt"
+  },
+  "The_Big_Heist_Lodge": {
+    "html": "shops/html/The_Big_Heist_Lodge.html",
+    "txt": "shops/txt/The_Big_Heist_Lodge.txt"
+  },
+  "The_Cloak_and_Stagger": {
+    "html": "shops/html/The_Cloak_and_Stagger.html",
+    "txt": "shops/txt/The_Cloak_and_Stagger.txt"
+  },
+  "The_Deeper_Lode": {
+    "html": "shops/html/The_Deeper_Lode.html",
+    "txt": "shops/txt/The_Deeper_Lode.txt"
+  },
+  "The_Esoterican_Arms": {
+    "html": "shops/html/The_Esoterican_Arms.html",
+    "txt": "shops/txt/The_Esoterican_Arms.txt"
+  },
+  "The_Flaming_Arrow": {
+    "html": "shops/html/The_Flaming_Arrow.html",
+    "txt": "shops/txt/The_Flaming_Arrow.txt"
+  },
+  "The_Golden_Field": {
+    "html": "shops/html/The_Golden_Field.html",
+    "txt": "shops/txt/The_Golden_Field.txt"
+  },
+  "The_Lighthouse_Store": {
+    "html": "shops/html/The_Lighthouse_Store.html",
+    "txt": "shops/txt/The_Lighthouse_Store.txt"
+  },
+  "The_Lost_Pickaxe": {
+    "html": "shops/html/The_Lost_Pickaxe.html",
+    "txt": "shops/txt/The_Lost_Pickaxe.txt"
+  },
+  "The_Old_Nite": {
+    "html": "shops/html/The_Old_Nite.html",
+    "txt": "shops/txt/The_Old_Nite.txt"
+  },
+  "The_Other_Inn.": {
+    "html": "shops/html/The_Other_Inn..html",
+    "txt": "shops/txt/The_Other_Inn..txt"
+  },
+  "The_Runic_Emporium": {
+    "html": "shops/html/The_Runic_Emporium.html",
+    "txt": "shops/txt/The_Runic_Emporium.txt"
+  },
+  "The_Shrimp_and_Parrot": {
+    "html": "shops/html/The_Shrimp_and_Parrot.html",
+    "txt": "shops/txt/The_Shrimp_and_Parrot.txt"
+  },
+  "The_Spice_Is_Right.": {
+    "html": "shops/html/The_Spice_Is_Right..html",
+    "txt": "shops/txt/The_Spice_Is_Right..txt"
+  },
+  "The_Toad_and_Chicken": {
+    "html": "shops/html/The_Toad_and_Chicken.html",
+    "txt": "shops/txt/The_Toad_and_Chicken.txt"
+  },
+  "The_Windbreaker": {
+    "html": "shops/html/The_Windbreaker.html",
+    "txt": "shops/txt/The_Windbreaker.txt"
+  },
+  "Thessalia%27s_Fine_Clothes.": {
+    "html": "shops/html/Thessalia%27s_Fine_Clothes..html",
+    "txt": "shops/txt/Thessalia%27s_Fine_Clothes..txt"
+  },
+  "Thessalia%27s_Makeovers": {
+    "html": "shops/html/Thessalia%27s_Makeovers.html",
+    "txt": "shops/txt/Thessalia%27s_Makeovers.txt"
+  },
+  "Thirus_Urkar%27s_Fine_Dynamite_Store": {
+    "html": "shops/html/Thirus_Urkar%27s_Fine_Dynamite_Store.html",
+    "txt": "shops/txt/Thirus_Urkar%27s_Fine_Dynamite_Store.txt"
+  },
+  "Thurid%27s_Brain_Buckets": {
+    "html": "shops/html/Thurid%27s_Brain_Buckets.html",
+    "txt": "shops/txt/Thurid%27s_Brain_Buckets.txt"
+  },
+  "Thyria%27s_Wares": {
+    "html": "shops/html/Thyria%27s_Wares.html",
+    "txt": "shops/txt/Thyria%27s_Wares.txt"
+  },
+  "Tiadeche%27s_Karambwan_Stall": {
+    "html": "shops/html/Tiadeche%27s_Karambwan_Stall.html",
+    "txt": "shops/txt/Tiadeche%27s_Karambwan_Stall.txt"
+  },
+  "Tinderbox": {
+    "html": "shops/html/Tinderbox.html",
+    "txt": "shops/txt/Tinderbox.txt"
+  },
+  "Tirannwn": {
+    "html": "shops/html/Tirannwn.html",
+    "txt": "shops/txt/Tirannwn.txt"
+  },
+  "Tizoro%27s_Pickaxes": {
+    "html": "shops/html/Tizoro%27s_Pickaxes.html",
+    "txt": "shops/txt/Tizoro%27s_Pickaxes.txt"
+  },
+  "Toci%27s_Gem_Store": {
+    "html": "shops/html/Toci%27s_Gem_Store.html",
+    "txt": "shops/txt/Toci%27s_Gem_Store.txt"
+  },
+  "Tony%27s_Pizza_Bases": {
+    "html": "shops/html/Tony%27s_Pizza_Bases.html",
+    "txt": "shops/txt/Tony%27s_Pizza_Bases.txt"
+  },
+  "Toothy%27s_Pickaxes": {
+    "html": "shops/html/Toothy%27s_Pickaxes.html",
+    "txt": "shops/txt/Toothy%27s_Pickaxes.txt"
+  },
+  "Trader_Stan%27s_Trading_Post": {
+    "html": "shops/html/Trader_Stan%27s_Trading_Post.html",
+    "txt": "shops/txt/Trader_Stan%27s_Trading_Post.txt"
+  },
+  "Trader_Sven%27s_Black-market_Goods.": {
+    "html": "shops/html/Trader_Sven%27s_Black-market_Goods..html",
+    "txt": "shops/txt/Trader_Sven%27s_Black-market_Goods..txt"
+  },
+  "Tree_Gnome_Stronghold": {
+    "html": "shops/html/Tree_Gnome_Stronghold.html",
+    "txt": "shops/txt/Tree_Gnome_Stronghold.txt"
+  },
+  "Tree_Gnome_Village_(location)": {
+    "html": "shops/html/Tree_Gnome_Village_(location).html",
+    "txt": "shops/txt/Tree_Gnome_Village_(location).txt"
+  },
+  "Troll_Country": {
+    "html": "shops/html/Troll_Country.html",
+    "txt": "shops/txt/Troll_Country.txt"
+  },
+  "Troll_Stronghold_(location)": {
+    "html": "shops/html/Troll_Stronghold_(location).html",
+    "txt": "shops/txt/Troll_Stronghold_(location).txt"
+  },
+  "Tutab%27s_Magical_Market": {
+    "html": "shops/html/Tutab%27s_Magical_Market.html",
+    "txt": "shops/txt/Tutab%27s_Magical_Market.txt"
+  },
+  "Two_Feet_Charley%27s_Fish_Shop.": {
+    "html": "shops/html/Two_Feet_Charley%27s_Fish_Shop..html",
+    "txt": "shops/txt/Two_Feet_Charley%27s_Fish_Shop..txt"
+  },
+  "Tynan%27s_Fishing_Supplies": {
+    "html": "shops/html/Tynan%27s_Fishing_Supplies.html",
+    "txt": "shops/txt/Tynan%27s_Fishing_Supplies.txt"
+  },
+  "Tyras_Camp": {
+    "html": "shops/html/Tyras_Camp.html",
+    "txt": "shops/txt/Tyras_Camp.txt"
+  },
+  "TzHaar-Hur-Lek%27s_Ore_and_Gem_Store": {
+    "html": "shops/html/TzHaar-Hur-Lek%27s_Ore_and_Gem_Store.html",
+    "txt": "shops/txt/TzHaar-Hur-Lek%27s_Ore_and_Gem_Store.txt"
+  },
+  "TzHaar-Hur-Rin%27s_Ore_and_Gem_Store": {
+    "html": "shops/html/TzHaar-Hur-Rin%27s_Ore_and_Gem_Store.html",
+    "txt": "shops/txt/TzHaar-Hur-Rin%27s_Ore_and_Gem_Store.txt"
+  },
+  "TzHaar-Hur-Tel%27s_Equipment_Store": {
+    "html": "shops/html/TzHaar-Hur-Tel%27s_Equipment_Store.html",
+    "txt": "shops/txt/TzHaar-Hur-Tel%27s_Equipment_Store.txt"
+  },
+  "TzHaar-Hur-Zal%27s_Equipment_Store": {
+    "html": "shops/html/TzHaar-Hur-Zal%27s_Equipment_Store.html",
+    "txt": "shops/txt/TzHaar-Hur-Zal%27s_Equipment_Store.txt"
+  },
+  "TzHaar-Mej-Roh%27s_Rune_Store": {
+    "html": "shops/html/TzHaar-Mej-Roh%27s_Rune_Store.html",
+    "txt": "shops/txt/TzHaar-Mej-Roh%27s_Rune_Store.txt"
+  },
+  "Unused_shops": {
+    "html": "shops/html/Unused_shops.html",
+    "txt": "shops/txt/Unused_shops.txt"
+  },
+  "Valaine%27s_Shop_of_Champions.": {
+    "html": "shops/html/Valaine%27s_Shop_of_Champions..html",
+    "txt": "shops/txt/Valaine%27s_Shop_of_Champions..txt"
+  },
+  "Value": {
+    "html": "shops/html/Value.html",
+    "txt": "shops/txt/Value.txt"
+  },
+  "Vanessa%27s_Farming_shop.": {
+    "html": "shops/html/Vanessa%27s_Farming_shop..html",
+    "txt": "shops/txt/Vanessa%27s_Farming_shop..txt"
+  },
+  "Vannah%27s_Farming_Stall": {
+    "html": "shops/html/Vannah%27s_Farming_Stall.html",
+    "txt": "shops/txt/Vannah%27s_Farming_Stall.txt"
+  },
+  "Varlamore": {
+    "html": "shops/html/Varlamore.html",
+    "txt": "shops/txt/Varlamore.txt"
+  },
+  "Varrock": {
+    "html": "shops/html/Varrock.html",
+    "txt": "shops/txt/Varrock.txt"
+  },
+  "Varrock_General_Store": {
+    "html": "shops/html/Varrock_General_Store.html",
+    "txt": "shops/txt/Varrock_General_Store.txt"
+  },
+  "Varrock_Swordshop": {
+    "html": "shops/html/Varrock_Swordshop.html",
+    "txt": "shops/txt/Varrock_Swordshop.txt"
+  },
+  "Vegetable_shops": {
+    "html": "shops/html/Vegetable_shops.html",
+    "txt": "shops/txt/Vegetable_shops.txt"
+  },
+  "Vermundi%27s_Clothes_Stall": {
+    "html": "shops/html/Vermundi%27s_Clothes_Stall.html",
+    "txt": "shops/txt/Vermundi%27s_Clothes_Stall.txt"
+  },
+  "Vigr%27s_Warhammers": {
+    "html": "shops/html/Vigr%27s_Warhammers.html",
+    "txt": "shops/txt/Vigr%27s_Warhammers.txt"
+  },
+  "Void_Knight_Archery_Store": {
+    "html": "shops/html/Void_Knight_Archery_Store.html",
+    "txt": "shops/txt/Void_Knight_Archery_Store.txt"
+  },
+  "Void_Knight_General_Store": {
+    "html": "shops/html/Void_Knight_General_Store.html",
+    "txt": "shops/txt/Void_Knight_General_Store.txt"
+  },
+  "Void_Knight_Magic_Store": {
+    "html": "shops/html/Void_Knight_Magic_Store.html",
+    "txt": "shops/txt/Void_Knight_Magic_Store.txt"
+  },
+  "Void_Knights%27_Outpost": {
+    "html": "shops/html/Void_Knights%27_Outpost.html",
+    "txt": "shops/txt/Void_Knights%27_Outpost.txt"
+  },
+  "Warrens_Fish_Monger": {
+    "html": "shops/html/Warrens_Fish_Monger.html",
+    "txt": "shops/txt/Warrens_Fish_Monger.txt"
+  },
+  "Warrens_General_Store": {
+    "html": "shops/html/Warrens_General_Store.html",
+    "txt": "shops/txt/Warrens_General_Store.txt"
+  },
+  "Warrior_Guild_Armoury": {
+    "html": "shops/html/Warrior_Guild_Armoury.html",
+    "txt": "shops/txt/Warrior_Guild_Armoury.txt"
+  },
+  "Warrior_Guild_Food_Shop": {
+    "html": "shops/html/Warrior_Guild_Food_Shop.html",
+    "txt": "shops/txt/Warrior_Guild_Food_Shop.txt"
+  },
+  "Warrior_Guild_Potion_Shop": {
+    "html": "shops/html/Warrior_Guild_Potion_Shop.html",
+    "txt": "shops/txt/Warrior_Guild_Potion_Shop.txt"
+  },
+  "Warriors%27_Guild": {
+    "html": "shops/html/Warriors%27_Guild.html",
+    "txt": "shops/txt/Warriors%27_Guild.txt"
+  },
+  "Wayne%27s_Chains!_-_Chainmail_specialist.": {
+    "html": "shops/html/Wayne%27s_Chains!_-_Chainmail_specialist..html",
+    "txt": "shops/txt/Wayne%27s_Chains!_-_Chainmail_specialist..txt"
+  },
+  "Weapons_galore": {
+    "html": "shops/html/Weapons_galore.html",
+    "txt": "shops/txt/Weapons_galore.txt"
+  },
+  "West_Ardougne": {
+    "html": "shops/html/West_Ardougne.html",
+    "txt": "shops/txt/West_Ardougne.txt"
+  },
+  "West_Ardougne_General_Store": {
+    "html": "shops/html/West_Ardougne_General_Store.html",
+    "txt": "shops/txt/West_Ardougne_General_Store.txt"
+  },
+  "White_Knight_Armoury": {
+    "html": "shops/html/White_Knight_Armoury.html",
+    "txt": "shops/txt/White_Knight_Armoury.txt"
+  },
+  "Wilderness": {
+    "html": "shops/html/Wilderness.html",
+    "txt": "shops/txt/Wilderness.txt"
+  },
+  "William%27s_Wilderness_Cape_Shop.": {
+    "html": "shops/html/William%27s_Wilderness_Cape_Shop..html",
+    "txt": "shops/txt/William%27s_Wilderness_Cape_Shop..txt"
+  },
+  "Wine_Shop.": {
+    "html": "shops/html/Wine_Shop..html",
+    "txt": "shops/txt/Wine_Shop..txt"
+  },
+  "Wine_traders": {
+    "html": "shops/html/Wine_traders.html",
+    "txt": "shops/txt/Wine_traders.txt"
+  },
+  "Witchaven": {
+    "html": "shops/html/Witchaven.html",
+    "txt": "shops/txt/Witchaven.txt"
+  },
+  "Wizards%27_Guild": {
+    "html": "shops/html/Wizards%27_Guild.html",
+    "txt": "shops/txt/Wizards%27_Guild.txt"
+  },
+  "Woodcutting_Guild": {
+    "html": "shops/html/Woodcutting_Guild.html",
+    "txt": "shops/txt/Woodcutting_Guild.txt"
+  },
+  "Wooden_shield": {
+    "html": "shops/html/Wooden_shield.html",
+    "txt": "shops/txt/Wooden_shield.txt"
+  },
+  "World_switching": {
+    "html": "shops/html/World_switching.html",
+    "txt": "shops/txt/World_switching.txt"
+  },
+  "Worlds": {
+    "html": "shops/html/Worlds.html",
+    "txt": "shops/txt/Worlds.txt"
+  },
+  "Yanille": {
+    "html": "shops/html/Yanille.html",
+    "txt": "shops/txt/Yanille.txt"
+  },
+  "Yarnio%27s_Baked_Goods": {
+    "html": "shops/html/Yarnio%27s_Baked_Goods.html",
+    "txt": "shops/txt/Yarnio%27s_Baked_Goods.txt"
+  },
+  "Yarsul%27s_Prodigious_Pickaxes": {
+    "html": "shops/html/Yarsul%27s_Prodigious_Pickaxes.html",
+    "txt": "shops/txt/Yarsul%27s_Prodigious_Pickaxes.txt"
+  },
+  "Ye_olde_Tea_Shoppe.": {
+    "html": "shops/html/Ye_olde_Tea_Shoppe..html",
+    "txt": "shops/txt/Ye_olde_Tea_Shoppe..txt"
+  },
+  "Yrsa%27s_Accoutrements": {
+    "html": "shops/html/Yrsa%27s_Accoutrements.html",
+    "txt": "shops/txt/Yrsa%27s_Accoutrements.txt"
+  },
+  "Yrsa%27s_Shoe_Store": {
+    "html": "shops/html/Yrsa%27s_Shoe_Store.html",
+    "txt": "shops/txt/Yrsa%27s_Shoe_Store.txt"
+  },
+  "Zaff%27s_Superior_Staffs!": {
+    "html": "shops/html/Zaff%27s_Superior_Staffs!.html",
+    "txt": "shops/txt/Zaff%27s_Superior_Staffs!.txt"
+  },
+  "Zanaris": {
+    "html": "shops/html/Zanaris.html",
+    "txt": "shops/txt/Zanaris.txt"
+  },
+  "Zanaris_General_Store": {
+    "html": "shops/html/Zanaris_General_Store.html",
+    "txt": "shops/txt/Zanaris_General_Store.txt"
+  },
+  "Zeke%27s_Superior_Scimitars.": {
+    "html": "shops/html/Zeke%27s_Superior_Scimitars..html",
+    "txt": "shops/txt/Zeke%27s_Superior_Scimitars..txt"
+  },
+  "Zenesha%27s_Plate_Mail_Body_Shop.": {
+    "html": "shops/html/Zenesha%27s_Plate_Mail_Body_Shop..html",
+    "txt": "shops/txt/Zenesha%27s_Plate_Mail_Body_Shop..txt"
+  },
+  "~_Uglug%27s_stuffsies_~": {
+    "html": "shops/html/~_Uglug%27s_stuffsies_~.html",
+    "txt": "shops/txt/~_Uglug%27s_stuffsies_~.txt"
+  }
+}

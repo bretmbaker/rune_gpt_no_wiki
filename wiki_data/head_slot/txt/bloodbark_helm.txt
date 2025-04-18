@@ -1,0 +1,75 @@
+[Weapon: Bloodbark Helm]
+
+
+Abloodbark helmis a piece ofbloodbark armourworn in theheadwear slot, requiring level 60Magicand 60Defenceto equip. The helm can be made with level 79Runecraftby bringing asplitbark helmand 250blood runesto either the trueBlood AltarorKourend's Blood Altar. Doing so requires players to have first learnt the secret to infuse the armour via reading therunescroll of bloodbark.
+Each piece of bloodbark armour equipped increases the amount thatblood spellsheal by 2%. When the full set of armour is equipped, blood spells will heal the caster'sHitpointsby 35% of the amount of damage inflicted. It can be stored in amagic wardrobein a player-owned house.
+
+
+[Infobox]
+Released: 27 January2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A rather interesting smelling helmet.
+General Store Value: 15,000 coins
+High alch: 9,000 coins
+Low alch: 6,000 coins
+Weight: 0.907 kg
+Grand Exchange Value: 93,909 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 1,431
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +16
+- Slash: +14
+- Crush: +17
+- Magic: +6
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +1%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Artio/Strategies(Magic)
+5 | Artio/Strategies(Ranged)
+4 | Barbarian Assault/Strategies(Magic)
+4 | Barrows/Strategies(Magic equipment)
+2 | Crazy archaeologist/Strategies(Magic)
+4 | Giant Mole/Strategies(Magic)
+3 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+3 | Maniacal monkey/Strategies(Magic - Ice Burst)
+5 | Mithril dragon/Strategies(Magic)
+3 | Nightmare Zone/Strategies(Magic)
+3 | Phantom Muspah/Strategies(Magic & Ranged)
+3 | Revenants/Strategies(Magic)
+2 | Scorpia/Strategies(Magic)
+1 | Scurrius/Strategies(Magic (mid level))
+4 | Scurrius/Strategies(Magic (high level))
+5 | Skeleton (Ape Atoll)(Magic)
+4 | The Bane of Demons(Magic)
+4 | Tombs of Amascut/Strategies(Magic switch)
+4 | Tormented Demon/Strategies(Magic switch)
+3 | Ultimate Ironman Guide/Equipment
+3 | The Whisperer/Strategies(Magic)
+4 | Zulrah/Strategies(Magic)

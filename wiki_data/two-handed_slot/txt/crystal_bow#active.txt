@@ -1,0 +1,68 @@
+[Weapon: Crystal Bow#Active]
+
+
+Thecrystal bowis abowmade from enchantedelven crystal. It requires the completion ofRoving Elvesto wield, as well as 50Agilityand 70Ranged. The bow benefits from damage and accuracy boosts whencrystal armouris equipped.
+A crystal bow is created when an elf sings to acrystal weapon seedand enchants it into a bow. The most prominent elf with this talent isIlfeen, who will perform this service for players for a price. However, she can only do this with a weapon seed; partially charged bows should be reverted to their seed form (using the right-click menu in the inventory) to be converted back into a bow.
+
+
+[Infobox]
+Released: 25 July2019(Update)
+Members: Yes
+Quest item: Roving Elves
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Check, Revert, Drop
+Worn options: Check
+Examine: A nice sturdy magical bow.
+General Store Value: 300,000 coins
+Alchemy: Not alchemisable
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +100
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +78
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 5 ticks (3.0s) | 10 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 4 ticks (2.4s) | 10 tiles |  | None
+ | Longrange | Standard | Longrange | 5 ticks (3.0s) | 10 tiles |  | +3 Defence
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Abyssal Sire/Strategies(Phase 1 Ranged)
+5 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+3 | Dagannoth Kings/Strategies(Range)
+5 | Demonic gorilla/Strategies(upgrades and downgrades)
+3 | Giant Mole/Strategies(Ranged)
+5 | Lizardman shaman/Strategies(Ranged)
+3 | Phantom Muspah/Strategies(Ranged)
+4 | Phantom Muspah/Strategies(Magic & Ranged)
+5 | TzHaar Fight Cave/Strategies(Pure)
+5 | TzHaar Fight Cave/Strategies(Ranged)
+3 | TzHaar Fight Cave/Strategies(Early-game iron)

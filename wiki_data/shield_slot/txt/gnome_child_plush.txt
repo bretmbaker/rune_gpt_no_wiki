@@ -1,0 +1,47 @@
+[Weapon: Gnome Child Plush]
+
+
+Thegnome child plushis an item that can be obtained from participating in anybirthday event, and was first obtained from the2023 Birthday event. It is a plush toy depiction of aGnome child, and has a "Change-style" option that switches them into theJad plushorstray dog plush.
+If destroyed, a replacement can be obtained fromDiangoinDraynor Villageor from thetoy boxof acostume room.
+
+
+[Infobox]
+Released: 22 February2023(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Change-style, Destroy
+Worn options: Change-style
+Destroy: You can get a replacement from Diango.
+Examine: An adorable plushy based on a familiar face!
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 0.001 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

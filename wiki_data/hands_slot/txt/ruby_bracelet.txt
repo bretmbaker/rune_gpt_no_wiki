@@ -1,0 +1,55 @@
+[Weapon: Ruby Bracelet]
+
+
+Theruby braceletis ajewelleryitem that players can make by using agold baron afurnacewhile they have arubyand abracelet mouldin theirinventory. It requires aCraftinglevel of 42, and gives 80experiencewhen made. It offers no combat bonuses when worn.
+Members can enchant the ruby bracelet into aninoculation braceletby castingLvl-3 Enchanton it. Doing so requires level 49Magicand grants 59 Magic experience.
+
+
+[Infobox]
+Released: 30 April2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I wonder if this is valuable.
+General Store Value: 2,325 coins
+High alch: 1,395 coins
+Low alch: 930 coins
+Weight: 0.25 kg
+Grand Exchange Value: 1,165 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 162,423
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Casket (Reward pool) | N/A | 6–8(noted) | 9/230 | 
+Casket (Reward pool) | N/A | 12–16(noted) | 1/230 | 

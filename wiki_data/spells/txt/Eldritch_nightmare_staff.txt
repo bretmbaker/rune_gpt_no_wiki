@@ -1,0 +1,377 @@
+[Spell: Eldritch_nightmare_staff]
+
+Eldritch nightmare staff
+
+
+
+
+
+
+
+Released | 6 February2020(Update)
+
+Members | Yes
+
+Quest item | No
+
+Leagueregion | Morytania✓
+
+
+
+Properties
+
+
+
+Tradeable | No
+
+Equipable | Yes
+
+Stackable | No
+
+Noteable | No
+
+Options | Wield, Dismantle, Drop
+
+Examine | An ancient staff corrupted by darkness. An eldritch orb has been added to it.
+
+
+
+Values
+
+
+
+Value | 4,600,000 coins
+
+High alch | 2,760,000 coins
+
+Low alch | 1,840,000 coins
+
+Weight | 1.6 kg
+
+
+
+Advanced data
+
+
+
+Item ID | 24425
+
+Link | MOID
+
+
+
+Theeldritch nightmare staffis astaffthat is created by attaching aneldritch orbto thenightmare staffgranting it a prayer restoringspecial attack. Requiring level 82Magicand 50Hitpointsto wield, it can autocast offensivestandard spellsas well asAncient Magicks. Like theNightmare staffit gives a 15% bonus inmagic damage. The upgraded staff is untradeable, but it can be reverted to its tradeable components at any time. If lost on death in theWilderness, the killer will receive the staff and the orb.
+
+Combat stats[edit|edit source]
+
+Attack bonuses |  | 
+
+
+
+ |  |  |  | 
+
++0 | +0 | +0 | +16 | +0
+
+
+
+Defence bonuses
+
+
+
+ |  |  |  | 
+
++0 | +0 | +0 | +14 | +0
+
+
+
+Other bonuses | Slot
+
+
+
+ |  |  |  | 
+
++0 | +0 | +15% | +0 | List
+
+
+
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+
+ | Pound | Crush | Aggressive |  | +3 Strength
+
+ | Focus | Crush | Defensive |  | +3 Defence
+
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+
+ | Spell | Magic | Autocast |  | None
+
+Autocasting options
+
+ |  | 
+
+Special attack[edit|edit source]
+
+The eldritch nightmare staff has aspecial attack,Invocate, that consumes 55% of the player's special attack energy to hit the target for a high amount of magic damage, also restoring the caster'sprayer pointsby 50% of the damage dealt.Invocatecan boost the caster's prayer points above their natural prayer level, up to a maximum of 120.
+
+The Prayer restoration fromInvocateis calculated from the potential damage of a hit before some types of damage immunities are applied. This can allow it to restore prayer even if a monster appears to take zero damage. For example,kuraskscan only be harmed by leaf-bladed weaponry,broad bolts, or theMagic Dartspell, but ifInvocatewould have otherwise hit a 40 before immunity, the restoration effect still takes place for 20 prayer points. This mechanic also applies if the target has less total health than the potential damage of the attack. If a target with only 2 hitpoints remaining is struck with anInvocatethat would have dealt 60 damage, the attacker will still have 30 prayer points restored.
+
+Utility[edit|edit source]
+
+Players often use the Eldritch nightmare staff's special attack as a supplement, or replacement for prayer supplies on an extended trip. This can be done with the staff as a primary weapon, or swapping to it when special attack energy is available.  It can be particularly cost saving on slayer tasks that require protection prayers. BecauseInvocatemust successfully hit a target to restore prayer points, quickly turning on accuracy boosts likeMystic MightorAugurybefore casting the special attack becomes a strategy that pays for itself in prayer restoration.
+
+Special attack energy naturally recharges at the rate of 10% every 30 seconds,  allowing one restoration from the Eldritch nightmare staff every 180 seconds(3 minutes)of recharge. TheLightbearerring doubles natural energy regeneration speed, reducing it to 90 seconds(1.5 minutes)of recharge between special attacks. Players with a sufficiently high prayer bonus andLightbearer, can easily useInvocateto sustainprotect-fromprayers without potions, indefinitely.
+
+This staff is a popular choice to use at theInfernoto conserve supplies. Combined with theLightbeareranddivine rune pouch, it is considered highly inventory efficient compared to other potential weapons. While its special attack allows for very effective prayer restoration, players seeking similar methods of health restoration should consider theSaradomin godswordorToxic blowpipe.
+
+During the fight againstThe Nightmare,Invocateinflicts double damage upon the totems, potentially restoring very large amounts of prayer points all at once.
+
+Max hit[edit|edit source]
+
+When calculating the max hit,Invocateacts like a standard magic spell. The spell has an internal max hit, which is calculated first based on a player's visiblemagiclevel, and rounded down; Then allmagic damagegear, including the +15% from the staff itself, is calculated separately. Because the staff has a magic damage bonus, the max hit seen in-game will always be higher than the spell's internal max hit.
+
+Invocate's base damage stops scaling at a visible player magic level of 97. This means that boosting your magic above this level will not increase the internal ceiling of 44 damage. HoweverInvocate's damage will still be increased through additional magic damage gear, or items like theSlayer helmet (i)when on aslayer task.
+
+The max hit varies with visible Magic level according to the formula below.
+
+Spell Max Hit=min⁡{⌊44*Magic Level99+1⌋,44}Staff Max Hit=⌊Spell Max Hit*1.15⌋
+
+Magiclevels | Maximum hit
+
+Base spell | With staff magic damage
+
+82-83 | 37 | 42
+
+84-85 | 38 | 43
+
+86-87 | 39 | 44
+
+88-89 | 40 | 46
+
+90-92 | 41 | 47
+
+93-94 | 42 | 48
+
+95-96 | 43 | 49
+
+97-99+ | 44 | 50
+
+Magiclevels | Maximum hit
+
+Situation | Gear | Max hit
+
+97-99+ | Staff only |  | 50
+
+Best in slot | ++++++++ | 63
+
+Undead | ++++++++ | 68
+
+Slayer task | ++++++++ | 71
+
+Castle Wars | +++++++ | 74
+
+Other notes[edit|edit source]
+
+Invocategrants the player 10 magic experience when cast, and an additional 2 experience per damage dealt.
+
+The special attack will only damage enemies with flying type immunities, likeAviansieif an autocast spell has been selected. Having a melee attack style selected will return the message "The Aviansie is flying too high for you to attack using melee."
+
+Unlike theancient mace's special attack, using it against acombat dummyin aplayer-owned housecombat roomwill notresult in any prayer points restored.
+
+Creation[edit|edit source]
+
+Used in recommended equipment[edit|edit source]
+
+Rank | Method
+
+1 | Inferno/Strategies(Learners)
+
+1 | Inferno/Strategies(On task)
+
+2 | Maniacal monkey/Strategies(Magic - Ice Burst)
+
+2 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+
+5 | Skeletal Wyvern/Strategies(Magic)
+
+Special attack
+
+Rank | Method
+
+1 | Abyssal Sire/Strategies(Phase 2 Magic)
+
+1 | Commander Zilyana/Strategies(Magic)
+
+2 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+
+1 | Dust devil/Strategies(Bursting/Barraging)
+
+2 | Fortis Colosseum/Strategies(Ranged)
+
+2 | Fortis Colosseum/Strategies(Mage)
+
+2 | Fortis Colosseum/Strategies(Melee)
+
+4 | Greater Nechryael/Strategies(Bursting/Barraging)
+
+1 | K'ril Tsutsaroth/Strategies(Magic)
+
+3 | Kalphite Queen/Strategies(Max Mage (0 switches))
+
+2 | Kraken/Strategies(Magic)
+
+2 | Kree'arra/Strategies(Tbow / Bowfa)
+
+1 | Kree'arra/Strategies(Magic)
+
+2 | Nightmare Zone/Strategies(Magic)
+
+2 | Slayer task/Abyssal demons(Magic)
+
+2 | Slayer task/Jellies(Magic)
+
+4 | Slayer task/Nechryael(Magic)
+
+2 | Tormented Demon/Strategies(Magic switch)
+
+1 | TzHaar Fight Cave/Strategies(Magic)
+
+1 | The Whisperer/Strategies(Magic)
+
+Comparison between other magic weapons[edit|edit source]
+
+Name | Level(s) required | Magic attack | Magic damage | Price | Notes
+
+ | Tumeken's shadow | 85 | +35 | N/A | 1,144,718,391 | Requires52per charge of the built-in spell.Built-in spell damage scales with the player's Magic level and can hit up to 34 at99without any magic damage bonus.Has apassive effectwhich triples magic attack bonus and magic damage from the player's worn equipment. The magic damage increase is capped at a total of 100%.Because the spell is built-in, the player does not need to carry its runes in their inventory and can useArceuus spellbook,Lunar spells, orAncient Magickswhile wielding this staff.
+
+ | Harmonised nightmare staff | 8250 | +16 | +15% | 504,029,083 | Can autocaststandard spellsonly.Standard spellsattack one tick faster, matching the speed of apowered staff.Otherwise possesses identical bonuses and benefits to theNightmare staff.
+
+ | Volatile nightmare staff | 8250 | +16 | +15% | 166,281,031 | Can autocast bothAncient Magicksandstandard spells.Has aspecial attackwhich consumes 55% of the player's special attack energy and deals a high amount of damage with 50% increased accuracy. This attack does not consume runes.Otherwise possesses identical bonuses and benefits to theNightmare staff.
+
+ | Eldritch nightmare staff | 8250 | +16 | +15% | 334,690,056 | Can autocast bothAncient Magicksandstandard spells.Has aspecial attackwhich consumes 55% of the player's special attack energy and deals a high amount of damage, restoring the player'sprayer pointsby 50% of the damage dealt. This attack does not consume runes.Otherwise possesses identical bonuses and benefits to theNightmare staff.
+
+ | Sanguinesti staff | 82 | +25 | N/A | 50,899,376 | Slightly stronger than thetrident of the swamp, with the same stats but able to hit one damage higher.Requires3per charge of the built-in spell.Built-in spell damage scales with the player's Magic level and can hit up to 32 at99.Has a 1 in 6 chance to heal the wielder by half the damage dealt.Because the spell is built-in, the player does not need to carry its runes in their inventory and can useArceuus spellbook,Lunar spells, orAncient Magickswhile wielding this staff.
+
+ | Holy Sanguinesti staff
+
+ | Kodai wand | 80 | +28 | +15% | 111,415,049 | Can autocastAncient Magicks,Arceuus spells, andstandard spells.Provides unlimitedwater runeswhile equipped.When a combat spell is cast with the wand, there is a 15% chance that the wand will negate the rune cost for that spell.Offers the second-highest magic attack bonus of a 1-handed magic weapon.
+
+ | Trident of the swamp | 78 | +25 | N/A | 5,242,484 | Has the same benefits as theTrident of the seas, but with +10 more magic attack bonus.Requires511and 1Zulrah scale(instead of coins) per charge of the built-in spell, and can hold up to 2,500 charges. The enhanced version can hold up to 20,000 charges, but requires 10kraken tentaclesto create.Built-in spell damage scales with the player's Magic level and can hit up to 31 at99.Has 25% chance to inflictvenomon the target.Because the spell is built-in, the player does not need to carry its runes in their inventory and can useArceuus spellbook,Lunar spells, orAncient Magickswhile wielding this staff.
+
+ | Trident of the swamp (e) | 11,532,073
+
+ | Purging staff | 7750 | +37 | +10% | 46,668,002[n 1] | Can autocastArceuus spells.Untradeable; created from atormented synapsewith 74Crafting.Has apassive effectthat doubles the bonuses ofdemonbane spells.Currently offers the highest magic attack bonus and magic defence of any magic weapon.
+
+ | Toxic staff of the dead | 75 | +25 | +15% | 12,931,470 | Can autocastFlames of Zamorak,Magic Dart,Crumble Undead,Arceuus spells, andstandard spells.Has the same benefits as theStaff of the dead, but with +8 more magic attack bonus.RequiresZulrah's scalesto recharge (up to 11,000).Has 25% chance to inflict venom on an opponent.
+
+ | Staff of light | 75 | +17 | +15% | 7,760,089 | Can autocastSaradomin Strike,Magic Dart,Crumble Undead, andstandard spells.Counts as both a SaradominANDZamorak item in God Wars.Otherwise possesses identical bonuses and benefits to theStaff of the deadexcluding ability to autocast Flames of Zamorak or Arceuus spells.
+
+ | Staff of balance | 75 | +17 | +15% | 25,576,858 | Can autocastClaws of Guthix,Magic Dart,Crumble Undead, andstandard spells.Otherwise possesses identical bonuses and benefits to theStaff of the deadexcluding ability to autocast Flames of Zamorak or Arceuus spells.
+
+ | Staff of the dead | 75 | +17 | +15% | 7,750,727 | Can autocastFlames of Zamorak,Magic Dart,Crumble Undead,Arceuus spells, andstandard spells.Has aspecial attackthat halves allmeleedamage the player takes for one minute, which stacks with the PvP damage reduction effect of theProtect from Meleeprayer. This consumes 100% of the player's special attack.When a combat spell is cast with the staff, there is a 1/8 (12.5%) chance that the staff will negate the rune cost for that spell.Currently the strongest staff when used as a melee weapon, surpassing theAncient staffandIban's staff, and provides +17 magic defence.Counts as a Zamorakian item in God Wars.
+
+ | Trident of the seas | 75 | +15 | N/A | 38,718 | Has its own built-in spell, requiring charges which cost511runes and 10 coins per cast. Can hold up to 2,500 charges. The enhanced version can hold up to 20,000 charges, but requires 10kraken tentaclesto create.Built-in spell damage scales with the player's Magic level and can hit up to 28 at99.Has a weapon speed of 4 (same as scimitars/whip), while all other forms of combat magic only have 5 (same as longswords).Because the spell is built-in, the player does not need to carry its runes in their inventory and can useArceuus spellbook,Lunar spells, orAncient Magickswhile wielding this staff.
+
+ | Trident of the seas (e) | 6,292,213
+
+ | Slayer's staff (e) | 7555 | +12 | N/A | 24,830[n 2] | Can autocastMagic Dart,Crumble Undead,Arceuus spells, and theWaveandSurge spells.Has 2,500 charges and is recharged with aSlayer's enchantment.If used to castMagic Darton the player'sSlayer task, max hit is13 + (player's magic level / 6), rounded down, and uses 1 charge from the staff on a hit.Otherwise provides the same benefits as theSlayer's staff.
+
+ | Nightmare staff | 7250 | +16 | +15% | 59,096,500 | Can autocast bothAncient Magicksandstandard spells.
+
+ | Ahrim's staff | 7070 | +15 | +5% | 172,473 | Can autocastArceuus spellsandstandard spells.Can autocastAncient Magicksif equipped withAhrim the Blighted's equipmentand theAmulet of the damned.
+
+ | Blue moon spear | 7570 | +30 | +5% | 715,394 | Can autocastAncient Magicks,Arceuus spells, andstandard spells.Gain theFrostweaverset effect when used with theBlue moon armourset.
+
+ | Ancient sceptre | 706050 | +20 | +5% | 67,396 | Can autocastAncient Magicks, and enhances the effects of said spellbook by 10%. Also can autocaststandard spells.RequiresSecrets of the Northcompletion in order to create by speaking toEblisto combine anancient staffwith anancient icon.
+
+ | Warped sceptre | 62 | +12 | N/A | 91,846 | Requires52per charge of the built-in spell.Built-in spell damage scales with the player's Magic level and can hit up to 24 at99without any magic damage bonus.Because the spell is built-in, the player does not need to carry its runes in their inventory and can useArceuus spellbook,Lunar spells, orAncient Magickswhile wielding this staff.
+
+ | Accursed sceptre | 70 | +22 | N/A | 2,968,125 | While charged, an additional 50% magic accuracy and damage boost is applied when attacking anyNPCin theWilderness. This effect will stack with aSlayer helmetor aSalve amuletand their variants, but not both simultaneously.Has aspecial attackwhich consumes 50% of the player's special attack energy and deals an attack with 50% increased damage and accuracy. Upon asuccessful hit, drains the target's Defence and Magic by 15%.Standard version:Built-in spell damage scales with the player's Magic level.Because the spell is built-in, the player does not need to carry its runes in their inventory and can useArceuus spellbook,Lunar spells, orAncient Magickswhile wielding this staff.Autocast version:Can autocastFlames of Zamorak,standard spellsandAncient Magicks.
+
+ | Accursed sceptre (a)
+
+ | Master wand | 60 | +20 | N/A | 1,782,004 | Can autocastAncient Magicks,Arceuus spells, andstandard spells.Requires 240 Telekinetic, 240 Alchemist, 2400 Enchantment and 240 Graveyard points, and ateacher wandequipped or in the player's inventory, to purchase from theMage Training Arena. Thus it does not cost much besides the time and runes spent in the Mage Training Arena.
+
+ | Thammaron's sceptre | 60 | +15 | N/A | 2,757,084 | While charged, an additional 50% magic accuracy and damage boost is applied when attacking anyNPCin theWilderness. This effect will stack with aSlayer helmetor aSalve amuletand their variants, but not both simultaneously.Standard version:Built-in spell damage scales with the player's Magic level.Because the spell is built-in, the player does not need to carry its runes in their inventory and can useArceuus spellbook,Lunar spells, orAncient Magickswhile wielding this staff.Autocast version:Can autocastFlames of Zamorak,standard spellsandAncient Magicks.
+
+ | Thammaron's sceptre (a)
+
+ | Twinflame staff | 60 | +12 | +10%[n 3] | 7,137,518 | Can autocaststandard spells, but at a slightly slower rate than other staves (6 ticks/3.6 seconds instead of 5 ticks/3.0 seconds).Provides unlimitedfireandwater runes.Grants a 10% accuracy and damage boost for combat spells on thestandard spellbook.Will automatically cast the appropriate elemental spell for an NPC with a differentelemental weaknessthat what the player is currently autocasting, assuming they have the runes and Magic level to do so.AllBolt,Blast, andWave spellscasted fire a second spell that deals 40% of the damage dealt by the first, rounded down.
+
+ | God staves | 60 | +6 | N/A | 80,000 | Required to castgod spells, but cannot be used to autocast them.Those who have80and the respectiveGod capecan use theChargespell, which increases the God spell's damage by 50%.
+
+ | Iban's staff | 50 | +10 | N/A | 200,000[n 4] | Only staff able to castIban Blast.Can autocast Iban Blast andstandard spells.Has 120 charges (2,500 ifupgraded). One charge is used when casting Iban Blast on anNPCand two are used when casting it on another player.Iban Blast has a max hit of 25.
+
+ | Iban's staff (u) | 400,000[n 5]
+
+ | Ancient staff | 50 | +15 | N/A | 67,396 | Can autocast bothAncient Magicksandstandard spells.
+
+ | Slayer's staff | 5055 | +12 | N/A | 22,250 | Can autocastMagic Dart,Crumble Undead,Arceuus spells, and theWaveandSurge spells.Runes required to cast Magic Dart are very cheap compared to spells of a similar level.Maximum hit of Magic Dart is10 + (player's magic level / 10), rounded down.
+
+ | Void knight mace | 4222 | +8 | N/A | Untradeable[n 6] | Can autocastClaws of Guthix,Crumble Undead, and theWaveandSurge spells.
+
+ | Mystic smoke staff | 40 | +14 | +10%[n 3] | 1,988,377 | Can autocaststandard spells.Provides unlimitedfireandair runes.Grants a 10% accuracy and damage boost for combat spells on thestandard spellbook.
+
+ | Smoke battlestaff | 30 | +12 | 1,905,255
+
+ | Salamanders | 30(Green) | N/A | N/A | 140 | Unique and versatile two-handed weapons that facilitate the use of all three combat styles.Cannot autocast spells, but instead have their own unique magic attack, similar to how powered staves have built-in spells.Damage done by salamanders is calculated by a unique formula using a hidden "magic damage bonus" unique to each lizard type.
+
+50(Orange) | 127
+
+60(Red) | 53
+
+70(Black) | 273
+
+80(Tecu) | 189,741
+
+ | Croziers | 60 | +10 | N/A | 6,206 | Can autocaststandard spells.Have a notable Prayer boost of +6.
+
+ | Skull sceptre | 1 | +10 | N/A | Untradeable | Can autocastArceuus spellsandstandard spells. Additionally, theimbued versioncan autocastCrumble Undead.
+
+ | Skull sceptre (i)
+
+ | Elemental staves | 1(Basic) | +10 | N/A | 1,248 | Can autocaststandard spells.Provide unlimited runes of their respective elements.Elemental staves (air,water,earthandfire) provide one type of rune.Combination staves (lava,mud,mist,dust,steamandsmoke) provide two types of runes.
+
+30(Battlestaff) | +12 | 8,896
+
+40(Mystic staff) | +14 | 25,068
+
+^Untradeable; price is of thetormented synapseused to create the staff.^Reverts to standardSlayer's staffwhen it runs out of charges, and needs to have aSlayer's enchantmentreapplied.^3.03.1Is not shown on Equipment Stats, and applies only to thestandard spellbook.^Cost to repair the broken staff.^Cost to repair the broken staff and upgrade it toIban's staff (u), which holds 2,500 charges instead of 120.^Costs 250Void Knight commendation points.
+
+Transcript[edit|edit source]
+
+Changes[edit|edit source]
+
+Date | Changes
+
+11 May2022(update) | The eldritch Nightmare staff now requires level 82 Magic to wield instead of level 75 Magic.
+
+11 November2020(update|poll) | The special attack energy cost was reduced from 75% to 55%.
+
+2 September2020(update) | The special attack of the Eldritch nightmare staff will no longer drag players to their opponents if they do not have a spell selected to autocast.
+
+v•t•eThe Nightmare
+
+Monsters | The NightmareHuskParasiteSleepwalkerPhosani's NightmarePhosani's NightmareHuskParasiteSleepwalker |  | The NightmareHuskParasiteSleepwalker | Phosani's Nightmare | Phosani's NightmareHuskParasiteSleepwalker
+
+ | The NightmareHuskParasiteSleepwalker
+
+Phosani's Nightmare | Phosani's NightmareHuskParasiteSleepwalker
+
+Signature drops | Nightmare staffStandardEldritchHarmonisedVolatileOrbsEldritchHarmonisedVolatileInquisitor's equipmentMaceGreat helmHauberkPlateskirtPetLittle nightmareParasitic eggMiscellaneousJar of dreamsSlepey tablet | Nightmare staff | StandardEldritchHarmonisedVolatile | Orbs | EldritchHarmonisedVolatile | Inquisitor's equipment | MaceGreat helmHauberkPlateskirt | Pet | Little nightmareParasitic egg | Miscellaneous | Jar of dreamsSlepey tablet
+
+Nightmare staff | StandardEldritchHarmonisedVolatile
+
+Orbs | EldritchHarmonisedVolatile
+
+Inquisitor's equipment | MaceGreat helmHauberkPlateskirt
+
+Pet | Little nightmareParasitic egg
+
+Miscellaneous | Jar of dreamsSlepey tablet
+
+Scenery | Scoreboard(Phosani's)Pool of Nightmares(Historical)Totem(Phosani's)Nightmare BerriesNightmare BlossomSpore
+
+Music | The Bane of AshihamaThe Everlasting Slumber
+
+Other | ShuraSister SengaSiren's tomeSisterhood Sanctuary

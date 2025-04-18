@@ -1,0 +1,2 @@
+Item: Bank buffalo
+Summary: Bank buffalos are buffalos equipped with a saddle and can be used as, or found next to, a bank.

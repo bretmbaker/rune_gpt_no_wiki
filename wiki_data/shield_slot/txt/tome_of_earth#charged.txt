@@ -1,0 +1,63 @@
+[Weapon: Tome Of Earth#Charged]
+
+
+Thetome of earthis a book held in place of ashieldthat is a possible reward fromthe Hueycoatl. The tome of earth requires level 50 inMagicto wield.
+The tome can be charged withsoiled pagesto act as a source ofearth runeswhilst equipped. Each page adds 20 charges to the tome. It can hold 1,000 pages and requires621,000to fully charge. Each charge costs31.05. The entire page will be consumed if a charge (1/20 or more) is consumed and the page is removed.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Pages, Drop
+Worn options: Pages
+Examine: An ancient tome containing the secrets of earth magic.
+General Store Value: 20,000 coins
+High alch: 12,000 coins
+Low alch: 8,000 coins
+Weight: 1 kg
+Grand Exchange Value: 382,063 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 286
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +8
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +8
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Hueycoatl | 642 | 1 | 1/92 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Adamant dragon/Strategies(Magic)
+1 | Mithril dragon/Strategies(Magic)
+1 | Nightmare Zone/Strategies(Magic)
+1 | Rune dragon/Strategies(Magic)

@@ -1,0 +1,55 @@
+[Weapon: Bronze Sq Shield]
+
+
+TheBronze sq shieldis the lowest level defencesquare shieldinOld School RuneScape. It can be equipped to give a player better defence bonuses in combat. Its recommended use is inmeleecombat. Players can make a bronze square shield with 2bronze barsat level 8Smithing, granting 25 Smithingexperience. It can also be bought fromCassie's Shield ShopinFalador.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A medium square shield.
+General Store Value: 48 coins
+High alch: 28 coins
+Low alch: 19 coins
+Weight: 3.628 kg
+Respawn time: 10 ticks (6 seconds)
+Grand Exchange Value: 70 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 1,300
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +5
+- Slash: +6
+- Crush: +4
+- Magic: +0
+- Ranged: +5
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Goblin guard | 42 | 1 | 3/128 | 
+GoblinDrop table 1 | 2 | 1 | 3/128 | 

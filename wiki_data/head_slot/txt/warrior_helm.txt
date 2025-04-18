@@ -1,0 +1,56 @@
+[Weapon: Warrior Helm]
+
+
+Awarrior helmis a piece ofarmourthat can be worn by players who have completedThe Fremennik Trialsquest and have aDefencelevel of 45. The helm can be bought at theSkulgrimen's Battle Gearshop inRellekkafor 78,000coins. It's also a possible reward fromBarbarian AssaultHigh Gambles.
+Due to its lack of a strength bonus, the warrior helm is far less popular than its counterpart, theberserker helm, despite having a smallslashbonus (+5) and better defence against the slash attacks (+33 instead of +29). However, it is a good alternative to thefighter hat, assuming those who plan to use the warrior helm are using a slash weapon, especially considering that it provides slightly better resistance to all attacks.
+
+
+[Infobox]
+Released: 2 November2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: This helmet is worn by warriors.
+General Store Value: 60,000 coins
+High alch: 36,000 coins
+Low alch: 24,000 coins
+Weight: 2.721 kg
+Grand Exchange Value: 45,934 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 202
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +5
+- Crush: +0
+- Magic: -5
+- Ranged: -5
+
+Defence Bonuses:
+- Stab: +31
+- Slash: +33
+- Crush: +29
+- Magic: +0
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Barbarian Assault/GamblesHigh | N/A | 1 | 1/32 | 
+Dagannoth (Waterbirth Island)Level 88 | 88 | 1 | 1/2,048 | 
+Dagannoth (Waterbirth Island)Level 90 | 90 | 1 | 1/2,048 | 

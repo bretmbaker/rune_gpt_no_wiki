@@ -1,0 +1,2 @@
+Item: Sister Soul Jar
+Summary: Sister Soul Jar is a mysterious character who will briefly appear next to the Soul Altar when a player uses a jar of souls on it. Upon appearing, she will perform the Dance emote and then disappear.

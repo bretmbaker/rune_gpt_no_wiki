@@ -1,0 +1,4 @@
+Item: Armadyl hilt
+Summary: The Armadyl hilt is a rare drop from Kree'arra, in the God Wars Dungeon. Its design resembles a bird or winged being. When attached to a completed Godsword blade, which can be created by combining the three Godsword shards, it creates the Armadyl godsword.
+Sources:
+- Kree'arra (Level 580, Quantity: 1, Rarity: 1/508)

@@ -1,0 +1,139 @@
+[Shop: Troll_Stronghold_(location)]
+
+Troll Stronghold
+
+
+
+
+
+Released | 24 August2004(Update)
+
+Members | Yes
+
+Location | Troll Country
+
+Leagueregion | Asgarnia✓
+
+Inhabitants | Mountain trolls
+
+Teleports | Trollheim Teleport,Stony basalt
+
+Music | Sojourn
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | settlement
+
+
+
+Location onWorld Map
+
+Ice Path
+
+↑
+
+Mountain Camp | ← | Troll Stronghold | → | Trollheim
+
+↓
+
+Death Plateau
+
+TheTroll Strongholdis a stronghold inhabited bymountain trollsin theTroll Country. Notable trolls found inside includeBurntmeat,My Arm,UgandKobfrom variousquestsinvolving trolls.
+
+The stronghold itself is carved into the side of the mountain that theMountain Campis situated on top of.
+
+The Stronghold has three levels, with the top level having some small windows carved out into the rock that overlook the aforementioned camp. The Troll Stronghold Storeroom, which contains the trolls' hoard of the rare herb,Goutweed, can also be found within the stronghold. The storeroom revolves around an activity in which players can steal Goutweed.
+
+Many of the trolls in the stronghold areaggressive. Quest-related trolls as well as troll cooks are not aggressive. The troll guards in the storeroom will not fight players but will hit (once) and expel any they catch in the storeroom.
+
+On the roof of the stronghold, there is aherb farming patch, which cannot become diseased, accessible to players who have completed the questMy Arm's Big Adventure.
+
+Location and entrances[edit|edit source]
+
+The main entrance to the stronghold is situated west ofTrollheim, found atop a small slope found east of the small camp of trolls. This entrance takes you directly to the top floor of the stronghold. Players can get to Trollheim by using thestandard spellbookspellTrollheim Teleportif they have completed theEadgar's Rusequest or by walking there fromBurthorpe(Climbing bootsare required).
+
+There is also a southern entrance unlocked during theTroll Strongholdquest, found situated in a mountain passage between Burthorpe and theFremennik Province(climbing boots are also required). This entrance grants access to the strongholds lowest level, where the trolls keep their prisoners. Players very commonly use thefairy ringsystem to get nearby - using the combinationAJR(Kandarin), which takes them just south-west of this entrance.You must remember climbing boots to scale the rocks to get to this entrance.
+
+After the questMaking Friends with My Armplayers can createStony basalt, which can be used to teleport to the entrance of the stronghold. After theHard Fremennik Diaryand with 73Agilitythis teleport is changed to the roof of the stronghold near the herb patch.
+
+Map of the stronghold[edit|edit source]
+
+Camp[edit|edit source]
+
+The small camp found outside the Stronghold proper is home to variousmountain trolls. The main entrance to the stronghold is found just north of the camp. The mountain trolls are aggressive and can hit fairly high on lower level players, but the area issingle-way combat. If you are on a troll Slayer task fromKonar quo Maten, restricted to the Troll Stronghold, the trolls in the camp also count towards your task.
+
+Roof[edit|edit source]
+
+The roof, or mountaintop, is the highest level of the Stronghold, and is featured in theMy Arm's Big Adventurequest. The troll farmerMy Armcan be found here, attempting to grow things. A disease-freeherb patchwhich can be used forFarming, and a vacationingTool leprechaunwho will happily look after your tools can also be found here.
+
+Upper level[edit|edit source]
+
+The top floor is where the main entrance to the stronghold leads, and from here you can access the rest of the stronghold. This floor is inhabited by many mountain trolls and contains three fearsometroll generals. The upper level has a ladder leading to the rooftop and two sets of stairs that leading down to the middle level.
+
+Middle level[edit|edit source]
+
+The middle floor is home to the kitchen whereBurntmeatand several troll cooks cook humans and goats. It is also home to the living quarters, where the majority of trolls live.Ug,AgaandArrgcan be found here, and they all play a part in theTroll Romancequest.
+
+A door in the northern section of this floor leads to a staircase that goes to the prison section of the lowest floor, and the stairs in the kitchen lead to the storeroom, whereGoutweedis stored.
+
+Lowest level[edit|edit source]
+
+The lowest floor has two sections: the prison and the storeroom.
+
+The prison is where the trolls store their prisoners, which include MadEadgarandDunstan's son,Godric. They are guarded by two sleeping trolls,BerryandTwig. The exit to the south of the prison leads to the passage betweenRellekkaandBurthorpe.
+
+The Storeroom is where the prized ingredient for troll cooking is kept:Goutweed.
+
+Personalities[edit|edit source]
+
+UgAgaArrgBurntmeatMy ArmEadgarGodricBerryTwigAdventurer(duringMy Arm's Big Adventure)KobGuard (Goutweed)
+
+Monsters[edit|edit source]
+
+Mountain trollTroll general
+
+Quests[edit|edit source]
+
+Troll StrongholdTroll RomanceMy Arm's Big AdventureEadgar's RuseMaking Friends with My ArmMonkey Madness II
+
+Changes[edit|edit source]
+
+Date | Changes
+
+9 April2015(update) | Approaching the troll stronghold roof shortcut from the south no longer forces you to climb back down.
+
+5 March2015(update|poll) | There is now ashortcutfrom the entrance to the roof of the Troll Stronghold that you can use at level 73agilityif you have completed theFremennik Hard Diary.
+
+v•t•eMy Arm's Big Adventure
+
+NPCs | BurntmeatAdventurerMy ArmCaptain BarnabyMurcailyJagbakobaLarryDrunken Dwarf's LegAli the CamelAshDungQutiedollDolphinEnemiesBaby RocGiant Roc |  | BurntmeatAdventurerMy ArmCaptain BarnabyMurcailyJagbakobaLarryDrunken Dwarf's LegAli the CamelAshDungQutiedollDolphin | Enemies | Baby RocGiant Roc
+
+ | BurntmeatAdventurerMy ArmCaptain BarnabyMurcailyJagbakobaLarryDrunken Dwarf's LegAli the CamelAshDungQutiedollDolphin
+
+Enemies | Baby RocGiant Roc
+
+Items | GoutweedGoutweedy lumpFarming manualHardy gout tuberHardy gout tubers
+
+Locations | Death PlateauTroll Stronghold
+
+Music | My Arm's JourneyRoc and Roll
+
+Related | Quick guideTranscript
+
+v•t•eTroll Stronghold (location)
+
+NPCs | AgaBerryBurntmeatDrunken Dwarf's LegEadgarGodricGuardLarryMy ArmMushroomTwigUg
+
+Monsters | ArrgKobMountain trollTroll general
+
+Scenery | Kitchen DrawersStone StaircaseTroll ladder
+
+Related | Leprechaun Larry's Farming Supplies.Troll Stronghold (quest)

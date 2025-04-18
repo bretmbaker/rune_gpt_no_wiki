@@ -1,0 +1,54 @@
+[Weapon: Leather Cowl]
+
+
+Leather cowlsareleather armourworn on the head, most commonly by low-levelled rangers.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Better than no armour!
+General Store Value: 24 coins
+High alch: 14 coins
+Low alch: 9 coins
+Weight: 0.907 kg
+Grand Exchange Value: 8 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 7,057
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +1
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +4
+- Magic: +2
+- Ranged: +3
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Adventurer JonGetting started Ranged | N/A | 1 | Always | N/A
+Reward casket (beginner) | N/A | 1 | 11/492 | 

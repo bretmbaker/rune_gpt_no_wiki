@@ -1,0 +1,50 @@
+[Weapon: Amulet Of Chemistry]
+
+
+Anamulet of chemistryis ajade amuletenchanted via theLvl-2 Enchantspell.
+Each amulet begins with five charges. While the amulet is equipped, there is a 5% chance that you will create a 4-dose potion rather than a 3-dose potion when brewing potions (but with no extra experience), which consumes one charge. Once all of the amulet's charges are used up, the amulet crumbles to dust. When the amulet crumbles to dust, the player will either continue making potions or stop depending on the choice selected in the Options menu of the amulet. Each amulet lasts for an average of 100 potions made.
+
+
+[Infobox]
+Released: 2 February2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Options, Break, Drop
+Worn options: Options
+Examine: Useful when making potions - has the chance of giving an extra dose.
+General Store Value: 1,050 coins
+High alch: 630 coins
+Low alch: 420 coins
+Weight: 0.007 kg
+Grand Exchange Value: 1,433 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 86,953
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

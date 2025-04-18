@@ -1,0 +1,47 @@
+[Weapon: Robe Bottom Of Ruin]
+
+
+Therobe bottom of ruinis obtained from completing a clue during theCrack the Clue IIIevent. It is part of theRobes of Ruinoutfit, and is obtainable only once if players already have it in their inventory or bank. If players happen to lose it, they will need to discover it again.
+For detailed instructions on how to acquire all pieces of the Robes of Ruin,see here.
+
+
+[Infobox]
+Released: 21 September2022(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You will have to discover it again.
+Examine: A magical-looking robe bottom.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

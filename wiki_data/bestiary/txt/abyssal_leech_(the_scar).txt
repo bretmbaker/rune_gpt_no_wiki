@@ -1,0 +1,51 @@
+Name: Abyssal leech
+Combat Level: 32
+Size: 1x1
+Info:
+- Description: A blood-drinking denizen of the Abyss.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 12393
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 50
+Attack: 50
+Strength: 10
+Defence: 1
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 5
+Strength bonus: 10
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 50
+Slash: 50
+Crush: 10
+
+[Magic defence]
+Magic: 50
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 10
+Standard: 10
+Heavy: 10

@@ -1,0 +1,51 @@
+[Weapon: Lost Bag#Regular]
+
+
+Thelost bagis a cape slot item that can be obtained from anintricate pouch, which can be received from theRewards Guardianafter completing a round ofGuardians of the Rift. It has no stat bonuses and is purely cosmetic.
+The bag can be recoloured usingabyssal dye(received from theRewards Guardian) to a red, blue, or green colour scheme.
+
+
+[Infobox]
+Released: 23 March2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Inspect, Destroy
+Destroy: You can claim another from Apprentice Felix in the Temple of the Eye.
+Examine: A bag with strange markings on it... How did it fit into that small pouch?
+General Store Value: 100 coins
+Alchemy: Not alchemisable
+Weight: 0.25 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Intricate pouch | N/A | 1 | 1/60 | 

@@ -1,0 +1,5 @@
+Magic can be trained passively while training other skills. The passive training methods can be tedious or expensive before High Level Alchemy becomes available, so consider low-effort or cheaper alternatives to get through the early levels.
+
+At higher levels, Magic can be trained much faster through casting multi-target burst or barrage spells on Ancient Magicks . An efficient way to do this is on Slayer tasks, as certain Slayer monsters (such as dust devils and Greater Nechryael ) can be bursted or barraged for fast Slayer experience.
+
+In terms of macro-efficiency, defensive attack style may be used to gain more overall experience (1 Defence xp + 1.33 Magic xp on defensive vs 2 Magic xp on standard) when training via combat. Defensive casting is a viable way to train Defence at lower levels while melee training prioritises Strength and Attack to meet Warrior's Guild entry requirements, as well as at higher levels where cost per Magic xp is not a concern. However, standard casting offers the highest pure magic experience, which might be preferable to players seeking to minimise costs.

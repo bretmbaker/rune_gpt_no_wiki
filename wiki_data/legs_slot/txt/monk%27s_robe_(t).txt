@@ -1,0 +1,54 @@
+[Weapon: Monk%27S Robe (T)]
+
+
+Amonk's robe (t)is thelegs slotof thetrimmed monk's robesset. They are only acquired frombeginnerTreasure Trails.
+This item can be stored in thetreasure chestof acostume room, as part of thetrimmed monk's robes.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I feel the gods don't enjoy my materialistic obsessions.
+General Store Value: 500 coins
+High alch: 300 coins
+Low alch: 200 coins
+Weight: 0.907 kg
+Grand Exchange Value: 15,752 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 146
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (beginner) | N/A | 1 | 1/360 | 

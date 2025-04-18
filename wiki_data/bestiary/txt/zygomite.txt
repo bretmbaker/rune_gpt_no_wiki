@@ -1,0 +1,44 @@
+Name: Zygomite
+Combat Level: 74
+Size: 1x1
+Info:
+- Description: A bouncy fungus.
+
+Slayer Info:
+- Required Level: 57
+- Slayer XP: 65 xp
+- Category: Mutated Zygomites
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 537
+- Link: MOID
+
+Location:
+- Area: Zanaris
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 65
+Attack: 65
+Strength: 65
+Defence: 65
+Magic: 65
+Ranged: 65
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

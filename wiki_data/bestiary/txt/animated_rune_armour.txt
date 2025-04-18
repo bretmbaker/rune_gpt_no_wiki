@@ -1,0 +1,37 @@
+Name: Animated Rune Armour
+Combat Level: 138
+Size: 1x1
+Info:
+- Description: Animated rune armour.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 2456
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 120
+Attack: 120
+Strength: 120
+Defence: 120
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

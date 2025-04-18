@@ -1,0 +1,2 @@
+Item: Fighter
+Summary: Fighters are found in the Emir's Arena. Each of the four arenas will have a pair of these non-interactable fighters in them. They will fight each other until one of them dies, they'll then be replaced by another fighter. Unlike most other NPCs who fight each other, the fighters are capable of healing themselves, when their HP falls low, performing the eating animation after which they restore some of their health.

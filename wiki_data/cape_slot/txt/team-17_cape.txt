@@ -1,0 +1,49 @@
+[Weapon: Team-17 Cape]
+
+
+TheTeam-17 capeis a wilderness cape that can be purchased for 50 coins fromNeil. Another player with the same team cape equipped will show up on theminimapas a blue dot rather than white, and the left-click "Attack" option will be moved to a right-click, as if the other player is of higher level than the player. If two players are wearing different team capes, then the "Attack" option for each other will both be left-click, regardless if one player has a higher combat level.
+One team cape can be stored on acape rackin aPlayer-owned house.
+
+
+[Infobox]
+Released: 22 February2005(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Ooohhh look at the pretty colours...
+General Store Value: 50 coins
+High alch: 30 coins
+Low alch: 20 coins
+Weight: 0.453 kg
+Grand Exchange Value: 474 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 81
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +1
+- Magic: +0
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

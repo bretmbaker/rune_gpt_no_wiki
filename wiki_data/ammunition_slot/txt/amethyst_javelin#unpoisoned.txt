@@ -1,0 +1,49 @@
+[Weapon: Amethyst Javelin#Unpoisoned]
+
+
+Amethyst javelinsare a type ofRangedammunition used by thelight ballistaand theheavy ballista. They are the second-strongest type ofjavelin, surpassed only by thedragon javelin. As with mostjavelins, they can bepoisoned.
+They can be fletched by attachingamethyst javelin headstojavelin shaftsat level 84Fletching, granting 202.5 experience per 15 javelins made.
+
+
+[Infobox]
+Released: 22 June2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: An amethyst tipped javelin.
+General Store Value: 420 coins
+High alch: 252 coins
+Low alch: 168 coins
+Weight: 0 kg
+Grand Exchange Value: 177 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 53,856
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +135
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

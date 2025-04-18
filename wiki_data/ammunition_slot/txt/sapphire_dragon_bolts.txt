@@ -1,0 +1,49 @@
+[Weapon: Sapphire Dragon Bolts]
+
+
+Sapphire dragon boltsare a type ofcrossbowammorequiring aRangedlevel of 64 to wield. It is created by attachingsapphire bolt tipstodragon bolts. Doing so requires a Fletching level of 84, granting 4.7 Fletching experience per bolt.
+They are enchanted via theEnchant Crossbow Bolt (Sapphire)spell by a player with level 7Magic, enchanting 10 bolts per cast. This createsenchanted sapphire dragon bolts, which are a superior version ofenchanted sapphire bolts.
+
+
+[Infobox]
+Released: 4 January2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Dragon crossbow bolts, tipped with sapphire.
+General Store Value: 750 coins
+High alch: 450 coins
+Low alch: 300 coins
+Weight: 0 kg
+Grand Exchange Value: 3,348 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 18,820
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +122
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

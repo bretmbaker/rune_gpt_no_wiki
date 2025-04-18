@@ -1,0 +1,2 @@
+Item: Tar Monster
+Summary: Tar monsters reside in the Tar Swamp area of Fossil Island. They hide underneath the tar and only appear as tar bubbles. Once a player steps near, they will emerge and attack using a typeless Ranged attack style. Protect from Missiles will nevertheless slightly reduce the maximum damage of a tar monster's attack, while higher Ranged defensive bonuses make it less likely for those attacks to hit for the maximum amount.[1]

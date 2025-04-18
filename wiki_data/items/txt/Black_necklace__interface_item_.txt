@@ -1,0 +1,1 @@
+TheBlack necklaceis aninterface item. It can be seen in the interface for crafting jewellery. If the player does not have the correct gem to craft a necklace, the black necklace appears in its place as a greyed out version.

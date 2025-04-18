@@ -1,0 +1,54 @@
+[Weapon: Rainbow Scarf#Genderqueer]
+
+
+Therainbow scarfis aneck slotitem originally introduced as a reward fromGilbertfor completing theGilbert's Coloursevent in 2017. It can either be purchased fromDiango's Toy Storefor 120coins, or obtained freely fromGilbertin the flower field south-east ofBarbarian Village.
+There are nine unique versions of the scarf representing different variants ofsexual orientationorgender identity, whose colours can be changed at any time by right-clicking the "Change" option on the scarf. When switched to another style other than the pride (rainbow) style, the item is renamed to acolourful scarf.
+
+
+[Infobox]
+Released: 8 June2017(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Change-style, Destroy
+Worn options: Change-style
+Destroy: You can get a replacement from Diango.
+Examine: A scarf woven from spare rainbow strands; emblazoned with a heart.
+General Store Value: 80 coins
+High alch: 48 coins
+Low alch: 32 coins
+Weight: 0.01 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Used in Recommended Equipment]
+Date | Changes
+7 June2023(update) | A "Change-style" option has been added on the rainbow scarf to accommodate 8 additional colour options on the item.The rainbow scarf's inventory icon was adjusted slightly.
+23 November2017(update) | The item's value was increased from 1 to 80.

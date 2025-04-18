@@ -1,0 +1,4 @@
+Item: Berserker ring
+Summary: The berserker ring is the strength bonus variant of the Fremennik rings and is dropped by Dagannoth Rex in the Waterbirth Island Dungeon. The Fremennik rings are some of the very few rings to give stat bonuses. Group Ironmen who do not have individual prestige  require at least 1 Dagannoth Rex kill before they are able to wear this item.
+Sources:
+- Dagannoth Rex (Level 303, Quantity: 1, Rarity: 1/128)

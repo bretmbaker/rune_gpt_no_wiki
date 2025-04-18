@@ -1,0 +1,75 @@
+[Weapon: Bronze Spear#(Unp)]
+
+
+Thebronze spearis a two-handedmelee weaponmade frombronzeand is the weakestspearinOld School RuneScape. Spears aremembers-only weapons. Bronze spears can also be used to create ascarecrow.
+Bronze spears can be easily obtained from low-level monsters such asgoblins. There is a bronze spear spawn in theHaunted Mineon the second level near other assorted bronze equipment. A (kp) version can be bought fromTamayuafter finishing theTai Bwo Wannai Trioquest. Using theSmithingskill, players can create bronze spears. However, players must have begunBarbarian Smithingtraining to be able to smith these spears. It can also be found by digging at Level 3 digging spots at theDigsite, with aspecimen brush,specimen jarandtrowelin the inventory, or bought from theFortis Blacksmith.
+
+
+[Infobox]
+Released: 14 April2003(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A bronze tipped spear.
+General Store Value: 26 coins
+High alch: 15 coins
+Low alch: 10 coins
+Weight: 2.267 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 374 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 785
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +5
+- Slash: +5
+- Crush: +5
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Lunge | Stab | Controlled | 4 ticks (2.4s) | 1 tile |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Controlled |  | +1 Attack, Strength, Defence
+ | Pound | Crush | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Dagannoth | 74; 92 | 1 | 5/128 | 
+Goblin (Goblin Village)(m) | 5 | 1 | 9/128 | 
+Goblin (God Wars Dungeon) | 12; 13; 15; 17 | 1 | 9/128 | 
+Goblin (Vault of War)(m) | 5–25 | 1 | 9/128 | 
+Goblin guard | 42 | 1 | 4/128 | 
+GoblinDrop table 2(m) | 2; 5; 13 | 1 | 9/128 | 
+GoblinDrop table 1(m) | 2 | 1 | 4/128 | 
+HobgoblinUnarmed(m) | 28 | 1 | 3/128 | 
+Jogre | 53; 58 | 1 | 30/129 | 
+Minotaur(m) | 12; 27 | 1 | 10/101 | 
+SoilLevel 3 digs | 1 | 1 | 1/20 | 
+Tribesman | 32 | 1 | 7/138 | 
+Tribeswoman | 32 | 1 | 7/138 | 

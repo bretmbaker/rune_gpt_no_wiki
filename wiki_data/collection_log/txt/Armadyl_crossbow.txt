@@ -1,0 +1,4 @@
+Item: Armadyl crossbow
+Summary: The Armadyl crossbow is a ranging weapon that requires a Ranged level of 70 to wield, and can fire up to and including dragon bolts. It is dropped only by Commander Zilyana. This item counts as an Armadyl item in the God Wars Dungeon.
+Sources:
+- Commander Zilyana (Level 596, Quantity: 1, Rarity: 1/508)

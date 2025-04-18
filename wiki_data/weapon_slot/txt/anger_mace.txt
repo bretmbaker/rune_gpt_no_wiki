@@ -1,0 +1,53 @@
+[Weapon: Anger Mace]
+
+
+Ananger maceis an item that is used only duringA Soul's Banequest. It is used to killangry giant rats, and the apparent damage it does is the player's normal damage multiplied by 10, meaning that you will hit three digits frequently. Unfortunately the player won't get anyexperiencewhen using it. It is found from theweapon rackin the rage room, and cannot be taken out of the room.
+
+
+[Infobox]
+Released: 3 April2006(Update)
+Members: Yes
+Quest item: A Soul's Bane
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A heavy duty mace.
+General Store Value: 18 coins
+High alch: 10 coins
+Low alch: 7 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Crush | Defensive |  | +3 Defence

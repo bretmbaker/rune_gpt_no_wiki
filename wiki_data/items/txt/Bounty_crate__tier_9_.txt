@@ -1,0 +1,1 @@
+Atier 9 bounty crateis an item obtained upon successfully killing a target inBounty Hunter. The tier of crate received is dependent on the player's Earning Potential (EP) at the time of the kill, which is reset to 0% upon receiving abounty crate.

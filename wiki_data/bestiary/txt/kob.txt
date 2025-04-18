@@ -1,0 +1,39 @@
+Name: Kob
+Combat Level: 185
+Size: 2x2
+Info:
+- Description: A high ranking troll.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 7106,7107
+- Link: MOID
+
+Location:
+- Area: Troll Stronghold (Top level)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 200
+Attack: 180
+Strength: 175
+Defence: 80
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

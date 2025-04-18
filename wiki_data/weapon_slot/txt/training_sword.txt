@@ -1,0 +1,55 @@
+[Weapon: Training Sword]
+
+
+ATraining swordis a beginnerweapon. It has identical stats to aBronze sword.
+It is obtained for free along with atraining shieldfrom theMelee combat tutor, just south of theLumbridge General Store. It can be replaced if lost, but only one can be obtained at a time. Due to the accessibility, this sword is ideal for players who are new to the game and have just finishedTutorial Island.
+
+
+[Infobox]
+Released: 27 September2006(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destroy
+Destroy: You can get another Training sword by talking to the Melee Combat skill tutor north of Lumbridge Castle.
+Examine: Basic training sword.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +4
+- Slash: +3
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +2
+- Crush: +1
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +5
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence

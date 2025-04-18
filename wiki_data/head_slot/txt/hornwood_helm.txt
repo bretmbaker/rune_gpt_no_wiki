@@ -1,0 +1,47 @@
+[Weapon: Hornwood Helm]
+
+
+Thehornwood helmis an item given to the player after completing the midsummer ritual three times during the2016 Midsummer event, as well as subsequent midsummer events.
+As there was nomidsummer eventin2018, it was made available fromDiango's Toy Storefor 15coins.
+
+
+[Infobox]
+Released: 16 June2016(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: A helm to celebrate the summer solstice.
+General Store Value: 10 coins
+High alch: 6 coins
+Low alch: 4 coins
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

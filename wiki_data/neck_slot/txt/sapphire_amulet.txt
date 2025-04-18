@@ -1,0 +1,65 @@
+[Weapon: Sapphire Amulet]
+
+
+Asapphire amuletcan be created with 24Craftingby using agold baron afurnacewhile also carrying a cutsapphireand anamulet mould. This will grant 65 Crafting experience and create asapphire amulet (u), which may not be worn. Aball of woolmust be used on the unstrung amulet to complete it, which gives 4 Crafting experience.
+Sapphire amulets provide no bonuses, but castingLvl-1 Enchanton a sapphire amulet will turn it into anamulet of magic.
+
+
+[Infobox]
+Released: 8 May2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I wonder if I can get this enchanted.
+General Store Value: 900 coins
+High alch: 540 coins
+Low alch: 360 coins
+Weight: 0.007 kg
+Grand Exchange Value: 568 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 27,611
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (stealing valuables) | 50 | 1 | 10/6,250 | 
+Jewellery case (stealing valuables) | 50 | 1 | 10/6,250 | 
+Small chest | N/A | 1 | 4/150 | 
+Small chest | N/A | 1 | 6/150 | 
+Small chest | N/A | 1 | 2/150 | 
+Small chest | N/A | 1 | 5/150 | 
+Small chest | N/A | 1 | 3/150 | 
+Small chest | N/A | 1 | 3/150 | 
+Small chest | N/A | 1 | 2/150 | 
+Small chest | N/A | 1 | 4/150 | 
+Small chest | N/A | 1 | 6/150 | 
+Wardrobe (stealing valuables) | 50 | 1 | 10/6,250 | 

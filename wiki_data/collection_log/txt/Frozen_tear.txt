@@ -1,0 +1,18 @@
+Item: Frozen tear
+Summary: Frozen tears are a drop from creatures within the Ruins of Tapoyauik. They are used to charge the pendant of ates, in which each tear provides one teleport charge.
+Sources:
+- Amoxliatl (Level 263, Quantity: 2–4, Rarity: 6/10)
+- Amoxliatl (Level 263, Quantity: 5–10, Rarity: 3/10)
+- Amoxliatl (Level 263, Quantity: 10–20, Rarity: 1/10)
+- Baby blue dragon (Level 48, Quantity: 6, Rarity: Rare)
+- Blue dragon (Level 111, Quantity: 8, Rarity: Rare)
+- Brutal blue dragon (Level 271, Quantity: 8–14, Rarity: Rare)
+- Cave crawler (Level 23, Quantity: 1–5, Rarity: Unknown)
+- Chilled jelly (Level 112, Quantity: 8–12, Rarity: Rare)
+- Frost Crab (Level 15, Quantity: 5, Rarity: 1/90)
+- Frost Nagua (Level 104, Quantity: 5–10, Rarity: 1/10)
+- Ice giant Regular (m) (Level 53, Quantity: Unknown, Rarity: Unknown)
+- Ice spider (Level 61, Quantity: Unknown, Rarity: Unknown)
+- Ice warrior (Level 57, Quantity: 5, Rarity: Unknown)
+- Icefiend (Level 13; 18, Quantity: Unknown, Rarity: Unknown)
+- Vitreous warped Jelly (Level 241, Quantity: 8–12, Rarity: Rare)

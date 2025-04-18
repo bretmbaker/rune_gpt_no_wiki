@@ -1,0 +1,83 @@
+[Weapon: Saradomin Sword]
+
+
+TheSaradomin swordis the personal weapon ofCommander Zilyana, theSaradoministgeneral within theGod Wars Dungeon. It can be obtained as a rare drop from Commander Zilyana, or as a very rare drop from her bodyguards. It is atwo-handed swordwhich requires 70Attackto wield.
+Unlike most two-handed weapons in the game, it has an attack speed of 4, matching the speed of many commonly used melee weapons, such as scimitars and theabyssal whip.
+
+
+[Infobox]
+Released: 17 October2013(Update)
+Also called: Sara sword
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: The incredible blade of an Icyene.
+General Store Value: 130,000 coins
+High alch: 78,000 coins
+Low alch: 52,000 coins
+Weight: 3 kg
+Grand Exchange Value: 154,533 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 1,515
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +82
+- Crush: +60
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +82
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing the Saradomin sword's special attack,Saradomin's Lightning.
+The Saradomin sword has aspecial attack,Saradomin's Lightning, that deals 10% more melee damage and 1-16 extraMagicdamage. This special attack consumes 100% of the wielder's special attack energy.
+The special attack rolls against the opponent'sSlashdefence bonus using the attack bonus of the stance the player is currently in.[1]If the melee attack misses, then the Magic attack will also fail. Players receive 2 Magic experience for each point of damage caused by the extra Magic damage.
+The magical part ofSaradomin's Lightningwill always splash when directed at players usingProtect from Magic.[2]The Magic damage will always hit 0 oncyclopesin theWarriors' Guild, as with all non-melee damage there.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Bree | 146 | 1 | 3/16,129 | 
+Commander Zilyana | 596 | 1 | 1/127 | 
+Growler | 139 | 1 | 3/16,129 | 
+Starlight | 149 | 1 | 3/16,129 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Amoxliatl/Strategies(Melee)
+5 | Araxxor/Strategies(Melee)
+1 | Budget Cutter
+5 | Revenants/Strategies(Melee)
+5 | Sarachnis/Strategies(Melee)
+4 | Slayer task/Gargoyles(Melee)

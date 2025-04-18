@@ -1,0 +1,54 @@
+[Weapon: Giant Boot]
+
+
+TheGiant bootis a rare reward obtained fromeliteTreasure Trails. It is purely cosmetic and has no bonuses.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Worn on head. Warning: Smelly.
+General Store Value: 14,000 coins
+High alch: 8,400 coins
+Low alch: 5,600 coins
+Weight: 0.5 kg
+Grand Exchange Value: 66,417 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 56
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/1,275 | 

@@ -1,0 +1,4 @@
+Item: Torva full helm
+Summary: The Torva full helm is part of the Torva armour set, requiring 80 Defence to wear. The helmet boasts the highest strength bonus of any helmet, being 2 higher than the Neitiznot faceguard and 3 higher than the serpentine helm. As a Zarosian-aligned item, Torva armour will give Zarosian protection within the God Wars Dungeon.
+Sources:
+- Nex (Level 1001, Quantity: 1, Rarity: 1/258)

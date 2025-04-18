@@ -1,0 +1,155 @@
+[Weapon: Ardougne Cloak 4]
+
+
+TheArdougne cloak 4is a reward from completing the eliteArdougne Diarygiven to you byTwo-pintsin theFlying Horse InninEast Ardougne, and can be retrieved from her for free if lost.
+This cape currently offers the higheststabbonus in thecape slot. It is often used by players when fighting theCorporeal Beast, as well asWildernessbosses where the free expendable nature of the cape and its Prayer bonus prove useful.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Monastery Teleport, Farm Teleport, Drop
+Worn options: Kandarin Monastery, Ardougne Farm
+Examine: A shadowy Ardougne cloak.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +6
+- Slash: +0
+- Crush: +0
+- Magic: +6
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +0
+- Crush: +0
+- Magic: +6
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +6
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+3 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+3 | Adamant dragon/Strategies(Melee)
+3 | Adamant dragon/Strategies(Magic)
+3 | Adamant dragon/Strategies(Magic)
+3 | Alchemical Hydra/Strategies(Melee)
+4 | Amoxliatl/Strategies(Melee)
+3 | Ancient Wyvern/Strategies(Magic)
+3 | Ancient Wyvern/Strategies(Melee)
+3 | Artio/Strategies(Magic)
+3 | Barbarian Assault/Strategies(Magic)
+5 | Basilisk Knight/Strategies(Melee)
+4 | Budget Cutter
+3 | Callisto/Strategies(Magic)
+5 | Calvar'ion/Strategies(Melee)
+3 | Cerberus/Strategies(Melee)
+3 | Chaos Elemental/Strategies(Melee)
+3 | Chaos Elemental/Strategies(Ranged)
+3 | Chompington(Melee)
+4 | Corporeal Beast/Strategies(Solo melee)
+4 | Corporeal Beast/Strategies(Melee masses)
+4 | Corporeal Beast/Strategies(Team melee)
+3 | Crazy archaeologist/Strategies(Magic)
+3 | Dark beast/Strategies(Melee)
+3 | Deranged archaeologist/Strategies(Magic)
+3 | Down Do Specs(Melee)
+3 | Drake/Strategies(Magic)
+3 | Drake/Strategies(Melee)
+4 | Duke Sucellus/Strategies(Melee)
+3 | Dust devil/Strategies(Bursting/Barraging)
+3 | Galvek Speed-Trialist(Melee)
+3 | General Graardor/Strategies(Solo (Magic))
+3 | General Graardor/Strategies(Melee Attacker)
+2 | Giant Mole/Strategies(Melee & Prayer Budget)
+4 | Giant Mole/Strategies(Dharok's)
+3 | Giant Mole/Strategies(Melee)
+3 | Giant Mole/Strategies(Magic)
+3 | Glough Speed-Trialist(Melee)
+3 | Greater Nechryael/Strategies(Bursting/Barraging)
+3 | Green dragon/Strategies(Melee)
+3 | Kalphite Queen/Strategies(Verac the Defiled's)
+3 | Kalphite Queen/Strategies(Max Mage (0 switches))
+5 | Kraken/Strategies(Magic)
+3 | Kree'arra/Strategies(Magic)
+3 | Krystilia/Strategies(Melee)
+2 | Lava dragon/Strategies(Ranged)
+4 | Lava dragon/Strategies(Magic)
+3 | Lizardman shaman/Strategies(Melee)
+3 | Lizardman shaman/Strategies(Ranged)
+3 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+3 | Maniacal monkey/Strategies(Ranged)
+3 | Maniacal monkey/Strategies(Magic - Ice Burst)
+3 | Metal dragons/Strategies(Melee)
+3 | Metal dragons/Strategies(Magic)
+3 | The Mimic/Strategies(Magic)
+3 | Mithril dragon/Strategies(Magic)
+3 | Mithril dragon/Strategies(Melee)
+3 | Nightmare Zone/Strategies(Magic)
+4 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+5 | Nightmare Zone/Strategies(Melee)
+4 | Nightmare Zone/Strategies(Melee (Guthan's))
+5 | Nightmare Zone/Strategies(Melee (Dharok's))
+3 | Nightmare Zone/Strategies(Melee (Prayer))
+3 | Revenants/Strategies(Magic)
+2 | Revenants/Strategies(Melee)
+3 | Rune dragon/Strategies(Magic)
+3 | Rune dragon/Strategies(Melee)
+3 | Scurrius/Strategies(Magic (high level))
+4 | Skeletal Wyvern/Strategies(Melee)
+3 | Skeletal Wyvern/Strategies(Magic)
+2 | Skeleton (Ape Atoll)(Magic)
+4 | Skotizo/Strategies(Melee)
+3 | Slayer task/Abyssal demons(Magic)
+3 | Slayer task/Fossil Island wyverns(Magic)
+3 | Slayer task/Fossil Island wyverns(Melee)
+4 | Slayer task/Gargoyles(Melee)
+3 | Slayer task/Jellies(Magic)
+3 | Slayer task/Jellies(Melee)
+4 | Slayer task/Nechryael(Melee)
+3 | Slayer task/Nechryael(Magic)
+3 | Slayer task/Suqah(Melee (South))
+3 | Slayer task/Trolls(Magic (Ice trolls))
+3 | Slayer task/Trolls(Melee (Mountain trolls))
+3 | Slayer task/Trolls(Melee (Ice trolls))
+3 | Slayer task/Wyrms(Melee)
+4 | Slayer training(Melee)
+3 | Slayer training(Magic (Barrage))
+3 | Smoke devil/Strategies
+4 | Spindel/Strategies(Melee)
+5 | Sulliuscep/Strategies
+4 | Sulliuscep/Strategies
+4 | Thermonuclear smoke devil/Strategies(Melee)
+3 | Thermonuclear smoke devil/Strategies(Magic)
+5 | TzHaar Fight Cave/Strategies(Ranged)
+3 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+4 | Vardorvis/Strategies(Melee)
+4 | Venenatis/Strategies(Melee)
+5 | Vet'ion/Strategies(Melee)
+5 | Volcanic Mine(Solo)
+4 | Volcanic Mine(Group)
+3 | Vorkath/Strategies(Melee)
+4 | Vyrewatch Sentinel/Strategies(AFK Prayer)
+3 | The Whisperer/Strategies(Magic)
+3 | Zulrah/Strategies(Magic)

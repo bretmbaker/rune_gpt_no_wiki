@@ -1,0 +1,3 @@
+Item: Loading crane
+Summary: Loading cranes are animated hazards that attack the player during the fight with Treus Dayth at the end of the Haunted Mine quest. The cranes do not move but will swing to attack any player that comes near them. Damage can be avoided by staying out of their reach, though Treus Dayth's movement may require running 
+past the cranes to attack him.

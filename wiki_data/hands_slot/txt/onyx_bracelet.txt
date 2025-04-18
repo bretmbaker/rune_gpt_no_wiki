@@ -1,0 +1,49 @@
+[Weapon: Onyx Bracelet]
+
+
+Theonyx braceletis made by using agold bar, anonyx, and abracelet mouldon afurnacea withCraftinglevel of 84, earning 125experience. It is the bracelet of the second highest gem quality in the game, behindzenyte.
+The bracelet has no bonuses of any kind until enchanted. If it is enchanted using the level 87 spellLvl-6 Enchant(earning 97Magicexperience), it becomes aregen bracelet, which adds combat bonuses and doubles the natural restoration ofHitpoints.
+
+
+[Infobox]
+Released: 30 April2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Yep, this is most definitely valuable!
+General Store Value: 201,000 coins
+High alch: 120,600 coins
+Low alch: 80,400 coins
+Weight: 0.25 kg
+Grand Exchange Value: 2,538,359 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 2
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

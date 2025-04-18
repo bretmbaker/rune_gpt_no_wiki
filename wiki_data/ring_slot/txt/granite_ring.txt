@@ -1,0 +1,65 @@
+[Weapon: Granite Ring]
+
+
+Thegranite ringis a defensiveringdropped by theGrotesque Guardiansthat can be found on theSlayer Tower's rooftop. Level 50DefenceandStrengthare required to wear it.
+It can beimbuedusing 500,000Nightmare Zonereward points or 250,000 with thehard tierofCombat Achievements, 200Soul WarsZeal Tokens, or aScroll of Imbuing, purchased for 200Emir's Arenareward points, doubling its stats.
+
+
+[Infobox]
+Released: 26 October2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A solid ring.
+General Store Value: 15,000 coins
+High alch: 9,000 coins
+Low alch: 6,000 coins
+Weight: 3 kg
+Grand Exchange Value: 29,365 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 509
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: -2
+- Ranged: +8
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Grotesque Guardians |  | 1 | 2 × 1/500 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyss/Strategies(Defence)
+2 | Barbarian Assault/Strategies(Ranged (mid level))
+3 | Barbarian Assault/Strategies(Melee (mid level))
+3 | Budget Cutter
+3 | Gout tuber/Strategies(Tank)
+5 | TzHaar Fight Cave/Strategies(Ranged)
+5 | TzHaar Fight Cave/Strategies(Magic)

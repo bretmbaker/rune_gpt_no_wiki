@@ -1,0 +1,48 @@
+[Weapon: Pirate Leggings (Beige)]
+
+
+The beigepirate leggingsare a pair of legwear that can be purchased fromDodgy Mike's Second-hand ClothingonMos Le'Harmless, south-east of the bank.
+
+
+[Infobox]
+Released: 7 February2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A sea worthy pair of trousers.
+General Store Value: 350 coins
+High alch: 210 coins
+Low alch: 140 coins
+Weight: 1 kg
+Grand Exchange Value: 378 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 2
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

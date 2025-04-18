@@ -1,0 +1,54 @@
+[Weapon: Guthix Halo#Broken]
+
+
+TheGuthix halois an item worn in the head slot that can be bought from (or sold to)Lanthusfor 75castle wars tickets.
+If the player dies below level 20Wilderness, it will remain in the player's inventory. However, the item will be unusable and must be repaired with 25,000 coins by using the item onPerdu. If not protected when the player dies above level 20 Wilderness, the item is converted into coins and dropped. Alternatively, aTrouver parchmentand a payment of 500,000 coins can be given toPerduin order to lock it (after which it gains the(l)suffix); this allows the item to be kept in death, unbroken, even if the player dies at level 20 Wilderness or higher.
+
+
+[Infobox]
+Released: 3 July2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Halo with the protection of Guthix.
+General Store Value: 150,000 coins
+High alch: 90,000 coins
+Low alch: 60,000 coins
+Weight: 0.3 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +11
+- Slash: +12
+- Crush: +10
+- Magic: +11
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Abyss/Strategies(Defence)
+5 | Maniacal monkey/Strategies(Magic - Ice Burst)
+5 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+4 | TzHaar Fight Cave/Strategies(Pure)

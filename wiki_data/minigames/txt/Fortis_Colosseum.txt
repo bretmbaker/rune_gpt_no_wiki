@@ -1,0 +1,260 @@
+[Minigame: Fortis_Colosseum]
+
+ | This article has astrategy guide.All information on mechanics and strategy will be on this page.
+
+ | This is a dangerous activity in aninstance.Ondeath,Hardcore Ironmenwill  lose their status.Unprotected items will be moved to a grave outside the instance.Items left on the ground will always be lost.
+
+Fortis Colosseum
+
+
+
+
+
+Released | 20 March2024(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Civitas illa Fortis
+
+Leagueregion | Varlamore✓
+
+Participants | 1
+
+Music | Are You Not Entertained?
+
+
+
+Map
+
+
+
+TheFortis Colosseumis a large stadium found on the cliffs east ofCivitas illa Fortis. Here, players can take on up to twelve waves of opponents, culminating with the final wave againstSol Heredit. Enemies will spawn in similarly to theTzHaar Fight CavesandInferno, though additional enemies will also spawn in during the wave.
+
+The Fortis Cliffs were once home to a great temple, where convicts were taken to be sacrificed upon an altar in the name ofRalos. Sometime afterKing Maximus Tullusascended the throne, he ordered the temple to be destroyed, claiming the kingdom would no longer tolerate human sacrifices.[1]In its place, he had the Fortis Colosseum built, where warriors gather and battle for glory, with the blood spilled in battle symbolising an offering to Ralos.[2]As such, the Colosseum is overseen byoneof the sevenTeokiof Ralos. Meanwhile, the fighters are chosen by elite warriors known as the Lanistas.
+
+Getting there[edit|edit source]
+
+As with all of Varlamore the Fortis Colosseum requires completion of the questChildren of the Sun. There are three main methods for travelling to the Fortis Colosseum. These options, ordered from fast to slow, are:
+
+Players can use thering of duelingteleport to Fortis Colosseum. (requires 12,000 glory)Players can take aQuetzalto Fortis Colosseum and walk east.Players can use theCivitas illa Fortis Teleportrequiring 54 magic and completion ofTwilight's Promiseand walk south-east.
+
+Lobby area[edit|edit source]
+
+Upon entering the Colosseum, players will arrive at a lobby area under the Colosseum itself, where they can enter the arena and begin the minigame by initially speaking toMinimus, the Colosseum Master. Abank chestsouth of the arena's entrance can be accessed by players who have obtained at least 2,000glory;Gloria, who is found by theColosseum scoreboard, will introduce players to the glory system.
+
+The area is also filled withgladiatorsandguards. At the eastern side, players can findUeman, Teoki of RalosandSeia, Teoki of Ranul, who manage the religious aspects of the Colosseum.
+
+Gameplay[edit|edit source]
+
+Before progressing to the next wave, players must choose one of three modifiers that will make subsequent waves harder to clear, for example by reducing the player's maximumHitpoints, strengthening their opponents, or adding additional hazards to the arena. The modifiers offered are randomized and will persist for all subsequent waves of that run.
+
+Alternatively, players can choose to end their Colosseum run with the spoils they've earned up to their current wave. Logging out during a run will be considered as a death; teleporting, however, is not, although it will still cause any accumulated loot to be forfeited.
+
+The reclamation fee upondeathis reduced by 75% (up to125,000) until the player has completed 100 waves of the Colosseum; this also includes runs where the player completed waves but died.
+
+Modifiers[edit|edit source]
+
+With a few exceptions, most modifiers have three tiers of severity.
+
+Modifier | Effect | Glory per wave
+
+ | Bees! | ABee Swarmwill drift around the arena, slowly converging on the player at a speed of 12 ticks. If underneath the player, it will deal up to 10 unblockable poison damage every tick, and inflict poison starting at 1 damage.They have 1 Hitpoint and will respawn 30 seconds after being killed. | 150
+
+ | Bees! (II) | The amount of bee swarms is increased totwo. | 300
+
+ | Bees! (III) | The amount of bee swarms is increased tothree. | 450
+
+ | Blasphemy | The player's prayer points are drained by 20% of damage taken from enemies. | 100
+
+ | Blasphemy (II) | Prayer drain is increased to 40% of damage taken. | 200
+
+ | Blasphemy (III) | Prayer drain is increased to 60% of damage taken. | 300
+
+ | Doom | A stack of Doom is gained whenever damage is taken, indicated by ahitsplat. The player is killed upon gaining 15 stacks.Stacks of doom are cleared after completing a wave. | 200
+
+ | Doom (II) | The player is now killed upon gaining 10 stacks. | 400
+
+ | Doom (III) | The player is now killed upon gaining 5 stacks. | 600
+
+ | Dynamic Duo | Shockwave Colossiwill now spawn in pairs.The paired Colossus spawns near the main Colossus, but not necessarily on one of the 12 default spawns. | 150
+
+ | Frailty | The player's baseHitpointsare reduced by 10%, and overhealing is disabled. | 200
+
+ | Frailty (II) | Base Hitpoints are reduced by20%. | 400
+
+ | Frailty (III) | Base Hitpoints are reduced by40%. | 600
+
+ | Mantimayhem | Manticoresnow add an additional projectile per orb, effectively attacking twice per attack cycle.Will not be given as an option after wave 11 if not chosen. | 150
+
+ | Mantimayhem (II) | Manticores are nowvenomous, applying it if its attacks are not prayed against. Venom is cured at the end of each wave. | 300
+
+ | Mantimayhem (III) | The manticore's attack patterns is now less predictable, now being set in any order of magic, range, and melee. | 450
+
+ | Myopia | The player's attack range is reduced by two tiles. Manually casted spells are unaffected. | 200
+
+ | Myopia (II) | Attack range is now reduced byfourtiles. | 400
+
+ | Myopia (III) | Attack range is now reduced bysixtiles. | 600
+
+ | Reentry | Javelins launched into the air byJavelin Colossiwill now leave atemporarypool ofmolten sandwhere they land, disappearing after the wave ends. | 150
+
+ | Reentry (II) | The molten sand is nowpermanent, and now includes the targeted tile and the tile south-west of it, if accessible.This will also cause the sand created from the explosion of Volatility III to become permanent. | 300
+
+ | Reentry (III) | The tiles where molten sand is left behind now includes the tile west of the targeted tile. | 450
+
+ | Red Flag | Minotaursnow have advanced NPC pathing, allowing them to move around obstacles and making them impossible to safespot. | 250
+
+ | Relentless | Enemy attacks will now bypass 33% of the player's Defence level, and have their max hit increased by 1. | 200
+
+ | Relentless (II) | Attacks now bypass66%of the player's Defence, and max hits are now increased by3. | 400
+
+ | Relentless (III) | Enemies will fully ignoreaccuracy checks, and max hits are now increased by6. | 600
+
+ | Solarflare | A damaging orb circles around the pillars, moving every 2 ticks, then stopping for 7 ticks when it reaches a corner.During wave 12, they will circle around a set pattern within the allotted arena. | 250
+
+ | Solarflare (II) | The orb now moves every two ticks without stopping, and deals more damage. | 500
+
+ | Solarflare (III) | The orb now moves every tick, stopping for 2 ticks when it reaches a corner. It will also now disable prayers if hit, alongside dealing even more damage. | 750
+
+ | Quartet | An extra random Fremennik Warbander spawns every wave. | 100
+
+ | Totemic | When an enemy is reduced to 50% hitpoints or below, a healing totem will appear near them, and send healing projectiles to the target, healing them for a 30% their health every few ticks.They have 1 Hitpoint and will respawn two minutes after being destroyed, or after the enemy dies. Additionally, it will not heal the enemy if they are destroyed before their healing projectile reaches them.During wave 12, after the first totem appears at 50%, an additional totem will spawn once every two minutes until the fight concludes. | 200
+
+ | Volatility | Upon death, the enemy will explode one tile greater than their size. For example, amanticore, whose size is 3x3 tiles, will explode in a 5x5 radius. | 100
+
+ | Volatility (II) | The explosion radius is nowtwotiles greater, ex. a 3x3 monster will now explode in a 7x7 radius. | 200
+
+ | Volatility (III) | The tile at the centre of the explosion now leaves behind atemporarypool of molten sand, disappearing after the wave ends.Reentry II or III will cause this pool of molten sand to become permanent. | 300
+
+Monsters[edit|edit source]
+
+Lvl | Image | Name | HP | Defence | Magic | Attack(s) | Max Hit | Notes
+
+104 |  | Fremennik warband archer | 50 | 80 | 110 | Ranged | 14 | Spawns alongside a Fremennik warband seer and berserker. They will run towards the player and only attack when standing still next to the player or when frozen up to 2 tiles away. Attacking them with melee will always max hit.
+
+104 |  | Fremennik warband seer | 50 | 80 | 110 | Magic | 12 | Spawns alongside a Fremennik warband archer and berserker. They will run towards the player and only attack when standing still next to the player or when frozen up to 2 tiles away. Attacking them with ranged will always max hit.
+
+103 |  | Fremennik warband berserker | 48 | 80 | 110 | Melee | 29 | Spawns alongside a Fremennik warband archer and seer. They will run towards the player and only attack with melee when standing still in melee range. Attacking them with mage will always max hit.
+
+161 |  | Serpent shaman | 125 | 90 | 220 | Magic | 28 | A powerful magic wielder with high accuracy.
+
+234 |  | Jaguar warrior | 125 | 125 | 100 | Melee | 47 (x3) | Each attack lands three hits on the player, with their accuracy and strength rolled independently from each other.
+
+278 |  | Javelin Colossus | 220 | 190 | 225 | Ranged | 48 | On every 5th attack, a javelin will be thrown high in the air, targeting the player’s current location and dealing heavy, typeless damage. IfReentrymodifiers are active, this attack will also leave behind molten sand, with duration and AoE dependent on tier.
+
+320 |  | Manticore | 250 | 250 | 300 | Ranged, Magic, Melee | 35 | Has a unique attack pattern of three attacks in three ticks with a seven tick charge-up time. It will either attack with ranged-magic-melee or magic-ranged-melee. Two manticores can't attack at the player at the same time, causing one to wait on the other.IfMantimayhemmodifiers are active, their attacks can hit six times rather than three, can inflictvenom, and may use a completely random order.
+
+239 |  | Shockwave Colossus | 125 | 150 | 350 | Magic | 56 | Spawns in pairs ifDynamic Duois active.
+
+318 |  | Minotaur | 225 | 190 | 250 | Melee | 74 | Heals monsters to full health within a 6 tile radius.Cannot be safespotted ifRed Flagis active, as they will path around obstacles.
+
+Wave breakdown[edit|edit source]
+
+Like theTzHaar Fight Caveand theInferno, NPCs spawn at the start of every wave; however, in the Colosseum, additional reinforcement NPCs will spawn during the wave.
+
+The list below assumes that the modifiersQuartet,Bees,Dynamic Duo, andTotemicare not active.
+
+Wave 1:Fremennik Warband,Serpent shamanReinforcements:Jaguar warriorWave 2:Fremennik Warband,Serpent shaman,Javelin ColossusReinforcements:Jaguar warriorWave 3:Fremennik Warband,Serpent shaman, 2xJavelin ColossusReinforcements:Jaguar warriorWave 4:Fremennik Warband,Serpent shaman,ManticoreReinforcements:Jaguar warrior,Serpent shamanWave 5:Fremennik Warband,Serpent shaman,Javelin Colossus,ManticoreReinforcements:Jaguar warrior,Serpent shamanWave 6:Fremennik Warband,Serpent shaman, 2xJavelin Colossus,ManticoreReinforcements:Jaguar warrior,Serpent shamanWave 7:Fremennik Warband,Javelin Colossus,Manticore,Shockwave ColossusReinforcements:MinotaurWave 8:Fremennik Warband, 2xJavelin Colossus,Manticore,Shockwave ColossusReinforcements:MinotaurWave 9:Fremennik Warband,Javelin Colossus, 2xManticoreReinforcements:MinotaurWave 10:Fremennik Warband, 2xJavelin Colossus, 2xManticoreReinforcements:Minotaur,Serpent shamanWave 11:Fremennik Warband,Javelin Colossus, 2xManticore,Shockwave ColossusReinforcements:Minotaur,Serpent shamanWave 12:Sol Heredit
+
+Final boss[edit|edit source]
+
+On the 12th and final wave, Sol Heredit will leap down from his throne and into the arena to battle the player. At the same time, a group of unarmoured gladiators will close off the centre of the arena, limiting the amount of space to a 16x16 area (with four tiles jutting out from the corners). He is primarily weak toslash, and uses two different types of AoE melee attacks, each of which have two distinct patterns.
+
+These melee attacks are unaffected byProtect from Melee, but each pattern has a specific set of tiles that can be stood on to avoid taking damage from his attacks. As his health lowers to specific intervals, Sol Heredit will begin limiting the amount of space available to move in with beams of light, while also summoning a yellow crystal that will periodically stop and charge up a beam that deals massive damage if the player makes contact with it.
+
+After falling below 90% of his health, he will begin to utilise special attacks, such as a three-hit melee combo that deals massive damage and disables overhead protection prayers, though it can be blocked on a perfect tick. He will also attempt to grapple the player, targeting a specific equipment slot that deals massive damage and puts it into the player's inventory if not blocked in time.
+
+When Sol Heredit reaches ~150 hitpoints, he will enter an enrage phase, quickly engulfing the arena with beams of light until slain, making it important to kill him before this occurs.
+
+Money making[edit|edit source]
+
+The followingmoney making guidesare available for Fortis Colosseum:
+
+Method | Hourly profit | Skills
+
+Completing the Fortis Colosseum (Wave 1) | 2,270,955 | 80+,80+,80+recommended forDinh's bulwarkmethod80+recommended forVenator bow86+recommended forBarrage spells77+recommended forRigourandAuguryand must have at least 43 Prayer forprotection prayers
+
+Completing the Fortis Colosseum (Wave 12) | 14,003,011 | 95+,95+,90+,95+,90+recommended94+77+recommended
+
+Rewards[edit|edit source]
+
+ | Ralos has smiled upon you...
+
+Music that plays when defeating Sol Heredit.
+
+
+
+Before starting a wave, an interface will appear indicating the loot from the current wave and loot from the upcoming wave. Players may choose to either continue and risk their rewards or end the run and claim all of their hard-won spoils. If the player dies, teleports out during a wave, or logs out, all accumulated loot will be lost. Ending a run or defeating Sol Heredit in wave 12 will result in arewards chestappearing in the centre part of the arena where rewards can be claimed. Minimus can be found beside the chest to allow players to exit the arena.
+
+Unique rewards can be obtained from wave 3 onwards. Every wave after that has a progressively higher chance of awarding a unique items. Unique rewards from the chest include:
+
+Pieces of theSunfire fanatic armour:Sunfire fanatic helmSunfire fanatic cuirassSunfire fanatic chaussesDizana's quiver, guaranteed by beating the ColosseumTonalztics of ralos(only obtainable from wave 7 onwards)Echo crystal, which can be combined withguardian bootsto createecho bootsSmol heredit, the boss pet ofSol Heredit, obtained by beating the Colosseum
+
+Sunfire splintersare also a common drop obtainable in addition to the above. They can be used to charge Dizana's quiver and the Tonalztics of Ralos. They are also used to createsunfire runes,searing pages, andsunfire wine.
+
+Players can choose to exchange theDizana's quiverwithMinimusfor an additional 1/200 chance to receive theSmol hereditpet[3]or for 4,000 sunfire splinters. Players who already have the pet will not be offered the option to gamble quivers for the pet, but can still exchange them for sunfire splinters.
+
+Glory[edit|edit source]
+
+Every time the player completes a wave, they will earnGlory, in which the amount gained is dependent on the player's performance - damage taken, time spent, errors made, and types of modifiers selected. A player's Glory does not accumulate like a currency, only their personal best matters.
+
+Gaining more Glory also gives various benefits outside the Colosseum, where citizens may reward you based on how much has been earned:
+
+Title | Glory required | Reward
+
+Brawler | 2,000 | Ability to use the bank chest inside the Colosseum lobby
+
+Challenger | 5,000 | Ability to set Civitas illa Fortis as arespawn point
+
+Gladiator | 8,000 | Orianawill purchasevaluablesfor 65 coins each
+
+Hero | 12,000 | Ability to teleport to the Colosseum via thering of dueling
+
+Champion | 16,000 | Theherb patchinOuter Fortiswill always bedisease-free
+
+Grand Champion | 20,000 | Ability to perform theFortis Saluteemote
+
+Combat Achievements[edit|edit source]
+
+There are 13Combat Achievementtasks (totalling 67 points) available for Fortis Colosseum.
+
+Name | Description | Type | Tier | Comp%
+
+I was here first! | Kill a Jaguar Warrior using a Claw-type weapon special attack. | Mechanical | Elite (4 pts) | 5%
+
+Denied | Complete Wave 7 without the Minotaur ever healing other enemies. | Mechanical | Elite (4 pts) | 8%
+
+Furball | Complete Wave 4 without taking avoidable damage from a Manticore. | Perfection | Elite (4 pts) | 9.2%
+
+One-off | Complete Wave 11 with either 'Red Flag', 'Dynamic Duo', or 'Doom II' active. | Mechanical | Master (5 pts) | 4.6%
+
+Showboating | Defeat Sol Heredit after usingFortis Saluteto the north, east, south and west of the arena while he is below 10% hitpoints. | Mechanical | Master (5 pts) | 1.1%
+
+I Brought Mine Too | Defeat Sol Heredit using only a Spear, Hasta or Halberd. | Restriction | Master (5 pts) | 1.6%
+
+Sportsmanship | Defeat Sol Heredit once. | Kill Count | Master (5 pts) | 7%
+
+Colosseum Speed-Chaser | Complete the Colosseum with a total time of 28:00 or less. | Speed | Master (5 pts) | 2.5%
+
+Colosseum Speed-Runner | Complete the Colosseum with a total time of 24:00 or less. | Speed | Grandmaster (6 pts) | 1.5%
+
+Slow Dancing in the Sand | Defeat Sol Heredit without running during the fight with him. | Restriction | Grandmaster (6 pts) | 1.1%
+
+Reinforcements | Defeat Sol Heredit with "Bees II", "Quartet" and "Solarflare II" modifiers active. | Mechanical | Grandmaster (6 pts) | 0.9%
+
+Perfect Footwork | Defeat Sol Heredit without taking any damage from his Spear, Shield, Grapple or Triple Attack. | Perfection | Grandmaster (6 pts) | 2.3%
+
+Colosseum Grand Champion | Defeat Sol Heredit 10 times. | Kill Count | Grandmaster (6 pts) | 1.8%
+
+Gallery[edit|edit source]
+
+Areas[edit|edit source]
+
+Concept art of the entrance, byMod Jerv.Concept art of the underground level, by Mod Jerv.Concept art of the arena, by Mod Jerv.
+
+NPCs[edit|edit source]
+
+Concept art of the Doom Scorpion, by Mod Jerv.Concept art of the gladiators, byMod Grub.Concept art of the Fremennik warband by Mod Grub. It appears to show a scrapped warband druid, as well as scrapped gendered variants.Concept art of the jaguar warrior and serpent shaman, by Mod Grub.Concept art of the shockwave and javelin colossi, by Mod Grub.Concept art of the manticore, by Mod Jerv.Concept art of the minotaur, by Mod Grub.Concept art of Sol Heredit, by Mod Grub.Concept art of a scrapped NPC by Mod Grub, made up of a group of people who can transform into the testudo formation.
+

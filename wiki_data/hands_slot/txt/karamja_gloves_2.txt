@@ -1,0 +1,46 @@
+[Weapon: Karamja Gloves 2]
+
+
+Karamja gloves 2are the reward for completing all the Easy and Medium tasks in theKaramja Diary. If a player chooses to destroy the gloves, the gloves can be obtained again fromPirate Jackie the Fruitby theBrimhaven Agility Arena. Alternatively, players can purchase one fromPerdufor 200 coins should they lose it.
+A number of other benefitsare always active upon claiming rewards from the medium tier of the Karamja diary.
+
+
+[Infobox]
+Released: 8 May2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A pair of gloves from Karamja.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.226 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +1
+- Magic: +1
+- Ranged: +1
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +1
+- Magic: +1
+- Ranged: +1
+
+Other Bonuses:
+- Strength: +1
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

@@ -1,0 +1,77 @@
+Name: Pirate
+Combat Level: 23
+Size: 1x1
+Info:
+- Description: Avast ye scurvy land lubbers!
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 20 xp
+- Category: Pirates
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 522,6994
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Iron platebody (1/128)
+- Law rune (1/128)
+- Coins (1/128)
+- Chef's hat (1/128)
+- Iron bar (1/128)
+- Nothing (1/256.47; Never[d 1])
+- Uncut sapphire (1/512; 1/260[d 2])
+- Uncut emerald (1/1,024; 1/520[d 2])
+- Uncut ruby (1/2,048; 1/1,040[d 2])
+- Uncut diamond (1/8,192; 1/4,160[d 2])
+- Chaos talisman (1/5,461.33; 1/2,773.33[d 2][d 3])
+- Nature talisman (1/5,461.33; 1/2,773.33[d 2][d 3])
+- Loop half of key (1/16,384; 1/8,320[d 2])
+- Tooth half of key (1/16,384; 1/8,320[d 2])
+- Rune javelin (1/16,384; 1/8,320[d 2])
+- Rune spear (1/262,144; 1/15,600[d 2][d 4])
+- Shield left half (1/524,288; 1/31,200[d 2][d 4])
+- Dragon spear (1/699,050.67; 1/41,600[d 2][d 4])
+- Looting bag(m) (1/6[d 2])
+- Larran's key (1/1,074)
+- Slayer's enchantment (1/304)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 20
+Attack: 21
+Strength: 21
+Defence: 21
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 8
+Strength bonus: 10
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 3
+Slash: 2
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

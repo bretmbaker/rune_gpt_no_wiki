@@ -1,0 +1,1 @@
+Phoenix necklacesare necklaces that automatically restore the wearer'sHitpointsby 30% of maximum if they drop to 20% of the maximum or below. They only have one use, after which they are destroyed.

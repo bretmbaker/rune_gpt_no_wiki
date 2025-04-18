@@ -1,0 +1,259 @@
+[Minigame: Silver_bar]
+
+Silver bar
+
+
+
+
+
+
+
+Released | 12 July2001(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Drop
+
+Examine | It's a bar of silver.
+
+
+
+Values
+
+
+
+Value | 150 coins
+
+High alch | 90 coins
+
+Low alch | 60 coins
+
+Weight | 1.814 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 139coins (info)
+
+Buy limit | 10,000
+
+Daily volume | 433,747
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 2355
+
+Link | MOID
+
+
+
+Asilver baris abarof metal, refined through theSmithingskill by smelting asilver orein a furnace, requiring 20 Smithing and granting 13.7 Smithing experience. It may also be bought (or stolen) from asilver merchant, such as the one in Ardougne market, or from other players.
+
+The primary use of a silver bar is to createjewellerywith theCraftingskill. To craft silver bars into jewellery players must use a silver bar on a furnace with a propermouldin their inventory. If players wish to craft jewellery withgemsinset, the cut gems must be present in the player's inventory before crafting the jewellery. One silver bar is used during theCreature of Fenkenstrainquest, and another duringShadow of the Storm.
+
+Unlikegold bars, which cannot be made into weapons, silver bars can be made intosilver sickles. They can also be ground tosilver dustin theEctofuntusgrinder for use as an ingredient in theguthix balancepotion.
+
+Currently, smelting a silver bar yields a profit of81.
+
+One effective method of gathering silver bars is exchangingreward tokensgained for completingTemple Trekkingminigame. This method is commonly used by ironman players, as it can net upwards of 1000 silver bars per hour.
+
+Recipe[edit|edit source]
+
+Money making[edit|edit source]
+
+The followingmoney making guideis available for Silver bar:
+
+Method | Hourly profit | Skills
+
+Smelting silver bars | 79,380 | 20Smithingrequired
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Conductor |  | 20 | 50 | 1 ×Silver bar
+
+ | Demonic sigil |  | 30 | 50 | 1 ×Silver bar
+
+ | Jade amulet (u) |  | 34 | 70 | 1 ×Jade1 ×Silver bar
+
+ | Jade bracelet |  | 29 | 60 | 1 ×Jade1 ×Silver bar
+
+ | Jade necklace |  | 25 | 54 | 1 ×Jade1 ×Silver bar
+
+ | Jade ring |  | 13 | 32 | 1 ×Jade1 ×Silver bar
+
+ | Opal amulet (u) |  | 27 | 55 | 1 ×Silver bar1 ×Opal
+
+ | Opal bracelet |  | 22 | 45 | 1 ×Opal1 ×Silver bar
+
+ | Opal necklace |  | 16 | 35 | 1 ×Opal1 ×Silver bar
+
+ | Opal ring |  | 1 | 10 | 1 ×Opal1 ×Silver bar
+
+ | Silver bolts (unf)× 10 |  | 21 | 50 | 1 ×Silver bar
+
+ | Silver dust |  | None | None | 1 ×Silver bar
+
+ | Silver sickle |  | 18 | 50 | 1 ×Silver bar
+
+ | Silvthrill rod |  | 25 | 55 | 1 ×Silver bar1 ×Mithril bar1 ×Sapphire
+
+ | Tiara |  | 23 | 52.5 | 1 ×Silver bar
+
+ | Topaz amulet (u) |  | 45 | 80 | 1 ×Red topaz1 ×Silver bar
+
+ | Topaz bracelet |  | 38 | 75 | 1 ×Red topaz1 ×Silver bar
+
+ | Topaz necklace |  | 32 | 70 | 1 ×Red topaz1 ×Silver bar
+
+ | Topaz ring |  | 16 | 35 | 1 ×Red topaz1 ×Silver bar
+
+ | Unstrung emblem |  | 17 | 50 | 1 ×Silver bar
+
+ | Unstrung symbol |  | 16 | 50 | 1 ×Silver bar
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Angry barbarian spirit | 166 | 3(noted) | 5/128 | 
+
+Baby impling jar | N/A | 1 | 1/100 | 
+
+Baby impling | 17; 27 | 1 | 1/100 | 
+
+Barrel (Shaman Caves) | N/A | 1(noted) | Rare | &
+
+Berserk barbarian spirit | 166 | 3(noted) | 5/128 | 
+
+Bronze Chest (black) | N/A | 3 | 6/98.64 | 
+
+Bronze Chest (brown) | N/A | 3 | 6/98.59 | 
+
+Bronze Chest (crimson) | N/A | 3 | 6/98.62 | 
+
+Bronze Chest (purple) | N/A | 3 | 6/98.67 | 
+
+Bronze Chest (red) | N/A | 3 | 6/98.56 | 
+
+Casket (Reward pool) | N/A | 50–100(noted) | 9/230 | 
+
+Chest (Aldarin Villas) | 36 | 1 | 4/76 | 
+
+Christmas cracker | N/A | 1 | Always | N/A
+
+Desert Lizard | 24 | 1 | 2/128 | 
+
+Elaborate lockbox | N/A | 4–6(noted) | 2 × 5/50 | 
+
+Elite Black Knight | 138 | 20–30(noted) | 3/122 | 
+
+Enraged barbarian spirit | 166 | 3(noted) | 5/128 | 
+
+Flesh CrawlerMembers | 28; 35; 41 | 1 | 2/100 | 
+
+Lizard | 42 | 1 | 2/128 | 
+
+Ornate lockbox | N/A | 8–12(noted) | 5/50 | 
+
+Reward Chest (The Gauntlet) | N/A | 15–30(noted) | 1/27 | 
+
+Reward token | N/A | 5–50(noted) | Always | 
+
+Reward token | N/A | 50–100(noted) | Always | 
+
+Reward token | N/A | 100–150(noted) | Always | 
+
+Sarcophagus (Ancient Pyramid) | N/A | 3 | Rare | 
+
+Silver stall | 50 | 1 | 3/20 | 
+
+Skeleton (Tarn's Lair)Medium level | 40; 63; 72; 77 | 2 | 2/128 | 
+
+Skeleton brute | 132 | 3(noted) | 5/128 | 
+
+Skeleton heavy | 132 | 3(noted) | 5/128 | 
+
+Skeleton hero | 149 | 3(noted) | 5/128 | 
+
+Skeleton thug | 132 | 3(noted) | 5/128 | 
+
+Skeleton warlord | 132 | 3(noted) | 5/128 | 
+
+Small Lizard | 12 | 1 | 2/128 | 
+
+Sulphur Lizard | 50 | 3–5(noted) | 2/128 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Ardougne Silver Stall. | East Ardougne | 1 | 10m | 150 | 105 | 2.0% |  | 
+
+Prifddinas Silver Stall | Prifddinas | 1 | 10m | 150 | 105 | 2.0% |  | 
+
+Silver Cog Silver Stall | Keldagrim | 1 | 10m | 225 | 120 | 3.0% |  | 
+
+Trivia[edit|edit source]
+
+Silver was used as one of the tiers of post count badges on theofficial Runescape Forums. Players needed to have made 200 posts to be given the silver badge.
+
+v•t•eBars
+
+Standard | BronzeIronSilverSteelGoldMithrilAdamantiteRunite
+
+Elemental | ElementalPrimedPrimed mind
+
+Other | BluriteEnchantedLunarLovakite'Perfect' gold
+
+v•t•eSilver
+
+Crafted | Silver oreSilver barSilver dustHoly symbol(unstrung)Silver sickleUnholy symbol(unstrung)ConductorTiaraUnenchanted jewelleryOpal amuletOpal braceletOpal necklaceOpal ringJade amuletJade braceletJade necklaceJade ringTopaz amuletTopaz braceletTopaz necklaceTopaz ringEnchanted jewelleryAmulet of bountyExpeditious braceletDodgy necklaceRing of pursuitAmulet of chemistryFlamtaer braceletNecklace of passageRing of returningBurning amuletBracelet of slaughterNecklace of faithEfaritay's aid | Unenchanted jewellery | Opal amuletOpal braceletOpal necklaceOpal ringJade amuletJade braceletJade necklaceJade ringTopaz amuletTopaz braceletTopaz necklaceTopaz ring | Enchanted jewellery | Amulet of bountyExpeditious braceletDodgy necklaceRing of pursuitAmulet of chemistryFlamtaer braceletNecklace of passageRing of returningBurning amuletBracelet of slaughterNecklace of faithEfaritay's aid
+
+Unenchanted jewellery | Opal amuletOpal braceletOpal necklaceOpal ringJade amuletJade braceletJade necklaceJade ringTopaz amuletTopaz braceletTopaz necklaceTopaz ring
+
+Enchanted jewellery | Amulet of bountyExpeditious braceletDodgy necklaceRing of pursuitAmulet of chemistryFlamtaer braceletNecklace of passageRing of returningBurning amuletBracelet of slaughterNecklace of faithEfaritay's aid
+
+Silver weaponry | Blessed axeSilver bolts(unf)Silver sickle(blessed)Emerald sickle (b)(enchanted)Rod of ivandisSilverlightDarklightArclightWolfbaneIvandis flailRuby sickle (b)(enchanted)Blisterwood sickleBlisterwood flail
+
+Quest | Blessed axeDemonic sigilConductorRod of ivandisSilver sickle (b)Emerald sickle (b)Enchanted emerald sickle (b)SilverlightDarklightWolfbaneIvandis flailRuby sickle (b)(enchanted)Blisterwood sickleBlisterwood flail
+
+v•t•eHerblore secondaries
+
+Secondaries | Eye of newtLimpwurt rootRed spiders' eggsGarlicBlamish snail slimeWhite berriesToad's legsSnape grassPharmakos berriesMort myre fungusShrunk oglerootAldariumStar flowerNail beast nailsYew rootsLily of the sandsWine of zamorakCactus spinePotato cactusAmylase crystalJangerberriesMagic rootsCave nightshadeNightshadePoison ivy berriesZulrah's scalesAncient essenceAraxyte venom sack
+
+Dust/Crushed items | Unicorn horn dustSilver dustChocolate dustGoat horn dustKebbit teeth dustGorak claw powderDragon scale dustCrystal dustCrushed nestLava scale shardCrushed superior dragon bonesAshesVolcanic ashNihil dust
+
+Supplies | Unicorn hornSilver barChocolate barDesert goat hornKebbit teethGorak clawsBlue dragon scaleCrystal shardBird nest (empty)Lava scaleSuperior dragon bonesNihil shard

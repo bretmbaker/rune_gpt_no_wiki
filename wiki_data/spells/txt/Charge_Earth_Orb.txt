@@ -1,0 +1,113 @@
+[Spell: Charge_Earth_Orb]
+
+Charge Earth Orb
+
+
+
+
+
+
+
+Released | 18 March2002(Update)
+
+Members | Yes
+
+Level | 60
+
+Spellbook | Standard
+
+Type | Utility
+
+Experience | 70
+
+Runes | 3031
+
+Casting speed | 3 ticks (6 on autocast)
+
+Description | Needs to be cast on an earth obelisk
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Charge Earth Orbis anenchantmentspell that requires aMagiclevel of 60 to cast. It can only be cast at theearth obeliskin theWildernessarea ofEdgeville Dungeon, south of theBlack demonsin the area whereChronozonis found.
+
+If you have anunpowered orband the correctrunesin your inventory, each cast will create anearth orb, which yields 70 Magic experience.
+
+Using an earth orb on abattlestaffmakes anearth battlestaff. This requires 58Craftingand gives 112.5 Crafting experience.
+
+Because the obelisk is in the Wilderness, it makes it a dangerous place to train magic or make profit at, as there is a chance you will run intoplayer killerseither inside the dungeon or in the Wilderness itself.
+
+Casting this spell is a requirement for themedium Wilderness diary.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+3031 | 592
+
+Combo runes
+
+3130 | 712
+
+3130 | 3,712
+
+3130 | 1,252
+
+Main-hands
+
+31Alt | 442
+
+Off-hands
+
+31 | 442
+
+Money making[edit|edit source]
+
+The followingmoney making guideis available for Charge Earth Orb:
+
+Method | Hourly profit | Skills
+
+Charging earth orbs | 145,198 | 60
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

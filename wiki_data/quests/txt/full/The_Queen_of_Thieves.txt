@@ -1,0 +1,119 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+The Queen of Thieves (#133)
+
+
+
+
+
+Released | 9 November 2017 ( Update )
+
+Members | Yes
+
+Quest series | Great Kourend , #3A
+
+Lead developer(s) | Mod Ed
+
+
+
+The Queen of Thieves is a quest that follows on from Client of Kourend in the Great Kourend quest series . It was announced on the 6th of July 2017 and polled as part of the Old School Content Poll #57 .
+
+Details [ edit | edit source ]
+
+Start point | Speak to Tomas Lawry outside the Port Piscarilius bank. Show on map
+
+Official difficulty | Intermediate
+
+Official length | Very Short
+
+Description | The gangs of Kourend have recently been uniting under a mysterious figure called the Queen of Thieves, somewhere in Port Piscarilius. This novice quest tasks the player with infiltrating the gangs of Kourend in order to find the Queen of Thieves.
+
+Requirements | Completion of the following quests: Client of Kourend X Marks the Spot 20 Thieving ( not boostable ) ( required to start )
+
+Items required | Stew (Cooking ingredients can be obtained during quest for 6 coins . Requires 25 cooking )
+
+Recommended | Stamina potion Coins Kourend Castle Teleport
+
+Enemies to defeat | None
+
+League notes | Unlocking Kourend ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Beginning the quest [ edit | edit source ]
+
+Speak to Tomas Lawry outside the Port Piscarilius bank . He is conducting an investigation on behalf of the Kourend Council to investigate unusual happenings in Port Piscarilius . A new gang called the Saviours of Kourend has recently formed, absorbing many of the other gangs, and has become the largest gang in Kourend , with more joining them each day. According to him, their leader is The Queen of Thieves. Tomas attempted to infiltrate the gang with little success. Agree to help him.
+
+Discovery [ edit | edit source ]
+
+In the house directly south of the bridge, speak to the poor looking woman and ask about the Saviours of Kourend's location. She doesn't know where they can be found, but they do know a man who has been working with them: Robert O'Reilly . He can be found in the building directly west of the bridge, in the room to the right of Kenelme . In order to reveal the location of the Saviours of Kourend, he will ask for a stew .
+
+If you don't have the stew:
+
+A piece of meat along with a raw potato can be purchased from Kenelme's Wares in the house directly to the west, a bowl can be purchased from the general store and filled in the sink in Robert's house, and the stew can be cooked on the range in Robert's house. Use the potato on the bowl of water, then cook the piece of meat and add it to the bowl followed by cooking the stew.
+
+Once you have the Stew:
+
+Give him the stew and he will tell you they are located in The Warrens . The entrance to The Warrens is a manhole located a short walk to the east, marked by the icon on the minimap .
+
+Infiltration [ edit | edit source ]
+
+After climbing down the manhole go a little bit south and head west over the two small bridges (they aren't on the minimap and may not show up on some web browsers, or on Low Detail mode on some clients) to arrive at the large island. Talk to Devan Rutter . You will ask to join the gang, but he will want you to kill Conrad King , a senior member of a rival gang, the Vipers, to prove your loyalty.
+
+Note : Browse the Warrens General Store to complete an easy task in the Kourend & Kebos Diary .
+
+Go back past the two bridges, then head up where you climbed down the manhole. Walk a bit east until you see Conrad King on the dock on the southern side of the Piscarilius mess hall. You have the option to kill him 'brutally' or 'softly.' Choosing 'softly' results in a humorous dialogue stating that this is impossible, causing you to kill him 'brutally' anyway.
+
+The truth [ edit | edit source ]
+
+Return to Devan Rutter . Then, enter the tent north of him and speak to the Queen of Thieves. You will attempt to arrest her, but she tells you the truth about the gang: Before they came along, Kourend was filled with violent gangs who stole and killed, but the Saviours of Kourend pick particular targets, removing people of power and giving it back to those who keep the kingdom alive. She will reveal that she is none other than the leader of Piscarilius, Lady Shauna Piscarilius , and that "Queen of Thieves" is her alias which she uses to strike fear into the rich and degenerate.
+
+You will doubt her claims, so she tells you about the current leadership situation, and the corruption of the Kourend Council.
+
+To prove she is telling the truth, she will ask you to search Councillor Hughes ' home, as they believe she has ties with the Disciples of Yama .
+
+Travel to Kingstown and head east to the houses of the Council members. Councillor Hughes' house is immediately north (south of the icon). The evidence Shauna refers to is found upstairs; she is not home, so simply pick the lock and search the chest to find a letter , which proves Shauna's claims.
+
+Finishing up [ edit | edit source ]
+
+Return to Tomas Lawry and give him the letter . Reading the contents of the letter, he will forget about the Queen of Thieves, believing Councillor Hughes' ties with the Disciples of Yama is more pressing, and plans to report it to the Council immediately. However, if you ask him for a reward, he will tell you that the best reward is the satisfaction of a job well done and will tell you to go away as he has more work to do.
+
+Return to Lady Shauna Piscarilius down the manhole in "The Warrens" by Devan Rutter. She will tell you that Councillor Hughes has been arrested, and admits that you're not totally useless after all. She continues, saying that her arrest is only the beginning, and there's still much work to be done. Lastly, she will tell you that she may call on your help once more, or maybe not. She will then give you your rewards.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 2,000 Thieving experience 2,000 coins A page for Kharedst's memoirs , ' The fisher's flute .' It teleports players to the centre of Port Piscarilius. Ability to recolour the graceful outfit to the colours of Port Piscarilius .
+
+Required for completing [ edit | edit source ]
+
+Completion of The Queen of Thieves is required for the following:
+
+A Kingdom Divided
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+10 January 2024 ( update | poll ) | As Kourend Favour has been removed, the quest no longer requires it to start. Additionally, the Piscarilius favour certificate is no longer rewarded. Completion of the quest now unlocks the ability to recolour a graceful outfit to the colours of Port Piscarilius .
+
+Trivia [ edit | edit source ]
+
+If players already have a stew in their inventory upon talking to Robert O'Reilly , both will mention how suspiciously convenient it is that the player has it. This is likely a reference to players who look up quest guides beforehand. When killing Conrad King , there is a chance he will say the line, "I'm coming Elizabeth!", which is a reference to the television comedy Sanford and Son . In the series, the show's namesake, Fred Sanford, routinely feigns illness and shouts a line similar to that of Conrad King. (It is also possible for Conrad King to merely shout one of several phrases, including "Here I go!", "Not like this!", or "Oh, wow!") The option to kill Conrad King 'brutally' or 'softly' is a reference to the song Killing Me Softly With His Song [1] by Lori Lieberman (later made famous by Roberta Flack). The short story The Plot And The Potion from the Kourend Chronicles acts as a sequel to this quest.
+
+v • t • e The Queen of Thieves
+
+NPCs | Tomas Lawry Poor looking man Poor looking woman Robert O'Reilly Devan Rutter Conrad King The Queen of Thieves Sophia Hughes
+
+Items | Letter
+
+Rewards | The fisher's flute
+
+Locations | Port Piscarilius The Warrens
+
+Related | Quick guide Transcript

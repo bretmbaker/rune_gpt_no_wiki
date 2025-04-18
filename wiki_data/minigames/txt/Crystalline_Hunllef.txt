@@ -1,0 +1,186 @@
+[Minigame: Crystalline_Hunllef]
+
+Crystalline Hunllef
+
+
+
+
+
+
+
+Released | 25 July2019(Update)
+
+Members | Yes
+
+Combat level | 674
+
+Size | 5x5
+
+Examine | A deadly predator formed from crystal.
+
+
+
+Combat info
+
+
+
+Max hit | 50+
+
+Aggressive | Yes
+
+Poisonous | No
+
+Attack style | Magic,Ranged
+
+Attack speed | 5 ticks (3.0 seconds)
+
+
+
+Combat stats
+
+
+
+ |  |  |  |  | 
+
+600 | 240 | 240 | 240 | 240 | 240
+
+
+
+Aggressive stats
+
+
+
+ |  |  |  |  | 
+
++76 | +64 | +76 | +64 | +76 | +64
+
+
+
+Melee defence
+
+
+
+ |  | 
+
++20 | +20 | +20
+
+
+
+Magic defence
+
+
+
+ | 
+
++20 | No elemental weakness
+
+
+
+Ranged defence
+
+
+
+ |  | 
+
++20 | +20 | +20
+
+
+
+Immunities
+
+
+
+Poison | Immune
+
+Venom | Immune
+
+
+
+Open in DPS calculator
+
+Advanced data
+
+
+
+Monster ID | 9021,9022,9023,9024
+
+Link | MOID
+
+
+
+TheCrystalline Hunllefis the boss monster within theGauntlet. Its counterpart in theCorrupted Gauntletis theCorrupted Hunllef.
+
+Mechanics[edit|edit source]
+
+Both the Crystalline and Corrupted Hunllef use the same mechanics.
+
+Attacks[edit|edit source]
+
+Standard attacks:The Hunllef uses two main standard attacks, a range crystal-like attack and a magic based orb attack. The Hunllef will alternate between the two attack styles every 4 attacks. The Hunllef will use Ranged as its first attack style.Stomp attack:If a player is underneath the Hunllef when it tries to attack the player, the Hunllef will perform a stomp attack which deals very high damage, similar to the stomp attack used by theCorporeal Beast. This attack does not count towards one of the Hunllef's four standard attacks it uses before switching.Prayer Disabling Attack:When the Hunllef is attacking using magic-based attacks, it has a chance to use an attack which turns off prayers. These attacks use a different game sound, hence it is recommended to use sounds during the fight.Tornados:The Hunllef summons multiple tornadoes that chase the player and deal high damage if they reach the players location, these tornadoes disappear after 20 ticks (12 seconds). The number of tornadoes summoned increases as the Hunllef takes damage.
+
+Damaging floor[edit|edit source]
+
+During the fight, the floor will light up in various places. Tiles are initially highlighted in blue and soon turn orange. If the player stands on an orange tile they will continue to take high damage until they step off the highlighted tiles.
+
+As the fight progresses, the tile patterns become more challenging, and the tiles change from blue to orange more quickly.
+
+Attack style cycle[edit|edit source]
+
+The Hunllef changes its prayer and attack styles in predictable cycles. Every fourth attack performed by the Hunllef (excluding the stomp attack) will cause the Hunllef to change its standard attack style.
+
+Protection prayer cycle[edit|edit source]
+
+Every sixth off-prayer attack that the player performs on the Hunllef, including attacks which deal zero damage, will trigger a protection prayer change. The Hunllef will use the protection prayer used on the sixth off-prayer hit. Players can use this cycle to ensure the Hunllef never prays against their strongest attack style.
+
+Protection against his attacks[edit|edit source]
+
+Players can use theirprotection prayersto reduce the damage from the Crystalline Hunllef's standard attacks. Wearing pieces of the crystal armour will further reduce the incoming damage.
+
+Armour combination | Crystalline Hunllef's max hit[a 1] | Damage from tornadoes
+
+N/A | No armour | 12 | 10-20
+
+ | Full T1 armour | 10 | 10-16
+
+ | Full T2 armour | 8 | 7-13
+
+ | Full T3 armour | 6 | 5-10
+
+Drops[edit|edit source]
+
+ | Item | Quantity | Rarity | Price | High Alch
+
+ | Nothing | N/A | Always | N/A | N/A
+
+Players can find rewards for completing the Gauntlet from the Reward Chest.
+
+Gallery[edit|edit source]
+
+A piece of official artwork depicting a player in battle with the Crystalline Hunllef.Idle animation of the Crystalline Hunllef, designed by Mod Ghost.
+
+Combat Achievements[edit|edit source]
+
+There are 10Combat Achievementtasks (totalling 46 points) available for Crystalline Hunllef.
+
+Name | Description | Type | Tier | Comp%
+
+3, 2, 1 - Range | Kill the Crystalline Hunllef without taking damage off prayer. | Perfection | Elite (4 pts) | 24.5%
+
+Gauntlet Veteran | Complete the Gauntlet 5 times. | Kill Count | Elite (4 pts) | 33%
+
+Egniol Diet | Kill the Crystalline Hunllef without making an egniol potion within the Gauntlet. | Restriction | Elite (4 pts) | 11.4%
+
+Wolf Puncher | Kill the Crystalline Hunllef without making more than one attuned weapon. | Restriction | Elite (4 pts) | 14%
+
+Crystalline Warrior | Kill the Crystalline Hunllef with a full set of perfected armour equipped. | Restriction | Elite (4 pts) | 14.1%
+
+Perfect Crystalline Hunllef | Kill the Crystalline Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Crystalline Hunllef with the wrong weapon. | Perfection | Master (5 pts) | 13.7%
+
+Defence Doesn't Matter | Kill the Crystalline Hunllef without making any armour within the Gauntlet. | Restriction | Master (5 pts) | 13.6%
+
+Gauntlet Master | Complete the Gauntlet 20 times. | Kill Count | Master (5 pts) | 27.3%
+
+Gauntlet Speed-Chaser | Complete the Gauntlet in less than 5 minutes. | Speed | Master (5 pts) | 3.6%
+
+Gauntlet Speed-Runner | Complete the Gauntlet in less than 4 minutes. | Speed | Grandmaster (6 pts) | 1.9%
+

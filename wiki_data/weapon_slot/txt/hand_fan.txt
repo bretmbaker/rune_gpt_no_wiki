@@ -1,0 +1,54 @@
+[Weapon: Hand Fan]
+
+
+Thehand fanis an item given to the player obtained after completing the midsummer ritual three times (requiring a minimum of three days to obtain) during the2017 Midsummer event, as well as subsequentmidsummer events.
+As there was nomidsummer eventin2018, it was made available fromDiango's Toy Storefor 1coin.
+
+
+[Infobox]
+Released: 29 June2017(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Chill, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: I'm not a huge fan.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.02 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -50
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

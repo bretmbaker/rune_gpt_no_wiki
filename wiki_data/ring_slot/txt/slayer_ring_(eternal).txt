@@ -1,0 +1,47 @@
+[Weapon: Slayer Ring (Eternal)]
+
+
+TheSlayer ring (eternal)is a specialslayer ringthat is made with aneternal geminstead of anenchanted gem. It provides unlimited teleport charges, compared to the eight of its normal counterpart. It is only obtainable throughCrafting, and is otherwise crafted the same way as the normal slayer ring and has the same requirements (namely 75 Crafting and having purchased theRing blingunlock from anySlayer masterfor 300Slayer reward points).
+This is anirreversibleprocess, and the ringcannotbe traded or reverted to the gem.
+
+
+[Infobox]
+Released: 4 May2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Rub, Check, Drop
+Worn options: Check, Teleport, Master, Partner, Log
+Examine: A beautifully mounted Eternal Slayer gem.
+General Store Value: 35,300 coins
+High alch: 21,180 coins
+Low alch: 14,120 coins
+Weight: 0.013 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot

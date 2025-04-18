@@ -1,0 +1,52 @@
+[Weapon: Strength Cape#Trimmed]
+
+
+TheStrength capeis aCape of Accomplishment, obtainable by players with 99Strength. The Strength cape can be bought with the hood fromSloane(orYadech Strongarmafter completion ofWhile Guthix Sleeps) in theWarriors' Guildfor 99,000 coins. Sloane is located on the1stfloor[UK]2ndfloor[US], after passing through twoheavy doors.
+Like allskill capes, the Strength cape gives +9 to all defensive stats, and also a +4 bonus to prayer if it is trimmed, which requires a separate skill at level 99. The cape is automatically trimmed if this condition is met.
+
+
+[Infobox]
+Released: 18 October2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Teleport, Drop
+Worn options: Boost, Warriors' Guild
+Examine: The cape worn by only the strongest people.
+General Store Value: 99,000 coins
+High alch: 59,400 coins
+Low alch: 39,600 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +9
+- Crush: +9
+- Magic: +9
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Date | Changes
+3 December2015(update|poll) | The "Teleport" option was added, allowing unlimited teleports to the Warriors' Guild.

@@ -1,0 +1,123 @@
+[Weapon: Ranging Cape#Trimmed]
+
+
+Theranging capeis aCape of Accomplishmentawarded to players who have achieved 99Ranged. The skillcape and its respective hood can be bought from Aaron theArmour salesmanin theRanging Guildfor 99,000 coins.
+Like allskill capes, the Ranging cape gives +9 to all defensive stats, and also a +4 bonus to prayer if it is trimmed, which requires a separate skill at level 99. The cape is automatically trimmed if this condition is met.
+
+
+[Infobox]
+Released: 18 October2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Commune, Drop
+Worn options: Boost, Commune
+Examine: The cape worn by master archers.
+General Store Value: 99,000 coins
+High alch: 59,400 coins
+Low alch: 39,600 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +9
+- Crush: +9
+- Magic: +9
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Abyssal Sire/Strategies(Phase 2 Ranged)
+3 | Adamant dragon/Strategies(Ranged)
+3, 4 | Alchemical Hydra/Strategies(Ranged)
+4 | Ancient Wyvern/Strategies(Ranged)
+3 | Araxxor/Strategies(Ranged)
+2 | Aviansie/Strategies(Ranged - Low Risk)
+4 | Aviansie/Strategies(Ranged)
+3 | Barbarian Assault/Strategies(Ranged (mid level))
+2 | Basilisk Knight/Strategies(Ranged/Prayer)
+3 | Basilisk Knight/Strategies(Ranged)
+5 | Brutal black dragon/Strategies(Ranged)
+3 | Callisto/Strategies(Ranged)
+3 | Cerberus/Strategies(Ranged)
+4 | Chaos Elemental/Strategies(Ranged)
+4 | Chaos Fanatic/Strategies(Ranged)
+3 | Commander Zilyana/Strategies(Ranged)
+4 | Corporeal Beast/Strategies(Ranged masses)
+4 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Dagannoth Kings/Strategies(Range)
+3 | Demonic gorilla/Strategies(upgrades and downgrades)
+4 | Drake/Strategies(Ranged)
+3 | Galvek Speed-Trialist(Melee)
+2 | General Graardor/Strategies(Ranged Tank)
+4 | General Graardor/Strategies(Ranged Attacker)
+4 | General Graardor/Strategies(Solo (Ranged 7:0))
+3 | Giant Mole/Strategies(Ranged)
+3 | Giant Mole/Strategies(Ranged Void)
+2 | Green dragon/Strategies(Ranged)
+3 | Grotesque Guardians/Strategies(Melee)
+4 | Grotesque Guardians/Strategies(Ranged switches)
+4 | Hunter training(Dinh's bulwark)
+4 | Hunter training(Staff of the dead)
+3 | Inferno/Strategies(Learners)
+3 | Inferno/Strategies(On task)
+5 | K'ril Tsutsaroth/Strategies(Ranged)
+4 | Kalphite Queen/Strategies(High DPS (Phase One))
+3 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+3 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+5 | Kalphite Queen/Strategies(High DPS (Phase Two))
+4 | King Black Dragon/Strategies(Ranged BIS smuggle)
+2 | Kree'arra/Strategies(Chinchompas)
+4 | Kree'arra/Strategies(Ranged Tank)
+4 | Kree'arra/Strategies(Tbow / Bowfa)
+4 | Krystilia/Strategies(Ranged)
+3 | The Leviathan/Strategies(Ranged)
+4 | Lizardman shaman/Strategies(Ranged)
+5 | Metal dragons/Strategies(Ranged)
+4 | The Mimic/Strategies(Ranged)
+3 | Mithril dragon/Strategies(Ranged)
+3 | Nex/Strategies(Ranged)
+2 | Nightmare Zone/Strategies(Ranged)
+3 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+4 | Revenants/Strategies(Ranged)
+3 | Rune dragon/Strategies(Ranged)
+3 | Skeletal Wyvern/Strategies(Ranged (Void))
+3 | Skeletal Wyvern/Strategies(Ranged)
+5 | Skotizo/Strategies(Ranged)
+4 | Slayer task/Abyssal demons(Ranged)
+4 | Slayer task/Fossil Island wyverns(Ranged)
+3 | Slayer task/Gargoyles(Ranged)
+4 | Slayer task/Jellies(Ranged)
+3 | Slayer task/Wyrms(Ranged)
+4 | Slayer training(Ranged)
+3 | Slayer training(Ranged (Wilderness))
+3 | Spindel/Strategies(Ranged)
+1 | TzHaar Fight Cave/Strategies(Pure)
+3 | TzHaar Fight Cave/Strategies(Ranged)
+2 | TzHaar Fight Cave/Strategies(Early-game iron)
+3 | Ultimate Ironman Guide/Equipment
+3 | Venenatis/Strategies(Ranged)
+4 | Vorkath/Strategies(Ranged (crossbow))
+4 | Zulrah/Strategies(Ranged)

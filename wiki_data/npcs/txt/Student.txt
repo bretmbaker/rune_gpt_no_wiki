@@ -1,0 +1,2 @@
+Item: Student
+Summary: The Students are found studying archaeology around the Digsite. During The Dig Site quest, each student has lost one personal item that must be returned. The items are Teddy, animal skull, and special cup. After the items are retuned, the students will provide the correct answers to the digsite exam.

@@ -1,0 +1,195 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+The Giant Dwarf (#82)
+
+
+
+
+
+Released | 31 May 2005 ( Update )
+
+Members | Yes
+
+Quest series | Red Axe , #1
+
+Lead developer(s) | Vincent M
+
+
+
+The Giant Dwarf is the first quest in the Rise of the Red Axe quest series. It involves the dwarven capital Keldagrim and The Red Axe consortium who are in control of the city.
+
+Details [ edit | edit source ]
+
+Start point | The Keldagrim mines east of Rellekka and north of the Mountain Camp . Follow the dwarven statues to the underground river. Show on map
+
+Official difficulty | Intermediate
+
+Official length | Medium
+
+Description | Five hundred years have passed since the rule of King Alvis, saviour of Keldagrim and victim of his own inventions. He founded the Consortium: the gathering of Mining companies that were to serve the monarchy. But, eventually, the monarchy came to serve the Consortium. By the time of his death, the monarchy was all but abolished. Now the Kings in Keldagrim are but a distant memory... with only the statue of King Alvis to remind the people of the old days, the dark days. So begins the Rise of the Red Axe, the new multi-part storyline centred around the dwarves and their capital of Keldagrim. The first quest, The Giant Dwarf, introduces the city and the powerful business Consortium that rules the dwarven realm. Discover weird goings-on, narrowly escape from falling chunks of rock, ride around in minecarts and... make sure you don't bump into the wrong person on the way to the city!
+
+Requirements | 12 Crafting ( boostable ) ( not required to start ) 16 Firemaking ( boostable ) ( not required to start ) 33 Magic ( boostable ) ( not required to start ) 14 Thieving ( boostable ) ( not required to start )
+
+Items required | 200 coins for the clothes Means to cast Telekinetic Grab ( air and law rune ) Logs (most logs will work, however, arctic pine, redwood & coloured logs do not work) Tinderbox Coal (obtainable during the quest with 30 Mining ) Iron bar 3 cut sapphires Various ores and bars (mostly obtainable during the quest, see below) Redberry pie (unless you have previously given Thurgo a pie for free—outside the The Knight's Sword quest)
+
+Recommended | Fast travel to several locations Keldagrim, east of Rellekka ( Fairy rings to D K S , Enchanted Lyre , Rellekka teleport or Teleport to House if your house is in Rellekka) Mudskipper Point ( Fairy rings to A I Q , Rat Pits grouping teleport to Port Sarim, Rimmington teleport or Teleport to House if your house is in Rimmington) Varrock, if you have not yet met Thurgo in The Knight's Sword ( Varrock teleport , Chronicle , Ring of Wealth to the Grand Exchange or Combat Bracelet to the Champions' Guild) Stamina or energy potions About 10 of each of the following items in your bank, which may or may not be necessary for the timed delivery tasks ; Clay (not soft clay ) Copper ore Tin ore Iron ore Silver ore Gold ore Mithril ore Coal Bronze bar Iron bar Silver bar Gold bar Steel bar Mithril bar Alternatively, you can gather all these materials, except clay, during the quest with 50 Smithing , and either about 5000 coins or a pickaxe and 55 Mining . H.A.M. Robes (Optional)
+
+Enemies to defeat | None
+
+League notes | Asgarnia ✓ — location requirement to complete quest, but not to access Keldagrim Fremennik ✓ — location requirement
+
+Walkthrough [ edit | edit source ]
+
+Travel to the Dwarven Boatman inside the dungeon east of Rellekka , which is located south of Olaf /Next to the Keldagrim entrance . The fastest way to get there is by using Fairy rings to D K S .
+
+Upon entering the dungeon, go through the cave entrance between the two statues; don't go south past the monsters, as that takes you to the base of Trollweiss Mountain .
+
+When you enter, speak to the Dwarven Boatman ( not the Dwarven Ferryman ) and ask him to take you to Keldagrim to start the quest. A cutscene will ensue where he tells you about Keldagrim's rich history, before the boat "malfunctions" and crashes into the statue of King Alvis . Upon arriving at Keldagrim, you are arrested by two Black Guard Berserkers , and taken to the Black Guard headquarters where Commander Veldaban wants to talk with you. He asks you to replace the statue that was in need of replacement anyway.
+
+Tip: To save some time bring with you: 200 coins, coal, logs and a tinderbox
+
+Talk to Blasidar the sculptor . He lives in the eastern side of Keldagrim, across the bridge, south of the kebab shop. He will make you the statue if you can get him clothes, an axe and boots "fit for a king" ( Riki will wear them as a model for the statue). It is advisable to complete the axe part of the quest last, as Thurgo will teleport the player directly to Blasidar.
+
+Clothes fit for a king [ edit | edit source ]
+
+Note: A tinderbox can be purchased from the general store on the west side of town, and coal can be mined on the east side of town.
+
+Talk to Vermundi , the silk trader in the corner of the east marketplace, and ask her about making the king's clothes. She can, but first she needs a picture of the clothes. Talk to the dwarf librarian in the library across the Keldagrim bridge. He tells you to search the library for a book about dwarven clothes. Climb any bookcase with a ladder in front of it to find the book on costumes .
+
+Note: If you weigh 30 kg or more, you will be unable to climb the ladder. You can simply drop some items and then pick them back up.
+
+Give Vermundi the book. You now need to fix her steam-powered spinning machine. Use the coal on her machine with logs in your inventory, then use your tinderbox on it (you will need at least 16 Firemaking for this part). If you fail to light the machine, just use your tinderbox on it again. Once the machine is lit, talk to her again and pay her 200 coins to get the exquisite clothes .
+
+Boots fit for a king [ edit | edit source ]
+
+Go to the south-western anvil in Keldagrim (south of the Black Guards' HQ) and ask Saro about the boots; you need to deplete his dialogue. He sold them to Dromund , another dwarf in Keldagrim. Speak to Dromund in his house just north of the bank. He refuses to sell you the boots, so you will have to steal them from him.
+
+When Dromund is not looking towards you, steal the left boot from the table next to the door (requires 14 Thieving ). The right boot is on another table, but you cannot steal it from inside the house because his cat watching over it. In order to steal the right boot: you need to go outside, stand in the window where the right boot is in plain view, then use Telekinetic Grab on it. Like the left boot, you'll first have to wait for Dromund to have his back turned.
+
+Once both boots are obtained, they turn into Exquisite boots .
+
+An axe fit for a king [ edit | edit source ]
+
+Talk to Santiri , the tradesman of the sword shop in north-west Keldagrim . He talks about how his family came to possess the Dwarven battleaxe , mentioning it has been damaged and that the sapphires on the hilt had either been stolen or washed away. During the dialogue where you offer to repair the axe, Santiri may note your mastery of Smithing but exclaims that even you aren't skilled enough. Santiri gives you the axe, then use three sapphires on it to rebuild the hilt. Talk to Santiri again, who says that only an Imcando dwarf could repair it.
+
+If you have not completed The Knight's Sword , Santiri will refer you to the librarian , just east of his shop. Ask him about finding an Imcando dwarf. He refers you to Reldo in the Varrock Palace . Speak to Reldo and he will teach you about them.
+
+If you have completed The Knight's Sword , your character will mention that they know an Imcando dwarf and you can go straight to Thurgo .
+
+Thurgo resides in the single house at Mudskipper Point , south-east of Rimmington and south of Port Sarim . The fastest way to get there is to travel using Fairy rings to A I Q . Go to him with an iron bar , and ask him to repair the axe. After that, if you have not yet given him a redberry pie for free previously, you must give him one now. He will then repair the axe.
+
+Note: If you happen to lose the axe after having it repaired, Thurgo will supply you with another repaired axe, although it is ungemmed and you will need to apply three sapphires again.
+
+When Thurgo is done, you have the option to return immediately to Keldagrim. This will place you back in Blasidar the sculptor 's house.
+
+The Head [ edit | edit source ]
+
+Give Riki the axe, clothes and boots by speaking to him with the items in your inventory. Talk to Blasidar , who explains that the Consortium wants the head of the statue modelled after one of its directors, but has not agreed which one. He asks you to go and help them make a decision. You will see a short cutscene of the incomplete statue.
+
+Joining the consortium [ edit | edit source ]
+
+There are eight mining companies in the Consortium , which are located upstairs in either the east or west marketplace. You will need to join one of them, and this choice will only change the final model of the statue built at the end of the quest. You should choose a company on the west side of the building for faster bank access if you already have the materials in your bank, and on the east side if you want to purchase the materials from the ore seller or the Grand Exchange, for faster minecart access. If you fail a task and are unable to obtain a new one, logging out and logging back in should fix the issue.
+
+The companies are:
+
+The Green Gemstone The White Chisel The Silver Cog The Brown Engine The Yellow Fortune The Blue Opal The Purple Pewter The Red Axe (you cannot join this company)
+
+Talk to the secretary of the company that you want to work for. You will be given several errands to collect 1-5 of a certain un-noted material within a time limit. The possible items are clay , copper ore , tin ore , iron ore , silver ore , gold ore , mithril ore , and coal . With the exception of clay, all materials can be mined or bought nearby, if they are not already in your bank or inventory. You can say "no," then talk to the secretary again to receive a new task (for instance, if you don't have clay or a way to easily get it, just get a new task).
+
+A hidden scoring system determines your progress with a company; each ore delivery completed gives 20 points, while failing or cancelling a task subtracts 2 points. Players who join The Purple Pewter can get a head start of 20 points if speaking to the Purple Pewter Secretary whilst wearing H.A.M. robes .
+
+Once you reach 75 points, you will be told that the director of the company wants to speak with you. At this point you may start doing errands for the director, who will request different items from you. These items include bronze bars , iron bars , steel bars , silver bars , gold bars , and mithril bars , and give 12 points per delivery.
+
+Warning : Ensure you perform tasks only for the company you want to choose, as the progress for each is separate and will therefore be wasted.
+
+When you have have obtained 100 points for a company, you can ask the director to officially join them, and they will agree and accept you as a "trusted associate". Next, tell them that Blasidar sent you, and that you will vouch for them at the next Consortium meeting.
+
+Art by committee [ edit | edit source ]
+
+Return to Commander Veldaban (west of the bank) and tell him you will go to the meeting. You will see a cutscene of about 4 minutes. You can also skip the cutscene by refusing to go to the meeting; you can read a summary of it in the meeting notes , received after completing the quest.
+
+The completed statue, in this case resembling the director of the Green Gemstone or Silver Cog. The completed statue, in this case resembling the director of the Blue Opal. Hreidmar storms out of the Consortium meeting.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+2 Quest points 2,500 Mining experience 2,500 Smithing experience 2,500 Crafting experience 1,500 Magic experience 1,500 Thieving experience 1,500 Firemaking experience
+
+Required for completing [ edit | edit source ]
+
+Completion of The Giant Dwarf is required for the following:
+
+Another Slice of H.A.M. Forgettable Tale...
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+9 November 2022 ( update ) | The gender restrictions on joining the Brown Engine or Yellow Fortune company were lifted as part of the Diversity & Inclusion updates .
+
+Date unknown | The Consortium music track now unlocks when the final meeting cutscene is skipped.
+
+6 February 2014 ( update ) | The statue in The Giant Dwarf no longer has huge vertical gaps between its component parts.
+
+Trivia [ edit | edit source ]
+
+The cutscene between the Consortium leaders at the end of the quest takes place in a static, non-instanced room; a glimpse of one of these rooms can be seen during normal gameplay from the third room of Pyramid Plunder . This is because at the time of the quest's development, Jagex was unable to create instanced areas for cutscenes, even though The Lost Tribe , another quest released on the same day but went into development later than The Giant Dwarf, was the first use of an instance in the game. [1] [2] As a result, there are sixteen distinct cutscene rooms (four for each floor the game possesses) in which the player can be assigned to. If a seventeenth player attempts to enter a cutscene whilst all sixteen cutscene rooms are occupied, Commander Veldaban will tell the player that the Consortium either has "other important business to attend to", or that the meeting hasn't started yet. The exact conditions to what he says can be found in the quest's transcript . There was a graphical glitch that appeared during the cutscenes that shows a closeup up the Giant Dwarf statue: the body appeared to be floating above the legs, and the head (once it had been added) was floating above the body. If you talk to Dromund's Cat while wearing a catspeak amulet, he mentions he used to be friends with the Red Axe cat. When asking Santiri about battleaxes, he offers you a blue or red one, saying "red is on the rise". This is a reference to the name of the quest series, Rise of the Red Axe. When speaking to Santiri about repairing the axe, his dialogue acknowledges if the player has 99 Smithing. "The axe is beyond repair, even for a master such as you." Near the beginning of the meeting, Hreidmar interrupts the argument by saying 'This bickering is pointless'. This is likely a reference to Governor Tarkin in Star Wars: Episode IV – A New Hope . Completing The Giant Dwarf quest before choosing the statue's head in the Enakhra's Lament quest unlocks additional dialogue with Lazim .
+
+References [ edit | edit source ]
+
+v • t • e The Giant Dwarf
+
+NPCs | Dwarven Boatman Vermundi Santiri Thurgo Reldo Saro Dromund Dromund's cat Librarian Black Guard Commander Veldaban Supreme Commander Sculptor's shop Blasidar Riki Mining Directors Blue Opal Brown Engine Green Gemstone Purple Pewter Red Axe Silver Cog White Chisel Yellow Fortune Mining Secretaries Blue Opal Brown Engine Green Gemstone Purple Pewter Red Axe Silver Cog White Chisel Yellow Fortune |  | Dwarven Boatman Vermundi Santiri Thurgo Reldo Saro Dromund Dromund's cat Librarian | Black Guard | Commander Veldaban Supreme Commander | Sculptor's shop | Blasidar Riki | Mining Directors | Blue Opal Brown Engine Green Gemstone Purple Pewter Red Axe Silver Cog White Chisel Yellow Fortune | Mining Secretaries | Blue Opal Brown Engine Green Gemstone Purple Pewter Red Axe Silver Cog White Chisel Yellow Fortune
+
+ | Dwarven Boatman Vermundi Santiri Thurgo Reldo Saro Dromund Dromund's cat Librarian
+
+Black Guard | Commander Veldaban Supreme Commander
+
+Sculptor's shop | Blasidar Riki
+
+Mining Directors | Blue Opal Brown Engine Green Gemstone Purple Pewter Red Axe Silver Cog White Chisel Yellow Fortune
+
+Mining Secretaries | Blue Opal Brown Engine Green Gemstone Purple Pewter Red Axe Silver Cog White Chisel Yellow Fortune
+
+Items | Book on costumes Dwarven battleaxe Exquisite clothes Left boot Right boot Exquisite boots Meeting notes
+
+Locations | Keldagrim
+
+Music | Tale of Keldagrim Time to Mine Land of the Dwarves
+
+Miscellaneous | Quick guide Transcript Giant Dwarf (statue)
+
+v • t • e Keldagrim
+
+Inhabitants | Cave goblin Derni Dernu Dondakan the Dwarf Dwarf (train station) Dwarven Boatman (ore hauler) Dwarven Boatman Dwarven Ferryman Gnome emissary Miodvetnir Ticket dwarf Trade Referee West Keldagrim Audmann Banker Barman Dromund's cat Dromund Gauss Gnome traveller Haera Hegir Inn Keeper Myndill Rind the gardener Santiri Saro Stonemason Tombar East Keldagrim Barmaid Bentamir Blandebir Blasidar the sculptor Cart conductor Drunken Dwarf Karl Kjut Reinald Riki the sculptor's model Rowdy dwarf Runvastr Sune Tati Ulifed Palace Marketplace Agmundi Dwarven Engineer Gulldamar Gunslik Hervi Hirko Nolar Odmar Professor Manglethorp Randivor Vermundi Vigr Wemund Consortium Blue Opal Director Blue Opal Secretary Trader (The Blue Opal) Brown Engine Director Brown Engine Secretary Trader (The Brown Engine) Green Gemstone Director Green Gemstone Secretary Trader (The Green Gemstone) Purple Pewter Director Purple Pewter Secretary Trader (The Purple Pewter) Red Axe Cat Red Axe Director Red Axe Secretary Trader (The Red Axe) Silver Cog Director Silver Cog Secretary Trader (The Silver Cog) White Chisel Director White Chisel Secretary Trader (The White Chisel) Yellow Fortune Director Yellow Fortune Secretary Trader (The Yellow Fortune) Dwarven Black Guard Black Guard Black Guard Berserker Colonel Grimsson (former) Commander Veldaban Supreme Commander Blast Furnace Blast Furnace Foreman Dwarven Miner Factory Manager Factory Worker Jorzik Ordan Palace Library Assistant Customer Customer (Dwarf) Librarian Rat Pits Anleif Captain Tom Fior Loki Oxi Rauborn Sagira Smokin' Joe The Beast Vaeringk |  | Cave goblin Derni Dernu Dondakan the Dwarf Dwarf (train station) Dwarven Boatman (ore hauler) Dwarven Boatman Dwarven Ferryman Gnome emissary Miodvetnir Ticket dwarf Trade Referee | West Keldagrim | Audmann Banker Barman Dromund's cat Dromund Gauss Gnome traveller Haera Hegir Inn Keeper Myndill Rind the gardener Santiri Saro Stonemason Tombar | East Keldagrim | Barmaid Bentamir Blandebir Blasidar the sculptor Cart conductor Drunken Dwarf Karl Kjut Reinald Riki the sculptor's model Rowdy dwarf Runvastr Sune Tati Ulifed | Palace Marketplace | Agmundi Dwarven Engineer Gulldamar Gunslik Hervi Hirko Nolar Odmar Professor Manglethorp Randivor Vermundi Vigr Wemund | Consortium | Blue Opal Director Blue Opal Secretary Trader (The Blue Opal) Brown Engine Director Brown Engine Secretary Trader (The Brown Engine) Green Gemstone Director Green Gemstone Secretary Trader (The Green Gemstone) Purple Pewter Director Purple Pewter Secretary Trader (The Purple Pewter) Red Axe Cat Red Axe Director Red Axe Secretary Trader (The Red Axe) Silver Cog Director Silver Cog Secretary Trader (The Silver Cog) White Chisel Director White Chisel Secretary Trader (The White Chisel) Yellow Fortune Director Yellow Fortune Secretary Trader (The Yellow Fortune) | Dwarven Black Guard | Black Guard Black Guard Berserker Colonel Grimsson (former) Commander Veldaban Supreme Commander | Blast Furnace | Blast Furnace Foreman Dwarven Miner Factory Manager Factory Worker Jorzik Ordan | Palace Library | Assistant Customer Customer (Dwarf) Librarian | Rat Pits | Anleif Captain Tom Fior Loki Oxi Rauborn Sagira Smokin' Joe The Beast Vaeringk
+
+ | Cave goblin Derni Dernu Dondakan the Dwarf Dwarf (train station) Dwarven Boatman (ore hauler) Dwarven Boatman Dwarven Ferryman Gnome emissary Miodvetnir Ticket dwarf Trade Referee
+
+West Keldagrim | Audmann Banker Barman Dromund's cat Dromund Gauss Gnome traveller Haera Hegir Inn Keeper Myndill Rind the gardener Santiri Saro Stonemason Tombar
+
+East Keldagrim | Barmaid Bentamir Blandebir Blasidar the sculptor Cart conductor Drunken Dwarf Karl Kjut Reinald Riki the sculptor's model Rowdy dwarf Runvastr Sune Tati Ulifed
+
+Palace Marketplace | Agmundi Dwarven Engineer Gulldamar Gunslik Hervi Hirko Nolar Odmar Professor Manglethorp Randivor Vermundi Vigr Wemund
+
+Consortium | Blue Opal Director Blue Opal Secretary Trader (The Blue Opal) Brown Engine Director Brown Engine Secretary Trader (The Brown Engine) Green Gemstone Director Green Gemstone Secretary Trader (The Green Gemstone) Purple Pewter Director Purple Pewter Secretary Trader (The Purple Pewter) Red Axe Cat Red Axe Director Red Axe Secretary Trader (The Red Axe) Silver Cog Director Silver Cog Secretary Trader (The Silver Cog) White Chisel Director White Chisel Secretary Trader (The White Chisel) Yellow Fortune Director Yellow Fortune Secretary Trader (The Yellow Fortune)
+
+Dwarven Black Guard | Black Guard Black Guard Berserker Colonel Grimsson (former) Commander Veldaban Supreme Commander
+
+Blast Furnace | Blast Furnace Foreman Dwarven Miner Factory Manager Factory Worker Jorzik Ordan
+
+Palace Library | Assistant Customer Customer (Dwarf) Librarian
+
+Rat Pits | Anleif Captain Tom Fior Loki Oxi Rauborn Sagira Smokin' Joe The Beast Vaeringk
+
+Companies | The Blue Opal The Brown Engine The Green Gemstone The Purple Pewter The Red Axe The Silver Cog The White Chisel The Yellow Fortune
+
+Shops | Agmundi Quality Clothes Armour store. Carefree Crafting Stall Crossbow Shop Green Gemstone Gems Gunslik's Assorted Items Keldagrim Stonemason King's Axe Inn Kjut's Kebabs Laughing Miner Pub Ore seller. Pickaxe-Is-Mine Quality Armour Shop Quality Weapons Shop Ratpit bar Silver Cog Silver Stall Vigr's Warhammers Wemund's Wrench Warehouse
+
+Features | Dondakan's mine Dorgesh-Kaan–Keldagrim train system Giant Dwarf (statue) Keldagrim entrance mine Keldagrim Library Keldagrim minecart system Keldagrim north-east mine Keldagrim south-west mine Keldagrim Palace Rat Pits River Kelda Trade Octagon
+
+Related | Between a Rock... Consortium Forgettable Tale... Keldagrim tasks Keldagrim Trading (unreleased) King Alvis The Giant Dwarf

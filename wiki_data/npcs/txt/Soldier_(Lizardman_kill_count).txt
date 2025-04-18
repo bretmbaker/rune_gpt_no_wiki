@@ -1,0 +1,2 @@
+Item: Soldier (Lizardman kill count)
+Summary: The soldier is a member of the Shayzien Army found resting near the entrance to the Lizardman Canyon. He can be asked for the kill counts of both Lizardmen and Lizardman shamans inside the canyon, as well as the number of players currently present in either side of it.

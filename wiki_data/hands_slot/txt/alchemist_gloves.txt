@@ -1,0 +1,46 @@
+[Weapon: Alchemist Gloves]
+
+
+Thealchemist glovesare a piece of thealchemist's outfitpurchased from theMixology Rewardsshop with 2,250Mox resin, 2,800Aga resin, and 3,700Lye resin, which are earned from participating in theMastering Mixologyminigame.
+They are purely cosmetic and provide no bonuses when worn.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: No science is done without proper gloves.
+General Store Value: 390 coins
+High alch: 234 coins
+Low alch: 156 coins
+Weight: 0.09 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

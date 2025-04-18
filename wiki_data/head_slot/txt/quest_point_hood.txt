@@ -1,0 +1,46 @@
+[Weapon: Quest Point Hood]
+
+
+Thequest point hoodis the skillcape hood associated with having completed all quests. Players may buy the hood alongside theQuest point capefrom theWise Old ManinDraynorfor 99,000coins, provided that they have completed all quests. The hood itself provides absolutely no offensive or defensive bonuses and may be worn for purely aesthetic purposes.
+While the hood is bought with the skillcape, it is not needed to perform theemoteassociated with it; the skillcape is the only essential item. If the player loses the ability to wield the cape and hood, the cape is returned to the Wise Old Man, but not the hood.
+
+
+[Infobox]
+Released: 18 October2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Quest point cape hood.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

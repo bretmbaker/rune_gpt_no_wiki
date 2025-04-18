@@ -1,0 +1,144 @@
+[Weapon: Ava%27S Assembler#Normal]
+
+
+Ava's assembleris the upgraded version ofAva's accumulatorthat requires level 70Rangedto equip. The assembler gives the second best Ranged attack bonus for thecape slotand is one of the few cape slot items that provides aRanged Strengthbonus. To obtain the assembler, players must take 75mithril arrows,Ava's accumulator(or 4,999 coins), andVorkath's head(which can only be obtained by killingVorkathafter completion ofDragon Slayer II) toAvainDraynor Manor.
+Like all ofAva's devices, the assembler does not work when metal torso armour is worn, as this will cause 'interference'; this includes most melee armour as well asAhrim's robetop. A list of metal torso armour that doesnotinterfere with Ava's assembler can be foundhere.
+
+
+[Infobox]
+Released: 4 January2018(Update)
+Also called: Assembler
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Commune, Drop
+Worn options: Commune
+Examine: A superior bagged chicken empowered by Vorkath, ready to serve you, magnet in claw.
+General Store Value: 51,000 coins
+Alchemy: Not alchemisable
+Weight: 5.896 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +8
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +1
+- Magic: +8
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +2
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Abyssal Sire/Strategies(Phase 1 Ranged)
+2 | Abyssal Sire/Strategies(Phase 2 Ranged)
+2 | Adamant dragon/Strategies(Ranged)
+2 | Alchemical Hydra/Strategies(Ranged)
+2 | Ancient Wyvern/Strategies(Ranged)
+2 | Araxxor/Strategies(Ranged)
+1 | Artio/Strategies(Ranged)
+2 | Aviansie/Strategies(Ranged)
+2 | Barbarian Assault/Strategies(Ranged (high level))
+2 | Barrows/Strategies(Ranged (Ahrim))
+3 | Basilisk Knight/Strategies(Ranged/Prayer)
+2 | Basilisk Knight/Strategies(Ranged)
+2 | Brutal black dragon/Strategies(Ranged)
+1 | Callisto/Strategies(Ranged)
+2 | Cerberus/Strategies(Ranged)
+2 | Chambers of Xeric/Challenge Mode(Ranged)
+2 | Chambers of Xeric/Challenge Mode/Strategies(Ranged)
+2 | Chambers of Xeric/Strategies(Ranged)
+2 | Chaos Elemental/Strategies(Ranged)
+2 | Chaos Fanatic/Strategies(Ranged)
+2 | Chompy bird hunting/Strategy
+1 | Chompy bird hunting/Strategy
+2 | Commander Zilyana/Strategies(Ranged)
+2 | Corporeal Beast/Strategies(Ranged masses)
+2 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Dagannoth Kings/Strategies(Range)
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+2 | Drake/Strategies(Ranged)
+2 | Fight Caves Speed-Runner(Ranged)
+2 | Fortis Colosseum/Strategies(Ranged)
+2 | Galvek Speed-Trialist(Melee)
+2 | General Graardor/Strategies(Solo (Ranged 6:0))
+4 | General Graardor/Strategies(Ranged Tank)
+2 | General Graardor/Strategies(Ranged Attacker)
+2 | General Graardor/Strategies(Solo (Ranged 7:0))
+2 | Giant Mole/Strategies(Ranged)
+2 | Giant Mole/Strategies(Ranged Void)
+1 | Green dragon/Strategies(Ranged)
+2 | Grotesque Guardians/Strategies(Ranged switches)
+3 | Inferno/Strategies(Learners)
+2 | Inferno/Strategies(On task)
+2 | K'ril Tsutsaroth/Strategies(Ranged)
+4 | Kalphite Queen/Strategies(High DPS (Phase One))
+3 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+1 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+2 | Kalphite Queen/Strategies(High DPS (Phase Two))
+2 | King Black Dragon/Strategies(Ranged)
+2 | King Black Dragon/Strategies(Crossbow)
+2 | King Black Dragon/Strategies(Ranged BIS smuggle)
+4 | Kree'arra/Strategies(Chinchompas)
+2 | Kree'arra/Strategies(Ranged Tank)
+2 | Kree'arra/Strategies(Tbow / Bowfa)
+1 | Krystilia/Strategies(Ranged)
+1 | Lava dragon/Strategies(Ranged)
+2 | The Leviathan/Strategies(Ranged)
+2 | Lizardman shaman/Strategies(Ranged)
+1 | Maniacal monkey/Strategies(Ranged)
+2 | Metal dragons/Strategies(Ranged)
+2 | The Mimic/Strategies(Ranged)
+2 | Mithril dragon/Strategies(Ranged)
+2 | Nex/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+2 | Phantom Muspah/Strategies(Ranged)
+2 | Phantom Muspah/Strategies(Magic & Ranged)
+2 | Revenants/Strategies(Ranged)
+2 | Royal Titans/Strategies(Best-in-slot)
+1 | Royal Titans/Strategies(Mid-game)
+2 | Royal Titans/Strategies(Minimal gear switching)
+2 | Rune dragon/Strategies(Ranged)
+2 | Scurrius/Strategies(Range (high level))
+2 | Skeletal Wyvern/Strategies(Ranged (Void))
+2 | Skeletal Wyvern/Strategies(Ranged)
+2 | Skeleton (Ape Atoll)(Ranged)
+2 | Skotizo/Strategies(Ranged)
+2 | Slayer task/Abyssal demons(Ranged)
+2 | Slayer task/Fossil Island wyverns(Ranged)
+2 | Slayer task/Gargoyles(Ranged)
+2 | Slayer task/Jellies(Ranged)
+2 | Slayer task/Suqah(Ranged (North))
+2 | Slayer task/Wyrms(Ranged)
+2 | Slayer training(Ranged)
+1 | Slayer training(Ranged (Wilderness))
+1 | Spindel/Strategies(Ranged)
+2 | Theatre of Blood/Hard Mode(Range)
+2 | Theatre of Blood/Strategies(Range)
+2 | Tombs of Amascut/Strategies(Ranged switch)
+2 | Tormented Demon/Strategies(Ranged switch)
+2 | TzHaar Fight Cave/Strategies(Ranged)
+4 | TzHaar Fight Cave/Strategies(Ranged (Atlatl))
+1 | Venenatis/Strategies(Ranged)
+2 | Vorkath/Strategies(Ranged (crossbow))
+2 | Zulrah/Strategies(Ranged)

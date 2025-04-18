@@ -1,0 +1,61 @@
+[Weapon: Granite Legs]
+
+
+Granite legsareplatelegswhich require 50 defence and 50 strength to be worn. They can only be obtained by killingSkeletal Wyverns.
+Compared todragon platelegsandrune platelegs, they have a greater ranged defence bonus at the cost of worse melee defences. They also have 10 more negative magic attack bonus compared to metal platelegs and plateskirts, which can be beneficial for splashing.
+
+
+[Infobox]
+Released: 12 December2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: These look pretty heavy.
+General Store Value: 66,000 coins
+High alch: 39,600 coins
+Low alch: 26,400 coins
+Weight: 15.875 kg
+Grand Exchange Value: 41,394 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 410
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -31
+- Ranged: -18
+
+Defence Bonuses:
+- Stab: +43
+- Slash: +45
+- Crush: +41
+- Magic: -4
+- Ranged: +68
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Skeletal Wyvern | 140 | 1 | 1/512 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Barbarian Assault/Strategies(Melee (mid level))
+3 | Dagannoth Kings/Strategies(Magic (Rex only))
+4 | Scurrius/Strategies(Melee (mid level))

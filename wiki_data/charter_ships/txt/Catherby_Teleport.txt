@@ -1,0 +1,53 @@
+[Page: Catherby_Teleport]
+
+Catherby Teleport
+
+Released | 24 July2006(Update)
+
+Members | Yes
+
+Level | 87
+
+Spellbook | Lunar
+
+Type | Teleport
+
+Experience | 92
+
+Runes | 1033
+
+Casting speed | 4 ticks
+
+Description | Teleports you to Catherby
+
+Animation
+
+Sound effect
+
+Catherby Teleportteleports the caster near the bank inCatherby. As with allLunar spells, the questLunar Diplomacymust be completed to cast this spell.
+
+Casting this spell is a requirement for the eliteKandarin diary.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+3310 | 917
+
+Combo runes
+
+3310 | 1,957
+
+3310 | 1,867
+
+3310 | 2,097
+
+Main-hands
+
+33Alt | 867
+
+Off-hands
+
+33 | 867
+
+Destination[edit|edit source]

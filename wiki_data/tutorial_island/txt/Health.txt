@@ -1,0 +1,26 @@
+[Page: Hitpoints]
+
+Hitpoints(also known as "health" or "HP") represent a player's health. If they reach zero, the player willdie. Hitpoints is the only skill for which players start with any experience initially, being at level ten onTutorial Island, with exactly 1,154experiencepoints.
+Players can experience damage to their hitpoints through:
+While fighting, both the player and their opponent have a bar over them. This bar represents their Hitpoints.
+There are two colours on the bar; green and red. The green part of the bar represents how many Hitpoints a character has left and the red part represents how many Hitpoints they are missing, i.e. the net damage they have suffered. So if a player is low on Hitpoints, then the bar over them would be mostly red, meaning they are near death. Players often refer to "being redbarred" when barely surviving or only just getting a kill for this reason.
+When a player's Hitpoints reach zero, theydie. Managing hitpoints to avoid this outcome is a crucial skill inOld School RuneScape.
+The penalties and losses from dying depend on where the player was located and what kind of combat they were engaged in. Players should familiarize themselves with theDeathpage if they wish to learn more about what happensafterhitpoints are depleted.
+A player can heal to restore their Hitpoints up to, or occasionally above, their maximum in several ways.
+Players regenerate1 Hitpoint per minute. This can be boosted with the following effects:
+The following methods can provide a percentage of damage dealt as Hitpoints restoration, commonly referred to as life leech.
+Life leech can occur actively through somespecial attacksor more passively through chance on-hit effects.
+Temporary hitpoints boosts can be obtained through several means, but none provide a permanent boost to hitpoints. Boosted hitpoints levels above a player's maximum Hitpoints decay at a rate of one per minute, identically to othertemporary boosts. This timer can be restarted through activating theRapid Healprayer or through logging out, allowing a player to remain at a boosted hitpoints level for longer.
+Players can damage themselves with some interactions with the following items. Non-lethal items cannot kill the player under normal circumstances. When using a non-lethal item which damage would result in taking lethal damage, either no damage will be dealt or the item cannot be used. However, lethal items can still be used to take lethal damage. Damage from non-lethal items may still result in death if it is taken at the same time as damage from another source. One example would be guzzling aDwarven rock cakeor feeling aLocator orb, both to inflict more than 50+ damage whilst drinking a dose of anoverloadpotion. Using this mechanic may be beneficial for using the maximum set effect of wearing all pieces ofDharok's armour setduringNightmare Zone.
+Players can experience passive damage over time (and eventually die) through the environment at either theKharidian Desert, or inside greater fog whilst participating inLast Man Standing.
+Players who are in theKharidian Desertwill experienceDesert heat, except for those who have completed theElite Desert Diaryand are wearing theirDesert amulet 4. Players will need to bringWaterskinand weardesert-friendly clothingto prevent the player from taking up to 10 damage every 30-90 seconds (depending on the type of armour worn).
+Players who participate in Last Man Standing will encounter fog markers; this will drive all of the remaining players into the middle of the minigame. If players are less than 16 tiles into the fog, they will take 1-3 damage every other tick, ramping up over 6 ticks. Players 16 or more tiles into the fog will be subject to greater fog, which can deal up to 10 damage every other tick. To prevent this, it is important to strategise by moving to a place that provides cover and concealment from both the fog and other players.
+To earnexperiencein Hitpoints, a player has to fight, completequestswhich reward Hitpoints experience, or rubexperience lamps.
+When fighting, be itMelee,Ranged, orMagic, a player will earn Hitpoints experience whenever damage is dealt. For every Hitpoint of damage dealt, 1.33 experience points are given to the player's Hitpoints. However, a few monsters give greatly reduced experience due to their ability to regenerate (an exception to this beingMonkey GuardsfromApe Atoll).
+In addition, there is a chance that theObservatory Questmay award 875Hitpoints experience.
+Upon completing any of the following quests, players may choose to allocate experience to Hitpoints. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.
+Corrected the capitalization in the hitpoints skill guide.
+The Hitpoints skill guide now includes a list of food and how many Hitpoints each type of food heals.
+The Hitpoints skill guide now mentions venom.
+The health-bars that appear during combat should now always show at least one pixel of green whenever the player or NPC has some health left; you should no longer see a completely red health-bar until their health reaches zero.
+9mago-Crabby

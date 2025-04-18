@@ -1,0 +1,2 @@
+Item: Kitten (Gertrude's Cat)
+Summary: A Kitten is the offspring of Fluffs that appears during the Gertrude's Cat quest. It was separated from its mother within the Lumber Yard, and must be retrieved from a crate to obtain it as an item, which must then be taken to Fluffs. If the item is instead dropped, the kitten will appear on the ground and run back to a crate.

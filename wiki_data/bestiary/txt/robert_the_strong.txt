@@ -1,0 +1,37 @@
+Name: Robert the Strong
+Combat Level: 224
+Size: 1x1
+Info:
+- Description: A battle hardened hero.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 8057
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 280
+Attack: 0
+Strength: 0
+Defence: 140
+Magic: 128
+Ranged: 328
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

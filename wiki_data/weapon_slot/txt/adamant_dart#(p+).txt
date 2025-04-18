@@ -1,0 +1,70 @@
+[Weapon: Adamant Dart#(P+)]
+
+
+Adamant dartsareRangedthrowing weapons. To wield the player must have at least 30 Ranged. They can be obtained by either using theSmithingandFletchingskills or trading with another player. Adamant darts can bepoisonedand can be wielded with ashieldorgod bookfor protection.
+To make adamant darts, the player must have completed theTourist Trapquest and have at least 74 Smithing and 67 Fletching. Eachadamant barwill create 10adamant dart tipsand the player will receive 62.5 Smithing experience. Whenfeathersare added the player will receive 10 adamant darts and 15 Fletching experience per adamant dart.
+
+
+[Infobox]
+Released: 14 April2003(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A deadly throwing dart with an adamant tip.
+General Store Value: 65 coins
+High alch: 39 coins
+Low alch: 26 coins
+Weight: 0 kg
+Grand Exchange Value: 17 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 17,525,033
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +17
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 3 ticks (1.8s) | 3 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 2 ticks (1.2s) | 3 tiles |  | None
+ | Longrange | Light | Longrange | 3 ticks (1.8s) | 5 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Brutal blue dragon | 271 | 10 | 5/128 | 
+Brutal red dragon | 289 | 20 | 5/128 | 
+Dagannoth Supreme | 303 | 10–25 | 5/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | The Mimic/Strategies(Ranged)
+2 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+3 | Skotizo/Strategies(Ranged)

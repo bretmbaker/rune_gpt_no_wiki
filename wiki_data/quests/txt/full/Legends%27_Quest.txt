@@ -1,0 +1,345 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Legends' Quest (#50)
+
+
+
+
+
+Released | 20 August 2003 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Tytn H
+
+
+
+Legends' Quest is a quest in which the player is sent by Guildmaster Radimus Erkle to explore and map the Kharazi Jungle on the southern part of Karamja , establish relations with the natives and obtain a gift from them.
+
+Legends' Quest was the 50th quest to be released, and the last quest to be released before the launch of the RuneScape 2 beta. It was the first quest to be rated Master.
+
+Details [ edit | edit source ]
+
+Start point | Talk to the Legends' Guards just outside of the Legends' Guild . Show on map
+
+Official difficulty | Master
+
+Official length | Long
+
+Description | Only the elite are allowed to call themselves a Legend of RuneScape . Do you have what it takes to make it into the guild?
+
+Requirements | 107 Quest points ( required to start ) 50 Agility ( boostable ) ( not required to start ) 50 Crafting ( boostable ) ( not required to start ) 45 Herblore ( boostable ) ( not required to start ) 56 Magic ( boostable ) ( not required to start ) 52 Mining ( boostable ) ( not required to start ) 42 Prayer ( boostable ) ( not required to start ) 50 Smithing ( boostable ) ( not required to start ) 50 Strength ( boostable ) ( not required to start ) 50 Thieving ( boostable ) ( not required to start ) 50 Woodcutting ( boostable ) ( not required to start ) Completion of the following quests: Family Crest Heroes' Quest Shield of Arrav Lost City Merlin's Crystal Dragon Slayer I Shilo Village Jungle Potion Druidic Ritual Underground Pass Biohazard Plague City Waterfall Quest The ability to defeat a level 187 demon
+
+Items required | Any machete (can be obtained during the quest - a regular one can be found by searching the cupboards next to Radimus Erkle ) 2 gold bars (6 in case you fail or want more gold bowls ) Hammer Rope Rune , Dragon or Infernal axe Lockpick (2 in case you fail) ( Strange old lockpick does not work) Pickaxe Vial of water Ardrigal (obtainable during the quest) Snake weed (obtainable during the quest) One of each cut gem up to diamond: Sapphire Emerald Ruby Diamond Opal Jade Red topaz Soul rune Mind rune 2 law runes Earth rune Unpowered orb and runes to cast any Charge Orb once (requires the standard spellbook equipped - two casts are needed if taking the "long path" during the second fight with the demon) Charcoal (2-3 in case it breaks -- obtainable during the quest if travelling via Shilo Village) 3 Papyrus (4-5 in case one is torn -- obtainable during the quest if travelling via Shilo Village or from the spawn on Radimus's desk)
+
+Recommended | 65 Combat level Super restore potion if your levels are not far above the following required levels, as failing will reduce them and you might need them for certain objectives: 50 Agility to squeeze through the crevice behind the bookcase 50 Thieving to pick the first Ancient Gate 52 Mining to smash the boulders 50 Strength to force the second Ancient Gate Items that give a temporary skill boost to skip some levels in skilling (such as Botanical pies , Summer pies , Dwarven stouts and Axeman's Folly ) Weapon , armour , food and several prayer potions Fast travel to the Legends' Guild ( Ardougne teleport or Fairy rings to B L R ) Fast travel to the Karamjan jungle ( Brimhaven teleport , Teleport to House if it is in Brimhaven, charter ship or ship from Ardougne to Brimhaven, Fairy rings to C K R or Amulet of Glory to Karamja)
+
+Enemies to defeat | Ranalph Devere (level 92) — 2 times Irvig Senay (level 100) — 2 times San Tojalon (level 106) — 2 times Nezikchened (level 187) — 3 times
+
+League notes | Unlocking Fremennik ✓ will auto-complete the quest The quest is otherwise not completable, as the prerequisite quest Family Crest requires visits to Asgarnia ✓ , Kandarin ✓ , Desert ✓ , and Wilderness ✓ .
+
+Getting started [ edit | edit source ]
+
+To begin the quest, talk to the Legends' Guards just outside the legends guild ( fairy ring code B L R ). If they think you're worthy, they'll send you through the gates to talk to Sir Radimus Erkle to get your assignment. He will give you an incomplete map of the Kharazi Jungle , which you're to complete, and tell you to make friends with the inhabitants of the jungle so they'll give you a totem pole to proudly display inside the guild.
+
+Before you leave, take 3-5 papyrus off the table, and grab a machete from the cupboard . You can buy them from the general store in Shilo Village too, but these are free.
+
+Transport and banking [ edit | edit source ]
+
+You will need to bank several times during the quest. Depending on stats and risk tolerance, it may be possible to complete more steps in a single trip, so read ahead to see what will be required.
+
+If you have unlocked fairy rings , the shortest way to the jungle is code C K R . When you need to bank, teleport out of the jungle and return using the fairy ring. Wearing a charged amulet of glory or ring of wealth throughout the quest provides a convenient teleport close to a bank and fairy ring ( Edgeville and the Grand Exchange respectively). It may be worth taking the alternative route to Shilo Village on the first trip, to buy charcoal and papyrus.
+
+If not using the fairy rings, make your way to Brimhaven by taking a boat from Ardougne or any charter ship . Then, you can take Hajedy's cart to Shilo Village (his fee is 200 coins ). Later, you can exit the jungle the same way as entering it, and return to Shilo Village to use the bank.
+
+It will be necessary to exit from the depths of the Viyeldi caves , twice for the short path and three times for the long path. Even for players travelling by cart, teleporting out will be faster than climbing out. If climbing out, you can fail at some obstacles, particularly the strength door (where your attempts to open it from the inside can be interrupted by attacks from death wings ). Teleporting out also provides an opportunity to bank before continuing.
+
+Mapping the jungle [ edit | edit source ]
+
+Items required: Radimus notes (he will replace at the Legends' Guild for 30gp), axe , machete , at least 1 charcoal (3 to be safe), at least 3 papyrus (5 to be safe).
+
+Skills required: 50 Crafting to map the jungle .
+
+Head to the jungle boundary south of Shilo Village. To get into the Kharazi Jungle, you'll need to cut your way through the overgrown jungle vegetation using an axe and machete.
+
+Once inside (preferably on the eastern/western sides, so you don't have to run back and forth), start mapping down the jungle with your charcoal and papyrus by right-clicking on the Radimus notes and then selecting 'Complete'. Sometimes the charcoal and/or papyrus can break, so you should bring extra just in case. Alternatively, you may mess up the papyrus, but be able to salvage it. You should watch out for the jungle wolves , as they are aggressive; the tormented warriors and oomlie birds aren't aggressive unless provoked (see below).
+
+You can drop your charcoal and papyrus after completing the notes all three times.
+
+Extra tasks [ edit | edit source ]
+
+If you intend on freeing Sir Amik Varze in Recipe for Disaster , you should grab vanilla pod(s) whilst you are here—they are located directly south-west from the Water Pool near the beach in a group of five plants. Shake a leafy palm tree to acquire a palm leaf . Pick up five palm leaves (or pick up and drop the same one five times) to complete a hard task for the Karamja Diary . Additionally, kill an oomlie bird and collect its meat . Use a palm leaf on the raw meat, then cook the resulting wrapped oomlie over fire (now or later) and eat the resulting oomlie wrap to complete another hard task. Chop some teak and mahogany trees at the pool or southern coastal end (teak) and south-east (mahogany) of the jungle to complete two medium tasks rather than paying 100 trading sticks to enter the Hardwood Grove .
+
+Contacting the locals [ edit | edit source ]
+
+Items required: Radimus notes , axe , machete , 4 free inventory slots.
+
+Skills required: 50 Agility .
+
+Consider banking here to get the items for the Binding book section.
+
+Talk to one of the jungle foresters , who are standing at various points along the outside of the jungle boundary. They have a bullroarer , which they'll be willing to give up if you give them a copy of your notes. Use the completed Radimus notes on the forester, who will then make a copy before giving you their bullroarer.
+
+Go inside the jungle again, and swing it near the totem pole found east of the water pool represented by a blue square on the map to call a local named Gujuo out of hiding. (There are multiple totem poles in the jungle, so if nothing happens, try another one.) He'll ask for your help, since his tribe's shaman, Ungadulu , is trapped in his cave .
+
+From now on, you can call Gujuo using the bullroarer from anywhere in the jungle. Towards the north-western edge of the jungle, you'll find some rocks that you can squeeze through to get into the cave.
+
+Investigate (right-click) the Fire Wall and talk to Ungadulu , who warns you not to approach the flames, but becomes possessed and informs you that only pure water can extinguish the flames. Next, search the various items; the bed , table , and crate to obtain Ungadulu's notes: a scrawled note from the crate; a scribbled note on the table; and a scrumpled note on the bed. Reading them tells you how the shaman had prepared to summon his ancestors and pay homage to them, but fell prey to an evil presence in the cave.
+
+Once you're back outside again, call Gujuo with your bullroarer . Ask the shaman for more information and tell him you need some pure water to douse some magic flames (option 4). Ask, "What kind of a vessel?" (option 5). He'll give you a sketch of the vessel. (If you do not have these dialogue options, go back inside the cave and speak to Ungadulu again after you read the notes and they should become available).
+
+Binding book [ edit | edit source ]
+
+Items required:
+
+Radimus notes , axe , machete , pickaxe , 1-2 lockpicks (2 to be safe). "SMELL" runes: 1 soul rune , 1 mind rune , 1 earth rune , 2 law runes . Cut sapphire , emerald , ruby , diamond , red topaz , jade , and opal .
+
+Recommended:
+
+Supplies to pass level 83 Death Wings , and equipment to kill one for the Karamja Diary if you wish to do it on this trip. (The second trip may be more convenient, as you will need combat equipment anyway.) A super restore potion if your level is not far above the required level stated below.
+
+Skills required: 50 Agility to squeeze through the crevice, 50 Thieving to pick the locked door, 52 Mining to smash the boulders (if you're boosting mining, bring 2-3 Dwarven Stouts(m)), 50 Strength to force the heavy door.
+
+Make sure that you have all the required items. Go back to the cave. Ignore the fire wall and head to the east side of the room. Squeeze through a crevice hidden behind the easternmost bookcase by searching it.
+
+As you proceed further into the cave, you will come across an Ancient Gate . This is where your lockpick comes into play. Attempt to pick the lock; if you fail, you may lose your lockpick. However, as there is a message before the lockpick breaks, you can easily circumvent it by clicking elsewhere, which will save your lockpick.
+
+Once past this door, you'll need a pickaxe to mine three boulders out of the way. If you fail, your Mining level will decrease by 1. Once past these three boulders, use brute force to open the next set of gates ; failing this will result in your Strength being lowered. Beware of level 83 Death Wings on the other side; activating Protect From Melee can completely negate their damage. Killing a Death Wing, either now or on the second visit, will complete a hard task in the Karamja Diary .
+
+Run farther into the cave, and jump over the jagged wall . When you get further inside, you'll find a place where there are markings on the wall . Read them and it will give you the riddle:
+
+It spells SMELL. Use the runes with the wall in the order of Soul, Mind, Earth, Law, Law and then the door will appear. If the runes are used in an incorrect order, you will have leave and re-enter the cave.
+
+Inside, you'll face your next puzzle, where you'll see a number of Carved rocks sitting in pools of water. Fit your gems into each one by referring to the map at the beginning of this section. When all of them are in, there will be a little light show, and the binding book will appear. Take the book. (One useful feature of this book is that you can bless vials and fill them with pure water from your bowl to make holy water . Wielding these while fighting demons damages them.)
+
+Once you have the binding book, you can leave the cave (recommended to teleport out).
+
+Note: If you lose the binding book, you must repeat the steps above in order to reclaim it! However, the "SMELL" runes are not needed a second time.
+
+Gold bowl [ edit | edit source ]
+
+Items required: Sketch , hammer , 2-6 gold bars (( Ironman only ) if you're planning on gathering magic logs from the yommi tree using the yommi tree sapling method described later, you do not need to make additional gold bowls).
+
+Skills required: 50 Smithing .
+
+Go to any anvil while holding the sketch of the vessel you obtained from Gujuo and try to make the gold bowl . You may fail, so to be safe, bring more than two bars. If walking, the closest anvil is in Tai Bwo Wannai Village . If you can use fairy rings and have 60 smithing, you can use the minigame teleport to Blast Furnace for an anvil, take a mine cart back to the Grand Exchange , then use the fairy ring there to return to the jungle.
+
+You can now drop your Sketch after successfully making a Gold bowl.
+
+Pure water [ edit | edit source ]
+
+Items required: Radimus notes , axe , machete , bullroarer , gold bowl , prayer potion (if you fail to bless the bowl and your prayer drops below 42).
+
+Skills required: 42 Prayer to bless the bowl (if boosting Prayer, make sure to use your ancient mace special attack on a PoH max hit dummy before this).
+
+Recommended: Bring the items for Freeing Ungadulu .
+
+Head back into the jungle and call Gujuo . He'll help you bless your gold bowl so that it can carry the pure water. Your prayer points must be at or above 42 to attempt this, and if you fail, it will drain 5 prayer points. If it drains your prayer below 42, you'll have to restore it to try again.
+
+To bless multiple bowls, talk to Gujuo again (without saying "thanks for your help").
+
+With your blessed golden bowl , head to the pool of pure water towards the middle of the jungle. Since you can't quite reach the water, cut a hollow reed by using your machete on the tall reeds by the edge of the pool, then use the reed on the pool to siphon the water into your bowl. If you left-click the reeds, you will receive a message saying you need a knife to cut them, but a machete works just as well. Note that if you leave the jungle, the water in your bowl may evaporate, requiring you to refill the bowl again when you return.
+
+Freeing Ungadulu [ edit | edit source ]
+
+Items required: Radimus notes , axe , pickaxe, machete , bullroarer , binding book , blessed gold bowl filled with pure water.
+
+Skills required: 50 Agility to enter the cave, 50 Woodcutting for the yommi tree seeds .
+
+Recommended : Combat equipment , food and several prayer potions .
+
+There is an upcoming fight, so be prepared. If you die during the fight, you will have to re-obtain all quest items. When you're ready, use your pure water on the fire wall to step through without damage. Then, use your binding book on Ungadulu to release the demon, Nezikchened . Do not talk to or attack Ungadulu. (If you talk to him, he will damage you. If you attack him, he will damage you and knock you out of the octogram.)
+
+Nezikchened is level 187 and will drain a large amount of prayer (90%) at the beginning of the battle, but never again after that, so be careful if you want to use it while fighting him. Additionally, he'll cast a Fire Blast just before dying, so make sure to keep your HP up so that he doesn't kill you with his last ditch attack. This Fire Blast will hit through the Protect from Magic prayer.
+
+Arclight is heavily recommended for its damage and accuracy boost, as well as its stat-lowering special attack versus demons. If unavailable, other demonbane weapons (e.g. Silverlight , Darklight , Holy Water ) may be used alongside a higher-tier weapon. The desk can be used as a safespot , resulting in Nezikchened switching to Magic attacks.
+
+Once Nezikchened is defeated, talk to Ungadulu. Ungadulu will thank you and give you some yommi tree seeds . Be careful not to attack him as this will knock you out of the octogram and deal some damage, and if your health is low after the fight, this may kill you. You can use the drop trick to get more yommi tree seeds, to save time later if you lose the plants to rotting or if you are an Ironman and want to get magic logs . Ask Ungadulu how to get out, and he will tell you that he cast a spell to protect you from the flames. You can now walk through the flames at any time without the bowl.
+
+You can now drop the Binding Book.
+
+Exit the cave, head back to the pure water pool, and refill your bowl with water if needed. Then, use it on the yommi tree seeds to germinate them. (Doing this will empty all your bowls if you had more than one, and you cannot plant the seed without more pure water.) After germinating the seeds, attempt to refill your bowl again to discover the pool is now gross with sludge. We will need to cleanse the pool during the next section before we can plant the seeds. (You must use a hollow reed on the pool to get the next dialogue from Gujuo.)
+
+Call Gujuo . He will tell you that the underground source has probably been blocked off, and you'll need a bravery potion to be able to make it through the dark tunnel.
+
+Bravery potion [ edit | edit source ]
+
+Items required: Ardrigal , snake weed , vial of water .
+
+To make the potion you need Ardrigal (obtained during the Jungle Potion quest) and Snake weed . The Snake weed can be found West of Tai Bwo Wannai by searching the green and yellow vines on the ground and the Ardrigal can be found north-east of Tai Bwo Wannai along the shore by the Harpie Bug Swarms by searching the large-leafed palm trees by the agility shortcut. Mix the herbs into the vial of water (in either order) to make the bravery potion . You can drink it now to save space.
+
+Finding the water source [ edit | edit source ]
+
+Items required:
+
+Radimus notes , axe , machete , pickaxe , 1-2 lockpicks , rope , Blessed Gold Bowl and Bravery Potion (if it has not been consumed yet). Unpowered orb and runes / staff to cast any Charge Orb spell. Bring 2 sets if taking the long path and you don't intend to bank between the two descents of the cave. Be on normal spellbook. Food and potions to fight the three warriors followed by Nezikchened . If taking the long path and teleporting out of the cave, you can restock before fighting Nezikchened. Bring boosts needed to access the cave again.
+
+Skills required: 56 Magic to cast a Charge Orb spell. 50 Crafting to use the furnace. In addition, the skills to go through the cave again (indicated above)
+
+Recommended items: Super restore potion in case of failed obstacles. Salve amulet or Salve amulet (e) for fighting the 3 undead warriors.
+
+Go back to Ungadulu's cave and head down into the cave again, going through all the same areas that you did before. Kill a death wing on the way past if you have yet to complete a Karamja Hard Task .
+
+When you reach the area with the seven pools, head further to where another door is. Cast any Charge Orb spell on it to go through. You'll find yourself in a room with several barrels in it. You can smash them to reveal things like food , rope , weapons , or sometimes enemies. For now though, ignore them.
+
+Use your rope on the winch and drink the bravery potion before heading down into the depths of the Viyeldi caves . If you've brought along a Salve amulet , now is the time to equip it. If the rope disappears, searching the winch again will cause it to reappear. Climb down the winch.
+
+You'll be on the top of a long, winding path with several rocks covering it. The blue wizard hat to the right of the ladder is the spirit of Viyeldi , which you can take to talk to or skip past for now. Climb over these rocks to the bottom of the path, but be warned. If you fall off, you can take extremely heavy damage (40+) , depending on where you fell. You may also be immediately attacked by one of the three warriors mentioned below.
+
+Once at the bottom, you'll see three groups of different undead warriors named Ranalph Devere (level 92), Irvig Senay (level 100), and San Tojalon (level 106), who will drop the lump , hunk , and chunk of crystal , respectively. Approach them and fight them individually. There are multiple of each warrior in the room. If you are using Ranged or Magic , hiding behind one of the empty ore rocks allows you to safespot them. Once you've defeated them, they won't attack again. Take the crystals over to the furnace to the north-east, and put them in to make a heart crystal .
+
+Go south to the shimmering field and look at the minimap . If you haven't noticed already, the area to the north-north-west looks like the head of a dragon.
+
+Go to where the eye is, and use the crystal on a mossy rock there. It will glow. Go back to the shimmering field, place the crystal in the heart-shaped recess next to it, and pass through the barrier. On the other side of the barrier are three lesser demons , and past them to the west is the source of the pure water.
+
+The second battle [ edit | edit source ]
+
+Recommended: Demonbane weapons (e.g. Arclight , Silverlight , Darklight )
+
+You'll notice that there is a boulder blocking the water flow. Try to push it, and a spirit named Echned Zekin (which is an anagram of Nezikchened ) will appear. He'll say he's being tortured and beg you to help him by killing the spirit, Viyeldi . He'll give you a dark dagger to do so.
+
+If you have no intentions of killing Viyeldi, you still have to accept the dagger from Echned, as the dagger must be given to Ungadulu in order to proceed with the quest.
+
+There are now two paths to choose from.
+
+The short path [ edit | edit source ]
+
+Note: If you choose the short path, you will have to fight the three undead warriors again in the final battle!
+
+Do as the spirit asks. Walk back to the rock path with the blue wizard hat that you climbed down, and climb the rocks back up to the very top (you cannot fail here).
+
+You may have noticed a blue wizard hat on the way in—maybe even tried to pick it up. If you did, you met a spirit named Viyeldi , who Echned wanted you to kill. Stab him with the dark dagger (use the dagger on him while the dialogue is shown); then, go back down to the boulder.
+
+Before pushing the boulder, proceed to the southern boulder if you wish to safespot Nezikchened . Tell Echned Zekin that you did as he asked, use dark dagger on him. Nezikchened will reveal himself and attack the player, draining the player's Prayer .
+
+After the battle, push the boulder out of the way of the water's flow. You may need to try from different angles, try from the East side.
+
+The long path [ edit | edit source ]
+
+Items required: Dark dagger ; the same items as for Finding the water source , including another unpowered orb and runes to cast any Charge Orb spell (but you will not need another rope or bravery potion).
+
+Do not try to pick up the blue hat or talk to Viyeldi .
+
+Bank if desired. Go back to the beginning of the cave, investigate the fire wall and Ungadulu 's magic will allow you to pass through the fire wall safely. Use the dark dagger on Ungadulu. He will recognise the evil in the dagger and take it from you, giving you a Holy Force spell card, which will reveal the spirit's true form.
+
+Now, head back down to the bottom once again. You'll have to use another Charge Orb spell to get back in (including another unpowered orb). Search the winch to make the rope reappear.
+
+At the bottom, you'll have to fight Nezikchened again. Choose the southern boulder if you wish to safespot him. Push the boulder and Echned will appear again. Do not tell him you lost the dagger or he will damage you. To start the fight, cast the Holy Force spell (left-click on the card) when Echned is near you, and he will transform into Nezikchened and attack you. At the start of the battle, your Prayer will be halved. Nezikchened fights with a very ineffective magic attack at the beginning of the battle, and he'll soon realise that it doesn't work and will switch to melee . Defeat him however you like. After the battle, push the boulder out of the way of the water's flow and fill the bowl from the pool below it. You may need to try from different angles, try from the East side.
+
+Restoring the totem [ edit | edit source ]
+
+Items required: Radimus notes , axe ( rune or higher required to cut the yommi tree ), machete , bullroarer , yommi seeds , blessed gold bowl , and any equipment / potions / food you need for the most difficult battle of this quest.
+
+Skills required: 45 Herblore to plant the yommi tree, 50 Woodcutting to create the yommi totem .
+
+Note for Ironmen: Do not make the yommi totem until you have all the magic logs you need! Allowing a yommi tree to die and then chopping it down has a 1/4 chance to yield magic logs. This can be done quickly by not watering it, letting it die in the sapling stage, and hopping between three separate worlds. At the minimum Herblore requirement to plant the tree, about 192 seeds should be enough to get 16 magic logs accounting for a high (66%) failure rate from planting the seeds. When a dead tree is chopped down, the soil is damaged, so the player will have to hop worlds or move to another spot. It's possible to walk/run between two fertile soils and plant two yommi trees at once. While this can take awhile, it is more reliable and has lower requirements than most other sources for magic logs .
+
+Return to the pure water pool, then use the bullroarer to call Gujuo for instructions on what to do next. Fill the bowl again. Find a patch of fertile soil - it will be bare of vegetation and brown on the map. Plant the germinated seeds in the fertile soil and wait for the tree to grow (boost for 45 Herblore here if needed). If it says you planted the seeds incorrectly, just keep trying until it works (the chance of planting it successfully is based on your Herblore level). The growing process only takes a matter of seconds so be prepared. Once the tree reaches the second stage, use your bowl of water on it. The third and final stage is the adult yommi tree. Use your axe on it, and keep doing this until you've chopped all the branches off and shaped it into a yommi totem . You'll know it's done when you can pick it up.
+
+Note: Keep alert, because once the Yommi tree has reached the adult stage, you'll have only a brief window of time where you can cut it, or it will go rotten, and you will need to start again.
+
+If you lose all your seeds, you can always go back and get more from Ungadulu in the cave. Remember to germinate them with the sacred water.
+
+The final battle [ edit | edit source ]
+
+Now, find any of the locations where there's an old, brown totem. One is located just east of the pool, but there are others all over the forest. Once you find one, make all the preparations you need to fight. Turn on Protect from Melee and use your new totem on the old one.
+
+Note: you cannot replace the totem if you have inspected it recently. Wait a short time for it to return to its default state.
+
+When Nezikchened spawns, he will say his dialogue and begin attacking you! You are immobile while he is speaking and can take heavy damage, so it is highly recommended to turn on Protect from Melee before replacing the totem to be safe .
+
+If you chose the short path , you will need to kill the three undead warriors you saw down in the dragon cave once again. He will summon them one at a time, going from the strongest to weakest in terms of combat level. After each hero is killed, make sure that Protect from Melee is up as the interlude repeats, and Nezikchened will freely hit you four times on three occasions, which can deal a lot of damage if he gets lucky with his hits. Low levels should note that if you kill the three undead warriors and then leave, you will not have to fight them again upon returning.
+
+If you took the long path , Nezikchened will not summon the undead heroes because Viyeldi is protecting them, but be cautious as he will hit four times before the fight.
+
+Nezikchened will attack and drain your prayer . He attacks with Melee and Magic , which is much more effective this time. He doesn't use Magic that much if you melee him. Using Ranged , Magic, or a halberd from between the trees with Protect from Magic on will allow you to defeat him without losing health .
+
+Finishing up [ edit | edit source ]
+
+When Nezikchened dies, replace the totem, and Gujuo will appear to thank you for defeating the demon. He'll give you a totem pole as a reward for everything you've done.
+
+Return to Radimus Erkle with the Radimus notes and gilded totem ( fairy ring code B L R ), who will then let you into the guild. He will train you in one of 12 various skills of your choice up to four times. After all the experience rewards are claimed, the quest is complete.
+
+Congratulations! You have completed the Legends' Quest!
+
+Rewards [ edit | edit source ]
+
+4 Quest points Access to the Legends' Guild (including shop to buy the cape of legends ) The ability to wield the dragon sq shield 30,000 experience each in four skills of your choice (limited to Attack , Defence , Strength , Hitpoints , Prayer , Magic , Woodcutting , Crafting , Smithing , Herblore , Agility , Thieving . It is possible to choose the same skill all four times) The ability to charge your skills necklace or combat bracelet at the Legends' Guild or the Fountain of Rune Access to the Kharazi Jungle and a vine shortcut into it, requiring 79 Agility Radimus Erkle will provide replacement dark daggers , which can be investigated via right-click to switch appearance between a dark or glowing dagger You can now receive the Rune spear , Dragon spear , and Shield left half from the Gem drop table .
+
+Unlocks:
+
+Nezikchened accessible in the Nightmare Zone .
+
+Required for completing [ edit | edit source ]
+
+Completion of Legends' Quest is required for the following:
+
+Dragon Slayer II Recipe for Disaster/Freeing Sir Amik Varze (you only need to have started Legends' Quest to talk to Radimus Erkle about Recipe for Disaster) Karamja Hard Diary (partial completion, up to accessing death wings ) Ardougne Hard Diary
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+30 November 2022 ( update | poll ) | The experience rewarded in four chosen skills has been increased from 7,650 to 30,000.
+
+v • t • e Legends' Quest
+
+NPCs | Legends' Guard Radimus Erkle Jungle forester Gujuo Ungadulu Enemies Nezikchened Ranalph Devere Irvig Senay San Tojalon Viyeldi Oomlie bird Tormented Warrior Jungle Wolf Death wing |  | Legends' Guard Radimus Erkle Jungle forester Gujuo Ungadulu | Enemies | Nezikchened Ranalph Devere Irvig Senay San Tojalon Viyeldi Oomlie bird Tormented Warrior Jungle Wolf Death wing
+
+ | Legends' Guard Radimus Erkle Jungle forester Gujuo Ungadulu
+
+Enemies | Nezikchened Ranalph Devere Irvig Senay San Tojalon Viyeldi Oomlie bird Tormented Warrior Jungle Wolf Death wing
+
+Items | Papyrus Bullroarer Blue hat Holy force Cape of legends Notes Radimus notes (incomplete) Radimus notes Shaman's tome Scrawled note A scribbled note Scrumpled note Sketch Binding book Oomlie wrap Palm leaf Raw oomlie Wrapped oomlie Cooked oomlie wrap Yommi tree seeds Yommi tree seeds Germinated Golden bowl Gold bowl Blessed gold bowl Golden bowl (water) Golden bowl (pure water) Golden bowl (blessed water) Golden bowl (blessed pure water) Holy water Hollow reed Enchanted vial Holy water Smashed glass Bravery potion Grimy ardrigal Ardrigal Ardrigal mixture Grimy snake weed Snake weed Snakeweed mixture Bravery potion Crystals Lump Hunk Chunk Heart Heart (activated) Daggers Dark Glowing Totems Yommi Gilded |  | Papyrus Bullroarer Blue hat Holy force Cape of legends | Notes | Radimus notes (incomplete) Radimus notes Shaman's tome Scrawled note A scribbled note Scrumpled note Sketch Binding book | Oomlie wrap | Palm leaf Raw oomlie Wrapped oomlie Cooked oomlie wrap | Yommi tree seeds | Yommi tree seeds Germinated | Golden bowl | Gold bowl Blessed gold bowl Golden bowl (water) Golden bowl (pure water) Golden bowl (blessed water) Golden bowl (blessed pure water) | Holy water | Hollow reed Enchanted vial Holy water Smashed glass | Bravery potion | Grimy ardrigal Ardrigal Ardrigal mixture Grimy snake weed Snake weed Snakeweed mixture Bravery potion | Crystals | Lump Hunk Chunk Heart Heart (activated) | Daggers | Dark Glowing | Totems | Yommi Gilded
+
+ | Papyrus Bullroarer Blue hat Holy force Cape of legends
+
+Notes | Radimus notes (incomplete) Radimus notes Shaman's tome Scrawled note A scribbled note Scrumpled note Sketch Binding book
+
+Oomlie wrap | Palm leaf Raw oomlie Wrapped oomlie Cooked oomlie wrap
+
+Yommi tree seeds | Yommi tree seeds Germinated
+
+Golden bowl | Gold bowl Blessed gold bowl Golden bowl (water) Golden bowl (pure water) Golden bowl (blessed water) Golden bowl (blessed pure water)
+
+Holy water | Hollow reed Enchanted vial Holy water Smashed glass
+
+Bravery potion | Grimy ardrigal Ardrigal Ardrigal mixture Grimy snake weed Snake weed Snakeweed mixture Bravery potion
+
+Crystals | Lump Hunk Chunk Heart Heart (activated)
+
+Daggers | Dark Glowing
+
+Totems | Yommi Gilded
+
+Locations | Kharazi Jungle Legends' Guild Shaman Caves Viyeldi caves
+
+Scenery | Cupboard Kharazi Jungle Jungle tree (dense) Jungle tree Mossy rock Totem Pole Leafy Palm Tree Yommi tree Fertile Soil Tall Reeds Water Pool Damaged Earth Shaman Caves Cave entrance Fire Wall Crate Table Bed Desk Bookcase Crevice Crevice (exit) Ancient Gate Carved rock Boulder Jagged wall Marked wall Buried skeleton Barrel Winch Viyeldi caves Climbing rope Rocky Ledge Mossy rock Furnace Recess Filled Recess Shimmering field Boulder Sacred water |  | Cupboard | Kharazi Jungle | Jungle tree (dense) Jungle tree Mossy rock Totem Pole Leafy Palm Tree Yommi tree Fertile Soil Tall Reeds Water Pool Damaged Earth | Shaman Caves | Cave entrance Fire Wall Crate Table Bed Desk Bookcase Crevice Crevice (exit) Ancient Gate Carved rock Boulder Jagged wall Marked wall Buried skeleton Barrel Winch | Viyeldi caves | Climbing rope Rocky Ledge Mossy rock Furnace Recess Filled Recess Shimmering field Boulder Sacred water
+
+ | Cupboard
+
+Kharazi Jungle | Jungle tree (dense) Jungle tree Mossy rock Totem Pole Leafy Palm Tree Yommi tree Fertile Soil Tall Reeds Water Pool Damaged Earth
+
+Shaman Caves | Cave entrance Fire Wall Crate Table Bed Desk Bookcase Crevice Crevice (exit) Ancient Gate Carved rock Boulder Jagged wall Marked wall Buried skeleton Barrel Winch
+
+Viyeldi caves | Climbing rope Rocky Ledge Mossy rock Furnace Recess Filled Recess Shimmering field Boulder Sacred water
+
+Related | Quick guide Transcript
+
+v • t • e Legends' Guild
+
+Inhabitants | Fionella Legends' Guard Radimus Erkle Siegfried Erkle Monsters Giant bat Pit Scorpion Shadow warrior |  | Fionella Legends' Guard Radimus Erkle Siegfried Erkle | Monsters | Giant bat Pit Scorpion Shadow warrior
+
+ | Fionella Legends' Guard Radimus Erkle Siegfried Erkle
+
+Monsters | Giant bat Pit Scorpion Shadow warrior
+
+Shops | Legends Guild General Store. Legends Guild Shop of Useful Items.
+
+Related | Cape of legends Dragon sq shield Golden Gnome Legends' Quest Totem Pole

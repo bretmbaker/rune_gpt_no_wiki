@@ -1,0 +1,71 @@
+[Pet: Tzrek-jad]
+
+TheTzRek-Jad(translated asBaby Fire Elemental) is apetthat can be obtained via defeatingTzTok-Jadin theTzHaar Fight Cave. Players are twice as likely at receiving the pet upon defeating TzTok-Jad if they are assigned to defeat it on aSlayertask. In addition, players may exchange theirfire capesby speaking toTzHaar-Mej-Jalfor a 1/200 chance of obtaining TzRek-Jad. Providing a player defeats TzTok-Jad while on a Slayer task for a 1/100 chance of the petandhands in their cape, the overall chance of receiving the pet from either the boss or the cape is approximately 1/67.
+
+Players who have completed all six ofTzHaar-Ket-Rak's Challengescan right click "Metamorphosis"to change between the TzRek-Jad and JalRek-Jad, which is a smaller version ofJalTok-Jad. Attempting to change the pet's appearance before completing the challenges will result in the chatbox stating "You must have completed TzHaar-Ket-Rak's Challenges to do that."
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+TzTok-Jad | 702 | 1 | 1/200;1/100 | 
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Trivia[edit|edit source]
+
+In dialogue, JalRek-Jad replies with"Kl-Kra!"when asked if it is hungry. "Kl" in theTzHaarlanguage means us or we. While "Kra" is an untranslated word, it is likely that it is saying "We are!" based on context.TzRek-Jad had a festive override wearing asanta hatduring the2020,2021,2022,2023, and2024Christmas events.The original name showcased in the release blog for TzRek-Jad was TzHur-Jad.[1]
+
+References[edit|edit source]
+
+v•t•eTzHaar Fight Cave
+
+NPCs | TzHaar-Mej-JalMonstersTz-KihTz-KekTok-XilYt-MejKotKet-ZekTzTok-JadYt-HurKot |  | TzHaar-Mej-Jal | Monsters | Tz-KihTz-KekTok-XilYt-MejKotKet-ZekTzTok-JadYt-HurKot
+
+ | TzHaar-Mej-Jal
+
+Monsters | Tz-KihTz-KekTok-XilYt-MejKotKet-ZekTzTok-JadYt-HurKot
+
+Rewards | Fire capeTzrek-jadTokkul
+
+Related | StrategiesRotationsRotations123456789101112131415 |  | StrategiesRotations | Rotations | 123456789101112131415
+
+ | StrategiesRotations
+
+Rotations | 123456789101112131415
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan

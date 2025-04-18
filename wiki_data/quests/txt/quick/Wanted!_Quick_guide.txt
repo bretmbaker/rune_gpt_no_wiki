@@ -1,0 +1,111 @@
+ | This quest has an in-depth guide . It contains a more detailed description of dialogue, cutscenes, and storyline.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Sir Tiffy Cashien in Falador Park . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Medium
+
+Description | A wanted man is on the loose. Can you track him down?
+
+Requirements | 32 Quest points Completion of the following quests: Recruitment Drive Black Knights' Fortress Druidic Ritual The Lost Tribe Rune Mysteries Goblin Diplomacy Priest in Peril Enter the Abyss The ability to defeat a level 32 Black Knight .
+
+Items required | 10,000 coins , or: Law rune Enchanted gem (bought from a Slayer Master ) Molten glass 20 un-noted Rune essence or pure essence (you'll get them back) The player must deliver all 20 rune essence at once Light source ( Note: Candles , torches and oil lamps can cause swamp gas explosions if going off-route, and need a tinderbox to stay lit)
+
+Recommended | 15 Combat level Armour and some food . Stamina or energy potions . Fast travel to several locations that are always visited during the quest Falador ( Falador teleport ) Canifis ( Kharyrll Teleport , Ectophial , Salve Graveyard Teleport , Fenkenstrain's Castle Teleport , Fairy Rings to C K S or Slayer Ring to the Slayer Tower) Champions' Guild and Varrock ( Combat Bracelet , Chronicle or Varrock teleport ) Lumbridge ( Lumbridge teleport ) Fast travel to several randomly chosen locations Ardougne ( Ardougne teleport ) Brimhaven (travel from Ardougne) Rellekka ( Enchanted lyre or Fremennik sea boots , or House teleport if your house is in Rellekka) Castle Wars ( Ring of Dueling ) Al Kharid ( Ring of Dueling ) Musa Point ( Amulet of Glory to Karamja) Draynor Village ( Amulet of Glory ) Tree Gnome Stronghold ( Gnome Glider , Balloon Transport System , Spirit trees or Slayer Ring to Stronghold Slayer Cave) Goblin Village (walk from Falador) Yanille ( Watchtower teleport ) McGrubor's Wood ( Combat Bracelet to Ranging Guild or Fairy Rings to A L S ) Grave of Scorpius ( Ourania Teleport , Spirit Tree to Battle of Khazard, or Ring of Dueling to Castle Wars)
+
+Enemies to defeat | Black Knight (level 32) Solus Dellagar
+
+Ironman concerns | The player must have 20 inventory spots to deliver all 20 rune essence at once. If the miniquest has been completed, the table in the rune shop may be used to hold rune essence from multiple trips to bring to the nearby chaos altar while inventory items are dropped without the worry of them despawning.
+
+League notes | Asgarnia ✓ — location requirement Morytania ✓ — location requirement Wilderness ✓ — location requirement Only possible to manually complete if the random locations are in the 3 required regions of Asgarnia ✓ , Morytania ✓ and Wilderness ✓ Unlocking Desert ✓ will auto-complete the quest Unlocking Fremennik ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Tiffy/Amik [ edit | edit source ]
+
+Items required: Law rune , Enchanted gem and Molten glass OR 10k Coins .
+
+Daquarius [ edit | edit source ]
+
+Items required: Combat equipment, Commorb .
+
+Mage of Zamorak [ edit | edit source ]
+
+Items required: 20 unnoted rune essence or pure essence (Must all be the same type), Commorb .
+
+Hunt for Solus [ edit | edit source ]
+
+Items required: Commorb .
+
+WARNING: This part of the quest can take 20-30+ minutes (depending on which locations you must scan, and teleport availability), and there is no way to "click to continue" through  the dialogue with Savant during cut-scenes.
+
+Item | Savant says | Location
+
+ | Fremennik purple cloak | It's... a cloak? | Rellekka
+
+ | Banana | It's... a banana? | Musa Point banana plantation
+
+ | Blue wizard hat | It's...a wizard hat? | Wizards' Tower south of Draynor Village, ground floor [ UK ] 1 st floor [ US ] library (fairy ring D I S )
+
+ | Bone spear | It's... a very strange weapon? | Dorgesh-Kaan mine - Bring a light source, and follow the goblin to the mines and Nardok's Bone Weapons in order to scan for Solus. You do not need to finish The Lost Tribe in order to complete this step. You only need to progress far enough in The Lost Tribe to clear the rubble in the Lumbridge castle basement and proceed through the tunnel behind it.
+
+ | Bear fur | It's... fur? | Ardougne Market
+
+ | Blue cape | It's a cape... | Champions' Guild - you need to be inside the guild before you scan your Commorb in order for Solus to appear
+
+ | Cake | It's... a cake? | Ardougne Market
+
+ | Castle wars ticket | It's... a ticket? | Castle Wars
+
+ | Cream hat | It's... a hat? | The Grand Tree , next to King Narnode Shareen (not by the clothing store that sells the hat).
+
+ | Earmuffs | It's... ear muffs? | Canifis Slayer Tower
+
+ | Right eye patch | It's... an eye patch? | Brimhaven pub
+
+ | Fake beard | It's...a fake beard? | Ali Morrisane 's stall in Al Kharid
+
+ | Fremennik cloak | It's... a cloak? | Rellekka
+
+ | Fur | It's... fur? | Ardougne Market
+
+ | Giant frog legs | It's... some big frogs legs? | Lumbridge Swamp Caves - Bring a light source , a spiny helmet , and if it is your first time entering, a rope . Head to the end of the caves near the level 99 frogs. Using the Tears of Guthix teleport from a games necklace and running north is a quick way to get there.
+
+ | Goblin mail | It's... goblin armour? | Goblin Village
+
+ | Greenman's ale | It's a beer? | Dragon Inn ( Yanille )
+
+ | Red vine worm | It's... a worm? | McGrubor's Wood (fairy ring A L S )
+
+ | Pure essence (20 noted) | It's some kind of highly magically susceptible rock... | Rune essence mine
+
+ | Toy horsey | It's... a toy horse? | Draynor Village , near Diango
+
+ | Unholy symbol | It's... an unholy symbol! | Shrine of Scorpius , north of the Observatory with all the ghosts
+
+Final Battle [ edit | edit source ]
+
+Items required: Combat equipment, Commorb.
+
+Rewards [ edit | edit source ]
+
+1 Quest point 5,000 Slayer experience Access to the armoury of the White Knights ( White equipment )
+
+Required for completing:
+
+Devious Minds The Slug Menace
+
+v • t • e Wanted!
+
+NPCs | Sir Tiffy Cashien Sir Amik Varze Savant Lord Daquarius Mage of Zamorak Ranger Woman Enemies Black Knight Solus Dellagar |  | Sir Tiffy Cashien Sir Amik Varze Savant Lord Daquarius Mage of Zamorak Ranger Woman | Enemies | Black Knight Solus Dellagar
+
+ | Sir Tiffy Cashien Sir Amik Varze Savant Lord Daquarius Mage of Zamorak Ranger Woman
+
+Enemies | Black Knight Solus Dellagar
+
+Items | Commorb Solus's hat
+
+Related | Quick guide Transcript White Knights White equipment Temple Knights

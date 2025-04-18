@@ -1,0 +1,55 @@
+[Weapon: Larch Blowpipe#Empty]
+
+
+Larch blowpipeis an item in theSailing alpha. It is a two-handeddartweaponthat requires 45Rangedto wield. It can be created with theFletchingskill at level 70 by using aknifeon twolarch logs. It can fire darts up toadamant. Unlike thetoxic blowpipeit requires only darts and doesnotrequire charges.
+The following table shows the stats of the larch blowpipie with various darts:
+
+
+[Infobox]
+Released: 20 March2025(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Bankable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Drop
+Worn options: None(?)
+Examine: Breath powered dart delivering system with a hint of larch.
+General Store Value: 1,500 coins
+High alch: 900 coins
+Low alch: 600 coins
+Weight: 0.3 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +30
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +20
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 3 ticks (1.8s) | 5 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 2 ticks (1.2s) | 5 tiles |  | None
+ | Longrange | Light | Longrange | 3 ticks (1.8s) | 7 tiles |  | +3 Defence

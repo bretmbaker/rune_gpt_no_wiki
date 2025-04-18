@@ -1,0 +1,2 @@
+Item: Competition Judge
+Summary: The Competition Judge manages the Target range and gives out archery tickets as rewards, which can be used to purchase items from the Ticket Merchants.

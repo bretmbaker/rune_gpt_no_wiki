@@ -1,0 +1,2 @@
+Item: Friendly Bees
+Summary: Friendly Bees are NPCs that appear as part of the flowering tree event and the beehive event.

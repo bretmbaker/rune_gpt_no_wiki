@@ -1,0 +1,1 @@
+Raw herringis an item that is obtained through theFishingskill by using afishing rodwithfishing baiton anet/bait fishing spotusing the bait option. Herrings can only be caught in fishing spots by the sea. Catching a raw herring grants 30Fishingexperience. It can be cooked intoherringwith aCookinglevel of 5, granting 50Cookingexperience.

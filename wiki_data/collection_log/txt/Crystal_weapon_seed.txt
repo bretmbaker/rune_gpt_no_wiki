@@ -1,0 +1,5 @@
+Item: Crystal weapon seed
+Summary: A crystal weapon seed is an elven crystal that can be turned into crystal weapons. Completing the Gauntlet will yield a chance of gaining these seeds. The crystal weapon seed can be bought from Justine's stuff for the Last Shopper Standing for 12 Last Man Standing points.
+Sources:
+- Reward Chest (The Gauntlet) (Level N/A, Quantity: 1, Rarity: 1/120)
+- Reward Chest (The Gauntlet) (Corrupted) (Level N/A, Quantity: 1, Rarity: 1/50)

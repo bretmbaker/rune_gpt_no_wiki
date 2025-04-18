@@ -1,0 +1,2 @@
+Item: Uri
+Summary: Uri Molotov is the man who delivers the next part of a Treasure Trail when the player has completed an emote clue. To summon him the player needs to perform a specified emote in the proper location while wearing (or sometimes not wearing) a specified attire. The player must talk to him while still wearing the required attire upon which he will reward them with another clue scroll or casket and utter a seemingly nonsensical phrase, to which the player will always respond with "What?" This phrase has no bearing on the treasure trail.

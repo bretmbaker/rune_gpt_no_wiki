@@ -1,0 +1,1 @@
+Teleport crystalis a single-use item received when starting theGauntlet. It teleports players back to the starting room.

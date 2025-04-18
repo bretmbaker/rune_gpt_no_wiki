@@ -1,0 +1,2 @@
+Item: Sneaky undead fowl
+Summary: The sneaky undead fowl is a minor NPC for the Animal Magnetism quest. After helping Alice and Malcolm, a cutscene plays where the husband tries to catch the fowl. Despite having a combat level of 1, players cannot fight or interact with it. Strangely, it will woo at the player, regardless if they're wearing the Ghostspeak amulet or not.

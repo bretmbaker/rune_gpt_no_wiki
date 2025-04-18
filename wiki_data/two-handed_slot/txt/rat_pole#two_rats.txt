@@ -1,0 +1,53 @@
+[Weapon: Rat Pole#Two Rats]
+
+
+Therat poleis anitemthat players obtain during theRatcatchersquest. Players who lose their rat pole can obtain a new empty one by talking toPhingspetandGrimesquit.
+Players can attach up to six deadratsto the pole. To attach a rat, the player must first be wielding the pole, and not just have it in theirinventory. The player must use theircatto catch rats. When the cat catches a rat, the player has the option to put the rat on the pole. An adult cat or wily cat is recommended for this, as they have a much better success rate thankittens. The rat pole is ineffective as a weapon, serving mostly as a cosmetic item.
+
+
+[Infobox]
+Released: 28 November2005(Update)
+Members: Yes
+Quest item: Ratcatchers
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A pole for putting rats on.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: -1
+- Crush: +7
+- Magic: +4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +4
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +3
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

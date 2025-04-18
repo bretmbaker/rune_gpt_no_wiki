@@ -1,0 +1,1 @@
+A basket ofapplesare obtained by adding 1 to 5cooking applesinto abasket. This is a convenient way to carry them and reduces used inventory space. Like all baskets, it has the same functions, such as "remove one" and "empty".

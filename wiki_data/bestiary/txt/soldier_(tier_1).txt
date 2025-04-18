@@ -1,0 +1,39 @@
+Name: Soldier (tier 1)
+Combat Level: 39
+Size: 1x1
+Info:
+- Description: The lowest rank.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 6905,6904
+- Link: MOID
+
+Location:
+- Area: Combat Ring in the Shayzien Encampment
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 50
+Attack: 30
+Strength: 30
+Defence: 30
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,310 @@
+[Minigame: Pet]
+
+Apetis a non-combatNPCloyal to aplayerthat is generally obtained frommonsterdropsandskilling. Most pets are very rare drops from certainbossesor skilling activities and do not serve a purpose other than aesthetics. The player is able to interact with most pets, but they may only have one pet following them at a time. Pets are limited to a walking pace (except forNexlingandBabi); if they become stuck and/or too far away from the player they follow, they will teleport close to the player and continue. They can also be called to the player's side using the "Call follower" button under theWorn Equipmenttab. There are currently 66 available pets inOld School RuneScape, of which 63 fill acollection logslot.
+
+Pets may be stored in thebankorinventoryand will follow the player when dropped. Players can store up to 61 pets in themenagerieof aplayer-owned house(with the highest-levelpet house).
+
+Unlike other pets,catsare the only ones that must be raised to maturity by following the player.Kittensmust be stroked and fed regularly, or they will run away. Once they reach the adult stage, they no longer need to be fed.
+
+As of December 2023,Rockyis the most commonly owned pet by players, and thePenance Queenis the least common.
+
+Obtaining a pet[edit|edit source]
+
+When a player receives a one-off pet (i.e. abossorskillingpet), it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.Upon receiving a pet, a small sound will be heard.
+
+ | Receiving a pet
+
+The sound which can be heard when players receive a one-off pet.
+
+
+
+However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead state,You feel something weird sneaking into your backpack.If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins. When skilling, the pet is prioritised over the resource gathered; it will be placed in the last inventory slot available[1], while the resource gathered will be dropped underneath the player if their inventory becomes full. However, thisdoes notapply toFarmingdue to the complexity of the skill's code.[2]
+
+As pets are awarded as tertiarydrops, players can "obtain" more even if they own the pet in their bank, inventory, menagerie or is following them; when this happens, players will receive the messageYou have a funny feeling like you would have been followed...In addition, players will be given a pet reclaim token, accompanied by the messageYou have been given one free pet reclaim with Probita.The only exceptions are pets that are awarded as main drops, such as theabyssal orphanandsmol heredit.
+
+A few pets can be obtained by gambling rather than being a drop, those being thePet penance queen,Tzrek-Jad,Jal-nib-rekand Smol heredit. The latter three require sacrificing their respective item (fire cape,infernal capeanddizana's quiver) and makes the same drop rate roll as getting it normally. If the player already owns the pet in their bank, inventory, menagerie or is following them, the pet cannot be gambled for again until lost.
+
+If a player dies with a one-off pet following them (or if it is in their inventory and it is not one of the items protected on death) in a dangerous situation, the pet will be dropped and wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and players must either redeem a reclaim token with Probita or get the pet again from its eligible sources.
+
+If a player runs out ofmembershipwith a pet still following them, the pet is placed in theirinventory. They will receive the messageYour pet is scared into your backpack.If the player does not have space in their inventory, the pet is placed in theirbank. If the player's bank is full or exceeds the allowablefree-to-playbank space limit, their pet is sent toProbitainEast Ardougne, where they will have a free reclaim token usable to reclaim their pet.[3]
+
+List of pets[edit|edit source]
+
+Boss pets[edit|edit source]
+
+Each pet is a potential reward for defeating a certainbossmonster or completing araid, including skilling bosses and minigame bosses. Additionally, with the exception of thePhoenix(rewarded for subduingWintertodt), these pets resemble or are capable of resembling the bosses they are associated with.
+
+Pet | Source | Drop rate | Release date
+
+ | Abyssal orphan | Abyssal Sire[a] | 1/2,560[b] | 1 October2015
+
+ | Baby mole | Giant Mole | 1/3,000 | 17 July2014
+
+ | Baron | Duke Sucellus | 1/2,500 | 26 July2023
+
+ | Bran | Royal Titans | 1/3,000 | 5 February2025
+
+ | Butch | Vardorvis | 1/3,000 | 26 July2023
+
+ | Callisto cub | CallistoandArtio | 1/1,500 (Callisto)1/2,800 (Artio) | 19 March2015
+
+ | Hellpuppy | Cerberus | 1/3,000 | 27 August2015
+
+ | Huberte | The Hueycoatl | 1/400 | 25 September2024
+
+ | Ikkle hydra | Alchemical Hydra | 1/3,000 | 10 January2019
+
+ | Jal-nib-rek | Inferno | 1/100 (per kill or gamble)1/75 (per kill on Slayer task) | 1 June2017
+
+ | Kalphite princess | Kalphite Queen | 1/3,000 | 17 July2014
+
+ | Lil' zik | Theatre of Blood | 1/650 (Normal mode)1/500 (Hard mode)[c] | 7 June2018
+
+ | Lil'viathan | The Leviathan | 1/2,500 | 26 July2023
+
+ | Little nightmare | The Nightmare | 1/800 to 1/4,000 (From 1 to 5+ team size) | 6 February2020
+
+ | Moxi | Amoxliatl | 1/3,000 | 25 September2024
+
+ | Muphin | Phantom Muspah | 1/2,500 | 11 January2023
+
+ | Nexling | Nex | 1/500 | 5 January2022
+
+ | Nid | Araxxor | 1/3,000 | 28 August2024
+
+ | Noon | Grotesque Guardians | 1/3,000 | 26 October2017
+
+ | Olmlet | Chambers of Xeric | 1/53 (per broadcasted unique item) | 5 January2017
+
+ | Pet chaos elemental | Chaos ElementalandChaos Fanatic | 1/300 (Elemental)1/1,000 (Fanatic) | 3 April2014
+
+ | Pet dagannoth prime | Dagannoth Prime | 1/5,000 | 17 July2014
+
+ | Pet dagannoth rex | Dagannoth Rex | 1/5,000 | 17 July2014
+
+ | Pet dagannoth supreme | Dagannoth Supreme | 1/5,000 | 17 July2014
+
+ | Pet dark core | Corporeal Beast | 1/5,000 | 16 October2014
+
+ | Pet general graardor | General Graardor | 1/5,000 | 17 July2014
+
+ | Pet k'ril tsutsaroth | K'ril Tsutsaroth | 1/5,000 | 17 July2014
+
+ | Pet kraken | Kraken | 1/3,000 | 17 July2014
+
+ | Pet kree'arra | Kree'arra | 1/5,000 | 17 July2014
+
+ | Pet smoke devil | Thermonuclear smoke devil | 1/3,000 | 17 July2014
+
+ | Pet snakeling | Zulrah | 1/4,000 | 8 January2015
+
+ | Pet zilyana | Commander Zilyana | 1/5,000 | 17 July2014
+
+ | Phoenix | Wintertodt[d] | 1/5,000[e] | 8 September2016
+
+ | Prince black dragon | King Black Dragon | 1/3,000 | 17 July2014
+
+ | Scorpia's offspring | Scorpia | 1/2,015.75 | 19 March2015
+
+ | Scurry | Scurrius | 1/3,000[f] | 24 January2024
+
+ | Skotos | Skotizo | 1/65 | 4 May2017
+
+ | Smolcano | Zalcano | 1/2,250 | 25 July2019
+
+ | Smol heredit | Sol Heredit | 1/200 (per kill or gamble) | 20 March2024
+
+ | Sraracha | Sarachnis | 1/3,000 | 4 July2019
+
+ | Tiny tempor | Tempoross[g] | 1/8,000 | 24 March2021
+
+ | Tumeken's guardian | Tombs of Amascut | Varies[h] | 24 August2022
+
+ | Tzrek-jad | TzHaar Fight Cave | 1/200 (per kill or gamble)1/100 (per kill on Slayer task) | 6 August2015
+
+ | Venenatis spiderling | VenenatisandSpindel | 1/1,500 (Venenatis)1/2,800 (Spindel) | 19 March2015
+
+ | Vet'ion jr. | Vet'ionandCalvar'ion | 1/1,500 (Vet'ion)1/2,800 (Calvar'ion) | 19 March2015
+
+ | Vorki | Vorkath | 1/3,000 | 4 January2018
+
+ | Wisp | The Whisperer | 1/2,000 | 26 July2023
+
+ | Youngllef | The Gauntlet | 1/2,000 (normal Gauntlet)1/800 (Corrupted Gauntlet) | 25 July2019
+
+Skilling pets[edit|edit source]
+
+These pets are obtained by training a specificskill, with the chance of obtaining one being based on the player's level in the corresponding skill and the base chance of the activity being performed.
+
+For alldrop rates, use the formula:DropRate=1BaseChance−(SkillLevel*25). Base chances are found on the individual page for each pet. A player's chance of receiving a skilling pet does not increase past level 99, with only one exception: players with200 million experiencein the corresponding skill will be fifteen times more likely to receive the skilling pet.[4]
+
+As the rates use the player's base level,temporary skill boostssuch as thedragon pickaxe'sspecial attackor invisible boosts in areas such as theWoodcutting Guilddo not affect the rate at which players can obtain these pets.[5]
+
+Pet | Source | Drop rate | Release date
+
+ | Baby chinchompa | Obtained whileHuntingchinchompas | See here | 5 November2015
+
+ | Beaver | Obtained whileWoodcutting | See here | 5 November2015
+
+ | Giant squirrel | Obtained while trainingAgility | See here | 1 September2016
+
+ | Heron | Obtained whileFishing | See here | 5 November2015
+
+ | Rift guardian | Obtained while trainingRunecraft | See here | 1 September2016
+
+ | Rock golem | Obtained whileMining | See here | 5 November2015
+
+ | Rocky | Obtained whileThieving | See here | 1 September2016
+
+ | Tangleroot | Obtained whileFarming | See here | 1 September2016
+
+Other[edit|edit source]
+
+These pets are obtained either throughquestsor other means.
+
+Pet | Source | Drop rate | Release date
+
+ | Abyssal protector | Guardians of the Rift | 1/4,000 | 23 March2022
+
+ | Bloodhound | Master clue scrolls | 1/1,000 | 6 July2016
+
+ | Broav | Hunting ExpertduringWhile Guthix Sleeps | N/A | 10 July2024
+
+ | Cat | Gertrude, after completingGertrude's Cat | N/A | 28 July2003
+
+ | Chompy chick | Dropped bychompy birdsafter completing theElite Western Provinces Diary | 1/500 | 5 March2015
+
+ | Pet fish | Caught inHarry's Fishing Shop | N/A | 24 October2005
+
+ | Hellcat | CatchingHell-Ratswith acat | N/A | 15 March2006
+
+ | Herbi | Huntingherbiboars | 1/6,500 | 7 September2017
+
+ | Lil' creator | Soul Wars | 1/400 | 6 January2021
+
+ | Pet penance queen | Barbarian Assault | 1/1,000 | 14 August2014
+
+ | Pet rock | Askeladden, afterThe Fremennik Trials | N/A | 3 March2016
+
+ | Quetzin | Expert and MasterHunter's guild rumours | 1/1,000[a] | 20 March2024
+
+ | Toy cat | Clockworkand a regularplankused at acrafting table 4with85Crafting | N/A | 31 May2006
+
+One-off pet totals[edit|edit source]
+
+This is how many times each pet has been obtained by players, sorted by date. On the linked tweets byJagex Moderators, they are also divided into columns based onironmanstatus.
+
+Pet | 8 Oct2015[6] | 14 Mar2016[7] | 7 Nov2016[8] | 16 May2017[9] | 16 Nov2017[10] | 24 May2018[11] | 22 Feb2019[12] | 21 Feb2020[13] | 24 Dec2021[14] | 13 Dec2023[15]
+
+ | Chaos Elemental | 2,413 | 3,393 | 5,718 | 7,251 | 9,306 | 12,312 | 16,677 | 25,615 | 40,388 | 78,223
+
+ | Dagannoth Supreme | 623 | 972 | 1,951 | 2,948 | 4,017 | 5,086 | 6,818 | 9,380 | 12,224 | 19,126
+
+ | Dagannoth Prime | 613 | 976 | 1,844 | 2,738 | 3,745 | 4,778 | 6,419 | 8,928 | 11,694 | 18,759
+
+ | Dagannoth Rex | 1,031 | 1,471 | 2,565 | 3,789 | 5,111 | 6,589 | 8,985 | 12,436 | 16,222 | 26,540
+
+ | Baby mole | 521 | 782 | 1,610 | 2,766 | 4,668 | 6,562 | 8,334 | 11,818 | 21,171 | 43,910
+
+ | Kalphite princess | 307 | 504 | 1,282 | 1,841 | 2,626 | 3,515 | 4,570 | 5,986 | 9,040 | 16,260
+
+ | Smoke devil | 1,487 | 2,072 | 4,032 | 5,534 | 7,413 | 9,851 | 13,668 | 19,479 | 30,568 | 55,124
+
+ | Kree'arra | 376 | 523 | 841 | 1,000 | 1,287 | 1,738 | 2,360 | 3,510 | 5,036 | 10,351
+
+ | General Graardor | 918 | 1,393 | 2,600 | 3,394 | 4,178 | 5,225 | 6,724 | 9,675 | 12,359 | 27,027
+
+ | Zilyana | 505 | 799 | 1,397 | 1,829 | 2,256 | 2,783 | 3,383 | 4,331 | 6,250 | 11,571
+
+ | K'ril Tsutsaroth | 310 | 492 | 1,041 | 1,310 | 1,549 | 1,811 | 2,192 | 2,981 | 4,606 | 8,821
+
+ | Prince black dragon | 1,950 | 3,050 | 5,614 | 7,530 | 9,830 | 12,406 | 15,750 | 20,965 | 27,795 | 48,232
+
+ | Kraken | 4,051 | 6,006 | 11,750 | 17,050 | 23,070 | 31,906 | 45,655 | 66,139 | 97,357 | 168,482
+
+ | Penance Queen | 81 | 136 | 294 | 410 | 542 | 670 | 826 | 1,129 | 1,625 | 2,624
+
+ | Dark core | 263 | 487 | 971 | 1,230 | 1,436 | 1,762 | 2,078 | 2,701 | 4,087 | 8,611
+
+ | Snakeling | 3,577 | 5,340 | 9,870 | 14,345 | 17,126 | 21,242 | 29,144 | 42,072 | 41,273 | 96,199
+
+ | Chompy chick | 476 | 858 | 2,209 | 3,451 | 5,573 | 8,520 | 12,066 | 17,779 | 31,686 | 59,487
+
+ | Venenatis spiderling | 590 | 996 | 1,896 | 2,396 | 3,011 | 3,574 | 4,832 | 7,268 | 8,874 | 26,001
+
+ | Callisto cub | 244 | 419 | 969 | 1,390 | 1,998 | 2,641 | 3,546 | 4,999 | 6,483 | 22,290
+
+ | Vet'ion jr. | 134 | 203 | 468 | 617 | 785 | 992 | 1,393 | 2,157 | 3,111 | 17,618
+
+ | Scorpia's offspring | 351 | 572 | 997 | 1,501 | 2,006 | 2,481 | 3,168 | 4,265 | 5,986 | 12,113
+
+ | Tzrek-jad | 648 | 1,443 | 3,290 | 4,822 | 6,629 | 8,679 | 12,047 | 16,352 | 24,278 | 42,860
+
+ | Hellpuppy | 414 | 1,165 | 3,060 | 4,826 | 6,829 | 9,090 | 12,568 | 18,021 | 28,847 | 51,162
+
+ | Abyssal orphan | 76 | 444 | 1,572 | 2,579 | 3,953 | 5,135 | 6,635 | 9,215 | 16,461 | 28,372
+
+ | Heron | N/A | 2,608 | 13,062 | 20,883 | 28,447 | 36,147 | 50,906 | 72,510 | 92,657 | 182,997
+
+ | Rock golem | N/A | 1,559 | 6,335 | 11,217 | 17,222 | 25,653 | 40,455 | 62,910 | 80,460 | 197,251
+
+ | Beaver | N/A | 2,458 | 10,804 | 17,838 | 25,219 | 33,305 | 47,237 | 68,482 | 94,686 | 174,924
+
+ | Baby chinchompa | N/A | 1,345 | 5,119 | 8,098 | 11,022 | 14,122 | 19,397 | 26,957 | 22,326 | 60,351
+
+ | Bloodhound | N/A | N/A | 137 | 305 | 492 | 739 | 1,171 | 2,071 | 3,912 | 7,982
+
+ | Giant squirrel | N/A | N/A | 1,418 | 7,576 | 12,890 | 19,353 | 31,723 | 51,136 | 66,921 | 153,649
+
+ | Tangleroot | N/A | N/A | 591 | 2,678 | 4,813 | 7,547 | 15,154 | 31,184 | 56,385 | 109,676
+
+ | Rocky | N/A | N/A | 1,332 | 6,629 | 13,295 | 24,478 | 38,796 | 63,326 | 85,625 | 211,565
+
+ | Rift guardian | N/A | N/A | 763 | 3,521 | 6,499 | 10,109 | 15,995 | 26,804 | 43,618 | 91,433
+
+ | Phoenix | N/A | N/A | 3,436 | 8,393 | 13,105 | 18,244 | 29,905 | 46,083 | 78,242 | 143,749
+
+ | Olmlet | N/A | N/A | N/A | 547 | 1,414 | 2,730 | 4,697 | 8,786 | 15,475 | 29,195
+
+ | Skotos | N/A | N/A | N/A | 2,580 | 11,826 | 20,225 | 33,765 | 55,634 | 86,434 | 152,314
+
+ | Jal-nib-rek | N/A | N/A | N/A | N/A | 24 | 86 | 194 | 508 | 1,531 | 2,963
+
+ | Herbi | N/A | N/A | N/A | N/A | 548 | 1,374 | 2,877 | 5,672 | 12,970 | 29,969
+
+ | Noon | N/A | N/A | N/A | N/A | 339 | 1,199 | 2,560 | 4,467 | 9,420 | 18,819
+
+ | Vorki | N/A | N/A | N/A | N/A | N/A | 3,956 | 11,074 | 22,953 | 37,508 | 94,869
+
+ | Lil' zik | N/A | N/A | N/A | N/A | N/A | N/A | 1,783 | 4,644 | 10,805 | 21,174
+
+ | Ikkle hydra | N/A | N/A | N/A | N/A | N/A | N/A | 2,483 | 10,589 | 23,413 | 45,797
+
+ | Sraracha | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 1,027 | 5,635 | 14,229
+
+ | Smolcano | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 7,123 | 28,952
+
+ | Youngllef | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 614 | 9,946 | 54,987
+
+ | Little nightmare | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 4,076 | 4,028 | 10,472
+
+ | Lil' creator | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 7,675 | 21,629
+
+ | Tiny tempor | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 9,825 | 31,719
+
+ | Abyssal protector | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 48,191
+
+ | Tumeken's guardian | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 24,459
+
+ | Nexling | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 10,357
+
+ | Muphin | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 8,099
+
+ | Baron | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 7,778
+
+ | Butch | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 7,703
+
+ | Wisp | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 3,838
+
+ | Lil'viathan | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 3,745
+

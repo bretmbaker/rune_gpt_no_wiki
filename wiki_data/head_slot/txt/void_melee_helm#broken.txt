@@ -1,0 +1,64 @@
+[Weapon: Void Melee Helm#Broken]
+
+
+AVoid melee helmis a piece ofVoid Knight equipmentthat is obtained as a reward in thePest Controlminigame. It can be bought from aVoid Knightfor 200commendation points, although a player must have at least level 42Attack,Strength,Defence,Hitpoints,Ranged, andMagic, along with level 22Prayerto buy and wear one.
+The melee helm grants the player a 10% bonus towardsmeleedamage and accuracy when worn with thevoid knight top,robeandgloves. Thevoid knight maceandvoid sealarenotrequired for the bonus. It has the same stats as the other two helmets. It is useful for training melee skills but maximum strength gear will be more effective. The void melee helm is the only Void Knight helmet that doesn't have any additional benefit withElite Void.
+
+
+[Infobox]
+Released: 17 July2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A melee helm from the order of the Void Knights.
+General Store Value: 9,851 coins
+High alch: 5,910 coins
+Low alch: 3,940 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +6
+- Crush: +6
+- Magic: +6
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Barbarian Assault/Strategies(Melee (mid level))
+4 | Corporeal Beast/Strategies(Solo melee)
+3 | Corporeal Beast/Strategies(Team melee)
+3 | Corporeal Beast/Strategies(Melee masses)
+3 | Duke Sucellus/Strategies(Melee)
+3 | Giant Mole/Strategies(Melee)
+1 | Giant Mole/Strategies(Ranged Void)
+1 | Royal Titans/Strategies(Minimal gear switching)
+1 | Scurrius/Strategies(Melee (mid level))
+4 | Scurrius/Strategies(Melee (high level))
+5 | Skotizo/Strategies(Melee)
+1 | Theatre of Blood/Strategies(Entry mode)
+4 | Theatre of Blood/Strategies(Melee)
+1 | Theatre of Blood/Strategies(Learner)

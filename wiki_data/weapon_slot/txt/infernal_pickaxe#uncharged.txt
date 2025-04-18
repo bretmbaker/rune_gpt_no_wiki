@@ -1,0 +1,61 @@
+[Weapon: Infernal Pickaxe#Uncharged]
+
+
+TheInfernal pickaxeis a specialpickaxethat requires level 61Miningto use and 60Attackto wield. It is created by using asmouldering stoneon adragon pickaxe, requiring level 85Smithingto create (cannot be boosted), and starts with 5,000 charges. Doing so grants 200 Mining experience and 350 Smithing experience.
+Mining rocks with it equipped or in the inventory will give a 1/3 chance for the ore to automatically combust. This willdestroythe ore, using one charge and granting Smithing experience based on the amount that would usually be gained when creating a bar from the ore. For rocks that cannot be smelted, Smithing experience will be gained based on the level required to mine the rock. At some mining spots, such asMotherlode Mine,Volcanic Mine,amethyst,gem rocks,crashed star, ordense runestone, the infernal pickaxe does not consume ores and acts as a regular dragon pickaxe.
+
+
+[Infobox]
+Released: 27 August2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Check, Drop
+Worn options: Check
+Examine: A very powerful, fiery pickaxe.
+General Store Value: 99,801 coins
+High alch: 59,880 coins
+Low alch: 39,920 coins
+Weight: 2.4 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +38
+- Slash: -2
+- Crush: +32
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +42
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Spike | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Impale | Stab | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyss/Strategies(Graceful)
+2 | Zalcano/Strategies(Mining)

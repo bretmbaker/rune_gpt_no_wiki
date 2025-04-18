@@ -1,0 +1,91 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Freeing Evil Dave (#100.6)
+
+
+
+
+
+Released | 15 March 2006 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | James B (framework)
+
+
+
+Freeing Evil Dave [ edit | edit source ]
+
+Details [ edit | edit source ]
+
+Start point | Inspect Evil Dave in the Lumbridge Castle Dining Room.
+
+Official difficulty | Special
+
+Official length | Medium
+
+Description | Evil Dave needs some kind of spicy stew. You will need Evil Dave's help for this one. He lives in his mother's basement...
+
+Requirements | 25 Cooking ( boostable ) ( not required to start ) [1] Completion of the following quests: Gertrude's Cat Recipe for Disaster/Another Cook's Quest Cook's Assistant Shadow of the Storm Demon Slayer The Golem
+
+Items required | Any cat except an overgrown cat (note that each cat has a different effective rat catch rate -- kittens or lazy cats are not recommended) Several bowls of stew (9 at most)
+
+Recommended | Fast travel to Lumbridge ( Lumbridge teleport ) Fast travel to Edgeville ( Amulet of Glory , Fairy Rings to D K R , Ring of Wealth to the Grand Exchange or a Varrock teleport ) Fish if using a kitten to catch rats, or if you want to battle hell-rat behemoths after the quest (buckets of milk can also substitute for hell-rat behemoth fights)
+
+Enemies to defeat | None
+
+League notes | Desert ✓ — location requirement Kandarin ✓ OR Morytania ✓ OR Fremennik ✓ OR Varlamore ✓ — location requirement
+
+Walkthrough [ edit | edit source ]
+
+Note: There is a bug where Evil Dave will not tell you what he ate, to get around this hold down the space bar when talking with him and it will bring up a list of options, you can then select "because the magic requires it" and be able to proceed.
+
+Inspect Evil Dave in the Lumbridge Castle Dining Room to start the quest. Then go to Edgeville . The house west of the bank is Evil Dave's mother's house. Talk to her and ask her either question. Then, climb down the trapdoor . You will see that Evil Dave has gotten into summoning demons as well. However, they are hellrats , the weakest form of demon ever. Talk to him, and ask him what he ate, saying he must tell you "because the magic requires it". He'll eventually tell you that it was a perfectly spicy evil stew , like the ones his mother makes. Talk to Doris (Dave's mother) again. She will tell you that the hellrats stole all of the spices.
+
+Since the Hell-Rat Behemoths cannot be fought until the subquest is completed, you will need to hunt down hellrats instead. If your cat catches a hellrat, you will get a brown , red , yellow or orange spice , which contains anywhere from 1 to 4 doses. When your cat catches 7 hellrats it will become a hellcat .
+
+Using these spices, you must construct the perfect stew for Evil Dave, which will be a stew that contains all four of the spices, but at different random values between 1-3. This can be a very time consuming process, so to conserve spices and save a lot of time with this, focus on finding out one spice potency at a time.
+
+Start off by using (1) dose of one colour on a stew and give it to Evil Dave. He will then eat and comment on your stew, there are two outcomes from this:
+
+Correct: If he says, "one of the spices is correct, the rest are incorrect" that means the current number you used is correct. Write it down.
+
+Incorrect: If he says "none of them are right", you will need to try again. Make a stew with two doses of spice in it. If it works, the correct amount of that spice is two. If Dave still doesn't like it, you know the correct amount of spice is 3. You do not need to "confirm" it any further.
+
+At most, you will need six doses of each spice , as you cannot put more than three doses of a single spice in one stew. Keep doing this, and eventually you will find out 1 value for each of the 4 spices.
+
+Pay attention when adding spices to the stew. Using a spice again quickly, before it is updated to reflect the spice's value after the first use, will result in the spice not being used. Looking in the game chatbox to make sure the spice has been added for each usage is recommended.
+
+Make this final stew with the correct values of spice and give it to Evil Dave, and he will say that it is correct. He will not eat all of the stew this time. Make sure you finish the entire dialogue! Bring it back to Evil Dave in Lumbridge ; make sure you do not eat the stew, or you will have to go back and get the spices again.
+
+Excess spices can be dropped or kept in the bank to make more spicy stews for personal use. Note, that they may be decanted to 4-dose items much like potions
+
+Rewards [ edit | edit source ]
+
+1 Quest point 7,000 Cooking experience The ability to catch hellrats to get a Hellcat The ability to have your cat fight Hell-Rat Behemoths The ability to add coloured spices to stew by catching hellrats ( Spicy stews can boost and lower certain stats) Further access to the Culinaromancer's Chest
+
+v • t • e Freeing Evil Dave
+
+ | Subquest of Recipe for Disaster
+
+NPCs | Evil Dave Doris Hellcat Hell-Rat
+
+Items | Empty spice shaker Brown spice Orange spice Red spice Yellow spice Spicy stew Stew
+
+Locations | Basement of Doom
+
+Scenery | Brown spice (4) Orange spice (4) Red spice (4) Yellow spice (4)
+
+Music | Scape Cave
+
+v • t • e Recipe for Disaster
+
+Subquests | Another Cook's Quest Freeing the Goblin generals Freeing the Mountain Dwarf Freeing Evil Dave Freeing the Lumbridge Guide Freeing Pirate Pete Freeing Skrach Uglogwee Freeing Sir Amik Varze Freeing King Awowogei Defeating the Culinaromancer
+
+Monsters | Agrith-Na-Na Flambeed Karamel Dessourt Gelatinnoth Mother Culinaromancer
+
+Rewards | Antique lamp
+
+Related | Culinaromancer's Chest Quick guide Full Guide

@@ -1,0 +1,2 @@
+Item: Guard (Motherlode Mine)
+Summary: The dwarven guard is an NPC who guards the entrance to the Motherlode Mine. He will ask players if they intend to sabotage the mine's operations if spoken to, to which the player can answer yes or no.

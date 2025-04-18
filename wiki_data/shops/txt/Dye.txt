@@ -1,0 +1,93 @@
+[Shop: Dye]
+
+Dyeexists in seven hues, plus theblack dye. Dye is used to colour items: most commonlycapes, but also certain quest items. Dyes can be made quickly by using the required ingredients on the person making the dye, given you have enough of the item and the required coins in your inventory.
+
+They can also be bought from theLletya SeamstressinLletyaandGuinevere's DyesinPrifddinas, but this requires startingMourning's End Part Iand completion ofSong of the Elvesrespectively.
+
+Standard dyes[edit|edit source]
+
+Standard dyes can be used to dyecapesandgoblin mail.
+
+Dye colour | Ingredients/dyes required
+
+ | Red dye | 3redberriesand 5 coins
+
+ | Orange dye | Mixture ofred dyeandyellow dye
+
+ | Yellow dye | 2onionsand 5 coins
+
+ | Green dye | Mixture ofblue dyeandyellow dye
+
+ | Blue dye | 2woad leavesand 5 coins
+
+ | Purple dye | Mixture ofred dyeandblue dye
+
+Aggie the witch(Draynor Village) andAli the dyer(Pollnivneach) make primary colours of dye for 5coins(Aggie) or 25 coins (Ali) plus ingredients. If you "use" the ingredients (3 redberries, 2 onions, or 2 woad leaves) Aggie will automatically make the dye, saving you from clicking through all of the dialogue options.A bottle ofred dyespawns in theSisterhood Sanctuaryon the road leading towards the sanctuary.A bottle oforange dyespawns inShayzien Styles, the shop run byOsteninShayzien.A bottle ofpurple dyespawns by the bridge acrossRiver Dougnein the southern part ofEast Ardougne. Very close to theKhazard BattlefieldSpirit Tree. Another bottle of purple dye can be found upstairs in the church inHosidius.An infinite amount ofredandyellow dyecan be taken from the shelves atMaryandGordon's farm, just south of theFarming Guild.
+
+Pink dye[edit|edit source]
+
+Pink dyeis members only and can be bought fromBettyin the Magic Shop inPort Sarimfor 20coins, after you have completedThe Hand in the Sandquest. It can be made during the quest by usingredberriesandwhite berrieswith a special vial of water.
+
+Pink dye can be used to create apink cape, craft apink origami balloonand to makePink goblin mail. It is also an ingredient used in making theZen themefor aSuperior gardenin a player's house.
+
+Black dye[edit|edit source]
+
+Black dyeis members only and player made during theShadow of the Storm,Land of the GoblinsandThe Golemquests. The dye is made by using aPestle and mortaron aBlack Mushroomwith aVialpresent in your inventory. It can be used to dyecapes,desert robes,goblin mails,origami balloons, and theSilverlightsword.
+
+Abyssal dyes[edit|edit source]
+
+Abyssal dyes are members only and can be obtained as a drop from theGuardians of the Riftminigame. They are used to recolour theRaiments of the Eyeset.
+
+Three dyes exist:Abyssal red dyeAbyssal blue dyeAbyssal green dye
+
+Dark dye[edit|edit source]
+
+Dark dyeis members only and can be purchased from theMysterious Strangerin theHallowed Sepulchrefor 300Hallowed Marks. It is used to recolour theGraceful outfit.
+
+Quests[edit|edit source]
+
+Some quests require dyes to complete. Here is a list of these quests along with which dyes are needed:
+
+Quest | Dye Requirements | Additional Notes
+
+Ghosts Ahoy | 3 random dyes (can be primary OR secondary) | Bring 3 of each primary to avoid extra trips
+
+Goblin Diplomacy | Blue and Orange dye (1 of each) | 
+
+Mourning's End Part I | Red, Yellow, Blue and Green dye | Bring extras in case of error
+
+Prince Ali Rescue | Yellow dye | 
+
+Hand in the Sand | Pink dye | Created with redberries and white berries during the quest; purchasable from Betty after quest completion
+
+Enlightened Journey | Red and Yellow dye | 
+
+Recipe for Disaster | Blue, Green, or Purple dye | (Assuming blue dye is used)
+
+Getting Ahead | Red dye | 
+
+Eagles' Peak | Yellow dye | 
+
+Song of the Elves | Red and Purple dye | 
+
+Land of the Goblins | Yellow, Blue, Orange, Purple and Black dye | Created with an empty vial, mushroom, and pestle & mortar during the quest
+
+Assuming blue dye is used during Recipe for Disaster, the table below shows the number of dyes required to complete allquests, some of which will be mixed together (not includingGhosts Ahoy). ForGhosts Ahoy, 3 of each primary should be brought so no extra trips are needed.
+
+Dye | Total Required
+
+Yellow | 6
+
+Red | 6
+
+Blue | 5
+
+v•t•eDyes
+
+Standard | RedOrangeYellowGreenBluePurplePink
+
+Abyssal | RedGreenBlue
+
+Other | BlackDarkWhitefish
+
+Suppliers | AggieAli the dyerBettyGuinevereOronwen

@@ -1,0 +1,4 @@
+Item: Charged ice
+Summary: Charged ice is a tertiary drop from the Phantom Muspah, guaranteed as a drop if it is killed in under three minutes. It is used on a Muphin to allow it to metamorphose into its melee and shielded forms. Once used on Muphin, it cannot be obtained again, even if the player gets another kill under three minutes.
+Sources:
+- Phantom Muspah (Level 741, Quantity: 1, Rarity: Always)

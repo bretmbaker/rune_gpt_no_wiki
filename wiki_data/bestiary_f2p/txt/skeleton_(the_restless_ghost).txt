@@ -1,0 +1,38 @@
+Name: Skeleton
+Combat Level: 13
+Size: 1x1
+Info:
+- Description: It rattles when it walks.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 924
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Skeleton champion scroll(m) (1/5,000[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 18
+Attack: 10
+Strength: 11
+Defence: 7
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

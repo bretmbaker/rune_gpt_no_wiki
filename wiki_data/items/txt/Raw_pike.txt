@@ -1,0 +1,1 @@
+Raw pikeare fish that can be caught with aFishinglevel of 25, granting 60 fishing experience per catch. They can be cooked intopikewith aCookinglevel of 20. Successfully cooking a raw pike gives 80 Cooking experience. Raw pike are caught through bait fishing, which requires afishing rodandbait.

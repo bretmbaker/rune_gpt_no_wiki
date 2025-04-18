@@ -1,0 +1,56 @@
+[Weapon: Gilded Full Helm]
+
+
+TheGilded full helmis a gold-plated version of therune full helmand a part ofgilded equipment. It has the same stats as the rune full helmet, and only differs in appearance. It requires 40Defenceto wear.
+It can be obtained as a reward fromhard,eliteandmastertierTreasure Trailsandcannotbe made through any skill.
+
+
+[Infobox]
+Released: 26 October2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Rune full helmet with gold plate.
+General Store Value: 35,200 coins
+High alch: 21,120 coins
+Low alch: 14,080 coins
+Weight: 2.721 kg
+Grand Exchange Value: 11,527,558 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 31
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +30
+- Slash: +32
+- Crush: +27
+- Magic: -1
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/32,257.5 | 
+Reward casket (hard) | N/A | 1 | 1/35,750 | 
+Reward casket (master) | N/A | 1 | 1/149,776 | 

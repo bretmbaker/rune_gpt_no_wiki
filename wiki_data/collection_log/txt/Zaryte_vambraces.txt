@@ -1,0 +1,4 @@
+Item: Zaryte vambraces
+Summary: Zaryte vambraces are a pair of vambraces requiring 80 Ranged and 45 Defence to wear. Obtained as a drop from Nex, the vambraces are the best-in-slot offensive gloves for rangers, surpassing Barrows gloves. They are the only hands slot item to offer a Ranged Strength bonus.
+Sources:
+- Nex (Level 1001, Quantity: 1, Rarity: 1/172)

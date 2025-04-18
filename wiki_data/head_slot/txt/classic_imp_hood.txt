@@ -1,0 +1,46 @@
+[Weapon: Classic Imp Hood]
+
+
+Theclassic imp hoodis an item that can be obtained from participating in anybirthday event. The hood along with theclassic imp tailhas been first obtainable from the2025 Birthday event.
+
+
+[Infobox]
+Released: 18 February2025(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can claim a new one from Diango.
+Examine: Impishly iconic.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.25 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

@@ -1,0 +1,7 @@
+Item: Desiccated page
+Summary: Desiccated pages are an untradeable item obtained as loot from the Royal Titans. Players can obtain them commonly as regular loot, but can also guarantee[note] obtaining them via their right-click "Take pages" option; tertiary loot (such as Bran and clue scrolls) are still rolled as normal.
+Sources:
+- Branda the Fire Queen Take pages (Level 350, Quantity: 10–18, Rarity: Always)
+- Branda the Fire Queen (Level 350, Quantity: 6–24, Rarity: 2 × 16/387)
+- Eldric the Ice King Take pages (Level 350, Quantity: 10–18, Rarity: Always)
+- Eldric the Ice King (Level 350, Quantity: 6–24, Rarity: 2 × 9/250)

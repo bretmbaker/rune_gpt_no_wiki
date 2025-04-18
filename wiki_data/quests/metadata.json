@@ -1,0 +1,2018 @@
+{
+  "quests": {
+    "Novice": {
+      "full": {
+        "html": "quests/html/full/Quests_Novice.html",
+        "txt": "quests/txt/full/Quests_Novice.txt"
+      }
+    },
+    "Intermediate": {
+      "full": {
+        "html": "quests/html/full/Quests_Intermediate.html",
+        "txt": "quests/txt/full/Quests_Intermediate.txt"
+      }
+    },
+    "Experienced": {
+      "full": {
+        "html": "quests/html/full/Quests_Experienced.html",
+        "txt": "quests/txt/full/Quests_Experienced.txt"
+      }
+    },
+    "Master": {
+      "full": {
+        "html": "quests/html/full/Quests_Master.html",
+        "txt": "quests/txt/full/Quests_Master.txt"
+      }
+    },
+    "Grandmaster": {
+      "full": {
+        "html": "quests/html/full/Quests_Grandmaster.html",
+        "txt": "quests/txt/full/Quests_Grandmaster.txt"
+      }
+    },
+    "Special": {
+      "full": {
+        "html": "quests/html/full/Quests_Special.html",
+        "txt": "quests/txt/full/Quests_Special.txt"
+      }
+    },
+    "Romeo & Juliet": {
+      "full": {
+        "html": "quests/html/full/Romeo_%26_Juliet.html",
+        "txt": "quests/txt/full/Romeo_%26_Juliet.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Romeo_%26_Juliet_Quick_guide.html",
+        "txt": "quests/txt/quick/Romeo_%26_Juliet_Quick_guide.txt"
+      }
+    },
+    "Demon Slayer": {
+      "full": {
+        "html": "quests/html/full/Demon_Slayer.html",
+        "txt": "quests/txt/full/Demon_Slayer.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Demon_Slayer_Quick_guide.html",
+        "txt": "quests/txt/quick/Demon_Slayer_Quick_guide.txt"
+      }
+    },
+    "Shield of Arrav": {
+      "full": {
+        "html": "quests/html/full/Shield_of_Arrav.html",
+        "txt": "quests/txt/full/Shield_of_Arrav.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Shield_of_Arrav_Quick_guide.html",
+        "txt": "quests/txt/quick/Shield_of_Arrav_Quick_guide.txt"
+      }
+    },
+    "Ernest the Chicken": {
+      "full": {
+        "html": "quests/html/full/Ernest_the_Chicken.html",
+        "txt": "quests/txt/full/Ernest_the_Chicken.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Ernest_the_Chicken_Quick_guide.html",
+        "txt": "quests/txt/quick/Ernest_the_Chicken_Quick_guide.txt"
+      }
+    },
+    "Vampyre Slayer": {
+      "full": {
+        "html": "quests/html/full/Vampyre_Slayer.html",
+        "txt": "quests/txt/full/Vampyre_Slayer.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Vampyre_Slayer_Quick_guide.html",
+        "txt": "quests/txt/quick/Vampyre_Slayer_Quick_guide.txt"
+      }
+    },
+    "Imp Catcher": {
+      "full": {
+        "html": "quests/html/full/Imp_Catcher.html",
+        "txt": "quests/txt/full/Imp_Catcher.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Imp_Catcher_Quick_guide.html",
+        "txt": "quests/txt/quick/Imp_Catcher_Quick_guide.txt"
+      }
+    },
+    "Prince Ali Rescue": {
+      "full": {
+        "html": "quests/html/full/Prince_Ali_Rescue.html",
+        "txt": "quests/txt/full/Prince_Ali_Rescue.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Prince_Ali_Rescue_Quick_guide.html",
+        "txt": "quests/txt/quick/Prince_Ali_Rescue_Quick_guide.txt"
+      }
+    },
+    "Doric's Quest": {
+      "full": {
+        "html": "quests/html/full/Doric%27s_Quest.html",
+        "txt": "quests/txt/full/Doric%27s_Quest.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Doric%27s_Quest_Quick_guide.html",
+        "txt": "quests/txt/quick/Doric%27s_Quest_Quick_guide.txt"
+      }
+    },
+    "Black Knights' Fortress": {
+      "full": {
+        "html": "quests/html/full/Black_Knights%27_Fortress.html",
+        "txt": "quests/txt/full/Black_Knights%27_Fortress.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Black_Knights%27_Fortress_Quick_guide.html",
+        "txt": "quests/txt/quick/Black_Knights%27_Fortress_Quick_guide.txt"
+      }
+    },
+    "Witch's Potion": {
+      "full": {
+        "html": "quests/html/full/Witch%27s_Potion.html",
+        "txt": "quests/txt/full/Witch%27s_Potion.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Witch%27s_Potion_Quick_guide.html",
+        "txt": "quests/txt/quick/Witch%27s_Potion_Quick_guide.txt"
+      }
+    },
+    "Goblin Diplomacy": {
+      "full": {
+        "html": "quests/html/full/Goblin_Diplomacy.html",
+        "txt": "quests/txt/full/Goblin_Diplomacy.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Goblin_Diplomacy_Quick_guide.html",
+        "txt": "quests/txt/quick/Goblin_Diplomacy_Quick_guide.txt"
+      }
+    },
+    "Pirate's Treasure": {
+      "full": {
+        "html": "quests/html/full/Pirate%27s_Treasure.html",
+        "txt": "quests/txt/full/Pirate%27s_Treasure.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Pirate%27s_Treasure_Quick_guide.html",
+        "txt": "quests/txt/quick/Pirate%27s_Treasure_Quick_guide.txt"
+      }
+    },
+    "Dragon Slayer I": {
+      "full": {
+        "html": "quests/html/full/Dragon_Slayer_I.html",
+        "txt": "quests/txt/full/Dragon_Slayer_I.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Dragon_Slayer_I_Quick_guide.html",
+        "txt": "quests/txt/quick/Dragon_Slayer_I_Quick_guide.txt"
+      }
+    },
+    "Rune Mysteries": {
+      "full": {
+        "html": "quests/html/full/Rune_Mysteries.html",
+        "txt": "quests/txt/full/Rune_Mysteries.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Rune_Mysteries_Quick_guide.html",
+        "txt": "quests/txt/quick/Rune_Mysteries_Quick_guide.txt"
+      }
+    },
+    "Misthalin Mystery": {
+      "full": {
+        "html": "quests/html/full/Misthalin_Mystery.html",
+        "txt": "quests/txt/full/Misthalin_Mystery.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Misthalin_Mystery_Quick_guide.html",
+        "txt": "quests/txt/quick/Misthalin_Mystery_Quick_guide.txt"
+      }
+    },
+    "X Marks the Spot": {
+      "full": {
+        "html": "quests/html/full/X_Marks_the_Spot.html",
+        "txt": "quests/txt/full/X_Marks_the_Spot.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/X_Marks_the_Spot_Quick_guide.html",
+        "txt": "quests/txt/quick/X_Marks_the_Spot_Quick_guide.txt"
+      }
+    },
+    "Below Ice Mountain": {
+      "full": {
+        "html": "quests/html/full/Below_Ice_Mountain.html",
+        "txt": "quests/txt/full/Below_Ice_Mountain.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Below_Ice_Mountain_Quick_guide.html",
+        "txt": "quests/txt/quick/Below_Ice_Mountain_Quick_guide.txt"
+      }
+    },
+    "Sheep Shearer": {
+      "full": {
+        "html": "quests/html/full/Sheep_Shearer.html",
+        "txt": "quests/txt/full/Sheep_Shearer.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Sheep_Shearer_Quick_guide.html",
+        "txt": "quests/txt/quick/Sheep_Shearer_Quick_guide.txt"
+      }
+    },
+    "Cook's Assistant": {
+      "full": {
+        "html": "quests/html/full/Cook%27s_Assistant.html",
+        "txt": "quests/txt/full/Cook%27s_Assistant.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Cook%27s_Assistant_Quick_guide.html",
+        "txt": "quests/txt/quick/Cook%27s_Assistant_Quick_guide.txt"
+      }
+    },
+    "The Corsair Curse": {
+      "full": {
+        "html": "quests/html/full/The_Corsair_Curse.html",
+        "txt": "quests/txt/full/The_Corsair_Curse.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Corsair_Curse_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Corsair_Curse_Quick_guide.txt"
+      }
+    },
+    "The Knight's Sword": {
+      "full": {
+        "html": "quests/html/full/The_Knight%27s_Sword.html",
+        "txt": "quests/txt/full/The_Knight%27s_Sword.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Knight%27s_Sword_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Knight%27s_Sword_Quick_guide.txt"
+      }
+    },
+    "The Restless Ghost": {
+      "full": {
+        "html": "quests/html/full/The_Restless_Ghost.html",
+        "txt": "quests/txt/full/The_Restless_Ghost.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Restless_Ghost_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Restless_Ghost_Quick_guide.txt"
+      }
+    },
+    "Druidic Ritual": {
+      "full": {
+        "html": "quests/html/full/Druidic_Ritual.html",
+        "txt": "quests/txt/full/Druidic_Ritual.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Druidic_Ritual_Quick_guide.html",
+        "txt": "quests/txt/quick/Druidic_Ritual_Quick_guide.txt"
+      }
+    },
+    "Lost City": {
+      "full": {
+        "html": "quests/html/full/Lost_City.html",
+        "txt": "quests/txt/full/Lost_City.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Lost_City_Quick_guide.html",
+        "txt": "quests/txt/quick/Lost_City_Quick_guide.txt"
+      }
+    },
+    "Witch's House": {
+      "full": {
+        "html": "quests/html/full/Witch%27s_House.html",
+        "txt": "quests/txt/full/Witch%27s_House.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Witch%27s_House_Quick_guide.html",
+        "txt": "quests/txt/quick/Witch%27s_House_Quick_guide.txt"
+      }
+    },
+    "Merlin's Crystal": {
+      "full": {
+        "html": "quests/html/full/Merlin%27s_Crystal.html",
+        "txt": "quests/txt/full/Merlin%27s_Crystal.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Merlin%27s_Crystal_Quick_guide.html",
+        "txt": "quests/txt/quick/Merlin%27s_Crystal_Quick_guide.txt"
+      }
+    },
+    "Heroes' Quest": {
+      "full": {
+        "html": "quests/html/full/Heroes%27_Quest.html",
+        "txt": "quests/txt/full/Heroes%27_Quest.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Heroes%27_Quest_Quick_guide.html",
+        "txt": "quests/txt/quick/Heroes%27_Quest_Quick_guide.txt"
+      }
+    },
+    "Scorpion Catcher": {
+      "full": {
+        "html": "quests/html/full/Scorpion_Catcher.html",
+        "txt": "quests/txt/full/Scorpion_Catcher.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Scorpion_Catcher_Quick_guide.html",
+        "txt": "quests/txt/quick/Scorpion_Catcher_Quick_guide.txt"
+      }
+    },
+    "Family Crest": {
+      "full": {
+        "html": "quests/html/full/Family_Crest.html",
+        "txt": "quests/txt/full/Family_Crest.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Family_Crest_Quick_guide.html",
+        "txt": "quests/txt/quick/Family_Crest_Quick_guide.txt"
+      }
+    },
+    "Fishing Contest": {
+      "full": {
+        "html": "quests/html/full/Fishing_Contest.html",
+        "txt": "quests/txt/full/Fishing_Contest.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Fishing_Contest_Quick_guide.html",
+        "txt": "quests/txt/quick/Fishing_Contest_Quick_guide.txt"
+      }
+    },
+    "Tribal Totem": {
+      "full": {
+        "html": "quests/html/full/Tribal_Totem.html",
+        "txt": "quests/txt/full/Tribal_Totem.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Tribal_Totem_Quick_guide.html",
+        "txt": "quests/txt/quick/Tribal_Totem_Quick_guide.txt"
+      }
+    },
+    "Monk's Friend": {
+      "full": {
+        "html": "quests/html/full/Monk%27s_Friend.html",
+        "txt": "quests/txt/full/Monk%27s_Friend.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Monk%27s_Friend_Quick_guide.html",
+        "txt": "quests/txt/quick/Monk%27s_Friend_Quick_guide.txt"
+      }
+    },
+    "Temple of Ikov": {
+      "full": {
+        "html": "quests/html/full/Temple_of_Ikov.html",
+        "txt": "quests/txt/full/Temple_of_Ikov.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Temple_of_Ikov_Quick_guide.html",
+        "txt": "quests/txt/quick/Temple_of_Ikov_Quick_guide.txt"
+      }
+    },
+    "Clock Tower": {
+      "full": {
+        "html": "quests/html/full/Clock_Tower.html",
+        "txt": "quests/txt/full/Clock_Tower.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Clock_Tower_Quick_guide.html",
+        "txt": "quests/txt/quick/Clock_Tower_Quick_guide.txt"
+      }
+    },
+    "Holy Grail": {
+      "full": {
+        "html": "quests/html/full/Holy_Grail.html",
+        "txt": "quests/txt/full/Holy_Grail.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Holy_Grail_Quick_guide.html",
+        "txt": "quests/txt/quick/Holy_Grail_Quick_guide.txt"
+      }
+    },
+    "Tree Gnome Village": {
+      "full": {
+        "html": "quests/html/full/Tree_Gnome_Village.html",
+        "txt": "quests/txt/full/Tree_Gnome_Village.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Tree_Gnome_Village_Quick_guide.html",
+        "txt": "quests/txt/quick/Tree_Gnome_Village_Quick_guide.txt"
+      }
+    },
+    "Fight Arena": {
+      "full": {
+        "html": "quests/html/full/Fight_Arena.html",
+        "txt": "quests/txt/full/Fight_Arena.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Fight_Arena_Quick_guide.html",
+        "txt": "quests/txt/quick/Fight_Arena_Quick_guide.txt"
+      }
+    },
+    "Hazeel Cult": {
+      "full": {
+        "html": "quests/html/full/Hazeel_Cult.html",
+        "txt": "quests/txt/full/Hazeel_Cult.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Hazeel_Cult_Quick_guide.html",
+        "txt": "quests/txt/quick/Hazeel_Cult_Quick_guide.txt"
+      }
+    },
+    "Sheep Herder": {
+      "full": {
+        "html": "quests/html/full/Sheep_Herder.html",
+        "txt": "quests/txt/full/Sheep_Herder.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Sheep_Herder_Quick_guide.html",
+        "txt": "quests/txt/quick/Sheep_Herder_Quick_guide.txt"
+      }
+    },
+    "Plague City": {
+      "full": {
+        "html": "quests/html/full/Plague_City.html",
+        "txt": "quests/txt/full/Plague_City.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Plague_City_Quick_guide.html",
+        "txt": "quests/txt/quick/Plague_City_Quick_guide.txt"
+      }
+    },
+    "Sea Slug": {
+      "full": {
+        "html": "quests/html/full/Sea_Slug.html",
+        "txt": "quests/txt/full/Sea_Slug.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Sea_Slug_Quick_guide.html",
+        "txt": "quests/txt/quick/Sea_Slug_Quick_guide.txt"
+      }
+    },
+    "Waterfall Quest": {
+      "full": {
+        "html": "quests/html/full/Waterfall_Quest.html",
+        "txt": "quests/txt/full/Waterfall_Quest.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Waterfall_Quest_Quick_guide.html",
+        "txt": "quests/txt/quick/Waterfall_Quest_Quick_guide.txt"
+      }
+    },
+    "Jungle Potion": {
+      "full": {
+        "html": "quests/html/full/Jungle_Potion.html",
+        "txt": "quests/txt/full/Jungle_Potion.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Jungle_Potion_Quick_guide.html",
+        "txt": "quests/txt/quick/Jungle_Potion_Quick_guide.txt"
+      }
+    },
+    "The Grand Tree": {
+      "full": {
+        "html": "quests/html/full/The_Grand_Tree.html",
+        "txt": "quests/txt/full/The_Grand_Tree.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Grand_Tree_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Grand_Tree_Quick_guide.txt"
+      }
+    },
+    "Underground Pass": {
+      "full": {
+        "html": "quests/html/full/Underground_Pass.html",
+        "txt": "quests/txt/full/Underground_Pass.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Underground_Pass_Quick_guide.html",
+        "txt": "quests/txt/quick/Underground_Pass_Quick_guide.txt"
+      }
+    },
+    "Observatory Quest": {
+      "full": {
+        "html": "quests/html/full/Observatory_Quest.html",
+        "txt": "quests/txt/full/Observatory_Quest.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Observatory_Quest_Quick_guide.html",
+        "txt": "quests/txt/quick/Observatory_Quest_Quick_guide.txt"
+      }
+    },
+    "The Tourist Trap": {
+      "full": {
+        "html": "quests/html/full/The_Tourist_Trap.html",
+        "txt": "quests/txt/full/The_Tourist_Trap.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Tourist_Trap_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Tourist_Trap_Quick_guide.txt"
+      }
+    },
+    "Watchtower": {
+      "full": {
+        "html": "quests/html/full/Watchtower.html",
+        "txt": "quests/txt/full/Watchtower.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Watchtower_Quick_guide.html",
+        "txt": "quests/txt/quick/Watchtower_Quick_guide.txt"
+      }
+    },
+    "Dwarf Cannon": {
+      "full": {
+        "html": "quests/html/full/Dwarf_Cannon.html",
+        "txt": "quests/txt/full/Dwarf_Cannon.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Dwarf_Cannon_Quick_guide.html",
+        "txt": "quests/txt/quick/Dwarf_Cannon_Quick_guide.txt"
+      }
+    },
+    "Murder Mystery": {
+      "full": {
+        "html": "quests/html/full/Murder_Mystery.html",
+        "txt": "quests/txt/full/Murder_Mystery.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Murder_Mystery_Quick_guide.html",
+        "txt": "quests/txt/quick/Murder_Mystery_Quick_guide.txt"
+      }
+    },
+    "The Dig Site": {
+      "full": {
+        "html": "quests/html/full/The_Dig_Site.html",
+        "txt": "quests/txt/full/The_Dig_Site.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Dig_Site_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Dig_Site_Quick_guide.txt"
+      }
+    },
+    "Gertrude's Cat": {
+      "full": {
+        "html": "quests/html/full/Gertrude%27s_Cat.html",
+        "txt": "quests/txt/full/Gertrude%27s_Cat.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Gertrude%27s_Cat_Quick_guide.html",
+        "txt": "quests/txt/quick/Gertrude%27s_Cat_Quick_guide.txt"
+      }
+    },
+    "Legends' Quest": {
+      "full": {
+        "html": "quests/html/full/Legends%27_Quest.html",
+        "txt": "quests/txt/full/Legends%27_Quest.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Legends%27_Quest_Quick_guide.html",
+        "txt": "quests/txt/quick/Legends%27_Quest_Quick_guide.txt"
+      }
+    },
+    "Death Plateau": {
+      "full": {
+        "html": "quests/html/full/Death_Plateau.html",
+        "txt": "quests/txt/full/Death_Plateau.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Death_Plateau_Quick_guide.html",
+        "txt": "quests/txt/quick/Death_Plateau_Quick_guide.txt"
+      }
+    },
+    "Eadgar's Ruse": {
+      "full": {
+        "html": "quests/html/full/Eadgar%27s_Ruse.html",
+        "txt": "quests/txt/full/Eadgar%27s_Ruse.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Eadgar%27s_Ruse_Quick_guide.html",
+        "txt": "quests/txt/quick/Eadgar%27s_Ruse_Quick_guide.txt"
+      }
+    },
+    "Big Chompy Bird Hunting": {
+      "full": {
+        "html": "quests/html/full/Big_Chompy_Bird_Hunting.html",
+        "txt": "quests/txt/full/Big_Chompy_Bird_Hunting.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Big_Chompy_Bird_Hunting_Quick_guide.html",
+        "txt": "quests/txt/quick/Big_Chompy_Bird_Hunting_Quick_guide.txt"
+      }
+    },
+    "Elemental Workshop I": {
+      "full": {
+        "html": "quests/html/full/Elemental_Workshop_I.html",
+        "txt": "quests/txt/full/Elemental_Workshop_I.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Elemental_Workshop_I_Quick_guide.html",
+        "txt": "quests/txt/quick/Elemental_Workshop_I_Quick_guide.txt"
+      }
+    },
+    "Nature Spirit": {
+      "full": {
+        "html": "quests/html/full/Nature_Spirit.html",
+        "txt": "quests/txt/full/Nature_Spirit.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Nature_Spirit_Quick_guide.html",
+        "txt": "quests/txt/quick/Nature_Spirit_Quick_guide.txt"
+      }
+    },
+    "Priest in Peril": {
+      "full": {
+        "html": "quests/html/full/Priest_in_Peril.html",
+        "txt": "quests/txt/full/Priest_in_Peril.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Priest_in_Peril_Quick_guide.html",
+        "txt": "quests/txt/quick/Priest_in_Peril_Quick_guide.txt"
+      }
+    },
+    "Regicide": {
+      "full": {
+        "html": "quests/html/full/Regicide.html",
+        "txt": "quests/txt/full/Regicide.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Regicide_Quick_guide.html",
+        "txt": "quests/txt/quick/Regicide_Quick_guide.txt"
+      }
+    },
+    "Tai Bwo Wannai Trio": {
+      "full": {
+        "html": "quests/html/full/Tai_Bwo_Wannai_Trio.html",
+        "txt": "quests/txt/full/Tai_Bwo_Wannai_Trio.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Tai_Bwo_Wannai_Trio_Quick_guide.html",
+        "txt": "quests/txt/quick/Tai_Bwo_Wannai_Trio_Quick_guide.txt"
+      }
+    },
+    "Troll Stronghold": {
+      "full": {
+        "html": "quests/html/full/Troll_Stronghold.html",
+        "txt": "quests/txt/full/Troll_Stronghold.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Troll_Stronghold_Quick_guide.html",
+        "txt": "quests/txt/quick/Troll_Stronghold_Quick_guide.txt"
+      }
+    },
+    "Shades of Mort'ton": {
+      "full": {
+        "html": "quests/html/full/Shades_of_Mort%27ton.html",
+        "txt": "quests/txt/full/Shades_of_Mort%27ton.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Shades_of_Mort%27ton_Quick_guide.html",
+        "txt": "quests/txt/quick/Shades_of_Mort%27ton_Quick_guide.txt"
+      }
+    },
+    "The Fremennik Trials": {
+      "full": {
+        "html": "quests/html/full/The_Fremennik_Trials.html",
+        "txt": "quests/txt/full/The_Fremennik_Trials.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Fremennik_Trials_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Fremennik_Trials_Quick_guide.txt"
+      }
+    },
+    "Horror from the Deep": {
+      "full": {
+        "html": "quests/html/full/Horror_from_the_Deep.html",
+        "txt": "quests/txt/full/Horror_from_the_Deep.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Horror_from_the_Deep_Quick_guide.html",
+        "txt": "quests/txt/quick/Horror_from_the_Deep_Quick_guide.txt"
+      }
+    },
+    "Throne of Miscellania": {
+      "full": {
+        "html": "quests/html/full/Throne_of_Miscellania.html",
+        "txt": "quests/txt/full/Throne_of_Miscellania.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Throne_of_Miscellania_Quick_guide.html",
+        "txt": "quests/txt/quick/Throne_of_Miscellania_Quick_guide.txt"
+      }
+    },
+    "Monkey Madness I": {
+      "full": {
+        "html": "quests/html/full/Monkey_Madness_I.html",
+        "txt": "quests/txt/full/Monkey_Madness_I.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Monkey_Madness_I_Quick_guide.html",
+        "txt": "quests/txt/quick/Monkey_Madness_I_Quick_guide.txt"
+      }
+    },
+    "Haunted Mine": {
+      "full": {
+        "html": "quests/html/full/Haunted_Mine.html",
+        "txt": "quests/txt/full/Haunted_Mine.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Haunted_Mine_Quick_guide.html",
+        "txt": "quests/txt/quick/Haunted_Mine_Quick_guide.txt"
+      }
+    },
+    "Troll Romance": {
+      "full": {
+        "html": "quests/html/full/Troll_Romance.html",
+        "txt": "quests/txt/full/Troll_Romance.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Troll_Romance_Quick_guide.html",
+        "txt": "quests/txt/quick/Troll_Romance_Quick_guide.txt"
+      }
+    },
+    "In Search of the Myreque": {
+      "full": {
+        "html": "quests/html/full/In_Search_of_the_Myreque.html",
+        "txt": "quests/txt/full/In_Search_of_the_Myreque.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/In_Search_of_the_Myreque_Quick_guide.html",
+        "txt": "quests/txt/quick/In_Search_of_the_Myreque_Quick_guide.txt"
+      }
+    },
+    "Creature of Fenkenstrain": {
+      "full": {
+        "html": "quests/html/full/Creature_of_Fenkenstrain.html",
+        "txt": "quests/txt/full/Creature_of_Fenkenstrain.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Creature_of_Fenkenstrain_Quick_guide.html",
+        "txt": "quests/txt/quick/Creature_of_Fenkenstrain_Quick_guide.txt"
+      }
+    },
+    "Roving Elves": {
+      "full": {
+        "html": "quests/html/full/Roving_Elves.html",
+        "txt": "quests/txt/full/Roving_Elves.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Roving_Elves_Quick_guide.html",
+        "txt": "quests/txt/quick/Roving_Elves_Quick_guide.txt"
+      }
+    },
+    "Ghosts Ahoy": {
+      "full": {
+        "html": "quests/html/full/Ghosts_Ahoy.html",
+        "txt": "quests/txt/full/Ghosts_Ahoy.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Ghosts_Ahoy_Quick_guide.html",
+        "txt": "quests/txt/quick/Ghosts_Ahoy_Quick_guide.txt"
+      }
+    },
+    "One Small Favour": {
+      "full": {
+        "html": "quests/html/full/One_Small_Favour.html",
+        "txt": "quests/txt/full/One_Small_Favour.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/One_Small_Favour_Quick_guide.html",
+        "txt": "quests/txt/quick/One_Small_Favour_Quick_guide.txt"
+      }
+    },
+    "Mountain Daughter": {
+      "full": {
+        "html": "quests/html/full/Mountain_Daughter.html",
+        "txt": "quests/txt/full/Mountain_Daughter.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Mountain_Daughter_Quick_guide.html",
+        "txt": "quests/txt/quick/Mountain_Daughter_Quick_guide.txt"
+      }
+    },
+    "Between a Rock...": {
+      "full": {
+        "html": "quests/html/full/Between_a_Rock....html",
+        "txt": "quests/txt/full/Between_a_Rock....txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Between_a_Rock..._Quick_guide.html",
+        "txt": "quests/txt/quick/Between_a_Rock..._Quick_guide.txt"
+      }
+    },
+    "The Feud": {
+      "full": {
+        "html": "quests/html/full/The_Feud.html",
+        "txt": "quests/txt/full/The_Feud.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Feud_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Feud_Quick_guide.txt"
+      }
+    },
+    "The Golem": {
+      "full": {
+        "html": "quests/html/full/The_Golem.html",
+        "txt": "quests/txt/full/The_Golem.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Golem_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Golem_Quick_guide.txt"
+      }
+    },
+    "Desert Treasure I": {
+      "full": {
+        "html": "quests/html/full/Desert_Treasure_I.html",
+        "txt": "quests/txt/full/Desert_Treasure_I.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Desert_Treasure_I_Quick_guide.html",
+        "txt": "quests/txt/quick/Desert_Treasure_I_Quick_guide.txt"
+      }
+    },
+    "Icthlarin's Little Helper": {
+      "full": {
+        "html": "quests/html/full/Icthlarin%27s_Little_Helper.html",
+        "txt": "quests/txt/full/Icthlarin%27s_Little_Helper.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Icthlarin%27s_Little_Helper_Quick_guide.html",
+        "txt": "quests/txt/quick/Icthlarin%27s_Little_Helper_Quick_guide.txt"
+      }
+    },
+    "Tears of Guthix": {
+      "full": {
+        "html": "quests/html/full/Tears_of_Guthix.html",
+        "txt": "quests/txt/full/Tears_of_Guthix.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Tears_of_Guthix_Quick_guide.html",
+        "txt": "quests/txt/quick/Tears_of_Guthix_Quick_guide.txt"
+      }
+    },
+    "The Lost Tribe": {
+      "full": {
+        "html": "quests/html/full/The_Lost_Tribe.html",
+        "txt": "quests/txt/full/The_Lost_Tribe.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Lost_Tribe_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Lost_Tribe_Quick_guide.txt"
+      }
+    },
+    "The Giant Dwarf": {
+      "full": {
+        "html": "quests/html/full/The_Giant_Dwarf.html",
+        "txt": "quests/txt/full/The_Giant_Dwarf.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Giant_Dwarf_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Giant_Dwarf_Quick_guide.txt"
+      }
+    },
+    "Recruitment Drive": {
+      "full": {
+        "html": "quests/html/full/Recruitment_Drive.html",
+        "txt": "quests/txt/full/Recruitment_Drive.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Recruitment_Drive_Quick_guide.html",
+        "txt": "quests/txt/quick/Recruitment_Drive_Quick_guide.txt"
+      }
+    },
+    "Mourning's End Part I": {
+      "full": {
+        "html": "quests/html/full/Mourning%27s_End_Part_I.html",
+        "txt": "quests/txt/full/Mourning%27s_End_Part_I.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Mourning%27s_End_Part_I_Quick_guide.html",
+        "txt": "quests/txt/quick/Mourning%27s_End_Part_I_Quick_guide.txt"
+      }
+    },
+    "Forgettable Tale...": {
+      "full": {
+        "html": "quests/html/full/Forgettable_Tale....html",
+        "txt": "quests/txt/full/Forgettable_Tale....txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Forgettable_Tale..._Quick_guide.html",
+        "txt": "quests/txt/quick/Forgettable_Tale..._Quick_guide.txt"
+      }
+    },
+    "Garden of Tranquillity": {
+      "full": {
+        "html": "quests/html/full/Garden_of_Tranquillity.html",
+        "txt": "quests/txt/full/Garden_of_Tranquillity.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Garden_of_Tranquillity_Quick_guide.html",
+        "txt": "quests/txt/quick/Garden_of_Tranquillity_Quick_guide.txt"
+      }
+    },
+    "A Tail of Two Cats": {
+      "full": {
+        "html": "quests/html/full/A_Tail_of_Two_Cats.html",
+        "txt": "quests/txt/full/A_Tail_of_Two_Cats.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/A_Tail_of_Two_Cats_Quick_guide.html",
+        "txt": "quests/txt/quick/A_Tail_of_Two_Cats_Quick_guide.txt"
+      }
+    },
+    "Wanted!": {
+      "full": {
+        "html": "quests/html/full/Wanted!.html",
+        "txt": "quests/txt/full/Wanted!.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Wanted!_Quick_guide.html",
+        "txt": "quests/txt/quick/Wanted!_Quick_guide.txt"
+      }
+    },
+    "Mourning's End Part II": {
+      "full": {
+        "html": "quests/html/full/Mourning%27s_End_Part_II.html",
+        "txt": "quests/txt/full/Mourning%27s_End_Part_II.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Mourning%27s_End_Part_II_Quick_guide.html",
+        "txt": "quests/txt/quick/Mourning%27s_End_Part_II_Quick_guide.txt"
+      }
+    },
+    "Rum Deal": {
+      "full": {
+        "html": "quests/html/full/Rum_Deal.html",
+        "txt": "quests/txt/full/Rum_Deal.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Rum_Deal_Quick_guide.html",
+        "txt": "quests/txt/quick/Rum_Deal_Quick_guide.txt"
+      }
+    },
+    "Shadow of the Storm": {
+      "full": {
+        "html": "quests/html/full/Shadow_of_the_Storm.html",
+        "txt": "quests/txt/full/Shadow_of_the_Storm.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Shadow_of_the_Storm_Quick_guide.html",
+        "txt": "quests/txt/quick/Shadow_of_the_Storm_Quick_guide.txt"
+      }
+    },
+    "Making History": {
+      "full": {
+        "html": "quests/html/full/Making_History.html",
+        "txt": "quests/txt/full/Making_History.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Making_History_Quick_guide.html",
+        "txt": "quests/txt/quick/Making_History_Quick_guide.txt"
+      }
+    },
+    "Ratcatchers": {
+      "full": {
+        "html": "quests/html/full/Ratcatchers.html",
+        "txt": "quests/txt/full/Ratcatchers.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Ratcatchers_Quick_guide.html",
+        "txt": "quests/txt/quick/Ratcatchers_Quick_guide.txt"
+      }
+    },
+    "Spirits of the Elid": {
+      "full": {
+        "html": "quests/html/full/Spirits_of_the_Elid.html",
+        "txt": "quests/txt/full/Spirits_of_the_Elid.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Spirits_of_the_Elid_Quick_guide.html",
+        "txt": "quests/txt/quick/Spirits_of_the_Elid_Quick_guide.txt"
+      }
+    },
+    "Devious Minds": {
+      "full": {
+        "html": "quests/html/full/Devious_Minds.html",
+        "txt": "quests/txt/full/Devious_Minds.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Devious_Minds_Quick_guide.html",
+        "txt": "quests/txt/quick/Devious_Minds_Quick_guide.txt"
+      }
+    },
+    "The Hand in the Sand": {
+      "full": {
+        "html": "quests/html/full/The_Hand_in_the_Sand.html",
+        "txt": "quests/txt/full/The_Hand_in_the_Sand.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Hand_in_the_Sand_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Hand_in_the_Sand_Quick_guide.txt"
+      }
+    },
+    "Enakhra's Lament": {
+      "full": {
+        "html": "quests/html/full/Enakhra%27s_Lament.html",
+        "txt": "quests/txt/full/Enakhra%27s_Lament.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Enakhra%27s_Lament_Quick_guide.html",
+        "txt": "quests/txt/quick/Enakhra%27s_Lament_Quick_guide.txt"
+      }
+    },
+    "Cabin Fever": {
+      "full": {
+        "html": "quests/html/full/Cabin_Fever.html",
+        "txt": "quests/txt/full/Cabin_Fever.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Cabin_Fever_Quick_guide.html",
+        "txt": "quests/txt/quick/Cabin_Fever_Quick_guide.txt"
+      }
+    },
+    "Fairytale I - Growing Pains": {
+      "full": {
+        "html": "quests/html/full/Fairytale_I_-_Growing_Pains.html",
+        "txt": "quests/txt/full/Fairytale_I_-_Growing_Pains.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Fairytale_I_-_Growing_Pains_Quick_guide.html",
+        "txt": "quests/txt/quick/Fairytale_I_-_Growing_Pains_Quick_guide.txt"
+      }
+    },
+    "Recipe for Disaster": {
+      "full": {
+        "html": "quests/html/full/Recipe_for_Disaster.html",
+        "txt": "quests/txt/full/Recipe_for_Disaster.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Recipe_for_Disaster_Quick_guide.html",
+        "txt": "quests/txt/quick/Recipe_for_Disaster_Quick_guide.txt"
+      }
+    },
+    "In Aid of the Myreque": {
+      "full": {
+        "html": "quests/html/full/In_Aid_of_the_Myreque.html",
+        "txt": "quests/txt/full/In_Aid_of_the_Myreque.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/In_Aid_of_the_Myreque_Quick_guide.html",
+        "txt": "quests/txt/quick/In_Aid_of_the_Myreque_Quick_guide.txt"
+      }
+    },
+    "A Soul's Bane": {
+      "full": {
+        "html": "quests/html/full/A_Soul%27s_Bane.html",
+        "txt": "quests/txt/full/A_Soul%27s_Bane.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/A_Soul%27s_Bane_Quick_guide.html",
+        "txt": "quests/txt/quick/A_Soul%27s_Bane_Quick_guide.txt"
+      }
+    },
+    "Rag and Bone Man I": {
+      "full": {
+        "html": "quests/html/full/Rag_and_Bone_Man_I.html",
+        "txt": "quests/txt/full/Rag_and_Bone_Man_I.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Rag_and_Bone_Man_I_Quick_guide.html",
+        "txt": "quests/txt/quick/Rag_and_Bone_Man_I_Quick_guide.txt"
+      }
+    },
+    "Swan Song": {
+      "full": {
+        "html": "quests/html/full/Swan_Song.html",
+        "txt": "quests/txt/full/Swan_Song.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Swan_Song_Quick_guide.html",
+        "txt": "quests/txt/quick/Swan_Song_Quick_guide.txt"
+      }
+    },
+    "Royal Trouble": {
+      "full": {
+        "html": "quests/html/full/Royal_Trouble.html",
+        "txt": "quests/txt/full/Royal_Trouble.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Royal_Trouble_Quick_guide.html",
+        "txt": "quests/txt/quick/Royal_Trouble_Quick_guide.txt"
+      }
+    },
+    "Death to the Dorgeshuun": {
+      "full": {
+        "html": "quests/html/full/Death_to_the_Dorgeshuun.html",
+        "txt": "quests/txt/full/Death_to_the_Dorgeshuun.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Death_to_the_Dorgeshuun_Quick_guide.html",
+        "txt": "quests/txt/quick/Death_to_the_Dorgeshuun_Quick_guide.txt"
+      }
+    },
+    "Fairytale II - Cure a Queen": {
+      "full": {
+        "html": "quests/html/full/Fairytale_II_-_Cure_a_Queen.html",
+        "txt": "quests/txt/full/Fairytale_II_-_Cure_a_Queen.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Fairytale_II_-_Cure_a_Queen_Quick_guide.html",
+        "txt": "quests/txt/quick/Fairytale_II_-_Cure_a_Queen_Quick_guide.txt"
+      }
+    },
+    "Lunar Diplomacy": {
+      "full": {
+        "html": "quests/html/full/Lunar_Diplomacy.html",
+        "txt": "quests/txt/full/Lunar_Diplomacy.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Lunar_Diplomacy_Quick_guide.html",
+        "txt": "quests/txt/quick/Lunar_Diplomacy_Quick_guide.txt"
+      }
+    },
+    "The Eyes of Glouphrie": {
+      "full": {
+        "html": "quests/html/full/The_Eyes_of_Glouphrie.html",
+        "txt": "quests/txt/full/The_Eyes_of_Glouphrie.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Eyes_of_Glouphrie_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Eyes_of_Glouphrie_Quick_guide.txt"
+      }
+    },
+    "Darkness of Hallowvale": {
+      "full": {
+        "html": "quests/html/full/Darkness_of_Hallowvale.html",
+        "txt": "quests/txt/full/Darkness_of_Hallowvale.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Darkness_of_Hallowvale_Quick_guide.html",
+        "txt": "quests/txt/quick/Darkness_of_Hallowvale_Quick_guide.txt"
+      }
+    },
+    "The Slug Menace": {
+      "full": {
+        "html": "quests/html/full/The_Slug_Menace.html",
+        "txt": "quests/txt/full/The_Slug_Menace.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Slug_Menace_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Slug_Menace_Quick_guide.txt"
+      }
+    },
+    "Elemental Workshop II": {
+      "full": {
+        "html": "quests/html/full/Elemental_Workshop_II.html",
+        "txt": "quests/txt/full/Elemental_Workshop_II.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Elemental_Workshop_II_Quick_guide.html",
+        "txt": "quests/txt/quick/Elemental_Workshop_II_Quick_guide.txt"
+      }
+    },
+    "My Arm's Big Adventure": {
+      "full": {
+        "html": "quests/html/full/My_Arm%27s_Big_Adventure.html",
+        "txt": "quests/txt/full/My_Arm%27s_Big_Adventure.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/My_Arm%27s_Big_Adventure_Quick_guide.html",
+        "txt": "quests/txt/quick/My_Arm%27s_Big_Adventure_Quick_guide.txt"
+      }
+    },
+    "Enlightened Journey": {
+      "full": {
+        "html": "quests/html/full/Enlightened_Journey.html",
+        "txt": "quests/txt/full/Enlightened_Journey.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Enlightened_Journey_Quick_guide.html",
+        "txt": "quests/txt/quick/Enlightened_Journey_Quick_guide.txt"
+      }
+    },
+    "Eagles' Peak": {
+      "full": {
+        "html": "quests/html/full/Eagles%27_Peak.html",
+        "txt": "quests/txt/full/Eagles%27_Peak.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Eagles%27_Peak_Quick_guide.html",
+        "txt": "quests/txt/quick/Eagles%27_Peak_Quick_guide.txt"
+      }
+    },
+    "Animal Magnetism": {
+      "full": {
+        "html": "quests/html/full/Animal_Magnetism.html",
+        "txt": "quests/txt/full/Animal_Magnetism.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Animal_Magnetism_Quick_guide.html",
+        "txt": "quests/txt/quick/Animal_Magnetism_Quick_guide.txt"
+      }
+    },
+    "Contact!": {
+      "full": {
+        "html": "quests/html/full/Contact!.html",
+        "txt": "quests/txt/full/Contact!.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Contact!_Quick_guide.html",
+        "txt": "quests/txt/quick/Contact!_Quick_guide.txt"
+      }
+    },
+    "Cold War": {
+      "full": {
+        "html": "quests/html/full/Cold_War.html",
+        "txt": "quests/txt/full/Cold_War.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Cold_War_Quick_guide.html",
+        "txt": "quests/txt/quick/Cold_War_Quick_guide.txt"
+      }
+    },
+    "The Fremennik Isles": {
+      "full": {
+        "html": "quests/html/full/The_Fremennik_Isles.html",
+        "txt": "quests/txt/full/The_Fremennik_Isles.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Fremennik_Isles_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Fremennik_Isles_Quick_guide.txt"
+      }
+    },
+    "The Great Brain Robbery": {
+      "full": {
+        "html": "quests/html/full/The_Great_Brain_Robbery.html",
+        "txt": "quests/txt/full/The_Great_Brain_Robbery.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Great_Brain_Robbery_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Great_Brain_Robbery_Quick_guide.txt"
+      }
+    },
+    "What Lies Below": {
+      "full": {
+        "html": "quests/html/full/What_Lies_Below.html",
+        "txt": "quests/txt/full/What_Lies_Below.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/What_Lies_Below_Quick_guide.html",
+        "txt": "quests/txt/quick/What_Lies_Below_Quick_guide.txt"
+      }
+    },
+    "Olaf's Quest": {
+      "full": {
+        "html": "quests/html/full/Olaf%27s_Quest.html",
+        "txt": "quests/txt/full/Olaf%27s_Quest.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Olaf%27s_Quest_Quick_guide.html",
+        "txt": "quests/txt/quick/Olaf%27s_Quest_Quick_guide.txt"
+      }
+    },
+    "Another Slice of H.A.M.": {
+      "full": {
+        "html": "quests/html/full/Another_Slice_of_H.A.M..html",
+        "txt": "quests/txt/full/Another_Slice_of_H.A.M..txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Another_Slice_of_H.A.M._Quick_guide.html",
+        "txt": "quests/txt/quick/Another_Slice_of_H.A.M._Quick_guide.txt"
+      }
+    },
+    "Dream Mentor": {
+      "full": {
+        "html": "quests/html/full/Dream_Mentor.html",
+        "txt": "quests/txt/full/Dream_Mentor.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Dream_Mentor_Quick_guide.html",
+        "txt": "quests/txt/quick/Dream_Mentor_Quick_guide.txt"
+      }
+    },
+    "Grim Tales": {
+      "full": {
+        "html": "quests/html/full/Grim_Tales.html",
+        "txt": "quests/txt/full/Grim_Tales.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Grim_Tales_Quick_guide.html",
+        "txt": "quests/txt/quick/Grim_Tales_Quick_guide.txt"
+      }
+    },
+    "King's Ransom": {
+      "full": {
+        "html": "quests/html/full/King%27s_Ransom.html",
+        "txt": "quests/txt/full/King%27s_Ransom.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/King%27s_Ransom_Quick_guide.html",
+        "txt": "quests/txt/quick/King%27s_Ransom_Quick_guide.txt"
+      }
+    },
+    "Shilo Village": {
+      "full": {
+        "html": "quests/html/full/Shilo_Village.html",
+        "txt": "quests/txt/full/Shilo_Village.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Shilo_Village_Quick_guide.html",
+        "txt": "quests/txt/quick/Shilo_Village_Quick_guide.txt"
+      }
+    },
+    "Biohazard": {
+      "full": {
+        "html": "quests/html/full/Biohazard.html",
+        "txt": "quests/txt/full/Biohazard.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Biohazard_Quick_guide.html",
+        "txt": "quests/txt/quick/Biohazard_Quick_guide.txt"
+      }
+    },
+    "Tower of Life": {
+      "full": {
+        "html": "quests/html/full/Tower_of_Life.html",
+        "txt": "quests/txt/full/Tower_of_Life.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Tower_of_Life_Quick_guide.html",
+        "txt": "quests/txt/quick/Tower_of_Life_Quick_guide.txt"
+      }
+    },
+    "Rag and Bone Man II": {
+      "full": {
+        "html": "quests/html/full/Rag_and_Bone_Man_II.html",
+        "txt": "quests/txt/full/Rag_and_Bone_Man_II.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Rag_and_Bone_Man_II_Quick_guide.html",
+        "txt": "quests/txt/quick/Rag_and_Bone_Man_II_Quick_guide.txt"
+      }
+    },
+    "Land of the Goblins": {
+      "full": {
+        "html": "quests/html/full/Land_of_the_Goblins.html",
+        "txt": "quests/txt/full/Land_of_the_Goblins.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Land_of_the_Goblins_Quick_guide.html",
+        "txt": "quests/txt/quick/Land_of_the_Goblins_Quick_guide.txt"
+      }
+    },
+    "While Guthix Sleeps": {
+      "full": {
+        "html": "quests/html/full/While_Guthix_Sleeps.html",
+        "txt": "quests/txt/full/While_Guthix_Sleeps.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/While_Guthix_Sleeps_Quick_guide.html",
+        "txt": "quests/txt/quick/While_Guthix_Sleeps_Quick_guide.txt"
+      }
+    },
+    "Zogre Flesh Eaters": {
+      "full": {
+        "html": "quests/html/full/Zogre_Flesh_Eaters.html",
+        "txt": "quests/txt/full/Zogre_Flesh_Eaters.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Zogre_Flesh_Eaters_Quick_guide.html",
+        "txt": "quests/txt/quick/Zogre_Flesh_Eaters_Quick_guide.txt"
+      }
+    },
+    "Monkey Madness II": {
+      "full": {
+        "html": "quests/html/full/Monkey_Madness_II.html",
+        "txt": "quests/txt/full/Monkey_Madness_II.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Monkey_Madness_II_Quick_guide.html",
+        "txt": "quests/txt/quick/Monkey_Madness_II_Quick_guide.txt"
+      }
+    },
+    "Client of Kourend": {
+      "full": {
+        "html": "quests/html/full/Client_of_Kourend.html",
+        "txt": "quests/txt/full/Client_of_Kourend.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Client_of_Kourend_Quick_guide.html",
+        "txt": "quests/txt/quick/Client_of_Kourend_Quick_guide.txt"
+      }
+    },
+    "The Queen of Thieves": {
+      "full": {
+        "html": "quests/html/full/The_Queen_of_Thieves.html",
+        "txt": "quests/txt/full/The_Queen_of_Thieves.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Queen_of_Thieves_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Queen_of_Thieves_Quick_guide.txt"
+      }
+    },
+    "Bone Voyage": {
+      "full": {
+        "html": "quests/html/full/Bone_Voyage.html",
+        "txt": "quests/txt/full/Bone_Voyage.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Bone_Voyage_Quick_guide.html",
+        "txt": "quests/txt/quick/Bone_Voyage_Quick_guide.txt"
+      }
+    },
+    "Dragon Slayer II": {
+      "full": {
+        "html": "quests/html/full/Dragon_Slayer_II.html",
+        "txt": "quests/txt/full/Dragon_Slayer_II.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Dragon_Slayer_II_Quick_guide.html",
+        "txt": "quests/txt/quick/Dragon_Slayer_II_Quick_guide.txt"
+      }
+    },
+    "The Depths of Despair": {
+      "full": {
+        "html": "quests/html/full/The_Depths_of_Despair.html",
+        "txt": "quests/txt/full/The_Depths_of_Despair.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Depths_of_Despair_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Depths_of_Despair_Quick_guide.txt"
+      }
+    },
+    "Recipe for Disaster/Another Cook's Quest": {
+      "full": {
+        "html": "quests/html/full/Recipe_for_Disaster_Another_Cook%27s_Quest.html",
+        "txt": "quests/txt/full/Recipe_for_Disaster_Another_Cook%27s_Quest.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Recipe_for_Disaster_Another_Cook%27s_Quest_Quick_guide.html",
+        "txt": "quests/txt/quick/Recipe_for_Disaster_Another_Cook%27s_Quest_Quick_guide.txt"
+      }
+    },
+    "Recipe for Disaster/Freeing the Goblin generals": {
+      "full": {
+        "html": "quests/html/full/Recipe_for_Disaster_Freeing_the_Goblin_generals.html",
+        "txt": "quests/txt/full/Recipe_for_Disaster_Freeing_the_Goblin_generals.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Recipe_for_Disaster_Freeing_the_Goblin_generals_Quick_guide.html",
+        "txt": "quests/txt/quick/Recipe_for_Disaster_Freeing_the_Goblin_generals_Quick_guide.txt"
+      }
+    },
+    "Recipe for Disaster/Freeing the Mountain Dwarf": {
+      "full": {
+        "html": "quests/html/full/Recipe_for_Disaster_Freeing_the_Mountain_Dwarf.html",
+        "txt": "quests/txt/full/Recipe_for_Disaster_Freeing_the_Mountain_Dwarf.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Recipe_for_Disaster_Freeing_the_Mountain_Dwarf_Quick_guide.html",
+        "txt": "quests/txt/quick/Recipe_for_Disaster_Freeing_the_Mountain_Dwarf_Quick_guide.txt"
+      }
+    },
+    "Recipe for Disaster/Freeing Evil Dave": {
+      "full": {
+        "html": "quests/html/full/Recipe_for_Disaster_Freeing_Evil_Dave.html",
+        "txt": "quests/txt/full/Recipe_for_Disaster_Freeing_Evil_Dave.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Recipe_for_Disaster_Freeing_Evil_Dave_Quick_guide.html",
+        "txt": "quests/txt/quick/Recipe_for_Disaster_Freeing_Evil_Dave_Quick_guide.txt"
+      }
+    },
+    "Recipe for Disaster/Freeing Pirate Pete": {
+      "full": {
+        "html": "quests/html/full/Recipe_for_Disaster_Freeing_Pirate_Pete.html",
+        "txt": "quests/txt/full/Recipe_for_Disaster_Freeing_Pirate_Pete.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Recipe_for_Disaster_Freeing_Pirate_Pete_Quick_guide.html",
+        "txt": "quests/txt/quick/Recipe_for_Disaster_Freeing_Pirate_Pete_Quick_guide.txt"
+      }
+    },
+    "Recipe for Disaster/Freeing the Lumbridge Guide": {
+      "full": {
+        "html": "quests/html/full/Recipe_for_Disaster_Freeing_the_Lumbridge_Guide.html",
+        "txt": "quests/txt/full/Recipe_for_Disaster_Freeing_the_Lumbridge_Guide.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Recipe_for_Disaster_Freeing_the_Lumbridge_Guide_Quick_guide.html",
+        "txt": "quests/txt/quick/Recipe_for_Disaster_Freeing_the_Lumbridge_Guide_Quick_guide.txt"
+      }
+    },
+    "Recipe for Disaster/Freeing Sir Amik Varze": {
+      "full": {
+        "html": "quests/html/full/Recipe_for_Disaster_Freeing_Sir_Amik_Varze.html",
+        "txt": "quests/txt/full/Recipe_for_Disaster_Freeing_Sir_Amik_Varze.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Recipe_for_Disaster_Freeing_Sir_Amik_Varze_Quick_guide.html",
+        "txt": "quests/txt/quick/Recipe_for_Disaster_Freeing_Sir_Amik_Varze_Quick_guide.txt"
+      }
+    },
+    "Recipe for Disaster/Freeing King Awowogei": {
+      "full": {
+        "html": "quests/html/full/Recipe_for_Disaster_Freeing_King_Awowogei.html",
+        "txt": "quests/txt/full/Recipe_for_Disaster_Freeing_King_Awowogei.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Recipe_for_Disaster_Freeing_King_Awowogei_Quick_guide.html",
+        "txt": "quests/txt/quick/Recipe_for_Disaster_Freeing_King_Awowogei_Quick_guide.txt"
+      }
+    },
+    "Recipe for Disaster/Freeing Skrach Uglogwee": {
+      "full": {
+        "html": "quests/html/full/Recipe_for_Disaster_Freeing_Skrach_Uglogwee.html",
+        "txt": "quests/txt/full/Recipe_for_Disaster_Freeing_Skrach_Uglogwee.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Recipe_for_Disaster_Freeing_Skrach_Uglogwee_Quick_guide.html",
+        "txt": "quests/txt/quick/Recipe_for_Disaster_Freeing_Skrach_Uglogwee_Quick_guide.txt"
+      }
+    },
+    "A Taste of Hope": {
+      "full": {
+        "html": "quests/html/full/A_Taste_of_Hope.html",
+        "txt": "quests/txt/full/A_Taste_of_Hope.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/A_Taste_of_Hope_Quick_guide.html",
+        "txt": "quests/txt/quick/A_Taste_of_Hope_Quick_guide.txt"
+      }
+    },
+    "Tale of the Righteous": {
+      "full": {
+        "html": "quests/html/full/Tale_of_the_Righteous.html",
+        "txt": "quests/txt/full/Tale_of_the_Righteous.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Tale_of_the_Righteous_Quick_guide.html",
+        "txt": "quests/txt/quick/Tale_of_the_Righteous_Quick_guide.txt"
+      }
+    },
+    "Making Friends with My Arm": {
+      "full": {
+        "html": "quests/html/full/Making_Friends_with_My_Arm.html",
+        "txt": "quests/txt/full/Making_Friends_with_My_Arm.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Making_Friends_with_My_Arm_Quick_guide.html",
+        "txt": "quests/txt/quick/Making_Friends_with_My_Arm_Quick_guide.txt"
+      }
+    },
+    "Recipe for Disaster/Defeating the Culinaromancer": {
+      "full": {
+        "html": "quests/html/full/Recipe_for_Disaster_Defeating_the_Culinaromancer.html",
+        "txt": "quests/txt/full/Recipe_for_Disaster_Defeating_the_Culinaromancer.txt"
+      }
+    },
+    "Song of the Elves": {
+      "full": {
+        "html": "quests/html/full/Song_of_the_Elves.html",
+        "txt": "quests/txt/full/Song_of_the_Elves.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Song_of_the_Elves_Quick_guide.html",
+        "txt": "quests/txt/quick/Song_of_the_Elves_Quick_guide.txt"
+      }
+    },
+    "The Ascent of Arceuus": {
+      "full": {
+        "html": "quests/html/full/The_Ascent_of_Arceuus.html",
+        "txt": "quests/txt/full/The_Ascent_of_Arceuus.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Ascent_of_Arceuus_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Ascent_of_Arceuus_Quick_guide.txt"
+      }
+    },
+    "The Forsaken Tower": {
+      "full": {
+        "html": "quests/html/full/The_Forsaken_Tower.html",
+        "txt": "quests/txt/full/The_Forsaken_Tower.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Forsaken_Tower_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Forsaken_Tower_Quick_guide.txt"
+      }
+    },
+    "The Fremennik Exiles": {
+      "full": {
+        "html": "quests/html/full/The_Fremennik_Exiles.html",
+        "txt": "quests/txt/full/The_Fremennik_Exiles.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Fremennik_Exiles_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Fremennik_Exiles_Quick_guide.txt"
+      }
+    },
+    "The Curse of Arrav": {
+      "full": {
+        "html": "quests/html/full/The_Curse_of_Arrav.html",
+        "txt": "quests/txt/full/The_Curse_of_Arrav.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Curse_of_Arrav_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Curse_of_Arrav_Quick_guide.txt"
+      }
+    },
+    "Defender of Varrock": {
+      "full": {
+        "html": "quests/html/full/Defender_of_Varrock.html",
+        "txt": "quests/txt/full/Defender_of_Varrock.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Defender_of_Varrock_Quick_guide.html",
+        "txt": "quests/txt/quick/Defender_of_Varrock_Quick_guide.txt"
+      }
+    },
+    "Sins of the Father": {
+      "full": {
+        "html": "quests/html/full/Sins_of_the_Father.html",
+        "txt": "quests/txt/full/Sins_of_the_Father.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Sins_of_the_Father_Quick_guide.html",
+        "txt": "quests/txt/quick/Sins_of_the_Father_Quick_guide.txt"
+      }
+    },
+    "A Kingdom Divided": {
+      "full": {
+        "html": "quests/html/full/A_Kingdom_Divided.html",
+        "txt": "quests/txt/full/A_Kingdom_Divided.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/A_Kingdom_Divided_Quick_guide.html",
+        "txt": "quests/txt/quick/A_Kingdom_Divided_Quick_guide.txt"
+      }
+    },
+    "A Porcine of Interest": {
+      "full": {
+        "html": "quests/html/full/A_Porcine_of_Interest.html",
+        "txt": "quests/txt/full/A_Porcine_of_Interest.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/A_Porcine_of_Interest_Quick_guide.html",
+        "txt": "quests/txt/quick/A_Porcine_of_Interest_Quick_guide.txt"
+      }
+    },
+    "Getting Ahead": {
+      "full": {
+        "html": "quests/html/full/Getting_Ahead.html",
+        "txt": "quests/txt/full/Getting_Ahead.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Getting_Ahead_Quick_guide.html",
+        "txt": "quests/txt/quick/Getting_Ahead_Quick_guide.txt"
+      }
+    },
+    "A Night at the Theatre": {
+      "full": {
+        "html": "quests/html/full/A_Night_at_the_Theatre.html",
+        "txt": "quests/txt/full/A_Night_at_the_Theatre.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/A_Night_at_the_Theatre_Quick_guide.html",
+        "txt": "quests/txt/quick/A_Night_at_the_Theatre_Quick_guide.txt"
+      }
+    },
+    "Beneath Cursed Sands": {
+      "full": {
+        "html": "quests/html/full/Beneath_Cursed_Sands.html",
+        "txt": "quests/txt/full/Beneath_Cursed_Sands.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Beneath_Cursed_Sands_Quick_guide.html",
+        "txt": "quests/txt/quick/Beneath_Cursed_Sands_Quick_guide.txt"
+      }
+    },
+    "Temple of the Eye": {
+      "full": {
+        "html": "quests/html/full/Temple_of_the_Eye.html",
+        "txt": "quests/txt/full/Temple_of_the_Eye.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Temple_of_the_Eye_Quick_guide.html",
+        "txt": "quests/txt/quick/Temple_of_the_Eye_Quick_guide.txt"
+      }
+    },
+    "The Path of Glouphrie": {
+      "full": {
+        "html": "quests/html/full/The_Path_of_Glouphrie.html",
+        "txt": "quests/txt/full/The_Path_of_Glouphrie.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Path_of_Glouphrie_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Path_of_Glouphrie_Quick_guide.txt"
+      }
+    },
+    "Sleeping Giants": {
+      "full": {
+        "html": "quests/html/full/Sleeping_Giants.html",
+        "txt": "quests/txt/full/Sleeping_Giants.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Sleeping_Giants_Quick_guide.html",
+        "txt": "quests/txt/quick/Sleeping_Giants_Quick_guide.txt"
+      }
+    },
+    "The Garden of Death": {
+      "full": {
+        "html": "quests/html/full/The_Garden_of_Death.html",
+        "txt": "quests/txt/full/The_Garden_of_Death.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Garden_of_Death_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Garden_of_Death_Quick_guide.txt"
+      }
+    },
+    "Desert Treasure II - The Fallen Empire": {
+      "full": {
+        "html": "quests/html/full/Desert_Treasure_II_-_The_Fallen_Empire.html",
+        "txt": "quests/txt/full/Desert_Treasure_II_-_The_Fallen_Empire.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Desert_Treasure_II_-_The_Fallen_Empire_Quick_guide.html",
+        "txt": "quests/txt/quick/Desert_Treasure_II_-_The_Fallen_Empire_Quick_guide.txt"
+      }
+    },
+    "Secrets of the North": {
+      "full": {
+        "html": "quests/html/full/Secrets_of_the_North.html",
+        "txt": "quests/txt/full/Secrets_of_the_North.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Secrets_of_the_North_Quick_guide.html",
+        "txt": "quests/txt/quick/Secrets_of_the_North_Quick_guide.txt"
+      }
+    },
+    "Children of the Sun": {
+      "full": {
+        "html": "quests/html/full/Children_of_the_Sun.html",
+        "txt": "quests/txt/full/Children_of_the_Sun.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Children_of_the_Sun_Quick_guide.html",
+        "txt": "quests/txt/quick/Children_of_the_Sun_Quick_guide.txt"
+      }
+    },
+    "Perilous Moons": {
+      "full": {
+        "html": "quests/html/full/Perilous_Moons.html",
+        "txt": "quests/txt/full/Perilous_Moons.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Perilous_Moons_Quick_guide.html",
+        "txt": "quests/txt/quick/Perilous_Moons_Quick_guide.txt"
+      }
+    },
+    "The Ribbiting Tale of a Lily Pad Labour Dispute": {
+      "full": {
+        "html": "quests/html/full/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute.html",
+        "txt": "quests/txt/full/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute_Quick_guide.txt"
+      }
+    },
+    "Twilight's Promise": {
+      "full": {
+        "html": "quests/html/full/Twilight%27s_Promise.html",
+        "txt": "quests/txt/full/Twilight%27s_Promise.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Twilight%27s_Promise_Quick_guide.html",
+        "txt": "quests/txt/quick/Twilight%27s_Promise_Quick_guide.txt"
+      }
+    },
+    "At First Light": {
+      "full": {
+        "html": "quests/html/full/At_First_Light.html",
+        "txt": "quests/txt/full/At_First_Light.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/At_First_Light_Quick_guide.html",
+        "txt": "quests/txt/quick/At_First_Light_Quick_guide.txt"
+      }
+    },
+    "The Heart of Darkness": {
+      "full": {
+        "html": "quests/html/full/The_Heart_of_Darkness.html",
+        "txt": "quests/txt/full/The_Heart_of_Darkness.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Heart_of_Darkness_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Heart_of_Darkness_Quick_guide.txt"
+      }
+    },
+    "Death on the Isle": {
+      "full": {
+        "html": "quests/html/full/Death_on_the_Isle.html",
+        "txt": "quests/txt/full/Death_on_the_Isle.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Death_on_the_Isle_Quick_guide.html",
+        "txt": "quests/txt/quick/Death_on_the_Isle_Quick_guide.txt"
+      }
+    },
+    "Meat and Greet": {
+      "full": {
+        "html": "quests/html/full/Meat_and_Greet.html",
+        "txt": "quests/txt/full/Meat_and_Greet.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Meat_and_Greet_Quick_guide.html",
+        "txt": "quests/txt/quick/Meat_and_Greet_Quick_guide.txt"
+      }
+    },
+    "Ethically Acquired Antiquities": {
+      "full": {
+        "html": "quests/html/full/Ethically_Acquired_Antiquities.html",
+        "txt": "quests/txt/full/Ethically_Acquired_Antiquities.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Ethically_Acquired_Antiquities_Quick_guide.html",
+        "txt": "quests/txt/quick/Ethically_Acquired_Antiquities_Quick_guide.txt"
+      }
+    }
+  },
+  "miniquests": {
+    "Alfred Grimhand's Barcrawl": {
+      "full": {
+        "html": "quests/html/full/Alfred_Grimhand%27s_Barcrawl.html",
+        "txt": "quests/txt/full/Alfred_Grimhand%27s_Barcrawl.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Alfred_Grimhand%27s_Barcrawl_Quick_guide.html",
+        "txt": "quests/txt/quick/Alfred_Grimhand%27s_Barcrawl_Quick_guide.txt"
+      }
+    },
+    "Enter the Abyss": {
+      "full": {
+        "html": "quests/html/full/Enter_the_Abyss.html",
+        "txt": "quests/txt/full/Enter_the_Abyss.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Enter_the_Abyss_Quick_guide.html",
+        "txt": "quests/txt/quick/Enter_the_Abyss_Quick_guide.txt"
+      }
+    },
+    "The General's Shadow": {
+      "full": {
+        "html": "quests/html/full/The_General%27s_Shadow.html",
+        "txt": "quests/txt/full/The_General%27s_Shadow.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_General%27s_Shadow_Quick_guide.html",
+        "txt": "quests/txt/quick/The_General%27s_Shadow_Quick_guide.txt"
+      }
+    },
+    "Barbarian Training": {
+      "full": {
+        "html": "quests/html/full/Barbarian_Training.html",
+        "txt": "quests/txt/full/Barbarian_Training.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Barbarian_Training_Quick_guide.html",
+        "txt": "quests/txt/quick/Barbarian_Training_Quick_guide.txt"
+      }
+    },
+    "Skippy and the Mogres": {
+      "full": {
+        "html": "quests/html/full/Skippy_and_the_Mogres.html",
+        "txt": "quests/txt/full/Skippy_and_the_Mogres.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Skippy_and_the_Mogres_Quick_guide.html",
+        "txt": "quests/txt/quick/Skippy_and_the_Mogres_Quick_guide.txt"
+      }
+    },
+    "Curse of the Empty Lord": {
+      "full": {
+        "html": "quests/html/full/Curse_of_the_Empty_Lord.html",
+        "txt": "quests/txt/full/Curse_of_the_Empty_Lord.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Curse_of_the_Empty_Lord_Quick_guide.html",
+        "txt": "quests/txt/quick/Curse_of_the_Empty_Lord_Quick_guide.txt"
+      }
+    },
+    "Lair of Tarn Razorlor": {
+      "full": {
+        "html": "quests/html/full/Lair_of_Tarn_Razorlor.html",
+        "txt": "quests/txt/full/Lair_of_Tarn_Razorlor.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Lair_of_Tarn_Razorlor_Quick_guide.html",
+        "txt": "quests/txt/quick/Lair_of_Tarn_Razorlor_Quick_guide.txt"
+      }
+    },
+    "Bear Your Soul": {
+      "full": {
+        "html": "quests/html/full/Bear_Your_Soul.html",
+        "txt": "quests/txt/full/Bear_Your_Soul.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Bear_Your_Soul_Quick_guide.html",
+        "txt": "quests/txt/quick/Bear_Your_Soul_Quick_guide.txt"
+      }
+    },
+    "The Enchanted Key": {
+      "full": {
+        "html": "quests/html/full/The_Enchanted_Key.html",
+        "txt": "quests/txt/full/The_Enchanted_Key.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Enchanted_Key_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Enchanted_Key_Quick_guide.txt"
+      }
+    },
+    "Mage Arena I": {
+      "full": {
+        "html": "quests/html/full/Mage_Arena_I.html",
+        "txt": "quests/txt/full/Mage_Arena_I.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Mage_Arena_I_Quick_guide.html",
+        "txt": "quests/txt/quick/Mage_Arena_I_Quick_guide.txt"
+      }
+    },
+    "Family Pest": {
+      "full": {
+        "html": "quests/html/full/Family_Pest.html",
+        "txt": "quests/txt/full/Family_Pest.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Family_Pest_Quick_guide.html",
+        "txt": "quests/txt/quick/Family_Pest_Quick_guide.txt"
+      }
+    },
+    "Mage Arena II": {
+      "full": {
+        "html": "quests/html/full/Mage_Arena_II.html",
+        "txt": "quests/txt/full/Mage_Arena_II.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Mage_Arena_II_Quick_guide.html",
+        "txt": "quests/txt/quick/Mage_Arena_II_Quick_guide.txt"
+      }
+    },
+    "In Search of Knowledge": {
+      "full": {
+        "html": "quests/html/full/In_Search_of_Knowledge.html",
+        "txt": "quests/txt/full/In_Search_of_Knowledge.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/In_Search_of_Knowledge_Quick_guide.html",
+        "txt": "quests/txt/quick/In_Search_of_Knowledge_Quick_guide.txt"
+      }
+    },
+    "Daddy's Home": {
+      "full": {
+        "html": "quests/html/full/Daddy%27s_Home.html",
+        "txt": "quests/txt/full/Daddy%27s_Home.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Daddy%27s_Home_Quick_guide.html",
+        "txt": "quests/txt/quick/Daddy%27s_Home_Quick_guide.txt"
+      }
+    },
+    "The Frozen Door": {
+      "full": {
+        "html": "quests/html/full/The_Frozen_Door.html",
+        "txt": "quests/txt/full/The_Frozen_Door.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/The_Frozen_Door_Quick_guide.html",
+        "txt": "quests/txt/quick/The_Frozen_Door_Quick_guide.txt"
+      }
+    },
+    "Hopespear's Will": {
+      "full": {
+        "html": "quests/html/full/Hopespear%27s_Will.html",
+        "txt": "quests/txt/full/Hopespear%27s_Will.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Hopespear%27s_Will_Quick_guide.html",
+        "txt": "quests/txt/quick/Hopespear%27s_Will_Quick_guide.txt"
+      }
+    },
+    "Into the Tombs": {
+      "full": {
+        "html": "quests/html/full/Into_the_Tombs.html",
+        "txt": "quests/txt/full/Into_the_Tombs.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/Into_the_Tombs_Quick_guide.html",
+        "txt": "quests/txt/quick/Into_the_Tombs_Quick_guide.txt"
+      }
+    },
+    "His Faithful Servants": {
+      "full": {
+        "html": "quests/html/full/His_Faithful_Servants.html",
+        "txt": "quests/txt/full/His_Faithful_Servants.txt"
+      },
+      "quick": {
+        "html": "quests/html/quick/His_Faithful_Servants_Quick_guide.html",
+        "txt": "quests/txt/quick/His_Faithful_Servants_Quick_guide.txt"
+      }
+    }
+  }
+}

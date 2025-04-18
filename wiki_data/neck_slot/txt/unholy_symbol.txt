@@ -1,0 +1,74 @@
+[Weapon: Unholy Symbol]
+
+
+Anunholy symbolis a silver symbol blessed to imbue it with the unholy power ofZamorak. Players can make unholy symbols by using theCraftingskill, with a Crafting level of 17. First, a player must use asilver barwith afurnacewhile they have anunholy mouldin their inventory and must have one free inventory space. This will give the player anunstrung emblemand they will receive 50 Craftingexperience. Next, the player must string the symbol with aball of wool, giving the player 4 Crafting experience and making the item into anunpowered symbol.
+Finally, the symbol must be blessed either by theSpirit of Scorpiusat theScorpius Shrine, north of theObservatory, or by using anUnholy bookorBook of balancewith it. To bless the symbol using one of the books, a player must have aPrayerlevel of 50 or higher, and blessing the symbol makes the player expend(110*CurrentPrayerPoints)+2amount ofPrayerpoints. Once blessed, the unpowered symbol becomes an unholy symbol and gains stat bonuses.
+
+
+[Infobox]
+Released: 17 March2003(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: An unholy symbol of Zamorak.
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 0.007 kg
+Grand Exchange Value: 210 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 1,315
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: +2
+- Ranged: +2
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +8
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Cerberus | 318 | 1 | 5/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Basilisk Knight/Strategies(Ranged/Prayer)
+5 | Commander Zilyana/Strategies(Ranged)
+4 | Dust devil/Strategies(Bursting/Barraging)
+4 | Greater Nechryael/Strategies(Bursting/Barraging)
+5 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+4 | Maniacal monkey/Strategies(Ranged)
+5 | Maniacal monkey/Strategies(Magic - Ice Burst)
+5 | Revenants/Strategies(Magic)
+4 | Revenants/Strategies(Ranged)
+4 | Revenants/Strategies(Melee)
+5 | Scorpia/Strategies(Magic)
+4 | Slayer task/Nechryael(Magic)
+1 | TzHaar Fight Cave/Strategies(Early-game iron)
+3 | Volcanic Mine(Solo)
+3 | Volcanic Mine(Group)
+3 | Zalcano/Strategies(Mining)

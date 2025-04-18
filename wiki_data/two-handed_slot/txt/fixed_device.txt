@@ -1,0 +1,53 @@
+[Weapon: Fixed Device]
+
+
+Thefixed deviceis a Gnome contraption which is used in theMourning's End Part Iquest to shoot dye onFarmer Brumty's sheep. It requires aRangedlevel of 60 to wield. It is carried on the shoulder with both hands. It uses dyed toads as ammo, which players make by fillingogre bellowswith ared,yellow,green, orblue dyeand then using the bellows on aswamp toad. Only one toad may be placed in the device at a time, and the device can only be wielded when filled with ammo. Its only attack modes are "Aim and fire", which the player uses to fire the toads at the sheep, and "Kick" which, as its name implies, is a basic kicking attack.
+If lost, players can re-obtain abroken devicefrom achestin theMourner Headquartersand ask thegnome prisonerto fix it. This will require moreleather,toad crunchiesand anothermagic log. He will still do this after Mourning's End Part I has been completed. Upon finishing theSong of the Elveshowever, fixed devices may be freely taken from the same chest that previously contained broken ones.
+
+
+[Infobox]
+Released: 19 July2005(Update)
+Members: Yes
+Quest item: Mourning's End Part I
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Empty, Drop
+Worn options: Empty
+Examine: A device for firing dye.
+General Store Value: 150 coins
+High alch: 90 coins
+Low alch: 60 coins
+Weight: 4 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Experience | Level boost
+ | Aim and Fire | None | None | 4 ticks (2.4s) | None | None
+ | Kick | Crush | Aggressive |  | +3 Strength

@@ -1,0 +1,46 @@
+[Weapon: Desert Disguise]
+
+
+Thedesert disguiseis used inThe Feudquest. It can be made by combining afake beardand aKharidian headpiece, both of which can be bought fromAli Morrisane's stall just north ofAl Kharid. Upon completing the quest, the disguise can still be created and the materials will still be obtainable.
+Wearing the disguise will delay the onset ofdesert heatby 12 seconds.
+
+
+[Infobox]
+Released: 4 April2005(Update)
+Members: Yes
+Quest item: The Feud
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A disguise suitable for the desert.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.04 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

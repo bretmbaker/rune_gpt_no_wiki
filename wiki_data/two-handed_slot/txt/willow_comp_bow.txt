@@ -1,0 +1,61 @@
+[Weapon: Willow Comp Bow]
+
+
+Willow composite bowsare a reward from EasyTreasure Trails. It requires aRangedlevel of 20 to use and can fire up tomithril arrows. The attack range of the willow composite bow is ten squares.
+The willow composite bow cannot be made using theFletchingskill. It can, however, be obtained through trading with another player.
+
+
+[Infobox]
+Released: 5 December2006(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A powerful bow made from willow wood.
+General Store Value: 300 coins
+High alch: 180 coins
+Low alch: 120 coins
+Weight: 1.8 kg
+Grand Exchange Value: 1,549 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 142
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +22
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 5 ticks (3.0s) | 10 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 4 ticks (2.4s) | 10 tiles |  | None
+ | Longrange | Standard | Longrange | 5 ticks (3.0s) | 10 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 11/3,960 | 

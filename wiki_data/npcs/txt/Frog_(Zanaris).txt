@@ -1,0 +1,2 @@
+Item: Frog (Zanaris)
+Summary: The Frog is a random event that only appears in Zanaris. It appears in a cloud of smoke and initiates an automatic dialogue with your character. After this interaction, it will disappear.

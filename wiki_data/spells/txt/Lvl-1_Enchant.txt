@@ -1,0 +1,149 @@
+[Spell: Lvl-1_Enchant]
+
+Lvl-1 Enchant
+
+
+
+
+
+
+
+Released | 24 May2001(Update)
+
+Members | No
+
+Level | 7
+
+Spellbook | Standard
+
+Type | Utility
+
+Experience | 17.5
+
+Runes | 11
+
+Casting speed | 3 ticks (7 on autocast)
+
+Lectern | Oak
+
+Description | For use on sapphire and opal jewellery
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Lvl-1 Enchantis autility spellin thestandard spellbook, requiring level 7Magicto cast and granting 17.5experience. The spell enchantssapphireandopalitems, primarilyjewellery.
+
+This spell can be transferred to amagic tabletby bringing the required runes and a piece ofsoft clayto alecternin thestudyof aplayer-owned house, granting the same experience as casting the spell.
+
+List of items[edit|edit source]
+
+Free-to-playplayers can only use the spell to enchant thesapphire amulet.
+
+Unenchanted | Enchanted | Profit[e 1]
+
+Item | GEprice | Item | GEprice
+
+ | Sapphire ring | 511 |  | Ring of recoil | 1,121 | 486
+
+ | Sapphire bracelet | 561 |  | Bracelet of clay | 595 | −90
+
+ | Sapphire necklace | 520 |  | Games necklace | 816 | 172
+
+ | Sapphire amulet | 568 |  | Amulet of magic | 714 | 22
+
+ | Silvthrill rod | N/A |  | Silvthrill rod (e) | N/A | N/A
+
+ | Opal ring | 898 |  | Ring of pursuit | 1,160 | 138
+
+ | Opal bracelet | 728 |  | Expeditious bracelet | 1,141 | 289
+
+ | Opal necklace | 961 |  | Dodgy necklace | 1,314 | 229
+
+ | Opal amulet | 619 |  | Amulet of bounty | 785 | 42
+
+Spell costs[edit|edit source]
+
+Input | Cost
+
+11 | 129
+
+Combo runes
+
+11 | 233
+
+11 | 224
+
+11 | 247
+
+Main-hands
+
+1Alt | 124
+
+Off-hands
+
+1 | 124
+
+v•t•eUtility spells
+
+Standard | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxCharge OrbWaterEarthFireAirOtherLow Level AlchemyHigh Level AlchemyTelekinetic GrabSuperheat ItemBones to BananasBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Charge Orb | WaterEarthFireAir | Other | Low Level AlchemyHigh Level AlchemyTelekinetic GrabSuperheat ItemBones to BananasBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Charge Orb | WaterEarthFireAir
+
+Other | Low Level AlchemyHigh Level AlchemyTelekinetic GrabSuperheat ItemBones to BananasBones to Peaches
+
+Arceuus | ReanimationBasicAdeptExpertMasterOfferingDemonicSinisterOtherShadow VeilVile VigourDegrimeResurrect CropsDeath Charge | Reanimation | BasicAdeptExpertMaster | Offering | DemonicSinister | Other | Shadow VeilVile VigourDegrimeResurrect CropsDeath Charge
+
+Reanimation | BasicAdeptExpertMaster
+
+Offering | DemonicSinister
+
+Other | Shadow VeilVile VigourDegrimeResurrect CropsDeath Charge
+
+Lunar | Bake PieGeomancyCure PlantNPC ContactHumidifyHunter KitSpin FlaxSuperglass MakeTan LeatherString JewelleryMagic ImbueFertile SoilPlank MakeRecharge DragonstoneSpellbook Swap
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

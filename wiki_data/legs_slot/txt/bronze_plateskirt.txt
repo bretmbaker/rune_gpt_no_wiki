@@ -1,0 +1,56 @@
+[Weapon: Bronze Plateskirt]
+
+
+Abronze plateskirtis the weakestplateskirtinOld School RuneScape. It has identical stat bonuses to thebronze platelegsbut weighs less. A player with 16Smithingcan make it by using threebronze barson ananvilwhile carrying ahammer, granting 37.5 smithingexperience. They can be bought fromRanael's Super Skirt StoreinAl Kharid.
+
+
+[Infobox]
+Released: 13 February2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Designer leg protection.
+General Store Value: 80 coins
+High alch: 48 coins
+Low alch: 32 coins
+Weight: 8.164 kg
+Grand Exchange Value: 45 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 315
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +7
+- Crush: +6
+- Magic: -4
+- Ranged: +7
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Broken armour | 1 | 1 | 24/200 | 
+Giant skeleton (Tarn's Lair) | 100 | 1 | 5/128 | 
+Skeleton (Tarn's Lair)High level | 81; 87 | 1 | 5/128 | 
+Skeleton (mage) | 94 | 1 | 5/128 | 

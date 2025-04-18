@@ -1,0 +1,47 @@
+[Weapon: Anti-Dragon Shield (Nz)]
+
+
+Ananti-dragon shield (nz)is aNightmare Zoneexclusive version of ananti-dragon shield, and shares its combat stats. It spawns on the ground ifElvargis present in a Nightmare Zone session, as protection against her dragonfire attack.
+As with all items with the (nz) suffix, it cannot be taken outside of the Nightmare Zone, and if discarded, can be retrieved from the same place it spawned.
+
+
+[Infobox]
+Released: 5 September2013(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Bankable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Discard
+Examine: For use in the Nightmare Zone.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 5.443 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +7
+- Slash: +9
+- Crush: +8
+- Magic: +2
+- Ranged: +8
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

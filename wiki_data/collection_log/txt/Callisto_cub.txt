@@ -1,0 +1,5 @@
+Item: Callisto cub
+Summary: 
+Sources:
+- Artio (Level 320, Quantity: 1, Rarity: 1/2,800)
+- Callisto (Level 470, Quantity: 1, Rarity: 1/1,500)

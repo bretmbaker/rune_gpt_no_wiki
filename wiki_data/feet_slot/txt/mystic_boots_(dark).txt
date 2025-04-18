@@ -1,0 +1,55 @@
+[Weapon: Mystic Boots (Dark)]
+
+
+Mystic boots (dark)are an item part of theMystic robes setworn in the feet slot. They are a type of foot armour for mages. It comes in blue, white and black, but all offer the same bonuses. All mystic items require 40Magicand 20Defenceto wear. The dark mystic boots can be bought from other players or rarely dropped byInfernal Mages, which require 45 Slayer to kill. It can be stored in amagic wardrobein a player-owned house.
+Despite not being a typical magical item,silly jester bootsgives a greater magic defence bonus but don't have a magic attack bonus, so mystic boots are still usually a good choice overall.
+
+
+[Infobox]
+Released: 26 January2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Dark magical boots.
+General Store Value: 10,000 coins
+High alch: 6,000 coins
+Low alch: 4,000 coins
+Weight: 0.453 kg
+Grand Exchange Value: 100,451 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 156
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Infernal Mage | 66 | 1 | 1/512 | 
+Malevolent Mage | 162 | 1 | 1/512 | 

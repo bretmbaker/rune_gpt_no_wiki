@@ -1,0 +1,58 @@
+Name: Chicken
+Combat Level: 1
+Size: 1x1
+Info:
+- Description: Yep. Definitely a chicken.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 3 xp
+- Category: Birds
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 1173,1174,10495,10496,9488,10494,10497
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guide is available for Chicken:
+
+Notable Drops:
+- Clue scroll (beginner) (1/300)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 3
+Attack: 1
+Strength: 1
+Defence: 1
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: -47
+Strength bonus: -42
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: -42
+Slash: -42
+Crush: -42
+
+[Magic defence]
+Magic: -42
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: -42
+Standard: -42
+Heavy: -42

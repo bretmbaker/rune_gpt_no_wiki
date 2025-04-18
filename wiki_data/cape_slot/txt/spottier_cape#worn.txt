@@ -1,0 +1,60 @@
+[Weapon: Spottier Cape#Worn]
+
+
+Aspottier capeis aweight-reducing itemrequiring 66Hunterto be equipped, reducingweightby 4.535 kg. While this item provides a greater weight-reduction than thegraceful cape, it does not boost the player'srun energyrestoration rate.
+To make it, twodashing kebbit fursand800coins must be brought to theFancy Clothes Storein south-easternVarrock; doing so and then equipping the cape is ahard Varrock Diarytask. Alternatively bring two dashing kebbit furs and800coins toPellemin theHunter Guildor toPrifddinas' Seamstress.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A really surprisingly aerodynamic cape.
+General Store Value: 800 coins
+High alch: 480 coins
+Low alch: 320 coins
+Weight: 0.453 kg
+Grand Exchange Value: 648 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 221
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +1
+- Magic: +0
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyss/Strategies(Defence)
+3 | Blast mine/Strategies
+2 | Fishing Trawler/Strategies
+4 | Guardians of the Rift/Strategies(Runecrafting)
+2 | Hallowed Sepulchre/Strategies(Agility)
+2 | Sorceress's Garden
+4 | Zalcano/Strategies(Mining)

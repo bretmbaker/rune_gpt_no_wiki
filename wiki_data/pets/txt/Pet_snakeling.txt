@@ -1,0 +1,91 @@
+[Pet: Pet_snakeling]
+
+ThePet snakelingis a pet dropped byZulrah. It resembles the appearance of thesnakelingsthatZulrahsummons during the fight. Players can right click "Metamorphosis"to change it between its normal, magma, or tanzanite form.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Zulrah | 725 | 1 | 1/4,000 | 
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+30 June2016(update) | The pet item could no longer be turned into a bank placeholder.
+
+9 April2015(update) | "Talk-to" was made the left-click option instead of "Pick-up".
+
+15 January2015(update) | Pet snakelings were given agraphical updateto resemble Zulrah instead of a recolouredsea snake, and was given the ability to metamorphose between three forms.
+
+Gallery (historical)[edit|edit source]
+
+ | 
+
+ | 
+
+ | 
+
+8 January 2015 -15 January 2015 | 15 January 2015 –present
+
+Trivia[edit|edit source]
+
+When stored in a POHMenagerie, the snakeling will periodically change between its three forms when allowed to roam.
+
+v•t•eZulrah
+
+Monsters | ZulrahSnakeling
+
+Signature drops | Zulrah's scalesJar of swampPet snakelingZul-andra teleportSerpentine visageFangsTanzaniteMagicMutagensMagmaTanzanite |  | Zulrah's scalesJar of swampPet snakelingZul-andra teleportSerpentine visage | Fangs | TanzaniteMagic | Mutagens | MagmaTanzanite
+
+ | Zulrah's scalesJar of swampPet snakelingZul-andra teleportSerpentine visage
+
+Fangs | TanzaniteMagic
+
+Mutagens | MagmaTanzanite
+
+Equipment | Toxic blowpipeToxic staff of the deadTrident of the swamp(e)HelmsSerpentineMagmaTanzanite |  | Toxic blowpipeToxic staff of the deadTrident of the swamp(e) | Helms | SerpentineMagmaTanzanite
+
+ | Toxic blowpipeToxic staff of the deadTrident of the swamp(e)
+
+Helms | SerpentineMagmaTanzanite
+
+Other | StrategiesHigh Priestess Zul-HarcinqaPriestess Zul-GwenwynigAnti-venomAnti-venom+
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan

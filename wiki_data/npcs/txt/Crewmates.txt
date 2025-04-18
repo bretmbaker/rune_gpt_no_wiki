@@ -1,0 +1,2 @@
+Item: Crewmates
+Summary: Crewmates are a planned feature for Sailing, whereby the player may recruit certain NPCs to assist them in operating various facilities of their boat and loading or unloading cargo. They were not implemented in the March 2025 Sailing Alpha.

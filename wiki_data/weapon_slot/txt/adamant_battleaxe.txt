@@ -1,0 +1,102 @@
+[Weapon: Adamant Battleaxe]
+
+
+Theadamant battleaxeis abattleaxethat is stronger than amithril battleaxe, but weaker than arune battleaxe. As with alladamant weapons, anAttacklevel of at least 30 is required in order to wield it.
+Players are able to obtain adamant battleaxes via trading with players, monster drops, or purchasing it atBrian's Battleaxe Bazaar(located inPort Sarim). It may also be a reward from aclue scroll. At level 80Smithing, players can use 3adamant barsto smith an adamant battleaxe, granting 187.5 experience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A vicious looking axe.
+General Store Value: 4,160 coins
+High alch: 2,496 coins
+Low alch: 1,664 coins
+Weight: 3.175 kg
+Grand Exchange Value: 2,301 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 20,909
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -2
+- Slash: +31
+- Crush: +26
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +41
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Hack | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Angry barbarian spirit | 166 | 1 | 1/128 | 
+AraxyteLevel 96 | 96 | 1 | 5/127 | 
+AraxyteLevel 146 | 146 | 2 | 5/127 | 
+Berserk barbarian spirit | 166 | 1 | 1/128 | 
+Black demonWilderness Slayer Cave | 188 | 1 | 2/74 | 
+Black dragonWilderness Slayer Cave | 247 | 1 | 3/128 | 
+Chilled jelly | 112 | 1 | 11/128 | 
+Dreadborn Araxyte | 281 | 2 | 3 × 5/127 | 
+Enraged barbarian spirit | 166 | 1 | 1/128 | 
+Fever spider | 49 | 1 | 1/36 | 
+Giant skeleton (Tarn's Lair) | 100 | 1 | 1/128 | 
+Greater NechryaelRegular | 200 | 1 | 5/128 | 
+Greater NechryaelWilderness Slayer Cave | 200 | 1 | 5/112 | 
+Greater demonWilderness Slayer Cave | 104 | 1 | 2/41 | 
+Iron dragon | 189; 215 | 1 | 3/128 | 
+JellyWilderness Slayer Cave | 78 | 1 | 11/64 | 
+Long-tailed Wyvern | 152 | 1 | 2/123 | 
+Magic axe | 42 | 1 | 4/500 | 
+NechryarchGreater | 300 | 1 | 3 × 5/128 | 
+Nuclear smoke devil | 280 | 1 | 3 × 3/128 | 
+Reward casket (medium) | N/A | 1 | 10/341 | 
+Shadow Wyrm | 267 | 1 | 3 × 2/76 | 
+Silver Chest (black) | N/A | 1 | 3/152.6;3/148.88 | 
+Silver Chest (brown) | N/A | 1 | 3/152.46;3/148.74 | 
+Silver Chest (crimson) | N/A | 1 | 3/152.53;3/148.81 | 
+Silver Chest (purple) | N/A | 1 | 3/152.67;3/148.95 | 
+Silver Chest (red) | N/A | 1 | 3/152.39;3/148.68 | 
+Skeleton (Tarn's Lair)High level | 81; 87 | 1 | 1/128 | 
+Skeleton (mage) | 94 | 1 | 1/128 | 
+Skeleton brute | 132 | 1 | 1/128 | 
+Skeleton heavy | 132 | 1 | 1/128 | 
+Skeleton hero | 149 | 1 | 1/128 | 
+Skeleton thug | 132 | 1 | 1/128 | 
+Skeleton warlord | 132 | 1 | 1/128 | 
+Smoke devil | 160 | 1 | 3/128 | 
+Spiritual warrior | 115–158 | 1 | 2/127 | 
+Spitting Wyvern | 139 | 1 | 2/123 | 
+Taloned Wyvern | 147 | 1 | 2/123 | 
+Vitreous warped Jelly | 241 | 1 | 3 × 11/128 | 
+Warped Jelly | 112 | 1 | 11/128 | 
+Wyrm | 99 | 1 | 2/76 | 

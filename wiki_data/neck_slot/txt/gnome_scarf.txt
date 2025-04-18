@@ -1,0 +1,54 @@
+[Weapon: Gnome Scarf]
+
+
+Thegnome scarfis a possible reward from theGnome Restaurantactivity. Players have a 1/17 chance of receiving this fromCaptain DaerkinandCaptain Ninto.[1]The scarf has no stats, but it can function aswarm clothingin Wintertodt reducing damage taken, and is the only tradeable neck slot item to do so. It is often used for fashion purposes.
+
+
+[Infobox]
+Released: 7 August2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A scarf. You feel your upper lip stiffening.
+General Store Value: 1,000 coins
+High alch: 600 coins
+Low alch: 400 coins
+Weight: 0.01 kg
+Grand Exchange Value: 521,518 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 179
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Captain Daerkin | N/A | 1 | 23/384 | &
+Captain Ninto | N/A | 1 | 23/384 | &

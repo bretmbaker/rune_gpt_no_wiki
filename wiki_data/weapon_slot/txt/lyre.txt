@@ -1,0 +1,62 @@
+[Weapon: Lyre]
+
+
+Alyreis crafted by a player duringThe Fremennik Trialsquest. The lyre is needed in the quest to perform in the longhall to getOlaf the Bard's vote to become aFremennik.
+The lyre can then be enchanted byFossegrimento make anenchanted lyreand progress with the quest.
+
+
+[Infobox]
+Released: 2 November2004(Update)
+Members: Yes
+Quest item: The Fremennik Trials
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Play, Equip, Drop
+Examine: It's a musical instrument I don't know how to play.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Punch | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Kick | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Borrokar | 48 | 1 | 30/512 | 
+Freidir | 48 | 1 | 30/512 | 
+Jennella | 48 | 1 | 30/512 | 
+Lanzig | 48 | 1 | 30/512 | 
+Lensa | 48 | 1 | 30/512 | 

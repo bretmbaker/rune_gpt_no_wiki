@@ -1,0 +1,2 @@
+Item: Tsunami
+Summary: Tsunami is one of the attacks used by Galvek at the end of the Dragon Slayer II quest, after he has entered his third phase. When using this attack, Galvek will send out a tsunami wall with one tile missing, which can be used to dodge the attack. If the attack is not dodged, the tsunami will deal up to 109+ damage.

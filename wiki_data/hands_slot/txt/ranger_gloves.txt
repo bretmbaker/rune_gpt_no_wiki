@@ -1,0 +1,68 @@
+[Weapon: Ranger Gloves]
+
+
+Ranger glovesare a piece ofRanged armourthat can be obtained by completingeliteTreasure Trails. It's part of theranger kitand at least 40Rangedis required to wear these gloves, with noDefencerequirement.
+Their attack bonuses match those of a set ofblack d'hide vambraces, however, their defensive stats are significantly lower.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Lightweight gloves ideal for rangers.
+General Store Value: 3,400 coins
+High alch: 2,040 coins
+Low alch: 1,360 coins
+Weight: 0.226 kg
+Grand Exchange Value: 492,042 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 208
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +11
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +2
+- Crush: +1
+- Magic: +2
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/1,275 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Ancient Wyvern/Strategies(Ranged)
+2 | Barbarian Assault/Strategies(Ranged (mid level))
+4 | Basilisk Knight/Strategies(Ranged/Prayer)
+4 | Basilisk Knight/Strategies(Ranged)
+4 | Corporeal Beast/Strategies(Ranged masses)
+4 | The Mimic/Strategies(Ranged)
+5 | Nightmare Zone/Strategies(Ranged)
+3 | Skotizo/Strategies(Ranged)
+5 | Slayer task/Fossil Island wyverns(Ranged)
+5 | Vorkath/Strategies(Ranged (crossbow))

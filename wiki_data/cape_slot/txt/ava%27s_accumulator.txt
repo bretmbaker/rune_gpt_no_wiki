@@ -1,0 +1,127 @@
+[Weapon: Ava%27S Accumulator]
+
+
+Ava's accumulatoris an item awarded to the player by completing the questAnimal Magnetismif the player is above level 50Ranged(players with lower than 50 Ranged will instead receiveAva's attractor). It is equipped in thecape slot, can pick up a player's ranged ammunition after they fire it, and every 3.5 minutes, will attract an assortment of metal ammunition. The accumulator gives the fourth best Ranged attack bonus for thecape slot.
+Like all ofAva's devices, the accumulator will not work when metal torso armour (Ahrim's top included) is worn, as this will cause 'interference'. A list of metal torso armour that doesnotinterfere with Ava's accumulator can be foundhere.
+
+
+[Infobox]
+Released: 12 December2006(Update)
+Members: Yes
+Quest item: Animal Magnetism
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Commune, Drop
+Worn options: Commune
+Examine: A superior bagged chicken ready to serve you, magnet in claw.
+General Store Value: 1,000 coins
+Alchemy: Not alchemisable
+Weight: 4.535 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +4
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +4
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Adamant dragon/Strategies(Ranged)
+4 | Alchemical Hydra/Strategies(Ranged)
+3 | Ancient Wyvern/Strategies(Ranged)
+2 | Artio/Strategies(Ranged)
+1 | Aviansie/Strategies(Ranged - Low Risk)
+3 | Aviansie/Strategies(Ranged)
+3 | Barbarian Assault/Strategies(Ranged (high level))
+1 | Barbarian Assault/Strategies(Ranged (mid level))
+3 | Barrows/Strategies(Ranged (Ahrim))
+3 | Brutal black dragon/Strategies(Ranged)
+2 | Callisto/Strategies(Ranged)
+4 | Cerberus/Strategies(Ranged)
+3 | Chambers of Xeric/Challenge Mode(Ranged)
+3 | Chambers of Xeric/Challenge Mode/Strategies(Ranged)
+3 | Chambers of Xeric/Strategies(Ranged)
+3 | Chaos Elemental/Strategies(Ranged)
+3 | Chaos Fanatic/Strategies(Ranged)
+3 | Chompy bird hunting/Strategy
+2 | Chompy bird hunting/Strategy
+4 | Commander Zilyana/Strategies(Ranged)
+3 | Corporeal Beast/Strategies(Ranged masses)
+3 | Dagannoth Kings/Strategies(Range)
+4 | Demonic gorilla/Strategies(upgrades and downgrades)
+3 | Drake/Strategies(Ranged)
+1 | Ecumenical key/Strategies(Ranged)
+4 | Galvek Speed-Trialist(Melee)
+3 | General Graardor/Strategies(Solo (Ranged 6:0))
+5 | General Graardor/Strategies(Ranged Attacker)
+5 | General Graardor/Strategies(Solo (Ranged 7:0))
+3 | Green dragon/Strategies(Ranged)
+3 | Grotesque Guardians/Strategies(Ranged switches)
+5 | Hunter training(Dinh's bulwark)
+5 | Hunter training(Staff of the dead)
+4 | K'ril Tsutsaroth/Strategies(Ranged)
+3 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+2 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+4 | Kalphite Queen/Strategies(High DPS (Phase Two))
+3 | King Black Dragon/Strategies(Ranged)
+3 | King Black Dragon/Strategies(Crossbow)
+3 | King Black Dragon/Strategies(Ranged BIS smuggle)
+5 | Kree'arra/Strategies(Chinchompas)
+3 | Krystilia/Strategies(Ranged)
+4 | Lava dragon/Strategies(Ranged)
+3 | The Leviathan/Strategies(Ranged)
+5 | Lizardman shaman/Strategies(Ranged)
+3 | Metal dragons/Strategies(Ranged)
+3 | The Mimic/Strategies(Ranged)
+4 | Mithril dragon/Strategies(Ranged)
+3 | Nightmare Zone/Strategies(Ranged)
+2 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+3 | Phantom Muspah/Strategies(Ranged)
+3 | Phantom Muspah/Strategies(Magic & Ranged)
+3 | Revenants/Strategies(Ranged)
+2 | Royal Titans/Strategies(Mid-game)
+3 | Royal Titans/Strategies(Minimal gear switching)
+4 | Rune dragon/Strategies(Ranged)
+4 | Scurrius/Strategies(Range (high level))
+1 | Scurrius/Strategies(Range (mid level))
+3 | Skeleton (Ape Atoll)(Ranged)
+3 | Skotizo/Strategies(Ranged)
+3 | Slayer task/Abyssal demons(Ranged)
+3 | Slayer task/Fossil Island wyverns(Ranged)
+3 | Slayer task/Gargoyles(Ranged)
+3 | Slayer task/Jellies(Ranged)
+3 | Slayer task/Suqah(Ranged (North))
+4 | Slayer task/Wyrms(Ranged)
+3 | Slayer training(Ranged)
+2 | Slayer training(Ranged (Wilderness))
+2 | Spindel/Strategies(Ranged)
+3 | Tombs of Amascut/Strategies(Ranged switch)
+3 | Tormented Demon/Strategies(Ranged switch)
+2 | TzHaar Fight Cave/Strategies(Pure)
+1 | TzHaar Fight Cave/Strategies(Early-game iron)
+4 | Ultimate Ironman Guide/Equipment
+2 | Venenatis/Strategies(Ranged)
+3 | Vorkath/Strategies(Ranged (crossbow))
+3 | Zulrah/Strategies(Ranged)

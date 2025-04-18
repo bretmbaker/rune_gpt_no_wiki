@@ -1,0 +1,4 @@
+Item: Ultor vestige
+Summary: The ultor vestige is an item dropped by Vardorvis.
+Sources:
+- Vardorvis (Level 572; 784; 1136, Quantity: 1, Rarity: 1/1,088)

@@ -1,0 +1,73 @@
+Name: Icefiend
+Combat Level: 13
+Size: 1x1
+Info:
+- Description: A small ice demon.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 15 xp
+- Category: Icefiends
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4813
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Air rune (1/128)
+- Nothing (1/85.49; Never[d 1])
+- Uncut sapphire (1/170.67; 1/86.67[d 2])
+- Uncut emerald (1/341.33; 1/173.33[d 2])
+- Uncut ruby (1/682.67; 1/346.67[d 2])
+- Uncut diamond (1/2,730.67; 1/1,386.67[d 2])
+- Chaos talisman (1/1,820.44; 1/924.44[d 2][d 3])
+- Nature talisman (1/1,820.44; 1/924.44[d 2][d 3])
+- Loop half of key (1/5,461.33; 1/2,773.33[d 2])
+- Tooth half of key (1/5,461.33; 1/2,773.33[d 2])
+- Rune javelin (1/5,461.33; 1/2,773.33[d 2])
+- Rune spear (1/87,381.33; 1/5,200[d 2][d 4])
+- Shield left half (1/174,762.67; 1/10,400[d 2][d 4])
+- Dragon spear (1/233,016.89; 1/13,866.67[d 2][d 4])
+- Looting bag (1/8[d 1])
+- Ecumenical key (1/60–1/40[d 2][d 3])
+- Clue scroll (easy) (1/128; 1/64[d 5][d 4][1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 15
+Attack: 10
+Strength: 10
+Defence: 12
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: 100% weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

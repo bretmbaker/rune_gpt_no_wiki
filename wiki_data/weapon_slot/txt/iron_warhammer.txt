@@ -1,0 +1,76 @@
+[Weapon: Iron Warhammer]
+
+
+Theiron warhammeris awarhammerstronger than thebronze warhammer. It can be wielded at level 1Strength. Players can make an iron warhammer with theSmithingskillat level 24 using 3iron bars, giving 75 Smithingexperience.
+One spawns in the ruined castle near the bandits just south-west of the HosidiusMess.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: I don't think it's intended for joinery.
+General Store Value: 173 coins
+High alch: 103 coins
+Low alch: 69 coins
+Weight: 1.814 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 24 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 14,701
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: -4
+- Crush: +11
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +11
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black Guard Berserker | 66 | 1 | 6/128 | 
+Black GuardLevel 48 | 48 | 1 | 6/128 | 
+Borrokar | 48 | 1 | 70/512 | 
+Freidir | 48 | 1 | 70/512 | 
+Giant skeleton (Tarn's Lair) | 100 | 1 | 5/128 | 
+Jennella | 48 | 1 | 70/512 | 
+Jungle horror | 70 | 1 | 18/129 | 
+Lanzig | 48 | 1 | 70/512 | 
+Lensa | 48 | 1 | 70/512 | 
+Market Guard | 48 | 1 | 6/128 | 
+Skeleton (Tarn's Lair)Low level | 42; 59 | 1 | 2/128 | 
+Skeleton (Tarn's Lair)High level | 81; 87 | 1 | 5/128 | 
+Skeleton (mage) | 94 | 1 | 5/128 | 
+Warrior (Rellekka) | 48 | 1 | 6/128 | 
+Zombie (Tarn's Lair)Low level | 40–56 | 1 | 2/128 | 

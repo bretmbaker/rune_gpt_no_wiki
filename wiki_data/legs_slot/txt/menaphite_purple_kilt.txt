@@ -1,0 +1,49 @@
+[Weapon: Menaphite Purple Kilt]
+
+
+TheMenaphite purple kiltis part of theMenaphite clothingset. Wearing it will delay the onset ofdesert heatby 12 seconds.
+Players can obtain this kilt during, and after, theRogue Traderminiquest by trading withAli Morrisaneafter givingSiamunthreedyesof any colour.
+
+
+[Infobox]
+Released: 15 August2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Look at those nobbily knees.
+General Store Value: 20 coins
+High alch: 12 coins
+Low alch: 8 coins
+Weight: 0.005 kg
+Grand Exchange Value: 1,028 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 49
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

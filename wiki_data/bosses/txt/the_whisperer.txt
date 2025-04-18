@@ -1,0 +1,99 @@
+Name: The Whisperer
+Combat Level: 791
+Size: 3x3
+Info:
+- Description: Dare you face the shadows?
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 900 xp
+- Category: Bosses
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Thralls: Not immune
+- Monster ID: 12204,12205
+- Link: MOID
+
+Location:
+- Area: Lassar Undercity - Sunken Cathedral
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for The Whisperer:
+
+Notable Drops:
+- Bellator vestige (1/512[d 1])
+- Siren's staff (1/512)
+- Virtus mask (1/1,536)
+- Virtus robe top (1/1,536)
+- Virtus robe bottom (1/1,536)
+- Sirenic tablet (1/26.2[d 1])
+- Awakener's orb (1/34.5)
+- Shadow quartz (1/209.3[d 2])
+- Ancient brew(2) (1/5.5)
+- Prayer potion(3) (1/5.5)
+- Manta ray (1/5.5)
+- Bronze longsword (1/100)
+- Mithril longsword (1/100)
+- Adamant longsword (1/100)
+- Dragon plateskirt (1/100)
+- Pure essence (1/100)
+- Iron ore (1/100)
+- Gold ore (1/100)
+- Mithril ore (1/100)
+- Sapphire (1/100)
+- Emerald (1/100)
+- Ruby (1/100)
+- Raw monkfish (1/100)
+- Water rune (1/100)
+- Chaos rune (1/100)
+- Brimstone key (1/50[d 1])
+- Clue scroll (easy) (1/160)
+- Clue scroll (medium) (1/160)
+- Clue scroll (hard) (1/160)
+- Clue scroll (elite) (1/160)
+- Wisp (1/2,000)
+
+Combat Achievements:
+- Whisperer Speed-Trialist: Kill the Whisperer in less than 3:00 without a slayer task. (Elite (4 pts))
+- Tentacular: Kill the Whisperer whilst only being on the Arceuus spellbook. (Elite (4 pts))
+- Whisperer Adept: Kill the Whisperer once. (Elite (4 pts))
+- Whisperer Master: Kill the Whisperer 50 times. (Master (5 pts))
+- Whisperer Speed-Chaser: Kill the Whisperer in less than 2:25 without a slayer task. (Master (5 pts))
+- Perfect Whisperer: Kill the Whisperer without taking avoidable damage 5 times without leaving. (Master (5 pts))
+- Whispered: Kill the Awakened Whisperer. (Grandmaster (6 pts))
+- Whisperer Speed-Runner: Kill the Whisperer in less than 2:05 without a slayer task. (Grandmaster (6 pts))
+- Dark Memories: Kill the Whisperer whilst spending less than 6 seconds in the pre-enrage shadow realm. (Grandmaster (6 pts))
+
+[Combat stats]
+Hitpoints: 900
+Attack: 280
+Strength: 280
+Defence: 250
+Magic: 180
+Ranged: 180
+
+[Aggressive stats]
+Attack bonus: 140
+Strength bonus: 30
+Magic attack bonus: 190
+Magic strength bonus: 58
+Ranged attack bonus: 160
+Ranged strength bonus: 70
+
+[Melee defence]
+Stab: 180
+Slash: 300
+Crush: 220
+
+[Magic defence]
+Magic: 10
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 300
+Standard: 300
+Heavy: 300

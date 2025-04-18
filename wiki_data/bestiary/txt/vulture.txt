@@ -1,0 +1,57 @@
+Name: Vulture
+Combat Level: 31
+Size: 2x2
+Info:
+- Description: If you see them circling: run.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 10 xp
+- Category: Birds
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 1267
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Vulture wing (1/4[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 10
+Attack: 40
+Strength: 40
+Defence: 10
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

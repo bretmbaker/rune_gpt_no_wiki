@@ -1,0 +1,1 @@
+Ajug of bad wineis obtained when a player attempts to fermentgrapesorZamorak's grapesand fails, similar to burning food. To ferment grapes, aCookinglevel of at least 35 is needed. Fermenting grapes is no longer failed at a cooking level of 68, while Zamorak's grapes cease to fail at level 98.

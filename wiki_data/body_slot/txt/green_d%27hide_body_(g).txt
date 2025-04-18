@@ -1,0 +1,54 @@
+[Weapon: Green D%27Hide Body (G)]
+
+
+Agreen d'hide body (g)is part of thegreen d'hide gold-trimmed armourset, along withgreen d'hide chaps (g). Its stats are identical to agreen d'hide body, but it has a gold trim. To wear a green dragonhide body (g), a player must have 40Rangedand 40Defence, and must have completed theDragon Slayer Iquest.
+This item is a reward frommediumTreasure Trails. Unlike normaldragonhide armour, this item cannot be made viaCraftingor any other skill.
+
+
+[Infobox]
+Released: 20 February2006(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Made from 100% real dragonhide. With colourful trim!
+General Store Value: 7,800 coins
+High alch: 4,680 coins
+Low alch: 3,120 coins
+Weight: 6.803 kg
+Grand Exchange Value: 6,384 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 170
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: +15
+
+Defence Bonuses:
+- Stab: +18
+- Slash: +27
+- Crush: +24
+- Magic: +20
+- Ranged: +35
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 

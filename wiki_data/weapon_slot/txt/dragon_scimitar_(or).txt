@@ -1,0 +1,54 @@
+[Weapon: Dragon Scimitar (Or)]
+
+
+Thedragon scimitar (or)is adragon scimitarwith adragon scimitar ornament kitattached to it. The attached ornament kit gives no additional bonuses, and is only used to add aesthetics to the scimitar. It costs277,462for both the parts to make the dragon scimitar (or). It can only be wielded by players who have 60Attackand have completed theMonkey Madness Iquest. It also shares similar bonuses withViggora's chainmace, with the chainmace being acrush weaponrather than aslash weapon.
+While the scimitar is untradeable in its ornamented state, it can be dismantled anytime, returning the tradeable scimitar and ornament kit.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle
+Examine: A vicious, curved and stylish sword.
+General Store Value: 100,000 coins
+High alch: 60,000 coins
+Low alch: 40,000 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +8
+- Slash: +67
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +66
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence

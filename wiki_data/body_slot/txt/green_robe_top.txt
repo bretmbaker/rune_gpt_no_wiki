@@ -1,0 +1,48 @@
+[Weapon: Green Robe Top]
+
+
+Agreen robe topcan be purchased at theTree Gnome StrongholdfromRomettiat his store,Fine Fashions, located north-east on the1stfloor[UK]2ndfloor[US]of theGrand Tree.
+
+
+[Infobox]
+Released: 12 December2002(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: The ultimate in gnome design, now in green!
+General Store Value: 180 coins
+High alch: 108 coins
+Low alch: 72 coins
+Weight: 0.907 kg
+Grand Exchange Value: 1,143 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 202
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +2
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

@@ -1,0 +1,149 @@
+[Spell: Water_Blast]
+
+Water Blast
+
+
+
+
+
+
+
+Released | 24 May2001(Update)
+
+Members | No
+
+Level | 47
+
+Spellbook | Standard
+
+Type | Combat
+
+Experience | 28.5
+
+Element | Water
+
+Base max hit | 14, 15, or 16
+
+Runes | 331
+
+Casting speed | 5 ticks
+
+Description | A medium level Water missile
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Water Blastis awater-basedblast spellin thestandard spellbook, requiring level 47Magicto cast. As anoffensive combat spellit can only be cast onattackable NPCs, or other players in aPvP situation.
+
+It is the strongest water spell available tofree-to-playplayers.
+
+Damage[edit|edit source]
+
+Water Blast's base maximum hit starts at 14 and increases as the player unlocks additional blast spells, up to 16 at level 59 Magic.
+
+Magiclevel | Highest-level blast spell available | Water Blastbase maximum hit
+
+47- 52 | Water Blast | 14
+
+53- 58 | Earth Blast | 15
+
+59+ | Fire Blast | 16
+
+As with all combat spells, Water Blast's maximum hit is also increased based on the player'smagic damage bonus.
+
+As a water-based spell, Water Blast's maximum hit is also increased against targets that areweak to water.
+
+Calculator[edit|edit source]
+
+Please input the data and submit the form.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+331 | 191
+
+Combo runes
+
+313 | 203
+
+313 | 503
+
+313 | 338
+
+313 | 476
+
+13 | 530
+
+Main-hands
+
+31Alt | 176
+
+31Alt | 176
+
+1 | 161
+
+2.582.580.86Alt | 164
+
+2.540.85 | 150
+
+Main and off-hands
+
+310.05 | 280
+
+10.05Alt | 264
+
+2.580.860.05Alt | 254
+
+Notable uses[edit|edit source]
+
+During theFamily Crestquest, the player must deal damage to the demonChronozonwith Water Blast (along with each of the other three blast spells) at least once in order to defeat it.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+29 May2024(update) | The maximum hit of the spell now depends on how manyblast spellsthe player has unlocked, based on theirMagiclevel.
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

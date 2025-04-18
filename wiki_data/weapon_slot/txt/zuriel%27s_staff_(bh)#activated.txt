@@ -1,0 +1,54 @@
+[Weapon: Zuriel%27S Staff (Bh)#Activated]
+
+
+Zuriel's staff (bh)is a magic weapon requiring level 75Magicand 30Attackto wield, and is purchased from theBounty Hunter Storefor 300 points.
+As with allAncient Warriors' equipmentfrom Bounty Hunter, it is initially purchased in inactive form, and must be charged with 5,000,000 coins before it can be used by the player. Upon dying inPvP, the coins used to activate the item are given to the killer, and players are left with the inactive item.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Uncharge, Drop
+Examine: A powerful staff.
+General Store Value: 300,000 coins
+Alchemy: Not alchemisable
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +13
+- Slash: -1
+- Crush: +65
+- Magic: +18
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +5
+- Slash: +7
+- Crush: +4
+- Magic: +18
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +72
+- Ranged Strength: +0
+- Magic Damage: +10%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None

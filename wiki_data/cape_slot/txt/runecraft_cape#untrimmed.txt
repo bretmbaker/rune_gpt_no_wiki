@@ -1,0 +1,52 @@
+[Weapon: Runecraft Cape#Untrimmed]
+
+
+Therunecraft capeis aCape of Accomplishmentthat may only be acquired and worn by players who have achieved the maximum level in theRunecraftskill, 99. Once players have trained to this level, they may purchase the cape fromAubury, located in his rune shop in eastVarrock- south of the bank - for which a fee of 99,000 coins is charged. When this fee is paid, the player receives both the cape and therunecraft hood.
+Like all skillcapes, the runecraft cape gives +9 to all defensive stats, and also a +4 bonus to prayer if it is trimmed, which requires a second skill of 99. The cape is automatically trimmed if this condition is met. In addition,Aubury's Rune Shophas separate stock for runes when 99 Runecraft is achieved.
+
+
+[Infobox]
+Released: 18 October2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Worn options: Boost
+Examine: The cape worn by master runecrafters.
+General Store Value: 99,000 coins
+High alch: 59,400 coins
+Low alch: 39,600 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +9
+- Crush: +9
+- Magic: +9
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Guardians of the Rift/Strategies(Runecrafting)

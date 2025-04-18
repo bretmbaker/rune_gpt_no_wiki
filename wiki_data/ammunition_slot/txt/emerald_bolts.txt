@@ -1,0 +1,49 @@
+[Weapon: Emerald Bolts]
+
+
+Emerald boltsaremithril boltstipped withemerald bolt tips, requiring level 36Rangedto use.
+Emerald bolts can be created through theFletchingskill. A player must first have a Fletching level of 58 and take a cutemeraldand use achiselwith it to make 12 emerald bolt tips. The emerald bolt tips can then be attached to mithril bolts to make emerald bolts. Attaching 10 emerald bolt tips to 10 mithril bolts grants 55 Fletching experience. Note that these bolts require acrossbowof level 36 to fire.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Emerald tipped Mithril crossbow bolts.
+General Store Value: 53 coins
+High alch: 31 coins
+Low alch: 21 coins
+Weight: 0 kg
+Grand Exchange Value: 108 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 785,595
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +85
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

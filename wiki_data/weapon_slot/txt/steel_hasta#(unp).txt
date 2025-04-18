@@ -1,0 +1,68 @@
+[Weapon: Steel Hasta#(Unp)]
+
+
+Thesteel hastais a one-handedmeleemembersweapon, similar to thespear. To wield this weapon the player needs at least 5Attackand the Smithing section of theBarbarian Trainingminiquest. To obtain a steel hasta the player can either create one using theSmithingskill or trade with another player. It can bepoisoned.
+
+
+[Infobox]
+Released: 3 July2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A steel-tipped, one-handed hasta.
+General Store Value: 325 coins
+High alch: 195 coins
+Low alch: 130 coins
+Weight: 2.267 kg
+Grand Exchange Value: 143 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 3
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +12
+- Slash: +12
+- Crush: +12
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: -3
+- Slash: -3
+- Crush: -3
+- Magic: +0
+- Ranged: -3
+
+Other Bonuses:
+- Strength: +12
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Lunge | Stab | Controlled | 4 ticks (2.4s) | 1 tile |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Controlled |  | +1 Attack, Strength, Defence
+ | Pound | Crush | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Angry barbarian spirit | 166 | 1 | 5/128 | 
+Berserk barbarian spirit | 166 | 1 | 5/128 | 
+Enraged barbarian spirit | 166 | 1 | 5/128 | 
+Skeleton brute | 132 | 1 | 5/128 | 
+Skeleton heavy | 132 | 1 | 5/128 | 
+Skeleton hero | 149 | 1 | 5/128 | 
+Skeleton thug | 132 | 1 | 5/128 | 
+Skeleton warlord | 132 | 1 | 5/128 | 

@@ -1,0 +1,167 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+The Dig Site (#48)
+
+
+
+
+
+Released | 9 July 2003 ( Update )
+
+Members | Yes
+
+Quest series | Mahjarrat , #1
+
+Lead developer(s) | Ian T
+
+
+
+The Dig Site is a quest where you must pass an archaeology exam for the Varrock Museum to be able to excavate the site where the city of Saranthium previously stood, but you discover something else...
+
+Details [ edit | edit source ]
+
+Start point | Talk to an examiner in the Exam Centre south of the digsite . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Medium
+
+Description | Feeling uneducated? Desperate for buried treasure? "There's gold in them there hills" (well stream actually) as well as many other items that can be found at the digsite. Join the students in their attempt to be a qualified archaeologist, and become experienced in making the earth move! Have you got what it takes to unearth the hidden altar to one of RuneScape's lesser-known Gods?
+
+Requirements | 10 Agility ( boostable ) ( not required to start ) 10 Herblore ( boostable ) ( not required to start ) 25 Thieving ( boostable ) ( not required to start )
+
+Items required | Pestle and mortar Vial Tinderbox Cup of tea (can be stolen from the Varrock tea stall ) 2 ropes (can be stolen from a Digsite workman , but with average luck, this can easily take more than 15 minutes.) Opal or uncut opal (small chance to acquire while panning for a quest item) Charcoal (obtainable during the quest, but may take some time) Specimen brush (obtained during the quest) Specimen jar (obtained during the quest) Panning tray (obtained during the quest) Trowel (obtained during the quest)
+
+Recommended | 2 Varrock Teleports Some energy potions or stamina potions to save time walking around 2 Digsite teleports to teleport you just north of the Exam Centre (includes one for starting the quest)
+
+Enemies to defeat | None
+
+League notes | Unlocking Misthalin ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+The first exam [ edit | edit source ]
+
+Go to the Exam Centre , south of the Digsite . Talk to an Examiner and ask her about taking an exam to be eligible to do work on the Digsite. She will then give you an unstamped letter. Teleport or travel to the Varrock Museum and hand this letter to Curator Haig Halen , who will add his seal to the letter. Before returning to the Exam Centre, you may bring the cup of tea now to save time. Return to the Exam Centre and speak to an Examiner again who will then give you a level 1 test.
+
+No matter what you answer on the test, you will get all three questions wrong. You must get answers from students in the digsite . Each student has lost one item and will give you the answer when they get it back.
+
+The study group [ edit | edit source ]
+
+There are 3 students in the Digsite who can help you with the exam answers. They will give you the answers only if you find a lost item of theirs. You do not have to write down the answers, as they are listed below.
+
+Teddy [ edit | edit source ]
+
+From the Exam Centre , walk a little way north towards the digsite until you come to two wooden walkways. Follow the eastern walkway to the top of the small hill and search the bushes near the large urn which has a blue pattern. One of the bushes has the teddy bear in it. Once found, return it to a female student found in the north-western section of the Digsite to get the first answer. She is blonde and is wearing all purple.
+
+Special cup [ edit | edit source ]
+
+The second student is found on the eastern section of the Digsite. He is wearing an orange shirt, with short black hair and darker skin. After speaking to him, you find out he lost his special cup . Go to the south-eastern side of Digsite. First, find a panning tray from inside the tent near the panning point in the river. Then try to pan with it by clicking in the river. The panning guide will stop you and ask for a cup of tea ( nettle tea also works), give it to him. Then, pan in the river until you get the Special cup. If you get an uncut opal , keep it, as you'll need one later on. Once you have found the Special cup, return it to the student.
+
+Animal skull [ edit | edit source ]
+
+The final student is found in the southern section of the Digsite. He has blonde hair and is wearing a green shirt. To find his lost item, players must "steal-from" Digsite workmen until they receive an animal skull . Upon returning the lost item to the student, he will inform you of the final answer required. If you obtain a specimen brush whilst stealing from the workmen, keep it as you'll need it later in the quest.
+
+Retaking the exams [ edit | edit source ]
+
+Note : If the correct answer is not present in the selection given, you must have missed talking to a student. Check the quest log to find out which one, speak to them, and then try again.
+
+After helping out all three students, return to the Exam Centre and speak to an Examiner. Speak to her to retake the exam. To pass it, use the answers that the students gave you:
+
+Can you tell me what Earth Sciences is? - The study of the earth, its contents and history. Can you tell me which people are allowed to use the digsite? - All that have passed the appropriate Earth Sciences exam. Can you tell me the proper safety points when working on a digsite? - Gloves and boots to be worn at all times; proper tools must be used.
+
+If done correctly, players will receive a Level 1 certificate and a trowel .
+
+To pass the level 2 test, speak to the three students again to get the answers and return to the Examiner. The questions and answers are:
+
+Can you tell me how we transport samples? - Samples taken in rough form; kept only in sealed containers. What is the proper way to handle finds? - Finds must be carefully handled, and gloves worn. Can you tell me the proper use for a rock pick? - Always handle with care; strike cleanly on its cleaving point.
+
+Upon passing, players receive a Level 2 certificate .
+
+To pass the level 3 test, you need to speak to the three students again to obtain the answers. However , the female student will want an uncut opal or opal for her help this time. Pan in the river for one if you did not receive it when you were looking for the special cup. Return to the examiner and take the last test:
+
+Can you tell me how we prepare samples? - Samples cleaned, and carried only in specimen jars. What is the proper way to use a specimen brush? - Brush carefully and slowly using short strokes. Can you describe the technique for handling bones? - Handle bones very carefully and keep them away from other samples.
+
+Upon passing, players receive a Level 3 certificate and permission to dig in all levels.
+
+Ancient discovery [ edit | edit source ]
+
+Grab a specimen jar from the cupboard on the south wall inside the Exam Centre . If there is no Search option, speak to Terry Balando about the tools then search the cupboard again. Then, head back to the Digsite, and pickpocket a Digsite workman until you get a specimen brush if you haven't got one already.
+
+Dig in the south western most dig site (area 5) or the northern most dig site (area 1), the sign will read "Level 3 digs only." Use your trowel on the soil until you find an ancient talisman . This often takes many tries and can easily take several minutes to find. When you find the talisman, a message will be displayed in your chat, so you are very unlikely to miss the item.
+
+Once you have the talisman, take it to Terry Balando in the Exam Centre. He will say that it's a talisman of Zaros and is impressed. Then, he will give you an invitation letter , which must be shown to a Digsite workman to get permission to go down the boreholes, or private dig shafts (showing the letter to the Dig Site workman will not work).
+
+Chemical compound [ edit | edit source ]
+
+There are two winches in the Digsite , in areas 3 and 4. Use your Invitation letter on a Digsite workman that's working near a winch, and then use a rope on the west winch (in area 4) to gain access to the sublevels of the Digsite.
+
+Climb down the rope by operating the winch (requires 10 Agility ). Grab an arcenia root just north of the rope, and go slightly east until you see some large bricks blocking the way to a room to the south. "Search" the bricks, and then go back to the surface.
+
+Head towards the north-east winch (in area 3), a little bit south of the level 3 digsite from before. Use another rope and go down, there you will find Doug Deeping . Speak to him and ask him how you can move a large pile of rocks. He will give you a chest key to be used on the chest in the tent where you got your panning tray . You can also grab an arcenia root here.
+
+A Book on chemicals detailing the full recipe can be found on the bookshelves of the Exam Centre . To find the components and mix them into the required explosive, follow the steps below.
+
+Go open the chest near the panning site to get chemical powder . Use your trowel on the barrel (marked with a skull and bones if you rotate the camera around) west of the tent with the chest to open it. Use your vial on the barrel to get an unidentified liquid . Do not drop the vial after filling it, or you will receive 25 damage and the vial will be destroyed. Search the specimen tray north of the tent with a specimen jar in your inventory till you find charcoal . Grind it with a pestle and mortar to get ground charcoal. Note: If planning to do Desert Treasure I , get a second charcoal to save time, but drop it while you grind the other, or else they will both be ground. Show the chemical powder to Terry Balando in the Exam Centre to learn that it's ammonium nitrate, and then show (be careful not to left click on the empty option) the unidentified liquid to him to learn that it's nitroglycerin. Note: if he won't identify the liquid, find and read the Book on chemicals on a nearby bookshelf, then try again. Mix the nitroglycerin and the ammonium nitrate. Then, add ground charcoal , and then add the arcenia root. (10 Herblore required) Then, you get a chemical compound. If you drop the vial now, you will receive enough damage to drop you to 1 hitpoint. Note: Once you have made the compound, you cannot make another one without dropping it and taking damage. In addition, you cannot empty or drop extra vials without receiving 25 damage.
+
+The Temple of the Empty Lord [ edit | edit source ]
+
+Go down the west winch, and use the chemical compound on the bricks (not the rocks), and then use a tinderbox (You can farm a goblin near the west fence, but not recommended) on the bricks to blow it up. Go into the room with Skeletons (level 22, aggressive to players of level 44 and below), and pick up the stone tablet . Give it to Terry Balando to finish the quest.
+
+Rewards [ edit | edit source ]
+
+2 Quest points 15,300 Mining exp 2,000 Herblore exp 2 gold bars Show the museum curator the Level 3 certificate to choose between something to drink ( Fruit blast ) or something to eat ( chocolate cake ). Get the cake for Desert Treasure I / A Tail of Two Cats or the fruit blast for Recipe for Disaster . Make sure that you go through the dialogue for each one that you give it or he will not give you a chance to pick which reward you want and you will receive nothing. The ability to do Varrock Museum specimen cleaning to obtain a Digsite pendant . The Ancient talisman can be viewed in the Digsite Exhibit at the museum on the ground floor [ UK ] 1 st floor [ US ] .
+
+Required for completing [ edit | edit source ]
+
+Completion of The Dig Site is required for the following:
+
+Another Slice of H.A.M. . Bone Voyage Desert Treasure I Completing a medium difficulty task for the Varrock achievement diary . Completing a hard difficulty task for the Varrock achievement diary .
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest. Click here for a transcript of the quest's journal entry.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+Date unknown | The quest was renamed from "The Digsite" to "The Dig Site".
+
+16 January 2007 ( update ) | The quest was renamed from "Digsite Quest" to "The Digsite".
+
+Trivia [ edit | edit source ]
+
+Despite having dialogue referring to the player's completion of Shield of Arrav as the reason for receiving approval from Curator Haig Halen , The Dig Site does not require completion of Shield of Arrav. Similar dialogue may also occur if the player has completed Romeo & Juliet . The original release of this quest in 2003 was "botched". [1] It wasn't possible to complete the quest until the day after it released, due to being unable to obtain the specimen brush . Previously, completion of the quest granted the ability to choose the book of darkness after completion of Horror from the Deep .
+
+References [ edit | edit source ]
+
+v • t • e The Dig Site
+
+NPCs | Examiner Researcher Curator Haig Halen Student Digsite workman Nick Nisha Panning guide Terry Balando Doug Deeping
+
+Items | Unstamped letter Sealed letter Teddy Animal skull Cup of tea Specimen brush Panning tray Rock pick Special cup Trowel Specimen jar Ancient talisman Invitation letter Arcenia root Book on chemicals Chest key Unidentified liquid Ground charcoal Ammonium nitrate Nitroglycerin Chemical powder Mixed chemicals Chemical compound Stone tablet Certificates Level 1 Level 2 Level 3 Extraneous digsite items Nuggets Belt buckle Broken armour Broken arrow Damaged armour Broken glass Broken staff Buttons Ceramic remains Cracked sample Old boot Old tooth Rusty sword Vase Opal Uncut opal |  | Unstamped letter Sealed letter Teddy Animal skull Cup of tea Specimen brush Panning tray Rock pick Special cup Trowel Specimen jar Ancient talisman Invitation letter Arcenia root Book on chemicals Chest key Unidentified liquid Ground charcoal Ammonium nitrate Nitroglycerin Chemical powder Mixed chemicals Chemical compound Stone tablet | Certificates | Level 1 Level 2 Level 3 | Extraneous digsite items | Nuggets Belt buckle Broken armour Broken arrow Damaged armour Broken glass Broken staff Buttons Ceramic remains Cracked sample Old boot Old tooth Rusty sword Vase Opal Uncut opal
+
+ | Unstamped letter Sealed letter Teddy Animal skull Cup of tea Specimen brush Panning tray Rock pick Special cup Trowel Specimen jar Ancient talisman Invitation letter Arcenia root Book on chemicals Chest key Unidentified liquid Ground charcoal Ammonium nitrate Nitroglycerin Chemical powder Mixed chemicals Chemical compound Stone tablet
+
+Certificates | Level 1 Level 2 Level 3
+
+Extraneous digsite items | Nuggets Belt buckle Broken armour Broken arrow Damaged armour Broken glass Broken staff Buttons Ceramic remains Cracked sample Old boot Old tooth Rusty sword Vase Opal Uncut opal
+
+Locations | Areas Exam Centre Digsite Digsite Dungeon Scenery Specimen tray Soil Panning point Winch Barrel | Areas | Exam Centre Digsite Digsite Dungeon | Scenery | Specimen tray Soil Panning point Winch Barrel
+
+Areas | Exam Centre Digsite Digsite Dungeon
+
+Scenery | Specimen tray Soil Panning point Winch Barrel
+
+Music | Venture Venture 2
+
+Related | Quick guide Transcript Journal
+
+v • t • e Digsite
+
+NPCs | Barge foreman Barge guard Barge workman Dig Site workman Digsite workman Doug Deeping Ed Wood Elissa Junior Navigator Lead Navigator Nick Nisha Panning guide Student Workman Workman (wheelbarrow)
+
+Scenery | Specimen tray Soil Panning point Winch
+
+Related | Digsite Dungeon Exam Centre Saranthium Senntisten The Dig Site

@@ -1,0 +1,60 @@
+[Weapon: Keris Partisan Of Breaching]
+
+
+Thekeris partisan of breachingis a one-handed spear requiring 80Attackto equip. It is made by attaching thebreach of the scarabon thekeris partisan. As with the keris partisan, weapon poisons cannot be applied to the partisan.
+The keris partisan of breaching retains the 33% bonus damage effects of thekeris. The Breach of the scarab attached to the keris partisan grants an additional 33% accuracy[1]against allKalphitesandScabarites, alongside the inherited 1/51 chance of puncturing a hole in their exoskeleton that inflicts triple damage. When this special effect occurs, the chatbox will display the message:You slip your weapon through a gap in the creature's chitin, landing a vicious blow.
+
+
+[Infobox]
+Released: 24 August2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle, Drop
+Examine: A mystical-feeling polearm imbued with great power.
+General Store Value: 300,000 coins
+Alchemy: Not alchemisable
+Weight: 3.218 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +58
+- Slash: -2
+- Crush: +57
+- Magic: +2
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +45
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Kalphite Queen/Strategies(High DPS (Phase One))
+2 | Kalphite Queen/Strategies(Flinching)
+2 | Tombs of Amascut/Strategies(Kephri)

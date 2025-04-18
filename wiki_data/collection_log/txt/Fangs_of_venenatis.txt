@@ -1,0 +1,5 @@
+Item: Fangs of venenatis
+Summary: The fangs of Venenatis are an item dropped by Venenatis. They are used to upgrade Craw's bow into a webweaver bow. This process requires level 85 Fletching; players without the required level to combine the items may ask Derse Venator in Ferox Enclave to do so instead, for a fee of 500,000 coins. The uncharged weapon may be dismantled to separate the bow and fangs.
+Sources:
+- Spindel (Level 302, Quantity: 1, Rarity: 1/618)
+- Venenatis (Level 464, Quantity: 1, Rarity: 1/196)

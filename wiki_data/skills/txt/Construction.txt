@@ -1,0 +1,351 @@
+[Skill: Construction]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+ | This article has skill training guides:Members/IronmanSkill training guidesdocument optimal XP/hour methods to train a skill, as well as alternate passive or less expensive methods.
+
+Construction
+
+
+
+
+
+
+
+Released | 31 May2006(Update)
+
+Also called | Con, Cons
+
+Members | Yes
+
+Type | Utility
+
+
+
+Statistics
+
+
+
+Players with99 | 125,016as of 1 April 2025 -update
+
+Players with200M XP | 180as of 3 April 2025 -update
+
+
+
+Constructionis amembers-onlyskillthat allows players to buildtheir own housesand provide furniture for them. To begin Construction, players must buy a house from one of theestate agents. A starter house will cost1,000, and will be inRimmington. A level 40Magicspell can then be used toteleportto the house, or ahouse tabletcan be used. Alternatively players can walk to Rimmington, where there is aportal(iconon themap) that will teleport players to their house.
+
+The house starts off with only aparlourandgarden, but furniture and additional rooms can be built. To build, go to theoptionsmenu, selecthouse options, and set thebuilding modemode to on. Players will then see what looks like ghost-likehotspotswhere new objects can be built. See theConstructed itemslist for details on what you can build at what level.
+
+Players can visit a friend's house if they are online and using the same portal. Players can also use the officialhouse partyworlds to make use of max level houses, assuming they are not ironmen, without having to build one themselves. Thehouse advertisementnext to the portal showcases said houses.
+
+ | Construction level up - normal
+
+The music that plays when levelling up.
+
+
+
+ | Construction level up - every 10 levels
+
+The music that plays when levelling up every 10 levels and level 99.
+
+
+
+How to start training Construction[edit|edit source]
+
+Materials[edit|edit source]
+
+There are multiple materials needed for constructing your house. Most furniture options contain one or more of these items that are often used in the Construction skill. When used in a piece of furniture, these items will reward the player with a set amount of Construction experience. (i.e. When constructing an object withoak planks, this will always reward the player with 60 experience per plank.)
+
+Item | Experiencegiven | Where to get it | Cost per Exp[d 1]
+
+ | Plank&Nails | 29 | There are multiplespawn locationsfor planks, see the item page for more information.Planks are made from regularlogsby taking them to asawmill operator.Planks can be bought in theRazmire Builders Merchantsshop, located inMort'ton.Nails can be bought at theConstruction Suppliesshop, run by thesawmill operatornorth-east ofVarrockor in theWoodcutting Guild,Nails can be created using theSmithingskill. | 10.69-38.34(Depending on nail quality)
+
+ | Oak plank | 60 | Oak planks are made fromoak logsby taking them to asawmill operator.Oak planks are dropped byseveral monsters, see the item page for more information. | 9.10
+
+ | Teak plank | 90 or 123[d 2] | Teak planks are made fromteak logsby taking them to asawmill operator.Teak planks are dropped byseveral monsters, see the item page for more information. | 10.31-7.52[d 2]
+
+ | Mahogany plank | 140 | Mahogany planks are made fromMahogany logsby taking them to asawmill operator.Mahogany planks are dropped byseveral monsters, see the item page for more information. | 15.91
+
+ | Soft clay | 10 | Soft clay can be created by using a container of water (e.g. ajug of waterorbucket of water) onclay, by casting theHumidify spellwhile having clay in your inventory, or by mining the clay rock whilst wearing abracelet of clay.Soft clay packscan be bought fromProspector Percy's Nugget ShopinMotherlode Minefor 10golden nuggetseach, contain 100 soft clay per pack.Soft clay is dropped byseveral monsters, see the item page for more information. | 12.10
+
+ | Bolt of cloth | 15 | Bolts of cloth can be bought at theConstruction Suppliesshop, run by thesawmill operatornorth-east ofVarrockor in theWoodcutting Guild, | 62.33
+
+ | Steel bar | 20 | Steel bars can be smelted using theSmithingskill at level 30 Smithing by using oneiron oreand twocoalon afurnace.Steel bars are dropped byseveral monsters, see the item page for more information. | 36.00
+
+ | Limestone brick | 20 | Limestone bricks can be crafted through theCraftingskill at level 12 by using achiselwithlimestone,Limestone bricks can be bought in theRazmire Builders Merchantsshop, located inMort'ton.Limestone bricks can be bought in theKeldagrim Stonemasonshop, located inKeldagrim.Limestone bricks are dropped byseveral monsters, see the item page for more information. | 16.80
+
+ | Gold leaf | 300 | Gold leaves can be bought in theKeldagrim Stonemasonshop, located inKeldagrim.Gold leaves can be bought in theStonecutter Suppliesshop, located in theStonecutter Outpost. | 458.52
+
+ | Marble block | 450 | Marble blocks can be bought in theKeldagrim Stonemasonshop, located inKeldagrim.Marble blocks can be bought in theStonecutter Suppliesshop, located in theStonecutter Outpost. | 749.24
+
+ | Magic stone | 1,000 | Magic stones can be bought in theKeldagrim Stonemasonshop, located inKeldagrim.Magic stones can be bought in theStonecutter Suppliesshop, located in theStonecutter Outpost. | 989.65
+
+ | Condensed gold | 894.4 | Condensed gold can be bought in theKeldagrim Stonemasonshop, located inKeldagrim.Condensed gold can be bought in theStonecutter Suppliesshop, located in theStonecutter Outpost. | 11,646.73
+
+Tips and tricks[edit|edit source]
+
+Servants[edit|edit source]
+
+Servants can be hired at theServants' Guild, the very north-eastern building inArdougne. There are five differentservants, which can perform various services. All servants are able to greet guests entering a players' home, but some will have different abilities, such as taking items to and from thebankorsawmill. The higher level servant a player has, the faster their service is, the better food they provide, and the more items they can carry to or from a bank or sawmill.
+
+After using a servant's services seven times, the servant will ask the player to pay them. After using a servant's services eight times, the player is required to pay them or the servant will quit. A player can build aservant's money bagand put coins in it to automatically pay their servant.
+
+A player must have at least twobedroomswithbedsin them in order to hire a servant. A player may only have one servant at a time; if a player wants to hire a new servant, they must fire their current one first.
+
+Servant | Wages | Level | Food served[d 1] | Services | Items | Trip Time | Cost per item
+
+Rick | 500 | 20 | Shrimp | Bank | 6 | 60 seconds | 10.42
+
+Maid | 1,000 | 25 | Stew | Bank | 10 | 30 seconds | 12.50
+
+Cook | 3,000 | 30 | Pineapple pizza | Bank, Sawmill | 16 | 17 seconds | 23.44
+
+Butler | 5,000 | 40 | Chocolate cake | Bank, Sawmill | 20 | 12 seconds | 31.25
+
+Demon butler | 10,000 | 50 | Curry | Bank, Sawmill | 26 | 7 seconds | 48.08
+
+Phials for unnoting[edit|edit source]
+
+Phialsis anNPClocated next to theRimmington General StoreinRimmingtonwho will un-noteitemsfor 5coinsper item.
+
+Phials is commonly used by players training Construction due to his proximity to the Rimmingtonhouse portal. He is also useful for trainingPrayeron agilded altarin aplayer-owned house.
+
+Training methods[edit|edit source]
+
+Popular training methods include continuously constructing and removing the following items:
+
+Constructed item | Room(Hotspot) | Levelrequirement | Experiencegiven | Materials | Cost per Exp[d 1]
+
+ | Crude wooden chair | Parlour(Chair space) | 1 () | 58 | 2Planks2Nails | 10.69-38.34(Depending on nail quality)
+
+ | Wooden bookcase | Parlour(Bookcase space) | 4 () | 115 | 4Planks4Nails | 10.78-38.68(Depending on nail quality)
+
+ | Oak chair | Parlour(Chair space) | 19 () | 120 | 2Oak planks | 9.10
+
+ | Oak dining table | Dining room(Table space) | 22 () | 240 | 4Oak planks | 9.10
+
+ | Oak larder | Kitchen(Larder space) | 33 () | 480 | 8oak planks | 9.10
+
+ | Mythical cape (mounted) | Quest Hall(Guild trophy space) | 47 ()[d 2] | 370 | 1Mythical cape(given back when removed)3Teak planks | 7.52
+
+ | Mahogany table | Dining room(Table space) | 52 () | 840 | 6Mahogany planks | 15.91
+
+ | Teak garden bench | Superior Garden(Seating space) | 66 () | 540 | 6Teak planks | 10.31
+
+ | Oak door | Dungeon(Door space) | 74 () | 600 | 10Oak planks | 9.10
+
+Mahogany Homes[edit|edit source]
+
+Mahogany Homesis an alternative method of training that tasks players with constructing furniture for various NPCs across Gielinor.
+
+Notable milestones[edit|edit source]
+
+Miscellaneous[edit|edit source]
+
+Cape of accomplishment[edit|edit source]
+
+AConstruction capeis theCape of Accomplishmentfor the Construction skill. It can be purchased for 99,000 coins alongside theConstruct. hoodfrom anyEstate agentby players who have achieved skill mastery (level 99) in the Construction skill.
+
+When the Construction cape is equipped or in the inventory, it provides unlimited teleports to the player's ownhouseand to the house portals located inRimmington,Taverley,Pollnivneach,Hosidius,Rellekka,Aldarin,Brimhaven,Yanille, andPrifddinas.
+
+STASH units[edit|edit source]
+
+STASH units(short for "Store Things And Stuff Here"), also known as hidey holes, are storage units foremote clueitems. They savebankspace and bank trips for players who doTreasure Trailsfrequently.
+
+There are 103 STASH units in total found throughout Gielinor. These locations are initially labelled as inconspicuous bushes/crates/holes/rocks, and, once built, become usable STASH units. Players can check which units they've already built/filled by visiting Watson and reading the noticeboard within his house, or reading the chart in their PoHstudyafter it's been built.
+
+The materials and level required to build these inconspicuous objects into STASH units depend on the tier of clue scroll they relate to. Ahammerand asaware required to build STASH units. All 10 nails must be made of the same metal.
+
+STASH type | Level | Materials (+ hammer, saw) | Experience | Number | Total Experience | Total material cost
+
+Beginner | 12 | 2planks, 10nails | 150 | 3 | 450 | 1,956
+
+Easy | 27 | 2planks, 10nails | 150 | 29 | 4,350 | 18,908
+
+Medium | 42 | 2oak planks, 10nails | 250 | 23 | 5,750 | 26,036
+
+Hard | 55 | 2teak planks, 10nails | 400 | 15 | 6,000 | 28,440
+
+Elite | 77 | 2mahogany planks, 10nails | 600 | 16 | 9,600 | 71,904
+
+Master | 88 | 2mahogany planks, 10nails, 1gold leaf | 1,500 | 22 | 33,000 | 3,125,078
+
+Total | 108 | 59,150 | 3,272,322
+
+Chambers of Xeric[edit|edit source]
+
+The storage units in theChambers of Xericare created using the Construction skill, thus having a Construction level requirement:small storage unit(30),medium storage unit(60),large storage unit(90), andMassive storage unit(99).
+
+Temporary boosts[edit|edit source]
+
+Boost | Levelincrease | Visibility | Other info
+
+ | Construct. cape | 1 | Visible | Activating the cape's effect will increase the corresponding skill by 1.
+
+ | Cup of tea (clay)[d 1] | 1 | Visible | Only obtainable and usable within aplayer-owned house.
+
+ | Cup of tea (porcelain)[d 1] | 2 | Visible | Only obtainable and usable within aplayer-owned house. With 23Construction(boostable), a porcelain cup can be acquired fromWooden shelves 3.
+
+ | Cup of tea (trimmed)[d 1] | 3 | Visible | Only obtainable and usable within aplayer-owned house. Gold trimmed porcelain cup can be acquired fromTeak shelves 2, which requires 67Construction(boostable).
+
+ | Crystal saw[d 2] | 3 | Invisible | Only applies to items requiring a saw (e.g. not rooms or plants).
+
+ | Spicy stew(orange spice) | ±0-5 | Visible | Hitpoints11Depending on type of stew, any skill exceptHitpointscan be boosted or reduced by 0 to 5 levels randomly.
+
+Quests[edit|edit source]
+
+Quests requiring Construction[edit|edit source]
+
+Quest | Constructionrequirement | Other requirements
+
+Darkness of Hallowvale | 5 | 26,20,22,32,33,40
+
+The Eyes of Glouphrie | 5 | 46,45()
+
+Tower of Life | 10 | -
+
+Perilous Moons | 10 | 20,20,20,48
+
+The Fremennik Isles | 20 | 40,46,56()
+
+Getting Ahead | 26 | 30
+
+At First Light | 27 | 30,46
+
+The Great Brain Robbery | 30 | 16,50
+
+Cold War | 34 | 10,30,30,15
+
+Making Friends with My Arm | 35 | 66,72,68
+
+Dragon Slayer II | 50 | 200,75,70,68,62,60,60,50
+
+Desert Treasure II - The Fallen Empire | 60 | 75,75,70,62,60
+
+Song of the Elves | 70 | 70,70,70,70,70,70,70
+
+Quests rewarding Construction experience[edit|edit source]
+
+Quest | Experiencereward | Constructionrequirement | Other requirements
+
+The Eyes of Glouphrie | 250 | 5 | 46,45()
+
+Daddy's Home(miniquest) | 400 | - | -
+
+At First Light | 800 | 27 | 30,46
+
+Tower of Life | 1,000 | 10 | -
+
+Cold War | 1,500 | 34 | 10,30,30,15
+
+Darkness of Hallowvale | 2,000 | 5 | 26,20,22,32,33,40
+
+The Great Brain Robbery | 2,000 | 30 | 16,50
+
+Getting Ahead | 3,200 | 26 | 30
+
+The Fremennik Isles | 5,000 | 20 | 40,46,56()
+
+Making Friends with My Arm | 10,000 | 35 | 66,72,68
+
+Song of the Elves | 40,000 | 70 | 70,70,70,70,70,70,70
+
+Total | 65,350 | 
+
+Skill choice[edit|edit source]
+
+Upon completing any of the following quests, players may choose to allocate experience to Construction. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.
+
+Quest | Experiencereward | Skills available | Skill requirements
+
+X Marks the Spot | 300 | Any | None
+
+Client of Kourend | 500 twice | Any | None
+
+Fairytale II - Cure a Queen | 2,500 | Any skill above 30 | 49,57
+
+A Tail of Two Cats | 2,500 twice | Any skill above 30 | None
+
+The Great Brain Robbery | 5,000 | Any skill above 30 | 16,30,50
+
+King's Ransom | 5,000 | Any skill above 50 | 65
+
+Darkness of Hallowvale | 2,000 three times | Any skill above 30 | 5,20,22,32,33,40
+
+A Taste of Hope | 2,500 three times | Any skill above 35 | 48,40,40,45,38
+
+A Kingdom Divided | 10,000 twice | Any skill above 40 | 54,52,52,50,42,38,35
+
+In Search of Knowledge(miniquest) | 10,000 | Any skill above 40 | None
+
+Curse of the Empty Lord(miniquest) | 10,000 | Any skill above 50 | Some players will need31
+
+One Small Favour | 10,000 twice | Any skill above 30 | 36,25,18,30
+
+Recipe for Disaster(The final battle) | 20,000 | Any skill above 50 | 175,70,48,50,53,53,25,59,40,50,40,40,10,10,36
+
+Sins of the Father | 15,000 six times | Any skill above 60 | 62,60,56,52,50,50,49
+
+Total | 202,300 | 
+
+Level up messages[edit|edit source]
+
+This article on a skill has an associated transcript page for level up messages.Click herefor the transcript.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+23 February2017(update|poll) | The furniture creation menu has been upgraded to accept keyboard shortcuts when building new furniture! The number displayed to the left of each constructable item on the furniture creation menu is the keyboard shortcut which may be used to create said item. Shortcuts may only be used to construct furniture in hotspots. You cannot use shortcuts with a workbench.
+
+6 October2016(update) | Selecting the combat dummies in the Construction skill guide now displays the materials required.
+
+11 September2014(update|poll) | The skill guide now displays the required materials within the chat box whenever a furniture or decoration icon is clicked.
+
+5 March2013(update) | Player-Owned Houses are now accessible enabling the proper training of Construction.
+
+22 February2013(update) | Old School RuneScapeservers are officially launched, with player-owned houses and the Construction skill disabled.
+
+Trivia[edit|edit source]
+
+The house shown in the cutscene when entering aPlayer-owned housewas taken from issue 24 of the God Letters:Guthix Ponders, dating back to22 September2004. Its file name was "prettyhouse.jpg".Thewatch,sextantandchartcannot be used in your house, trying to use it will give the message: "The sextant doesn't seem to work here".InRuneScape Classic, there was briefly a skill that had no use called Carpentry. The modern skill of Construction was an updated version of this unused skill.Some references to the term Carpentry can still be found in the source files ofOld School RuneScape.[1]After the release of the Construction skill, there were numerous bugs that have caused an infamous event that has been named theFalador Massacre.Construction is one of only twoskillsthat unlocks something new at every level with the other skill beingSmithing.An off-colour green pixel is located on the lower left portion of the Construction skill icon. Proposals to recolour it have not succeeded and it has since become a well-known running joke in the community.83Construction is currently considered to be the lowest Construction level needed for a max house, as it can be used with a crystal saw and spicy stew boost
+
+ | Scape Home
+
+The login music for Constuctions release.
+
+
+
+to build anornate jewellery box.84Construction allows to build acrystalline portal nexuswith both boosts, and 90 Construction allows to plant aSpiritual Fairy Treewith spicy stew.
+
+Construction is the only skill release to have not changed the login flame sprites with the background.
+
+See also[edit|edit source]
+
+Advertisement boardPortal (Player-owned house)Construction/Experience table, a list of all Construction experience sourcesConstruction/Level up table, a list of all requirements and unlockables within the Construction skill
+
+References[edit|edit source]
+
+v•t•ePlayer-owned house
+
+Rooms | GardenParlourKitchenDining roomWorkshopBedroomSkill hallLeague hallGames roomCombat roomQuest hallMenagerieStudyCostume roomChapelPortal chamberFormal gardenThrone roomOublietteSuperior gardenDungeonPortal nexusTreasure roomAchievement gallery
+
+House styles | Basic woodBasic stoneWhitewashed stoneFremennik-style woodTropical woodFancy stoneDeathly mansionCosy CabinTwistedHosidius-style StoneCanifisCivitas
+
+v•t•eSkills
+
+Combat | AttackStrengthDefenceRangedPrayerMagicHitpoints
+
+Gathering | FarmingFishingHunterMiningWoodcutting
+
+Production | CookingCraftingFletchingHerbloreRunecraftSmithing
+
+Utility | AgilityConstructionFiremakingSlayerThieving
+
+Proposed skills | In developmentSailingPreviously proposedArtisanSailing (2015)WardingTamingShamanism | In development | Sailing | Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+In development | Sailing
+
+Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+Related | ExperienceSkill mastery200 million experienceSummoning

@@ -1,0 +1,46 @@
+[Weapon: Gold Helmet]
+
+
+Thegold helmetis ahelmetthe player must smith during theBetween a Rock...quest using 3gold bars. It requires level 30Defenceto wear. Smithing the helmet requires 50Smithingand gives 30Smithingexperience. More than one helmet can be made by using thedrop trickand castingTelekinetic Grabon any helmets dropped on the ground. The helmet must be worn to useDondakan's cannon and to enter the massiveArzinian Mines, found in the mines south ofKeldagrim.
+During the quest, once in the mines, the helmet will begin to get heavy. Because of this, a player may only stay in the mines for eight minutes before the helmet becomes so heavy that they are magically forced out. After the quest, the helmet will not force players out, although it must still be worn to enter the mines. It is the heaviest piece of equipment in the game. Entering the mine after completing the quest unlocks theIn Betweensong.
+
+
+[Infobox]
+Released: 21 March2005(Update)
+Members: Yes
+Quest item: Between a Rock...
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Made of gold and white gold.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 31.751 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +10
+- Crush: +20
+- Magic: +0
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

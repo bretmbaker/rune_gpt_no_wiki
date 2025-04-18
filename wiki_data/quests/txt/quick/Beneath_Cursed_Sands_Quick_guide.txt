@@ -1,0 +1,65 @@
+ | This quest has an in-depth guide . It contains a more detailed description of dialogue, cutscenes, and storyline.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Jamila at her stall in Sophanem . Show on map
+
+Official difficulty | Master
+
+Official length | Medium
+
+Description | When Sophanem was beset by a series of plagues, the gates to the golden city of Menaphos quickly closed. The city has been locked down ever since, with no one allowed to leave or enter. However, rumours have escaped of strange happenings inside Menaphos and there are stories of citizens mysteriously disappearing. These odd happenings need to be investigated, but few are willing to do so. Maisa, a spy from Al Kharid, has grown tired of inaction. She is determined to solve this mystery herself, but she won't be able to do it alone... are you up for the challenge?
+
+Requirements | Completion of the following quests: Contact! Prince Ali Rescue Icthlarin's Little Helper Gertrude's Cat 62 Agility ( not boostable ) ( required to start ) 55 Crafting ( not boostable ) ( required to start ) 55 Firemaking ( not boostable ) ( required to start )
+
+Items required | Coal Iron bar Tinderbox (obtainable during quest) Spade (obtainable during quest) Any cooked or raw meat (fish will not work; raw yak meat will not work; purchasable from shop during quest)
+
+Recommended | 85 Protection against the desert heat , such as waterskins or Desert amulet 4 Some form of antipoison Dramen staff to use fairy ring A K P A pharaoh's sceptre for a direct teleport to the necropolis (Once you arrive in the necropolis , use the Commune option on the obelisk by the mine ). Food and both melee and ranged combat gear. Stamina potions are helpful in the dungeon A method of teleporting to Nardah (e.g: Nardah teleport or Desert amulet 2+ )
+
+Enemies to defeat | Head Menaphite Guard (level 174) without the use of protection prayers Two Scarab Mages (level 119) The Champion of Scabaras (level 379) Menaphite Akh (level 351)
+
+League notes | Desert ✓ — location requirement
+
+Walkthrough [ edit | edit source ]
+
+Entranced Menaphites [ edit | edit source ]
+
+The Ruins of Ullek [ edit | edit source ]
+
+Riddle of the Tomb [ edit | edit source ]
+
+Emblem | God | Item
+
+Scarab | Isolation | Carving
+
+Human | Health | Wine
+
+Crocodile | Resourcefulness | Necklace
+
+Baboon | Companionship | Linen
+
+The Champion of Scabaras [ edit | edit source ]
+
+If players die during the fight, they can return to the entrance to reclaim their items from a grave.
+
+Cure Me Pox [ edit | edit source ]
+
+Fight with the Menaphite Akh [ edit | edit source ]
+
+Rewards [ edit | edit source ]
+
+2 Quest points 50,000 Agility experience Access to the Tombs of Amascut A Keris partisan . (If your inventory was full, you may claim one for free from Selim in front of Al Kharid Palace.) The circlet of water , an untradeable helm that acts like a waterskin when worn. (If your inventory was full, you may claim one for free from the High Priest in Sophanem .) Access to a fairy ring on a small island south-west of the necropolis , code A K P . (Unlocked when entering the necropolis at the beginning of the quest.) Jaltevas teleport option on the Pharaoh's sceptre . (Unlocked by selecting Commune on an obelisk in the necropolis, by the mine .)
+
+v • t • e Beneath Cursed Sands
+
+NPCs | Jamila Maisa Menaphite Guard Citizen Mehhar High Priest of Scabaras Zahur Roger High Priest Osman Pharaoh Kemesis Jabari Coenus Selim
+
+Enemies | Head Menaphite Guard Scarab Mage Scarab Swarm Champion of Scabaras ( Shadow Rift ) ( Scarab Swarm ) Menaphite Akh ( Menaphite Shadow )
+
+Items | Message Bottle of 'tonic' Odd spectacles Stone tablet Chest Scarab mould Scarab emblem Baboon emblem Crocodile emblem Human emblem Scarab emblem Rusty key Lily of the elid Cure crate Keris partisan Circlet of water
+
+Locations | Sophanem Necropolis Jaltevas Pyramid Ruins of Ullek Scabaras Dungeon Nardah River Elid
+
+Music | Dunes of Eternity Ruins of Isolation The Forgotten Tomb Thrall of the Devourer The Pharaoh
+
+Related | Quick guide ( speedrunning ) Transcript Akhem Amascut Apmeken Crondis Het Into the Tombs Osmumten Scabaras Sethos Tombs of Amascut

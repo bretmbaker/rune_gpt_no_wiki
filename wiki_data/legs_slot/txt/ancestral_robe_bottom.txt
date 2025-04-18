@@ -1,0 +1,117 @@
+[Weapon: Ancestral Robe Bottom]
+
+
+Theancestral robe bottomis obtained as a rare drop from theChambers of Xeric. It is part of theancestral robesset, and requires level 75 inMagicand 65Defenceto wear. It can be stored in themagic wardrobeof aplayer-owned house.
+
+
+[Infobox]
+Released: 5 January2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: The robe bottoms of a powerful sorceress from a bygone era.
+General Store Value: 80,000 coins
+High alch: 48,000 coins
+Low alch: 32,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 98,304,417 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 397
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +26
+- Ranged: -7
+
+Defence Bonuses:
+- Stab: +27
+- Slash: +24
+- Crush: +30
+- Magic: +20
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +3%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ancient chest | N/A | 1 | 3/69 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyssal Sire/Strategies(Phase 1 Magic)
+1 | Abyssal Sire/Strategies(Phase 2 Magic)
+1 | Adamant dragon/Strategies(Magic)
+1 | Adamant dragon/Strategies(Magic)
+1 | Ancient Wyvern/Strategies(Magic)
+1 | Artio/Strategies(Magic)
+1 | Barbarian Assault/Strategies(Magic)
+1 | Barrows/Strategies(Magic equipment)
+1 | Callisto/Strategies(Magic)
+1 | Chambers of Xeric/Challenge Mode(Magic)
+1 | Chambers of Xeric/Challenge Mode/Strategies(Magic)
+1 | Chambers of Xeric/Strategies(Magic)
+1 | Commander Zilyana/Strategies(Magic)
+1 | Deranged archaeologist/Strategies(Magic)
+1 | Drake/Strategies(Magic)
+2 | Dust devil/Strategies(Bursting/Barraging)
+1 | Fortis Colosseum/Strategies(Mage)
+1 | General Graardor/Strategies(Solo (Magic))
+1 | Giant Mole/Strategies(Magic)
+2 | Greater Nechryael/Strategies(Bursting/Barraging)
+1 | Hespori/Strategies(Mage)
+2 | Inferno/Strategies(Learners)
+2 | Inferno/Strategies(On task)
+1 | K'ril Tsutsaroth/Strategies(Magic)
+1 | Kalphite Queen/Strategies(Max Mage (0 switches))
+1 | Kraken/Strategies(Magic)
+1 | Kree'arra/Strategies(Magic)
+2 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+2 | Maniacal monkey/Strategies(Magic - Ice Burst)
+1 | Metal dragons/Strategies(Magic)
+1 | The Mimic/Strategies(Magic)
+1 | Mithril dragon/Strategies(Magic)
+1 | Nightmare Zone/Strategies(Magic)
+1 | The Nightmare/Strategies(Mage)
+1 | Phantom Muspah/Strategies(Magic & Ranged)
+1 | Phosani's Nightmare/Strategies(Mage)
+1 | Revenants/Strategies(Magic)
+1 | Rune dragon/Strategies(Magic)
+1 | Sarachnis/Strategies(Magic)
+1 | Scurrius/Strategies(Magic (high level))
+1 | Skeletal Wyvern/Strategies(Magic)
+2 | Skeleton (Ape Atoll)(Magic)
+2 | Slayer task/Abyssal demons(Magic)
+1 | Slayer task/Fossil Island wyverns(Magic)
+2 | Slayer task/Jellies(Magic)
+2 | Slayer task/Nechryael(Magic)
+1 | Slayer task/Trolls(Magic (Ice trolls))
+2 | Slayer training(Magic (Barrage))
+2 | Smoke devil/Strategies
+1 | The Bane of Demons(Magic)
+1 | Theatre of Blood/Hard Mode(Magic)
+1 | Theatre of Blood/Strategies(Magic)
+2 | Thermonuclear smoke devil/Strategies(Magic)
+1 | Tombs of Amascut/Strategies(Magic switch)
+1 | Tormented Demon/Strategies(Magic switch)
+1 | TzHaar Fight Cave/Strategies(Magic)
+1 | Ultimate Ironman Guide/Equipment
+2 | Ultimate Ironman Guide/Slayer
+1 | The Whisperer/Strategies(Magic)
+1 | Zulrah/Strategies(Magic)

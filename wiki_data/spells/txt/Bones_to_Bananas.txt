@@ -1,0 +1,131 @@
+[Spell: Bones_to_Bananas]
+
+Bones to Bananas
+
+
+
+
+
+
+
+Released | 26 May2001(Update)
+
+Members | No
+
+Level | 15
+
+Spellbook | Standard
+
+Type | Utility
+
+Experience | 25
+
+Runes | 221
+
+Casting speed | 1 tick
+
+Description | Changes held bones into bananas
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+TheBones to Bananasspell can be used to turn allnormal bones,monkey bones, andbig bonesin one's inventory tobananas. It requires twowater runes, twoearth runes, and oneNature runeto be cast, with aMagiclevel of 15. This spell is very useful when fighting monsters which drop bones as a 100% drop, as thebananasproduced heal 2 Hitpoints each.
+
+If you are casting the spell only for magic experience, add only one bone to your inventory at a time as it turns ALL bones in inventory into bananas for only 25 exp per spell regardless of number of bones. At least one bone or big bone must be in your inventory to be able to cast the spell.
+
+Players can unlock the next tier of the Bones to Bananas spell,Bones to Peaches, usingPizazz pointsat theMage Training Arena. Players can then use the spell with aMagiclevel of 60, and the resultingpeachesheal 8 Hitpoints.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+221 | 135
+
+Combo runes
+
+212 | 143
+
+12 | 333
+
+212 | 179
+
+212 | 325
+
+212 | 371
+
+Main-hands
+
+21Alt | 125
+
+21Alt | 125
+
+1 | 115
+
+220.93 | 127
+
+Main and off-hands
+
+21 | 125
+
+21 | 125
+
+1Alt | 115
+
+1Alt | 115
+
+20.93 | 117
+
+20.93 | 117
+
+Changes[edit|edit source]
+
+Date | Changes
+
+8 May2024(update|poll) | Casting Bones to Bananas will no longer stall the player.
+
+31 March2016(update) | Adjusted the delays of the Bones to Bananas and Bones to Peaches to match the behaviour of the tablet versions of the spells.
+
+23 May2013(update|poll) | The 'Bones to Bananas' and 'Bones to Peaches' spells now work on more types of bone, including big bones.
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

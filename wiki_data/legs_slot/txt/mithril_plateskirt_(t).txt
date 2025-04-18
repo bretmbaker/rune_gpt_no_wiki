@@ -1,0 +1,54 @@
+[Weapon: Mithril Plateskirt (T)]
+
+
+Mithril plateskirt (t)is a part ofmithril trimmed armourand a reward frommediumTreasure Trails. It has the same stats as the regularMithril plateskirt, and requires level 20Defenceto wear. This itemcannotbe made via theSmithingskill. This itemcannotbe used in place of its untrimmed version for Treasure Trail emote steps.
+This item can be stored in thetreasure chestof acostume room, as part of themithril trimmed armourset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Mithril plateskirt with trim.
+General Store Value: 2,600 coins
+High alch: 1,560 coins
+Low alch: 1,040 coins
+Weight: 7.257 kg
+Grand Exchange Value: 2,468 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 93
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +24
+- Slash: +22
+- Crush: +20
+- Magic: -4
+- Ranged: +22
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 

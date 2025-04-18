@@ -1,0 +1,56 @@
+[Weapon: Gilded Chainbody]
+
+
+TheGilded chainbodyis a part ofgilded equipment. It has the same stats as the rune chainbody, and only differs in appearance. It requires 40Defenceto wear.
+It can be obtained as a reward fromhard,eliteandmastertierTreasure Trailsandcannotbe made through any skill.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A series of connected metal rings plated in gold.
+General Store Value: 50,000 coins
+High alch: 30,000 coins
+Low alch: 20,000 coins
+Weight: 6.803 kg
+Grand Exchange Value: 2,750,666 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 100
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +63
+- Slash: +72
+- Crush: +78
+- Magic: -3
+- Ranged: +65
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/32,257.5 | 
+Reward casket (hard) | N/A | 1 | 1/35,750 | 
+Reward casket (master) | N/A | 1 | 1/149,776 | 

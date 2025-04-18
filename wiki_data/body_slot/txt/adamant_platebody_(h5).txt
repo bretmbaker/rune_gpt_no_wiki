@@ -1,0 +1,54 @@
+[Weapon: Adamant Platebody (H5)]
+
+
+Anadamant platebody (h5)is an item obtained frommediumTreasure Trails. All of the adamant heraldic platebodies have the same stat bonuses as theadamant platebody. As with all Treasure Trails andadamant armour, this cannot be made with theSmithingskill. It requires 30Defenceto equip.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Adamant platebody with a heraldic design.
+General Store Value: 16,640 coins
+High alch: 9,984 coins
+Low alch: 6,656 coins
+Weight: 11.339 kg
+Grand Exchange Value: 9,269 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 94
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -30
+- Ranged: -15
+
+Defence Bonuses:
+- Stab: +65
+- Slash: +63
+- Crush: +55
+- Magic: -6
+- Ranged: +63
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 

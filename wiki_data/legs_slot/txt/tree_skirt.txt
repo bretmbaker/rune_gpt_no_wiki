@@ -1,0 +1,46 @@
+[Weapon: Tree Skirt]
+
+
+Thetree skirtis an untradeable cosmetic item. It is part of theChristmas tree costume, which can be obtained by completing one of theChristmasholiday eventsthat occur once per year.
+If destroyed, a replacement can be obtained fromDiangoinDraynor Villageor from thetoy boxof acostume room, as part of the2018: Christmas Tree Suitset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 13 December2018(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: During event: You can make yourself another outfit if you need it.After event: You can get a replacement from Diango.
+Examine: The bottom of a tree costume.
+General Store Value: 0 coins
+Alchemy: Not alchemisable
+Weight: 0.25 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

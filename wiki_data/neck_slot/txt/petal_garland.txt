@@ -1,0 +1,51 @@
+[Weapon: Petal Garland]
+
+
+ThePetal garlandis a purely cosmeticneck slotitem that can be obtained as a possible reward from theEnchantment RitualForestry event. Note that the petal garlandcannotbe stored in aplayer-owned house.
+There is a fixed chance of 1/30 to receive the petal garland upon completing at least one step of the ritual,[1]provided the player was eligible for the full rewards of the event.[2]When receiving one, a game message in the chatbox will stateThe Dryad also hands you a Petal garland.
+
+
+[Infobox]
+Released: 25 October2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A gift from a Dryad.
+General Store Value: 1,000 coins
+High alch: 600 coins
+Low alch: 400 coins
+Weight: 0.01 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Enchantment Ritual | N/A | 1 | 1/30 | N/A

@@ -1,0 +1,5 @@
+Item: Huasca seed
+Summary: Huasca seeds can be planted in a herb patch at level 65 Farming to yield grimy huasca, which is used to create prayer regeneration potions.
+Sources:
+- Chest (moon key) (Level N/A, Quantity: 6, Rarity: 10/107)
+- The Hueycoatl (Level 642, Quantity: 1–20, Rarity: 2/68)

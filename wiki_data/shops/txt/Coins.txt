@@ -1,0 +1,1651 @@
+[Shop: Coins]
+
+Coins
+
+
+
+
+
+
+
+Released | 4 January2001(Update)
+
+Also called | gold pieces, gp
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | Yes
+
+Noteable | No
+
+Options | Drop
+
+Examine | Lovely money!
+
+
+
+Values
+
+
+
+Value | 1 coin
+
+Alchemy | Not alchemisable
+
+Weight | 0 kg
+
+Respawn time | 100 ticks (60 seconds)
+
+
+
+Advanced data
+
+
+
+Item ID | 995
+
+Link | MOID
+
+
+
+Coins(also referred to asgold pieces,gp,gold, or simplymoney) are the most common form ofcurrencyinGielinor. They are used among players andnon-player charactersalike to exchange for items and services.
+
+Players often refer to one thousand (1,000) coins as1kand one million (1,000,000) coins as1mor1mil. Both can be applied to larger numbers, for example,10mrefers to ten million coins (10,000,000).1bor1bilrefers to one billion coins (1,000,000,000).
+
+Alchemy spells, which create coins, cannot be cast on coins. If a player attempts it, a message will inform the player thatCoins are already made of gold.Curiously, other items made of gold, such asgold oreandgold bars, can be turned into coins with Alchemy spells.
+
+Wearing aRing of Wealthwill automatically pick up coins dropped by NPCs upon killing them as long as the player has inventory space available.
+
+Players can askAnjainRimmingtonfor some free stuff, and after the dialogue she will give 1 to 3 coins.
+
+Terminology[edit|edit source]
+
+Alternate terms for coins have seldom seen official usage sinceRuneScape Classicwas replaced byRuneScape 2. Very fewNPCsuse any other term than "coins," a few examples being theBlast Furnace foremaninKeldagrim, who calls them "GP" as he prefers to associate coins with the metal at the expense of proper terminology, and the glassblower onEntrana, who calls them "gold pieces." The term "gp" is sometimes used in abbreviations such as on the right-click menu of theAl Kharidgates, which includes the option "Pay-toll(10gp)" to pay the toll and go through.
+
+Real world trading[edit|edit source]
+
+Some players purchase coins in exchange for real-world money through a third party. This is known asreal world trading. Although players can potentially gain monetary value withinRuneScapeby such means, this method isnotrecommended, as Rule #12 of theRuneScapeCode of Conduct forbids the trading ofRuneScapeitems for items outside ofRuneScape, and if engaged in can result in a playerban.
+
+With the release ofOld school bonds, however, players may legally acquireRuneScapecoins using real-world money, albeit indirectly, by buying bonds fromJagexand selling them in-game to other players or on theGrand Exchange.
+
+Uses[edit|edit source]
+
+Quests[edit|edit source]
+
+Dragon Slayer I: 2,000 coins
+
+Pirate's Treasure: 60 coins (30 coins if usingRing of charos(a))
+
+Family Pest: 500,000 coins
+
+Unlockable content[edit|edit source]
+
+Extrabank spaces: starting from 1,000,000 coins up to 500,000,000 coins per group of 40 slotsFerox Enclavedeathrespawn point: 5,000,000 coinsEdgevilledeath respawn point: 5,000,000 coinsUnlimited access to thenorthern entranceofBrimhaven Dungeon: 1,000,000 coinsUnlimited access toAndras' boat: 1,000,000 coinsUnlimitedcamuletcharges: 1,000,000 coinsThe option to enableloot keys: 1,000,000 coinsUnlimitedgyr falconaccess: 500,000 coinsAngelgravestonecosmetic enhancement: 200,000 coinsAbility to growZamorak's grapes: 75,000 coinsAccess to theContraband Yak Producestore: 5,000 coinsPlayer-owned house: 1,000 coins (relocating, redecorating, buying rooms and certain types of furniture also cost coins)
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Accursed sceptre (u)(Phabelle Bile) |  | None | None | 1 ×Thammaron's sceptre (u)1 ×Skull of vet'ion500,000 ×Coins
+
+ | Antipoison(4)(Apothecary) |  | None | None | 1 ×Limpwurt root1 ×Cadava berries5 ×Coins
+
+ | Arcane spirit shield(Abbot Langley) |  | None | None | 1 ×Blessed spirit shield1 ×Arcane sigil1,500,000 ×Coins
+
+ | Asgoldian ale |  | None | None | 1 ×Asgarnian ale1 ×Coins
+
+ | Ava's accumulator |  | 50 | 0 | 999 ×Coins75 ×Steel arrow
+
+ | Ava's assembler |  | None | None | 4,999 ×Coins1 ×Vorkath's head75 ×Mithril arrow
+
+ | Baby red dragon (POH) |  | 82 | 387 | 150,000 ×Coins
+
+ | Bandana eyepatch (blue) |  | None | None | 1 ×Pirate bandana (blue)1 ×Right eye patch500 ×Coins
+
+ | Bandana eyepatch (brown) |  | None | None | 1 ×Pirate bandana (brown)1 ×Right eye patch500 ×Coins
+
+ | Bandana eyepatch (red) |  | None | None | 1 ×Pirate bandana (red)1 ×Right eye patch500 ×Coins
+
+ | Bandana eyepatch (white) |  | None | None | 1 ×Pirate bandana (white)1 ×Right eye patch500 ×Coins
+
+ | Barrelchest anchor |  | None | None | 1 ×Barrelchest anchor (broken)230,000 ×Coins
+
+ | Beret mask |  | None | None | 1 ×Black beret1 ×Mime mask500 ×Coins
+
+ | Black dragon leather(Normal tanner) |  | None | None | 1 ×Black dragonhide20 ×Coins
+
+ | Black dragon leather(Sbott) |  | None | None | 1 ×Black dragonhide45 ×Coins
+
+ | Blue dragon leather(Normal tanner) |  | None | None | 1 ×Blue dragonhide20 ×Coins
+
+ | Blue dragon leather(Sbott) |  | None | None | 1 ×Blue dragonhide45 ×Coins
+
+ | Blue dye(Aggie) |  | None | None | 2 ×Woad leaf5 ×Coins
+
+ | Blue dye(Ali the dyer) |  | None | None | 2 ×Woad leaf25 ×Coins
+
+ | Bone mace(Historian Aldo) |  | None | None | 1 ×Rune mace1 ×Scurrius' spine50,000 ×Coins
+
+ | Bone shortbow(Historian Aldo) |  | None | None | 1 ×Yew shortbow1 ×Scurrius' spine50,000 ×Coins
+
+ | Bone staff(Historian Aldo) |  | None | None | 1 ×Battlestaff1,000 ×Chaos rune1 ×Scurrius' spine50,000 ×Coins
+
+ | Bounty supply crate (anglerfish) |  | None | None | 1 ×Blighted super restore(4)2 ×Blighted karambwan1,000 ×Coins8 ×Blighted anglerfish
+
+ | Bounty supply crate (manta ray) |  | None | None | 1 ×Blighted super restore(4)2 ×Blighted karambwan1,000 ×Coins8 ×Blighted manta ray
+
+ | Bryophyta's staff (uncharged)(Zaff) |  | None | None | 1 ×Bryophyta's essence50,000 ×Coins
+
+ | Bucket of sand× 8(Sandstorm) |  | None | None | 1 ×Sandstone (10kg)8 ×Bucket400 ×Coins
+
+ | Bucket of sand× 4(Sandstorm) |  | None | None | 1 ×Sandstone (5kg)4 ×Bucket200 ×Coins
+
+ | Bucket of sand× 2(Sandstorm) |  | None | None | 1 ×Sandstone (2kg)2 ×Bucket100 ×Coins
+
+ | Bucket of sand(Sandstorm) |  | None | None | 1 ×Sandstone (1kg)1 ×Bucket50 ×Coins
+
+ | Cavalier mask |  | None | None | 1 ×Black cavalier1 ×Highwayman mask500 ×Coins
+
+ | Chromium ingot(Chromium ingot (first time)) |  | 85 | 35000 | 40 ×Adamantite ore40 ×Runite ore170,000 ×Coins
+
+ | Chromium ingot(Chromium ingot (first time)) |  | 85 | 0 | 40 ×Adamantite ore40 ×Runite ore170,000 ×Coins
+
+ | Crabclaw hook |  | None | None | 1 ×Crab claw1 ×Pirate's hook500 ×Coins
+
+ | Crystal bow(Ilfeen) |  | None | None | 1 ×Crystal weapon seed180,000 ×Coins
+
+ | Crystal halberd(Ilfeen) |  | None | None | 1 ×Crystal weapon seed150,000 ×Coins
+
+ | Crystal halberd(Islwyn) |  | None | None | 750,000 ×Coins
+
+ | Crystal shield(Ilfeen) |  | None | None | 1 ×Crystal weapon seed150,000 ×Coins
+
+ | Cured yak-hide |  | None | None | 1 ×Yak-hide5 ×Coins
+
+ | Dagannoth (Construction) |  | 90 | 2738 | 7,500,000 ×Coins
+
+ | Dark flippers |  | None | None | 1 ×Dark claw1 ×Flippers500 ×Coins
+
+ | Demon (Construction) |  | 75 | 707 | 500,000 ×Coins
+
+ | Desert camo legs |  | None | None | 2 ×Desert devil fur20 ×Coins
+
+ | Desert camo top |  | None | None | 2 ×Desert devil fur20 ×Coins
+
+ | Double eye patch |  | None | None | 1 ×Left eye patch1 ×Right eye patch500 ×Coins
+
+ | Dragon pickaxe |  | None | None | 1 ×Dragon pickaxe (broken)2,500,000 ×Coins
+
+ | Dragonfire shield(Oziach) |  | None | None | 1 ×Anti-dragon shield1 ×Draconic visage1,250,000 ×Coins
+
+ | Dragonfire ward(Oziach) |  | None | None | 1 ×Anti-dragon shield1 ×Skeletal visage1,250,000 ×Coins
+
+ | Elysian spirit shield(Abbot Langley) |  | None | None | 1 ×Blessed spirit shield1 ×Elysian sigil1,500,000 ×Coins
+
+ | Flame pit |  | 77 | 357 | 20 ×Tinderbox125,000 ×Coins
+
+ | Gloves of silence |  | None | None | 2 ×Dark kebbit fur600 ×Coins
+
+ | Graahk headdress |  | None | None | 1 ×Graahk fur750 ×Coins
+
+ | Graahk legs |  | None | None | 1 ×Tatty graahk fur150 ×Coins
+
+ | Graahk legs |  | None | None | 1 ×Graahk fur150 ×Coins
+
+ | Graahk top |  | None | None | 1 ×Graahk fur150 ×Coins
+
+ | Graahk top |  | None | None | 1 ×Tatty graahk fur150 ×Coins
+
+ | Green dragon leather(Normal tanner) |  | None | None | 1 ×Green dragonhide20 ×Coins
+
+ | Green dragon leather(Sbott) |  | None | None | 1 ×Green dragonhide45 ×Coins
+
+ | Guard dog (Construction) |  | 74 | 273 | 75,000 ×Coins
+
+ | Hard leather(Normal tanner) |  | None | None | 1 ×Cowhide3 ×Coins
+
+ | Hard leather(Sbott) |  | None | None | 1 ×Cowhide5 ×Coins
+
+ | Hat eyepatch |  | None | None | 1 ×Pirate's hat1 ×Right eye patch500 ×Coins
+
+ | Hellhound (Construction) |  | 94 | 2236 | 5,000,000 ×Coins
+
+ | Hobgoblin guard |  | 78 | 316 | 100,000 ×Coins
+
+ | Huge spider |  | 86 | 447 | 200,000 ×Coins
+
+ | Iban's staff (u) |  | None | None | 1 ×Iban's staff200,000 ×Coins
+
+ | Jungle camo legs |  | None | None | 2 ×Feldip weasel fur20 ×Coins
+
+ | Jungle camo top |  | None | None | 2 ×Feldip weasel fur20 ×Coins
+
+ | Kalphite soldier (Construction) |  | 80 | 866 | 750,000 ×Coins
+
+ | Kyatt hat |  | None | None | 1 ×Kyatt fur1,000 ×Coins
+
+ | Kyatt legs |  | None | None | 1 ×Kyatt fur200 ×Coins
+
+ | Kyatt legs |  | None | None | 1 ×Tatty kyatt fur200 ×Coins
+
+ | Kyatt top |  | None | None | 1 ×Kyatt fur200 ×Coins
+
+ | Kyatt top |  | None | None | 1 ×Tatty kyatt fur200 ×Coins
+
+ | Larch plank(Plank Make) |  | 86 | 90 | 1 ×Larch logs1,400 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune
+
+ | Larch plank× 2(Plank Make) |  | 86 | 90 | 1 ×Larch logs1,400 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune1 ×Sawmill voucher
+
+ | Larupia hat |  | None | None | 1 ×Larupia fur500 ×Coins
+
+ | Larupia legs |  | None | None | 1 ×Larupia fur100 ×Coins
+
+ | Larupia legs |  | None | None | 1 ×Tatty larupia fur100 ×Coins
+
+ | Larupia top |  | None | None | 1 ×Larupia fur100 ×Coins
+
+ | Larupia top |  | None | None | 1 ×Tatty larupia fur100 ×Coins
+
+ | Leather(Normal tanner) |  | None | None | 1 ×Cowhide1 ×Coins
+
+ | Leather(Sbott) |  | None | None | 1 ×Cowhide3 ×Coins
+
+ | Mahogany plank× 2(Plank Make) |  | 86 | 90 | 1 ×Mahogany logs1,050 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune1 ×Sawmill voucher
+
+ | Mahogany plank× 2(Plank Make) |  | 86 | 90 | 1 ×Mahogany logs1,050 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune1 ×Sawmill voucher
+
+ | Mahogany plank(Plank Make) |  | 86 | 90 | 1 ×Mahogany logs1,050 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune
+
+ | Mahogany plank× 2(Sawmill) |  | None | None | 1 ×Mahogany logs1,500 ×Coins1 ×Sawmill voucher
+
+ | Mahogany plank× 2(Sawmill) |  | None | None | 1 ×Mahogany logs1,500 ×Coins1 ×Sawmill voucher
+
+ | Mahogany plank(Sawmill) |  | None | None | 1 ×Mahogany logs1,500 ×Coins
+
+ | Man trap |  | 76 | 273 | 75,000 ×Coins
+
+ | Mangled extract |  | None | None | 1 ×Tainted essence chunk12,000 ×Coins
+
+ | Marble trap |  | 84 | 387 | 150,000 ×Coins
+
+ | Mounted coins |  | 80 | 800 | 1 ×Marble block1 ×Gold leaf100,000,000 ×Coins
+
+ | Mystic air staff(Elite Kandarin Diary) |  | None | None | 1 ×Air battlestaff20,000 ×Coins
+
+ | Mystic air staff(Hard Kandarin Diary) |  | None | None | 1 ×Air battlestaff30,000 ×Coins
+
+ | Mystic air staff(No Diary) |  | None | None | 1 ×Air battlestaff40,000 ×Coins
+
+ | Mystic dust staff(Elite Kandarin Diary) |  | None | None | 1 ×Dust battlestaff20,000 ×Coins
+
+ | Mystic dust staff(Hard Kandarin Diary) |  | None | None | 1 ×Dust battlestaff30,000 ×Coins
+
+ | Mystic dust staff(No Diary) |  | None | None | 1 ×Dust battlestaff40,000 ×Coins
+
+ | Mystic earth staff(Elite Kandarin Diary) |  | None | None | 1 ×Earth battlestaff20,000 ×Coins
+
+ | Mystic earth staff(Hard Kandarin Diary) |  | None | None | 1 ×Earth battlestaff30,000 ×Coins
+
+ | Mystic earth staff(No Diary) |  | None | None | 1 ×Earth battlestaff40,000 ×Coins
+
+ | Mystic fire staff(Elite Kandarin Diary) |  | None | None | 1 ×Fire battlestaff20,000 ×Coins
+
+ | Mystic fire staff(Hard Kandarin Diary) |  | None | None | 1 ×Fire battlestaff30,000 ×Coins
+
+ | Mystic fire staff(No Diary) |  | None | None | 1 ×Fire battlestaff40,000 ×Coins
+
+ | Mystic lava staff(Elite Kandarin Diary) |  | None | None | 1 ×Lava battlestaff20,000 ×Coins
+
+ | Mystic lava staff(Hard Kandarin Diary) |  | None | None | 1 ×Lava battlestaff30,000 ×Coins
+
+ | Mystic lava staff(No Diary) |  | None | None | 1 ×Lava battlestaff40,000 ×Coins
+
+ | Mystic lava staff (or)(Elite Kandarin Diary) |  | None | None | 1 ×Lava battlestaff (or)20,000 ×Coins
+
+ | Mystic lava staff (or)(Hard Kandarin Diary) |  | None | None | 1 ×Lava battlestaff (or)30,000 ×Coins
+
+ | Mystic lava staff (or)(No Diary) |  | None | None | 1 ×Lava battlestaff (or)40,000 ×Coins
+
+ | Mystic mist staff(Elite Kandarin Diary) |  | None | None | 1 ×Mist battlestaff20,000 ×Coins
+
+ | Mystic mist staff(Hard Kandarin Diary) |  | None | None | 1 ×Mist battlestaff30,000 ×Coins
+
+ | Mystic mist staff(No Diary) |  | None | None | 1 ×Mist battlestaff40,000 ×Coins
+
+ | Mystic mud staff(Elite Kandarin Diary) |  | None | None | 1 ×Mud battlestaff20,000 ×Coins
+
+ | Mystic mud staff(Hard Kandarin Diary) |  | None | None | 1 ×Mud battlestaff30,000 ×Coins
+
+ | Mystic mud staff(No Diary) |  | None | None | 1 ×Mud battlestaff40,000 ×Coins
+
+ | Mystic smoke staff(Elite Kandarin Diary) |  | None | None | 1 ×Smoke battlestaff20,000 ×Coins
+
+ | Mystic smoke staff(Hard Kandarin Diary) |  | None | None | 1 ×Smoke battlestaff30,000 ×Coins
+
+ | Mystic smoke staff(No Diary) |  | None | None | 1 ×Smoke battlestaff40,000 ×Coins
+
+ | Mystic steam staff(Elite Kandarin Diary) |  | None | None | 1 ×Steam battlestaff20,000 ×Coins
+
+ | Mystic steam staff(Hard Kandarin Diary) |  | None | None | 1 ×Steam battlestaff30,000 ×Coins
+
+ | Mystic steam staff(No Diary) |  | None | None | 1 ×Steam battlestaff40,000 ×Coins
+
+ | Mystic steam staff (or)(Elite Kandarin Diary) |  | None | None | 1 ×Steam battlestaff (or)20,000 ×Coins
+
+ | Mystic steam staff (or)(Hard Kandarin Diary) |  | None | None | 1 ×Steam battlestaff (or)30,000 ×Coins
+
+ | Mystic steam staff (or)(No Diary) |  | None | None | 1 ×Steam battlestaff (or)40,000 ×Coins
+
+ | Mystic water staff(Elite Kandarin Diary) |  | None | None | 1 ×Water battlestaff20,000 ×Coins
+
+ | Mystic water staff(Hard Kandarin Diary) |  | None | None | 1 ×Water battlestaff30,000 ×Coins
+
+ | Mystic water staff(No Diary) |  | None | None | 1 ×Water battlestaff40,000 ×Coins
+
+ | Oak plank× 2(Plank Make) |  | 86 | 90 | 1 ×Oak logs175 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune1 ×Sawmill voucher
+
+ | Oak plank× 2(Plank Make) |  | 86 | 90 | 1 ×Oak logs175 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune1 ×Sawmill voucher
+
+ | Oak plank(Plank Make) |  | 86 | 90 | 1 ×Oak logs175 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune
+
+ | Oak plank× 2(Sawmill) |  | None | None | 1 ×Oak logs250 ×Coins1 ×Sawmill voucher
+
+ | Oak plank(Sawmill) |  | None | None | 1 ×Oak logs250 ×Coins
+
+ | Oak plank× 2(Sawmill) |  | None | None | 1 ×Oak logs250 ×Coins1 ×Sawmill voucher
+
+ | Partyhat & specs |  | None | None | 1 ×Blue partyhat1 ×Sagacious spectacles500 ×Coins
+
+ | Pirate hat & patch |  | None | None | 1 ×Big pirate hat1 ×Right eye patch500 ×Coins
+
+ | Plank× 2(Plank Make) |  | 86 | 90 | 1 ×Logs70 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune1 ×Sawmill voucher
+
+ | Plank× 2(Plank Make) |  | 86 | 90 | 1 ×Logs70 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune1 ×Sawmill voucher
+
+ | Plank(Plank Make) |  | 86 | 90 | 1 ×Logs70 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune
+
+ | Plank× 2(Sawmill) |  | None | None | 1 ×Logs100 ×Coins1 ×Sawmill voucher
+
+ | Plank(Sawmill) |  | None | None | 1 ×Logs100 ×Coins
+
+ | Plank× 2(Sawmill) |  | None | None | 1 ×Logs100 ×Coins1 ×Sawmill voucher
+
+ | Polar camo legs |  | None | None | 2 ×Polar kebbit fur20 ×Coins
+
+ | Polar camo top |  | None | None | 2 ×Polar kebbit fur20 ×Coins
+
+ | Red dragon leather(Normal tanner) |  | None | None | 1 ×Red dragonhide20 ×Coins
+
+ | Red dragon leather(Sbott) |  | None | None | 1 ×Red dragonhide45 ×Coins
+
+ | Red dye(Aggie) |  | None | None | 3 ×Redberries5 ×Coins
+
+ | Red dye(Ali the dyer) |  | None | None | 3 ×Redberries25 ×Coins
+
+ | Ring of forging(Murky Matt) |  | None | None | 1 ×Ruby ring250 ×Coins
+
+ | Ring of wealth (i) |  | None | None | 1 ×Ring of wealth1 ×Ring of wealth scroll50,000 ×Coins
+
+ | Rock-shell helm |  | None | None | 1 ×Dagannoth hide1 ×Rock-shell chunk5,000 ×Coins
+
+ | Rock-shell legs |  | None | None | 2 ×Dagannoth hide1 ×Rock-shell splinter7,500 ×Coins
+
+ | Rock-shell plate |  | None | None | 3 ×Dagannoth hide1 ×Rock-shell shard10,000 ×Coins
+
+ | Rocnar |  | 83 | 387 | 150,000 ×Coins
+
+ | Rosewood plank(Plank Make) |  | 86 | 90 | 1 ×Rosewood logs1,400 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune
+
+ | Rosewood plank× 2(Plank Make) |  | 86 | 90 | 1 ×Rosewood logs1,400 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune1 ×Sawmill voucher
+
+ | Rune dragon (Construction) |  | 99 | 5000 | 25,000,000 ×Coins
+
+ | Scarred extract |  | None | None | 1 ×Tainted essence chunk24,000 ×Coins
+
+ | Skeletal bottoms |  | None | None | 2 ×Dagannoth hide1 ×Fibula piece7,500 ×Coins
+
+ | Skeletal helm |  | None | None | 1 ×Dagannoth hide1 ×Skull piece5,000 ×Coins
+
+ | Skeletal top |  | None | None | 3 ×Dagannoth hide1 ×Ribcage piece10,000 ×Coins
+
+ | Skeleton guard |  | 70 | 223 | 50,000 ×Coins
+
+ | Snakeskin(Normal tanners) |  | None | None | 1 ×Snake hide15 ×Coins
+
+ | Snakeskin(Normal tanners) |  | None | None | 1 ×Snake hide (swamp)20 ×Coins
+
+ | Snakeskin(Sbott) |  | None | None | 1 ×Snake hide (swamp)45 ×Coins
+
+ | Snakeskin(Sbott) |  | None | None | 1 ×Snake hide25 ×Coins
+
+ | Spectral spirit shield(Abbot Langley) |  | None | None | 1 ×Blessed spirit shield1 ×Spectral sigil1,500,000 ×Coins
+
+ | Spike trap |  | 72 | 223 | 50,000 ×Coins
+
+ | Spikes |  | 65 | 623 | 20 ×Steel bar50,000 ×Coins
+
+ | Spined body |  | None | None | 3 ×Dagannoth hide1 ×Flattened hide10,000 ×Coins
+
+ | Spined chaps |  | None | None | 2 ×Dagannoth hide1 ×Stretched hide7,500 ×Coins
+
+ | Spined helm |  | None | None | 1 ×Dagannoth hide1 ×Circular hide5,000 ×Coins
+
+ | Splitbark body(Wizard Jalarast) |  | None | None | 4 ×Bark4 ×Fine cloth37,000 ×Coins
+
+ | Splitbark boots(Wizard Jalarast) |  | None | None | 1 ×Bark1 ×Fine cloth1,000 ×Coins
+
+ | Splitbark gauntlets(Wizard Jalarast) |  | None | None | 1 ×Bark1 ×Fine cloth1,000 ×Coins
+
+ | Splitbark helm(Wizard Jalarast) |  | None | None | 2 ×Bark2 ×Fine cloth6,000 ×Coins
+
+ | Splitbark legs(Wizard Jalarast) |  | None | None | 3 ×Bark3 ×Fine cloth32,000 ×Coins
+
+ | Spotted cape |  | None | None | 2 ×Spotted kebbit fur400 ×Coins
+
+ | Spottier cape |  | None | None | 2 ×Dashing kebbit fur800 ×Coins
+
+ | Steel dragon (Construction) |  | 95 | 3162 | 10,000,000 ×Coins
+
+ | Strength potion(4)(Apothecary) |  | None | None | 1 ×Limpwurt root1 ×Red spiders' eggs5 ×Coins
+
+ | Stuffed abyssal head |  | None | None | 1 ×Abyssal head12,000 ×Coins
+
+ | Stuffed basilisk head |  | None | None | 1 ×Basilisk head4,000 ×Coins
+
+ | Stuffed big bass |  | None | None | 1 ×Big bass1,000 ×Coins
+
+ | Stuffed big harpoonfish |  | None | None | 1 ×Big harpoonfish3,500 ×Coins
+
+ | Stuffed big shark |  | None | None | 1 ×Big shark5,000 ×Coins
+
+ | Stuffed big swordfish |  | None | None | 1 ×Big swordfish2,500 ×Coins
+
+ | Stuffed cockatrice head |  | None | None | 1 ×Cockatrice head2,000 ×Coins
+
+ | Stuffed crawling hand |  | None | None | 1 ×Crawling hand (item)1,000 ×Coins
+
+ | Stuffed hydra heads |  | None | None | 1 ×Alchemical hydra heads50,000 ×Coins
+
+ | Stuffed kbd heads |  | None | None | 1 ×Kbd heads50,000 ×Coins
+
+ | Stuffed kq head |  | None | None | 1 ×Kq head50,000 ×Coins
+
+ | Stuffed kq head (tattered) |  | None | None | 1 ×Kq head (tattered)50,000 ×Coins
+
+ | Stuffed kurask head |  | None | None | 1 ×Kurask head6,000 ×Coins
+
+ | Suqah leather |  | None | None | 1 ×Suqah hide100 ×Coins
+
+ | Tangle vine |  | 80 | 316 | 100,000 ×Coins
+
+ | Teak plank× 2(Plank Make) |  | 86 | 90 | 1 ×Teak logs350 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune1 ×Sawmill voucher
+
+ | Teak plank(Plank Make) |  | 86 | 90 | 1 ×Teak logs350 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune
+
+ | Teak plank× 2(Plank Make) |  | 86 | 90 | 1 ×Teak logs350 ×Coins1 ×Nature rune2 ×Astral rune15 ×Earth rune1 ×Sawmill voucher
+
+ | Teak plank× 2(Sawmill) |  | None | None | 1 ×Teak logs500 ×Coins1 ×Sawmill voucher
+
+ | Teak plank× 2(Sawmill) |  | None | None | 1 ×Teak logs500 ×Coins1 ×Sawmill voucher
+
+ | Teak plank(Sawmill) |  | None | None | 1 ×Teak logs500 ×Coins
+
+ | Teleport crystal |  | None | None | 1 ×Crystal teleport seed150 ×Coins
+
+ | Teleport trap |  | 88 | 447 | 200,000 ×Coins
+
+ | Tentacle pool |  | 71 | 326 | 20 ×Bucket of water100,000 ×Coins
+
+ | Tok-Xil (Construction) |  | 85 | 2236 | 5,000,000 ×Coins
+
+ | Top hat & monocle |  | None | None | 1 ×Top hat1 ×Monocle500 ×Coins
+
+ | Troll (Construction) |  | 90 | 1000 | 1,000,000 ×Coins
+
+ | Twisted extract |  | None | None | 1 ×Tainted essence chunk6,000 ×Coins
+
+ | Ursine chainmace (u)(Andros Mai) |  | None | None | 1 ×Viggora's chainmace (u)1 ×Claws of callisto500,000 ×Coins
+
+ | Vesta's blighted longsword |  | None | None | 1 ×Vesta's longsword (inactive)50,000,000 ×Coins
+
+ | Voidwaker |  | None | None | 1 ×Voidwaker blade1 ×Voidwaker hilt1 ×Voidwaker gem500,000 ×Coins
+
+ | Vorkath's stuffed head |  | None | None | 1 ×Vorkath's head50,000 ×Coins
+
+ | Warped extract |  | None | None | 1 ×Tainted essence chunk1,250 ×Coins
+
+ | Webweaver bow (u)(Derse Venator) |  | None | None | 1 ×Craw's bow (u)1 ×Fangs of venenatis500,000 ×Coins
+
+ | Wood camo legs |  | None | None | 2 ×Common kebbit fur20 ×Coins
+
+ | Wood camo top |  | None | None | 2 ×Common kebbit fur20 ×Coins
+
+ | Yellow dye(Aggie) |  | None | None | 2 ×Onion5 ×Coins
+
+ | Yellow dye(Ali the dyer) |  | None | None | 2 ×Onion25 ×Coins
+
+ | Zamorakian hasta(Elite Kandarin Diary) |  | None | None | 1 ×Zamorakian spear150,000 ×Coins
+
+ | Zamorakian hasta(No Diary) |  | None | None | 1 ×Zamorakian spear300,000 ×Coins
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Aberrant spectre | 96 | 460 | 1/128 | 
+
+Abhorrent spectre | 253 | 460 | 3 × 1/128 | 
+
+Abyssal Sire | 350 | 48,000–52,000 | 11/139 | 
+
+Abyssal demonStandard | 124 | 132 | 35/128 | 
+
+Abyssal demonStandard | 124 | 220 | 9/128 | 
+
+Abyssal demonStandard | 124 | 30 | 7/128 | 
+
+Abyssal demonStandard | 124 | 44 | 6/128 | 
+
+Abyssal demonStandard | 124 | 460 | 1/128 | 
+
+Adventurer JonGetting a grip(m) | N/A | 500 | Always | N/A
+
+Adventurer JonWeapons master(m) | N/A | 1,000 | Always | N/A
+
+Adventurer JonBody Builder(m) | N/A | 500 | Always | N/A
+
+Adventurer JonGetting started Attack(m) | N/A | 500 | Always | N/A
+
+Afflicted | 30; 32; 34; 37 | 3 | 38/128 | 
+
+Afflicted | 30; 32; 34; 37 | 5 | 9/128 | 
+
+Afflicted | 30; 32; 34; 37 | 15 | 4/128 | 
+
+Afflicted | 30; 32; 34; 37 | 25 | 1/128 | 
+
+Agnar | 45 | 40 | Always | 
+
+Air elemental | 34 | 12 | 36/128 | 
+
+Air elemental | 34 | 42 | 3/128 | 
+
+Al Kharid warrior | 9 | 3 | 38/128 | 
+
+Al Kharid warrior | 9 | 10 | 23/128 | 
+
+Al Kharid warrior | 9 | 5 | 9/128 | 
+
+Al Kharid warrior | 9 | 15 | 4/128 | 
+
+Al Kharid warrior | 9 | 25 | 1/128 | 
+
+Al Kharid warrior | 25 | 18 | Always | 
+
+Alchemical Hydra | 426 | 5,550–25,550 | 2 × 0.5/101 | 
+
+Alchemical Hydra | 426 | 40,000–60,000 | 2 × 9.5/101 | 
+
+Alexis | 24 | 6 | 20/512 | 
+
+Alexis | 24 | 15 | 5/512 | 
+
+Alexis | 24 | 16 | 5/512 | 
+
+Alexis | 24 | 20 | 10/512 | 
+
+Alexis | 24 | 38 | 5/512 | 
+
+Alexis | 24 | 50 | 5/512 | 
+
+Alexis | 24 | 96 | 5/512 | 
+
+Alexis | 24 | 120 | 5/512 | 
+
+Ancient Wizard | 98; 112 | 50–249 | 10/50 | 
+
+Ancient Wyvern | 210 | 2,000–6,000 | 7/132 | 
+
+Angry barbarian spirit | 166 | 142 | 10/128 | 
+
+Angry barbarian spirit | 166 | 106 | 5/128 | 
+
+Angry barbarian spirit | 166 | 106 | 2/128 | 
+
+Angry barbarian spirit | 166 | 323 | 1/128 | 
+
+Anja | 2 | 3 | 38/128 | 
+
+Anja | 2 | 10 | 23/128 | 
+
+Anja | 2 | 5 | 9/128 | 
+
+Anja | 2 | 15 | 4/128 | 
+
+Anja | 2 | 25 | 1/128 | 
+
+Anja | 1 | 3 | Always | 
+
+AnkouWilderness Slayer Cave | 98 | 500–999 | 10/95 | 
+
+AnkouRegular | 75; 82; 86; 95 | 8 | 33/100 | 
+
+AnkouRegular | 75; 82; 86; 95 | 5–204 | 10/100 | 
+
+AnkouFree-to-play | 75; 82; 86 | 8 | 33/100 | 
+
+AnkouFree-to-play | 75; 82; 86 | 5–204 | 10/100 | 
+
+AnkouFree-to-play | 75; 82; 86 | 10 | 3/100 | 
+
+AnkouFree-to-play | 75; 82; 86 | 5 | 1/100 | 
+
+AraxyteLevel 146 | 146 | 1,600–2,400 | 10/127 | 
+
+AraxyteLevel 96 | 96 | 800–1,200 | 10/127 | 
+
+Archer (Burthorpe) | 42 | 3 | 1/128 | 
+
+Archer (Burthorpe) | 42 | 5 | 39/128 | 
+
+Archer (Burthorpe) | 42 | 15 | 16/128 | 
+
+Archer (Burthorpe) | 42 | 12 | 9/128 | 
+
+Archer (Burthorpe) | 42 | 28 | 4/128 | 
+
+Archer (Burthorpe) | 42 | 42 | 4/128 | 
+
+Archer (Burthorpe) | 42 | 46 | 2/128 | 
+
+Armadylean guard | 97 | 35 | 37/128 | 
+
+Armadylean guard | 97 | 350 | 12/128 | 
+
+Armoured zombie (Zemouregal's Base) | 85 | 10–20 | 3/128 | 
+
+Armoured zombie (Zemouregal's Base) | 85 | 50–400 | 31/128 | 
+
+Armoured zombie (Zemouregal's Fort) | 109 | 20–30 | 3/128 | &&
+
+Armoured zombie (Zemouregal's Fort) | 109 | 200–600 | 30/128 | &&
+
+ArrgNormal | 113 | 35 | 29/128 | 
+
+ArrgNormal | 113 | 100 | 10/128 | 
+
+ArrgNormal | 113 | 8 | 7/128 | 
+
+ArrgNormal | 113 | 50 | 6/128 | 
+
+ArrgNormal | 113 | 250 | 1/128 | 
+
+Artio | 320 | 12,000 | 21/128 | 
+
+Asyn remains | 65; 80; 95 | 800–900 | 21/100 | 
+
+Balfrug Kreeyath | 151 | 1,300–1,400 | 66/127 | 
+
+Balfrug Kreeyath | 151 | 1,300–1,400 | 124/16,129 | 
+
+Balfrug Kreeyath | 151 | 1,300–1,400 | 9/1,524 | 
+
+Bandit (Bandit Camp) | 57; 74 | 12 | 23/128 | 
+
+Bandit (Bandit Camp) | 57; 74 | 20 | 12/128 | 
+
+Bandit (Bandit Camp) | 57; 74 | 30 | 1/128 | 
+
+Bandit (Bandit Camp) | 57; 74 | 45 | 6/128 | 
+
+Bandit (Bandit Camp) | 53 | 30 | 5/7 | 
+
+Bandit (Pollnivneach)Bearded | 45 | 40 | Always | N/A
+
+Bandit (Pollnivneach)No beard | 55 | 50 | Always | N/A
+
+Bandit (Shayzien) | 22 | 10 | 27/128 | 
+
+Bandit (Shayzien) | 22 | 35 | 26/128 | 
+
+Bandit (Shayzien) | 22 | 1 | 13/128 | 
+
+Bandit (Shayzien) | 22 | 50 | 11/128 | 
+
+Bandit (Shayzien) | 22 | 100 | 3/128 | 
+
+Bandit (Varlamore) | 23 | 10 | 27/128 | 
+
+Bandit (Varlamore) | 23 | 35 | 26/128 | 
+
+Bandit (Varlamore) | 23 | 1 | 13/128 | 
+
+Bandit (Varlamore) | 23 | 50 | 11/128 | 
+
+Bandit (Varlamore) | 23 | 100 | 3/128 | 
+
+BanditLevel 22(f) | 22 | 10 | 37/128 | 
+
+BanditLevel 22 | 22 | 35 | 26/128 | 
+
+BanditLevel 22 | 22 | 12 | 13/128 | 
+
+BanditLevel 22 | 22 | 53 | 10/128 | 
+
+BanditLevel 22 | 22 | 1 | 7/128 | 
+
+BanditLevel 22 | 22 | 80 | 2/128 | 
+
+BanditLevel 130 | 130 | 35 | 26/143 | 
+
+BanditLevel 130 | 130 | 120 | 13/143 | 
+
+BanditLevel 130 | 130 | 53 | 10/143 | 
+
+BanditLevel 130 | 130 | 250 | 2/143 | 
+
+BanditLevel 130 | 130 | 10 | 1/143 | 
+
+Bandosian guard | 125 | 35 | 37/128 | 
+
+Bandosian guard | 125 | 350 | 12/128 | 
+
+Banshee | 23 | 13 | 10/128 | 
+
+Banshee | 23 | 26 | 8/128 | 
+
+Banshee | 23 | 35 | 8/128 | 
+
+Barbarian (Barbarian Camp)Low level | 9; 10 | 5 | 42/128 | 
+
+Barbarian (Barbarian Camp)Low level | 9; 10 | 8 | 9/128 | 
+
+Barbarian (Barbarian Camp)Low level | 9; 10 | 17 | 5/128 | 
+
+Barbarian (Barbarian Camp)Low level | 9; 10 | 27 | 3/128 | 
+
+Barbarian (Barbarian Camp)High level | 15 | 8 | 42/128 | 
+
+Barbarian (Barbarian Camp)High level | 15 | 12 | 9/128 | 
+
+Barbarian (Barbarian Camp)High level | 15 | 25 | 5/128 | 
+
+Barbarian (Barbarian Camp)High level | 15 | 32 | 3/128 | 
+
+Barbarian Assault/GamblesLow | N/A | 15,000–20,000 | 1/32 | 
+
+Barbarian Assault/GamblesMedium | N/A | 30,000–40,000 | 1/32 | 
+
+Barbarian Assault/GamblesHigh | N/A | 50,000–75,000 | 1/32 | 
+
+BarbarianLow level | 8; 9; 10 | 5 | 42/128 | 
+
+BarbarianLow level | 8; 9; 10 | 8 | 9/128 | 
+
+BarbarianLow level | 8; 9; 10 | 17 | 5/128 | 
+
+BarbarianLow level | 8; 9; 10 | 27 | 3/128 | 
+
+BarbarianHigh level | 15; 17 | 8 | 42/128 | 
+
+BarbarianHigh level | 15; 17 | 12 | 9/128 | 
+
+BarbarianHigh level | 15; 17 | 25 | 5/128 | 
+
+BarbarianHigh level | 15; 17 | 32 | 3/128 | 
+
+Barrel (Shaman Caves) | N/A | 5–90 | Uncommon | &
+
+Basilisk Knight | 204 | 500–2,500 | 7/52 | 
+
+Basilisk Sentinel | 358 | 500–2,498 | 3 × 7/52 | 
+
+Basilisk | 61 | 44 | 29/128 | 
+
+Basilisk | 61 | 200 | 17/128 | 
+
+Basilisk | 61 | 132 | 5/128 | 
+
+Basilisk | 61 | 11 | 5/128 | 
+
+Basilisk | 61 | 440 | 1/128 | 
+
+Beekeeper (Random Event)(f) | N/A | 30–99 | Always | 
+
+Berry | 71 | 35 | 29/128 | 
+
+Berry | 71 | 100 | 10/128 | 
+
+Berry | 71 | 8 | 7/128 | 
+
+Berry | 71 | 50 | 6/128 | 
+
+Berry | 71 | 250 | 1/128 | 
+
+Berserk barbarian spirit | 166 | 142 | 10/128 | 
+
+Berserk barbarian spirit | 166 | 106 | 5/128 | 
+
+Berserk barbarian spirit | 166 | 106 | 2/128 | 
+
+Berserk barbarian spirit | 166 | 323 | 1/128 | 
+
+Big frogLevel 24 | 24 | 5 | 32/128 | 
+
+Big frogLevel 24 | 24 | 15 | 19/128 | 
+
+Black Chest (black) | N/A | 1–1,000 | Common | 
+
+Black Chest (brown) | N/A | 1–1,000 | Common | 
+
+Black Chest (crimson) | N/A | 1–1,000 | Common | 
+
+Black Chest (purple) | N/A | 1–1,000 | Common | 
+
+Black Chest (red) | N/A | 1–1,000 | Common | 
+
+Black Guard Berserker | 66 | 35 | 45/128 | 
+
+Black Guard Berserker | 66 | 42 | 5/128 | 
+
+Black Guard Berserker | 66 | 46 | 9/128 | 
+
+Black Guard Berserker | 66 | 57 | 3/128 | 
+
+Black GuardLevel 25 | 25 | 10 | 15/128 | 
+
+Black GuardLevel 25 | 25 | 30 | 2/128 | 
+
+Black GuardLevel 48 | 48 | 15 | 45/128 | 
+
+Black GuardLevel 48 | 48 | 17 | 5/128 | 
+
+Black GuardLevel 48 | 48 | 22 | 9/128 | 
+
+Black GuardLevel 48 | 48 | 27 | 3/128 | 
+
+Black GuardLevel 25 | 25 | 4 | 20/128 | 
+
+Black Heather | 34 | 48 | 30/128 | 
+
+Black Heather | 34 | 15 | 18/128 | 
+
+Black Heather(f) | 34 | 10 | 15/128 | 
+
+Black Heather | 34 | 8 | 11/128 | 
+
+Black Heather | 34 | 70 | 10/128 | 
+
+Black Heather | 34 | 5 | 5/128 | 
+
+Black Heather | 34 | 150 | 2/128 | 
+
+Black Knight TitanNormal | 120 | 38 | 14/128 | N/A
+
+Black Knight TitanNormal | 120 | 52 | 10/128 | N/A
+
+Black Knight TitanNormal | 120 | 15 | 8/128 | N/A
+
+Black Knight TitanNormal | 120 | 8 | 6/128 | N/A
+
+Black Knight TitanNormal | 120 | 88 | 2/128 | N/A
+
+Black Knight | 33 | 35 | 21/128 | 
+
+Black Knight(f) | 33 | 5 | 18/128 | 
+
+Black Knight | 33 | 6 | 11/128 | 
+
+Black Knight | 33 | 58 | 10/128 | 
+
+Black Knight | 33 | 12 | 9/128 | 
+
+Black Knight(f) | 33 | 10 | 3/128 | 
+
+Black Knight | 33 | 80 | 2/128 | 
+
+Black Knight | 33 | 1 | 14/128;Always | 
+
+Black demonRegular | 172; 178; 184 | 132 | 40/128 | 
+
+Black demonRegular | 172; 178; 184 | 30 | 7/128 | 
+
+Black demonRegular | 172; 178; 184 | 44 | 6/128 | 
+
+Black demonRegular | 172; 178; 184 | 220 | 6/128 | 
+
+Black demonRegular | 172; 178; 184 | 460 | 1/128 | 
+
+Black demonWilderness Slayer Cave | 188 | 250 | 7/74 | 
+
+Black dragonRegular | 227 | 196 | 40/128 | &&
+
+Black dragonRegular | 227 | 330 | 10/128 | &&
+
+Black dragonRegular | 227 | 690 | 1/128 | &&
+
+Black dragonWilderness Slayer Cave | 247 | 500–999 | 40/128 | 
+
+Black dragonWilderness Slayer Cave | 247 | 1,000–1,999 | 10/128 | 
+
+Black dragonWilderness Slayer Cave | 247 | 690 | 1/128 | 
+
+Blood Reaver | 161; 174 | 1 | 2/128 | 
+
+Blood Reaver | 161; 174 | 500 | 9/128 | 
+
+Blood Reaver | 161; 174 | 1,300–1,337 | 6/128 | 
+
+Bloodveld | 76; 81 | 10 | 7/128 | 
+
+Bloodveld | 76; 81 | 40 | 29/128 | 
+
+Bloodveld | 76; 81 | 120 | 30/128 | 
+
+Bloodveld | 76; 81 | 200 | 10/128 | 
+
+Bloodveld | 76; 81 | 450 | 1/128 | 
+
+Blue dragon | 111 | 44 | 29/128 | &
+
+Blue dragon | 111 | 132 | 25/128 | &
+
+Blue dragon | 111 | 200 | 10/128 | &
+
+Blue dragon | 111 | 11 | 5/128 | &
+
+Blue dragon | 111 | 440 | 1/128 | &
+
+Boris | 24 | 6 | 20/512 | 
+
+Boris | 24 | 15 | 5/512 | 
+
+Boris | 24 | 16 | 5/512 | 
+
+Boris | 24 | 20 | 10/512 | 
+
+Boris | 24 | 38 | 5/512 | 
+
+Boris | 24 | 50 | 5/512 | 
+
+Boris | 24 | 96 | 5/512 | 
+
+Boris | 24 | 120 | 5/512 | 
+
+Borrokar | 48 | 6 | 20/512 | 
+
+Borrokar | 48 | 15 | 15/512 | 
+
+Borrokar | 48 | 16 | 10/512 | 
+
+Borrokar | 48 | 20 | 10/512 | 
+
+Borrokar | 48 | 38 | 5/512 | 
+
+Borrokar | 45 | 40 | Always | 
+
+Bounty crate (tier 1) | N/A | 40,000–60,000 | Always | 
+
+Bounty crate (tier 2) | N/A | 80,000–120,000 | Always | 
+
+Bounty crate (tier 3) | N/A | 120,000–180,000 | Always | 
+
+Bounty crate (tier 4) | N/A | 160,000–240,000 | Always | 
+
+Bounty crate (tier 5) | N/A | 200,000–300,000 | Always | 
+
+Bounty crate (tier 6) | N/A | 240,000–360,000 | Always | 
+
+Bounty crate (tier 7) | N/A | 280,000–420,000 | Always | 
+
+Bounty crate (tier 8) | N/A | 320,000–480,000 | Always | 
+
+Bounty crate (tier 9) | N/A | 400,000–600,000 | Always | 
+
+Branda the Fire Queen | 350 | 10,000–30,000 | 2 × 16/387 | N/A
+
+Brassican Mage | 140 | 50–249 | 10/50 | 
+
+Bree | 146 | 1,300–1,400 | 62/127 | 
+
+Bree | 146 | 1,400–1,500 | 124/16,129 | 
+
+Bree | 146 | 1,300–1,400 | 9/1,524 | 
+
+Breoca | 5 | 3 | 38/128 | 
+
+Breoca | 5 | 5 | 9/128 | 
+
+Breoca | 5 | 15 | 4/128 | 
+
+Breoca | 5 | 25 | 1/128 | 
+
+Brimstone chest | N/A | 50,000–150,000 | 1/12 | 
+
+Brine rat | 70 | 1 | 21/128 | 
+
+Brine rat | 70 | 2 | 16/128 | 
+
+Brine rat | 70 | 4 | 9/128 | 
+
+Brine rat | 70 | 29 | 3/128 | 
+
+Bronze Chest (black) | N/A | 1–270 | Common | 
+
+Bronze Chest (brown) | N/A | 1–270 | Common | 
+
+Bronze Chest (crimson) | N/A | 1–270 | Common | 
+
+Bronze Chest (purple) | N/A | 1–270 | Common | 
+
+Bronze Chest (red) | N/A | 1–270 | Common | 
+
+Bronze dragon | 131; 143 | 196 | 40/128 | 
+
+Bronze dragon | 131; 143 | 330 | 10/128 | 
+
+Bronze dragon | 131; 143 | 690 | 1/128 | 
+
+Brutal black dragon | 318 | 370 | 11/128 | 
+
+Brutal black dragon | 318 | 540–929 | 1/128 | 
+
+Brutal black dragon | 318 | 2,200 | 2/128 | 
+
+Brutal blue dragon | 271 | 370 | 11/128 | 
+
+Brutal blue dragon | 271 | 621 | 1/128 | 
+
+Brutal green dragon | 227 | 242 | 11/128 | 
+
+Brutal green dragon | 227 | 621 | 10/128 | 
+
+Brutal red dragon | 289 | 670 | 12/128 | 
+
+Brutal red dragon | 289 | 621 | 2/128 | 
+
+BryophytaMembers | 128 | 10,000 | 5/118 | 
+
+BryophytaMembers | 128 | 8,000 | 2/118 | 
+
+BryophytaF2P | 128 | 10,000 | 5/118 | 
+
+BryophytaF2P | 128 | 8,000 | 2/118 | 
+
+Callisto | 470 | 50,000 | 10/126 | 
+
+Calvar'ion | 264 | 12,000 | 21/128 | 
+
+Capt' Arnav's Chest | N/A | 125 | 1/4 | 
+
+Casket (Pirate's Treasure) | N/A | 450 | Always | 
+
+Casket (Reward pool) | N/A | 4,000–6,000 | 9/230 | 
+
+Casket (Reward pool) | N/A | 25,000–50,000 | 1/230 | 
+
+Casket | N/A | 20 | 10/128 | 
+
+Casket | N/A | 40 | 10/128 | 
+
+Casket | N/A | 80 | 10/128 | 
+
+Casket | N/A | 160 | 10/128 | 
+
+Casket | N/A | 320 | 10/128 | 
+
+Casket | N/A | 640 | 10/128 | 
+
+Catablepon(f) | 49; 64; 68 | 10 | 4/101 | 
+
+Catablepon(m) | 49; 64; 68 | 15 | 6/101 | 
+
+Catablepon(m) | 49; 64; 68 | 44 | 12/101 | 
+
+Catablepon | 49; 64; 68 | 5–104 | 10/101 | 
+
+Cave abomination | 206 | 44 | 28/128 | 
+
+Cave abomination | 206 | 132 | 12/128 | 
+
+Cave abomination | 206 | 440 | 1/128 | 
+
+Cave bugLevel 6 | 6 | 3 | 8/128 | 
+
+Cave bugLevel 6 | 6 | 8 | 3/128 | 
+
+Cave bugLevel 96 | 96 | 1–40 | 14/128 | 
+
+Cave crawler | 23 | 3 | 5/128 | 
+
+Cave crawler | 23 | 8 | 3/128 | 
+
+Cave crawler | 23 | 29 | 3/128 | 
+
+Cave crawler | 23 | 10 | 1/128 | 
+
+Cave goblin (Dorgesh-Kaan) | 36 | 10–50 | 7/20 | 
+
+Cave goblin (monster) | 3 | 5 | 4/50 | 
+
+Cave goblin (monster) | 3 | 9 | 4/50 | 
+
+Cave goblin (monster) | 3 | 15 | 6/50 | 
+
+Cave goblin (monster) | 3 | 20 | 5/50 | 
+
+Cave goblin (monster) | 3 | 1 | 1/50 | 
+
+Cave goblin guard | 24; 26 | 12 | 20/128 | 
+
+Cave goblin miner | 11 | 6 | 20/128 | 
+
+Cave horror | 80 | 44 | 28/128 | 
+
+Cave horror | 80 | 132 | 12/128 | 
+
+Cave horror | 80 | 440 | 1/128 | 
+
+Cave kraken | 127 | 120–300 | 10/200 | 
+
+Cave slime | 23 | 4 | 30/128 | 
+
+Cave slime | 23 | 10 | 39/128 | 
+
+Cave slime | 23 | 22 | 10/128 | 
+
+Cave slime | 23 | 46 | 2/128 | 
+
+Cave slime | 23 | 1 | 7/128 | 
+
+Ceolburg | 4 | 3 | 38/128 | 
+
+Ceolburg | 4 | 5 | 9/128 | 
+
+Ceolburg | 4 | 15 | 4/128 | 
+
+Ceolburg | 4 | 25 | 1/128 | 
+
+Cerberus | 318 | 10,000–20,000 | 5/128 | 
+
+Certer | N/A | 80 | 10/150 | 
+
+Certer | N/A | 160 | 10/150 | 
+
+Certer | N/A | 240 | 6/150 | 
+
+Certer | N/A | 320 | 10/150 | 
+
+Certer | N/A | 480 | 10/150 | 
+
+Certer | N/A | 640 | 10/150 | 
+
+Chaos Elemental | 305 | 20,005–29,995 | 7/128 | 
+
+Chaos Fanatic | 202 | 499–3,998 | 18/128 | 
+
+Chaos druid warrior | 37 | 3 | 15/128 | 
+
+Chaos druid warrior | 37 | 29 | 3/128 | 
+
+Chaos druid warrior | 37 | 10 | 1/128 | 
+
+Chaos druid | 13 | 3 | 5/128 | 
+
+Chaos druid | 13 | 8 | 5/128 | 
+
+Chaos druid | 13 | 29 | 3/128 | 
+
+Chaos druid | 13 | 35 | 1/128 | 
+
+Chaos dwarf | 48 | 92 | 40/128 | 
+
+Chaos dwarf | 48 | 47 | 18/128 | 
+
+Chaos dwarf | 48 | 25 | 11/128 | 
+
+Chaos dwarf | 48 | 150 | 10/128 | 
+
+Chaos dwarf | 48 | 350 | 2/128 | 
+
+Chaos dwarf | 48 | 15 | 2/128 | 
+
+Chasm Crawler | 68 | 3 | 3 × 5/128 | 
+
+Chasm Crawler | 68 | 8 | 3 × 3/128 | 
+
+Chasm Crawler | 68 | 29 | 3 × 3/128 | 
+
+Chasm Crawler | 68 | 10 | 3 × 1/128 | 
+
+Chest (10 coins) | 13 | 10 | Always | 
+
+Chest (50 coins) | 43 | 50 | Always | 
+
+Chest (Aldarin Villas) | 36 | 100–200 | 26/76 | 
+
+Chest (Aldarin Villas) | 36 | 250–500 | 12/76 | 
+
+Chest (Aldarin Villas) | 36 | 600–1,200 | 5/76 | 
+
+Chest (Ardougne Castle) | 72 | 1,000 | Always | 
+
+Chest (Barrows) | N/A | 2–774 | 7 × 379/1,012 | 
+
+Chest (Chaos Druid Tower) | 59 | 500 | Always | 
+
+Chest (Dorgesh-Kaan Average)Normal |  | 1–250 | 3/7 | N/A
+
+Chest (Dorgesh-Kaan Average)Zanik's house |  | 1–250 | 1/23 | N/A
+
+Chest (Isle of Souls Dungeon) | 28 | 90–190 | 20/200 | 
+
+Chest (Rogues' Castle)Medium Wilderness Diary | 84 | 4,500 | 6/66 | 
+
+Chest (Rogues' Castle)Hard Wilderness Diary | 84 | 5,625 | 6/66 | 
+
+Chest (Rogues' Castle) | 84 | 3,375 | 6/66 | 
+
+Chest (Rogues' Castle, inside) | N/A | 8–25 | 1/128 | 
+
+Chest (Tombs of Amascut) | N/A | 1,126–51,285 | 3 × 1/27 | 
+
+Chest (nature runes) | 28 | 3 | Always | 
+
+Chest (steel arrowtips) | 47 | 20 | Always | 
+
+Chilled jelly | 112 | 44 | 27/128 | 
+
+Chilled jelly | 112 | 102 | 27/128 | 
+
+Chilled jelly | 112 | 220 | 9/128 | 
+
+Chilled jelly | 112 | 11 | 6/128 | 
+
+Chilled jelly | 112 | 460 | 2/128 | 
+
+Choke devil | 264 | 2,000–4,000 | 3 × 32/128 | 
+
+Citizen (Aldarin) | 1 | 3 | Always | 
+
+Citizen (Civitas illa Fortis) | 1 | 3 | Always | 
+
+Closed chest (Klenter's Pyramid) | N/A | 50 | Always | N/A
+
+Cockathrice | 89 | 15 | 16/128 | 
+
+Cockathrice | 89 | 5 | 12/128 | 
+
+Cockathrice | 89 | 28 | 12/128 | 
+
+Cockathrice | 89 | 62 | 4/128 | 
+
+Cockathrice | 89 | 42 | 3/128 | 
+
+Cockathrice | 89 | 1 | 1/128 | 
+
+Cockatrice | 37 | 15 | 16/128 | 
+
+Cockatrice | 37 | 5 | 12/128 | 
+
+Cockatrice | 37 | 28 | 12/128 | 
+
+Cockatrice | 37 | 62 | 4/128 | 
+
+Cockatrice | 37 | 42 | 3/128 | 
+
+Cockatrice | 37 | 1 | 1/128 | 
+
+Coffin (Hallowed Sepulchre)Low | 66 | 1,500–3,000 | 1/10 | 
+
+Coffin (Hallowed Sepulchre)Mid | 66 | 7,500–12,500 | 1/10 | 
+
+Coffin (Hallowed Sepulchre)High | 66 | 17,500–25,000 | 1/10 | 
+
+Colonel Radick | 38 | 9 | 37/128 | 
+
+Colonel Radick | 38 | 8 | 16/128 | 
+
+Colonel Radick | 38 | 24 | 9/128 | 
+
+Colonel Radick | 38 | 6 | 8/128 | 
+
+Colonel Radick | 38 | 30 | 4/128 | 
+
+Colonel Radick | 38 | 12 | 4/128 | 
+
+Colonel Radick | 38 | 35 | 2/128 | 
+
+Colossal Hydra | 309 | 500–3,500 | 16/128 | 
+
+Commander Zilyana | 596 | 19,500–20,000 | 31.2/127 | 
+
+Corporeal Beast | 785 | 20,000–50,000 | 12/512 | 
+
+Crawling Hand | 7; 8; 11; 12 | 5 | 21/128 | 
+
+Crawling Hand | 7; 8; 11; 12 | 8 | 23/128 | 
+
+Crazy archaeologist | 204 | 499–3,998 | 18/128 | 
+
+Crushing hand | 45 | 5 | 3 × 21/128 | 
+
+Crushing hand | 45 | 8 | 3 × 23/128 | 
+
+Crystal chest | N/A | 750 | 10/128 | 
+
+Crystal chest | N/A | 1,000 | 8/128 | 
+
+Crystal chest | N/A | 2,000 | 34/128 | 
+
+Cuffs | 3 | 3 | 38/128 | 
+
+Cuffs | 3 | 10 | 23/128 | 
+
+Cuffs | 3 | 5 | 9/128 | 
+
+Cuffs | 3 | 15 | 4/128 | 
+
+Cuffs | 3 | 25 | 1/128 | 
+
+Cuffs | 1 | 3 | Always | 
+
+Cyclops (Ardougne Zoo) | 56 | 38 | 14/128 | 
+
+Cyclops (Ardougne Zoo) | 56 | 52 | 10/128 | 
+
+Cyclops (Ardougne Zoo) | 56 | 15 | 8/128 | 
+
+Cyclops (Ardougne Zoo) | 56 | 8 | 6/128 | 
+
+Cyclops (Ardougne Zoo) | 56 | 88 | 2/128 | 
+
+Cyclops (Catacombs of Kourend) | 56; 76 | 3–102 | 36/100 | 
+
+Cyclops (Catacombs of Kourend) | 56; 76 | 5–204 | 10/100 | 
+
+Cyclops (God Wars Dungeon) | 81 | 3–102 | 40/100 | 
+
+Cyclops (God Wars Dungeon) | 81 | 5–204 | 10/100 | 
+
+CyclopsWarriors' Guild Basement | 106 | 96 | 11/100 | 
+
+CyclopsWarriors' Guild Basement | 106 | 350–449 | 8/100 | 
+
+CyclopsWarriors' Guild Rooftop | 56; 76 | 3–102 | 31/100 | 
+
+CyclopsWarriors' Guild Rooftop | 56; 76 | 5–204 | 10/100 | 
+
+Dagannoth (Waterbirth Island)Level 90 | 90 | 3 | 2/128 | 
+
+Dagannoth (Waterbirth Island)Level 90 | 90 | 26 | 2/128 | 
+
+Dagannoth (Waterbirth Island)Level 90 | 90 | 38 | 2/128 | 
+
+Dagannoth (Waterbirth Island)Level 90 | 90 | 47 | 2/128 | 
+
+Dagannoth (Waterbirth Island)Level 90 | 90 | 81 | 2/128 | 
+
+Dagannoth (Waterbirth Island)Level 88 | 88 | 1–140 | 10/128 | 
+
+Dagannoth Prime | 303 | 500–1,109 | 3/128 | 
+
+Dagannoth Rex | 303 | 100–1,209 | 10/128 | 
+
+Dagannoth Supreme | 303 | 500–1,110 | 10/128 | 
+
+Dagannoth spawn | 42 | 16 | 10/128 | 
+
+Dagannoth spawn | 42 | 25 | 10/128 | 
+
+Dagannoth | 74; 92 | 56 | 29/128 | 
+
+Dagannoth | 74; 92 | 25 | 9/128 | 
+
+Dagannoth | 74; 92 | 44 | 8/128 | 
+
+Dagannoth | 74; 92 | 41 | 6/128 | 
+
+Dark Chest | 28 | 9,500–29,500 | 69/600 | 
+
+Dark beast | 182 | 152 | 40/128 | 
+
+Dark beast | 182 | 64 | 6/128 | 
+
+Dark beast | 182 | 95 | 6/128 | 
+
+Dark beast | 182 | 220 | 5/128 | 
+
+Dark warriorLow level | 8 | 1 | 31/128 | 
+
+Dark warriorLow level | 8 | 2 | 20/128 | 
+
+Dark warriorLow level | 8 | 6 | 20/128 | 
+
+Dark warriorLow level | 8 | 13 | 7/128 | 
+
+Dark warriorLow level | 8 | 20 | 6/128 | 
+
+Dark warriorLow level(f) | 8 | 10 | 3/128 | 
+
+Dark warriorLow level | 8 | 30 | 2/128 | 
+
+Dark warriorGreat Kourend | 37; 51; 62 | 50 | 31/128 | 
+
+Dark warriorGreat Kourend | 37; 51; 62 | 20 | 20/128 | 
+
+Dark warriorGreat Kourend | 37; 51; 62 | 30 | 20/128 | 
+
+Dark warriorGreat Kourend | 37; 51; 62 | 10 | 18/128 | 
+
+Dark warriorGreat Kourend | 37; 51; 62 | 80 | 9/128 | 
+
+Dark warriorGreat Kourend | 37; 51; 62 | 100 | 6/128 | 
+
+Dark warriorHigh level | 145 | 100 | 31/128 | 
+
+Dark warriorHigh level | 145 | 20 | 20/128 | 
+
+Dark warriorHigh level | 145 | 60 | 20/128 | 
+
+Dark warriorHigh level | 145 | 130 | 7/128 | 
+
+Dark warriorHigh level | 145 | 200 | 6/128 | 
+
+Dark warriorHigh level | 145 | 90 | 2/128 | 
+
+Dark wizardLow level | 7; 11 | 1 | 17/128 | 
+
+Dark wizardLow level | 7; 11 | 2 | 16/128 | 
+
+Dark wizardLow level | 7; 11 | 4 | 7/128 | 
+
+Dark wizardLow level | 7; 11 | 29 | 3/128 | 
+
+Dark wizardLow level | 7; 11 | 30 | 1/128 | 
+
+Dark wizardHigh level | 20; 22; 23 | 1 | 17/128 | 
+
+Dark wizardHigh level | 20; 22; 23 | 2 | 16/128 | 
+
+Dark wizardHigh level | 20; 22; 23 | 4 | 9/128 | 
+
+Dark wizardHigh level | 20; 22; 23 | 29 | 3/128 | 
+
+Dark wizardHigh level | 20; 22; 23 | 30 | 1/128 | 
+
+Demonic gorilla | 275 | 5,000–10,000 | 25/500 | 
+
+Digsite workman | 25 | 10 | 1/11;4/11 | 
+
+Donny the lad | 34 | 48 | 30/128 | 
+
+Donny the lad | 34 | 15 | 18/128 | 
+
+Donny the lad(f) | 34 | 10 | 15/128 | 
+
+Donny the lad | 34 | 8 | 11/128 | 
+
+Donny the lad | 34 | 70 | 10/128 | 
+
+Donny the lad | 34 | 5 | 5/128 | 
+
+Donny the lad | 34 | 150 | 2/128 | 
+
+Drake | 192 | 1,000–2,000 | 4/85 | 
+
+Drake | 192 | 5,000–7,000 | 1/85 | 
+
+Dreadborn Araxyte | 281 | 1,600–2,400 | 3 × 10/127 | 
+
+Druid | 33 | 2 | 10/128 | 
+
+Druid | 33 | 4 | 4/128 | 
+
+Druid | 33 | 1 | 3/128 | 
+
+Druid | 33 | 15 | 3/128 | 
+
+Druid | 33 | 20 | 1/128 | 
+
+Drunken man | 3 | 3 | 38/128 | 
+
+Drunken man | 3 | 10 | 23/128 | 
+
+Drunken man | 3 | 5 | 9/128 | 
+
+Drunken man | 3 | 15 | 4/128 | 
+
+Drunken man | 3 | 25 | 1/128 | 
+
+Drunken man | 1 | 3 | Always | 
+
+Dust devilRegular | 93; 110 | 2,000–4,000 | 28/128 | 
+
+Dust devilWilderness Slayer Cave | 93 | 2,000–4,000 | 28/126 | 
+
+DwarfRegular | 7; 10; 11 | 10 | 15/128 | 
+
+DwarfRegular | 7; 10; 11 | 30 | 2/128 | 
+
+DwarfLevel 20 | 20 | 4 | 23/128 | 
+
+DwarfLevel 20 | 20 | 10 | 12/128 | 
+
+Item spawns[edit|edit source]
+
+Location | Members | Spawns | Map | Leagueregion
+
+Abandoned Mine- level 4 |  | 4 | Show map | Morytania✓
+
+Asgarnian Ice Dungeon |  | 3 | Show map | Asgarnia✓
+
+Brimhaven |  | 5 | Show map | Karamja✓
+
+Bryophyta's lair |  | 7 | Show map | Misthalin✓
+
+Cam Torumentrance - south |  | 3 | Show map | Varlamore✓
+
+Corsair Cove Dungeon |  | 25 | Show map | Kandarin✓
+
+Crandor and Karamja Dungeon |  | 5 | Show map | Karamja✓
+
+Emir's Arena |  | 6 | Show map | Desert✓
+
+Giants' Plateau |  | 6 | Show map | Desert✓
+
+Eagles' Peak Dungeon |  | 2 | Show map | Kandarin✓
+
+Edgeville Dungeon |  | 3 | Show map | Misthalin✓
+
+Hosidius- east of theVinery |  | 1 | Show map | Kourend✓
+
+King Black Dragon Lair |  | 19 | Show map | Wilderness✓
+
+Moss giantswest ofRalos' Rise |  | 2 | Show map | Varlamore✓
+
+Scabaras Dungeon |  | 3 | Show map | Desert✓
+
+Shayzien-Secluded Chapel |  | 1 | Show map | Kourend✓
+
+Shayzien Encampment |  | 1 | Show map | Kourend✓
+
+Skavid Caves |  | 3 | Show map | Kandarin✓
+
+Taverley Dungeon |  | 9 | Show map | Asgarnia✓
+
+Varrock- west bank basement |  | 7 | Show map | Misthalin✓
+
+Varrock Palace- bear cage |  | 2 | Show map | Misthalin✓
+
+Varrock Sewers |  | 5 | Show map | Misthalin✓
+
+Wilderness-Lava Dragon Isle |  | 2 | Show map | Wilderness✓
+
+Wilderness-Lava Maze |  | 2 | Show map | Wilderness✓
+
+Wilderness- north ofEdgeville |  | 6 | Show map | Wilderness✓
+
+Wilderness- south of theChaos Temple |  | 1 | Show map | Wilderness✓
+
+Wilderness-western Ruins |  | 3 | Show map | Wilderness✓
+
+Shipwreck Cove |  | 3 | Show map | Varlamore✓
+
+Dwarven Mine |  | 2 | Show map | Asgarnia✓
+
+Gallery[edit|edit source]
+
+One coinTwo coinsThree coinsFour coinsFive coinsTwenty five coinsOne hundred coins250 coins1,000 coins10,000 coins
+
+Changes[edit|edit source]
+
+Date | Changes
+
+25 June2015(update) | Platinum tokens- stackable, tradeable items worth 1,000 coins each - were added. Players can use any bank booth, bank chest, or banker to convert one to the other.
+
+Gallery (historical)[edit|edit source]
+
+ | 
+
+ | 
+
+RuneScape 2Beta | 29 March 2004 –present
+
+Trivia[edit|edit source]
+
+Coins appear in the inventory as plain flat discs, but duringGrim Talesand inThe Mimicfight, it is revealed that coins have more intricate designs imprinted on their faces.During theShilo Villagequest, there is anitem that looks like coinsin one of the tunnels that can only be picked up withTelekinetic Grab. These coins are non-stackable and untradeable. If a player tries to pick them up without Telekinetic Grab, they will be attacked and the coins will turn to dust.The maximum number of coins in a stack is 2,147,483,647, becauseRuneScapeuses 32-bit signed integers to store values, which are unable to represent a higher number. A stack of this many coins is informally known asmax cash.
+
+v•t•eCurrencies
+
+Tradeable | CoinsArchery ticketsNumulitesPlatinum tokensTrading sticks
+
+Untradeable | Agility arena ticketsAnima-infused barkAbyssal pearlsBarronite shardsBlood moneyBrimhaven voucherCastle wars ticketsEcto-tokensFrog tokensGolden nuggetsGlistening tearsHallowed marksMarks of graceMolch pearlsMermaid's tearsParamaya ticketsReward tokenStardustTermitesTokkulUnidentified mineralsWarrior guild tokens
+
+Virtual | Aga resinBounty Hunter pointsCarpenter pointsFoundry ReputationHonour pointsLast Man Standing pointsLeague PointsLye resinMox resinNightmare Zone reward pointsPieces of eightPizazz pointsPlauditsSlayer reward pointsQuest Speedrunning pointsVoid Knight commendation pointsZeal Tokens
+
+Discontinued | Survival tokensBounty Hunter pointsAgility arena ticket (discontinued)
+
+v•t•eGold items
+
+ | OreBar
+
+Jewellery | RingNecklaceBraceletAmulet(unstrung)Tiara
+
+Quest items | 'perfect' ore'perfect' barAsgoldian aleBowl(blessed,golden)HelmetCandleFeatherGoblinHammerKeyNeedlePotTinderboxToban's gold
+
+Holiday events | DustFragmentPaint
+
+Other | CoinsCondensedLeafNuggetNuggets

@@ -1,0 +1,149 @@
+[Spell: Earth_Wave]
+
+Earth Wave
+
+
+
+
+
+
+
+Released | 18 March2002(Update)
+
+Members | Yes
+
+Level | 70
+
+Spellbook | Standard
+
+Type | Combat
+
+Experience | 40
+
+Element | Earth
+
+Base max hit | 19 or 20
+
+Runes | 571
+
+Casting speed | 5 ticks
+
+Description | A high level Earth missile
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Earth Waveis anearth-basedwave spellin thestandard spellbook, requiring level 70Magicto cast. As anoffensive combat spellit can only be cast onattackable NPCs, or other players in aPvP situation.
+
+It is the second-strongest earth spell in the game, with the strongest beingEarth Surge.
+
+Damage[edit|edit source]
+
+Earth Wave's base maximum hit starts at 19 and increases to 20 once the player unlocksFire Waveat level 75 Magic.
+
+Magiclevel | Highest-level wave spell available | Earth Wavebase maximum hit
+
+70- 74 | Earth Wave | 19
+
+75+ | Fire Wave | 20
+
+As with all combat spells, Earth Wave's maximum hit is also increased based on the player'smagic damage bonus.
+
+As an earth-based spell, Earth Wave's maximum hit is also increased against targets that areweak to earth.
+
+Calculator[edit|edit source]
+
+Please input the data and submit the form.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+751 | 380
+
+Combo runes
+
+17 | 383
+
+517 | 1,108
+
+517 | 534
+
+715 | 625
+
+715 | 970
+
+Main-hands
+
+71Alt | 355
+
+51Alt | 345
+
+1 | 320
+
+64.290.86Alt | 327
+
+5.954.250.85 | 323
+
+Main and off-hands
+
+510.05 | 377
+
+10.05Alt | 351
+
+4.290.860.05Alt | 328
+
+4.250.850.05 | 324
+
+Wilderness-only casting
+
+ | Blighted surge sack | N/A
+
+Changes[edit|edit source]
+
+Date | Changes
+
+29 May2024(update) | The maximum hit of the spell now depends on how manywave spellsthe player has unlocked, based on theirMagiclevel.
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

@@ -1,0 +1,38 @@
+Name: Golem guard
+Combat Level: 141
+Size: 2x2
+Info:
+- Description: A rocky horror.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Monster ID: 14125
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 150
+Attack: 170
+Strength: 170
+Defence: 100
+Magic: 170
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

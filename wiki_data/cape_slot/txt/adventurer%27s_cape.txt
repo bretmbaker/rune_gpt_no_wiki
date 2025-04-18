@@ -1,0 +1,46 @@
+[Weapon: Adventurer%27S Cape]
+
+
+Theadventurer's capeis an item that is part of thetier 3 adventurer's outfit, which can be purchased for 1,800Quest Speedrunningreward points from theSpeedrunning Reward Shop.
+The cape can be used on agraceful capeto alter its appearance to anadventurer's graceful cape.
+
+
+[Infobox]
+Released: 11 October2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: The cape of an adventurer.
+General Store Value: 50 coins
+High alch: 30 coins
+Low alch: 20 coins
+Weight: 0.4 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

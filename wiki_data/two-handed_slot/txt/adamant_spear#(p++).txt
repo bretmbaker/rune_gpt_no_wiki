@@ -1,0 +1,76 @@
+[Weapon: Adamant Spear#(P++)]
+
+
+Theadamant spearis a two-handedmembers'-onlymelee weapon. It can be bought from theMount Karuulm Weapon ShoporFortis Blacksmith, or obtained as a drop from monsters. Using theSmithingskill, players can create adamant spears with level 75SmithingThis requires 1adamantite barand 1yew log. However, players must have begunBarbarian Smithingtraining to be able to smith these spears. Like most spears, the adamant spear can bepoisoned. Smithing an adamant spear at the anvil atOtto's Grottois a requirement for theKandarin Hard Diary.
+
+
+[Infobox]
+Released: 14 April2003(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: An adamantite tipped spear.
+General Store Value: 2,080 coins
+High alch: 1,248 coins
+Low alch: 832 coins
+Weight: 2.721 kg
+Grand Exchange Value: 921 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 1,760
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +24
+- Slash: +24
+- Crush: +24
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +28
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Lunge | Stab | Controlled | 4 ticks (2.4s) | 1 tile |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Controlled |  | +1 Attack, Strength, Defence
+ | Pound | Crush | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Brutal blue dragon | 271 | 1 | 10/128 | 
+Brutal green dragon | 227 | 1 | 2/128 | 
+Cave kraken | 127 | 1 | 4/200 | 
+Gold Chest (black) | N/A | 1 | 7/144.18 | 
+Gold Chest (brown) | N/A | 1 | 7/143.99 | 
+Gold Chest (crimson) | N/A | 1 | 7/144.08 | 
+Gold Chest (purple) | N/A | 1 | 7/144.28 | 
+Gold Chest (red) | N/A | 1 | 7/143.91 | 
+Moss Giant (Iorwerth Dungeon) | 84 | 1 | 2/128 | 
+Shadow warrior | 48 | 1 | 1/128 | &
+Silver Chest (black) | N/A | 1 | 11/152.6 | 
+Silver Chest (brown) | N/A | 1 | 11/152.46 | 
+Silver Chest (crimson) | N/A | 1 | 11/152.53 | 
+Silver Chest (purple) | N/A | 1 | 11/152.67 | 
+Silver Chest (red) | N/A | 1 | 11/152.39 | 
+Zombie (Tarn's Lair)High level | 81–100 | 1 | 5/128 | 

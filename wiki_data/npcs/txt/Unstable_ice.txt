@@ -1,0 +1,2 @@
+Item: Unstable ice
+Summary: Unstable ice are blocks launched by Amoxliatl, indicated by the game message Amoxliatl forms some unstable ice blocks around you.. If not destroyed within 15 ticks (9 seconds), all remaining ice blocks will shatter, causing icy pools to form within 3x3 of where they were, and healing the boss (16-25) for each block shattered.

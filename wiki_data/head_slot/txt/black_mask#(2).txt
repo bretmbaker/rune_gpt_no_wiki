@@ -1,0 +1,67 @@
+[Weapon: Black Mask#(2)]
+
+
+Theblack maskis a unique mask worn in the head slot. The mask has the same stats as ablack med helm. It provides a player 16.67%[1]AttackandStrengthboost against all monsters on the player's currentSlayer task. It requires 20 Strength, 10Defence, and 40Combatto equip.
+The black mask is a rare drop fromCave horrors. Killing them requires 58Slayerand the completion ofCabin Feverto access the island they live on,Mos Le'Harmless.
+
+
+[Infobox]
+Released: 4 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: An inert-seeming cave horror mask.
+General Store Value: 3,000 coins
+High alch: 1,800 coins
+Low alch: 1,200 coins
+Weight: 10 kg
+Grand Exchange Value: 966,903 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 1,182
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +10
+- Crush: +8
+- Magic: -1
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Cave abomination | 206 | 1 | 1/512 | 
+Cave horror | 80 | 1 | 1/512 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Ancient Wyvern/Strategies(Prayer)
+2 | Ancient Wyvern/Strategies(Melee)
+2 | Basilisk Knight/Strategies(Melee)
+4 | Grotesque Guardians/Strategies(Melee)
+2 | Skeletal Wyvern/Strategies(Melee)
+1 | Skotizo/Strategies(Melee)
+2 | Slayer task/Fossil Island wyverns(Melee)
+2 | Slayer task/Fossil Island wyverns(Prayer)

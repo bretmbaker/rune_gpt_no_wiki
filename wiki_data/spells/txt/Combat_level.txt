@@ -1,0 +1,107 @@
+[Spell: Combat_level]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+Aplayer's,monster's, ornon-player character'scombat levelindicates the difficulty in defeating them incombat. For some bosses and most monsters it is reflective of their actual stats as well.
+
+ | Combat level up
+
+The music that plays when levelling up.
+
+
+
+Normally,aggressivenon-player characters stop attacking you when you reach higher than double their combat level. There are exceptions, however - for example, almost any monsters, except forRats, in theWildernesswill be aggressive no matter what your combat level is.
+
+By default, monsters with a higher combat level than a player cannot be attacked by using a left mouse click, requiring a right click to select theattack monsteroption. So, to be able to attack aBlue dragonwith combat level 111 with a simple left click, a player would need a combat level of at least 111. However, this behaviour can be changed in the controls section of theSettingstab by changing the "NPC 'Attack' Options" setting.
+
+All new players start out at combat level 3, and the maximum level for players inOld School RuneScapeis level 126. Players will receive a combat level-up notification upon reaching a new combat level. This can be disabled in thegame settings.
+
+Combat level requirements[edit|edit source]
+
+Pest Controlnovice boat requires a combat level of 40Soul Warsrequires a combat level of 40Pest Controlminigame teleport requires a combat level of 40Pest Controlintermediate boat requires a combat level of 70Dream Mentorrequires a combat level of 85Pest Controlveteran boat requires a combat level of 100
+
+Slayer masters, by default, have a combat level requirement to get certain Slayer tasks from them. Players can get more difficult tasks by asking the Slayer master to ignore combat level, though this does not bypass the minimum combat requirement to get a task from that master.
+
+Mazchnarequires combat level 20Vannakarequires combat level 40Chaeldarrequires combat level 70Konar quo Matenrequires combat level 75Nieve/Steverequire combat level 85Duradelrequires combat level 100 (and 50Slayer)
+
+Calculating combat level[edit|edit source]
+
+Simply[edit|edit source]
+
+Take yourPrayerlevel and divide it by two and round down (for example, if your Prayer level is 43, dividing by two and rounding down gives you 21)Add this to yourHitpointsandDefencelevels and divide the result by 4. This is your base combat level. (For example, if your Hitpoints is 60, Defence is 70 and prayer is 43 you should end up with 37.75)Add yourStrengthandAttacklevels together and multiply by 0.325. Add this to your base combat level and you should have your melee combat level.If yourMagicorRangedlevel is exceptionally higher than your Attack and Strength, carry on - in the calculation noted below Magic is used, but if your Ranged is exceptionally higher, use that instead in all casesDivide your Magic level by 2 and round down, and then add your Magic level again to this (for example, if your Magic level is 83, you should end up with 124)Multiply this by 0.325 and add the result to your base combat level calculated above, and you should have your magic combat level.
+
+Mathematics[edit|edit source]
+
+Base=14×(Defence+Hitpoints+⌊Prayer×12⌋)Melee=1340×(Attack+Strength)Range=1340×⌊Ranged×32⌋Mage=1340×⌊Magic×32⌋Final=⌊Base+max(Melee,Range,Mage)⌋
+
+Melee Combat Level=⌊Base + Melee⌋=⌊14×(Defence+Hitpoints+⌊Prayer×12⌋)+1340×(Attack+Strength)⌋Ranged Combat Level=⌊Base + Range⌋=⌊14×(Defence+Hitpoints+⌊Prayer×12⌋)+1340×⌊Ranged×32⌋⌋Magic Combat Level=⌊Base + Mage⌋=⌊14×(Defence+Hitpoints+⌊Prayer×12⌋)+1340×⌊Magic×32⌋⌋
+
+Wiki combat calculator[edit|edit source]
+
+This calculator can be used to experiment how combat skills affect combat level.
+
+Please wait for the form to load. If it does not load, tryRefreshing the pageChecking that you have JavaScript enabled in your browserChecking your custom JavaScript does not interfere with the calculator script in any way
+
+Colours[edit|edit source]
+
+Combat levels that are different than your own display as a different colour. These colours range from ±10 of your combat level, from shades of green for levels that are slightly lower than the player's to red for levels slightly higher than the player's; 9 unique colours exist for this purpose.
+
+Level | Colour | Hex Code
+
+>=10 | (level+10) | #ff0000
+
++9 | (level+9) | #ff3000
+
++8 | (level+8)
+
++7 | (level+7)
+
++6 | (level+6) | #ff7000
+
++5 | (level+5)
+
++4 | (level+4)
+
++3 | (level+3) | #ffb000
+
++2 | (level+2)
+
++1 | (level+1)
+
+±0 | (level±0) | #ffff00
+
+-1 | (level-1) | #c0ff00
+
+-2 | (level-2)
+
+-3 | (level-3)
+
+-4 | (level-4) | #80ff00
+
+-5 | (level-5)
+
+-6 | (level-6)
+
+-7 | (level-7) | #40ff00
+
+-8 | (level-8)
+
+-9 | (level-9)
+
+<=10 | (level-10) | #00ff00
+
+Exceptions[edit|edit source]
+
+Some monsters do not have a combat level. These are:
+
+AllreanimatedmonstersKolodion(excluding his final form)Solus DellagarEvil creatureNPCs ofChambers of Xeric(with the exception of theGreat Olm)
+
+Changes[edit|edit source]
+
+Date | Changes
+
+29 March2023(update) | Players will now receive level up notifications and sound effects when they advance a combat level.
+
+Trivia[edit|edit source]
+
+InRuneScape Classic, the maximum combat level is 123 due to an alternative combat level formula.InRuneScape, the maximum combat level is 152 due to the introduction of theSummoningandNecromancyskills.

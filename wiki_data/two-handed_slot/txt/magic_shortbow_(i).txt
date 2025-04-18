@@ -1,0 +1,86 @@
+[Weapon: Magic Shortbow (I)]
+
+
+Themagic shortbow (i)is a bow that requires level 50Rangedin order to use, and is obtained by using amagic shortbow scrollon a regularmagic shortbow. The imbued bow has +75 Ranged attack, instead of the regular bow's +69, and uses 50% of the special bar when performing the special attack, instead of the regular bow's 55%.
+Typically, a magic shortbow withamethyst arrowsorrune arrowsdeals significantly higher damage-per-second than arune crossbowwithbroad bolts, while a magic shortbow withadamantorbroad arrowsdeals noticeably less damage-per-second.
+
+
+[Infobox]
+Released: 18 September2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: Short and magical, but still effective.
+General Store Value: 1,600 coins
+High alch: 960 coins
+Low alch: 640 coins
+Weight: 1.36 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +75
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 3 ticks (1.8s) | 7 tiles |  | None
+ | Longrange | Standard | Longrange | 4 ticks (2.4s) | 9 tiles |  | +3 Defence
+
+
+[Special Attack]
+A player performing the magic shortbow's special attack,Snapshot.
+This weapon retains the standard magic shortbow'sspecial attack,Snapshot, which fires two arrows in rapid succession but with lowered accuracy, using 50% of the player's special attack energy. While the in-game tooltip states thatSnapshothas reduced accuracy, it actually likely has an accuracy boost of107or about 43%.[1]
+Snapshotuses a custom form of damage calculation that does not take into account the slayer helmet (i)'s damage boost (on a Slayer task) and the offensive Prayers (such asEagle Eye) when determining a player'smaximum Ranged hit,[2]but its accuracy is still affected.[3]
+The following formula can be used to calculate the max hit ofSnapshot:Maximum Hit=⌊0.5+(Visible Ranged Level+10)*(Ammo Ranged Strength+64)640⌋[a][b][c][d]
+^Only the player's visible ranged level matters. Boosts given through prayers and Void Knight armour are ignored.^A stance bonus of 10 is used regardless of attack style used.^The ranged strength bonus of the player's armour and gear is ignored. Only the ranged strength bonus of the player's ammo is used. In the case of Rune thrownaxes, the weapon's ranged strength is used instead.^The bonus damage usually provided by wearing a Slayer helmet (i), Salve amulet (i) or Salve amulet (ei) is ignored.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Artio/Strategies(Ranged)
+4 | Aviansie/Strategies(Ranged - Low Risk)
+3 | Barbarian Assault/Strategies(Ranged (high level))
+1 | Barbarian Assault/Strategies(Ranged (mid level))
+3 | Barrows/Strategies(Ranged (Ahrim))
+5 | Callisto/Strategies(Ranged)
+5 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+5 | Demonic gorilla/Strategies(upgrades and downgrades)
+4 | Green dragon/Strategies(Ranged)
+5 | Grotesque Guardians/Strategies(Ranged switches)
+2 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+5 | Lizardman shaman/Strategies(Ranged)
+3 | Nightmare Zone/Strategies(Ranged)
+5 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+4 | Revenants/Strategies(Ranged)
+4 | Royal Titans/Strategies(Mid-game)
+3 | Scurrius/Strategies(Range (mid level))
+3 | Slayer training(Ranged)
+5 | TzHaar Fight Cave/Strategies(Pure)
+5 | TzHaar Fight Cave/Strategies(Ranged)
+4 | Zulrah/Strategies(Ranged)

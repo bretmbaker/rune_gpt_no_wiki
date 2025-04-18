@@ -1,0 +1,64 @@
+[Weapon: Gilded 2H Sword]
+
+
+TheGilded 2h swordis a gold-plated version of therune 2h sword. It has the same stats as the rune 2h sword, and only differs in appearance. It requires 40Attackto wield.
+It can be obtained as a reward fromhard,eliteandmastertierTreasure Trailsandcannotbe made through any skill, like all othergilded equipment.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A two handed sword with gold plate.
+General Store Value: 64,000 coins
+High alch: 38,400 coins
+Low alch: 25,600 coins
+Weight: 3.628 kg
+Grand Exchange Value: 6,583,817 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 81
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: +69
+- Crush: +50
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +70
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 7 ticks (4.2s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/32,257.5 | 
+Reward casket (hard) | N/A | 1 | 1/35,750 | 
+Reward casket (master) | N/A | 1 | 1/149,776 | 

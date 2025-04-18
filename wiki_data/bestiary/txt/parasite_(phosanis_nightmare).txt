@@ -1,0 +1,51 @@
+Name: Parasite
+Combat Level: 129
+Size: 1x1
+Info:
+- Description: A fully grown parasite.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 9468
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 80
+Attack: 1
+Strength: 1
+Defence: 60
+Magic: 60
+Ranged: 60
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 84
+Magic strength bonus: 102
+Ranged attack bonus: 85
+Ranged strength bonus: 102
+
+[Melee defence]
+Stab: 60
+Slash: 80
+Crush: 20
+
+[Magic defence]
+Magic: 120
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 120
+Standard: 120
+Heavy: 120

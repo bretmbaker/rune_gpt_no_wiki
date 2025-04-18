@@ -1,0 +1,2 @@
+Thepestle and mortaris a tool used to crush items for use inHerbloreand many quests, as well as theSorceress's Gardenminigame.
+It can be bought from Herbalists and certain general stores. If used to auto-crush items, it will do so every three game ticks.

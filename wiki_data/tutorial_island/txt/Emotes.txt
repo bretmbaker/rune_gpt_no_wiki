@@ -1,0 +1,25 @@
+[Page: Emotes]
+
+Emotesare a selection of movements that a player can perform. Some emotes are unlocked by default, to be unlocked throughrandom events,quests, theStronghold of Security,holiday events, or obtaining askillcape. The majority of emotes can be looped so that they will be played continuously until they interact with the overworld or perform another emote. Emotes are currently the only way one can communicate as amutedplayer.
+Emotes are depicted as characters in the Emotes tab. In order of appearance; someone in fullwhite armourwith awhite medium helmet, a man with the default player outfit and brown hair, a woman wearing what appears to be awoven topandskirt, ajester,Romeo, agoblin, aMime, a woman wearing abronze platebodyanddragon plateskirt, azombie, and a skillcape-wearer.
+Emote icons that are bright in colour represent emotes that you have unlocked; either by default, or through the completion of a circumstance. On the other hand, dimmed out emote icons represent the emotes you have yet to unlock. Though the icon itself is obscured showing mostly the black frame, one can still hover over each locked emote to know its name. There are 55 Emote icons in total.
+Emotes can also be triggered viachat commandsby typing::or!followed by the emote name (case insensitive).
+Default emotes are emotes unlocked upon creating anaccount. Thus, all players start off with 24 emotes regardless of gameplay.
+These 24 emotes are simple animations mainly for communication along with thechat system, though they are also used inTreasure Trailsas a part of completing certainclue scrolls.
+These emotes are unlocked from and used in certainquests.
+These emotes are related torandom events. Players must be presented with the event itself and complete it to unlock the emotes.
+When completing either theDrill Demon,MimeorGravediggerrandom event, players can be rewarded the typical costume piece the usual random events offer, or unlock an emote.
+These emotes are related to certain achievements in the game. They vary in requirements, conditions, and restrictions.
+TheSkill Capeemote is unlocked by default, though is categorised as an achievements emote due to the restriction ofskill mastery. Without an eligible cape, the messageYou need to be wearing a skillcape in order to perform that emote.will appear in the chatbox even though this does not necessarily work with only skillcapes.
+These emotes are related to theStronghold of Security. Player security emotes are unlocked at level intervals of the dungeon by opening the central chest.
+These emotes are related to holiday events. Holiday events emotes are unlocked upon completion of any year's appropriate seasonal event, but are unique to the events as they cannot be unlocked by any other means.
+Emotes in this category are emotes that are unlocked via other means.
+These emotes are related to theCold Warquestand theclockwork suit. Penguin emotes are unique in that they can only be used when the player has the form of apenguinwith the clockwork suit.
+Penguin emotes are first encountered during the Cold War quest in which a sequence is used to communicate with the penguin atArdougne Zoo. After the quest, players may again use the emotes by wearing the suit viaLarry.
+The loop function has been added to 45 more emotes, including the enhanced versions of Dance,Yawn,Angry, andBow.
+Players no longer need to redeem the codepremierclub18to unlock the Premier Shield emote fromDiango, and it is now unlocked by default.
+You can now use theTwistedorTrailblazer Caneemotes directly from the emotes interface (as long as you have a set of tier 3 relic hunter on yourLeaguehall's outfit stand in yourPlayer Owned House).
+The Premier Shield emote can be redeemed via Diango in Draynor using the codepremierclub18.
+The emotes list has now been rearranged so the Drill Demon emotes are no longer at the bottom of the list.
+The Drill Demon random event exercise actions are now available as emotes unlocked by completing his random event.
+9mago-Crabby

@@ -1,0 +1,50 @@
+[Weapon: Irit Tar]
+
+
+Irit taris an item used as food, or "ammunition", fortecu salamanderswhen used as a weapon. It can be made at level 55Herbloreby using 15swamp taron anirit leaf, whilst having apestle and mortarin the inventory. This process yields 15 irit tar, and grants 85 Herblore experience.
+Although the Hunter skill guide in-game states that it can optionally be used as bait for huntingtecu salamandersto increase the catch rate by 3%, this has not actually been implemented.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Bankable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A dark, thick, foul-smelling, tar-like substance.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0 kg
+Grand Exchange Value: 7 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 460,764
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +60
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

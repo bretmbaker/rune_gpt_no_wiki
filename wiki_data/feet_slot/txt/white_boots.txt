@@ -1,0 +1,60 @@
+[Weapon: White Boots]
+
+
+Thewhite bootsare a pair ofWhite Knightmetal bootsthat requires 10Defenceand the completion of theWanted!questto wield. They have the same bonuses as theblack boots, with an added +1prayer bonus. White boots are the cheapest boots in game to offer aPrayerbonus.
+Players can purchase them fromSir Vyvinafter achieving therankof Adept (800black knightkills). They can also be bought on the Grand Exchange or obtained through trading other players.
+
+
+[Infobox]
+Released: 17 October2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: These will protect my feet.
+General Store Value: 576 coins
+High alch: 345 coins
+Low alch: 230 coins
+Weight: 1.36 kg
+Grand Exchange Value: 1,574 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 90
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +7
+- Slash: +8
+- Crush: +9
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Feet slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Dust devil/Strategies(Bursting/Barraging)
+5 | Greater Nechryael/Strategies(Bursting/Barraging)
+4 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+4 | Maniacal monkey/Strategies(Magic - Ice Burst)
+4 | Slayer task/Abyssal demons(Magic)
+4 | Slayer task/Jellies(Magic)
+5 | Slayer task/Nechryael(Magic)

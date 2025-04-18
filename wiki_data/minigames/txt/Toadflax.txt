@@ -1,0 +1,171 @@
+[Minigame: Toadflax]
+
+Toadflax
+
+
+
+
+
+
+
+Released | 27 July2004(Update)
+
+Members | Yes
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Drop
+
+Examine | A useful herb.
+
+
+
+Values
+
+
+
+Value | 48 coins
+
+High alch | 28 coins
+
+Low alch | 19 coins
+
+Weight | 0.007 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 2,984coins (info)
+
+Buy limit | 13,000
+
+Daily volume | 894,910
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 2998
+
+Link | MOID
+
+
+
+Toadflaxis a low levelherb, requiring level 30Herbloreto clean. It can be acquired fromRandom eventsor grown with aFarminglevel of 38, by plantingtoadflax seedsinherb patches. It can also be acquired by trading in 3vouchersfrom theBrimhaven Agility Arenaor as a reward fromTemple Trekking. It is used to makeagility potions, and most commonly,Saradomin brews. To create a potion, you need to add the cleaned herb to avial of waterto create atoadflax potion (unf), and then add the secondary ingredient.
+
+Using Toadflax in the coconut milk basedAntidote+ potionis often considered a waste, asAntidote++is vastly preferred by PvM'ers, whereas the Antidote+ is not usually in demand. However, Antidote+ can be a viable and cheaper option in certain situations, such as fending offpoisonwhile trainingRangedorMagicat theSkeletal MonkeysonApe Atoll. Ironmen may also prefer to create Antidote+ until they reach a high enough level to create its more potent counterpart.
+
+According to the bookGielinor's flora - herbs, the flowers of a toadflax plant are often believed to resemble a toad's mouth, which is likely where it got the name. In addition, it is often mistaken forsnapdragonand is widespread in rural spots.
+
+Creation[edit|edit source]
+
+Money making[edit|edit source]
+
+The followingmoney making guideis available for Toadflax:
+
+Method | Profit per instance | Skills
+
+Farming toadflax | 227,558 | 38(65 if using theFarming Guildherb patch)61(Trollheim Teleport, 96 strongly recommended forSpellbook Swap)47recommended forshortcutstoTroll Strongholdor73to use the shortcut to get on the roof of Troll Stronghold (if completedMaking Friends with My ArmandHard Fremennik Diarythen you will automatically be teleported on the roof using theStony basalt)
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Antidote+ (unf) |  | 68 | 0 | 1 ×Coconut milk1 ×Toadflax
+
+ | Lye paste× 32 |  | 1 | 6 | 1 ×Toadflax
+
+ | Toadflax potion (unf) |  | 34 | 0 | 1 ×Vial of water1 ×Toadflax
+
+Uses[edit|edit source]
+
+Potion/item | Level | Secondary ingredient | XP | Effect
+
+Agility potion | 34 | Toad's legs | 80 | Temporarily raisesAgilityby 3.
+
+Antidote+ | 68 | Yew roots | 155 | Curespoisonand provides immunity for 9 minutes.(Made in a vial ofCoconut milkinstead of water.)
+
+Saradomin brew | 81 | Crushed bird's nest | 180 | HealsHitpointsby 15% of their maximum + 2, and can boost Hitpoints above maximum by the amount healed. Also increasesDefenceby 20% + 2, but lowersStrength,Attack,Magic, andRangedby 10%.
+
+Item sources[edit|edit source]
+
+For the grimy herb's sources, see:Grimy toadflax § Item sources
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Ambassador Ferrnook | N/A | 3 | 10/128 | &
+
+Ambassador Gimblewap | N/A | 3 | 10/128 | 
+
+Ambassador Spanfipple | N/A | 3 | 10/128 | &
+
+Barbarian Assault/GamblesLow | N/A | 15–25(noted) | 1/32 | 
+
+Brambickle | N/A | 3(noted) | 10/128 | &
+
+Captain Bleemadge | N/A | 3 | 10/128 | &
+
+Captain Daerkin | N/A | 3(noted) | 10/128 | &
+
+Captain Dalbur | N/A | 3 | 10/128 | &
+
+Captain Klemfoodle | N/A | 3 | 10/128 | &
+
+Captain Ninto | N/A | 3(noted) | 10/128 | &
+
+G.L.O. Caranock | N/A | 3 | 10/128 | &
+
+Garkor | N/A | 3 | 10/128 | 
+
+Gnormadium Avlafrim | N/A | 3 | 10/128 | 
+
+Hazelmere | N/A | 3 | 10/128 | 
+
+King Bolren | N/A | 3 | 10/128 | 
+
+Lieutenant Schepbur | N/A | 3 | 10/128 | 
+
+Penwie | N/A | 3(noted) | 10/128 | &
+
+Professor Imblewyn | N/A | 3 | 10/128 | 
+
+Professor Manglethorp | N/A | 3 | 10/128 | &
+
+Professor Onglewip | N/A | 3 | 10/128 | &
+
+Wingstone | N/A | 3(noted) | 10/128 | &
+
+Zulrah | 725 | 25(noted) | 2 × 2/248 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Agility Arena Store | Brimhaven | ∞ | N/A | 3 | N/A | 0.0% |  | 

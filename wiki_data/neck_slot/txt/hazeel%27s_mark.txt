@@ -1,0 +1,44 @@
+[Weapon: Hazeel%27S Mark]
+
+
+Hazeel's markis a quest item from the questHazeel Cult. The item is only obtained when you choose Hazeel's side. It does not give any stat bonuses and is not used in any other quests.
+
+
+[Infobox]
+Released: 15 August2002(Update)
+Members: Yes
+Quest item: Hazeel Cult
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Inspect, Wear, Drop
+Examine: A sign of commitment to Hazeel.
+General Store Value: 5 coins
+Alchemy: Not alchemisable
+Weight: 0.012 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

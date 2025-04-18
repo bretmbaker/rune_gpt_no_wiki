@@ -1,0 +1,61 @@
+[Weapon: Black Dart#(P++)]
+
+
+Black dartsarerangedthrowing weapons. To wield black darts,  players must have at least level 10Ranged.
+Black dartscannotbe made with theFletchingskill and instead are obtained through monster drops. The only monsters to drop black darts areBurthorpe soldiers. This makes black darts rather rare and hard to obtain. Black darts can bepoisonedand they can be wielded with a shield orgod bookfor protection.
+
+
+[Infobox]
+Released: 9 August2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A deadly throwing dart with a black tip.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0 kg
+Grand Exchange Value: 3,036 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 18
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +6
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 3 ticks (1.8s) | 3 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 2 ticks (1.2s) | 3 tiles |  | None
+ | Longrange | Light | Longrange | 3 ticks (1.8s) | 5 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Soldier (Burthorpe) | 48 | 6 | 9/128 | 

@@ -1,0 +1,49 @@
+[Weapon: Gold Bracelet]
+
+
+TheGold braceletis made by using agold baron afurnace. It requires aCraftinglevel of 7 and gives 25experiencewhen made. It offers no combat bonuses when worn.
+It is commonly used as aHigh Alchemyitem because it is very cheap and very easy to make. Due to the high price ofgold ore, players who want to buy materials to make these are advised to buygold barsdirectly rather than purchasing gold ore and smelting their own bars.
+
+
+[Infobox]
+Released: 30 April2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I wonder if this is valuable.
+General Store Value: 550 coins
+High alch: 330 coins
+Low alch: 220 coins
+Weight: 0.25 kg
+Grand Exchange Value: 258 coins
+Grand Exchange Daily Buy Limit: 18,000
+Grand Exchange Daily Trades Volume: 100,600
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

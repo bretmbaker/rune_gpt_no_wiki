@@ -1,0 +1,2 @@
+Item: Sweeper
+Summary: Sweepers are non-interactive NPCs found in the Alchemist's Playground, inside of the Mage Training Arena. They appear to be invisible beings of at least human height.

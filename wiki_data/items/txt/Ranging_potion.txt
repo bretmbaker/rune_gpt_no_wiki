@@ -1,0 +1,1 @@
+Aranging potionis apotionmade by using awine of Zamorakon adwarf weed potion (unf), requiring 72Herblore, yielding a ranging potion(3) and 162.5 Herbloreexperience. A dose of ranging potion provides atemporary skill boosttoRangedequal to 4 + 10% of the player's current Ranged level, rounded down, and will wear off at a rate of 1 level every 60 seconds (90 with preserve).

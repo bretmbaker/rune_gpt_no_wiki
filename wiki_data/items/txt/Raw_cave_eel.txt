@@ -1,0 +1,1 @@
+Raw cave eelsare fish that require aFishinglevel of 38 to be caught and grants 80 fishing experience per catch, as well as aCookinglevel of 38 to be cooked; doing so turns it into acave eel. They are used in theCreature Creationminigame to make afrogeel.

@@ -1,0 +1,2 @@
+Item: Victoria Kebbit Monkfish
+Summary: Victoria Kebbit Monkfish is an NPC in the Sailing alpha. She can be found south-west of The Pandemonium and will give the player a riddle if wearing the deep sea helmet and deep sea apparatus. When answered correctly, she will let the player dive with them, which completes a task in the Sailing alpha and awards 52 Sailing experience.

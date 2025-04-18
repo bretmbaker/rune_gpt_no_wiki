@@ -1,0 +1,2 @@
+Item: Ali the Sandsweeper
+Summary: Ali the Sandsweeper is a man spoken to during the random option of the NPC Contact spell. He will talk to the player briefly about the Sandsweeper Union.

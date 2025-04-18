@@ -1,0 +1,63 @@
+[Weapon: Gilded Axe]
+
+
+Thegilded axeis a cosmetic variant of therune axethat can be obtained as a rare reward fromeliteandmasterTreasure Trails.
+Players must have anAttacklevel of 40 to wield the gilded axe as a weapon and aWoodcuttinglevel of 41 to use it to chop down trees.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A powerful axe.
+General Store Value: 35,000 coins
+High alch: 21,000 coins
+Low alch: 14,000 coins
+Weight: 1.36 kg
+Grand Exchange Value: 6,098,974 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 50
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -2
+- Slash: +26
+- Crush: +24
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +29
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Hack | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/14,662.5 | 
+Reward casket (master) | N/A | 1 | 1/13,616 | 

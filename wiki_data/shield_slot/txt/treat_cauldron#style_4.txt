@@ -1,0 +1,48 @@
+[Weapon: Treat Cauldron#Style 4]
+
+
+Thetreat cauldronis a holiday reward received from completing the 2022 and 2023Halloween event. It can be changed into various styles, each appearing more and more filled than the last. In addition, it has an emote that can be performed whilst equipped.
+Players may also use the cauldron's "Check" option to display the total amount of treats deposited by all players during the event, as well as the personal amount deposited.
+
+
+[Infobox]
+Released: 26 October2022(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Check, Change, Destroy
+Worn options: Check, Change, Accept trick-or-treat, Emote
+Destroy: You can get a replacement from Diango.
+Examine: Perfect for collecting treats while Trick-or-Treating!
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

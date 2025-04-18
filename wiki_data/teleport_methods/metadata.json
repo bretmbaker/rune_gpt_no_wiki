@@ -1,0 +1,345 @@
+{
+  "": {
+    "spellbook": "Spells [ edit | edit source ]",
+    "level": "Ape Atoll Teleport",
+    "runes": "90",
+    "location": "2 2 2",
+    "notes": "100"
+  },
+  "Games necklace": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Barbarian Assault\nBurthorpe Games Room\nTears of Guthix (requires completion of Tears of Guthix quest)\nCorporeal Beast\nWintertodt Camp (requires visiting Zeah once)",
+    "runes": "8",
+    "location": "No",
+    "notes": ""
+  },
+  "Ring of dueling": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Emir's Arena\nFerox Enclave\nCastle Wars\nFortis Colosseum[g 1]",
+    "runes": "8",
+    "location": "No",
+    "notes": ""
+  },
+  "Ring of life": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Respawn point, if Hitpoints is less than 10%, except for 0",
+    "runes": "1",
+    "location": "No",
+    "notes": ""
+  },
+  "Combat bracelet": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Warriors' Guild\nChampions' Guild\nEdgeville Monastery\nRanging Guild",
+    "runes": "4 or 6",
+    "location": "Yes[g 2]",
+    "notes": ""
+  },
+  "Skills necklace": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Fishing Guild\nMining Guild\nCrafting Guild\nCooks' Guild\nWoodcutting Guild\nFarming Guild",
+    "runes": "4 or 6",
+    "location": "Yes[g 2]",
+    "notes": ""
+  },
+  "Amulet of glory": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Edgeville\nKaramja (Musa Point)\nDraynor Village\nAl Kharid",
+    "runes": "4 or 6",
+    "location": "Yes[g 3]",
+    "notes": ""
+  },
+  "Amulet of eternal glory": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Edgeville\nKaramja (Musa Point)\nDraynor Village\nAl Kharid",
+    "runes": "Unlimited",
+    "location": "N/A",
+    "notes": ""
+  },
+  "Ring of wealth": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Miscellania\nGrand Exchange\nFalador Park\nDondakan",
+    "runes": "5",
+    "location": "Yes[g 4]",
+    "notes": ""
+  },
+  "Slayer ring": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Slayer Tower\nFremennik Slayer Dungeon\nTarn's Lair\nStronghold Slayer Cave\nDark Beasts",
+    "runes": "8",
+    "location": "No",
+    "notes": ""
+  },
+  "Slayer ring (eternal)": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Slayer Tower\nFremennik Slayer Dungeon\nTarn's Lair\nStronghold Slayer Cave\nDark Beasts",
+    "runes": "Unlimited",
+    "location": "N/A",
+    "notes": ""
+  },
+  "Digsite pendant": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Digsite\nFossil Island (House on the Hill)\nLithkren",
+    "runes": "5",
+    "location": "No",
+    "notes": ""
+  },
+  "Ring of returning": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Respawn point",
+    "runes": "5",
+    "location": "No",
+    "notes": ""
+  },
+  "Necklace of passage": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Wizards' Tower\nJorral's Outpost\nDesert eagle station of the eagle transport system",
+    "runes": "5",
+    "location": "No",
+    "notes": ""
+  },
+  "Burning amulet": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Chaos Temple (level 15 Wilderness)\nBandit Camp (level 17 Wilderness)\nLava Maze (level 41 Wilderness)",
+    "runes": "5",
+    "location": "No",
+    "notes": ""
+  },
+  "Ectophial": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Ectofuntus",
+    "runes": "Unlimited",
+    "location": "Automatically refilled upon arriving at the Ectofuntus",
+    "notes": ""
+  },
+  "Teleport crystal": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Lletya and Prifddinas",
+    "runes": "3 (5 after completion of the Hard Western Provinces Diary)",
+    "location": "Eluned",
+    "notes": ""
+  },
+  "Eternal teleport crystal": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Lletya and Prifddinas",
+    "runes": "Unlimited",
+    "location": "N/A",
+    "notes": ""
+  },
+  "Royal seed pod": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Grand Tree",
+    "runes": "Unlimited",
+    "location": "N/A",
+    "notes": ""
+  },
+  "Enchanted lyre": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Rellekka, Waterbirth Island, Neitiznot, Jatizso",
+    "runes": "2-4",
+    "location": "Fossegrimen's altar (unlimited for a one-off payment)",
+    "notes": ""
+  },
+  "Enchanted lyre(i)": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Rellekka, Waterbirth Island, Neitiznot, Jatizso",
+    "runes": "Unlimited",
+    "location": "N/A",
+    "notes": ""
+  },
+  "Camulet": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Enakhra's Temple, Enakhra's Temple entrance",
+    "runes": "4/Unlimited",
+    "location": "Ugthanki dung (unlimited for a one-off payment of 1,000,000 coins to Lazim)",
+    "notes": ""
+  },
+  "Kharedst's memoirs": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Great Kourend (different locations)",
+    "runes": "0, increases by 20 for each added page up to 100",
+    "location": "Inspecting the Old Memorial with a law, body, mind, and soul rune in inventory (one charge per set of runes)",
+    "notes": ""
+  },
+  "Book of the dead": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Great Kourend (same locations as the Kharedst's memoirs)",
+    "runes": "250",
+    "location": "Inspecting the Old Memorial with a law, body, mind, and soul rune in inventory (one charge per set of runes)",
+    "notes": ""
+  },
+  "Drakan's medallion": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Ver Sinhaza and Darkmeyer (and Slepe)",
+    "runes": "Unlimited",
+    "location": "Using a Slepey tablet on the medallion unlocks an unlimited teleport to Slepe.",
+    "notes": ""
+  },
+  "Mythical cape": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Myths' Guild",
+    "runes": "Unlimited",
+    "location": "N/A",
+    "notes": ""
+  },
+  "Stony basalt": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Troll Stronghold entrance",
+    "runes": "1 use",
+    "location": "N/A",
+    "notes": ""
+  },
+  "Icy basalt": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Weiss",
+    "runes": "1 use",
+    "location": "N/A",
+    "notes": ""
+  },
+  "Calcified moth": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Cam Torum",
+    "runes": "1 use",
+    "location": "N/A",
+    "notes": ""
+  },
+  "Pharaoh's sceptre": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Jalsavrah - the Pyramid Plunder minigame.\nJaleustrophos - the Agility Pyramid, next to Simon Templeton.\nJaldraocht - Ancient Pyramid\nJaltevas - Jaltevas Pyramid, the Tombs of Amascut raid (unlocked after communing with the obelisk at the Necropolis)",
+    "runes": "3 (10, 25, 50, and 100 with completion of each tier of the Desert Diary)",
+    "location": "Pay the Mummy in the Pyramid Plunder minigame with artefacts",
+    "notes": "1"
+  },
+  "Skull sceptre": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Barbarian Village",
+    "runes": "10 (14, 18, 22, and 26 with completion of each tier of the Varrock Diary)",
+    "location": "N/A",
+    "notes": "0"
+  },
+  "Skull sceptre (i)": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Barbarian Village",
+    "runes": "10 (14, 18, 22, and 26 with completion of each tier of the Varrock Diary)",
+    "location": "Recharged with sceptre pieces: each piece will grant 3 (4, 5, 6, and 7 with completion of each tier of the Varrock Diary) teleport charges, except the left skull half which grants 2 extra charges",
+    "notes": "0"
+  },
+  "Xeric's talisman": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Xeric's Lookout - at the lookout tower south-east of Shayzien\nXeric's Glade - by the magic trees in Hosidius\nXeric's Inferno - by the lovakite furnace in Lovakengj\nXeric's Heart - Kourend Castle\nXeric's Honour - Mount Quidamortem (unlocked after using an ancient tablet on the talisman)",
+    "runes": "Up to 1000",
+    "location": "It can be charged with lizardman fangs",
+    "notes": "1"
+  },
+  "Chronicle": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Champions' Guild",
+    "runes": "Up to 1000",
+    "location": "It can be charged with teleport cards",
+    "notes": "0"
+  },
+  "Amulet of the eye": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Temple of the Eye",
+    "runes": "Unlimited",
+    "location": "N/A",
+    "notes": "1"
+  },
+  "Ring of the elements": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "North of the Fire Altar\nWest of the Water Altar\nSouth of the Air Altar\nWest of the Earth Altar",
+    "runes": "Up to 10,000",
+    "location": "Requires 1 1 1 1 1  per charge",
+    "notes": "1"
+  },
+  "Ancient shard": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Four corners of the Catacombs of Kourend:\nDemon's Run\nDragon's Den\nReeking Cove\nThe Shallows",
+    "runes": "One use per shard",
+    "location": "N/A",
+    "notes": "1"
+  },
+  "Hallowed crystal shard": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Hallowed Sepulchre",
+    "runes": "One use per shard",
+    "location": "N/A",
+    "notes": "1"
+  },
+  "Escape crystal": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Outside of the dangerous activity the crystal is used in.",
+    "runes": "One use per crystal",
+    "location": "N/A",
+    "notes": "1"
+  },
+  "Pendant of ates": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "The Darkfrost\nTwilight Temple\nRalos' Rise\nNorth Aldarin",
+    "runes": "Up to 1000",
+    "location": "It can be charged with frozen tears",
+    "notes": "1"
+  },
+  "Ring of shadows": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "The Ancient Vault\nGhorrock Dungeon\nThe Scar\nLassar Undercity\nThe Stranglewood",
+    "runes": "Up to 1000",
+    "location": "Requires  1 1 1 1  per charge",
+    "notes": "1"
+  },
+  "Giantsoul amulet": {
+    "spellbook": "Items [ edit | edit source ]",
+    "level": "Bryophyta's Lair in Varrock Sewers\nObor's Lair in Edgeville Dungeon\nRoyal Titans in the Asgarnian Ice Dungeon",
+    "runes": "Up to 16,000",
+    "location": "Requires  1  and one Big bone per charge",
+    "notes": "1"
+  },
+  "Lumbridge": {
+    "spellbook": "Other [ edit | edit source ]",
+    "level": "Speak to NPC at current spawn",
+    "runes": "None",
+    "location": "No",
+    "notes": ""
+  },
+  "Falador": {
+    "spellbook": "Other [ edit | edit source ]",
+    "level": "Sir Tiffy Cashien",
+    "runes": "Recruitment Drive quest",
+    "location": "Yes",
+    "notes": ""
+  },
+  "Camelot": {
+    "spellbook": "Other [ edit | edit source ]",
+    "level": "Merlin",
+    "runes": "Knight Waves Training Grounds miniquest",
+    "location": "Yes",
+    "notes": ""
+  },
+  "Edgeville": {
+    "spellbook": "Other [ edit | edit source ]",
+    "level": "Krystilia",
+    "runes": "One-time fee of 5,000,000 coins",
+    "location": "No",
+    "notes": ""
+  },
+  "Prifddinas": {
+    "spellbook": "Other [ edit | edit source ]",
+    "level": "Crefydd",
+    "runes": "Song of the Elves quest",
+    "location": "Yes",
+    "notes": ""
+  },
+  "Ferox Enclave": {
+    "spellbook": "Other [ edit | edit source ]",
+    "level": "Ferox",
+    "runes": "One-time fee of 5,000,000 coins",
+    "location": "No",
+    "notes": ""
+  },
+  "Civitas illa Fortis": {
+    "spellbook": "Other [ edit | edit source ]",
+    "level": "Gloria",
+    "runes": "5,000 glory in Fortis Colosseum",
+    "location": "Yes",
+    "notes": ""
+  }
+}

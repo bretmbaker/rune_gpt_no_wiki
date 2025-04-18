@@ -1,0 +1,2 @@
+Item: Core
+Summary: The core acts as the power source of Tumeken's Warden and Elidinis' Warden. During the second phase of the fight, players must attack the Warden that successfully powered up until it is damaged enough (the yellow bar above them being full) to force its core to eject out of its body.

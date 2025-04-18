@@ -1,0 +1,1 @@
+Theegg potatois afooditem that can be made by players by combining anegg and tomatotopping with apotato with butter. This requires aCookinglevel of 51, granting 45Cookingexperience, and heals 16 hitpoints. Creating all ingredients from scratch and using them to create an egg potato grants 196.5Cookingexperience.

@@ -1,0 +1,50 @@
+[Weapon: Topaz Bolts (E)]
+
+
+Topaz bolts (e)aresteel boltstipped with enchantedred topaz.Topaz boltscan be enchanted through the spellEnchant Crossbow Bolt (Red Topaz)by a player with level 29Magic. The spell enchants 10 red topaz bolts at a time.
+Topaz bolts (e) have a4%chance of triggering theDown to Eartheffect. This will lower the target'sMagicby 1 level. The bolt effect can only be triggered while fighting other players.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Also called: Enchanted (red) topaz bolts
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Enchanted Red Topaz tipped Steel Crossbow Bolts.
+General Store Value: 24 coins
+High alch: 14 coins
+Low alch: 9 coins
+Weight: 0 kg
+Grand Exchange Value: 6 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 106,178
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +66
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

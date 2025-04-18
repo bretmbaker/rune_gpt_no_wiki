@@ -1,0 +1,4 @@
+Item: Skotos
+Summary: 
+Sources:
+- Skotizo (Level 321, Quantity: 1, Rarity: 1/65)

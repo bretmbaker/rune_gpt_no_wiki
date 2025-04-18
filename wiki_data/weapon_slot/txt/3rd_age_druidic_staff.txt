@@ -1,0 +1,65 @@
+[Weapon: 3Rd Age Druidic Staff]
+
+
+The3rd age druidic staffis a rare reward obtained frommasterTreasure Trails. It is part of the3rd age druidic robesset, and requires 65PrayerandAttackto wear.
+It has the same stats as anyCrozier.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A fabulously ancient gnarled staff as used by the druids of old.
+General Store Value: 200,000 coins
+High alch: 120,000 coins
+Low alch: 80,000 coins
+Weight: 2 kg
+Grand Exchange Value: 1,266,710,055 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 0
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +7
+- Slash: -1
+- Crush: +25
+- Magic: +10
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +10
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +32
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +6
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Mimic | N/A | 1 | 1/5,244;1/5,750 | 
+Reward casket (master) | N/A | 1 | 1/313,168 | 

@@ -1,0 +1,49 @@
+[Weapon: White Full Helm]
+
+
+Thewhite full helmis a type ofWhite Knighthelmetthat requires 10Defenceand the completion of theWanted!questto wield. It has the same bonuses as ablack full helmet, with an added +1prayer bonus.
+Players can purchase it fromSir Vyvinafter achieving therankof Adept (800black knightkills). It can also be bought on the Grand Exchange or obtained through trading other players. Players are able to store this helmet (along with other white knight armour) in theirarmour caseinside theirplayer-owned house.
+
+
+[Infobox]
+Released: 17 October2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A full face helmet.
+General Store Value: 1,056 coins
+High alch: 633 coins
+Low alch: 422 coins
+Weight: 2.721 kg
+Grand Exchange Value: 1,953 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 23
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +12
+- Slash: +13
+- Crush: +10
+- Magic: -1
+- Ranged: +12
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Head slot

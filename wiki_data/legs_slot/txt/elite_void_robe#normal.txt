@@ -1,0 +1,99 @@
+[Weapon: Elite Void Robe#Normal]
+
+
+Anelite void robeis a piece ofElite Void Knight equipment. It can be upgraded from avoid knight robefor 200Void Knight commendation pointsby speaking to theElite Void Knight, although thehard Western Provinces Diarymust be completed to upgrade it. When worn in combination with the other pieces of Void Knight armour, there is set effect that depends on whichvoid helmis worn. Compared to thevoid knight robe, it has an additional +3prayer bonusand a +2.5% damage boost to Ranged and +5% damage boost to Mage when worn with theelite void top.
+If the player dies below level 20Wilderness, it will remain in the player's inventory. However, the item will becomeunusableand must be repaired with250,000coinsby using the item onPerdu.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Superior leg armour from the order of the Void Knights.
+General Store Value: 45,500 coins
+High alch: 27,300 coins
+Low alch: 18,200 coins
+Weight: 8.164 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +30
+- Slash: +30
+- Crush: +30
+- Magic: +30
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Legs slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Adamant dragon/Strategies(Ranged)
+1 | Barbarian Assault/Strategies(Ranged (high level))
+1 | Barrows/Strategies(Ranged (Ahrim))
+5 | Barrows/Strategies(Magic equipment)
+3 | Corporeal Beast/Strategies(Melee masses)
+3 | Corporeal Beast/Strategies(Team melee)
+4 | Corporeal Beast/Strategies(Solo melee)
+3 | Duke Sucellus/Strategies(Melee)
+4 | Galvek Speed-Trialist(Melee)
+3 | Giant Mole/Strategies(Melee)
+1 | Giant Mole/Strategies(Ranged Void)
+1 | Green dragon/Strategies(Ranged)
+4 | Hespori/Strategies(Mage)
+3 | K'ril Tsutsaroth/Strategies(Solo Melee)
+5 | K'ril Tsutsaroth/Strategies(Ranged)
+5 | Kraken/Strategies(Magic)
+1 | Maniacal monkey/Strategies(Ranged)
+4 | Maniacal monkey/Strategies(Magic - Ice Burst)
+4 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+3 | The Mimic/Strategies(Magic)
+3 | The Mimic/Strategies(Ranged)
+4 | Mithril dragon/Strategies(Melee)
+4 | Nightmare Zone/Strategies(Magic)
+1 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+1 | Royal Titans/Strategies(Minimal gear switching)
+5 | Rune dragon/Strategies(Ranged)
+4 | Sarachnis/Strategies(Melee)
+4 | Scurrius/Strategies(Melee (high level))
+2 | Scurrius/Strategies(Range (high level))
+1 | Skeletal Wyvern/Strategies(Ranged (Void))
+4 | Skotizo/Strategies(Melee)
+5 | Skotizo/Strategies(Ranged)
+4 | Slayer task/Abyssal demons(Ranged)
+5 | Slayer task/Jellies(Melee)
+4 | Slayer task/Waterfiends(Melee)
+1 | Theatre of Blood/Hard Mode(Range)
+2 | Theatre of Blood/Hard Mode(Magic)
+1 | Theatre of Blood/Strategies(Entry mode)
+1 | Theatre of Blood/Strategies(Range)
+4 | Theatre of Blood/Strategies(Melee)
+1 | Theatre of Blood/Strategies(Learner)
+2 | Theatre of Blood/Strategies(Magic)
+5 | Thermonuclear smoke devil/Strategies(Melee)
+1 | Tormented Demon/Strategies(Ranged switch)
+3 | TzHaar Fight Cave/Strategies(Magic)
+2 | Vorkath/Strategies(Ranged (crossbow))
+4 | The Whisperer/Strategies(Magic)
+5 | Zulrah/Strategies(Ranged)
+5 | Zulrah/Strategies(Magic)

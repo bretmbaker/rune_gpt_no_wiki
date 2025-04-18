@@ -1,0 +1,2 @@
+Item: Rhiannon
+Summary: Rhiannon is a citizen of Prifddinas. She can be found at the entrance to Zalcano's prison, where she offers information and advice about the demon. Players can speak to her to toggle between receiving resource and experience rewards. Toggling to experience rewards still rolls the unique and pet drop tables.

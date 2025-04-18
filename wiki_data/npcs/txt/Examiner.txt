@@ -1,0 +1,2 @@
+Item: Examiner
+Summary: Examiner is a worker in the Exam Centre. They can be found in the east building.

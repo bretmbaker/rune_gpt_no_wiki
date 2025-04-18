@@ -1,0 +1,1 @@
+Dwarven stoutis a type ofalethat restores 1Hitpointandtemporarily boostsMiningandSmithingby 1 whiledrainingAttack,StrengthandDefenceby 4% + 2. It can be obtained throughbrewingat level 19Cooking, granting 215 experience. It is brewed using 2buckets of water, 2barley malt, 4hammerstone hops,  and a pot ofale yeast. The stronger, mature version of the ale is thedwarven stout(m).

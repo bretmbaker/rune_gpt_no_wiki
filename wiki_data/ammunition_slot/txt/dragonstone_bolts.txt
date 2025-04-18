@@ -1,0 +1,55 @@
+[Weapon: Dragonstone Bolts]
+
+
+Dragonstone boltsare runite bolts tipped with dragonstone. Dragonstone bolts can be created at level 71Fletchingskill by attaching dragonstone bolt tips to runite bolts. For everydragonstone bolt tipattached to arunite bolt, a player is granted 8.2 Fletching experience.
+Players can enchant dragonstone bolts by using the spellEnchant Crossbow Bolt (Dragonstone), producingdragonstone bolts (e). The spell itself requires asoul rune,cosmic rune, and 15earth runes. The spell requires 68 Magic and enchants 10 dragonstone bolts at a time.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Dragonstone tipped Runite crossbow bolts.
+General Store Value: 967 coins
+High alch: 580 coins
+Low alch: 386 coins
+Weight: 0 kg
+Grand Exchange Value: 1,028 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 1,358,703
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +117
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Dragon impling jar | N/A | 10–40 | 1/19 | 
+Dragon impling | 83; 93 | 10–40 | 1/19 | 

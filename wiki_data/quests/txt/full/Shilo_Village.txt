@@ -1,0 +1,218 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Shilo Village (#41)
+
+
+
+
+
+Released | 27 January 2003 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Tytn H
+
+
+
+Shilo Village is a quest in which the player lays to rest a vengeful spirit that is attacking Shilo Village , a town located in southern Karamja . The quest unlocks access to the village and its cart system .
+
+Details [ edit | edit source ]
+
+Start point | Talk to Mosol Rei outside of Shilo Village in the south part of Karamja . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Medium
+
+Description | New areas in the southern part of Karamja Island have been discovered with a mysterious village.
+Who knows what hidden treasures exist, and what dangers lurk to guard them?
+
+Requirements | Completion of the following quests: Jungle Potion Druidic Ritual 20 Crafting ( boostable ) ( not required to start ) 32 Agility ( boostable ) ( not required to start ) Must be able to defend from many Undead ones (level 61-73) and able to defeat three monsters that are about level 90.
+
+Items required | Spade A lit torch or candle ( lanterns or a Firemaking cape don't work) (a bruma torch will work, but you will not get this item back ) Rope Bronze wire (can be made from scratch using the General Store and Anvil north of Tai Bwo Wannai ) Chisel 3 regular bones (obtainable during quest, only normal bones work; a spare is a good idea in case you bury one) All required items (except for the bones and wire) can be bought at the general store in Tai Bwo Wannai for less than 100 coins. Bones can be obtained from the chicken (Level 3) south of Trufitus past the rotten fence, or the hobgoblins just north-west of the fairy ring.
+
+Recommended | 45 Combat level Decent armour and a weapon Good food (enough to make it through two long tunnels of level 73 monsters) Stamina potions Antipoison ( poison can hit up to 11 each time; a combat level of 65 or higher will make the very poisonous tribesmen non-aggressive) Prayer potions to help protect against the undead Teleports (for leaving dangerous areas in a hurry; ring of dueling is helpful for access to a glider; necklace of passage , amulet of glory and several other viable options for easy access to fairy rings ). Papyrus and charcoal (only required if you lose an item during the quest) Access to the Gnome glider and fairy rings makes travelling easier (don't forget your Dramen staff ) Crumble Undead makes it easy to kill the 3 monsters. 4 Rogue kits could provide the chisel, rope, tinderbox, and spade you need in the temple, saving inventory space and weight.
+
+Enemies to defeat | Nazastarool in 3 forms, levels 91, 68 and 93. Safespotting is possible.
+
+Ironman concerns | 4 Smithing ( boostable ) (to make a bronze wire )
+
+League notes | Unlocking Karamja ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Beginning the quest [ edit | edit source ]
+
+Start by talking to Mosol Rei at the entrance to Shilo Village .
+
+Warning : If you ask, "What danger is there around here?" , you will be attacked by a couple of undead ones .
+
+A quick way of getting there is using the gnome glider to Karamja (aka Gandius) then crossing the stepping stones towards the south-west (30 Agility required, but you can still cross by falling off; you'll automatically swim to the other side). If you have access to the fairy ring network, you may travel to south of Tai Bwo Wannai Village ( C K R ) and run south across the bridge, then east on the path behind Shilo Village.
+
+Select the following five options:
+
+"Why do I need to run?" ( 1 ) … 1 "Rashiliyia? Who is she?" ( 1 ) … 1 "What can we do?" ( 1 ) … 1 "I'll go to see the Shaman" ( 4 ) … 4 "Yes, I'm sure and I'll take the Wampum belt to Trufitus." ( 2 ) … 2
+
+All items except good food , armour , teleports , and the bones can be purchased at Jiminua's Jungle Store en route to visiting Trufitus . The bones can be obtained from the chicken (Level 1) south of Trufitus past the rotten fence, which has a respawn time of 15 seconds.
+
+Mosol Rei should give you a wampum belt to take to Trufitus (start of Jungle Potion ) who is in the house north-east of Tai Bwo Wannai . Use the wampum belt on Trufitus, and he will tell you that things look very bleak ( 2 • 2 • 1 • 3 • 1 ) …
+
+Ask him about a legend and the temple, and tell him to tell you more. He will have almost no hope of anyone finding the temple of Ah Za Rhoon . You must state that you will look for the temple, and once you affirm your intent to search, Trufitus will take the wampum belt from you, and this quest will turn yellow in your Quest Journal .
+
+Ah Za Rhoon [ edit | edit source ]
+
+Items required: Spade , lit Torch or candle , rope , chisel or pickaxe , 2 free inventory spaces.
+
+Items recommended: Decent armour and/or Prayer potions to defend against the undead ones , food.
+
+To get to the temple of Ah Za Rhoon from Tai Bwo Wannai , go east to the river, cross the log near the crashed glider , and go south along the river until you reach a mound of earth surrounded by rocks. If you have completed The Grand Tree , a quicker way to get there is to use a ring of dueling to teleport to the Emir's Arena (Al Kharid PvP Arena), walk to the glider in Al Kharid , and take a glider to Gandius.
+
+Use your spade on the mound of earth to find a fissure. Use your torch or candle on the fissure to light it up (it will drop down and you will not be able to get it back). Add a rope to the fissure. Search the fissure and climb down into the dungeon below (requiring 32 Agility ).
+
+In the cave are undead ones (level 61 - 73) who may attack you. Killing them occasionally causes a cloud of shilo mist to appear and deal damage to you.
+
+In this cave system, you will need to find four items. Consult the following map to aid in finding them.
+
+
+
+1 - Entrance | 5 - Waterfall rocks
+
+2 - Cave-in | 6 - Loose rocks
+
+3 - Smashed table | 7 - Sacks
+
+4 - Strange looking stone | 8 - Gallows
+
+Start off by heading south until you see the water. Use a chisel or a pickaxe on the strange-looking stone (4 on the map; it is a small grey stone in the floor to the east of a Smashed chair and south of a stalagmite) to obtain the stone-plaque . Go west past the column and search the Cave in (2 on the map) to crawl through and into some ruins. Head north until you reach the end of the ruined buildings. Search the loose rocks (6 on the map) near the north-west wall to find the tattered scroll . If you fail, you will get hit for 4-7 (possibly more) damage. Now head south-east until you come to a small dead-end branch. Search the sacks next to a smashed table (7 on the map) to obtain the crumpled scroll . Finally, head north to the far end of the cavern, where you will find the ancient gallows (8 on the map). Search it and remove the corpse to obtain the Zadimus corpse .
+
+After acquiring all four items, you can teleport out. Otherwise, to exit the dungeon, return to the smashed table (3 on the map). You can craft the smashed table into a raft and use it to leave. This does not always work; it is possible to get the message that there isn't enough wood left. In this case, you will have to leave by other means. If you want, you can continue south, then east to the end of the cave. Search the rocks you find there to leave via the waterfall. You will take a lot of damage if you fall while leaving this way. You will find yourself near the stepping stones to the east of Shilo Village .
+
+Note: If you decide to exit through the waterfall, before exiting turn on protect from melee to not take damage from the waterfall. (Tested 11/8/2024, Protect From Melee does not negate damage, took ~20 damage with prayer on)
+
+Scrolls from Ah Za Rhoon and the proper burial [ edit | edit source ]
+
+Read both the scrolls and the plaque. Next, use both scrolls, the plaque, and the corpse on Trufitus . He will tell you about the tomb of Bervirius and instruct you to bury the corpse.
+
+Go to the Tribal Statue west of Trufitus' hut, and bury the Zadimus corpse . The Spirit of Zadimus will appear. He will give you a bone shard . Take the bone shard back to Trufitus, and he'll tell you to look for Bervirius' tomb .
+
+Tomb of Bervirius [ edit | edit source ]
+
+Items required: bronze wire , A chisel , 3 free inventory spaces
+
+Recommended: food (for lower agility levels)
+
+From Tai Bwo Wannai , go south past the Graahk hunting area, towards Cairn Isle .
+
+Climb the rocks and cross the bridge to reach Cairn Isle . At lower Agility levels, you have a higher chance of falling and taking damage, so it may be wise to bring some food.
+
+Once you're across the bridge, search the well-stacked rocks (i.e. the cairn) on the north side of the island. Enter the crawl-way (32 Agility needed) to enter the Tomb of Bervirius . You may become stuck many times, but keep trying.
+
+Head south to the dolmen , and search it to get a sword pommel , a locating crystal , and Bervirius notes (if you lose these items, you will need charcoal and papyrus to get the Bervirius notes again).
+
+Read the scrolls. You need to make a new necklace. Use a chisel on the sword pommel to make bone beads . Use the bronze wire on the beads to make the beads of the dead necklace.
+
+Exit the cave by climbing the rock slide north of the dolmen, or teleport out.
+
+Tomb of Rashiliyia [ edit | edit source ]
+
+Items needed: Chisel , bone shard , beads of the dead necklace, locating crystal , 3 regular bones.
+
+Recommended: Good food ( lobsters or higher), weapon , good armour . An emergency teleport for low level players.
+
+From the fairy ring ( D K P ): Head south until you're about halfway between the coast and crashed glider.
+
+From Trufitus : Head east and follow the river southward until you come to the log near the crashed glider. Cross the log.
+
+Note: Be careful of The Shaikahan , a level 83 enemy that happens to roam outside the tomb entrance. It cannot be harmed normally, so try to avoid it instead.
+
+Rashiliyia's Tomb is north of the crashed gnome glider . Look for a searchable palm tree . It should be noted that the entrance is hidden behind a hill and is most visible if you are facing south.
+
+Search the palm trees to find two doors . Search these doors to find the shape of the keyhole, and then use your chisel on the bone shard to make a bone key . Put on the beads of the dead necklace, and then use the key on the door to enter.(If you don't put the necklace on you cannot get through the gate in the first room and will take constant damage.)
+
+Note: If you are low level, bring a friend and let them tank the zombies. If nobody can help you, then suicide-run to the door until you manage to use all 3 bones on it. Once you've done that, you can open the door and the creatures won't be able to attack you.
+
+Note: If you attempt to leave the entrance area by clicking on the tomb door the player will say a few lines of dialogue, causing any damage done to the player to stack once the dialogue ends. This can kill low level players as the summoned undead ones can hit up to 7 damage.
+
+
+
+1 - Entrance | 3 - Skeleton door
+
+2 - Rock slope | 4 - Dolmen
+
+Once inside, run past the undead ones and through the ancient gates, then head down the rock slope. Go west until you find a stack of coins ( do not pick them up), then south, and then south-west at the first fork. At the end of this corridor will be a set of doors . Other sets of dummy doors exist if you take a wrong turn, so make sure you're in the right place. Right-click the bones to use them on the door. While still wearing the necklace, enter the room. If for any reason you leave this room, you will not need bones to enter the room again.
+
+Nazastarool [ edit | edit source ]
+
+While still wearing the beads of the dead , search the dolmen in the room. You will be attacked by Nazastarool , a level 91 zombie . He uses Melee throughout the battle. After you defeat him, he will turn into a level 68 skeleton . After you defeat him, he'll turn into a level 93 ghost . You can safespot all three forms from any side of the dolmen. You can kill each form separately, leave to restock, and then return to kill the next form.
+
+Once you have defeated the ghost, you will get the corpse of Rashiliyia .
+
+To leave, simply return to where you entered. Use your key on the door to exit. It is recommended for lower level players to instead teleport out.
+
+Rashiliyia's corpse [ edit | edit source ]
+
+Go back to the tomb of Bervirius on Cairn Isle west from Shilo Village , and use Rashiliyia's remains on the dolmen. Rashiliyia will appear before you. She will thank you for letting her rest in peace and give you your reward.
+
+Rewards [ edit | edit source ]
+
+2 Quest points 3,875 Crafting experience Access to Shilo Village Ability to quick travel to Shilo Village using the cart near the Brimhaven docks After completing the quest, you can sell every item you obtained during the quest to Yanni Salika in Shilo Village for a total of 2,000 — 100 each for the stone-plaque , tattered scroll , crumpled scroll , Bervirius notes and the bone key ; 500 for the locating crystal ; and 1000 for the beads of the dead . Ability to mine the gem rocks in Shilo Village mine .
+
+Unlocks:
+
+Nazastarool accessible in the Nightmare Zone .
+
+Required for completing [ edit | edit source ]
+
+Completion of Shilo Village is required for the following quests:
+
+Recipe for Disaster - Freeing Sir Amik Varze Legends' Quest Lunar Diplomacy One Small Favour
+
+Completion of Shilo Village is required for the following Achievement Diaries :
+
+Medium Karamja Hard Karamja
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+16 July 2020 ( update ) | Corrected a typo in the 'Shilo Village' quest.
+
+2 June 2016 ( update ) | Fixed a typo in the Shilo Village quest.
+
+Trivia [ edit | edit source ]
+
+Whilst the quest start icon is at Mosol Rei, and talking to him will change the text inside the journal, the quest is actually not marked as started in the quest list until you give the wampum belt to Trufitus. If you attempt to leave the Tomb of Rashiliyia through the entrance door your character will say:
+
+If you search the fissure after adding the rope, but decline to enter, your character will say:
+
+If you talk to Trufitus twice after completing the quest you get rid of the three pop-ups you get entering the village.
+
+v • t • e Shilo Village (quest)
+
+NPCs | Mosol Rei Trufitus Spirit of Zadimus Rashiliyia King Danthalas Bervirius Enemies Nazastarool Undead one |  | Mosol Rei Trufitus Spirit of Zadimus Rashiliyia King Danthalas Bervirius | Enemies | Nazastarool Undead one
+
+ | Mosol Rei Trufitus Spirit of Zadimus Rashiliyia King Danthalas Bervirius
+
+Enemies | Nazastarool Undead one
+
+Items | Wampum belt Stone-plaque Tattered scroll Crumpled scroll Zadimus corpse Bone shard Sword pommel Locating crystal Bervirius notes Bone beads Beads of the dead Bone key Rashiliyia corpse Coins (Shilo Village)
+
+Locations | Shilo Village Ah Za Rhoon Tomb of Bervirius Rashiliyia's Tomb
+
+Music | Ambient Jungle Oriental
+
+Related | Quick guide Transcript
+
+v • t • e Shilo Village (location)
+
+Inhabitants | Banker Duradel Kuradal Fernahei Kaleb Paramaya Mosol Rei Obli Seravel Yanni Salika Vigroy Yohnus
+
+Shops | Fernahei's Fishing Hut. Obli's General Store. Paramaya Inn Slayer Equipment Slayer Rewards
+
+Related | Shilo Village (quest) Shilo Village cart system Shilo Village mine

@@ -1,0 +1,74 @@
+[Weapon: Steel Kiteshield]
+
+
+Thesteel kiteshieldis the fourth-best smithablekiteshield, requiring 5Defenceto wield. A player with 42Smithingcan make the shield by using threesteel barson ananvilwhile carrying ahammer, granting 112.5 Smithingexperience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A large metal shield.
+General Store Value: 850 coins
+High alch: 510 coins
+Low alch: 340 coins
+Weight: 5.443 kg
+Grand Exchange Value: 310 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 8,538
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -8
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +13
+- Slash: +15
+- Crush: +14
+- Magic: -1
+- Ranged: +14
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Adventurer JonGetting started Defence(m) | N/A | 1 | Always | N/A
+Angry barbarian spirit | 166 | 1 | 1/128 | 
+Berserk barbarian spirit | 166 | 1 | 1/128 | 
+Dagannoth Rex | 303 | 1 | 17/128 | 
+Elaborate lockbox | N/A | 1 | 13/2,625 | 
+Enraged barbarian spirit | 166 | 1 | 1/128 | 
+Giant skeleton (Tarn's Lair) | 100 | 1 | 1/128 | 
+Moss giantRegular | 42; 48 | 1 | 1/128 | 
+Simple lockbox | N/A | 1 | 13/10,850 | 
+Skeleton (Tarn's Lair)Low level | 42; 59 | 1 | 2/128 | 
+Skeleton (Tarn's Lair)High level | 81; 87 | 1 | 1/128 | 
+Skeleton (mage) | 94 | 1 | 1/128 | 
+Skeleton brute | 132 | 1 | 1/128 | 
+Skeleton heavy | 132 | 1 | 1/128 | 
+Skeleton hero | 149 | 1 | 1/128 | 
+Skeleton thug | 132 | 1 | 1/128 | 
+Skeleton warlord | 132 | 1 | 1/128 | 
+Steel Chest (black) | N/A | 1 | 2/134.46 | 
+Steel Chest (brown) | N/A | 1 | 2/134.39 | 
+Steel Chest (crimson) | N/A | 1 | 2/134.43 | 
+Steel Chest (purple) | N/A | 1 | 2/134.5 | 
+Steel Chest (red) | N/A | 1 | 2/134.35 | 

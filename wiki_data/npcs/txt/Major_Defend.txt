@@ -1,0 +1,2 @@
+Item: Major Defend
+Summary: Major Defend is a non-interactive character seen during the Barbarian Assault tutorial. He represents the Defender role and wears the defender icon around him.

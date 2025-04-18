@@ -1,0 +1,80 @@
+[Weapon: Mithril Mace]
+
+
+Themithril maceis amacemade of mithril. Like allmithril weapons, it requires 20Attackto wield, and is exclusively used inmeleecombat.
+Players can make a mithril mace with theSmithingskill at level 52 by using amithril baron ananvilwith ahammerin their inventory, giving the player 50 Smithing experience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A spiky mace.
+General Store Value: 585 coins
+High alch: 351 coins
+Low alch: 234 coins
+Weight: 1.587 kg
+Grand Exchange Value: 138 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 3,013
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +11
+- Slash: -2
+- Crush: +18
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +16
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Dark warriorHigh level | 145 | 1 | 1/128 | 
+Elaborate lockbox | N/A | 1 | 6/2,625 | 
+Ferocious barbarian spirit | 166 | 1 | 5/128 | 
+Giant skeleton (Tarn's Lair) | 100 | 1 | 2/128 | 
+Ice giantRegular | 53 | 1 | 1/128 | 
+Ice warrior | 57 | 1 | 1/128 | 
+Ornate lockbox | N/A | 1 | 18/2,450 | 
+Otherworldly being | 64 | 1 | 1/128 | 
+Reward Chest (The Gauntlet) | N/A | 2–5(noted) | 1/27 | 
+Simple lockbox | N/A | 1 | 6/10,850 | 
+Skeleton (Tarn's Lair)Low level | 42; 59 | 1 | 2/128 | 
+Skeleton (Tarn's Lair)High level | 81; 87 | 1 | 2/128 | 
+Skeleton (mage) | 94 | 1 | 2/128 | 
+Spiritual warrior | 115–158 | 1 | 7/127 | 
+Steel Chest (black) | N/A | 1 | 7/134.46 | 
+Steel Chest (brown) | N/A | 1 | 7/134.39 | 
+Steel Chest (crimson) | N/A | 1 | 7/134.43 | 
+Steel Chest (purple) | N/A | 1 | 7/134.5 | 
+Steel Chest (red) | N/A | 1 | 7/134.35 | 

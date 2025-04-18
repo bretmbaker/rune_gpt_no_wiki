@@ -1,0 +1,4 @@
+Item: Iasor seed
+Summary: Iasor seeds are a type of anima seed requiring level 76 Farming to plant. They are obtained exclusively from the Hespori, and can only be planted in the anima patch within the intermediate tier of the Farming Guild. Planting an iasor seed gives 100 Farming experience.
+Sources:
+- Hespori (Level 284, Quantity: 1–2, Rarity: 1/3)

@@ -1,0 +1,54 @@
+[Weapon: Studded Body (G)]
+
+
+Studded body (g)is a piece of thegold-trimmed studded leather armourand only obtained by completingEasyTreasure Trailsor trading. It gives identical bonuses as the regularStudded body, and as such is mostly effective for low-levelledpures. It requires 20RangedandDefenceto wear.
+This item can be stored in thetreasure chestof acostume room, as part of thegold-trimmed studded leather armour.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 20 February2006(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Those studs should provide a bit more protection. Nice trim too!
+General Store Value: 850 coins
+High alch: 510 coins
+Low alch: 340 coins
+Weight: 5.443 kg
+Grand Exchange Value: 15,204 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 72
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -4
+- Ranged: +8
+
+Defence Bonuses:
+- Stab: +18
+- Slash: +25
+- Crush: +22
+- Magic: +8
+- Ranged: +25
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 1/1,404 | 

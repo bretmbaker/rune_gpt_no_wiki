@@ -1,0 +1,101 @@
+[Pet: Bloodhound]
+
+TheBloodhoundis apetthat can be received as a rare reward frommasterTreasure Trailsat a rate of 1/1,000. Using a set ofboneson the bloodhound will result in the chatbox messageYou give the dog the bone - it eats it.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Reward casket (master) | N/A | 1 | 1/1,000 | 
+
+Trivia[edit|edit source]
+
+The Bloodhound's dialogue makes references toUp,Sherlock Holmes, andGoodfellas.The text for giving the dog bones is a reference to the children's song "This Old Man".A non-interactable bloodhound exists onAldarin, near acabbagepatch.
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan
+
+v•t•eMasterTreasure Trailsrewards
+
+Equipment | Gilded equipmentArmourFull helmPlatebodyPlatelegsPlateskirtKiteshieldBootsWeaponsScimitarAxePickaxeSpadeThird-age equipmentMeleeFull helmetPlatebodyPlatelegsPlateskirtKiteshieldRangedCoifTopLegsVambracesMagicHatRobe topRobeAmuletDruidicRobe topRobe bottomsStaffCloakMiscellaneousBowLongswordWandCloakAxePickaxeSamurai armourKasaShirtGreavesGlovesBootsRobes of darknessHoodRobe topRobe bottomGlovesBoots | Gilded equipment | ArmourFull helmPlatebodyPlatelegsPlateskirtKiteshieldBootsWeaponsScimitarAxePickaxeSpade | Armour | Full helmPlatebodyPlatelegsPlateskirtKiteshieldBoots | Weapons | ScimitarAxePickaxeSpade | Third-age equipment | MeleeFull helmetPlatebodyPlatelegsPlateskirtKiteshieldRangedCoifTopLegsVambracesMagicHatRobe topRobeAmuletDruidicRobe topRobe bottomsStaffCloakMiscellaneousBowLongswordWandCloakAxePickaxe | Melee | Full helmetPlatebodyPlatelegsPlateskirtKiteshield | Ranged | CoifTopLegsVambraces | Magic | HatRobe topRobeAmulet | Druidic | Robe topRobe bottomsStaffCloak | Miscellaneous | BowLongswordWandCloakAxePickaxe | Samurai armour | KasaShirtGreavesGlovesBoots | Robes of darkness | HoodRobe topRobe bottomGlovesBoots
+
+Gilded equipment | ArmourFull helmPlatebodyPlatelegsPlateskirtKiteshieldBootsWeaponsScimitarAxePickaxeSpade | Armour | Full helmPlatebodyPlatelegsPlateskirtKiteshieldBoots | Weapons | ScimitarAxePickaxeSpade
+
+Armour | Full helmPlatebodyPlatelegsPlateskirtKiteshieldBoots
+
+Weapons | ScimitarAxePickaxeSpade
+
+Third-age equipment | MeleeFull helmetPlatebodyPlatelegsPlateskirtKiteshieldRangedCoifTopLegsVambracesMagicHatRobe topRobeAmuletDruidicRobe topRobe bottomsStaffCloakMiscellaneousBowLongswordWandCloakAxePickaxe | Melee | Full helmetPlatebodyPlatelegsPlateskirtKiteshield | Ranged | CoifTopLegsVambraces | Magic | HatRobe topRobeAmulet | Druidic | Robe topRobe bottomsStaffCloak | Miscellaneous | BowLongswordWandCloakAxePickaxe
+
+Melee | Full helmetPlatebodyPlatelegsPlateskirtKiteshield
+
+Ranged | CoifTopLegsVambraces
+
+Magic | HatRobe topRobeAmulet
+
+Druidic | Robe topRobe bottomsStaffCloak
+
+Miscellaneous | BowLongswordWandCloakAxePickaxe
+
+Samurai armour | KasaShirtGreavesGlovesBoots
+
+Robes of darkness | HoodRobe topRobe bottomGlovesBoots
+
+Outfits | AnkouMaskTopLeggingsGlovesSocksMummyHeadBodyLegsHandsFeet | Ankou | MaskTopLeggingsGlovesSocks | Mummy | HeadBodyLegsHandsFeet
+
+Ankou | MaskTopLeggingsGlovesSocks
+
+Mummy | HeadBodyLegsHandsFeet
+
+Kourendhoods | ArceuusPiscariliusHosidiusShayzienLovakengj
+
+Ornament kits | Dragon equipmentDefenderKiteshieldPlatebodyGodswordsArmadylBandosSaradominZamorakOtherAmulet of tortureNecklace of anguishOccult necklaceTormented bracelet | Dragon equipment | DefenderKiteshieldPlatebody | Godswords | ArmadylBandosSaradominZamorak | Other | Amulet of tortureNecklace of anguishOccult necklaceTormented bracelet
+
+Dragon equipment | DefenderKiteshieldPlatebody
+
+Godswords | ArmadylBandosSaradominZamorak
+
+Other | Amulet of tortureNecklace of anguishOccult necklaceTormented bracelet
+
+Headwear | Bowl wigBucket helm (g)Fancy tiaraHalf moon spectaclesLeft eye patchDemon masksBlackGreaterJungleLesserOld |  | Bowl wigBucket helm (g)Fancy tiaraHalf moon spectaclesLeft eye patch | Demon masks | BlackGreaterJungleLesserOld
+
+ | Bowl wigBucket helm (g)Fancy tiaraHalf moon spectaclesLeft eye patch
+
+Demon masks | BlackGreaterJungleLesserOld
+
+Miscellaneous | Ale of the godsBloodhoundObsidian cape (r)Ring of coinsScroll sack

@@ -1,0 +1,46 @@
+[Weapon: Ghommal%27S Hilt 5]
+
+
+Ghommal's hilt 5is ateleportationitem obtained fromGhommalorLaidee Gnonockafter obtaining 1804 combat achievement points and claiming it from theCombat Achievementssystem. It can be attached to theAvernic defenderto createGhommal's Avernic defender 5, which combines the functions of both. The teleport gains a unique animation in this tier compared to the lower tiered hilts, where the swords surrounding the player appear to be modelled after aDragon longsword.
+Multiple copies of the hilt can be claimed from Ghommal or Laidee Gnonock if desired, without any additional costs.
+
+
+[Infobox]
+Released: 21 July2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Trollheim, Mor Ul Rek, Drop
+Worn options: Trollheim, Mor Ul Rek
+Examine: A sublime artifact[sic].
+General Store Value: 0 coins
+Alchemy: Not alchemisable
+Weight: 0.001 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

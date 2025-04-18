@@ -1,0 +1,2 @@
+Item: Messenger
+Summary: Messengers are NPCs who deliver messages to players who have completed quests, informing them of recent updates and new content.

@@ -1,0 +1,281 @@
+[Shop: Arclight]
+
+Arclight (inactive)
+
+
+
+
+
+
+
+Released | 23 October2024(Update)
+
+Members | Yes
+
+Quest item | No
+
+Leagueregion | &
+
+
+
+Properties
+
+
+
+Tradeable | No
+
+Equipable | Yes
+
+Stackable | No
+
+Noteable | No
+
+Options | Wield, Check, Drop
+
+Worn options | Check
+
+Examine | The magical sword is inactive and requires more ancient shards to regain its power.
+
+
+
+Values
+
+
+
+Value | 500 coins
+
+Alchemy | Not alchemisable
+
+Weight | 1.814 kg
+
+
+
+Advanced data
+
+
+
+Item ID | 30305
+
+Link | MOID
+
+
+
+Arclightis ademonbane weaponrequiring level 75Attackto wield. An upgraded variant ofDarklight, Arclight features an enhancedpassive effectin addition to modest improvements in attack bonus and speed.
+
+If Arclight is lost, it can be replaced by payingSir Prysin1,000 coinsforDarklightand enhancing it withancient shardsagain. Players can possess multiple copies of Arclight.
+
+Combat stats[edit|edit source]
+
+Attack bonuses |  | 
+
+
+
+ |  |  |  | 
+
++10 | +16 | -2 | +0 | +0
+
+
+
+Defence bonuses
+
+
+
+ |  |  |  | 
+
++0 | +3 | +2 | +2 | +0
+
+
+
+Other bonuses | Slot
+
+
+
+ |  |  |  | 
+
++13 | +0 | +0% | +0 | List
+
+
+
+Creation[edit|edit source]
+
+Arclight can be made by usingDarklighton thealtarin the centre of theCatacombs of Kourendwhile threeancient shardsare in the inventory. Attempting to make the Arclight without the altar results in a game message:You require additional power from the catacombs altar to create Arclight.
+
+Special attack[edit|edit source]
+
+Arclight retains Darklight'sspecial attack,Weaken, which consumes 50% of the player's special attack energy and lowers the opponent'sStrength,Attack, andDefencelevels by 5% (10% fordemons) of their base level + 1.[1]
+
+The accuracy roll forWeakenis made against an opponent's stab defence,[2]and its drain effect only applies tosuccessful hits.
+
+Weakenwill stack additively uponsuccessful hitsunlike thedragon warhammer, which stacks multiplicatively. Two successful special attacks thus reduce an opponent's Strength, Attack and Defence by 10% + 2, or 20% + 2 against demonic targets.
+
+Mechanics[edit|edit source]
+
+Passive effect[edit|edit source]
+
+When used againstdemonicmonsters, Arclight provides a 70% increase in accuracy and damage. Like Darklight, Arclight also counts as a piece ofsilver weaponry, and can therefore damagetier 2 vampyres, while gaining a 10% damage bonus againsttier 1 vampyres.
+
+Duke Sucellusis a lone exception to the passive effect, as he possesses 30% resistance to demonbane, which gives Arclight a 49% accuracy and damage increase compared to the normal 70%.
+
+This means that in certain cases, Arclight can have higher damage output than typical high-damage weapons such as theBlade of SaeldororScythe of Viturwhen fightingK'ril Tsutsarothordemonic gorillas.
+
+Charging[edit|edit source]
+
+Beginning with 1,000 charges after creation, it gains an additional 333 charges for everyancient shardadded, or 1,000 if three are added simultaneously. Players can configure the charges while the weapon is in their bank by right-clicking on Configure-Charges, as long as players have the required materials. Arclight has a maximum capacity of 10,000 charges, requiring 30 ancient shards to fully charge.
+
+One charge is consumed for eachsuccessful hit, excluding those from itsspecial attack. If all charges are consumed, it will transform into an inactive variant with identical stats toDarklight.
+
+Infusion[edit|edit source]
+
+Arclight possesses a unique infusion mechanic in which each charge consumed increases the infusion in return, with a fully charged Arclight corresponding to 100% infusion. This mechanic allows spent charges to "count" towards upgrading Arclight, though a fully infused Arclight will still consume charges.
+
+The current percentage of infusion can be determined by right-clicking the "Check" option on Arclight. Since full infusion requires 10,000 charges, each percent is equivalent to 100 charges for the purpose of upgrading Arclight.
+
+Upgrading[edit|edit source]
+
+After readingDuradel's notes, at level 74Smithing(boosts are allowed), players can use either a fully charged or infused Arclight with atormented synapseto upgrade the weapon toEmberlight. Requiring level 77Attackto equip, it offers increased base combat stats and does not degrade. Infusion and charges can be combined to reach the requirement for upgrading (for example: 7,000 charges and 30% infusion). If the combined total of infusion and charges exceeds the equivalent of 10,000 charges, the excess charges will be wasted. The upgrade is done by using the synapse on an anvil while having the Arclight and a hammer in the player's inventory. Trying to use thetormented synapsedirectly on the Arclight results in a message sayingYou try to attach the synapse to the sword. The blade sizzles for a moment, but the synapse just slides off it again..
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Emberlight(Emberlight (first time)) |  | 74 | 730 | 1 ×Tormented synapse1 ×Arclight
+
+ | Emberlight(Emberlight (subsequent times)) |  | 74 | 73 | 1 ×Tormented synapse1 ×Arclight
+
+Treasure Trails[edit|edit source]
+
+Tier | Emotes | STASHlocation | Items | Cost
+
+Master | Slap Head | Centre of theCatacombs of Kourend |  | 33,843
+
+Used in recommended equipment[edit|edit source]
+
+Rank | Method
+
+4 | Cerberus/Strategies(Melee)
+
+1 | Demonic gorilla/Strategies(upgrades and downgrades)
+
+3 | Duke Sucellus/Strategies(Melee)
+
+2 | K'ril Tsutsaroth/Strategies(Melee Tank)
+
+3 | K'ril Tsutsaroth/Strategies(Solo Melee)
+
+2 | K'ril Tsutsaroth/Strategies(Melee)
+
+2 | Skotizo/Strategies(Melee)
+
+2 | Slayer task/Nechryael(Melee)
+
+5 | Slayer task/Waterfiends(Melee)
+
+1 | Tormented Demon/Strategies(Melee switch)
+
+Special attack
+
+Rank | Method
+
+5 | Chambers of Xeric/Strategies(Melee)
+
+1 | Corporeal Beast/Strategies(Fewer stat drains)
+
+4 | Demonic gorilla/Strategies(upgrades and downgrades)
+
+5 | K'ril Tsutsaroth/Strategies(Melee Tank)
+
+5 | K'ril Tsutsaroth/Strategies(Solo Melee)
+
+4 | K'ril Tsutsaroth/Strategies(Melee)
+
+2 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+
+2 | Kalphite Queen/Strategies(Flinching)
+
+5 | Skotizo/Strategies(Melee)
+
+5 | Skotizo/Strategies(Ranged)
+
+5 | Tormented Demon/Strategies(Melee switch)
+
+Changes[edit|edit source]
+
+Date | Changes
+
+5 March2025 | HotfixFixed a bug that resulted in Arclight losing infusion. Players who had an Arclight with infusion progress recieved the message"Your arclight has been refunded [number]% infusion, we had accidentally deleted some. Sorry about that!".
+
+5 March2025(update) | The Arclight supports a bank item option for changing charges.
+
+23 October2024(update) | Fully depleting Arclight's charges will now result in an inactive variant of the weapon with infusion progress preserved, rather than reverting toDarklightand losing all infusion progress.Players can now use a single shard on Arclight to give it 333 charges, rather than being required to use three at a time whenever the player wishes to charge Arclight.A warning message has been added for when Arclight has less than 100 charges.The item's inventory icon was adjusted.
+
+10 July2024(update) | Consuming Arclight charges now contributes to the sword's "infusion"; at 10,000 charges used Arclight becomes fully infused. This does not apply retroactively to charges consumed prior to the update.
+
+26 May2022(update) | The animation of Arclight's special attack no longer disrupts player movement as badly.
+
+23 February2017(update) | The Arclight is no longer able to be alched. Prior to the update, low level alchemy would convert the blade to 200 coins and high level alchemy would convert it to 300 coins.
+
+16 June2016(update) | Arclight's stats were reevaluated and changed after multiple player complaints on how it was not as strong as the newspost claimed when used against demons at higher combat levels.Arclight wasgraphically updated.Arclight was given thespecial attackof Darklight.
+
+Gallery (historical)[edit|edit source]
+
+ |  | 
+
+ |  | 
+
+9 June 2016 –16 June 2016 | 16 June 2016 –23 October 2024 | 23 October 2024 –present
+
+Trivia[edit|edit source]
+
+A second Arclight can be created and will have 1,000 charges independent of any other Arclights in possession.Despite being an upgraded form of Darklight and Silverlight, Arclight has a lower strength bonus than either (12 → 13 → 8).Unlike Silverlight and Darklight, the Arclight can not be used as a mounted sword inside a Player-Owned House.It's possible to create an Arclight without completing Shadow of the Storm. If a player dies and reclaims Darklight from their grave, they can take it to the altar and imbue it there without claiming the experience and ending the quest. However, they will need to claim another sword fromSir Prysinin order to complete the quest.
+
+References[edit|edit source]
+
+v•t•eSlash weapons
+
+Scimitar | BronzeIronSteelBlackWhiteMithrilAdamantRune(Guthix)(Saradomin)(Zamorak)GildedDragon(or) (cr)Blade of saeldor(corrupted)
+
+Longsword | BronzeIronSteelBlackWhiteMithrilAdamantRuneGraniteDragon(bh) (cr)3rd ageVesta's(blighted)
+
+Battleaxe | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)Leaf-bladedZombie
+
+Claws | BronzeIronSteelBlackWhiteMithrilAdamantRuneBurningDragon(cr)
+
+Halberd | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)CrystalNoxious
+
+Two-handed sword | StandardBronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr)GodswordsAncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or)OtherColossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger | Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr) | Godswords | AncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or) | Other | Colossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger
+
+Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneGildedDragon(cr)
+
+Godswords | AncientArmadyl(or)Bandos(or)Saradomin(or)Zamorak(or)
+
+Other | Colossal bladeKatanaSaradomin(blessed)ShadowGiant bronze dagger
+
+Other | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwakerDemonbane swordsSilverlightDarklightArclightEmberlightQuestsAnger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoonCastle WarsGold decorativeRed decorativeWhite decorative |  | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwaker | Demonbane swords | SilverlightDarklightArclightEmberlight | Quests | Anger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoon | Castle Wars | Gold decorativeRed decorativeWhite decorative
+
+ | Abyssal tentacle(or)Abyssal whip(or) (volcanic) (frozen)Brine sabreFremennikHarry's cutlassIron sickleLucky cutlassSalamandersScythe of vitur(holy) (sanguine)Silver sickle(b)Soulreaper axeSulphur bladesToktz-xil-ekVoidwaker
+
+Demonbane swords | SilverlightDarklightArclightEmberlight
+
+Quests | Anger battleaxeAnger swordBluriteCleaverExcaliburSkewerSpatulaWooden spoon
+
+Castle Wars | Gold decorativeRed decorativeWhite decorative
+
+v•t•eCatacombs of Kourend
+
+NPCs | LilliaKineerManPirate
+
+Monsters | Demon's RunAbyssal demonBlack demonGhostGreater demonGreater NechryaelHill GiantMutated BloodveldLesser demonDragon's DenBronze dragonBrutal black dragonBrutal blue dragonBrutal red dragonFire giantHellhoundIron dragonSteel dragonReeking CoveAnkouCyclopesDeviant spectreGhostHill GiantMagic axeMoss giantPossessed pickaxeShadeSkeletonTwisted BansheeThe ShallowsCyclopsDagannothDust devilKing Sand CrabMoss giantWarped Jelly | Demon's Run | Abyssal demonBlack demonGhostGreater demonGreater NechryaelHill GiantMutated BloodveldLesser demon | Dragon's Den | Bronze dragonBrutal black dragonBrutal blue dragonBrutal red dragonFire giantHellhoundIron dragonSteel dragon | Reeking Cove | AnkouCyclopesDeviant spectreGhostHill GiantMagic axeMoss giantPossessed pickaxeShadeSkeletonTwisted Banshee | The Shallows | CyclopsDagannothDust devilKing Sand CrabMoss giantWarped Jelly
+
+Demon's Run | Abyssal demonBlack demonGhostGreater demonGreater NechryaelHill GiantMutated BloodveldLesser demon
+
+Dragon's Den | Bronze dragonBrutal black dragonBrutal blue dragonBrutal red dragonFire giantHellhoundIron dragonSteel dragon
+
+Reeking Cove | AnkouCyclopesDeviant spectreGhostHill GiantMagic axeMoss giantPossessed pickaxeShadeSkeletonTwisted Banshee
+
+The Shallows | CyclopsDagannothDust devilKing Sand CrabMoss giantWarped Jelly
+
+Skotizo | SkotizoReanimated demon spawnDark AnkouAwakened AltarDark totem baseDark totem middleDark totem topDark totemDark clawSkotos
+
+Upgrades | Ancient shardArclightPurple slayer helmet(imbued)
+
+Other | Great KourendAltar (Catacombs of Kourend)

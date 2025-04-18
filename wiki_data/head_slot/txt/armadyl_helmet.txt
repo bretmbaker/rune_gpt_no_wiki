@@ -1,0 +1,102 @@
+[Weapon: Armadyl Helmet]
+
+
+TheArmadyl helmetis an item that can be obtained fromKree'arraand his bodyguards in theGod Wars Dungeon, or as an extremely rare drop from anArmadylean/Bandosian guardfrom elite coordinate clues. Along with theArmadyl chestplateandchainskirt, it is part of theArmadyl armourset, and requires 70DefenceandRangedto wear.
+The helmet has the second highestrangedattack bonus of any item in theheadwear slotbehind theMasori mask, however, it penalises both melee and mage attack bonuses, which makes the helm somewhat undesirable in situations where multiple attack styles are used.
+
+
+[Infobox]
+Released: 17 October2013(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A helmet of great craftsmanship.
+General Store Value: 289,000 coins
+High alch: 173,400 coins
+Low alch: 115,600 coins
+Weight: 0.5 kg
+Grand Exchange Value: 10,574,135 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 596
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -5
+- Slash: -5
+- Crush: -5
+- Magic: -5
+- Ranged: +10
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +8
+- Crush: +10
+- Magic: +10
+- Ranged: +8
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Armadylean guard | 97 | 1 | 1/2,000,000 | 
+Bandosian guard | 125 | 1 | 1/2,000,000 | 
+Flight Kilisa | 159 | 1 | 1/16,129 | 
+Flockleader Geerin | 149 | 1 | 1/16,129 | 
+Kree'arra | 580 | 1 | 1/381 | 
+Wingman Skree | 143 | 1 | 1/16,129 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Adamant dragon/Strategies(Ranged)
+4 | Ancient Wyvern/Strategies(Ranged)
+3 | Barbarian Assault/Strategies(Ranged (high level))
+2 | Basilisk Knight/Strategies(Ranged)
+2 | Brutal black dragon/Strategies(Ranged)
+2 | Chambers of Xeric/Challenge Mode(Ranged)
+2 | Chambers of Xeric/Challenge Mode/Strategies(Ranged)
+2 | Chambers of Xeric/Strategies(Ranged)
+2 | Chompy bird hunting/Strategy
+2 | Corporeal Beast/Strategies(Ranged masses)
+2 | Galvek Speed-Trialist(Melee)
+4 | General Graardor/Strategies(Solo (Ranged 6:0))
+5 | General Graardor/Strategies(Ranged Tank)
+4 | General Graardor/Strategies(Ranged Attacker)
+2 | Giant Mole/Strategies(Ranged)
+3 | K'ril Tsutsaroth/Strategies(Ranged)
+3 | Kalphite Queen/Strategies(High DPS (Phase Two))
+4 | Kree'arra/Strategies(Chinchompas)
+5 | Kree'arra/Strategies(Ranged Tank)
+2 | The Leviathan/Strategies(Ranged)
+5 | Maniacal monkey/Strategies(Ranged)
+3 | Metal dragons/Strategies(Ranged)
+2 | The Mimic/Strategies(Ranged)
+3 | Mithril dragon/Strategies(Ranged)
+2 | Nex/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged)
+2 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+3 | Phantom Muspah/Strategies(Ranged)
+2 | Phantom Muspah/Strategies(Magic & Ranged)
+3 | Rune dragon/Strategies(Ranged)
+3 | Scurrius/Strategies(Range (high level))
+2 | Skeletal Wyvern/Strategies(Ranged)
+3 | Skeleton (Ape Atoll)(Ranged)
+2 | Skotizo/Strategies(Ranged)
+3 | Slayer task/Abyssal demons(Ranged)
+4 | Slayer task/Fossil Island wyverns(Ranged)
+3 | Slayer task/Suqah(Ranged (North))
+3 | Slayer task/Wyrms(Ranged)
+3 | Zulrah/Strategies(Ranged)

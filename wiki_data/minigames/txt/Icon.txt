@@ -1,0 +1,291 @@
+[Minigame: Icon]
+
+Iconsare symbols on a player's map (minimaporworld map) representing certain buildings andlocations.
+
+World map icon key[edit|edit source]
+
+Theworld mapkey is on the lower left side and when clicked, and displays a list of icons. In this list is an icon for specific locations in the game. Clicking on any of the entries in the key list and yellow circles will flash in the world map indicating where that building or location can be found. The list has four main categories as listed below:
+
+Game features[edit|edit source]
+
+Icon | Key | Location and notes
+
+ | Agilityshortcut | Many places
+
+ | Altar | Many places, fairly evenly placed inside and outside towns. Only three on islands - one onEntrana, one onTutorial Island, and another onApe Atoll.
+
+ | Bank | Most large towns and some minigames. None in theWilderness, except in theMage ArenaandFerox Enclave.
+
+ | Clan Hub | South-east corner of theGrand Exchange.
+
+ | Combat Achievements | By the entrance of theWarriors' Guild.
+
+ | Death's Office | Nearby allrespawn points:Lumbridge,Falador,Seers' Village,Edgeville,Ferox Enclave,Kourend Castle,Prifddinas,Civitas illa Fortis.
+
+ | Distraction and Diversion | Champions' Guildbasement,Falador,Observatory.
+
+ | Docking point | Many islands and shores.
+
+ | Dungeon | Many places, extremely dense inGu'Tanoth. This icon is used for when dungeon map links are not available.
+
+[1] | Dungeonwith map link | Many places, used in place of the regular dungeon icon when a map link is present.
+
+ | Hairdresser | EmmaatVarrock,HairdresseratFalador,SonaloatCam Torum.
+
+ | Holiday event | Only appears during holiday events.
+
+ | House portal | Rimmington,Taverley,Pollnivneach,Hosidius,Rellekka,Brimhaven,YanilleandPrifddinas
+
+ | Makeover mage | South-west ofFalador
+
+ | Map link | Dungeon exits (exclusive toworld map)
+
+ | Minigame | Many places
+
+ | Poll booth | Mostly located near banks
+
+ | Queststart | Various places, usually centred in towns and cities.
+
+ | Raid | Chambers of Xericon the summit ofMount Quidamortem, theTheatre of BloodinVer Sinhaza, andTombs of Amascutin thenecropolis
+
+ | Task Master | Karamja,Ardougne,Falador,Rellekka,Camelot,Shantay Pass,Lumbridge,Canifis,Varrock,Edgeville,Tree Gnome Stronghold, andDraynor Village
+
+ | Transportation | All over Gielinor
+
+ | Kourend task | Favour-gaining activities inGreat Kourend. Removed since 10 January 2024.
+
+Tutors[edit|edit source]
+
+Icon | Key | Location and notes
+
+ | Bank tutor | Located inLumbridge Castle(2ndfloor[UK]3rdfloor[US]bank).
+
+ | Bond tutor | South of theGrand Exchange.
+
+ | Clue Tutor | InsideThe Sheared Ram.
+
+ | Combattutor | Three trainers found south-east ofLumbridge General Storespecialising inmelee,ranged, andmagicrespectively.
+
+ | Cooking tutor | Southern area ofLumbridge.
+
+ | Crafting tutor | Located on the1stfloor[UK]2ndfloor[US]of theLumbridge Castle.
+
+ | Danger tutor | Centre ofLumbridgeby theRiver Lum.
+
+ | Deadman tutor | Lumbridge's graveyard directly south of the church.
+
+ | Fishing tutor | South of Lumbridge by the fishing spots.
+
+ | Hunting tutor | Feldip Hunter areaandRellekka Hunter area
+
+ | Ironman tutor | Ironman ModetutorAdam, located by the entrance toLumbridge Castle.
+
+ | Leagues tutor | Varies depending on most recent league, currentlyLeagues Tutorin Lumbridge Castle courtyard
+
+ | Lumbridge Guide | Centre of Lumbridge by theRiver Lum.
+
+ | Mining tutor | South of Lumbridge by theEast Lumbridge Swamp mine
+
+ | Prayer tutor | Lumbridge church.
+
+ | Security tutor | Lumbridge's graveyard directly south of the church.
+
+ | Smithing tutor | Building south ofVarrock west bank. Asmelting tutorcan be found in Lumbridge by the furnace.
+
+ | Woodcutting tutor | South of the furnace in Lumbridge.
+
+Training[edit|edit source]
+
+Icon | Key | Location and notes
+
+ | Agilitytraining | See:Agility
+
+[1] | Altar | Found only inZalcano's prison beneathPrifddinas.
+
+ | Anvil | Various places, generally in towns and cities. Two in theWilderness.
+
+ | Barracuda trials | TheStorm Tempor
+
+ | Bird house trappingsites | Fossil Island
+
+ | Brewery | Port Phasmatys,Keldagrim,Aldarin
+
+ | Combattraining | Burthorpe,Varrock,Prifddinas
+
+ | Cookingrange | Many places
+
+ | Dairy churn | Most farming-related places
+
+ | Dairy cow | Various locations, mainlyLumbridge.
+
+ | Farming patch | See:Farming
+
+ | Fishing shoal | Places to fish from a boat whilesailing.
+
+ | Fishingspot | Many places which border water. Often placed in clusters, such as inCatherbyand in theFishing GuildinHemenster.
+
+ | Furnacesite | Various towns and cities.
+
+ | Grindstone | Giants' Foundry
+
+ | Huntertraining | See:Hunter
+
+ | Ledger tablelocations | See:Courier tasks
+
+ | Loom | South Falador Farm,Fossil islandcamp,Hosidius,Prifddinasand inTirannwn
+
+ | Miningsite | Various places, mostly outside of towns and cities.
+
+ | Polishing wheel | Giants' Foundry
+
+ | Notice boardlocations | See:courier tasksandbounty tasks
+
+ | Potters wheel | Barbarian Village,Crafting Guild,Darkmeyer,East Ardougne,Exam Centre,Isle of Souls,Rellekka, andSophanem
+
+ | Rare trees | Many places, few in towns or cities.
+
+ | Salvaginglocations | Locations ofshipwrecks.
+
+ | Salvaging stationlocations | See:Salvaging station
+
+ | Sand pit | Entrana,Yanille,Rellekka,Prifddinas,Zanaris,Dorgesh-Kaan, andSunset Coast
+
+ | Singing bowl | PrifddinasandBrimstail's cave
+
+ | Slayer Master | See:Slayer Master
+
+ | Spinning wheel | Many places
+
+ | Stagnant water source | Braindeath Island Volcano
+
+ | Thieving activity | Civitas illa Fortis,Port Piscarilius,Pollnivneach
+
+ | Trip hammer | Giants' Foundry
+
+ | Water source | Many places, mostly inside of towns and cities.
+
+ | Windmill | West ofLumbridge, west ofVarrock, north ofArdougne,Zanaris,Harmony Island,Hosidius,Gwenith, andOuter Fortis
+
+ | Woodcutting stump | Neitiznot
+
+Shopping[edit|edit source]
+
+Icon | Key | Location and notes
+
+ | Amuletshop | Brimhaven
+
+ | Apothecary | Varrock,Warriors' Guild
+
+ | Archery shop | Rimmington,Keldagrim,Catherby,Lletya, theDwarven Mines, beneathWhite Wolf Mountain,Void Knights' Outpost
+
+ | Axe shop | Warriors' Guild,Port Sarim,Lumbridge,Woodcutting Guild
+
+ | Bounty Hunter Shop | Edgeville
+
+ | Candle shop | CatherbyandLumbridge Swampentrance
+
+ | Chainbody shop | Falador
+
+ | Clothes shop | Several places. Mostly minor towns such asCanifis. The only three in large cities are inKeldagrimand Varrock.
+
+[1] | Cookery shop | Found inYanilleand theCooks' Guild. It is labelled as a "Food shop".
+
+ | Craftingshop | Keldagrim,Rimmington,Al Kharid,Ape Atoll,Prifddinas
+
+ | Dyetrader | Aggie,Pollnivneach,Lletya,Prifddinas
+
+ | Estate Agent | Varrock,Seers' Village,Prifddinas,Falador,ArdougneandHosidius
+
+ | Farmingshop | Catherby,Farming guild, west ofPort Phasmatys, south ofFalador, north ofEast Ardougne,Hosidius,Prifddinas
+
+ | Fishingshop | Port Sarim,Catherby,Rellekka,MiscellaniaandEtceteria,Witchaven, and theFishing Guild
+
+ | Foodshop | Canifis,Keldagrim,Sophanem,ArdougneCooks' Guild,Port Sarim,Miscellania Dungeon(after Royal Trouble)
+
+ | Forestry Shop | Draynor Village,Seers' Village
+
+ | Fur trader | Varrock,Rellekka, EastArdougne
+
+ | Garden supplier | Falador ParkandFarming guild
+
+ | Gemshop | Keldagrim,Falador,Ardougne,Prifddinas,Al Kharid
+
+ | General store | Most towns
+
+ | Grand Exchange | Varrock
+
+ | Helmet shop | Barbarian VillageandRellekka
+
+ | Herbalist | Taverley,Entrana,Nardah,Miscellania,Gu'Tanoth,Prifddinas
+
+ | Holiday item trader | DiangoinDraynor Village
+
+ | Hunter shop | Nardah,Yanille
+
+ | Jewellery | Port Sarim
+
+ | Junk checker | Wise Old Manin Draynor Village
+
+[1] | Kebab seller | Found inAl Kharid,PollnivneachandKeldagrim. It is labelled as a "Food shop".
+
+ | Maceshop | Falador,Prifddinas
+
+ | Magicshop | Nine shops, some located inVarrock,Port Sarim, theVoid Knights' Outpost, and theMage Arena.
+
+ | Miningshop | Dwarven Mines,Keldagrim,Prifddinas
+
+ | Newspaper trader | Varrock Square
+
+ | Pet insuranceshop | East Ardougne
+
+ | Platebodyshop | Varrock,Ardougne,Prifddinas
+
+ | Platelegsshop | Al Kharid
+
+ | Plateskirt shop | Al Kharid
+
+ | Pricing expert | Grand Exchange
+
+[1] | Pricing expert (herbs) | Grand Exchange
+
+[1] | Pricing expert (logs) | Grand Exchange
+
+[1] | Pricing expert (ores and bars) | Grand Exchange
+
+[1] | Pricing expert (weapons and armour) | Grand Exchange
+
+ | Pub/bar | Many places, mostly in towns and cities. Also mostly in continentalGielinor, with only a few on islands - three inKaramjaand one inMos Le'Harmless
+
+ | Rope trader | NedinDraynor Village
+
+ | Sawmill | Lumber Yard,Prifddinas, and theWoodcutting Guild
+
+ | Scimitarshop | Al Kharid,Ape Atoll
+
+ | Shieldshop | Falador,Keldagrim
+
+ | Shipwright | Near variousdocking points
+
+ | Silk trader | Ardougne,Al Kharid,Prifddinas,Keldagrim
+
+ | Silver shop | Keldagrim, EastArdougne,Prifddinas,Kourend Castle
+
+ | Speedrunning shop | Varrock Square
+
+ | Spice shop | Ardougne,Prifddinas
+
+ | Staff shop | Varrock,Prifddinas
+
+ | Stonemason | KeldagrimandStonecutter Outpost
+
+ | Sword shop | Varrock,Keldagrim,The Grand Tree,Taverley,Burthorpe,Prifddinas
+
+ | Tannery | Al Kharid,Crafting Guild,Ranging Guild,Neitiznot,Canifis
+
+ | Taxidermist | Canifis
+
+ | Tea trader | Varrock
+
+[1] | Vegetable store | Two in shops found inMiscellania
+
+ | Wine trader | FortunatoinDraynor Village,AntoniusinAldarin.

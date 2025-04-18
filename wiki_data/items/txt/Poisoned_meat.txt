@@ -1,0 +1,1 @@
+Poisoned meatis used inBarbarian Assaultto hurtPenance Healers. The healer needs to use the poisoned meat on the penance healer. This will cause 4 damage, and poison the healer for 4 damage. Unlike regular monsters, the Penance Healer ticks poison damage every 3 seconds.

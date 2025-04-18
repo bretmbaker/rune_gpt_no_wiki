@@ -1,0 +1,46 @@
+[Weapon: Witchwood Icon]
+
+
+Thewitchwood iconis a piece ofSlayer equipmentused to decrease the effectiveness of the screams ofCave horrorsfound in theMos Le'Harmless Cave. The special scream attack from cave horrors is guaranteed to deal 10% of the player's totalHitpointsin damage when the icon is not worn. The icondoes notnegate all damage from the scream, it instead causes the scream attack to roll as a regular attack. The icon is worn around the neck and requires aSlayerlevel of 35 to equip, although players must have 58 Slayer to be able to hit cave horrors.Jungle horrorsdo not use the special scream attack, as such, the icon isnotnecessary to fight them. It can be purchased from anySlayer Masterfor 900coinsbut cannot be traded with other players. The Slayer Masters created these from witchwood trees, an extinct species oftreethat once grew inGielinor.
+Players usually choose to use theProtect from Meleeprayer for the same protection against them, as this lets them use necklaces with offensive bonuses instead of this icon.
+
+
+[Infobox]
+Released: 4 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A stick on a string... pure style.
+General Store Value: 900 coins
+High alch: 540 coins
+Low alch: 360 coins
+Weight: 0.007 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +1
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Neck slot

@@ -1,0 +1,38 @@
+Name: Ancient Guardian
+Combat Level: 153
+Size: 3x3
+Info:
+- Description: The guardian of this ancient ruin.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Monster ID: 12336,12337
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 100
+Attack: 180
+Strength: 110
+Defence: 100
+Magic: 100
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

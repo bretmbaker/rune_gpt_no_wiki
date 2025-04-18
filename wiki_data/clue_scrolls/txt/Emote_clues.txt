@@ -1,0 +1,299 @@
+Treasure Trails/Guide/Emote clues
+ttge
+Emote clues involve equipping certain items in a particular location and performing an emote . These types of clues are featured in all levels of Treasure Trails . Once the emote has been performed, Uri will appear and give the player the next clue (or the reward, if the emote clue was the final step of the Treasure Trail). If the player has been requested to do another emote before talking to Uri, and they forgot to do it, he will say, I don't believe we have any business... but will not leave. The player can still perform the second emote and then talk to Uri to finish the clue. Easy clues require performing one emote, medium clues require performing two, and hard and above clues require performing one emote, then fighting an enemy such as the Double Agent . Elite clues do not involve fighting the Double Agent .
+Note that wearing any version of a required item different than the standard one will not work (for example, a Rune platebody (t) will not work in place of a Rune platebody ).
+For players who do Treasure Trails frequently, it is not recommended to keep items for all emote clues banked, as hundreds of different items are used across the Treasure Trail levels which take up significant bank space. Players with the appropriate construction level can build STASH units to store emote clue items near where the emote clue is located, saving bank space.
+A list of items used in each level of Treasure Trail can be found here .
+Contents
+1 Beginner Emote clues
+2 Easy Emote clues
+3 Medium Emote clues
+4 Hard Emote clues
+5 Elite Emote clues
+6 Master Emote clues
+7 References
+Beginner Emote clues [ edit | edit source ]
+Equip a gold ring and a gold necklace .
+Equip a chef's hat and a red cape .
+Equip a bronze axe and leather boots .
+Easy Emote clues [ edit | edit source ]
+Equip a studded leather body , bronze platelegs and a normal staff with no orb .
+Equip a coif , an iron platebody and leather gloves .
+Equip an iron chain body , leather chaps and coif .
+Equip iron platelegs , an emerald amulet and an oak longbow .
+Equip a blue wizard hat , a bronze two-handed sword and HAM boots .
+Have nothing equipped at all when you do.
+Equip a coif , steel plateskirt and a sapphire necklace .
+Equip a white apron , green gnome boots and leather gloves .
+Equip an iron medium helmet , emerald ring and a white apron .
+Equip a blue gnome robe top , HAM robe bottom and an unenchanted tiara .
+Equip an emerald ring , a sapphire amulet , and a bronze chain body .
+Equip an iron chain body , a sapphire ring and a longbow .
+Equip a pink skirt , pink robe top and a body tiara .
+Equip a steel full helmet , steel platebody and an iron plateskirt .
+Equip a bronze dagger , iron full helmet and a gold ring .
+Equip an air tiara and a staff of water .
+Equip a desert shirt , leather gloves and leather boots .
+Equip a desert shirt , green gnome robe bottoms and a steel axe .
+Equip a cowl , a blue wizard robe top and an iron scimitar .
+Equip bronze platelegs , a steel pickaxe and a steel medium helmet .
+Have nothing equipped at all when you do.
+Equip a gold necklace , a gold ring and a bronze spear .
+Equip a green gnome hat , cream gnome top and leather chaps .
+Equip an iron platebody , studded leather chaps and a bronze full helmet .
+Equip a black axe , a coif and a ruby ring .
+Equip a blue gnome robetop , a turquoise gnome robe bottom and an oak shortbow .
+Equip a hard leather body , leather chaps and a bronze axe .
+Equip a Mithril pickaxe, Black platebody and an Iron Kiteshield.
+Equip a black cape , leather chaps and a steel mace .
+Equip studded leather chaps , an iron kiteshield and a steel longsword .
+Equip an emerald necklace , blue skirt , and turquoise gnome robe top .
+Equip a green gnome robe top , HAM robe bottom and an iron warhammer .
+Medium Emote clues [ edit | edit source ]
+Equip green d'hide chaps , a ring of dueling and a mithril med helm .
+Equip an adamant platebody , adamant full helm and adamant platelegs .
+Equip a green hat snakeskin boots and an iron pickaxe .
+Equip a steel platebody , maple shortbow and a Wilderness cape .
+While level 35 Agility is required to enter the arena itself, the clue can be completed without it. Upon entering from the gate, walk into the building located to the south. Inside the building, walk to the most south-eastern corner, and do the emote. The Team cape i , Team cape x and Team cape zero can also be used.
+Equip a brown apron , leather boots and leather gloves .
+Equip a green d'hide body and chaps and a steel square shield .
+Equip an adamant halberd , blue mystic robe bottom and a diamond ring .
+Equip an adamant warhammer , mithril boots and a ring of life .
+Equip blue gnome boots , a hard leather body and an unblessed silver sickle .
+Equip an adamant sword , a sapphire amulet and an adamant plateskirt .
+Equip an adamant sq shield , a bone dagger and mithril platebody .
+Cry on top of the western tree in the Gnome Agility Arena. Indicate 'no' before you talk to me.
+Equip a steel kiteshield , ring of forging , and green d'hide chaps .
+Equip a bruise blue snelm , an air staff and a bronze square shield .
+Equip a green gnome robe top , mithril platelegs and an iron two-handed sword .
+Equip an air staff , bronze full helm and an amulet of power .
+You need a rope to enter this cave the first time.
+You always need a light source in the caves, except when you have built the fire of eternal light .
+If using the Lumbridge Castle basement to access the caves via the northern entrance, you will need to step one square south of the cave entrance as the square next to the entrance does not work when you dance.
+Two STASH units are provided, one near each of the main entrances. Building one of them will automatically build the other one.
+Equip a steel longsword , blue d'hide body and blue mystic gloves .
+Equip a brown apron , adamantite medium helm and snakeskin chaps .
+Equip a mithril plate skirt , maple longbow and no boots.
+Equip a maple longbow , green d'hide chaps and an iron med helm .
+Equip purple gloves , a steel kiteshield and a mithril full helm .
+Equip a mithril chainbody , green dragonhide chaps and a ruby amulet .
+Otherwise, players must navigate through the Observatory Dungeon to reach this clue.
+Equip a ruby amulet , a mithril scimitar and a Wilderness cape .
+Equip blue dragonhide vambraces , adamant boots and an adamant dagger .
+Note: You cannot get this step playing Ironman Mode .
+Equip a maple longbow , a ruby amulet and some steel platelegs .
+Equip a blue wizard hat , a blue wizard robe and wear nothing on your legs.
+Hard Emote clues [ edit | edit source ]
+Equip any vestment stole and a heraldic rune shield .
+Note: An axe and machete are required to enter the Kharazi Jungle , or players may also use two vines on either side of the jungle that require 79 Agility .
+Equip a blue mystic hat , bone spear and rune platebody .
+Equip an elemental shield , blue d'hide chaps and a rune warhammer .
+Equip a blue d'hide body , blue d'hide vambraces and no jewellery.
+Equip a blue mystic robe top , and any rune heraldic shield .
+Equip a ring of life , an uncharged amulet of glory and an adamant two-handed sword .
+Equip a mystic fire staff , a diamond bracelet and rune boots .
+Equip a rune spear , rune platelegs and any rune heraldic helm .
+Note : You need to complete Big Chompy Bird Hunting and Jungle Potion to start Zogre Flesh Eaters.
+Equip a rune full helmet , blue d'hide chaps and a fire battlestaff .
+Bring rope if you haven't completed the Mountain Daughter quest. Go up the top path, and use on the boulder ( fairy ring code: A J R ).
+Equip mithril platelegs , a ring of life , and a rune axe .
+Have no items equipped when you do.
+Equip any headband and crozier .
+The Wilderness Volcano is located in the north-east corner of the Wilderness . Players should be cautious of player killers and dangerous monsters. A Clue Box may also be helpful.
+Equip a diamond ring , amulet of power , and nothing on your chest and legs.
+Equip rune platelegs, an iron platebody and blue d'hide vambraces .
+Equip an adamant square shield , blue dragon vambraces and a rune pickaxe .
+Equip a rune longsword , rune platebody and a rune plateskirt .
+Elite Emote clues [ edit | edit source ]
+Equip black d'hide chaps , a spotted cape and a rolling pin .
+Equip Legend's cape , a dragon battleaxe and an amulet of glory .
+Equip a completed prayer book .
+Equip any piece of sunfire fanatic armour .
+Equip a rune crossbow , climbing boots and any mitre .
+Equip a seercull , a combat bracelet , and helm of neitiznot .
+Equip rune boots , a proselyte hauberk and a dragonstone ring .
+Equip a granite shield , splitbark body , and any rune heraldic helm .
+The rune heraldic helm is the rune helm from Treasure Trails , not the painted heraldic armour from player-owned houses !
+Equip splitbark legs , dragon boots and a rune longsword .
+Equip a Castle wars bracelet , a dragonstone amulet and a ring of forging .
+Equip blue d'hide vambraces , a dragon spear and a rune plateskirt .
+Make sure to bring a sled, otherwise you won't be able to complete the step. The poisoned dragon spear or rune plateskirt versions do not work.
+Equip a Farmer's strawhat , Shayzien body (5) , and Pyromancer robes .
+Equip only a black salamander .
+Equip a dragon spear and red d'hide chaps .
+Equip a lava battlestaff , black d'hide vambraces and a mind shield .
+Master Emote clues [ edit | edit source ]
+Equip Bryophyta's staff and a nature tiara .
+Equip a Zamorak full helm and the Shadow sword .
+Equip a dragon battleaxe , a slayer helm of any kind and a dragon defender or avernic defender .
+Equip a charged crystal bow .
+Equip a set of full black dragonhide armour .
+Equip only flared trousers .
+Lockpick required to enter
+The fire max cape , infernal cape , and infernal max cape work in place of a fire cape.
+Equip Iban's staff , a black mystic top , and a black mystic bottom .
+Note that the temple cannot be entered until the Regicide quest is started.
+Equip any full barrows set .
+Equip a death tiara , a legend's cape and any ring of wealth .
+Equip a Zamorak godsword .
+Zamorak godsword (or) can be used as substitute.
+Partial completion of Garden of Tranquillity is required.
+Equip arclight or emberlight along with the amulet of the damned .
+Equip a dragon axe .
+Equip a dragon plateskirt , climbing boots and a dragon chainbody .
+Wear a dragon sq shield , splitbark body and any boater .
+Equip a pharaoh's sceptre and a full set of menaphite robes .
+Equip a Hueycoatl hide coif and some Hueycoatl hide vambraces .
+References [ edit | edit source ]
+^ Jagex. Mod Ash's Twitter account . 25 April 2019.  Archived from the original on 30 May 2020. Mod Ash: "Interestingly, yes, that one is blocked for Iron players. The code does not say why."
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Explore
+Large spade
+Clueless scroll
+Uri transform
+Heavy casket
+Scroll sack
+All clue scrolls
+Beginner clue scrolls
+Easy clue scrolls
+Medium clue scrolls
+Hard clue scrolls
+Elite clue scrolls
+Master clue scrolls
+Anagrams
+Challenge scrolls
+Ciphers
+Coordinates
+Cryptics
+Emote clues
+Hot/Cold
+Light boxes
+Maps
+Puzzle boxes
+Arthur the Clue Hunter
+Cecilia
+Charlie the Tramp
+Falo the Bard
+Jorral
+Reldo
+Sherlock
+Strange casket
+Uri
+Watson
+Ancient Wizard
+Armadylean guard
+Bandosian guard
+Brassican Mage
+Double agent
+The Mimic
+Third Age Mage
+Third Age Ranger
+Third Age Warrior
+Saradomin wizard
+Zamorak wizard
+Emote items
+Rewards
+STASH
+Noticeboard (Watson's house)
+S.t.a.s.h chart
+World map
+Treasure Trails
+Guides
+Navigation menu
+Personal tools
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Namespaces
+Article
+Discussion
+Views
+Read
+Edit
+Edit source
+History
+Refresh
+Discord
+Discord
+Navigation
+Main page
+About us
+Random page
+Contact us
+Donate
+Recent changes
+13m ago - MeneerPjoeterBliep
+13m ago - Hewatt
+28m ago - Hewatt
+54m ago - WMC
+Guides
+Recent updates
+List of quests
+Achievement diaries
+Combat achievements
+Skill training
+Money making
+Calculators
+DPS calculator
+New player guide
+User-created guides
+Community
+User help
+Active discussions
+OSRS Wiki Clan
+Policies
+More RuneScape
+RuneScape Wiki
+RSC Wiki
+Dragonwilds Wiki
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+New files
+Browse properties
+This page was last modified on 20 April 2023, at 01:36.
+Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.
+Privacy policy
+About the Old School RuneScape Wiki
+Disclaimers
+Terms of Use
+Contact Weird Gloop
+Mobile view

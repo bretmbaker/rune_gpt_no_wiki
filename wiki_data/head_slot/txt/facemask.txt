@@ -1,0 +1,63 @@
+[Weapon: Facemask]
+
+
+Afacemaskis aSlayeritem worn on the headgear armour slot, requiring level 10Slayerto wear, which cannot be boosted. The facemask can be bought from anySlayer Masterfor 200 coins. There is a facemask spawn inside a locked cage on the top floor ofKourend Castle, however the only way to pick it up is withtelegrab.
+It must be worn when fightingdust devilsandsmoke devils, otherwise they will dramatically decrease players' stats.
+
+
+[Infobox]
+Released: 26 January2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Stops me breathing in too much dust.
+General Store Value: 200 coins
+High alch: 120 coins
+Low alch: 80 coins
+Weight: 0.113 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 670 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 636
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Location | Members | Spawns | Map | Leagueregion
+Kourend Castle-2ndfloor[UK]3rdfloor[US] |  | 1 | Show map | Kourend✓
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Dust devil/Strategies(Bursting/Barraging)
+2 | Smoke devil/Strategies
+2 | Thermonuclear smoke devil/Strategies(Melee)
+2 | Thermonuclear smoke devil/Strategies(Magic)

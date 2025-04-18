@@ -1,0 +1,49 @@
+[Weapon: Kebbit Bolts]
+
+
+Kebbit boltsareammunitionused in tandem with thehunters' crossbow. They can be made at level 32Fletchingby using achiselon akebbit spike. Doing so will produce twelve bolts from every one spike, giving 5.8 experience each action.
+As they are stackable, it may prove beneficial to carry a chisel in the inventory whilst huntingprickly kebbits, in order to free up inventory space.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Bolts made from the spikes of a prickly kebbit.
+General Store Value: 18 coins
+High alch: 10 coins
+Low alch: 7 coins
+Weight: 0 kg
+Grand Exchange Value: 82 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 107,845
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +28
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

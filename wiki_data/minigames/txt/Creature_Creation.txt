@@ -1,0 +1,36 @@
+[Minigame: Creature_Creation]
+
+Creature Creationis a solo activity that involves creating unique hybrid monsters and killing them for their drops. It can be found in theTower of Lifedungeon after completing theTower of Lifequest. Atrapdooron the ground floor of the tower leads to the dungeon. TheBuilder's costumeis not required to enter the tower once the quest has been completed.
+
+Some of the monsters drop multiples of items that are otherwise hard to get or expensive to purchase, such asUnicorn horns, which are used to makeUnicorn horn dustforHerblore. Players who have completed tiers of theArdougne diarywill receive these drops innotedform.
+
+Some of the monsters are dangerous, so bringing food may be advised. Players needing food while creating creatures can pickpocket the workers outside the tower to obtaintriangle sandwiches.'Black-eye','Gummy','The Guns', and'No fingers'can be pickpocketed, but notBonafido.
+
+Acannoncan be used here.
+
+Altars of Life[edit|edit source]
+
+There are six Altars of Life, each dedicated to a different hybrid monster. Placing one each of two ingredients at the correct altar primes the altar.Noted items cannot be used as ingredients.The primed altar must be activated to create the mixed creature. All but one of the monsters in turn drop one of their ingredients, which makes continuous creation easier; however, after completion of the easy and mediumArdougne Diaries, these drops will be noted. The monsters occasionally also drop various types ofsatchels(the colour depends on the creature) andtea flasks. The satchels are held in the shield slot and can hold onetriangle sandwich, onecake, and onebanana. The tea flasks can hold the contents of up to fivecups of tea.
+
+Players use several items to create the monsters:
+
+Eye of newt. These are purchasable for 3 coins each atHerbloreshops or thePort Sarimmagic shop, either individually or in packs of 100.Feathers. These can be obtained by killingchickens, which can be found on many farms throughoutGielinoror purchased at anyFishing Shopfor 2 coins each individually or in packs of 100.Raw jubbly. These can be obtained by huntingJubblybirds. The ability to hunt them requires the completion of a considerable amount of theRecipe for Disasterquest.Raw lobster. Lobsters can be caught using theFishingskill.Raw sardine. Sardines can be caught using the Fishing skill. Some fishing shops sell sardines (You can buy these in Rellekka and quickly deposit them atPeer the Seerwith completion of theFremennik Easy Diary).Red spiders' eggs. These can be gathered in places inhabited bydeadly red spiders. The spider chamber in the wilderness section of theEdgeville Dungeonhas several egg spawns.Raw swordfish. Swordfish can be caught using the Fishing skill.Raw chicken. These can be obtained by killing chickens.Giant frog legs. Theses are dropped byGiant frogs, which inhabit theLumbridge Swamp Caves.Raw cave eel.Cave eelsinhabit the Lumbridge Swamp Caves and can be caught using theFishingskill.Unicorn horn.Unicornscan be slain for their horns. Unicorns can be found nearVarrock,Edgeville, andRellekkain small numbers. Larger herds ofblack unicornscan be found in theWilderness, but beware ofplayer killers.Cowhide.Cowscan be killed for their hides and are found at many farms.
+
+Altar | Creature (level) | Ingredients | Always Drops[1] | May Drop[2] | Average Profit[3]
+
+North-east |  | Newtroost(19) | 1Eye of newt1Feather | 4-10Eye of newt[4] | Rune satchel | 107
+
+North-west |  | Unicow(25) | 1Cowhide1Unicorn horn | 2-4Unicorn horns[4] | Green satchel | 1,604
+
+South-east |  | Spidine(42) | 1Red spiders' eggs1Raw sardine | 3-6Red spiders' eggs[4] | Red satchel | 1,687.50
+
+South-west |  | Swordchick(46) | 1Raw swordfish1Raw chicken | 10-40Feathers | Black satchel | 27
+
+East |  | Jubster(87) | 1Raw jubbly1Raw lobster | 3-7Raw jubbly[5] | Gold satchel | 3,542
+
+West |  | Frogeel(103) | 1Raw cave eel1Giant frog legs | 5-10Raw cave eels[5] | Plain satchel | −3,966.50
+
+Tips[edit|edit source]
+
+For fast banking, players may wish to use the bank atShayzien Encampment(Fairy ring codeDJR) with partial completion of theFairytale II - Cure a Queenquest, or walk from theArdougne Teleportlocation.When killing the creatures to get the 'ingredient drops', bring one of the ingredient that is always dropped and several of the other ingredient. This allows the altar to be used multiple times in one trip. For efficiency, the goal is to fill inventory as much as practical with the desired item. Use trial and error to determine how many of the always-consumed ingredient to bring. (This method does not work with swordchicks, since they do not drop raw chickens.)For more efficiency and convenience, before leaving the dungeon, prime the altar with both ingredients without activating the altar. The items will still be present when the player returns, allowing the altar to be activated, no matter how long a time the player is away. This method is particularly recommended for forgetful players who might forget to take the 'single' item (for example, the player brought a load of cow hides but not one unicorn horn).The spidine, which requires red spider eggs and raw sardines, is useful as it drops red spider eggs in larger numbers (3-5). UseIshmael's Fish He Sellsin theRuins of Unkahto stock up on raw sardines. One raw sardine will yield about 3.5 red spider's eggs on average. It takes around 8 raw sardines to collect a full load of red spider eggs.The unicow is perhaps the fastest method in the game to obtain unicorn horns in quantity without spending money. Kill some cows close to a bank and bank the cow hides (or buy cowhides). There is a cow pen just north of the Ardougne market outside the city walls. Each cowhide creates one unicow, which drops 2 to 4 unicorn horns. However, you will need one of the horns to make the next unicow, so bring lots of cow hides to get a full inventory of unicorn horns. It typically takes 10-13 cow hides to get a full inventory of unicorn horns.The different levels of the Ardougne Diary cause some of the drops from the creatures to be noted. This may mean that you are unable to re-use drops to summon the creatures again. However, the Ardougne southbankis not too far away.It is possible to find ranged/magicsafespots, although it may be impractical to do so most of the time.
+

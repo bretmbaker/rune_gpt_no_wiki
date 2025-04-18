@@ -1,0 +1,1 @@
+Thesteel pickaxeis apickaxethat mines on a 6-tickcycle, 1-tick faster than theiron pickaxe. It can be used in combat or inminingto mine rocks. The steel pickaxe requires 6Miningto use, and 5Attackto equip. Players lacking 5 Attack can still use it for mining.

@@ -1,0 +1,2 @@
+Item: Feral Vampyre (NPC)
+Summary: A unique Feral Vampyre appears if a player is somehow able to get into Morytania without having completed Priest in Peril. The Vampyre will appear and knock the player out, and they will wake up outside the Paterdomus. Unlike other Feral Vampyres, they cannot be fought and have no interaction options.

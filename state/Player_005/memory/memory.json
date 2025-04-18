@@ -1,0 +1,167 @@
+[
+  {
+    "timestamp": 1744627905.8770442,
+    "date": "2025-04-14 19:51:45",
+    "type": "creation",
+    "content": "Created new character: Mage the Wise",
+    "location": null,
+    "emotions": {
+      "excitement": 0.8,
+      "curiosity": 0.6
+    },
+    "tags": [
+      "creation",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627905.989018,
+    "date": "2025-04-14 19:51:45",
+    "type": "action",
+    "content": "Talk to Survival Expert",
+    "location": null,
+    "emotions": {
+      "determination": 0.7
+    },
+    "tags": [
+      "action",
+      "execution",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627905.9892178,
+    "date": "2025-04-14 19:51:45",
+    "type": "reflection",
+    "content": "Reflected on Talk to Survival Expert: success",
+    "location": null,
+    "emotions": {
+      "satisfaction": 0.7
+    },
+    "tags": [
+      "reflection",
+      "success",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627908.199662,
+    "date": "2025-04-14 19:51:48",
+    "type": "action",
+    "content": "Talk to Survival Expert",
+    "location": null,
+    "emotions": {
+      "determination": 0.7
+    },
+    "tags": [
+      "action",
+      "execution",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627908.2000704,
+    "date": "2025-04-14 19:51:48",
+    "type": "reflection",
+    "content": "Reflected on Talk to Survival Expert: success",
+    "location": null,
+    "emotions": {
+      "satisfaction": 0.7
+    },
+    "tags": [
+      "reflection",
+      "success",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627910.4088824,
+    "date": "2025-04-14 19:51:50",
+    "type": "action",
+    "content": "Talk to Survival Expert",
+    "location": null,
+    "emotions": {
+      "determination": 0.7
+    },
+    "tags": [
+      "action",
+      "execution",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627910.409419,
+    "date": "2025-04-14 19:51:50",
+    "type": "reflection",
+    "content": "Reflected on Talk to Survival Expert: success",
+    "location": null,
+    "emotions": {
+      "satisfaction": 0.7
+    },
+    "tags": [
+      "reflection",
+      "success",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627912.6838675,
+    "date": "2025-04-14 19:51:52",
+    "type": "action",
+    "content": "Talk to Survival Expert",
+    "location": null,
+    "emotions": {
+      "determination": 0.7
+    },
+    "tags": [
+      "action",
+      "execution",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627912.6844687,
+    "date": "2025-04-14 19:51:52",
+    "type": "reflection",
+    "content": "Reflected on Talk to Survival Expert: success",
+    "location": null,
+    "emotions": {
+      "satisfaction": 0.7
+    },
+    "tags": [
+      "reflection",
+      "success",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627914.9058135,
+    "date": "2025-04-14 19:51:54",
+    "type": "action",
+    "content": "Talk to Survival Expert",
+    "location": null,
+    "emotions": {
+      "determination": 0.7
+    },
+    "tags": [
+      "action",
+      "execution",
+      "tutorial"
+    ]
+  },
+  {
+    "timestamp": 1744627914.906375,
+    "date": "2025-04-14 19:51:54",
+    "type": "reflection",
+    "content": "Reflected on Talk to Survival Expert: success",
+    "location": null,
+    "emotions": {
+      "satisfaction": 0.7
+    },
+    "tags": [
+      "reflection",
+      "success",
+      "tutorial"
+    ]
+  }
+]

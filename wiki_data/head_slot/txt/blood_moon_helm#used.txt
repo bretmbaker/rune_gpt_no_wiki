@@ -1,0 +1,85 @@
+[Weapon: Blood Moon Helm#Used]
+
+
+Theblood moon helmis an item that requires level 75Strengthand 50Defenceto equip, which is obtained as a possible reward from theLunar ChestinNeypotzli.
+When worn with all of the other pieces of theblood moon armourset, the player gains theBloodragerset effect, where thedual macuahuitlhas a 33% chance to hit oneticksooner upon asuccessful hit; using the weapon's special attack guarantees the effect.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: The helm of the Blood Moon.
+General Store Value: 103,000 coins
+High alch: 61,800 coins
+Low alch: 41,200 coins
+Weight: 1 kg
+Grand Exchange Value: 936,953 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 639
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +20
+- Slash: +31
+- Crush: +34
+- Magic: +7
+- Ranged: +29
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Lunar Chest | N/A | 1 | 1/224 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Amoxliatl/Strategies(Melee)
+2 | Barbarian Assault/Strategies(Melee (high level))
+4 | Basilisk Knight/Strategies(Melee)
+3 | Chambers of Xeric/Strategies(Melee)
+4 | Corporeal Beast/Strategies(Melee masses)
+4 | Corporeal Beast/Strategies(Team melee)
+4 | Corporeal Beast/Strategies(Solo melee)
+4 | Demonic gorilla/Strategies(upgrades and downgrades)
+4 | Duke Sucellus/Strategies(Melee)
+5 | Moons of Peril/Strategies(Moons of Peril Armour)
+3 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+3 | Nightmare Zone/Strategies(Melee (Prayer))
+4 | The Nightmare/Strategies(Melee)
+5 | Phantom Muspah/Strategies(Melee)
+4 | Phosani's Nightmare/Strategies(Melee)
+4 | Royal Titans/Strategies(Best-in-slot)
+3 | Royal Titans/Strategies(Mid-game)
+5 | Sarachnis/Strategies(Melee)
+2 | Scurrius/Strategies(Melee (mid level))
+4 | Skotizo/Strategies(Melee)
+3 | The Hueycoatl/Strategies(Melee)
+3 | Theatre of Blood/Strategies(Melee)
+4 | Tombs of Amascut/Strategies(Melee switch)
+4 | Tormented Demon/Strategies(Melee switch)
+3 | TzHaar Fight Cave/Strategies(Melee)
+5 | Vardorvis/Strategies(Melee)
+3 | Vorkath/Strategies(Melee)

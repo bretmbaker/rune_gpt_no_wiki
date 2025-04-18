@@ -1,0 +1,46 @@
+[Weapon: Adamant Heraldic Helm (Saradomin)]
+
+
+Anadamant heraldic helmis a decorative helmet with the colours ofSaradomin. Players can paint them on apluming stand,shield easel, orbanner easelin aplayer-owned house'sWorkshopat level 38Craftingwith anadamant full helmand the appropriate crest fromSir Reniteein theWhite Knights' Castle.
+Players need level 70Prayerin order to create the helm. Players can use a stand or easel in another player's house if they do not have one in theirs.
+
+
+[Infobox]
+Released: 11 January2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: The colours represent Saradomin.
+General Store Value: 3,520 coins
+High alch: 2,112 coins
+Low alch: 1,408 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +19
+- Slash: +21
+- Crush: +16
+- Magic: -1
+- Ranged: +19
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

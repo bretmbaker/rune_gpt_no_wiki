@@ -1,0 +1,46 @@
+[Weapon: Sanguine Torva Platelegs]
+
+
+Thesanguine torva platelegsareTorva platelegsmodified by anancient blood ornament kitand 20,000blood runes; the kit is not consumed. The ornament gives no additional bonuses, and is purely cosmetic.
+While the item is untradeable in its sanguine state, it can be reverted anytime. However, the blood runes will not be returned.
+
+
+[Infobox]
+Released: 28 July2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Revert
+Examine: An ancient warrior's platelegs.
+General Store Value: 600,000 coins
+High alch: 360,000 coins
+Low alch: 240,000 coins
+Weight: 9.071 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -24
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +87
+- Slash: +78
+- Crush: +79
+- Magic: -9
+- Ranged: +102
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Legs slot

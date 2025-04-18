@@ -1,0 +1,2 @@
+Item: Cowardly Bandit
+Summary: The Cowardly Bandit resides in northern Pollnivneach. If the player talks to him after The Feud quest, he will threaten them over killing their leader. Once the player threatens back, he becomes scared and ends the conversation.

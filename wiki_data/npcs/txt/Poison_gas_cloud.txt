@@ -1,0 +1,2 @@
+Item: Poison gas cloud
+Summary: Poison gas clouds are an area hazard of the sulphur mine, located in northwest Lovakengj. The clouds move around the mine, rapidly dealing damage to any players nearby. They deal 1-3 damage each tick to anyone within a 3x3 square centered on the cloud's southwest tile. This damage can be reduced to 1 damage by wearing a gas mask, face mask, or slayer helmet. It is possible to "safespot" the clouds by using one of the nearby spiders to block the clouds from moving on top of the player.

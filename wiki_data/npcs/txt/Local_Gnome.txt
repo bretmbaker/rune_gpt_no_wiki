@@ -1,0 +1,2 @@
+Item: Local Gnome
+Summary: Local gnomes are gnomes found around King Bolren in the Tree Gnome Village. Unlike other gnomes, they can not be attacked.

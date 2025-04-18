@@ -1,0 +1,56 @@
+[Weapon: Steel Sq Shield]
+
+
+Asteel sq shieldis the third weakestsquare shield. It requires 5Defenceto equip. A player with 38Smithingcan make the shield by using twosteel barson ananvilwhile carrying ahammer, granting 75experience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A medium square shield.
+General Store Value: 600 coins
+High alch: 360 coins
+Low alch: 240 coins
+Weight: 3.628 kg
+Grand Exchange Value: 148 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 1,351
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +12
+- Slash: +13
+- Crush: +11
+- Magic: +0
+- Ranged: +12
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+BanditLevel 22 | 22 | 1 | 2/128 | 
+Elaborate lockbox | N/A | 1 | 22/2,625 | 
+Simple lockbox | N/A | 1 | 22/10,850 | 
+Zombie (Tarn's Lair)Low level | 40–56 | 1 | 1/128 | 

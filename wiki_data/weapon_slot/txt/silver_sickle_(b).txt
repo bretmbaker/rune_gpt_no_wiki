@@ -1,0 +1,60 @@
+[Weapon: Silver Sickle (B)]
+
+
+Thesilver sickle (b)is asilver sicklethat was blessed by dipping it in the grotto water after completion ofNature Spirit. It protects the player from the swamp's decaying effects when wielded or in the inventory. This item can be used during the questIn Aid of the Myreque. There is a possibility of this item being needed forFairytale I - Growing Pains.
+Note:To obtain thesilver sickle (b)after the quest use asilver sickleon the altar of nature found in thenature grotto.
+
+
+[Infobox]
+Released: 13 July2004(Update)
+Members: Yes
+Quest item: Nature Spirit,A Taste of Hope,Sins of the Father,While Guthix Sleeps
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Cast Bloom, Drop
+Worn options: Bloom
+Examine: It's a blessed silver sickle.
+General Store Value: 250 coins
+High alch: 150 coins
+Low alch: 100 coins
+Weight: 1.587 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +1
+- Magic: +1
+- Ranged: +1
+
+Other Bonuses:
+- Strength: +1
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Crate (A Taste of Hope, sickles) | N/A | 1 | Always | 

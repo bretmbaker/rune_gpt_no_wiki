@@ -1,0 +1,4 @@
+Item: Pet k'ril tsutsaroth
+Summary: 
+Sources:
+- K'ril Tsutsaroth (Level 650, Quantity: 1, Rarity: 1/5,000)

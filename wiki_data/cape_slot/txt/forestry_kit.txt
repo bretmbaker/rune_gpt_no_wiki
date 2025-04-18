@@ -1,0 +1,46 @@
+[Weapon: Forestry Kit]
+
+
+TheForestry kitis an item worn in thecape slotused to store a variety ofForestry-related items, such asanima-infused barkand tree leaves. It can be obtained for free from theForestry ShopinDraynor Village,PrifddinasorSeers' Village. The Forestry kit is required for players to spawnevents, meaning at least one player chopping the tree needs to either be wearing one or have one in their inventory.
+Players can quickly empty the contents of the kit by right-clicking "Use" on the item whilst thebankinterface is open. This empties the contents into the inventory, which can then be deposited into the bank.
+
+
+[Infobox]
+Released: 28 June2023(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: View, Wear, Fill, Destroy
+Destroy: Empty:You may purchase another kit from the Friendly Forester.Filled:The kit and its contents will be lost. You may purchase another kit from the Friendly Forester.Filled whilst possessing another kit:Your items will be transferred to your other kit. You may purchase another kit from the Friendly Forester.
+Examine: Holds assorted Forestry gear.
+General Store Value: 850 coins
+Alchemy: Not alchemisable
+Weight: 0.95 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

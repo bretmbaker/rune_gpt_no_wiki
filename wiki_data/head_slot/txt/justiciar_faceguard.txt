@@ -1,0 +1,82 @@
+[Weapon: Justiciar Faceguard]
+
+
+TheJusticiar faceguardis obtained as a rare drop from theTheatre of Blood. It is part of thejusticiar armourset, and requires level 75Defenceto equip.
+When the full set of Justiciar armour is equipped, the player gains aset effect: all combat damage taken is reduced (except inPvP). The exact formula for the amount of damage reduced isbonus3000, where bonus is the player's defence bonus for that particular style. For example, if an enemy was using a crush style attack, and the player has a crush defence bonus of +450, then 15% of the damage (450/3,000) is reduced.
+
+
+[Infobox]
+Released: 7 June2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A helm that once belonged to a Justiciar, a loyal zealot of Saradomin.
+General Store Value: 2,000,000 coins
+High alch: 1,200,000 coins
+Low alch: 800,000 coins
+Weight: 2.721 kg
+Grand Exchange Value: 11,564,776 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 519
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +60
+- Slash: +63
+- Crush: +59
+- Magic: -6
+- Ranged: +67
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Monumental chestHard Mode | N/A | 1 | 2/138.6 | 
+Monumental chestNormal Mode | N/A | 1 | 2/172.9 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Adamant dragon/Strategies(Melee)
+2 | Ancient Wyvern/Strategies(Melee)
+3 | Commander Zilyana/Strategies(Ranged)
+2 | Dagannoth Kings/Strategies(Range)
+2 | Dagannoth Kings/Strategies(Magic (Rex only))
+2 | Galvek Speed-Trialist(Melee)
+2 | General Graardor/Strategies(Solo (Melee))
+1 | General Graardor/Strategies(Advanced Tank)
+1 | General Graardor/Strategies(Ranged Tank)
+2 | Glough Speed-Trialist(Melee)
+2 | Gout tuber/Strategies(Tank)
+1 | Inferno/Strategies(Learners)
+2 | K'ril Tsutsaroth/Strategies(Melee Tank)
+2 | Kree'arra/Strategies(Chinchompas)
+2 | Kree'arra/Strategies(Ranged Tank)
+1 | Mithril dragon/Strategies(Melee tank)
+3 | Moons of Peril/Strategies(Moons of Peril Armour)
+4 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+2 | Rune dragon/Strategies(Melee)
+2 | Sarachnis/Strategies(Melee tank)
+2 | Slayer task/Fossil Island wyverns(Melee)
+4 | Vardorvis/Strategies(Melee)
+3 | Vorkath/Strategies(Melee)

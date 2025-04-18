@@ -1,0 +1,53 @@
+Name: Flockleader Geerin
+Combat Level: 149
+Size: 2x2
+Info:
+- Description: Graceful, bird-like creature.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 132.5 xp
+- Category: Aviansie
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3164
+- Link: MOID
+
+Location:
+- Area: God Wars Dungeon (Armadyl boss room)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Armadyl helmet (1/16,129)
+- Armadyl chestplate (1/16,129)
+- Armadyl chainskirt (1/16,129)
+- Godsword shard 1 (1/1,524[1])
+- Godsword shard 2 (1/1,524[1])
+- Godsword shard 3 (1/1,524[1])
+- Frozen key piece (armadyl) (1/20[d 1])
+- Brimstone key (1/91[d 2])
+- Clue scroll (hard) (1/128[d 3][3])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 132
+Attack: 80
+Strength: 80
+Defence: 175
+Magic: 50
+Ranged: 150
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

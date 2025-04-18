@@ -1,0 +1,107 @@
+[Spell: Charge_Air_Orb]
+
+Charge Air Orb
+
+
+
+
+
+
+
+Released | 18 March2002(Update)
+
+Members | Yes
+
+Level | 66
+
+Spellbook | Standard
+
+Type | Utility
+
+Experience | 76
+
+Runes | 3031
+
+Casting speed | 3 ticks (6 on autocast)
+
+Description | Needs to be cast on an air obelisk
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Charge Air Orbis a spell which can be cast on theAir ObeliskaboveEdgeville Dungeon, turning anunpowered orbinto anair orb. It requires 66 Magic to cast, at which point it willautocastevery 3.6 seconds. Players can speed up this time by casting it manually for each orb; it is possible to gain up to 40,000Magicexperience per hour using the spell in this way.
+
+Using an air orb on abattlestaffmakes anair battlestaff, requiring 66Craftingand granting 137.5 Crafting experience. Charging anair orbis a hard task for theWilderness Diary.
+
+Wilderness location[edit|edit source]
+
+The Air Obelisk is located above the Edgeville Dungeon, and requires going into level 7Wildernessto access. Players may be attacked by other players within 7 combat levels of them; as such, some players create pures to attack low-level accounts casting the spell.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+3031 | 592
+
+Combo runes
+
+3130 | 712
+
+3130 | 2,062
+
+3130 | 4,132
+
+Main-hands
+
+31Alt | 442
+
+Money making[edit|edit source]
+
+The followingmoney making guideis available for Charge Air Orb:
+
+Method | Hourly profit | Skills
+
+Charging air orbs | 428,141 | 66
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

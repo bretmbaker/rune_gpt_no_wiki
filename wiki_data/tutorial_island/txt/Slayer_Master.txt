@@ -1,0 +1,41 @@
+[Page: Slayer Master]
+
+Slayer Mastersare NPCs who serve as guides to theSlayerskill and assign tasks to players requiring them to kill specific monsters a certain number of times. Each Slayer Master has a different combat level requirement for players to be assigned tasks from them. Slayer Masters with higher combat level requirements will generally assign longer tasks with more difficult monsters. Players receiveSlayer reward pointsupon completingtaskswith bonus points being awarded at regular intervals (except for tasks fromTuraelandSpria). These points can be redeemed for a variety of different rewards, unlocks, and upgrades which enhance a player's Slayer experience.
+All Slayer Masters sellSlayer equipmentat anequipment shop. These items are helpful and sometimes essential to specific Slayer tasks. They also providerewardsin exchange for Slayer points.
+Turaelgives the easiest Slayer tasks and is ideal for lower level players. They have no minimum combat or Slayer level requirements before players may receive assignments. After the events ofWhile Guthix Sleeps,Ayareplaces Turael as the Slayer Master.
+If a player of any level receives an assignment they do not wish to do, Turael may consider giving players an easier assignment if they talk to him effectively "skipping" the hardest assignment. However, this only works if the assignment is something that he doesn't assign. For example, if Chaeldar assigns a playerDesert Lizards, then the Burthorpe Slayer Master cannot change their task, as he too assigns Desert Lizards.  Note that it is impossible for a player to get Turael to reassign a task that he gave out.
+He is located in a small house south of thegeneral storeinBurthorpe. The fastest ways to reach him are to use:
+Completion of a task assigned by Turaelwill notgrant any Slayer points. As well, if it was a task replacing one from another Master yourtask streakwill bereset. So, if you're on the 48th task and take a replacement one from Turael, your completed tasks will be set to 0.
+Spriais Turael's daughter, and has the same task list as him, in addition to assigningsourhogs. She plays a role in the questA Porcine of Interest.
+She is located in a small house inDraynor Village. The fastest ways to reach her are to use:
+Completion of a task assigned by Spriawill notgrant any Slayer points.
+Krystilia's tasks come with a risk: tasks assigned by hermustbe done within theWilderness. She has no minimum combat or Slayer level requirements, and doesn't factor in the player's combat level, meaning she may give players tasks much harder than their combat level would otherwise indicate.
+While completing Krystilia's tasks, players may obtainLarran's keys, the drop rate of which is dependent on the monster's combat level. They can be used to open asmallorbig chestfor additional rewards.
+Assignments from her have a separate task completion counter than assignments from other Slayer Masters, so players will have to complete five of her Slayer assignments to begin earning Slayer reward points. If the player chooses to reset an assignment Krystilia gives before the five assignments are completed, the counter will reset to zero and the player will need to complete five more tasks before they will receive reward points.
+She can be found by the jailhouse inEdgeville, north-east of the bank. The fastest ways to reach her are to use:
+Completion of a task assigned by Krystilia grants:
+Mazchnais the third easiest Slayer Master. The minimum combat level requirement to be assigned tasks from him is 20. During the events ofWhile Guthix Sleeps, Mazchna is temporarily replaced by Achtryn.
+Mazchna is located north-east ofCanifis. The fastest ways to reach him are to use:
+Completion of a task assigned by Mazchna grants:
+Vannakais a mid-level Slayer Master. The minimum combat level requirement to be assigned tasks from Vannaka is 40.
+He is located in theEdgeville Dungeon, east of theWildernessgate. The fastest ways to reach him are to use:
+Note that if accessing Edgeville Dungeon through the entry west of thecook's guild, abrass keyis required.
+Completion of a task assigned by Vannaka grants:
+Chaeldaris a mid-level Slayer Master. To be assigned monsters from her, you must have completedLost Cityand have a minimum combat level of 70.
+She is located inZanarisby theFairy Queen'sThrone. The only ways to reach her are to use anyfairy ringto go to Zanaris, or entering the shed in theLumbridge Swampwhilst wielding aDramen stafforLunar staff.
+Completion of a task assigned by Chaeldar grants:
+Konar quo Matenis the third hardest Slayer Master. To receiveSlayer tasksfrom her, acombat levelof 75 is required.
+Konar is unique amongst the primary Slayer Masters in the fact that in addition to assigning a monster, she will also assign one of multiple locations (if the monster can be found in other places). She will never direct players into the Wilderness, unless it is part of boss Slayer, as that is Krystilia's assignment location.
+While completing Konar's tasks, players may obtain abrimstone key, which have drop rates similar toLarran's keys. They can be used to open thebrimstone chestnear her for additional rewards.
+She is located on the summit ofMount Karuulm. The fastest ways to reach the summit are to use:
+Completion of a task assigned by Konar quo Maten grants:
+Nieveis the second hardest Slayer Master. The minimum combat level requirement to be assigned tasks from Nieve is 85. After the events ofMonkey Madness II,Stevereplaces Nieve as the Slayer Master.
+She is located in theTree Gnome Stronghold, near the yew trees and the southern bank. The fastest ways to reach her are to use:
+Completion of a task assigned by Nieve grants:
+Duradelis the hardest Slayer Master. To be assigned tasks from Duradel, players must have a Slayer level of at least 50, and a combat level of at least 100. Also, to be able to enterShilo Village, where Duradel resides, players must have completed theShilo Villagequest. After the events ofWhile Guthix Sleeps,Kuradalreplaces Duradel as the Slayer Master.
+He is located on the platform bridging the river at the fishing shop in Shilo Village. Although Duradel is usually north of the river (or sometimes on the bridge), he cannot be accessed from north of the river. Instead, enter the fishing shop south of the river, climb the ladder there, and cross the bridge to get to him.
+The fastest ways to reach Shilo Village are to use:
+Completion of a task assigned by Duradel grants:
+Slayer masters now give information about your current task if you prematurely request a new one.
+Slayer Masters now have a right-click option, Assignment, that allows you to quickly check progress on your current task or start a new one.
+Slayer masters will now check yourDefencelevel before assigning creatures which require special equipment that you don’t have the requirements to wear.

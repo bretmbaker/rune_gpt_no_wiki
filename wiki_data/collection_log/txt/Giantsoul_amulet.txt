@@ -1,0 +1,5 @@
+Item: Giantsoul amulet
+Summary: The giantsoul amulet is an amulet that can be obtained as an untradeable drop from looting either Branda the Fire Queen or Eldric the Ice King. When charged, it provides teleports to the entrances of the lairs of Bryophyta, Obor, and the Royal Titans.
+Sources:
+- Branda the Fire Queen (Level 350, Quantity: 1, Rarity: 1/16)
+- Eldric the Ice King (Level 350, Quantity: 1, Rarity: 1/16)

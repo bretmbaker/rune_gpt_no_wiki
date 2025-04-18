@@ -1,0 +1,55 @@
+[Weapon: Amulet Of Glory (T)#(T6)]
+
+
+Theamulet of glory (t)(ortrimmed amulet of glory) is a cosmetic variant of the regularamulet of glory. Players can receive this item as a reward fromhardTreasure Trailsat a chance of 1/1,625 per slot. Aside from appearance, it has the same functions and stat bonuses as a regular amulet of glory (including gem mining as long as it is charged).
+This item can be stored in thetreasure chestof acostume room. However, unlike its regular counterpart, it cannot bemountedin aQuest Hall.
+
+
+[Infobox]
+Released: 5 December2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Rub, Drop
+Worn options: Rub
+Examine: A very powerful dragonstone amulet.
+General Store Value: 17,625 coins
+High alch: 10,575 coins
+Low alch: 7,050 coins
+Weight: 0.01 kg
+Grand Exchange Value: 64,761 coins
+Grand Exchange Daily Buy Limit: 5
+Grand Exchange Daily Trades Volume: 130
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +10
+- Slash: +10
+- Crush: +10
+- Magic: +10
+- Ranged: +10
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +3
+- Crush: +3
+- Magic: +3
+- Ranged: +3
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

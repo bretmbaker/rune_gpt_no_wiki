@@ -1,0 +1,77 @@
+[Weapon: Black Dagger#(P)]
+
+
+Theblack daggeris adaggerslightly more accurate than thesteel dagger. Like most daggers it can bepoisoned, giving an advantage incombat. Like allblack weapons, wielding it requires anAttacklevel of 10.
+As with allblackandwhite equipment, the black dagger cannot be made from raw materials using theSmithingskill.
+
+
+[Infobox]
+Released: 8 December2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A vicious black dagger.
+General Store Value: 240 coins
+High alch: 144 coins
+Low alch: 96 coins
+Weight: 0.453 kg
+Respawn time: 1200 ticks (720 seconds)
+Grand Exchange Value: 302 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 2,247
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +10
+- Slash: +5
+- Crush: -4
+- Magic: +1
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +1
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +7
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Bronze Chest (black) | N/A | 1 | 6/98.64;6/97.08 | 
+Bronze Chest (brown) | N/A | 1 | 6/98.59;6/96.01 | 
+Bronze Chest (crimson) | N/A | 1 | 6/98.62;6/96.01 | 
+Bronze Chest (purple) | N/A | 1 | 6/98.67;6/97.62 | 
+Bronze Chest (red) | N/A | 1 | 6/98.56;6/95.48 | 
+Chaos druid warrior | 37 | 1 | 1/128 | 
+Christmas cracker | N/A | 1 | Always | N/A
+Cyclops (Catacombs of Kourend) | 56; 76 | 1 | 1/100 | 
+Cyclops (God Wars Dungeon) | 81 | 1 | 1/100 | 
+CyclopsWarriors' Guild Rooftop | 56; 76 | 1 | 1/100 | 
+CyclopsWarriors' Guild Basement | 106 | 1 | 5/100 | 
+Reward casket (beginner) | N/A | 1 | 11/8,856 | 
+Reward casket (easy) | N/A | 1 | 11/396 | 
+Salarin the twisted | 70 | 1 | 1/128 | 
+Spiritual warrior | 115–158 | 1 | 2/127 | 

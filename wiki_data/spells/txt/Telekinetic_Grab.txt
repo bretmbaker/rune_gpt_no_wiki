@@ -1,0 +1,123 @@
+[Spell: Telekinetic_Grab]
+
+Telekinetic Grab
+
+
+
+
+
+
+
+Released | 24 May2001(Update)
+
+Members | No
+
+Level | 33
+
+Spellbook | Standard
+
+Type | Utility
+
+Experience | 43
+
+Runes | 11
+
+Casting speed | 3 ticks
+
+Description | Take an item you can see but can't reach
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Telekinetic Grab(also known astelegrab) is autility spellavailable in thestandard spellbook. It requires level 33Magicto cast, and grants 43 Magicexperienceper cast.
+
+The spell can be used to pick up an item (or a pile of a stackable item) up to 10 tiles away, including over or through obstacles such as fences, gates, and rivers. It is useful when picking up item spawns that are guarded by dangerous monsters, such as thewine of Zamorakin theChaos Temple, and is also sometimes required for quests in order to pick up items that are guarded byNPCsor otherwise unreachable. For repeated casting, it is recommended to have astaff of airequipped to negate the need forair runes.
+
+There are only a few items, such asAhab's beer,raw pheasant,Trouble Brewing flowers,dragon tokensand equipable reward items fromachievement diaries, which cannot be picked up with Telekinetic Grab.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+11 | 137
+
+Combo runes
+
+11 | 141
+
+11 | 186
+
+11 | 255
+
+Main-hands
+
+1Alt | 132
+
+Uses[edit|edit source]
+
+Some notable areas where Telekinetic Grab can be used:
+
+TheMage Training Arena'sTelekinetic TheatreThelesser demonin theWizards' TowerThe cellar belowVarrock WestBank-Show mapWine of zamorakin theAsgarnian Chaos Templewest of theGoblin Village-Show mapWine of zamorak in theWilderness Chaos Temple-Show mapWine of zamorak in theDeep Wilderness Dungeon-Show mapNature runesby theDemonic Ruinsin theWilderness-Show mapNature rune north ofRellekka-Show mapTeak planksby thesawmillinPrifddinas-Show map
+
+Quests[edit|edit source]
+
+Creature of Fenkenstrain(optional, saves50)Darkness of Hallowvale(required)Dragon Slayer I(optional, saves10,000)King's Ransom(sometimes required)Recipe for Disaster - Freeing the Mountain Dwarf(optional)Spirits of the Elid(required)The Giant Dwarf(required)
+
+Trivia[edit|edit source]
+
+If you move to a different level while you are casting Telekinetic Grab, you will use the runes but not receive the item. You will receive the messageYour telegrab fizzles as you move too far away.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+8 May2024(update|poll) | Casting Telekinetic Grab will no longer stall the player. Additionally the projectile travel time no longer varies by distance.[1]
+
+14 May2015(update) | You can now cast telegrab around Seers' courthouse.
+
+17 July2014(update) | You can no longer telegrab members objects in F2P worlds, however you can still telegrab untrimmed skill capes.
+
+References[edit|edit source]
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

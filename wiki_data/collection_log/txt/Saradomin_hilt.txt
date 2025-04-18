@@ -1,0 +1,4 @@
+Item: Saradomin hilt
+Summary: The Saradomin hilt is a rare drop from Commander Zilyana, in the God Wars Dungeon. When attached to a completed Godsword blade, which can be created by combining the three Godsword shards, it creates the Saradomin Godsword.
+Sources:
+- Commander Zilyana (Level 596, Quantity: 1, Rarity: 1/508)

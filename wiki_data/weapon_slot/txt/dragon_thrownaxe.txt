@@ -1,0 +1,83 @@
+[Weapon: Dragon Thrownaxe]
+
+
+Thedragon thrownaxe, like allthrowing axes, is amembers-onlyRangedthrowing weapon and is the most powerful type of throwing axe. It is obtained as a drop fromwyrms,drakes,hydrasand theAlchemical Hydra.
+To wield a dragon thrownaxe, the player must have at least 61 Ranged.
+
+
+[Infobox]
+Released: 5 January2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A razor sharp throwing axe.
+General Store Value: 750 coins
+High alch: 450 coins
+Low alch: 300 coins
+Weight: 0 kg
+Grand Exchange Value: 370 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 244,461
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +36
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +47
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 5 ticks (3.0s) | 4 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 4 ticks (2.4s) | 4 tiles |  | None
+ | Longrange | Light | Longrange | 5 ticks (3.0s) | 6 tiles |  | +3 Defence
+
+
+[Special Attack]
+A player performs the dragon thrownaxe's special attack,Momentum Throw.
+The dragon thrownaxe has aspecial attack,Momentum Throw, which consumes 25% of the player's special attack energy. It improves the player's accuracy by 25% along with guaranteeing that the player will attack on the next game tick.
+The special attack could be used to attack several times in quick succession with improved accuracy. However, unlike thegranite maul's special attack, it wouldnotbe possible to use all of these special attack hits at once in the same game tick. Only one can be launched per game cycle.
+Note that in addition to itself attacking on the next game tick, using the special attack counts as a normal attack, resetting the player's attack delay to 5 ticks, or 4 using rapid. Even factoring in the additional tick to throw the thrownaxe, this can result in an increased attack speed for slower weapons such as theheavy ballistaordark bow, and even melee weapons such as acrystal halberd.
+Dragon thrownaxes are instantly consumed when they are thrown using the special attack if not used with an Ava's device.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Alchemical Hydra | 426 | 500–1,000 | 1/2,000 | 
+Colossal Hydra | 309 | 200–400 | 1/2,000 | 
+Drake | 192 | 100–200 | 1/10,000;1/2,000 | 
+Guardian Drake | 386 | 100–200 | 1/2,000 | 
+Hydra | 194 | 200–400 | 1/10,000;1/2,000 | 
+Shadow Wyrm | 267 | 75–150 | 1/2,000 | 
+Wyrm | 99 | 75–150 | 1/10,000;1/2,000 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Commander Zilyana/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged)
+3 | Scurrius/Strategies(Range (high level))
+3 | Zulrah/Strategies(Ranged)

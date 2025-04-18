@@ -1,0 +1,91 @@
+Name: Ogress Warrior
+Combat Level: 82
+Size: 2x2
+Info:
+- Description: A large angry ogre lady.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 82 xp
+- Category: Ogres
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 7989
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guide is available for Ogress Warrior:
+
+Notable Drops:
+- Limpwurt seed(m) (1/177.5)
+- Strawberry seed(m) (1/185.6)
+- Marrentill seed(m) (1/194.5)
+- Jangerberry seed(m) (1/264.3)
+- Tarromin seed(m) (1/286)
+- Wildblood seed(m) (1/292.9)
+- Watermelon seed(m) (1/385.9)
+- Harralander seed(m) (1/434.2)
+- Snape grass seed(m) (1/607.8)
+- Ranarr seed(m) (1/623.4)
+- Whiteberry seed(m) (1/715.1)
+- Mushroom spore(m) (1/838.4)
+- Toadflax seed(m) (1/900.5)
+- Belladonna seed(m) (1/1,350.8)
+- Irit seed(m) (1/1,350.8)
+- Poison ivy seed(m) (1/1,870.3)
+- Avantoe seed(m) (1/2,026.1)
+- Cactus seed(m) (1/2,026.1)
+- Kwuarm seed(m) (1/2,701.5)
+- Potato cactus seed(m) (1/3,039.2)
+- Snapdragon seed(m) (1/4,862.7)
+- Cadantine seed(m) (1/6,078.4)
+- Lantadyme seed(m) (1/8,104.5)
+- Dwarf weed seed(m) (1/12,156.8)
+- Torstol seed(m) (1/24,313.6)
+- Ogre ribs(m) (1/4[d 1])
+- Salmon (1/20)
+- Ensouled ogre head(m) (1/30)
+- Rune med helm (1/40)
+- Rune full helm (1/100)
+- Rune battleaxe (1/100)
+- Long bone(m) (1/400)
+- Shaman mask (1/1,200)
+- Curved bone(m) (1/5,012.5)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 82
+Attack: 68
+Strength: 70
+Defence: 82
+Magic: 60
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 10
+Slash: 12
+Crush: 12
+
+[Magic defence]
+Magic: 14
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 16
+Standard: 16
+Heavy: 16

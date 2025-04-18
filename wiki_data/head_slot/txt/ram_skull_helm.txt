@@ -1,0 +1,47 @@
+[Weapon: Ram Skull Helm]
+
+
+Theram skull helmis a helmet given as a reward, alongside thebonesack, for completingRag and Bone Man II. If lost, theOdd Old Manwill offer a replacement for free.
+It requires 30Defenceto wear. The helmet's stats are nearly identical to those of anadamant full helmet, the only differences being the lack of negativeMagicattackanddefence bonuses, and a slightly higherRangedaccuracy.
+
+
+[Infobox]
+Released: 10 April2006(Update)
+Members: Yes
+Quest item: Rag and Bone Man II
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Destroy: The helm looks like it will fall apart if you drop it, and you will have to go to the Odd Old Man for a replacement.
+Examine: Makes me feel baaad to the bone.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 3.175 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +19
+- Slash: +21
+- Crush: +16
+- Magic: +0
+- Ranged: +19
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

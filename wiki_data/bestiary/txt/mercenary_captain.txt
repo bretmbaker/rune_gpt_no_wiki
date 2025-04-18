@@ -1,0 +1,41 @@
+Name: Mercenary Captain
+Combat Level: 47
+Size: 1x1
+Info:
+- Description: He looks a bit aggressive.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4635
+- Link: MOID
+
+Location:
+- Area: Desert Mining Camp
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 80
+Attack: 32
+Strength: 29
+Defence: 32
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

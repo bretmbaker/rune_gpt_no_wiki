@@ -1,0 +1,46 @@
+[Weapon: Decorative Armour (Magic Top)#Locked]
+
+
+Thedecorative magic robe topcan be bought from theCastle Warslobby for 40Castle wars tickets. The item set can be purchased fromLanthus. It requires level 20Magicto wear.
+The decorative magic robe top is a good option for 1 defence pures as it provides good defence bonuses for only requiring 20 Magic. It provides the same bonuses (and costs the same amount of tickets) as theDecorative armour (ranged top).
+
+
+[Infobox]
+Released: 16 January2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Very decorative armour.
+General Store Value: 48,000 coins
+High alch: 28,800 coins
+Low alch: 19,200 coins
+Weight: 6.803 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +20
+- Slash: +20
+- Crush: +20
+- Magic: +20
+- Ranged: +20
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

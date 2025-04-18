@@ -1,0 +1,45 @@
+[Weapon: Runner Boots]
+
+
+Runner bootsare amember's onlytype ofarmour. To wear penance boots the player must have at least 40Defence. The boots can be obtained by exchanging 100Honour Pointsin each role from theBarbarian Assaultminigame, and doesnotrequire thePenance Queento be killed.
+The runner boots are not often used for combat purposes because of their poor stats. Runner boots provide a small attack bonus to magic (+1) and ranged (+1) but have defence bonuses similar to that ofblack boots, which only require 10 Defence. The boots also lack a strength bonus like that provided byclimbing boots,rune boots,spiked manaclesanddragon boots. The boots are often used instead to show prestige in Barbarian Assault.
+
+
+[Infobox]
+Released: 4 January2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Boots made from a Penance Runner.
+General Store Value: 65,003 coins
+Alchemy: Not alchemisable
+Weight: 0.34 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +1
+- Ranged: +1
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +8
+- Crush: +8
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot

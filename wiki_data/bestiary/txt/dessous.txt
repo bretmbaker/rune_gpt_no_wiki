@@ -1,0 +1,56 @@
+Name: Dessous
+Combat Level: 139
+Size: 1x1
+Info:
+- Description: A vampyre warrior of Zamorak.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 220 xp
+- Category: Vampyres
+
+Immunities:
+- Poison: Not immune
+- Venom: Immune
+- Monster ID: 3459,3460,6344
+- Link: MOID
+
+Location:
+- Area: 
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 200
+Attack: 99
+Strength: 99
+Defence: 99
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 50
+Strength bonus: 50
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 10
+Slash: 150
+Crush: 150
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

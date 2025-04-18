@@ -1,0 +1,58 @@
+Name: Dagannoth
+Combat Level: 88
+Size: 1x1
+Info:
+- Description: A spiney horror from the ocean depths...
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 85 xp
+- Category: Dagannoth
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 2259,5942
+- Link: MOID
+
+Location:
+- Area: Waterbirth Island Dungeon (Entrance Hall)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 85
+Attack: 10
+Strength: 10
+Defence: 75
+Magic: 1
+Ranged: 100
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 10
+Slash: 10
+Crush: 90
+
+[Magic defence]
+Magic: 200
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 150
+Standard: 150
+Heavy: 150

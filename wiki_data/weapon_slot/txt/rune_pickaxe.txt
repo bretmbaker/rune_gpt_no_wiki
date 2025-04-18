@@ -1,0 +1,93 @@
+[Weapon: Rune Pickaxe]
+
+
+Therune pickaxeis the third bestpickaxe, after thecrystal pickaxeand thedragon pickaxevariants. It mines on a 3-tickcycle and is the best pickaxe infree-to-play. The rune pickaxe requires 41Miningto use, and 40Attackto equip. Players lacking 40 Attack can still use it for mining. Playerscannotsmith the rune pickaxe, so it must be obtained from other players or from a shop, as a monster drop, or as a quest reward from the quest "Between a Rock...".
+
+
+[Infobox]
+Released: 27 May2003(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: Used for mining.
+General Store Value: 32,000 coins
+High alch: 19,200 coins
+Low alch: 12,800 coins
+Weight: 2.267 kg
+Grand Exchange Value: 18,377 coins
+Grand Exchange Daily Buy Limit: 40
+Grand Exchange Daily Trades Volume: 64,496
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +26
+- Slash: -2
+- Crush: +24
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +29
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Spike | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Impale | Stab | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Amoxliatl | 263 | 1 | 2 × 1/56 | 
+Ancient Wyvern | 210 | 1 | 3/132 | 
+Artio | 320 | 1 | 12/128 | 
+Branda the Fire Queen | 350 | 2 | 2 × 12/387 | N/A
+Callisto | 470 | 5(noted) | 8/126 | 
+Calvar'ion | 264 | 1 | 12/128 | 
+Cerberus | 318 | 1 | 3/128 | 
+Dark Chest | 28 | 1 | 15/600 | 
+Eldric the Ice King | 350 | 2 | 2 × 5/250 | N/A
+General Graardor | 624 | 1 | 6/127 | 
+Grotesque Guardians |  | 1 | 2 × 6/137 | 
+Long-tailed Wyvern | 152 | 1 | 2/123 | 
+Mutated Tortoise | 247 | 1 | 3 × 1/64 | 
+Possessed pickaxeCatacombs of Kourend | 50 | 1 | 1/500 | 
+Reward Chest (The Gauntlet) | N/A | 1–2(noted) | 2 × 1/24 | 
+Reward Chest (The Gauntlet)(Corrupted) | N/A | 2–3(noted) | 3 × 1/24 | 
+Reward casket (hard) | N/A | 1 | 1/27.1 | 
+Rock Golem (monster)High level | 120; 159 | 1 | 1/128 | 
+Scorpia | 225 | 1 | 5/128 | 
+Spindel | 302 | 1 | 12/128 | 
+Spitting Wyvern | 139 | 1 | 2/123 | 
+Taloned Wyvern | 147 | 1 | 2/123 | 
+Venenatis | 464 | 5(noted) | 8/126 | 
+Vet'ion | 454 | 5(noted) | 8/126 | 
+Warped Tortoise | 121 | 1 | 1/64 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Chambers of Xeric/Challenge Mode/Strategies(Guardians)
+3 | Chambers of Xeric/Strategies(Guardians)
+3 | Guardians of the Rift/Strategies(Runecrafting)
+3 | Zalcano/Strategies(Mining)

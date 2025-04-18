@@ -1,0 +1,9 @@
+Item: Tonalztics of ralos
+Summary: The Tonalztics of Ralos is a one-handed thrown weapon that requires level 75 Ranged to equip, which is obtained by participating in the Fortis Colosseum. Unlike most thrown weapons, it is not stackable and effectively provides unlimited "ammo," though it has an additional effect when charged. The weapon rolls against a monster's light ranged defence.
+Sources:
+- Rewards Chest (Fortis Colosseum) Wave 8 (Level N/A, Quantity: 1, Rarity: 105/114,240)
+- Rewards Chest (Fortis Colosseum) Wave 9 (Level N/A, Quantity: 1, Rarity: 25/21,600)
+- Rewards Chest (Fortis Colosseum) Wave 10 (Level N/A, Quantity: 1, Rarity: 25/16,000)
+- Rewards Chest (Fortis Colosseum) Wave 11 (Level N/A, Quantity: 1, Rarity: 5/2,080)
+- Rewards Chest (Fortis Colosseum) Wave 12 (Level N/A, Quantity: 1, Rarity: 25/4,800)
+- Rewards Chest (Fortis Colosseum) Wave 7 (Level N/A, Quantity: 1, Rarity: 35/45,920)

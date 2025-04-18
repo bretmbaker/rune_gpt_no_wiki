@@ -1,0 +1,370 @@
+[Shop: Cape_of_Accomplishment]
+
+ |  |  |  |  | 
+
+ |  |  |  |  | 
+
+ |  |  |  |  | 
+
+ |  |  |  |  | 
+
+A selection of Capes of Accomplishment
+
+ | The music that plays when you purchase a Cape of Accomplishment
+
+
+
+
+
+ACape of Accomplishment(also called askillcape) is a cape that symbolises achieving the highest possible level in a particularskill(level 99), the completion of everyquest(321 QP), everyAchievement Diary, or unlocking all the in-gamemusic. Capes of Accomplishment aremembers' only items.
+
+Capes of Accomplishment cost 99,000coins(same price for the trimmed capes once you have trained two or more skills to 99). Each are obtainable from specificNPCmasters, who can be seen proudly displaying the cape. A temporary skill boost that raises a skill level to 99 will not allow the player to obtain the corresponding cape. The NPC is located in a place related to their skill. Capes also come with matching hoods, although the hoods do not offer any bonuses.
+
+When a player achieves a second level 99 skill, their earlier cape of accomplishment receives a graphical enhancement in the form of a "trim" of a different colour. This trim is irreversible. These so called "trimmed skillcapes" can be used to show that someone has more than one skillcape. TheAchievement diary capewill allow you to trim both theQuest point capeand theMusic cape, although the achievement diary cape can only be trimmed after obtaining the quest point cape. Unlike other Capes of Accomplishment, the aforementioned three capes can be manually trimmed and untrimmed by use of the right click menu.
+
+If a player holding a skillcape dies to another player, and it is not protected on death, 11,880 coins will appear on the floor for the killer.
+
+Most and least popular capes[edit|edit source]
+
+As of 1 April 2025,Runecraftis the least common skillcape with95,670players having 99 Runecraft.
+
+As of 1 April 2025,Strengthis the most common skillcape with622,139players having 99 Strength.
+
+As of 1 April 2025, the top five least common skillcapes areRunecraft,Agility,Hunter,ConstructionandSmithingrespectively, while the five most common skillcapes areStrength,Hitpoints,Ranged,MagicandCookingrespectively. This is a general reflection of both the difficulty of training the pertaining skill and how useful the skill is to max.
+
+As of 26 February 2020, theMusic capeis the least common cape of accomplishment with11,543players achieving the cape.[1]
+
+An updated table showing the number of players with a 99 in each respective skill can be seen in the table below.
+
+Skill | Players with 99
+
+ | 409,360
+
+ | 597,547
+
+ | 145,986
+
+ | 622,139
+
+ | 100,548
+
+ | 125,674
+
+ | 356,414
+
+ | 131,248
+
+ | 164,113
+
+ | 557,531
+
+ | 165,740
+
+ | 412,398
+
+ | 178,600
+
+ | 209,174
+
+ | 356,441
+
+ | 457,781
+
+ | 260,102
+
+ | 214,310
+
+ | 95,670
+
+ | 192,002
+
+ | 296,382
+
+ | 125,016
+
+ | 117,297
+
+All skills: 61,261
+
+As of1 April 2025
+
+Equipment bonuses[edit|edit source]
+
+All of the different Capes of Accomplishment provide the same bonuses, with the exception of untrimmed and trimmed skillcapes, where the trimmed versions and theMax capeprovide a +4 prayer bonus. Untrimmed Capes of Accomplishment have identical stats to that of anObsidian cape.
+
+Item | Attack bonuses | Defence bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Untrimmed | 0 | 0 | 0 | 0 | 0 | +9 | +9 | +9 | +9 | +9 | 0 | 0 | 0% | 0
+
+ | Trimmed | 0 | 0 | 0 | 0 | 0 | +9 | +9 | +9 | +9 | +9 | 0 | 0 | 0% | +4
+
+ | Max | 0 | 0 | 0 | 0 | 0 | +9 | +9 | +9 | +9 | +9 | 0 | 0 | 0% | +4
+
+Emote[edit|edit source]
+
+Each cape comes with a specialemotethat can only be performed while wearing the skillcape, however themusic capeemote can be performed without wearing its respective cape. The emotes are meant to represent the cape's respective skills.
+
+Skill boost[edit|edit source]
+
+Selecting the "Boost" option in the equipment menu or equipping a cape of accomplishment temporarily boosts the player's effective level in the cape's skill by 1, up to 100. TheHitpointsandPrayer capeshave a 1 minute cool-down period between uses of this effect. Every cape's boost cannot be reactivated until its skill has dropped back to 99. This boost follows the same rules as any other skill boost, lasting up to 60 seconds.
+
+Visibleboostsover 99 for skilling actions that use theskilling success ratedo not affect those actions.
+
+Cape of Accomplishment perks[edit|edit source]
+
+Each cape has certain benefits. For example, theFiremaking capewill act as alight sourceeither when equipped or in inventory, and aswarm clothingforWintertodt, and wearing theCooking capewill prevent any food from being burned. These perks only work on members worlds.
+
+Amax capewill provide all the perks of all skillcapes. However, a max cape may be combined with certain best-in-slot cape slot items, such as theGuthix cape, creating aGuthix max cape. Doing so will cause the max cape to assume the stats of the item it was combined with, forfeiting the max cape perks, making it merely a cosmetic enhancement to the original item. A list of all possible max cape combinations can be foundhere.
+
+If a player displays a certain set of skillcapes on thecape hangerin aplayer-owned houseAchievement Gallery, theperksthat they have will become availableonly to the house owner. The perks of the following skillcapes can be used while displayed on the cape hanger:
+
+Construct. capeCrafting capeFarming capeFishing capeFletching capeHunter capeMagic capeStrength capeHerblore capeQuest point capeAchievement diary capeMusic capeMax cape
+
+List of Cape of Accomplishment perks[edit|edit source]
+
+Skill | Skillcape | Hood | No. of Players(as of 1 April 2025) | Master | Location | Perks
+
+ | Agility cape | Agility hood | 100,548 | Cap'n Izzy No-Beard | Brimhaven Agility Arena | When worn, acts as a substitute for agraceful cape.Once per day, can be used to restore 100% run energy and provide the effect of astamina potionfor one minute.
+
+ | Attack cape | Attack hood | 409,360 | Ajjat | Warriors' Guild | When worn, nowarrior guild tokensare needed to access thecyclopeswithin theWarriors' Guild.
+
+ | Construct. cape | Construct. hood | 125,016 | AnyEstate agentorAlwyn | Varrock,Seers' Village,Falador,Ardougne,Hosidius,Prifddinas | Unlimited teleports to the player's own house or anyplayer-owned houseportal.
+
+ | Cooking cape | Cooking hood | 412,398 | Head chef | Cooks' Guild | When worn, food will never be burned while cooking.When worn, acts as a substitute for achef's hatto enter theCooks' Guild.
+
+ | Crafting cape | Crafting hood | 209,174 | Master Crafter | Crafting Guild | Unlimited teleports to theCrafting Guild.When worn, allows access to the Crafting Guild bank chest without completing theHardFalador Diary.
+
+ | Defence cape | Defence hood | 356,414 | Melee combat tutor | Lumbridge | When worn, acts as aring of life; can be toggled on or off.
+
+ | Farming cape | Farming hood | 296,382 | Martin the Master Gardener | Draynor Village | Unlimited teleports to theFarming Guild.When worn, herb patches harvested will have a 5% increase in yield (stacks with themagic secateurs).
+
+ | Firemaking cape | Firemaking hood | 356,441 | Ignatius Vulcan | South ofSeers' Village | Acts as an inextinguishablelight source.When worn, acts aswarm clothingforWintertodt.
+
+ | Fishing cape | Fishing hood | 164,113 | Master Fisher | Fishing Guild | Unlimited teleports to theFishing GuildandOtto's Grotto.
+
+ | Fletching cape | Fletching hood | 260,102 | Hickton | Catherby | The cape can be searched for amithril grappleandbronze crossbowup to three times each day.
+
+ | Herblore cape | Herblore hood | 131,248 | Kaqemeex | Taverley | When worn,ZahurinNardahwill create unfinished potions for 200 coins each without completing theHardDesert Diary.When worn, allowsgrimy herbsto be used in creatingunfinished potions; doing so gives the experience of cleaning the herb.Can be searched for apestle and mortar.
+
+ | Hitpoints cape | Hitpoints hood | 597,547 | Surgeon General Tafani | Emir's Arenahospital | When worn, naturalHitpointrestoration rate is doubled. The effect does not stack withRapid Heal, but does stack with theregen bracelet.
+
+ | Hunter cape | Hunter hood | 117,297 | Hunting expert | Feldip Hills | Unlimited teleports to theHunter Guild.Five teleports per day to theblackorcarnivorous chinchompaHunter areas.
+
+ | Magic cape | Magic hood | 457,781 | Wizard Sinina | Wizards' Guild | The player can permanently change theirspellbookup to five times per day.
+
+ | Mining cape | Mining hood | 145,986 | Gadrin | Mining Guild | When worn, there is a 5% chance of receiving an extra ore from rocks up toadamantite; stacks withVarrock armour.
+
+ | Prayer cape | Prayer hood | 178,600 | Brother Jered | Edgeville Monastery | When worn or in the inventory, acts as aholy wrench; effects do not stack with a holy wrench or animbued ring of the gods.
+
+ | Ranging cape | Ranging hood | 557,531 | Armour salesman | Ranging Guild | When worn, acts asAva's accumulator; upgraded toAva's assemblerifVorkath's headis used on it, consuming the head.
+
+ | Runecraft cape | Runecraft hood | 95,670 | Aubury | South-eastVarrock | When worn, allows access to anyrunic altarwithout the use of talismans or tiaras.When worn, preventsessence pouchesfrom degrading when filling them.
+
+ | Slayer cape | Slayer hood | 192,002 | Duradel/Kuradal[2] | Shilo Village | When worn or in the inventory, provides a 10% chance of being given the option to pick the previous task when getting a new task from aSlayer Master.When worn, allows players to bypasscombat levelrequirements upon receiving new tasks.
+
+ | Smithing cape | Smithing hood | 125,674 | Thurgo | NearMudskipper Point | When worn, makes thecoal bagcapable of holding 36coalinstead of 27.When worn, acts as a pair ofgoldsmith gauntlets.
+
+ | Strength cape | Strength hood | 622,139 | Sloane/Yadech Strongarm[2] | Warriors' Guild | Unlimited teleports to theWarriors' Guild.
+
+ | Thieving cape | Thieving hood | 165,740 | Martin Thwait | Rogues' Den | When worn, additional 10% chance of being successful when pickpocketing. Stacks with the completion of theEasy,Medium, andHardArdougne Diaries.
+
+ | Woodcutting cape | Woodcutting hood | 214,310 | Wilfred | Lumbridge | When worn, additional 10% chance of abird nestfalling while chopping trees.
+
+ | Quest point cape | Quest point hood | N/A | Wise Old Man | Draynor Village | Unlimited teleports to theLegends' Guildgates.
+
+ | Achievement diary cape | Achievement diary hood | N/A | Twiggy O'Korn | Draynor Village | Unlimited teleports to all Diary Masters, includingTwiggy O'Korn.
+
+ | Music cape | Music hood | N/A | Olaf the Bard | Rellekka | Unlimited teleports toFalo the Bard.
+
+ | Max cape | Max hood | 61,261 | Mac | West of theWarriors' Guild | Inherits allskillcape perks, but not those of the quest point, achievement diary, or music capes.
+
+Keeping the first Skillcape untrimmed[edit|edit source]
+
+When players get their first Skillcape, it will be untrimmed. The moment the player reaches 99 in another skill, all untrimmed capes currently in possession of the player, banked or stored in their house, orregularly picked up at any timewill becomepermanentlytrimmed, unless some precaution is taken. Players may wish to keep their first Skillcape untrimmed, because they like the look of it or another reason. Owning multiple untrimmed capes may be helpful to avoid losing every untrimmed version.
+Some methods to keep the untrimmed Skillcapes from trimming are as follows:Note:These methods need to be repeatedeverytime a new 99 is about to be achieved, or if the untrimmed cape is dropped for any reason, including while not a member.
+
+Telegrabbingthe cape:
+
+Drop the Skillcape on the ground.Reach 99 in another skill.Telegrab the untrimmed Skillcape. It will remain untrimmed.If picked up without telegrab, it will become trimmed upon pickup.
+
+Having the untrimmed cape in a death storage:
+
+Dying to some instanced NPCs transports your items into a death storage, excluding your protected items. Check thedeathpage for more info on protected items.Normal death: Upon dying to an NPC your items will be transported to your grave, excluding your protected items. If the untrimmed cape is moved intoDeath's Office, it will be safe there forever.Hespori:Arnowill hold your items. Requires 65Farmingto plant aHespori seed. He requires 25,000 coins to reclaim the items.These are methods available toSkill pures, as they cannot useMagicto telegrab the cape.Zulrah:Priestess Zul-Gwenwynigwill hold your items. Requires access toZul-Andra.[1]She requires 100,000 coins to reclaim your items after you have killed Zulrah 50 times.Chambers of Xeric: Store your cape in during the raid and leave it there. This is the best temporary method as you can die multiple times outside of the raid and the items in the chest will never disappear unlike the Zulrah or Theatre of Blood chest.[2]Theatre of Blood: The chest outside will hold your items. Requires 100,000 coins to reclaim the items.The following death storageshave not been tested, but are assumed to work similarly:Alchemical Hydra:Orrvor quo Matenwill hold your items. Requires the ability to wear protective footwear — 44Slayerforboots of stone, or 50Defenceforgranite boots—, or a highHitpointslevel and food, in order to not perish walking to the Alchemical Hydra's location. He requires 100,000 coins to reclaim the items.Vorkath:Torfinnwill hold your items. Requires partial completion ofDragon Slayer II, and 100,000 coins to reclaim the items.Reach 99 in another skill.Take the Skillcape out of the death storage.
+
+If theWoodcutting capeis the player's first 99, it can be stored in theclothes pouchof theForestry kit. The cape will not be trimmed, when a second 99 is reached.It is currently unknown if theTackle boxandHuntsman's kitprotect their respective capes from getting trimmed.
+
+Joke Skillcapes[edit|edit source]
+
+While these capes resemble a skillcape and possess a skillcape emote, they are considered a joke and do not qualify as a real Cape of Accomplishment (e.g. for purposes of theFalador Diary).
+
+Skill | Skillcape | Hood | Master | Location | Perks
+
+ | Cabbage cape | None | Kupus Varza(Diangoafter the2016 April Foolsevent) | Falador farm(Draynor Villageafter the2016 April Fools event) | None
+
+ | Banana cape | None | Duke Horacio(Diangoafter the2021 Birthday event) | Lumbridge Castle(Draynor Villageafter the2021 Birthday event) | None
+
+Used in recommended equipment[edit|edit source]
+
+Rank | Method
+
+1 | Abyss/Strategies(Defence)
+
+5 | Adamant dragon/Strategies(Melee)
+
+5 | Amoxliatl/Strategies(Melee)
+
+2 | Ancient Wyvern/Strategies(Prayer)
+
+5 | Ancient Wyvern/Strategies(Melee)
+
+4 | Barbarian Assault/Strategies(Melee (high level))
+
+3 | Barbarian Assault/Strategies(Melee (mid level))
+
+4 | Basilisk Knight/Strategies(Melee)
+
+5 | Budget Cutter
+
+4 | Chaos Elemental/Strategies(Melee)
+
+3 | Dagannoth Kings/Strategies(Magic (Rex only))
+
+5 | Dark beast/Strategies(Melee)
+
+4 | Deranged archaeologist/Strategies(Magic)
+
+5 | Drake/Strategies(Melee)
+
+5 | Galvek Speed-Trialist(Melee)
+
+5 | Glough Speed-Trialist(Melee)
+
+4 | Gout tuber/Strategies(Tank)
+
+5 | Green dragon/Strategies(Melee)
+
+4 | K'ril Tsutsaroth/Strategies(Melee)
+
+4 | King Black Dragon/Strategies(Melee BIS smuggle)
+
+4 | King Black Dragon/Strategies(4-item melee)
+
+3 | Lava dragon/Strategies(Ranged)
+
+3 | Lava dragon/Strategies(Magic)
+
+4 | Maniacal monkey/Strategies(Ranged)
+
+4 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+
+4 | Maniacal monkey/Strategies(Magic - Ice Burst)
+
+4 | Moons of Peril/Strategies(Moons of Peril Armour)
+
+5 | Nightmare Zone/Strategies(Magic)
+
+4 | Nightmare Zone/Strategies(Melee)
+
+5 | Nightmare Zone/Strategies(Melee (Prayer))
+
+5 | Rune dragon/Strategies(Melee)
+
+3 | Sarachnis/Strategies(Melee tank)
+
+5 | Slayer task/Abyssal demons(Magic)
+
+5 | Slayer task/Fossil Island wyverns(Melee)
+
+2 | Slayer task/Fossil Island wyverns(Prayer)
+
+5 | Slayer task/Gargoyles(Melee)
+
+5 | Slayer task/Suqah(Melee (South))
+
+5 | Slayer task/Trolls(Melee (Mountain trolls))
+
+5 | Slayer task/Trolls(Melee (Ice trolls))
+
+5 | Vardorvis/Strategies(Melee)
+
+5 | Vorkath/Strategies(Melee)
+
+Changes[edit|edit source]
+
+Date | Changes
+
+24 September2015(update) | You can no longer perform skillcape emotes aboard the Fishing Trawler.
+
+Trivia[edit|edit source]
+
+If a player somehow possesses a cape of accomplishment for a skill that they later have the base level reduced, they will be unable to wear it until they achieve 99 again. This was previously possible inDeadman Modeworlds, when death would result in loss of experience[3]before anupdate, and inunrestricted worlds, where the player can freely set their levels.The max cape does not have anoperatefunction, and thus cannot boost any skill.As every cape costs 99,000 coins each, buying all Capes of Accomplishment (Skill Capes, Quest Point Cape, Achievement Diary Cape, and Music Cape) will require 2,574,000 coins, excluding the max cape. With the Max cape included, it would cost 4,851,000 coins for every Cape of Accomplishment.Including the 23 skillcapes, theMax cape, theQuest point cape, theAchievement diary capeand theMusic cape, there are a total of 27 capes of accomplishment.
+
+References[edit|edit source]
+
+v•t•eCapes of Accomplishment
+
+Capes | Agility(Hood)Attack(Hood)Construction(Hood)Cooking(Hood)Crafting(Hood)Defence(Hood)Farming(Hood)Firemaking(Hood)Fishing(Hood)Fletching(Hood)Herblore(Hood)Hitpoints(Hood)Hunter(Hood)Magic(Hood)Mining(Hood)Prayer(Hood)Ranging(Hood)Runecraft(Hood)Slayer(Hood)Smithing(Hood)Strength(Hood)Thieving(Hood)Woodcutting(Hood)Quest point(Hood)Achievement diary(Hood)Music(Hood)Max(Hood)
+
+Cape sellers | Cap'n Izzy No-BeardAjjatEstate agent/AlwynHead chefMaster CrafterMelee combat tutorMartin the Master GardenerIgnatius VulcanMaster fisherHicktonKaqemeexSurgeon General TafaniHunting expertWizard SininaGadrinBrother JeredArmour salesmanAuburyDuradel/KuradalThurgoSloane/Yadech StrongarmMartin ThwaitWoodsman tutorWise Old ManTwiggy O'KornOlaf the BardMac
+
+Emote | Skill Cape
+
+v•t•ePrayer items
+
+Weapons | One-handedMacesCanesWhite weaponryArmadyl crossbow(+1)Zaryte crossbow(+1)Blessed axe(+2)Keris(+2)Zamorakian hasta(+2)Viggora's chainmace(+2)Ursine chainmace(+2)Inquisitor's mace(+2)Lunar staff(+3)Keris partisan(breaching)(corruption)(sun)(+3)Rolling pin(+4)Wolfbane(+5)Silver sickle (b)(+5)Emerald sickle (b)(enchanted)(+5)Ruby sickle (b)(enchanted)(+5)Blisterwood sickle(+5)Ivandis flail(+5)Blisterwood flail(+5)Void knight mace(+6)Crozier(+6)3rd age druidic staff(+6)Two-handedWhite weaponry(+1)Tumeken's shadow(+1)Saradomin sword(blessed)(+2)Zamorakian spear(+2)Toktz-mej-tal(+5)Verac's flail(+6)Godswords(+8) | One-handed | MacesCanesWhite weaponryArmadyl crossbow(+1)Zaryte crossbow(+1)Blessed axe(+2)Keris(+2)Zamorakian hasta(+2)Viggora's chainmace(+2)Ursine chainmace(+2)Inquisitor's mace(+2)Lunar staff(+3)Keris partisan(breaching)(corruption)(sun)(+3)Rolling pin(+4)Wolfbane(+5)Silver sickle (b)(+5)Emerald sickle (b)(enchanted)(+5)Ruby sickle (b)(enchanted)(+5)Blisterwood sickle(+5)Ivandis flail(+5)Blisterwood flail(+5)Void knight mace(+6)Crozier(+6)3rd age druidic staff(+6) | Two-handed | White weaponry(+1)Tumeken's shadow(+1)Saradomin sword(blessed)(+2)Zamorakian spear(+2)Toktz-mej-tal(+5)Verac's flail(+6)Godswords(+8)
+
+One-handed | MacesCanesWhite weaponryArmadyl crossbow(+1)Zaryte crossbow(+1)Blessed axe(+2)Keris(+2)Zamorakian hasta(+2)Viggora's chainmace(+2)Ursine chainmace(+2)Inquisitor's mace(+2)Lunar staff(+3)Keris partisan(breaching)(corruption)(sun)(+3)Rolling pin(+4)Wolfbane(+5)Silver sickle (b)(+5)Emerald sickle (b)(enchanted)(+5)Ruby sickle (b)(enchanted)(+5)Blisterwood sickle(+5)Ivandis flail(+5)Blisterwood flail(+5)Void knight mace(+6)Crozier(+6)3rd age druidic staff(+6)
+
+Two-handed | White weaponry(+1)Tumeken's shadow(+1)Saradomin sword(blessed)(+2)Zamorakian spear(+2)Toktz-mej-tal(+5)Verac's flail(+6)Godswords(+8)
+
+Headgear | White med helm(+1)White full helm(+1)Rune god helms(+1)Torva full helm(+1)Blessed coifs(+1)Armadyl helmet(+1)Inquisitor's great helm(+1)Zealot's helm(+1)Virtus mask(+1)Dagon'hai hat(+2)Crystal helm(+2)Justiciar faceguard(+2)Ancient ceremonial mask(+2)Hueycoatl hide coif(+2)Halos(+3)Helmet of the moon(+3)Verac's helm(+3)Initiate sallet(+3)Helm of neitiznot(+3)Neitiznot faceguard(+3)Proselyte sallet(+4)Elite black full helm(+4)Vestment mitres(+5)Sunfire fanatic helm(+6)HalosGuthix(+3)Saradomin(+3)Zamorak(+3)Armadyl(+3)Bandos(+3)Ancient(+3)Seren(+3)Brassica(+3) |  | White med helm(+1)White full helm(+1)Rune god helms(+1)Torva full helm(+1)Blessed coifs(+1)Armadyl helmet(+1)Inquisitor's great helm(+1)Zealot's helm(+1)Virtus mask(+1)Dagon'hai hat(+2)Crystal helm(+2)Justiciar faceguard(+2)Ancient ceremonial mask(+2)Hueycoatl hide coif(+2)Halos(+3)Helmet of the moon(+3)Verac's helm(+3)Initiate sallet(+3)Helm of neitiznot(+3)Neitiznot faceguard(+3)Proselyte sallet(+4)Elite black full helm(+4)Vestment mitres(+5)Sunfire fanatic helm(+6) | Halos | Guthix(+3)Saradomin(+3)Zamorak(+3)Armadyl(+3)Bandos(+3)Ancient(+3)Seren(+3)Brassica(+3)
+
+ | White med helm(+1)White full helm(+1)Rune god helms(+1)Torva full helm(+1)Blessed coifs(+1)Armadyl helmet(+1)Inquisitor's great helm(+1)Zealot's helm(+1)Virtus mask(+1)Dagon'hai hat(+2)Crystal helm(+2)Justiciar faceguard(+2)Ancient ceremonial mask(+2)Hueycoatl hide coif(+2)Halos(+3)Helmet of the moon(+3)Verac's helm(+3)Initiate sallet(+3)Helm of neitiznot(+3)Neitiznot faceguard(+3)Proselyte sallet(+4)Elite black full helm(+4)Vestment mitres(+5)Sunfire fanatic helm(+6)
+
+Halos | Guthix(+3)Saradomin(+3)Zamorak(+3)Armadyl(+3)Bandos(+3)Ancient(+3)Seren(+3)Brassica(+3)
+
+Bodies | White chainbody(+1)White platebody(+1)Rune god platebodies(+1)Bandos chestplate(+1)Torva platebody(+1)Blessed d'hide(+1)Armadyl chestplate(+1)Inquisitor's hauberk(+2)Dagon'hai robe(+2)Virtus robe top(+2)Crystal body(+3)Priest gown(+3)Zamorak monk(+3)Elite void robe(+3)Hueycoatl hide body(+3)Druid's robe(+4)Justiciar chestguard(+4)Shade robe(+5)Verac's brassard(+5)Monk's robe(t)(g)(+6)Ancient ceremonial robe(+6)Initiate hauberk(+6)Vestments(+6)Zealot's robe(+7)Proselyte hauberk(+8)Elite black platebody(+8)3rd age druidic robe(+8)Sunfire fanatic cuirass(+10)
+
+Legwear | White platelegs(sk)(+1)Rune god platelegs(sk)(+1)Bandos tassets(+1)Torva platelegs(+1)Blessed chaps(+1)Armadyl chainskirt(+1)Virtus robe bottom(+1)Inquisitor's plateskirt(+2)Dagon'hai robe(+2)Crystal legs(+2)Hueycoatl hide chaps(+2)Priest gown(+3)Zamorak monk(+3)Elite void robe(+3)Druid's robe(+4)Justiciar legguards(+4)Shade robe(+4)Verac's plateskirt(+4)Monk's robe(t)(g)(+5)Ancient ceremonial robe(+5)Initiate cuisse(+5)Vestments(+5)Zealot's robe(+6)Proselyte cuisse(sk)(+6)Elite black platelegs(+6)3rd age druidic robe(+6)Sunfire fanatic chausses(+8)
+
+Gloves | Ancient ceremonial(+1)White(+1)Blessed bracers(+1)Hueycoatl hide vambraces(+1)Zaryte vambraces(+1)Tormented bracelet(or)(+2)Holy wraps(+3)
+
+Boots | Ancient ceremonial(+1)Aranea(+1)Bandos(+1)Blessed d'hide(+1)White(+1)Zealot's(+1)Guardian(+2)Holy sandals(+3)Echo(+4)Devout(+5)
+
+Capes | Mythical cape(max)(+1)Ardougne cloak 1(+2)Fire cape(max)(+2)Infernal cape(max)(+2)Vestment cloak(+3)3rd age druidic cloak(+3)Skillcape (trimmed)(+4)Quest cape (trimmed)(+4)Achievement diary cape(+4)Max cape(+4)Ardougne cloak 2(+4)Ardougne cloak 3(+5)3rd age cloak(+5)Ardougne cloak 4(max)(+6)Soul cape(+8)
+
+Amulets | Witchwood icon(+1)Beads of the dead(+1)Amulet of power(t)(+1)Amulet of torture(or)(+2)Necklace of anguish(or)(+2)Occult necklace(or)(+2)Amulet of glory(t)(+3)Amulet of eternal glory(+3)Amulet of the damned(+3)Amulet of avarice(+3)Berserker necklace(or)(+3)Salve amulet(e)(i)(ei)(+3)Amulet of fury(or)(+5)Amulet of blood fury(+5)Holy symbol(+8)Unholy symbol(+8)Vestment stole(+10)Dragonbone necklace(+12)Bonecrusher necklace(+12)
+
+Rings | Explorer's rings(+1)Ring of suffering(+2)Ring of shadows(+2)Ring of the gods(+4)Ring of suffering (i)(+4)Ring of the gods (i)(+8)
+
+Blessings | Peaceful(+1)Holy(+1)Unholy(+1)Honourable(+1)War(+1)Ancient(+1)Rada's 2and3(+1)Rada's 4(+2)
+
+Shields | Falador shield 1(+1)White sq shield(+1)White kiteshield(+1)Rune god(+1)Blessed d'hide(+1)Kharedst's memoirs(+1)Spirit shield(+1)Elidinis' ward(+1)Falador shield 2(+3)Book of the dead(+3)Blessed spirit shield(+3)Arcane spirit shield(+3)Elysian spirit shield(+3)Spectral spirit shield(+3)Falador shield 3(+4)Elidinis' ward (f)(+4)God book(+5)Broodoo shield(+5)Falador shield 4(+5)God booksHoly(or)(+5)Unholy(or)(+5)Balance(or)(+5)War(or)(+5)Law(or)(+5)Darkness(or)(+5) |  | Falador shield 1(+1)White sq shield(+1)White kiteshield(+1)Rune god(+1)Blessed d'hide(+1)Kharedst's memoirs(+1)Spirit shield(+1)Elidinis' ward(+1)Falador shield 2(+3)Book of the dead(+3)Blessed spirit shield(+3)Arcane spirit shield(+3)Elysian spirit shield(+3)Spectral spirit shield(+3)Falador shield 3(+4)Elidinis' ward (f)(+4)God book(+5)Broodoo shield(+5)Falador shield 4(+5) | God books | Holy(or)(+5)Unholy(or)(+5)Balance(or)(+5)War(or)(+5)Law(or)(+5)Darkness(or)(+5)
+
+ | Falador shield 1(+1)White sq shield(+1)White kiteshield(+1)Rune god(+1)Blessed d'hide(+1)Kharedst's memoirs(+1)Spirit shield(+1)Elidinis' ward(+1)Falador shield 2(+3)Book of the dead(+3)Blessed spirit shield(+3)Arcane spirit shield(+3)Elysian spirit shield(+3)Spectral spirit shield(+3)Falador shield 3(+4)Elidinis' ward (f)(+4)God book(+5)Broodoo shield(+5)Falador shield 4(+5)
+
+God books | Holy(or)(+5)Unholy(or)(+5)Balance(or)(+5)War(or)(+5)Law(or)(+5)Darkness(or)(+5)
+
+v•t•eCapes
+
+Regular capes | BlackBlueGreenOrangePinkPurpleRedYellow
+
+Combat capes | LegendsMythical(max)Obsidian(r)Fire(max)Infernal(max)SkullsMoonclanLunarGuthix(max)Guthix (i)(max)Saradomin(max)Saradomin (i)(max)Zamorak(max)Zamorak (i)(max)TeamTeam iTeam xTeam zeroMixed hide
+
+Capes of Accomplishment | AgilityAttackConstructionCookingCraftingDefenceFarmingFiremakingFishingFletchingHerbloreHitpointsHunterMagicMiningPrayerRangingRunecraftSlayerSmithingStrengthThievingWoodcuttingQuest pointAchievement diaryMusicMax
+
+Cloaks | 3rd age3rd age druidicClue hunterGhostlyH.A.M.MournerAncientArmadylBandosGuthixSaradominZamorakSaradomin teamZamorak teamArdougne cloak 4(123max)RuinWolf
+
+Fremennik cloaks | BlackBlueBrownCyanGreenGreyPinkPurpleRedTealYellow
+
+Raids | Chambers of Xeric: Challenge ModeGuardWarriorSentinelGeneralChampionTheatre of BloodTier 1Tier 2Tier 3Tier 4Tier 5Tombs of AmascutTier 1Tier 2Tier 3Tier 4Tier 5 | Chambers of Xeric: Challenge Mode | GuardWarriorSentinelGeneralChampion | Theatre of Blood | Tier 1Tier 2Tier 3Tier 4Tier 5 | Tombs of Amascut | Tier 1Tier 2Tier 3Tier 4Tier 5
+
+Chambers of Xeric: Challenge Mode | GuardWarriorSentinelGeneralChampion
+
+Theatre of Blood | Tier 1Tier 2Tier 3Tier 4Tier 5
+
+Tombs of Amascut | Tier 1Tier 2Tier 3Tier 4Tier 5
+
+Others | 10th birthday20th anniversaryAva's attractorAva's accumulator(max)Ava's assembler(max)BananaBonesackCabbageChampion'sDeadman'sDiving apparatusDizana's quiver(blessed) (max)EagleExplorer backpackFish sack(barrel)GauntletGracefulMasori assembler(max)OrnateSpottedSpottierSoul

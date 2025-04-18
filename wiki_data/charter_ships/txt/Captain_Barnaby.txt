@@ -1,0 +1,40 @@
+[Page: Captain_Barnaby]
+
+Captain Barnaby
+
+Released | 30 April2002(Update)
+
+Members | Yes
+
+Race | Human
+
+Quest | My Arm's Big Adventure
+
+Location | East Ardougnedocks,Brimhaven,Rimmington
+
+Leagueregion |
+
+Gender | Male
+
+Examine | An old sailor.
+
+Map
+
+Advanced data
+
+NPC ID | 754,3650,8763,8764,9250
+
+Link | MOID
+
+Captain Barnabyis an old sea captain who takes players betweenEast Ardougne,BrimhavenandRimmingtonby his ship. His toll is 30 coins, similar to all other ships to and from Karamja.
+
+This toll can be reduced to 15 coins by wearing any form ofKaramja gloves, obtained from theKaramja Diary. Going through his dialogue with aRing of charos(a)equipped will make the trip there and back free, not through thepay-fareoption.
+
+DuringMy Arm's Big Adventurehe takes the player andMy ArmtoKaramja, After you have finished the quest, he'll start the conversation with: "Oh no, it's you again!"
+
+After startingDragon Slayer Iand learning about Crandor, the player has the option to say "I'd rather go to Crandor Isle." Captain Barnaby responds with "No, I need to stay alive, I have a wife and family to support." This dialogue only lasts until Ned agrees to help you navigate to Crandor. Additionally, while the Crandor dialogue is an option, using theRing of charos(a)on him at Brimhaven causes him to erroneously offer to take you to Rimmington or Brimhaven, instead of Ardougne.
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.Click herefor a list of other transcripts that this NPC speaks in.
+

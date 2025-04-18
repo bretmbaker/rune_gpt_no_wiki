@@ -1,0 +1,2 @@
+Item: Common kebbit
+Summary: The common kebbit is a kebbit that players can capture with the Hunter skill at level 3 or above, granting 36 Hunter experience.

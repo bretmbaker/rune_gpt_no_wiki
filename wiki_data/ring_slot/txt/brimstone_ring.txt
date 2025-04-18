@@ -1,0 +1,196 @@
+[Weapon: Brimstone Ring]
+
+
+Abrimstone ringis aringcreated by combining three untradeable components — thehydra's eye,fang, andheart; players cannot receive a duplicate of these until obtaining each of the other pieces.
+The ring provides the combined offensive and defensive stats of thearchers,berserker,warrior,seers,treasonous, andtyrannical rings, though itcannotbe imbued.
+
+
+[Infobox]
+Released: 10 January2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A well balanced ring that aids in piercing magic defence.
+General Store Value: 10,000 coins
+High alch: 6,000 coins
+Low alch: 4,000 coins
+Weight: 0.004 kg
+Grand Exchange Value: 3,008,361 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 1,630
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +4
+- Slash: +4
+- Crush: +4
+- Magic: +6
+- Ranged: +4
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +4
+- Crush: +4
+- Magic: +6
+- Ranged: +4
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyssal Sire/Strategies(Phase 2 Magic)
+5 | Adamant dragon/Strategies(Ranged)
+5 | Adamant dragon/Strategies(Melee)
+3 | Adamant dragon/Strategies(Magic)
+4 | Adamant dragon/Strategies(Magic)
+3 | Alchemical Hydra/Strategies(Melee)
+3 | Ancient Wyvern/Strategies(Magic)
+4 | Ancient Wyvern/Strategies(Prayer)
+4 | Ancient Wyvern/Strategies(Ranged)
+4 | Aviansie/Strategies(Ranged)
+4 | Barbarian Assault/Strategies(Magic)
+5 | Barbarian Assault/Strategies(Melee (high level))
+2 | Barbarian Assault/Strategies(Melee (mid level))
+4 | Basilisk Knight/Strategies(Ranged/Prayer)
+4 | Basilisk Knight/Strategies(Melee)
+4 | Basilisk Knight/Strategies(Ranged)
+3 | Brutal black dragon/Strategies(Ranged)
+3 | Cerberus/Strategies(Melee)
+4 | Chambers of Xeric/Challenge Mode(Melee)
+4 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+4 | Chambers of Xeric/Strategies(Melee)
+5 | Chompington(Melee)
+4 | Chompy bird hunting/Strategy
+4 | Corporeal Beast/Strategies(Dolo)
+3 | Corporeal Beast/Strategies(Melee masses)
+4 | Corporeal Beast/Strategies(Fewer stat drains)
+3 | Corporeal Beast/Strategies(Ranged masses)
+3 | Corporeal Beast/Strategies(Team melee)
+3 | Corporeal Beast/Strategies(Solo melee)
+3 | Corporeal Beast/Strategies(Solo melee)
+3 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+3 | Dagannoth Kings/Strategies(Range)
+3 | Dagannoth Kings/Strategies(Magic (Rex only))
+4 | Dark beast/Strategies(Melee)
+5 | Demonic gorilla/Strategies(upgrades and downgrades)
+4 | Demonic gorilla/Strategies(upgrades and downgrades)
+4 | Deranged archaeologist/Strategies(Magic)
+5 | Down Do Specs(Melee)
+4 | Drake/Strategies(Ranged)
+3 | Drake/Strategies(Magic)
+3 | Drake/Strategies(Melee)
+3 | Galvek Speed-Trialist(Melee)
+3 | General Graardor/Strategies(Solo (Magic))
+4 | General Graardor/Strategies(Solo (Ranged 6:0))
+5 | General Graardor/Strategies(Melee Attacker)
+5 | General Graardor/Strategies(Ranged Tank)
+4 | General Graardor/Strategies(Ranged Attacker)
+4 | General Graardor/Strategies(Solo (Ranged 7:0))
+2 | Giant Mole/Strategies(Melee & Prayer Budget)
+4 | Giant Mole/Strategies(Dharok's)
+4 | Giant Mole/Strategies(Ranged)
+3 | Giant Mole/Strategies(Melee)
+3 | Giant Mole/Strategies(Ranged Void)
+3 | Glough Speed-Trialist(Melee)
+3 | Gout tuber/Strategies(Tank)
+3 | Grotesque Guardians/Strategies(Melee)
+5 | K'ril Tsutsaroth/Strategies(Melee Tank)
+5 | K'ril Tsutsaroth/Strategies(Solo Melee)
+4 | K'ril Tsutsaroth/Strategies(Melee)
+5 | Kalphite Queen/Strategies(Pre-diary Method)
+4 | Kalphite Queen/Strategies(High DPS (Phase One))
+5 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+4 | Kalphite Queen/Strategies(Verac the Defiled's)
+3 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+4 | Kalphite Queen/Strategies(Max Mage (0 switches))
+4 | Kalphite Queen/Strategies(High DPS (Phase Two))
+2 | Kalphite Queen/Strategies(Flinching)
+3 | King Black Dragon/Strategies(Melee BIS smuggle)
+3 | King Black Dragon/Strategies(Ranged BIS smuggle)
+3 | King Black Dragon/Strategies(4-item melee)
+4 | Kraken/Strategies(Magic)
+4 | Kree'arra/Strategies(Chinchompas)
+5 | Kree'arra/Strategies(Ranged Tank)
+5 | Kree'arra/Strategies(Tbow / Bowfa)
+4 | Lizardman shaman/Strategies(Melee)
+5 | Lizardman shaman/Strategies(Ranged)
+3 | Metal dragons/Strategies(Melee)
+2 | Metal dragons/Strategies(Magic)
+3 | Metal dragons/Strategies(Ranged)
+3 | The Mimic/Strategies(Magic)
+4 | The Mimic/Strategies(Ranged)
+3 | Mithril dragon/Strategies(Magic)
+3 | Mithril dragon/Strategies(Melee)
+2 | Mithril dragon/Strategies(Melee tank)
+3 | Mithril dragon/Strategies(Ranged)
+5 | Moons of Peril/Strategies(Moons of Peril Armour)
+3 | Nex/Strategies(Hybrid)
+3 | Nightmare Zone/Strategies(Magic)
+3 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+3 | Nightmare Zone/Strategies(Ranged)
+3 | Nightmare Zone/Strategies(Melee)
+3 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+3 | Nightmare Zone/Strategies(Melee (Guthan's))
+3 | Nightmare Zone/Strategies(Melee (Dharok's))
+3 | Nightmare Zone/Strategies(Melee (Prayer))
+3 | The Nightmare/Strategies(Melee)
+4 | Phantom Muspah/Strategies(Magic & Ranged)
+3 | Phosani's Nightmare/Strategies(Melee)
+2 | Rune dragon/Strategies(Magic)
+3 | Rune dragon/Strategies(Melee)
+5 | Rune dragon/Strategies(Ranged)
+3 | Sarachnis/Strategies(Melee)
+2 | Sarachnis/Strategies(Melee tank)
+3 | Scurrius/Strategies(Magic (high level))
+4 | Scurrius/Strategies(Range (high level))
+4 | Skeletal Wyvern/Strategies(Ranged (Void))
+4 | Skeletal Wyvern/Strategies(Melee)
+4 | Skeletal Wyvern/Strategies(Ranged)
+3 | Skeletal Wyvern/Strategies(Magic)
+5 | Skeleton (Ape Atoll)(Magic)
+4 | Skeleton (Ape Atoll)(Ranged)
+4 | Skotizo/Strategies(Melee)
+3 | Skotizo/Strategies(Ranged)
+4 | Slayer task/Abyssal demons(Ranged)
+5 | Slayer task/Abyssal demons(Magic)
+3 | Slayer task/Fossil Island wyverns(Magic)
+4 | Slayer task/Fossil Island wyverns(Prayer)
+4 | Slayer task/Fossil Island wyverns(Ranged)
+3 | Slayer task/Gargoyles(Melee)
+3 | Slayer task/Jellies(Melee)
+3 | Slayer task/Jellies(Ranged)
+3 | Slayer task/Suqah(Melee (South))
+3 | Slayer task/Suqah(Ranged (North))
+3 | Slayer task/Trolls(Melee (Mountain trolls))
+3 | Slayer task/Trolls(Melee (Ice trolls))
+3 | Slayer task/Wyrms(Melee)
+4 | Slayer task/Wyrms(Ranged)
+3 | Slayer training(Melee)
+3 | Slayer training(Magic (Barrage))
+3 | Slayer training(Ranged)
+3 | Smoke devil/Strategies
+3 | Thermonuclear smoke devil/Strategies(Magic)
+2 | Tombs of Amascut/Strategies(Magic switch)
+3 | Tombs of Amascut/Strategies(Melee switch)
+3 | Tormented Demon/Strategies(Melee switch)
+2 | Tormented Demon/Strategies(Magic switch)
+2 | Tormented Demon/Strategies(Ranged switch)
+4 | TzHaar Fight Cave/Strategies(Melee)
+2 | TzHaar Fight Cave/Strategies(Magic)
+4 | Vorkath/Strategies(Melee)
+5 | Vorkath/Strategies(Ranged (crossbow))
+4 | Vyrewatch Sentinel/Strategies(DPS)
+4 | Vyrewatch Sentinel/Strategies(AFK Prayer)

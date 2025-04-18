@@ -1,0 +1,88 @@
+[Weapon: Rada%27S Blessing 2]
+
+
+Rada's blessing 2is anAchievement diaryreward for completing all mediumKourend & Kebos Diarytasks. It is given byElisein theKourend Castlecourtyard, and can be retrieved for free if lost. It can be stored in atackle box.
+A number of other benefitsare always active upon claiming rewards from the medium tier of the Kourend and Kebos diary.
+
+
+[Infobox]
+Released: 10 January2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Equip, Kourend Woodland, Drop
+Worn options: Kourend Woodland
+Examine: A blessing scroll from distant lands.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Unknown
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Amoxliatl/Strategies(Melee)
+2 | Araxxor/Strategies(Melee)
+2 | Budget Cutter
+3 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Dagannoth Kings/Strategies(Range)
+2 | Dagannoth Kings/Strategies(Magic (Rex only))
+2 | Ecumenical key/Strategies(Magic)
+2 | Giant Mole/Strategies(Melee)
+2 | Giant Mole/Strategies(Magic)
+2 | King Black Dragon/Strategies(Melee BIS smuggle)
+2 | King Black Dragon/Strategies(4-item melee)
+2 | Kraken/Strategies(Magic)
+2 | Kree'arra/Strategies(Magic)
+2 | Moons of Peril/Strategies(Moons of Peril Armour)
+2 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+5 | Phantom Muspah/Strategies(Ranged)
+5 | Phantom Muspah/Strategies(Magic & Ranged)
+2 | Phantom Muspah/Strategies(Melee)
+2 | Sarachnis/Strategies(Melee)
+2 | Sarachnis/Strategies(Melee tank)
+2 | Sarachnis/Strategies(Magic)
+2 | Skeleton (Ape Atoll)(Magic)
+2 | Skotizo/Strategies(Melee)
+5 | Skotizo/Strategies(Ranged)
+2 | Slayer task/Nechryael(Melee)
+2 | Slayer task/Wyrms(Melee)
+2 | The Bane of Demons(Magic)
+2 | The Hueycoatl/Strategies(Melee)
+2 | Thermonuclear smoke devil/Strategies(Melee)
+2 | Thermonuclear smoke devil/Strategies(Magic)
+2 | TzHaar Fight Cave/Strategies(Melee)
+3 | Vardorvis/Strategies(Melee)
+3 | Volcanic Mine(Solo)
+3 | Volcanic Mine(Group)
+2 | Vorkath/Strategies(Melee)
+2 | The Whisperer/Strategies(Magic)
+2 | Zulrah/Strategies(Magic)

@@ -1,0 +1,206 @@
+{
+  "Shilo mist": {
+    "type": "fallback",
+    "txt": "random_events/txt/Shilo_mist.txt"
+  },
+  "Ent (random event)": {
+    "type": "event",
+    "txt": "random_events/txt/Ent_(random_event).txt"
+  },
+  "Sandwich lady": {
+    "type": "fallback",
+    "txt": "random_events/txt/Sandwich_lady.txt"
+  },
+  "Ferox Enclave": {
+    "type": "fallback",
+    "txt": "random_events/txt/Ferox_Enclave.txt"
+  },
+  "Quiz Master": {
+    "type": "npc",
+    "txt": "random_events/txt/Quiz_Master.txt"
+  },
+  "Freaky Forester": {
+    "type": "fallback",
+    "txt": "random_events/txt/Freaky_Forester.txt"
+  },
+  "Blast Furnace": {
+    "type": "fallback",
+    "txt": "random_events/txt/Blast_Furnace.txt"
+  },
+  "Whirlpool (random event)": {
+    "type": "event",
+    "txt": "random_events/txt/Whirlpool_(random_event).txt"
+  },
+  "Maze": {
+    "type": "fallback",
+    "txt": "random_events/txt/Maze.txt"
+  },
+  "Rogues' Den": {
+    "type": "fallback",
+    "txt": "random_events/txt/Rogues%27_Den.txt"
+  },
+  "Charcoal furnace": {
+    "type": "fallback",
+    "txt": "random_events/txt/Charcoal_furnace.txt"
+  },
+  "Underwater": {
+    "type": "fallback",
+    "txt": "random_events/txt/Underwater.txt"
+  },
+  "Big fish": {
+    "type": "fallback",
+    "txt": "random_events/txt/Big_fish.txt"
+  },
+  "Drill Demon": {
+    "type": "fallback",
+    "txt": "random_events/txt/Drill_Demon.txt"
+  },
+  "Goblin Cave": {
+    "type": "fallback",
+    "txt": "random_events/txt/Goblin_Cave.txt"
+  },
+  "Bank Deposit Box": {
+    "type": "fallback",
+    "txt": "random_events/txt/Bank_deposit_box.txt"
+  },
+  "Exploding Rock": {
+    "type": "fallback",
+    "txt": "random_events/txt/Exploding_Rock.txt"
+  },
+  "Pinball": {
+    "type": "fallback",
+    "txt": "random_events/txt/Pinball.txt"
+  },
+  "Beekeeper (disambiguation)": {
+    "type": "fallback",
+    "txt": "random_events/txt/Beekeeper.txt"
+  },
+  "Count Check (random event)": {
+    "type": "event",
+    "txt": "random_events/txt/Count_Check_(random_event).txt"
+  },
+  "Mime (Random Event)": {
+    "type": "event",
+    "txt": "random_events/txt/Mime_(Random_Event).txt"
+  },
+  "Axe handle (historical)": {
+    "type": "fallback",
+    "txt": "random_events/txt/Axe_handle_(historical).txt"
+  },
+  "Random events": {
+    "type": "event",
+    "txt": "random_events/txt/Random_event.txt"
+  },
+  "Spade handle": {
+    "type": "fallback",
+    "txt": "random_events/txt/Spade_handle.txt"
+  },
+  "Bank": {
+    "type": "fallback",
+    "txt": "random_events/txt/Bank.txt"
+  },
+  "Lost and Found": {
+    "type": "fallback",
+    "txt": "random_events/txt/Lost_and_Found.txt"
+  },
+  "Kiss the frog": {
+    "type": "fallback",
+    "txt": "random_events/txt/Kiss_the_frog.txt"
+  },
+  "Abyssal Nexus": {
+    "type": "fallback",
+    "txt": "random_events/txt/Abyssal_Nexus.txt"
+  },
+  "Golem (Ruins of Camdozaal)": {
+    "type": "fallback",
+    "txt": "random_events/txt/Golem_(Ruins_of_Camdozaal).txt"
+  },
+  "Pickaxe handle": {
+    "type": "fallback",
+    "txt": "random_events/txt/Pickaxe_handle.txt"
+  },
+  "Dr Jekyll": {
+    "type": "fallback",
+    "txt": "random_events/txt/Dr_Jekyll.txt"
+  },
+  "Strange box": {
+    "type": "fallback",
+    "txt": "random_events/txt/Strange_box.txt"
+  },
+  "Grand Exchange": {
+    "type": "fallback",
+    "txt": "random_events/txt/Grand_Exchange.txt"
+  },
+  "Giants' Foundry": {
+    "type": "fallback",
+    "txt": "random_events/txt/Giants%27_Foundry.txt"
+  },
+  "Gravedigger": {
+    "type": "fallback",
+    "txt": "random_events/txt/Gravedigger.txt"
+  },
+  "Surprise Exam": {
+    "type": "fallback",
+    "txt": "random_events/txt/Surprise_Exam.txt"
+  },
+  "Trouble Brewing": {
+    "type": "fallback",
+    "txt": "random_events/txt/Trouble_Brewing.txt"
+  },
+  "Watchman (random event)": {
+    "type": "event",
+    "txt": "random_events/txt/Watchman_(random_event).txt"
+  },
+  "Death's Office": {
+    "type": "fallback",
+    "txt": "random_events/txt/Death%27s_Office.txt"
+  },
+  "Player-owned house": {
+    "type": "fallback",
+    "txt": "random_events/txt/Player-owned_house.txt"
+  },
+  "Bee keeper": {
+    "type": "fallback",
+    "txt": "random_events/txt/Bee_keeper.txt"
+  },
+  "Swarm (random event)": {
+    "type": "event",
+    "txt": "random_events/txt/Swarm_(random_event).txt"
+  },
+  "Myths' Guild": {
+    "type": "fallback",
+    "txt": "random_events/txt/Myths%27_Guild.txt"
+  },
+  "Rake handle": {
+    "type": "fallback",
+    "txt": "random_events/txt/Rake_handle.txt"
+  },
+  "Shayzien Agility Course": {
+    "type": "fallback",
+    "txt": "random_events/txt/Shayzien_Agility_Course.txt"
+  },
+  "Genie": {
+    "type": "npc",
+    "txt": "random_events/txt/Genie.txt"
+  },
+  "Recipe for Disaster": {
+    "type": "fallback",
+    "txt": "random_events/txt/Recipe_for_Disaster.txt"
+  },
+  "Certer": {
+    "type": "fallback",
+    "txt": "random_events/txt/Certer.txt"
+  },
+  "Cap'n Hand": {
+    "type": "fallback",
+    "txt": "random_events/txt/Lost_Pirate.txt"
+  },
+  "Prison Pete": {
+    "type": "fallback",
+    "txt": "random_events/txt/Prison_Pete.txt"
+  },
+  "Lake Molch": {
+    "type": "fallback",
+    "txt": "random_events/txt/Lake_Molch.txt"
+  }
+}

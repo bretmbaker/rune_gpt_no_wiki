@@ -1,0 +1,112 @@
+Name: Dark beast
+Combat Level: 182
+Size: 3x3
+Info:
+- Description: From a darker dimension.
+
+Slayer Info:
+- Required Level: 90
+- Slayer XP: 225.4 xp
+- Category: Dark Beasts
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4005,7250
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Adamant sq shield (1/128)
+- Rune chainbody (1/128)
+- Rune med helm (1/128)
+- Rune full helm (1/128)
+- Rune 2h sword (1/128)
+- Rune battleaxe (1/128)
+- Dark bow (1/512)
+- Grimy guam leaf (1/21.3)
+- Grimy marrentill (1/28.4)
+- Grimy tarromin (1/37.9)
+- Grimy harralander (1/48.8)
+- Grimy ranarr weed (1/62.1)
+- Grimy irit leaf (1/85.3)
+- Grimy avantoe (1/113.8)
+- Grimy kwuarm (1/136.5)
+- Grimy cadantine (1/170.7)
+- Grimy lantadyme (1/227.6)
+- Grimy dwarf weed (1/227.6)
+- Toadflax seed (1/160.7)
+- Irit seed (1/236)
+- Belladonna seed (1/243.6)
+- Poison ivy seed (1/343.3)
+- Avantoe seed (1/343.3)
+- Cactus seed (1/359.6)
+- Potato cactus seed (1/503.5)
+- Kwuarm seed (1/503.5)
+- Snapdragon seed (1/755.2)
+- Cadantine seed (1/1,078.9)
+- Lantadyme seed (1/1,510.4)
+- Snape grass seed (1/1,888)
+- Dwarf weed seed (1/2,517.3)
+- Torstol seed (1/3,776)
+- Adamantite ore (1/128)
+- Death talisman (1/128)
+- Runite ore (1/128)
+- Shark (1/128)
+- Nothing (1/62.7; Never[d 1])
+- Coins (1/260.06)
+- Loop half of key (1/258.14; 1/245.16[d 2])
+- Tooth half of key (1/258.14; 1/245.16[d 2])
+- Uncut sapphire (1/147.6; 1/74.95[d 2])
+- Runite bar (1/1,092.27)
+- Nature rune (1/1,820.44)
+- Rune 2h sword (1/1,820.44)
+- Rune battleaxe (1/1,820.44)
+- Uncut emerald (1/295.21; 1/149.91[d 2])
+- Law rune (1/2,730.67)
+- Death rune (1/2,730.67)
+- Steel arrow (1/2,730.67)
+- Rune arrow (1/2,730.67)
+- Adamant javelin (1/2,730.67)
+- Rune sq shield (1/2,730.67)
+- Dragonstone (1/2,730.67)
+- Silver ore (1/2,730.67)
+- Uncut ruby (1/590.41; 1/299.82[d 2])
+- Rune kiteshield (1/5,461.33)
+- Dragon med helm (1/5,461.33)
+- Rune spear (1/5,408.52; 1/592.7[d 2][d 3])
+- Shield left half (1/10,817.03; 1/1,185.4[d 2][d 3])
+- Chaos talisman (1/1,574.44; 1/799.52[d 2][d 4])
+- Nature talisman (1/1,574.44; 1/799.52[d 2][d 4])
+- Dragon spear (1/14,422.71; 1/1,580.53[d 2][d 3])
+- Uncut diamond (1/2,361.66; 1/1,199.28[d 2])
+- Rune javelin (1/4,723.32; 1/2,398.56[d 2])
+- Crystal shard (1/24[d 1])
+- Brimstone key (1/67[d 2])
+- Clue scroll (hard) (1/128[d 3])
+- Long bone (1/400)
+- Clue scroll (elite) (1/1,200[d 4])
+- Curved bone (1/5,012.5)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 220
+Attack: 140
+Strength: 160
+Defence: 120
+Magic: 160
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

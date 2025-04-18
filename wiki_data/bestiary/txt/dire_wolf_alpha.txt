@@ -1,0 +1,37 @@
+Name: Dire Wolf Alpha
+Combat Level: 113
+Size: 3x3
+Info:
+- Description: Now that's a big one!
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 13812
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 100
+Attack: 120
+Strength: 110
+Defence: 80
+Magic: 40
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

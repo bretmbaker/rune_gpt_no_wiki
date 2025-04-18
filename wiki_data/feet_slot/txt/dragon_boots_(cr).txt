@@ -1,0 +1,45 @@
+[Weapon: Dragon Boots (Cr)]
+
+
+Dragon boots (cr)are a cosmetic variant ofdragon bootswith aBounty hunter ornament kitadded to them. The colour scheme is that of a corrupt dragon aesthetic meant to imitate the original appearance ofcorrupt dragon equipmentfromRuneScape.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle
+Examine: These will protect my feet.
+General Store Value: 21,000 coins
+High alch: 12,600 coins
+Low alch: 8,400 coins
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +16
+- Slash: +17
+- Crush: +18
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot

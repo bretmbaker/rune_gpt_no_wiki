@@ -1,0 +1,2 @@
+Item: Mittens
+Summary: Mittens is a cat fighting in the Varrock Rat Pits. He chases around rats in an attempt to fight them, but always deals 0 damage. He is occasionally killed by the rats, but respawns shortly afterwards.

@@ -1,0 +1,153 @@
+Name: Dust devil
+Combat Level: 93
+Size: 1x1
+Info:
+- Description: The vacuumed face of evil.
+
+Slayer Info:
+- Required Level: 65
+- Slayer XP: 105 xp
+- Category: Dust Devils
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 423
+- Link: MOID
+
+Location:
+- Area: Smoke Dungeon
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Black d'hide vambraces (1/128)
+- Mystic air staff (1/128)
+- Mystic earth staff (1/128)
+- Dragon dagger (1/128)
+- Dust battlestaff (1/4,000[2])
+- Dragon chainbody (1/32,768)
+- Fire rune (1/128)
+- Soul rune (1/128)
+- Grimy guam leaf (1/26.9)
+- Grimy marrentill (1/35.9)
+- Grimy tarromin (1/47.9)
+- Grimy harralander (1/61.6)
+- Grimy ranarr weed (1/78.4)
+- Grimy irit leaf (1/107.8)
+- Grimy avantoe (1/143.7)
+- Grimy kwuarm (1/172.5)
+- Grimy cadantine (1/215.6)
+- Grimy lantadyme (1/287.4)
+- Grimy dwarf weed (1/287.4)
+- Adamantite bar (1/128)
+- Nothing (1/23.32; Never[d 1])
+- Uncut sapphire (1/46.55; 1/23.64[d 2])
+- Uncut emerald (1/93.09; 1/47.27[d 2])
+- Uncut ruby (1/186.18; 1/94.55[d 2])
+- Uncut diamond (1/744.73; 1/378.18[d 2])
+- Nature talisman (1/496.48; 1/252.12[d 2])
+- Loop half of key (1/1,489.45; 1/756.36[d 2])
+- Tooth half of key (1/1,489.45; 1/756.36[d 2])
+- Rune javelin (1/1,489.45; 1/756.36[d 2])
+- Rune spear (1/23,831.27; 1/1,418.18[d 2][d 3])
+- Shield left half (1/47,662.55; 1/2,836.36[d 2][d 3])
+- Dragon spear (1/63,550.06; 1/3,781.82[d 2][d 3])
+- Brimstone key (1/87; 1/78[d 1])
+- Ancient shard (1/246)
+- Dark totem base (1/370)
+- Dark totem middle (1/370)
+- Dark totem top (1/370)
+- Black d'hide vambraces (1/126)
+- Mystic air staff (1/126)
+- Mystic earth staff (1/126)
+- Dragon dagger (1/126)
+- Dust battlestaff (1/4,000[3])
+- Dragon chainbody (1/32,768)
+- Fire rune (1/126)
+- Soul rune (1/126)
+- Grimy guam leaf (1/26.5)
+- Grimy marrentill (1/35.4)
+- Grimy tarromin (1/47.2)
+- Grimy harralander (1/60.6)
+- Grimy ranarr weed (1/77.2)
+- Grimy irit leaf (1/106.1)
+- Grimy avantoe (1/141.5)
+- Grimy kwuarm (1/169.8)
+- Grimy cadantine (1/212.2)
+- Grimy lantadyme (1/282.9)
+- Grimy dwarf weed (1/282.9)
+- Nothing (16,321/2,064,384)
+- Adamantite bar (1/126)
+- Nothing (1/22.95; Never[d 1])
+- Uncut sapphire (1/45.82; 1/23.27[d 2])
+- Uncut emerald (1/91.64; 1/46.53[d 2])
+- Uncut ruby (1/183.27; 1/93.07[d 2])
+- Uncut diamond (1/733.09; 1/372.27[d 2])
+- Nature talisman (1/488.73; 1/248.18[d 2])
+- Loop half of key (1/1,466.18; 1/744.55[d 2])
+- Tooth half of key (1/1,466.18; 1/744.55[d 2])
+- Rune javelin (1/1,466.18; 1/744.55[d 2])
+- Rune spear (1/23,458.91; 1/1,396.02[d 2][d 3])
+- Shield left half (1/46,917.82; 1/2,792.05[d 2][d 3])
+- Dragon spear (1/62,557.09; 1/3,722.73[d 2][d 3])
+- Larran's key (1/69)
+- Slayer's enchantment (1/236)
+- Blighted anglerfish (~1/11.6)
+- Blighted manta ray (~1/11.6)
+- Blighted karambwan (~1/17.3)
+- Blighted teleport spell sack (~1/17.3)
+- Blighted ancient ice sack (~1/17.3)
+- Blighted vengeance sack (~1/17.3)
+- Blighted entangle sack (~1/8.7)
+- Blighted super restore(4) (~1/34.7)
+- Revenant cave teleport (~1/34.7)
+- Dareeyak teleport (tablet) (~1/173.4)
+- Wilderness crabs teleport (~1/173.4)
+- Carrallanger teleport (tablet) (~1/173.4)
+- Paddewwa teleport (tablet) (~1/173.4)
+- Annakarl teleport (tablet) (~1/173.4)
+- Lassar teleport (tablet) (~1/173.4)
+- Kharyrll teleport (tablet) (~1/173.4)
+- Senntisten teleport (tablet) (~1/173.4)
+- Ghorrock teleport (tablet) (~1/173.4)
+- Target teleport (~1/173.4)
+- Magic shortbow scroll (~1/433.6)
+- Ring of wealth scroll (~1/433.6)
+- Trouver parchment (~1/1,734.4)
+- Looting bag note (~1/1,734.4)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 105
+Attack: 105
+Strength: 70
+Defence: 40
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

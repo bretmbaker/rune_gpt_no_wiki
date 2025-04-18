@@ -1,0 +1,111 @@
+[Weapon: Combat Bracelet#(1)]
+
+
+Thecombat braceletis adragonstone braceletenchanted by the spellLvl-5 Enchant.
+A combat bracelet can be recharged at thetotem polein theLegends' Guild, or at theFountain of Uhldin theMyths' Guild, giving it four charges. Players who have completedLegends' Questcan also recharge it at theFountain of Rune, giving it six charges, or by castingRecharge Dragonstone, giving it four charges.
+
+
+[Infobox]
+Released: 30 April2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Rub, Drop
+Worn options: Rub
+Examine: You will need to recharge the bracelet at the Legends Guild.
+General Store Value: 21,040 coins
+High alch: 12,624 coins
+Low alch: 8,416 coins
+Weight: 0.25 kg
+Grand Exchange Value: 12,219 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 106,158
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +7
+- Slash: +7
+- Crush: +7
+- Magic: +3
+- Ranged: +7
+
+Defence Bonuses:
+- Stab: +5
+- Slash: +5
+- Crush: +5
+- Magic: +3
+- Ranged: +5
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyssal Sire/Strategies(Phase 2 Ranged)
+5 | Amoxliatl/Strategies(Melee)
+4 | Artio/Strategies(Magic)
+4 | Barbarian Assault/Strategies(Magic)
+3 | Barbarian Assault/Strategies(Melee (mid level))
+4 | Barrows/Strategies(Ranged (Ahrim))
+3 | Barrows/Strategies(Tank & Lower level)
+4 | Budget Cutter
+4 | Callisto/Strategies(Magic)
+4 | Calvar'ion/Strategies(Melee)
+5 | Cerberus/Strategies(Ranged)
+3 | Chaos Elemental/Strategies(Melee)
+5 | Corporeal Beast/Strategies(Solo melee)
+4 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+5 | Dagannoth Kings/Strategies(Range)
+4 | Dagannoth Kings/Strategies(Magic (Rex only))
+4 | Dark beast/Strategies(Melee)
+5 | Deranged archaeologist/Strategies(Magic)
+4 | Giant Mole/Strategies(Melee & Prayer Budget)
+5 | Giant Mole/Strategies(Dharok's)
+3 | Green dragon/Strategies(Melee)
+5 | King Black Dragon/Strategies(4-item melee)
+5 | Kraken/Strategies(Magic)
+3 | Krystilia/Strategies(Magic)
+3 | Lava dragon/Strategies(Melee)
+5 | Metal dragons/Strategies(Melee)
+5 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+5 | Nightmare Zone/Strategies(Melee)
+5 | Nightmare Zone/Strategies(Melee (Dharok's))
+4 | The Nightmare/Strategies(Melee)
+5 | Phantom Muspah/Strategies(Ranged)
+4 | Phantom Muspah/Strategies(Magic & Ranged)
+4 | Phosani's Nightmare/Strategies(Melee)
+5 | Sarachnis/Strategies(Melee tank)
+4 | Scorpia/Strategies(Magic)
+3 | Scurrius/Strategies(Magic (mid level))
+5 | Scurrius/Strategies(Melee (mid level))
+5 | Skeletal Wyvern/Strategies(Magic)
+5 | Skotizo/Strategies(Melee)
+4 | Slayer task/Wyrms(Melee)
+4 | Slayer task/Wyrms(Ranged)
+4 | Slayer training(Melee)
+3 | Spindel/Strategies(Melee)
+4 | The Bane of Demons(Magic)
+5 | The Hueycoatl/Strategies(Melee)
+5 | Thermonuclear smoke devil/Strategies(Magic)
+4 | Tombs of Amascut/Strategies(Magic switch)
+4 | Tombs of Amascut/Strategies(Melee switch)
+3 | Tormented Demon/Strategies(Melee switch)
+3 | Tormented Demon/Strategies(Magic switch)
+3 | Tormented Demon/Strategies(Ranged switch)
+5 | TzHaar Fight Cave/Strategies(Pure)
+2 | TzHaar Fight Cave/Strategies(Early-game iron)
+3 | Venenatis/Strategies(Melee)
+4 | Vet'ion/Strategies(Melee)
+5 | The Whisperer/Strategies(Magic)
+3 | Zulrah/Strategies(Magic)

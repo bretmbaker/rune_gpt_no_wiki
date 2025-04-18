@@ -1,0 +1,54 @@
+[Weapon: Shoulder Parrot]
+
+
+TheShoulder parrotis a rare reward obtained frombeginnerTreasure Trails. It is worn in the cape slot. It is purely cosmetic and has no bonuses.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Polly want a cracker?
+General Store Value: 1,000 coins
+High alch: 600 coins
+Low alch: 400 coins
+Weight: 0.453 kg
+Grand Exchange Value: 416,855 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 160
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (beginner) | N/A | 1 | 1/360 | 

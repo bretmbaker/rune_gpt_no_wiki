@@ -1,0 +1,259 @@
+[Spell: Ice_ancient_sceptre]
+
+Ice ancient sceptre
+
+
+
+
+
+
+
+Released | 26 July2023(Update)
+
+Members | Yes
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | No
+
+Equipable | Yes
+
+Stackable | No
+
+Noteable | No
+
+Options | Wield, Dismantle, Drop
+
+Examine | A very old and powerful stick, enhanced with the power of ice magic.
+
+
+
+Values
+
+
+
+Value | 200,000 coins
+
+Alchemy | Not alchemisable
+
+Weight | 2.267 kg
+
+
+
+Advanced data
+
+
+
+Item ID | 28262
+
+Link | MOID
+
+
+
+Theice ancient sceptreis a sceptre requiring 75Magic, 60Strength, and 50Attackto wield. It is made by attaching theice quartz, dropped byDuke Sucellus, to theancient sceptre; this process can be reversed, allowing players to switch between quartzes as desired.
+
+Like its predecessor, theancient sceptre, it will increase the effects ofAncient Magicksby 10%, with an additional 10% accuracy bonus given toice spellson targets that can be frozen and are not currently frozen.
+
+The ice ancient sceptre finds practical use in theInfernofor an accurate and consistent option to freeze theJal-Nibsat the start of rounds, and against other players in theWilderness.
+
+If the player dies below level 20Wilderness, it will remain in the player's inventory; however, the item will be unusable and must be repaired by using it onPerduand paying him267,396. If not protected when the player dies at level 20 Wilderness or higher, the sceptre is converted intocoins. Alternatively, aTrouver parchmentand a payment of 500,000 coins can be given toPerduin order to lock it (after which it gains the (l) suffix); this allows the item to be kept in death, unbroken, even if the player dies at level 20 Wilderness or higher.
+
+Combat stats[edit|edit source]
+
+Attack bonuses |  | 
+
+
+
+ |  |  |  | 
+
++20 | -1 | +50 | +20 | +0
+
+
+
+Defence bonuses
+
+
+
+ |  |  |  | 
+
++2 | +3 | +1 | +15 | +0
+
+
+
+Other bonuses | Slot
+
+
+
+ |  |  |  | 
+
++60 | +0 | +5% | -1 | List
+
+
+
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+
+ | Bash | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+
+ | Pound | Crush | Aggressive |  | +3 Strength
+
+ | Focus | Crush | Defensive |  | +3 Defence
+
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+
+ | Spell | Magic | Autocast |  | None
+
+Autocasting options
+
+ |  | 
+
+Passive effect[edit|edit source]
+
+These passive effects are inherited from theAncient sceptre.
+
+Spell | Buffed effect
+
+Ice Rush | Ice Rush receives no buff from using the sceptre due to rounding.
+
+Ice Burst | Opponent is frozen for an additional 1 tick, 17ticks(10.2 seconds) instead of 16 ticks (9.6 seconds).
+
+Ice Blitz | Opponent is frozen for an additional 2 ticks,  26 ticks (15.6 seconds) instead of 24 ticks (14.4 seconds).
+
+Ice Barrage | Opponent is frozen for an additional 3 ticks,  35 ticks (21 seconds) instead of 32 ticks (19.2 seconds).
+
+Creation[edit|edit source]
+
+Used in recommended equipment[edit|edit source]
+
+Rank | Method
+
+3 | Inferno/Strategies(Learners)
+
+3 | Inferno/Strategies(On task)
+
+3 | Slayer task/Jellies(Magic)
+
+3 | Theatre of Blood/Hard Mode(Magic)
+
+Changes[edit|edit source]
+
+Date | Changes
+
+19 June2024(update) | The regular, non-locked variant of the sceptre can now be dismantled to return the component items.
+
+16 August2023(update) | The item can now be locked with atrouver parchment.The item now has its ownbankplaceholder.
+
+Trivia[edit|edit source]
+
+The concept of ice penetration was brought up but did not pass thepolls.
+
+v•t•eMagicweapons
+
+Staves | Staff(+4)Magic(+10)Bob the Cat(+10)Iban's(u)(+10)White(+10)Slayer's(e)(+12)Twinflame(+12)Ancient(+15)Bryophyta's(+15)Toktz-mej-tal(+15)Thammaron's (a)(+15)Ahrim's(echo)(+15)Nightmare(+16)Zuriel's(+18)Accursed (a)(+22)Purging(+37)Elemental stavesAir(+10)Water(+10)Earth(+10)Fire(+10)God stavesGuthix(+6)Saradomin(+6)Zamorak(+6) |  | Staff(+4)Magic(+10)Bob the Cat(+10)Iban's(u)(+10)White(+10)Slayer's(e)(+12)Twinflame(+12)Ancient(+15)Bryophyta's(+15)Toktz-mej-tal(+15)Thammaron's (a)(+15)Ahrim's(echo)(+15)Nightmare(+16)Zuriel's(+18)Accursed (a)(+22)Purging(+37) | Elemental staves | Air(+10)Water(+10)Earth(+10)Fire(+10) | God staves | Guthix(+6)Saradomin(+6)Zamorak(+6)
+
+ | Staff(+4)Magic(+10)Bob the Cat(+10)Iban's(u)(+10)White(+10)Slayer's(e)(+12)Twinflame(+12)Ancient(+15)Bryophyta's(+15)Toktz-mej-tal(+15)Thammaron's (a)(+15)Ahrim's(echo)(+15)Nightmare(+16)Zuriel's(+18)Accursed (a)(+22)Purging(+37)
+
+Elemental staves | Air(+10)Water(+10)Earth(+10)Fire(+10)
+
+God staves | Guthix(+6)Saradomin(+6)Zamorak(+6)
+
+Battlestaves | Battlestaff(+12)Air(+12)Water(+12)Earth(+12)Fire(+12)Lava(or)(+12)Mud(+12)Steam(or)(+12)Smoke(+12)Mist(+12)Dust(+12)
+
+Mystic staves | Air(+14)Water(+14)Earth(+14)Fire(+14)Lava(or)(+14)Mud(+14)Steam(or)(+14)Smoke(+14)Mist(+14)Dust(+14)
+
+Powered staves | Starter staff(+10)Warped sceptre(+12)Bone staff(+14)Thammaron's sceptre(+15)Trident of the seas(e)(+15)Accursed sceptre(+22)Trident of the swamp(e)(+25)Sanguinesti staff(holy)(+25)Dawnbringer(+25)Tumeken's shadow(+35)The GauntletCrystal staff (basic)(+84)Crystal staff (attuned)(+128)Crystal staff (perfected)(+184) |  | Starter staff(+10)Warped sceptre(+12)Bone staff(+14)Thammaron's sceptre(+15)Trident of the seas(e)(+15)Accursed sceptre(+22)Trident of the swamp(e)(+25)Sanguinesti staff(holy)(+25)Dawnbringer(+25)Tumeken's shadow(+35) | The Gauntlet | Crystal staff (basic)(+84)Crystal staff (attuned)(+128)Crystal staff (perfected)(+184)
+
+ | Starter staff(+10)Warped sceptre(+12)Bone staff(+14)Thammaron's sceptre(+15)Trident of the seas(e)(+15)Accursed sceptre(+22)Trident of the swamp(e)(+25)Sanguinesti staff(holy)(+25)Dawnbringer(+25)Tumeken's shadow(+35)
+
+The Gauntlet | Crystal staff (basic)(+84)Crystal staff (attuned)(+128)Crystal staff (perfected)(+184)
+
+Bladed staves | Staff of the dead(+17)Staff of light(+17)Staff of balance(+17)Toxic staff of the dead(+25)Blue moon(+30)
+
+Wands | Beginner(+5)Apprentice(+10)Teacher(+15)Dragon hunter(+16)Master(+20)3rd age(+20)Kodai(+28)
+
+Croziers | Ancient(+10)Armadyl(+10)Bandos(+10)Guthix(+10)Saradomin(+10)Zamorak(+10)
+
+Other | Cursed goblin staff(+0)Salamanders(+0)Rod of ivandis(+4)Ivandis flail(+8)Blisterwood flail(+8)Void knight mace(+8)Dramen(+10)Skull sceptre(i)(+10)Pharaoh's sceptre(+10)Lunar(+13)Ancient sceptre(smoke) (shadow) (blood) (ice)(+20)
+
+v•t•eThe Forgotten Four
+
+Bosses | The LeviathanThe WhispererVardorvisDuke SucellusFight elementsAbyssal pathfinderTailShadow tentacleCorrupted seedFloating ColumnLost SoulLarge TendrilVardorvis' HeadExtremityFermentation VatArder mushroomsMusca mushroomsSalt Deposit |  | The LeviathanThe WhispererVardorvisDuke Sucellus | Fight elements | Abyssal pathfinderTailShadow tentacleCorrupted seedFloating ColumnLost SoulLarge TendrilVardorvis' HeadExtremityFermentation VatArder mushroomsMusca mushroomsSalt Deposit
+
+ | The LeviathanThe WhispererVardorvisDuke Sucellus
+
+Fight elements | Abyssal pathfinderTailShadow tentacleCorrupted seedFloating ColumnLost SoulLarge TendrilVardorvis' HeadExtremityFermentation VatArder mushroomsMusca mushroomsSalt Deposit
+
+Rewards | Virtus robesMaskRobe topRobe bottomAncient ringsVenatorBellatorUltorMagusVestigesVenatorBellatorUltorMagusFremennik iconsArchersWarriorBerserkerSeersAncient iconsVenatorBellatorUltorMagusAxe partsSoulreaper axeLeviathan's lureSiren's staffExecutioner's axe headEye of the DukeQuartzesSmokeShadowBloodIceAncient sceptresSmokeShadowBloodIceTabletsScarredSirenicStrangledFrozenPetsLil'viathanWispButchBaronOtherChromium ingotAwakener's orbAncient blood ornament kitSanguine Torva armourFull helmPlatebodyPlatelegs | Virtus robes | MaskRobe topRobe bottom | Ancient rings | VenatorBellatorUltorMagusVestigesVenatorBellatorUltorMagusFremennik iconsArchersWarriorBerserkerSeersAncient iconsVenatorBellatorUltorMagus |  | VenatorBellatorUltorMagus | Vestiges | VenatorBellatorUltorMagus | Fremennik icons | ArchersWarriorBerserkerSeers | Ancient icons | VenatorBellatorUltorMagus | Axe parts | Soulreaper axeLeviathan's lureSiren's staffExecutioner's axe headEye of the Duke | Quartzes | SmokeShadowBloodIceAncient sceptresSmokeShadowBloodIce |  | SmokeShadowBloodIce | Ancient sceptres | SmokeShadowBloodIce | Tablets | ScarredSirenicStrangledFrozen | Pets | Lil'viathanWispButchBaron | Other | Chromium ingotAwakener's orbAncient blood ornament kitSanguine Torva armourFull helmPlatebodyPlatelegs |  | Chromium ingotAwakener's orbAncient blood ornament kit | Sanguine Torva armour | Full helmPlatebodyPlatelegs
+
+Virtus robes | MaskRobe topRobe bottom
+
+Ancient rings | VenatorBellatorUltorMagusVestigesVenatorBellatorUltorMagusFremennik iconsArchersWarriorBerserkerSeersAncient iconsVenatorBellatorUltorMagus |  | VenatorBellatorUltorMagus | Vestiges | VenatorBellatorUltorMagus | Fremennik icons | ArchersWarriorBerserkerSeers | Ancient icons | VenatorBellatorUltorMagus
+
+ | VenatorBellatorUltorMagus
+
+Vestiges | VenatorBellatorUltorMagus
+
+Fremennik icons | ArchersWarriorBerserkerSeers
+
+Ancient icons | VenatorBellatorUltorMagus
+
+Axe parts | Soulreaper axeLeviathan's lureSiren's staffExecutioner's axe headEye of the Duke
+
+Quartzes | SmokeShadowBloodIceAncient sceptresSmokeShadowBloodIce |  | SmokeShadowBloodIce | Ancient sceptres | SmokeShadowBloodIce
+
+ | SmokeShadowBloodIce
+
+Ancient sceptres | SmokeShadowBloodIce
+
+Tablets | ScarredSirenicStrangledFrozen
+
+Pets | Lil'viathanWispButchBaron
+
+Other | Chromium ingotAwakener's orbAncient blood ornament kitSanguine Torva armourFull helmPlatebodyPlatelegs |  | Chromium ingotAwakener's orbAncient blood ornament kit | Sanguine Torva armour | Full helmPlatebodyPlatelegs
+
+ | Chromium ingotAwakener's orbAncient blood ornament kit
+
+Sanguine Torva armour | Full helmPlatebodyPlatelegs
+
+Music | Colossus of the DeepSong of the Silent ChoirBlood RushEye See You
+
+Scoreboards | The LeviathanThe WhispererVardorvisDuke Sucellus
+
+v•t•eUpgraded equipment
+
+Upgrade items | StonesPrimordial crystalEternal crystalPegasian crystalBlack tourmaline coreSmouldering stoneCrystal tool seedBlood shardSmoke quartzShadow quartzBlood quartzIce quartzEcho crystalMonster partsAraxyte fangKraken tentacleMagic fangDrake's clawDrake's toothHydra tailNihil hornBasilisk jawDragon metalLumpSliceShardOtherGuthixian iconSaradomin's lightKodai insigniaRunescroll of swampbarkRunescroll of bloodbarkArmadylean plateBandosian componentsAncient icon | Stones | Primordial crystalEternal crystalPegasian crystalBlack tourmaline coreSmouldering stoneCrystal tool seedBlood shardSmoke quartzShadow quartzBlood quartzIce quartzEcho crystal | Monster parts | Araxyte fangKraken tentacleMagic fangDrake's clawDrake's toothHydra tailNihil hornBasilisk jaw | Dragon metal | LumpSliceShard | Other | Guthixian iconSaradomin's lightKodai insigniaRunescroll of swampbarkRunescroll of bloodbarkArmadylean plateBandosian componentsAncient icon
+
+Stones | Primordial crystalEternal crystalPegasian crystalBlack tourmaline coreSmouldering stoneCrystal tool seedBlood shardSmoke quartzShadow quartzBlood quartzIce quartzEcho crystal
+
+Monster parts | Araxyte fangKraken tentacleMagic fangDrake's clawDrake's toothHydra tailNihil hornBasilisk jaw
+
+Dragon metal | LumpSliceShard
+
+Other | Guthixian iconSaradomin's lightKodai insigniaRunescroll of swampbarkRunescroll of bloodbarkArmadylean plateBandosian componentsAncient icon
+
+Equipment | WeaponsAbyssal tentacleTrident of the seas (e)Trident of the swamp(enhanced)Toxic staff of the deadStaff of balanceStaff of lightKodai wandZaryte crossbowAncient sceptre(Smoke)(Shadow)(Blood)(Ice)ArmourDragonPlatebodyKiteshieldSwampbarkHelmBodyLegsGauntletsBootsBloodbarkHelmBodyLegsGauntletsBootsMasoriMaskBodyChapsTorvaFull HelmPlatebodyPlatelegsPrimordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguardToolsInfernal pickaxeInfernal axeInfernal harpoonCrystal pickaxeCrystal axeCrystal felling axeCrystal harpoonOtherAmulet of blood furyAmulet of rancourBonecrusher necklace | Weapons | Abyssal tentacleTrident of the seas (e)Trident of the swamp(enhanced)Toxic staff of the deadStaff of balanceStaff of lightKodai wandZaryte crossbowAncient sceptre(Smoke)(Shadow)(Blood)(Ice) | Armour | DragonPlatebodyKiteshieldSwampbarkHelmBodyLegsGauntletsBootsBloodbarkHelmBodyLegsGauntletsBootsMasoriMaskBodyChapsTorvaFull HelmPlatebodyPlatelegsPrimordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguard | Dragon | PlatebodyKiteshield | Swampbark | HelmBodyLegsGauntletsBoots | Bloodbark | HelmBodyLegsGauntletsBoots | Masori | MaskBodyChaps | Torva | Full HelmPlatebodyPlatelegs |  | Primordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguard | Tools | Infernal pickaxeInfernal axeInfernal harpoonCrystal pickaxeCrystal axeCrystal felling axeCrystal harpoon | Other | Amulet of blood furyAmulet of rancourBonecrusher necklace
+
+Weapons | Abyssal tentacleTrident of the seas (e)Trident of the swamp(enhanced)Toxic staff of the deadStaff of balanceStaff of lightKodai wandZaryte crossbowAncient sceptre(Smoke)(Shadow)(Blood)(Ice)
+
+Armour | DragonPlatebodyKiteshieldSwampbarkHelmBodyLegsGauntletsBootsBloodbarkHelmBodyLegsGauntletsBootsMasoriMaskBodyChapsTorvaFull HelmPlatebodyPlatelegsPrimordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguard | Dragon | PlatebodyKiteshield | Swampbark | HelmBodyLegsGauntletsBoots | Bloodbark | HelmBodyLegsGauntletsBoots | Masori | MaskBodyChaps | Torva | Full HelmPlatebodyPlatelegs |  | Primordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguard
+
+Dragon | PlatebodyKiteshield
+
+Swampbark | HelmBodyLegsGauntletsBoots
+
+Bloodbark | HelmBodyLegsGauntletsBoots
+
+Masori | MaskBodyChaps
+
+Torva | Full HelmPlatebodyPlatelegs
+
+ | Primordial bootsEternal bootsPegasian bootsGuardian bootsEcho bootsBoots of brimstoneDevout bootsNeitiznot faceguard
+
+Tools | Infernal pickaxeInfernal axeInfernal harpoonCrystal pickaxeCrystal axeCrystal felling axeCrystal harpoon
+
+Other | Amulet of blood furyAmulet of rancourBonecrusher necklace

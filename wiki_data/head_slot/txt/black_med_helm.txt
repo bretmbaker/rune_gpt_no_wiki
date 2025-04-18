@@ -1,0 +1,66 @@
+[Weapon: Black Med Helm]
+
+
+Ablack med helmis the sixth-strongestmed helm. It requires aDefencelevel of 10 to wear, and can be purchased fromSeddu's Adventurers' StoreinNardahfor 576 coins. It can be received as an uncommon drop fromdark warriors, and a common drop frommutated bloodvelds. It can also be obtained throughshade burning, and is quite commonly found at theDigsite.
+
+
+[Infobox]
+Released: 27 February2002(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A medium sized helmet.
+General Store Value: 576 coins
+High alch: 345 coins
+Low alch: 230 coins
+Weight: 1.814 kg
+Grand Exchange Value: 229 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 265
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +10
+- Crush: +8
+- Magic: -1
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Dark warriorGreat Kourend | 37; 51; 62 | 1 | 1/128 | 
+Dark warriorLow level | 8 | 1 | 1/128 | 
+Dark warriorHigh level | 145 | 1 | 1/128 | 
+Gang boss | 76; 83 | 1 | 8/256 | 
+Gangster | 45; 50 | 1 | 8/256 | 
+Insatiable mutated Bloodveld | 278 | 1 | 3 × 5/128 | 
+Mutated Bloodveld | 123 | 1 | 5/128 | 
+Reward casket (beginner) | N/A | 1 | 11/8,856 | 
+SoilLevel 3 digs | 1 | 1 | 1/20 | 
+Steel Chest (black) | N/A | 1 | 7/134.46;7/129.29 | 
+Steel Chest (brown) | N/A | 1 | 7/134.39;7/129.22 | 
+Steel Chest (crimson) | N/A | 1 | 7/134.43;7/129.25 | 
+Steel Chest (purple) | N/A | 1 | 7/134.5;7/129.33 | 
+Steel Chest (red) | N/A | 1 | 7/134.35;7/129.19 | 

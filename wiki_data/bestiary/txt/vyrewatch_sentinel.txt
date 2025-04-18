@@ -1,0 +1,126 @@
+Name: Vyrewatch Sentinel
+Combat Level: 151
+Size: 1x1
+Info:
+- Description: A deadly, bloodsucking vampyre.
+
+Slayer Info:
+- Required Level: 38
+- Slayer XP: 150 xp
+- Category: Vampyres
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Thralls: Immune
+- Monster ID: 9756
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guide is available for Vyrewatch Sentinel:
+
+Notable Drops:
+- Blood shard (1/1,500[1])
+- Rune full helm (1/93)
+- Rune kiteshield (1/93)
+- Grimy guam leaf (1/372)
+- Grimy marrentill (1/496)
+- Grimy tarromin (1/661.3)
+- Grimy harralander (1/850.3)
+- Grimy ranarr weed (1/1,082.2)
+- Grimy irit leaf (1/1,488)
+- Grimy avantoe (1/1,984)
+- Grimy kwuarm (1/2,380.8)
+- Grimy cadantine (1/2,976)
+- Grimy lantadyme (1/3,968)
+- Grimy dwarf weed (1/3,968)
+- Limpwurt seed (1/711.4)
+- Strawberry seed (1/744)
+- Marrentill seed (1/779.7)
+- Jangerberry seed (1/1,059.4)
+- Tarromin seed (1/1,146.6)
+- Wildblood seed (1/1,174.3)
+- Watermelon seed (1/1,547)
+- Harralander seed (1/1,740.4)
+- Snape grass seed (1/2,436.6)
+- Ranarr seed (1/2,499.1)
+- Whiteberry seed (1/2,866.6)
+- Mushroom spore (1/3,360.8)
+- Toadflax seed (1/3,609.8)
+- Belladonna seed (1/5,414.7)
+- Irit seed (1/5,414.7)
+- Poison ivy seed (1/7,497.2)
+- Avantoe seed (1/8,122)
+- Cactus seed (1/8,122)
+- Kwuarm seed (1/10,829.3)
+- Potato cactus seed (1/12,183)
+- Snapdragon seed (1/19,492.8)
+- Cadantine seed (1/24,366)
+- Lantadyme seed (1/32,488)
+- Dwarf weed seed (1/48,732)
+- Torstol seed (1/97,464)
+- Coins (21/93)
+- Nothing (1/512.58; Never[d 1])
+- Coins (1/566.86)
+- Loop half of key (1/590.59; 1/586.18[d 2])
+- Tooth half of key (1/590.59; 1/586.18[d 2])
+- Uncut sapphire (1/2,380.8; 1/1,209[d 2])
+- Runite bar (1/2,380.8)
+- Nature rune (1/3,968)
+- Rune 2h sword (1/3,968)
+- Rune battleaxe (1/3,968)
+- Uncut emerald (1/4,761.6; 1/2,418[d 2])
+- Law rune (1/5,952)
+- Death rune (1/5,952)
+- Steel arrow (1/5,952)
+- Rune arrow (1/5,952)
+- Adamant javelin (1/5,952)
+- Rune sq shield (1/5,952)
+- Dragonstone (1/5,952)
+- Silver ore (1/5,952)
+- Uncut ruby (1/9,523.2; 1/4,836[d 2])
+- Rune kiteshield (1/11,904)
+- Dragon med helm (1/11,904)
+- Rune spear (1/12,566.7; 1/1,458.09[d 2])
+- Shield left half (1/25,133.39; 1/2,916.18[d 2])
+- Nature talisman (1/25,395.2; 1/12,896[d 2])
+- Dragon spear (1/33,511.19; 1/3,888.24[d 2])
+- Uncut diamond (1/38,092.8; 1/19,344[d 2])
+- Rune javelin (1/76,185.6; 1/38,688[d 2])
+- Brimstone key (1/72[d 1])
+- Clue scroll (hard) (1/100[d 2])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 150
+Attack: 120
+Strength: 160
+Defence: 180
+Magic: 120
+Ranged: 120
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

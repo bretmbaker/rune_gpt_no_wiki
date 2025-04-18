@@ -1,0 +1,161 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+The Slug Menace (#111)
+
+
+
+
+
+Released | 20 September 2006 ( Update )
+
+Members | Yes
+
+Quest series | Temple Knight , #4
+
+Lead developer(s) | Chris LC
+
+
+
+The Slug Menace is the fourth quest in the Temple Knight quest series as well as the sequel to Sea Slug , and was the update to greatly expand upon the small fishing village of Witchaven .
+
+Details [ edit | edit source ]
+
+Start point | Speak to Sir Tiffy Cashien in Falador Park . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Medium
+
+Description | The small village of Witchaven was all but deserted when the Fishing Platform was built a short ways off the coast. Now, some of the inhabitants of the village have been acting somewhat strangely....
+
+Requirements | Completion of the following quests: Wanted! Recruitment Drive Black Knights' Fortress Druidic Ritual The Lost Tribe Rune Mysteries Goblin Diplomacy Enter the Abyss Priest in Peril Sea Slug 30 Crafting ( not boostable ) 30 Runecraft ( not boostable ) ( required to start ) 30 Slayer ( not boostable ) ( required to start ) 30 Thieving ( not boostable ) The ability to defeat a level 62 enemy with Melee . You must have the Commorb in your inventory to start the quest.
+
+Items required | Commorb (can get another by speaking to Sir Tiffy ) Swamp paste (not consumed) Dead sea slug (obtainable during the quest) At least 5 rune / pure essence (bring 15–20 in case they shatter; succeeding with 5 is very unlikely) Chisel 5 open inventory slots Access to the Air , Water , Earth , Fire and Mind Altars Elemental talisman OR Air , Water , Earth and Fire talismans or tiaras Mind talisman or tiara OR Travelling through the Abyss or using a Runecraft cape OR Access to Guardians of the Rift
+
+Recommended | 35 Combat level Charged abyssal bracelet if going through the Abyss Stamina or energy potions Fast travel to several locations Falador ( Falador teleport ) Witchaven ( Ardougne teleport or fairy rings to B L R ) Outpost ( necklace of passage ) Ring of the Elements Air Altar (Falador teleport, skills necklace to the Crafting Guild or travelling through the Abyss ) Water Altar ( Lumbridge teleport , necklace of passage to the Wizards' Tower or the Abyss) Earth Altar ( Varrock teleport , Lumberyard teleport , Digsite pendant , balloon transport system or the Abyss) Fire Altar ( ring of dueling or amulet of glory to Al Kharid, gnome glider or the Abyss) Mind Altar ( Mind Altar teleport tablet , Falador teleport or the Abyss) Abyss, if using that method (amulet of glory to Edgeville, ring of wealth to the Grand Exchange or fairy rings to D K R ) Wizard's Tower, if using Guardians of the Rift to access the altars (necklace of Passage, amulet of glory to Draynor Village, or fairy rings to D I S ) Armour and some food Melee weapon to defeat the Slug Prince, which cannot be damaged in other ways Prayer potions to counter the Slug Prince's prayer drain
+
+Enemies to defeat | Slug Prince (level 62)
+
+League notes | Asgarnia ✓ - location requirement Kandarin ✓ - location requirement Desert ✓ - location requirement
+
+Walkthrough [ edit | edit source ]
+
+Starting off [ edit | edit source ]
+
+Items needed: Commorb , Ardougne teleport (optional)
+
+To begin, talk with Sir Tiffy Cashien in Falador Park . He'll tell you about the city of Witchaven , which has had some rather strange things going on recently. He'll tell you to check in with their local agent in Witchaven, Col. Jake O'Niall . Sir Tiffy Cashien will then upgrade your Commorb to Commorb v2 , which will start the quest. Use the contact option on Commorb v2 and head to Witchaven.
+
+Witchaven [ edit | edit source ]
+
+O'Niall sits on a rocking chair on the pier at the north-east corner of town. Talk to him, and he'll tell you that some of the people have been acting strangely recently, especially Mayor Eustace Hobb . Recently, he started looking rather sickly and working feverishly to restore the ancient, ruined shrine just west of town (between Witchaven and Ardougne ). Before leaving, ask O'Niall about who the important people in town are, which are Mayor Hobb , Brother Maledict , and Holgart . Speak to each of them in any order.
+
+Mayor Hobb 's house is the one at the north-west side of Witchaven . Talk to him, and ask him about Witchaven or the shrine. When you are done speaking to him, don't go anywhere as Savant will stop you. She'll ask you to scan the mayor, so scan with the Commorb v2 .
+
+Note: You need to finish the dialogue with Mayor Hobb with "Nothing at the moment, thanks" after asking the questions to make Savant ask you to scan him. It takes 3–4 seconds before she contacts you after ending the conversation.
+
+Brother Maledict will mention that he's a bit worried about some of his congregation, who have begun to act a little bit strangely lately. You can finish the dialogue without asking more questions. Walk a little bit north and talk to Holgart , who'll tell you that the mayor recently took his boat and gave it to another man named Jeb , standing near by.
+
+The shrine [ edit | edit source ]
+
+Report back to O'Niall to tell him what you have found out so far. He'll suggest you go look into the shrine that the mayor is so interested in.
+
+Walk a little ways west of town, and climb down the stairs to get into the shrine. Once you're inside, look at the minimap . You can see a red portion of wall indicating where there's a false wall that can be pushed open, and you'll find a new area. Inside are some aggressive level 45 giant lobsters in a winding tunnel. Walk through it, or take the Agility shortcut to get to where there's an imposing door blocking your way. Don't try to open it or you will take 5 damage . Walk next to it, and Savant will contact the Commorb v2 to tell you about the strange markings on the door. Scan the Commorb for her. She can't read them and suggests you take them to Jorral to try to find out what they mean. Pick up the dead sea slug off the floor before leaving and head to Jorral's house, which is located at an outpost just north-west of West Ardougne .
+
+Note: Check your quest log whether it has been updated and requires you to go to Jorral; otherwise, open the doors (taking 5 damage) and a replay of your communication with Savant will be played. You can now proceed to Jorral. Make sure you have an extra inventory spot available for the door transcription.
+
+The pages [ edit | edit source ]
+
+Items needed: Swamp paste , dead sea slug and five open inventory spaces
+
+Make sure you have a free inventory slot, as you will not get the notes if your inventory is full. Now, go talk to Jorral , who is at his Outpost (you can use the Necklace of Passage to teleport here, use a spirit tree to get to the Gnome Stronghold and head south). After some coaching from Savant on what to say, Jorral will translate the message for you. When you leave the building, Savant will contact you again to let you know just what this new revelation entails.
+
+Head back to Witchaven , and report in with O'Niall . He'll suggest you go talk to the priest and see if he knows anything about how to open the door. As you approach the church, you'll see a brief cutscene of the mayor leaving the church. When you go in, the priest will be looking rather ill and acting strangely. Ask him about the door, and he'll tell you that he has a book that might be of use, but the three most important pages are missing.
+
+For the first one , go to the mayor's house and look in his desk . The second one will be given to you by Ezekial Lovecraft , the owner of the Fishing store, when you talk to him. For the last one , talk to O'Niall again. He too has taken the same look as the rest of the villagers. He'll give you the last page, but unfortunately, it has been ripped into three pieces.
+
+Try to use swamp paste on any of the fragments to glue the page back together, but Savant stops you. The oily tar would ruin the ancient parchment, she warns. Instead, she advises, to make sticky glue from a rendered slug, and she mentions that it can only be done by someone who is renowned in seafood cooking.
+
+Travel to the Fishing Platform by talking to Jeb , who is next to Holgart. There, talk to Bailey in the small room on the south-west corner of the platform. Hand him the dead slug you picked up earlier from the shrine, and in a few seconds, he gives you the sea slug glue you need. Finally, use the glue on the fragments, and a puzzle will pop up.
+
+You can move the three pieces around using the buttons on the side, turn them, and even flip them over. The easiest way to tell if you've got them all on the right side is that one side is lighter than the other. You can look at the solution on the right side of this page. After you put the pieces in their correct place, the puzzle will close automatically.
+
+Crafting the runes [ edit | edit source ]
+
+Items needed: Commorb, 3 pages from previous section, at least 5 rune or pure essence (it is recommended to bring more, using a rune pouch will help manage inventory space), chisel, tiaras/talismans for entering the air, water, fire, earth, and Mind Altars (not necessary if travelling through the Abyss or using Guardians of the Rift )
+
+Recommended: Fast travel methods to either the five altars, the Abyss, or Guardians of the Rift.
+
+For the next part, you'll need a chisel and at least five rune or pure essence , although it is advised to bring as many as you can hold. Craft the runes into the shapes of air , water , fire , earth , and mind by right-clicking the pages , selecting the options to make the runes. It is likely to fail a few times and break some runes. The odds of success are 43% at level 1 Runecrafting and 99% at level 99 Runecrafting, scaling linearly [1] . Do not use the chisel on the essence, or you'll get fragments. When finished, you need to use the shapes' on their respective altars (e.g. earth on the Earth Altar ). It is possible to fail empowering the runes, in which case they will also break. Thus, keep your pages, chisel and spare essence handy as you make your way to the various altars. You can travel through the Abyss , Guardians of the Rift, or use a talisman or tiara on the following mysterious ruins ;
+
+Air: the Air Altar is south of Falador . Water: the Water Altar is south of Lumbridge (next to the shack to Zanaris ). Earth: the Earth Altar is north-east of Varrock (next to the Lumber yard ). Fire: the Fire Altar is on the North-West Corner outside of Emir's Arena in Al Kharid . Mind: the Mind Altar is north of Falador (just below the Wilderness , between the Black Knight's fortress and the Goblin village).
+
+The imposing door [ edit | edit source ]
+
+Items needed: Commorb, melee weapon, special air rune , special fire rune , special mind rune , special earth rune , and special water rune
+
+Now, head back to Witchaven to open the mysterious door , and prepare for a fight. Go down with the Commorb v2 into the shrine in Witchaven again, and use your newly created runes on the door in any order. It is revealed that Mayor Hobb tricked you into opening the door, sealed by the White Knights , so Mother Mallum could escape.
+
+ | The Slug Prince
+
+The music track that only plays during the encounter with Mayor Hobb.
+
+
+
+You'll have to fight a level 62 Slug Prince . Its attacks drain your Prayer by the amount of damage dealt. You can only use Melee to damage it .
+
+ | Mother Mallum
+
+The music track that only plays during the encounter with Mother Mallum.
+
+
+
+Once you kill it, you'll be treated to another cinematic introducing you to Mother Mallum . The situation gets too hot to handle, and Savant will teleport you to Falador Park . Talk with Sir Tiffy Cashien again to finish the quest.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 3,500 Crafting experience 3,500 Runecraft experience 3,500 Thieving experience Promotion to Proselyte among the Temple Knights . This means you can buy and wear Proselyte armour with a greater Prayer bonus than Initiate . You can buy each piece individually, or buy the armour pack which, when opened, gives you the plate , helm , and legs / tassets all at once. The pack costs 25,000 coins Buying the upgraded armour in separate pieces costs more: the helm costs 8,000 coins, the platelegs and plateskirt cost 10,000 coins, and the platebody costs 12,000 coins for a total of 30,000 coins Required for the hard Falador Diary
+
+Transcript [ edit | edit source ]
+
+This article has an associated transcript page. Click here for the transcript.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+5 March 2013 ( update ) | The Slug Menace quest is now available, providing access to Proselyte armour.
+
+22 February 2013 ( update ) | Old School RuneScape servers are officially launched, with the Slug Menace quest temporarily disabled.
+
+24 July 2007 ( update ) | The quest was renamed from "Slug Menace" to "The Slug Menace".
+
+Trivia [ edit | edit source ]
+
+The quest was disabled in 2013 because Mod Ash wanted to fix a bug that was causing player deaths when it originally released in 2007. In the boss fight, if the player had a follower, the prince would not die upon reaching zero Hitpoints and would continue hitting the player, who could not move or access their inventory, making death inevitable. [2] Mayor Hobb 's clothes become a bright shade of pink during the cutscene in which he visits Brother Maledict to possess him. Col. Jake O'Niall may be a reference to Stargate 's Col. Jack O'Neill ; both seem to have an affinity for fishing. Jake is also "semi" retired (while still retaining security clearance), as Jack was several times throughout the show. Jake also gets possessed by a sea slug , which seems to be an obvious reference to the Goa'uld , a parasitic race of worm-like aliens that take over a host completely. Additionally, when talking to Mayor Hobb for the first time, the player questions how he knows his name, from which follows a conversation that is a direct reference to the Stargate SG-1 episode " Window of Opportunity ". In addition to the obvious Stargate references, when the Mayor leaves the church and says: "Welcome to the family", it may be a reference to the Slitheen Family from Doctor Who . Ezekial 's last name is a reference to the famous American author of horror, fantasy and science fiction, Howard Phillips Lovecraft . Ezekial mentions his family have always been either bait sellers or writers, and mentions his relative Howard. This is further confirmed by the nature of the quests he's involved in. Instead of "Trade", like all other shop owners, Ezekial has a right-click option "Shop" that opens the shop's window. Ezekial's favourite food is tuna , which is made clear in RuneScape 3 's Salt in the Wound , for when fed any tuna-related item (such as a tuna potato ) he will exclaim "Tuna! My favourite!" and is healed a much higher amount of Hitpoints than normal. The scarf around Maledict's neck gets a gold trim when he is possessed. Col. O'Niall makes a military in-joke: 'Don't Sir me, boy, I work for a living'. This refers to petty/warrant officers in the military who, while technically being officers, don't hold a royal commission. The joke being that officers with a commission are just management roles and don't do any of the actual work. This is also a quote from the 1981 movie Stripes . The quest is a reference to the movie The Faculty . A short unused music track called Seaslug Sailing Journey can be found in the game files, which at one point in development was presumably intended to be played while ferrying to the fishing platform.
+
+References [ edit | edit source ]
+
+v • t • e The Slug Menace
+
+NPCs | Sir Tiffy Cashien Col. O'Niall Mayor Hobb Brother Maledict Witchaven villager Jeb Holgart Jorral Ezekial Lovecraft Bailey Mother Mallum Savant Giant lobster Slug Prince
+
+Items | Commorb v2 Door transcription Dead sea slug Sea slug glue Pages One Two Three Fragments One Two Three Blank runes Earth Fire Mind Air Water Complete runes Earth Fire Mind Air Water |  | Commorb v2 Door transcription Dead sea slug Sea slug glue | Pages | One Two Three | Fragments | One Two Three | Blank runes | Earth Fire Mind Air Water | Complete runes | Earth Fire Mind Air Water
+
+ | Commorb v2 Door transcription Dead sea slug Sea slug glue
+
+Pages | One Two Three
+
+Fragments | One Two Three
+
+Blank runes | Earth Fire Mind Air Water
+
+Complete runes | Earth Fire Mind Air Water
+
+Locations | Pillars of Zanash Witchaven Dungeon Witchaven
+
+Music | Slug a Bug Ball
+
+Related | Quick guide Transcript

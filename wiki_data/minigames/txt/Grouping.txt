@@ -1,0 +1,86 @@
+[Minigame: Grouping]
+
+TheGroupingtab can be found in thechat-channeltab. Players can select aminigamefrom the drop down menu and be entered into a chat-channel to help them find other players. Players cannot be in two chat-channels at the same time, so joining the minigame chat-channel will automatically remove them from any channel that they were in previously.
+
+The Grouping tab can alsoteleportplayers to various minigame locations, excluding theVolcanic Mine(provided that they meet the requirements to access them). This teleport has a 20-minute cooldown andcannotbe cast fromPvPworlds, thewilderness,player-owned house,Emir's Arenaand from various other minigames. The teleport cooldown within the grouping interface is not shared with theHome Teleport's 30 minute cooldown.
+
+Teleport[edit|edit source]
+
+Minigames[edit|edit source]
+
+Selecting the desired minigame gives players the option to teleport directly outside of the minigame. This can be useful when travelling aroundGielinoras most of the listed minigames do not have any requirements to access.
+
+Minigame | Teleport location
+
+Barbarian Assault[a] | 
+
+Burthorpe Games Room | 
+
+Castle Wars | 
+
+Clan Wars | 
+
+Fishing Trawler[b] | 
+
+Giants' Foundry[c] | 
+
+Guardians of the Rift[d] | 
+
+Last Man Standing | 
+
+Mage Training Arena[e] | 
+
+Nightmare Zone[f] | 
+
+Pest Control[g] | 
+
+Rat Pits-Ardougne(kittens)[h] | 
+
+Rat Pits-Varrock(grown cats)[i] | 
+
+Rat Pits-Keldagrim(overgrown cats)[j] | 
+
+Rat Pits-Port Sarim(wily cats)[k] | 
+
+Shades of Mort'ton[l] | 
+
+Soul Wars | 
+
+Tithe Farm[m] | 
+
+Trouble Brewing[n] | 
+
+TzHaar Fight Pit | 
+
+Volcanic Mine[o] | No teleport
+
+Players can also open up an interface for finding duels in thePvP Arenavia the button in the top-right. The preferred fightworldlocation can be changed via the options menu, being able to choose between US, UK, and Australia.
+
+Other destinations[edit|edit source]
+
+Although the list below are not minigames, they are listed in the grouping interface as it helps players find other players who are looking for teams for different bosses. There is also a clan chat for theShield of Arravquest to help players find a partner to complete the quest.Player-owned housesare listed for events such ashouse partiesor hostinggilded altars. None of the following have teleports, with the exception of Blast Furnace.
+
+Destination | Teleport location
+
+Blast Furnace[a] | 
+
+Dagannoth Kings | No teleport
+
+God Wars Dungeon | No teleport
+
+Royal Titans | No teleport
+
+Player-owned houses | No teleport
+
+Shield of Arrav/Heroes' Quest | No teleport
+
+Shooting Stars | No teleport
+
+Theatre of Blood | No teleport
+
+Tombs of Amascut | No teleport
+
+Chat-channel[edit|edit source]
+
+Selecting the desired activity gives players the option to join the officialchat-channelfor it; they are listed below:
+

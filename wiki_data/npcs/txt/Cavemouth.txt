@@ -1,0 +1,2 @@
+Item: Cavemouth
+Summary: The Cavemouth is an unused non-player character added with Canoeing. Presumably, it was intended to be a piece of interactive scenery that the player sees during the Canoe cutscene, similar to Trees and Bullrushes. The name suggests it would have been seen when travelling through the cave to the Wilderness pond using a Waka canoe. For unknown reasons however, the Cavemouth can never be seen ingame.

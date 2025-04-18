@@ -1,0 +1,49 @@
+[Weapon: Blue Spiky Vambraces]
+
+
+Blue spiky vambracesareblue dragonhide armourworn in thehand slot. They are created by usingKebbit clawswithblue dragonhide vambraces. The spiked vambraces gain very small defensive bonuses and a bonus tomelee strengthof +2.
+Like the blue dragonhide vambraces they are created from, this variant also requires 50 Ranged to be worn.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Vambraces made from 100% real dragonhide. Now with added spikiness.
+General Store Value: 3,000 coins
+High alch: 1,800 coins
+Low alch: 1,200 coins
+Weight: 0.283 kg
+Grand Exchange Value: 2,008 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 12
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +9
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +3
+- Crush: +5
+- Magic: +4
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

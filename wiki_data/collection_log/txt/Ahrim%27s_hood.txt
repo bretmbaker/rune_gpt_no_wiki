@@ -1,0 +1,4 @@
+Item: Ahrim's hood
+Summary: Ahrim's hood is magic armour worn in the headwear slot that is part of Ahrim the Blighted's set of barrows equipment. To wear Ahrim's hood, a player must have 70 Defence and 70 Magic.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

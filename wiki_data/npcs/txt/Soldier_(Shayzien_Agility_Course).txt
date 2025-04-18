@@ -1,0 +1,2 @@
+Item: Soldier (Shayzien Agility Course)
+Summary: The soldier at the Shayzien Agility Course tracks the players individual stats for the basic and advanced Agility courses as well as the global stats for both courses. This includes number of laps and fastest completion time.

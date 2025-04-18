@@ -1,0 +1,111 @@
+[Weapon: Adamant Platebody]
+
+
+Theadamant platebodyis an armour used inmeleewith stat bonuses betweenmithrilandrune. It requires 30Defenceto equip and provides greater protection than anadamant chainbody. Like allplatebodies, however, it gives a crippling negative bonus to the user'sRangedandMagicstats.
+Players with level 88Smithingcan make one by using 5adamantite barson ananvilwhile carrying ahammer, granting 312.5experience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Provides excellent protection.
+General Store Value: 16,640 coins
+High alch: 9,984 coins
+Low alch: 6,656 coins
+Weight: 11.339 kg
+Grand Exchange Value: 9,517 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 435,137
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -30
+- Ranged: -15
+
+Defence Bonuses:
+- Stab: +65
+- Slash: +63
+- Crush: +55
+- Magic: -6
+- Ranged: +63
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Adamant dragon | 338 | 1 | 9/110 | &
+Agility dispenserLaps 1-15 | N/A | 1(noted) | 2/10 | 
+Agility dispenserLaps 16-30 | N/A | 1(noted) | 1/9 | 
+Agility dispenserLaps 31-60 | N/A | 1(noted) | 1/10 | 
+Agility dispenserLaps 61+ | N/A | 1(noted) | 2/20 | 
+Animated Adamant Armour | 113 | 1 | Always | 
+Black demonWilderness Slayer Cave | 188 | 1 | 1/74 | 
+Black dragonWilderness Slayer Cave | 247 | 1 | 20/128 | 
+Black dragonRegular | 227 | 1 | 1/128 | &&
+Bronze dragon | 131; 143 | 1 | 1/128 | 
+BryophytaMembers | 128 | 5(noted) | 3/118 | 
+BryophytaF2P | 128 | 5(noted) | 3/118 | 
+Coffin (Hallowed Sepulchre)Mid | 66 | 1 | 1/10 | 
+Commander Zilyana | 596 | 1 | 8/127 | 
+Dagannoth Rex | 303 | 1 | 2/128 | 
+Elaborate lockbox | N/A | 1 | 1/2,625 | 
+Gold Chest (black) | N/A | 1 | 3/144.18;3/142.44 | 
+Gold Chest (brown) | N/A | 1 | 3/143.99;3/142.26 | 
+Gold Chest (crimson) | N/A | 1 | 3/144.08;3/142.35 | 
+Gold Chest (purple) | N/A | 1 | 3/144.28;3/142.54 | 
+Gold Chest (red) | N/A | 1 | 3/143.91;3/142.17 | 
+Hallowed sack | N/A | 1 | 1/10 | 
+K'ril Tsutsaroth | 650 | 1 | 8/127 | 
+King Black Dragon | 276 | 1 | 9/128 | 
+King kurask | 295 | 1 | 3 × 3/124 | 
+Kurask | 106 | 1 | 3/124 | 
+Lava dragon | 252 | 1 | 2/128 | 
+Lesser demonWilderness Slayer Cave | 94 | 1 | 1/39 | 
+Long-tailed Wyvern | 152 | 1 | 2/123 | 
+Mutated Terrorbird | 178 | 1 | 3 × 2/64 | 
+Mutated Tortoise | 247 | 1 | 3 × 2/64 | 
+Ornate lockbox | N/A | 1 | 3/2,450 | 
+Red dragon | 152 | 1 | 1/128 | &
+Reward Chest (The Gauntlet) | N/A | 1 | 1/27 | 
+Reward casket (medium) | N/A | 1 | 10/341 | 
+ScurriusMVP | 200; 250 | 1 | 6/100 | 
+Silver Chest (black) | N/A | 1 | 2/152.6;2/148.88 | 
+Silver Chest (brown) | N/A | 1 | 2/152.46;2/148.74 | 
+Silver Chest (crimson) | N/A | 1 | 2/152.53;2/148.81 | 
+Silver Chest (purple) | N/A | 1 | 2/152.67;2/148.95 | 
+Silver Chest (red) | N/A | 1 | 2/152.39;2/148.68 | 
+Simple lockbox | N/A | 1 | 1/10,850 | 
+Spitting Wyvern | 139 | 1 | 2/123 | 
+Taloned Wyvern | 147 | 1 | 2/123 | 
+The Hueycoatl | 642 | 1–30(noted) | 3/68 | 
+Vyrewatch Sentinel | 151 | 1 | 4/93 | 
+Vyrewatch | 87–125 | 1 | 6/96 | 
+Warped Terrorbird | 96; 138 | 1 | 2/64 | 
+Warped Tortoise | 121 | 1 | 2/64 | 
+Zombie Pirate's Locker |  | 2 | 6/173 | N/A
+Zombie pirateRegular | 22; 28; 34 | 1 | 6/1,260 | N/A
+Zombie pirateDiary | 22; 28; 34 | 1 | 6/378 | N/A
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Free-to-play Ironman guide(Meleegear)
+2 | Free-to-play melee training(Meleegear)

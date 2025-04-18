@@ -1,0 +1,2 @@
+Item: Elemental rock
+Summary: Elemental rocks are rare and can only be mined during and after the Elemental Workshop I quest. The rocks are located in the western room of the Elemental Workshop. If a player tries to mine an elemental rock, it will turn into an Earth elemental and attack you. Once the Earth elemental is defeated, he drops a single Elemental ore and a rock. The rock can be left on the floor because this item is useless. The Elemental ores can be smelted to Elemental metals. Elemental rocks are purple in colour.

@@ -1,0 +1,1 @@
+Thelooting bagis astoragebag that can hold up to 28 stacks of anyitem. Only one looting bag can be in a player's possession at a time.

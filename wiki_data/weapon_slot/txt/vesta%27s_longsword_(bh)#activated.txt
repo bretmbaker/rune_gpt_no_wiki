@@ -1,0 +1,58 @@
+[Weapon: Vesta%27S Longsword (Bh)#Activated]
+
+
+Vesta's longsword (bh)is a slash weapon requiring 75Attackto wield, and is purchased from theBounty Hunter Storefor 650 points.
+As with allAncient Warriors' equipmentfrom Bounty Hunter, it is initially purchased in inactive form, and must be charged with 50,000,000 coins before it can be used by the player. Upon dying inPvP, the coins used to activate the item are given to the killer, and players are left with the inactive item. That said, the activated form is preserved if the longsword is one of the player's protected items.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Uncharge, Drop
+Examine: A powerful longsword.
+General Store Value: 300,000 coins
+Alchemy: Not alchemisable
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +106
+- Slash: +121
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +4
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +118
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing Vesta's longsword's special attack.
+Vesta's longsword has aspecial attack,Feint, that consumes 25% of the player'sspecial attack energyand deals between 20% and 120% of the user's max hit, with the accuracy of this attack rolled against 25% of the opponent'sdefence. The accuracy roll ofFeintis based on the attack bonus of the player's currently selected style, which is rolled against an opponent's stab defence.[2]

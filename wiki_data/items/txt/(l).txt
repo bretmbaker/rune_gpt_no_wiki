@@ -1,0 +1,1 @@
+(l)is a suffix applied to untradeable equipment that has been locked usingTrouver parchmentandcoinsviaPerdu. Items with this suffix are prevented from becoming(broken)upon death beyond level 20 within theWilderness. The one exception is therune pouch, which when locked, will protect the item upon death.

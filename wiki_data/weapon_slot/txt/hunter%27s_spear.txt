@@ -1,0 +1,56 @@
+[Weapon: Hunter%27S Spear]
+
+
+Thehunter's spearis athrown weaponthat requires level 55Rangedand 30Strengthto equip. Compared to other ranged weapons, the player's melee strength bonuses are used when determining the amount of ranged damage dealt to a target.Ava's devicesdo work on these.
+The hunter's spear when equipped also acts like ateasing stickand provides a 5% increased chance for teased creatures to walk into apitfall trap.[1]The spear must be equipped before being able to tease creatures. Teasing creatures does not consume the spear. Despite being a thrown weapon, it cannot be used to tease creatures from a distance. The hunter's spear can be stored in theHuntsman's kit.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Throw it... Or don't.
+General Store Value: 350 coins
+High alch: 210 coins
+Low alch: 140 coins
+Weight: 0 kg
+Grand Exchange Value: 281 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 7,661
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +73
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +48
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 6 ticks (3.6s) | 5 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 5 ticks (3.0s) | 5 tiles |  | None
+ | Longrange | Light | Longrange | 6 ticks (3.6s) | 7 tiles |  | +3 Defence

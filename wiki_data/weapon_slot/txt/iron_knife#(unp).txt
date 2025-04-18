@@ -1,0 +1,66 @@
+[Weapon: Iron Knife#(Unp)]
+
+
+Theiron knifeis athrowing knifethat does not require aRangedlevel to wield. It is stronger than abronze knifebut weaker than asteel knife. To create iron knives, the player must have at least 22Smithing. Eachiron barwill create 5 iron knives and give the player 25 Smithing experience. They can bepoisonedand can be wielded with ashieldorgod bookfor protection.
+Throwing knives are among the fastest weapons in the game (along withdarts), and are commonly used forPKingor training Ranged. Iron knives can be purchased fromMartin Thwait's Lost and Foundshop in theRogues' Denwith 50Thievingand 50Agility.
+
+
+[Infobox]
+Released: 14 April2003(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A finely balanced throwing knife.
+General Store Value: 3 coins
+High alch: 1 coin
+Low alch: 1 coin
+Weight: 0 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 37 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 705,572
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +5
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +4
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 3 ticks (1.8s) | 4 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 2 ticks (1.2s) | 4 tiles |  | None
+ | Longrange | Light | Longrange | 3 ticks (1.8s) | 6 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ava's attractor | N/A | 1 | 5/2,000 | 
+Barrel (Shaman Caves) | N/A | 1 | Uncommon | &
+Dagannoth Supreme | 303 | 200–500 | 5/128 | 
+SoilLevel 3 digs | 1 | 1 | 1/20 | 
+Storage crate | N/A | 1 | 10/195 | 

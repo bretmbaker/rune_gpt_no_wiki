@@ -1,0 +1,54 @@
+[Weapon: Dragonstone Bracelet]
+
+
+Dragonstone braceletis a piece of jewellery crafted by using agold barand adragonstoneat a furnace with abracelet mouldin their inventory at 74Crafting, giving 110 experience. It can then beenchantedat 68Magicinto aCombat bracelet. It is wielded in the hand slot of the player.
+The followingmoney making guideis available for Dragonstone bracelet:
+
+
+[Infobox]
+Released: 30 April2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I wonder if this is valuable.
+General Store Value: 19,125 coins
+High alch: 11,475 coins
+Low alch: 7,650 coins
+Weight: 0.25 kg
+Grand Exchange Value: 11,685 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 93,997
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/32.3 | 

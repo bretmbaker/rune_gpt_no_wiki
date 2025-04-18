@@ -1,0 +1,111 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Dwarf Cannon (#46)
+
+
+
+
+
+Released | 27 May 2003 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Tom W
+
+
+
+Dwarf Cannon is a short quest about the conflict between the dwarven outpost at the Coal truck mining site and local goblins. The quest provides access to the Dwarf multicannon , a powerful Ranged weapon.
+
+Details [ edit | edit source ]
+
+Start point | Talk to Captain Lawgof , south of the Coal Trucks , north-west of the Fishing Guild . Show on map
+
+Official difficulty | Novice
+
+Official length | Short
+
+Description | For several years now, the Dwarven Black Guard have been developing the latest in projectile warfare. With the constant attack of goblin renegades, the dwarven troops who protect the mines need to put this secret weapon into action. Only with your help can the true power of this cannon be harnessed!
+
+Requirements | None
+
+Items required | Hammer (obtained during the quest)
+
+Recommended | Food at very low combat levels. Stamina or energy potions . Fast travel to the entrance of the Dwarven Mine ( Amulet of glory to Edgeville or Combat bracelet to the Monastery) Fast travel to the Coal Trucks ( Games necklace to Barbarian Outpost or Skills necklace to the Fishing Guild) Fast travel to the Goblin Cave ( Skills Necklace to the Fishing Guild )
+
+Enemies to defeat | None
+
+League notes | Unlocking Asgarnia ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Talk to Captain Lawgof located southwest of the coal trucks (but within the gates). If you do not have the 20 Agility required to cross the log, you will need to enter the fenced area from the south via the gate. He will explain his dilemma of the goblin forces approaching from the south. He will allow you to join the Black Guard , the elite of the dwarven military. After you accept he will give you 6 railings and a hammer (if you do not already have one in your inventory) so that you can help with fixing the railings.
+
+The damaged railings around the complex are clearly bent (if you zoom in and look at the fence directly from the back or front), repair these by "inspecting" the appropriate sections of railing. If you fail to repair a rail, you may take 1 or 2 damage or your Strength or Crafting will be temporarily reduced. This damage may kill you if your hitpoints are 2 or below. It may take several attempts at each damaged section, if it doesn't say you repaired it, and straighten the fence you must do it again.
+
+After repairing all 6 rails, talk to Captain Lawgof again and he will explain that communication has stopped with the watchtower. (important that you finish the conversation)
+
+Go outside the gate and a little to the south you will find the watchtower (indicated on the map by a ladder)
+
+Climb the ladder to the top floor and retrieve the dwarf remains and take them back to Captain Lawgof.
+
+Devastated, Captain Lawgof will tell you that the dwarf who had been killed when the watchtower was overrun was Gilob who had a son named Lollk that is still missing.
+
+The missing son [ edit | edit source ]
+
+Head south-east to the Fishing Guild and enter the cave just east to the Fishing Guild 's entrance.
+
+The cave forks into three passages. Take the centre passage and head north-west to find the goblin outpost. Go further north-west to a room filled with crates inside. Search the northern most crate on the east wall (as seen in the picture) and Lollk will jump out. After thanking you for rescuing him, Lollk will run back to Captain Lawgof.
+
+The dwarven multicannon [ edit | edit source ]
+
+Return to Captain Lawgof , and he will thank you and ask you to fix his broken multicannon. Use the toolkit he gives you on the cannon. You need to match up the three tools with the three parts on the screen that shows up in this order:
+
+Use the pliers on the safety switch at the bottom. (2nd tool) Use the hooked tool on the spring. (3rd tool) Use the toothed tool on the gear located at the bottom of the hammer, on the gear. (1st tool)
+
+Talk to Captain Lawgof again, and he will tell you that he doesn't know how to get ammo for the cannon. He will tell you to go to the dwarf base south of Ice Mountain above the entrance to the Dwarven Mine to find out about the ammo.
+
+The fastest way to arrive there is using a combat bracelet to teleport to the monastery. Alternatively you can teleport to Falador and walk there. Talk to Nulodion who is in the western building of the base. He will give you an ammo mould and some instructions.
+
+Do not destroy Nulodion's notes or the ammo mould as Captain Lawgof requires these. Doing so will require you to go back and speak with Nulodion to retrieve the notes.
+
+Go back and talk to Captain Lawgof. He will reward you for your efforts.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 750 Crafting experience The ability to buy and use a dwarf multicannon The ability to make cannonballs Membership of the Black Guard
+
+Required for completing [ edit | edit source ]
+
+Completion of Dwarf Cannon is required for the following:
+
+Between a Rock...
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Treasure Trails [ edit | edit source ]
+
+Searching the boxes around the hut where the broken dwarf cannon is, close to the start of the quest (north-west of the Fishing Guild ) is the solution to the hard cryptic clue , stating: Must be full of railings.
+
+Trivia [ edit | edit source ]
+
+The dwarf multicannon can be purchased from Nulodion for 750,000 coins through his chat dialogue, or in excess of 800,000 coins in parts through his trade window. Alternatively the dwarf multicannon can be purchased from the Grand Exchange for approximately 767,198 coins. When tasked with fixing the railings, if the player uses a hammer on the damaged Railings - rather than Inspect them - the player's character will proclaim "That's better, the goblins won't get past this piece of fencing now." However, your character won't actually fix the railing.
+
+v • t • e Dwarf Cannon
+
+NPCs | Captain Lawgof Lollk Gilob Nulodion
+
+Items | Railing Dwarf remains Toolkit Ammo mould Instruction manual Nulodion's notes Dwarf multicannon Cannonball Cannon barrels Cannon base Cannon furnace Cannon stand |  | Railing Dwarf remains Toolkit Ammo mould Instruction manual Nulodion's notes | Dwarf multicannon | Cannonball Cannon barrels Cannon base Cannon furnace Cannon stand
+
+ | Railing Dwarf remains Toolkit Ammo mould Instruction manual Nulodion's notes
+
+Dwarf multicannon | Cannonball Cannon barrels Cannon base Cannon furnace Cannon stand
+
+Locations | Coal Trucks Goblin Cave Dwarven Mine
+
+Related | Quick guide Transcript

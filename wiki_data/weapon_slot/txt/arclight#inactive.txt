@@ -1,0 +1,81 @@
+[Weapon: Arclight#Inactive]
+
+
+Arclightis ademonbane weaponrequiring level 75Attackto wield. An upgraded variant ofDarklight, Arclight features an enhancedpassive effectin addition to modest improvements in attack bonus and speed.
+If Arclight is lost, it can be replaced by payingSir Prysin1,000 coinsfor Darklight and enhancing it withancient shardsagain. Players can possess multiple copies of Arclight.
+
+
+[Infobox]
+Released: 23 October2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Check, Drop
+Worn options: Check
+Examine: The magical sword is inactive and requires more ancient shards to regain its power.
+General Store Value: 500 coins
+Alchemy: Not alchemisable
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +10
+- Slash: +16
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +3
+- Crush: +2
+- Magic: +2
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +13
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Passive Effect]
+When used againstdemonicmonsters, Arclight provides a 70% increase in accuracy and damage. Like Darklight, Arclight also counts as a piece ofsilver weaponry, and can therefore damagetier 2 vampyres, while gaining a 10% damage bonus againsttier 1 vampyres.
+Duke Sucellusis a lone exception to the passive effect, as he possesses 30% resistance to demonbane, which gives Arclight a 49% accuracy and damage increase compared to the normal 70%.
+This means that in certain cases, Arclight can have higher damage output than typical high-damage weapons such as theBlade of SaeldororScythe of Viturwhen fightingK'ril Tsutsarothordemonic gorillas.
+
+
+[Special Attack]
+A player performing Darklight's special attack,Weaken.
+Arclight retains Darklight'sspecial attack,Weaken, which consumes 50% of the player's special attack energy and lowers the opponent'sStrength,Attack, andDefencelevels by 5% (10% fordemons) of their base level + 1.[1]
+The accuracy roll forWeakenis made against an opponent's stab defence,[2]and its drain effect only applies tosuccessful hits.
+Weakenwill stack additively uponsuccessful hitsunlike thedragon warhammer, which stacks multiplicatively. Two successful special attacks thus reduce an opponent's Strength, Attack and Defence by 10% + 2, or 20% + 2 against demonic targets.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Cerberus/Strategies(Melee)
+1 | Demonic gorilla/Strategies(upgrades and downgrades)
+3 | Duke Sucellus/Strategies(Melee)
+2 | K'ril Tsutsaroth/Strategies(Melee Tank)
+3 | K'ril Tsutsaroth/Strategies(Solo Melee)
+2 | K'ril Tsutsaroth/Strategies(Melee)
+2 | Skotizo/Strategies(Melee)
+2 | Slayer task/Nechryael(Melee)
+5 | Slayer task/Waterfiends(Melee)
+1 | Tormented Demon/Strategies(Melee switch)

@@ -1,0 +1,65 @@
+Name: H.A.M. Guard
+Combat Level: 12
+Size: 1x1
+Info:
+- Description: A guard for the 'Humans Against Monsters' group.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 2536
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Ham hood (1/110)
+- Ham cloak (1/110)
+- Grimy guam leaf (1/110)
+- Potato seed (1/31)
+- Onion seed (1/42)
+- Cabbage seed (1/63)
+- Tomato seed (1/126)
+- Sweetcorn seed (1/253)
+- Strawberry seed (1/507)
+- Watermelon seed (1/1,061)
+- Snape grass seed (1/1,458)
+- Clue scroll (easy) (1/55[d 1][1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 15
+Attack: 8
+Strength: 12
+Defence: 8
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 5
+Slash: 5
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 5
+Standard: 5
+Heavy: 5

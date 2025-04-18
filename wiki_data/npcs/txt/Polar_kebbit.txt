@@ -1,0 +1,2 @@
+Item: Polar kebbit
+Summary: The polar kebbit is a kebbit that players can capture with the Hunter skill at level 1 or above, granting 30 Hunter experience.

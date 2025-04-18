@@ -1,0 +1,2 @@
+Item: Undead combat dummy
+Summary: The undead combat dummy can be built in the combat dummy space of the combat room in a player-owned house. It requires 53 Construction to upgrade the combat dummy and when built, it gives 220 experience. The player must have a hammer and a saw in their inventory to build it. The black mask used in construction must not have any charges; charged black masks can be uncharged by right clicking.

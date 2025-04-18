@@ -1,0 +1,2 @@
+Item: Menaphite Guard
+Summary: Menaphite guards guard the currently inaccessible city of Menaphos. They can not directly be spoken to but tell players trying to open the gate between Sophanem and Menaphos to leave.

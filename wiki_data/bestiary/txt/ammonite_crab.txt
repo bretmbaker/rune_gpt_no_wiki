@@ -1,0 +1,61 @@
+Name: Ammonite Crab
+Combat Level: 25
+Size: 2x2
+Info:
+- Description: Praise Helix!
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 100 xp
+- Category: Crab
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Immune
+- Monster ID: 7799
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Oyster pearl (1/128)
+- Empty oyster (1/128)
+- Calcite (1/128[d 1])
+- Pyrophosphite (1/128[d 1])
+- Seaweed spore (1/128)
+- Casket (1/128)
+- Nothing (1/256.47; Never[d 1])
+- Uncut sapphire (1/512; 1/260[d 2])
+- Uncut emerald (1/1,024; 1/520[d 2])
+- Uncut ruby (1/2,048; 1/1,040[d 2])
+- Uncut diamond (1/8,192; 1/4,160[d 2])
+- Chaos talisman (1/5,461.33; 1/2,773.33[d 2][d 3])
+- Nature talisman (1/5,461.33; 1/2,773.33[d 2][d 3])
+- Loop half of key (1/16,384; 1/8,320[d 2])
+- Tooth half of key (1/16,384; 1/8,320[d 2])
+- Rune javelin (1/16,384; 1/8,320[d 2])
+- Rune spear (1/262,144; 1/15,600[d 2][d 4])
+- Shield left half (1/524,288; 1/31,200[d 2][d 4])
+- Dragon spear (1/699,050.67; 1/41,600[d 2][d 4])
+- Clue scroll (easy) (1/128[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 100
+Attack: 1
+Strength: 1
+Defence: 1
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

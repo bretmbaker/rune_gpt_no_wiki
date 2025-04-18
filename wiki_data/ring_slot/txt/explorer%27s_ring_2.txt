@@ -1,0 +1,47 @@
+[Weapon: Explorer%27S Ring 2]
+
+
+TheExplorer's ring 2is a reward from completing themedium Lumbridge & Draynor Diary. The ring is received fromHatius CosaintusinLumbridge, and can be retrieved from him for free if lost.
+Whenever the teleport or energy restore functions are used, a message appears in the player's chatbox displaying how many uses are left for that day.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check, Teleport, Functions, Drop
+Worn options: Teleport, Energy, Alchemy
+Examine: A Lumbridge explorer's ring.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.006 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Ring slot

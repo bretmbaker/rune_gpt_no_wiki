@@ -1,0 +1,54 @@
+[Weapon: Western Banner 3]
+
+
+TheWestern Banner 3is a reward for completing thehard Western Provinces Diarytasks. It is received from theElder gnome childin theGnome Strongholdand can be retrieved from him for free if lost. Its combat stats are identical to amithril spear, other than having a slower attack speed and being a one-handed weapon.
+The banner depicts aGnome child.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Teleport, Drop
+Worn options: Teleport
+Examine: A mysterious crystal banner.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +17
+- Slash: +17
+- Crush: +17
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +18
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

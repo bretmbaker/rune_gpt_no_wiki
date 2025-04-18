@@ -1,0 +1,5 @@
+Item: Zulrah's scales
+Summary: Zulrah's scales are items used to charge serpentine helms, toxic blowpipes, toxic staves of the dead, and tridents of the swamp. It can also be used to create anti-venom at 87 Herblore by using them on an Antidote++, with 5 scales used per dose.
+Sources:
+- Zulrah (Level 725, Quantity: 100–299, Rarity: Always)
+- Zulrah (Level 725, Quantity: 500, Rarity: 2 × 5/248)

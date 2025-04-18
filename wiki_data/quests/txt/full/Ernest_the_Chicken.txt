@@ -1,0 +1,109 @@
+ | This quest has a quick guide and a speedrunning guide . It briefly summarises the steps needed to complete the quest.
+
+Ernest the Chicken (#7)
+
+
+
+
+
+Released | 21 January 2001 ( Update )
+
+Members | No
+
+Quest series | None
+
+Lead developer(s) | Paul Gower
+
+
+
+Ernest the Chicken is a free-to-play quest where players must discover what happened to the missing Ernest , who went into Draynor Manor to ask for directions and never returned.
+
+It was one of the first quests developed and the first quest released after RuneScape's initial launch.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Veronica , south of Draynor Manor by the gate. Show on map
+
+Official difficulty | Novice
+
+Official length | Very Short
+
+Description | Veronica is very worried. Her fiancé went into the big spooky manor house to ask for directions. An hour later and he's still not out yet.
+
+Requirements | The ability to defend from a level 22 Skeleton .
+
+Items required | Spade (can be obtained during the quest) Fish food (can be obtained during the quest) Poison (can be obtained during the quest)
+
+Recommended | (Members only) Fast travel to Draynor Manor ( Draynor Manor Teleport or amulet of glory ) Food (If lower hp a lvl 22 skeleton and dead trees attack you)
+
+Enemies to defeat | None
+
+League notes | Misthalin ✓ — location requirement Unlocking Fremennik ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Starting out [ edit | edit source ]
+
+Talk to Veronica standing just outside the courtyard of the Draynor Manor . She wants you to find her fiancé, Ernest , who had gone to the manor an hour ago for directions and has not come back yet.
+
+Enter the manor and climb up the staircase in the centre room. Then climb up the spiral stairs immediately west to find Professor Oddenstein . He will explain that Ernest was turned into a chicken when he was helping on an experiment with his 'pouletmorph' machine. However, to change him back, the professor needs parts that were stolen and hidden by the poltergeists in the manor.
+
+You need to help him find a pressure gauge , a rubber tube , and an oil can in any order.
+
+Pressure gauge [ edit | edit source ]
+
+To get the pressure gauge, fish food and poison are required. Fish food is in a blue box, one is found on the 1 st floor [ UK ] 2 nd floor [ US ] in the room directly south of the main staircase. Poison is in a green bottle, one is found on the ground floor [ UK ] 1 st floor [ US ] in the small north-western room south of the kitchen.
+
+Use the poison on the fish food to create poisoned fish food . Go to the south-eastern room, grab the spade next to the door leading outside, if you do not already have one to get the rubber tube. Leave the manor by exiting the door in the south-eastern room, go to the south-western corner of the manor grounds to the fountain. Use the poisoned fish food on the fountain to kill the piranhas then search the fountain to get the pressure gauge.
+
+Rubber tube [ edit | edit source ]
+
+On the west side of the grounds look for a compost heap , north of the belladonna special patch near a patch of cabbages . Search the compost heap, requiring a spade and you will get a key . Go back into the manor through the front door then go through the door to the room behind the stairs containing the aggressive skeleton and take the rubber tube . The skeleton will attack you, so if you are a low level it is recommended to get the tube and leave as quickly as possible.
+
+Oil can [ edit | edit source ]
+
+Go to the western room on the ground floor [ UK ] 1 st floor [ US ] , search the bookcase on the western side on the wall to gain access to a secret room. Go down the ladder into the basement where there will be doors and levers around you. Follow the steps given below to obtain the oil can:
+
+Pull levers B then A down. Enter door 1. Pull lever D down. Enter doors 2, then 3. Pull levers B, then A up. Enter doors 3, 4, and 5. Pull levers E, then F down. Enter doors 6 and 7. Pull lever C down. Enter doors 7 and 6. Pull lever E up. Enter doors 6, 8, and 3. Go through door 9 and grab the oil can .
+
+Leave the basement and leave the secret room by pulling the lever on the eastern wall.
+
+Finally, go back to the top floor and talk to Professor Oddenstein . Give him the items, he will fix his machine which turns Ernest back into a human.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+4 Quest points 300 Coins Access to the Killerwatt Plane ( Members only)
+
+Required for completing [ edit | edit source ]
+
+Completion of Ernest the Chicken is required for the following:
+
+Animal Magnetism
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+23 June 2016 ( update ) | Corrected some grammar in dialogue with Professor Oddenstein during the Ernest the Chicken quest.
+
+Trivia [ edit | edit source ]
+
+It is possible to obtain every single one of the three machine parts, without having started the quest.
+
+v • t • e Ernest the Chicken
+
+NPCs | Veronica Professor Oddenstein Ernest
+
+Items | Fish food Oil can Poison Poisoned fish food Pressure gauge Rubber tube Key
+
+Locations | Draynor Manor
+
+Music | Tiptoe
+
+Related | Quick guide ( speedrunning ) Transcript

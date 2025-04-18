@@ -1,0 +1,47 @@
+[Weapon: Corrupted Plateskirt]
+
+
+Thecorrupted plateskirtis an item introduced during theChristmas corrupt cluefest. To obtain the plateskirt, the player must bring anacornandbonestoLouie LegsinAl Kharid. Thecorrupted platelegswill also be obtained at the same time.
+It has stats identical to that of aniron plateskirt.
+
+
+[Infobox]
+Released: 14 December2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You will have to discover it again.
+Examine: The plateskirt of a forgotten warrior, corrupted by the dark altar.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 8.164 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +11
+- Slash: +10
+- Crush: +10
+- Magic: -4
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

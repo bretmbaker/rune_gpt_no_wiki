@@ -1,0 +1,61 @@
+[Weapon: Royal Sceptre]
+
+
+Theroyal sceptreis a possible reward fromeliteTreasure Trails. It is part of theroyal outfit, and is purely cosmetic.
+This item can be stored in thetreasure chestof acostume room, as part of theroyal outfitset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: I dub thee...
+General Store Value: 5,000 coins
+High alch: 3,000 coins
+Low alch: 2,000 coins
+Weight: 4.535 kg
+Grand Exchange Value: 11,403 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 33
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/1,275 | 

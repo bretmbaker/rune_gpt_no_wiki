@@ -1,0 +1,47 @@
+[Weapon: Chronicle]
+
+
+TheChronicleis an equipable book that can be used toteleportthe player to just outside theChampions' Guild, making it useful for players who plant seeds inBushandHopspatches as well as free-to-play ironmen. The teleport is also a short distance fromCharlie the Tramp, making it useful for those doingbeginner clues.
+During the2016 Easter event, players were able to acquire it for free by defeating theChocolate Chickenduring the event. It can now be purchased fromDiango's Toy Storefor300coins. If the player has a copy of the Chronicle in the inventory orbank, trying to buy another one fromDiangowill fail, and the user will receive the following message:"You've already got one of those."However, itispossible to own more than one Chronicle if buying them fromPerdu.
+
+
+[Infobox]
+Released: 17 March2016(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Teleport, Check charges, Destroy
+Worn options: Check Charges, Teleport
+Destroy: You can buy another from Diango.
+Examine: The legends of RuneScape.
+General Store Value: 200 coins
+Alchemy: Not alchemisable
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

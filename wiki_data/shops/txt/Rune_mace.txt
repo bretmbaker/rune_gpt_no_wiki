@@ -1,0 +1,253 @@
+[Shop: Rune_mace]
+
+Rune mace
+
+
+
+
+
+
+
+Released | 26 July2001(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | Yes
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Wield, Drop
+
+Examine | A spiky mace.
+
+
+
+Values
+
+
+
+Value | 14,400 coins
+
+High alch | 8,640 coins
+
+Low alch | 5,760 coins
+
+Weight | 1.814 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 7,969coins (info)
+
+Buy limit | 70
+
+Daily volume | 53,481
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 1432
+
+Link | MOID
+
+
+
+Arune maceis amacemade ofrunite. It requires 40Attack. It can be made at level 87Smithingusing oneRune bar.
+
+It is currently the sixth-strongest mace in the game, surpassed by theVoid knight mace,Barronite mace,Dragon mace,Tzhaar-ket-em, and theInquisitor's mace. It is the second strongestfree-to-playmace, behind theBarronite macewhich has a higher crush and strength bonus, but a lower prayer bonus.
+
+The rune mace can be purchased fromScavvo's Rune Storein theChampions' Guildfor a price of14,400 coinsafter obtaining 32quest points. It can also be purchased fromSpike's SpikesinOuter Fortisfor18,720 coins, only requiring access toVarlamore.
+
+The rune mace can be combined withScurrius' spineon an anvil using a hammer to create thebone mace, requiring 35Smithing. Alternatively,Historian Aldocan do so for a fee of 50,000coins.
+
+Combat stats[edit|edit source]
+
+Attack bonuses |  | 
+
+
+
+ |  |  |  | 
+
++20 | -2 | +39 | +0 | +0
+
+
+
+Defence bonuses
+
+
+
+ |  |  |  | 
+
++0 | +0 | +0 | +0 | +0
+
+
+
+Other bonuses | Slot
+
+
+
+ |  |  |  | 
+
++36 | +0 | +0% | +4 | List
+
+
+
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+
+ | Pummel | Crush | Aggressive |  | +3 Strength
+
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+
+ | Block | Crush | Defensive |  | +3 Defence
+
+Creation[edit|edit source]
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Bone mace(Historian Aldo) |  | None | None | 1 ×Rune mace1 ×Scurrius' spine50,000 ×Coins
+
+ | Bone mace(Smithing) |  | 35 | 300 | 1 ×Rune mace1 ×Scurrius' spine
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Adamant dragon | 338 | 1 | 7/110 | &
+
+Amoxliatl | 263 | 1 | 2 × 2/56 | 
+
+Armoured zombie (Zemouregal's Fort) | 109 | 1 | 3/128 | &&
+
+Ferocious barbarian spirit | 166 | 1 | 1/128 | 
+
+Frost Nagua | 104 | 1 | 1/34 | 
+
+Locust rider | 68; 98; 106 | 1 | 1/128 | 
+
+Mithril dragon | 304 | 1 | 3/128 | 
+
+Rune dragon | 380 | 1 | 7/127 | &
+
+Scarab Mage | 66; 93; 119 | 1 | 1/128 | 
+
+Steel dragon | 246; 274 | 1 | 4/128 | 
+
+The Hueycoatl | 642 | 1–26(noted) | 3/68 | 
+
+Zombie Pirate's Locker |  | 2 | 6/173 | N/A
+
+Zombie pirateDiary | 22; 28; 34 | 1 | 6/378 | N/A
+
+Zombie pirateRegular | 22; 28; 34 | 1 | 6/1,260 | N/A
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Iwan's Maces | Prifddinas | 1 | 1h 20m | 14,400 | 8,640 | 1.0% |  | 
+
+Scavvo's Rune Store. | Champions' Guild | 1 | 1h 10m | 14,400 | 8,640 | 2.0% |  | 
+
+Spike's Spikes | Outer Fortis | 1 | unknown | 18,720 | 5,760 | 3.0% |  | 
+
+Changes[edit|edit source]
+
+Date | Changes
+
+21 April2021(update) | The mace'sattack speedhas been increased from 5 (every 3.0 seconds) to 4 (every 2.4 seconds).
+
+Gallery (historical)[edit|edit source]
+
+ | 
+
+ | 
+
+RuneScape 2Beta | March/April 2004 –present
+
+v•t•eCrush weapons
+
+Mace | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(bh) (cr)AncientBarroniteBoneTzhaar-ket-emInquisitor's
+
+Warhammer | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon(cr)GraniteStatius's
+
+Cane | BlackAdamantRuneDragon
+
+Kitchen weaponry | Frying panRolling pinMeat tenderiser
+
+Maul | GadderhammerHill giant clubGranite maul(ornate handle)Tzhaar-ket-om(t)Elder maul(or)
+
+Mjolnir | GuthixSaradominZamorak
+
+Magic hybrid | Ivandis flailBlisterwood flailStaves(Battle),(Mystic)Toktz-mej-talVoid knight maceAhrim's staffBlue moon spear
+
+Other | Abyssal bludgeonBlackjacksBarrelchest anchor(bh)Dual macuahuitlGlacial temotliKeris partisan(breaching) (corruption) (sun)Sarachnis cudgelTorag's hammersVerac's flailViggora's chainmaceUrsine chainmace
+
+v•t•eRune equipment
+
+Weapons | DaggerAxeMaceClawsSwordLongswordScimitar(Guthix)(Saradomin)(Zamorak)SpearWarhammerBattleaxe2h swordHalberdHastaPickaxeFelling axeCane
+
+Armour | Full helmet(t)(g)Platebody(t)(g)Platelegs(t)(g)Plateskirt(t)(g)Kiteshield(t)(g)Med helmChainbodySquare shieldBootsGlovesDefender(t)
+
+Gilded equipment | Weapons2h swordAxeHastaPickaxeScimitarSpearArmourFull helmPlatebodyPlatelegsPlateskirtKiteshieldMed helmChainbodySquare shieldBootsDefender | Weapons | 2h swordAxeHastaPickaxeScimitarSpear | Armour | Full helmPlatebodyPlatelegsPlateskirtKiteshieldMed helmChainbodySquare shieldBootsDefender
+
+Weapons | 2h swordAxeHastaPickaxeScimitarSpear
+
+Armour | Full helmPlatebodyPlatelegsPlateskirtKiteshieldMed helmChainbodySquare shieldBootsDefender
+
+Rune god armour | SaradominFull helmPlatebodyPlatelegsPlateskirtKiteshieldGuthixFull helmPlatebodyPlatelegsPlateskirtKiteshieldZamorakFull helmPlatebodyPlatelegsPlateskirtKiteshieldArmadylFull helmPlatebodyPlatelegsPlateskirtKiteshieldBandosFull helmPlatebodyPlatelegsPlateskirtKiteshieldAncientFull helmPlatebodyPlatelegsPlateskirtKiteshield | Saradomin | Full helmPlatebodyPlatelegsPlateskirtKiteshield | Guthix | Full helmPlatebodyPlatelegsPlateskirtKiteshield | Zamorak | Full helmPlatebodyPlatelegsPlateskirtKiteshield | Armadyl | Full helmPlatebodyPlatelegsPlateskirtKiteshield | Bandos | Full helmPlatebodyPlatelegsPlateskirtKiteshield | Ancient | Full helmPlatebodyPlatelegsPlateskirtKiteshield
+
+Saradomin | Full helmPlatebodyPlatelegsPlateskirtKiteshield
+
+Guthix | Full helmPlatebodyPlatelegsPlateskirtKiteshield
+
+Zamorak | Full helmPlatebodyPlatelegsPlateskirtKiteshield
+
+Armadyl | Full helmPlatebodyPlatelegsPlateskirtKiteshield
+
+Bandos | Full helmPlatebodyPlatelegsPlateskirtKiteshield
+
+Ancient | Full helmPlatebodyPlatelegsPlateskirtKiteshield
+
+Rune heraldic armour | HelmH1H2H3H4H5PlatebodyH1H2H3H4H5ShieldH1H2H3H4H5 | Helm | H1H2H3H4H5 | Platebody | H1H2H3H4H5 | Shield | H1H2H3H4H5
+
+Helm | H1H2H3H4H5
+
+Platebody | H1H2H3H4H5
+
+Shield | H1H2H3H4H5
+
+Dragonstone armour | Full helmPlatebodyPlatelegsBootsGauntlets
+
+Ranged | Crossbow(or)BoltsArrowsBrutal arrowsDartsJavelinThrownaxeThrowing knife
+
+Other | BarNailsArrowtipsJavelin headsDart tipsUnfinished boltsBroken axeBroken pickaxe

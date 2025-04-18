@@ -1,0 +1,309 @@
+[Shop: Steel_axe]
+
+Steel axe
+
+
+
+
+
+
+
+Released | 4 January2001(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | Yes
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Wield, Drop
+
+Examine | A woodcutter's axe.
+
+
+
+Values
+
+
+
+Value | 200 coins
+
+High alch | 120 coins
+
+Low alch | 80 coins
+
+Weight | 1.36 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 71coins (info)
+
+Buy limit | 40
+
+Daily volume | 11,905
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 1353
+
+Link | MOID
+
+
+
+TheSteel axeis slightly stronger than theIron axe. It can be used in combat or inWoodcuttingto cut trees. It requires anAttacklevel of 5 to be equipped, and a Woodcutting level of 6 to be used.
+
+The success rate for chopping a log is approximately 200% that of theBronze axe, or 33% better than anIron axe.
+
+Players can make a Steel axe with theSmithingskill at level 31 using oneSteel bar, giving the player 37.5 Smithingexperience.
+
+Combat stats[edit|edit source]
+
+Attack bonuses |  | 
+
+
+
+ |  |  |  | 
+
+-2 | +8 | +6 | +0 | +0
+
+
+
+Defence bonuses
+
+
+
+ |  |  |  | 
+
++0 | +1 | +0 | +0 | +0
+
+
+
+Other bonuses | Slot
+
+
+
+ |  |  |  | 
+
++9 | +0 | +0% | +0 | List
+
+
+
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+
+ | Hack | Slash | Aggressive |  | +3 Strength
+
+ | Smash | Crush | Aggressive |  | +3 Strength
+
+ | Block | Slash | Defensive |  | +3 Defence
+
+Creation[edit|edit source]
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Steel felling axe |  | 6 | 5 | 1 ×Felling axe handle1 ×Steel axe
+
+Treasure Trails[edit|edit source]
+
+Tier | Emotes | STASHlocation | Items | Cost
+
+Easy | Jump for Joy | Beehiveswest ofCatherby, in the south-east corner |  | 1,551
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Aberrant spectre | 96 | 1 | 3/128 | 
+
+Abhorrent spectre | 253 | 1 | 3 × 3/128 | 
+
+Alexis | 24 | 1 | 10/512 | 
+
+Bandit (Bandit Camp) | 57; 74 | 1 | 1/128 | 
+
+BanditLevel 22 | 22 | 1 | 1/128 | 
+
+Bloodveld | 76; 81 | 1 | 4/128 | 
+
+Boris | 24 | 1 | 10/512 | 
+
+Bronze Chest (black) | N/A | 1 | 6/98.64 | 
+
+Bronze Chest (brown) | N/A | 1 | 6/98.59 | 
+
+Bronze Chest (crimson) | N/A | 1 | 6/98.62 | 
+
+Bronze Chest (purple) | N/A | 1 | 6/98.67 | 
+
+Bronze Chest (red) | N/A | 1 | 6/98.56 | 
+
+Dagannoth (Waterbirth Island)Level 90 | 90 | 1 | 10/128 | 
+
+Eduard | 24 | 1 | 10/512 | 
+
+Elaborate lockbox | N/A | 1 | 2 × 4/50 | 
+
+Fire giant | 86; 104; 109 | 1 | 3/128 | 
+
+Flaming pyrelord | 97 | 1 | 4/128 | 
+
+Galina | 24 | 1 | 10/512 | 
+
+Georgy | 24 | 1 | 10/512 | 
+
+Giant skeleton (Shadow Dungeon) | 80 | 1 | 2/128 | 
+
+Giant skeleton (Tarn's Lair) | 100 | 1 | 2/128 | 
+
+Greater demonRegular | 92; 100; 101; 113 | 1 | 3/128 | 
+
+Guard (H.A.M. Storerooms) | 20 | 1 | 6/500 | 
+
+H.A.M. Guard | 12; 18; 22 | 1 | 2/110 | 
+
+H.A.M. Member | 15 | 1 | 2/100 | 
+
+Harpie Bug Swarm | 46 | 1 | 4/128 | 
+
+Ice giantRegular | 53 | 1 | 4/128 | 
+
+Imre | 24 | 1 | 10/512 | 
+
+Insatiable Bloodveld | 202 | 1 | 3 × 4/128 | 
+
+Irina | 24 | 1 | 10/512 | 
+
+JellyRegular | 78 | 1 | 3/128 | 
+
+Joseph | 24 | 1 | 10/512 | 
+
+Kalphite Soldier | 85 | 1 | 4/128 | 
+
+Ksenia | 24 | 1 | 10/512 | 
+
+Lesser demonRegular | 82; 87; 94 | 1 | 4/128 | 
+
+Lev | 24 | 1 | 10/512 | 
+
+Liliya | 24 | 1 | 10/512 | 
+
+Milla | 24 | 1 | 10/512 | 
+
+Nikita | 24 | 1 | 10/512 | 
+
+Nikolai | 24 | 1 | 10/512 | 
+
+Ogre Coffin | 20 | 1 | 3/100 | 
+
+Ork | 107 | 1 | 5/128 | 
+
+Pyrefiend | 43; 48 | 1 | 4/128 | 
+
+Reward casket (beginner) | N/A | 1 | 11/492 | 
+
+Skeleton (Tarn's Lair)High level | 81; 87 | 1 | 2/128 | 
+
+Skeleton (mage) | 94 | 1 | 2/128 | 
+
+Sofiya | 24 | 1 | 10/512 | 
+
+Svetlana | 24 | 1 | 10/512 | 
+
+Thug | 10 | 1 | 1/128 | 
+
+Tree spirit | 14–159 | 1 | 10/128 | 
+
+Tyras guard | 110 | 1 | 3/128 | 
+
+Vera | 24 | 1 | 10/512 | 
+
+Vitreous Jelly | 206 | 1 | 3 × 3/128 | 
+
+Werewolf | 88; 93 | 1 | 25/512 | 
+
+Yadviga | 24 | 1 | 10/512 | 
+
+Young impling jar | N/A | 1 | 1/10 | 
+
+Young impling | 22; 32 | 1 | 1/10 | 
+
+Yuri | 24 | 1 | 10/512 | 
+
+Zoja | 24 | 1 | 10/512 | 
+
+ZygomiteLevel 74 | 74 | 1 | 3/137 | 
+
+ZygomiteLevel 86 | 86 | 1 | 3/140 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Armoury | Combat Training Camp | 3 | 4m | 300 | 100 | 1.0% |  | 
+
+Bob's Brilliant Axes. | Lumbridge | 3 | 4m | 200 | 120 | 2.0% |  | 
+
+Gulluck and Sons | Grand Tree,2ndfloor[UK]3rdfloor[US] | 3 | 4m | 200 | 50 | 1.0% |  | 
+
+Perry's Chop-chop Shop | Woodcutting Guild | 2 | 9s | 640 | 120 | 1.0% |  | 
+
+Changes[edit|edit source]
+
+Date | Changes
+
+11 September2014(update|poll) | Random event ents no longer spawn and axes can no longer be broken.
+
+22 June2005(update) | The item's examine was changed from "A woodcutters[sic]axe." to "A woodcutter's axe."
+
+v•t•eAxes
+
+Standard | BronzeIronSteelBlackMithrilAdamantRuneDragon(or)
+
+Other | BlessedGilded3rd ageInfernal(or)CrystalTrailblazer
+
+Felling axes | BronzeIronSteelBlackMithrilAdamantRuneDragon3rd ageCrystal
+
+Axe head(discontinued) | HandleBronzeIronSteelBlackMithrilAdamantRuneDragon
+
+Broken(discontinued) | BronzeIronSteelBlackMithrilAdamantRuneDragon
+
+v•t•eSteel equipment
+
+Melee weapons | DaggerAxeMaceClawsSwordLongswordScimitarSpearWarhammerBattleaxeTwo-handerHalberdHastaPickaxeFelling axe
+
+Ranged weapons/ammo | CrossbowBoltsArrowsBrutal arrowsThrowing axeThrowing knifeJavelinDartsCannonball
+
+Armour | Medium helmFull helm(t)(g)ChainbodyPlatebody(t)(g)GlovesSquare shieldKiteshield(t)(g)Platelegs(t)(g)Plateskirt(t)(g)BootsDefender
+
+Other | BarNailsArrowtipsJavelin headsDart tipsUnfinished boltsStudsBroken axeBroken pickaxe

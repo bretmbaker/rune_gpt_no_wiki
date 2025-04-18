@@ -1,0 +1,1 @@
+Beeris a type ofalethat restores 1Hitpointandtemporarily boostsStrengthby 2% + 1, whiledrainingAttackby 6% + 1. Unlike other ales, it cannot be created throughbrewing.

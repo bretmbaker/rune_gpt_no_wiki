@@ -1,0 +1,103 @@
+[Weapon: Ardougne Cloak 3]
+
+
+TheArdougne cloak 3is a reward from completing thehard Ardougne Diarygiven to you byTwo-pintsin theFlying Horse InninEast Ardougne, and can be retrieved from her for free if lost.
+A number of other benefitsare always active upon claiming rewards from the hard tier of the Ardougne diary.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Monastery Teleport, Farm Teleport, Drop
+Worn options: Kandarin Monastery, Ardougne Farm
+Examine: A shadowy Ardougne cloak.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +5
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +5
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Adamant dragon/Strategies(Melee)
+4 | Adamant dragon/Strategies(Magic)
+4 | Adamant dragon/Strategies(Magic)
+4 | Ancient Wyvern/Strategies(Magic)
+4 | Barbarian Assault/Strategies(Magic)
+4 | Cerberus/Strategies(Melee)
+5 | Corporeal Beast/Strategies(Solo melee)
+5 | Corporeal Beast/Strategies(Melee masses)
+5 | Corporeal Beast/Strategies(Team melee)
+4 | Crazy archaeologist/Strategies(Magic)
+4 | Dark beast/Strategies(Melee)
+4 | Drake/Strategies(Magic)
+4 | Drake/Strategies(Melee)
+4 | Dust devil/Strategies(Bursting/Barraging)
+4 | Galvek Speed-Trialist(Melee)
+4 | General Graardor/Strategies(Solo (Magic))
+4 | Giant Mole/Strategies(Dharok's)
+4 | Giant Mole/Strategies(Melee)
+4 | Giant Mole/Strategies(Magic)
+4 | Glough Speed-Trialist(Melee)
+4 | Greater Nechryael/Strategies(Bursting/Barraging)
+3 | Green dragon/Strategies(Melee)
+3 | Krystilia/Strategies(Melee)
+5 | Lizardman shaman/Strategies(Melee)
+5 | Metal dragons/Strategies(Melee)
+4 | The Mimic/Strategies(Magic)
+4 | Mithril dragon/Strategies(Magic)
+4 | Mithril dragon/Strategies(Melee)
+4 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+4 | Nightmare Zone/Strategies(Melee (Guthan's))
+4 | Nightmare Zone/Strategies(Melee (Prayer))
+4 | Rune dragon/Strategies(Magic)
+4 | Rune dragon/Strategies(Melee)
+5 | Skeletal Wyvern/Strategies(Melee)
+4 | Skeletal Wyvern/Strategies(Magic)
+4 | Slayer task/Abyssal demons(Magic)
+4 | Slayer task/Fossil Island wyverns(Magic)
+4 | Slayer task/Jellies(Magic)
+4 | Slayer task/Nechryael(Magic)
+4 | Slayer task/Suqah(Melee (South))
+4 | Slayer task/Trolls(Magic (Ice trolls))
+4 | Slayer task/Trolls(Melee (Mountain trolls))
+4 | Slayer task/Trolls(Melee (Ice trolls))
+4 | Smoke devil/Strategies
+5 | Sulliuscep/Strategies
+4 | Sulliuscep/Strategies
+5 | Thermonuclear smoke devil/Strategies(Melee)
+4 | Thermonuclear smoke devil/Strategies(Magic)
+5 | Volcanic Mine(Solo)
+5 | Volcanic Mine(Group)
+4 | Vorkath/Strategies(Melee)
+4 | Zulrah/Strategies(Magic)

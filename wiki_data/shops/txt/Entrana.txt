@@ -1,0 +1,197 @@
+[Shop: Entrana]
+
+Entrana
+
+
+
+
+
+Released | 27 February2002(Update)
+
+Members | Yes
+
+Location | Southern Sea,Asgarnia
+
+Leagueregion | Asgarnia✓
+
+Inhabitants | Humans
+
+Teleports | Balloon transport system,Abyss
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | island
+
+
+
+The holy island ofEntranalies south-west ofTaverley. When entering Entrana, adventurers are prohibited from bringingweaponsorarmourwith them.
+
+Getting there[edit|edit source]
+
+Access is via:
+
+Boat inPort Sarim, by talking to themonkson the dock. This is free.Through theLaw Altarvia theAbyssin theWilderness.Using theBalloon transport system.
+
+Taking a boat from Port Sarim to Entrana is a task in theFalador Easy Diary.
+
+Prohibited equipment[edit|edit source]
+
+Before being able to sail or fly to Entrana, themonkor aBalloon transport systemassistant will search the player. At thelaw rift, the power of Saradomin is present and will prevent the player from taking prohibited equipment to Entrana. If a player logs in on Entrana or exits theLaw Altarwith prohibited equipment (via exploitation ofglitches), amonkwill immediately appear next to the player on Entrana and knock them unconscious (with a few exceptions). The player will then reawaken inPort Sarimaboard the Entrana ferry, and exclaimUrrrrrgh!
+
+Despite Entrana's east coast being within line of sight for usingTelekinetic Grabon items on the coast just west ofFalador, trying to cast the spell on items dropped there will result in a chat message sayingI can't reach that..
+
+Generally, players cannot take any of the following:
+
+Armourwith attack or defence bonuses[a]Vestment stolesCapeswith attack or defence bonuses,[a]including:Max capeCape of legendsMythical capeObsidian capeFire capeInfernal capeArdougne cloakCapes of Accomplishment[b]Ava's devicesCabbage capeBonesackBanana capeWeaponswith attack or defence bonuses:[a]Dramen staveshave bonuses[c]Woodcuttingaxeshave bonuses[d][e]Harpoon weapons(barb-tailharpoon,merfolk trident, and thedragon harpoonand its variants) have bonuses[f]Some items without bonuses:BannersSwift bladeandham joint(Thegoblin paint cannonis allowed)Godswords(even if dismantled)Magic butterfly net[g]Noose wand[g]Imcando hammer[h]Hallowed hammerProspector kitandGolden Prospector kitSage's GreavesMiscellaneousDwarf multicannonImpling jars, however implings can be brought onto the island withDark lureand caught barehanded.Looting bagcontaining any of the previous itemsExtra supply cratesSpoils of warTackle boxcontaining any wieldable harpoonsTeasing stick[g]Zealot's helm, although the rest of the outfit is allowed.
+
+Playerscannotsmuggle weapons or armour to Entrana by openingTreasure Trailscaskets there, as they cannot be received on the island; if a slot in the reward casket loot table rolls a prohibited item, it is rerolled[1]. This makes it useful for players seeking specific rewards such as god pages. However,beginnerandmastercaskets may not be opened on the island; if attempted, a message states that the monks are watching closely.
+
+Exceptions[edit|edit source]
+
+Permitted items include:
+
+ClothesColouredrobesMonk robesGod booksGod capesBook of the deadTome of waterTome of earthChronicleJewellery(rings,amulets,necklaces, andbracelets)BlessingsBoots of lightnessIce glovesPenance glovesGraceful outfit(excludingAgility capeormax cape)Raiments of the eyeSpotted cape/spottier capeVestment cloaks3rd age cloakFarmer's outfitMagic secateursArrowsandboltsin their completed formAllrunesas well as arune pouchLockboxes, which can contain a weapon or piece of armour when openedChristmas crackers, from which ablack daggercan be pulled when used on another playerDynamite(p)Ring of the elementsAmy's saw(must be swapped to itsoff-handversion before entering the island)
+
+Certain items can be crafted on the island with the appropriateCraftingand/orFletchinglevels. However, the player shouldonlydo this in their current session; if they log off and back on after having created a weapon, the monk will spot the player and remove them from the premises immediately.
+
+Silver sickles, asilver bar, and asickle mould(however it should be noted that a silver sickle is slower than attacking unarmed and only grants +1 Strength bonus)Battlestaves, withcelastrus barkand aknifeElemental battlestaves, with an elemental orbXerician armour, withXerician fabric, aneedle, andthreadSplitbark armour, withfine cloth,bark, a needle, and threadBroodoo shields, with atribal mask, 2snakeskin, 8nailsof any type, and ahammerLeather armourof various types can be made with a needle, and threadLeather(andsteel studs)HardleatherSnakeskinMixed hide armourDragon leather[i]Wooden shieldsLeather shields, with the corresponding leather and a hammerBows, with unstrungbowsandbow stringsCrossbows, with unstrungcrossbowsandcrossbow stringsHunter's spear[g], withteak logs,jerboa tails,hunter spear tips, and a knifeDarts, withdart tipsandfeathersAtoxic blowpipe, with atanzanite fang,Zulrah's scales, a chisel, and unfinished darts
+
+In theTrailblazer Leaguegame mode, players could smuggleblackandblessedbracers, chaps and body armour to Entrana without objection from a passing monk by exiting theLaw Altar, without having to craft a set of black dragonhide armour. This requiredcrystal of memoriesto return to the Law Altar with armour. It is unclear whether this works inDeadman Modewithsigil of last recall.
+
+Implings caught in jars could be smuggled via the Law Altar with a crystal of memories to Entrana, but jars with prohibited equipment cannot be opened on the main island, attempting to yields the message:You can't loot impling jars here.However, they can be looted inside the Law Altar despite the power of Saradomin prohibiting taking prohibited implings caught in jars through thelaw rift. It is unclear whether impling jars can be smuggled with a sigil of last recall.
+
+In theTrailblazer Reloaded League, players with thebanker's notecould use it to un-note noted armour and weapons on the island. This was useful for completing clue steps that would otherwise have required players to craft the required items on Entrana.
+
+Notable features[edit|edit source]
+
+Dungeon[edit|edit source]
+
+The Entrana Dungeon is located in the north-west of the island. It is the location of thedramen tree.
+
+Glassblowing[edit|edit source]
+
+Located north-west of the port, the player can find afurnace. It is rarely used forSmithingdue to the lack of rocks and Entrana's distance to abank. However, you can findFritz the Glassblower, who is also the Glassblowing tutor. He buysmolten glassfrom players for 20coinseach. He also gives the player a free bucket when talking with him for the first time.
+
+All ingredients for glassblowing are found here (sand,soda ash, and a furnace), including aglassblowing pipe. You can find a spawn in the house north-east of theHerbloreshop. There are 10seaweedspawns on the north-western side of the island, but you need to use theTelekinetic Grabspell to reach two of them.
+
+It is possible to quickly accumulatebuckets of sandby taking empty buckets from theTool Leprechaunnext to thehops patch, filling them in the sand pit and depositing them to theBank Deposit BoxinPort Sarimnext to the Monks of Entrana.
+
+Farming[edit|edit source]
+
+There is ahops patchfor theFarmingskill. As usual, atool leprechauncan be found near the patch. The player can payFrancis, and he will watch your crops for you. He also sells the following items:
+
+Plant curesfor 25coinsCompostfor 35 coinsRakesfor 15 coinsWatering cansfor 25 coinsGardening trowelsfor 25 coinsSeed dibbersfor 15 coins
+
+Altar[edit|edit source]
+
+Held by theHigh Priest, theSaradominchurchis the most important building of all Entrana. If you are injured, talk to a level 5monkand select the option"Can you heal me? I'm injured"and he will nurse you for free. From the candle stall, you can stealcandles, granting 20Thievingexperience. You may fail, giving the message"A high power smites you"and inflicting 1 damage. Upstairs, the player can find anorganon which they can play a melody.
+
+With theTreasure Trailsexpansion on6 July 2016, amaster clue scrollmay direct the player to stand in the church and cheer while wearing a full set ofblack dragonhide armour. Since armour (usually) cannot be taken onto the island, the player must have 84Crafting(boostable) and bring aneedleand enoughthreadandblack dragon leather(6) to make the armour themselves in order to complete this clue. ASTASHunit is provided on the north side of the church for the player to store the armour for this clue.
+
+Herblore shop[edit|edit source]
+
+Frincos's Fabulous Herb Store, aHerblore shopowned byFrincos, can be found on the western side of the island.
+
+Frincos sells 50 emptyvialsat 2coinseach. However, there are two vial spawns in the shop.
+
+Law Altar[edit|edit source]
+
+TheLaw Altarcan be found on the north-eastern side of the island.
+
+Fishing dock[edit|edit source]
+
+A hugeFishingdock is located on the east side of the island. There are fourfishing spots, all of which are sea bait fishing andsmall fishing netlocations. Note that there is also a fly-fishing location located on the river. The spots are on both sides of the river directly behind the church. Afishing rodspawns in the house right before the dock, and there is achickenfarm forfeathersnorth of the dock. There is also arangenearby forCooking. Players can bank their fish at thebank deposit boxat thePort Sarimdock.
+
+Poll booth[edit|edit source]
+
+Despite not having abank, aPoll Boothcan be found in a house on the western side of the island.
+
+Monsters[edit|edit source]
+
+Ablack bearUnicorns(4 spawns)MonksChickensTheEntrana firebird
+
+The following are found in theEntrana Dungeon:
+
+ZombiesGreater demons
+
+Music unlocked[edit|edit source]
+
+Background- Entrana surfaceUnderground (music track)-Entrana Dungeon
+
+Quests[edit|edit source]
+
+The following quests involve Entrana:
+
+Lost CityHeroes' QuestHoly GrailDesert Treasure IDevious MindsThe Hand in the SandEnlightened JourneyMonkey Madness IIFreeing Sir Amik VarzeTroll Stronghold(completion allows law altar access)
+
+Treasure Trails[edit|edit source]
+
+Searching the southern drawer in the house with thecooking rangeon the western side of the island is the solution to a hardcryptic clue:When no weapons are at hand, then is the time to reflect. In Saradomin's name, redemption draws closer...
+
+Cheering in the church is an emote for a Master clue step, requiring black dragonhide body, chaps and vambraces which must be crafted on Entrana:Cheer in the Entrana church, beware of double agents! Equip a set of full black dragonhide armour.
+
+Other[edit|edit source]
+
+2planksspawn on the northern part of the island.5willow treesare found near theLaw Altar.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+13 January2021(update) | It is no longer possible to openSpoils of Waron Entrana.
+
+6 August2015(update) | The Monks of Entrana now get suitably angry if you attempt to take Ghostly Robes to the island.
+
+23 January2014(update) | A portion of the dock on Entrana is no longer sinking.
+
+Notes[edit|edit source]
+
+References[edit|edit source]
+
+v•t•eLost City
+
+NPCs | WarriorArcherWizardMonkShamusCave monkEnemiesDramen Tree Spirit |  | WarriorArcherWizardMonkShamusCave monk | Enemies | Dramen Tree Spirit
+
+ | WarriorArcherWizardMonkShamusCave monk
+
+Enemies | Dramen Tree Spirit
+
+Items | Dramen staffDramen branch
+
+Locations | EntranaEntrana DungeonLumbridge SwampZanaris
+
+Scenery | Dramen treeTree (Lost City)
+
+Music | Underground (music track)Faerie
+
+Related | Quick guideTranscript
+
+v•t•eDevious Minds
+
+NPCs | MonkDoricHigh PriestAssassinDead MonkSir Tiffy Cashien
+
+Items | Slender bladeBow-swordOrbLarge pouchColossal pouchRelic
+
+Locations | Paterdomus TempleDoric's hutEntrana
+
+Related | Quick guideTranscript
+
+v•t•eEntrana
+
+Inhabitants | AugusteBlack bearCave monkCroneEntrana firebirdFrancisFrincosFritz the GlassblowerHigh PriestMazionMonk of EntranaMonkMonk (Entrana)Entrana DungeonGreater demonTree spiritZombie |  | AugusteBlack bearCave monkCroneEntrana firebirdFrancisFrincosFritz the GlassblowerHigh PriestMazionMonk of EntranaMonkMonk (Entrana) | Entrana Dungeon | Greater demonTree spiritZombie
+
+ | AugusteBlack bearCave monkCroneEntrana firebirdFrancisFrincosFritz the GlassblowerHigh PriestMazionMonk of EntranaMonkMonk (Entrana)
+
+Entrana Dungeon | Greater demonTree spiritZombie
+
+Shops | Frincos' Fabulous Herb Store.
+
+Features | Balloon transport systemChurch organEntrana DungeonMagic doorLaw altarMonk of EntranaSand pit

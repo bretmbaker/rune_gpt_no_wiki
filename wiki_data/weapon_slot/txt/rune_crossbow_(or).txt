@@ -1,0 +1,53 @@
+[Weapon: Rune Crossbow (Or)]
+
+
+Therune crossbow (or)is arune crossbowwith ashattered relics variety ornament kitadded onto it. The kit gives no additional bonuses, and is only used to add aesthetics to the crossbow.
+Whilst in its ornamented state, the item can be reverted anytime, returning the rune crossbow and kit.
+
+
+[Infobox]
+Released: 16 March2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle
+Examine: A weapon plucked from the shattered abyss.
+General Store Value: 16,200 coins
+High alch: 9,720 coins
+Low alch: 6,480 coins
+Weight: 6 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +90
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Heavy | Accurate | 6 ticks (3.6s) | 7 tiles |  | +3 Ranged
+ | Rapid | Heavy | Rapid | 5 ticks (3.0s) | 7 tiles |  | None
+ | Longrange | Heavy | Longrange | 6 ticks (3.6s) | 9 tiles |  | +3 Defence

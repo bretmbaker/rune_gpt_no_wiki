@@ -1,0 +1,9 @@
+Item: Bandos boots
+Summary: Bandos boots are part of the Bandos armour set, which requires 65 Defence to wear. They have the second highest ranged defence bonus for boots (beaten only by its upgraded variant, the guardian boots).
+Sources:
+- Armadylean guard (Level 97, Quantity: 1, Rarity: 1/2,000,000)
+- Bandosian guard (Level 125, Quantity: 1, Rarity: 1/2,000,000)
+- General Graardor (Level 624, Quantity: 1, Rarity: 1/381)
+- Sergeant Grimspike (Level 142, Quantity: 1, Rarity: 1/16,256)
+- Sergeant Steelwill (Level 142, Quantity: 1, Rarity: 1/16,256)
+- Sergeant Strongstack (Level 141, Quantity: 1, Rarity: 1/16,256)

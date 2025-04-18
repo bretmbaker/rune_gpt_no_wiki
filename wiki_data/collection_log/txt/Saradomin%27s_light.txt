@@ -1,0 +1,4 @@
+Item: Saradomin's light
+Summary: Saradomin's light is an item obtained by killing Commander Zilyana in the God Wars Dungeon. It can be used to permanently remove the darkness in Zamorak's Fortress in the God Wars Dungeon, which in turn allows the player to see better and more clearly. However, doing so will not prevent the prayer drain from occurring when players enter Zamorak's Fortress.
+Sources:
+- Commander Zilyana (Level 596, Quantity: 1, Rarity: 1/254)

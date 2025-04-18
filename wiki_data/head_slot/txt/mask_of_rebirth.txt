@@ -1,0 +1,46 @@
+[Weapon: Mask Of Rebirth]
+
+
+Themask of rebirthis an item obtained from thestrange chestin the hidden room inOsmumten's burial chamber inside theTombs of Amascutraid, which is accessed by using theancient keyon thestrange tableton the western side of the burial chamber.
+It resembles the mask worn byAmascut, although with added cat ears to the mask. Its name refers to the fact that Amascut was the goddess of rebirth prior to becoming corrupted as the Devourer.
+
+
+[Infobox]
+Released: 14 September2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You'll have to obtain another one from within Osmumten's Tomb.
+Examine: A mask representing rebirth.
+General Store Value: 2,000 coins
+Alchemy: Not alchemisable
+Weight: 0.35 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

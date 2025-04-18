@@ -1,0 +1,49 @@
+[Weapon: Ring Of Pursuit]
+
+
+Aring of pursuitis anopal ringenchanted via theLvl-1 Enchantspell. When worn, it will reveal the entire track ofhunter creatures(excludingherbiboars) caught vianoose wand. The ring will provide 10 charges before disappearing.
+
+
+[Infobox]
+Released: 2 February2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Check, Break, Drop
+Worn options: Check
+Examine: This ring can reveal a hunter creature's track.
+General Store Value: 1,050 coins
+High alch: 630 coins
+Low alch: 420 coins
+Weight: 0.006 kg
+Grand Exchange Value: 1,160 coins
+Grand Exchange Daily Buy Limit: 100
+Grand Exchange Daily Trades Volume: 5,323
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot

@@ -1,0 +1,70 @@
+[Weapon: Crystal Pickaxe#Active]
+
+
+Thecrystal pickaxeis apickaxeused inMining. It requires 71 Mining andSong of the Elvesto create and use, with 50Agilityand 70Attackrequired to wield it. It possesses the samespecial attackas thedragon pickaxe. Excluding waiting for ores to respawn or having to move to a new resource, the crystal pickaxe is effectively a 3.03% increase in overall mining speed compared to adragon pickaxeor 9.09% compared to arune pickaxe. A charged crystal pickaxe provides a chance to mine an ore every threeticks(with an additional 1/4 chance to reduce this to two ticks); an uncharged crystal pickaxe has the same mining capabilities as a dragon pickaxe.
+Players can create a crystal pickaxe via asinging bowlby combining adragon pickaxe, 120crystal shardsand acrystal tool seed. Doing so requires level 76SmithingandCraftingtosingthe crystal (the levels can beboosted), and grants 6,000 experience in both skills. Players can configure the charges while the pickaxe is in their bank by right-clicking on Configure-Charges, as long as players have the required materials. If the player does not meet the Smithing and Crafting requirements, they can haveConwennaorReesesing the crystal for them for an extra 60 crystal shards, for a total of 180.
+
+
+[Infobox]
+Released: 25 July2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Check, Revert, Drop
+Worn options: Check
+Examine: If rocks could feel fear, they'd fear this.
+General Store Value: 520,000 coins
+High alch: 312,000 coins
+Low alch: 208,000 coins
+Weight: 1.36 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +38
+- Slash: -2
+- Crush: +32
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +42
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Spike | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Impale | Stab | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performs the crystal pickaxe's special attack,Rock Knocker.
+The crystal pickaxe'sspecial attack,Rock Knocker, temporarily boosts the player'sMininglevel by 3 (players will need to have 70Attackand 50Agilityto utilise this special). This consumes 100% of the player's special attack energy.
+As long as a player can wield the pickaxe, requiring 50 Agility and 70 Attack, the special attack can be used to mine with the pickaxe starting at 70 Mining.
+Note that any levels boosted above 99 with the special attack will be treated as 99. Therefore, you will start to receive diminishing returns with the special attack at level 97 and 98, with there being no value in activating the special attack at level 99.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Chambers of Xeric/Challenge Mode/Strategies(Guardians)
+1 | Chambers of Xeric/Strategies(Guardians)
+1 | Guardians of the Rift/Strategies(Runecrafting)
+1 | Zalcano/Strategies(Mining)

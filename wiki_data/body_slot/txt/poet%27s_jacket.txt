@@ -1,0 +1,46 @@
+[Weapon: Poet%27S Jacket]
+
+
+Thepoet's jacketis anevent itemunlocked by speaking toGilbertin the flower field south-east ofBarbarian Village, after which it can be obtained fromDiangoor retrieved from atoy boxbuilt in thecostume room. It was originally received as a reward for completing the2023 Pride event.
+
+
+[Infobox]
+Released: 7 June2023(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: I wish to find inspiration! Will this jacket help?
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.3 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

@@ -1,0 +1,64 @@
+[Weapon: Skull Sceptre]
+
+
+Theskull sceptreis obtained by combining monsters drops from within theStronghold of Security, as explainedbelow.
+It can be used to teleport to the entrance of the Stronghold inBarbarian Village, andmemberscan use it toautocastArceuus combat spells. Note that the sceptre can only be used to autocast combat spells from the Arceuus spellbook and not other spellbooks. Unlike theimbued version, this versioncannotautocastcrumble undead.
+The sceptre is one of the few teleport items available tofree-to-playplayers. This makes it highly desired among these players, though they are advised to imbue it, as explainedbelow.
+
+
+[Infobox]
+Released: 4 July2006(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Invoke, Divine, Drop
+Worn options: Invoke, Divine
+Examine: A fragile magical Sceptre.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: -1
+- Crush: +7
+- Magic: +10
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +4
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +3
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Free-to-play Ironman guide(Magicgear)
+3, 4 | Free-to-play Magic training(Magicgear)
+5 | The Bane of Demons(Magic)

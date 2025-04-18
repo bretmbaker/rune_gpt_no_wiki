@@ -1,0 +1,48 @@
+Name: Goblin guard
+Combat Level: 42
+Size: 1x1
+Info:
+- Description: He doesn't look like he'd trust his own mother.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 43 xp
+- Category: Goblins
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 5369
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Coins (1/128)
+- Brass necklace (1/128)
+- Air talisman (1/128)
+- Goblin skull (1/4[d 1])
+- Ensouled goblin head (1/35)
+- Clue scroll (beginner) (1/64)
+- Clue scroll (easy) (1/128[d 2])
+- Goblin champion scroll (1/5,000)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 43
+Attack: 32
+Strength: 37
+Defence: 37
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

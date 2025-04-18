@@ -1,0 +1,64 @@
+[Weapon: Zealot%27S Boots]
+
+
+Thezealot's bootsis a piece of theZealot's robesset that can be obtained from looting gold chests within theShade Catacombs.
+The boots grant a 1.25% chance to prevent various remains from being consumed whilst trainingPrayer; wearing the full set will increase this chance to 5%, and stacks with the bone-saving effect of the altar in theChaos Temple. However, this does not apply at theForthos Dungeon'sSacred Bone Burner, nor when castingSinister Offering.
+
+
+[Infobox]
+Released: 27 January2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A well fashioned pair of boots with a strange aura emanating.
+General Store Value: 24,400 coins
+High alch: 14,640 coins
+Low alch: 9,760 coins
+Weight: 0.283 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Gold Chest (black) | N/A | 1 | 1/128 | 
+Gold Chest (brown) | N/A | 1 | 1/128 | 
+Gold Chest (crimson) | N/A | 1 | 1/128 | 
+Gold Chest (purple) | N/A | 1 | 1/128 | 
+Gold Chest (red) | N/A | 1 | 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Dust devil/Strategies(Bursting/Barraging)
+5 | Greater Nechryael/Strategies(Bursting/Barraging)
+4 | Slayer task/Abyssal demons(Magic)
+4 | Slayer task/Jellies(Magic)
+5 | Slayer task/Nechryael(Magic)

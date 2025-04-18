@@ -1,0 +1,64 @@
+[Weapon: Iron Plateskirt]
+
+
+Theiron plateskirtis a plateskirt made from iron. It has the same stats asiron platelegsbut weighs less.
+They can be made at level 31Smithingwith 3iron bars, granting 75 experience.
+
+
+[Infobox]
+Released: 13 February2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Designer leg protection.
+General Store Value: 280 coins
+High alch: 168 coins
+Low alch: 112 coins
+Weight: 8.164 kg
+Grand Exchange Value: 52 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 1,298
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +11
+- Slash: +10
+- Crush: +10
+- Magic: -4
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Angry barbarian spirit | 166 | 1 | 5/128 | 
+Berserk barbarian spirit | 166 | 1 | 5/128 | 
+Broken armour | 1 | 1 | 57/200 | 
+Enraged barbarian spirit | 166 | 1 | 5/128 | 
+Simple lockbox | N/A | 1 | 32/10,850 | 
+Skeleton brute | 132 | 1 | 5/128 | 
+Skeleton heavy | 132 | 1 | 5/128 | 
+Skeleton hero | 149 | 1 | 5/128 | 
+Skeleton thug | 132 | 1 | 5/128 | 
+Skeleton warlord | 132 | 1 | 5/128 | 
+Spiritual warrior | 115–158 | 1 | 4/127 | 

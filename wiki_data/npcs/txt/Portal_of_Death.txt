@@ -1,0 +1,2 @@
+Item: Portal of Death
+Summary: Portals of Death are barriers in the Sepulchre of Death, the final level of the Stronghold of Security. They will ask players questions about account security before allowing them to pass, unless the Cradle of Life has been claimed. Passage through a door from a room filled with monsters is always immediate, however, allowing one to escape combat if needed.

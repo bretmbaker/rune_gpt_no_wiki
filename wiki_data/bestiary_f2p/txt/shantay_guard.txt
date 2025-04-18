@@ -1,0 +1,39 @@
+Name: Shantay Guard
+Combat Level: 22
+Size: 1x1
+Info:
+- Description: He patrols the Shantay Pass.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4643,4648
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 32
+Attack: 17
+Strength: 16
+Defence: 16
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

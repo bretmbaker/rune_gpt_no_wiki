@@ -1,0 +1,2 @@
+Item: Pillory Guard
+Summary: The Pillory Guard is a random event character that will come and threaten to lock up the player. If the player agrees to come along quietly, they will be taken to the Pillory random event. However, the player can ignore him if they do not wish to participate.

@@ -1,0 +1,10 @@
+[Page: Quest List]
+
+TheQuest Listis a panel of the gameinterfaceaccessed via theCharacter Summarytab. This interface shows the complete list ofquestsas well asminiquests.
+The list is colour-coded based on the progress made in each quest:
+At the bottom of the list, the number ofquest pointsobtained out of the total amount possible is displayed.
+Clicking on a quest name shows a screen with:
+Right-clicking a quest name displays the following:
+Clicking on a quest that has been completed (displayed in green) shows a screen with:
+After completing certain quests, the Quest journal will give new information.
+A list ofminiquestshas been added to the bottom of the quest list.

@@ -1,0 +1,52 @@
+[Weapon: Ardougne Cloak 1]
+
+
+TheArdougne cloak 1is a reward from completing the easyArdougne Diarygiven to you byTwo-pintsin theFlying Horse InnatEast Ardougne, and can be retrieved from her for free if lost.
+This cape's teleport can be used with the nearbyspirit treeorfairy ringfor quick transportation with low requirements.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Monastery Teleport, Drop
+Worn options: Kandarin Monastery
+Examine: A shadowy Ardougne cloak.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +2
+- Slash: +0
+- Crush: +0
+- Magic: +2
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +0
+- Crush: +0
+- Magic: +2
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Green dragon/Strategies(Melee)

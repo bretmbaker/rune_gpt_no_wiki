@@ -1,0 +1,53 @@
+[Weapon: Haunted Wine Bottle]
+
+
+Thehaunted wine bottleis a holiday reward received from completing aHalloween eventfrom 2021 onwards. The bottle has a right-click option, "Wake-ghost", which performs an emote in which players shake the bottle and wake an angry ghost.
+If the player talks to the Haunted wine bottle whilst wearing aghostspeak amuletthey may speak to the spirit inside the bottle. Doing so returns several unique dialogue exchanges between the player and the spirit.
+
+
+[Infobox]
+Released: 20 October2021(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Wake-ghost, Talk-to, Destroy
+Destroy: You can get another one from Diango.
+Examine: I don't even want to know how this happened.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 0.15 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -50
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

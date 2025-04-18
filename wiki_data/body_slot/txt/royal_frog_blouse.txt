@@ -1,0 +1,46 @@
+[Weapon: Royal Frog Blouse]
+
+
+Theroyal frog blouseis given along with theroyal frog skirtfromThessaliain theThessalia's Fine Clothes. It is obtained when a player is given theKiss the frograndom event. When a player completes it, they are rewarded with afrog token. This token can be cashed in for either afrog mask, aroyal frog tunicandroyal frog leggingsset, a royal frog blouse androyal frog skirtset, or alamp.
+This item can be stored in thefancy dress boxof acostume room, as part of theFrog Costumeset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 1 August2005(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Very posh!
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

@@ -1,0 +1,46 @@
+[Weapon: Ghommal%27S Hilt 1]
+
+
+Ghommal's hilt 1is ateleportationitem obtained fromGhommalorLaidee Gnonockafter obtaining 38 combat achievement points and claiming it from theCombat Achievementssystem.
+Multiple copies of the hilt can be claimed from Ghommal or Laidee Gnonock if desired, without any additional costs.
+
+
+[Infobox]
+Released: 21 July2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Trollheim, Drop
+Worn options: Trollheim
+Examine: A basic artifact[sic].
+General Store Value: 0 coins
+Alchemy: Not alchemisable
+Weight: 0.001 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

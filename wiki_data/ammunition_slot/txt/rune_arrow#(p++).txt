@@ -1,0 +1,108 @@
+[Weapon: Rune Arrow#(P++)]
+
+
+Rune arrowsare stronger thanadamant arrows, are stackable, and can be used on anybowofyewor stronger. They can be created through theFletchingskillat level 75 by using 15rune arrowtipson 15headless arrows, granting 187.5 Fletchingexperience. Players may also obtain 50 rune arrows from theRanging Guildin exchange for 2,000archery tickets, or obtain 300 atJustine's stuff for the Last Shopper StandinginFerox Enclavein exchange for 3Last Man Standingpoints. Lastly, they can be bought from theLletya Archery shopandDaryl's Ranging SurplusinShayzien. As with mostarrows, they can bepoisoned.
+Rune arrows with aMagic shortbow (i)are a powerful weapon forIronmenbefore obtaining theToxic blowpipe, however they are outclassed byKaril's crossbow.
+
+
+[Infobox]
+Released: 25 March2002(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Arrows with rune heads.
+General Store Value: 400 coins
+High alch: 240 coins
+Low alch: 160 coins
+Weight: 0 kg
+Grand Exchange Value: 50 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 30,369,957
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +49
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ancient Wyvern | 210 | 25–50 | 3/132 | 
+Ancient chest | N/A | 1–9,362 | 2 × 1/33 | 
+AnkouWilderness Slayer Cave | 98 | 5–14 | 4/92 | 
+Armoured zombie (Zemouregal's Fort) | 109 | 12 | 8/128 | &&
+Barbarian Assault/GamblesHigh | N/A | 400–500 | 1/32 | 
+Branda the Fire Queen | 350 | 100–300 | 2 × 15/387 | N/A
+Brutal black dragon | 318 | 75 | 7/128 | 
+Brutal blue dragon | 271 | 15 | 7/128 | 
+Brutal red dragon | 289 | 25 | 7/128 | 
+Castle wars supply crate | N/A | 175–225 | 3 × 1/11 | N/A
+Chaos Elemental | 305 | 150 | 5/128 | 
+Chewed bones | N/A | 10 | 6/128 | 
+Choke devil | 264 | 12 | 3 × 5/128 | 
+Crystal impling jar | N/A | 400–750 | 1/18 | 
+Crystal impling | 80; 90 | 400–750 | 1/18 | 
+Dark Chest | 28 | 100–300 | 30/600 | 
+Drake | 192 | 35–65 | 10/85 | 
+Dust devilRegular | 93; 110 | 12 | 5/128 | 
+Dust devilWilderness Slayer Cave | 93 | 12 | 5/126 | 
+Eldric the Ice King | 350 | 100–300 | 2 × 8/250 | N/A
+Ferocious barbarian spirit | 166 | 10 | 4/128 | 
+Fire giant | 86; 104; 109 | 12 | 5/128 | 
+Guardian Drake | 386 | 35–65 | 3 × 10/85 | 
+Kalphite Queen | 333 | 250 | 3/126 | 
+Kree'arra | 580 | 100–105 | 8/127 | 
+The Leviathan | 593; 798; 1157 | 54; 81 | 8/100 | 
+Locust rider | 68; 98; 106 | 18 | 2/128 | 
+Mithril dragon | 304 | 8 | 3/128 | 
+The Nightmare | 814 | 31–547 | 3/100 | 
+Ninja impling jar | N/A | 70 | 1/19 | 
+Ninja impling | 74; 84 | 70 | 1/19 | 
+Nuclear smoke devil | 280 | 24 | 3 × 2/128 | 
+Phosani's Nightmare | 1024 | 412–957 | 3/100 | 
+Red dragon | 152 | 4 | 8/128 | &
+Reward Chest (The Gauntlet) | N/A | 200–300 | 2 × 1/24 | 
+Reward Chest (The Gauntlet)(Corrupted) | N/A | 250–450 | 3 × 1/24 | 
+Rune dragon | 380 | 30–40 | 8/127 | &
+Scarab Mage | 66; 93; 119 | 18 | 2/128 | 
+ScurriusMVP | 200; 250 | 20–50 | 6/100 | 
+Scurriusnon-MVP | 200; 250 | 20–35 | 3/33 | 
+Skeletal Wyvern | 140 | 36 | 5/128 | 
+Smoke devil | 160 | 24 | 2/128 | 
+Spiritual ranger | 115–158 | 5 | 2/128 | 
+Spiritual rangerZaros | 158 | 12 | 2/128 | 
+Spiritual rangerZaros | 158 | 50 | 2/128 | 
+Spoils of war | N/A | 100–200 | 3 × 5/90 | 
+Thermonuclear smoke devil | 301 | 100 | 2/107 | 
+Tormented Demon | 450 | 65–125 | 4/51 | 
+Vyrewatch Sentinel | 151 | 4–10 | 4/93 | 
+
+
+[Used in Recommended Equipment]
+Date | Changes
+22 August2006(update) | The extra strong poisoned variant was renamed from "Rune arrow(+)" to "Rune arrow(p+)".The super strong poisoned variant was renamed from "Rune arrow(s)" to "Rune arrow(p++)".
+5 December2005(update) | The item's examine was changed from "Arrows with Rune heads." to "Arrows with rune heads."

@@ -1,0 +1,91 @@
+[Pet: Vet%27ion_jr.]
+
+Vet'ion jr.is apetdropped byVet'ionandCalvar'ion. It is a much smaller version ofVet'ion. Players can right click "Metamorphosis"to change between its normal and reborn form, as well as legacy forms of both, which uses the former appearance of the pet prior to 25 January 2023.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Calvar'ion | 264 | 1 | 1/2,800 | 
+
+Vet'ion | 454 | 1 | 1/1,500 | 
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+25 January2023(update) | The pet has had its graphics updated to match its boss counterpart.A "Metamorphosis" option has been added to the pet to allow transformation to its older graphical appearance.
+
+30 June2016(update) | The pet item could no longer be turned into a bank placeholder.
+
+9 April2015(update) | "Talk-to" was made the left-click option instead of "Pick-up".
+
+Trivia[edit|edit source]
+
+This pet was originally polled along with the other Wilderness boss pets in Content Poll #22. It gained 72.2% yes votes, 2.8% short of the passing threshold required. The introduction of the pet was re-polled in the Near Miss Poll, and passed by 90.3%.The dialogue is a reference to the Ghost Army inThe Lord of the Rings.Vet'ion jr. used to be one of the rarer pets in-game, due to the boss' mechanics prior to his rework; in December 2021, he was the second-rarest boss pet in game, behind theInferno'sJal-nib-rek.[1]Following the rework, Vet'ion jr. became significantly more common due to its respective boss fight becoming more straightforward, as well as the pet now being able to be dropped by Calvar'ion.
+
+References[edit|edit source]
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan
+
+v•t•eWilderness bossesand rewards
+
+Bosses | Multi-combatCallistoVenenatis(Spiderling)Vet'ion(Skeleton Hellhound) (Greater Skeleton Hellhound)Chaos ElementalKing Black DragonSingles-plusArtioSpindel(Spiderling)Calvar'ion(Skeleton Hellhound) (Greater Skeleton Hellhound)Demi-bossesChaos Fanatic(Miniature chaotic clouds)Crazy archaeologistRevenant maledictusScorpia(Offspring) (Guardian) | Multi-combat | CallistoVenenatis(Spiderling)Vet'ion(Skeleton Hellhound) (Greater Skeleton Hellhound)Chaos ElementalKing Black Dragon | Singles-plus | ArtioSpindel(Spiderling)Calvar'ion(Skeleton Hellhound) (Greater Skeleton Hellhound) | Demi-bosses | Chaos Fanatic(Miniature chaotic clouds)Crazy archaeologistRevenant maledictusScorpia(Offspring) (Guardian)
+
+Multi-combat | CallistoVenenatis(Spiderling)Vet'ion(Skeleton Hellhound) (Greater Skeleton Hellhound)Chaos ElementalKing Black Dragon
+
+Singles-plus | ArtioSpindel(Spiderling)Calvar'ion(Skeleton Hellhound) (Greater Skeleton Hellhound)
+
+Demi-bosses | Chaos Fanatic(Miniature chaotic clouds)Crazy archaeologistRevenant maledictusScorpia(Offspring) (Guardian)
+
+Rewards | WeaponsItemsClaws of CallistoFangs of VenenatisSkull of Vet'ionVoidwaker bladeVoidwaker gemVoidwaker hiltWeaponsUrsine chainmaceWebweaver bowAccursed sceptre(autocasting)VoidwakerRingsRing of the gods(imbued)Treasonous ring(imbued)Tyrannical ring(imbued)ShieldsMalediction ward(or)Shard 1Shard 2Shard 3Odium ward(or)Shard 1Shard 2Shard 3PetsCallisto cubVenenatis spiderlingVet'ion jr.Scorpia's offspringPrince black dragonPet chaos elementalOtherFedoraDragon pickaxeLarran's keySlayer's enchantment | Weapons | ItemsClaws of CallistoFangs of VenenatisSkull of Vet'ionVoidwaker bladeVoidwaker gemVoidwaker hiltWeaponsUrsine chainmaceWebweaver bowAccursed sceptre(autocasting)Voidwaker | Items | Claws of CallistoFangs of VenenatisSkull of Vet'ionVoidwaker bladeVoidwaker gemVoidwaker hilt | Weapons | Ursine chainmaceWebweaver bowAccursed sceptre(autocasting)Voidwaker | Rings | Ring of the gods(imbued)Treasonous ring(imbued)Tyrannical ring(imbued) | Shields | Malediction ward(or)Shard 1Shard 2Shard 3Odium ward(or)Shard 1Shard 2Shard 3 | Pets | Callisto cubVenenatis spiderlingVet'ion jr.Scorpia's offspringPrince black dragonPet chaos elemental | Other | FedoraDragon pickaxeLarran's keySlayer's enchantment
+
+Weapons | ItemsClaws of CallistoFangs of VenenatisSkull of Vet'ionVoidwaker bladeVoidwaker gemVoidwaker hiltWeaponsUrsine chainmaceWebweaver bowAccursed sceptre(autocasting)Voidwaker | Items | Claws of CallistoFangs of VenenatisSkull of Vet'ionVoidwaker bladeVoidwaker gemVoidwaker hilt | Weapons | Ursine chainmaceWebweaver bowAccursed sceptre(autocasting)Voidwaker
+
+Items | Claws of CallistoFangs of VenenatisSkull of Vet'ionVoidwaker bladeVoidwaker gemVoidwaker hilt
+
+Weapons | Ursine chainmaceWebweaver bowAccursed sceptre(autocasting)Voidwaker
+
+Rings | Ring of the gods(imbued)Treasonous ring(imbued)Tyrannical ring(imbued)
+
+Shields | Malediction ward(or)Shard 1Shard 2Shard 3Odium ward(or)Shard 1Shard 2Shard 3
+
+Pets | Callisto cubVenenatis spiderlingVet'ion jr.Scorpia's offspringPrince black dragonPet chaos elemental
+
+Other | FedoraDragon pickaxeLarran's keySlayer's enchantment

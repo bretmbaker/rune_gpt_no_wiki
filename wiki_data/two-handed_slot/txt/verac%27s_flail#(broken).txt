@@ -1,0 +1,70 @@
+[Weapon: Verac%27S Flail#(Broken)]
+
+
+Verac's flailis a two-handed flail that is part ofVerac the Defiled's setofbarrows equipment. To wield Verac's flail, a player must have 70Attack. The flail shares many similarities to amace, notably its attack styles and stat distribution, though it attacks one tick slower.
+If Verac's flail is wielded along with all of the other pieces of equipment in Verac's set, the player receives the Defiler set effect. With this set effect active, player attacks have a chance (averaging 1/4) of hitting through an opponent'sdefenceandprayerentirely. This effect can be devastating towards tank opponents who rely on high defence. With this set effect, Verac's flail can be considered one of the best weapons for certainPvMsituations.
+
+
+[Infobox]
+Released: 9 May2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Check, Drop
+Worn options: Check
+Destroy: If you drop this item it will break. Are you sure you want to drop it?
+Examine: Verac the Defiled's flail.
+General Store Value: 160,000 coins
+High alch: 96,000 coins
+Low alch: 64,000 coins
+Weight: 2.267 kg
+Grand Exchange Value: 101,107 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 251
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +68
+- Slash: -2
+- Crush: +82
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +72
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +6
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Barrows) | N/A | 1 | 7 × 1/2,448 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Chaos Elemental/Strategies(Melee)
+1 | Kalphite Queen/Strategies(Verac the Defiled's)

@@ -1,0 +1,93 @@
+Name: Sarachnis
+Combat Level: 318
+Size: 5x5
+Info:
+- Description: I'm going to need a really big newspaper...
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 430 xp
+- Category: Spiders, Bosses
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 8713
+- Link: MOID
+
+Location:
+- Area: Forthos Dungeon — Burial tomb
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for Sarachnis:
+
+Notable Drops:
+- Sarachnis cudgel (1/384[1])
+- Toadflax seed (1/251.1)
+- Irit seed (1/368.8)
+- Belladonna seed (1/380.6)
+- Poison ivy seed (1/536.4)
+- Avantoe seed (1/536.4)
+- Cactus seed (1/561.9)
+- Potato cactus seed (1/786.7)
+- Kwuarm seed (1/786.7)
+- Snapdragon seed (1/1,180)
+- Cadantine seed (1/1,685.7)
+- Lantadyme seed (1/2,360)
+- Snape grass seed (1/2,950)
+- Dwarf weed seed (1/3,933.3)
+- Torstol seed (1/5,900)
+- Maple seed (1/100)
+- Papaya tree seed (1/100)
+- Yew seed (1/100)
+- Grimy kwuarm (31/1,650)
+- Runite ore (1/100)
+- Uncut diamond (1/100)
+- Crystal key (1/100)
+- Spider carcass (1/100)
+- Nothing (1/200.37; Never[d 1])
+- Uncut sapphire (1/400; 1/203.13[d 2])
+- Uncut emerald (1/800; 1/406.25[d 2])
+- Uncut ruby (1/1,600; 1/812.5[d 2])
+- Uncut diamond (1/6,400; 1/3,250[d 2])
+- Nature talisman (1/4,266.67; 1/2,166.67[d 2])
+- Loop half of key (1/12,800; 1/6,500[d 2])
+- Tooth half of key (1/12,800; 1/6,500[d 2])
+- Rune javelin (1/12,800; 1/6,500[d 2])
+- Rune spear (1/204,800; 1/12,187.5[d 2][d 3])
+- Shield left half (1/409,600; 1/24,375[d 2][d 3])
+- Dragon spear (1/546,133.33; 1/32,500[d 2][d 3])
+- Tattered moon page (1/5[1][d 1])
+- Tattered sun page (1/5[1][d 1])
+- Tattered temple page (1/5[1][d 1])
+- Giant egg sac(full) (1/20[1])
+- Grubby key (1/15[1])
+- Clue scroll (hard) (1/40[d 2][2])
+- Brimstone key (1/57[d 3])
+- Clue scroll (elite) (1/60[d 4][2])
+- Jar of eyes (1/2,000[1])
+- Sraracha (1/3,000[1])
+
+Combat Achievements:
+- Sarachnis Novice: Kill Sarachnis 10 times. (Easy (1 pt))
+- Newspaper Enthusiast: Kill Sarachnis with a crush weapon. (Medium (2 pts))
+- Sarachnis Champion: Kill Sarachnis 25 times. (Medium (2 pts))
+- Ready to Pounce: Kill Sarachnis without her using her range attack twice in a row. (Hard (3 pts))
+- Inspect Repellent: Kill Sarachnis without her dealing damage to anyone. (Hard (3 pts))
+
+[Combat stats]
+Hitpoints: 400
+Attack: 200
+Strength: 240
+Defence: 150
+Magic: 150
+Ranged: 300
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

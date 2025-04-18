@@ -1,0 +1,54 @@
+[Weapon: Bandos Full Helm]
+
+
+ABandos full helmis a decoratedrune full helmthat is affiliated with the godBandos. It shares the same stats as the rune full helm, except it has aPrayer bonus. Its appearance differs in that the helm features a brown plume. The full helm requires 40Defenceto wear andcannotbe made using theSmithingskill. Players can obtain a Bandos full helm as a reward from completinghardTreasure Trails.
+This full helm is a constituent of theBandos rune armourset which consists of the following items: Bandos full helm,Bandos platebody,Bandos platelegsorBandos plateskirt, andBandos kiteshield, all of which are decorative versions of their respectiverune armour counterparts. Players wielding any piece featured in this set of armour will causefollowers of Bandosto become tolerant upon entering theGod Wars Dungeon.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Rune full helmet in the colours of Bandos.
+General Store Value: 35,200 coins
+High alch: 21,120 coins
+Low alch: 14,080 coins
+Weight: 2.721 kg
+Grand Exchange Value: 20,872 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 115
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +30
+- Slash: +32
+- Crush: +27
+- Magic: -1
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

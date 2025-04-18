@@ -1,0 +1,2 @@
+Item: Cook (servant)
+Summary: The Cook is a servant that players with at least level 30 Construction can hire to do various services in their player-owned house. The cook has a wage at 3,000 coins. Players must pay her the wage every eight uses of her services. The cook has inventory space for 16 items and a trip time of 17 seconds.

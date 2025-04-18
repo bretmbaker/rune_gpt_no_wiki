@@ -1,0 +1,135 @@
+[Spell: Wind_Strike]
+
+Wind Strike
+
+
+
+
+
+
+
+Released | 24 May2001(Update)
+
+Members | No
+
+Level | 1
+
+Spellbook | Standard
+
+Type | Combat
+
+Experience | 5.5
+
+Element | Air
+
+Base max hit | 2, 4, 6, or 8
+
+Runes | 11
+
+Casting speed | 5 ticks
+
+Description | A basic Air missile
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Wind Strikeis anair-basedstrike spellin thestandard spellbookavailable starting at level 1Magic. As anoffensive combat spellit can only be cast onattackable NPCs, or other players in aPvP situation.
+
+Wind Strike is the weakest wind spell in the game, as well as the first combat spell players gain access to. It is commonly used by players training Magic viasplashing, due to its low rune cost.
+
+Damage[edit|edit source]
+
+Wind Strike's base maximum hit starts at 2 and increases as the player unlocks additional strike spells, up to 8 at level 13 Magic.
+
+Magiclevel | Highest-levelstrike spellavailable | Wind Strikebase maximum hit
+
+1- 4 | Wind Strike | 2
+
+5- 8 | Water Strike | 4
+
+9- 12 | Earth Strike | 6
+
+13+ | Fire Strike | 8
+
+As with all combat spells, Wind Strike's maximum hit is also increased based on the player'smagic damage bonus.
+
+As an air-based spell, Wind Strike's maximum hit is also increased against targets that areweak to air.
+
+Calculator[edit|edit source]
+
+Please input the data and submit the form.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+11 | 8
+
+Combo runes
+
+11 | 12
+
+11 | 57
+
+11 | 126
+
+Main-hands
+
+1Alt | 3
+
+0.860.86Alt | 7
+
+0.850.85 | 7
+
+Notable uses[edit|edit source]
+
+OnTutorial Island, the magic instructorTerrovatasks the player with casting Wind Strike on achicken.As a strike spell, Wind Strike is one of the only spells that can be used to damageSalarin the twisted. When used this way, its damage is scaled up to match that ofWind Bolt.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+29 May2024(update) | The maximum hit of the spell now depends on how manystrike spellsthe player has unlocked, based on theirMagiclevel.
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

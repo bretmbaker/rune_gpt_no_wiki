@@ -1,0 +1,63 @@
+Name: Scurrius
+Combat Level: 200
+Size: 3x3
+Info:
+- Description: You're never more than six feet away from one.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 600 xp
+- Category: Rats
+
+Immunities:
+- Poison: Not immune
+- Venom: Converts to poison
+- Cannons: Immune
+- Freeze: 50% resistance
+- Monster ID: 7222
+- Link: MOID
+
+Location:
+- Area: Varrock Sewers
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+- Sit Rat: Finish off Scurrius with a ratbane weapon in a private instance. (Easy (1 pt))
+- Scurrius Novice: Kill Scurrius once. (Easy (1 pt))
+- Scurrius Champion: Kill Scurrius 10 times. (Medium (2 pts))
+- Perfect Scurrius: Kill Scurrius in a private instance without taking damage from the following attacks: Tail Swipe and Falling Bricks. Pray correctly against the following attacks: Flying Fur and Bolts of Electricity. (Medium (2 pts))
+- Efficient Pest Control: Kill 6 Giant Rats within Scurrius' lair in 3 seconds. (Medium (2 pts))
+
+[Combat stats]
+Hitpoints: 500
+Attack: 300
+Strength: 100
+Defence: 60
+Magic: 50
+Ranged: 50
+
+[Aggressive stats]
+Attack bonus: 150
+Strength bonus: 10
+Magic attack bonus: 150
+Magic strength bonus: 20
+Ranged attack bonus: 150
+Ranged strength bonus: 10
+
+[Melee defence]
+Stab: 20
+Slash: 20
+Crush: 20
+
+[Magic defence]
+Magic: 10
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 20
+Standard: 20
+Heavy: 20

@@ -1,0 +1,4 @@
+Item: Blood quartz
+Summary: The blood quartz is a gem dropped by Vardorvis. It is used on an ancient sceptre to create the blood ancient sceptre; this process can be reversed. It can also be used to open a chest in the Ancient Vault.
+Sources:
+- Vardorvis (Level 572; 784; 1136, Quantity: 1, Rarity: 1/204)

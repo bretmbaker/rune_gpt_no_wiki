@@ -1,0 +1,39 @@
+Name: Crandor shark
+Combat Level: 31
+Size: 2x2
+Info:
+- Description: Picking up the scraps left behind by Elvarg.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: beta14250,beta14251
+- Link: MOID
+
+Location:
+- Area: Rimmington Strait
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 35
+Attack: 50
+Strength: 20
+Defence: 0
+Magic: 1
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,72 @@
+[Weapon: Dagon%27Hai Robe Bottom]
+
+
+TheDagon'hai robe bottomis a piece ofmagic armourobtained as a rare loot fromLarran's big chest. It is part of theDagon'hai robesset, and requires level 70Magicand 40Defenceto wear. It can be stored in amagic wardrobein a player-owned house.
+
+
+[Infobox]
+Released: 24 October2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A robe worn by members of the Dagon'hai.
+General Store Value: 90,000 coins
+High alch: 54,000 coins
+Low alch: 36,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 601,668 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 262
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +18
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +14
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +1%
+- Prayer: +2
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Larran's big chest | N/A | 1 | 1/256 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Barrows/Strategies(Magic equipment)
+4 | Chambers of Xeric/Challenge Mode(Magic)
+4 | Drake/Strategies(Magic)
+3 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+3 | Maniacal monkey/Strategies(Magic - Ice Burst)
+3 | Nightmare Zone/Strategies(Magic)
+4 | Phantom Muspah/Strategies(Magic & Ranged)
+4 | Skeletal Wyvern/Strategies(Magic)
+4 | Skeleton (Ape Atoll)(Magic)
+4 | Smoke devil/Strategies
+4 | The Bane of Demons(Magic)
+4 | Thermonuclear smoke devil/Strategies(Magic)
+4 | Tombs of Amascut/Strategies(Magic switch)
+5 | The Whisperer/Strategies(Magic)
+4 | Zulrah/Strategies(Magic)

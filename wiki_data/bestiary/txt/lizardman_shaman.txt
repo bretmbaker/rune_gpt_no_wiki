@@ -1,0 +1,113 @@
+Name: Lizardman shaman
+Combat Level: 150
+Size: 3x3
+Info:
+- Description: A mystic from a race created during the darker days of Kourend.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 157.5 xp
+- Category: Lizardmen
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 6766,6767,7744,7745
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guides are available for Lizardman shaman:
+
+Notable Drops:
+- Dragon warhammer (1/3,000)
+- Grimy kwuarm (1/35.56)
+- Grimy cadantine (1/44.44)
+- Grimy dwarf weed (1/44.44)
+- Grimy lantadyme (1/59.26)
+- Ranarr seed (1/416.7)
+- Snapdragon seed (1/446.4)
+- Torstol seed (1/568.2)
+- Watermelon seed (1/595.2)
+- Willow seed (1/625)
+- Mahogany seed (1/694.4)
+- Maple seed (1/694.4)
+- Teak seed (1/694.4)
+- Yew seed (1/694.4)
+- Papaya tree seed (1/892.9)
+- Magic seed (1/1,136.4)
+- Palm tree seed (1/1,250)
+- Spirit seed (1/1,562.5)
+- Dragonfruit tree seed (1/2,083.3)
+- Celastrus seed (1/3,125)
+- Redwood tree seed (1/3,125)
+- Xeric's talisman (inert) (1/250; 1/125[b])
+- Nothing (1/137.79; Never[d 1])
+- Coins (1/152.38)
+- Loop half of key (1/158.76; 1/157.58[d 2])
+- Tooth half of key (1/158.76; 1/157.58[d 2])
+- Uncut sapphire (1/640; 1/325[d 2])
+- Runite bar (1/640)
+- Nature rune (1/1,066.67)
+- Rune 2h sword (1/1,066.67)
+- Rune battleaxe (1/1,066.67)
+- Uncut emerald (1/1,280; 1/650[d 2])
+- Law rune (1/1,600)
+- Death rune (1/1,600)
+- Steel arrow (1/1,600)
+- Rune arrow (1/1,600)
+- Adamant javelin (1/1,600)
+- Rune sq shield (1/1,600)
+- Dragonstone (1/1,600)
+- Silver ore (1/1,600)
+- Uncut ruby (1/2,560; 1/1,300[d 2])
+- Rune kiteshield (1/3,200)
+- Dragon med helm (1/3,200)
+- Rune spear (1/3,378.14; 1/391.96[d 2])
+- Shield left half (1/6,756.29; 1/783.92[d 2])
+- Nature talisman (1/6,826.67; 1/3,466.67[d 2])
+- Dragon spear (1/9,008.38; 1/1,045.23[d 2])
+- Uncut diamond (1/10,240; 1/5,200[d 2])
+- Rune javelin (1/20,480; 1/10,400[d 2])
+- Brimstone key (1/90[d 1])
+- Clue scroll (hard) (1/200[d 2])
+- Long bone (1/400)
+- Clue scroll (elite) (1/1,200[d 3])
+- Curved bone (1/5,012.5)
+
+Combat Achievements:
+- A Scaley Encounter: Kill a Lizardman Shaman. (Easy (1 pt))
+- Shayzien Protector: Kill a Lizardman Shaman in Molch which has not dealt damage to anyone. (excluding its Spawns) (Easy (1 pt))
+
+[Combat stats]
+Hitpoints: 150
+Attack: 120
+Strength: 120
+Defence: 140
+Magic: 130
+Ranged: 120
+
+[Aggressive stats]
+Attack bonus: 45
+Strength bonus: 38
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 45
+Ranged strength bonus: 38
+
+[Melee defence]
+Stab: -20
+Slash: 40
+Crush: 30
+
+[Magic defence]
+Magic: 50
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: -10
+Standard: 0
+Heavy: 0

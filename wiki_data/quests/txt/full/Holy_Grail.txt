@@ -1,0 +1,121 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Holy Grail (#30)
+
+
+
+
+
+Released | 23 July 2002 ( Update )
+
+Members | Yes
+
+Quest series | Camelot , #2
+
+Lead developer(s) | Paul Gower
+
+
+
+The Holy Grail quest is the second part of the Camelot quest series , where you must help King Arthur find the holy grail . The grail is found to be missing from its original location in Entrana , protected by the Fisher King in the Fisher Realm .
+
+Details [ edit | edit source ]
+
+Start point | Speak to King Arthur in Camelot . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | King Arthur is sending out his knights on a quest for the famous Holy Grail. If you are a Knight of the Round Table go to King Arthur for further orders.
+
+Requirements | Completion of the following quests: Merlin's Crystal 20 Attack ( not boostable ) ( not required to start ) Must be able to defeat a level 120 Black Knight Titan (can be safespotted or flinched )
+
+Items required | Excalibur
+
+Recommended | 50 Combat level Halberd to attack the Black Knight Titan at range. Note: The Black Knight Titan is resistant to range and magic attacks. Note: The final damage must be dealt with Excalibur , so armour , food , or Protect from Melee is recommended. If below 41 combat , a method to cure poison Fast travel to several locations Camelot ( Camelot teleport ) Galahad 's house, north of the Fishing Guild ( Combat Bracelet to the Ranging Guild or Skills Necklace to the Fishing Guild) Draynor Manor ( Draynor manor teleport or Amulet of Glory ) Entrana ( Balloon transport system or via Port Sarim using the Explorer's Ring 2 or Rat Pits minigame teleport) Brimhaven ( Brimhaven teleport , Teleport to House if your house is in Brimhaven, via a charter ship or via Captain Barnaby 's ship from Ardougne using the Ardougne teleport or Ardougne cloak ) The Goblin Village ( Goblin village sphere , Balloon transport system , Falador teleport or Teleport to House if your house is in Taverley)
+
+Enemies to defeat | Black Knight Titan (level 120)
+
+Ironman concerns | The player briefly visits Entrana .
+
+League notes | Unlocking Kandarin ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Speak to King Arthur in Camelot , he will tell you about an ancient artefact called the holy grail . He mentions that the grail has been moved into the realm of RuneScape , and his Knights of the Round Table are currently looking for it.
+
+Speak to Merlin who is on the 1 st floor [ UK ] 2 nd floor [ US ] of Camelot Castle . Go up the staircase in the main part of the castle, and go to the south-east room (not the tower); he will appear once you enter. He tells you to go talk with someone on a "holy island" ( Entrana ), and Sir Galahad who lives somewhere west of McGrubor's Wood .
+
+The Island of Entrana [ edit | edit source ]
+
+Now, go to Port Sarim , and speak to the monks on the pier to sail to Entrana . Remember not to take any weapons or armour , or the monks will not grant you access to Entrana. There is a bank deposit box next to the monks in case you forget to bank your gear. Speak to the high priest of the church. He will say the holy grail is no longer here. Then, a strange old crone will appear and say that Fisher King is in trouble and to help him you must find where the six stone heads around the world point to and blow a magic whistle there.
+
+Return to Camelot (you can teleport or use a combat bracelet to teleport to the Ranging Guild ); then, go to Galahad who's located in a house west of McGrubor's Wood . Tell him you're looking for an item from the Fisher Realm , and he will reluctantly give you a holy table napkin , a souvenir he took from the Fisher Realm. (If you talk to Galahad and use the option of asking him if he ever gets lonely, he will give you a cup of tea, which you can drink to complete a task in the Kandarin easy diary )
+
+Now, head to the top floor of Draynor Manor into the southern room. You need to have the holy table napkin with you, or you can't see the whistle respawn. Pick up two magic whistles (another is needed later, but can also be obtained in the Fisher Realm). If the player waits too long the magic whistles will despawn, exiting and entering the room again will make the magic whistles respawn. Exit the manor through the back door in the south-eastern ground floor [ UK ] 1 st floor [ US ] room.
+
+Black Knight Titan [ edit | edit source ]
+
+Note: The Black Knight Titan is resistant to range and magic attacks.
+
+Now, get ready to fight! Aside from a player-planted spirit tree , the fastest way to Brimhaven is using a scroll of redirection on a teleport to house tablet and directing it to Brimhaven. The second best method is teleporting to Ardougne , or house (if your house is in Rimmington ), and talking to Captain Barnaby in southern Ardougne , on the docks, for 30 gold. You can also take a charter ship to Brimhaven from Port Sarim and the Catherby docks, this costs 1,600gp and 480gp respectively. You can also use the Fishing Trawler minigame teleport to easily take a charter ship (1,600 gp) to Brimhaven. You can also use your amulet of glory to teleport to Musa Point and run west, or use fairy ring code B L P or the TzHaar Fight Pit minigame teleport to go to Mor Ul Rek , the city of the TzHaar inside the volcano. Lastly, you can pay 30 coins to take a ship from Port Sarim to Musa Point and then walk to Brimhaven.
+
+After arriving in Brimhaven, head north-west of the town, where the goldmine is. Look for a guard tower north of where the gold rocks are.
+
+(Bring a pickaxe and you can complete a task in the Karamja easy diary by mining a piece of gold here. You can also complete another Karamja easy diary task nearby, simply by taking the rope swing to the small island with the Giants on it, and then using the rope swing to then come back.)
+
+Go under the tower and blow one of the magic whistles, and you will be teleported to the Fisher King's Realm . If you are below Combat level 41, be sure to bring Antipoison because there are level 20 poisonous scorpions .
+
+Now, you need to get across a bridge to speak to the Fisher King . The Black Knight Titan stands there and won't let you through without a match. The titan can hit up to 15, so be prepared. The titan must be killed with the Excalibur blade only, although you may use other weapons to bring down his health (it is possible to kill him with a different weapon, however you must quickly switch to Excalibur ). The titan has no specific weakness to an attack style , but he is resistant to Ranged and Magic attacks, hence it is recommended to use Melee . If the finishing strike is not from the Excalibur, you will have to face him again. (If you have a low level combat, it is possible to use the hit-and-run method, as the titan does not move. You can simply hit him once and then walk a square back.) If you use a halberd , you can just defeat him from a block away. (You can safespot with magic, stand 4 units east, and 1 unit north from the titan.) For Ironmen : It's possible for another player to teleport into your Fisher Realm instance and attack the titan if you are flinching. This will cause you to have to fight the titan all over again.  It is also possible to Woox walk the titan and not take any hits.
+
+After you have killed the titan, cross the bridge and head south along the river till you find a Fisherman . Speak to him and ask how to get inside the castle. He will tell you that you need to ring a bell. Head to the castle (south-west from the fisherman), and there will be a grail bell on the ground in front of the entrance. Ring it, progress through the dialogue, and you will be inside the castle, pick up the magic whistle on the floor (you will need a second one later). Note that if you leave the Fisher King's Realm after talking to the fisherman but before you retrieve the grail bell, you will need to talk to the fisherman again to get the grail bell.
+
+Head upstairs and speak to the Fisher King. Choose every chat option because if you miss one, you may have to kill the titan again. He is very sick and wishes to see his son once more. The son's name is Percival , and he is a knight of the round table. Now, blow your whistle again to be teleported out, or teleport directly to Camelot if you have the runes.
+
+Finishing up [ edit | edit source ]
+
+Head to Camelot , and speak to King Arthur . Though he does not know where Percival is, he gives you a magic gold feather , which points to the gold boots Percival was wearing.
+
+Blow on the feather, and it will guide you towards Goblin Village . Teleport to Falador , and head north. Once at the Goblin Village, head into the east house and open (do not just prod) the sacks, and you will find Sir Percival (you need to have the feather in your inventory to open the sacks). Tell him that his father wishes to see him. Percival doesn't know how to get to the castle; if you have a magic whistle in your inventory, you will automatically give it to him when the conversation ends.
+
+Head back to the Fisher King's Realm like before (you don't need to fight the Black Knight Titan this time). You may now also teleport there using fairy rings ( B J R ) after finding and giving him the whistle. Return to where the Fisher King previously was to find that Percival has become the new king.
+
+Head back downstairs, go up the staircase on the east end of the castle, and continue up the ladder. Now, you can take the holy grail . Then, blow your whistle.
+
+Head back to King Arthur in Camelot, and talk to him.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+2 Quest points 11,000 Prayer experience 15,300 Defence experience Access to the Fisher Realm Ability to put King Arthur picture on the wall in the Construction skill
+
+Unlocks:
+
+Black Knight Titan accessible in the Nightmare Zone .
+
+Required for completing [ edit | edit source ]
+
+Completion of Holy Grail is required for the following:
+
+King's Ransom
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Trivia [ edit | edit source ]
+
+The Black Knight Titan was based off the Black Knight in Monty Python and the Holy Grail . This is one of RuneScape ' s many references to Monty Python. The magic whistle may be a reference to Super Mario Bros. 3 , where whistles are used to teleport the player to different worlds. The player will keep asking The Knights of the Round and Sir Galahad about finding the grail even after they have it in their possession. Only Merlin seems to note that the player has discovered the grail. When entering the castle to get the Holy Grail you can see a hidden Mickey symbol.
+
+v • t • e Holy Grail
+
+NPCs | King Arthur Merlin Galahad High Priest Crone The Fisher King Black Knight Titan Peasant Fisherman Grail Maiden Sir Percival Mysterious statue
+
+Items | Magic whistle Holy table napkin Excalibur Grail bell Magic gold feather Holy grail
+
+Locations | Camelot Brimhaven Fisher Realm Goblin Village
+
+Music | Jungly 2 Landlubber Jolly R Miles Away
+
+Related | Quick guide

@@ -1,0 +1,2 @@
+Item: Haze
+Summary: Hazes are found all over the second level of the Abandoned Mine. When adjacent to the player they may become aggressive and turn into a level 29 ghost. This does not seem to happen when a ghostspeak amulet is present; instead the hazes remain hazy and unaggressive.

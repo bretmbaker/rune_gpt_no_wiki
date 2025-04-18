@@ -1,0 +1,714 @@
+{
+  "rogue gloves": {
+    "slot": "Hands",
+    "txt": "txt/rogue_gloves.txt"
+  },
+  "ankou gloves": {
+    "slot": "Hands",
+    "txt": "txt/ankou_gloves.txt"
+  },
+  "teal gloves": {
+    "slot": "Hands",
+    "txt": "txt/teal_gloves.txt"
+  },
+  "shayzien gloves (5)": {
+    "slot": "Hands",
+    "txt": "txt/shayzien_gloves_(5).txt"
+  },
+  "ice gloves": {
+    "slot": "Hands",
+    "txt": "txt/ice_gloves.txt"
+  },
+  "castle wars bracelet#(3)": {
+    "slot": "Hands",
+    "txt": "txt/castle_wars_bracelet#(3).txt"
+  },
+  "spiky vambraces": {
+    "slot": "Hands",
+    "txt": "txt/spiky_vambraces.txt"
+  },
+  "20th anniversary gloves": {
+    "slot": "Hands",
+    "txt": "txt/20th_anniversary_gloves.txt"
+  },
+  "karamja gloves 3": {
+    "slot": "Hands",
+    "txt": "txt/karamja_gloves_3.txt"
+  },
+  "group ironman bracers": {
+    "slot": "Hands",
+    "txt": "txt/group_ironman_bracers.txt"
+  },
+  "penance gloves#worn": {
+    "slot": "Hands",
+    "txt": "txt/penance_gloves#worn.txt"
+  },
+  "graceful gloves (piscarilius)#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves_(piscarilius)#worn.txt"
+  },
+  "barrows gloves": {
+    "slot": "Hands",
+    "txt": "txt/barrows_gloves.txt"
+  },
+  "blue d%27hide vambraces": {
+    "slot": "Hands",
+    "txt": "txt/blue_d%27hide_vambraces.txt"
+  },
+  "abyssal bracelet#(5)": {
+    "slot": "Hands",
+    "txt": "txt/abyssal_bracelet#(5).txt"
+  },
+  "iron gloves": {
+    "slot": "Hands",
+    "txt": "txt/iron_gloves.txt"
+  },
+  "villager armband (brown)": {
+    "slot": "Hands",
+    "txt": "txt/villager_armband_(brown).txt"
+  },
+  "flamtaer bracelet": {
+    "slot": "Hands",
+    "txt": "txt/flamtaer_bracelet.txt"
+  },
+  "onyx bracelet": {
+    "slot": "Hands",
+    "txt": "txt/onyx_bracelet.txt"
+  },
+  "gloves of darkness": {
+    "slot": "Hands",
+    "txt": "txt/gloves_of_darkness.txt"
+  },
+  "opal bracelet": {
+    "slot": "Hands",
+    "txt": "txt/opal_bracelet.txt"
+  },
+  "combat bracelet#(6)": {
+    "slot": "Hands",
+    "txt": "txt/combat_bracelet#(6).txt"
+  },
+  "blue spiky vambraces": {
+    "slot": "Hands",
+    "txt": "txt/blue_spiky_vambraces.txt"
+  },
+  "red gloves": {
+    "slot": "Hands",
+    "txt": "txt/red_gloves.txt"
+  },
+  "smiths gloves": {
+    "slot": "Hands",
+    "txt": "txt/smiths_gloves.txt"
+  },
+  "hueycoatl hide vambraces": {
+    "slot": "Hands",
+    "txt": "txt/hueycoatl_hide_vambraces.txt"
+  },
+  "mystic gloves": {
+    "slot": "Hands",
+    "txt": "txt/mystic_gloves.txt"
+  },
+  "bunny paws": {
+    "slot": "Hands",
+    "txt": "txt/bunny_paws.txt"
+  },
+  "clue hunter gloves": {
+    "slot": "Hands",
+    "txt": "txt/clue_hunter_gloves.txt"
+  },
+  "inoculation bracelet": {
+    "slot": "Hands",
+    "txt": "txt/inoculation_bracelet.txt"
+  },
+  "elven gloves": {
+    "slot": "Hands",
+    "txt": "txt/elven_gloves.txt"
+  },
+  "twitcher%27s gloves": {
+    "slot": "Hands",
+    "txt": "txt/twitcher%27s_gloves.txt"
+  },
+  "expeditious bracelet": {
+    "slot": "Hands",
+    "txt": "txt/expeditious_bracelet.txt"
+  },
+  "topaz bracelet": {
+    "slot": "Hands",
+    "txt": "txt/topaz_bracelet.txt"
+  },
+  "adventurer%27s vambraces": {
+    "slot": "Hands",
+    "txt": "txt/adventurer%27s_vambraces.txt"
+  },
+  "red d%27hide vambraces": {
+    "slot": "Hands",
+    "txt": "txt/red_d%27hide_vambraces.txt"
+  },
+  "infinity gloves": {
+    "slot": "Hands",
+    "txt": "txt/infinity_gloves.txt"
+  },
+  "leather gloves": {
+    "slot": "Hands",
+    "txt": "txt/leather_gloves.txt"
+  },
+  "black spiky vambraces": {
+    "slot": "Hands",
+    "txt": "txt/black_spiky_vambraces.txt"
+  },
+  "combat bracelet#(4)": {
+    "slot": "Hands",
+    "txt": "txt/combat_bracelet#(4).txt"
+  },
+  "lunar gloves": {
+    "slot": "Hands",
+    "txt": "txt/lunar_gloves.txt"
+  },
+  "graceful gloves (hallowed)#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves_(hallowed)#worn.txt"
+  },
+  "sapphire bracelet": {
+    "slot": "Hands",
+    "txt": "txt/sapphire_bracelet.txt"
+  },
+  "rock-shell gloves": {
+    "slot": "Hands",
+    "txt": "txt/rock-shell_gloves.txt"
+  },
+  "gravedigger gloves#during event": {
+    "slot": "Hands",
+    "txt": "txt/gravedigger_gloves#during_event.txt"
+  },
+  "mithril gloves": {
+    "slot": "Hands",
+    "txt": "txt/mithril_gloves.txt"
+  },
+  "graceful gloves (trailblazer)#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves_(trailblazer)#worn.txt"
+  },
+  "abyssal bracelet#(1)": {
+    "slot": "Hands",
+    "txt": "txt/abyssal_bracelet#(1).txt"
+  },
+  "mourner gloves": {
+    "slot": "Hands",
+    "txt": "txt/mourner_gloves.txt"
+  },
+  "granite gloves": {
+    "slot": "Hands",
+    "txt": "txt/granite_gloves.txt"
+  },
+  "bracelet of slaughter": {
+    "slot": "Hands",
+    "txt": "txt/bracelet_of_slaughter.txt"
+  },
+  "villager armband (pink)": {
+    "slot": "Hands",
+    "txt": "txt/villager_armband_(pink).txt"
+  },
+  "shayzien gloves (1)": {
+    "slot": "Hands",
+    "txt": "txt/shayzien_gloves_(1).txt"
+  },
+  "steel gloves": {
+    "slot": "Hands",
+    "txt": "txt/steel_gloves.txt"
+  },
+  "smiths gloves (i)": {
+    "slot": "Hands",
+    "txt": "txt/smiths_gloves_(i).txt"
+  },
+  "skeleton gloves": {
+    "slot": "Hands",
+    "txt": "txt/skeleton_gloves.txt"
+  },
+  "snakeskin vambraces": {
+    "slot": "Hands",
+    "txt": "txt/snakeskin_vambraces.txt"
+  },
+  "mystic gloves (light)": {
+    "slot": "Hands",
+    "txt": "txt/mystic_gloves_(light).txt"
+  },
+  "graceful gloves (adventurer)#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves_(adventurer)#worn.txt"
+  },
+  "dragon gloves": {
+    "slot": "Hands",
+    "txt": "txt/dragon_gloves.txt"
+  },
+  "void knight gloves (or)#normal": {
+    "slot": "Hands",
+    "txt": "txt/void_knight_gloves_(or)#normal.txt"
+  },
+  "purple gloves": {
+    "slot": "Hands",
+    "txt": "txt/purple_gloves.txt"
+  },
+  "3rd age vambraces": {
+    "slot": "Hands",
+    "txt": "txt/3rd_age_vambraces.txt"
+  },
+  "adamant gloves": {
+    "slot": "Hands",
+    "txt": "txt/adamant_gloves.txt"
+  },
+  "graceful gloves (shayzien)#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves_(shayzien)#worn.txt"
+  },
+  "cow gloves": {
+    "slot": "Hands",
+    "txt": "txt/cow_gloves.txt"
+  },
+  "regen bracelet": {
+    "slot": "Hands",
+    "txt": "txt/regen_bracelet.txt"
+  },
+  "bracelet of ethereum#charged": {
+    "slot": "Hands",
+    "txt": "txt/bracelet_of_ethereum#charged.txt"
+  },
+  "mystic gloves (or)": {
+    "slot": "Hands",
+    "txt": "txt/mystic_gloves_(or).txt"
+  },
+  "samurai gloves": {
+    "slot": "Hands",
+    "txt": "txt/samurai_gloves.txt"
+  },
+  "mining gloves": {
+    "slot": "Hands",
+    "txt": "txt/mining_gloves.txt"
+  },
+  "castle wars bracelet#(2)": {
+    "slot": "Hands",
+    "txt": "txt/castle_wars_bracelet#(2).txt"
+  },
+  "green d%27hide vambraces": {
+    "slot": "Hands",
+    "txt": "txt/green_d%27hide_vambraces.txt"
+  },
+  "light tuxedo cuffs": {
+    "slot": "Hands",
+    "txt": "txt/light_tuxedo_cuffs.txt"
+  },
+  "bracelet of ethereum#uncharged": {
+    "slot": "Hands",
+    "txt": "txt/bracelet_of_ethereum#uncharged.txt"
+  },
+  "ham gloves": {
+    "slot": "Hands",
+    "txt": "txt/ham_gloves.txt"
+  },
+  "graceful gloves#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves#worn.txt"
+  },
+  "tormented bracelet": {
+    "slot": "Hands",
+    "txt": "txt/tormented_bracelet.txt"
+  },
+  "gilded d%27hide vambraces": {
+    "slot": "Hands",
+    "txt": "txt/gilded_d%27hide_vambraces.txt"
+  },
+  "klank%27s gauntlets": {
+    "slot": "Hands",
+    "txt": "txt/klank%27s_gauntlets.txt"
+  },
+  "castle wars bracelet#(1)": {
+    "slot": "Hands",
+    "txt": "txt/castle_wars_bracelet#(1).txt"
+  },
+  "graceful gloves (varlamore)#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves_(varlamore)#worn.txt"
+  },
+  "ancient ceremonial gloves": {
+    "slot": "Hands",
+    "txt": "txt/ancient_ceremonial_gloves.txt"
+  },
+  "shayzien gloves (2)": {
+    "slot": "Hands",
+    "txt": "txt/shayzien_gloves_(2).txt"
+  },
+  "combat bracelet#(3)": {
+    "slot": "Hands",
+    "txt": "txt/combat_bracelet#(3).txt"
+  },
+  "dragonstone bracelet": {
+    "slot": "Hands",
+    "txt": "txt/dragonstone_bracelet.txt"
+  },
+  "white gloves": {
+    "slot": "Hands",
+    "txt": "txt/white_gloves.txt"
+  },
+  "ranger gloves": {
+    "slot": "Hands",
+    "txt": "txt/ranger_gloves.txt"
+  },
+  "alchemist gloves": {
+    "slot": "Hands",
+    "txt": "txt/alchemist_gloves.txt"
+  },
+  "abyssal bracelet#(3)": {
+    "slot": "Hands",
+    "txt": "txt/abyssal_bracelet#(3).txt"
+  },
+  "beekeeper%27s gloves": {
+    "slot": "Hands",
+    "txt": "txt/beekeeper%27s_gloves.txt"
+  },
+  "bronze gloves": {
+    "slot": "Hands",
+    "txt": "txt/bronze_gloves.txt"
+  },
+  "leather vambraces": {
+    "slot": "Hands",
+    "txt": "txt/leather_vambraces.txt"
+  },
+  "void knight gloves (or)#locked": {
+    "slot": "Hands",
+    "txt": "txt/void_knight_gloves_(or)#locked.txt"
+  },
+  "fremennik gloves": {
+    "slot": "Hands",
+    "txt": "txt/fremennik_gloves.txt"
+  },
+  "splitbark gauntlets": {
+    "slot": "Hands",
+    "txt": "txt/splitbark_gauntlets.txt"
+  },
+  "ferocious gloves": {
+    "slot": "Hands",
+    "txt": "txt/ferocious_gloves.txt"
+  },
+  "combat bracelet#uncharged": {
+    "slot": "Hands",
+    "txt": "txt/combat_bracelet#uncharged.txt"
+  },
+  "crabclaw hook": {
+    "slot": "Hands",
+    "txt": "txt/crabclaw_hook.txt"
+  },
+  "green spiky vambraces": {
+    "slot": "Hands",
+    "txt": "txt/green_spiky_vambraces.txt"
+  },
+  "zenyte bracelet": {
+    "slot": "Hands",
+    "txt": "txt/zenyte_bracelet.txt"
+  },
+  "superior mining gloves": {
+    "slot": "Hands",
+    "txt": "txt/superior_mining_gloves.txt"
+  },
+  "yellow gloves": {
+    "slot": "Hands",
+    "txt": "txt/yellow_gloves.txt"
+  },
+  "gold bracelet": {
+    "slot": "Hands",
+    "txt": "txt/gold_bracelet.txt"
+  },
+  "spined gloves": {
+    "slot": "Hands",
+    "txt": "txt/spined_gloves.txt"
+  },
+  "ruby bracelet": {
+    "slot": "Hands",
+    "txt": "txt/ruby_bracelet.txt"
+  },
+  "dragonstone gauntlets": {
+    "slot": "Hands",
+    "txt": "txt/dragonstone_gauntlets.txt"
+  },
+  "mystic gloves (dark)": {
+    "slot": "Hands",
+    "txt": "txt/mystic_gloves_(dark).txt"
+  },
+  "combat bracelet#(5)": {
+    "slot": "Hands",
+    "txt": "txt/combat_bracelet#(5).txt"
+  },
+  "void knight gloves#broken": {
+    "slot": "Hands",
+    "txt": "txt/void_knight_gloves#broken.txt"
+  },
+  "mummy%27s hands": {
+    "slot": "Hands",
+    "txt": "txt/mummy%27s_hands.txt"
+  },
+  "hardleather gloves": {
+    "slot": "Hands",
+    "txt": "txt/hardleather_gloves.txt"
+  },
+  "bandos bracers": {
+    "slot": "Hands",
+    "txt": "txt/bandos_bracers.txt"
+  },
+  "shayzien gloves (4)": {
+    "slot": "Hands",
+    "txt": "txt/shayzien_gloves_(4).txt"
+  },
+  "tormented bracelet (or)": {
+    "slot": "Hands",
+    "txt": "txt/tormented_bracelet_(or).txt"
+  },
+  "snow imp costume gloves#reward": {
+    "slot": "Hands",
+    "txt": "txt/snow_imp_costume_gloves#reward.txt"
+  },
+  "bloodbark gauntlets": {
+    "slot": "Hands",
+    "txt": "txt/bloodbark_gauntlets.txt"
+  },
+  "graceful gloves (kourend)#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves_(kourend)#worn.txt"
+  },
+  "santa gloves": {
+    "slot": "Hands",
+    "txt": "txt/santa_gloves.txt"
+  },
+  "emerald bracelet": {
+    "slot": "Hands",
+    "txt": "txt/emerald_bracelet.txt"
+  },
+  "zaryte vambraces": {
+    "slot": "Hands",
+    "txt": "txt/zaryte_vambraces.txt"
+  },
+  "mystic gloves (dusk)": {
+    "slot": "Hands",
+    "txt": "txt/mystic_gloves_(dusk).txt"
+  },
+  "black d%27hide vambraces": {
+    "slot": "Hands",
+    "txt": "txt/black_d%27hide_vambraces.txt"
+  },
+  "abyssal bracelet#(2)": {
+    "slot": "Hands",
+    "txt": "txt/abyssal_bracelet#(2).txt"
+  },
+  "gloves of ruin": {
+    "slot": "Hands",
+    "txt": "txt/gloves_of_ruin.txt"
+  },
+  "red spiky vambraces": {
+    "slot": "Hands",
+    "txt": "txt/red_spiky_vambraces.txt"
+  },
+  "combat bracelet#(1)": {
+    "slot": "Hands",
+    "txt": "txt/combat_bracelet#(1).txt"
+  },
+  "graceful gloves (arceuus)#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves_(arceuus)#worn.txt"
+  },
+  "grey gloves": {
+    "slot": "Hands",
+    "txt": "txt/grey_gloves.txt"
+  },
+  "black gloves": {
+    "slot": "Hands",
+    "txt": "txt/black_gloves.txt"
+  },
+  "ornate gloves": {
+    "slot": "Hands",
+    "txt": "txt/ornate_gloves.txt"
+  },
+  "karamja gloves 1": {
+    "slot": "Hands",
+    "txt": "txt/karamja_gloves_1.txt"
+  },
+  "expert mining gloves": {
+    "slot": "Hands",
+    "txt": "txt/expert_mining_gloves.txt"
+  },
+  "warm gloves": {
+    "slot": "Hands",
+    "txt": "txt/warm_gloves.txt"
+  },
+  "slayer gloves": {
+    "slot": "Hands",
+    "txt": "txt/slayer_gloves.txt"
+  },
+  "skeletal gloves": {
+    "slot": "Hands",
+    "txt": "txt/skeletal_gloves.txt"
+  },
+  "gloves of silence": {
+    "slot": "Hands",
+    "txt": "txt/gloves_of_silence.txt"
+  },
+  "diamond bracelet": {
+    "slot": "Hands",
+    "txt": "txt/diamond_bracelet.txt"
+  },
+  "combat bracelet#(2)": {
+    "slot": "Hands",
+    "txt": "txt/combat_bracelet#(2).txt"
+  },
+  "rune gloves": {
+    "slot": "Hands",
+    "txt": "txt/rune_gloves.txt"
+  },
+  "chaos gauntlets": {
+    "slot": "Hands",
+    "txt": "txt/chaos_gauntlets.txt"
+  },
+  "spookier gloves": {
+    "slot": "Hands",
+    "txt": "txt/spookier_gloves.txt"
+  },
+  "zamorak bracers": {
+    "slot": "Hands",
+    "txt": "txt/zamorak_bracers.txt"
+  },
+  "graceful gloves (agility arena)#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves_(agility_arena)#worn.txt"
+  },
+  "dark tuxedo cuffs": {
+    "slot": "Hands",
+    "txt": "txt/dark_tuxedo_cuffs.txt"
+  },
+  "steel gauntlets": {
+    "slot": "Hands",
+    "txt": "txt/steel_gauntlets.txt"
+  },
+  "shayzien gloves (3)": {
+    "slot": "Hands",
+    "txt": "txt/shayzien_gloves_(3).txt"
+  },
+  "armadyl bracers": {
+    "slot": "Hands",
+    "txt": "txt/armadyl_bracers.txt"
+  },
+  "hardcore group ironman bracers": {
+    "slot": "Hands",
+    "txt": "txt/hardcore_group_ironman_bracers.txt"
+  },
+  "karamja gloves 4": {
+    "slot": "Hands",
+    "txt": "txt/karamja_gloves_4.txt"
+  },
+  "holy wraps": {
+    "slot": "Hands",
+    "txt": "txt/holy_wraps.txt"
+  },
+  "zombie gloves": {
+    "slot": "Hands",
+    "txt": "txt/zombie_gloves.txt"
+  },
+  "jade bracelet": {
+    "slot": "Hands",
+    "txt": "txt/jade_bracelet.txt"
+  },
+  "moonclan gloves": {
+    "slot": "Hands",
+    "txt": "txt/moonclan_gloves.txt"
+  },
+  "karamja gloves 2": {
+    "slot": "Hands",
+    "txt": "txt/karamja_gloves_2.txt"
+  },
+  "goldsmith gauntlets": {
+    "slot": "Hands",
+    "txt": "txt/goldsmith_gauntlets.txt"
+  },
+  "crab claw": {
+    "slot": "Hands",
+    "txt": "txt/crab_claw.txt"
+  },
+  "bracelet of clay": {
+    "slot": "Hands",
+    "txt": "txt/bracelet_of_clay.txt"
+  },
+  "guthix bracers": {
+    "slot": "Hands",
+    "txt": "txt/guthix_bracers.txt"
+  },
+  "mime gloves": {
+    "slot": "Hands",
+    "txt": "txt/mime_gloves.txt"
+  },
+  "ghostly gloves": {
+    "slot": "Hands",
+    "txt": "txt/ghostly_gloves.txt"
+  },
+  "graceful gloves (lovakengj)#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves_(lovakengj)#worn.txt"
+  },
+  "void knight gloves#locked": {
+    "slot": "Hands",
+    "txt": "txt/void_knight_gloves#locked.txt"
+  },
+  "antisanta gloves": {
+    "slot": "Hands",
+    "txt": "txt/antisanta_gloves.txt"
+  },
+  "snow imp costume gloves#during event": {
+    "slot": "Hands",
+    "txt": "txt/snow_imp_costume_gloves#during_event.txt"
+  },
+  "group ironman bracers (unranked)": {
+    "slot": "Hands",
+    "txt": "txt/group_ironman_bracers_(unranked).txt"
+  },
+  "swampbark gauntlets": {
+    "slot": "Hands",
+    "txt": "txt/swampbark_gauntlets.txt"
+  },
+  "cooking gauntlets": {
+    "slot": "Hands",
+    "txt": "txt/cooking_gauntlets.txt"
+  },
+  "pirate%27s hook": {
+    "slot": "Hands",
+    "txt": "txt/pirate%27s_hook.txt"
+  },
+  "ancient bracers": {
+    "slot": "Hands",
+    "txt": "txt/ancient_bracers.txt"
+  },
+  "spooky gloves#reward": {
+    "slot": "Hands",
+    "txt": "txt/spooky_gloves#reward.txt"
+  },
+  "graceful gloves (hosidius)#worn": {
+    "slot": "Hands",
+    "txt": "txt/graceful_gloves_(hosidius)#worn.txt"
+  },
+  "gravedigger gloves#reward": {
+    "slot": "Hands",
+    "txt": "txt/gravedigger_gloves#reward.txt"
+  },
+  "villager armband (blue)": {
+    "slot": "Hands",
+    "txt": "txt/villager_armband_(blue).txt"
+  },
+  "void knight gloves#normal": {
+    "slot": "Hands",
+    "txt": "txt/void_knight_gloves#normal.txt"
+  },
+  "abyssal bracelet#(4)": {
+    "slot": "Hands",
+    "txt": "txt/abyssal_bracelet#(4).txt"
+  },
+  "villager armband (yellow)": {
+    "slot": "Hands",
+    "txt": "txt/villager_armband_(yellow).txt"
+  },
+  "saradomin bracers": {
+    "slot": "Hands",
+    "txt": "txt/saradomin_bracers.txt"
+  }
+}

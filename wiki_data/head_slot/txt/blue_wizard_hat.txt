@@ -1,0 +1,62 @@
+[Weapon: Blue Wizard Hat]
+
+
+ABlue wizard hatis low-level armour that provides a smallMagicattack andDefencebonus. This hat can also be dyed into ablack wizard hatby usingblack dye.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A silly pointed hat.
+General Store Value: 2 coins
+High alch: 1 coin
+Low alch: 0 coins
+Weight: 0.453 kg
+Grand Exchange Value: 465 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 6,906
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +2
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +2
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Elaborate lockbox | N/A | 1 | 2 × 6/50 | 
+Imp | 2; 7 | 1 | 8/128 | 
+Reward casket (beginner) | N/A | 1 | 11/492 | 
+Wizard | 9 | 1 | 3/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Free-to-play Ironman guide(Magicgear)
+1 | Free-to-play Magic training(Magicgear)

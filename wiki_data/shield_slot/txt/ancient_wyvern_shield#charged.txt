@@ -1,0 +1,98 @@
+[Weapon: Ancient Wyvern Shield#Charged]
+
+
+Theancient wyvern shieldis a magicalshieldrequiring aMagiclevel of 70 and aDefencelevel of at least 75 to equip, as well as having startedDragon Slayer I. It is one of the best Magic shields in the game, with stats comparable to that of thearcane spirit shieldwhen fully charged, although it only has a 2%Magic damagebonus while having negativeMeleeandRangedattack bonuses. However, it provides far superior stab and slash defence.
+The shield provides bothdragonfireprotection and greater protection against the icy breath ofwyverns. Unlike theelemental,mind, anddragonfire shields, the ancient wyvern shield will also grant an immunity against the freezing effect from a wyvern'sicy breath, as well as reducing the damage. This immunity, on the other hand,does notextend to any otherfreezing effect(such asKBD,Vorkath, etc).
+
+
+[Infobox]
+Released: 7 September2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Inspect, Drop
+Worn options: Check, Recharge
+Examine: A magical shield with a wyvern visage.
+General Store Value: 2,000,000 coins
+High alch: 1,200,000 coins
+Low alch: 800,000 coins
+Weight: 4.535 kg
+Grand Exchange Value: 32,276,253 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 139
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -10
+- Slash: -10
+- Crush: -10
+- Magic: +15
+- Ranged: -10
+
+Defence Bonuses:
+- Stab: +22
+- Slash: +30
+- Crush: +25
+- Magic: +15
+- Ranged: -55
+
+Other Bonuses:
+- Strength: -2
+- Ranged Strength: +0
+- Magic Damage: +2%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyssal Sire/Strategies(Phase 1 Magic)
+3 | Abyssal Sire/Strategies(Phase 2 Magic)
+1 | Adamant dragon/Strategies(Magic)
+1 | Ancient Wyvern/Strategies(Magic)
+2 | Ancient Wyvern/Strategies(Prayer)
+5 | Ancient Wyvern/Strategies(Ranged)
+1 | Ancient Wyvern/Strategies(Melee)
+3 | Barrows/Strategies(Magic equipment)
+3 | Chambers of Xeric/Strategies(Magic)
+2 | Drake/Strategies(Magic)
+3 | Dust devil/Strategies(Bursting/Barraging)
+3 | General Graardor/Strategies(Solo (Magic))
+3 | Giant Mole/Strategies(Magic)
+2 | Gout tuber/Strategies(Tank)
+3 | K'ril Tsutsaroth/Strategies(Magic)
+3 | Kraken/Strategies(Magic)
+3 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+3 | Maniacal monkey/Strategies(Magic - Ice Burst)
+1 | Metal dragons/Strategies(Magic)
+4 | The Mimic/Strategies(Magic)
+3 | Mithril dragon/Strategies(Magic)
+4 | Nightmare Zone/Strategies(Magic)
+4 | The Nightmare/Strategies(Mage)
+3 | Phantom Muspah/Strategies(Magic & Ranged)
+4 | Phosani's Nightmare/Strategies(Mage)
+2 | Rune dragon/Strategies(Magic)
+2 | Scorpia/Strategies(Magic)
+4 | Scurrius/Strategies(Magic (high level))
+1 | Skeletal Wyvern/Strategies(Melee)
+3 | Skeletal Wyvern/Strategies(Magic)
+1 | Slayer task/Fossil Island wyverns(Magic)
+1 | Slayer task/Fossil Island wyverns(Melee)
+2 | Slayer task/Fossil Island wyverns(Prayer)
+5 | Slayer task/Fossil Island wyverns(Ranged)
+4 | Slayer task/Trolls(Magic (Ice trolls))
+3 | Slayer training(Magic (Barrage))
+3 | Smoke devil/Strategies
+3 | The Bane of Demons(Magic)
+3 | Thermonuclear smoke devil/Strategies(Magic)
+3 | Tombs of Amascut/Strategies(Magic switch)
+3 | Tormented Demon/Strategies(Magic switch)
+3 | TzHaar Fight Cave/Strategies(Magic)
+3 | The Whisperer/Strategies(Magic)
+4 | Zulrah/Strategies(Magic)

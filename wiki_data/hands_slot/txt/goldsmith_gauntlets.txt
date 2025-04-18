@@ -1,0 +1,47 @@
+[Weapon: Goldsmith Gauntlets]
+
+
+Goldsmith gauntletsare one of the three possible glove rewards fromFamily Crestquest, along withChaos gauntletsandCooking gauntlets. They can be obtained by bringing the magicalsteel gauntlets(along with 25,000coins) toAvan, who can be found in theAl Kharid mine(no cost if the gauntlets are still steel). The message "Avan takes your gauntlets, takes out a small hammer, and pounds them into a slightly new shape, then hands them to you." appears as this happens. The Goldsmith gauntlets increase the experience gained from smeltinggold oreinto agold bar, from 22.5 to 56.2 experience — about 2.5 times as much as without the gauntlets.
+Casting theSuperheat Item spellon agold orewhile wearing the gauntlets gives 56.2Smithingexperience and 53Magicexperience.
+
+
+[Infobox]
+Released: 9 April2002(Update)
+Members: Yes
+Quest item: Family Crest
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: Before Family Pest:You can obtain another set of Goldsmithing gauntlets from Dimintheis.After Family Pest:You can obtain another set of Goldsmithing gauntlets from Avan.
+Examine: These gauntlets empower the bearer whilst making gold.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.226 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +9
+- Crush: +7
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

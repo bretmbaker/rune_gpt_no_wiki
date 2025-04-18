@@ -1,0 +1,113 @@
+[Pet: Abyssal_protector]
+
+Abyssal protectoris apetthat can be obtained from theRewards Guardian. It is a much smaller version of theAbyssal guardiansfound within theGuardians of the Riftminigame.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Rewards Guardian | N/A | 1 | 1/4,000 | &
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Gallery[edit|edit source]
+
+Concept art of theAbyssal guardians, byMod West.
+
+Trivia[edit|edit source]
+
+The fronts of theAbyssal guardiansand the Abyssal protector have a yellow square and pink star-shaped pattern, a reference to SpongeBob and Patrick from the television showSpongeBob SquarePants.[1]"The Abyss stares back" dialogue is a reference to German philosopherFriedrich Nietzsche.The Abyssal protector is able to navigate small obstacles.
+
+References[edit|edit source]
+
+v•t•eGuardians of the Rift
+
+NPCs | ApprenticesCordeliaFelixTamaraRune guardiansThe Great GuardianElementalWeakMediumStrongOverchargedCatalyticWeakMediumStrongOverchargedPortal GuardiansAirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBloodRemainsGuardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remainsAbyssal creaturesAbyssal leechAbyssal guardianAbyssal walker | Apprentices | CordeliaFelixTamara | Rune guardians | The Great GuardianElementalWeakMediumStrongOverchargedCatalyticWeakMediumStrongOverchargedPortal GuardiansAirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBloodRemainsGuardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remains |  | The Great Guardian | Elemental | WeakMediumStrongOvercharged | Catalytic | WeakMediumStrongOvercharged | Portal Guardians | AirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBlood | Remains | Guardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remains | Abyssal creatures | Abyssal leechAbyssal guardianAbyssal walker
+
+Apprentices | CordeliaFelixTamara
+
+Rune guardians | The Great GuardianElementalWeakMediumStrongOverchargedCatalyticWeakMediumStrongOverchargedPortal GuardiansAirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBloodRemainsGuardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remains |  | The Great Guardian | Elemental | WeakMediumStrongOvercharged | Catalytic | WeakMediumStrongOvercharged | Portal Guardians | AirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBlood | Remains | Guardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remains
+
+ | The Great Guardian
+
+Elemental | WeakMediumStrongOvercharged
+
+Catalytic | WeakMediumStrongOvercharged
+
+Portal Guardians | AirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBlood
+
+Remains | Guardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remains
+
+Abyssal creatures | Abyssal leechAbyssal guardianAbyssal walker
+
+Gameplay | Guardian fragmentsGuardian essenceGuardian stonesElementalCatalyticPolyelementalCellsUnchargedWeakMediumStrongOverchargedPortal talismansAirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBloodBarriersWeak BarrierMedium BarrierStrong BarrierOvercharged BarrierSceneryCell tile (broken)Inactive cell tile |  | Guardian fragmentsGuardian essence | Guardian stones | ElementalCatalyticPolyelemental | Cells | UnchargedWeakMediumStrongOvercharged | Portal talismans | AirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBlood | Barriers | Weak BarrierMedium BarrierStrong BarrierOvercharged Barrier | Scenery | Cell tile (broken)Inactive cell tile
+
+ | Guardian fragmentsGuardian essence
+
+Guardian stones | ElementalCatalyticPolyelemental
+
+Cells | UnchargedWeakMediumStrongOvercharged
+
+Portal talismans | AirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBlood
+
+Barriers | Weak BarrierMedium BarrierStrong BarrierOvercharged Barrier
+
+Scenery | Cell tile (broken)Inactive cell tile
+
+Rewards | Rewards GuardianAtlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protectorAbyssal dyesRedGreenBlueIntricate pouchIntricate pouchTarnished locketAmulet of the eyeLost bagTemple SuppliesRing of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardianRaiments of the EyeHat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots | Rewards Guardian | Atlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protectorAbyssal dyesRedGreenBlueIntricate pouchIntricate pouchTarnished locketAmulet of the eyeLost bag |  | Atlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protector | Abyssal dyes | RedGreenBlue | Intricate pouch | Intricate pouchTarnished locketAmulet of the eyeLost bag | Temple Supplies | Ring of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardianRaiments of the EyeHat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots |  | Ring of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardian | Raiments of the Eye | Hat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots
+
+Rewards Guardian | Atlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protectorAbyssal dyesRedGreenBlueIntricate pouchIntricate pouchTarnished locketAmulet of the eyeLost bag |  | Atlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protector | Abyssal dyes | RedGreenBlue | Intricate pouch | Intricate pouchTarnished locketAmulet of the eyeLost bag
+
+ | Atlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protector
+
+Abyssal dyes | RedGreenBlue
+
+Intricate pouch | Intricate pouchTarnished locketAmulet of the eyeLost bag
+
+Temple Supplies | Ring of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardianRaiments of the EyeHat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots |  | Ring of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardian | Raiments of the Eye | Hat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots
+
+ | Ring of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardian
+
+Raiments of the Eye | Hat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots
+
+Scenery | Abyssal RiftBarrierDeposit PoolRubble
+
+Music | Temple of the EyeThe Guardians PrepareGuardians of the Rift
+
+Related | StrategiesTemple of the Eye (location)Temple of the Eye (quest)
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan

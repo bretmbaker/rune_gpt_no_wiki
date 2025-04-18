@@ -1,0 +1,46 @@
+[Weapon: Echo Ahrim%27S Robeskirt#75]
+
+
+Theecho Ahrim's robeskirtis anAhrim's robeskirtwith anecho ahrim's ornament kitadded onto it. The kit gives no additional bonuses, and is only used to add aesthetics to the robeskirt.
+Whilst in its ornamented state, the item can be reverted anytime, returning the robeskirt and kit.
+
+
+[Infobox]
+Released: 15 January2025(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check, Detach
+Examine: Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.
+General Store Value: 47,000 coins
+High alch: 28,200 coins
+Low alch: 18,800 coins
+Weight: 11.339 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +22
+- Ranged: -7
+
+Defence Bonuses:
+- Stab: +33
+- Slash: +30
+- Crush: +36
+- Magic: +22
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +1%
+- Prayer: +0
+
+Slot: Legs slot

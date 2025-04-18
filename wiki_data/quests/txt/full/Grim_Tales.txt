@@ -1,0 +1,169 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Grim Tales (#126)
+
+
+
+
+
+Released | 4 June 2007 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Danny J
+
+
+
+Grim Tales is a master quest that revolves around collecting a couple of rare items for Sylas , a peculiar collector. It contains many references to various real-life fairy tales.
+
+Details [ edit | edit source ]
+
+Start point | Talk to Sylas in Taverley , just south of the house portal . Show on map
+
+Official difficulty | Master
+
+Official length | Medium
+
+Description | "Once upon a time in a land far, far away..." Sylas, a collector of items both wondrous and unusual seeks out the latest additions to his trove with a somewhat unusual prize for the finder.
+Terrors and towers await; fierce battles with giant beasts; striding boldly to rescue a dwarf in distress! Not a quest for the meek or faint-hearted, prepare yourself for a feast of fairy-tale fun with rewards a-plenty! The Brothers Grimm could never have foretold a tale such as this...
+
+Requirements | Completion of the following quests: Witch's House 45 Farming ( boostable ) ( not required to start ) 52 Herblore ( boostable ) ( not required to start ) 58 Thieving ( boostable ) ( not required to start ) 59 Agility ( boostable ) ( not required to start ) [1] 71 Woodcutting ( boostable ) ( not required to start ) Ability to defeat a level 138 cloud giant— Glod
+
+Items required | 2 Tarromin potion (unf) or 2 vials of water and 2 tarromins Seed dibber ( leprechaun is nearby). You will need this even with a partial completion of the Farming portion of the Barbarian Training miniquest Watering can with at least 1 dose (can also be stored with the leprechaun) Any axe Leather gloves (optional) (obtainable during quest) High healing food Good armour and a weapon ( Ranged or Magic equipment recommended if you have low melee levels)
+
+Recommended | 55 Combat level 43 Prayer for Protect from Melee (for running through areas with Mouse (level 95) ) Falador Teleports Mind Altar Teleports House teleports Set POH to Taverley for quick access Prayer potions One-click teleports in case you are about to die
+
+Enemies to defeat | Glod (level 138)
+
+League notes | Asgarnia ✓ — location requirement
+
+Finding Sylas and starting out [ edit | edit source ]
+
+Sylas is the old man with a walking stick in Taverley . He can be found south of the player-owned house portal. Talk to him, and he will ask you to get two rare items in return for his magic beans :
+
+The first item is a feather from the griffin, Grimgnash , on White Wolf Mountain —go north on the east trail. The second is a helmet from a dwarf named Rupert —in a tower south-west of the Mind Altar .
+
+Griffin's feather [ edit | edit source ]
+
+To reach Grimgnash , proceed to White Wolf Mountain from Taverley , and follow the path that is located the farthest east along the mountain until you reach two white lines. Go through them, and up the path to reach the NPC.
+
+The Griffin will state that it cannot get to sleep because of the howling wolves and will threaten to eat the player if he doesn't tell him a bedtime story. Grimgnash says he loves stories with death, fire and destruction. Tell him a bedtime story by selecting the options which sound the most violent:
+
+I heard you were a great and mighty Griffin! (Option 1) There once was a graveyard filled with undead. (Option 1) There lived a skeleton named Skullrot. (Option 2) Skullrot was insane! (Option 4) Skullrot hungrily grabbed the gnome's hair. (Option 4) Started to strangle the poor gnome. (Option 3) At this point, you can answer with any of the remaining choices.
+
+Once Grimgnash is asleep, steal a feather from the pile next to his nest and go back to Sylas .
+
+Note: If Grimgnash doesn't like your story, he will hit you for 20% of your current hitpoints, rounded up. While this damage CAN kill you, it is very unlikely to do so as you would need to repeatedly tell the wrong story.
+
+Rupert's helmet [ edit | edit source ]
+
+Meeting Rupert [ edit | edit source ]
+
+Rupert the Beard can be found in a tower in between Goblin Village and Ice Mountain . The quickest way to get there is by casting Mind Altar Teleport (or using its magic tablet equivalent ) and running southward.
+
+If you attempt to get in by the door of the tower, a rather snobby-looking princess will stop you. In order to get in, you will need to go around the back and climb over the crumbling east wall (58 Thieving required).
+
+Next, talk into the drain pipe, and you will find yourself talking to the dwarf imprisoned at the top of the tower.
+
+Talk to him a second time to find out how to get up the tower, and suggest that you should climb up, and then ask if there is anything up there that can help. He will throw down his beard—climb it (59 Agility required). Talk to the dwarf who regrettably cannot give you his helmet as the princess has stolen his armour and locked him in the tower.
+
+He asks you to talk to Princess Miazrqa , who is north of the tower. Use the right-click 'climb-down' option on Rupert , climb back over the east wall, and talk with Princess Miazrqa. She says that she will happily release the dwarf if you get back her pendant , which was stolen by a mouse in her second-cousin's (twice-removed) house which is the witch's house in Taverley .
+
+Ask Princess Miazrqa for a door key in order to enter the witch's house, or look under the potted plant just to the left of the front door of the witch's house.
+
+Miazrqa's pendant [ edit | edit source ]
+
+This step is optional. To continue, skip to the next paragraph. Go to the basement of the witch's house , and wear some leather gloves to avoid an electric shock from the gate, which can cause 17 damage. (Gloves can be obtained by repeatedly searching the boxes in the basement near the piano. You may also get other junk like needles and cabbages —keep trying until you get the gloves.) Open the cage door, and search the music stand to find some music sheets for the piano . Read the music sheet—now, you have to play that on the piano.
+
+Go to the piano in the basement of the witch's house . This is where it gets tricky if you are not familiar with the piano. You have to play the notes: " EFEDCAEGA ". The first five notes (" EFEDC ") are on the right side of the piano; the next last notes (" AEGA ") are on the left side of the piano. Although the notes are displayed when you hover over them on the left side of the screen, you must remember whether they are lower or upper notes.
+
+Note: Counting the keys from right to left, click them in this order: key 5, key 4, key 5, key 6, then 7, 9, 12, 10, 9.
+
+The compartment will open, and the player will find three items in it: a shrinking recipe , to-do list , and two shrunk ogleroots . Read the shrinking recipe, and use your tarromin with 2 vials of water , and add the ogleroot to both unfinished potions. Go upstairs, and drink one of the potions while standing next to the mouse hole in the southern room on the ground floor (no cheese or magnet required). The player will suddenly shrink and will enter in the mouse hole.
+
+Note: You must keep the second shrinking potion in order to complete the quest. If you lose the shrunk ogleroot, you can kill the experiments in the basement of the witch's house to get them (accessed via the manhole in front of the door of the house), or fight these experiments, but then run a few squares away. They will throw ogleroots at you you which will usually appear on the ground. This can be repeated to obtain a large supply of ogleroots. Tarromin can also be obtained from the experiments but they must be killed. If you have 48 Herblore, you can boost it to 52 by eating a botanical pie . If you have a cat on the ground when trying to drink the shrink-me-quick potion, it will prompt you that "Being mouse-sized with a cat around may not be such a good idea...". Having the cat in your inventory makes the potion work as normal.
+
+Mouse hole [ edit | edit source ]
+
+Protect from Melee is helpful in this part because of continuous attacks by level 95 mice .
+
+Warning: Do NOT go into the north-eastern grate, or you will end up sprouting back up and have to make another potion to go back into the initial hole again.
+
+You will need to go through several nail walls to get to the pendant . These nail walls are four nails stuck closely together on the wall. They are indicated as wooden ladders on the mini-map. Climb the nail walls to the north on the eastern wall located south of the grate, and then, continue south-west and climb up two sets of nails. Go north-east, and climb down the nails. Head north and climb up the last set of nails, and take the pendant. Return to the tower, and give the pendant to the Princess . Rupert will be set free, and he will give you his helmet . Head back to Sylas .
+
+Sylas and the beanstalk [ edit | edit source ]
+
+Take the beans Sylas gives you, and plant them in the special patch south-east of Taverley , near the tree patch . The signpost reads "This earth mound has been magically prepared. Please keep off. Farming strictly prohibited. You have been warned!" A seed dibber and watering can are required, which can be obtained from the tool leprechaun at the nearby tree patch to the north-east, or purchased at a farming store .
+After watering the patch, a giant beanstalk will grow extremely fast.
+
+The battle [ edit | edit source ]
+
+Get ready for a fight with a level 138.
+
+ | This fight takes place in an instance . On death , all unprotected items will be moved to a grave outside the instance. Any items left on the ground will be lost.
+
+Take high healing food and some prayer potions . Make sure to keep your second oogleroot/shrink-me-quick potion either in your bank or inventory for after the fight. When you're ready, put on protect from melee and climb up the beanstalk (requires 59 Agility ). You will not be able to have a follower with you, even in your inventory.
+
+Glod , a cloud giant, will attack you immediately. He is level 118, but will become level 138 shortly after the battle starts. He is difficult to damage with low melee as he hits very hard, so Ranged or Magic are a much better option if you have low melee stats, especially as he is extremely weak to Magic . The upgraded Iban's staff and Iban Blast is very effective, but do prepare plenty of runes or range ammunition . Glod is immune to poison .
+
+Be aware: Glod will sometimes quake the ground, which drains your Prayer and turns off protection prayers. He will also sometimes heal himself.
+
+Players with combat stats greatly over 70 should have absolutely no problem defeating him as the battle could be done with minimal damage sustained. However it is advised that you prepare as stated above.
+
+Use Protect from Melee whenever you can. Cast your best spell or range at a distance while hiding behind a wall. He will sometimes taunt you, causing your character to attack him head on. Whenever this happens, run back to the wall, and turn on Protect from Melee whenever you're within his hitting range. Remember to keep your health high as Glod's melee attack is very accurate and can hit as high as 24.
+
+After the battle [ edit | edit source ]
+
+Once you defeat Glod , he'll drop the golden goblin , as well as an uncut ruby , an uncut sapphire , a watering can (4) , and two big bones . Take it back to Sylas . He will ask you to chop the beanstalk down (71 Woodcutting required). Use a shrinking potion on the beanstalk first; then, take an axe and chop away. Go back to Sylas for your reward.
+
+Rewards [ edit | edit source ]
+
+1 Quest point 60,000 Woodcutting experience 25,000 Agility experience 25,000 Thieving experience 15,000 Herblore experience 10,000 Farming experience 5,000 Hitpoints experience Dwarven helmet (equip this helmet in the Dwarven Mines to complete a Hard Falador task )
+
+Unlocks:
+
+Glod accessible in the Nightmare Zone .
+
+Required for completing [ edit | edit source ]
+
+Completion of Grim Tales is required for the following:
+
+Hard tier of the Falador Diary
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Music [ edit | edit source ]
+
+Fe Fi Fo Fum Mouse Trap
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+30 November 2022 ( update | poll ) | The following skill experience rewards have increased: Woodcutting from 14,000 to 60,000 Agility from 6,000 to 25,000. Thieving from 6,000 to 25,000. Herblore from 5,000 to 15,000. Farming from 4,000 to 10,000.
+
+Trivia [ edit | edit source ]
+
+Parts of the quest, including the name, are references to the well-known fairy tale collection Grimms' Fairy Tales : " The Griffin " (getting a feather from a griffin by telling it stories) " Rapunzel " (climbing Rupert's beard) Climbing the magic beanstalk for a golden reward is a reference to " Jack and the Beanstalk ". The shrinking potion is a reference to Alice in Wonderland . On the first day of release, when you clicked to see the rewards you got the message "Spoilers are only given on the day of release in fairy tales" . After the player names the gnome in the story with Grimgnash, Grimgnash gets upset. He claims "You shouldn't name food! If Human had a carrot, would Human call it Jasper?" This is a reference to the British comedian Jasper Carrott . The silent 'q' in the princess's name is a reference to the "Bookshop" sketch in Monty Python . Glod , the quest's final boss, resembles The Hulk in many ways. Both are bare-chested, have discoloured skin, have a similar face and hairstyle, and yell "SMASH!". Glod may possibly be named after characters in Norse mythology: Glut, who was a particularly evil giant, and Hod, the god who guarded the Bifrost Bridge, who is similar in build to Glod. Glod is an anagram of "gold", this may be another reference to climbing a magic beanstalk for gold. Removing the 'd' from Rupert the Beard will leave you with Rupert the Bear , a children's comic strip character. This quest has the fourth highest skill level requirement of any quest, with Woodcutting at level 71; beaten by Desert Treasure II - The Fallen Empire with a requirement of 75 Firemaking and Magic , Dragon Slayer II with a requirement of 75 Magic , and Making Friends with My Arm with a requirement of 72 Mining. If a player kills a mouse in the mouse hole, the drops will be larger than normal. When picked up, the items will appear as "normal" in the player's inventory. When the player asks about Sylas' rare items, he mentions his most prized possession is a hornless unicorn . This references the running joke that horses do not exist in RuneScape and the popular requests for mountable horses from the pre- Old School community. When Rupert the Beard leaves the tower he yells "FREEDOM!" This is a reference William Wallace's battle cry in the film Braveheart .
+
+v • t • e Grim Tales
+
+NPCs | Sylas Rupert the Beard Miazrqa Grimgnash Winkin Gnome Monsters Experiment No.2 Glod Mouse |  | Sylas Rupert the Beard Miazrqa Grimgnash Winkin Gnome | Monsters | Experiment No.2 Glod Mouse
+
+ | Sylas Rupert the Beard Miazrqa Grimgnash Winkin Gnome
+
+Monsters | Experiment No.2 Glod Mouse
+
+Items | Magic beans Griffin feather Miazrqa's pendant Door key Music sheet Shrinking recipe To-do list Shrunk ogleroot Rupert's helmet Dwarven helmet Golden goblin
+
+Scenery | Bean Mound Beard Beanstump Earth Mound Lock Music stand
+
+Locations | Mouse hole Taverley White Wolf Mountain
+
+Music | Fe Fi Fo Fum Mouse Trap
+
+Related | Quick guide Transcript Drain Pipe Gubblebak

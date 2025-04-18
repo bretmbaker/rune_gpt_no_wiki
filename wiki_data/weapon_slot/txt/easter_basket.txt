@@ -1,0 +1,55 @@
+[Weapon: Easter Basket]
+
+
+TheEaster basketwas given out as a reward by theEaster Bunnyduring the2014 Easter event. It can be operated when worn to perform anemote, flinging two easter eggs randomly in a 5x5 radius.
+While worn, the player's walking and running animations will be replaced with a skipping animation.
+
+
+[Infobox]
+Released: 10 April2014(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destroy
+Worn options: Fling
+Destroy: This basket came from the Easter Bunny; you can get a replacement from Diango.
+Examine: A holiday gift from the Easter Bunny.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -50
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

@@ -1,0 +1,54 @@
+[Weapon: Blisterwood Sickle]
+
+
+Theblisterwood sickleis an item obtained by using arubyon asilver sickle (b), castingLvl-3 Enchanton the resultingruby sickle (b)and then usingblisterwood logson theenchanted ruby sickle (b). It is used on theIvandis flailto create theblisterwood flail. It requires anAttacklevel of 50 to wield.
+The sickle has a right-click "bloom" option which can be used next to rotten logs, branches or bushes inMort Myreswamp to obtainMort myre fungi,stemsandpears. These items can be used to fill theDruid pouchwhich allows the player to fightGhasts.
+
+
+[Infobox]
+Released: 4 June2020(Update)
+Members: Yes
+Quest item: Sins of the Father
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Cast Bloom, Drop
+Worn options: Bloom
+Examine: A ruby sickle with a blade of silver and blisterwood.
+General Store Value: 20,000 coins
+Alchemy: Not alchemisable
+Weight: 1.587 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +30
+- Slash: +38
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +2
+- Crush: +2
+- Magic: +2
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +32
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence

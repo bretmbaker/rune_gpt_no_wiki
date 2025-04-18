@@ -1,0 +1,45 @@
+[Weapon: Fire Max Cape#Broken]
+
+
+Thefire max capeis the result of combining afire capewith amax cape, during which themax hoodrequired to be in the player's inventory will automatically convert to thefire max hood.
+Like the other max cape variants (a max cape combined with anothercape slotitem), the fire max cape does not have the max cape's stats or perks with the following exceptions when worn:
+
+
+[Infobox]
+Released: 19 November2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: The cape worn by only the most experienced players.
+General Store Value: 99,000 coins
+Alchemy: Not alchemisable
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +1
+- Magic: +1
+- Ranged: +1
+
+Defence Bonuses:
+- Stab: +11
+- Slash: +11
+- Crush: +11
+- Magic: +11
+- Ranged: +11
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Cape slot

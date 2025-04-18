@@ -1,0 +1,39 @@
+Name: Karamjan tiger shark
+Combat Level: 25
+Size: 2x2
+Info:
+- Description: The last thing you see before being attacked is a large toothy grin.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: beta14252,beta14253
+- Link: MOID
+
+Location:
+- Area: The Storm Tempor
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 25
+Attack: 40
+Strength: 20
+Defence: 0
+Magic: 1
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

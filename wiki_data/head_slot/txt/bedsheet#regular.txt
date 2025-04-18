@@ -1,0 +1,46 @@
+[Weapon: Bedsheet#Regular]
+
+
+Thebedsheetis obtained from theinnkeeperofPort Phasmatysduring theGhosts Ahoyquest to be given toRobinin a nearby room. It is worn in the head slot.
+Although it is brown when received, it can be changed to a light green colour by covering it in ectoplasm, making it an ectoplasm-covered bedsheet. To do this, players must dip it into the pool of slime on the bottom floor of the cavern beneath theEctofuntusor dip it into abucket of slimecollected from the pool. Although this is supposed to make players resemble a ghost, when talking to residents of the port, they will merely joke at them.
+
+
+[Infobox]
+Released: 15 February2005(Update)
+Members: Yes
+Quest item: Ghosts Ahoy
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: It's a bedsheet.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 1 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

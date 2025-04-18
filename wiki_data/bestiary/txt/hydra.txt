@@ -1,0 +1,101 @@
+Name: Hydra
+Combat Level: 194
+Size: 3x3
+Info:
+- Description: A ferocious Hydra!
+
+Slayer Info:
+- Required Level: 95
+- Slayer XP: 322.5 xp
+- Category: Hydras
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 8609
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guide is available for Hydra:
+
+Notable Drops:
+- Hydra's eye (1/1,800.72; 1/360.72[d 1][d 2][1])
+- Hydra's heart (1/1,800.72; 1/360.72[d 1][d 2][1])
+- Hydra's fang (1/1,800.72; 1/360.72[d 1][d 2][1])
+- Hydra tail (1/5,001; 1/1,001[d 1][1])
+- Dragon thrownaxe (1/10,000; 1/2,000[d 1][1])
+- Dragon knife (1/10,001; 1/2,001[d 1][1])
+- Rune platebody (1/128)
+- Mystic robe bottom (1/128)
+- Dragon longsword (1/128)
+- Grimy guam leaf (1/128)
+- Grimy marrentill (1/170.7)
+- Grimy tarromin (1/227.6)
+- Grimy harralander (1/292.6)
+- Grimy ranarr weed (1/372.4)
+- Grimy irit leaf (1/512)
+- Grimy avantoe (1/682.7)
+- Grimy kwuarm (1/819.2)
+- Grimy cadantine (1/1,024)
+- Grimy lantadyme (1/1,365.3)
+- Grimy dwarf weed (1/1,365.3)
+- Grimy avantoe (1/192)
+- Grimy ranarr weed (1/240)
+- Grimy snapdragon (1/320)
+- Grimy torstol (1/320)
+- Toadflax seed (1/160.7)
+- Irit seed (1/236)
+- Belladonna seed (1/243.6)
+- Poison ivy seed (1/343.3)
+- Avantoe seed (1/343.3)
+- Cactus seed (1/359.6)
+- Potato cactus seed (1/503.5)
+- Kwuarm seed (1/503.5)
+- Snapdragon seed (1/755.2)
+- Cadantine seed (1/1,078.9)
+- Lantadyme seed (1/1,510.4)
+- Snape grass seed (1/1,888)
+- Dwarf weed seed (1/2,517.3)
+- Torstol seed (1/3,776)
+- Diamond bolt tips (1/256)
+- Ruby bolt tips (1/284.4)
+- Emerald bolt tips (1/284.4)
+- Dragonstone bolt tips (1/365.7)
+- Onyx bolt tips (1/853.3)
+- Sapphire bolt tips (1/1,280)
+- Monkfish (11/128)
+- Nothing (1/256.47; Never[d 1])
+- Uncut sapphire (1/512; 1/260[d 2])
+- Uncut emerald (1/1,024; 1/520[d 2])
+- Uncut ruby (1/2,048; 1/1,040[d 2])
+- Uncut diamond (1/8,192; 1/4,160[d 2])
+- Nature talisman (1/5,461.33; 1/2,773.33[d 2])
+- Loop half of key (1/16,384; 1/8,320[d 2])
+- Tooth half of key (1/16,384; 1/8,320[d 2])
+- Rune javelin (1/16,384; 1/8,320[d 2])
+- Rune spear (1/262,144; 1/15,600[d 2][d 3])
+- Shield left half (1/524,288; 1/31,200[d 2][d 3])
+- Dragon spear (1/699,050.67; 1/41,600[d 2][d 3])
+- Brimstone key (1/65[d 1])
+- Clue scroll (hard) (1/128[d 2][1])
+- Clue scroll (elite) (1/512[d 3][2])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 300
+Attack: 1
+Strength: 1
+Defence: 100
+Magic: 210
+Ranged: 210
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

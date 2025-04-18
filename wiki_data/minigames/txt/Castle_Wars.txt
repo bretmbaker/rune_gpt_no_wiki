@@ -1,0 +1,342 @@
+[Minigame: Castle_Wars]
+
+ | This is a safe PvP activity.If youdiehere, you will not lose any of your items, including those stored inside anItem Retrieval Service(deathbank).As a safe PvP activity it is safe forHardcore group ironplayers.
+
+Castle Wars
+
+
+
+
+
+Released | 13 December2004(Update)
+
+Also called | CW
+
+Type | Minigame
+
+Members | No
+
+Location | West ofYanille(P2P)Ferox Enclave(F2P)
+
+Leagueregion | Kandarin✓
+
+Participants | 2+
+
+Skills | Combat
+
+Requirements | None
+
+Reward currency | Castle wars ticket,Plaudit
+
+Tutorial | No
+
+Music | Castle Wars,Ready for Battle
+
+
+
+Map
+
+
+
+Location onWorld Map
+
+Observatory
+
+↑
+
+Poison Waste | ← | Castle Wars | → | Yanille
+
+↓
+
+Jiggig
+
+Castle Warsis aminigamereleased byJagexin December 2004. It is similar toCapture the flag, but with aRuneScapetwist. On20 July2017, it was madefree-to-play, and can be accessed via a portal in theFerox Enclave.
+
+Travel[edit|edit source]
+
+Castle Wars is found in the south-west corner ofKandarinand may be accessed via a number of ways:
+
+Going to theGroupinginterface, use theMinigame teleportand select Castle Wars.Using aring of duelingto teleport directly there.Travelling west fromYanilleorGu'Tanoth.TheBalloon transport systemhas an endpoint just north-east of the entrance.Walking south-west fromArdougne.Thefairy ringcodeBKPis just south of Castle Wars.GreenCastle Wars portaljust outsideThe Old Nitein east part ofFerox Enclave.South-West corner of theGrand Exchange, speak to theSaradoministorZamorakian recruiter.
+
+Main lobby[edit|edit source]
+
+Players waiting in the main lobby will find a bank chest, as well asLanthus, the manager of the minigame. Players can exchange tickets with Lanthus for rewards.
+
+Thering of duelingwill take players to the main lobby, and is commonly used as a quick teleport to a bank.
+
+Official worlds[edit|edit source]
+
+The followingofficial worldsare assigned to Castle Wars:
+
+World | Location | Members | Activity
+
+334 | United Kingdom | 1 | Castle Wars 1
+
+354 | United States (east) | 1 | Castle Wars 2
+
+383 | Germany | 0 | Castle Wars - Free
+
+Gameplay[edit|edit source]
+
+The aim of the game is to take the enemy's standard (flag) from their castle and return it to the standard in your own castle, gaining one point each time. You must prevent the opposing team from taking your flag by blocking them from your castle (placebarricades, lock doors or collapse tunnels underground), or by killing them. Slain players willrespawnin the starting area within the game, so both sides are constantly fighting with a near (if not totally) equal numbered team. This is a safe game, so if you die, you willnotlose items. Each game lasts for 20 minutes, and the team with the most points at the end of the game is declared the winner. You will gain some rewards, as explained in the next section. To have more success in Castle Wars, it is better to have a higherCombat level, but lower level players can focus on the defensive measures mentioned below.
+
+Restrictions[edit|edit source]
+
+The only items allowed inside the Castle Wars area arepotions,runes, andCombat-related items such asarmour—with the exception of scarves andcapes.Foodcannot be brought in, butbandagescan be obtained within the arena, which are used to heal players in the same way as food.Alchemy spellsandjewellery enchantment spellscannot be used during the game.Lunar spellssuch asHeal OtherandCure Mecan not be used during the game. TheDwarf multicannoncannot be brought into Castle Wars. Originally, players were allowed to bring their petcatsinto the arena, but after many players complained,Jagexremoved this ability.
+
+Since this is a safemini-game,players do not have to worry about dying because they will not lose their items. Unlike theEmir's Arena,arrowswill not be returned after each match. It is the player's responsibility to pick up any projectiles fired if they choose to do so. However, ifAva's deviceis used onLanthusbefore a player enters the game, he will collect ammunition for the player.
+
+Wearing equipment associated to any of the three gods can invoke funny behaviour in thewaiting area, but this does not affect the game itself.
+
+The castles[edit|edit source]
+
+The large square formation covering most of the map is the actual arena. Inside the arena, there are two smaller castles, one for each team. There are four levels to a castle. Theground floor[UK]1stfloor[US]has two outer walls facing into the arena, one with alarge doorthat can be attacked and broken down (orbarricadedby the defending team) and another with asmaller doorthat can be pick-locked (or locked by the defending team). The battlements on theground floor[UK]1stfloor[US]are accessible via a staircase near the small door, and there is a catapult on top of the outer wall. Within the walls, there is a staircase leading to the battlements, a staircase leading to the second level, a ladder leading to the second level, and a ladder leading to the underground passages. There are tables whereclimbing ropes,rocks,barricades,pickaxes,toolboxes, andexplosive potionsare attainable. There is a tap, twobucketrespawns, and atinderboxrespawn. When players die, they are returned to a respawn room in the appropriate castle.
+
+The1stfloor[UK]2ndfloor[US]contains a passage bent at a right angle, enveloping that team's spawn room, which is only accessible to the castle's team. There is a staircase leading to the next level. Inside the spawn room, there is abandagetable, atinderboxrespawn, a ladder leading to the next level, and a portal to leave the current game.
+
+The2ndfloor[UK]3rdfloor[US]has a small inside wall enveloping a trapdoor that leads down to that castle's spawn room. The trapdoor is only usable by that castle's team. There is a one-square-wide passage around this wall. A staircase leading to the highest level is located against one of the walls.
+
+The highest floor contains only a standard stand, which may or may not hold that castle's team's standard, depending on whether the enemy team has taken the standard or not.
+
+The underground passage level can be accessed by two ladders in the middle of the arena or by a ladder from either team's castle. Either castle's ladder is located at opposite ends of the underground area, each with two passages towards the central cavern. At the mouth (facing the centre area) of each passage, there is a deposit of rocks which may be removed or replaced withexplosive potionsorpickaxes. The central area is a small castle that has two ladders leading up to the centre of the arena's ground level. This area can be used forrangingandmaging.
+
+Rewards[edit|edit source]
+
+On dedicated Castle Wars worlds, members will earn oneplauditfor everyCastle Wars ticketearned. One plaudit can be exchanged withLanthusfor oneCastle Wars supply crate.
+
+The following ticket rewards for each game scenario are as follows:
+
+Castle Wars worlds:
+
+Shut-out win (1-0) = 4 tickets to winning team, 2 ticket for losing team.Regular win (2-1) = 3 tickets to the winning team, 2 ticket for the losing team.Scoreless Draw (0-0) = 2 tickets for both teams.Draw with points (1-1) = 3 tickets for both teams.
+
+Non-Castle Wars worlds:
+
+Shut-out win (1-0) = 3 tickets to winning team, 1 ticket for losing team.Regular win (2-1) = 2 tickets to the winning team, 1 ticket for the losing team.Scoreless Draw (0-0) = 1 tickets for both teams.Draw with points (1-1) = 2 tickets for both teams.
+
+At least 15 minutes spent in the game is required to earn tickets.
+
+The tickets and all of the rewards areuntradeable.
+
+ | You are victorious!
+
+
+
+
+
+ | You have met your equal.
+
+
+
+
+
+ | You were slaughtered...
+
+
+
+
+
+Tickets can be spent at theCastle Wars Ticket Exchangefor the rewards below.
+
+Castle Wars Ticket Exchange
+
+Item | Price | Members
+
+ | Red decorative full helm | 5 | 0
+
+ | Red decorative helm | 4 | 0
+
+ | Red decorative body | 8 | 0
+
+ | Red decorative legs | 6 | 0
+
+ | Red decorative skirt | 6 | 0
+
+ | Red decorative boots | 4 | 0
+
+ | Red decorative shield | 6 | 0
+
+ | Red decorative sword | 5 | 0
+
+ | White decorative full helm | 40 | 0
+
+ | White decorative helm | 40 | 0
+
+ | White decorative body | 80 | 0
+
+ | White decorative legs | 60 | 0
+
+ | White decorative skirt | 60 | 0
+
+ | White decorative boots | 40 | 0
+
+ | White decorative shield | 60 | 0
+
+ | White decorative sword | 50 | 0
+
+ | Gold decorative full helm | 500 | 0
+
+ | Gold decorative helm | 400 | 0
+
+ | Gold decorative body | 800 | 0
+
+ | Gold decorative legs | 600 | 0
+
+ | Gold decorative skirt | 600 | 0
+
+ | Gold decorative boots | 400 | 0
+
+ | Gold decorative shield | 600 | 0
+
+ | Gold decorative sword | 500 | 0
+
+ | Castlewars hood (Zamorak) | 10 | 0
+
+ | Castlewars cloak (Zamorak) | 10 | 0
+
+ | Castlewars hood (Saradomin) | 10 | 0
+
+ | Castlewars cloak (Saradomin) | 10 | 0
+
+ | Saradomin banner | 100 | 0
+
+ | Zamorak banner | 100 | 0
+
+ | Decorative magic hat | 20 | 1
+
+ | Decorative magic robe top | 40 | 1
+
+ | Decorative magic robe legs | 30 | 1
+
+ | Decorative ranged top | 40 | 1
+
+ | Decorative ranged legs | 30 | 1
+
+ | Decorative quiver | 40 | 1
+
+ | Saradomin halo | 75 | 1
+
+ | Zamorak halo | 75 | 1
+
+ | Guthix halo | 75 | 1
+
+Total | 5,539
+
+Features of the arena[edit|edit source]
+
+The catapult[edit|edit source]
+
+Onecatapultis located in each team's castle. Players may use the catapult if they have ammo, which they can obtain from tables on theground floor[UK]1stfloor[US]. After players have ammo, they can operate the catapult by clicking on it. A display will open up and players must then choose the X and Y coordinates of where they wish to fire; however, often, the shot will not go exactly where you aim. The highest X and Y coordinates are (30,30). All players within the 5x5 area of impact will take between 5 and 15 points of damage, regardless of which team they are on or how close to the centre of impact they were. Catapults can be destroyed by the enemy team using atinderboxor anexplosive potion. Atoolkitcan fix a broken catapult. A catapult that is on fire may be put out with a bucket of water. A good tactic with the catapult is to simply continue firing the catapult at coordinates (0,0). Be careful when using the catapult, because it is possible to harm and even kill your own teammates with it, so be on the look out for renegade flying rocks!
+
+Stepping stones[edit|edit source]
+
+These are located in the north-east and south-west points of the river. Players can jump from stepping stone to stepping stone to cross the river in the middle of the arena. The stepping stones have many uses—one main use is to escape the enemy team while capturing the flag. If the flag is dropped while standing on stepping stones, it returns to the base. Players were once able to evadeAncient Magicksice spellsby crossing these stepping stones, but this was changed so thatbindspells now prevent you from crossing the stones.
+
+Collapsible rocks[edit|edit source]
+
+The collapsible rocks are located in the caves below the arena. Using apickaxeor anexplosive potion, players may collapse the walls and fill the cave passageway with rocks, so that players may not pass. To get past the collapsed rocks, players must use either two explosive potions or a pickaxe or both. If rocks are collapsed on top of a player, they will die immediately. This is an excellent trick if you are running through the tunnels with the flag, as it gets rid of many chasers and blocks the rest, but they could also kill you. The best trick to use is when it's clear, put abarricadeon one side of you and put one under you. Therefore, the player doesn't see it under you, and when they go to attack you they actually attack the barricade, and then, you can use an explosive potion on the wall, killing them.
+
+Some useful tactics are:
+
+A player bring aDragon spear; another player has an explosive potion. The player with a dragon spear uses itsspecialto push someone into the rockslide area. Another player then collapses the area.Placing a barricade beneath you negates any dragon spear effect on you from another player from the opposing team.If there is a barricade beneath you while a player tries to cross, he will be trapped in the rockslide area, which you can either immediately collapse or slowly mine.In the caves, the most popular cave tunnel is the one on the right when coming down the ladder in a castle. The least popular is the one on the left.
+
+Useful battle tactics[edit|edit source]
+
+The battle tactics in castle wars vary. Most of the time, each team will have at least one wielder ofAncient Magicks. The ancient is often used to defend the castle from potential flag stealers by freezing them withice spells. Once frozen, this gives theMeleepeople a chance to finish off the helpless thieves. Sometimes, ancients will also have a dualrangingfight skill where they will freeze someone then range them. Ancients are also useful underground for stopping flag capturers as they try to infiltrate the castle from the underground passages.
+
+Most of the time, however, people choose to use Melee because it is inexpensive rather than spending money on buyingrunesorarrows. This is typical because most rangers or ancients in the game waste runes very fast—this proves to be an issue because of how expensive most ancient or high level spells are.
+
+Mages and rangers tend to hang on the top of the castle near the catapult where they can see enemies storming the castle. They can then strike down potential threats from the safety of the wall. This, however, may not last long if a powerful warrior shows up on the wall. They will attack the mages and rangers, taking them down quickly because of their lowDefencedue torobesanddragonhide armour. Enough mages or rangers can quickly take the melee player down, though.
+
+Lower-level players tend to stay in the underground with apickaxeand collapse the tunnels withexplosive potionsand their pickaxes. Normally, they will wait for the person to walk under the tunnel when trying to attack them and then collapse the tunnel, instantly killing the other player.
+
+Other methods such as ranging them in order to lure them under the tunnel or using an ancient spell to trap them under the tunnel have been used, although not as often due to expenses. As for flag-defending, most peoplebarricadethe flag and the exit so that when a flag capturer comes, they are trapped and quickly killed. Sometimes if players are quick enough in the beginning, they may be able to capture the opposing teams flag room and defend it for the whole game taking the flag when it shows back up from a score. This may sometimes backfire if a low-level player takes the flag. When this happens, the other team will allow the player to leave the castle then take him down and take their flag and hold it. This may cause the defeat of the flag-room raiding team.
+
+The teams[edit|edit source]
+
+To join a team, either enter the red portal (forZamorak, God of Chaos) or the blue portal (forSaradomin, God of Wisdom). There is a possibility that the team you are trying to enter has too many people, so to keep the teams balanced, you may not join it at that time. However, if you enter the green portal (forGuthix, God of Balance) you are included in the team with either the fewest number of people, or the lowest score.
+
+Waiting area[edit|edit source]
+
+For each team, there is an underground cavern where they can wait until the next game starts. The time until the next game is displayed near the top of the screen in white print.
+
+The time to wait is always five minutes longer than the current game lasts, so if a game has 12 minutes left, the time to wait in the waiting area is 17 minutes. When a game has just finished, the next game will start in five minutes.Note:Outside the recommended Castle Wars Worlds, the time to wait between games is 2 minutes.
+
+One can leave through the portal of the god's colour located inside the waiting area. A spot may open up on occasion if a game is currently under way, in which case all players in the corresponding waiting room will be asked if they wish to join the current game. A free spot will open up if the sum of all combat levels on a team is 60 levels lower than the total of the opposing team's players.[1]
+
+Also, if players are wearing armours orPrayersymbols/booksof the threegods(Saradomin,Guthix,Zamorak), Saradomin will turn a player into arabbitif they are wearing a Zamorak or Guthix symbol or armour when entering his portal; Guthix will turn them into asheepif they are wearing a Saradomin or Zamorak symbol or armour upon entering its portal; and Zamorak will turn them into animpif they are wearing a Saradomin or Guthix symbol or armour when entering his portal. Players transformed into a rabbit, sheep or imp cannot perform any tasks. They also cannot view menu screens other than private and publicchat,musicandsettings. However, when the waiting period elapses and the game starts, the player will be turned back to normal.
+
+SheepRabbitImp
+
+Tools[edit|edit source]
+
+There are a number of special items that players can pick up while playing Castle Wars. These items are free and respawn immediately; however, they disappear once the game you are playing is over.
+
+Also, if you choose to teleport back to the waiting area during a current game with these items in your inventory, you used to be able to keep them until you either entered the game and used them, or left the waiting room. However,Jagexrecently changed this, so the only item you keep when you exit the game is atinderbox.
+
+Barricades[edit|edit source]
+
+These can be picked up on one of the tables on theground floor[UK]1stfloor[US]of the castles.Barricadescan be placed anywhere in the arena, and they are used to "block" the opposing team, hindering their ability to capture your flag. When somebody tries to walk around the barricade, the player must manually click to walk around it, otherwise he will be stuck.
+
+Note:On the recommended Castle Wars Worlds, players need at least 500 skill total to set up barricades. Players without that level can use the barricades on other worlds.
+
+If barricades are set up at the ends of the stairs, it will only allow one way direction transport only; for example, if a player is going up a stairs and the other end is being block by barricades, the player can still go back up/down without leaving the stairs end or go through the barricade without destroying the barricade for the first time. However they cannot go back up/down to the stairs after leaving the stairs end, unless the barricades has been destroyed.
+
+Barricades can be destroyed by setting them on fire, by manually attacking them, or by using anexplosive potion. One of the downsides to setting up barricades is that a team can only set up 10 at a time and it also blocks the way of friendly forces.
+
+Other useful tools[edit|edit source]
+
+Other tools which can be outside Castle Wars or can be obtained in Castle Wars are:
+
+Bandages- Heal 10% of your totalHitpointslevel, rounded down (for example, if your Hitpoints level is 74, you get healed 7 points for every bandage), curepoison, and increase energy by 30%. Can be used on other players of the same team. Players may stock up on these greatly and become medics for their team, breaking off and hiding near where they might be needed.Climbing ropes- Used to scale the battlements on the other team's castle. These ropes are one way (in other words, you can't climb down them, only up) and can not be cut off. Some people will sabotage the other team's wall by getting a full inventory of ropes and running to the other team's wall. They will try and set up as many ropes as they can on the wall before being attacked and killed. Some attack the catapult by setting up rope next to the enemy, climbing up and blowing the catapult up.Pickaxes- For collapsing the underground cave walls to block the enemy. They are also used to clear the way through the collapsed walls. Players typically wait at the rocks and try to time their collapse perfectly as to hit a player trying to run through, although this is easier withexplosive potions. Barricades may be used in combination with the walls to guarantee the player will have difficulty getting though. Some people bring their own pickaxe, like rune, to clear rocks/collapse tunnels faster.Tinderboxes- For setting fire to barricades and catapults. The primary use for the tinderbox is to give barricades temporary immunity from explosive potions, as a burning barricade cannot be exploded. The fires can be put out bybuckets of water. It is typically good practice to have atinderboxin your inventory regardless of your choice of "profession" in your game, whether you're a cleric, warrior, or anything else.Buckets- Fill them withwaterat the faucet, and the bucket of water is usable to put out anything on fire. These are almost never used though due to the fact that they must be refilled every time they are used and the person that set the fire can easily relight it.Toolkits- Used to repair broken catapults or doors.Castlewars brew- Provides the boosts from asuper combat potion, aranging potion, andimbued heartat once.Explosive potion- Used to blow up barricades—unlike tinderboxes, they can only be used once. Also, they're used to collapse the cave walls instantly, killing any person running under. If dropped, this potion explodes and deals 15 damage to the player who dropped it (not anyone else). When damaged by this potion, the player also says,"Ow!".Hooded cloak- Apart from being used to identify which team the player is on, this item can also be used to teleport back to the starting room by using the "Surrender" option (when hitpoints are below 15%), fully replenishing the player's health,Prayerand run energy.Rocks- Used to fire the catapult.Castle wars bracelet- Made byenchantinganemerald bracelet. The wielder will do an extra 20% of damage against a bearer of their side's flag. Castle wars bandage also heal 50% more to wielders of the bracelet (15% of health instead of 10%). To obtain the effects of the bracelet, it must be worn as the player enters the game from the waiting room. It may then be removed while retaining its advantages.
+
+Positions[edit|edit source]
+
+Attackers: Players who storm the enemy castle either to attack other players or try to capture the flag and bring it back to their own castle.Defenders: Players who defend the flag on the2ndfloor[UK]3rdfloor[US]or3rdfloor[UK]4thfloor[US]keeping the enemies from getting a point. Those withfreeze spellsmake good defenders as they can freeze opponents trying to run upstairs. Barricaders may also fall into this category.Archers: Players that are located on the outer wall near the catapult that attack incoming enemies players. They may either berangersormages.Medics: Players who usebandagesto heal other players.Catapulters: Players who attack incoming enemies using the catapult.Door men: Players who keep on closing the door on incoming enemies stopping them from coming in and leaving.Barricades or Engineers: Players who set upbarricadesslowing enemy players down from taking the flag.Miners: Players who go down in the dungeon and clear the way for their team and setting up collapsible rocks on the enemies. They may also try to repeatedly collapse rocks on enemies.Flag holder: A player who grabs their own flag after an enemy player has dropped it outside their castle and then holds on to it. This player should have a highDefence,Magic, andHitpointslevel and be experienced inCombat.
+
+Flag holding[edit|edit source]
+
+Flag holding is a tactic used by teams to ensure that the opposing team is unable to score points. This consists of a player grabbing their own flag after an enemy player has dropped it outside their castle and then holding on to it, rendering the opposing team unable to pick it up. To retrieve the flag, the opposing team needs to defeat the player holding the flag and pick it up.
+
+When the opposing team has taken a team's flag, the team wait until their enemy is outside the castle and kill them, taking their own team flag in the process (if the flag is dropped inside the castle, attempting to pick it up will result in it being moved back to the standard stand).
+
+A player cannot go into the base when holding their teams standard (flag). This includes climbing up from the ladder underneath the supply room.
+
+Flag-holding tactics[edit|edit source]
+
+The flag is often taken to a corner of the field with some players protecting it, as a player can be easily protected using twobarricades, using the walls as defence from the other two sides.
+
+Another tactic is to hide underground, next to the collapsible walls. The flag holder can then use anexplosive potionor apickaxeto collapse the walls when their enemies try to reach them, thus killing them. One ingenious way of using this method is by placing barricades on the spaces where you can collapse the walls. The flag holder stands in one of the barricades—they put it down, then don't move. This way, if a player tries to attack the flag holder, the flag holder can simply collapse the tunnel. The attacker, having no way to move out of the way, dies. The only way they can reach you is by going around the other tunnel.
+
+The player that holds the flag will often be someone with highHitpoints, highDefenceand defensive bonuses or highMagicorAncient Magicksuser, players with high-levelled Magic or Ancient Magicks can usespellssuch asEntangle,Ice Burst, orIce Barrageto immobilise the enemy flag stealers, without the need to hold a weapon. This is advantageous as they can protect themselves using Magic, whereas a player usingRangedwill be unable to attack as they will be holding the flag, and a player usingMeleewill have their attack power compromised by holding the flag, as they will have to use the flag as their weapon. The flag gives no bonuses toAttack,Defence,StrengthorPrayer, and has the sameattack stylesas a spear.
+
+The player will attempt to stay alive for as long as possible, often with a group of players acting as bodyguards. Donating bandages and other supplies to the flag holder may also prove useful.
+
+Another good tactic of holding the flag is to go to the enemy's castle, go behind the table with the barricades, and get a full stock of them. Set up two barricades on both sides of the table, and there will be no way to get attacked, unless the other team destroys the barricades.
+
+Flag holder killing tactics[edit|edit source]
+
+In big Castle Wars games, most players will pile onto the enemy flag carrier and hope to overwhelm the carrier. However, there are three significant ways to limit the flag carrier's mobility.
+
+Perhaps, the most common isIce Barrage, easily stopping the flag carrier's ability to move if it lands. Ice Barrage is the most effective method, but it has the highest level requirement (level 94Magic), and therunesfor the spell are expensive.
+
+Thedragon spearhas a special attack,Shove, thatstunsthe enemy and moves them one square backwards. There are no requirements other than 60Attackto wield the dragon spear.
+
+The least common method is the use of theJade bolts (e)passiveEarth's Fury, which knocks down the victim when it lands. Low level players who cannot deal high damage but still want to be useful might try this tactic tostunthe carrier to give the higher level players more time to kill the carrier.
+
+Flag states[edit|edit source]
+
+Colour | State
+
+Red | Taken
+
+Yellow | Dropped
+
+Green | Safe
+
+Views[edit|edit source]
+
+Some players have argued that this stops the fun, as it stops the game from being "Capture the Flag" and turns it into a "Hunt and Kill" game. They argue that flag-holding is basically unfair as if a high-level player gets the flag, they consider the game to be essentially over, especially if their team does not have a player of matchingCombatability.
+
+Following an update,Jagexhas tried to address by creating theCastle wars bracelet. Castle wars bracelets work for three games and are then destroyed. While wearing the bracelet, players will deal 20% more damage to the holder of their flag.
+

@@ -1,0 +1,47 @@
+[Weapon: Clue Hunter Boots]
+
+
+Clue hunter bootsare obtained from completing the first clue during theCrack the Clue!event. It is part of theclue hunter outfit. Obtainable only once if you already have it in your inventory or bank. If you happen to destroy it, you will need to discover it again.
+These items are obtained alongside theclue hunter gloves.
+
+
+[Infobox]
+Released: 16 June2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You will have to discover it again.
+Examine: Warm leather boots lined with wolf fur.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.7 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +1
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot

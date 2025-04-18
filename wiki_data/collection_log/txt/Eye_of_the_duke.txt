@@ -1,0 +1,4 @@
+Item: Eye of the duke
+Summary: The Eye of the Duke is an item dropped by Duke Sucellus. It is one of four components used to create the soulreaper axe, alongside the executioner's axe head, siren's staff, and Leviathan's lure.
+Sources:
+- Duke Sucellus (Level 538; 758; 1099, Quantity: 1, Rarity: 1/720)

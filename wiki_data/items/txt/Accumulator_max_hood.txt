@@ -1,0 +1,1 @@
+Theaccumulator max hoodis a hood created by usingAva's accumulatoron amax cape. When theaccumulator max capeis created, themax hoodthat is required to be in the player's inventory during the cape's creation is automatically converted to the accumulator max hood.

@@ -1,0 +1,63 @@
+[Weapon: Celestial Signet#Charged]
+
+
+Thecelestial signetis amining enhancerthat possesses the effects of thecelestial ringand theelven signet. Players can create one via asinging bowlby combining a celestial ring, elven signet, 100crystal shards, and 1,000stardust. Doing so requires level 70SmithingandCraftingtosingthe crystal (the levels can beboosted), and grants 5,000 experience in both skills. If the player does not meet the Smithing and Crafting requirements, they can haveConwennaorReesesing the crystal for them for an extra 50 crystal shards, for a total of 150. Players can configure the charges while the signet is in their bank by right-clicking on Configure-Charges, as long as players have the required materials.
+Players can charge the ring with stardust, with each one added giving one charge (up to a maximum of 10,000).  Crystal shards cannot be used. Uncharging the signet will return all charges that were remaining in the ring.
+
+
+[Infobox]
+Released: 17 March2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Charge, Drop
+Worn options: None(?)
+Examine: A ring forged in the heart of a shooting star. It provides some useful mining boosts.
+General Store Value: 2,000 coins
+Alchemy: Not alchemisable
+Weight: 0.006 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Passive Effect]
+The celestial signet offers the effects of the celestial ring and the elven signet in one item. The celestial ring gives players an invisible +4 boost to Mining regardless of charges; this stacks with both visible and invisible boosts, though visible boosts are capped to level 99. However, this bonus does not allow the player to receive ores higher than their level range. When charged, the ring has 1/10 chance of giving an extra ore when mining rocks up toadamantite, withsome exceptions, granting experience for both ores mined. If the player has only one inventory slot remaining and the ring's passive effect activates, the player will lose out on both the extra oreandthe extra experience.[1]Every time ore is mined from a suitable rock, a charge will be lost from the ring whether or not a second ore is mined. This effect stacks with othermining enhancers.
+The effect gained from the elven signet offers a 10% chance to not use a charge when usingcrystal equipment, excluding theblade of Saeldorand thebow of Faerdhinen. Since a charge can be saved more than once, one charge has the effective value of10/9(1.11...)charges when the ring is used, resulting in an additional 1/9th of the total. Effectively, this also means that a user will not "break even" with the normal elven signet until ~900 shards are used with the celestial signet (which requires 100 to make).
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Blast mine/Strategies
+1 | Guardians of the Rift/Strategies(Runecrafting)
+1 | Sulliuscep/Strategies
+1 | Sulliuscep/Strategies
+2 | Tempoross/Strategies(Standard)
+1 | Volcanic Mine(Solo)
+1 | Volcanic Mine(Group)
+1 | Zalcano/Strategies(Mining)

@@ -1,0 +1,64 @@
+[Weapon: Rune Halberd]
+
+
+Therune halberdis ahalberdmade ofrune. It can be purchased from theQuartermasterin theTyras Campfor 83,200coins. It requires 40Attackand 20Strengthto wield. Although completion of theRegicidequest is required in order to wield thedragon halberd, it is not a requirement in order to wield any other halberds.
+Like all halberds, with this weapon you can attack at arangeof two squares away, making it the only variety ofmelee weaponthat may be used tosafespotmonsters. The halberd has three attack styles: Controlled stab (shared exp), Aggressive slash (Strength exp), and Defensive stab (Defence exp), making it a poor choice for players who wish to train Attack, especially because of its slowattack speed.
+
+
+[Infobox]
+Released: 20 September2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A rune halberd.
+General Store Value: 64,000 coins
+High alch: 38,400 coins
+Low alch: 25,600 coins
+Weight: 3.175 kg
+Grand Exchange Value: 37,049 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 15,068
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +48
+- Slash: +67
+- Crush: +0
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: -1
+- Slash: +4
+- Crush: +5
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +68
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Jab | Stab | Controlled | 7 ticks (4.2s) | 2 tiles |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Aggressive |  | +3 Strength
+ | Fend | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Cerberus | 318 | 1 | 2/128 | 
+Reward Chest (The Gauntlet) | N/A | 1–2(noted) | 2 × 1/24 | 
+Reward Chest (The Gauntlet)(Corrupted) | N/A | 2–3(noted) | 3 × 1/24 | 
+Spiritual warrior | 115–158 | 1 | 1/127 | 

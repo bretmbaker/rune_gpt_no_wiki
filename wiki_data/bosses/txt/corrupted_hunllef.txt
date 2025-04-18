@@ -1,0 +1,48 @@
+Name: Corrupted Hunllef
+Combat Level: 894
+Size: 5x5
+Info:
+- Description: A deadly predator formed from crystal.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 9035,9036,9037,9038
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+- 3, 2, 1 - Mage: Kill the Corrupted Hunllef without taking damage off prayer. (Elite (4 pts))
+- Corrupted Gauntlet Veteran: Complete the Corrupted Gauntlet 5 times. (Elite (4 pts))
+- Corrupted Gauntlet Master: Complete the Corrupted Gauntlet 10 times. (Master (5 pts))
+- Defence Doesn't Matter II: Kill the Corrupted Hunllef without making any armour within the Corrupted Gauntlet. (Master (5 pts))
+- Perfect Corrupted Hunllef: Kill the Corrupted Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Corrupted Hunllef with the wrong weapon. (Master (5 pts))
+- Corrupted Warrior: Kill the Corrupted Hunllef with a full set of perfected corrupted armour equipped. (Master (5 pts))
+- Corrupted Gauntlet Speed-Chaser: Complete a Corrupted Gauntlet in less than 7 minutes and 30 seconds. (Master (5 pts))
+- Corrupted Gauntlet Grandmaster: Complete the Corrupted Gauntlet 50 times. (Grandmaster (6 pts))
+- Corrupted Gauntlet Speed-Runner: Complete a Corrupted Gauntlet in less than 6 minutes and 30 seconds. (Grandmaster (6 pts))
+- Egniol Diet II: Kill the Corrupted Hunllef without making an egniol potion within the Corrupted Gauntlet. (Grandmaster (6 pts))
+- Wolf Puncher II: Kill the Corrupted Hunllef without making more than one attuned weapon. (Grandmaster (6 pts))
+
+[Combat stats]
+Hitpoints: 1000
+Attack: 240
+Strength: 240
+Defence: 240
+Magic: 240
+Ranged: 240
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

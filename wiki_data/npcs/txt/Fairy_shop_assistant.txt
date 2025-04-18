@@ -1,0 +1,2 @@
+Item: Fairy shop assistant
+Summary: The fairy shop assistant runs the Zanaris General Store together with the fairy shop keeper.

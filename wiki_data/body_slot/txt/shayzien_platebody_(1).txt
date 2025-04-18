@@ -1,0 +1,51 @@
+[Weapon: Shayzien Platebody (1)]
+
+
+TheShayzien platebody (1)is a platebody that requires 20Defenceto equip, and is part of theShayzien armour (tier 1)set.
+It is dropped by thetier 1 soldierat theCombat Ringin theShayzien Encampment. It can also be created at an anvil with 53Smithingand 4lovakite bars.
+
+
+[Infobox]
+Released: 7 January2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Dress like a tier 1 Shayzien soldier.
+General Store Value: 40 coins
+High alch: 24 coins
+Low alch: 16 coins
+Weight: 9.979 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -5
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +16
+- Slash: +20
+- Crush: +22
+- Magic: -2
+- Ranged: +16
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Soldier (tier 1) | 39 | 1 | Always | 

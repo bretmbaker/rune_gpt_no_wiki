@@ -1,0 +1,273 @@
+[Shop: Food]
+
+Foodis a type ofitemprimarily used to restore the player'sHitpoints, though some foods may have other effects. Food can be obtained through theCookingskill, as a drop from certainmonsters, from somerandom eventssuch as theSandwich ladyrandom event, from other players, or fromnon-player characters. There are also foods which can be grown with theFarmingskill or found in some farm areas such aspotatoes,cabbages, andonions. Lastly, there areholidayfood items such aspumpkinsandeaster eggs. It is not advised to eat one of these holiday items due to their low availability and high price.
+
+There are many different kinds of food, such asfishandmeat,bread,cakes,pies, andpizza. Some foods, such as pies and pizzas, have two or more "bites" or "slices" meaning they can be eaten multiple times.
+
+Most food will delay your next attack or food consumption by 3ticks(1.8 seconds) when consumed. Foods which incur non-standard attack or eating delays are calledfast foods.
+
+Popular foods[edit|edit source]
+
+These are some of the most popular foods. You can find a list of all foodshere, and a list of all cooked foods under theCookingskill.
+
+Food | Heals | SkillsNeeded | Notes | GP per heal[a] | Price | Members
+
+ | Shrimps | 3 | 11 | Caught via small net fishing. Commonly used for very early game combat. | 7.67 | 23 | 0
+
+ | Cooked chicken | 3 | 1 | Raw chicken is obtained by killingchickens. Commonly used for very early game combat. | 34.33 | 103 | 0
+
+ | Cooked meat | 3 | 1 | Raw meat can be obtained by killingcowsorgiant rats. Commonly used for very early game combat. | 31.33 | 94 | 0
+
+ | Bread | 5 | 1 | Baked by players, seeCookingskill.Can bestolenfromEast Ardougne,Keldagrim,Kourend CastleandHosidiusFarmers' Market. | 18.80 | 94 | 0
+
+ | Herring | 5 | 510 | Caught via bait fishing. | 3.80 | 19 | 0
+
+ | Mackerel | 6 | 1016 | Caught via big net fishing. | 3.50 | 21 | 1
+
+ | Pike | 8 | 2025 | Caught via bait fishing. | 6.00 | 48 | 0
+
+ | Peach | 8 | 60 | Created with theBones to Peachesmagic spell or tablet.Replenishable food source when bones are available. | 3.38 | 270[b] | 1
+
+ | Salmon | 9 | 2530 | Caught via fly fishing. | 7.22 | 65 | 0
+
+ | Tuna | 10 | 3035 | Caught with aharpoon. | 9.00 | 90 | 0
+
+ | Jug of wine | 11 | 35 | Upon consumption,Attackis temporarily decreased by 2 points and leaves a jug behind.Can be purchased for1from a variety of shops, either from theFree-to-playaccessibleFortunato, or the infinite stock pubs available inVarlamore, such asThe Flaming Arrow. | 0.27 | 3 | 0
+
+ | Cake | 4 × 3 | 40 | Baked by players, seeCookingskill.Heals 4 Hitpoints per bite (3 bites total).Can bestolenfromEast Ardougne,Keldagrim,Kourend CastleandHosidiusFarmers' Market. | 13.75 | 165 | 0
+
+ | Meat pie | 6 × 2 | 20 | Baked by players, seeCookingskill. Can be purchased in theCooks' Guildfor15.Heals 6 Hitpoints per bite (2 bites total). After eating it, a pie dish will remain. | 4.58 | 55 | 0
+
+ | Lobster | 12 | 4040 | Caught with alobster pot. | 13.92 | 167 | 0
+
+ | Bass | 13 | 4346 | Caught via big net fishing. | 6.54 | 85 | 1
+
+ | Plain pizza | 7 × 2 | 35 | Baked by players, seecookingskill.Heals 7 Hitpoints per bite (2 bites total). | 39.57 | 554 | 0
+
+ | Swordfish | 14 | 4550 | Caught with aharpoon. Best single bite food item forFree-to-play. | 11.71 | 164 | 0
+
+ | Apple pie | 7 × 2 | 30 | Made by using acooking appleon apie shellto make anuncooked apple pieand cooking it. Can be purchased in theCooks' Guildfor30.Heals 7 Hitpoints per bite (2 bites total). After eating it, a pie dish will remain. | 5.64 | 79 | 0
+
+ | Ixcoztic white | 16 | N/A | Purchased fromMoonrise Winesfor100.Upon consumption,Attackis temporarily decreased by 5,Herbloreby 1, andFarmingis temporarily boosted by 1. | 7.63 | 122 | 1
+
+ | Chocolate cake | 5 × 3 | 50 | Made by addingchocolate dusttocake.Heals 5 Hitpoints per bite (3 bites total).1/3 slicecan bestolenfromEast Ardougne,Keldagrim,Kourend CastleandHosidiusFarmers' Market. | 13.13 | 197 | 0
+
+ | Snowy knight | 15 | 35 | Caught via hunter while having aButterfly jar.Can be released to restore 15 Hitpoints.Use on another player with accept aid turned on to heal them and up to 3 other players in a 5x5 area around them (including yourself), healing up to 60 Hitpoints total.Will not increase the delay before your next attack. | 85.00 | 1,275 | 1
+
+ | Potato with cheese | 16 | 47 | Made by usingcheeseon apotato with butter.Can be purchased from theWarriors' Guildfor9, requiring a combinedAttackandStrengthlevel of 130 to access. | 14.19 | 227 | 1
+
+ | Monkfish | 16 | 6262 | Caught via small net fishing in thePiscatoris Fishing Colonyafter the completion of theSwan Song. | 22.88 | 366 | 1
+
+ | Cooked kyatt | 9 + 8 | 5155 | Caught via hunter. If a second meat is eaten before the effect happens, only the most recent secondary heal will occur. | 14.76 | 251 | 1
+
+ | Anchovy pizza | 9 × 2 | 55 | Made by usinganchovieson aplain pizza.Heals 9 Hitpoints per bite (2 bites total).Highest healing food per inventory slot forFree-to-play | 38.89 | 700 | 0
+
+ | Cooked karambwan | 18 | 3065 | Akarambwan vesseland completion ofTai Bwo Wannai Triorequired to fish and cook it properly.Can be eaten in the sametickas another piece of food, allowing for combo eating.Shorter attack delay than most other food (2 ticks instead of 3). | 29.00 | 522 | 1
+
+ | Curry | 19 | 60 | Commonly used for fighting theChaos Elemental. Once eaten, an empty bowl remains in the inventory. | 23.42 | 445 | 1
+
+ | Cooked pyre fox | 11 + 8 | 5957 | Caught via hunter. If a second meat is eaten before the effect happens, only the most recent secondary heal will occur. | 21.58 | 410 | 1
+
+ | Guthix rest | 5 × 4 | 18 | Requires partial completion ofOne Small Favourto make and consume.Can boost 5 Hitpoints above max. Restores 5% run energy and reducespoisondamage by 1 and reducesvenomto poison.In many cases, it may not be considered food as it is apotionmade with theHerbloreskill; however in some raids, it is a food and cannot be consumed.Will not increase the delay until your next attack. | 198.40 | 3,968 | 1
+
+ | Shark | 20 | 8076 | Caught with aharpoonor traded for withminnows. | 47.40 | 948 | 1
+
+ | Sea turtle | 21 | 8279 | Can be caught from theFishing Trawler minigame,Tempoross,drift net fishing.Drops noted fromLarran's small chest,Larran's big chest, and theBrimstone chest. | 47.57 | 999 | 1
+
+ | Cooked sunlight antelope | 12 + 9 | 6872 | Caught via hunter. If a second meat is eaten before the effect happens, only the most recent secondary heal will occur. | 35.33 | 742 | 1
+
+ | Pineapple pizza | 11 × 2 | 65 | Made by usingpineapple chunksorringson aplain pizza.Heals 11 Hitpoints per bite (2 bites total).Useful for having a much lower Cooking requirement than similarly high-healing foods. | 36.73 | 808 | 1
+
+ | Dragonfruit pie | 10 × 2 | 73 | Heals 10 Hitpoints per bite (2 bites total).BoostsFletchingby 4. | 26.25 | 525 | 1
+
+ | Summer pie | 11 × 2 | 95 | Heals 11 Hitpoints per bite (2 bites total).BoostsAgilityby 5, and restores 10%run energy. After eating it, a pie dish will remain. | 28.27 | 622 | 1
+
+ | Wild pie | 11 × 2 | 85 | Heals 11 Hitpoints per bite (2 bites total).BoostsSlayerby 5, andRangedby 4. After eating it, a pie dish will remain. | 28.14 | 619 | 1
+
+ | Manta ray | 22 | 9181 | Can be caught with fishing fromFishing Trawlerminigame,drift net fishing,TemporossDrops fromZulrah,Vorkath, and theTombs of Amascut. | 71.45 | 1,572 | 1
+
+ | Tuna potato | 22 | 68 | Made by usingtuna and cornon apotato with butter.Useful for having a much lower Cooking requirement than similarly high-healing foods. | 65.14 | 1,433 | 1
+
+ | Dark crab | 22 | 9085 | Caught by using alobster potwithdark fishing bait.Can only be fished in theWildernessand theResource Area. | 60.91 | 1,340 | 1
+
+ | Anglerfish | 3 to 22 | 8482 | Caught by using afishing rodwithsandworms.Healing dependent on the player'sHitpointslevel (complex,see page)Can boost Hitpoints above maximum equal to the amount it heals. | 74.82–548.67 | 1,646 | 1
+
+ | Cooked dashing kebbit | 13 + 10 | 8269 | Heals 13Hitpointsand 10 run energy immediately, then an additional 10 Hitpoints after 7 ticks (4.2 seconds). If a second meat is eaten before the secondary healing effect happens, only the most recent secondary heal will occur. Caught via hunter. | 85.13 | 1,958 | 1
+
+ | Cooked moonlight antelope | 14 + 12 | 9291 | Heals 14 Hitpoints immediately, then 7 ticks (4.2 seconds) later it will heal 12 more, additionally curing poison/reducing venom to poison. If a second meat is eaten before the secondary healing effect happens, only the most recent secondary heal will occur. Caught via hunter. | 110.65 | 2,877 | 1
+
+ | Basket of strawberries | (1 to 6) × 5 | 31 | Contains 5 strawberries, each of which heals 1-6 Hitpoints (1 + 6% of hp).Strawberryspawn atShayziens' WallinGreat Kourendfor no requirements. | 21.47–128.80 | 644 | 1
+
+ | Saradomin brew | (3 to 16) × 4 | 81 | Drunk in 4 sips, each healing forHitpoints*15100+2and can boost health above the maximum value.Due to it lowering offensive stats, it is typically used withsuper restorepotions.It is not considered food as it is apotionmade with theHerbloreskill.Will not increase the delay before your next attack. | 175.22–934.50 | 11,214 | 1
+
+Wilderness-only foods[edit|edit source]
+
+Blightedfoods canonlybe consumed in theWilderness.
+
+Food | Heals | SkillsNeeded | Notes | GP per heal | Price | Members
+
+ | Blighted karambwan | 18 | N/A | Can only be eaten in theWilderness.Purchased from theSoul Wars Reward ShoporJustine's stuff for the Last Shopper Standing.This food is unique in that it can be eaten in the sametickas another piece of food, allowing for combo eating. | 9.89 | 178 | 1
+
+ | Blighted manta ray | 22 | N/A | Can only be eaten in theWilderness.Purchased from theSoul Wars Reward ShoporJustine's stuff for the Last Shopper Standing. | 34.64 | 762 | 1
+
+ | Blighted anglerfish | 3 to 22 | N/A | Can only be eaten in theWilderness.Purchased from theSoul Wars Reward ShoporJustine's stuff for the Last Shopper Standing.Healing dependent on the player'sHitpointslevel and can boost hitpoints above one's maximum equal to the amount it heals providing that the player is not in combat with another player or NPC. | 20.91–153.33 | 460 | 1
+
+Fast Foods[edit|edit source]
+
+Fast foods refer to a subtype of food that incur non-standard attack or eating delays when they are consumed. This means you may be able to eat them faster, or attack more quickly after eating one than you could with other foods.
+
+For comparison with the chart below, most foods add a 3-tick (1.8 second) penalty to when a player may attack, or eat again.For an in-depth explanation on how these mechanics work, see theFast foodspage.
+
+Combo Eating[edit|edit source]
+
+Combo eating is a strategy that allows the healing effect from multiple foods to apply in a single server tick. The most common example involves eating aKarambwandirectly after eating another non-combo food. This consumes both foods and applies healing instantly.
+
+Food | Heals | SkillsNeeded | Notes | Attack Delay(Ticks) | Eat Delay(Ticks) | Combo | Ge Price | Members
+
+ | Cooked crab meat | 2x5 | 21 | Made usingCookingAll five bites have 2-tick eat delay. | 3,3,3,3,3 | 2,2,2,2,2 |  | 1,494 | 1
+
+ | Cake | 4x3 | 40 | Made usingCookingOnly the first two bites have the 2-tick eat delay, the third slice is 3-tick. | 3,3,3 | 2,2,3 |  | 165 | 0
+
+ | Chocolate cake | 5x3 | 50 | Made usingCookingOnly the first two bites have the 2-tick eat delay, the third slice is 3-tick. | 3,3,3 | 2,2,3 |  | 197 | 0
+
+ | Redberry pie | 5x2 | 10 | Made usingCookingOnly the first bite has the 1-tick eat delay, the second slice is 2-tick. | 3,3 | 1,2 |  | 189 | 0
+
+ | Meat pie | 6x2 | 20 | Made usingCookingOnly the first bite has the 1-tick eat delay, the second slice is 2-tick. | 3,3 | 1,2 |  | 55 | 0
+
+ | Garden pie | 6x2 | 34 | Made usingCookingTemporaryFarmingboost of +3Both slices are a 1-tick eat delay. | 3,3 | 1,1 |  | 74 | 1
+
+ | Fish pie | 6x2 | 47 | Made usingCookingTemporaryFishingboost of +3Both slices are a 1-tick eat delay. | 3,3 | 1,1 |  | 780 | 1
+
+ | Apple pie | 7x2 | 10 | Made usingCookingOnly the first bite has the 1-tick eat delay, the second slice is 2-tick. | 3 | 1,2 |  | 79 | 0
+
+ | Botanical pie | 7x2 | 52 | Made usingCookingTemporaryHerbloreboost of +4Both slices are a 1-tick eat delay. | 3,3 | 1,1 |  | 1,078 | 1
+
+ | Mushroom pie | 8x2 | 60 | Made usingCookingTemporaryCraftingboost of +3Both slices are a 1-tick eat delay. | 3,3 | 1,1 |  | 2,490 | 1
+
+ | Admiral pie | 8x2 | 70 | Made usingCookingTemporaryFishingboost of +5Both slices are a 1-tick eat delay. | 3,3 | 1,1 |  | 174 | 1
+
+ | Toad crunchies | 8 | 10 | Made usingGnome cooking | 2 | 3 |  | 4,834 | 1
+
+ | Premade t'd crunch | 8 | N/A | Purchased fromGnome waiterin theGrand treefor85 | 2 | 3 |  | 643 | 1
+
+ | Spicy crunchies | 7 | 12 | Made usingGnome cooking | 2 | 3 |  | 1,954 | 1
+
+ | Premade s'y crunch | 7 | N/A | Purchased fromGnome waiterin theGrand treefor85 | 2 | 3 |  | 47 | 1
+
+ | Worm crunchies | 8 | 14 | Made usingGnome cooking | 2 | 3 |  | 4,021 | 1
+
+ | Premade w'm crun' | 8 | N/A | Purchased fromGnome waiterin theGrand treefor85 | 2 | 3 |  | 47 | 1
+
+ | Chocchip crunchies | 7 | 16 | Made usingGnome cooking | 2 | 3 |  | 2,220 | 1
+
+ | Premade ch' crunch | 7 | N/A | Purchased fromGnome waiterin theGrand treefor85 | 2 | 3 |  | 55 | 1
+
+ | Plain pizza | 7x2 | 35 | Made usingCookingOnly the first bite has the 1-tick eat delay, the second slice is 2-tick. | 3 | 1,2 |  | 554 | 0
+
+ | Meat pizza | 8x2 | 45 | Made usingCookingOnly the first bite has the 1-tick eat delay, the second slice is 2-tick. | 3 | 1,2 |  | 323 | 0
+
+ | Anchovy pizza | 9x2 | 55 | Made usingCookingOnly the first bite has the 1-tick eat delay, the second slice is 2-tick. | 3 | 1,2 |  | 700 | 0
+
+ | Dragonfruit pie | 10x2 | 73 | Made usingCookingTemporaryFletchingboost of +4Both slices are a 1-tick eat delay. | 3,3 | 1,1 |  | 525 | 1
+
+ | Pineapple pizza | 11x2 | 65 | Made usingCookingOnly the first bite has the 1-tick eat delay, the second slice is 2-tick. | 3 | 1,2 |  | 808 | 1
+
+ | Wild pie | 11x2 | 85 | Made usingCookingTemporaryRangedboost of +4,Slayer+5Both slices are a 1-tick eat delay. | 3,3 | 1,1 |  | 619 | 1
+
+ | Summer pie | 11x2 | 95 | Made usingCookingTemporaryAgilityboost of +5 and 10% Run energyBoth slices are a 1-tick eat delay. | 3,3 | 1,1 |  | 622 | 1
+
+ | Fruit batta | 11 | 25 | Made usingGnome cooking | 2 | 3 |  | 4,002 | 1
+
+ | Premade fr't batta | 11 | N/A | Purchased fromGnome waiterin theGrand treefor120 | 2 | 3 |  | 43 | 1
+
+ | Toad batta | 11 | 26 | Made usingGnome cooking | 2 | 3 |  | 2,031 | 1
+
+ | Premade t'd batta | 11 | N/A | Purchased fromGnome waiterin theGrand treefor120 | 2 | 3 |  | 43 | 1
+
+ | Worm batta | 11 | 27 | Made usingGnome cooking, Dropped byTortoise | 2 | 3 |  | 2,547 | 1
+
+ | Premade w'm batta | 11 | N/A | Purchased fromGnome waiterin theGrand treefor120 | 2 | 3 |  | 44 | 1
+
+ | Vegetable batta | 11 | 28 | Made usingGnome cooking | 2 | 3 |  | 3,920 | 1
+
+ | Premade veg batta | 11 | N/A | Purchased fromGnome waiterin theGrand treefor120 | 2 | 3 |  | 43 | 1
+
+ | Cheese+tom batta | 11 | 29 | Made usingGnome cooking | 2 | 3 |  | 2,686 | 1
+
+ | Premade c+t batta | 11 | N/A | Purchased fromGnome waiterin theGrand treefor120 | 2 | 3 |  | 46 | 1
+
+ | Worm hole | 12 | 30 | Made usingGnome cooking | 2 | 3 |  | 3,331 | 1
+
+ | Premade worm hole | 12 | N/A | Purchased fromGnome waiterin theGrand treefor150 | 2 | 3 |  | 52 | 1
+
+ | Veg ball | 12 | 36 | Made usingGnome cooking | 2 | 3 |  | 1,445 | 1
+
+ | Premade veg ball | 12 | N/A | Purchased fromGnome waiterin theGrand treefor150 | 2 | 3 |  | 47 | 1
+
+ | Chocolate bomb | 15 | 42 | Made usingGnome cooking | 2 | 3 |  | 702 | 1
+
+ | Premade choc bomb | 15 | N/A | Purchased fromGnome waiterin theGrand treefor160 | 2 | 3 |  | 119 | 1
+
+ | Tangled toad's legs | 15 | 40 | Made usingGnome cooking | 2 | 3 |  | 1,068 | 1
+
+ | Premade ttl | 15 | N/A | Purchased fromGnome waiterin theGrand treefor160 | 2 | 3 |  | 84 | 1
+
+ | Crystal paddlefish | 16 | 11 | Only obtainable and useable withinThe Gauntlet | 2 | 3 |  | N/A | 1
+
+ | Corrupted paddlefish | 16 | 11 | Only obtainable and useable withinThe Corrupted Gauntlet | 2 | 3 |  | N/A | 1
+
+ | Cooked karambwan | 18 | 3065 | RequiresTai Bwo Wannai Trioto fish/cook. | 2 | 3 |  | 522 | 1
+
+Hunter Meats[edit|edit source]
+
+Hunter meats, when eaten, will heal an initial amount before doing so again after 7 ticks (4.2 seconds), making it heal more Hitpoints overall than other foods in its level bracket. If a second meat is eaten before the effect happens, only the most recent secondary heal will occur. The secondary effect will not be cancelled when eating other foods such ascooked karambwans, however.
+
+By default, players with the appropriateCookinglevel can cook low tier hunter meat, but better quality meats require having completed a set amount ofHunters' Rumoursbefore being able to cook them.
+
+Level | Item | Rumours | XP | Initial heal | Secondary heal | Total heal | Additional effect | Comparison
+
+23 |  | Cooked wild kebbit | 0 | 73 | 4 | 4 | 8 |  |  | Pike | 8
+
+31 |  | Cooked larupia | 0 | 91 | 6 | 5 | 11 |  |  | Rainbow fish | 11
+
+32 |  | Cooked barb-tailed kebbit | 0 | 106 | 7 | 5 | 12 |  |  | Lobster | 12
+
+41 |  | Cooked graahk | 25 | 124 | 8 | 6 | 14 |  |  | Swordfish | 14
+
+51 |  | Cooked kyatt | 25 | 143 | 9 | 8 | 17 |  |  | Monkfish | 16
+
+59 |  | Cooked pyre fox | 25 | 154 | 11 | 8 | 19 |  |  | Shark | 20
+
+68 |  | Cooked sunlight antelope | 50 | 175 | 12 | 9 | 21 |  |  | Sea turtle | 21
+
+82 |  | Cooked dashing kebbit | 50 | 215 | 13 | 10 | 23 | Restores 10 run energy |  | Manta ray | 22
+
+92 |  | Cooked moonlight antelope | 50 | 220 | 14 | 12 | 26 | Curespoison |  | 
+
+Niche foods[edit|edit source]
+
+These foods can be more useful than the more commonly used foods, but will usually only see use in more niche scenarios due to their high cost, low trade volume, difficulty to obtain, or limited use cases. Some uses would include speed, endurance, or low-level challenges for various bosses, supplementing other food as a means to perform specific strategies, orIronmenwho do not wish to train Cooking very high.
+
+Food | Heals | SkillsNeeded | Notes | GP per heal[a] | Price | Members
+
+ | Moonlight mead(m) (keg) | 6 × 4 | 4472 | Can heal 24 Hitpoints per inventory slot, weighs almost nothing, and has a very low Cooking requirement for its healing amount.Extremely expensive and has almost no daily trade volume. Creating it is a slow process with a low chance of success, seeBrewing. | 5,581.33 | 133,952 | 1
+
+ | Purple sweets | 1 to 3 | N/A | Restores 10% run energy per sweet, and can be stacked to heal thousands in one inventory slot.Only obtainable fromTreasure Trailsin small quantities, making them very expensive to use. | 3,301.67–9,905 | 9,905 | 1
+
+ | Onions(10) | 1 × 10 or5 × 10 | None or42 | Restores only 1 Hitpoint perOnion, but is useful as a cheaper and more consistent option thanPurple sweetsfortick eating, though it requires more inventory management in order to empty the sack and then eat.Without additional tools they are only practical for this purpose, as using these as a primary source of healing is slow.When combined with aknife,bowl, a means to cook it, and enough time out of combat to cook it, they can be made intoFried onions, allowing each sack to heal 50 Hitpoints. | 160.30or32.06 | 1,603 | 1
+
+Notes[edit|edit source]
+
+When selecting the right food for your next venture, two things should be thought about.
+
+Effectiveness:Ensure that the food you take is good enough for your next encounter.Tunais cheap but it only heals 10 Hitpoints, making it not the most effective against stronger opponents, whereasswordfishheal 14 Hitpoints, a major difference. Also, if you know exactly what you're going to be facing, you should try to find food thatheals for more than their max hit. As an example, aTzHaar-Kethas a max hit of 16. Therefore,sharksandmonkfishare effective, swordfish are passable, andlobstersand below are much less effective.Cost:Use food that you can afford. Sharks are often sold by players for around948coins, whereas monkfish are nearly as effective in many situations and typically sell for366coins, 80% of the health restoration for38.61%of the cost. Weigh the cost of food against the possible profit of the venture, and avoid using expensive food unless it is going to make a significant difference to your chance of survival or task completion.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+5 February2015(update) | "It heals some health" messages have been added to the game filter for more types of food.
+
+See also[edit|edit source]
+
+CookingCooks' GuildDrinks

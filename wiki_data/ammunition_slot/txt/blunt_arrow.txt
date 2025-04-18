@@ -1,0 +1,46 @@
+[Weapon: Blunt Arrow]
+
+
+Blunt arrowsare a special set of arrows obtained from theAttacker item machineduring a game ofBarbarian Assault. It is only obtainable by players if they are assigned the Attacker role, and are used to harmPenance FightersandRangerswhen they are weak to theAggressive/Blunt/Earthstyles, which the Collector will call.
+The feather's colours match the colour of the magic spell element that the fighters and rangers are weak to, which makes it easy to know which arrow should be equipped once the Collector has made the correct call.
+
+
+[Infobox]
+Released: 25 January2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Arrows with blunt heads.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +46
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +125
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

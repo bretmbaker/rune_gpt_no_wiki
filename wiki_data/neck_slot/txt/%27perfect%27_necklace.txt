@@ -1,0 +1,46 @@
+[Weapon: %27Perfect%27 Necklace]
+
+
+A'perfect' necklaceis aquest itemin theFamily Crestquest. It is made with a'perfect' gold bar,ruby, andnecklace mouldat afurnace, requiring 40Craftingand yielding 75 Craftingexperience. A 'perfect' necklace and'perfect' ringare given toAvanin exchange for hiscrest part.
+It is possible to mine'perfect' goldand craft 'perfect' jewellery without speaking toBoot, but he must be spoken to in order to give the jewellery to Avan.
+
+
+[Infobox]
+Released: 9 April2002(Update)
+Members: Yes
+Quest item: Family Crest
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A perfect ruby necklace.
+General Store Value: 2,175 coins
+High alch: 1,305 coins
+Low alch: 870 coins
+Weight: 0.01 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

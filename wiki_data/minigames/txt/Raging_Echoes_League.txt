@@ -1,0 +1,458 @@
+[Minigame: Raging_Echoes_League]
+
+ | This article has astrategy guide.All information on mechanics and strategy will be on this page.
+
+Raging Echoes League
+
+
+
+
+
+
+
+Type | Leagues
+
+Open date | 27 November2024
+
+End date | 22 January2025
+
+Update blog | Leagues V: Raging Echoes OUT NOW!
+
+Removal update | Bank QoL & Mini Menu Improvements
+
+
+
+Raging Echoes
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+Guides
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+TheRaging Echoes Leaguewas the fifth and most recentLeagueinOld School Runescape. The League was announced during theSummer Summit 2024and began on 27 November 2024, lasting 8 weeks, ending on 22 January 2025.
+
+The League carried forward the region-locking mechanic ofTrailblazer LeagueandTrailblazer Reloaded Leaguewith the additional option of Varlamore, and new content such as Echo Bosses.
+
+Overview
+
+The Raging Echoes League was a temporary game mode with a unique ruleset that fundamentally changed the gameplay experience. Players began with most regions of the game locked and were able to unlock new ones by completing tasks and accumulatingleague points. At certain point thresholds, players were able to select powerful relics that affect skilling, combat, or provide extra utility. Raging Echoes followed the format of the previousTrailblazerandTrailblazer Reloadedleagues, but added new features such as combat masteries and more difficult boss versions called echo bosses. Players could view their progress and accomplishments by viewing theirsummary interfacein their settings.
+
+Changes from Trailblazer Reloaded League
+
+The region ofVarlamorewas unlockableCombat masteries, which offered bonuses to combat as a separate progression system from relicsEcho variants of existing bossesAll three mega rare raid items (twisted bow,scythe of vitur, andtumeken's shadow) could be obtained from any of the three raidsMultiple unique drops were obtainable fromTombs of AmascutandTheatre of Bloodwhen certain conditions were met:Teamwide purples could only be awarded in ToA with a raid level of 500+Teamwide purples could only be awarded inToB: Hard ModeVardorvis,Duke SucellusandThe Whispererno longer required the Kharidian Desert to be unlocked.In addition, the Stranglewood and Vardorvis were moved from Kourend and Kebos to Varlamore, accessable via theLeague NavigatorinQuetzacalli Gorge.Potions and ingredients sourced during the Duke Sucellus fight were no longer removed from your inventory when waking DukeZulrahwas not immune to any melee damage that can reach, and had no damage capInstances were created forCerberus,Sarachnis, and theThermonuclear Smoke Devil, and the timer when attempting to enter aDagannoth Kingsinstance shortly after leaving was removedXP rewards fromSoul WarsandPest ControlweredisabledThemax capewas available for purchase fromThe SageinLumbridgefor all playersRocks, trees, respawnable items, and main-world NPCs respawned faster than the main game. (3x in most cases, and much higher in other cases such as Runite Rocks)Pet cosmetic overrides are now carried over between Leagues, including any that players had unlocked in theTrailblazer Reloaded LeagueClans could toggle shared Leagues related broadcasts including relic, area, rank, and combat mastery achievementsAdditional new content added since the previous League included:Armoured zombiesSkilling and combat rebalancesTormented demonsAraxxorScurriusZombie piratesandWilderness Agility CoursechangesVarlamoreincludingAmoxliatl,Hueycoatl,Mastering Mixology,Moons of Peril,Fortis Colosseum, and theHunter Guildandrumours
+
+Rules
+
+Player restrictions
+
+As with all previous leagues, all players were anIronman.
+
+Players started with a 5x accelerated experience rate for skills, and began with level 3Herbloreand level 5Runecraft. The XP multiplier increased further at specific relic tiers. Players were also able to claim a freedramen stafffromThe Sagein the Lumbridge Courtyard to accessZanaris.
+
+Certainquestswere automatically completed at the start of the league such asDragon Slayer I,Druidic Ritual, andFairytale II - Cure a Queento enable travel and access to skills. Other quests anddiary taskswere completed as players unlocked other regions, if they unlocked substantial content for the region.
+
+Area restrictions
+
+Players began their journey with only the regions ofMisthalinandKaramjaavailable. Further areas could be unlocked by completing a certain amount of tasks. A maximum of three additional regions could be unlocked.
+
+Unlockable areas included theWilderness, theFremennik Isles,Asgarnia,Morytania, theKharidian Desert,Kandarin,Tirannwn,Kourend and Kebos, andVarlamore.Players were able to travel to unlocked regions with waystones and could only set respawns in unlocked areas.
+
+Accommodations due to region locking
+
+Box trapswere added togeneral storesand were usable without havingEagles Peakcompleted.Pestle and mortarsandfishing baitwete added to theLumbridge General Store.Elemental shieldwas added to allslayer shops.Death's office, theplayer-owned house,random eventsand therune essence mineswere accessible from all areas.Slayertasks were limited to creatures found in the areas a player has unlocked, and all Slayer Masters assigned the same tasks.Treasure Trailsteps were limited to the areas a player has unlocked.Mahogany Homescontracts were limited to the areas a player has unlocked.When purchasing a house, it was placed inBrimhavenrather thanRimmington, to allow training ofConstructionfrom level 1.Thetwisted bow,scythe of Vitur, andTumeken's shadowwere available from all three raids. Instead of the mega rare dropping, it instead dropped amega rare voucherthat could be exchanged at the Sage in Lumbridge for any of the three weapons.The scythe of Vitur was charged with onlyblood runes.AllSoulreaper axepieces dropped from every member of theForgotten Four.TheHunters' crossbowwas purchasable in the Charter Ship store by theSunset Coast, to allow for the creation of theHunters' sunlight crossbowif the Varlamore region was taken and Kandarin was not.
+
+Tasks
+
+Completing league tasks was the main way to progress in the Raging Echoes League. Completing tasks earned playersLeague Pointsand unlockedrelicsand other rewards at specific thresholds. Tasks spanned five different difficulty levels: Easy, Medium, Hard, Elite, and Master. Some tasks were area-specific, while others were more general and could be completed in multiple or even any region. Every area had roughly the same number of obtainable points from tasks.
+
+ | Raging Echoes League task complete
+
+The jingle that played upon completing a task.
+
+
+
+Examples of area specific tasks:
+
+Travel toFossil IslandComplete theEasy Varrock DiaryDefeatScurriusMine 25Pure Essence
+
+Examples of general tasks that can be completed in any region:
+
+Bury someBonesObtain aMark of GraceEquip aMaple ShortbowDefeat aGuard
+
+Areas
+
+As players progress and complete tasks, areas could be unlocked. These unlocks were available after 90, 200 and 400 total tasks each. All players began their journey with access toMisthalinandKaramja.
+
+Default areas
+
+Unlockable areas
+
+Up to three other areas could be unlocked after completing 90, 200, and 400 Leaguetasks.
+
+Combo boss drops
+
+As a new feature to the league, boss drops that required multiple regions dropped as completed. A list of adjusted drops is below:
+
+Grotesque Guardiansdroppedguardian bootsinstead ofblack tourmaline coreAraxxordroppedamulet of rancourinstead ofaraxyte fangAlchemical Hydradroppeddragon hunter lance,ferocious gloves, andbonecrusher necklaceinstead ofhydra's claw,hydra's leather, andhydra tailCerberusdroppedeternal bootsinstead ofeternal crystalPhantom Muspahdroppedancient sceptreinstead ofancient iconZulrahdropped theuncharged toxic tridentinstead of themagic fangThe Leviathandropped thevenator ringinstead of thevenator vestigeThe Whispererdropped thebellator ringinstead of thebellator vestigeVardorvisdropped theultor ringinstead of theultor vestigeDuke Sucellusdropped themagus ringinstead of themagus vestigeFortis Colosseumdropped theecho bootsinstead of theecho crystalTheatre of Blooddropped theavernic defenderinstead of theavernic hiltChambers of Xericdropped thekodai wandinstead of thekodai insigniaAdamant dragonsdropped thedragon kiteshieldinstead ofdragon metal sliceRune dragonsdropped thedragon platebodyinstead ofdragon metal lumpAll ofThe Forgotten Fourdropped all pieces of thesoul reaper axeThedragon pickaxeobtained viaVolcanic Mineore packs came already repairedThedragon hastacame completed from thebrimstone chestTormented synapsefromtormented demonscould be instantly converted to anemberlight,scorching bow, orpurging staff
+
+Echo bosses and echo equipment
+
+Echo bossesare a new system to Raging Echoes League that grant players the opportunity to fight challenging variants of existing bosses, targeting difficulty levels more suited to the power level that players attain duringleagues. Each unlockable area contains an echo boss that drop echo equipment. An area's echo equipment is designed to supplement the area's shortfalls for attainable items and can rival other areas'best-in-slotequipment.
+
+Overview
+
+In order to access an echo boss, the player must acquire the region's echo orb from the non-echo variant of the boss and have it in their inventory while entering the boss area.
+
+Region | Echo boss | Difficulty | Echo equipment | Equipmentdroprate | Echo orbdroprate
+
+Desert✓ | Kalphite Queen (Echo) | Elite | Drygore blowpipe | 1/20 | 1/30
+
+Asgarnia✓ | Cerberus (Echo) | Master | The dogsword | 1/25 | 1/50
+
+Wilderness✓ | King Black Dragon (Echo) | Elite | Thunder khopeshThousand-dragon ward | 1/25 | 1/30
+
+Morytania✓ | Grotesque Guardians (Echo) | Elite | Gloves of the damned | 1/25 | 1/30
+
+Fremennik✓ | Dagannoth Kings (Echo) | Master | Amulet of the monarchsEmperor ring | 1/25 | 1/30
+
+Kandarin✓ | Thermonuclear smoke devil (Echo) | Elite | Devil's element | 1/25 | 1/50
+
+Tirannwn✓ | Corrupted Hunllef (Echo) | Master | Crystal blessing | 1/15 | 1/15
+
+Kourend✓ | Hespori (Echo) | Elite | Nature's reprisal | 1/15 | Always
+
+Varlamore✓ | Sol Heredit (Echo) | Grandmaster | Sunlight spear | 1/5 | Always
+
+Sunlit bracers | 1/7
+
+Combat Masteries
+
+Combat masteries were a new system to Raging Echoes League that offered boosts to combat. Masteries were a separate progression system to relics, offering players new choices and permanent decisions to further increase power.
+
+The Combat Masteries were split into three styles:Melee,Ranged, andMagic, each with 6 Masteries. Each Combat Mastery in a style required the previous tier of that style to be unlocked. The first time the player reached a tier of Combat Mastery in any style also enabled an additional passive bonus that applied to all styles of combat.
+
+Relics
+
+Relicsare powerful buffs which are unlocked withLeague Points. Relics offer bonuses that boost actions related to gathering, processing, teleportation, and combat. Upon completing the league tutorial, players are presented with the choice of their first relic between three. Additional relics can be unlocked as players reach certain point thresholds and unlock new tiers.
+
+Once players choose a Relic of a tier, they will be permanently unlocked, but cannot change their relic selection for that tier.
+
+Tier 1 (0 Points)
+
+Passive Effects:
+
+Leagues XP multiplier is 5x.Items fromeligible sourceswill be 2x as common.Farming Tickswill occur every minute instead of every five minutes.Minigame Pointsreceived are boosted by 4x.Run energyis never drained whilst running.All clue scrolls will drop as stackable scroll boxes, and clue-step progress is saved between clues.Players will only receive steps they can access within an unlocked region.[1]
+
+Icon | Name | Effect
+
+ | Power Miner | Grants theEcho pickaxe, a non-degradable variant of thecrystal equivalentwith no requirements. When in your inventory or equipped, you gain the following benefits:On failing to mine a rock, you will have a separate 50% chance to succeed.Items gathered fromMiningare automatically sent to your Bank.The rock will not deplete until you have mined 4 ores. This buff stacks with the effects ofMining gloveswith a cap of 7 ores from a given node.You will be able to toggle the following effects on or off for the Pickaxe:Collected ores are automatically smelted and grant Smithing XP (regardless of your Smithing level).Gems gathered from mining are automatically cut and grant Crafting XP (regardless of your Crafting level).
+
+ | Lumberjack | Grants theEcho axe, a non-degradable variant of thecrystal equivalentwith no requirements. When in your inventory or equipped, you gain the following benefits:On failing to chop a tree, you will have a separate 50% chance to succeed.Items gathered fromWoodcuttingare automatically sent to your Bank.You will be able to toggle the following effects on or off for the Axe:Automatically burning logs forFiremakingXP (regardless of your Firemaking level).AutomaticallyFletchinglogs intoarrowshaftsfor Fletching XP (regardless of your Fletching level).
+
+ | Animal Wrangler | Grants theEcho harpoon, a non-degradable variant of thecrystal equivalentwith no requirements. When in your inventory or equipped, you gain the following benefits:On failing to fish a spot, you will have a separate 50% chance to succeed.Items gathered fromFishingare automatically sent to your Bank.Fish caught have a 50% chance to be automatically cooked, grantingCookingexperience regardless of level requirements.Attempt to catch fish 1 tick faster.Acts as aNet,Big net,Lobster potor any Rod whilst fishing.Alongside the Echo harpoon effects you will get the following benefits toHunter:Hunter traps will never fail.Box traps catchchinchompasfaster and are doubled when caught, also giving double XP.Impling jarsno longer break upon opening them.You also never burn food while Cooking.
+
+Tier 2 (750 Points)
+
+Passive Effects:
+
+Leagues XP multiplier is increased from 5x to 8x.
+
+Icon | Name | Effect
+
+ | Corner Cutter | Upon choosing this relic you will receive a pair ofsage's greaves.Whilst equipped, sage's Greaves will grantAgilityexperience based on your Agility level while you run.Players will always succeed in performing actions forAgility.Completing anAgility coursegrants two completion count and 25% bonus experience.Marks of gracewill also spawn with 10,000coins.Double the quantity ofpyramid tops,hallowed marks,Brimhaven vouchers, andcrystal shards(from thePrifddinas Agility Course).
+
+ | Friendly Forager | Upon choosing this relic you will receive theforager's pouch. The forager's pouch will provide the following benefits while in your inventory or equipped:When you gather resources fromWoodcutting,Fishing,MiningandHunting, the forager's pouch will find and store a randomgrimy herb, limited toherbsyourHerblorelevel + 25 can clean, whilst also providing a small amount of Herblore experience when one is found.The forager's Pouch will only find herbs it has room to store, but will always attempt to give you a herb you can receive.The forager's pouch works just like aherb sack, and shares an inventory with it.Additionally, you gain the following benefits to Herblore when craftingpotions:Secondary ingredients have a 90% chance to not be consumed. (This stacks additively with other sources)Created potions contain 4 doses instead of 3.
+
+ | Dodgy Deals | When choosing this relic, you gain the following benefits toThieving:Pickpocketingan NPC will also pickpocket all NPCs of the same type in a 11x11 square, granting extra loot for each NPC pickpocketed.100% success rate on all Thieving checks.Automatically re-pickpocket an NPC or stall until you can no longer do so.Items obtained from pickpocketing are noted.Maximumcoin pouchcount increased by 3x.Stallsnever deplete.
+
+Tier 3 (1500 Points)
+
+Passive Effects:
+
+Combat Experience (Including Hitpoints & Prayer) will be multiplied by 2x (Multiplicative with other modifiers).TheBigger and badderslayer unlock is unlocked for free.Slayer reward pointsare 5x from Tasks and you aren't required to complete 5 Tasks before earning Points.Superior slayer monsterswill appear at a rate of 1/50.
+
+Icon | Name | Effect
+
+ | Clue Compass | Players are given aclue compassallowing teleport to anySTASH unit, and toFalo the BardThe compass can also teleport the player to their currentcluestep if they have one. It does not work on clue steps that require killing a certain NPC.This item ignoreswildernessteleport restrictionsThis item cannot be used to teleport to an area which is not unlockedAs the player is given an item upon unlocking this relic, it must be unlocked in abank.
+
+ | Bank Heist | Players are given abanker's briefcaseallowing teleport to anydeposit box,bank, orbank chestThis item ignoreswildernessteleport restrictionsThis item cannot be used to teleport to an area which is not unlockedAs the player is given an item upon unlocking this relic, it must be unlocked in abank.
+
+ | Fairy's Flight | Players are given afairy mushroomwhich allowsteleportingto anyfairy ring,spirit tree, ortool leprechaun.Unlocking this relic will autocomplete theTree Gnome Villagequest.Can only teleport to locations within regions the player has unlocked.This item ignoreswildernessteleport restrictions.As the player is given an item upon unlocking this relic, it must be unlocked in abank.
+
+Tier 4 (2500 Points)
+
+Passive Effects:
+
+Items fromeligible sourceswill be 5x as common.Minigame Pointsreceived are boosted by 8x.
+
+Icon | Name | Effect
+
+ | Golden God | HighandLow Alchemyspells have no rune cost or level requirementsItems give 15% more gold and have a 65% chance to not be consumed when the spell is castWhen Alchemy spells are cast on a stack of items, the spells will automatically be recast over time, until the stack is depleted or movedActions that would normally cancel Alchemy such as walking or attacking will not whilst it is automatically casting.You gain the following benefits toPrayer:20,000can be offered at Prayer altars in exchange for Prayer XP equivalent to using adragon bone. This respects altar XP modifiers.All items purchased from some select shops can be noted, provided the items can be noted at all.This effect can be toggled.
+
+ | Reloaded | Choose another relic from any previous tier.
+
+ | Equilibrium | Each time the player gainsexperience, they will gain additional experience in the skill trained. The additional experience is equal to 10% of the player's total level. (This is increased to 20% when training the skill the player has the least experience in.)Additional experience given by this relic is not multiplied by the Leagues XP multiplier.Tip: Equilibrium will trigger per instance of individual XP provided, even if that is multiple times in a singletick. E.g.Production Masterwill trigger Equilibrium one time per item processed.
+
+Tier 5 (5000 Points)
+
+Passive Effects:
+
+Leagues XP multiplier is increased from 8x to 12x.
+
+Icon | Name | Effect
+
+ | Treasure Arbiter | Impling Jarsand Creatures that dropClue Scrollshave a 1/15 chance of dropping them.Clue Geodes,Clue NestsandClue Bottlesare found 10x more often.All Clue Scrolls have the lowest number of steps possible for their tier.Every Clue Scroll casket will roll the max amount of rewards it can give (It can roll the same item more than once.):Beginner caskets will roll 3 times.Easy caskets will roll 4 times.Medium caskets will roll 5 times.Hard caskets will roll 6 times.Elite caskets will roll 6 times.Master caskets will roll 7 times.Emote,Falo&CharlieClue steps no longer have item requirements.
+
+ | Production Master | When doing the following Production activities, all items are processed at once:Smelting ores, Smithing bars and making Cannonballs.Fletching logs, stringing Bows, making arrow shafts and cutting bolt tips.Making headless arrows, regular arrows, bolts and darts. (Capped at 10x the regular amount per action)Cleaning herbs and making Potions which do not have a stackable secondary ingredient.Cooking food, making pies or pizzas and making Jugs of Wine.Crafting leather, uncut gems, glassblowing, jewellery, pottery, Battlestaves and spinning flax or wool.
+
+ | Slayer Master | Always on task for all eligible slayer monsters.Unlock all slayer task perks for free.Rune pouches,Herb sacksandLooting bagsin the slayer point store are all free.Skip and block tasks for free.Gain 1000-15,000 bonus Slayer XP for the first time you kill the 100th of each unique slayer monster, scaled by the monster's slayer level requirement (XP stated is before multipliers).
+
+Tier 6 (8000 Points)
+
+Passive Effects:
+
+None.
+
+Icon | Name | Effect
+
+ | Total Recall | Players are given acrystal of echoesallowing the following:Players can store any singlecoordinate, alongside theirhitpoints,prayer, andspecial attack energyPlayers may teleport back to the coordinates at any later time, restoring their stats to the saved ones
+
+ | Banker's Note | Players are given abanker's notewhich allows players to usenote-able items on it to turn them into banknotes or unnote them. Items must be used on the banker's note.The "Activate" option allows players to note and un-note items in one action with a quantity of the player's choosing. An item must first be used on the banker's note in order for this to work.Players can customise how many items the banker's note will note and unnote using the quantity options.
+
+Tier 7 (16000 Points)
+
+Passive Effects:
+
+Leagues XP multiplier is increased from 12x to 16x.
+
+Icon | Name | Effect
+
+ | Pocket Kingdom | You will receive thePocket kingdom.This item allows full access to theManaging Miscellaniafeature from anywhere.Workers will work for 50% less coins, always have max approval, produce twice as many resources, and accrue resources every hour instead of every day.
+
+ | Grimoire | You will receive theArcane grimoire.This item can be used to freely swap betweenspellbooks.The Grimoire acts as aBook of the dead.Additionally, when you select this relic, you will unlock access to allPrayersandspells, regardless of area,quest, ordiaryrequirements.
+
+ | Overgrown | Grants theLeprechaun's vault, which allows access to theSeed vaultfrom anywhere in the world.You gain the following benefits toFarming:Crops will never die.When planting a seed, it has a 75% chance to not be consumed.When a seed fully grows, if your Seed Vault has another seed of the same type it will harvest the patch for you, then replant the seed.Automatically replanted seeds haveUltracompostadded, whether or not you have any available.
+
+Tier 8 (25000 Points)
+
+Passive Effects:
+
+None.
+
+Icon | Name | Effect
+
+ | Specialist | You gain the following benefits tospecial attacks:All special attacks cost 20% and have +100% accuracy.For each failed accuracy roll with a special attack, gain 10% Special Attack Energy.Whenever you kill an NPC, restore 15% Special Attack Energy.
+
+ | Guardian | Upon choosing this relic you will receive theGuardian horn.This item will allow you to summon a powerfulGuardian Thrall, lasting 30 minutes.The guardian will attack your target with whatever style it is weak to.When you are in multi-combat it will cast an AoE attack if the target is weak to range or magic.The Guardian's stats are:Min hit: 5Max hit: 13Attack Speed: 4Accuracy: 45000The Guardian does not work in PvP.This relic will also work insideThe GauntletThe Guardian horn can be retrieved fromthe Sageif lost.
+
+ | Last Stand | You gain theLast Standability, which works as follows:If damage would reduce you to 0 hp, you are reduced to 1 hp instead.Your combat stats are instantly boosted to 255 but begin draining rapidly (16 every tick) back down to your base level + 15.For the next 16 ticks after this ability is activated, you cannot be reduced to 0 hp.When the effect ends, all incoming damage is nullified and the player is healed based on the damage they dealt over the last 16 ticks.Once this ability is used, it cannot be used again until you die or 3 minutes have passed.
+
+Boosted drops
+
+Items from certain sources were given a boosted drop rate in Raging Echoes League. The drop rate multiplier increased as more relics were unlocked.
+
+Relic Tier 1 - Items fromeligible sourceswere 2x as common.
+
+Relic Tier 4 - Items fromeligible sourceswere 5x as common.
+
+Boosted minigame points
+
+Some minigames had their reward points or currencies boosted in Raging Echoes League. The boost multiplier started at 4x when the tier 1 relic is chosen, and became 8x once the tier 4 relic was chosen. The following were affected by this buff:
+
+Region | Minigame
+
+Misthalin✓ | Fossil chances onFossil Island
+
+Misthalin✓ | Soul Warszeal
+
+Misthalin✓ | Volcanic Mine
+
+Karamja✓ | Brimhaven vouchersfromBrimhaven Agility Arena(Note:These are the vouchers used for theitem shop, not to be confused with theticketsused forAgilityexperience)
+
+Karamja✓ | Tai Bwo Wannai Cleanupfavour (Gout tuberchance duringTai Bwo Wannai Cleanup)
+
+Asgarnia✓(Reward shop) | Mahogany Homes
+
+Asgarnia✓(Reward shop) | Marks of gracefromrooftop Agility courses
+
+Asgarnia✓ | Mining Guildunidentified mineralsdrop rates
+
+Asgarnia✓ | Motherlode Minegold nuggetdrop rate
+
+Asgarnia✓ | Pest Controlpoints
+
+Asgarnia✓ | Rogues Densafe cracking chance
+
+Asgarnia✓(Reward shop) | Shooting Starsstardust
+
+Asgarnia✓ | Warriors' Guildtokens
+
+Desert✓ | Giants Foundry
+
+Desert✓ | Guardians of the Riftpoints andAbyssal pearls
+
+Desert✓ | Mage training arenapoints
+
+Kandarin✓ | Barbarian Assaulthonour points and queen kills
+
+Kandarin✓ | Castle Warstickets
+
+Kandarin✓ | Chompy bird killcount
+
+Kourend✓ | Molch pearlsfrom aerial fishing
+
+Kourend✓ | Tithe Farm
+
+Morytania✓ | Hallowed marksfromHallowed Sepulchre
+
+Morytania✓ | Trouble Brewing
+
+Varlamore✓ | Mastering Mixology
+
+Rewards
+
+In addition to theleague-to-league rewards, players can unlock several rewards for use in the main game. The rewards from previous Leagues are purchasable, with the addition of new rewards as of Raging Echoes League:
+
+Reward | League points | Description
+
+ | Raging echoes banner | 500 | The banner representing Raging Echoes League.
+
+ | Echo home teleport scroll | 1,000 | Cosmetic upgrade to change the player'sHome Teleportanimation.
+
+ | Raging echoes death scroll | 2,000 | Cosmetic upgrade to change the player'sdeathanimation.
+
+ | Raging echoes npc contact scroll | 5,000 | Cosmetic upgrade to change the animation ofNPC Contactspell.
+
+ | Echo ahrim's ornament kit | 6,000 | Cosmetic upgrade to change theAhrim robesto  the ornamented version.
+
+ | Echo venator bow ornament kit | 10,000 | Cosmetic upgrade to change theVenator bowto theEcho venator bow.
+
+ | Raging Echoes Relic Hunter (T1) | 1,000 | The tier 1 set of clothing representing Raging Echoes League.
+
+ | Raging Echoes Relic Hunter (T2) | 5,000 | The tier 2 set of clothing representing Raging Echoes League.
+
+ | Raging Echoes Relic Hunter (T3) | 20,000 | The tier 3 set of clothing representing Raging Echoes League. Includes theRaging echoes cane.
+
+ | Raging echoes spirit tree scroll | 6,000 | Cosmetic override forSpirit treeinPlayer-owned house.
+
+ | Echo virtus ornament kit | 8,000 | Cosmetic upgrade to change theVirtus robesto the ornamented version.
+
+ | Raging echoes nexus rug | 500 | Component required to build Raging echoes rug inRug spaceinPlayer-owned house.
+
+ | Raging echoes nexus scroll | 4,000 | Cosmetic override for thePortal nexusinPlayer-owned house.
+
+ | Raging echoes curtains | 500 | Component required to build Raging echoes curtains inCurtain spaceinPlayer-owned house.
+
+ | Raging echoes scrying pool scroll | 3,000 | Cosmetic override forScrying poolinPlayer-owned house.
+
+ | Raging echoes portal scroll | 1,000 | Cosmetic override for Portals inPortal space.
+
+Trophies
+
+Players who participated in the Raging Echoed League can claim a cosmetic wieldabletrophyrepresenting the rank they placed in. These trophies do not cost any League Points. Bronze to Mithril trophies are shield slot items, while Adamant to Dragon trophies are two-handed items. The trophies have a unique emote that can be activated by right-clicking the trophy. All trophies are untradeable and can be claimed for free.
+
+The point thresholds for each rank were static; how players compare to other players did not matter.
+
+Trophy | Required points
+
+ | Raging echoes dragon trophy | 60,000
+
+ | Raging echoes rune trophy | 45,000
+
+ | Raging echoes adamant trophy | 30,000
+
+ | Raging echoes mithril trophy | 20,000
+
+ | Raging echoes steel trophy | 10,000
+
+ | Raging echoes iron trophy | 4,000
+
+ | Raging echoes bronze trophy | 2,000
+
+Reveals and Teasers
+
+From11 Novemberto25 November, Jagex released daily reveals & teasers related to Raging Echoes League.
+
+Date | Reveal | Useful links
+
+November 11 | Tier 1 RelicsOne of the earliest decisions you'll make in Leagues V is which Tier 1 Relic to choose! Well, to help you plan ahead, here's your first look at what's on offer. | Power MinerLumberjackAnimal Wrangler
+
+November 12 | Golden GodEnhance the power of your alchemy spells! Items give more gold, have a chance to not be consumed when alched, and the spell will be automatically recast over time when used on a stack of items!What are you going to do with all that GP? Glad you asked. This Relic also lets you sacrifice coins to Prayer Altars in exchange for Prayer XP! | Golden God
+
+November 13 | Echo Boss and Rewards revealed!Brand new to Leagues V are Echo Bosses! These are more fearsome versions of some familiar foes, and it's only fitting that they have the chance to drop something a little extra special. Check out this video from Scritic to find out more about them!Reveal Video | Echo bosses and echo equipment
+
+November 14 | GrimoireDon’t scour the furthest regions of Gielinor in search of arcane knowledge – just pick up this handy book! Not only do you gain access to all spellbooks, but you also unlock Rigour, Augury, Piety, and Preserve. Not grim at all, really! | Grimoire
+
+November 15 | Combo Item DropsIt’s not just the Echo Bosses who are dropping new loot! More familiar faces will be dropping items that normally require components from different regions to use as one, ready-made item. It’s not a 4th area unlock, but it’s the next best thing! You can check out the infographic below to see what drops have been updated: | #Gallery
+
+November 16 | Teleport RelicsEven with unlimited Run Energy, nobody wants to run everywhere. To give you a helping hand, this tier of relics will have you choosing between these convenient teleports within your unlocked regions:Any fairy ring, spirit tree, and tool leprechaun.Any deposit box, bank, and bank chest.Falo the Bard, any S.T.A.S.H unit, and your current clue step. | Fairy's FlightBank HeistClue Compass
+
+November 17 | Total Recall vs Banker’s NoteLast Recall will be returning as a new and improved variant this League, but this time it's going up against an old fan favourite: Banker’s Note! | Total RecallBanker's Note
+
+November 18 | OvergrownWe know what you're thinking: What if Farming was truly a zero-time skill? Well, let us introduce you to the Leagues V spin on a Farming Relic: Overgrown! Store seeds in your vault and forget about them as your personal Leprechaun harvests and replants seeds for you! | Overgrown
+
+November 19 | Combat MasteriesLet's talk about Combat Masteries! Another huge new feature coming with Leagues V: Raging Echoes. Complete Combat Mastery tasks and earn yourself points to spend on style-focused abilities. Each style has 6 Tiers, and with a maximum of 10 Points available you'll need to make the tough decision of where to spend them. Check out the video or graphic below for more information on how this brand new system will work. | Combat Masteries
+
+November 20 | Bonus QoL!To celebrate being one week away from Leagues V, here are some QoL details for you: | Seemini-revealsbelow.
+
+November 21 | Utility RelicsWe're now less than a week out from Leagues V launch, and things are getting spicy! Today we've got a whole tier of Relics to show off, with some familiar features and some brand new ones! Will you reclaim your Sage's Greaves, or will you store them away in exchange for a new Herblore experience or multi-NPC pickpocketing? | Friendly ForagerCorner CutterDodgy Deals
+
+November 22 | All Relic PassivesWhile Relics are plenty powerful enough in their own right, it's the passives unlocked with each tier that take your Leagues progression to the next level! | #Gallery
+
+November 23 | Combat RelicsCombat Masteries might be the new hotness, but nothing hits quite the same as these game-changing, Combat-focused Relic unlocks! Couple any of these choices with our new Combat Masteries system and you're in for PvM as you've never seen it before! | Last StandGuardianSpecialist
+
+November 24 | ReloadedLeagues V: Raging Echoes is almost here. Ever since reveals began, you've been arguing until you're blue in the face about which Relics are the best in each tier. Will Harpoon Gang rise above the rest? Is Dodgy Deals a dodgy choice? Only time will tell.While you've been distracted trying to pick out the cream of the crop, you've forgotten about an equally important question: which Relic is second best?Brand new to Raging Echoes, Reloaded will allow you to select any Relic from any previous Tier. This is an absolute game changer, and we don't feel a shred of Relic regret for throwing a spanner in the works so close to launch day. Choose wisely! | Reloaded
+
+November 25 | All Relic Names & TiersTwo days from now, you'll be stepping into Leagues V: Raging Echoes for the first time. It's time to pull back the curtain and give you some time for a frantic reshuffling of your meticulous plans.Here is every single Relic name, spread across all eight Relic tiers. We've even got five full descriptions for Relics that we've not revealed yet: Equilibrium, Treasure Arbiter, Production Master, Slayer Master, and Pocket Kingdom! | All Raging Echoes League Relics and TiersEquilibriumPocket KingdomTreasure ArbiterProduction MasterSlayer Master
+
+Mini-reveals
+
+On20 November2024, Jagex announced on 'X' (Twitter) that they would reveal one new mini-teaser for every 500 likes the post got, up to 9 mini-teasers.[2]
+
+Likes | Reveal
+
+500 | Themax capewill now be available for purchase fromThe SageinLumbridgefor all players.[3]
+
+1,000 | Rocks, trees, respawnable items, and main-world npcs will respawn faster than the main game. (3x in most cases, and much higher in other cases such as Runite Rocks).[4]
+
+1,500 | Clans can now toggle shared Leagues related broadcasts including relic, area, rank, and combat mastery achievements. They will be clearly different from normal broadcasts, with the Leagues symbol next to the players’ names.[5]
+
+2,000 | Zulrahwill not be immune to melee damage and has no damage cap, meaning melee weapons that can reach, are viable.[6]
+
+2,500 | Instead of receiving atwisted bow,scythe of viturortumeken's shadowfrom their respective raid, players will now get a mega rare voucher, which can be given to the sage for the weapon of choice.[7]
+
+3,000 | Instances have been created forCerberus,Sarachnis, and theThermonuclear Smoke Devil. We have also removed the timer when attempting to enter aDagannoth Kingsinstance shortly after leaving.[8]
+
+3,500 | Tormented Demonswill be accessible without needing to completeWhile Guthix Sleeps, meaning the only requirement is aSapphire Lantern![9]
+
+4,000 | Potions and Ingredients sourced during theDuke Sucellusfight will no longer be removed from your inventory when waking Duke, meaning you'll spend less time running back and forth for potions, and more time PvMing![10]
+
+4,500 | Pet cosmetic overrides are now carried over between Leagues, including any you might have unlocked in Trailblazer: Reloaded, but not prior leagues.[11]
+
+Gallery
+
+Modified boss drops for the leagueRelic Passives
+
+Concept art for an ornament kit for the Venator bow.Concept art for the Raging Echoes League outfit reward.Concept art for the Portal Nexus, Portal Room Portal, and other construction itemsConcept art for the Virtus Robe cosmetic override.
+

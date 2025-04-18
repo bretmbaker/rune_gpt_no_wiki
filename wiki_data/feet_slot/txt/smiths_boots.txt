@@ -1,0 +1,46 @@
+[Weapon: Smiths Boots]
+
+
+Smiths bootsare a piece of theSmiths' Uniformset that can be purchased from theGiants' Foundryreward shopfor 3,500Foundry Reputation.
+The boots give a 20% chance of speeding upsmithingactions on ananvilby 1tick, as well as a 20% chance for increased progress onpreformsin theGiants' Foundry; wearing the full set will increase this chance to 100%.
+
+
+[Infobox]
+Released: 8 June2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: They feel a size too small.
+General Store Value: 280 coins
+High alch: 168 coins
+Low alch: 112 coins
+Weight: 0.42 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot

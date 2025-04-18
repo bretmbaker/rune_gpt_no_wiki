@@ -1,0 +1,46 @@
+[Weapon: Salve Amulet(I)#Soul Wars]
+
+
+TheSalve amulet (i)is the imbued form of thesalve amulet, granting an additional 16.67%[1]increase in the wearer'srangedaccuracy and damage, as well as a 15% increase formagic, when fightingundead monsters.
+The salve amulet is imbued by using either 800,000Nightmare Zonepoints(halved upon completing thehard combat achievements), 320Soul WarsZeal Tokens, or by using ascroll of imbuingon the amulet. Amulets imbued through the latter two methods donotcount for completing theArdougne Diarytask.[2]Furthermore, amulets imbued at one location cannot be refunded at a different location.
+
+
+[Infobox]
+Released: 1 May2014(Update)
+Members: Yes
+Quest item: Haunted Mine
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Uncharge, Drop
+Examine: Increases melee, ranged and magic damage & accuracy by 15%[sic]against the undead.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.007 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +3
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Neck slot

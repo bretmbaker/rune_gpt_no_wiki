@@ -1,0 +1,2 @@
+Item: Flying Book
+Summary: Flying Books are found in the Mage Training Arena minigame. They can only be examined. They emit particle effects similar to those found on magic trees.

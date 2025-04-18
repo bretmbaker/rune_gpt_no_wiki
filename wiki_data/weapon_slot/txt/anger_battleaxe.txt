@@ -1,0 +1,53 @@
+[Weapon: Anger Battleaxe]
+
+
+Anger battleaxeis an item that is used only duringA Soul's Banequest. It is used to killAngry goblins, and the apparent damage it does is the player's normal damage multiplied by 10, meaning that you will hit three digits frequently. Unfortunately the player won't get anyexperiencewhen using it. It is found from theweapon rackin the rage room, and cannot be taken out of the room.
+
+
+[Infobox]
+Released: 3 April2006(Update)
+Members: Yes
+Quest item: A Soul's Bane
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A heavy duty axe.
+General Store Value: 182 coins
+High alch: 109 coins
+Low alch: 72 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Hack | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence

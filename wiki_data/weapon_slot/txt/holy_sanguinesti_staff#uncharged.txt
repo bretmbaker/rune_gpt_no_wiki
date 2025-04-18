@@ -1,0 +1,53 @@
+[Weapon: Holy Sanguinesti Staff#Uncharged]
+
+
+Theholy Sanguinesti staffis aSanguinesti staffwith aholy ornament kitattached to it. The ornament kit gives no additional stat bonuses, but it will make the staff count as aSaradominitem in theGod Wars Dungeon.
+The holy Sanguinesti staff retains all the properties that the original variant has, such as its passive effect and its built-in spell, which still requiresblood runesto charge.
+
+
+[Infobox]
+Released: 3 June2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Charge, Dismantle
+Examine: A sacred staff imbued with the might of Saradomin to smite his foes. It is currently uncharged.
+General Store Value: 5,000,000 coins
+High alch: 3,000,000 coins
+Low alch: 2,000,000 coins
+Weight: 1.5 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +25
+- Ranged: -4
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +15
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Magic | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Magic
+ | Accurate | Magic | Accurate | 7 tiles |  | +3 Magic
+ | Longrange | Magic | Longrange | 9 tiles |  | +1 Magic, +3 Defence

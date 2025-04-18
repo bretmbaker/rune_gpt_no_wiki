@@ -1,0 +1,2 @@
+Item: Maid
+Summary: A maid is a servant that players with at least level 25 Construction can hire to do various services in their player-owned house. The maid has the second lowest wage, costing 1,000 for every eight uses of her services. The maid has inventory space for 10 items, and a trip time of 30 seconds.

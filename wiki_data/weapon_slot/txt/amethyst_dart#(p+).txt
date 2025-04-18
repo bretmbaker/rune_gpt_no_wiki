@@ -1,0 +1,70 @@
+[Weapon: Amethyst Dart#(P+)]
+
+
+Amethyst dartsareRangedthrowing weapons. To wield them, the player must have at least 50 Ranged. They can be obtained by using theMining,Crafting, andFletchingskills or trading with other players. Amethyst darts can bepoisonedand are one-handed, so they can be wielded with ashieldorgod bookfor protection. To fletch amethyst darts, the player must have at least 90 Fletching.Amethyst dart tipsare combined withfeathers, awarding 21 Fletching experience per dart.
+Amethyst dart tips can becraftedfromamethyst, creating 8amethyst dart tipsand earning 60 Crafting experience for each mineral.
+
+
+[Infobox]
+Released: 30 June2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A deadly throwing dart with an amethyst tip.
+General Store Value: 400 coins
+High alch: 240 coins
+Low alch: 160 coins
+Weight: 0 kg
+Grand Exchange Value: 211 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 12,206,543
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +28
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 3 ticks (1.8s) | 3 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 2 ticks (1.2s) | 3 tiles |  | None
+ | Longrange | Light | Longrange | 3 ticks (1.8s) | 5 tiles |  | +3 Defence
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Chambers of Xeric/Strategies(Baby Muttadile)
+2 | Chambers of Xeric/Strategies(Big Muttadile)
+2 | Fight Caves Speed-Runner(Ranged)
+1 | Inferno/Strategies(Learners)
+1 | Inferno/Strategies(On task)
+4 | Kalphite Queen/Strategies(High DPS (Phase Two))
+2 | The Mimic/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged)
+2 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+2 | TzHaar Fight Cave/Strategies(Ranged)

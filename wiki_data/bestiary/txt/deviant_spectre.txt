@@ -1,0 +1,88 @@
+Name: Deviant spectre
+Combat Level: 169
+Size: 2x2
+Info:
+- Description: A very smelly ghost.
+
+Slayer Info:
+- Required Level: 60
+- Slayer XP: 194.5 xp
+- Category: Aberrant Spectres
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 7279
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Lava battlestaff (1/128)
+- Rune chainbody (1/128)
+- Grimy guam leaf (1/11.1)
+- Grimy marrentill (1/14.8)
+- Grimy tarromin (1/19.8)
+- Grimy harralander (1/25.4)
+- Grimy ranarr weed (1/32.4)
+- Grimy irit leaf (1/44.5)
+- Grimy avantoe (1/59.4)
+- Grimy kwuarm (1/71.2)
+- Grimy cadantine (1/89)
+- Grimy lantadyme (1/118.7)
+- Grimy dwarf weed (1/118.7)
+- Toadflax seed (1/40.2)
+- Irit seed (1/59)
+- Belladonna seed (1/60.9)
+- Poison ivy seed (1/85.8)
+- Avantoe seed (1/85.8)
+- Cactus seed (1/89.9)
+- Potato cactus seed (1/125.9)
+- Kwuarm seed (1/125.9)
+- Snapdragon seed (1/188.8)
+- Cadantine seed (1/269.7)
+- Lantadyme seed (1/377.6)
+- Snape grass seed (1/472)
+- Dwarf weed seed (1/629.3)
+- Torstol seed (1/944)
+- Nothing (1/8.01; Never[d 1])
+- Uncut sapphire (1/16; 1/8.13[d 2])
+- Uncut emerald (1/32; 1/16.25[d 2])
+- Uncut ruby (1/64; 1/32.5[d 2])
+- Uncut diamond (1/256; 1/130[d 2])
+- Nature talisman (1/170.67; 1/86.67[d 2])
+- Loop half of key (1/512; 1/260[d 2])
+- Tooth half of key (1/512; 1/260[d 2])
+- Rune javelin (1/512; 1/260[d 2])
+- Rune spear (1/8,192; 1/487.5[d 2][d 3])
+- Shield left half (1/16,384; 1/975[d 2][d 3])
+- Dragon spear (1/21,845.33; 1/1,300[d 2][d 3])
+- Brimstone key (1/69[d 2])
+- Clue scroll (hard) (1/128[d 3][1])
+- Mystic robe bottom (dark) (1/512)
+- Ancient shard (1/206)
+- Dark totem base (1/310)
+- Dark totem middle (1/310)
+- Dark totem top (1/310)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 190
+Attack: 1
+Strength: 1
+Defence: 90
+Magic: 205
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

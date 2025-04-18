@@ -1,0 +1,54 @@
+[Weapon: Rock-Shell Plate]
+
+
+Therock-shell plateis a piece of melee armour with stats almost identical to therune platebody. To wear a rock-shell plate, players must have at least 40 Defence and haveThe Fremennik Trialsquest completed. The plate can be considered as a second alternative to therune platebody, as completing theDragon Slayer Iquest isn't a requirement to wear the rock-shell plate. The rock-shell plate also has a slightly better range attack bonus than the rune platebody and does not interfere with the effects ofAva's deviceso it may be viable for a range tank setup.
+To obtain a rock-shell plate, players can either bring 3dagannoth hides, 1rock-shell shard, and 10,000 coins toSkulgrimeninRellekka, or receive it as a drop fromDagannoth Rex.
+
+
+[Infobox]
+Released: 1 August2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A sturdy body armour made from rock crab pieces.
+General Store Value: 65,000 coins
+High alch: 39,000 coins
+Low alch: 26,000 coins
+Weight: 9.979 kg
+Grand Exchange Value: 38,221 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 202
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -30
+- Ranged: -10
+
+Defence Bonuses:
+- Stab: +82
+- Slash: +80
+- Crush: +72
+- Magic: -6
+- Ranged: +80
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Dagannoth Rex | 303 | 1 | 1/128 | 

@@ -1,0 +1,46 @@
+[Weapon: Medical Gown]
+
+
+Themedical gownis aquest itemused inBiohazardandA Tail of Two Cats. It is found in thecupboardofNurse Sarah's house, south-west of the west Ardougne church.
+While it is equipped, the player is allowed to enter theMourners' Headquartersin the north-east corner ofWest Ardougneafter poisoning the stew in the back yard with arotten apple. This item may also be used as part of a medical disguise inA Tail of Two Cats.
+
+
+[Infobox]
+Released: 23 October2002(Update)
+Members: Yes
+Quest item: Biohazard
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Medical looking.
+General Store Value: 40 coins
+High alch: 24 coins
+Low alch: 16 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

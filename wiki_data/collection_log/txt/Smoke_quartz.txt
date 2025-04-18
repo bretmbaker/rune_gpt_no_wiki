@@ -1,0 +1,4 @@
+Item: Smoke quartz
+Summary: The smoke quartz is a gem dropped by the Leviathan. It is used on an ancient sceptre to create the smoke ancient sceptre; this process can be reversed. It can also be used to open a chest in the Ancient Vault.
+Sources:
+- The Leviathan (Level 593; 798; 1157, Quantity: 1, Rarity: 1/206)

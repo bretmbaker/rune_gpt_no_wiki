@@ -1,0 +1,58 @@
+[Weapon: Morrigan%27S Throwing Axe (Bh)#Activated]
+
+
+Morrigan's throwing axe (bh)is a ranged weapon requiring 75Rangedto wield, and is purchased from theBounty Hunter Storefor 300 points. Unlike otherthrownaxes, it is not stackable and effectively provides unlimited "charges".
+As with allAncient Warriors' equipmentfrom Bounty Hunter, it is initially purchased in inactive form, and must be charged with 5,000,000 coins before it can be used by the player. Upon dying inPvP, the coins used to activate the item are given to the killer, and players are left with the inactive item.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Uncharge, Drop
+Examine: A vicious throwing axe.
+General Store Value: 300,000 coins
+Alchemy: Not alchemisable
+Weight: 1.36 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +93
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +117
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 5 ticks (3.0s) | 4 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 4 ticks (2.4s) | 4 tiles |  | None
+ | Longrange | Light | Longrange | 5 ticks (3.0s) | 6 tiles |  | +3 Defence
+
+
+[Special Attack]
+A player performing Morrigan's throwing axe's special attack.
+Morrigan's throwing axe has aspecial attack,Hamstring, that consumes 50% of the player'sspecial attack energy.Hamstringhas 150% accuracy and deals between 50% and 150% of the user's max hit.
+Against players, it will also increase the rate that the target'srun energyis drained by six times. When this occurs, the target will receive a message in their chatbox statingYou've been hamstrung! For the next minute, your run energy will drain 6x faster.

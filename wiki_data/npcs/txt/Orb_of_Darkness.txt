@@ -1,0 +1,2 @@
+Item: Orb of Darkness
+Summary: Orbs of Darkness are objects that appear in the Path of Het challenge room in the Tombs of Amascut, where they move in a straight line to the other end of the room. Running into these orbs will deal moderate damage to the player. On rare occasions it is possible for the orbs to spawn in stacked, appearing as a single orb but actually being multiple orbs on the same tile.

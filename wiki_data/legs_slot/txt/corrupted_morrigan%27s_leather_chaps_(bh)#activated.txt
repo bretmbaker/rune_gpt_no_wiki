@@ -1,0 +1,45 @@
+[Weapon: Corrupted Morrigan%27S Leather Chaps (Bh)#Activated]
+
+
+Corrupted morrigan's leather chaps (bh)are a piece of armour requiring 20Defenceto wear, and is obtained by convertingMorrigan's leather chaps (bh)via aCorrupted Warrior. When worn alongsideCorrupted morrigan's coif (bh)andleather body (bh), the accuracy of rangedspecial attacksare increased by 15%.
+When in inactive form, it must be charged with 1,500,000 coins before it can be used by the player. In addition, it can only be used withinDaimon's Crater,Castle Wars,Clan Wars, andSoul Wars; attempting to attack anything outside the listed areas will result in the player being interrupted from doing so.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Uncharge, Drop
+Examine: A powerful pair of leather chaps.
+General Store Value: 500,000 coins
+Alchemy: Not alchemisable
+Weight: 5.443 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -8
+- Ranged: +23
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +7
+- Crush: +8
+- Magic: +20
+- Ranged: +11
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +4
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

@@ -1,0 +1,76 @@
+[Weapon: Mithril Scimitar]
+
+
+TheMithril scimitaris ascimitarstronger than theblack scimitar. Like allmithril weapons, it requires 20Attackto wield. It can only be used in combat. Players can make a mithril scimitar with theSmithingskill at level 55 using 2mithril bars, giving 100experience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A vicious, curved sword.
+General Store Value: 1,040 coins
+High alch: 624 coins
+Low alch: 416 coins
+Weight: 1.587 kg
+Grand Exchange Value: 441 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 16,440
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +5
+- Slash: +21
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +20
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black Chest (black) | N/A | 1 | 2/141.11 | 
+Black Chest (brown) | N/A | 1 | 2/141.02 | 
+Black Chest (crimson) | N/A | 1 | 2/141.07 | 
+Black Chest (purple) | N/A | 1 | 2/141.15 | 
+Black Chest (red) | N/A | 1 | 2/140.98 | 
+CyclopsWarriors' Guild Basement | 106 | 1 | 5/100 | 
+Former Vampyre | N/A | 1(noted) | 17/256 | 
+Mystery boxMembers | N/A | 1 | 1/15 | 
+Rusty scimitar | N/A | 1 | 2/100 | 
+Sarcophagus (Ancient Pyramid) | N/A | 1 | Rare | 
+Scimitar Stall | 65 | 1 | 3/40 | 
+Skeleton (Tarn's Lair)Medium level | 40; 63; 72; 77 | 1 | 2/128 | 
+Skeleton fremennik | 40; 50; 60 | 1 | 1/128 | 
+Sorebones | 57 | 1 | 3/128 | 
+Vampyre Juvinate | N/A | 1(noted) | 17/256 | 
+Zombie pirate (Harmony Island) | 57 | 1 | 3/128 | 

@@ -1,0 +1,179 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+The Fremennik Exiles (#144)
+
+
+
+
+
+Released | 26 September 2019 ( Update )
+
+Members | Yes
+
+Quest series | Fremennik , #4
+
+Lead developer(s) | Mod Ed , Mod Wolf
+
+
+
+The Fremennik Exiles is the fourth quest in the Fremennik quest series . Here, the player assists Brundt the Chieftain in a simple investigation and what they discover gets them exiled from Rellekka by the Fremennik Council of Elders. With the help of Brundt, the player must regain the trust of the Council and save the Fremennik Province from an ancient threat .
+
+Details [ edit | edit source ]
+
+Start point | Speak to Brundt the Chieftain in Rellekka . Show on map
+
+Official difficulty | Master
+
+Official length | Medium
+
+Description | The Fremennik bards often sing tales of the past. Of great battles, deadly foes and heroes long gone. However, in recent years, things have been much quieter in the Province, as there's increasingly less to sing about. All that is about to change though, as what starts off as a simple investigation soon leads to one of the greatest threats the Fremennik have ever seen.
+
+Requirements | 65 Crafting ( not boostable ) ( required to start ) 60 Slayer ( not boostable ) ( required to start ) 60 Smithing ( not boostable ) ( required to start ) 60 Fishing ( not boostable ) ( required to start ) 55 Runecraft ( not boostable ) ( required to start ) Completion of the following quests: The Fremennik Isles The Fremennik Trials Lunar Diplomacy Lost City Rune Mysteries Shilo Village Jungle Potion Druidic Ritual Mountain Daughter Heroes' Quest Dragon Slayer I Lost City Merlin's Crystal Shield of Arrav
+
+Items required | Combat equipment Mirror shield 2 Kegs of beer (cannot be obtained in Rellekka during quest, buy from Thora the Barkeep before starting the quest) 1 Molten glass 100 Astral runes Pet rock Fishing rod or fly fishing rod Fremennik shield (this is not the tradeable Neitiznot shield ) Alternatively, get it from Bardur AFTER being exiled, for either 150,000 or for free using a Ring of charos (a) Recommended: Rune thrownaxes or 85 Agility to get to Bardur in the Waterbirth Island Dungeon Ice gloves or Smiths gloves (i) Hammer Glassblowing pipe 3 Lunar bars or ores . Alternatively a pickaxe to obtain them (requires 60 Mining ( boostable ) ). Seal of Passage (if the elite Fremennik diaries aren't completed)
+
+Recommended | 80 Combat level Stamina potions Moonclan teleport (tablet)s Food , Monkfish or better Enchanted lyre , Fremennik sea boots or other means to return to Rellekka
+
+Enemies to defeat | Basilisk Youngling (level 53) Basilisk (level 61) Monstrous Basilisk (level 135) Typhor (level 218) The Jormungand (level 363)
+
+League notes | Fremennik ✓ — location requirement
+
+Walkthrough [ edit | edit source ]
+
+A disturbance in Rellekka [ edit | edit source ]
+
+To start the Fremennik Exiles, speak to Brundt the Chieftain , in the Rellekka Longhall , and ask for a quest. Brundt will request the player to investigate a minor disturbance that occurred the previous night near the sand pit.
+
+While here, also buy 2 kegs of beer from Thora the Barkeep . This saves time and effort later, unless you already have some in a bank.
+
+Go north to the house next to the sand pit and speak to Freygerd . Freygerd will retell the terrifying events of the previous night and how she was spooked by a pair of red eyes staring at her from outside the window. Go outside and investigate the surrounding area for clues.
+
+Investigate the following three clues to progress:
+
+The Basilisk Youngling will consistently do 6 damage rapidly and drain the players' stats unless a mirror shield is equipped. An unsealed letter will be dropped upon killing the basilisk. Read the letter which contains information about an approaching basilisk invasion and the re-emergence of the Jormungand . Return to Freygerd and either tell her the truth or a comforting lie (it's random for each player), after which you should head back to Brundt the Chieftain to report.
+
+Note: Chieftain Brundt mentions talking to Reeso near the sandpit in his dialogue. If you cannot progress the quest using the directions above, try talking to Reeso as well.
+
+Chieftain Brundt is horrified of the news of the basilisk invasion. Brundt reveals the history of Jormungand enslavement of the Fremennik people. The Jormungand, also known as the Serpent King, was the leader of the Basilisk army. His army, along with the three generals, Typhor , Vritra , and Bakuna brought terror to the lands. Freedom was restored after the hero, V , confronted and magically sealed the Jormungand on the Island of Stone . Chieftain Brundt begins to panic at the powerlessness of the Fremennik army against the upcoming attack. You start reassuring Brundt and begin to plan a strategic countermeasure.
+
+A cutscene will play where the Council member Agnar arrives and inquires about the basilisk found in the town. Brundt informs Agnar that the situation will soon be resolved by you and Brundt. The enraged Agnar begins to blame you, the outerlander, for the disasters that have fallen upon the city ever since The Fremennik Trials . Agnar refuses to acknowledge you as a Fremennik and declares that seven of the twelve members have voted to exile you from the province. Brundt disagrees with the decision but is honour bound to follow the instructions of the council. Brundt, reluctantly, exiles you from the province while gesturing to the south-east.
+
+The citizens of Rellekka will no longer view you as one of their own; attempting to interact will result in hostile warnings like prior to completion of The Fremennik Trials . However, all boat travel from the Rellekka port remains available.
+
+Redeeming the exile [ edit | edit source ]
+
+Exit Rellekka from the southern entrance and head south-east along the dirt path. You will find Brundt the Chieftain nearby. Brundt apologises for the situation and explains why you were exiled. He requests that you forgive the Council members as they are being irrational due to the End of Things prophecy. The End of Things was foretold to begin after the Jormungand is freed. Brundt suggests you restore V's shield to regain the Council members trust and worth.
+
+Brundt will explain how to obtain the four components required to recreate V's shield. The shield was constructed with the assistance of the Moon Clan to create a shield that could reflect the Serpent King's gaze.
+
+The Fremennik shield (not the tradeable Neitiznot shield ) can be obtained as a drop from dagannoths within the Waterbirth Island Dungeon and more rarely from market guards , which will require the player to kill numerous of either of these to obtain it as a drop.
+
+Alternatively, the player can go find Bardur , located deep within the Waterbirth Island Dungeon, to obtain a shield, either by paying 150,000 or for free by charming Bardur while wearing the ring of charos (a) (this is a one-off exchange). It is possible to take Jarvald 's boat to Waterbirth Island despite being in exile.
+
+Should the player choose to find Bardur , the dungeon contains enemies with all three attack styles, so bringing combat equipment, food, and using protection prayers is advised. (If you have 85 agility for the Waterbirth Island rock-climb shortcut you can bypass the pet rock and rune throwing axe steps and take the ladder down to sublevel 2). To reach Bardur , the player should make their way through the first level of the dungeon by unlocking any of the three gates. This is done by dropping the pet rock on one floor button, standing on the other button, then interacting with the gate. At the end of the floor, the player must then use the special attack of the rune thrownaxe on the door supports to access the ladder leading down to the lower levels (if you're standing at the north or south door, target the west door, not the door directly across from you). From there, follow the ladders, down until the room with 2 ladders. Take the southern one there, and follow the ladders to end to find Bardur . The dungeon map shows a clear route to reach Bardur . A more comprehensive walk-through of the dungeon can be found on its wiki page .
+
+Talk to Baba Yaga on Lunar Isle about making Lunar glass. She will require a piece of molten glass and turn it into molten glass (i) , which must then be brought to the Astral Altar along with 100 astral runes to infuse it to make lunar glass .
+
+Before heading to the Astral Altar to create the lunar glass , if you need lunar ore , enter the Lunar Isle mine north-east of the city. Mine three lunar ores from the stalagmites, as three lunar bars will be required to make the V sigil .
+
+Now, head to the Astral Altar and use the molten glass (i) , along with the 100 astral runes to create the lunar glass .
+
+Return back to Rellekka and head to the furnace and anvil in the south-west part of the city. Smelt the three lunar ores into lunar bars using the furnace. Then, use the three lunar bars and a hammer on the anvil to create the V sigil . After doing so, the sigil must be brought to Fossegrimen , who can be summoned from the strange altar on the small peninsula south-west of Rellekka (the same place you make offerings to enchant your lyre). Fossegrimen will need to be summoned by interacting with the strange altar. She will happily oblige to enchant the sigil in gratitude to V .
+
+To obtain a polishing rock, Brundt suggests submerging a rock in the hot springs in the mountains east of Rellekka. (Interaction with Brunt about the polishing rock is optional.) Go to the Mountain Camp with your pet rock (which can be obtained from Askeladden ) and attempt to put it into the large geyser, which is on the south side of the lake, near the climbable tree. The player can not bring themselves to submerge their pet rock, due to their fond memories with their pet rock, and thus believes the only solution is to ask Peer the Seer to wipe their memory of the pet rock.
+
+Return to Rellekka and ask Peer the Seer to make you forget about your pet rock, which he will oblige to. Head back to the large geyser in the Mountain Camp with your emotionally unattached pet rock, a fishing rod , and a pair of ice gloves . Wear the ice gloves, put the pet rock into the geyser and retrieve it again with the fishing rod to obtain the polishing rock . (If you forget to put your ice gloves on and you drop the rock into the geyser, simply pop them on and use the rod on the geyser to fish the rock out)
+
+With all four components and a glassblowing pipe , V's shield is recreated by using the V sigil on the Fremennik Shield and your pet rock is returned. Return to Brundt the Chieftain south-east of Rellekka, who will be astonished by your craftmanship, and asks you to wield the shield in the upcoming battle against the basilisks. However, Brundt will have to return to Rellekka, end your exile and declare you as part of the Fremennik force against the basilisk invasion.
+
+Before returning, he will ask you bring him two kegs of beer (if you forgot to buy them before starting the quest, buy them from Rasolo or on the Grand Exchange . The beer tankard from the table in the Longhall does not work), which you find out after giving him them that he needs them to get drunk enough to have the courage to declare ending your exile and rejoining the Fremennik. Before drinking the second keg, he will ask that you return to the Longhall. Market Guards and Warriors also drop kegs so if you choose this method to get the shield rather than going to the dungeon you will also get the kegs you need.
+
+Basilisks in the Market [ edit | edit source ]
+
+ | This fight takes place in an instance . On death , all unprotected items will be moved to a grave outside the instance. Any items left on the ground will be lost.
+
+Return to the Longhall and talk to Brundt again, who has sobered up. He will tell you that the Council has decided to end your exile after your success of recreating V's shield , and will declare you a Fremennik once more. He will ask that while the basilisks invade the town, you and he will travel to the Island of Stone to ensure The Jormungand 's prison remains sealed. However, as you ask when you'll be leaving, the basilisks invade the marketplace.
+
+Wield V's shield and fight the basilisks until you reach 100%. You have to hit a basilisk at least once to make its death count towards completion.
+
+Monstrous Basilisks (level 135) counts for 10% completion. Basilisks (level 61) counts for 3.33% completion.
+
+Once you have defeated enough basilisks, Brundt will direct you to the north-westernmost Fremennik Boat. Board it to travel to the Island of Stone .
+
+Once you've travelled to the Island of Stone, you can freely travel back and forth by speaking to Haskell . You can leave to recuperate for the next battles.
+
+Island of Stone [ edit | edit source ]
+
+ | This fight takes place in an instance with a deathbank . On death , you can pay Brundt the Chieftain 50,000 to retrieve lost items. Any unsafe death will delete all items left inside the deathbank. Any items left on the ground will be lost.
+
+Upon arriving on the Island of Stone , Brundt discovers that The Jormungand 's prison has already been breached, and that the basilisks have resealed the door. The door puzzle is similar to the real-life game of Mastermind , but uses six different rune symbols instead of coloured balls (air, water, earth, fire, astral and cosmic):
+
+Each green check means one of the runes is perfect. Each red check means a rune is correct but in the wrong position. A rune can appear more than once in the solution.
+
+If you fail to solve the combination 9 times (8 guesses displayed on the board followed by one last attempt), the puzzle will reset and the solution will change. If you're struggling, try guessing a random combination of runes and close the puzzle if it's not mostly correct on the first guess; the puzzle will be different when you try to open the door again. Repeat until you get a helpful first guess. The puzzle can also be solved using this tool ; enter the string "Air, Water, Earth, Fire, Astral, Cosmic" for the colors, and check "Allow duplicate colors."
+
+Once you solve the puzzle, the door will open. The door is a checkpoint; once opened you will not have to solve the puzzle again. You will see Bakuna , Typhor and Vritra attempt to awaken The Jormungand . Brundt will fight Vritra, while you will fight Typhor. As Typhor may attack with either magic or melee, players with high melee defence and/or low magic defence (i.e. most melee armour) will find it more helpful to pray protect from magic for the entire fight as it blocks all damage from his magic attack. This fight is a checkpoint, meaning that if you slay Typhor but die to the Jormungand, when you return to battle you will not have to fight Typhor again.
+
+Despite your efforts, Bakuna successfully awakens The Jormungand, who consumes Bakuna in order to restore his strength. You and Brundt now must battle the Jormungand. It is level 363, and primarily attacks with magic, making Protect from Magic very useful (it won't block all damage from his magic attack, but it will significantly reduce it, to a maximum hit of around 5, sometimes 7). If you die or teleport away from the Jormungand before killing it, you must restart the fight, but you will not have to kill Typhor again. On death, items can be retrieved from Brundt on the island, for a cost of 50,000 coins (can be from your bank).
+
+The fight is quite simple once you know the mechanics (listed below), but can take up to ten minutes depending on your levels and gear. Because of this, at least one prayer potion or super restore potion is advised (more if using Piety , which is highly recommended). The Jormungand is slightly weak to crush attacks; however, it still has very high defence, so a high strength weapon such as a Zombie axe , leaf-bladed battleaxe , or dragon mace is recommended. The Jormungand is immune to poison, so poisoned weapons are not recommended.
+
+Players must wield V's shield for the fight otherwise Typhor and The Jormungand will drain the players stats and hit 18s repeatedly.
+
+The Jormungand has two special attacks that players should note:
+
+The Jormungand will prepare a powerful attack indicated by the player's screen turning red. Face away from the Jormungand to avoid it, otherwise players will take up to 50 damage and have their stats drained by 20. The Jormungand will launch a projectile that encases the player in stone. Repeatedly attempt to attack the Jormungand to quickly break free. If players take too long to try freeing themselves, the stone will violently break, dealing over 40 damage. The mechanic is virtually identical to the vines used by the Hespori .
+
+Once the Jormungand is defeated, the player will wonder whether the End of Things had already begun; Brundt will refute this by saying that if it had begun, they would have already noticed. Content, you and Brundt will return to the longhall to drink and celebrate.
+
+From now on, the Fremennik will refer to you by your Fremennik name followed by the honorific Dräpare.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+2 Quest points V's shield Access to the Island of Stone Ability to kill a Basilisk Knight as a Slayer Task A Fremennik honorific, Dräpare, added to the player's Fremennik name Ability to create and equip the Neitiznot faceguard 50,000 Slayer experience 50,000 Crafting experience 30,000 Runecraft experience
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Music unlocked [ edit | edit source ]
+
+Name | Unlock details | Music track
+
+Jaws of the Basilisk | Unlocked during the basilisk invasion | 
+
+Lair of the Basilisk | Unlocked upon entering the Jormungand's prison | 
+
+Fight of the Basilisk | Unlocked during the fight with Typhor | 
+
+Reign of the Basilisk | Unlocked during the fight with the Jormungand | 
+
+Ballad of the Basilisk | Unlocked during the final cutscene | 
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+30 November 2022 ( update | poll ) | The following skill experience rewards have increased: Slayer from 15,000 to 50,000 Crafting from 15,000 to 50,000. Runecraft from 5,000 to 30,000.
+
+Trivia [ edit | edit source ]
+
+If the player interacts with their pet rock after having been exiled, the rock will ignore them, causing the player to say "not you too! aw..." First pitched in early 2017, development on the quest was done in Mods Ed and Wolf's personal project time, with a large chunk of the quest being completed before personal projects were cancelled in mid-2018, halting development of the quest until August 2019. This quest is loosely based off of Norse mythology , where a giant sea serpent known as Jörmungandr will commence Ragnarök , the end of the world. The name "Dräpare" that the player is given after the quest is Swedish for "slayer". If players have two kegs of beer in their inventory before Brundt the Chieftain requests them, he will state that the player character is more of an alcoholic than he is. The quest has multiple popular culture references: During the conversation with Fossegrimen at the altar, she will say, " V? Now that's a name I haven't heard in a long time... ", a reference to Star Wars . During the conversation with Peer the Seer, the player will say, " Please Seer, you're my only hope! ", a reference to Star Wars . The examine text of the Monstrous Basilisk is " Let's hope I have some phoenix tears ", a reference to Harry Potter and the Chamber of Secrets . When the player is made aware that basilisks are in the market, a soldier will shout " Basilisks in the market! Basilisks in the market! ", a reference to Harry Potter and the Philosopher's Stone . When battling the basilisks in the market, some of the Fremennik will shout " This is Rellekka! ", a reference to 300 . Also when battling basilisks in the market, some of the Fremennik will cry "Kill them! Kill them all!" , a reference to Starship Troopers . If the player has a Molten glass in their inventory when Baba Yaga asks for it, the player will interrupt Baba Yaga in the same manner she interrupts the player.
+
+v • t • e The Fremennik Exiles
+
+NPCs | Brundt the Chieftain Freygerd Reeso Agnar Bardur Baba Yaga Peer the Seer Fossegrimen Haskell Thorvald the Warrior Koschei the Deathless Fremennik Warrior Enemies Basilisk Youngling Basilisk Monstrous Basilisk Typhor Vritra Bakuna The Jormungand |  | Brundt the Chieftain Freygerd Reeso Agnar Bardur Baba Yaga Peer the Seer Fossegrimen Haskell Thorvald the Warrior Koschei the Deathless Fremennik Warrior | Enemies | Basilisk Youngling Basilisk Monstrous Basilisk Typhor Vritra Bakuna The Jormungand
+
+ | Brundt the Chieftain Freygerd Reeso Agnar Bardur Baba Yaga Peer the Seer Fossegrimen Haskell Thorvald the Warrior Koschei the Deathless Fremennik Warrior
+
+Enemies | Basilisk Youngling Basilisk Monstrous Basilisk Typhor Vritra Bakuna The Jormungand
+
+Items | Fang Venom gland Unsealed letter Fremennik shield Molten glass (i) Lunar glass Lunar ore Lunar bar Polishing rock V sigil V sigil (e) V's shield
+
+Locations | Rellekka Mountain Camp Island of Stone Jormungand's Prison
+
+Music | Ballad of the Basilisk Fight of the Basilisk Jaws of the Basilisk Lair of the Basilisk Reign of the Basilisk
+
+Related | Quick guide Large Geyser Basilisk Knight Ballad of the basilisk Basilisk jaw Neitiznot faceguard Transcript V

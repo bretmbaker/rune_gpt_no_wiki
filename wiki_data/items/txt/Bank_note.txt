@@ -1,0 +1,1 @@
+Abank noteornoteis a stackable certificate that represents an item. It is equivalent in value to the item it represents, but cannot be used physically until exchanged for the real thing. Almost alltradeable itemscan be 'noted' and 'unnoted' in thebank interface, with very few exceptions (such asmysterious emblems).

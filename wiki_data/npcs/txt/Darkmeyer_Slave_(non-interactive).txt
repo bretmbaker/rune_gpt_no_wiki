@@ -1,0 +1,2 @@
+Item: Darkmeyer Slave (non-interactive)
+Summary: A Darkmeyer Slave can occasionally be found in the Hallowed Sepulchre when entering a newly created instance of Floor 1. He will attempt to make it past the first set of Flame Statues before taking a break. Though he has no 'Talk' option, he will sometimes talk to himself about trying to get past the fire and exclaim "Gah!" when getting hit by flames.

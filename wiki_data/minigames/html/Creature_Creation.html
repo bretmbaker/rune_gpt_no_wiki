@@ -1,0 +1,4084 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en-GB">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Creature Creation - OSRS Wiki
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d4cdb4a1478e8e70ecfcae7e5758fb68","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Creature_Creation","wgTitle":"Creature Creation","wgCurRevisionId":14835413,"wgRevisionId":14835413,"wgArticleId":21599,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Tower of Life","Dungeons","Quest locations"],"wgPageViewLanguage":"en-gb","wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgRelevantPageName":"Creature_Creation","wgRelevantArticleId":21599,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"simpleBatchUploadMaxFilesPerBatch":{"*":1000},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en-GB","pageLanguageDir":"ltr","pageVariantFallbacks":"en-gb"},"wgMFDisplayWikibaseDescriptions":{"search":false,"watchlist":false,"tagline":false},"wgPopupsFlags":6,"wgEditSubmitButtonLabelPublish":false,"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"wgSiteNoticeId":"1.27"};
+RLSTATE={"ext.gadget.switch-infobox-styles":"ready","ext.gadget.articlefeedback-styles":"ready","ext.gadget.stickyTableHeaders":"ready","ext.gadget.falseSubpage":"ready","ext.gadget.headerTargetHighlight":"ready","site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.embedVideo.styles":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.gadget.rsw-util","ext.gadget.switch-infobox","ext.gadget.exchangePages","ext.gadget.GECharts","ext.gadget.compare","ext.gadget.autosort","ext.gadget.highlightTable","ext.gadget.titleparenthesis","ext.gadget.tooltips","ext.gadget.topIcons","ext.gadget.Username","ext.gadget.countdown","ext.gadget.autocollapse","ext.gadget.checkboxList","ext.gadget.Charts","ext.gadget.navbox-tracking","ext.gadget.sidebar-tracking","ext.gadget.wikisync","ext.gadget.smwlistsfull","ext.gadget.jsonDoc","ext.gadget.articlefeedback","ext.gadget.calc","ext.gadget.infoboxQty","ext.gadget.calculatorNS","ext.gadget.dropDisplay","ext.gadget.mmgkc","ext.gadget.fightcaverotations","ext.gadget.livePricesMMG","ext.gadget.contributions","ext.gadget.skinTogglesNew","ext.gadget.utcclock","ext.gadget.relativetime","ext.gadget.sectionAnchors","ext.gadget.audioplayer","ext.gadget.musicmap","ext.gadget.equipment","ext.gadget.redirect-mobilediff","ext.gadget.dropdown","ext.gadget.newPage","ext.gadget.purge","ext.gadget.ReferenceTooltips","ext.gadget.fileDownload","ext.gadget.oswf","ext.gadget.searchfocus","ext.gadget.tilemarkers","ext.gadget.loadout","ext.gadget.leaguefilter","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.embedVideo.overlay","ext.checkUser.clientHints","ext.popups","ext.smw.purge","ext.dismissableSiteNotice"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+  </script>
+  <link href="/load.php?lang=en-gb&amp;modules=ext.cite.styles%7Cext.dismissableSiteNotice.styles%7Cext.embedVideo.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/load.php?lang=en-gb&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/load.php?lang=en-gb&amp;modules=ext.gadget.articlefeedback-styles%2CfalseSubpage%2CheaderTargetHighlight%2CstickyTableHeaders%2Cswitch-infobox-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/load.php?lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link as="font" crossorigin="" href="/images/PT-Serif_Bold.woff2?4af08" rel="preload" type="font/woff2">
+   <link as="font" crossorigin="" href="/images/IBMPlexSans-Regular.woff2?4af08" rel="preload" type="font/woff2">
+    <link as="font" crossorigin="" href="/images/IBMPlexSans-Italic.woff2?4af08" rel="preload" type="font/woff2">
+     <link as="font" crossorigin="" href="/images/IBMPlexSans-Bold.woff2?4af08" rel="preload" type="font/woff2"/>
+     <meta content="MediaWiki 1.41.5" name="generator"/>
+     <meta content="max-image-preview:standard" name="robots"/>
+     <meta content="telephone=no" name="format-detection"/>
+     <meta content="Creature Creation is a solo activity that involves creating unique hybrid monsters and killing them for their drops. It can be found in the Tower of Life dungeon after completing the Tower of Life quest. A trapdoor on the ground floor of the tower leads to the dungeon. The Builder's costume is not required to enter the tower once the quest has been completed." name="description"/>
+     <meta content="Creature Creation is a solo activity that involves creating unique hybrid monsters and killing them for their drops. It can be found in the Tower of Life dungeon after completing the Tower of Life quest. A trapdoor on the ground floor of the tower leads to the dungeon. The Builder's costume is not required to enter the tower once the quest has been completed." property="og:description"/>
+     <meta content="Old School RuneScape Wiki" property="og:site_name"/>
+     <meta content="Creature Creation - OSRS Wiki" property="og:title"/>
+     <meta content="article" property="og:type"/>
+     <meta content="https://oldschool.runescape.wiki/w/Creature_Creation" property="og:url"/>
+     <meta content="https://oldschool.runescape.wiki/images/thumb/Homunculus_in_dungeon.png/800px-Homunculus_in_dungeon.png?3b2aa" property="og:image"/>
+     <meta content="800" property="og:image:width"/>
+     <meta content="533" property="og:image:height"/>
+     <meta content="https://oldschool.runescape.wiki/images/thumb/Homunculus_in_dungeon.png/640px-Homunculus_in_dungeon.png?3b2aa" property="og:image"/>
+     <meta content="640" property="og:image:width"/>
+     <meta content="426" property="og:image:height"/>
+     <meta content="width=1000" name="viewport"/>
+     <link href="/w/Creature_Creation?action=edit" rel="alternate" title="Edit" type="application/x-wiki"/>
+     <link href="/opensearch_desc.php" rel="search" title="Old School RuneScape Wiki (en-gb)" type="application/opensearchdescription+xml"/>
+     <link href="https://oldschool.runescape.wiki/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+     <link href="https://oldschool.runescape.wiki/w/Creature_Creation" rel="canonical"/>
+     <link href="https://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"/>
+     <script>
+      window.ramp = window.ramp || {};
+              window.ramp.que = window.ramp.que || [];
+     </script>
+     <script async="" src="//cdn.intergient.com/1024919/74153/ramp_config.js">
+     </script>
+     <script>
+      // Determine ad placement location (contact Jayden/Cook for issues)
+                window.addEventListener('DOMContentLoaded', () => {
+                    const body = document.getElementsByClassName('mw-body')[0];
+                    if (body) {
+                        const sidebar = document.getElementById('mw-panel');
+                        const footer = document.getElementsByClassName('mw-footer')[0];
+  
+                        // Create the elements we will be adding to the page
+                        let wrapper = document.createElement('div');
+                        wrapper.className = 'adplacement';
+                        let placement = document.createElement('div');
+                        let adScript = document.createElement('script');
+  
+                        let reportLink = document.createElement('a');
+                        reportLink.href = 'https://discord.gg/axSGh7GJkq'
+                        reportLink.style.textAlign = 'center';
+                        reportLink.style.display = 'block';
+                        reportLink.style.color = '#777777';
+                        reportLink.style.textDecoration = 'none';
+                        reportLink.style.textTransform = 'uppercase';
+                        reportLink.style.fontSize = '9px';
+                        reportLink.style.fontFamily = 'Helvetica, Arial, sans-serif';
+                        reportLink.style.marginTop = '1em';
+                        reportLink.setAttribute('target', '_blank');
+                        reportLink.innerText = 'Report Ad';
+  
+                        if (body.clientHeight > 1700 && sidebar) {
+                            // If the page body is over a certain height, and sidebar exists, add a sidebar placement.
+                            wrapper.style.paddingBottom = '25px';
+                            wrapper.style.marginTop = '1em';
+                            // wrapper.style.overflow = 'hidden';
+                            // wrapper.style.maxWidth = '160px';
+  
+                            placement.id = 'wgl-sidebar';
+                            placement.id = 'pwDeskSkyBtf1';
+                            placement.setAttribute('data-pw-desk', 'sky_btf');
+  
+                            wrapper.append(placement);
+                            wrapper.append(reportLink);
+                            sidebar.append(wrapper);
+  
+                            // Init the placement
+                            adScript.textContent = `
+                              window.ramp.que.push(function () {
+                                  window.ramp.addTag("pwDeskSkyBtf1");
+                              })
+                            `
+                            console.debug('[WGL] Adding sidebar placement');
+                            sidebar.append(adScript);
+                        } else if (footer) {
+                            // Else, add a footer placement.
+                            wrapper.style.paddingBottom = '25px';
+  
+                            placement.id = 'pwDeskLbBtf1';
+                            placement.setAttribute('data-pw-desk', 'leaderboard_btf');
+  
+                            wrapper.append(placement);
+                            wrapper.append(reportLink);
+                            footer.prepend(wrapper);
+  
+                            // Init the placement
+                            adScript.textContent = `
+                              window.ramp.que.push(function () {
+                                  window.ramp.addTag("pwDeskLbBtf1");
+                              })
+                            `
+                            console.debug('[WGL] Adding footer placement');
+                            footer.append(adScript);
+                        }
+                    }
+                });
+     </script>
+    </link>
+   </link>
+  </link>
+ </head>
+ <body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Creature_Creation rootpage-Creature_Creation skin-vector action-view wgl-lightmode wgl-theme-light">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <div id="mw-dismissablenotice-anonplace">
+    </div>
+    <script>
+     (function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" data-nosnippet=\"\"\u003E\u003Cdiv class=\"sitenotice\"\u003E\u003Cdiv style=\"display: flex; justify-content: center\" class=\"plainlinks nomobile\" data-editcount-min=\"20\"\u003E\n\u003Cdiv class=\"#889894 #fff\" style=\"display: flex; align-items: center; background: #889894; padding: .4em 1em; border-radius: .4em 0 0 .4em\"\u003E\u003Cspan typeof=\"mw:File\"\u003E\u003Cspan\u003E\u003Cimg src=\"/images/thumb/Elena_%28portrait%29_built.png/40px-Elena_%28portrait%29_built.png?f466e\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"51\" class=\"mw-file-element\" srcset=\"/images/thumb/Elena_%28portrait%29_built.png/80px-Elena_%28portrait%29_built.png?f466e 2x\" data-file-width=\"1252\" data-file-height=\"1600\" /\u003E\u003C/span\u003E\u003C/span\u003E\u003C/div\u003E\n\u003Cdiv class=\"#5a4923 #fff\" style=\"display: flex; background: #5a4923; color: #fff; padding: 1em 2.5em 1em 1.25em; border-radius: 0 .4em .4em 0\"\u003E\u003Cp style=\"margin: auto !important; text-align: center;\"\u003E2025 family photo submissions are open! Submit your photo by 30 April \u003Ca href=\"https://runescape.wiki/w/RuneScape:Family_Photo\" class=\"extiw\" title=\"rsw:RuneScape:Family Photo\"\u003E\u003Cspan style=\"color:#FFCB99\"\u003Ehere\u003C/span\u003E\u003C/a\u003E.\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E\u003Ca tabindex=\"0\" role=\"button\"\u003E\u003Cspan class=\"dismiss-icon\"\u003E\u003Csvg width=\"20\" height=\"20\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\"\u003E\u003Ctitle\u003Eclose\u003C/title\u003E\u003Cpath d=\"M3.636 2.224l14.142 14.142-1.414 1.414L2.222 3.638z\" /\u003E\u003Cpath d=\"M17.776 3.636L3.634 17.778 2.22 16.364 16.362 2.222z\"/\u003E\u003C/svg\u003E\u003C/span\u003E\u003Cspan class=\"dismiss-text\"\u003Edismiss\u003C/span\u003E\u003C/a\u003E\u003C/div\u003E\u003C/p\u003E\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());
+    </script>
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading mw-first-heading" id="firstHeading">
+    <span class="mw-page-title-main">
+     Creature Creation
+    </span>
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Old School RuneScape Wiki
+    </div>
+    <div id="contentSub">
+     <div id="mw-content-subtitle">
+     </div>
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Jump to search
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="en-GB">
+     <div class="mw-parser-output">
+      <div class="noexcerpt noprint nomobile navigation-not-searchable rs-external-header-links" style="display:none">
+       <span class="rs-header-icon rs-header-icon-rs" data-interwiki="rsw" data-page="Creature Creation" data-wikiname="The RuneScape Wiki">
+        Creature Creation
+       </span>
+      </div>
+      <figure class="mw-halign-right" typeof="mw:File/Thumb">
+       <a class="mw-file-description" href="/w/File:Homunculus_in_dungeon.png">
+        <img class="mw-file-element" data-file-height="657" data-file-width="987" decoding="async" height="200" loading="lazy" src="/images/thumb/Homunculus_in_dungeon.png/300px-Homunculus_in_dungeon.png?3b2aa" srcset="/images/thumb/Homunculus_in_dungeon.png/600px-Homunculus_in_dungeon.png?3b2aa 2x" width="300"/>
+       </a>
+       <figcaption>
+        The Homunculus in the Tower of Life dungeon.
+       </figcaption>
+      </figure>
+      <p>
+       <b>
+        Creature Creation
+       </b>
+       is a solo activity that involves creating unique hybrid monsters and killing them for their drops. It can be found in the
+       <a href="/w/Tower_of_Life_(building)" title="Tower of Life (building)">
+        Tower of Life
+       </a>
+       dungeon after completing the
+       <a href="/w/Tower_of_Life" title="Tower of Life">
+        Tower of Life
+       </a>
+       quest. A
+       <a href="/w/Trapdoor_(Tower_of_Life)" title="Trapdoor (Tower of Life)">
+        trapdoor
+       </a>
+       on the ground floor of the tower leads to the dungeon. The
+       <a href="/w/Builder%27s_costume" title="Builder's costume">
+        Builder's costume
+       </a>
+       is not required to enter the tower once the quest has been completed.
+      </p>
+      <p>
+       Some of the monsters drop multiples of items that are otherwise hard to get or expensive to purchase, such as
+       <a href="/w/Unicorn_horn" title="Unicorn horn">
+        Unicorn horns
+       </a>
+       , which are used to make
+       <a href="/w/Unicorn_horn_dust" title="Unicorn horn dust">
+        Unicorn horn dust
+       </a>
+       for
+       <a href="/w/Herblore" title="Herblore">
+        Herblore
+       </a>
+       . Players who have completed tiers of the
+       <a class="mw-redirect" href="/w/Ardougne_diary" title="Ardougne diary">
+        Ardougne diary
+       </a>
+       will receive these drops in
+       <a href="/w/Bank_note" title="Bank note">
+        noted
+       </a>
+       form.
+      </p>
+      <p>
+       Some of the monsters are dangerous, so bringing food may be advised. Players needing food while creating creatures can pickpocket the workers outside the tower to obtain
+       <a href="/w/Triangle_sandwich" title="Triangle sandwich">
+        triangle sandwiches
+       </a>
+       .
+       <a href="/w/%27Black-eye%27" title="'Black-eye'">
+        'Black-eye'
+       </a>
+       ,
+       <a href="/w/%27Gummy%27" title="'Gummy'">
+        'Gummy'
+       </a>
+       ,
+       <a href="/w/%27The_Guns%27" title="'The Guns'">
+        'The Guns'
+       </a>
+       , and
+       <a href="/w/%27No_fingers%27" title="'No fingers'">
+        'No fingers'
+       </a>
+       can be pickpocketed, but not
+       <a href="/w/Bonafido" title="Bonafido">
+        Bonafido
+       </a>
+       .
+      </p>
+      <p>
+       A
+       <a href="/w/Dwarf_multicannon" title="Dwarf multicannon">
+        cannon
+       </a>
+       can be used here.
+      </p>
+      <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation">
+       <input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/>
+       <div class="toctitle" dir="ltr" lang="en-GB">
+        <h2 id="mw-toc-heading">
+         Contents
+        </h2>
+        <span class="toctogglespan">
+         <label class="toctogglelabel" for="toctogglecheckbox">
+         </label>
+        </span>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Altars_of_Life">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Altars of Life
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Tips">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Tips
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Changes">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Changes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Trivia">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Trivia
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Altars_of_Life">
+        Altars of Life
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Creature_Creation?section=1&amp;veaction=edit" title="Edit section: Altars of Life">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Creature_Creation?action=edit&amp;section=1" title="Edit section's source code: Altars of Life">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <figure class="mw-halign-left" typeof="mw:File/Thumb">
+       <a class="mw-file-description" href="/w/File:Symbol_of_life.png">
+        <img class="mw-file-element" data-file-height="1091" data-file-width="1546" decoding="async" height="141" loading="lazy" src="/images/thumb/Symbol_of_life.png/200px-Symbol_of_life.png?95f1b" srcset="/images/thumb/Symbol_of_life.png/400px-Symbol_of_life.png?95f1b 2x" width="200"/>
+       </a>
+       <figcaption>
+        An Altar of Life.
+       </figcaption>
+      </figure>
+      <p>
+       There are six Altars of Life, each dedicated to a different hybrid monster. Placing one each of two ingredients at the correct altar primes the altar.
+       <b>
+        Noted items cannot be used as ingredients.
+       </b>
+       The primed altar must be activated to create the mixed creature. All but one of the monsters in turn drop one of their ingredients, which makes continuous creation easier; however, after completion of the easy and medium
+       <a href="/w/Ardougne_Diary" title="Ardougne Diary">
+        Ardougne Diaries
+       </a>
+       , these drops will be noted. The monsters occasionally also drop various types of
+       <a href="/w/Satchel" title="Satchel">
+        satchels
+       </a>
+       (the colour depends on the creature) and
+       <a href="/w/Tea_flask" title="Tea flask">
+        tea flasks
+       </a>
+       . The satchels are held in the shield slot and can hold one
+       <a href="/w/Triangle_sandwich" title="Triangle sandwich">
+        triangle sandwich
+       </a>
+       , one
+       <a href="/w/Cake" title="Cake">
+        cake
+       </a>
+       , and one
+       <a href="/w/Banana" title="Banana">
+        banana
+       </a>
+       . The tea flasks can hold the contents of up to five
+       <a href="/w/Cup_of_tea" title="Cup of tea">
+        cups of tea
+       </a>
+       .
+      </p>
+      <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb">
+       <a class="mw-file-description" href="/w/File:Creature_Creation_dungeon_map.png">
+        <img class="mw-file-element" data-file-height="261" data-file-width="264" decoding="async" height="261" loading="lazy" src="/images/Creature_Creation_dungeon_map.png?79993" width="264"/>
+       </a>
+       <figcaption>
+        A map of the Tower of Life dungeon
+       </figcaption>
+      </figure>
+      <p>
+       Players use several items to create the monsters:
+      </p>
+      <ul>
+       <li>
+        <a href="/w/Eye_of_newt" title="Eye of newt">
+         Eye of newt
+        </a>
+        . These are purchasable for 3 coins each at
+        <a href="/w/Herblore" title="Herblore">
+         Herblore
+        </a>
+        shops or the
+        <a href="/w/Port_Sarim" title="Port Sarim">
+         Port Sarim
+        </a>
+        <a href="/w/Magic_shops" title="Magic shops">
+         magic shop
+        </a>
+        , either individually or in packs of 100.
+       </li>
+       <li>
+        <a class="mw-redirect" href="/w/Feathers" title="Feathers">
+         Feathers
+        </a>
+        . These can be obtained by killing
+        <a href="/w/Chicken" title="Chicken">
+         chickens
+        </a>
+        , which can be found on many farms throughout
+        <a href="/w/Gielinor" title="Gielinor">
+         Gielinor
+        </a>
+        or purchased at any
+        <a href="/w/Fishing_shops" title="Fishing shops">
+         Fishing Shop
+        </a>
+        for 2 coins each individually or in packs of 100.
+       </li>
+       <li>
+        <a href="/w/Raw_jubbly" title="Raw jubbly">
+         Raw jubbly
+        </a>
+        . These can be obtained by hunting
+        <a class="mw-redirect" href="/w/Jubbly" title="Jubbly">
+         Jubbly
+        </a>
+        birds. The ability to hunt them requires the completion of a considerable amount of the
+        <a href="/w/Recipe_for_Disaster" title="Recipe for Disaster">
+         Recipe for Disaster
+        </a>
+        quest.
+       </li>
+       <li>
+        <a href="/w/Raw_lobster" title="Raw lobster">
+         Raw lobster
+        </a>
+        . Lobsters can be caught using the
+        <a href="/w/Fishing" title="Fishing">
+         Fishing
+        </a>
+        skill.
+       </li>
+       <li>
+        <a href="/w/Raw_sardine" title="Raw sardine">
+         Raw sardine
+        </a>
+        . Sardines can be caught using the Fishing skill. Some fishing shops sell sardines (You can buy these in Rellekka and quickly deposit them at
+        <a href="/w/Peer_the_Seer" title="Peer the Seer">
+         Peer the Seer
+        </a>
+        with completion of the
+        <a href="/w/Fremennik_Diary#Easy" title="Fremennik Diary">
+         Fremennik Easy Diary
+        </a>
+        ).
+       </li>
+       <li>
+        <a href="/w/Red_spiders%27_eggs" title="Red spiders' eggs">
+         Red spiders' eggs
+        </a>
+        . These can be gathered in places inhabited by
+        <a href="/w/Deadly_red_spider" title="Deadly red spider">
+         deadly red spiders
+        </a>
+        . The spider chamber in the wilderness section of the
+        <a href="/w/Edgeville_Dungeon" title="Edgeville Dungeon">
+         Edgeville Dungeon
+        </a>
+        has several egg spawns.
+       </li>
+       <li>
+        <a href="/w/Raw_swordfish" title="Raw swordfish">
+         Raw swordfish
+        </a>
+        . Swordfish can be caught using the Fishing skill.
+       </li>
+       <li>
+        <a href="/w/Raw_chicken" title="Raw chicken">
+         Raw chicken
+        </a>
+        . These can be obtained by killing chickens.
+       </li>
+       <li>
+        <a href="/w/Giant_frog_legs" title="Giant frog legs">
+         Giant frog legs
+        </a>
+        . Theses are dropped by
+        <a href="/w/Giant_frog" title="Giant frog">
+         Giant frogs
+        </a>
+        , which inhabit the
+        <a href="/w/Lumbridge_Swamp_Caves" title="Lumbridge Swamp Caves">
+         Lumbridge Swamp Caves
+        </a>
+        .
+       </li>
+       <li>
+        <a href="/w/Raw_cave_eel" title="Raw cave eel">
+         Raw cave eel
+        </a>
+        .
+        <a href="/w/Cave_eel" title="Cave eel">
+         Cave eels
+        </a>
+        inhabit the Lumbridge Swamp Caves and can be caught using the
+        <a href="/w/Fishing" title="Fishing">
+         Fishing
+        </a>
+        skill.
+       </li>
+       <li>
+        <a href="/w/Unicorn_horn" title="Unicorn horn">
+         Unicorn horn
+        </a>
+        .
+        <a href="/w/Unicorn" title="Unicorn">
+         Unicorns
+        </a>
+        can be slain for their horns. Unicorns can be found near
+        <a href="/w/Varrock" title="Varrock">
+         Varrock
+        </a>
+        ,
+        <a href="/w/Edgeville" title="Edgeville">
+         Edgeville
+        </a>
+        , and
+        <a href="/w/Rellekka" title="Rellekka">
+         Rellekka
+        </a>
+        in small numbers. Larger herds of
+        <a href="/w/Black_unicorn" title="Black unicorn">
+         black unicorns
+        </a>
+        can be found in the
+        <a href="/w/Wilderness" title="Wilderness">
+         Wilderness
+        </a>
+        , but beware of
+        <a href="/w/Player_killing" title="Player killing">
+         player killers
+        </a>
+        .
+       </li>
+       <li>
+        <a href="/w/Cowhide" title="Cowhide">
+         Cowhide
+        </a>
+        .
+        <a href="/w/Cow" title="Cow">
+         Cows
+        </a>
+        can be killed for their hides and are found at many farms.
+       </li>
+      </ul>
+      <table class="wikitable">
+       <tbody>
+        <tr>
+         <th>
+          Altar
+         </th>
+         <th colspan="2">
+          Creature (level)
+         </th>
+         <th>
+          Ingredients
+         </th>
+         <th>
+          Always Drops
+          <sup class="reference" id="cite_ref-1">
+           <a href="#cite_note-1">
+            [1]
+           </a>
+          </sup>
+         </th>
+         <th>
+          May Drop
+          <sup class="reference" id="cite_ref-2">
+           <a href="#cite_note-2">
+            [2]
+           </a>
+          </sup>
+         </th>
+         <th>
+          Average Profit
+          <sup class="reference" id="cite_ref-3">
+           <a href="#cite_note-3">
+            [3]
+           </a>
+          </sup>
+         </th>
+        </tr>
+        <tr>
+         <td>
+          North-east
+         </td>
+         <td>
+          <figure class="mw-halign-center" typeof="mw:File">
+           <a class="mw-file-description" href="/w/File:Newtroost.png">
+            <img class="mw-file-element" data-file-height="918" data-file-width="725" decoding="async" height="127" loading="lazy" src="/images/thumb/Newtroost.png/100px-Newtroost.png?328c0" srcset="/images/thumb/Newtroost.png/200px-Newtroost.png?328c0 2x" width="100"/>
+           </a>
+           <figcaption>
+           </figcaption>
+          </figure>
+         </td>
+         <td>
+          <a href="/w/Newtroost" title="Newtroost">
+           Newtroost
+          </a>
+          (19)
+         </td>
+         <td>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Eye_of_newt" title="Eye of newt">
+             <img class="mw-file-element" data-file-height="12" data-file-width="13" decoding="async" height="12" loading="lazy" src="/images/Eye_of_newt.png?97fe8" width="13"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Eye_of_newt" title="Eye of newt">
+           Eye of newt
+          </a>
+          <br/>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Feather" title="Feather">
+             <img class="mw-file-element" data-file-height="32" data-file-width="20" decoding="async" height="32" loading="lazy" src="/images/Feather.png?97fe8" width="20"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Feather" title="Feather">
+           Feather
+          </a>
+         </td>
+         <td>
+          4-10
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Eye_of_newt" title="Eye of newt">
+             <img class="mw-file-element" data-file-height="12" data-file-width="13" decoding="async" height="12" loading="lazy" src="/images/Eye_of_newt.png?97fe8" width="13"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Eye_of_newt" title="Eye of newt">
+           Eye of newt
+          </a>
+          <sup class="reference" id="cite_ref-medium-notes_4-0">
+           <a href="#cite_note-medium-notes-4">
+            [4]
+           </a>
+          </sup>
+         </td>
+         <td>
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Rune_satchel" title="Rune satchel">
+             <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Rune_satchel.png?4ffaa" width="20"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Rune_satchel" title="Rune satchel">
+           Rune satchel
+          </a>
+         </td>
+         <td>
+          <span class="coins inventory-image coins-100 coins-pos">
+           107
+          </span>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          North-west
+         </td>
+         <td>
+          <figure class="mw-halign-center" typeof="mw:File">
+           <a class="mw-file-description" href="/w/File:Unicow.png">
+            <img class="mw-file-element" data-file-height="967" data-file-width="1308" decoding="async" height="74" loading="lazy" src="/images/thumb/Unicow.png/100px-Unicow.png?57a02" srcset="/images/thumb/Unicow.png/200px-Unicow.png?57a02 2x" width="100"/>
+           </a>
+           <figcaption>
+           </figcaption>
+          </figure>
+         </td>
+         <td>
+          <a href="/w/Unicow" title="Unicow">
+           Unicow
+          </a>
+          (25)
+         </td>
+         <td>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Cowhide" title="Cowhide">
+             <img class="mw-file-element" data-file-height="28" data-file-width="29" decoding="async" height="28" loading="lazy" src="/images/Cowhide.png?720eb" width="29"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Cowhide" title="Cowhide">
+           Cowhide
+          </a>
+          <br/>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Unicorn_horn" title="Unicorn horn">
+             <img class="mw-file-element" data-file-height="29" data-file-width="22" decoding="async" height="29" loading="lazy" src="/images/Unicorn_horn.png?3f8f7" width="22"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Unicorn_horn" title="Unicorn horn">
+           Unicorn horn
+          </a>
+         </td>
+         <td>
+          2-4
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Unicorn_horn" title="Unicorn horn">
+             <img class="mw-file-element" data-file-height="29" data-file-width="22" decoding="async" height="29" loading="lazy" src="/images/Unicorn_horn.png?3f8f7" width="22"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Unicorn_horn" title="Unicorn horn">
+           Unicorn horns
+          </a>
+          <sup class="reference" id="cite_ref-medium-notes_4-1">
+           <a href="#cite_note-medium-notes-4">
+            [4]
+           </a>
+          </sup>
+         </td>
+         <td>
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Green_satchel" title="Green satchel">
+             <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Green_satchel.png?e75c0" width="20"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Green_satchel" title="Green satchel">
+           Green satchel
+          </a>
+         </td>
+         <td>
+          <span class="coins inventory-image coins-1000 coins-pos">
+           1,604
+          </span>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          South-east
+         </td>
+         <td>
+          <figure class="mw-halign-center" typeof="mw:File">
+           <a class="mw-file-description" href="/w/File:Spidine.png">
+            <img class="mw-file-element" data-file-height="468" data-file-width="1057" decoding="async" height="44" loading="lazy" src="/images/thumb/Spidine.png/100px-Spidine.png?2e048" srcset="/images/thumb/Spidine.png/200px-Spidine.png?2e048 2x" width="100"/>
+           </a>
+           <figcaption>
+           </figcaption>
+          </figure>
+         </td>
+         <td>
+          <a href="/w/Spidine" title="Spidine">
+           Spidine
+          </a>
+          (42)
+         </td>
+         <td>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Red_spiders%27_eggs" title="Red spiders' eggs">
+             <img class="mw-file-element" data-file-height="14" data-file-width="19" decoding="async" height="14" loading="lazy" src="/images/Red_spiders%27_eggs.png?77caa" width="19"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Red_spiders%27_eggs" title="Red spiders' eggs">
+           Red spiders' eggs
+          </a>
+          <br/>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Raw_sardine" title="Raw sardine">
+             <img class="mw-file-element" data-file-height="15" data-file-width="19" decoding="async" height="15" loading="lazy" src="/images/Raw_sardine.png?97482" width="19"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Raw_sardine" title="Raw sardine">
+           Raw sardine
+          </a>
+         </td>
+         <td>
+          3-6
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Red_spiders%27_eggs" title="Red spiders' eggs">
+             <img class="mw-file-element" data-file-height="14" data-file-width="19" decoding="async" height="14" loading="lazy" src="/images/Red_spiders%27_eggs.png?77caa" width="19"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Red_spiders%27_eggs" title="Red spiders' eggs">
+           Red spiders' eggs
+          </a>
+          <sup class="reference" id="cite_ref-medium-notes_4-2">
+           <a href="#cite_note-medium-notes-4">
+            [4]
+           </a>
+          </sup>
+         </td>
+         <td>
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Red_satchel" title="Red satchel">
+             <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Red_satchel.png?77caa" width="20"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Red_satchel" title="Red satchel">
+           Red satchel
+          </a>
+         </td>
+         <td>
+          <span class="coins inventory-image coins-1000 coins-pos">
+           1,687.50
+          </span>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          South-west
+         </td>
+         <td>
+          <figure class="mw-halign-center" typeof="mw:File">
+           <a class="mw-file-description" href="/w/File:Swordchick.png">
+            <img class="mw-file-element" data-file-height="960" data-file-width="1246" decoding="async" height="77" loading="lazy" src="/images/thumb/Swordchick.png/100px-Swordchick.png?2114c" srcset="/images/thumb/Swordchick.png/200px-Swordchick.png?2114c 2x" width="100"/>
+           </a>
+           <figcaption>
+           </figcaption>
+          </figure>
+         </td>
+         <td>
+          <a href="/w/Swordchick" title="Swordchick">
+           Swordchick
+          </a>
+          (46)
+         </td>
+         <td>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Raw_swordfish" title="Raw swordfish">
+             <img class="mw-file-element" data-file-height="27" data-file-width="31" decoding="async" height="27" loading="lazy" src="/images/Raw_swordfish.png?e5f4c" width="31"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Raw_swordfish" title="Raw swordfish">
+           Raw swordfish
+          </a>
+          <br/>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Raw_chicken" title="Raw chicken">
+             <img class="mw-file-element" data-file-height="24" data-file-width="29" decoding="async" height="24" loading="lazy" src="/images/Raw_chicken.png?b7fbb" width="29"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Raw_chicken" title="Raw chicken">
+           Raw chicken
+          </a>
+         </td>
+         <td>
+          10-40
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Feather" title="Feather">
+             <img class="mw-file-element" data-file-height="32" data-file-width="20" decoding="async" height="32" loading="lazy" src="/images/Feather.png?97fe8" width="20"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Feather" title="Feather">
+           Feathers
+          </a>
+         </td>
+         <td>
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Black_satchel" title="Black satchel">
+             <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Black_satchel.png?1b793" width="20"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Black_satchel" title="Black satchel">
+           Black satchel
+          </a>
+         </td>
+         <td>
+          <span class="coins inventory-image coins-25 coins-pos">
+           27
+          </span>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          East
+         </td>
+         <td>
+          <figure class="mw-halign-center" typeof="mw:File">
+           <a class="mw-file-description" href="/w/File:Jubster.png">
+            <img class="mw-file-element" data-file-height="1471" data-file-width="1444" decoding="async" height="102" loading="lazy" src="/images/thumb/Jubster.png/100px-Jubster.png?aadbd" srcset="/images/thumb/Jubster.png/200px-Jubster.png?aadbd 2x" width="100"/>
+           </a>
+           <figcaption>
+           </figcaption>
+          </figure>
+         </td>
+         <td>
+          <a href="/w/Jubster" title="Jubster">
+           Jubster
+          </a>
+          (87)
+         </td>
+         <td>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Raw_jubbly" title="Raw jubbly">
+             <img class="mw-file-element" data-file-height="30" data-file-width="34" decoding="async" height="30" loading="lazy" src="/images/Raw_jubbly.png?e3d63" width="34"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Raw_jubbly" title="Raw jubbly">
+           Raw jubbly
+          </a>
+          <br/>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Raw_lobster" title="Raw lobster">
+             <img class="mw-file-element" data-file-height="29" data-file-width="30" decoding="async" height="29" loading="lazy" src="/images/Raw_lobster.png?e3d63" width="30"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Raw_lobster" title="Raw lobster">
+           Raw lobster
+          </a>
+         </td>
+         <td>
+          3-7
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Raw_jubbly" title="Raw jubbly">
+             <img class="mw-file-element" data-file-height="30" data-file-width="34" decoding="async" height="30" loading="lazy" src="/images/Raw_jubbly.png?e3d63" width="34"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Raw_jubbly" title="Raw jubbly">
+           Raw jubbly
+          </a>
+          <sup class="reference" id="cite_ref-easy-notes_5-0">
+           <a href="#cite_note-easy-notes-5">
+            [5]
+           </a>
+          </sup>
+         </td>
+         <td>
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Gold_satchel" title="Gold satchel">
+             <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Gold_satchel.png?fc2ef" width="20"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Gold_satchel" title="Gold satchel">
+           Gold satchel
+          </a>
+         </td>
+         <td>
+          <span class="coins inventory-image coins-1000 coins-pos">
+           3,542
+          </span>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          West
+         </td>
+         <td>
+          <figure class="mw-halign-center" typeof="mw:File">
+           <a class="mw-file-description" href="/w/File:Frogeel.png">
+            <img class="mw-file-element" data-file-height="874" data-file-width="1240" decoding="async" height="70" loading="lazy" src="/images/thumb/Frogeel.png/100px-Frogeel.png?581bd" srcset="/images/thumb/Frogeel.png/200px-Frogeel.png?581bd 2x" width="100"/>
+           </a>
+           <figcaption>
+           </figcaption>
+          </figure>
+         </td>
+         <td>
+          <a href="/w/Frogeel" title="Frogeel">
+           Frogeel
+          </a>
+          (103)
+         </td>
+         <td>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Raw_cave_eel" title="Raw cave eel">
+             <img class="mw-file-element" data-file-height="29" data-file-width="29" decoding="async" height="29" loading="lazy" src="/images/Raw_cave_eel.png?b225e" width="29"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Raw_cave_eel" title="Raw cave eel">
+           Raw cave eel
+          </a>
+          <br/>
+          1
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Giant_frog_legs" title="Giant frog legs">
+             <img class="mw-file-element" data-file-height="26" data-file-width="26" decoding="async" height="26" loading="lazy" src="/images/Giant_frog_legs.png?06540" width="26"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Giant_frog_legs" title="Giant frog legs">
+           Giant frog legs
+          </a>
+         </td>
+         <td>
+          5-10
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Raw_cave_eel" title="Raw cave eel">
+             <img class="mw-file-element" data-file-height="29" data-file-width="29" decoding="async" height="29" loading="lazy" src="/images/Raw_cave_eel.png?b225e" width="29"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Raw_cave_eel" title="Raw cave eel">
+           Raw cave eels
+          </a>
+          <sup class="reference" id="cite_ref-easy-notes_5-1">
+           <a href="#cite_note-easy-notes-5">
+            [5]
+           </a>
+          </sup>
+         </td>
+         <td>
+          <span class="plink-template">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Plain_satchel" title="Plain satchel">
+             <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Plain_satchel.png?9345a" width="20"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Plain_satchel" title="Plain satchel">
+           Plain satchel
+          </a>
+         </td>
+         <td>
+          <span class="coins inventory-image coins-1000 coins-neg">
+           −3,966.50
+          </span>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class="reflist hideQuotes">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           All creatures also drop
+           <a href="/w/Bones" title="Bones">
+            bones
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           All creatures may also drop a
+           <a href="/w/Tea_flask" title="Tea flask">
+            tea flask
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Assuming non-dropped ingredients are bought from the Grand Exchange.
+          </span>
+         </li>
+         <li id="cite_note-medium-notes-4">
+          <span class="mw-cite-backlink">
+           ^
+           <sup>
+            <a href="#cite_ref-medium-notes_4-0">
+             4.0
+            </a>
+           </sup>
+           <sup>
+            <a href="#cite_ref-medium-notes_4-1">
+             4.1
+            </a>
+           </sup>
+           <sup>
+            <a href="#cite_ref-medium-notes_4-2">
+             4.2
+            </a>
+           </sup>
+          </span>
+          <span class="reference-text">
+           Noted after completion of the
+           <a class="mw-redirect" href="/w/Medium_Ardougne_Diary" title="Medium Ardougne Diary">
+            Medium Ardougne Diary
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-easy-notes-5">
+          <span class="mw-cite-backlink">
+           ^
+           <sup>
+            <a href="#cite_ref-easy-notes_5-0">
+             5.0
+            </a>
+           </sup>
+           <sup>
+            <a href="#cite_ref-easy-notes_5-1">
+             5.1
+            </a>
+           </sup>
+          </span>
+          <span class="reference-text">
+           Noted after completion of the
+           <a class="mw-redirect" href="/w/Easy_Ardougne_Diary" title="Easy Ardougne Diary">
+            Easy Ardougne Diary
+           </a>
+           .
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Tips">
+        Tips
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Creature_Creation?section=2&amp;veaction=edit" title="Edit section: Tips">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Creature_Creation?action=edit&amp;section=2" title="Edit section's source code: Tips">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        For fast banking, players may wish to use the bank at
+        <a href="/w/Shayzien_Encampment" title="Shayzien Encampment">
+         Shayzien Encampment
+        </a>
+        (Fairy ring code
+        <span class="fairycode">
+         <b>
+          D
+         </b>
+         <b>
+          J
+         </b>
+         <b>
+          R
+         </b>
+        </span>
+        ) with partial completion of the
+        <a href="/w/Fairytale_II_-_Cure_a_Queen" title="Fairytale II - Cure a Queen">
+         Fairytale II - Cure a Queen
+        </a>
+        quest, or walk from the
+        <a href="/w/Ardougne_Teleport" title="Ardougne Teleport">
+         Ardougne Teleport
+        </a>
+        location.
+       </li>
+       <li>
+        When killing the creatures to get the 'ingredient drops', bring one of the ingredient that is always dropped and several of the other ingredient. This allows the altar to be used multiple times in one trip. For efficiency, the goal is to fill inventory as much as practical with the desired item. Use trial and error to determine how many of the always-consumed ingredient to bring. (This method does not work with swordchicks, since they do not drop raw chickens.)
+       </li>
+       <li>
+        For more efficiency and convenience, before leaving the dungeon, prime the altar with both ingredients without activating the altar. The items will still be present when the player returns, allowing the altar to be activated, no matter how long a time the player is away. This method is particularly recommended for forgetful players who might forget to take the 'single' item (for example, the player brought a load of cow hides but not one unicorn horn).
+       </li>
+       <li>
+        The spidine, which requires red spider eggs and raw sardines, is useful as it drops red spider eggs in larger numbers (3-5). Use
+        <a href="/w/Ishmael%27s_Fish_He_Sells" title="Ishmael's Fish He Sells">
+         Ishmael's Fish He Sells
+        </a>
+        in the
+        <a href="/w/Ruins_of_Unkah" title="Ruins of Unkah">
+         Ruins of Unkah
+        </a>
+        to stock up on raw sardines. One raw sardine will yield about 3.5 red spider's eggs on average. It takes around 8 raw sardines to collect a full load of red spider eggs.
+       </li>
+       <li>
+        The unicow is perhaps the fastest method in the game to obtain unicorn horns in quantity without spending money. Kill some cows close to a bank and bank the cow hides (or buy cowhides). There is a cow pen just north of the Ardougne market outside the city walls. Each cowhide creates one unicow, which drops 2 to 4 unicorn horns. However, you will need one of the horns to make the next unicow, so bring lots of cow hides to get a full inventory of unicorn horns. It typically takes 10-13 cow hides to get a full inventory of unicorn horns.
+       </li>
+       <li>
+        The different levels of the Ardougne Diary cause some of the drops from the creatures to be noted. This may mean that you are unable to re-use drops to summon the creatures again. However, the Ardougne south
+        <a href="/w/Bank" title="Bank">
+         bank
+        </a>
+        is not too far away.
+       </li>
+       <li>
+        It is possible to find ranged/magic
+        <a href="/w/Safespot" title="Safespot">
+         safespots
+        </a>
+        , although it may be impractical to do so most of the time.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Changes">
+        Changes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Creature_Creation?section=3&amp;veaction=edit" title="Edit section: Changes">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Creature_Creation?action=edit&amp;section=3" title="Edit section's source code: Changes">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="wikitable mw-collapsible sortable" style="max-width:800px">
+       <tbody>
+        <tr>
+         <th>
+          Date
+         </th>
+         <th class="unsortable">
+          Changes
+         </th>
+        </tr>
+        <tr>
+         <td data-sort-value="11 October 2022">
+          <a href="/w/11_October" title="11 October">
+           11 October
+          </a>
+          <a href="/w/2022" title="2022">
+           2022
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Quest_Speedrunning_Launch" title="Update:Quest Speedrunning Launch">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Spam-clicking the altars no longer accidentally consumes a player's ingredients.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="5 October 2022">
+          <a href="/w/5_October" title="5 October">
+           5 October
+          </a>
+          <a href="/w/2022" title="2022">
+           2022
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Clan_Hall_Upgrades_%26_More" title="Update:Clan Hall Upgrades &amp; More">
+           update
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           The altars have had their dialogue boxes streamlined to reduce the clicking required to use them.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <td data-sort-value="5 March 2015">
+          <a href="/w/5_March" title="5 March">
+           5 March
+          </a>
+          <a href="/w/2015" title="2015">
+           2015
+          </a>
+          <br/>
+          (
+          <a href="/w/Update:Achievement_Diaries" title="Update:Achievement Diaries">
+           update
+          </a>
+          |
+          <a href="/w/Poll:Old_School_Achievement_Diary_Rewards_Poll" title="Poll:Old School Achievement Diary Rewards Poll">
+           poll
+          </a>
+          )
+         </td>
+         <td>
+          <p>
+           Drops from creatures become noted depending on the tier of
+           <a class="mw-redirect" href="/w/Ardougne_diary" title="Ardougne diary">
+            Ardougne diary
+           </a>
+           completed; the items that will be noted increases from easy to hard diaries.
+          </p>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <h2>
+       <span class="mw-headline" id="Trivia">
+        Trivia
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/Creature_Creation?section=4&amp;veaction=edit" title="Edit section: Trivia">
+         edit
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/Creature_Creation?action=edit&amp;section=4" title="Edit section's source code: Trivia">
+         edit source
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        The
+        <a class="extiw" href="https://en.wikipedia.org/wiki/Homunculus" title="wikipedia:Homunculus">
+         <span title='"Homunculus" on English Wikipedia'>
+          Homunculus
+         </span>
+        </a>
+        of
+        <a class="extiw" href="https://en.wikipedia.org/wiki/alchemy" title="wikipedia:alchemy">
+         <span title='"alchemy" on English Wikipedia'>
+          alchemy
+         </span>
+        </a>
+        were created by combining parts of different animals to create a
+        <a class="extiw" href="https://en.wikipedia.org/wiki/hybrid" title="wikipedia:hybrid">
+         <span title='"hybrid" on English Wikipedia'>
+          hybrid
+         </span>
+        </a>
+        .
+       </li>
+       <li>
+        A Homunculus was viewed as a possible by-product of Alchemy in the days when it was believed to be true. They were human-like in manner and appearance but lacked a soul.
+       </li>
+      </ul>
+      <table class="navbox &lt;mw:editsection nowraplinks mw-collapsible mw-collapsed navbox-autocollapse" data-navbox-name="Creature Creation">
+       <tbody>
+        <tr>
+         <th class="navbox-title" colspan="2">
+          <div style="float:left;text-align:left">
+           <div class="navbar plainlinks noprint navbar-mini" style="font-weight:normal;font-size:x-small;white-space:nowrap;">
+            <a href="/w/Template:Creature_Creation" title="Template:Creature Creation">
+             <span style="" title="View this template">
+              v
+             </span>
+            </a>
+            <span style="font-size:80%">
+             •
+            </span>
+            <span class="autoconfirmed-show" style="display:none">
+             <a class="text" href="https://oldschool.runescape.wiki/w/Template_talk:Creature_Creation">
+              <span style="" title="Discussion about this template">
+               t
+              </span>
+             </a>
+             <span style="font-size:80%">
+              •
+             </span>
+            </span>
+            <a class="text" href="https://oldschool.runescape.wiki/w/Template:Creature_Creation?action=edit">
+             <span style="" title="Edit this template">
+              e
+             </span>
+            </a>
+           </div>
+          </div>
+          <div class="navbox-title-name">
+           <a class="mw-selflink selflink">
+            Creature Creation
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          Monsters
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Newtroost" title="Newtroost">
+             Newtroost
+            </a>
+           </li>
+           <li>
+            <a href="/w/Unicow" title="Unicow">
+             Unicow
+            </a>
+           </li>
+           <li>
+            <a href="/w/Spidine" title="Spidine">
+             Spidine
+            </a>
+           </li>
+           <li>
+            <a href="/w/Swordchick" title="Swordchick">
+             Swordchick
+            </a>
+           </li>
+           <li>
+            <a href="/w/Jubster" title="Jubster">
+             Jubster
+            </a>
+           </li>
+           <li>
+            <a href="/w/Frogeel" title="Frogeel">
+             Frogeel
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          Items
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <span class="plink-template">
+             <span class="mw-default-size" typeof="mw:File">
+              <a href="/w/Tea_flask" title="Tea flask">
+               <img class="mw-file-element" data-file-height="26" data-file-width="24" decoding="async" height="26" loading="lazy" src="/images/Tea_flask.png?c1b34" width="24"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Tea_flask" title="Tea flask">
+             Tea flask
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span class="mw-default-size" typeof="mw:File">
+              <a href="/w/Black_satchel" title="Black satchel">
+               <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Black_satchel.png?1b793" width="20"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Black_satchel" title="Black satchel">
+             Black satchel
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span class="mw-default-size" typeof="mw:File">
+              <a href="/w/Gold_satchel" title="Gold satchel">
+               <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Gold_satchel.png?fc2ef" width="20"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Gold_satchel" title="Gold satchel">
+             Gold satchel
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span class="mw-default-size" typeof="mw:File">
+              <a href="/w/Green_satchel" title="Green satchel">
+               <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Green_satchel.png?e75c0" width="20"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Green_satchel" title="Green satchel">
+             Green satchel
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span class="mw-default-size" typeof="mw:File">
+              <a href="/w/Plain_satchel" title="Plain satchel">
+               <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Plain_satchel.png?9345a" width="20"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Plain_satchel" title="Plain satchel">
+             Plain satchel
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span class="mw-default-size" typeof="mw:File">
+              <a href="/w/Red_satchel" title="Red satchel">
+               <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Red_satchel.png?77caa" width="20"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Red_satchel" title="Red satchel">
+             Red satchel
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span class="mw-default-size" typeof="mw:File">
+              <a href="/w/Rune_satchel" title="Rune satchel">
+               <img class="mw-file-element" data-file-height="22" data-file-width="20" decoding="async" height="22" loading="lazy" src="/images/Rune_satchel.png?4ffaa" width="20"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Rune_satchel" title="Rune satchel">
+             Rune satchel
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          Scenery
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Symbol_of_life" title="Symbol of life">
+             Symbol of life
+            </a>
+           </li>
+           <li>
+            <a href="/w/Experiment_table" title="Experiment table">
+             Experiment table
+            </a>
+           </li>
+           <li>
+            <a href="/w/Experiment_cabinet" title="Experiment cabinet">
+             Experiment cabinet
+            </a>
+           </li>
+           <li>
+            <a href="/w/Cage_(Creature_Creation)" title="Cage (Creature Creation)">
+             Cage
+            </a>
+           </li>
+           <li>
+            <a href="/w/Retorts" title="Retorts">
+             Retorts
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          Other
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <span class="plink-template">
+             <span typeof="mw:File">
+              <a href="/w/Homunculus" title="Homunculus">
+               <img alt="Chathead image of Homunculus" class="mw-file-element" data-file-height="73" data-file-width="63" decoding="async" height="35" loading="lazy" src="/images/thumb/Homunculus_chathead.png/30px-Homunculus_chathead.png?71a29" srcset="/images/thumb/Homunculus_chathead.png/60px-Homunculus_chathead.png?71a29 2x" width="30"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Homunculus" title="Homunculus">
+             Homunculus
+            </a>
+           </li>
+           <li>
+            <a href="/w/Tower_of_Life_(building)" title="Tower of Life (building)">
+             Tower of Life
+            </a>
+           </li>
+           <li>
+            <a href="/w/Lunchbox" title="Lunchbox">
+             Lunchboxes
+            </a>
+            <sup>
+             (scrapped)
+            </sup>
+           </li>
+          </ul>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table class="navbox &lt;mw:editsection nowraplinks mw-collapsible mw-collapsed navbox-autocollapse" data-navbox-name="Tower of Life">
+       <tbody>
+        <tr>
+         <th class="navbox-title" colspan="2">
+          <div style="float:left;text-align:left">
+           <div class="navbar plainlinks noprint navbar-mini" style="font-weight:normal;font-size:x-small;white-space:nowrap;">
+            <a href="/w/Template:Tower_of_Life" title="Template:Tower of Life">
+             <span style="" title="View this template">
+              v
+             </span>
+            </a>
+            <span style="font-size:80%">
+             •
+            </span>
+            <span class="autoconfirmed-show" style="display:none">
+             <a class="text" href="https://oldschool.runescape.wiki/w/Template_talk:Tower_of_Life">
+              <span style="" title="Discussion about this template">
+               t
+              </span>
+             </a>
+             <span style="font-size:80%">
+              •
+             </span>
+            </span>
+            <a class="text" href="https://oldschool.runescape.wiki/w/Template:Tower_of_Life?action=edit">
+             <span style="" title="Edit this template">
+              e
+             </span>
+            </a>
+           </div>
+          </div>
+          <div class="navbox-title-name">
+           <a href="/w/Tower_of_Life" title="Tower of Life">
+            Tower of Life
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          NPCs
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <span class="plink-template">
+             <span typeof="mw:File">
+              <a href="/w/Effigy" title="Effigy">
+               <img alt="Chathead image of Effigy" class="mw-file-element" data-file-height="129" data-file-width="85" decoding="async" height="35" loading="lazy" src="/images/thumb/Effigy_chathead.png/23px-Effigy_chathead.png?03a0f" srcset="/images/thumb/Effigy_chathead.png/46px-Effigy_chathead.png?03a0f 2x" width="23"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Effigy" title="Effigy">
+             Effigy
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span typeof="mw:File">
+              <a href="/w/%27Currency%27_The_Alchemist" title="'Currency' The Alchemist">
+               <img alt="Chathead image of 'Currency' The Alchemist" class="mw-file-element" data-file-height="144" data-file-width="102" decoding="async" height="35" loading="lazy" src="/images/thumb/%27Currency%27_The_Alchemist_chathead.png/25px-%27Currency%27_The_Alchemist_chathead.png?f66e4" srcset="/images/thumb/%27Currency%27_The_Alchemist_chathead.png/49px-%27Currency%27_The_Alchemist_chathead.png?f66e4 2x" width="25"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/%27Currency%27_The_Alchemist" title="'Currency' The Alchemist">
+             'Currency' The Alchemist
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span typeof="mw:File">
+              <a href="/w/%27Transmute%27_The_Alchemist" title="'Transmute' The Alchemist">
+               <img alt="Chathead image of 'Transmute' The Alchemist" class="mw-file-element" data-file-height="144" data-file-width="102" decoding="async" height="35" loading="lazy" src="/images/thumb/%27Transmute%27_The_Alchemist_chathead.png/25px-%27Transmute%27_The_Alchemist_chathead.png?11420" srcset="/images/thumb/%27Transmute%27_The_Alchemist_chathead.png/49px-%27Transmute%27_The_Alchemist_chathead.png?11420 2x" width="25"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/%27Transmute%27_The_Alchemist" title="'Transmute' The Alchemist">
+             'Transmute' The Alchemist
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span typeof="mw:File">
+              <a href="/w/Bonafido" title="Bonafido">
+               <img alt="Chathead image of Bonafido" class="mw-file-element" data-file-height="99" data-file-width="72" decoding="async" height="35" loading="lazy" src="/images/thumb/Bonafido_chathead.png/25px-Bonafido_chathead.png?0df15" srcset="/images/thumb/Bonafido_chathead.png/51px-Bonafido_chathead.png?0df15 2x" width="25"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Bonafido" title="Bonafido">
+             Bonafido
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span typeof="mw:File">
+              <a href="/w/%27Gummy%27" title="'Gummy'">
+               <img alt="Chathead image of 'Gummy'" class="mw-file-element" data-file-height="101" data-file-width="78" decoding="async" height="35" loading="lazy" src="/images/thumb/%27Gummy%27_chathead.png/27px-%27Gummy%27_chathead.png?d1016" srcset="/images/thumb/%27Gummy%27_chathead.png/54px-%27Gummy%27_chathead.png?d1016 2x" width="27"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/%27Gummy%27" title="'Gummy'">
+             'Gummy'
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span typeof="mw:File">
+              <a href="/w/%27The_Guns%27" title="'The Guns'">
+               <img alt="Chathead image of 'The Guns'" class="mw-file-element" data-file-height="107" data-file-width="78" decoding="async" height="35" loading="lazy" src="/images/thumb/%27The_Guns%27_chathead.png/25px-%27The_Guns%27_chathead.png?2a498" srcset="/images/thumb/%27The_Guns%27_chathead.png/51px-%27The_Guns%27_chathead.png?2a498 2x" width="25"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/%27The_Guns%27" title="'The Guns'">
+             'The Guns'
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span typeof="mw:File">
+              <a href="/w/%27Black-eye%27" title="'Black-eye'">
+               <img alt="Chathead image of 'Black-eye'" class="mw-file-element" data-file-height="101" data-file-width="78" decoding="async" height="35" loading="lazy" src="/images/thumb/%27Black-eye%27_chathead.png/27px-%27Black-eye%27_chathead.png?aa7b8" srcset="/images/thumb/%27Black-eye%27_chathead.png/54px-%27Black-eye%27_chathead.png?aa7b8 2x" width="27"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/%27Black-eye%27" title="'Black-eye'">
+             'Black-eye'
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span typeof="mw:File">
+              <a href="/w/%27No_fingers%27" title="'No fingers'">
+               <img alt="Chathead image of 'No fingers'" class="mw-file-element" data-file-height="102" data-file-width="78" decoding="async" height="35" loading="lazy" src="/images/thumb/%27No_fingers%27_chathead.png/27px-%27No_fingers%27_chathead.png?1b582" srcset="/images/thumb/%27No_fingers%27_chathead.png/53px-%27No_fingers%27_chathead.png?1b582 2x" width="27"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/%27No_fingers%27" title="'No fingers'">
+             'No fingers'
+            </a>
+           </li>
+           <li>
+            <span class="plink-template">
+             <span typeof="mw:File">
+              <a href="/w/Homunculus" title="Homunculus">
+               <img alt="Chathead image of Homunculus" class="mw-file-element" data-file-height="73" data-file-width="63" decoding="async" height="35" loading="lazy" src="/images/thumb/Homunculus_chathead.png/30px-Homunculus_chathead.png?71a29" srcset="/images/thumb/Homunculus_chathead.png/60px-Homunculus_chathead.png?71a29 2x" width="30"/>
+              </a>
+             </span>
+            </span>
+            <a href="/w/Homunculus" title="Homunculus">
+             Homunculus
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          Items
+         </th>
+         <td class="navbox-list navbox-parent" style="padding:0">
+          <table class="navbox-subgroup nowraplinks">
+           <tbody>
+            <tr class="navbox-group navbox-group-split">
+             <td class="navbox-group-title-hidden" colspan="0" style="display:none">
+             </td>
+             <td class="navbox-list" colspan="2">
+              <ul>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Valve_wheel" title="Valve wheel">
+                   <img class="mw-file-element" data-file-height="28" data-file-width="28" decoding="async" height="28" loading="lazy" src="/images/Valve_wheel.png?e3acf" width="28"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Valve_wheel" title="Valve wheel">
+                 Valve wheel
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Metal_sheet" title="Metal sheet">
+                   <img class="mw-file-element" data-file-height="29" data-file-width="30" decoding="async" height="29" loading="lazy" src="/images/Metal_sheet.png?92ebd" width="30"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Metal_sheet" title="Metal sheet">
+                 Metal sheet
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Coloured_ball" title="Coloured ball">
+                   <img class="mw-file-element" data-file-height="21" data-file-width="22" decoding="async" height="21" loading="lazy" src="/images/Coloured_ball.png?2aac1" width="22"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Coloured_ball" title="Coloured ball">
+                 Coloured ball
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Pipe_(Tower_of_Life)" title="Pipe (Tower of Life)">
+                   <img class="mw-file-element" data-file-height="22" data-file-width="25" decoding="async" height="22" loading="lazy" src="/images/Pipe_%28Tower_of_Life%29.png?64f1b" width="25"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Pipe_(Tower_of_Life)" title="Pipe (Tower of Life)">
+                 Pipe
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Pipe_ring" title="Pipe ring">
+                   <img class="mw-file-element" data-file-height="21" data-file-width="28" decoding="async" height="21" loading="lazy" src="/images/Pipe_ring.png?9345a" width="28"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Pipe_ring" title="Pipe ring">
+                 Pipe ring
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Rivets" title="Rivets">
+                   <img class="mw-file-element" data-file-height="22" data-file-width="29" decoding="async" height="22" loading="lazy" src="/images/Rivets_4.png?4d9b8" width="29"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Rivets" title="Rivets">
+                 Rivets
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Metal_bar" title="Metal bar">
+                   <img class="mw-file-element" data-file-height="14" data-file-width="28" decoding="async" height="14" loading="lazy" src="/images/Metal_bar.png?92ebd" width="28"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Metal_bar" title="Metal bar">
+                 Metal bar
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Binding_fluid" title="Binding fluid">
+                   <img class="mw-file-element" data-file-height="29" data-file-width="17" decoding="async" height="29" loading="lazy" src="/images/Binding_fluid.png?356fd" width="17"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Binding_fluid" title="Binding fluid">
+                 Binding fluid
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Triangle_sandwich" title="Triangle sandwich">
+                   <img class="mw-file-element" data-file-height="29" data-file-width="29" decoding="async" height="29" loading="lazy" src="/images/Triangle_sandwich.png?849c7" width="29"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Triangle_sandwich" title="Triangle sandwich">
+                 Triangle sandwich
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+            <tr class="navbox-group">
+             <th class="navbox-group-title">
+              <a href="/w/Builder%27s_costume" title="Builder's costume">
+               Builder's costume
+              </a>
+             </th>
+             <td class="navbox-list">
+              <ul>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Hard_hat" title="Hard hat">
+                   <img class="mw-file-element" data-file-height="21" data-file-width="25" decoding="async" height="21" loading="lazy" src="/images/Hard_hat.png?43cf2" width="25"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Hard_hat" title="Hard hat">
+                 Hard hat
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Builder%27s_trousers" title="Builder's trousers">
+                   <img class="mw-file-element" data-file-height="28" data-file-width="12" decoding="async" height="28" loading="lazy" src="/images/Builder%27s_trousers.png?c50c3" width="12"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Builder%27s_trousers" title="Builder's trousers">
+                 Builder's trousers
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Builder%27s_shirt" title="Builder's shirt">
+                   <img class="mw-file-element" data-file-height="22" data-file-width="30" decoding="async" height="22" loading="lazy" src="/images/Builder%27s_shirt.png?c50c3" width="30"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Builder%27s_shirt" title="Builder's shirt">
+                 Builder's shirt
+                </a>
+               </li>
+               <li>
+                <span class="plink-template">
+                 <span class="mw-default-size" typeof="mw:File">
+                  <a href="/w/Builder%27s_boots" title="Builder's boots">
+                   <img class="mw-file-element" data-file-height="31" data-file-width="28" decoding="async" height="31" loading="lazy" src="/images/Builder%27s_boots.png?c50c3" width="28"/>
+                  </a>
+                 </span>
+                </span>
+                <a href="/w/Builder%27s_boots" title="Builder's boots">
+                 Builder's boots
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          Locations and scenery
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Tower_of_Life_(building)" title="Tower of Life (building)">
+             Tower of Life
+            </a>
+           </li>
+           <li>
+            <a href="/w/Huge_vat" title="Huge vat">
+             Huge vat
+            </a>
+           </li>
+           <li>
+            <a href="/w/Pressure_machine" title="Pressure machine">
+             Pressure machine
+            </a>
+           </li>
+           <li>
+            <a href="/w/Pipe_machine" title="Pipe machine">
+             Pipe machine
+            </a>
+           </li>
+           <li>
+            <a href="/w/Cage_(Tower_of_Life)" title="Cage (Tower of Life)">
+             Cage
+            </a>
+           </li>
+           <li>
+            <a href="/w/Plant_(Tower_of_Life)" title="Plant (Tower of Life)">
+             Plant
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          Music
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Creature_Cruelty" title="Creature Cruelty">
+             Creature Cruelty
+            </a>
+           </li>
+           <li>
+            <a href="/w/Magic_Magic_Magic" title="Magic Magic Magic">
+             Magic Magic Magic
+            </a>
+           </li>
+           <li>
+            <a href="/w/Work_Work_Work" title="Work Work Work">
+             Work Work Work
+            </a>
+           </li>
+           <li>
+            <a href="/w/Mutant_Medley" title="Mutant Medley">
+             Mutant Medley
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          Related
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Tower_of_Life/Quick_guide" title="Tower of Life/Quick guide">
+             Quick guide
+            </a>
+           </li>
+           <li>
+            <a href="/w/Transcript:Tower_of_Life" title="Transcript:Tower of Life">
+             Transcript
+            </a>
+           </li>
+           <li>
+            <a class="mw-selflink selflink">
+             Creature Creation
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table class="navbox &lt;mw:editsection nowraplinks mw-collapsible mw-collapsed navbox-autocollapse" data-navbox-name="Activities">
+       <tbody>
+        <tr>
+         <th class="navbox-title" colspan="2">
+          <div style="float:left;text-align:left">
+           <div class="navbar plainlinks noprint navbar-mini" style="font-weight:normal;font-size:x-small;white-space:nowrap;">
+            <a href="/w/Template:Activities" title="Template:Activities">
+             <span style="" title="View this template">
+              v
+             </span>
+            </a>
+            <span style="font-size:80%">
+             •
+            </span>
+            <span class="autoconfirmed-show" style="display:none">
+             <a class="text" href="https://oldschool.runescape.wiki/w/Template_talk:Activities">
+              <span style="" title="Discussion about this template">
+               t
+              </span>
+             </a>
+             <span style="font-size:80%">
+              •
+             </span>
+            </span>
+            <a class="text" href="https://oldschool.runescape.wiki/w/Template:Activities?action=edit">
+             <span style="" title="Edit this template">
+              e
+             </span>
+            </a>
+           </div>
+          </div>
+          <div class="navbox-title-name">
+           Solo and Group Activities
+          </div>
+         </th>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <span class="scp" data-skill="Minigames" style="position:relative;display:inline-block;height:1em;">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Minigames" title="Minigames">
+             <img alt="Minigames" class="mw-file-element" data-file-height="21" data-file-width="21" decoding="async" height="21" loading="lazy" src="/images/Minigame_icon.png?e4ffe" width="21"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Minigames" title="Minigames">
+           Minigames
+          </a>
+         </th>
+         <td class="navbox-list navbox-parent" style="padding:0">
+          <table class="navbox-subgroup nowraplinks">
+           <tbody>
+            <tr class="navbox-group">
+             <th class="navbox-group-title">
+              Player versus Monster
+             </th>
+             <td class="navbox-list">
+              <ul>
+               <li>
+                <a href="/w/Barbarian_Assault" title="Barbarian Assault">
+                 Barbarian Assault
+                </a>
+               </li>
+               <li>
+                <a href="/w/Fortis_Colosseum" title="Fortis Colosseum">
+                 Fortis Colosseum
+                </a>
+               </li>
+               <li>
+                <a href="/w/Inferno" title="Inferno">
+                 Inferno
+                </a>
+               </li>
+               <li>
+                <a href="/w/Mage_Arena" title="Mage Arena">
+                 Mage Arena
+                </a>
+               </li>
+               <li>
+                <a href="/w/Nightmare_Zone" title="Nightmare Zone">
+                 Nightmare Zone
+                </a>
+               </li>
+               <li>
+                <a href="/w/Pest_Control" title="Pest Control">
+                 Pest Control
+                </a>
+               </li>
+               <li>
+                <a href="/w/Tackle_organised_crime" title="Tackle organised crime">
+                 Tackle organised crime
+                </a>
+               </li>
+               <li>
+                <a href="/w/Temple_Trekking" title="Temple Trekking">
+                 Temple Trekking
+                </a>
+               </li>
+               <li>
+                <a href="/w/TzHaar_Fight_Cave" title="TzHaar Fight Cave">
+                 TzHaar Fight Cave
+                </a>
+               </li>
+               <li>
+                <a href="/w/TzHaar-Ket-Rak%27s_Challenges" title="TzHaar-Ket-Rak's Challenges">
+                 TzHaar-Ket-Rak's Challenges
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+            <tr class="navbox-group">
+             <th class="navbox-group-title">
+              Player versus Player
+             </th>
+             <td class="navbox-list">
+              <ul>
+               <li>
+                <a href="/w/Bounty_Hunter" title="Bounty Hunter">
+                 Bounty Hunter
+                </a>
+               </li>
+               <li>
+                <a href="/w/Castle_Wars" title="Castle Wars">
+                 Castle Wars
+                </a>
+               </li>
+               <li>
+                <a href="/w/Clan_Wars" title="Clan Wars">
+                 Clan Wars
+                </a>
+               </li>
+               <li>
+                <a href="/w/Emir%27s_Arena" title="Emir's Arena">
+                 Emir's Arena
+                </a>
+               </li>
+               <li>
+                <a href="/w/Soul_Wars" title="Soul Wars">
+                 Soul Wars
+                </a>
+               </li>
+               <li>
+                <a href="/w/TzHaar_Fight_Pit" title="TzHaar Fight Pit">
+                 TzHaar Fight Pit
+                </a>
+               </li>
+               <li>
+                <a href="/w/Last_Man_Standing" title="Last Man Standing">
+                 Last Man Standing
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+            <tr class="navbox-group">
+             <th class="navbox-group-title">
+              Skilling
+             </th>
+             <td class="navbox-list">
+              <ul>
+               <li>
+                <a href="/w/Brimhaven_Agility_Arena" title="Brimhaven Agility Arena">
+                 Brimhaven Agility Arena
+                </a>
+               </li>
+               <li>
+                <a href="/w/Fishing_Trawler" title="Fishing Trawler">
+                 Fishing Trawler
+                </a>
+               </li>
+               <li>
+                <a href="/w/Forestry" title="Forestry">
+                 Forestry
+                </a>
+               </li>
+               <li>
+                <a href="/w/Giants%27_Foundry" title="Giants' Foundry">
+                 Giants' Foundry
+                </a>
+               </li>
+               <li>
+                <a href="/w/Gnome_Ball" title="Gnome Ball">
+                 Gnome Ball
+                </a>
+               </li>
+               <li>
+                <a href="/w/Gnome_Restaurant" title="Gnome Restaurant">
+                 Gnome Restaurant
+                </a>
+               </li>
+               <li>
+                <a href="/w/Guardians_of_the_Rift" title="Guardians of the Rift">
+                 Guardians of the Rift
+                </a>
+               </li>
+               <li>
+                <a href="/w/Hallowed_Sepulchre" title="Hallowed Sepulchre">
+                 Hallowed Sepulchre
+                </a>
+               </li>
+               <li>
+                <a href="/w/Impetuous_Impulses" title="Impetuous Impulses">
+                 Impetuous Impulses
+                </a>
+               </li>
+               <li>
+                <a href="/w/Mage_Training_Arena" title="Mage Training Arena">
+                 Mage Training Arena
+                </a>
+               </li>
+               <li>
+                <a href="/w/Mahogany_Homes" title="Mahogany Homes">
+                 Mahogany Homes
+                </a>
+               </li>
+               <li>
+                <a href="/w/Mastering_Mixology" title="Mastering Mixology">
+                 Mastering Mixology
+                </a>
+               </li>
+               <li>
+                <a href="/w/Pyramid_Plunder" title="Pyramid Plunder">
+                 Pyramid Plunder
+                </a>
+               </li>
+               <li>
+                <a href="/w/Ranging_Guild#Minigame" title="Ranging Guild">
+                 Ranging Guild
+                </a>
+               </li>
+               <li>
+                <a href="/w/Rogues%27_Den" title="Rogues' Den">
+                 Rogues' Den
+                </a>
+               </li>
+               <li>
+                <a href="/w/Sorceress%27s_Garden" title="Sorceress's Garden">
+                 Sorceress's Garden
+                </a>
+               </li>
+               <li>
+                <a href="/w/Stealing_artefacts" title="Stealing artefacts">
+                 Stealing artefacts
+                </a>
+               </li>
+               <li>
+                <a href="/w/Mess" title="Mess">
+                 The Mess
+                </a>
+               </li>
+               <li>
+                <a href="/w/Tithe_Farm" title="Tithe Farm">
+                 Tithe Farm
+                </a>
+               </li>
+               <li>
+                <a href="/w/Trouble_Brewing" title="Trouble Brewing">
+                 Trouble Brewing
+                </a>
+               </li>
+               <li>
+                <a href="/w/Volcanic_Mine" title="Volcanic Mine">
+                 Volcanic Mine
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+            <tr class="navbox-group">
+             <th class="navbox-group-title">
+              Combat &amp; Skilling
+             </th>
+             <td class="navbox-list">
+              <ul>
+               <li>
+                <a href="/w/Shades_of_Mort%27ton_(minigame)" title="Shades of Mort'ton (minigame)">
+                 Shades of Mort'ton
+                </a>
+               </li>
+               <li>
+                <a href="/w/Tai_Bwo_Wannai_Cleanup" title="Tai Bwo Wannai Cleanup">
+                 Tai Bwo Wannai Cleanup
+                </a>
+               </li>
+               <li>
+                <a href="/w/The_Gauntlet" title="The Gauntlet">
+                 The Gauntlet
+                </a>
+               </li>
+               <li>
+                <a href="/w/Warriors%27_Guild" title="Warriors' Guild">
+                 Warriors' Guild
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+            <tr class="navbox-group">
+             <th class="navbox-group-title">
+              Miscellaneous
+             </th>
+             <td class="navbox-list">
+              <ul>
+               <li>
+                <a href="/w/Burthorpe_Games_Room" title="Burthorpe Games Room">
+                 Burthorpe Games Room
+                </a>
+                (
+                <a href="/w/Games_Zone" title="Games Zone">
+                 Games Zone
+                </a>
+                )
+               </li>
+               <li>
+                <a href="/w/Rat_Pits" title="Rat Pits">
+                 Rat Pits
+                </a>
+               </li>
+               <li>
+                <a href="/w/Tears_of_Guthix_(minigame)" title="Tears of Guthix (minigame)">
+                 Tears of Guthix
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <span class="scp" data-skill="Raids" style="position:relative;display:inline-block;height:1em;">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Raids" title="Raids">
+             <img alt="Raids" class="mw-file-element" data-file-height="21" data-file-width="21" decoding="async" height="21" loading="lazy" src="/images/Raids_icon.png?fe7c4" width="21"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Raids" title="Raids">
+           Raids
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Chambers_of_Xeric" title="Chambers of Xeric">
+             Chambers of Xeric
+            </a>
+           </li>
+           <li>
+            <a href="/w/Theatre_of_Blood" title="Theatre of Blood">
+             Theatre of Blood
+            </a>
+           </li>
+           <li>
+            <a href="/w/Tombs_of_Amascut" title="Tombs of Amascut">
+             Tombs of Amascut
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <span class="scp" data-skill="Distractions and Diversions" style="position:relative;display:inline-block;height:1em;">
+           <span class="mw-default-size" typeof="mw:File">
+            <a href="/w/Distractions_and_Diversions" title="Distractions and Diversions">
+             <img alt="Distractions and Diversions" class="mw-file-element" data-file-height="21" data-file-width="21" decoding="async" height="21" loading="lazy" src="/images/Distraction_%26_Diversion_icon.png?8b333" width="21"/>
+            </a>
+           </span>
+          </span>
+          <a href="/w/Distractions_and_Diversions" title="Distractions and Diversions">
+           Distractions and Diversions
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Champions%27_Challenge" title="Champions' Challenge">
+             Champions' Challenge
+            </a>
+           </li>
+           <li>
+            <a href="/w/Shooting_Stars" title="Shooting Stars">
+             Shooting Stars
+            </a>
+           </li>
+           <li>
+            <a href="/w/Treasure_Trails" title="Treasure Trails">
+             Treasure Trails
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          Other
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Blast_mine" title="Blast mine">
+             Blast mine
+            </a>
+           </li>
+           <li>
+            <a href="/w/Camdozaal_Vault" title="Camdozaal Vault">
+             Camdozaal Vault
+            </a>
+           </li>
+           <li>
+            <a href="/w/Chompy_bird_hunting" title="Chompy bird hunting">
+             Chompy bird hunting
+            </a>
+           </li>
+           <li>
+            <a class="mw-selflink selflink">
+             Creature Creation
+            </a>
+           </li>
+           <li>
+            <a href="/w/Dorgesh-Kaan_market_trading" title="Dorgesh-Kaan market trading">
+             Dorgesh-Kaan market trading
+            </a>
+           </li>
+           <li>
+            <a href="/w/Keldagrim_tasks" title="Keldagrim tasks">
+             Keldagrim tasks
+            </a>
+           </li>
+           <li>
+            <a href="/w/Managing_Miscellania" title="Managing Miscellania">
+             Managing Miscellania
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/w/Shayzien_Combat_Ring" title="Shayzien Combat Ring">
+             Shayzien Combat Ring
+            </a>
+           </li>
+           <li>
+            <a href="/w/Stealing_valuables" title="Stealing valuables">
+             Stealing valuables
+            </a>
+           </li>
+           <li>
+            <a href="/w/Underwater_Agility_and_Thieving" title="Underwater Agility and Thieving">
+             Underwater Agility and Thieving
+            </a>
+           </li>
+           <li>
+            <a href="/w/Wise_Old_Man_tasks" title="Wise Old Man tasks">
+             Wise Old Man tasks
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table class="navbox &lt;mw:editsection nowraplinks mw-collapsible mw-collapsed navbox-autocollapse" data-navbox-name="Dungeons">
+       <tbody>
+        <tr>
+         <th class="navbox-title" colspan="2">
+          <div style="float:left;text-align:left">
+           <div class="navbar plainlinks noprint navbar-mini" style="font-weight:normal;font-size:x-small;white-space:nowrap;">
+            <a href="/w/Template:Dungeons" title="Template:Dungeons">
+             <span style="" title="View this template">
+              v
+             </span>
+            </a>
+            <span style="font-size:80%">
+             •
+            </span>
+            <span class="autoconfirmed-show" style="display:none">
+             <a class="text" href="https://oldschool.runescape.wiki/w/Template_talk:Dungeons">
+              <span style="" title="Discussion about this template">
+               t
+              </span>
+             </a>
+             <span style="font-size:80%">
+              •
+             </span>
+            </span>
+            <a class="text" href="https://oldschool.runescape.wiki/w/Template:Dungeons?action=edit">
+             <span style="" title="Edit this template">
+              e
+             </span>
+            </a>
+           </div>
+          </div>
+          <div class="navbox-title-name">
+           <a class="mw-redirect" href="/w/Dungeons" title="Dungeons">
+            Dungeons
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Asgarnia" title="Asgarnia">
+           Asgarnia
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Asgarnian_Ice_Dungeon" title="Asgarnian Ice Dungeon">
+             Asgarnian Ice Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Dwarven_Mine" title="Dwarven Mine">
+             Dwarven Mine
+            </a>
+           </li>
+           <li>
+            <a href="/w/Mole_Hole" title="Mole Hole">
+             Mole Hole
+            </a>
+           </li>
+           <li>
+            <a href="/w/Ice_Queen%27s_Lair" title="Ice Queen's Lair">
+             Ice Queen's Lair
+            </a>
+           </li>
+           <li>
+            <a href="/w/Melzar%27s_Maze" title="Melzar's Maze">
+             Melzar's Maze
+            </a>
+           </li>
+           <li>
+            <a href="/w/Mouse_hole" title="Mouse hole">
+             Mouse hole
+            </a>
+           </li>
+           <li>
+            <a href="/w/Scrubfoot%27s_cave" title="Scrubfoot's cave">
+             Scrubfoot's cave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Taverley_Dungeon" title="Taverley Dungeon">
+             Taverley Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Crypt_(White_Knights%27_Castle)" title="Crypt (White Knights' Castle)">
+             White Knights' Castle Crypt
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Feldip_Hills" title="Feldip Hills">
+           Feldip Hills
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Corsair_Cove_Dungeon" title="Corsair Cove Dungeon">
+             Corsair Cove Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Jiggig" title="Jiggig">
+             Jiggig Burial Tomb
+            </a>
+           </li>
+           <li>
+            <a href="/w/Ogre_Enclave" title="Ogre Enclave">
+             Ogre Enclave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Red_chinchompa_hunting_ground" title="Red chinchompa hunting ground">
+             Red chinchompa hunting ground
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Fremennik_Province" title="Fremennik Province">
+           Fremennik Province
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Brine_Rat_Cavern" title="Brine Rat Cavern">
+             Brine Rat Cavern
+            </a>
+           </li>
+           <li>
+            <a href="/w/Fremennik_Slayer_Dungeon" title="Fremennik Slayer Dungeon">
+             Fremennik Slayer Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Jatizso_mine" title="Jatizso mine">
+             Jatizso mine
+            </a>
+           </li>
+           <li>
+            <a href="/w/Jormungand%27s_Prison" title="Jormungand's Prison">
+             Jormungand's Prison
+            </a>
+           </li>
+           <li>
+            <a href="/w/Lighthouse" title="Lighthouse">
+             Lighthouse
+            </a>
+           </li>
+           <li>
+            <a href="/w/Lunar_Isle_mine" title="Lunar Isle mine">
+             Lunar Isle mine
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/w/Miscellania_and_Etceteria_Dungeon" title="Miscellania and Etceteria Dungeon">
+             Miscellania &amp; Etceteria Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Waterbirth_Island_Dungeon" title="Waterbirth Island Dungeon">
+             Waterbirth Island Dungeon
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Great_Kourend" title="Great Kourend">
+           Great Kourend
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Catacombs_of_Kourend" title="Catacombs of Kourend">
+             Catacombs of Kourend
+            </a>
+           </li>
+           <li>
+            <a href="/w/Chasm_of_Fire" title="Chasm of Fire">
+             Chasm of Fire
+            </a>
+           </li>
+           <li>
+            <a href="/w/Crabclaw_Caves" title="Crabclaw Caves">
+             Crabclaw Caves
+            </a>
+           </li>
+           <li>
+            <a href="/w/Forthos_Dungeon" title="Forthos Dungeon">
+             Forthos Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Giants%27_Den" title="Giants' Den">
+             Giants' Den
+            </a>
+           </li>
+           <li>
+            <a href="/w/Shayzien_Crypts" title="Shayzien Crypts">
+             Shayzien Crypts
+            </a>
+           </li>
+           <li>
+            <a href="/w/The_Warrens" title="The Warrens">
+             The Warrens
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Kandarin" title="Kandarin">
+           Kandarin
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Ancient_Cavern" title="Ancient Cavern">
+             Ancient Cavern
+            </a>
+           </li>
+           <li>
+            <a href="/w/Ardougne_Sewers" title="Ardougne Sewers">
+             Ardougne Sewers
+            </a>
+           </li>
+           <li>
+            <a href="/w/Brimstail%27s_cave" title="Brimstail's cave">
+             Brimstail's cave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Chaos_Druid_Tower" title="Chaos Druid Tower">
+             Chaos Druid Tower Dungeon
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/w/Clock_Tower_Dungeon" title="Clock Tower Dungeon">
+             Clock Tower Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Crash_Site_Cavern" title="Crash Site Cavern">
+             Crash Site Cavern
+            </a>
+           </li>
+           <li>
+            <a href="/w/Eagles%27_Peak_Dungeon" title="Eagles' Peak Dungeon">
+             Eagles' Peak Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Elemental_Workshop_(location)" title="Elemental Workshop (location)">
+             Elemental Workshop
+            </a>
+           </li>
+           <li>
+            <a href="/w/Glarial%27s_Tomb" title="Glarial's Tomb">
+             Glarial's Tomb
+            </a>
+           </li>
+           <li>
+            <a href="/w/Goblin_Cave" title="Goblin Cave">
+             Goblin Cave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Grand_Tree_Tunnels" title="Grand Tree Tunnels">
+             Grand Tree Tunnels
+            </a>
+           </li>
+           <li>
+            <a href="/w/Kraken_Cove" title="Kraken Cove">
+             Kraken Cove
+            </a>
+           </li>
+           <li>
+            <a href="/w/Mogre_Camp" title="Mogre Camp">
+             Mogre Camp
+            </a>
+            (
+            <a href="/w/Port_Khazard" title="Port Khazard">
+             Port Khazard
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/w/Mourner_Tunnels" title="Mourner Tunnels">
+             Mourner Tunnels
+            </a>
+           </li>
+           <li>
+            <a href="/w/Observatory_Dungeon" title="Observatory Dungeon">
+             Observatory Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Ourania_Cave" title="Ourania Cave">
+             Ourania Cave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Shadow_Dungeon" title="Shadow Dungeon">
+             Shadow Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Smoke_Devil_Dungeon" title="Smoke Devil Dungeon">
+             Smoke Devil Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Stronghold_Slayer_Cave" title="Stronghold Slayer Cave">
+             Stronghold Slayer Cave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Temple_of_Ikov_(dungeon)" title="Temple of Ikov (dungeon)">
+             Temple of Ikov
+            </a>
+           </li>
+           <li>
+            <a class="mw-selflink selflink">
+             Tower of Life Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Tree_Gnome_Village_Dungeon" title="Tree Gnome Village Dungeon">
+             Tree Gnome Village Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Underground_Pass_(dungeon)" title="Underground Pass (dungeon)">
+             Underground Pass
+            </a>
+           </li>
+           <li>
+            <a href="/w/Waterfall_Dungeon" title="Waterfall Dungeon">
+             Waterfall Dungeon
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/w/White_Wolf_Mountain_Caves" title="White Wolf Mountain Caves">
+             White Wolf Mountain Caves
+            </a>
+           </li>
+           <li>
+            <a href="/w/Witchaven_Dungeon" title="Witchaven Dungeon">
+             Witchaven Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Yanille_Agility_Dungeon" title="Yanille Agility Dungeon">
+             Yanille Agility Dungeon
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Karamja" title="Karamja">
+           Karamja
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Ah_Za_Rhoon" title="Ah Za Rhoon">
+             Ah Za Rhoon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Brimhaven_Dungeon" title="Brimhaven Dungeon">
+             Brimhaven Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Crandor_and_Karamja_Dungeon" title="Crandor and Karamja Dungeon">
+             Crandor and Karamja Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Karamjan_Temple" title="Karamjan Temple">
+             Karamjan Temple
+            </a>
+           </li>
+           <li>
+            <a href="/w/Kharazi_Dungeon" title="Kharazi Dungeon">
+             Kharazi Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Pothole_Dungeon" title="Pothole Dungeon">
+             Pothole Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Rashiliyia%27s_Tomb" title="Rashiliyia's Tomb">
+             Rashiliyia's Tomb
+            </a>
+           </li>
+           <li>
+            <a href="/w/Tomb_of_Bervirius" title="Tomb of Bervirius">
+             Tomb of Bervirius
+            </a>
+           </li>
+           <li>
+            <a href="/w/Shaman_Caves" title="Shaman Caves">
+             Shaman Caves
+            </a>
+           </li>
+           <li>
+            <a href="/w/Viyeldi_caves" title="Viyeldi caves">
+             Viyeldi caves
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Kebos_Lowlands" title="Kebos Lowlands">
+           Kebos Lowlands
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Chambers_of_Xeric" title="Chambers of Xeric">
+             Chambers of Xeric
+            </a>
+           </li>
+           <li>
+            <a href="/w/Karuulm_Slayer_Dungeon" title="Karuulm Slayer Dungeon">
+             Karuulm Slayer Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Lizardman_Caves" title="Lizardman Caves">
+             Lizardman Caves
+            </a>
+           </li>
+           <li>
+            <a href="/w/Lizardman_Temple" title="Lizardman Temple">
+             Lizardman Temple
+            </a>
+           </li>
+           <li>
+            <a href="/w/Quidamortem_Cave" title="Quidamortem Cave">
+             Quidamortem Cave
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Kharidian_Desert" title="Kharidian Desert">
+           Kharidian Desert
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Enakhra%27s_Temple" title="Enakhra's Temple">
+             Enakhra's Temple
+            </a>
+           </li>
+           <li>
+            <a href="/w/Kalphite_Cave" title="Kalphite Cave">
+             Kalphite Cave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Kalphite_Lair" title="Kalphite Lair">
+             Kalphite Lair
+            </a>
+           </li>
+           <li>
+            <a href="/w/Scabaras_Dungeon" title="Scabaras Dungeon">
+             Scabaras Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Smoke_Dungeon" title="Smoke Dungeon">
+             Smoke Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Sophanem_Dungeon" title="Sophanem Dungeon">
+             Sophanem Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Water_Ravine_Dungeon" title="Water Ravine Dungeon">
+             Water Ravine Dungeon
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Misthalin" title="Misthalin">
+           Misthalin
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Digsite_Dungeon" title="Digsite Dungeon">
+             Digsite Dungeon
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/w/Dorgeshuun_Mines" title="Dorgeshuun Mines">
+             Dorgeshuun Mines
+            </a>
+           </li>
+           <li>
+            <a href="/w/Dorgesh-Kaan_mine" title="Dorgesh-Kaan mine">
+             Dorgesh-Kaan mine
+            </a>
+           </li>
+           <li>
+            <a href="/w/Draynor_Sewers" title="Draynor Sewers">
+             Draynor Sewers
+            </a>
+           </li>
+           <li>
+            <a href="/w/Tolna%27s_rift" title="Tolna's rift">
+             Tolna's rift
+            </a>
+           </li>
+           <li>
+            <a href="/w/Edgeville_Dungeon" title="Edgeville Dungeon">
+             Edgeville Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/H.A.M._Hideout" title="H.A.M. Hideout">
+             H.A.M. Hideout
+            </a>
+           </li>
+           <li>
+            <a href="/w/Lumbridge_Swamp_Caves" title="Lumbridge Swamp Caves">
+             Lumbridge Swamp Caves
+            </a>
+           </li>
+           <li>
+            <a href="/w/Paterdomus_Temple" title="Paterdomus Temple">
+             Paterdomus Temple
+            </a>
+           </li>
+           <li>
+            <a href="/w/Sourhog_Cave" title="Sourhog Cave">
+             Sourhog Cave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Stronghold_of_Security" title="Stronghold of Security">
+             Stronghold of Security
+            </a>
+           </li>
+           <li>
+            <a href="/w/Tunnel_of_Chaos" title="Tunnel of Chaos">
+             Tunnel of Chaos
+            </a>
+           </li>
+           <li>
+            <a href="/w/Varrock_Sewers" title="Varrock Sewers">
+             Varrock Sewers
+            </a>
+           </li>
+           <li>
+            <a href="/w/Water_mill_cellar" title="Water mill cellar">
+             Water mill cellar
+            </a>
+           </li>
+           <li>
+            <a href="/w/Wyvern_Cave" title="Wyvern Cave">
+             Wyvern Cave
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Morytania" title="Morytania">
+           Morytania
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Abandoned_Mine" title="Abandoned Mine">
+             Abandoned Mine
+            </a>
+           </li>
+           <li>
+            <a href="/w/Barrows" title="Barrows">
+             Barrows
+            </a>
+           </li>
+           <li>
+            <a href="/w/Experiment_cave" title="Experiment cave">
+             Experiment cave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Meiyerditch_Laboratories" title="Meiyerditch Laboratories">
+             Meiyerditch Laboratories
+            </a>
+           </li>
+           <li>
+            <a href="/w/Morytania_Spider_Cave" title="Morytania Spider Cave">
+             Morytania Spider Cave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Shade_Catacombs" title="Shade Catacombs">
+             Shade Catacombs
+            </a>
+           </li>
+           <li>
+            <a href="/w/Sisterhood_Sanctuary" title="Sisterhood Sanctuary">
+             Sisterhood Sanctuary
+            </a>
+           </li>
+           <li>
+            <a href="/w/Slayer_Tower" title="Slayer Tower">
+             Slayer Tower
+            </a>
+           </li>
+           <li>
+            <a href="/w/Tarn%27s_Lair" title="Tarn's Lair">
+             Tarn's Lair
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Varlamore" title="Varlamore">
+           Varlamore
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Neypotzli" title="Neypotzli">
+             Neypotzli
+            </a>
+           </li>
+           <li>
+            <a href="/w/Ruins_of_Tapoyauik" title="Ruins of Tapoyauik">
+             Ruins of Tapoyauik
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          <a href="/w/Wilderness" title="Wilderness">
+           Wilderness
+          </a>
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Deep_Wilderness_Dungeon" title="Deep Wilderness Dungeon">
+             Deep Wilderness Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Escape_Caves" title="Escape Caves">
+             Escape Caves
+            </a>
+           </li>
+           <li>
+            <a href="/w/Ferox_Enclave_Dungeon" title="Ferox Enclave Dungeon">
+             Ferox Enclave Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/King_Black_Dragon_Lair" title="King Black Dragon Lair">
+             King Black Dragon Lair
+            </a>
+           </li>
+           <li>
+            <a href="/w/Lava_Maze_Dungeon" title="Lava Maze Dungeon">
+             Lava Maze Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Revenant_Caves" title="Revenant Caves">
+             Revenant Caves
+            </a>
+           </li>
+           <li>
+            <a href="/w/Wilderness_Agility_Course_Dungeon" title="Wilderness Agility Course Dungeon">
+             Wilderness Agility Course Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Wilderness_God_Wars_Dungeon" title="Wilderness God Wars Dungeon">
+             Wilderness God Wars Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Wilderness_Slayer_Cave" title="Wilderness Slayer Cave">
+             Wilderness Slayer Cave
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr class="navbox-group">
+         <th class="navbox-group-title">
+          Others
+         </th>
+         <td class="navbox-list">
+          <ul>
+           <li>
+            <a href="/w/Ape_Atoll_Dungeon" title="Ape Atoll Dungeon">
+             Ape Atoll Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Crash_Island_Dungeon" title="Crash Island Dungeon">
+             Crash Island Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Dorgesh-Kaan_South_Dungeon" title="Dorgesh-Kaan South Dungeon">
+             Dorgesh-Kaan South Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Dungeon_(Construction)" title="Dungeon (Construction)">
+             Dungeon (player-owned house)
+            </a>
+           </li>
+           <li>
+            <a href="/w/Elven_rabbit_cave" title="Elven rabbit cave">
+             Elven rabbit cave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Entrana_Dungeon" title="Entrana Dungeon">
+             Entrana Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Evil_Chicken%27s_Lair" title="Evil Chicken's Lair">
+             Evil Chicken's Lair
+            </a>
+           </li>
+           <li>
+            <a href="/w/God_Wars_Dungeon" title="God Wars Dungeon">
+             God Wars Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Ghorrock_Dungeon" title="Ghorrock Dungeon">
+             Ghorrock Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Kruk%27s_Dungeon" title="Kruk's Dungeon">
+             Kruk's Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Iorwerth_Dungeon" title="Iorwerth Dungeon">
+             Iorwerth Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Isle_of_Souls_Dungeon" title="Isle of Souls Dungeon">
+             Isle of Souls Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Lithkren_Vault" title="Lithkren Vault">
+             Lithkren Vault
+            </a>
+           </li>
+           <li>
+            <a href="/w/Mos_Le%27Harmless_Cave" title="Mos Le'Harmless Cave">
+             Mos Le'Harmless Cave
+            </a>
+           </li>
+           <li>
+            <a href="/w/Poison_Waste_Dungeon" title="Poison Waste Dungeon">
+             Poison Waste Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Temple_of_Marimbo_Dungeon" title="Temple of Marimbo Dungeon">
+             Temple of Marimbo Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Trollweiss_Dungeon" title="Trollweiss Dungeon">
+             Trollweiss Dungeon
+            </a>
+           </li>
+           <li>
+            <a href="/w/Tutorial_Island_mine" title="Tutorial Island mine">
+             Tutorial Island mine
+            </a>
+           </li>
+           <li>
+            <a href="/w/Underwater_Tunnel" title="Underwater Tunnel">
+             Underwater Tunnel
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <!-- 
+NewPP limit report
+Parsed by mediawiki‐jobrunner‐7f9df7cfd9‐pwc7x
+Cached time: 20250415091330
+Cache expiry: 172800
+Reduced expiry: false
+Complications: [show‐toc]
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.517 seconds
+Real time usage: 1.451 seconds
+Preprocessor visited node count: 1504/1000000
+Post‐expand include size: 70509/8388608 bytes
+Template argument size: 3793/8388608 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2036/5000000 bytes
+Lua time usage: 0.141/10.000 seconds
+Lua memory usage: 2697681/367001600 bytes
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  854.203      1 -total
+ 51.71%  441.693      6 Template:Coins
+ 40.95%  349.760      6 Template:Average_drop_value
+ 13.58%  115.987      1 Template:External
+ 13.05%  111.482      6 Template:Navbox
+  5.63%   48.113      1 Template:Tower_of_Life
+  5.63%   48.087      7 Template:GEP
+  5.43%   46.389      1 Template:Minigames
+  3.59%   30.661      1 Template:Creature_Creation
+  3.59%   30.654      1 Template:Dungeons
+-->
+      <!-- Saved in parser cache with key en_osrswiki:pcache:idhash:21599-0!canonical and timestamp 20250415091329 and revision id 14835413. Rendering was triggered because: edit-page
+ -->
+     </div>
+     <div class="printfooter" data-nosnippet="">
+      Retrieved from "
+      <a dir="ltr" href="https://oldschool.runescape.wiki/w/Creature_Creation?oldid=14835413">
+       https://oldschool.runescape.wiki/w/Creature_Creation?oldid=14835413
+      </a>
+      "
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/w/Special:Categories" title="Special:Categories">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/w/Category:Tower_of_Life" title="Category:Tower of Life">
+         Tower of Life
+        </a>
+       </li>
+       <li>
+        <a href="/w/Category:Dungeons" title="Category:Dungeons">
+         Dungeons
+        </a>
+       </li>
+       <li>
+        <a href="/w/Category:Quest_locations" title="Category:Quest locations">
+         Quest locations
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" id="p-personal" role="navigation">
+     <h3 class="vector-menu-heading" id="p-personal-label">
+      <span class="vector-menu-heading-label">
+       Personal tools
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        <span title="The user page for the IP address you are editing as">
+         Not logged in
+        </span>
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/w/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+         <span>
+          Talk
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/w/Special:MyContributions" title="A list of edits made from this IP address [y]">
+         <span>
+          Contributions
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/Special:CreateAccount?returnto=Creature+Creation" title="You are encouraged to create an account and log in; however, it is not mandatory">
+         <span>
+          Create account
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/Special:UserLogin?returnto=Creature+Creation" title="You are encouraged to log in; however, it is not mandatory [o]">
+         <span>
+          Log in
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" id="p-namespaces" role="navigation">
+      <h3 class="vector-menu-heading" id="p-namespaces-label">
+       <span class="vector-menu-heading-label">
+        Namespaces
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/w/Creature_Creation" title="View the content page [c]">
+          <span>
+           Article
+          </span>
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/w/Talk:Creature_Creation" rel="discussion" title="Discussion about the content page [t]">
+          <span>
+           Discussion
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <label class="vector-menu-heading" id="p-variants-label">
+       <span class="vector-menu-heading-label">
+        British English
+       </span>
+      </label>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" id="p-views" role="navigation">
+      <h3 class="vector-menu-heading" id="p-views-label">
+       <span class="vector-menu-heading-label">
+        Views
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/w/Creature_Creation">
+          <span>
+           Read
+          </span>
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-ve-edit">
+         <a accesskey="v" href="/w/Creature_Creation?veaction=edit" title="Edit this page [v]">
+          <span>
+           Edit
+          </span>
+         </a>
+        </li>
+        <li class="collapsible mw-list-item" id="ca-edit">
+         <a accesskey="e" href="/w/Creature_Creation?action=edit" title="Edit the source code of this page [e]">
+          <span>
+           Edit source
+          </span>
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/Creature_Creation?action=history" title="Past revisions of this page [h]">
+          <span>
+           History
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="vector-menu mw-portlet mw-portlet-cactions vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <label class="vector-menu-heading" id="p-cactions-label">
+       <span class="vector-menu-heading-label">
+        More
+       </span>
+      </label>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="is-disabled mw-list-item" id="ca-purge">
+         <a href="/w/Creature_Creation?action=purge">
+          <span>
+           Refresh
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+      <div class="vector-typeahead-search-container">
+       <div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+        <form action="/" class="cdx-search-input cdx-search-input--has-end-button" id="searchform">
+         <div class="cdx-search-input__input-wrapper" data-search-loc="header-navigation" id="simpleSearch">
+          <div class="cdx-text-input cdx-text-input--has-start-icon">
+           <input accesskey="f" aria-label="Search the OSRS Wiki" autocapitalize="sentences" class="cdx-text-input__input" id="searchInput" name="search" placeholder="Search the OSRS Wiki" title="Search the wiki [f]" type="search"/>
+           <span class="cdx-text-input__icon cdx-text-input__start-icon">
+           </span>
+          </div>
+          <input name="title" type="hidden" value="Special:Search"/>
+         </div>
+         <button class="cdx-button cdx-search-input__end-button">
+          Search
+         </button>
+        </form>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="vector-legacy-sidebar" id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/" title="Visit the main page">
+     </a>
+    </div>
+    <nav aria-labelledby="p-Discord-label" class="vector-menu mw-portlet mw-portlet-Discord vector-menu-portal portal" id="p-Discord" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Discord-label">
+      <span class="vector-menu-heading-label">
+       Discord
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-Discord">
+        <a href="https://discord.gg/96a5V2EGh2" rel="nofollow" target="_blank">
+         <span>
+          Discord
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Navigation-label" class="vector-menu mw-portlet mw-portlet-Navigation vector-menu-portal portal" id="p-Navigation" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Navigation-label">
+      <span class="vector-menu-heading-label">
+       Navigation
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-Main-page">
+        <a href="/">
+         <span>
+          Main page
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-About-us">
+        <a href="/w/RuneScape:About">
+         <span>
+          About us
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Random-page">
+        <a href="/w/Special:Random/main">
+         <span>
+          Random page
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Contact-us">
+        <a href="/w/RuneScape:Contact_us">
+         <span>
+          Contact us
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Donate">
+        <a href="https://patreon.com/runescapewiki" rel="nofollow" target="_blank">
+         <span>
+          Donate
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Recent_changes-label" class="vector-menu mw-portlet mw-portlet-Recent_changes emptyPortlet vector-menu-portal portal" id="p-Recent_changes" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Recent_changes-label">
+      <span class="vector-menu-heading-label">
+       Recent changes
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+      </ul>
+     </div>
+     <div class="rc-sidebar-item">
+      <a class="rc-sidebar-page" href="/w/Calvar'ion%2FStrategies">
+       Calvar'ion/Strategies
+      </a>
+      <p class="rc-sidebar-user">
+       <a href="/?diff=14884765">
+        10m
+        <span class="rc-sidebar-ago">
+         ago
+        </span>
+       </a>
+       -
+       <a href="/w/Special:Contributions/Wroometh">
+        Wroometh
+       </a>
+      </p>
+     </div>
+     <div class="rc-sidebar-item">
+      <a class="rc-sidebar-page" href="/w/Palm">
+       Palm
+      </a>
+      <p class="rc-sidebar-user">
+       <a href="/?diff=14884762">
+        17m
+        <span class="rc-sidebar-ago">
+         ago
+        </span>
+       </a>
+       -
+       <a href="/w/Special:Contributions/Crabby">
+        Crabby
+       </a>
+      </p>
+     </div>
+     <div class="rc-sidebar-item">
+      <a class="rc-sidebar-page" href="/w/Arclight">
+       Arclight
+      </a>
+      <p class="rc-sidebar-user">
+       <a href="/?diff=14884760">
+        22m
+        <span class="rc-sidebar-ago">
+         ago
+        </span>
+       </a>
+       -
+       <a href="/w/Special:Contributions/2601%3A8C0%3AB01%3AD770%3ADD29%3A50A0%3AC55B%3A27C2">
+        [anonymous]
+       </a>
+      </p>
+     </div>
+     <div class="rc-sidebar-item">
+      <a class="rc-sidebar-page" href="/w/Sanity">
+       Sanity
+      </a>
+      <p class="rc-sidebar-user">
+       <a href="/?diff=14884759">
+        23m
+        <span class="rc-sidebar-ago">
+         ago
+        </span>
+       </a>
+       -
+       <a href="/w/Special:Contributions/Wroometh">
+        Wroometh
+       </a>
+      </p>
+     </div>
+     <div class="rc-sidebar-item rc-sidebar-more">
+      <a class="rc-sidebar-page" href="/w/Special:RecentChanges">
+       Show more...
+      </a>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Guides-label" class="vector-menu mw-portlet mw-portlet-Guides vector-menu-portal portal" id="p-Guides" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Guides-label">
+      <span class="vector-menu-heading-label">
+       Guides
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-Recent-updates">
+        <a href="/w/2025">
+         <span>
+          Recent updates
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-List-of-quests">
+        <a href="/w/Quests/List">
+         <span>
+          List of quests
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Achievement-diaries">
+        <a href="/w/Achievement_Diary">
+         <span>
+          Achievement diaries
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Combat-achievements">
+        <a href="/w/Combat_Achievements">
+         <span>
+          Combat achievements
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Skill-training">
+        <a href="/w/Skill_training_guides">
+         <span>
+          Skill training
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Money-making">
+        <a href="/w/Money_making_guide">
+         <span>
+          Money making
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Calculators">
+        <a href="/w/Calculators">
+         <span>
+          Calculators
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-DPS-calculator">
+        <a href="https://tools.runescape.wiki/osrs-dps/" target="_blank">
+         <span>
+          DPS calculator
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-New-player-guide">
+        <a href="/w/New_player_guide">
+         <span>
+          New player guide
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-User-created-guides">
+        <a href="/w/RuneScape:Supplemental_guides">
+         <span>
+          User-created guides
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Community-label" class="vector-menu mw-portlet mw-portlet-Community vector-menu-portal portal" id="p-Community" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Community-label">
+      <span class="vector-menu-heading-label">
+       Community
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-User-help">
+        <a href="/w/RuneScape:User_help">
+         <span>
+          User help
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Active-discussions">
+        <a href="/w/RuneScape:Active_discussions">
+         <span>
+          Active discussions
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-OSRS-Wiki-Clan">
+        <a href="/w/RuneScape:Clan_Chat">
+         <span>
+          OSRS Wiki Clan
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Policies">
+        <a href="/w/RuneScape:Policies">
+         <span>
+          Policies
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-More_RuneScape-label" class="vector-menu mw-portlet mw-portlet-More_RuneScape vector-menu-portal portal" id="p-More_RuneScape" role="navigation">
+     <h3 class="vector-menu-heading" id="p-More_RuneScape-label">
+      <span class="vector-menu-heading-label">
+       More RuneScape
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-RuneScape-Wiki">
+        <a href="https://runescape.wiki/w/RuneScape_Wiki">
+         <span>
+          RuneScape Wiki
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-RSC-Wiki">
+        <a href="https://classic.runescape.wiki/w/RuneScape_Classic_Wiki">
+         <span>
+          RSC Wiki
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 class="vector-menu-heading" id="p-tb-label">
+      <span class="vector-menu-heading-label">
+       Tools
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/w/Special:WhatLinksHere/Creature_Creation" title="A list of all wiki pages that link here [j]">
+         <span>
+          What links here
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/w/Special:RecentChangesLinked/Creature_Creation" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         <span>
+          Related changes
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/w/Special:SpecialPages" title="A list of all special pages [q]">
+         <span>
+          Special pages
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="javascript:print();" rel="alternate" title="Printable version of this page [p]">
+         <span>
+          Printable version
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/Creature_Creation?oldid=14835413" title="Permanent link to this revision of this page">
+         <span>
+          Permanent link
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/Creature_Creation?action=info" title="More information about this page">
+         <span>
+          Page information
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item">
+        <a href="/w/Special:NewFiles">
+         <span>
+          New files
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-smwbrowselink">
+        <a href="/w/Special:Browse/:Creature-5FCreation" rel="search">
+         <span>
+          Browse properties
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 11 January 2025, at 23:28.
+    </li>
+    <li id="footer-info-copyright">
+     Content on this site is licensed under
+     <a class="external" href="https://creativecommons.org/licenses/by-nc-sa/3.0/" rel="nofollow">
+      CC BY-NC-SA 3.0
+     </a>
+     ;
+     <a href="https://meta.weirdgloop.org/w/Project:Copyrights">
+      additional terms apply
+     </a>
+     .
+     <br/>
+     <i>
+      RuneScape
+     </i>
+     and
+     <i>
+      RuneScape Old School
+     </i>
+     are the trademarks of
+     <a href="http://jagex.com">
+      Jagex Limited
+     </a>
+     and are used with the permission of Jagex.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a href="https://weirdgloop.org/privacy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/w/RuneScape:About">
+      About the Old School RuneScape Wiki
+     </a>
+    </li>
+    <li id="footer-places-disclaimers">
+     <a href="/w/RuneScape:General_disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-tou">
+     <a href="https://weirdgloop.org/terms">
+      Terms of Use
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="/w/Special:Contact">
+      Contact Weird Gloop
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="https://oldschool.runescape.wiki/w/Creature_Creation?mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">
+      <img alt="CC BY-NC-SA 3.0" height="31" loading="lazy" src="https://meta.weirdgloop.org/images/Creative_Commons_footer.png" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://weirdgloop.org" target="_blank">
+      <img alt="A Weird Gloop wiki" height="31" loading="lazy" src="https://meta.weirdgloop.org/images/Weird_Gloop_footer.png" srcset="https://meta.weirdgloop.org/images/Weird_Gloop_footer@2x.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mediawiki-67596d4656-sr98h","wgBackendResponseTime":38,"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.517","walltime":"1.451","ppvisitednodes":{"value":1504,"limit":1000000},"postexpandincludesize":{"value":70509,"limit":8388608},"templateargumentsize":{"value":3793,"limit":8388608},"expansiondepth":{"value":8,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2036,"limit":5000000},"timingprofile":["100.00%  854.203      1 -total"," 51.71%  441.693      6 Template:Coins"," 40.95%  349.760      6 Template:Average_drop_value"," 13.58%  115.987      1 Template:External"," 13.05%  111.482      6 Template:Navbox","  5.63%   48.113      1 Template:Tower_of_Life","  5.63%   48.087      7 Template:GEP","  5.43%   46.389      1 Template:Minigames","  3.59%   30.661      1 Template:Creature_Creation","  3.59%   30.654      1 Template:Dungeons"]},"scribunto":{"limitreport-timeusage":{"value":"0.141","limit":"10.000"},"limitreport-memusage":{"value":2697681,"limit":367001600},"limitreport-logs":"table#1 {\n    metatable = table#2\n    \"DJR\",\n}\n"},"cachereport":{"origin":"mediawiki-jobrunner-7f9df7cfd9-pwc7x","timestamp":"20250415091330","ttl":172800,"transientcontent":false}}});});
+  </script>
+  <script async="" src="//cdn.intergient.com/ramp_core.js">
+  </script>
+ </body>
+</html>

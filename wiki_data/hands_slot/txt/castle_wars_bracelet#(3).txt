@@ -1,0 +1,50 @@
+[Weapon: Castle Wars Bracelet#(3)]
+
+
+ACastle Wars braceletis abraceletthat aids the player inCastle Wars. It is obtained by castingLvl-2 Enchanton anemerald bracelet.
+When players are wielding this item at the moment they enter the game, they do an extra 20% damage against a bearer of a flag, andbandagesheal 50% more. Players only need to be wearing it up until the time the game starts. After that, the charge is already given, and the player can switch to any item to be worn in thehand slot. Players instead may opt to give bracelets toLanthusto have a charge used automatically when a game is started without needing to wear one at all.
+
+
+[Infobox]
+Released: 30 April2007(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Worn options: Check
+Examine: Must be worn as you enter the game to receive the bonus for that game.
+General Store Value: 1,675 coins
+High alch: 1,005 coins
+Low alch: 670 coins
+Weight: 0.25 kg
+Grand Exchange Value: Not sold
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: -
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

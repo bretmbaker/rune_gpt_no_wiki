@@ -1,0 +1,33 @@
+{
+  "agent_preferences": {
+    "risk_tolerance": 0.5,
+    "exploration_rate": 0.7,
+    "goal_focus": 0.6,
+    "resource_management": 0.5,
+    "combat_style": "balanced",
+    "training_priority": "balanced"
+  },
+  "goals": {
+    "short_term": [
+      {
+        "name": "Complete Tutorial Island",
+        "description": "Learn the basics of RuneScape",
+        "progress": 0,
+        "completed": false
+      }
+    ],
+    "long_term": [
+      {
+        "name": "Reach Combat Level 30",
+        "description": "Train combat skills to level 30",
+        "progress": 0,
+        "completed": false,
+        "requirements": {
+          "attack": 30,
+          "strength": 30,
+          "defence": 30
+        }
+      }
+    ]
+  }
+}

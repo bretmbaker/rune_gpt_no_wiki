@@ -1,0 +1,55 @@
+[Weapon: Healer Hat#Locked]
+
+
+Thehealer hatis a possible reward item fromBarbarian Assaultand requires 45Defenceto wear. Players who have killed thePenance Queenand have 275Honour pointsin each of the four roles can purchase the hat fromCommander Connad, located on the main floor of theBarbarian Outpost. The hat is part of thepenance set, all parts of which are available from Barbarian Assault.
+Its stats are very similar to thefarseer helm. Both require 45 Defence and offer +6magicattack bonus with attack penalties of -5 to all other styles. However, the healer hat has a slightly higher (+1) magic defence bonus at the cost of lowermeleedefence (-2 to stab, slash, and crush).
+
+
+[Infobox]
+Released: 4 January2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A Penance Healer hat.
+General Store Value: 65,002 coins
+Alchemy: Not alchemisable
+Weight: 2 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -5
+- Slash: -5
+- Crush: -5
+- Magic: +6
+- Ranged: -5
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +8
+- Crush: +10
+- Magic: +7
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Date | Changes
+6 July2022(update) | The locked variant's value was decreased from 65,002 to 65,001.
+21 August –4 September 2014 | The "Destroy" option was replaced with a "Drop" option.
+8 August2013(update) | The item's value was decreased from 201,000 to 65,002.
+2 August2013(update|poll) | The item's value was increased from 5000 to 201,000 so it is protected over rune armour and dragon battleaxes upon death.
+13 March2013(update) | Barbarian Assault was enabled, making the healer hat obtainable.
+22 February2013(update) | This content was included when theOld School RuneScapeservers officially launched, but was unobtainable asBarbarian Assaultwas disabled.

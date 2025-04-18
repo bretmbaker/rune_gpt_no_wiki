@@ -1,0 +1,67 @@
+[Weapon: Amethyst Broad Bolts]
+
+
+Amethyst broad boltsare enhancedbroad bolts. They require aSlayerlevel of at least 65 and aRangedlevel of at least 61 to equip. They can be fired only by therune,dragon hunter,dragon,ArmadylandZaryte Crossbows.
+With aRanged Strengthbonus of +115, they are the equivalent ofrunite boltsin combat. Amethyst broad bolts are a superior alternative to theirregularandarrow equivalentsfor the purpose of slayingTurothandKurasksusing ranged.
+
+
+[Infobox]
+Released: 22 June2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Crossbow bolts with amethyst broad tips.
+General Store Value: 240 coins
+High alch: 144 coins
+Low alch: 96 coins
+Weight: 0 kg
+Grand Exchange Value: 227 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 773,855
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +115
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Ancient Wyvern/Strategies(Ranged)
+2 | Aviansie/Strategies(Ranged - Low Risk)
+4 | Basilisk Knight/Strategies(Ranged)
+4 | Brutal black dragon/Strategies(Ranged)
+3 | General Graardor/Strategies(Ranged Tank)
+4 | General Graardor/Strategies(Ranged Attacker)
+1 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+4 | Kalphite Queen/Strategies(High DPS (Phase Two))
+3 | Metal dragons/Strategies(Ranged)
+5 | Mithril dragon/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged)
+3 | Skeletal Wyvern/Strategies(Ranged (Void))
+4 | Skeletal Wyvern/Strategies(Ranged)
+3 | Slayer task/Fossil Island wyverns(Ranged)

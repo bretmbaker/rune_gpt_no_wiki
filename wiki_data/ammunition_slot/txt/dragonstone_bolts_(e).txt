@@ -1,0 +1,56 @@
+[Weapon: Dragonstone Bolts (E)]
+
+
+Dragonstone bolts (e)arerunite boltstipped with enchanteddragonstone.Dragonstone boltscan be enchanted through the spellEnchant Crossbow Bolt (Dragonstone)by a player with level 68Magic. The spell enchants 10 dragonstone bolts at a time. They require 61Rangedto wield. Dragonstone bolts (e) can be purchased fromJustinelocated at theLast Man StandingMinigame inFerox Enclave,who sells 20 for 3 points.
+Dragonstone bolts (e) have a 6% chance of triggering theDragon's breatheffect upon a successful hit. This inflicts adragonfirehit against the target, causing extra damage (visible ranged level * 20%). Slightly extra damage is done if under the effect of theZaryte crossbow(visible ranged level * 22%). If the player boosts to achieve a Ranged level of 112, the extra damage is 22.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Also called: Enchanted dragonstone bolts
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Enchanted Dragonstone tipped Runite Crossbow Bolts.
+General Store Value: 1,063 coins
+High alch: 637 coins
+Low alch: 425 coins
+Weight: 0 kg
+Grand Exchange Value: 452 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 3,010,962
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +117
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Alchemical Hydra | 426 | 100–120 | 2 × 2/101 | 
+Kree'arra | 580 | 5–10 | 8/127 | 

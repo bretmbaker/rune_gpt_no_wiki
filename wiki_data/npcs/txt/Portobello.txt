@@ -1,0 +1,2 @@
+Item: Portobello
+Summary: Portobello is an unused NPC added with the rework of the Gnome Restaurant minigame. Presumably, he would have been another gnome pilot customer that players could deliver gnome food to. However, he was ultimately never released.

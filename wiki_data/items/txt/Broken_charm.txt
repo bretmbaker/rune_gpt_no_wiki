@@ -1,0 +1,1 @@
+Abroken charmis sent to the player'sgraveif a charm is in their inventory when killed by another player inDeadman Mode. The killer receivescoins. This item serves no purpose.

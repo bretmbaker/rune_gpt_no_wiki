@@ -1,0 +1,70 @@
+[Weapon: Eldritch Nightmare Staff]
+
+
+Theeldritch nightmare staffis astaffthat is created by attaching aneldritch orbto thenightmare staffgranting it a prayer restoringspecial attack. Requiring level 82Magicand 50Hitpointsto wield, it can autocast offensivestandard spellsas well asAncient Magicks. Like theNightmare staffit gives a 15% bonus inmagic damage. The upgraded staff is untradeable, but it can be reverted to its tradeable components at any time. If lost on death in theWilderness, the killer will receive the staff and the orb.
+The eldritch nightmare staff has aspecial attack,Invocate, that consumes 55% of the player's special attack energy to hit the target for a high amount of magic damage, also restoring the caster'sprayer pointsby 50% of the damage dealt.Invocatecan boost the caster's prayer points above their natural prayer level, up to a maximum of 120.
+
+
+[Infobox]
+Released: 6 February2020(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle, Drop
+Examine: An ancient staff corrupted by darkness. An eldritch orb has been added to it.
+General Store Value: 4,600,000 coins
+High alch: 2,760,000 coins
+Low alch: 1,840,000 coins
+Weight: 1.6 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +16
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +14
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +15%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Special Attack]
+A player performing the eldritch nightmare staff's special attack,Invocate.
+The eldritch nightmare staff has aspecial attack,Invocate, that consumes 55% of the player's special attack energy to hit the target for a high amount of magic damage, also restoring the caster'sprayer pointsby 50% of the damage dealt.Invocatecan boost the caster's prayer points above their natural prayer level, up to a maximum of 120.
+The Prayer restoration fromInvocateis calculated from the potential damage of a hit before some types of damage immunities are applied. This can allow it to restore prayer even if a monster appears to take zero damage. For example,kuraskscan only be harmed by leaf-bladed weaponry,broad bolts, or theMagic Dartspell, but ifInvocatewould have otherwise hit a 40 before immunity, the restoration effect still takes place for 20 prayer points. This mechanic also applies if the target has less total health than the potential damage of the attack. If a target with only 2 hitpoints remaining is struck with anInvocatethat would have dealt 60 damage, the attacker will still have 30 prayer points restored.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Inferno/Strategies(Learners)
+1 | Inferno/Strategies(On task)
+2 | Maniacal monkey/Strategies(Magic - Ice Burst)
+2 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+5 | Skeletal Wyvern/Strategies(Magic)

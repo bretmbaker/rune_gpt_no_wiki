@@ -1,0 +1,57 @@
+[Weapon: White 2H Sword]
+
+
+Thewhite 2h swordis aWhite Knightweaponthat requires 10Attackand the completion of theWanted!questto wield. It has the same bonuses as ablack 2h sword, with an added +1prayer bonus.
+Players can purchase it fromSir Vyvinafter achieving therankof Master (1,300black knightkills). It can also be bought on the Grand Exchange or obtained through trading other players.
+
+
+[Infobox]
+Released: 17 October2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A two handed sword.
+General Store Value: 1,920 coins
+High alch: 1,152 coins
+Low alch: 768 coins
+Weight: 3.628 kg
+Grand Exchange Value: 1,617 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 25
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: +27
+- Crush: +21
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +26
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 7 ticks (4.2s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence

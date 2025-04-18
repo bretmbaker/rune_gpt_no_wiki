@@ -1,0 +1,46 @@
+[Weapon: Ghostly Gloves]
+
+
+Ghostly glovesare pieces ofmembers onlyarmourworn in the hand slot. Players can obtain one after speaking toRennardduring theCurse of the Empty Lordminiquest. The gloves, according to Rennard, were used to steal his first piece ofcake.
+There are no requirements to wear and, when worn with the other pieces, the player appears 'ghostlike' (i.e. transparent). After initially obtaining the piece, the player can talk to any of the ghosts to get more pieces. A lost pair of gloves can be purchased fromPerdufor 13,500 coins.
+
+
+[Infobox]
+Released: 26 July2005(Update)
+Members: Yes
+Quest item: The Curse of Zarosminiquest
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: They seem to fade in and out of existence...
+General Store Value: 30 coins
+High alch: 18 coins
+Low alch: 12 coins
+Weight: 0.001 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +2
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +2
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

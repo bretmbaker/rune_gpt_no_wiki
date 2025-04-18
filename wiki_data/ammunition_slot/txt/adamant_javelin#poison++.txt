@@ -1,0 +1,56 @@
+[Weapon: Adamant Javelin#Poison++]
+
+
+Theadamant javelinis a type ofmember's onlyRangedammunition used by thelightandheavy ballistas. As with mostjavelins, they can bepoisoned.
+They can be fletched by attachingadamant javelin headstojavelin shaftsat level 62Fletching, granting 150 experience per 15 javelins made. They can also be obtained by buying them from theRanging Guild, theVoid Knight Archery Storeor fromOobapohk's Javelin StoreafterMonkey Madness II.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: An adamant tipped javelin.
+General Store Value: 160 coins
+High alch: 96 coins
+Low alch: 64 coins
+Weight: 0 kg
+Grand Exchange Value: 43 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 220,667
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +102
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black dragonRegular | 227 | 30 | 20/128 | &&
+Bronze dragon | 131; 143 | 30 | 20/128 | 
+Vardorvis | 572; 784; 1136 | 42; 63 | 1/100 | 

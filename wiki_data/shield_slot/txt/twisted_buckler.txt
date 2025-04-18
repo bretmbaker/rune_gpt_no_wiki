@@ -1,0 +1,103 @@
+[Weapon: Twisted Buckler]
+
+
+Thetwisted buckleris a ranged-classshieldthat is obtained as a possible reward from theChambers of Xeric, requiring level 75RangedandDefenceto equip.
+The buckler currently offers the best Ranged Attack and Ranged Strength bonus for theshield slotin the game. It also has some of the bestMagicdefence in its slot, beaten only by thedragonfire wardandspectral spirit shield. Its melee defence bonuses are comparable to anadamant sq shield.
+
+
+[Infobox]
+Released: 5 January2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A buckler carved from the twisted remains of the Great Olm.
+General Store Value: 90,000 coins
+High alch: 54,000 coins
+Low alch: 36,000 coins
+Weight: 5.443 kg
+Grand Exchange Value: 13,601,685 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 1,397
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -7
+- Slash: -8
+- Crush: -7
+- Magic: -10
+- Ranged: +18
+
+Defence Bonuses:
+- Stab: +22
+- Slash: +24
+- Crush: +22
+- Magic: +26
+- Ranged: +58
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +10
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ancient chest | N/A | 1 | 4/69 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Adamant dragon/Strategies(Ranged)
+1 | Alchemical Hydra/Strategies(Ranged)
+2 | Artio/Strategies(Ranged)
+2 | Aviansie/Strategies(Ranged)
+1 | Brutal black dragon/Strategies(Ranged)
+2 | Callisto/Strategies(Ranged)
+1 | Chambers of Xeric/Challenge Mode(Ranged)
+1 | Chambers of Xeric/Strategies(Ranged)
+1 | Commander Zilyana/Strategies(Ranged)
+1 | Corporeal Beast/Strategies(Ranged masses)
+1 | Dagannoth Kings/Strategies(Range)
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+1 | Drake/Strategies(Ranged)
+2 | General Graardor/Strategies(Solo (Ranged 6:0))
+1 | General Graardor/Strategies(Ranged Attacker)
+1 | Grotesque Guardians/Strategies(Ranged switches)
+1 | Kalphite Queen/Strategies(High DPS (Phase Two))
+3 | Kree'arra/Strategies(Chinchompas)
+3 | Kree'arra/Strategies(Ranged Tank)
+1 | The Leviathan/Strategies(Ranged)
+1 | Maniacal monkey/Strategies(Ranged)
+1 | The Mimic/Strategies(Ranged)
+1 | Nex/Strategies(Ranged)
+1 | Nightmare Zone/Strategies(Ranged)
+2 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+3 | Pay-to-play Prayer training(High Magic defence)
+1 | Phantom Muspah/Strategies(Ranged)
+1 | Royal Titans/Strategies(Best-in-slot)
+1 | Rune dragon/Strategies(Ranged)
+1 | Scurrius/Strategies(Range (high level))
+1 | Skeletal Wyvern/Strategies(Ranged (Void))
+1 | Skeletal Wyvern/Strategies(Ranged)
+1 | Skeleton (Ape Atoll)(Ranged)
+2 | Skotizo/Strategies(Ranged)
+1 | Slayer task/Gargoyles(Ranged)
+1 | Slayer task/Wyrms(Ranged)
+1 | Spindel/Strategies(Ranged)
+1 | Theatre of Blood/Hard Mode(Range)
+1 | Theatre of Blood/Strategies(Range)
+1 | Tombs of Amascut/Strategies(Ranged switch)
+1 | Tormented Demon/Strategies(Ranged switch)
+1 | TzHaar Fight Cave/Strategies(Ranged)
+1 | Ultimate Ironman Guide/Equipment
+1 | Venenatis/Strategies(Ranged)
+3 | Vorkath/Strategies(Ranged (crossbow))

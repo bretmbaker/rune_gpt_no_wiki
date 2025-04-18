@@ -1,0 +1,54 @@
+[Weapon: Mithril Kiteshield (G)]
+
+
+Mithril kiteshield (g)is a part ofmithril gold-trimmed armourand a reward frommediumTreasure Trails. It has the same stats as a normalmithril kiteshield, except for the ranged attack bonus (-2 rather than -3), and requires level 20Defenceto wear. This itemcannotbe made via theSmithingskill.
+This item can be stored in thetreasure chestof acostume room, as part of themithril gold-trimmed armourset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Mithril kiteshield with gold trim.
+General Store Value: 2,210 coins
+High alch: 1,326 coins
+Low alch: 884 coins
+Weight: 4.535 kg
+Grand Exchange Value: 7,646 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 108
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -8
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +18
+- Slash: +22
+- Crush: +20
+- Magic: -1
+- Ranged: +20
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 1/1,133 | 

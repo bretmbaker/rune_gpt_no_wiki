@@ -1,0 +1,59 @@
+[Weapon: Phoenix Crossbow]
+
+
+ThePhoenix crossbowis aquest item, although it can be traded. It has the same stats as a regularCrossbow, but weighs significantly less. It can be obtained and is used in the questShield of Arrav. The Phoenix crossbow has no requirements to wield, and can only firebronze bolts.
+The Phoenix crossbow is not often used, as theBronze crossbowrequires the sameRangedlevel to equip, but gives a Ranged accuracy of +18, whilst the Phoenix crossbow only gives +6. However, the Phoenix crossbow is essentially free, and sinceBronze crossbowsand above aremembers-onlyitems, the Phoenix Crossbow is the best crossbow available tofree-to-playplayers, on par with the standardCrossbow.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: Shield of Arrav
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Inspect, Drop
+Examine: Former property of the Phoenix Gang.
+General Store Value: 10 coins
+High alch: 6 coins
+Low alch: 4 coins
+Weight: 3.628 kg
+Respawn time: 100 ticks (60 seconds)
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +6
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Heavy | Accurate | 6 ticks (3.6s) | 5 tiles |  | +3 Ranged
+ | Rapid | Heavy | Rapid | 5 ticks (3.0s) | 5 tiles |  | None
+ | Longrange | Heavy | Longrange | 6 ticks (3.6s) | 7 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Location | Members | Spawns | Map | Leagueregion
+Varrock-Phoenix Gang Hideout |  | 2 | Show map | Misthalin✓

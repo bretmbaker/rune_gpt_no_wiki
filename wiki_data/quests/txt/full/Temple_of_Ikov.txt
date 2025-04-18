@@ -1,0 +1,126 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Temple of Ikov (#28)
+
+
+
+
+
+Released | 17 June 2002 ( Update )
+
+Members | Yes
+
+Quest series | Mahjarrat , #5
+
+Lead developer(s) | Paul Gower
+
+
+
+Temple of Ikov is a quest featuring Lucien , a Mahjarrat . The quest revolves around the infiltration of the Temple of Ikov in order to steal a powerful artefact known as the Staff of Armadyl .
+
+Details [ edit | edit source ]
+
+Start point | Speak to Lucien at the Flying Horse Inn in the north-west corner of East Ardougne . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Medium
+
+Description | A mysterious stranger called Lucien asks you to go on a mission deep under the Temple of Ikov in central Kandarin. He wants you to retrieve an artefact known as the Staff of Armadyl. After you retrieve it, the quest doesn't stop there... Are you on the side of good or evil?
+
+Requirements | 42 Thieving ( boostable ) ( not required to start ) 40 Ranged ( not boostable ) ( not required to start ) [1] The ability to defeat a level 84 enemy with Ranged
+
+Items required | Any bow capable of firing ice arrows ( yew bow or better) or any thrown weapon 20 unnoted limpwurt roots Light source
+
+Recommended | 45 Combat level Weight-reducing clothing , such as the Graceful outfit , for the first part of the quest ( The Unsteady Bridge ). Boots of lightness to reduce weight, for the first part of the quest (obtainable during the quest with a light source and a knife or slash weapon ) 43 Prayer and prayer potions for protection prayers after the first part of the quest. Ranged armour after the first part of the quest. Fast travel to several locations The entrance of the Temple of Ikov ( Skills Necklace to the Fishing Guild, Combat Bracelet to the Ranged Guild or Fairy Rings to B L R ) Ardougne ( Ardougne teleport or Ardougne cloak ) Edgeville ( Amulet of Glory to Edgeville, Ring of Wealth to Grand Exchange or Fairy Rings to D K R )
+
+Enemies to defeat | Fire Warrior of Lesarkus (level 84) Guardian of Armadyl (level 43) - only if siding with Lucien Lucien (level 14) - only if siding with the Guardians of Armadyl
+
+Ironman concerns | 20 unnoted items need to be delivered at once. Yew longbows can be obtained as a rare drop from young implings . Darts or throwing knives can be used in place of it with Ice arrows equipped in order to deal damage to Fire Warrior of Lesarkus . Since Ice arrows don't have a level restriction, 40 range is an optional completion requirement.
+
+League notes | Currently not completable due to known bug with Lucien 's location Kandarin ✓ — location requirement Unlocking Desert ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+The Unsteady Bridge [ edit | edit source ]
+
+Optional, to collect the Boots of lightness : Any light source and a knife or slash weapon .
+
+Speak to Lucien in the Flying Horse Inn in the western part of East Ardougne , to start the quest. He will give you the Pendant of Lucien and tell you to visit the Temple of Ikov . It is located directly south of the Ranging Guild and west of the Sorcerer's Tower . When you are there, climb down the ladder. Head through the northern gate of the room while wearing the pendant. Here you will find an unsteady bridge over lava. To successfully cross this bridge, your weight needs to be -1 kg or less, or you will fail and take 20 damage!
+
+Note: If you still need to reduce your weight, you can obtain the boots of lightness by climbing down the stairs in the previous room and slashing the web. You will need a light source to enter the cellar.  Wearing these boots reduces your weight by 4.5 kg.
+
+Walk across the bridge and take the lever on the other side. Ensure that the lever (0.056 kg) doesn't increase your weight above -1 kg, otherwise you should teleport outside and climb down the ladder again.
+
+Head back to the initial room, near the entrance ladder, and place the lever on the lever bracket on wall south-west of the ladder. Pull the lever to open the southern room. Warning: If you place the lever but do not pull it and then leave the area, the lever will need to be reobtained and replaced.
+
+The Ice Chamber [ edit | edit source ]
+
+At this point it is advised to equip ranged armour and collect your bow and limpwurt roots if you haven't already, to save a trip to the bank (East Ardougne North bank is nearest if the player has not completed Legends' Quest .)  Move through the southern room to the ice chamber filled with level-61 ice spiders .
+
+You need to gather enough ice arrows in this room to battle the Fire Warrior of Lesarkus ; about 20 arrows are recommended, though you can get by with much less if you have a high Ranged level and an Ava's device . If using darts or throwing knives, only one arrow is needed since you won't be using ice arrows as ammo. There are 6 chests in this room yet only one of them contains arrows at a time. Each time you loot a chest with arrows, you'll obtain 1-5 arrows, and a chest is randomly selected as the next spawn for the arrows. It is possible for the same chest to contain arrows multiple times in a row or nothing at all.
+
+Fire Warrior of Lesarkus [ edit | edit source ]
+
+When you have enough ice arrows (about 20), head to the entrance again. Walk once more through the north door with the Pendant of Lucien equipped, and continue north until you see a small alcove with a lever in it. Right-click the lever to Search for traps , then pull it (requires 42 Thieving ). Head through the west passage and through the door.
+
+You'll enter a room with a summoning mark in the middle of it. Attempt to open the door on the north, and you'll be stopped by the Fire Warrior of Lesarkus . He will not attack until you either attack him first or finish the dialogue with him. He uses solely magic, so Protect from Magic comes in handy. He can only be damaged with ice arrows; however, thrown weapons (darts, knives, thrownaxes, Toktz-xil-ul, and the Toxic blowpipe) can be used with at least one ice arrow equipped (it will not be lost). If doing this to circumvent the Ranged level requirement, your damage will be poor, so be sure to bring food and consider bringing rings of recoil. You can pick up fallen arrows during the fight. In case you use the wrong weapon or run out of ice arrows, he will stop the fight and tells you to come back later. However, he will not regenerate health as long as he is still in the room. Only if you take very long to defeat him or walk too far from the room, he will disappear and you will need to start the fight over.
+
+After defeating the Fire Warrior, proceed through the north door. In case you have to re-enter the room, you do not need to fight the Fire Warrior again.
+
+You'll find Winelda the witch standing near a stream of lava. She will teleport you across if you hand her 20 unnoted limpwurt roots, all given at once .
+
+Go past the skeletons until you stand below the room with the Guardians of Armadyl . You can push a wall to enter that room. You'll then have a choice of how you would like to finish the quest. Both choices have the same reward. The only difference lies in the enemy you have to fight.
+
+Note: If you continue past the room, south-west down the hallway and past the level-82 Lesser demons , you will find a Shiny key . You can use this key to access the shortcut from the ladder next to the skeletons, to McGrubor's Wood . This is useful if you want to fight the monsters in this part of the dungeon after the quest.
+
+Side with the Guardians of Armadyl [ edit | edit source ]
+
+Unequip your Pendant of Lucien before talking to a Guardian. Tell them that you seek the Staff of Armadyl for Lucien , but accept to be given "your yearly bath".
+They will tell you about their god, Armadyl , of whom most Saradominists have never heard because they only believe in the three major gods ( Guthix , Saradomin and Zamorak ). Lucien is actually an evil Mahjarrat , a very powerful race that follows Zamorak , who has been chasing after the staff for a long time. They will tell you that you must kill Lucien to stop him from coming back, and give you the Armadyl pendant once you agree to help them.
+
+Head towards Lucien's house which is between Edgeville and the Grand Exchange . Defeat him (level 14) while wearing the Armadyl pendant, and your quest is complete.
+
+Side with Lucien [ edit | edit source ]
+
+You may ignore the conversation with the Guardians. Try to take the Staff of Armadyl on the table in the north-west room. You will be attacked by a Guardian of Armadyl (Level 43). Defeat them, and take the staff.
+
+Head towards Lucien's house which is between Edgeville and the Grand Exchange . Hand him the staff to complete your quest.
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 10,500 Ranged experience 8,000 Fletching experience Armadyl pendant (if you sided with Lucien , you must kill Guardians of Armadyl to obtain it) Pendant of Lucien , which grants access to a door in the Temple of Ikov Optional; Boots of lightness Optional; Shiny key , for a shortcut between the Temple of Ikov and McGrubor's Wood Completing this quest awards the player with 5 kudos which can be claimed by talking to Historian Minas in the Varrock Museum
+
+Required for completing [ edit | edit source ]
+
+Completion of Temple of Ikov is required for the following:
+
+Desert Treasure I Defender of Varrock
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Trivia [ edit | edit source ]
+
+Winelda's quote "Bubble bubble, toil and trouble!" is a reference to William Shakespeare's play Macbeth . Talking to Winelda for the first time with the 20 unnoted limpwurt in your inventory will automatically cut to the player telling Winelda that they have the limpwurt for her, despite never being told to get them. Attempting to attack Lucien without the Armadyl pendant equipped will result in him waving his hand across your face, saying that you do not want to attack him and that he is your friend. This is a reference to the "Jedi mind trick" from Star Wars . Previously, the reward scroll specified if the player sided with Lucien or Armadyl . The Fire Warrior of Lesarkus can be defeated without needing a yew bow by equipping ice arrows and using a throw weapon type such as darts, knives, or throwing axes.
+
+The previous quest completion scroll if you sided with Lucien. The previous quest completion scroll if you sided with Armadyl.
+
+v • t • e Temple of Ikov
+
+NPCs | Lucien Winelda Enemies Fire Warrior of Lesarkus Guardian of Armadyl Ice spider |  | Lucien Winelda | Enemies | Fire Warrior of Lesarkus Guardian of Armadyl Ice spider
+
+ | Lucien Winelda
+
+Enemies | Fire Warrior of Lesarkus Guardian of Armadyl Ice spider
+
+Items | Pendant of lucien Boots of lightness Lever Ice arrows Armadyl pendant Staff of armadyl Shiny key
+
+Locations | Temple of Ikov (dungeon)
+
+Music | Chain of Command
+
+Related | Quick guide Transcript

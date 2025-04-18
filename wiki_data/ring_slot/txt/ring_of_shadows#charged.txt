@@ -1,0 +1,154 @@
+[Weapon: Ring Of Shadows#Charged]
+
+
+Thering of shadowsis a specialringthat is obtained as a reward upon completion ofDesert Treasure II - The Fallen Empire. As an upgrade to thering of visibility, it retains its original effects, as well as having very similar offensive stats to thebrimstone ring, making it a decent alternative. It cannot be equipped in theLassar Undercity.
+The ring is charged by using oneblood,soul,death, andlaw runeon the ring and can contain a maximum of 1,000 charges (costing803,000to fully charge, or803per teleport). Players can configure the charges while the ring is in their bank by right-clicking on Configure-Charges, as long as players have the required materials. When charged, the ring can teleport players to theAncient Vault; additional teleports to theGhorrock Dungeon,the Scar, theLassar Undercity, andthe Stranglewoodcan be unlocked by using tablets received as drops fromDuke Sucellus,The Leviathan,The Whisperer, andVardorvisrespectively on the ring. Uncharging the ringdoesrefund the runes.
+
+
+[Infobox]
+Released: 26 July2023(Update)
+Members: Yes
+Quest item: Desert Treasure II - The Fallen Empire
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Charge, Destroy
+Worn options: Ancient Vault, Ghorrock Dungeon, The Scar, Lassar Undercity, The Stranglewood, Check
+Examine: A powerful ring used to see into other realms...
+General Store Value: 75,000 coins
+High alch: 45,000 coins
+Low alch: 30,000 coins
+Weight: 0.004 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +4
+- Slash: +4
+- Crush: +4
+- Magic: +5
+- Ranged: +4
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +5
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Ring slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Adamant dragon/Strategies(Magic)
+4 | Alchemical Hydra/Strategies(Melee)
+4 | Ancient Wyvern/Strategies(Magic)
+4 | Ancient Wyvern/Strategies(Ranged)
+1 | Artio/Strategies(Magic)
+1 | Artio/Strategies(Ranged)
+3 | Aviansie/Strategies(Ranged)
+4 | Barbarian Assault/Strategies(Ranged (high level))
+3 | Barrows/Strategies(Magic equipment)
+3 | Basilisk Knight/Strategies(Ranged)
+3 | Basilisk Knight/Strategies(Ranged/Prayer)
+3 | Brutal black dragon/Strategies(Ranged)
+2 | Budget Cutter
+1 | Callisto/Strategies(Magic)
+1 | Callisto/Strategies(Ranged)
+3 | Calvar'ion/Strategies(Melee)
+3 | Chaos Elemental/Strategies(Melee)
+2 | Chaos Elemental/Strategies(Ranged)
+1 | Chaos Fanatic/Strategies(Ranged)
+3 | Chompy bird hunting/Strategy
+1 | Crazy archaeologist/Strategies(Magic)
+2 | Dagannoth Kings/Strategies(Range)
+4 | Dagannoth Kings/Strategies(Magic (Rex only))
+3 | Drake/Strategies(Ranged)
+5 | Duke Sucellus/Strategies(Melee)
+5 | Dust devil/Strategies(Bursting/Barraging)
+3 | General Graardor/Strategies(Solo (Ranged 6:0))
+4 | General Graardor/Strategies(Ranged Tank)
+3 | General Graardor/Strategies(Ranged Attacker)
+4 | Giant Mole/Strategies(Ranged)
+3 | Giant Mole/Strategies(Ranged Void)
+5 | Kalphite Queen/Strategies(High DPS (Phase One))
+4 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+5 | Kalphite Queen/Strategies(Max Mage (0 switches))
+5 | Kalphite Queen/Strategies(High DPS (Phase Two))
+3 | Kalphite Queen/Strategies(Flinching)
+1 | King Black Dragon/Strategies(Ranged)
+4 | King Black Dragon/Strategies(Ranged BIS smuggle)
+1 | King Black Dragon/Strategies(Crossbow)
+5 | Kraken/Strategies(Magic)
+4 | Kree'arra/Strategies(Tbow / Bowfa)
+4 | Krystilia/Strategies(Melee)
+2 | Krystilia/Strategies(Magic)
+2 | Krystilia/Strategies(Ranged)
+2 | Lava dragon/Strategies(Magic)
+4 | The Leviathan/Strategies(Ranged)
+4 | Lizardman shaman/Strategies(Ranged)
+3 | Maniacal monkey/Strategies(Magic - Ice Burst)
+3 | Maniacal monkey/Strategies(Ranged)
+3 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+4 | Metal dragons/Strategies(Melee)
+3 | Metal dragons/Strategies(Magic)
+3 | Metal dragons/Strategies(Ranged)
+3 | The Mimic/Strategies(Ranged)
+4 | Mithril dragon/Strategies(Magic)
+4 | Mithril dragon/Strategies(Ranged)
+4 | Nightmare Zone/Strategies(Magic)
+5 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+5 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+5 | Nightmare Zone/Strategies(Melee (Guthan's))
+4 | The Nightmare/Strategies(Melee)
+5 | Phantom Muspah/Strategies(Ranged)
+3 | Phantom Muspah/Strategies(Magic & Ranged)
+4 | Phosani's Nightmare/Strategies(Melee)
+2 | Revenants/Strategies(Magic)
+1 | Revenants/Strategies(Ranged)
+3 | Revenants/Strategies(Melee)
+3 | Royal Titans/Strategies(Minimal gear switching)
+5 | Rune dragon/Strategies(Melee)
+1 | Scorpia/Strategies(Magic)
+4 | Scurrius/Strategies(Magic (high level))
+4 | Scurrius/Strategies(Melee (high level))
+3 | Scurrius/Strategies(Range (high level))
+3 | Skeletal Wyvern/Strategies(Ranged (Void))
+3 | Skeletal Wyvern/Strategies(Ranged)
+4 | Skeletal Wyvern/Strategies(Magic)
+4 | Skeleton (Ape Atoll)(Magic)
+3 | Slayer task/Abyssal demons(Ranged)
+3 | Slayer task/Abyssal demons(Magic)
+4 | Slayer task/Fossil Island wyverns(Magic)
+4 | Slayer task/Fossil Island wyverns(Ranged)
+4 | Slayer task/Gargoyles(Melee)
+3 | Slayer task/Nechryael(Melee)
+4 | Smoke devil/Strategies
+2 | Spindel/Strategies(Ranged)
+3 | Spindel/Strategies(Melee)
+4 | The Hueycoatl/Strategies(Melee)
+5 | Thermonuclear smoke devil/Strategies(Magic)
+5 | Tombs of Amascut/Strategies(Melee switch)
+5 | Tormented Demon/Strategies(Melee switch)
+5 | Tormented Demon/Strategies(Magic switch)
+4 | Tormented Demon/Strategies(Ranged switch)
+5 | TzHaar Fight Cave/Strategies(Ranged)
+5 | TzHaar Fight Cave/Strategies(Magic)
+2 | Ultimate Ironman Guide/Equipment
+2 | Ultimate Ironman Guide/Equipment
+3 | Venenatis/Strategies(Melee)
+2 | Venenatis/Strategies(Ranged)
+3 | Vet'ion/Strategies(Melee)
+4 | Volcanic Mine(Solo)
+4 | Volcanic Mine(Group)
+4 | Vorkath/Strategies(Ranged (crossbow))
+5 | Vyrewatch Sentinel/Strategies(AFK Prayer)

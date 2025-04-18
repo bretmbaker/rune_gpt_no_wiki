@@ -1,0 +1,38 @@
+Name: Magic Mark
+Combat Level: 467
+Size: 1x1
+Info:
+- Description: He doesn't look too friendly.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Freeze: 100% resistance
+- Monster ID: 13663
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 1500
+Attack: 10
+Strength: 30
+Defence: 30
+Magic: 175
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

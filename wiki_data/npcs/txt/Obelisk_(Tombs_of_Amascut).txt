@@ -1,0 +1,2 @@
+Item: Obelisk (Tombs of Amascut)
+Summary: The obelisk is the object that charges Tumeken's Warden and Elidinis' Warden during the first phase of the fight, where it begins transferring energy to them, through several orbs it emits to them.

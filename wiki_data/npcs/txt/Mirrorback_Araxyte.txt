@@ -1,0 +1,2 @@
+Item: Mirrorback Araxyte
+Summary: Mirrorback Araxytes are a type of araxyte who hatch from white eggs during the battle with Araxxor. They will redirect 20% of the damage dealt to Araxxor towards themselves, and further recoil 50% of that damage to the player, effectively resulting in players taking damage equal to 10% of the damage they dealt to Araxxor. However, Mirrorbacks will not reflect damage Araxxor deals to himself during the enrage phase.

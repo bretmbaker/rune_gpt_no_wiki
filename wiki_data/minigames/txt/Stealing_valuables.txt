@@ -1,0 +1,90 @@
+[Minigame: Stealing_valuables]
+
+Stealing valuables
+
+
+
+
+
+Released | 20 March2024(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Civitas illa Fortis
+
+Leagueregion | Varlamore✓
+
+Participants | 1
+
+Skills | Thieving
+
+Requirements | 50
+
+Reward currency | Valuables
+
+
+
+Stealing valuablesis aThievingactivity located inCivitas illa Fortis, requiring level 50Thievingand completion ofChildren of the Sunto participate. The activity involves obtaininghouse keysin order to stealvaluablesfrom one of three houses inhabited bywealthy citizens. These valuables can then be sold toOrianafor profit.
+
+The activity offers a low intensity training method for medium profit and experience rates. If pickpocketing wealthy citizens for their house keys,easy clue scrollsmay also be commonly obtained during the course of the activity. During the burgling portion of the activity, there is an uncommon chance to obtainjewelleryup to diamond, as well as a rare chance to obtain ablessed bone statuette, which can be broken down intoblessed bone shardsthat are used inPrayertraining.
+
+Overview[edit|edit source]
+
+House keys[edit|edit source]
+
+To steal valuables, players must first acquirehouse keys. The fastest way to acquire them is through pickpocketingwealthy citizensin thebazaar, where they are received at a rate of around 1/18. Another way to obtain house keys is byFishingat thefishing spotin the park in east Fortis, at a rate of 1/10.
+
+Around every 84–99 seconds, three street urchins (Leowithin the bazaar,Juliaeast of the bazaar, andAureliasouth of the bazaar) will each distract one of them, indicated by a game message in the chatbox statingYou notice an urchin distract a wealthy citizen nearby.Whilst distracted, the success rate of pickpocketing wealthy citizens becomes 100%, and the player will automatically continue to pickpocket them for up to 24 seconds, after which they will stop being distracted. This distraction happens at the same time on all three locations. If the player is not present to notice an urchin begin a distraction (for example, due to world hopping), they will auto-pickpocket at a much slower rate for approximately 15 seconds, receiving the chat messageYour hands are sweaty and keep dropping the items in the Citizen's pockets.No items are actually dropped. This may be an attempt to disincentiviseworld hopping.
+
+Players who wear the fullrogue's outfitwill receive double the house keys acquired.
+
+Burgling houses[edit|edit source]
+
+There are three houses in the city which can be stolen from, each marked with aThieving activity icon on the minimap:
+
+Lavinia's house, directly south-west of thebazaarVictor's house, in the south-western corner of the cityCaius' house, directly north-west of the western bank
+
+At any given time, one of the three houses can be burgled; this is indicated by the absence of the owner and the entrance being marked as a "Locked Door". Players can also pay 15 valuables to several urchins around this area -Lucia,Oli,Rufus, andAva- to learn which house is currently (or about to be) vacant, provided they currently have house keys in their inventory. This information is free for players who have earned the Gladiatorrankat theFortis Colosseum, requiring 8,000gloryto attain.
+
+The next available house is chosen at random: the thieving cycle begins with the homeowner announcing they are leaving to perform various errands. They will exit their house, lock the door, and leave the area. The player must wait outside until the homeowner has left the immediate vicinity of the house before entering, as they will otherwise receive a chat message stating,You notice the owner is still near the door and decide not to enter.If the player was already inside the house whilst the homeowner locked the door, they will be kicked out with the messageYou are escorted out of the house as the owner has locked the door.
+
+Once inside, there are chests, wardrobes, and jewellery cases which players may search in order to steal valuables. These are stackable, and players may loot each object for up to 50-60 seconds without additional input, gaining 45 Thieving experience per stolen valuable. This timer resets upon switching to loot another object. At least one free inventory space is needed to loot the objects, if your inventory is full you will receive the message,You need at least one free inventory space to steal from that.
+
+At random, a flashing arrowwill appear above one of the objects in the house andYou notice something shine somewhere else in the house.appears in the chatbox. Searching these objects will net a one-time bonus of 14 valuables and 630 Thieving experience. The arrow will disappear after around 7 seconds if the player has not stolen from it before then. It is recommended to loot the object in the middle of the house to reduce the risk of missing the shiny object.
+
+The following images of the houses highlight the searchable objects in yellow, and the locked door and window exit in green:
+
+An overview ofCaius' house.Avais found nearby to warn of his imminent return.An overview ofVictor's house.Rufusis found nearby to warn of his imminent return.An overview ofLavinia's house.Luciais found nearby to warn of her imminent return.
+
+The homeowner will return 180–190 seconds after they left the house;  a whistle serves as an audio cue to warn the player, and a game message in the chatbox will stateYou hear someone outside spot the homeowner coming back!At this point, the player should exit from the open window. Otherwise, the homeowner will spot and throw out the player, causing them to lose around 90% of the valuables stolen from that house. Any previously obtained valuables, however, are not taken away. Note that dropping the valuables just before you are caught will allow you to recollect them from the ground even if the homeowner has thrown out the player, effectively avoiding the penalty if you know you cannot get to the window in time.
+
+Players have a 1/206,777 chance[1]to receiveRocky, the thieving pet, whilst thieving from the houses of wealthy citizens.
+
+Rewards[edit|edit source]
+
+Any valuables obtained may be sold to Oriana (Dodgy Character the first time you meet), standing just outside the Fortis west bank, for 55 coins each; this is increased to 65 for players who have earned the Gladiatorrankat theFortis Colosseum, requiring 8,000gloryto attain. Additionally, whilst stealing valuables, there is an uncommon chance to obtain jewellery up to diamond (excluding semi-precious gems such as red topaz), as well as a rare chance to obtain ablessed bone statuette, which can be broken down intoblessed bone shardsthat are used inPrayertraining.
+
+Players can expect to obtain about 1,600–2,300 valuables from 18–19 houses per hour. Excluding jewellery found during the activity, players can expect to gain about 90,000–125,000 coins per hour, or 105,000–150,000 with theFortis ColosseumGladiatorrank. It is possible to bank the stolen valuables, and players that wish to maximize their resale value might want to hold on to them until they become Gladiator.
+
+Experience[edit|edit source]
+
+Roughly 70,000–105,000 Thieving experience can be gained per hourexclusivelyfrom the burgling portion of this activity, as long as very few to no flashing arrows are missed. The rogue's outfit will double the keys obtained during pickpocketing, resulting in increased house time. However, with a sufficiently high Thieving level (around 80 or higher), sticking to pickpocketing wealthy citizens can actually give more experience due to the lower failure rate.
+
+The following chart represents the overall experience per hour for burgling houses:
+
+Level | Estimated XP/hr
+
+50 | 72,000
+
+60 | 80,000
+
+70 | 93,000
+
+80 | 95,000
+
+90 | 100,000
+
+99 | 105,000
+

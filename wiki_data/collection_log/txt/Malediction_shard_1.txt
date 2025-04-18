@@ -1,0 +1,4 @@
+Item: Malediction shard 1
+Summary: The malediction shard 1 is an item dropped by the Chaos Fanatic. When the two other shards, the malediction shard 2 and 3 are obtained, they can be forged into a malediction ward on the Wilderness Volcano on the most north-east part of the Wilderness.
+Sources:
+- Chaos Fanatic (Level 202, Quantity: 1, Rarity: 1/256)

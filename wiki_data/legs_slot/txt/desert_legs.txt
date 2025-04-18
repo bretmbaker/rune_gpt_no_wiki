@@ -1,0 +1,49 @@
+[Weapon: Desert Legs]
+
+
+Desert legsare part of theDesert outfitset. When worn, this clothing item delays thedesert heateffect by 12 additional seconds. It has no other bonuses.
+Players can obtain these legs during, and after, theRogue Traderminiquest by trading withAli Morrisaneafter givingSiamunthree animal skins of the same type.
+
+
+[Infobox]
+Released: 15 August2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Better than factor 50 sun cream.
+General Store Value: 25 coins
+High alch: 15 coins
+Low alch: 10 coins
+Weight: 0.005 kg
+Grand Exchange Value: 1,703 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 20
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

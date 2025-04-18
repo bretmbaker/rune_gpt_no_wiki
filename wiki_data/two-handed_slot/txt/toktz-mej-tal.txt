@@ -1,0 +1,63 @@
+[Weapon: Toktz-Mej-Tal]
+
+
+Atoktz-mej-tal(also known as anobsidian staff) is a two-handedstaffwielded by theTzHaar-Mej, and can be obtained as a very rare drop from them. Level 60MagicandAttackare required to equip it. As well as being able to cast Magicspells, it can be sufficiently used as ameleeweapon due to its attack bonuses. It is one of the only staves that requires two hands to equip, the others being theGauntlet-exclusiveCrystalandCorrupted staves, theBlue moon spear, andTumeken's shadow.
+Ten of these are used to build anobsidian fenceat level 83Constructionin a player'sSuperior Garden.
+
+
+[Infobox]
+Released: 19 September2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A staff of obsidian.
+General Store Value: 35,000 coins
+High alch: 21,000 coins
+Low alch: 14,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 517,784 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 265
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +15
+- Slash: -1
+- Crush: +55
+- Magic: +15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +10
+- Slash: +15
+- Crush: +5
+- Magic: +15
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +55
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+TzHaar-Mej | 103 | 1 | 1/4,096 | 

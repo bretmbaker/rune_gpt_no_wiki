@@ -1,0 +1,54 @@
+[Weapon: Black Wizard Hat (G)]
+
+
+TheBlack wizard hat (g)is a blackwizard hatwith a gold trim, and is part of theblack gold-trimmed wizard robes. It is obtainable by completingeasyTreasure Trails.
+This hat is usually worn by pures as it requires no Defence level and gives minimal magic defence. This item has the same bonuses as the regular black or blueWizard hatbut is worn by players to show a form of wealth.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A silly pointed hat, with colourful trim.
+General Store Value: 2 coins
+High alch: 1 coin
+Low alch: 0 coins
+Weight: 0.453 kg
+Grand Exchange Value: 283,121 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 158
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +2
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +2
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 1/1,404 | 

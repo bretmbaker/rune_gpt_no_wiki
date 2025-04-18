@@ -1,0 +1,56 @@
+[Weapon: White Halberd]
+
+
+Thewhite halberdis aWhite Knightweaponthat requires 10Attackand 5Strengthand the completion of theWanted!questto wield. It has the same bonuses as ablack halberd, with an added +1prayer bonus.
+Players can purchase it fromSir Vyvinafter achieving therankof Master (1,300black knightkills). It can also be bought on the Grand Exchange or obtained through trading other players.
+
+
+[Infobox]
+Released: 17 October2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A white halberd.
+General Store Value: 1,920 coins
+High alch: 1,152 coins
+Low alch: 768 coins
+Weight: 3.175 kg
+Grand Exchange Value: 2,450 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 26
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +19
+- Slash: +25
+- Crush: +0
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: -1
+- Slash: +2
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +20
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Jab | Stab | Controlled | 7 ticks (4.2s) | 2 tiles |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Aggressive |  | +3 Strength
+ | Fend | Stab | Defensive |  | +3 Defence

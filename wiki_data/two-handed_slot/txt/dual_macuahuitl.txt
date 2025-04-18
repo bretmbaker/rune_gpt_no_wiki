@@ -1,0 +1,91 @@
+[Weapon: Dual Macuahuitl]
+
+
+Thedual macuahuitl(pronounced mah-kwa-we-tl) is a two-handed weapon that requires level 70Attackand 75Strengthto equip, which is obtained as a possible reward from theLunar ChestinNeypotzli.
+The weapon hits twice per attack, spaced 1 game tick apart when attacking monsters, and dealing damage in twohitsplats, with both hitsplats having their max hit halved. If the player has an oddmaximum hit, the first hit's maximum damage will be rounded down and the second hit's will be rounded up, e.g. a maximum hit of 25 will be split into two maximum hits of 12 and 13.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A brutal pair.
+General Store Value: 290,010 coins
+High alch: 174,006 coins
+Low alch: 116,004 coins
+Weight: 3.628 kg
+Grand Exchange Value: 8,774,340 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 1,066
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +115
+- Slash: -4
+- Crush: +121
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +81
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing the dual macuahuitl's special attack,Blood Infusion.
+The dual macuahuitl has aspecial attack,Blood Infusion, costing 25% special attack energy and requiring the fullblood moon armourset to use.
+Blood Infusion raises the player's minimum and maximum hit by 25% for that attack, whilst taking damage equal to 25% of their currentHitpoints, rounded down (dealing no damage when less than 4 health). Additionally, theBloodragerset effect is guaranteed to trigger if the attack hits; if the special attack fails, the player will still take the damage used for it.
+Within theNightmare Zone, the special attack will removeabsorptioncharges if above 4 HP, dealing 0 damage to the player.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Lunar Chest | N/A | 1 | 1/224 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Alchemical Hydra/Strategies(Melee)
+2, 3 | Amoxliatl/Strategies(Melee)
+5 | Araxxor/Strategies(Melee)
+2 | Barbarian Assault/Strategies(Melee (high level))
+4 | Calvar'ion/Strategies(Melee)
+3 | Chambers of Xeric/Strategies(Melee)
+2 | Moons of Peril/Strategies(Blue Moon)
+3 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+4 | The Nightmare/Strategies(Melee)
+4 | Phosani's Nightmare/Strategies(Melee)
+4 | Royal Titans/Strategies(Best-in-slot)
+1 | Royal Titans/Strategies(Mid-game)
+3 | Sarachnis/Strategies(Melee)
+3 | Slayer task/Gargoyles(Melee)
+4 | Slayer task/Waterfiends(Melee)
+3 | The Hueycoatl/Strategies(Melee)
+1 | The Hueycoatl/Strategies(Tail)
+4 | Vet'ion/Strategies(Melee)

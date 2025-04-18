@@ -1,0 +1,2 @@
+Item: Maze Guardian
+Summary: The Maze Guardian of the Mage Training Arena is the guardian which players must teleport around the telekinetic theatre. Once the guardian is teleported onto the pressure pad of the maze, players can talk to him to start the next maze.

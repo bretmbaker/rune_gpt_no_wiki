@@ -1,0 +1,39 @@
+Name: Sea monodon
+Combat Level: 196
+Size: 3x3
+Info:
+- Description: Better watch out for that horn!
+
+Slayer Info:
+
+Immunities:
+- Poison: ? (edit)
+- Venom: ? (edit)
+- Monster ID: beta14264,beta14265
+- Link: MOID
+
+Location:
+- Area: The Unquiet Ocean
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 360
+Attack: 50
+Strength: None
+Defence: 100
+Magic: None
+Ranged: 25
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

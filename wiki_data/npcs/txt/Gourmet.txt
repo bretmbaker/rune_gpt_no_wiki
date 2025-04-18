@@ -1,0 +1,2 @@
+Item: Gourmet
+Summary: Gourmets are cave goblins that one can sell food to in the Dorgesh-Kaan market trading minigame.

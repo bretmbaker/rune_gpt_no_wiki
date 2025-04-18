@@ -1,0 +1,49 @@
+[Weapon: Green D%27Hide Shield]
+
+
+Agreen d'hide shieldis aleather shieldthat requires at least level 40RangedandDefenceto be worn.
+
+
+[Infobox]
+Released: 1 February2018(Update)
+Also called: Green dragonhide shield
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A solid maple shield covered in green dragon leather.
+General Store Value: 5,500 coins
+High alch: 3,300 coins
+Low alch: 2,200 coins
+Weight: 8 kg
+Grand Exchange Value: 3,141 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 319
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -15
+- Slash: -15
+- Crush: -11
+- Magic: -10
+- Ranged: +4
+
+Defence Bonuses:
+- Stab: +14
+- Slash: +12
+- Crush: +11
+- Magic: +9
+- Ranged: +11
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

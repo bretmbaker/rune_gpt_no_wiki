@@ -1,0 +1,68 @@
+[Weapon: Ghommal%27S Lucky Penny]
+
+
+Ghommal's lucky pennyis an item equipped in the ammunition slot, obtained fromGhommalorLaidee Gnonockafter claiming the master tier rewards from theCombat Achievementssystem.
+When equipped, it offers a 5% chance to not use a charge when using items that consume charges (such as jewellery and weapons). When equipped in conjunction with anelvenorcelestial signet, both items will roll independently at a chance to not use a charge while using a piece ofcrystal equipment.[1]
+
+
+[Infobox]
+Released: 30 November2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Equip, Drop
+Examine: I'm sure he won't mind me borrowing this...
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.05 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Amoxliatl/Strategies(Melee)
+2 | Chompington(Melee)
+2 | Down Do Specs(Melee)
+1 | Duke Sucellus/Strategies(Melee)
+1 | Guardians of the Rift/Strategies(Runecrafting)
+1 | Tempoross/Strategies(Standard)
+1 | The Hueycoatl/Strategies(Melee)
+1 | Theatre of Blood/Hard Mode(Range)
+1 | Theatre of Blood/Hard Mode(Melee)
+1 | Theatre of Blood/Hard Mode(Magic)
+1 | Theatre of Blood/Strategies(Melee)
+1 | Theatre of Blood/Strategies(Range)
+1 | Theatre of Blood/Strategies(Magic)
+1 | Ultimate Ironman Guide/Equipment
+2 | Vardorvis/Strategies(Melee)
+1 | Volcanic Mine(Solo)
+1 | Volcanic Mine(Group)
+1 | Zalcano/Strategies(Mining)

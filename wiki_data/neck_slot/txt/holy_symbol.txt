@@ -1,0 +1,85 @@
+[Weapon: Holy Symbol]
+
+
+Aholy symbolis an amulet donning the symbol ofSaradomin. They are made by having anunblessed symbolblessed byBrother Jeredin theEdgeville Monastery, or by blessing it via using aholy bookorbook of balanceon anunblessed symbolat 50Prayer, requiring a few prayer points. As Brother Jered is located on the upper floor of the monastery, blessing the symbol effectively requires a minimum of level 31 Prayer due to the entry requirement.
+It has the third highest prayer bonus for an amulet in game (after godstolesand thedragonbone necklace). It is cheap, easy to obtain, and is commonly used in conjunction withProselyte armourand other high prayer granting armour when using protect prayers as a form of defence while training.
+
+
+[Infobox]
+Released: 12 July2001(Update)
+Members: No
+Quest item: Animal Magnetism,The Great Brain Robbery
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A blessed holy symbol of Saradomin.
+General Store Value: 300 coins
+High alch: 180 coins
+Low alch: 120 coins
+Weight: 0.007 kg
+Grand Exchange Value: 628 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 5,672
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: +2
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +8
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Christmas cracker | N/A | 1 | Always | N/A
+Coffin (Hallowed Sepulchre)Low | 66 | 1 | 1/10 | 
+Hallowed sack | N/A | 1 | 5 × 1/10 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Barrows/Strategies(Ranged (Ahrim))
+5 | Barrows/Strategies(Tank & Lower level)
+3 | Basilisk Knight/Strategies(Ranged/Prayer)
+5 | Commander Zilyana/Strategies(Ranged)
+4 | Dust devil/Strategies(Bursting/Barraging)
+5 | Free-to-play Ironman guide(Magicgear)
+1 | Free-to-play Ironman guide(Prayermelee gear)
+4 | Free-to-play Ironman guide(Rangedgear)
+5 | Free-to-play Ironman guide(Meleegear)
+4 | Free-to-play Magic training(Magicgear)
+3 | Free-to-play Ranged training(Rangedgear)
+4 | Free-to-play melee training(Meleegear)
+4 | Greater Nechryael/Strategies(Bursting/Barraging)
+2 | Hallowed Sepulchre/Strategies(Agility)
+5 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+4 | Maniacal monkey/Strategies(Ranged)
+5 | Maniacal monkey/Strategies(Magic - Ice Burst)
+4 | Slayer task/Nechryael(Magic)
+1 | Sulliuscep/Strategies
+1 | Sulliuscep/Strategies
+2 | TzHaar Fight Cave/Strategies(Early-game iron)
+3 | Volcanic Mine(Solo)
+3 | Volcanic Mine(Group)
+3 | Why Fletch?(Redemption strategy at Wintertodt)
+3 | Zalcano/Strategies(Mining)

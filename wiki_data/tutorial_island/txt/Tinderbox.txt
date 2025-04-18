@@ -1,0 +1,7 @@
+[Page: Tinderbox]
+
+Infobox:
+TinderboxReleased4 January2001(Update)MembersNoQuest itemNoPropertiesTradeableYesEquipableNoStackableNoNoteableYesOptionsDropExamineUseful for lighting a fire.ValuesValue1 coinHigh alch0 coinsLow alch0 coinsWeight0.035 kgRespawn time100 ticks (60 seconds)Grand ExchangeExchange94coins (info)Buy limit40Daily volume17,230View real-time pricesLoading...Advanced dataItem ID590LinkMOID
+
+Description:
+Thetinderboxis used primarily forlighting firesby clicking 'use' on the tinderbox, then clicking a log. A tinderbox can be bought in most general stores. It is also used to light and relightcandlesandlanterns, so any player venturing into a dark area such as theLumbridge Cavesshould bring one in case theirlight sourcegoes out.

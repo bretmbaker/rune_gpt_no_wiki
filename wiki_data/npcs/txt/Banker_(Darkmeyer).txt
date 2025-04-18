@@ -1,0 +1,2 @@
+Item: Banker (Darkmeyer)
+Summary: The bankers run the bank in Darkmeyer. They will refuse the player access to their bank or let them use the deposit box or poll booth unless they are wearing a full set of Vyre noble clothing and have completed Sins of the Father.

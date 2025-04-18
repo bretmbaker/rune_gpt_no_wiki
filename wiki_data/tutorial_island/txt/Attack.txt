@@ -1,0 +1,12 @@
+[Page: Attack]
+
+Attackis aplayer'saccuracy inmeleecombat. As a player raises their Attack level, they can deal damage more consistently as well as wieldweaponsof stronger materials.
+In order to efficiently gainexperiencein the Attack skill, players must choose either theaccurateorcontrolledattack style. While using theaccuratestyle, players gain an invisible +3 attack bonus and gain 4 attack xp per point of damage inflicted. While using thecontrolledstyle, players gain an invisible +1 attack bonus (and +1 strength and 1+ defence bonus) and gain 1.33 attack xp per point of damage inflicted. Attack isused to calculate the accuracy of your attacksagainst an enemy's defence.
+Someweaponsgive playersAttack bonuseswhen using certainattack types. These bonuses are noted in theEquipment Statssection of the equipment menu. Attack bonuses give players advantages as well as disadvantages inmeleecombat, based on their target's strengths and weaknesses.
+See alsothe highest possible bonuses for each style.
+In order to wieldweapons, a certain Attack level requirement must be met. Commonly used items and their corresponding level requirements are as follows:
+RequiresBarbarian training.
+RequiresBarbarian training.
+In addition, there is a chance that theObservatory Questmay award 875Attack experience.
+Upon completing any of the following quests, players may choose to allocate experience to Attack. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.
+8mago-Crabby

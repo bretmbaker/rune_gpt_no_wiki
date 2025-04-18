@@ -1,0 +1,235 @@
+[Minigame: Raging_Echoes_League/Areas/Morytania]
+
+Raging Echoes
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+Guides
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+TheMorytaniaarea covers the entirety ofMorytaniaalong with the island ofMos Le'Harmless,Braindeath Island,Dragontooth IslandandHarmony Island. Instances of areas in Morytania and underground areas with an entrance in Morytania will also be included.
+
+Overview of area[edit|edit source]
+
+Notable settlements[edit|edit source]
+
+Burgh de RottCanifisDarkmeyerMeiyerditchMort'tonMos Le'HarmlessPort PhasmatysSlepeVer Sinhaza
+
+Restricted travel[edit|edit source]
+
+The following travel options are restricted unless the appropriate area is unlocked:
+
+The agility shortcut through the railing next to thePaterdomus Templeleading toMisthalinThe stairs leading from the Paterdomus temple up to Misthalin
+
+Notable combat-related activities[edit|edit source]
+
+BarrowsCave horrorsFenkenstrain's experimentsGrotesque GuardiansHaunted MineMorytania Spider CaveThe Nightmare of AshihamaLair of Tarn RazorlorShades of Mort'tonSlayer TowerTheatre of BloodVyrewatch SentinelsEcho Boss:Grotesque Guardians
+
+In Raging Echoes League,Theatre of Blood: Hard modeandPhosanis nightmarehave the following changes:
+
+Damage & Defence increased by 25%50% increased hitpoints on monstersUnique chance will be further multiplied by 2.In Theatre of Blood: Hard mode, if a unique is rolled for any player, everyone in a team will receive a unique item.
+
+Notable non-combat activities[edit|edit source]
+
+Canifis Rooftop CourseDaeyalt EssenceminingEctofuntusprayer trainingHallowed SepulchreHarmony Islandherb patchPort Phasmatysallotment patchTemple TrekkingTrue Blood Altar(Ablood talismancan be purchased from theCanifis General Store)VyrelordpickpocketingWerewolf Agility Course
+
+Notable shops[edit|edit source]
+
+Ak-Haranu's Exotic Shop.Smithing Smith's Shop.
+
+Changes to shops[edit|edit source]
+
+TheCanifis General Storecarries ablood talisman
+
+Unlocks[edit|edit source]
+
+The following quests and achievement diary tasks are automatically completed after unlocking the area.
+
+Quests[edit|edit source]
+
+Ghosts AhoyA Taste of HopeDarkness of HallowvaleIn Aid of the MyrequeIn Search of the MyrequeNature SpiritPriest in PerilRestless GhostThe Great Brain RobberyCreature of FenkenstrainCabin FeverPirate's TreasureRum DealZogre Flesh EatersBig Chompy Bird HuntingRecipe for Disaster/Freeing Pirate PeteRecipe for Disaster/Another Cook's QuestCook's Assistant
+
+Achievement diary tasks[edit|edit source]
+
+ | Morytania Diary
+
+Easy Tasks | None
+
+Medium Tasks | Make a batch of cannonballs at the Port Phasmatys furnace
+
+Hard Tasks | Enter the Kharyrll portal in your POH through a Portal ChamberPray at the altar of nature in the nature grotto with piety activated
+
+Elite Tasks | Catch a shark in Burgh de Rott with your bare handsFertilize the Morytania herb patch using lunar spells
+
+Slayer[edit|edit source]
+
+This region will add the following tasks to your slayer list (Combat levelwhere they are enabled):
+
+Vampyres(35 - 100)Banshees(20 - 50)Gargoyles(80 - 126)Bloodveld(50 - 126)Nechryael(85 - 126)Cave Horrors(85 - 126)
+
+Notable drops[edit|edit source]
+
+These items are highlighted as key drops from the area which are affected by the boosted drop rate granted by passive relics.
+
+ | Item | Source | BaseRarity | 2x DropMultiplier | 5x DropMultiplier
+
+ | Gloves of the damned | Echo Grotesque Guardians | 1/25 | N/A | N/A
+
+ | Barrows armour pieces[d 1] | Barrows | 1/392 | 1/196 | 1/78
+
+ | Barrows armour pieces[d 2] | Barrows | 1/102 | 1/51 | 1/20
+
+ | Granite gloves[d 3] | Grotesque Guardians | 1/500 | 1/250 | 1/100
+
+ | Granite ring[d 3] | Grotesque Guardians | 1/500 | 1/250 | 1/100
+
+ | Granite hammer[d 3] | Grotesque Guardians | 1/750 | 1/375 | 1/150
+
+ | Guardian boots[d 3][d 4] | Grotesque Guardians | 1/1,000 | 1/500 | 1/200
+
+ | Ring of endurance (uncharged) | Grand Hallowed Coffin | 1/200 | 1/100 | 1/40
+
+ | Unique reward[d 5][d 4] | Theatre of Blood | 1/9.1 | 1/4.6 | 1/1.8
+
+ | Unique reward[d 6][d 4] | Theatre of Blood/Hard Mode[d 7] | 1/7.7 | 1/3.9 | 1/1.5
+
+ | Nightmare staff[d 8] | The Nightmare | 1/300 | 1/150 | 1/60
+
+ | Inquisitor's armour[d 8] | The Nightmare | 1/140 | 1/70 | 1/28
+
+ | Inquisitor's mace[d 8] | The Nightmare | 1/750 | 1/375 | 1/150
+
+ | Nightmare staff orbs[d 8] | The Nightmare | 1/320 | 1/160 | 1/64
+
+ | Black mask | Cave horror | 1/512 | 1/256 | 1/102
+
+ | Blood shard | Vyrewatch sentinel | 1/1,500 | 1/750 | 1/300
+
+ | Blood shard | Vyre | 1/5,000 | 1/2,500 | 1/1,000
+
+ | Nightmare staff | Phosani's Nightmare[d 9] | 1/266 | 1/133 | 1/53
+
+ | Inquisitor's armour | Phosani's Nightmare[d 9] | 1/116 | 1/58 | 1/23
+
+ | Inquisitor's mace | Phosani's Nightmare[d 9] | 1/625 | 1/312 | 1/125
+
+ | Nightmare staff orbs | Phosani's Nightmare[d 9] | 1/266 | 1/133 | 1/53
+
+ | Zealot's robes | Shades of Mort'ton | 1/128 | 1/64 | 1/25
+
+ | Runescroll of swampbark[d 10] | Shades of Mort'ton | 1/107 | 1/53 | 1/21
+
+ | Runescroll of bloodbark[d 10] | Shades of Mort'ton | 1/107 | 1/53 | 1/21
+
+ | Amulet of rancour[d 4] | Araxxor | 1/600 | 1/300 | 1/120
+
+ | Noxious halberd pieces | Araxxor | 1/200 | 1/100 | 1/40
+
+ | Aranea boots[d 11] | Araxyte | 1/4,000 | 1/2,000 | 1/800
+
+References[edit|edit source]
+
+v•t•eRaging Echoes League
+
+ | The SageLeagues TutorInfo BoardLeagues Reward ShopGuideTasksQuestsRelicsCombat Masteries
+
+Areas | MisthalinKaramjaAsgarniaFremennik ProvinceKandarinKharidian DesertMorytaniaTirannwnWildernessKourendVarlamore
+
+Skill guides | AgilityConstructionCookingCraftingFarmingFiremakingFishingFletchingHerbloreHunterMagicMeleeMiningPrayerRangedRunecraftSlayerSmithingThievingWoodcutting
+
+Relics | Tier 1Power MinerLumberjackAnimal WranglerTier 2Corner CutterFriendly ForagerDodgy DealsTier 3Clue CompassBank HeistFairy's FlightTier 4Golden GodReloadedEquilibriumTier 5Treasure ArbiterProduction MasterSlayer MasterTier 6Total RecallBanker's NoteTier 7Pocket KingdomGrimoireOvergrownTier 8SpecialistGuardianLast Stand | Tier 1 | Power MinerLumberjackAnimal Wrangler | Tier 2 | Corner CutterFriendly ForagerDodgy Deals | Tier 3 | Clue CompassBank HeistFairy's Flight | Tier 4 | Golden GodReloadedEquilibrium | Tier 5 | Treasure ArbiterProduction MasterSlayer Master | Tier 6 | Total RecallBanker's Note | Tier 7 | Pocket KingdomGrimoireOvergrown | Tier 8 | SpecialistGuardianLast Stand
+
+Tier 1 | Power MinerLumberjackAnimal Wrangler
+
+Tier 2 | Corner CutterFriendly ForagerDodgy Deals
+
+Tier 3 | Clue CompassBank HeistFairy's Flight
+
+Tier 4 | Golden GodReloadedEquilibrium
+
+Tier 5 | Treasure ArbiterProduction MasterSlayer Master
+
+Tier 6 | Total RecallBanker's Note
+
+Tier 7 | Pocket KingdomGrimoireOvergrown
+
+Tier 8 | SpecialistGuardianLast Stand
+
+Combat Masteries | MeleeTier 1Tier 2Tier 3Tier 4Tier 5Tier 6RangedTier 1Tier 2Tier 3Tier 4Tier 5Tier 6MagicTier 1Tier 2Tier 3Tier 4Tier 5Tier 6 | Melee | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6 | Ranged | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6 | Magic | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6
+
+Melee | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6
+
+Ranged | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6
+
+Magic | Tier 1Tier 2Tier 3Tier 4Tier 5Tier 6
+
+Echo bosses | CerberusKalphite QueenDagannoth Kings(Prime•Rex•Supreme)Thermonuclear smoke devilHesporiGrotesque Guardians(Dawn•Dusk•Definitely Not Dusk)Corrupted HunllefSol HereditKing Black DragonEcho orbsAsgarniaDesertFremennikKandarinKourendMorytaniaTirannwnVarlamoreWildernessEcho equipmentThe dogswordDrygore blowpipeAmulet of the monarchsEmperor ringDevil's elementNature's reprisalGloves of the damnedCrystal blessingSunlight spearSunlit bracersThunder khopeshThousand-dragon ward |  | CerberusKalphite QueenDagannoth Kings(Prime•Rex•Supreme)Thermonuclear smoke devilHesporiGrotesque Guardians(Dawn•Dusk•Definitely Not Dusk)Corrupted HunllefSol HereditKing Black Dragon | Echo orbs | AsgarniaDesertFremennikKandarinKourendMorytaniaTirannwnVarlamoreWilderness | Echo equipment | The dogswordDrygore blowpipeAmulet of the monarchsEmperor ringDevil's elementNature's reprisalGloves of the damnedCrystal blessingSunlight spearSunlit bracersThunder khopeshThousand-dragon ward
+
+ | CerberusKalphite QueenDagannoth Kings(Prime•Rex•Supreme)Thermonuclear smoke devilHesporiGrotesque Guardians(Dawn•Dusk•Definitely Not Dusk)Corrupted HunllefSol HereditKing Black Dragon
+
+Echo orbs | AsgarniaDesertFremennikKandarinKourendMorytaniaTirannwnVarlamoreWilderness
+
+Echo equipment | The dogswordDrygore blowpipeAmulet of the monarchsEmperor ringDevil's elementNature's reprisalGloves of the damnedCrystal blessingSunlight spearSunlit bracersThunder khopeshThousand-dragon ward
+
+Gameplay items | Arcane grimoireBanker's briefcaseBanker's noteClue compassCrystal of echoesCrystal dagger (perfected)Fairy mushroomForager's pouchGuardian hornLeprechaun's vaultRaids megarare voucherPocket kingdomSage's greavesToolsEcho axeEcho harpoonEcho pickaxeScroll boxesBeginnerEasyMediumHardEliteMaster |  | Arcane grimoireBanker's briefcaseBanker's noteClue compassCrystal of echoesCrystal dagger (perfected)Fairy mushroomForager's pouchGuardian hornLeprechaun's vaultRaids megarare voucherPocket kingdomSage's greaves | Tools | Echo axeEcho harpoonEcho pickaxe | Scroll boxes | BeginnerEasyMediumHardEliteMaster
+
+ | Arcane grimoireBanker's briefcaseBanker's noteClue compassCrystal of echoesCrystal dagger (perfected)Fairy mushroomForager's pouchGuardian hornLeprechaun's vaultRaids megarare voucherPocket kingdomSage's greaves
+
+Tools | Echo axeEcho harpoonEcho pickaxe
+
+Scroll boxes | BeginnerEasyMediumHardEliteMaster
+
+Rewards | TrophiesBronzeIronSteelMithrilAdamantRuneDragonRaging Echoes Hunter OutfitsTier 1HatTopTrousersBootsSetTier 2HatTopTrousersBootsSetTier 3HatTopTrousersBootsSetOrnament kitsAhrim's robesVenator bowVirtus robesItemsEcho venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottomHome decorationsCurtainsRugPortal framePortal nexusScrying poolSpirit treeFurnitureRaging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy treeAnimation overridesDeathHome teleportNPC ContactOtherBannerCane | Trophies | BronzeIronSteelMithrilAdamantRuneDragon | Raging Echoes Hunter Outfits | Tier 1HatTopTrousersBootsSetTier 2HatTopTrousersBootsSetTier 3HatTopTrousersBootsSet | Tier 1 | HatTopTrousersBootsSet | Tier 2 | HatTopTrousersBootsSet | Tier 3 | HatTopTrousersBootsSet | Ornament kits | Ahrim's robesVenator bowVirtus robesItemsEcho venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottom |  | Ahrim's robesVenator bowVirtus robes | Items | Echo venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottom |  | Echo venator bow | Ahrim's robes | HoodRobetopRobeskirtStaff | Virtus robes | MaskRobe topRobe bottom | Home decorations | CurtainsRugPortal framePortal nexusScrying poolSpirit treeFurnitureRaging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy tree |  | CurtainsRugPortal framePortal nexusScrying poolSpirit tree | Furniture | Raging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy tree | Animation overrides | DeathHome teleportNPC Contact | Other | BannerCane
+
+Trophies | BronzeIronSteelMithrilAdamantRuneDragon
+
+Raging Echoes Hunter Outfits | Tier 1HatTopTrousersBootsSetTier 2HatTopTrousersBootsSetTier 3HatTopTrousersBootsSet | Tier 1 | HatTopTrousersBootsSet | Tier 2 | HatTopTrousersBootsSet | Tier 3 | HatTopTrousersBootsSet
+
+Tier 1 | HatTopTrousersBootsSet
+
+Tier 2 | HatTopTrousersBootsSet
+
+Tier 3 | HatTopTrousersBootsSet
+
+Ornament kits | Ahrim's robesVenator bowVirtus robesItemsEcho venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottom |  | Ahrim's robesVenator bowVirtus robes | Items | Echo venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottom |  | Echo venator bow | Ahrim's robes | HoodRobetopRobeskirtStaff | Virtus robes | MaskRobe topRobe bottom
+
+ | Ahrim's robesVenator bowVirtus robes
+
+Items | Echo venator bowAhrim's robesHoodRobetopRobeskirtStaffVirtus robesMaskRobe topRobe bottom |  | Echo venator bow | Ahrim's robes | HoodRobetopRobeskirtStaff | Virtus robes | MaskRobe topRobe bottom
+
+ | Echo venator bow
+
+Ahrim's robes | HoodRobetopRobeskirtStaff
+
+Virtus robes | MaskRobe topRobe bottom
+
+Home decorations | CurtainsRugPortal framePortal nexusScrying poolSpirit treeFurnitureRaging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy tree |  | CurtainsRugPortal framePortal nexusScrying poolSpirit tree | Furniture | Raging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy tree
+
+ | CurtainsRugPortal framePortal nexusScrying poolSpirit tree
+
+Furniture | Raging echoes curtainsRaging echoes rugMarble portalCrystalline portal nexusScrying poolSpirit treeSpiritual fairy tree
+
+Animation overrides | DeathHome teleportNPC Contact
+
+Other | BannerCane

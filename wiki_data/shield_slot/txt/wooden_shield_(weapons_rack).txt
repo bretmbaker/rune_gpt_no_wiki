@@ -1,0 +1,46 @@
+[Weapon: Wooden Shield (Weapons Rack)]
+
+
+Awooden shieldcan be found in theweapons rackof aplayer-owned house. It provides no bonuses.
+This shield is obtainable through theConstructionskill. Players require at least 35 Construction to build afencing ring, and subsequently need to be able to construct a 'Level 2 Weapons rack' (44 Construction) to obtain this shield from their own house. However, it may be retrieved from another player's weapons rack.
+
+
+[Infobox]
+Released: 31 May2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A less-than strong shield.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

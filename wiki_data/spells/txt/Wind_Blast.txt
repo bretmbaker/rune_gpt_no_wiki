@@ -1,0 +1,135 @@
+[Spell: Wind_Blast]
+
+Wind Blast
+
+
+
+
+
+
+
+Released | 24 May2001(Update)
+
+Members | No
+
+Level | 41
+
+Spellbook | Standard
+
+Type | Combat
+
+Experience | 25.5
+
+Element | Air
+
+Base max hit | 13, 14, 15, or 16
+
+Runes | 31
+
+Casting speed | 5 ticks
+
+Description | A medium level Air missile
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Wind Blastis anair-basedblast spellin thestandard spellbook, requiring level 41Magicto cast. As anoffensive combat spellit can only be cast onattackable NPCs, or other players in aPvP situation.
+
+It is the strongest wind spell available tofree-to-playplayers, as well as the most cost-effective blast spell to cast.
+
+Damage[edit|edit source]
+
+Wind Blast's base maximum hit starts at 13 and increases as the player unlocks additional blast spells, up to 16 at level 59 Magic.
+
+Magiclevel | Highest-level blast spell available | Wind Blastbase maximum hit
+
+41- 46 | Wind Blast | 13
+
+47- 52 | Water Blast | 14
+
+53- 58 | Earth Blast | 15
+
+59+ | Fire Blast | 16
+
+As with all combat spells, Wind Blast's maximum hit is also increased based on the player'smagic damage bonus.
+
+As an air-based spell, Wind Blast's maximum hit is also increased against targets that areweak to air.
+
+Calculator[edit|edit source]
+
+Please input the data and submit the form.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+31 | 176
+
+Combo runes
+
+13 | 188
+
+13 | 323
+
+13 | 530
+
+Main-hands
+
+1Alt | 161
+
+2.580.86Alt | 151
+
+2.540.85 | 150
+
+Notable uses[edit|edit source]
+
+Wind Blast is the most cost-effective blast spell, since it deals the same amount of damage as the other blast spells while requiring the least amount of runes. Therefore, it is generally preferred over the other blast spells unless the player is fighting a monster with a specificelemental weakness.During theFamily Crestquest, the player must deal damage to the demonChronozonwith Wind Blast (along with each of the other three blast spells) at least once in order to defeat it.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+29 May2024(update) | The maximum hit of the spell now depends on how manyblast spellsthe player has unlocked, based on theirMagiclevel.
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

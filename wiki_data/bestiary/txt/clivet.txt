@@ -1,0 +1,41 @@
+Name: Clivet
+Combat Level: 13
+Size: 1x1
+Info:
+- Description: A member of the Hazeel cult.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 1206,12049,12095
+- Link: MOID
+
+Location:
+- Area: Ardougne Sewers
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 25
+Attack: 10
+Strength: 10
+Defence: 4
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

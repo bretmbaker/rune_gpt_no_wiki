@@ -1,0 +1,79 @@
+[Weapon: Elder Maul]
+
+
+Theelder maulis a two-handedcrush weaponthat requiresAttackandStrengthlevels of 75 to wield. It can be obtained as a possible reward from theChambers of Xeric.
+It is the highest tier crush weapon available inOld School RuneScape. It overtakes thegodswordsas the weapon with the higheststrength bonus. Despite the strength bonus, theabyssal bludgeonoften has higher overall damage output against low-defence monsters because of its quickerattack speed, making it only useful in places such asTekton. Because of its high strength bonus, it is often used as a finisher inplayer killing.
+
+
+[Infobox]
+Released: 5 January2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A maul crafted from the component parts of Tekton.
+General Store Value: 500,010 coins
+High alch: 300,006 coins
+Low alch: 200,004 coins
+Weight: 5.443 kg
+Grand Exchange Value: 119,677,107 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 608
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +135
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +147
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Special Attack]
+The elder maul has aspecial attack,Pulverize, costing 50% special attack energy. Increasing the player's accuracy by 25%, asuccessful hitwill reduce the target's Defence level by 35%, effectively acting as a superior version of thedragon warhammer's special attack. Even then, due to the maul's stats, it is slightly more accurate than a dragon warhammer with anavernic defender, beating the pair by +12 crush bonus and +54 strength bonus. It does miss out on some damage as the dragon warhammer gets a 50% damage buff from the special.
+When used againstTekton, the first special attack from an elder maul is guaranteed to hit, however, if subsequent attacks were to fail to hit, it will instead reduce 5% of his Defence level.
+Defence level reductionswillstack over multiple successful hits; each reduction is calculated from the current temporary level (so follow-up drains reduce fewer levels). The Defence level of the target after each respective hit, with no rounding, would be 65%, 42.25%, 27.5%, 17.85%, 11.6% then 7.5% of the original. However, fractional defence levels reduced by the special attack will be rounded down.
+For example, on a monster with 75 Defence, the first special attack will reduce 26 levels (rounded down from 26.25), leaving the enemy at 49 Defence. The next special attack will then reduce 17 levels (rounded down from 17.15), leaving the enemy at 32 Defence.
+Note:The special attack has a 1-tick delay over a regular attack, meaning if you areflinchinga monster likeKalphite Queenyou will be attacked.
+A player performsPulverizewithout any other equipment.A player performsPulverizewhilst wearing a cape.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ancient chest | N/A | 1 | 2/69 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Calvar'ion/Strategies(Melee)
+4 | Chambers of Xeric/Strategies(Tekton)
+3 | Kalphite Queen/Strategies(Pre-diary Method)
+3 | Moons of Peril/Strategies(Eclipse Clone phase)
+4 | Vet'ion/Strategies(Melee)

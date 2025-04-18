@@ -1,0 +1,85 @@
+[Weapon: Steel Dart#(P++)]
+
+
+Steel dartsareRangedthrowing weapons. To wield steel darts, players must have at least level 5 Ranged. They can be obtained by either using theSmithingandFletchingskills or trading with another player. Steel darts can bepoisonedand can be wielded with ashieldorgod bookfor protection.
+To create steel darts, the player must have completed theTourist Trapquest and have at least level 34 Smithing and level 37 Fletching. Eachsteel barwill create 10steel dart tipsand the player will receive 37.5 Smithing experience. Whenfeathersare added the player will receive 10 steel darts and 7.5 Fletching experience per steel dart.
+
+
+[Infobox]
+Released: 14 April2003(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A deadly throwing dart with a steel tip.
+General Store Value: 10 coins
+High alch: 6 coins
+Low alch: 4 coins
+Weight: 0 kg
+Grand Exchange Value: 3 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 2,326,171
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +3
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 3 ticks (1.8s) | 3 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 2 ticks (1.2s) | 3 tiles |  | None
+ | Longrange | Light | Longrange | 3 ticks (1.8s) | 5 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Accumulator max cape | N/A | 1 | 5/2,000 | &
+Angry barbarian spirit | 166 | 10 | 1/128 | 
+Ava's accumulator | N/A | 1 | 5/2,000 | &
+Balfrug Kreeyath | 151 | 95–100 | 8/127 | 
+Barrel (Shaman Caves) | N/A | 1 | Rare | &
+Berserk barbarian spirit | 166 | 10 | 1/128 | 
+Bree | 146 | 95–100 | 8/127 | 
+Enraged barbarian spirit | 166 | 10 | 1/128 | 
+Flight Kilisa | 159 | 91–101 | 8/127 | 
+Flockleader Geerin | 149 | 91–101 | 8/127 | 
+Growler | 139 | 95–100 | 8/127 | 
+Ranging capeaccumulator | N/A | 1 | 5/2,000 | 
+Sergeant Grimspike | 142 | 95–100 | 8/127 | 
+Sergeant Steelwill | 142 | 95–100 | 8/127 | 
+Sergeant Strongstack | 141 | 95–100 | 8/127 | 
+Skeleton brute | 132 | 10 | 1/128 | 
+Skeleton heavy | 132 | 10 | 1/128 | 
+Skeleton hero | 149 | 10 | 1/128 | 
+Skeleton thug | 132 | 10 | 1/128 | 
+Skeleton warlord | 132 | 10 | 1/128 | 
+Starlight | 149 | 95–100 | 8/127 | 
+Tstanon Karlak | 145 | 95–100 | 8/127 | 
+Wingman Skree | 143 | 91–101 | 8/127 | 
+Zakl'n Gritch | 142 | 95–100 | 8/127 | 
+Zombie (Tarn's Lair)Medium level | 61–80 | 3 | 3/128 | 

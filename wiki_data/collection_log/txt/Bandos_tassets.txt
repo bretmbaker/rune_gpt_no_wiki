@@ -1,0 +1,7 @@
+Item: Bandos tassets
+Summary: Bandos tassets are a part of the Bandos armour set, requiring 65 Defence to wear. They are dropped by General Graardor and his bodyguards in the God Wars Dungeon. Bandos tassets are widely used by experienced players as they offer high stats compared to other leg slot items, including the second highest strength bonus, tied with the Inquisitor's plateskirt and blood moon tassets and beaten only by Torva platelegs.
+Sources:
+- General Graardor (Level 624, Quantity: 1, Rarity: 1/381)
+- Sergeant Grimspike (Level 142, Quantity: 1, Rarity: 1/16,256)
+- Sergeant Steelwill (Level 142, Quantity: 1, Rarity: 1/16,256)
+- Sergeant Strongstack (Level 141, Quantity: 1, Rarity: 1/16,256)

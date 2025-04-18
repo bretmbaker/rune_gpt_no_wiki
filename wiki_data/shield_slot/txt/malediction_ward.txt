@@ -1,0 +1,85 @@
+[Weapon: Malediction Ward]
+
+
+Themalediction wardis a mage-class shield that requires at least 60Defenceto wield. It offers the fifth bestMagicattack bonus for the off-hand slot in the game, succeeded by themage's book, theancient wyvern shield, thearcane spirit shieldand theElidinis' ward (f).
+In terms of stats, the ward providesmeleedefence identical to that of adragon square shieldbut provides a moderate amount of Magic defence instead of providing Ranged defence. The shield carries a substantial Magic attack bonus but negative melee and Ranged attack bonuses. Because of this the shield is ideal for mages, but unsuitable for other combat. The shield also has aMagic damagebonus of 2%.
+
+
+[Infobox]
+Released: 13 March2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: An ancient, evil shield forged by Volcanic heat.
+General Store Value: 45,000 coins
+High alch: 27,000 coins
+Low alch: 18,000 coins
+Weight: 3.628 kg
+Grand Exchange Value: 1,656,923 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 409
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -8
+- Slash: -8
+- Crush: -8
+- Magic: +12
+- Ranged: -12
+
+Defence Bonuses:
+- Stab: +50
+- Slash: +52
+- Crush: +48
+- Magic: +15
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +2%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyssal Sire/Strategies(Phase 1 Magic)
+3 | Abyssal Sire/Strategies(Phase 2 Magic)
+4 | Barbarian Assault/Strategies(Magic)
+3 | Barrows/Strategies(Magic equipment)
+3 | Chambers of Xeric/Strategies(Magic)
+4 | Deranged archaeologist/Strategies(Magic)
+3 | Dust devil/Strategies(Bursting/Barraging)
+5 | General Graardor/Strategies(Solo (Magic))
+3 | Giant Mole/Strategies(Magic)
+3 | K'ril Tsutsaroth/Strategies(Magic)
+3 | Kraken/Strategies(Magic)
+3 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+3 | Maniacal monkey/Strategies(Magic - Ice Burst)
+5 | The Mimic/Strategies(Magic)
+4 | Nightmare Zone/Strategies(Magic)
+4 | The Nightmare/Strategies(Mage)
+4 | Phantom Muspah/Strategies(Magic & Ranged)
+4 | Phosani's Nightmare/Strategies(Mage)
+2 | Scorpia/Strategies(Magic)
+1 | Scurrius/Strategies(Magic (mid level))
+5 | Skeletal Wyvern/Strategies(Magic)
+5 | Skeleton (Ape Atoll)(Magic)
+4 | Slayer task/Trolls(Magic (Ice trolls))
+3 | Slayer training(Magic (Barrage))
+4 | Smoke devil/Strategies
+4 | The Bane of Demons(Magic)
+4 | Thermonuclear smoke devil/Strategies(Magic)
+3 | Tombs of Amascut/Strategies(Magic switch)
+3 | Tormented Demon/Strategies(Magic switch)
+4 | TzHaar Fight Cave/Strategies(Magic)
+3 | The Whisperer/Strategies(Magic)
+4 | Zulrah/Strategies(Magic)

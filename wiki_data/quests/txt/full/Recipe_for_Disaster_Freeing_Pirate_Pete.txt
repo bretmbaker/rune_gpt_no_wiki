@@ -1,0 +1,105 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Freeing Pirate Pete (#100.4)
+
+
+
+
+
+Released | 15 March 2006 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | James B (framework)
+
+
+
+Freeing Pirate Pete [ edit | edit source ]
+
+Details [ edit | edit source ]
+
+Start point | Inspect Pirate Pete .
+
+Official difficulty | Special
+
+Official length | Medium
+
+Description | Pirate Pete needs a fishcake to be protected. Talk to the Lumbridge Cook to learn how to make one.
+
+Requirements | 31 Cooking ( boostable ) Completion of the following quests: Recipe for Disaster/Another Cook's Quest Cook's Assistant The ability to defeat 5 level 30 monsters.
+
+Items required | A raw cod (It's highly recommended to get at least 3 of all the ingredients, as the Fishcake can burn) A pestle and mortar Bread (at least 3 recommended) A knife A fishbowl (empty) A needle 3 bronze wire
+
+Enemies to defeat | 5 Mudskippers (level 30/31) Crab (level 21/23)
+
+Ironman concerns | This quest has a weight limit. 42 Crafting ( boostable ) (If crafting a fishbowl yourself or by completing Rum Deal ) 4 Smithing ( boostable ) (To make the bronze wire.)
+
+League notes | Kandarin ✓ — location requirement Unlocking Morytania ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Items required: A pestle and mortar , a raw cod , a knife , and bread .
+
+Inspect Pirate Pete to start the quest. Talk to the Cook in the next room. He will tell you to get ground cod , breadcrumbs , ground crab meat , and ground kelp . He will tell you that Murphy in Port Khazard will help you get the crab meat and kelp. Make sure to ask him each available question pertaining to the ingredients, or you may not be able to make them. If you are at the end of the quest, and you cannot make the fishcake, simply inspect Pirate Pete in the dining room, and then talk to the cook again.
+
+Ground cod - Use your pestle and mortar on your raw cod . Breadcrumbs - Use your knife on your bread .
+
+Note: It's recommended that you get extra kelp and crab meat, especially if you have a low Cooking level, as if you burn the fishcake , you will have to go back to do it all over again. Luckily, you don't need any more bronze wire and hides, so just get extra cod, bread, kelp, and the meat.
+
+Items required: A pestle and mortar , A fishbowl (empty), a needle , 3 bronze wires , weight less than 27 kg, at least 5 free inventory spaces, and a weapon (optional but recommended).
+
+Go to Murphy , who can be found at Port Khazard ( Minigame Teleport to the Fishing Trawler ), to get your fishbowl made into a diving apparatus . Put it on, then ask to go diving. Your weight must be under 27 kilograms. Have multiple empty inventory spots, as you will not be able to drop items underwater if you need to pick up new items. The nearby Bank chest may be useful. You may not bring a Cat with you, on the ground or in your inventory, and attempting to will prompt some amusing dialogue from Murphy.
+
+Once you're underwater, find a tall plant , and pick it for the kelp . Get some extras in case you burn the fishcake . Then, look for a crab pen to the north. Talk to Nung . He will tell you to get him five mudskipper hides . Head to the entrance to the mudskippers' cave, on the western wall of the underwater area. Pick up five rocks near the entrance to the cave and then enter the cave. While in the cave (and the crab pen thereafter), you will be able to wield weapons as normal as you will be standing upright. Kill five mudskippers (level 30 and 31) to get hides. You can do this in multiple trips if inventory space is tight as Nung will accept any hides you currently carry. ( Remember to give them to Nung before surfacing, as they will disappear! ) Take them back to Nung. Give him your needle and three bronze wire ; he will let you into the crab pen after this.
+
+In the pen, kill a crab and collect its meat. Grind the crabmeat and kelp with a pestle and mortar . Get some extras in case you burn the fishcake .
+
+Return to and speak with the Cook . Use the ingredients on each other, and cook it to get a fishcake . Right-click and use it on (don't eat it!) Pirate Pete in the dining room for your reward.
+
+Rewards [ edit | edit source ]
+
+1 Quest point 1,000 Cooking experience 1,000 Crafting experience 1,000 Fishing experience 1,000 Smithing experience The ability to go diving and fight crabs (you need your diving apparatus ) The ability to cook crab meat (heals 10 hitpoints in 5 bites) The ability to kill crabs to get their shells and claws, which can be made into a helmet and gloves with a chisel Further access to the Culinaromancer's Chest
+
+Required for completing [ edit | edit source ]
+
+Completion of the Freeing Pirate Pete subquest is required for the following:
+
+The Great Brain Robbery
+
+Transcript [ edit | edit source ]
+
+This article has an associated transcript page. Click here for the transcript.
+
+v • t • e Freeing Pirate Pete
+
+ | Subquest of Recipe for Disaster
+
+NPCs | Pirate Pete Mogre Guard Murphy Nung Monsters Crab Mudskipper |  | Pirate Pete Mogre Guard Murphy Nung | Monsters | Crab Mudskipper
+
+ | Pirate Pete Mogre Guard Murphy Nung
+
+Monsters | Crab Mudskipper
+
+Items | Fishbowl helmet Diving apparatus Mudskipper hide Rock Crab parts Fresh crab claw Broken crab claw Crab claw Fresh crab shell Broken crab shell Crab helmet Fishcakes & ingredients Breadcrumbs Crab meat Ground cod Ground crab meat Burnt crab meat Cooked crab meat Ground kelp Kelp Raw fishcake Cooked fishcake Burnt fishcake |  | Fishbowl helmet Diving apparatus Mudskipper hide Rock | Crab parts | Fresh crab claw Broken crab claw Crab claw Fresh crab shell Broken crab shell Crab helmet | Fishcakes & ingredients | Breadcrumbs Crab meat Ground cod Ground crab meat Burnt crab meat Cooked crab meat Ground kelp Kelp Raw fishcake Cooked fishcake Burnt fishcake
+
+ | Fishbowl helmet Diving apparatus Mudskipper hide Rock
+
+Crab parts | Fresh crab claw Broken crab claw Crab claw Fresh crab shell Broken crab shell Crab helmet
+
+Fishcakes & ingredients | Breadcrumbs Crab meat Ground cod Ground crab meat Burnt crab meat Cooked crab meat Ground kelp Kelp Raw fishcake Cooked fishcake Burnt fishcake
+
+Locations | Mogre Camp
+
+Music | Davy Jones' Locker
+
+v • t • e Recipe for Disaster
+
+Subquests | Another Cook's Quest Freeing the Goblin generals Freeing the Mountain Dwarf Freeing Evil Dave Freeing the Lumbridge Guide Freeing Pirate Pete Freeing Skrach Uglogwee Freeing Sir Amik Varze Freeing King Awowogei Defeating the Culinaromancer
+
+Monsters | Agrith-Na-Na Flambeed Karamel Dessourt Gelatinnoth Mother Culinaromancer
+
+Rewards | Antique lamp
+
+Related | Culinaromancer's Chest Quick guide Full Guide

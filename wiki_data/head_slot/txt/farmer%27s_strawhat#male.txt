@@ -1,0 +1,46 @@
+[Weapon: Farmer%27S Strawhat#Male]
+
+
+TheFarmer's strawhatis a strawhat acquired from theTithe Farmminigamein exchange for 75 points. It is a part of thefarmer's outfit. The strawhat grants 0.4% bonusFarmingexperiencewhile equipped.
+The appearance of the farmer's strawhat differs based on the player's gender.
+
+
+[Infobox]
+Released: 4 February2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: This will help with farming.
+General Store Value: 50 coins
+High alch: 30 coins
+Low alch: 20 coins
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

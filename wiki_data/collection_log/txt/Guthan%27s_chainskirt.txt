@@ -1,0 +1,4 @@
+Item: Guthan's chainskirt
+Summary: Guthan's chainskirt is a piece of melee armour that is part of Guthan the Infested's set of Barrows equipment and is worn in the legwear slot. To equip Guthan's chainskirt, a player must have 70 Defence.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

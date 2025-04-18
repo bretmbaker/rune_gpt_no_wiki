@@ -1,0 +1,46 @@
+[Weapon: Echo Ahrim%27S Hood#(Broken)]
+
+
+Theecho Ahrim's hoodis anAhrim's hoodwith anecho ahrim's ornament kitadded onto it. The kit gives no additional bonuses, and is only used to add aesthetics to the hood.
+Whilst in its ornamented state, the item can be reverted anytime, returning the hood and kit.
+
+
+[Infobox]
+Released: 15 January2025(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check, Detach
+Examine: Ahrim the Blighted's leather hood, using the Theme of Leagues V: Raging Echoes.
+General Store Value: 13,000 coins
+High alch: 7,800 coins
+Low alch: 5,200 coins
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +15
+- Slash: +13
+- Crush: +16
+- Magic: +6
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +1%
+- Prayer: +0
+
+Slot: Head slot

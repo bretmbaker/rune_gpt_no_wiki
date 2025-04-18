@@ -1,0 +1,73 @@
+[Weapon: Mithril Med Helm]
+
+
+Themithril med helmis amedium helmetmade ofmithril. This helm requires 20Defenceto wear. It provides more protection than itsbronze,ironandsteelcounterparts. It can be made at level 53Smithingusing amithril bar.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A medium sized helmet.
+General Store Value: 780 coins
+High alch: 468 coins
+Low alch: 312 coins
+Weight: 1.36 kg
+Grand Exchange Value: 226 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 3,145
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +10
+- Slash: +11
+- Crush: +9
+- Magic: -1
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Angry barbarian spirit | 166 | 1 | 1/128 | 
+Assembler max cape | N/A | 1 | 1/2,000 | &
+Ava's assembler | N/A | 1 | 1/2,000 | 
+Berserk barbarian spirit | 166 | 1 | 1/128 | 
+Enraged barbarian spirit | 166 | 1 | 1/128 | 
+Giant skeleton (Tarn's Lair) | 100 | 1 | 1/128 | 
+Moss Giant (Iorwerth Dungeon) | 84 | 1 | 2/128 | 
+Ranging capeassembler | N/A | 1 | 1/2,000 | &
+Skeleton (Tarn's Lair)High level | 81; 87 | 1 | 1/128 | 
+Skeleton (mage) | 94 | 1 | 1/128 | 
+Skeleton brute | 132 | 1 | 1/128 | 
+Skeleton heavy | 132 | 1 | 1/128 | 
+Skeleton hero | 149 | 1 | 1/128 | 
+Skeleton thug | 132 | 1 | 1/128 | 
+Skeleton warlord | 132 | 1 | 1/128 | 
+Steel Chest (black) | N/A | 1 | 3/134.46;3/129.29 | 
+Steel Chest (brown) | N/A | 1 | 3/134.39;3/129.22 | 
+Steel Chest (crimson) | N/A | 1 | 3/134.43;3/129.25 | 
+Steel Chest (purple) | N/A | 1 | 3/134.5;3/129.33 | 
+Steel Chest (red) | N/A | 1 | 3/134.35;3/129.19 | 
+Wall beast | 49 | 1 | 1/128 | 

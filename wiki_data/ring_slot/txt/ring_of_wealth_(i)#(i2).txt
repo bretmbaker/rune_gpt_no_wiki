@@ -1,0 +1,74 @@
+[Weapon: Ring Of Wealth (I)#(I2)]
+
+
+Thering of wealth (i)is an imbuedring of wealthcreated with aring of wealth scrolland50,000 coins. The imbued ring has all the functions of a ring of wealth with an additional effect of doubling the player's chance of getting aclue scrollfrom monsters and skilling activities in theWilderness(excludingbeginner clue scrolls). This effect applies regardless of where the player is whenever they kill a monster in the Wilderness.[1]
+If you die with the ring in the Wilderness, regardless if it is anitem kept on death,the imbue will be removedfrom the ring and converted to50,000 coins. In a PvP death, the coins appear in the inventory of the player who killed you; in a PvM death, the coins will instead go to yourgrave. It should also be noted that attempting to drop the ring whilst in PvP combat will result in the message "You must wait a few seconds before dropping this item."
+
+
+[Infobox]
+Released: 18 September2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Features, Rub, Drop
+Worn options: Rub
+Examine: A mysteriously imbued lucky ring.
+General Store Value: 17,625 coins
+High alch: 10,575 coins
+Low alch: 7,050 coins
+Weight: 0.006 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Artio/Strategies(Magic)
+4 | Artio/Strategies(Ranged)
+2 | Aviansie/Strategies(Ranged - Low Risk)
+4 | Callisto/Strategies(Magic)
+3 | Callisto/Strategies(Ranged)
+4 | Calvar'ion/Strategies(Melee)
+5 | Chaos Elemental/Strategies(Melee)
+3 | Chaos Elemental/Strategies(Ranged)
+4 | Crazy archaeologist/Strategies(Magic)
+3 | Green dragon/Strategies(Melee)
+2 | Green dragon/Strategies(Ranged)
+3 | Krystilia/Strategies(Melee)
+1 | Krystilia/Strategies(Magic)
+1 | Krystilia/Strategies(Ranged)
+1 | Lava dragon/Strategies(Ranged)
+1 | Lava dragon/Strategies(Melee)
+1 | Lava dragon/Strategies(Magic)
+5 | Scorpia/Strategies(Magic)
+3 | Spindel/Strategies(Ranged)
+5 | Spindel/Strategies(Melee)
+3 | Venenatis/Strategies(Ranged)
+5 | Venenatis/Strategies(Melee)
+4 | Vet'ion/Strategies(Melee)

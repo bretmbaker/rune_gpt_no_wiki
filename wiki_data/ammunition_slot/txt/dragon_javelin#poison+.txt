@@ -1,0 +1,49 @@
+[Weapon: Dragon Javelin#Poison+]
+
+
+Thedragon javelinis a type ofRangedammunition used by thelight ballistaand theheavy ballista. They are the strongest type of javelin. As with mostjavelins, they can bepoisoned.
+They can be fletched by attachingdragon javelin headstojavelin shaftsat level 92Fletching, granting 225 experience per 15 javelins made.
+
+
+[Infobox]
+Released: 6 May2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A dragon tipped javelin.
+General Store Value: 450 coins
+High alch: 270 coins
+Low alch: 180 coins
+Weight: 0 kg
+Grand Exchange Value: 790 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 876,304
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +150
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

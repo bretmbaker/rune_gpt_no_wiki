@@ -1,0 +1,2 @@
+Item: Elkoy
+Summary: Elkoy is a gnome from the Tree Gnome Village who guides people through the Tree Gnome Maze both to and from the Tree Gnome Village after starting the Tree Gnome Village quest. To start the quest you have to speak to King Bolren in the Tree Gnome Village. If you right click on him it will say "follow", click it and you will be escorted through the maze quickly and safely. He can be found at the north-west entrance to the maze.

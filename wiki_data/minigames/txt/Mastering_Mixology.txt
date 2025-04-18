@@ -1,0 +1,260 @@
+[Minigame: Mastering_Mixology]
+
+ | This is a non-combat activity.Players should not expect to take damage or risk death from this activity.However, anydeathis still considereddangerousfor the purposes ofhardcore statusanditem retrieval services.
+
+Mastering Mixology
+
+
+
+
+
+Released | 25 September2024(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Aldarin
+
+Leagueregion | Varlamore✓
+
+Participants | 1
+
+Skills | Herblore
+
+Reward currency | Mox, Aga, and Lye resin
+
+Tutorial | Yes
+
+
+
+Map
+
+
+
+Mastering Mixologyis aHerbloreminigamelocated inAldarin. The main goal of the minigame is assisting theAlchemical Societyin filling out orders of potions, which have skyrocketed afterVarlamoreopened its borders to the mainland.
+
+Requirements[edit|edit source]
+
+Participating in mixology requires level 60Herblore(not boostable)and completion ofChildren of the Sun, although higher levels will be advantageous as they allow for faster experience and point rewards due to having access to more potion recipes, with all potion recipes available from level 81.
+
+Clean herbsor the correspondingunfinished potionsmust be brought to refine into paste. There is a bank chest available. Herbs must be un-noted.
+
+Only 1 inventory space is needed for making a potion, but 3 empty inventory spaces are recommended for the most efficient play when turning in 3 orders at once.
+
+Some movement is involved, but lightweight clothing is not necessary.
+
+Getting there[edit|edit source]
+
+Use thefairy ringcodeCKQand run south-east (requires partial completion ofFairytale II - Cure a Queen).Use theQuetzal Transport Systemto Aldarin, then run north (requires partial completion ofTwilight's Promise; construction oflanding sitenot required).Ship ride fromSunset Coast(requires 20coins), then run due south.Teleport to yourplayer-owned houseonAldarin, or to the portal with aConstruction capeor by using aAldarin teleport tablet, then run south.Charter acharter shipto Aldarin, then run south.Teleport to North Aldarin using aPendant of Ates(requires completion ofDeath on the Isleand unlocking the teleport location), then run south-west.
+
+Gameplay[edit|edit source]
+
+Mastering Mixology involves refining herbs into their basic elements and using the resulting pastes to brew potions based on the order given.
+
+Refining herbs[edit|edit source]
+
+To begin, refine herbs intomox,lye, andaga paste. To do so, put clean herbs or the corresponding unfinished potions into therefiner, located next to the bank chest in the south-east of the facility. This process happens automatically every 2ticks, but the pace can be doubled by clicking the refiner every tick. Depositing herbs or unfinished potions will also give the player6experience per item.
+
+Approximately 2,750 herbs can be processed per hour for 16,500 Herblore xp when processing passively. This rate can be nearly doubled by actively clicking.
+
+Add the paste to thehopperlocated next to the levers. The hopper can hold up to 3,000 of each paste at a time.
+
+Herb | Paste | Cost/paste
+
+Type | Qty | Herb | (unf)
+
+ | Guam leaf | Mox | 10 | 48.10 | 60.50
+
+ | Marrentill | Mox | 13 | 28.85 | 26.77
+
+ | Tarromin | Mox | 15 | 29.13 | 40.20
+
+ | Harralander | Mox | 20 | 32.35 | 39.70
+
+ | Ranarr weed | Lye | 26 | 226.35 | 237.42
+
+ | Toadflax | Lye | 32 | 93.25 | 100.00
+
+ | Irit leaf | Aga | 30 | 41.17 | 50.53
+
+ | Avantoe | Lye | 30 | 83.73 | 93.10
+
+ | Kwuarm | Lye | 33 | 87.76 | 96.76
+
+ | Huasca | Aga | 20 | 425.55 | 475.25
+
+ | Snapdragon | Lye | 40 | 195.20 | 203.85
+
+ | Cadantine | Aga | 34 | 88.91 | 98.32
+
+ | Lantadyme | Aga | 40 | 39.17 | 47.03
+
+ | Dwarf weed | Aga | 42 | 40.57 | 48.19
+
+ | Torstol | Aga | 44 | 75.25 | 76.48
+
+Mixing[edit|edit source]
+
+Entering the main area of the minigame will cause the HUD to appear on the top left of the player's game client. This shows the potion bases that must be made, how they should be processed, and how much reagents (paste) remain in the hopper. Each usage of a reagent requires 10 paste. For example, amystic mana amalgamrequires two inputs of mox and one of aga, for a total of 20 mox paste and 10 aga paste.
+
+Players can pull the respective levers in any order. The pastes are not consumed until the potion base is taken from themixing vesselbehind them. If all three spots in the mixer are full, pulling any of the levers will also override the oldest element selected. This allows for correcting mistakeswithout wasting any paste. For example, if the currently selected mixture is mox-lye-mox, then pulling theaga leveronce will remove the first mox paste and result in a lye-mox-aga mix. If the hopper does not contain sufficient paste to create the potion indicated by the inputs, the player will be prevented from taking the potion from the mixer. Lacking the appropriate Herblore level for a potion will also prevent the player from taking it out of the mixer. The player can boost to get orders requiring higher-level potions, the level requirements stop you from receiving orders of that type, and pulling out the potion out of theMixing vessel.
+
+Lastly, the names of each base act as a mnemonic and give a hint to their ingredient combination. For example,Marley'sMoonLight is made from mox-mox-lye andAquaLuxAmalgam is made from aga-lye-aga.
+
+Each possible order has a weight value: the higher this value, the more likely the order is to be assigned. Since players can only receive orders they have theHerblorerequirement for, the chance of getting any particular order can be calculated as the weight of that order divided by the sum of all available orders' weights. As such, a player at level 60 or 78 will receive orders requiring mox, aga, and lye in a 1:1:1 ratio on average, while a player at level 75 will receive orders requiring a 39:35:31 ratio of the pastes.
+
+Players will earn only 10mox,aga, orlyeif the fulfilled order is not currently required. Players will also only get a third of the experience compared to if it was an ordered potion. This will still refresh the list of potions ordered, giving players 3 new potions. However, it is recommended to always make potions that are required.
+
+Processing[edit|edit source]
+
+After making the unfinished potion base, players must either concentrate, homogenise, or crystalise it at the corresponding workstation (theretort,agitator, andalembicrespectively) to complete the potion. Potions do not follow a recipe beyond prior mixing; a potion may need to be homogenized once, but the same potion on a later order may require crystallization instead. Once the potion is made, complete the order by placing it on the conveyor belt. Players with a higher Herblore level will process unfinished potion bases faster. If the machine is left-clicked, the first unprocessed potion in the player's inventory will be input to the machine, regardless if it fulfills a current order. If the player has multiple unprocessed potions in their inventory, a specific potion can be used on the machine, to avoid incorrectly processing a different potion.
+
+The processing machines will progress at different rates depending on player input, as well as reward additionalHerbloreexperience:
+
+Workstation | Process used | Details
+
+ | Agitator | Homogenising | Click it once to begin, click again within 2 ticks of the sound/visual effect to speed up the process, click again exactly 1 tick after the previous click to speed up the process a second time. This results in 14 bonus Herblore experience for the first click, and 2 bonus Herblore experience for the second click per potion.If the player's latency is too high and keeps missing this window regularly, it can be faster to simply not click again rather than incur the progress penalty for missing the window.At the sound/visual cue, players can progress the potion completely by spam clicking.
+
+ | Alembic | Crystallising | Click it once to begin, then do so again at the same time as the player pumps the bellows for the 5th time to speed up the process. This results in 14 bonus Herblore experience per potion.If clicked too early or too late, the 14 bonus Herblore experience may still be obtained by clicking again on the 7th pumpafterthe initial failure.The pump count resets if the player leaves the alembic and starts pumping again, though the bonus will not be awarded more than once.
+
+ | Retort | Concentrating | Click it constantly every tick to speed up the process, rewarding 2 bonus Herblore experience per click. The total amount of bonus Herblore experience gained varies, as lower-level players can get more clicks in because they take a longer time to process their potions.
+
+Speeding up the homogenising process at an agitator.Speeding up the crystallising process at an alembic.Speeding up the concentrating process at a retort.
+
+Depositing[edit|edit source]
+
+After processing potions, players may deposit them on the conveyor belt to the north.
+
+Clicking the conveyor belt will deposit up to three potions, fulfiling as many of the current orders as possible from anywhere in the player's inventory. If none of the current orders can be fulfiled, the player will deposit the first potion from their inventory for reduced rewards. In either case, all three orders will be refreshed.
+
+Players will receivemox resin,aga resin, andlye resinand Herblore experience depending on the potion made (see the table above). If the player fulfils multiple orders, more resin is given per potion; fulfiling two orders at once rewards 20% more resin, while fulfiling all three in one go rewards 40% more resin.
+
+If the player deposits a potion that does not fulfil any of the current orders, they will receive a third of the experience, and 10 of the resin of the highest 'tier' given by that potion (e.g. Marley's moonlight would award 10 lye resin). Rewards require a mix of all resin, so players may choose to fill orders that reward the type of resin they require points for.
+
+Experience per paste varies depending on the potion, according to the table below:
+
+Paste |  |  | 
+
+MMM, AAA, & LLL | 6.33 | 6.33 | 6.33
+
+MAL | 6.92 | 13.22 | 16.36
+
+Other potions with M | 5.5 | 10.5 | 13
+
+Other potions without M | - | 8 | 13
+
+Note:
+
+Experience peraga pastedecreases when mixed withoutmox paste.Mammoth-might mixyields more experience permox pastethan all other potions besidesmixalot.The experience per paste formixalotuses the same proportional distribution as potions withmox pasteto illustrate the effectiveness of the mixture.
+
+Therefore, to maximize experience per paste, players shouldonlymake potions that includemox paste.
+
+Playing actively with all speedups, a player with level 81 Herblore can expect to earn approximately 70,000 xp/hour along with 3,000 of each type of resin at a cost of 2,000 of each type of paste. Inputs and rewards will vary according to play strategy.
+
+Playing passively without any speedups, on the other hand, a player with level 81 Herblore can expect to earn approximately 45,000 xp/hour.
+
+If a player's Herblore level falls between 63-77, paste consumption won't be balanced between all three types, and by extension, rewarded resin won't be equally distributed. This is caused by the first two additional base potions favoring the use ofmox paste, with the following two favoringaga paste, and the last two favoringlye paste. At level 78 Herblore, all 6 additional potion bases are unlocked, alongside the three initial potion bases, giving equal odds of all three types of paste being used on average. This doesn't change when the last potion base is unlocked at level 81 Herblore as it uses all three pastes and rewards all three resins evenly.
+
+Digweed[edit|edit source]
+
+Occasionally a youngdigweedplant will mature and bloom into a flower in one of the corners of the room, indicated by a chatbox message. Clicking on matured digweed will allow players to collect it, even if it dies before the player reaches the plant. The spawn rate scales with Herblore level; at level 81 Herblore it will spawn roughly every 7 minutes of active play. It does not spawn if not playing, even when standing inside the room.
+
+Digweed can be added to any potion, before or after processing, doubling the amount of experience and resin gained from that potion. Players must use the digweed before exiting the minigame area (4 game tiles away from the hopper, towards the bank), or the digweed will wither and die thus disappearing from their inventory. Players can take digweed outside the minigame area by dropping it, leaving the minigame area, andtelegrabbingthe digweed. However, players cannot bank the digweed, so there is no reason to do this. Players cannot use multiple digweed on the same potion twice; attempting to do so will give the messageThis potion has already been improved with digweed.
+
+Holding digweed in the inventory seems to stop new spawns from appearing. However, plants will still appear if digweed is dropped on the floor, or mixed into a potion. Because of this, it is advisable to either mix digweed into a potion of choice for a later order or to stack digweed on the floor on a selected tile to allow digweed to continue to spawn while waiting for preferred potion orders. Digweed that is dropped on the floor does not despawn immediately if players leave the area, unlike digweed in the inventory. Note that if choosing to stack on the floor, players have a 3-minute timer to pick up and drop the stack before the digweed despawns.
+
+To maximise benefits, an easy-to-remember rule of thumb is that the higher experience bases use twolye pastewhile lower experience bases use twomox paste. Alternatively, if players need points for a specific resin, focus on bases using two of the corresponding paste with the third paste used following the sameL>A>Mrule-of-thumb for slightly higher experience. No matter which strategy players prefer, avoid using digweed with theMMM,AAA, andLLLbases as they yield the least resin and experience per paste. For those with at least level 81 Herblore, one strategy to maximise resin and experience is to immediately mix any digweed into an unprocessedmixalotbase. Players can then save the unprocessed base until an order for mixalot appears and process it as necessary or store it in the bank to avoid processing accidentally. If players choose to bank the base, remember to add in the digweedbeforeleaving the minigame area or it will decay from the inventory. Bases will not stack in the bank, even if they are identical.
+
+Money making[edit|edit source]
+
+The followingmoney making guideis available for Mastering Mixology:
+
+Method | Hourly profit | Skills
+
+Mastering Mixology | 2,462,135 | 60+(81 recommended for access toMixalotpotions)
+
+Rewards[edit|edit source]
+
+Supervisor Laloruns the storeMixology Rewardswhere players can spend their resin earned by playing the minigame.
+
+Rewards | Mox resin | Aga resin | Lye resin | Approximate cost[a] | Approximate profit[b] | Coins per resin[c] | Notes
+
+ | Apprentice potion pack | 420 | 70 | 30 | 16,497.33 | −10,920.85 | -21.00 | Requires60(not boostable)to purchase. Gives four sets of 3-dose potions, in quantities of 2-4 each.
+
+ | Adept potion pack | 180 | 440 | 70 | 27,916.79 | 3,776.78 | 5.47 | Requires70(not boostable)to purchase. Gives four sets of 3-dose potions, in quantities of 2-3 each.
+
+ | Expert potion pack | 410 | 320 | 480 | 63,703.38 | −1,976.62 | -1.63 | Requires85(not boostable)to purchase. Gives four sets of 3-dose potions, in quantities of 2-4 each.
+
+ | Prescription goggles | 8,600 | 7,000 | 9,350 | 1,287,347.05 | N/A | N/A | Grants a 10% chance to save a secondary ingredient when mixing potions.
+
+ | Alchemist labcoat | 2,250 | 2,800 | 3,700 | 479,734.10 | N/A | N/A | A cosmetic item, part of thealchemist's outfit.
+
+ | Alchemist pants | 2,250 | 2,800 | 3,700 | 479,734.10 | N/A | N/A | A cosmetic item, part of thealchemist's outfit.
+
+ | Alchemist gloves | 2,250 | 2,800 | 3,700 | 479,734.10 | N/A | N/A | A cosmetic item, part of thealchemist's outfit.
+
+ | Reagent pouch | 13,800 | 11,200 | 15,100 | 2,072,548.72 | N/A | N/A | Stores up to 26 of each secondary ingredient used in Herblore. Requires81to use.
+
+ | Potion storage | 7,750 | 6,300 | 8,950 | 1,203,677.37 | N/A | N/A | Unlocks a new part of thebankwhere potions, unfinished potions, and empty vials can be stored without taking up slots from the main bank interface.
+
+ | Chugging barrel (disassembled)[d] | 17,250 | 14,000 | 18,600 | 2,567,659.23 | 8,040,829.77 | 161.30 | Allows simultaneous consumption of up to five different potions when within a bank.
+
+ | Alchemist's amulet | 6,900 | 5,650 | 7,400 | 1,025,673.11 | N/A | N/A | Grants a 15% chance of making a 4-dose potion, up from the 5% of anamulet of chemistry. 50 charges are given upon purchase, and an additional 10 peramulet of chemistryused on it.
+
+ | Aldarium[d] | 80 | 60 | 90 | 12,028.04 | 56,168.96 | 244.21 | A Herblore ingredient used to makegoading potionsandprayer regeneration potions.
+
+The total cost for all unique items (excluding potion packs andaldarium) is 61,050mox resin, 52,550aga resin, and 70,500lye resin(or about9,716,253.33 coins). Assuming all potions are correctly handed in this equates to1,728,829Herbloreexperience needed from resin. This also assumes the player is not gaining any bonus experience from speeding up the machines, handing all potions equally and is not gaining bonus points from utilising thedigweedwhen it matures.
+
+Alchemist clothing and (unfocused) prescription goggles from the shop can be refunded for 40% of the original resin cost.
+
+If the player decides to refund the cosmetics (labcoat, pants, and gloves), the total cost is reduced to 58,350mox resin, 49,190aga resin, and 66,060lye resin.
+
+The total cost for the 3 primary rewards (goggles, storage, and amulet) is 23,250mox resin, 18,950aga resin, and 25,700lye resin.
+
+Experience per herb comparison[edit|edit source]
+
+Below is a table comparing the experience earned per herb making commonly used or created products against the experience gained per herb from refining herbs for Mastering Mixology. The amount of experience obtained per herb is not static, as paste has a variable value depending on the potion created.
+
+The minimum amount of experience assumes that the paste was used to create amammoth-might mix,alco-augmentator, orliplack liquor. The maximum amount of experience assumes that the paste was used to create amixalot. These values are doubled if used in a potion withdigweed. In reality, most experience earned per herb is in between these values, and due to the minigame mechanics allowing players to skip potions they do not wish to create, an average value cannot be calculated per herb.
+
+However, lye paste has the highest average value per paste, and aga has a higher average value per paste than mox paste, as the potions that require multiple lye and aga give more experience than potions that require multiple mox, excluding the pure potions that require 3 of the same paste.
+
+Herb | Paste | Product | Experience
+
+Paste[a] | Product | Bonus
+
+ | Guam leaf | Mox | Guam tar | 74 - 132.3 | 30 | 2.47 - 4.41x
+
+ | Marrentill | Mox | Marrentill tar | 94.4 - 170.2 | 42.5 | 2.22 - 4.01x
+
+ | Tarromin | Mox | Tarromin tar | 108 - 195.5 | 55 | 1.96 - 3.55x
+
+ | Harralander | Mox | Harralander tar | 142 - 258.7 | 72.5 | 1.96 - 3.57x
+
+ | Ranarr weed | Lye | Prayer potion | 182.8 - 334.5 | 87.5 | 2.09 - 3.82x
+
+ | Toadflax | Lye | Saradomin brew | 223.6 - 410.3 | 180 | 1.24 - 2.28x
+
+ | Irit leaf | Aga | Super attack | 210 - 385 | 100 | 2.1 - 3.85x
+
+ | Avantoe | Lye | Super energy | 190 - 385 | 117.5 | 1.79 - 3.28x
+
+ | Kwuarm | Lye | Super strength | 230.4 - 422.9 | 125 | 1.84 - 3.38x
+
+ | Huasca | Aga | Prayer regeneration | 142 - 258.7 | 132 | 1.08 - 1.96x
+
+ | Snapdragon | Lye | Super restore | 278 - 511.3 | 142.5 | 1.95 - 3.59x
+
+ | Cadantine | Aga | Super defence | 237.2 - 435.5 | 150 | 1.58 - 2.9x
+
+ | Lantadyme | Aga | Antifire potion | 278 - 511.3 | 157.5 | 1.77 - 3.25x
+
+ | Dwarf weed | Aga | Ranging potion | 291.6 - 536.6 | 162.5 | 1.79 - 3.3x
+
+ | Torstol | Aga | Super combat potion | 305.2 - 561.9 | 150 | 2.03 - 3.75x
+
+Gallery[edit|edit source]
+
+Concept art of the minigame area, byMod Jerv.Original concept art of the reagent mixer, byMod Grub.Revised concept of the reagent mixer, by Mods Grub and Jerv.Concept art of the processing machines, by Mod Grub.Concept art of the alchemist outfit, by Mod Jerv.Concept art of various minigame rewards, by Mod Jerv.
+

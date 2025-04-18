@@ -1,0 +1,73 @@
+[Weapon: Mithril Warhammer]
+
+
+Themithril warhammeris awarhammerstronger than theblack warhammer, being made out of mithril. It may be used as an effective way of killingmonstersweak tocrush, such asearth warriors. Unlike othermithril weapons, it requires level 20 inStrengthto wield.
+Players can make a mithril warhammer with theSmithingskillat level 59 using 3mithril bars, giving the player 150 Smithingexperience.Memberscan purchase this warhammer fromSkulgrimen's Battle GearinRellekka, andVigr's WarhammersinKeldagrim.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: I don't think it's intended for joinery.
+General Store Value: 1,660 coins
+High alch: 996 coins
+Low alch: 664 coins
+Weight: 1.587 kg
+Grand Exchange Value: 977 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 16,643
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: -4
+- Crush: +25
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +27
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black Chest (black) | N/A | 1 | 2/141.11;2/133.27 | 
+Black Chest (brown) | N/A | 1 | 2/141.02;2/133.19 | 
+Black Chest (crimson) | N/A | 1 | 2/141.07;2/133.23 | 
+Black Chest (purple) | N/A | 1 | 2/141.15;2/133.31 | 
+Black Chest (red) | N/A | 1 | 2/140.98;2/131.15 | 
+Dagannoth Rex | 303 | 1 | 11/128 | 
+Former Vampyre | N/A | 1(noted) | 3/256 | 
+Guard (Burthorpe) | 37 | 1 | 6/128 | 
+Ice troll femaleVariant 1 | 82 | 1 | 5/128 | 
+Ice troll grunt | 100 | 1 | 5/128 | 
+Ice troll maleVariant 1 | 82 | 1 | 5/128 | 
+Ice troll runtVariant 1 | 74 | 1 | 5/128 | 
+Vampyre Juvinate | N/A | 1(noted) | 3/256 | 

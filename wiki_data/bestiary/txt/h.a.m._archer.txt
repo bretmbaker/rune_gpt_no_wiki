@@ -1,0 +1,37 @@
+Name: H.A.M. Archer
+Combat Level: 30
+Size: 1x1
+Info:
+- Description: He looks pretty skilled with that bow.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 5157
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 35
+Attack: 0
+Strength: 0
+Defence: 30
+Magic: 1
+Ranged: 30
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

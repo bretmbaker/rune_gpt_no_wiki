@@ -1,0 +1,54 @@
+[Weapon: Quest Point Cape#Trimmed]
+
+
+Thequest point capeis a cape of accomplishment that can be obtained by players who have completed allquests(excludingminiquests). The cape, along with thequest point hood, can be purchased from theWise Old ManinDraynor Villagefor 99,000coins. To trim the cape, players must complete allachievement diaries, thus earning them theachievement diary capeas well.
+Should a new quest be released, the cape will be unequipped, and the player will not be able to equip or operate it until the new quest is completed. If the player's inventory is full, the cape will be banked instead. In the event that their inventory and bank are both full, the cape will belost, and will have to be re-purchased from the Wise Old Man.
+
+
+[Infobox]
+Released: 18 October2006(Update)
+Also called: QPC, QC, Quest cape
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Teleport, Trim, Drop
+Worn options: Trim, Teleport
+Examine: The cape worn by only the most experienced adventurers.
+General Store Value: 99,000 coins
+High alch: 59,400 coins
+Low alch: 39,600 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +9
+- Slash: +9
+- Crush: +9
+- Magic: +9
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Date | Changes
+7 April2016(update) | A "Teleport" option was added, granting unlimited teleports to the Legends' Guild.
+5 March2015(update) | The "Trim" option was added, allowing players to trim or untrim the cape.

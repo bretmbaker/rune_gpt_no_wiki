@@ -1,0 +1,49 @@
+[Weapon: Fremennik Green Cloak]
+
+
+Fremennik green cloakscan be bought fromYrsa's Accoutrementsin westernRellekka. They can be found in eleven different colours:cyan,brown,blue,green,red,grey,yellow,teal,purple,pink, andblack. These capes have the same bonuses as a normalcape.
+These capes can only be bought after a player has completedThe Fremennik Trialsquest.
+
+
+[Infobox]
+Released: 2 November2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: The latest fashion in Rellekka.
+General Store Value: 250 coins
+High alch: 150 coins
+Low alch: 100 coins
+Weight: 0.453 kg
+Grand Exchange Value: 1,141 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 58
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +1
+- Magic: +0
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

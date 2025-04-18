@@ -1,0 +1,46 @@
+[Weapon: Light Infinity Top]
+
+
+Thelight infinity topis aninfinity topwith alight infinity colour kitattached to it. The attached colour kit gives no additional bonuses, and is only used to add aesthetics to the robe top. It costs1,138,450for both the parts to make the light infinity top. It can be stored in amagic wardrobein a player-owned house.
+While the robe top is untradeable in its recoloured state, it can be dismantled anytime, returning the tradeable top and ornament kit.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle
+Examine: Mystical robes with a light recolour.
+General Store Value: 140,000 coins
+High alch: 84,000 coins
+Low alch: 56,000 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +22
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +22
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +1%
+- Prayer: +0
+
+Slot: Body slot

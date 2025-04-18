@@ -1,0 +1,2 @@
+Item: Carpenter Kjallak
+Summary: Carpenter Kjallak is a carpenter that lives in Etceteria. He can be found cutting down teak and mahogany trees on the island to provide wood for furniture. If players cut the trees in the area, they will automatically give them to Kjallak, earning approval if they are managing their kingdom.

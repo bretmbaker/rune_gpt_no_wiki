@@ -1,0 +1,2 @@
+Item: Shop assistant (Falador)
+Summary: The Shop assistant helps the shop keeper run the Falador General Store.

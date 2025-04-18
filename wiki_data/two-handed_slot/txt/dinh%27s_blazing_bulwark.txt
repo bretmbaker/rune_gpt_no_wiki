@@ -1,0 +1,52 @@
+[Weapon: Dinh%27S Blazing Bulwark]
+
+
+Dinh's blazing bulwarkis aDinh's bulwarkwith aTrailblazer reloaded bulwark ornament kitadded onto it. The kit gives no additional bonuses, and is only used to add aesthetics to the bulwark.
+Whilst in its ornamented state, the item can be reverted anytime, returning the bulwark and kit.
+
+
+[Infobox]
+Released: 29 November2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Revert, Drop
+Examine: Hot to the touch.
+General Store Value: 560,000 coins
+High alch: 336,000 coins
+Low alch: 224,000 coins
+Weight: 30 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +124
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +106
+- Slash: +109
+- Crush: +109
+- Magic: -10
+- Ranged: +148
+
+Other Bonuses:
+- Strength: +38
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pummel | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Block | None | None | None | None

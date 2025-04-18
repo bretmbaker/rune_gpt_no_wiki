@@ -1,0 +1,86 @@
+[Weapon: Dragon Pickaxe]
+
+
+Thedragon pickaxewas released with theWildernessRejuvenation on13 March2014. It requires 61Miningto use and 60Attackto wield. It is tied for the second strongest and second fastestpickaxein-game with the3rd age pickaxe, behind thecrystal pickaxe.
+Excluding waiting for ores to respawn or having to move to a new resource, the dragon pickaxe is effectively a 5.88% increase in overall mining speed compared to arune pickaxe. By default, the dragon pickaxe provides a chance to mine an ore every three ticks, and there is an additional 1/6 chance to reduce this to two ticks,[1]leading to an average of 2.83 ticks per roll. AnAttacklevel of 60 is required to wield the pickaxe, while 61Miningis required to mine ores with the pickaxe. However, as long as a player has 60 Attack to wield the pickaxe, thespecial attackcan be used to mine with the pickaxe starting at level 58.
+
+
+[Infobox]
+Released: 13 March2014(Update)
+Also called: Dpick
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: If rocks could feel fear, they'd fear this.
+General Store Value: 97,950 coins
+High alch: 58,770 coins
+Low alch: 39,180 coins
+Weight: 2.4 kg
+Grand Exchange Value: 746,349 coins
+Grand Exchange Daily Buy Limit: 40
+Grand Exchange Daily Trades Volume: 2,601
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +38
+- Slash: -2
+- Crush: +32
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +42
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Spike | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Impale | Stab | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performs the Dragon pickaxe's special attack,Rock Knocker.
+The dragon pickaxe'sspecial attack,Rock Knocker, temporarily boosts the player'sMininglevel by 3 (players will need to have 60Attackto utilise this special). This consumes 100% of the player'sspecial attack energy. The boost degrades every 60 seconds, with your Mining level returning to normal after 3 minutes.
+This effect is useful to increase the chance of successful rolls or to meet a Mining level requirement above the player's base level. When used alongside theLightbearerring, special attack energy regenerates twice as fast, making it viable to consistently mine rocks 1-2 levels higher than base.
+Note that any levels boosted above 99 with the special attack will be treated as 99. Therefore, you will start to receive diminishing returns with the special attack at level 97 and 98, with there being no value in using the special at level 99.[2]
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Artio | 320 | 1 | 1/358 | 
+Callisto | 470 | 1 | 1/256 | 
+Calvar'ion | 264 | 1 | 1/358 | 
+Chaos Elemental | 305 | 1 | 1/256 | 
+Kalphite Queen | 333 | 1 | 1/400 | 
+King Black Dragon | 276 | 1 | 1/1,000 | 
+Spindel | 302 | 1 | 1/358 | 
+Venenatis | 464 | 1 | 1/256 | 
+Vet'ion | 454 | 1 | 1/256 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Chambers of Xeric/Challenge Mode/Strategies(Guardians)
+2 | Chambers of Xeric/Strategies(Guardians)
+2 | Guardians of the Rift/Strategies(Runecrafting)
+2 | Zalcano/Strategies(Mining)

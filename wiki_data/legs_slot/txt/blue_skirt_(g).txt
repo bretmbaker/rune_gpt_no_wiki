@@ -1,0 +1,54 @@
+[Weapon: Blue Skirt (G)]
+
+
+Theblue skirt (g)is obtainable by completingeasyTreasure Trails, and is part of theblue gold-trimmed wizard robes. It is the gold-trimmed version of theblue skirt.
+It is often worn for its visual appeal, as well as the fact that it can be used as a status symbol forfree playersthat cannot wear or afford the slightly more expensive decorativerune platelegs(guthix platelegs,rune platelegs (g), etc).
+
+
+[Infobox]
+Released: 20 February2006(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Leg covering favoured by women and wizards. With a colourful trim!
+General Store Value: 2 coins
+High alch: 1 coin
+Low alch: 0 coins
+Weight: 0.907 kg
+Grand Exchange Value: 23,759 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 101
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 1/1,404 | 

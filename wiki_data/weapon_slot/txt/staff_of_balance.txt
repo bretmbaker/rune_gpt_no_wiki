@@ -1,0 +1,71 @@
+[Weapon: Staff Of Balance]
+
+
+Thestaff of balanceis abladed staffwhich requires 75Attackand 75Magicto wield. It is created by bringing aGuthixian iconand astaff of the deadtoJunain theChasm of Tears. This process isirreversible.
+The staff of balance inheritsallof the staff of the dead's effects. The only differences between them is that the staff of balanceautocaststheClaws of Guthixgod spell rather than theFlames of Zamorakgod spell, and isunableto autocastArceuus combat spells. In addition, it counts as a Zamorakian item while in theGod Wars Dungeonand in theDesert Bandit Camp.
+
+
+[Infobox]
+Released: 29 August2019(Update)
+Also called: SoB
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A ghastly weapon with evil origins combined with an icon of balance.
+General Store Value: 1,000,004 coins
+High alch: 600,002 coins
+Low alch: 400,001 coins
+Weight: 1.5 kg
+Grand Exchange Value: 25,576,858 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 17
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +55
+- Slash: +70
+- Crush: +0
+- Magic: +17
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +3
+- Crush: +3
+- Magic: +17
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +72
+- Ranged Strength: +0
+- Magic Damage: +15%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Jab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Swipe | Slash | Aggressive |  | +3 Strength
+ | Fend | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Special Attack]
+A player using the staff of balance's special attack,Power of Death.
+The staff has aspecial attack,Power of Death, that halves all of the opponent'smeleedamage, consuming 100% of the player's special attack energy. Upon activating the special attack, a message will appear in the player's chatbox: "Spirits of deceased evildoers offer you their protection."
+The effect lasts for one minute after using the special attack, but is immediately lost if players unequip the staff. In addition, the effect stacks with the PvP damage reduction effect of theProtect from Meleeprayer.
+The special attackcannotbe used in legacy duels within theEmir's Arenaif magic is disabled.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Skeletal Wyvern/Strategies(Magic)

@@ -1,0 +1,2 @@
+Item: Small zombie monkey
+Summary: Small zombie monkey is a transmogrification character. Although the player can transform into them, the NPC itself can never actually be seen ingame.

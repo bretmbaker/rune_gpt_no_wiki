@@ -1,0 +1,66 @@
+[Weapon: Dharok%27S Helm#50]
+
+
+Dharok's helmismelee armourworn in theheadwear slotthat is part ofDharok the Wretched's setofbarrows equipment. To wear Dharok's helm, a player must have 70Defence.
+As it is part of Dharok's barrows set, if Dharok's helm is worn along with all of the other pieces of equipment in Dharok's barrows set, the player gains a special effect. Attacks do more damage as the player'shitpointsdecrease, up to 98.9% bonus damage with 1 hitpoint remaining with 99 max.
+
+
+[Infobox]
+Released: 9 May2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Check, Drop
+Worn options: Check
+Destroy: If you drop this item it will break. Are you sure you want to drop it?
+Examine: Dharok the Wretched's helm.
+General Store Value: 103,000 coins
+High alch: 61,800 coins
+Low alch: 41,200 coins
+Weight: 1.814 kg
+Grand Exchange Value: 404,925 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 718
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +45
+- Slash: +48
+- Crush: +44
+- Magic: -1
+- Ranged: +51
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Barrows) | N/A | 1 | 7 × 1/2,448 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Giant Mole/Strategies(Dharok's)
+5 | Gout tuber/Strategies(Tank)
+1 | Nightmare Zone/Strategies(Melee)
+1 | Nightmare Zone/Strategies(Melee (Dharok's))
+5 | TzHaar Fight Cave/Strategies(Melee)
+1, 2, 3, 4 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)

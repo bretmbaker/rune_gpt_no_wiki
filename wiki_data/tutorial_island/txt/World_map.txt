@@ -1,0 +1,30 @@
+[Page: World map]
+
+Theworld mapinterface is a large, scrolling map of the entire surface ofGielinor. On the map are the names of cities, towns, islands, kingdoms, mountains, caves, dungeons, rivers, lakes, and countless other geographic features as well as informationiconsfor specificlocations, buildings, andqueststarting points.
+To access the world map, theWorld mapbutton located on theMinimapmust be clicked. You can either open thefloatingmap (default left click) or right click the map icon and selectfullscreenfor the same map in fullscreen mode. Doing this will change the game screen into the world map view. (Note:The fullscreen world map view cannot be accessed during combat or certain other activities.) This version of the map is dynamic. Players can search it using keywords, quickly move from one location to another one, view the "Key" list where all of the icons are explained and can be clicked to reveal all of the locations of the certain icon. The dynamic map may also be zoomed, depending on the player's preference.
+While the fullscreen map is displayed, your character will appear to be looking at a scroll of parchment, presumably containing a map on it. This should prevent other players from assuming you are not paying attention to them.
+The world map, once loaded, will show the current location of the player. Clicking and dragging will pan the map, following the cursor.
+The "You are here" feature shows the location of the player on the map. While looking at another part of the map, the "You are here" arrow can be left-clicked to reveal thefocusoption to scroll automatically to the current location.
+This feature can be disabled in the Key side panel under'you are here', and its rotation can be disabled in the same panel by clicking theEffects button.
+To use this, you can select a Dungeon from a drop down list at the bottom of the map or click on the entrance to a dungeon on the world map. After doing so, the surface of Gielinor would disappear, and all left on the map is an underworld consisting solely of dungeons. You can view other dungeons even if the entrance you clicked is not linked to your target dungeon in any way. However, some dungeons, such as theOgre Enclave, theBarrows, and other dungeons visited duringquestsare not on the map.
+Intra-map links are lines that shows which areas are connected with each other. They are displayed as small yellow squares () and can be enabled by hovering over them with the mouse. A yellow line will then appear and show where they connect. Clicking the square will scroll the map to centre on the opposite end of the link.
+This feature can be disabled in the 'Key' side panel underIntra-map links.
+Map linksare another type of interactive link, changing the view to different maps in the dropdown menu. For example, clicking the icon might change the map's focus from Gielinor Surface to Kourend Underground. When leading into adungeon, the icons often appear with the dungeon symbol overlaid.
+TheZoombutton is used for zooming the current world map view. To obtain a wider or a more detailed view, the map can be magnified accordingly. There are five zoom levels available:37%,50%,75%,100%and200%. The100%zoom level corresponds to the zoom level of the player's minimap.
+You can also use the zoom feature with the Mouse wheel. Once you reached the max/min zoom level, the buttons mathematical symbol (+/-) will turn orange and not be clickable anymore.
+TheKeybutton shows icons describing specific locations within the map, and is located on the left-hand side on the world map. Clicking an entry in the Key list highlights all locations of that type with flashing yellow circles. This shows where the building (or location) is located on the map. At the very bottom of the Key list, you can turn certain markups on and off.
+To search for a location within the world map, the "Search bar" can be used to type-in keywords. This is located at the bottom left of the world map, next to the Key button. As words are typed, suggested locations are displayed within the Search bar.
+TheOverviewbutton, located on the far right-hand side, is used to show an inset map showing the entireOld School RuneScapeworld. The area shown on the world map is highlighted in a red square.
+This red square can be clicked and moved to quickly move around the world Map. This inset map can be useful in conjunction with the Key button, as yellow circles will also flash in this view even when they are not flashing in the current world map view.
+The map selection menu shows which map is currently visible and allows for switching between different map views.
+A large map of Gielinor found in theOld School Museum.
+A map of Gielinor, showing locations from bothRuneScapeandOld School RuneScape.
+Historical versions of the world map can be viewedhere.
+Hovering over thefairy ringtransportation icon now shows the fairy ring code in its tooltip.
+Mining rocks now have colours to indicate their type.
+"RuneScape Surface" in the world map interface was changed to "Gielinor Surface".
+The in-game world map was added.
+Added a missing water source symbol to the map at Kourend Castle.
+The world map has been updated.
+The world map has been updated to display poll booth locations and the pet insurance bureau.
+World map changes and revamps.

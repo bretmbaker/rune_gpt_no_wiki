@@ -1,0 +1,49 @@
+[Weapon: Swampbark Body]
+
+
+Aswampbark bodyis a piece ofswampbark armourworn in thebody slot, requiring level 50Magicand 50Defenceto equip. The body can be made with level 48Runecraftby bringing asplitbark bodyand 500nature runesto theNature Altar. Doing so requires players to have first learnt the secret to infuse the armour via reading therunescroll of swampbark.
+In addition to their stats, the helm, body, and legs increases the duration of bind spells by 2ticks(1.2 seconds), with the full set increasing the duration by 6 ticks (3.6 seconds). For comparison,Ice Barragebinds players for 32 ticks (19.2 secs).
+
+
+[Infobox]
+Released: 27 January2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Keeps my chest protected.
+General Store Value: 120,000 coins
+High alch: 72,000 coins
+Low alch: 48,000 coins
+Weight: 4.535 kg
+Grand Exchange Value: 90,132 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 343
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +38
+- Slash: +44
+- Crush: +48
+- Magic: +21
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

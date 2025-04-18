@@ -1,0 +1,74 @@
+[Weapon: Mixed Hide Top]
+
+
+Amixed hide topis a part of themixed hide armourset, requiring level 60Rangedand 50Defenceto wear. It provides bonuses that are meant to complement thehunter's spear. However, because of the added strength and stab bonus, this item is competitive with theBandos chestplatewhen using any stab weapon as it provides greater DPS whenever the difference in strength bonus does not translate into a maximum hit. However it provides significantly less defensive bonuses.
+Players with level 72Craftingcan create the top with amixed hide baseand twosunlight antelope furs, alongside aneedleandthread. Players without the required level may instead pay 20,000coinstoPellemat theHunter Guildto make one on their behalf, whilst providing the aforementioned materials (you do not need to provide the mixed hide bases).
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Made from the hide of a few different creatures.
+General Store Value: 4,000 coins
+Alchemy: Not alchemisable
+Weight: 3 kg
+Grand Exchange Value: 14,341 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 6,649
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +4
+- Slash: -2
+- Crush: -3
+- Magic: -15
+- Ranged: +27
+
+Defence Bonuses:
+- Stab: +33
+- Slash: +39
+- Crush: +43
+- Magic: +30
+- Ranged: +32
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Alchemical Hydra/Strategies(Melee)
+5 | Artio/Strategies(Ranged)
+2 | Barbarian Assault/Strategies(Ranged (mid level))
+3 | Barbarian Assault/Strategies(Melee (mid level))
+2 | Calvar'ion/Strategies(Melee)
+3 | King Black Dragon/Strategies(Melee BIS smuggle)
+1 | King Black Dragon/Strategies(4-item melee)
+1 | Krystilia/Strategies(Melee)
+1 | Lava dragon/Strategies(Melee)
+2 | Revenants/Strategies(Melee)
+2 | Royal Titans/Strategies(Mid-game)
+4 | Slayer task/Nechryael(Melee)
+2 | Spindel/Strategies(Melee)
+3 | The Hueycoatl/Strategies(Melee)
+3 | Tombs of Amascut/Strategies(Ranged switch)
+4 | Tombs of Amascut/Strategies(Melee switch)
+5 | Tormented Demon/Strategies(Melee switch)
+5 | Tormented Demon/Strategies(Ranged switch)
+4 | Ultimate Ironman Guide/Equipment
+4 | Ultimate Ironman Guide/Equipment
+2 | Venenatis/Strategies(Melee)
+2 | Vet'ion/Strategies(Melee)

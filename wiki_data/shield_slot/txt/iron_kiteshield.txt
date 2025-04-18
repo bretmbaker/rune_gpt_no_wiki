@@ -1,0 +1,76 @@
+[Weapon: Iron Kiteshield]
+
+
+TheIron kiteshieldis the second-weakest smithablekiteshield, requiring 1Defenceto wield. A player with 27Smithingcan make the shield by using threeiron barson ananvilwhile carrying ahammer, granting 75 Smithingexperience. It cannot be bought fromCassie's Shield Shopforironmen, as there is no stock available.
+The iron kiteshield yields the highest melee defence bonuses for any shield slot item at 1Defence.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A large metal shield.
+General Store Value: 238 coins
+High alch: 142 coins
+Low alch: 95 coins
+Weight: 5.443 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 84 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 4,955
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -8
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +10
+- Crush: +9
+- Magic: -1
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Angry barbarian spirit | 166 | 1 | 8/128 | 
+Banshee | 23 | 1 | 1/128 | 
+Berserk barbarian spirit | 166 | 1 | 8/128 | 
+Black Knight TitanNormal | 120 | 1 | 3/128 | N/A
+Cave slime | 23 | 1 | 2/128 | 
+Cyclops (Ardougne Zoo) | 56 | 1 | 3/128 | 
+Enraged barbarian spirit | 166 | 1 | 8/128 | 
+Giant skeleton (Tarn's Lair) | 100 | 1 | 8/128 | 
+Hill Giant (Giants' Plateau) | 28 | 1 | 3/128 | 
+Hill Giant (Kourend) | 28 | 1 | 3/128 | 
+Hill Giant (Varlamore) | 28 | 1 | 3/128 | 
+Hill Giant | 28 | 1 | 3/128 | 
+Jungle horror | 70 | 1 | 5/129 | 
+Screaming banshee | 70 | 1 | 3 × 1/128 | 
+Simple lockbox | N/A | 1 | 32/10,850 | 
+Skeleton (Tarn's Lair)High level | 81; 87 | 1 | 8/128 | 
+Skeleton (mage) | 94 | 1 | 8/128 | 
+Skeleton brute | 132 | 1 | 8/128 | 
+Skeleton heavy | 132 | 1 | 8/128 | 
+Skeleton hero | 149 | 1 | 8/128 | 
+Skeleton thug | 132 | 1 | 8/128 | 
+Skeleton warlord | 132 | 1 | 8/128 | 

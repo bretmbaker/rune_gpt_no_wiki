@@ -1,0 +1,20 @@
+name: GielinorNomad
+mode: ironman
+style:
+  - sweaty_pvmer
+  - realist
+playtime_hours_per_day: 6
+bond_priority: true
+personality:
+  - tone: efficient
+    motivation: Obtain BIS gear and reach max combat
+    philosophy: Efficiency is enjoyment
+long_term_goals:
+  - Max all skills
+  - Get all pets
+restrictions:
+  - No GE flipping
+quest_strategy: follow_guide
+pvm_style: aggressive
+risk_tolerance: medium
+use_guides: true 

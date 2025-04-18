@@ -1,0 +1,37 @@
+Name: Chicken
+Combat Level: 3
+Size: 1x1
+Info:
+- Description: Yep. Definitely a chicken.
+
+Slayer Info:
+
+Immunities:
+- Poison: ? (edit)
+- Venom: ? (edit)
+- Monster ID: 3316
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 3
+Attack: 1
+Strength: 1
+Defence: 1
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

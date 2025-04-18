@@ -1,0 +1,2 @@
+Item: Civilian
+Summary: Civilians are citizens of West Ardougne who can be found in the western section of the city, just east of the Underground Pass. When talked to, they will complain that they are busy because of the rat infestation, and say that they need a cat.

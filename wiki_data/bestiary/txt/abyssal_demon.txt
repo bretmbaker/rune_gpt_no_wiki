@@ -1,0 +1,189 @@
+Name: Abyssal demon
+Combat Level: 124
+Size: 1x1
+Info:
+- Description: A denizen of the Abyss!
+
+Slayer Info:
+- Required Level: 85
+- Slayer XP: 150 xp
+- Category: Abyssal Demons
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 415,416
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Mithril kiteshield (1/128)
+- Rune chainbody (1/128)
+- Rune med helm (1/128)
+- Abyssal whip (1/512[3])
+- Abyssal dagger (1/32,000[4])
+- Law rune (1/128)
+- Grimy guam leaf (1/26.9)
+- Grimy marrentill (1/35.9)
+- Grimy tarromin (1/47.9)
+- Grimy harralander (1/61.6)
+- Grimy ranarr weed (1/78.4)
+- Grimy irit leaf (1/107.8)
+- Grimy avantoe (1/143.7)
+- Grimy kwuarm (1/172.5)
+- Grimy cadantine (1/215.6)
+- Grimy lantadyme (1/287.4)
+- Grimy dwarf weed (1/287.4)
+- Coins (1/128)
+- Cosmic talisman (1/128)
+- Chaos talisman (1/128)
+- Defence potion(3) (1/128)
+- Nothing (1/44.78; Never[d 1])
+- Coins (1/390.1)
+- Loop half of key (1/361.58; 1/324.68[d 2])
+- Tooth half of key (1/361.58; 1/324.68[d 2])
+- Uncut sapphire (1/96.38; 1/48.94[d 2])
+- Runite bar (1/1,638.4)
+- Nature rune (1/2,730.67)
+- Rune 2h sword (1/2,730.67)
+- Rune battleaxe (1/2,730.67)
+- Uncut emerald (1/192.75; 1/97.88[d 2])
+- Law rune (1/4,096)
+- Death rune (1/4,096)
+- Steel arrow (1/4,096)
+- Rune arrow (1/4,096)
+- Adamant javelin (1/4,096)
+- Rune sq shield (1/4,096)
+- Dragonstone (1/4,096)
+- Silver ore (1/4,096)
+- Uncut ruby (1/385.51; 1/195.76[d 2])
+- Rune kiteshield (1/8,192)
+- Dragon med helm (1/8,192)
+- Rune spear (1/7,423.55; 1/759.24[d 2][d 3])
+- Shield left half (1/14,847.09; 1/1,518.48[d 2][d 3])
+- Nature talisman (1/1,028.02; 1/522.04[d 2])
+- Dragon spear (1/19,796.13; 1/2,024.64[d 2][d 3])
+- Uncut diamond (1/1,542.02; 1/783.06[d 2])
+- Rune javelin (1/3,084.05; 1/1,566.12[d 2])
+- Ensouled abyssal head (1/25)
+- Brimstone key (1/76[d 1])
+- Clue scroll (hard) (1/128[d 2][5])
+- Clue scroll (elite) (1/1,200[d 3][5])
+- Abyssal head (1/6,000[5])
+- Ancient shard (1/233)
+- Dark totem base (1/350)
+- Dark totem middle (1/350)
+- Dark totem top (1/350)
+- Mithril kiteshield (1/68)
+- Rune chainbody (1/68)
+- Rune med helm (1/68)
+- Abyssal whip (1/512[6])
+- Abyssal dagger (1/32,000[4])
+- Law rune (1/68)
+- Grimy guam leaf (1/14.3)
+- Grimy marrentill (1/19.1)
+- Grimy tarromin (1/25.5)
+- Grimy harralander (1/32.7)
+- Grimy ranarr weed (1/41.6)
+- Grimy irit leaf (1/57.3)
+- Grimy avantoe (1/76.4)
+- Grimy kwuarm (1/91.6)
+- Grimy cadantine (1/114.5)
+- Grimy lantadyme (1/152.7)
+- Grimy dwarf weed (1/152.7)
+- Cosmic talisman (1/68)
+- Chaos talisman (1/68)
+- Defence potion(3) (1/68)
+- Nothing (1/23.79; Never[d 1])
+- Coins (1/207.24)
+- Loop half of key (1/192.09; 1/172.49[d 2])
+- Tooth half of key (1/192.09; 1/172.49[d 2])
+- Uncut sapphire (1/51.2; 1/26[d 2])
+- Runite bar (1/870.4)
+- Nature rune (1/1,450.67)
+- Rune 2h sword (1/1,450.67)
+- Rune battleaxe (1/1,450.67)
+- Uncut emerald (1/102.4; 1/52[d 2])
+- Law rune (1/2,176)
+- Death rune (1/2,176)
+- Steel arrow (1/2,176)
+- Rune arrow (1/2,176)
+- Adamant javelin (1/2,176)
+- Rune sq shield (1/2,176)
+- Dragonstone (1/2,176)
+- Silver ore (1/2,176)
+- Uncut ruby (1/204.8; 1/104[d 2])
+- Rune kiteshield (1/4,352)
+- Dragon med helm (1/4,352)
+- Rune spear (1/3,943.76; 1/403.35[d 2][d 3])
+- Shield left half (1/7,887.52; 1/806.69[d 2][d 3])
+- Nature talisman (1/546.13; 1/277.33[d 2])
+- Dragon spear (1/10,516.69; 1/1,075.59[d 2][d 3])
+- Uncut diamond (1/819.2; 1/416[d 2])
+- Rune javelin (1/1,638.4; 1/832[d 2])
+- Ensouled abyssal head (1/25)
+- Clue scroll (hard) (1/128[d 1][5])
+- Clue scroll (elite) (1/1,200[d 2][5])
+- Abyssal head (1/6,000[5])
+- Larran's key (1/65)
+- Slayer's enchantment (1/200)
+- Blighted anglerfish (~1/9.3)
+- Blighted manta ray (~1/9.3)
+- Blighted karambwan (~1/13.9)
+- Blighted teleport spell sack (~1/13.9)
+- Blighted ancient ice sack (~1/13.9)
+- Blighted vengeance sack (~1/13.9)
+- Blighted entangle sack (~1/6.9)
+- Blighted super restore(4) (~1/27.8)
+- Revenant cave teleport (~1/27.8)
+- Dareeyak teleport (tablet) (~1/138.8)
+- Wilderness crabs teleport (~1/138.8)
+- Carrallanger teleport (tablet) (~1/138.8)
+- Paddewwa teleport (tablet) (~1/138.8)
+- Annakarl teleport (tablet) (~1/138.8)
+- Lassar teleport (tablet) (~1/138.8)
+- Kharyrll teleport (tablet) (~1/138.8)
+- Senntisten teleport (tablet) (~1/138.8)
+- Ghorrock teleport (tablet) (~1/138.8)
+- Target teleport (~1/138.8)
+- Magic shortbow scroll (~1/346.9)
+- Ring of wealth scroll (~1/346.9)
+- Trouver parchment (~1/1,387.5)
+- Looting bag note (~1/1,387.5)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 150
+Attack: 97
+Strength: 67
+Defence: 135
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 20
+Slash: 20
+Crush: 20
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 20
+Standard: 20
+Heavy: 20

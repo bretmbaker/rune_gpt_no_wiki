@@ -1,0 +1,87 @@
+[Weapon: Tonalztics Of Ralos#Charged]
+
+
+TheTonalztics of Ralosis a one-handed thrown weapon that requires level 75Rangedto equip, which is obtained by participating in theFortis Colosseum. Unlike mostthrown weapons, it is not stackable and effectively provides unlimited "ammo," though it has an additional effect when charged. The weapon rolls against a monster's light ranged defence.
+In its uncharged state, the weapon hits a target for 0-75% of the player'smaximum ranged hitonce. However, when charged withSunfire splinters, the weapon will hit twice instead, with the second damage roll independent from the first. It can hold a maximum of 20,000 charges. One charge is consumed per throw, whether or not the special attack is used, and regardless of the amount of hits that land. Players can configure the charges while the weapon is in their bank by right-clicking on Configure-Charges, as long as players have the required materials.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Bankable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A rebounding throwing weapon of devastating proportions.
+General Store Value: 600,000 coins
+High alch: 360,000 coins
+Low alch: 240,000 coins
+Weight: 3 kg
+Grand Exchange Value: 80,078,021 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 115
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +115
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +55
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 7 ticks (4.2s) | 5 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 6 ticks (3.6s) | 5 tiles |  | None
+ | Longrange | Light | Longrange | 7 ticks (4.2s) | 7 tiles |  | +3 Defence
+
+
+[Special Attack]
+The Tonalztics of Ralos has aspecial attack,Division, costing 50% special attack energy.Divisionreduces the target'sDefencelevel by 10% of itsMagiclevel on asuccessful hit. This effect occurs for each individual hit, meaning achargedspecial attack can potentially reduce the target's defence two times(20% of Magic level)with a potential four time reduction if using two specials in a row(40% of Magic level).
+This effect makes it uniquely useful for high-defence targets who have an accompanying high-magic level; Or for draining the defence of targets who are otherwise unreachable with standard methods(like aDragon warhammer). An example beingZulrah: with her 300 Magic/Defence,Divisioncan potentially drain up to 120 Defence(30 x 4)immediately and greatly increase accuracy for the duration of the fight.
+When used on NPCs, the defence reduction from a successful first hit will apply for the calculation of the second hit. However, this is not the case when used in PVP[1].
+The special attack animation differs depending on whether the weapon is charged.
+A player performsDivisionwith the uncharged weapon.A player performsDivisionwith the charged weapon.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Rewards Chest (Fortis Colosseum)Wave 8 | N/A | 1 | 105/114,240 | 
+Rewards Chest (Fortis Colosseum)Wave 9 | N/A | 1 | 25/21,600 | 
+Rewards Chest (Fortis Colosseum)Wave 10 | N/A | 1 | 25/16,000 | 
+Rewards Chest (Fortis Colosseum)Wave 11 | N/A | 1 | 5/2,080 | 
+Rewards Chest (Fortis Colosseum)Wave 12 | N/A | 1 | 25/4,800 | 
+Rewards Chest (Fortis Colosseum)Wave 7 | N/A | 1 | 35/45,920 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Alchemical Hydra/Strategies(Ranged)
+2 | Cerberus/Strategies(Ranged)
+1 | Chambers of Xeric/Challenge Mode(Ranged)
+3 | Commander Zilyana/Strategies(Ranged)
+4 | The Leviathan/Strategies(Ranged)
+1 | Theatre of Blood/Hard Mode(Magic)
+1 | Theatre of Blood/Strategies(Magic)
+4 | Zulrah/Strategies(Ranged)

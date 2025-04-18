@@ -1,0 +1,55 @@
+[Weapon: Fighter Hat#Broken]
+
+
+Thefighter hatis a piece ofmembers-onlyarmourthat requires 45Defenceto wear, and is obtained through theBarbarian Assaultminigame. Players with 275honour pointsin each role and who have killed thePenance Queencan purchase the hat fromCommander Connad, located on the ground floor of theBarbarian Outpost.
+The fighter hat is sometimes used in place of thewarrior helmandberserker helm. The warrior helm provides slightly better defensive bonuses, but offers an attack bonus toslashonly, while the fighter hat also provides attack bonuses tostabandcrush. In fact, the +5 stab attack bonus makes the fighter hat the best-in-slot item for stab attack. The berserker helm has slightly better defensive bonuses and provides a strength bonus (+3), but provides nomeleeattack bonuses. The fighter hat is a popular choice amongobsidian maulersthat are unable to obtain theInquisitor's great helm.
+
+
+[Infobox]
+Released: 4 January2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A Penance Fighter hat.
+General Store Value: 65,002 coins
+Alchemy: Not alchemisable
+Weight: 2 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +5
+- Slash: +5
+- Crush: +5
+- Magic: -7
+- Ranged: -7
+
+Defence Bonuses:
+- Stab: +27
+- Slash: +29
+- Crush: +26
+- Magic: -3
+- Ranged: +28
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Date | Changes
+6 July2022(update) | The locked variant's value was decreased from 65,002 to 65,001.
+21 August –4 September 2014 | The "Destroy" option was replaced with a "Drop" option.
+8 August2013(update) | The item's value was decreased from 201,000 to 65,002.
+2 August2013(update|poll) | The item's value was increased from 5000 to 201,000 so it is protected over rune armour and dragon battleaxes upon death.
+13 March2013(update) | Barbarian Assault was enabled, making the fighter hat obtainable.
+22 February2013(update) | This content was included when theOld School RuneScapeservers officially launched, but was unobtainable asBarbarian Assaultwas disabled.

@@ -1,0 +1,45 @@
+[Weapon: Three Barrels]
+
+
+Three barrelsis an item used in thekeg balancechallenge in the Warriors' Guild. When one keg is picked up in the room,one barrelwill appear on the player's head. If another keg is picked up, it becomestwo barrels, all the way up tofive barrels. It cannot be removed from the head slot by clicking Remove, and is only lost when the barrel stack collapses, causing a small amount of damage.
+
+
+[Infobox]
+Released: 13 June2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Drop
+Examine: To put on your head.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 13.607 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

@@ -1,0 +1,41 @@
+Name: Jake
+Combat Level: 37
+Size: 1x1
+Info:
+- Description: A deadly pirate.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3863
+- Link: MOID
+
+Location:
+- Area: Pirates' Cove (a small island in the Lunar Sea north-west of Rellekka)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 50
+Attack: 27
+Strength: 31
+Defence: 25
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

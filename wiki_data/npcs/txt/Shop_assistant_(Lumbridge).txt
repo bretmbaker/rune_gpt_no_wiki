@@ -1,0 +1,2 @@
+Item: Shop assistant (Lumbridge)
+Summary: The Shop assistant helps run the Lumbridge General Store.

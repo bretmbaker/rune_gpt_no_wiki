@@ -1,0 +1,51 @@
+[Weapon: Ice Gloves]
+
+
+Ice glovesare a piece of armour dropped by theIce QueenunderWhite Wolf Mountain. The gloves are required for multiplequests, as well as severalskillingactivities. They can be combined withSmiths glovesto combine the effects of both inSmiths gloves (i). This process is reversible.
+Although the Ice Queen is a high level, she is very easy to kill, especially when usingProtect from Melee. Youdo notneed to startHeroes' Questto obtain the ice gloves, and the gloves can be re-obtained as many times as desired. The gloves areobtainable at level 3; however, a boostable level of 50Miningis required to mine an obstacle on the path to her lair.
+
+
+[Infobox]
+Released: 27 February2002(Update)
+Members: Yes
+Quest item: Heroes' Quest
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: These will keep my hands cold!
+General Store Value: 6 coins
+High alch: 3 coins
+Low alch: 2 coins
+Weight: 0.226 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +3
+- Crush: +4
+- Magic: +0
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ice Queen | 111 | 1 | Always | 

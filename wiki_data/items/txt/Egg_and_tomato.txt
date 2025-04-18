@@ -1,0 +1,1 @@
+Egg and tomatois afoodand cooking ingredient. It can be created by players with acookinglevel of 23 by combining ascrambled eggwith atomato. This does not require aknifeorrange. Consuming it heals for 8 hitpoints.

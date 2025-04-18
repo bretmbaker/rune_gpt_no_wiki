@@ -1,0 +1,2 @@
+Item: Twig (unused)
+Summary: The Twig is an unused NPC that was added to the game files during the RuneScape 2 beta. It was intended to appear during the Waterfall Quest, and the name and examine suggest it would have been seen floating along the Baxtorian Falls. For unknown reasons however, it was never added to the game.

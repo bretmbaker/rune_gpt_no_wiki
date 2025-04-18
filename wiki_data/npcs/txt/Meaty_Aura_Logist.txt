@@ -1,0 +1,2 @@
+Item: Meaty Aura Logist
+Summary: Meaty Aura Logist is a troll NPC, acting as a weather researcher. She appears in the Sailing alpha. Players must take her  rusty portable weather station, apply anti-rust tonic to it, and then chart the region she requests in their boat using the weather station.

@@ -1,0 +1,45 @@
+[Weapon: Dragon Platelegs (G)]
+
+
+Thedragon platelegs (g)aredragon platelegswith adragon legs/skirt ornament kitattached to it, and is a part ofdragon gold-trimmed armour. The attached ornament kit gives no additional bonuses, and is only used to add aesthetics to the platelegs. It costs170,496for both the parts to make the dragon platelegs (g).
+While the platelegs are untradeable in its ornamented state, it can be dismantled anytime, returning the tradeable platelegs and ornament kit.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle
+Examine: Heavy protective legwear with a gold trim.
+General Store Value: 270,000 coins
+Alchemy: Not alchemisable
+Weight: 9.071 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +68
+- Slash: +66
+- Crush: +63
+- Magic: -4
+- Ranged: +65
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

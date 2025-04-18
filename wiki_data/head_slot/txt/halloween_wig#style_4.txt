@@ -1,0 +1,47 @@
+[Weapon: Halloween Wig#Style 4]
+
+
+TheHalloween wigis a holiday reward received from completing aHalloween eventfrom 2022 onwards. It can be changed into various Halloween-themed hairstyles.
+If destroyed, a replacement can be obtained fromDiangoinDraynor Villageor from thetoy boxof acostume room.
+
+
+[Infobox]
+Released: 26 October2022(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Change, Destroy
+Worn options: Change
+Destroy: You can get a replacement from Diango.
+Examine: A spooky wig!
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 0.25 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

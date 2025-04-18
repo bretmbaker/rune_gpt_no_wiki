@@ -1,0 +1,2 @@
+Item: Gelin
+Summary: Gelin is a retired insurance broker located at the Lumbridge graveyard next to her Insurance stall. She used to sell hitpoints insurance, which would guarantee that a player's Hitpoints level will not fall below a certain level when a player dies in Deadman Mode. These were one-time payments, so once a player's Hitpoints level is insured, it will never fall below it when they die.

@@ -1,0 +1,82 @@
+[Weapon: Dragon 2H Sword]
+
+
+Thedragon 2h swordis one of the strongesttwo-handed swordsinOld School RuneScape, requiring level 60Attackto wield. Due to its slow attacking speed and the fact that it cannot be used with ashieldordefender, many players prefer using other dragon weaponry instead, such as thedragon scimitar.
+It is dropped by mostWilderness bossesand theKalphite Queen.
+
+
+[Infobox]
+Released: 20 February2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A two-handed Dragon Sword.
+General Store Value: 220,000 coins
+High alch: 132,000 coins
+Low alch: 88,000 coins
+Weight: 3.628 kg
+Grand Exchange Value: 131,077 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 1,319
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: +92
+- Crush: +80
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +93
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 7 ticks (4.2s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing the dragon 2h sword's special attack,Powerstab.
+The dragon 2h sword has aspecial attack,Powerstab, which consumes 60% of the player's special attack energy. When used in amulti-combat area, the attack hits all targets within 1 square of the player, including the one they are standing on; no more than 14 NPCs or three players can be hit at one time with this attack. However, there are no advantages when using this attack in a single-combat area.
+It can be especially useful while training in multi-combat areas, like those where one may fightBanditsorSkeleton Monkeys. The attack is also useful inNightmare Zone, when used in with the "Power Surge" power-up that gives the player temporary infinite special attacks. This allows the player to deal massive amounts of damage to many surrounding enemies at once, repeatedly. It is also uncommonly used during the fight againstThe Nightmarewhenhusksare summoned around the player. The special attack is ideal when many husks orparasitesare on adjacent tiles, able to damage many at once.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Artio | 320 | 1 | 1/358 | 
+Callisto | 470 | 1 | 1/256 | 
+Calvar'ion | 264 | 1 | 1/358 | 
+Chaos Elemental | 305 | 1 | 2/128 | 
+Kalphite Queen | 333 | 1 | 1/256 | 
+Scorpia | 225 | 1 | 1/128 | 
+Spindel | 302 | 1 | 1/358 | 
+Venenatis | 464 | 1 | 1/256 | 
+Vet'ion | 454 | 1 | 1/256 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+5 | Venenatis/Strategies(Melee)

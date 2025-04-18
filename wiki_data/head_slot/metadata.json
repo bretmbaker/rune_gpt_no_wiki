@@ -1,0 +1,3718 @@
+{
+  "turquoise slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/turquoise_slayer_helmet.txt"
+  },
+  "adamant helm (h2)": {
+    "slot": "Head",
+    "txt": "txt/adamant_helm_(h2).txt"
+  },
+  "slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "ancestral hat": {
+    "slot": "Head",
+    "txt": "txt/ancestral_hat.txt"
+  },
+  "archer helm": {
+    "slot": "Head",
+    "txt": "txt/archer_helm.txt"
+  },
+  "xerician hat": {
+    "slot": "Head",
+    "txt": "txt/xerician_hat.txt"
+  },
+  "black mask#(3)": {
+    "slot": "Head",
+    "txt": "txt/black_mask#(3).txt"
+  },
+  "blue halloween mask": {
+    "slot": "Head",
+    "txt": "txt/blue_halloween_mask.txt"
+  },
+  "snow goggles %26 hat": {
+    "slot": "Head",
+    "txt": "txt/snow_goggles_%26_hat.txt"
+  },
+  "propeller hat": {
+    "slot": "Head",
+    "txt": "txt/propeller_hat.txt"
+  },
+  "crystal helm (trahaearn)#active": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(trahaearn)#active.txt"
+  },
+  "tzkal slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/tzkal_slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "void ranger helm#broken": {
+    "slot": "Head",
+    "txt": "txt/void_ranger_helm#broken.txt"
+  },
+  "torva full helm (unobtainable item)": {
+    "slot": "Head",
+    "txt": "txt/torva_full_helm_(unobtainable_item).txt"
+  },
+  "imp mask": {
+    "slot": "Head",
+    "txt": "txt/imp_mask.txt"
+  },
+  "bobble hat": {
+    "slot": "Head",
+    "txt": "txt/bobble_hat.txt"
+  },
+  "3rd age full helmet": {
+    "slot": "Head",
+    "txt": "txt/3rd_age_full_helmet.txt"
+  },
+  "left eye patch": {
+    "slot": "Head",
+    "txt": "txt/left_eye_patch.txt"
+  },
+  "wolf mask (death on the isle)": {
+    "slot": "Head",
+    "txt": "txt/wolf_mask_(death_on_the_isle).txt"
+  },
+  "farmer%27s strawhat#male": {
+    "slot": "Head",
+    "txt": "txt/farmer%27s_strawhat#male.txt"
+  },
+  "crystal helm (ithell)#active": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(ithell)#active.txt"
+  },
+  "spirit angler headband": {
+    "slot": "Head",
+    "txt": "txt/spirit_angler_headband.txt"
+  },
+  "karil%27s coif#(broken)": {
+    "slot": "Head",
+    "txt": "txt/karil%27s_coif#(broken).txt"
+  },
+  "golden prospector helmet": {
+    "slot": "Head",
+    "txt": "txt/golden_prospector_helmet.txt"
+  },
+  "tztok slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/tztok_slayer_helmet_(i)#soul_wars.txt"
+  },
+  "menaphite purple hat": {
+    "slot": "Head",
+    "txt": "txt/menaphite_purple_hat.txt"
+  },
+  "mudskipper hat": {
+    "slot": "Head",
+    "txt": "txt/mudskipper_hat.txt"
+  },
+  "dragon full helm (g)": {
+    "slot": "Head",
+    "txt": "txt/dragon_full_helm_(g).txt"
+  },
+  "graceful hood (lovakengj)#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood_(lovakengj)#worn.txt"
+  },
+  "santa mask": {
+    "slot": "Head",
+    "txt": "txt/santa_mask.txt"
+  },
+  "corrupted morrigan%27s coif (bh)#activated": {
+    "slot": "Head",
+    "txt": "txt/corrupted_morrigan%27s_coif_(bh)#activated.txt"
+  },
+  "festive elf hat": {
+    "slot": "Head",
+    "txt": "txt/festive_elf_hat.txt"
+  },
+  "cyclops head": {
+    "slot": "Head",
+    "txt": "txt/cyclops_head.txt"
+  },
+  "purple tricorn hat": {
+    "slot": "Head",
+    "txt": "txt/purple_tricorn_hat.txt"
+  },
+  "ram skull helm": {
+    "slot": "Head",
+    "txt": "txt/ram_skull_helm.txt"
+  },
+  "twisted hat (t2)": {
+    "slot": "Head",
+    "txt": "txt/twisted_hat_(t2).txt"
+  },
+  "cap and goggles": {
+    "slot": "Head",
+    "txt": "txt/cap_and_goggles.txt"
+  },
+  "blue moon helm#broken": {
+    "slot": "Head",
+    "txt": "txt/blue_moon_helm#broken.txt"
+  },
+  "steel heraldic helm (fairy)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(fairy).txt"
+  },
+  "rune heraldic helm (fairy)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(fairy).txt"
+  },
+  "jack lantern mask": {
+    "slot": "Head",
+    "txt": "txt/jack_lantern_mask.txt"
+  },
+  "20th anniversary hat": {
+    "slot": "Head",
+    "txt": "txt/20th_anniversary_hat.txt"
+  },
+  "red slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/red_slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "decorative full helm (gold)#locked": {
+    "slot": "Head",
+    "txt": "txt/decorative_full_helm_(gold)#locked.txt"
+  },
+  "mime mask": {
+    "slot": "Head",
+    "txt": "txt/mime_mask.txt"
+  },
+  "tribal mask (combat)": {
+    "slot": "Head",
+    "txt": "txt/tribal_mask_(combat).txt"
+  },
+  "void mage helm#normal": {
+    "slot": "Head",
+    "txt": "txt/void_mage_helm#normal.txt"
+  },
+  "firemaking hood": {
+    "slot": "Head",
+    "txt": "txt/firemaking_hood.txt"
+  },
+  "pink hat": {
+    "slot": "Head",
+    "txt": "txt/pink_hat.txt"
+  },
+  "gold tiara": {
+    "slot": "Head",
+    "txt": "txt/gold_tiara.txt"
+  },
+  "progress hat#energised": {
+    "slot": "Head",
+    "txt": "txt/progress_hat#energised.txt"
+  },
+  "swampbark helm": {
+    "slot": "Head",
+    "txt": "txt/swampbark_helm.txt"
+  },
+  "present box hat#festive": {
+    "slot": "Head",
+    "txt": "txt/present_box_hat#festive.txt"
+  },
+  "green tricorn hat": {
+    "slot": "Head",
+    "txt": "txt/green_tricorn_hat.txt"
+  },
+  "void mage helm#locked": {
+    "slot": "Head",
+    "txt": "txt/void_mage_helm#locked.txt"
+  },
+  "adamant heraldic helm (zamorak)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(zamorak).txt"
+  },
+  "crystal helm (iorwerth)#inactive": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(iorwerth)#inactive.txt"
+  },
+  "red pumpkin#laughing": {
+    "slot": "Head",
+    "txt": "txt/red_pumpkin#laughing.txt"
+  },
+  "bronze full helm (g)": {
+    "slot": "Head",
+    "txt": "txt/bronze_full_helm_(g).txt"
+  },
+  "present box hat#anti-santa": {
+    "slot": "Head",
+    "txt": "txt/present_box_hat#anti-santa.txt"
+  },
+  "black med helm": {
+    "slot": "Head",
+    "txt": "txt/black_med_helm.txt"
+  },
+  "farseer helm": {
+    "slot": "Head",
+    "txt": "txt/farseer_helm.txt"
+  },
+  "decorative full helm (white)": {
+    "slot": "Head",
+    "txt": "txt/decorative_full_helm_(white).txt"
+  },
+  "steel heraldic helm (misthalin)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(misthalin).txt"
+  },
+  "orange pumpkin#evil": {
+    "slot": "Head",
+    "txt": "txt/orange_pumpkin#evil.txt"
+  },
+  "two barrels": {
+    "slot": "Head",
+    "txt": "txt/two_barrels.txt"
+  },
+  "nutcracker hat#sweet": {
+    "slot": "Head",
+    "txt": "txt/nutcracker_hat#sweet.txt"
+  },
+  "mithril med helm": {
+    "slot": "Head",
+    "txt": "txt/mithril_med_helm.txt"
+  },
+  "steel heraldic helm (zamorak)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(zamorak).txt"
+  },
+  "rune dragon mask": {
+    "slot": "Head",
+    "txt": "txt/rune_dragon_mask.txt"
+  },
+  "black mask#(8)": {
+    "slot": "Head",
+    "txt": "txt/black_mask#(8).txt"
+  },
+  "villager hat (blue)": {
+    "slot": "Head",
+    "txt": "txt/villager_hat_(blue).txt"
+  },
+  "purple slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/purple_slayer_helmet_(i)#soul_wars.txt"
+  },
+  "proselyte sallet": {
+    "slot": "Head",
+    "txt": "txt/proselyte_sallet.txt"
+  },
+  "cake hat": {
+    "slot": "Head",
+    "txt": "txt/cake_hat.txt"
+  },
+  "dark squall hood": {
+    "slot": "Head",
+    "txt": "txt/dark_squall_hood.txt"
+  },
+  "runner hat#broken": {
+    "slot": "Head",
+    "txt": "txt/runner_hat#broken.txt"
+  },
+  "graceful hood (hosidius)#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood_(hosidius)#worn.txt"
+  },
+  "spiny helmet": {
+    "slot": "Head",
+    "txt": "txt/spiny_helmet.txt"
+  },
+  "powder grey pumpkin#shocked": {
+    "slot": "Head",
+    "txt": "txt/powder_grey_pumpkin#shocked.txt"
+  },
+  "graceful hood (piscarilius)#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood_(piscarilius)#worn.txt"
+  },
+  "orange pumpkin#disgusted": {
+    "slot": "Head",
+    "txt": "txt/orange_pumpkin#disgusted.txt"
+  },
+  "black mask (i)#(7)": {
+    "slot": "Head",
+    "txt": "txt/black_mask_(i)#(7).txt"
+  },
+  "flower crown#pride": {
+    "slot": "Head",
+    "txt": "txt/flower_crown#pride.txt"
+  },
+  "jungle demon mask": {
+    "slot": "Head",
+    "txt": "txt/jungle_demon_mask.txt"
+  },
+  "graceful hood#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood#worn.txt"
+  },
+  "black tricorn hat": {
+    "slot": "Head",
+    "txt": "txt/black_tricorn_hat.txt"
+  },
+  "golden chef%27s hat": {
+    "slot": "Head",
+    "txt": "txt/golden_chef%27s_hat.txt"
+  },
+  "dark green pumpkin#shocked": {
+    "slot": "Head",
+    "txt": "txt/dark_green_pumpkin#shocked.txt"
+  },
+  "orange pumpkin#silly": {
+    "slot": "Head",
+    "txt": "txt/orange_pumpkin#silly.txt"
+  },
+  "ancient mitre": {
+    "slot": "Head",
+    "txt": "txt/ancient_mitre.txt"
+  },
+  "yellow pumpkin#evil": {
+    "slot": "Head",
+    "txt": "txt/yellow_pumpkin#evil.txt"
+  },
+  "void mage helm#broken": {
+    "slot": "Head",
+    "txt": "txt/void_mage_helm#broken.txt"
+  },
+  "chompy bird hat (ogre woodsman)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(ogre_woodsman).txt"
+  },
+  "earmuffs": {
+    "slot": "Head",
+    "txt": "txt/earmuffs.txt"
+  },
+  "spider hat#venenatis": {
+    "slot": "Head",
+    "txt": "txt/spider_hat#venenatis.txt"
+  },
+  "silver partyhat": {
+    "slot": "Head",
+    "txt": "txt/silver_partyhat.txt"
+  },
+  "mask of rebirth": {
+    "slot": "Head",
+    "txt": "txt/mask_of_rebirth.txt"
+  },
+  "echo ahrim%27s hood#(broken)": {
+    "slot": "Head",
+    "txt": "txt/echo_ahrim%27s_hood#(broken).txt"
+  },
+  "decorative helm (gold)#normal": {
+    "slot": "Head",
+    "txt": "txt/decorative_helm_(gold)#normal.txt"
+  },
+  "magma helm#uncharged": {
+    "slot": "Head",
+    "txt": "txt/magma_helm#uncharged.txt"
+  },
+  "black dragon mask": {
+    "slot": "Head",
+    "txt": "txt/black_dragon_mask.txt"
+  },
+  "graceful hood (trailblazer)#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood_(trailblazer)#worn.txt"
+  },
+  "guthix halo#normal": {
+    "slot": "Head",
+    "txt": "txt/guthix_halo#normal.txt"
+  },
+  "eclipse moon helm#used": {
+    "slot": "Head",
+    "txt": "txt/eclipse_moon_helm#used.txt"
+  },
+  "black helm (h3)": {
+    "slot": "Head",
+    "txt": "txt/black_helm_(h3).txt"
+  },
+  "graceful hood (arceuus)#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood_(arceuus)#worn.txt"
+  },
+  "splitbark helm": {
+    "slot": "Head",
+    "txt": "txt/splitbark_helm.txt"
+  },
+  "infernal max hood": {
+    "slot": "Head",
+    "txt": "txt/infernal_max_hood.txt"
+  },
+  "blood tiara": {
+    "slot": "Head",
+    "txt": "txt/blood_tiara.txt"
+  },
+  "red halloween mask": {
+    "slot": "Head",
+    "txt": "txt/red_halloween_mask.txt"
+  },
+  "double eye patch": {
+    "slot": "Head",
+    "txt": "txt/double_eye_patch.txt"
+  },
+  "gnome goggles": {
+    "slot": "Head",
+    "txt": "txt/gnome_goggles.txt"
+  },
+  "magic hood": {
+    "slot": "Head",
+    "txt": "txt/magic_hood.txt"
+  },
+  "beige pumpkin#disgusted": {
+    "slot": "Head",
+    "txt": "txt/beige_pumpkin#disgusted.txt"
+  },
+  "powder grey pumpkin#depressed": {
+    "slot": "Head",
+    "txt": "txt/powder_grey_pumpkin#depressed.txt"
+  },
+  "araxyte slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/araxyte_slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "yellow pumpkin#happy": {
+    "slot": "Head",
+    "txt": "txt/yellow_pumpkin#happy.txt"
+  },
+  "goblin mask": {
+    "slot": "Head",
+    "txt": "txt/goblin_mask.txt"
+  },
+  "corrupted zuriel%27s hood (bh)#activated": {
+    "slot": "Head",
+    "txt": "txt/corrupted_zuriel%27s_hood_(bh)#activated.txt"
+  },
+  "hard hat": {
+    "slot": "Head",
+    "txt": "txt/hard_hat.txt"
+  },
+  "red pumpkin#angry": {
+    "slot": "Head",
+    "txt": "txt/red_pumpkin#angry.txt"
+  },
+  "woodcutting hood": {
+    "slot": "Head",
+    "txt": "txt/woodcutting_hood.txt"
+  },
+  "red pumpkin#disgusted": {
+    "slot": "Head",
+    "txt": "txt/red_pumpkin#disgusted.txt"
+  },
+  "helm of neitiznot": {
+    "slot": "Head",
+    "txt": "txt/helm_of_neitiznot.txt"
+  },
+  "black mask#(7)": {
+    "slot": "Head",
+    "txt": "txt/black_mask#(7).txt"
+  },
+  "flower crown#bisexual": {
+    "slot": "Head",
+    "txt": "txt/flower_crown#bisexual.txt"
+  },
+  "bounty hunter hat (tier 1)": {
+    "slot": "Head",
+    "txt": "txt/bounty_hunter_hat_(tier_1).txt"
+  },
+  "silly jester hat": {
+    "slot": "Head",
+    "txt": "txt/silly_jester_hat.txt"
+  },
+  "graceful hood (hallowed)#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood_(hallowed)#worn.txt"
+  },
+  "shayzien helm (2)": {
+    "slot": "Head",
+    "txt": "txt/shayzien_helm_(2).txt"
+  },
+  "tiara": {
+    "slot": "Head",
+    "txt": "txt/tiara.txt"
+  },
+  "dragon full helm": {
+    "slot": "Head",
+    "txt": "txt/dragon_full_helm.txt"
+  },
+  "pointed blood%27n%27tar snelm": {
+    "slot": "Head",
+    "txt": "txt/pointed_blood%27n%27tar_snelm.txt"
+  },
+  "shayzien hood": {
+    "slot": "Head",
+    "txt": "txt/shayzien_hood.txt"
+  },
+  "moonclan hat": {
+    "slot": "Head",
+    "txt": "txt/moonclan_hat.txt"
+  },
+  "turquoise slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/turquoise_slayer_helmet_(i)#soul_wars.txt"
+  },
+  "armadyl coif": {
+    "slot": "Head",
+    "txt": "txt/armadyl_coif.txt"
+  },
+  "crier hat": {
+    "slot": "Head",
+    "txt": "txt/crier_hat.txt"
+  },
+  "healer hat#normal": {
+    "slot": "Head",
+    "txt": "txt/healer_hat#normal.txt"
+  },
+  "white med helm": {
+    "slot": "Head",
+    "txt": "txt/white_med_helm.txt"
+  },
+  "prayer hood": {
+    "slot": "Head",
+    "txt": "txt/prayer_hood.txt"
+  },
+  "grey tricorn hat": {
+    "slot": "Head",
+    "txt": "txt/grey_tricorn_hat.txt"
+  },
+  "hueycoatl hide coif": {
+    "slot": "Head",
+    "txt": "txt/hueycoatl_hide_coif.txt"
+  },
+  "kyatt hat": {
+    "slot": "Head",
+    "txt": "txt/kyatt_hat.txt"
+  },
+  "hardcore ironman helm": {
+    "slot": "Head",
+    "txt": "txt/hardcore_ironman_helm.txt"
+  },
+  "spider hat#old": {
+    "slot": "Head",
+    "txt": "txt/spider_hat#old.txt"
+  },
+  "easter hat": {
+    "slot": "Head",
+    "txt": "txt/easter_hat.txt"
+  },
+  "shayzien helm (4)": {
+    "slot": "Head",
+    "txt": "txt/shayzien_helm_(4).txt"
+  },
+  "ranger hat#broken": {
+    "slot": "Head",
+    "txt": "txt/ranger_hat#broken.txt"
+  },
+  "beekeeper%27s hat": {
+    "slot": "Head",
+    "txt": "txt/beekeeper%27s_hat.txt"
+  },
+  "music hood": {
+    "slot": "Head",
+    "txt": "txt/music_hood.txt"
+  },
+  "black mask (i)#(5)": {
+    "slot": "Head",
+    "txt": "txt/black_mask_(i)#(5).txt"
+  },
+  "ranger hat#locked": {
+    "slot": "Head",
+    "txt": "txt/ranger_hat#locked.txt"
+  },
+  "armadyl helmet": {
+    "slot": "Head",
+    "txt": "txt/armadyl_helmet.txt"
+  },
+  "herblore hood": {
+    "slot": "Head",
+    "txt": "txt/herblore_hood.txt"
+  },
+  "wizard hat": {
+    "slot": "Head",
+    "txt": "txt/wizard_hat.txt"
+  },
+  "crystal crown (amlodd)": {
+    "slot": "Head",
+    "txt": "txt/crystal_crown_(amlodd).txt"
+  },
+  "flower crown#asexual": {
+    "slot": "Head",
+    "txt": "txt/flower_crown#asexual.txt"
+  },
+  "bounty hunter hat (tier 5)": {
+    "slot": "Head",
+    "txt": "txt/bounty_hunter_hat_(tier_5).txt"
+  },
+  "zombie helmet": {
+    "slot": "Head",
+    "txt": "txt/zombie_helmet.txt"
+  },
+  "facemask": {
+    "slot": "Head",
+    "txt": "txt/facemask.txt"
+  },
+  "zuriel%27s hood (bh)#activated": {
+    "slot": "Head",
+    "txt": "txt/zuriel%27s_hood_(bh)#activated.txt"
+  },
+  "rune helm (h1)": {
+    "slot": "Head",
+    "txt": "txt/rune_helm_(h1).txt"
+  },
+  "banshee mask": {
+    "slot": "Head",
+    "txt": "txt/banshee_mask.txt"
+  },
+  "adamant med helm": {
+    "slot": "Head",
+    "txt": "txt/adamant_med_helm.txt"
+  },
+  "saradomin mitre": {
+    "slot": "Head",
+    "txt": "txt/saradomin_mitre.txt"
+  },
+  "steel heraldic helm (ham)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(ham).txt"
+  },
+  "void mage helm (or)#normal": {
+    "slot": "Head",
+    "txt": "txt/void_mage_helm_(or)#normal.txt"
+  },
+  "blacksmith%27s helm": {
+    "slot": "Head",
+    "txt": "txt/blacksmith%27s_helm.txt"
+  },
+  "bandana eyepatch (blue)": {
+    "slot": "Head",
+    "txt": "txt/bandana_eyepatch_(blue).txt"
+  },
+  "group ironman helm (unranked)": {
+    "slot": "Head",
+    "txt": "txt/group_ironman_helm_(unranked).txt"
+  },
+  "emissary hood": {
+    "slot": "Head",
+    "txt": "txt/emissary_hood.txt"
+  },
+  "nose peg": {
+    "slot": "Head",
+    "txt": "txt/nose_peg.txt"
+  },
+  "ghostly hood": {
+    "slot": "Head",
+    "txt": "txt/ghostly_hood.txt"
+  },
+  "gnome child hat": {
+    "slot": "Head",
+    "txt": "txt/gnome_child_hat.txt"
+  },
+  "dark cavalier": {
+    "slot": "Head",
+    "txt": "txt/dark_cavalier.txt"
+  },
+  "fire max hood": {
+    "slot": "Head",
+    "txt": "txt/fire_max_hood.txt"
+  },
+  "ahrim%27s hood#75": {
+    "slot": "Head",
+    "txt": "txt/ahrim%27s_hood#75.txt"
+  },
+  "berserker helm": {
+    "slot": "Head",
+    "txt": "txt/berserker_helm.txt"
+  },
+  "classic imp hood": {
+    "slot": "Head",
+    "txt": "txt/classic_imp_hood.txt"
+  },
+  "fighter hat#normal": {
+    "slot": "Head",
+    "txt": "txt/fighter_hat#normal.txt"
+  },
+  "guthan%27s helm#75": {
+    "slot": "Head",
+    "txt": "txt/guthan%27s_helm#75.txt"
+  },
+  "seren halo#broken": {
+    "slot": "Head",
+    "txt": "txt/seren_halo#broken.txt"
+  },
+  "powder grey pumpkin#evil": {
+    "slot": "Head",
+    "txt": "txt/powder_grey_pumpkin#evil.txt"
+  },
+  "hat of the eye#regular": {
+    "slot": "Head",
+    "txt": "txt/hat_of_the_eye#regular.txt"
+  },
+  "graceful hood (varlamore)#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood_(varlamore)#worn.txt"
+  },
+  "decorative armour (magic hat)#broken": {
+    "slot": "Head",
+    "txt": "txt/decorative_armour_(magic_hat)#broken.txt"
+  },
+  "corrupted statius%27s full helm (bh)#activated": {
+    "slot": "Head",
+    "txt": "txt/corrupted_statius%27s_full_helm_(bh)#activated.txt"
+  },
+  "white pumpkin#evil": {
+    "slot": "Head",
+    "txt": "txt/white_pumpkin#evil.txt"
+  },
+  "ahrim%27s hood#50": {
+    "slot": "Head",
+    "txt": "txt/ahrim%27s_hood#50.txt"
+  },
+  "black mask (i)#(4)": {
+    "slot": "Head",
+    "txt": "txt/black_mask_(i)#(4).txt"
+  },
+  "araxyte slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/araxyte_slayer_helmet.txt"
+  },
+  "frog mask": {
+    "slot": "Head",
+    "txt": "txt/frog_mask.txt"
+  },
+  "tzkal slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/tzkal_slayer_helmet.txt"
+  },
+  "black mask (i)#(8)": {
+    "slot": "Head",
+    "txt": "txt/black_mask_(i)#(8).txt"
+  },
+  "adamant heraldic helm (kandarin)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(kandarin).txt"
+  },
+  "purple slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/purple_slayer_helmet.txt"
+  },
+  "kandarin headgear 2": {
+    "slot": "Head",
+    "txt": "txt/kandarin_headgear_2.txt"
+  },
+  "white beret": {
+    "slot": "Head",
+    "txt": "txt/white_beret.txt"
+  },
+  "red pumpkin#sad": {
+    "slot": "Head",
+    "txt": "txt/red_pumpkin#sad.txt"
+  },
+  "blood%27n%27tar snelm": {
+    "slot": "Head",
+    "txt": "txt/blood%27n%27tar_snelm.txt"
+  },
+  "saradomin coif": {
+    "slot": "Head",
+    "txt": "txt/saradomin_coif.txt"
+  },
+  "beige pumpkin#sad": {
+    "slot": "Head",
+    "txt": "txt/beige_pumpkin#sad.txt"
+  },
+  "sandwich lady hat": {
+    "slot": "Head",
+    "txt": "txt/sandwich_lady_hat.txt"
+  },
+  "tzkal slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/tzkal_slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "bucket helm (g)": {
+    "slot": "Head",
+    "txt": "txt/bucket_helm_(g).txt"
+  },
+  "bucket helm": {
+    "slot": "Head",
+    "txt": "txt/bucket_helm.txt"
+  },
+  "dragon med helm": {
+    "slot": "Head",
+    "txt": "txt/dragon_med_helm.txt"
+  },
+  "black slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/black_slayer_helmet_(i)#soul_wars.txt"
+  },
+  "dark infinity hat": {
+    "slot": "Head",
+    "txt": "txt/dark_infinity_hat.txt"
+  },
+  "slayer hood": {
+    "slot": "Head",
+    "txt": "txt/slayer_hood.txt"
+  },
+  "snakeskin bandana": {
+    "slot": "Head",
+    "txt": "txt/snakeskin_bandana.txt"
+  },
+  "chompy bird hat (ogre forester)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(ogre_forester).txt"
+  },
+  "yellow pumpkin#sad": {
+    "slot": "Head",
+    "txt": "txt/yellow_pumpkin#sad.txt"
+  },
+  "zamorak halo#broken": {
+    "slot": "Head",
+    "txt": "txt/zamorak_halo#broken.txt"
+  },
+  "brassica halo#broken": {
+    "slot": "Head",
+    "txt": "txt/brassica_halo#broken.txt"
+  },
+  "bronze full helm": {
+    "slot": "Head",
+    "txt": "txt/bronze_full_helm.txt"
+  },
+  "dagon%27hai hat": {
+    "slot": "Head",
+    "txt": "txt/dagon%27hai_hat.txt"
+  },
+  "seren halo#normal": {
+    "slot": "Head",
+    "txt": "txt/seren_halo#normal.txt"
+  },
+  "purple slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/purple_slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "araxyte slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/araxyte_slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "purple hat": {
+    "slot": "Head",
+    "txt": "txt/purple_hat.txt"
+  },
+  "steel full helm (g)": {
+    "slot": "Head",
+    "txt": "txt/steel_full_helm_(g).txt"
+  },
+  "rune full helm (g)": {
+    "slot": "Head",
+    "txt": "txt/rune_full_helm_(g).txt"
+  },
+  "adamant full helm": {
+    "slot": "Head",
+    "txt": "txt/adamant_full_helm.txt"
+  },
+  "dark green pumpkin#disgusted": {
+    "slot": "Head",
+    "txt": "txt/dark_green_pumpkin#disgusted.txt"
+  },
+  "top hat %26 monocle": {
+    "slot": "Head",
+    "txt": "txt/top_hat_%26_monocle.txt"
+  },
+  "guthan%27s helm#(broken)": {
+    "slot": "Head",
+    "txt": "txt/guthan%27s_helm#(broken).txt"
+  },
+  "chompy bird hat (yeoman)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(yeoman).txt"
+  },
+  "steel med helm": {
+    "slot": "Head",
+    "txt": "txt/steel_med_helm.txt"
+  },
+  "turquoise slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/turquoise_slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "smithing hood": {
+    "slot": "Head",
+    "txt": "txt/smithing_hood.txt"
+  },
+  "black mask (i)#(9)": {
+    "slot": "Head",
+    "txt": "txt/black_mask_(i)#(9).txt"
+  },
+  "torag%27s helm#25": {
+    "slot": "Head",
+    "txt": "txt/torag%27s_helm#25.txt"
+  },
+  "raging echoes hat (t3)": {
+    "slot": "Head",
+    "txt": "txt/raging_echoes_hat_(t3).txt"
+  },
+  "white pumpkin#shocked": {
+    "slot": "Head",
+    "txt": "txt/white_pumpkin#shocked.txt"
+  },
+  "warrior helm": {
+    "slot": "Head",
+    "txt": "txt/warrior_helm.txt"
+  },
+  "yellow pumpkin#laughing": {
+    "slot": "Head",
+    "txt": "txt/yellow_pumpkin#laughing.txt"
+  },
+  "elite black full helm": {
+    "slot": "Head",
+    "txt": "txt/elite_black_full_helm.txt"
+  },
+  "bedsheet#regular": {
+    "slot": "Head",
+    "txt": "txt/bedsheet#regular.txt"
+  },
+  "hardcore group ironman helm": {
+    "slot": "Head",
+    "txt": "txt/hardcore_group_ironman_helm.txt"
+  },
+  "rune helm (h3)": {
+    "slot": "Head",
+    "txt": "txt/rune_helm_(h3).txt"
+  },
+  "steel heraldic helm (dorgeshuun)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(dorgeshuun).txt"
+  },
+  "beige pumpkin#happy": {
+    "slot": "Head",
+    "txt": "txt/beige_pumpkin#happy.txt"
+  },
+  "snow imp costume head#reward": {
+    "slot": "Head",
+    "txt": "txt/snow_imp_costume_head#reward.txt"
+  },
+  "dragonstone full helm": {
+    "slot": "Head",
+    "txt": "txt/dragonstone_full_helm.txt"
+  },
+  "prescription goggles#focused": {
+    "slot": "Head",
+    "txt": "txt/prescription_goggles#focused.txt"
+  },
+  "ram mask": {
+    "slot": "Head",
+    "txt": "txt/ram_mask.txt"
+  },
+  "wolf mask": {
+    "slot": "Head",
+    "txt": "txt/wolf_mask.txt"
+  },
+  "shayzien helm (3)": {
+    "slot": "Head",
+    "txt": "txt/shayzien_helm_(3).txt"
+  },
+  "ranging hood": {
+    "slot": "Head",
+    "txt": "txt/ranging_hood.txt"
+  },
+  "tyras helm": {
+    "slot": "Head",
+    "txt": "txt/tyras_helm.txt"
+  },
+  "black mask (i)#(10)": {
+    "slot": "Head",
+    "txt": "txt/black_mask_(i)#(10).txt"
+  },
+  "serpentine helm#uncharged": {
+    "slot": "Head",
+    "txt": "txt/serpentine_helm#uncharged.txt"
+  },
+  "turquoise slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/turquoise_slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "dark green pumpkin#happy": {
+    "slot": "Head",
+    "txt": "txt/dark_green_pumpkin#happy.txt"
+  },
+  "dark green pumpkin#sad": {
+    "slot": "Head",
+    "txt": "txt/dark_green_pumpkin#sad.txt"
+  },
+  "white boater": {
+    "slot": "Head",
+    "txt": "txt/white_boater.txt"
+  },
+  "dragon med helm (cr)": {
+    "slot": "Head",
+    "txt": "txt/dragon_med_helm_(cr).txt"
+  },
+  "corrupted helm": {
+    "slot": "Head",
+    "txt": "txt/corrupted_helm.txt"
+  },
+  "dark green pumpkin#silly": {
+    "slot": "Head",
+    "txt": "txt/dark_green_pumpkin#silly.txt"
+  },
+  "villager hat (pink)": {
+    "slot": "Head",
+    "txt": "txt/villager_hat_(pink).txt"
+  },
+  "crystal crown (ithell)": {
+    "slot": "Head",
+    "txt": "txt/crystal_crown_(ithell).txt"
+  },
+  "steel heraldic helm (jogre)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(jogre).txt"
+  },
+  "rune heraldic helm (asgarnia)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(asgarnia).txt"
+  },
+  "partyhat %26 specs": {
+    "slot": "Head",
+    "txt": "txt/partyhat_%26_specs.txt"
+  },
+  "bandos halo#locked": {
+    "slot": "Head",
+    "txt": "txt/bandos_halo#locked.txt"
+  },
+  "pith helmet": {
+    "slot": "Head",
+    "txt": "txt/pith_helmet.txt"
+  },
+  "armadyl halo#broken": {
+    "slot": "Head",
+    "txt": "txt/armadyl_halo#broken.txt"
+  },
+  "adamant helm (h5)": {
+    "slot": "Head",
+    "txt": "txt/adamant_helm_(h5).txt"
+  },
+  "rune heraldic helm (guthix)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(guthix).txt"
+  },
+  "adamant heraldic helm (fairy)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(fairy).txt"
+  },
+  "royal crown": {
+    "slot": "Head",
+    "txt": "txt/royal_crown.txt"
+  },
+  "brown tricorn hat": {
+    "slot": "Head",
+    "txt": "txt/brown_tricorn_hat.txt"
+  },
+  "void melee helm (or)#normal": {
+    "slot": "Head",
+    "txt": "txt/void_melee_helm_(or)#normal.txt"
+  },
+  "white cavalier": {
+    "slot": "Head",
+    "txt": "txt/white_cavalier.txt"
+  },
+  "hood of ruin": {
+    "slot": "Head",
+    "txt": "txt/hood_of_ruin.txt"
+  },
+  "tztok slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/tztok_slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "castlewars hood (zamorak)": {
+    "slot": "Head",
+    "txt": "txt/castlewars_hood_(zamorak).txt"
+  },
+  "masori assembler max hood": {
+    "slot": "Head",
+    "txt": "txt/masori_assembler_max_hood.txt"
+  },
+  "slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "bandana eyepatch (brown)": {
+    "slot": "Head",
+    "txt": "txt/bandana_eyepatch_(brown).txt"
+  },
+  "cavalier mask": {
+    "slot": "Head",
+    "txt": "txt/cavalier_mask.txt"
+  },
+  "black wizard hat (g)": {
+    "slot": "Head",
+    "txt": "txt/black_wizard_hat_(g).txt"
+  },
+  "armadyl mitre": {
+    "slot": "Head",
+    "txt": "txt/armadyl_mitre.txt"
+  },
+  "blue moon helm#used": {
+    "slot": "Head",
+    "txt": "txt/blue_moon_helm#used.txt"
+  },
+  "saradomin halo#broken": {
+    "slot": "Head",
+    "txt": "txt/saradomin_halo#broken.txt"
+  },
+  "agility hood": {
+    "slot": "Head",
+    "txt": "txt/agility_hood.txt"
+  },
+  "white pumpkin#depressed": {
+    "slot": "Head",
+    "txt": "txt/white_pumpkin#depressed.txt"
+  },
+  "nest hat#chick": {
+    "slot": "Head",
+    "txt": "txt/nest_hat#chick.txt"
+  },
+  "green hat": {
+    "slot": "Head",
+    "txt": "txt/green_hat.txt"
+  },
+  "fedora": {
+    "slot": "Head",
+    "txt": "txt/fedora.txt"
+  },
+  "construct. hood": {
+    "slot": "Head",
+    "txt": "txt/construct._hood.txt"
+  },
+  "beanie": {
+    "slot": "Head",
+    "txt": "txt/beanie.txt"
+  },
+  "verac%27s helm#50": {
+    "slot": "Head",
+    "txt": "txt/verac%27s_helm#50.txt"
+  },
+  "saradomin max hood": {
+    "slot": "Head",
+    "txt": "txt/saradomin_max_hood.txt"
+  },
+  "ochre snelm": {
+    "slot": "Head",
+    "txt": "txt/ochre_snelm.txt"
+  },
+  "dharok%27s helm#25": {
+    "slot": "Head",
+    "txt": "txt/dharok%27s_helm#25.txt"
+  },
+  "beige pumpkin#evil": {
+    "slot": "Head",
+    "txt": "txt/beige_pumpkin#evil.txt"
+  },
+  "slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/slayer_helmet.txt"
+  },
+  "blue partyhat": {
+    "slot": "Head",
+    "txt": "txt/blue_partyhat.txt"
+  },
+  "dark green pumpkin#angry": {
+    "slot": "Head",
+    "txt": "txt/dark_green_pumpkin#angry.txt"
+  },
+  "crystal helm (crwys)#inactive": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(crwys)#inactive.txt"
+  },
+  "fishbowl helmet": {
+    "slot": "Head",
+    "txt": "txt/fishbowl_helmet.txt"
+  },
+  "carpenter%27s helmet": {
+    "slot": "Head",
+    "txt": "txt/carpenter%27s_helmet.txt"
+  },
+  "karil%27s coif#100": {
+    "slot": "Head",
+    "txt": "txt/karil%27s_coif#100.txt"
+  },
+  "dharok%27s helm#undamaged": {
+    "slot": "Head",
+    "txt": "txt/dharok%27s_helm#undamaged.txt"
+  },
+  "verac%27s helm#25": {
+    "slot": "Head",
+    "txt": "txt/verac%27s_helm#25.txt"
+  },
+  "verac%27s helm#undamaged": {
+    "slot": "Head",
+    "txt": "txt/verac%27s_helm#undamaged.txt"
+  },
+  "zamorak full helm": {
+    "slot": "Head",
+    "txt": "txt/zamorak_full_helm.txt"
+  },
+  "blue dragon mask": {
+    "slot": "Head",
+    "txt": "txt/blue_dragon_mask.txt"
+  },
+  "nurse hat": {
+    "slot": "Head",
+    "txt": "txt/nurse_hat.txt"
+  },
+  "camo helmet": {
+    "slot": "Head",
+    "txt": "txt/camo_helmet.txt"
+  },
+  "pirate bandana (red)": {
+    "slot": "Head",
+    "txt": "txt/pirate_bandana_(red).txt"
+  },
+  "rune med helm": {
+    "slot": "Head",
+    "txt": "txt/rune_med_helm.txt"
+  },
+  "dharok%27s helm#(broken)": {
+    "slot": "Head",
+    "txt": "txt/dharok%27s_helm#(broken).txt"
+  },
+  "flower crown#non-binary": {
+    "slot": "Head",
+    "txt": "txt/flower_crown#non-binary.txt"
+  },
+  "bloodbark helm": {
+    "slot": "Head",
+    "txt": "txt/bloodbark_helm.txt"
+  },
+  "bunnyman mask": {
+    "slot": "Head",
+    "txt": "txt/bunnyman_mask.txt"
+  },
+  "fez": {
+    "slot": "Head",
+    "txt": "txt/fez.txt"
+  },
+  "rune heraldic helm (varrock)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(varrock).txt"
+  },
+  "mind helmet": {
+    "slot": "Head",
+    "txt": "txt/mind_helmet.txt"
+  },
+  "ornate helm": {
+    "slot": "Head",
+    "txt": "txt/ornate_helm.txt"
+  },
+  "dark green pumpkin#evil": {
+    "slot": "Head",
+    "txt": "txt/dark_green_pumpkin#evil.txt"
+  },
+  "flower crown#lesbian": {
+    "slot": "Head",
+    "txt": "txt/flower_crown#lesbian.txt"
+  },
+  "torag%27s helm#undamaged": {
+    "slot": "Head",
+    "txt": "txt/torag%27s_helm#undamaged.txt"
+  },
+  "attack hood": {
+    "slot": "Head",
+    "txt": "txt/attack_hood.txt"
+  },
+  "bandos coif": {
+    "slot": "Head",
+    "txt": "txt/bandos_coif.txt"
+  },
+  "imbued guthix max hood": {
+    "slot": "Head",
+    "txt": "txt/imbued_guthix_max_hood.txt"
+  },
+  "ankou mask": {
+    "slot": "Head",
+    "txt": "txt/ankou_mask.txt"
+  },
+  "cream hat": {
+    "slot": "Head",
+    "txt": "txt/cream_hat.txt"
+  },
+  "crystal helm#inactive": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm#inactive.txt"
+  },
+  "chompy bird hat (ogre bowman)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(ogre_bowman).txt"
+  },
+  "headless head": {
+    "slot": "Head",
+    "txt": "txt/headless_head.txt"
+  },
+  "steel heraldic helm (kandarin)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(kandarin).txt"
+  },
+  "adventurer%27s hood (t3)": {
+    "slot": "Head",
+    "txt": "txt/adventurer%27s_hood_(t3).txt"
+  },
+  "steel heraldic helm (dragon)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(dragon).txt"
+  },
+  "trailblazer reloaded headband (t2)": {
+    "slot": "Head",
+    "txt": "txt/trailblazer_reloaded_headband_(t2).txt"
+  },
+  "hunter hood": {
+    "slot": "Head",
+    "txt": "txt/hunter_hood.txt"
+  },
+  "evil chicken head": {
+    "slot": "Head",
+    "txt": "txt/evil_chicken_head.txt"
+  },
+  "deerstalker": {
+    "slot": "Head",
+    "txt": "txt/deerstalker.txt"
+  },
+  "pirate%27s hat": {
+    "slot": "Head",
+    "txt": "txt/pirate%27s_hat.txt"
+  },
+  "blue hat": {
+    "slot": "Head",
+    "txt": "txt/blue_hat.txt"
+  },
+  "mystic hat (light)": {
+    "slot": "Head",
+    "txt": "txt/mystic_hat_(light).txt"
+  },
+  "bandos mitre": {
+    "slot": "Head",
+    "txt": "txt/bandos_mitre.txt"
+  },
+  "powder grey pumpkin#sad": {
+    "slot": "Head",
+    "txt": "txt/powder_grey_pumpkin#sad.txt"
+  },
+  "assembler max hood": {
+    "slot": "Head",
+    "txt": "txt/assembler_max_hood.txt"
+  },
+  "zamorak halo#normal": {
+    "slot": "Head",
+    "txt": "txt/zamorak_halo#normal.txt"
+  },
+  "mining hood": {
+    "slot": "Head",
+    "txt": "txt/mining_hood.txt"
+  },
+  "armadyl halo#locked": {
+    "slot": "Head",
+    "txt": "txt/armadyl_halo#locked.txt"
+  },
+  "green slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/green_slayer_helmet.txt"
+  },
+  "ancient full helm": {
+    "slot": "Head",
+    "txt": "txt/ancient_full_helm.txt"
+  },
+  "purple boater": {
+    "slot": "Head",
+    "txt": "txt/purple_boater.txt"
+  },
+  "blue wizard hat (t)": {
+    "slot": "Head",
+    "txt": "txt/blue_wizard_hat_(t).txt"
+  },
+  "armadyl full helm": {
+    "slot": "Head",
+    "txt": "txt/armadyl_full_helm.txt"
+  },
+  "cat mask": {
+    "slot": "Head",
+    "txt": "txt/cat_mask.txt"
+  },
+  "decorative full helm (gold)#broken": {
+    "slot": "Head",
+    "txt": "txt/decorative_full_helm_(gold)#broken.txt"
+  },
+  "ultimate ironman helm": {
+    "slot": "Head",
+    "txt": "txt/ultimate_ironman_helm.txt"
+  },
+  "reinforced goggles": {
+    "slot": "Head",
+    "txt": "txt/reinforced_goggles.txt"
+  },
+  "broken bark snelm": {
+    "slot": "Head",
+    "txt": "txt/broken_bark_snelm.txt"
+  },
+  "guthix halo#broken": {
+    "slot": "Head",
+    "txt": "txt/guthix_halo#broken.txt"
+  },
+  "yellow pumpkin#shocked": {
+    "slot": "Head",
+    "txt": "txt/yellow_pumpkin#shocked.txt"
+  },
+  "half moon spectacles": {
+    "slot": "Head",
+    "txt": "txt/half_moon_spectacles.txt"
+  },
+  "guthan%27s helm#100": {
+    "slot": "Head",
+    "txt": "txt/guthan%27s_helm#100.txt"
+  },
+  "void ranger helm (or)#locked": {
+    "slot": "Head",
+    "txt": "txt/void_ranger_helm_(or)#locked.txt"
+  },
+  "steel full helm (t)": {
+    "slot": "Head",
+    "txt": "txt/steel_full_helm_(t).txt"
+  },
+  "blue headband": {
+    "slot": "Head",
+    "txt": "txt/blue_headband.txt"
+  },
+  "vampyric slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/vampyric_slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "flower crown#genderqueer": {
+    "slot": "Head",
+    "txt": "txt/flower_crown#genderqueer.txt"
+  },
+  "spider hat#common": {
+    "slot": "Head",
+    "txt": "txt/spider_hat#common.txt"
+  },
+  "red pumpkin#shocked": {
+    "slot": "Head",
+    "txt": "txt/red_pumpkin#shocked.txt"
+  },
+  "ahrim%27s hood#undamaged": {
+    "slot": "Head",
+    "txt": "txt/ahrim%27s_hood#undamaged.txt"
+  },
+  "pheasant hat": {
+    "slot": "Head",
+    "txt": "txt/pheasant_hat.txt"
+  },
+  "yellow partyhat": {
+    "slot": "Head",
+    "txt": "txt/yellow_partyhat.txt"
+  },
+  "arceuus hood": {
+    "slot": "Head",
+    "txt": "txt/arceuus_hood.txt"
+  },
+  "black mask (i)#uncharged": {
+    "slot": "Head",
+    "txt": "txt/black_mask_(i)#uncharged.txt"
+  },
+  "bowl wig": {
+    "slot": "Head",
+    "txt": "txt/bowl_wig.txt"
+  },
+  "zamorak coif": {
+    "slot": "Head",
+    "txt": "txt/zamorak_coif.txt"
+  },
+  "pirate bandana (blue)": {
+    "slot": "Head",
+    "txt": "txt/pirate_bandana_(blue).txt"
+  },
+  "rogue mask": {
+    "slot": "Head",
+    "txt": "txt/rogue_mask.txt"
+  },
+  "purple partyhat": {
+    "slot": "Head",
+    "txt": "txt/purple_partyhat.txt"
+  },
+  "adamant heraldic helm (asgarnia)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(asgarnia).txt"
+  },
+  "halloween wig#style 1": {
+    "slot": "Head",
+    "txt": "txt/halloween_wig#style_1.txt"
+  },
+  "inverted santa hat": {
+    "slot": "Head",
+    "txt": "txt/inverted_santa_hat.txt"
+  },
+  "void melee helm#normal": {
+    "slot": "Head",
+    "txt": "txt/void_melee_helm#normal.txt"
+  },
+  "penguin mask": {
+    "slot": "Head",
+    "txt": "txt/penguin_mask.txt"
+  },
+  "gold helmet": {
+    "slot": "Head",
+    "txt": "txt/gold_helmet.txt"
+  },
+  "circlet of water#uncharged": {
+    "slot": "Head",
+    "txt": "txt/circlet_of_water#uncharged.txt"
+  },
+  "tribal mask (poison)": {
+    "slot": "Head",
+    "txt": "txt/tribal_mask_(poison).txt"
+  },
+  "mithril full helm (g)": {
+    "slot": "Head",
+    "txt": "txt/mithril_full_helm_(g).txt"
+  },
+  "adamant helm (h3)": {
+    "slot": "Head",
+    "txt": "txt/adamant_helm_(h3).txt"
+  },
+  "three barrels": {
+    "slot": "Head",
+    "txt": "txt/three_barrels.txt"
+  },
+  "crystal crown (meilyr)": {
+    "slot": "Head",
+    "txt": "txt/crystal_crown_(meilyr).txt"
+  },
+  "gravedigger mask": {
+    "slot": "Head",
+    "txt": "txt/gravedigger_mask.txt"
+  },
+  "hat eyepatch": {
+    "slot": "Head",
+    "txt": "txt/hat_eyepatch.txt"
+  },
+  "black headband": {
+    "slot": "Head",
+    "txt": "txt/black_headband.txt"
+  },
+  "jester hat": {
+    "slot": "Head",
+    "txt": "txt/jester_hat.txt"
+  },
+  "bandos halo#broken": {
+    "slot": "Head",
+    "txt": "txt/bandos_halo#broken.txt"
+  },
+  "fletching hood": {
+    "slot": "Head",
+    "txt": "txt/fletching_hood.txt"
+  },
+  "white unicorn mask": {
+    "slot": "Head",
+    "txt": "txt/white_unicorn_mask.txt"
+  },
+  "rogue%27s revenge": {
+    "slot": "Head",
+    "txt": "txt/rogue%27s_revenge.txt"
+  },
+  "quest point hood": {
+    "slot": "Head",
+    "txt": "txt/quest_point_hood.txt"
+  },
+  "rune helm (h4)": {
+    "slot": "Head",
+    "txt": "txt/rune_helm_(h4).txt"
+  },
+  "bomber cap": {
+    "slot": "Head",
+    "txt": "txt/bomber_cap.txt"
+  },
+  "imbued zamorak max hood": {
+    "slot": "Head",
+    "txt": "txt/imbued_zamorak_max_hood.txt"
+  },
+  "flower crown#pansexual": {
+    "slot": "Head",
+    "txt": "txt/flower_crown#pansexual.txt"
+  },
+  "beige pumpkin#silly": {
+    "slot": "Head",
+    "txt": "txt/beige_pumpkin#silly.txt"
+  },
+  "steel heraldic helm (varrock)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(varrock).txt"
+  },
+  "zamorak mitre": {
+    "slot": "Head",
+    "txt": "txt/zamorak_mitre.txt"
+  },
+  "powder grey pumpkin#angry": {
+    "slot": "Head",
+    "txt": "txt/powder_grey_pumpkin#angry.txt"
+  },
+  "void ranger helm#normal": {
+    "slot": "Head",
+    "txt": "txt/void_ranger_helm#normal.txt"
+  },
+  "prescription goggles#unfocused": {
+    "slot": "Head",
+    "txt": "txt/prescription_goggles#unfocused.txt"
+  },
+  "graceful hood (kourend)#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood_(kourend)#worn.txt"
+  },
+  "water tiara": {
+    "slot": "Head",
+    "txt": "txt/water_tiara.txt"
+  },
+  "crystal crown (crwys)": {
+    "slot": "Head",
+    "txt": "txt/crystal_crown_(crwys).txt"
+  },
+  "vampyric slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/vampyric_slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "neitiznot faceguard": {
+    "slot": "Head",
+    "txt": "txt/neitiznot_faceguard.txt"
+  },
+  "elemental helmet": {
+    "slot": "Head",
+    "txt": "txt/elemental_helmet.txt"
+  },
+  "hat of the eye#green": {
+    "slot": "Head",
+    "txt": "txt/hat_of_the_eye#green.txt"
+  },
+  "leather cowl": {
+    "slot": "Head",
+    "txt": "txt/leather_cowl.txt"
+  },
+  "orange pumpkin#happy": {
+    "slot": "Head",
+    "txt": "txt/orange_pumpkin#happy.txt"
+  },
+  "jonas mask#reward": {
+    "slot": "Head",
+    "txt": "txt/jonas_mask#reward.txt"
+  },
+  "guthix coif": {
+    "slot": "Head",
+    "txt": "txt/guthix_coif.txt"
+  },
+  "adventurer%27s hood (t1)": {
+    "slot": "Head",
+    "txt": "txt/adventurer%27s_hood_(t1).txt"
+  },
+  "black mask#uncharged": {
+    "slot": "Head",
+    "txt": "txt/black_mask#uncharged.txt"
+  },
+  "four barrels": {
+    "slot": "Head",
+    "txt": "txt/four_barrels.txt"
+  },
+  "dharok%27s helm#100": {
+    "slot": "Head",
+    "txt": "txt/dharok%27s_helm#100.txt"
+  },
+  "elder chaos hood (or)": {
+    "slot": "Head",
+    "txt": "txt/elder_chaos_hood_(or).txt"
+  },
+  "twisted slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/twisted_slayer_helmet_(i)#soul_wars.txt"
+  },
+  "adamant heraldic helm (misthalin)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(misthalin).txt"
+  },
+  "red dragon mask": {
+    "slot": "Head",
+    "txt": "txt/red_dragon_mask.txt"
+  },
+  "yellow hat": {
+    "slot": "Head",
+    "txt": "txt/yellow_hat.txt"
+  },
+  "void mage helm (or)#locked": {
+    "slot": "Head",
+    "txt": "txt/void_mage_helm_(or)#locked.txt"
+  },
+  "dark green pumpkin#laughing": {
+    "slot": "Head",
+    "txt": "txt/dark_green_pumpkin#laughing.txt"
+  },
+  "greater demon mask": {
+    "slot": "Head",
+    "txt": "txt/greater_demon_mask.txt"
+  },
+  "raging echoes hat (t1)": {
+    "slot": "Head",
+    "txt": "txt/raging_echoes_hat_(t1).txt"
+  },
+  "right eye patch": {
+    "slot": "Head",
+    "txt": "txt/right_eye_patch.txt"
+  },
+  "uri%27s hat": {
+    "slot": "Head",
+    "txt": "txt/uri%27s_hat.txt"
+  },
+  "runecraft hood": {
+    "slot": "Head",
+    "txt": "txt/runecraft_hood.txt"
+  },
+  "tri-jester hat": {
+    "slot": "Head",
+    "txt": "txt/tri-jester_hat.txt"
+  },
+  "witch hat": {
+    "slot": "Head",
+    "txt": "txt/witch_hat.txt"
+  },
+  "trailblazer reloaded headband (t1)": {
+    "slot": "Head",
+    "txt": "txt/trailblazer_reloaded_headband_(t1).txt"
+  },
+  "black helm (h1)": {
+    "slot": "Head",
+    "txt": "txt/black_helm_(h1).txt"
+  },
+  "navy cavalier": {
+    "slot": "Head",
+    "txt": "txt/navy_cavalier.txt"
+  },
+  "adamant full helm (g)": {
+    "slot": "Head",
+    "txt": "txt/adamant_full_helm_(g).txt"
+  },
+  "turquoise hat": {
+    "slot": "Head",
+    "txt": "txt/turquoise_hat.txt"
+  },
+  "circlet of water#charged": {
+    "slot": "Head",
+    "txt": "txt/circlet_of_water#charged.txt"
+  },
+  "4th birthday hat": {
+    "slot": "Head",
+    "txt": "txt/4th_birthday_hat.txt"
+  },
+  "saradomin halo#normal": {
+    "slot": "Head",
+    "txt": "txt/saradomin_halo#normal.txt"
+  },
+  "snowglobe helmet": {
+    "slot": "Head",
+    "txt": "txt/snowglobe_helmet.txt"
+  },
+  "crystal helm (crwys)#active": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(crwys)#active.txt"
+  },
+  "death tiara": {
+    "slot": "Head",
+    "txt": "txt/death_tiara.txt"
+  },
+  "decorative helm (red)": {
+    "slot": "Head",
+    "txt": "txt/decorative_helm_(red).txt"
+  },
+  "top hat": {
+    "slot": "Head",
+    "txt": "txt/top_hat.txt"
+  },
+  "jonas mask#during event": {
+    "slot": "Head",
+    "txt": "txt/jonas_mask#during_event.txt"
+  },
+  "dark green pumpkin#depressed": {
+    "slot": "Head",
+    "txt": "txt/dark_green_pumpkin#depressed.txt"
+  },
+  "fake beak": {
+    "slot": "Head",
+    "txt": "txt/fake_beak.txt"
+  },
+  "fighter hat#locked": {
+    "slot": "Head",
+    "txt": "txt/fighter_hat#locked.txt"
+  },
+  "armadyl halo#normal": {
+    "slot": "Head",
+    "txt": "txt/armadyl_halo#normal.txt"
+  },
+  "red hat": {
+    "slot": "Head",
+    "txt": "txt/red_hat.txt"
+  },
+  "antisanta mask": {
+    "slot": "Head",
+    "txt": "txt/antisanta_mask.txt"
+  },
+  "eclipse moon helm#new": {
+    "slot": "Head",
+    "txt": "txt/eclipse_moon_helm#new.txt"
+  },
+  "rune heraldic helm (misthalin)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(misthalin).txt"
+  },
+  "rune heraldic helm (jogre)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(jogre).txt"
+  },
+  "black partyhat": {
+    "slot": "Head",
+    "txt": "txt/black_partyhat.txt"
+  },
+  "black mask#(5)": {
+    "slot": "Head",
+    "txt": "txt/black_mask#(5).txt"
+  },
+  "hosidius hood": {
+    "slot": "Head",
+    "txt": "txt/hosidius_hood.txt"
+  },
+  "white pumpkin#angry": {
+    "slot": "Head",
+    "txt": "txt/white_pumpkin#angry.txt"
+  },
+  "blue tricorn hat": {
+    "slot": "Head",
+    "txt": "txt/blue_tricorn_hat.txt"
+  },
+  "ahrim%27s hood#(broken)": {
+    "slot": "Head",
+    "txt": "txt/ahrim%27s_hood#(broken).txt"
+  },
+  "elder chaos hood": {
+    "slot": "Head",
+    "txt": "txt/elder_chaos_hood.txt"
+  },
+  "dizana%27s max hood": {
+    "slot": "Head",
+    "txt": "txt/dizana%27s_max_hood.txt"
+  },
+  "blue wizard hat (g)": {
+    "slot": "Head",
+    "txt": "txt/blue_wizard_hat_(g).txt"
+  },
+  "helm of neitiznot (or)": {
+    "slot": "Head",
+    "txt": "txt/helm_of_neitiznot_(or).txt"
+  },
+  "red slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/red_slayer_helmet.txt"
+  },
+  "angler hat": {
+    "slot": "Head",
+    "txt": "txt/angler_hat.txt"
+  },
+  "chompy bird hat (bowmaster)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(bowmaster).txt"
+  },
+  "rune full helm": {
+    "slot": "Head",
+    "txt": "txt/rune_full_helm.txt"
+  },
+  "adamant heraldic helm (saradomin)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(saradomin).txt"
+  },
+  "twisted hat (t3)": {
+    "slot": "Head",
+    "txt": "txt/twisted_hat_(t3).txt"
+  },
+  "crystal crown (cadarn)": {
+    "slot": "Head",
+    "txt": "txt/crystal_crown_(cadarn).txt"
+  },
+  "black mask#(10)": {
+    "slot": "Head",
+    "txt": "txt/black_mask#(10).txt"
+  },
+  "gold headband": {
+    "slot": "Head",
+    "txt": "txt/gold_headband.txt"
+  },
+  "earth tiara": {
+    "slot": "Head",
+    "txt": "txt/earth_tiara.txt"
+  },
+  "ahrim%27s hood#100": {
+    "slot": "Head",
+    "txt": "txt/ahrim%27s_hood#100.txt"
+  },
+  "healer hat#broken": {
+    "slot": "Head",
+    "txt": "txt/healer_hat#broken.txt"
+  },
+  "egg priest mitre": {
+    "slot": "Head",
+    "txt": "txt/egg_priest_mitre.txt"
+  },
+  "chompy bird hat (ogre dragon archer)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(ogre_dragon_archer).txt"
+  },
+  "blue wizard hat": {
+    "slot": "Head",
+    "txt": "txt/blue_wizard_hat.txt"
+  },
+  "robin hood hat": {
+    "slot": "Head",
+    "txt": "txt/robin_hood_hat.txt"
+  },
+  "banana hat": {
+    "slot": "Head",
+    "txt": "txt/banana_hat.txt"
+  },
+  "black slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/black_slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "karil%27s coif#undamaged": {
+    "slot": "Head",
+    "txt": "txt/karil%27s_coif#undamaged.txt"
+  },
+  "black helm (h5)": {
+    "slot": "Head",
+    "txt": "txt/black_helm_(h5).txt"
+  },
+  "bunny ears": {
+    "slot": "Head",
+    "txt": "txt/bunny_ears.txt"
+  },
+  "guthix full helm": {
+    "slot": "Head",
+    "txt": "txt/guthix_full_helm.txt"
+  },
+  "wise old man%27s santa hat": {
+    "slot": "Head",
+    "txt": "txt/wise_old_man%27s_santa_hat.txt"
+  },
+  "beret mask": {
+    "slot": "Head",
+    "txt": "txt/beret_mask.txt"
+  },
+  "mining helmet#lit": {
+    "slot": "Head",
+    "txt": "txt/mining_helmet#lit.txt"
+  },
+  "rune helm (h2)": {
+    "slot": "Head",
+    "txt": "txt/rune_helm_(h2).txt"
+  },
+  "present box hat#icy": {
+    "slot": "Head",
+    "txt": "txt/present_box_hat#icy.txt"
+  },
+  "accumulator max hood": {
+    "slot": "Head",
+    "txt": "txt/accumulator_max_hood.txt"
+  },
+  "pointed myre snelm": {
+    "slot": "Head",
+    "txt": "txt/pointed_myre_snelm.txt"
+  },
+  "body tiara": {
+    "slot": "Head",
+    "txt": "txt/body_tiara.txt"
+  },
+  "adamant heraldic helm (jogre)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(jogre).txt"
+  },
+  "decorative full helm (red)": {
+    "slot": "Head",
+    "txt": "txt/decorative_full_helm_(red).txt"
+  },
+  "clown mask": {
+    "slot": "Head",
+    "txt": "txt/clown_mask.txt"
+  },
+  "mystic hat (dusk)": {
+    "slot": "Head",
+    "txt": "txt/mystic_hat_(dusk).txt"
+  },
+  "orange pumpkin#angry": {
+    "slot": "Head",
+    "txt": "txt/orange_pumpkin#angry.txt"
+  },
+  "flower crown#gay": {
+    "slot": "Head",
+    "txt": "txt/flower_crown#gay.txt"
+  },
+  "red headband": {
+    "slot": "Head",
+    "txt": "txt/red_headband.txt"
+  },
+  "mind tiara": {
+    "slot": "Head",
+    "txt": "txt/mind_tiara.txt"
+  },
+  "yellow pumpkin#depressed": {
+    "slot": "Head",
+    "txt": "txt/yellow_pumpkin#depressed.txt"
+  },
+  "adamant heraldic helm (varrock)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(varrock).txt"
+  },
+  "beige pumpkin#depressed": {
+    "slot": "Head",
+    "txt": "txt/beige_pumpkin#depressed.txt"
+  },
+  "rune heraldic helm (arrav)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(arrav).txt"
+  },
+  "verac%27s helm#(broken)": {
+    "slot": "Head",
+    "txt": "txt/verac%27s_helm#(broken).txt"
+  },
+  "crystal helm (cadarn)#inactive": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(cadarn)#inactive.txt"
+  },
+  "black full helm (t)": {
+    "slot": "Head",
+    "txt": "txt/black_full_helm_(t).txt"
+  },
+  "cat ears#during event": {
+    "slot": "Head",
+    "txt": "txt/cat_ears#during_event.txt"
+  },
+  "green slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/green_slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "red beret": {
+    "slot": "Head",
+    "txt": "txt/red_beret.txt"
+  },
+  "adamant helm (h1)": {
+    "slot": "Head",
+    "txt": "txt/adamant_helm_(h1).txt"
+  },
+  "crafting hood": {
+    "slot": "Head",
+    "txt": "txt/crafting_hood.txt"
+  },
+  "adventurer%27s hood (t2)": {
+    "slot": "Head",
+    "txt": "txt/adventurer%27s_hood_(t2).txt"
+  },
+  "black slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/black_slayer_helmet.txt"
+  },
+  "steel heraldic helm (asgarnia)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(asgarnia).txt"
+  },
+  "bruise blue snelm": {
+    "slot": "Head",
+    "txt": "txt/bruise_blue_snelm.txt"
+  },
+  "fancy tiara": {
+    "slot": "Head",
+    "txt": "txt/fancy_tiara.txt"
+  },
+  "ancient ceremonial mask": {
+    "slot": "Head",
+    "txt": "txt/ancient_ceremonial_mask.txt"
+  },
+  "black mask (i)#(6)": {
+    "slot": "Head",
+    "txt": "txt/black_mask_(i)#(6).txt"
+  },
+  "black helm (h4)": {
+    "slot": "Head",
+    "txt": "txt/black_helm_(h4).txt"
+  },
+  "cow mask": {
+    "slot": "Head",
+    "txt": "txt/cow_mask.txt"
+  },
+  "dharok%27s helm#75": {
+    "slot": "Head",
+    "txt": "txt/dharok%27s_helm#75.txt"
+  },
+  "guthix max hood": {
+    "slot": "Head",
+    "txt": "txt/guthix_max_hood.txt"
+  },
+  "progress hat#dull": {
+    "slot": "Head",
+    "txt": "txt/progress_hat#dull.txt"
+  },
+  "jaguar mask": {
+    "slot": "Head",
+    "txt": "txt/jaguar_mask.txt"
+  },
+  "black mask#(2)": {
+    "slot": "Head",
+    "txt": "txt/black_mask#(2).txt"
+  },
+  "tztok slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/tztok_slayer_helmet.txt"
+  },
+  "gas mask": {
+    "slot": "Head",
+    "txt": "txt/gas_mask.txt"
+  },
+  "druidic wreath": {
+    "slot": "Head",
+    "txt": "txt/druidic_wreath.txt"
+  },
+  "hydra slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/hydra_slayer_helmet_(i)#soul_wars.txt"
+  },
+  "giant boot": {
+    "slot": "Head",
+    "txt": "txt/giant_boot.txt"
+  },
+  "decorative full helm (gold)#normal": {
+    "slot": "Head",
+    "txt": "txt/decorative_full_helm_(gold)#normal.txt"
+  },
+  "shattered hood (t2)": {
+    "slot": "Head",
+    "txt": "txt/shattered_hood_(t2).txt"
+  },
+  "desert disguise": {
+    "slot": "Head",
+    "txt": "txt/desert_disguise.txt"
+  },
+  "pirate hat": {
+    "slot": "Head",
+    "txt": "txt/pirate_hat.txt"
+  },
+  "twisted slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/twisted_slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "black leprechaun hat": {
+    "slot": "Head",
+    "txt": "txt/black_leprechaun_hat.txt"
+  },
+  "black mask (i)#(2)": {
+    "slot": "Head",
+    "txt": "txt/black_mask_(i)#(2).txt"
+  },
+  "ardougne max hood": {
+    "slot": "Head",
+    "txt": "txt/ardougne_max_hood.txt"
+  },
+  "ham hood": {
+    "slot": "Head",
+    "txt": "txt/ham_hood.txt"
+  },
+  "chompy bird hat (ogre expert)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(ogre_expert).txt"
+  },
+  "adamant helm (h4)": {
+    "slot": "Head",
+    "txt": "txt/adamant_helm_(h4).txt"
+  },
+  "woolly hat": {
+    "slot": "Head",
+    "txt": "txt/woolly_hat.txt"
+  },
+  "graceful hood (agility arena)#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood_(agility_arena)#worn.txt"
+  },
+  "fishing hood": {
+    "slot": "Head",
+    "txt": "txt/fishing_hood.txt"
+  },
+  "blood moon helm#new": {
+    "slot": "Head",
+    "txt": "txt/blood_moon_helm#new.txt"
+  },
+  "steel heraldic helm (saradomin)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(saradomin).txt"
+  },
+  "brassica halo#normal": {
+    "slot": "Head",
+    "txt": "txt/brassica_halo#normal.txt"
+  },
+  "tan cavalier": {
+    "slot": "Head",
+    "txt": "txt/tan_cavalier.txt"
+  },
+  "powder grey pumpkin#disgusted": {
+    "slot": "Head",
+    "txt": "txt/powder_grey_pumpkin#disgusted.txt"
+  },
+  "lesser demon mask": {
+    "slot": "Head",
+    "txt": "txt/lesser_demon_mask.txt"
+  },
+  "red pumpkin#silly": {
+    "slot": "Head",
+    "txt": "txt/red_pumpkin#silly.txt"
+  },
+  "pink boater": {
+    "slot": "Head",
+    "txt": "txt/pink_boater.txt"
+  },
+  "nest hat#easter egg": {
+    "slot": "Head",
+    "txt": "txt/nest_hat#easter_egg.txt"
+  },
+  "adamant heraldic helm (money)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(money).txt"
+  },
+  "red pumpkin#evil": {
+    "slot": "Head",
+    "txt": "txt/red_pumpkin#evil.txt"
+  },
+  "lava dragon mask": {
+    "slot": "Head",
+    "txt": "txt/lava_dragon_mask.txt"
+  },
+  "santa hat": {
+    "slot": "Head",
+    "txt": "txt/santa_hat.txt"
+  },
+  "rune heraldic helm (ham)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(ham).txt"
+  },
+  "musketeer hat": {
+    "slot": "Head",
+    "txt": "txt/musketeer_hat.txt"
+  },
+  "sanguine torva full helm": {
+    "slot": "Head",
+    "txt": "txt/sanguine_torva_full_helm.txt"
+  },
+  "sailing hood": {
+    "slot": "Head",
+    "txt": "txt/sailing_hood.txt"
+  },
+  "mask of ranul": {
+    "slot": "Head",
+    "txt": "txt/mask_of_ranul.txt"
+  },
+  "crystal crown (iorwerth)": {
+    "slot": "Head",
+    "txt": "txt/crystal_crown_(iorwerth).txt"
+  },
+  "easter egg helm": {
+    "slot": "Head",
+    "txt": "txt/easter_egg_helm.txt"
+  },
+  "chompy bird hat (dragon archer)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(dragon_archer).txt"
+  },
+  "blood moon helm#used": {
+    "slot": "Head",
+    "txt": "txt/blood_moon_helm#used.txt"
+  },
+  "trailblazer hood (t3)": {
+    "slot": "Head",
+    "txt": "txt/trailblazer_hood_(t3).txt"
+  },
+  "bandos full helm": {
+    "slot": "Head",
+    "txt": "txt/bandos_full_helm.txt"
+  },
+  "guthan%27s helm#50": {
+    "slot": "Head",
+    "txt": "txt/guthan%27s_helm#50.txt"
+  },
+  "fremennik hat": {
+    "slot": "Head",
+    "txt": "txt/fremennik_hat.txt"
+  },
+  "twisted slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/twisted_slayer_helmet.txt"
+  },
+  "chicken head": {
+    "slot": "Head",
+    "txt": "txt/chicken_head.txt"
+  },
+  "crystal helm (cadarn)#active": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(cadarn)#active.txt"
+  },
+  "graahk headdress": {
+    "slot": "Head",
+    "txt": "txt/graahk_headdress.txt"
+  },
+  "farming hood": {
+    "slot": "Head",
+    "txt": "txt/farming_hood.txt"
+  },
+  "white pumpkin#happy": {
+    "slot": "Head",
+    "txt": "txt/white_pumpkin#happy.txt"
+  },
+  "orange pumpkin#depressed": {
+    "slot": "Head",
+    "txt": "txt/orange_pumpkin#depressed.txt"
+  },
+  "saucepan": {
+    "slot": "Head",
+    "txt": "txt/saucepan.txt"
+  },
+  "guthix mitre": {
+    "slot": "Head",
+    "txt": "txt/guthix_mitre.txt"
+  },
+  "white pumpkin#laughing": {
+    "slot": "Head",
+    "txt": "txt/white_pumpkin#laughing.txt"
+  },
+  "sagacious spectacles": {
+    "slot": "Head",
+    "txt": "txt/sagacious_spectacles.txt"
+  },
+  "purple slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/purple_slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "echo ahrim%27s hood#75": {
+    "slot": "Head",
+    "txt": "txt/echo_ahrim%27s_hood#75.txt"
+  },
+  "rune helm (h5)": {
+    "slot": "Head",
+    "txt": "txt/rune_helm_(h5).txt"
+  },
+  "adamant full helm (t)": {
+    "slot": "Head",
+    "txt": "txt/adamant_full_helm_(t).txt"
+  },
+  "masori mask (f)": {
+    "slot": "Head",
+    "txt": "txt/masori_mask_(f).txt"
+  },
+  "green partyhat": {
+    "slot": "Head",
+    "txt": "txt/green_partyhat.txt"
+  },
+  "inquisitor%27s great helm": {
+    "slot": "Head",
+    "txt": "txt/inquisitor%27s_great_helm.txt"
+  },
+  "pyromancer hood": {
+    "slot": "Head",
+    "txt": "txt/pyromancer_hood.txt"
+  },
+  "hat of the eye#red": {
+    "slot": "Head",
+    "txt": "txt/hat_of_the_eye#red.txt"
+  },
+  "ancient coif": {
+    "slot": "Head",
+    "txt": "txt/ancient_coif.txt"
+  },
+  "void ranger helm#locked": {
+    "slot": "Head",
+    "txt": "txt/void_ranger_helm#locked.txt"
+  },
+  "healer hat#locked": {
+    "slot": "Head",
+    "txt": "txt/healer_hat#locked.txt"
+  },
+  "zamorak halo#locked": {
+    "slot": "Head",
+    "txt": "txt/zamorak_halo#locked.txt"
+  },
+  "masori mask": {
+    "slot": "Head",
+    "txt": "txt/masori_mask.txt"
+  },
+  "saradomin full helm": {
+    "slot": "Head",
+    "txt": "txt/saradomin_full_helm.txt"
+  },
+  "lovakengj hood": {
+    "slot": "Head",
+    "txt": "txt/lovakengj_hood.txt"
+  },
+  "mythical max hood": {
+    "slot": "Head",
+    "txt": "txt/mythical_max_hood.txt"
+  },
+  "sleeping cap": {
+    "slot": "Head",
+    "txt": "txt/sleeping_cap.txt"
+  },
+  "raging echoes hat (t2)": {
+    "slot": "Head",
+    "txt": "txt/raging_echoes_hat_(t2).txt"
+  },
+  "ancient halo#broken": {
+    "slot": "Head",
+    "txt": "txt/ancient_halo#broken.txt"
+  },
+  "pointed ochre snelm": {
+    "slot": "Head",
+    "txt": "txt/pointed_ochre_snelm.txt"
+  },
+  "torag%27s helm#50": {
+    "slot": "Head",
+    "txt": "txt/torag%27s_helm#50.txt"
+  },
+  "trailblazer reloaded headband (t3)": {
+    "slot": "Head",
+    "txt": "txt/trailblazer_reloaded_headband_(t3).txt"
+  },
+  "gilded med helm": {
+    "slot": "Head",
+    "txt": "txt/gilded_med_helm.txt"
+  },
+  "rune heraldic helm (saradomin)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(saradomin).txt"
+  },
+  "khazard helmet": {
+    "slot": "Head",
+    "txt": "txt/khazard_helmet.txt"
+  },
+  "sunfire fanatic helm": {
+    "slot": "Head",
+    "txt": "txt/sunfire_fanatic_helm.txt"
+  },
+  "shayzien helm (1)": {
+    "slot": "Head",
+    "txt": "txt/shayzien_helm_(1).txt"
+  },
+  "blue beret": {
+    "slot": "Head",
+    "txt": "txt/blue_beret.txt"
+  },
+  "bandos halo#normal": {
+    "slot": "Head",
+    "txt": "txt/bandos_halo#normal.txt"
+  },
+  "pirate bandana (white)": {
+    "slot": "Head",
+    "txt": "txt/pirate_bandana_(white).txt"
+  },
+  "brown headband": {
+    "slot": "Head",
+    "txt": "txt/brown_headband.txt"
+  },
+  "steel heraldic helm (arrav)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(arrav).txt"
+  },
+  "highwayman mask": {
+    "slot": "Head",
+    "txt": "txt/highwayman_mask.txt"
+  },
+  "hat of the eye#blue": {
+    "slot": "Head",
+    "txt": "txt/hat_of_the_eye#blue.txt"
+  },
+  "black mask#(4)": {
+    "slot": "Head",
+    "txt": "txt/black_mask#(4).txt"
+  },
+  "bronze dragon mask": {
+    "slot": "Head",
+    "txt": "txt/bronze_dragon_mask.txt"
+  },
+  "torag%27s helm#(broken)": {
+    "slot": "Head",
+    "txt": "txt/torag%27s_helm#(broken).txt"
+  },
+  "steel dragon mask": {
+    "slot": "Head",
+    "txt": "txt/steel_dragon_mask.txt"
+  },
+  "ardougne knight helm": {
+    "slot": "Head",
+    "txt": "txt/ardougne_knight_helm.txt"
+  },
+  "imbued saradomin max hood": {
+    "slot": "Head",
+    "txt": "txt/imbued_saradomin_max_hood.txt"
+  },
+  "bounty hunter hat (tier 2)": {
+    "slot": "Head",
+    "txt": "txt/bounty_hunter_hat_(tier_2).txt"
+  },
+  "crystal helm (amlodd)#inactive": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(amlodd)#inactive.txt"
+  },
+  "decorative helm (gold)#locked": {
+    "slot": "Head",
+    "txt": "txt/decorative_helm_(gold)#locked.txt"
+  },
+  "steel heraldic helm (skull)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(skull).txt"
+  },
+  "samurai kasa": {
+    "slot": "Head",
+    "txt": "txt/samurai_kasa.txt"
+  },
+  "ancient halo#normal": {
+    "slot": "Head",
+    "txt": "txt/ancient_halo#normal.txt"
+  },
+  "odd spectacles": {
+    "slot": "Head",
+    "txt": "txt/odd_spectacles.txt"
+  },
+  "bronze med helm": {
+    "slot": "Head",
+    "txt": "txt/bronze_med_helm.txt"
+  },
+  "karil%27s coif#75": {
+    "slot": "Head",
+    "txt": "txt/karil%27s_coif#75.txt"
+  },
+  "skeletal helm": {
+    "slot": "Head",
+    "txt": "txt/skeletal_helm.txt"
+  },
+  "morrigan%27s coif (bh)#activated": {
+    "slot": "Head",
+    "txt": "txt/morrigan%27s_coif_(bh)#activated.txt"
+  },
+  "3rd age mage hat": {
+    "slot": "Head",
+    "txt": "txt/3rd_age_mage_hat.txt"
+  },
+  "blue moon helm#new": {
+    "slot": "Head",
+    "txt": "txt/blue_moon_helm#new.txt"
+  },
+  "enchanted hat": {
+    "slot": "Head",
+    "txt": "txt/enchanted_hat.txt"
+  },
+  "mithril full helm (t)": {
+    "slot": "Head",
+    "txt": "txt/mithril_full_helm_(t).txt"
+  },
+  "white partyhat": {
+    "slot": "Head",
+    "txt": "txt/white_partyhat.txt"
+  },
+  "spooky hood#reward": {
+    "slot": "Head",
+    "txt": "txt/spooky_hood#reward.txt"
+  },
+  "green boater": {
+    "slot": "Head",
+    "txt": "txt/green_boater.txt"
+  },
+  "adamant dragon mask": {
+    "slot": "Head",
+    "txt": "txt/adamant_dragon_mask.txt"
+  },
+  "decorative armour (magic hat)#normal": {
+    "slot": "Head",
+    "txt": "txt/decorative_armour_(magic_hat)#normal.txt"
+  },
+  "halloween wig#style 6": {
+    "slot": "Head",
+    "txt": "txt/halloween_wig#style_6.txt"
+  },
+  "villager hat (yellow)": {
+    "slot": "Head",
+    "txt": "txt/villager_hat_(yellow).txt"
+  },
+  "adamant heraldic helm (arrav)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(arrav).txt"
+  },
+  "strength hood": {
+    "slot": "Head",
+    "txt": "txt/strength_hood.txt"
+  },
+  "hell cat ears": {
+    "slot": "Head",
+    "txt": "txt/hell_cat_ears.txt"
+  },
+  "star-face": {
+    "slot": "Head",
+    "txt": "txt/star-face.txt"
+  },
+  "karil%27s coif#50": {
+    "slot": "Head",
+    "txt": "txt/karil%27s_coif#50.txt"
+  },
+  "chompy bird hat (ogre marksman)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(ogre_marksman).txt"
+  },
+  "iron full helm (t)": {
+    "slot": "Head",
+    "txt": "txt/iron_full_helm_(t).txt"
+  },
+  "grey hat": {
+    "slot": "Head",
+    "txt": "txt/grey_hat.txt"
+  },
+  "green dragon mask": {
+    "slot": "Head",
+    "txt": "txt/green_dragon_mask.txt"
+  },
+  "karil%27s coif#25": {
+    "slot": "Head",
+    "txt": "txt/karil%27s_coif#25.txt"
+  },
+  "shattered hood (t1)": {
+    "slot": "Head",
+    "txt": "txt/shattered_hood_(t1).txt"
+  },
+  "gilded full helm": {
+    "slot": "Head",
+    "txt": "txt/gilded_full_helm.txt"
+  },
+  "void melee helm#locked": {
+    "slot": "Head",
+    "txt": "txt/void_melee_helm#locked.txt"
+  },
+  "rune heraldic helm (dragon)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(dragon).txt"
+  },
+  "white pumpkin#silly": {
+    "slot": "Head",
+    "txt": "txt/white_pumpkin#silly.txt"
+  },
+  "gilded coif": {
+    "slot": "Head",
+    "txt": "txt/gilded_coif.txt"
+  },
+  "verac%27s helm#75": {
+    "slot": "Head",
+    "txt": "txt/verac%27s_helm#75.txt"
+  },
+  "present box hat#simple": {
+    "slot": "Head",
+    "txt": "txt/present_box_hat#simple.txt"
+  },
+  "runner hat#locked": {
+    "slot": "Head",
+    "txt": "txt/runner_hat#locked.txt"
+  },
+  "pink headband": {
+    "slot": "Head",
+    "txt": "txt/pink_headband.txt"
+  },
+  "bounty hunter hat (tier 6)": {
+    "slot": "Head",
+    "txt": "txt/bounty_hunter_hat_(tier_6).txt"
+  },
+  "kandarin headgear 1": {
+    "slot": "Head",
+    "txt": "txt/kandarin_headgear_1.txt"
+  },
+  "kandarin headgear 3": {
+    "slot": "Head",
+    "txt": "txt/kandarin_headgear_3.txt"
+  },
+  "bandana eyepatch (white)": {
+    "slot": "Head",
+    "txt": "txt/bandana_eyepatch_(white).txt"
+  },
+  "iron med helm": {
+    "slot": "Head",
+    "txt": "txt/iron_med_helm.txt"
+  },
+  "pirate bandana (trouble brewing)": {
+    "slot": "Head",
+    "txt": "txt/pirate_bandana_(trouble_brewing).txt"
+  },
+  "crystal crown (trahaearn)": {
+    "slot": "Head",
+    "txt": "txt/crystal_crown_(trahaearn).txt"
+  },
+  "halloween wig#style 4": {
+    "slot": "Head",
+    "txt": "txt/halloween_wig#style_4.txt"
+  },
+  "beige pumpkin#shocked": {
+    "slot": "Head",
+    "txt": "txt/beige_pumpkin#shocked.txt"
+  },
+  "bird mask": {
+    "slot": "Head",
+    "txt": "txt/bird_mask.txt"
+  },
+  "nature tiara": {
+    "slot": "Head",
+    "txt": "txt/nature_tiara.txt"
+  },
+  "black unicorn mask": {
+    "slot": "Head",
+    "txt": "txt/black_unicorn_mask.txt"
+  },
+  "echo ahrim%27s hood#100": {
+    "slot": "Head",
+    "txt": "txt/echo_ahrim%27s_hood#100.txt"
+  },
+  "zealot%27s helm": {
+    "slot": "Head",
+    "txt": "txt/zealot%27s_helm.txt"
+  },
+  "guthan%27s helm#25": {
+    "slot": "Head",
+    "txt": "txt/guthan%27s_helm#25.txt"
+  },
+  "justiciar faceguard": {
+    "slot": "Head",
+    "txt": "txt/justiciar_faceguard.txt"
+  },
+  "orange boater": {
+    "slot": "Head",
+    "txt": "txt/orange_boater.txt"
+  },
+  "chompy bird hat (expert)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(expert).txt"
+  },
+  "crystal helm (hefin)#inactive": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(hefin)#inactive.txt"
+  },
+  "grim reaper hood": {
+    "slot": "Head",
+    "txt": "txt/grim_reaper_hood.txt"
+  },
+  "helmet of the moon": {
+    "slot": "Head",
+    "txt": "txt/helmet_of_the_moon.txt"
+  },
+  "crab helmet": {
+    "slot": "Head",
+    "txt": "txt/crab_helmet.txt"
+  },
+  "crystal helm (amlodd)#active": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(amlodd)#active.txt"
+  },
+  "bronze full helm (t)": {
+    "slot": "Head",
+    "txt": "txt/bronze_full_helm_(t).txt"
+  },
+  "castlewars hood (saradomin)": {
+    "slot": "Head",
+    "txt": "txt/castlewars_hood_(saradomin).txt"
+  },
+  "lumberjack hat": {
+    "slot": "Head",
+    "txt": "txt/lumberjack_hat.txt"
+  },
+  "spider hat#sarachnis": {
+    "slot": "Head",
+    "txt": "txt/spider_hat#sarachnis.txt"
+  },
+  "kandarin headgear 4": {
+    "slot": "Head",
+    "txt": "txt/kandarin_headgear_4.txt"
+  },
+  "rune heraldic helm (zamorak)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(zamorak).txt"
+  },
+  "mystic hat": {
+    "slot": "Head",
+    "txt": "txt/mystic_hat.txt"
+  },
+  "dharok%27s helm#50": {
+    "slot": "Head",
+    "txt": "txt/dharok%27s_helm#50.txt"
+  },
+  "five barrels": {
+    "slot": "Head",
+    "txt": "txt/five_barrels.txt"
+  },
+  "halloween wig#style 3": {
+    "slot": "Head",
+    "txt": "txt/halloween_wig#style_3.txt"
+  },
+  "decorative helm (gold)#broken": {
+    "slot": "Head",
+    "txt": "txt/decorative_helm_(gold)#broken.txt"
+  },
+  "black beret": {
+    "slot": "Head",
+    "txt": "txt/black_beret.txt"
+  },
+  "defence hood": {
+    "slot": "Head",
+    "txt": "txt/defence_hood.txt"
+  },
+  "orange pumpkin#laughing": {
+    "slot": "Head",
+    "txt": "txt/orange_pumpkin#laughing.txt"
+  },
+  "pointed bruise blue snelm": {
+    "slot": "Head",
+    "txt": "txt/pointed_bruise_blue_snelm.txt"
+  },
+  "ranger hat#normal": {
+    "slot": "Head",
+    "txt": "txt/ranger_hat#normal.txt"
+  },
+  "chompy bird hat (ogre yeoman)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(ogre_yeoman).txt"
+  },
+  "bounty hunter hat (tier 4)": {
+    "slot": "Head",
+    "txt": "txt/bounty_hunter_hat_(tier_4).txt"
+  },
+  "crystal crown (hefin)": {
+    "slot": "Head",
+    "txt": "txt/crystal_crown_(hefin).txt"
+  },
+  "orange pumpkin#sad": {
+    "slot": "Head",
+    "txt": "txt/orange_pumpkin#sad.txt"
+  },
+  "steel heraldic helm (guthix)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(guthix).txt"
+  },
+  "hitpoints hood": {
+    "slot": "Head",
+    "txt": "txt/hitpoints_hood.txt"
+  },
+  "chompy bird hat (expert dragon archer)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(expert_dragon_archer).txt"
+  },
+  "mithril full helm": {
+    "slot": "Head",
+    "txt": "txt/mithril_full_helm.txt"
+  },
+  "statius%27s full helm (bh)#activated": {
+    "slot": "Head",
+    "txt": "txt/statius%27s_full_helm_(bh)#activated.txt"
+  },
+  "magma helm#charged": {
+    "slot": "Head",
+    "txt": "txt/magma_helm#charged.txt"
+  },
+  "cosmic tiara": {
+    "slot": "Head",
+    "txt": "txt/cosmic_tiara.txt"
+  },
+  "crystal helm (hefin)#active": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(hefin)#active.txt"
+  },
+  "tztok slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/tztok_slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "thieving hood": {
+    "slot": "Head",
+    "txt": "txt/thieving_hood.txt"
+  },
+  "tzkal slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/tzkal_slayer_helmet_(i)#soul_wars.txt"
+  },
+  "orange pumpkin#shocked": {
+    "slot": "Head",
+    "txt": "txt/orange_pumpkin#shocked.txt"
+  },
+  "chompy bird hat (ogre bowmaster)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(ogre_bowmaster).txt"
+  },
+  "serpentine helm#charged": {
+    "slot": "Head",
+    "txt": "txt/serpentine_helm#charged.txt"
+  },
+  "steel full helm": {
+    "slot": "Head",
+    "txt": "txt/steel_full_helm.txt"
+  },
+  "yellow pumpkin#silly": {
+    "slot": "Head",
+    "txt": "txt/yellow_pumpkin#silly.txt"
+  },
+  "tanzanite helm#charged": {
+    "slot": "Head",
+    "txt": "txt/tanzanite_helm#charged.txt"
+  },
+  "prospector helmet": {
+    "slot": "Head",
+    "txt": "txt/prospector_helmet.txt"
+  },
+  "hydra slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/hydra_slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "myre snelm": {
+    "slot": "Head",
+    "txt": "txt/myre_snelm.txt"
+  },
+  "powder grey pumpkin#laughing": {
+    "slot": "Head",
+    "txt": "txt/powder_grey_pumpkin#laughing.txt"
+  },
+  "brassica halo#locked": {
+    "slot": "Head",
+    "txt": "txt/brassica_halo#locked.txt"
+  },
+  "black full helm (g)": {
+    "slot": "Head",
+    "txt": "txt/black_full_helm_(g).txt"
+  },
+  "adamant heraldic helm (skull)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(skull).txt"
+  },
+  "black h%27ween mask": {
+    "slot": "Head",
+    "txt": "txt/black_h%27ween_mask.txt"
+  },
+  "yellow pumpkin#disgusted": {
+    "slot": "Head",
+    "txt": "txt/yellow_pumpkin#disgusted.txt"
+  },
+  "max hood": {
+    "slot": "Head",
+    "txt": "txt/max_hood.txt"
+  },
+  "vampyric slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/vampyric_slayer_helmet.txt"
+  },
+  "red pumpkin#happy": {
+    "slot": "Head",
+    "txt": "txt/red_pumpkin#happy.txt"
+  },
+  "achievement diary hood": {
+    "slot": "Head",
+    "txt": "txt/achievement_diary_hood.txt"
+  },
+  "twisted ancestral hat": {
+    "slot": "Head",
+    "txt": "txt/twisted_ancestral_hat.txt"
+  },
+  "blood moon helm#broken": {
+    "slot": "Head",
+    "txt": "txt/blood_moon_helm#broken.txt"
+  },
+  "rainbow partyhat": {
+    "slot": "Head",
+    "txt": "txt/rainbow_partyhat.txt"
+  },
+  "rock-shell helm": {
+    "slot": "Head",
+    "txt": "txt/rock-shell_helm.txt"
+  },
+  "black full helm": {
+    "slot": "Head",
+    "txt": "txt/black_full_helm.txt"
+  },
+  "mystic hat (or)": {
+    "slot": "Head",
+    "txt": "txt/mystic_hat_(or).txt"
+  },
+  "tanzanite helm#uncharged": {
+    "slot": "Head",
+    "txt": "txt/tanzanite_helm#uncharged.txt"
+  },
+  "lederhosen hat": {
+    "slot": "Head",
+    "txt": "txt/lederhosen_hat.txt"
+  },
+  "black helm (h2)": {
+    "slot": "Head",
+    "txt": "txt/black_helm_(h2).txt"
+  },
+  "mystic hat (dark)": {
+    "slot": "Head",
+    "txt": "txt/mystic_hat_(dark).txt"
+  },
+  "light infinity hat": {
+    "slot": "Head",
+    "txt": "txt/light_infinity_hat.txt"
+  },
+  "mask of balance": {
+    "slot": "Head",
+    "txt": "txt/mask_of_balance.txt"
+  },
+  "progress hat#full": {
+    "slot": "Head",
+    "txt": "txt/progress_hat#full.txt"
+  },
+  "trailblazer hood (t2)": {
+    "slot": "Head",
+    "txt": "txt/trailblazer_hood_(t2).txt"
+  },
+  "seren halo#locked": {
+    "slot": "Head",
+    "txt": "txt/seren_halo#locked.txt"
+  },
+  "monocle": {
+    "slot": "Head",
+    "txt": "txt/monocle.txt"
+  },
+  "leprechaun hat": {
+    "slot": "Head",
+    "txt": "txt/leprechaun_hat.txt"
+  },
+  "chompy bird hat (bowman)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(bowman).txt"
+  },
+  "cat ears#reward": {
+    "slot": "Head",
+    "txt": "txt/cat_ears#reward.txt"
+  },
+  "black slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/black_slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "beige pumpkin#laughing": {
+    "slot": "Head",
+    "txt": "txt/beige_pumpkin#laughing.txt"
+  },
+  "spined helm": {
+    "slot": "Head",
+    "txt": "txt/spined_helm.txt"
+  },
+  "echo ahrim%27s hood#25": {
+    "slot": "Head",
+    "txt": "txt/echo_ahrim%27s_hood#25.txt"
+  },
+  "teal hat": {
+    "slot": "Head",
+    "txt": "txt/teal_hat.txt"
+  },
+  "dwarven helmet": {
+    "slot": "Head",
+    "txt": "txt/dwarven_helmet.txt"
+  },
+  "green slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/green_slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "group ironman helm": {
+    "slot": "Head",
+    "txt": "txt/group_ironman_helm.txt"
+  },
+  "saradomin halo#locked": {
+    "slot": "Head",
+    "txt": "txt/saradomin_halo#locked.txt"
+  },
+  "steel heraldic helm (money)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(money).txt"
+  },
+  "red slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/red_slayer_helmet_(i)#soul_wars.txt"
+  },
+  "reindeer hat": {
+    "slot": "Head",
+    "txt": "txt/reindeer_hat.txt"
+  },
+  "steel heraldic helm (horse)": {
+    "slot": "Head",
+    "txt": "txt/steel_heraldic_helm_(horse).txt"
+  },
+  "fighter hat#broken": {
+    "slot": "Head",
+    "txt": "txt/fighter_hat#broken.txt"
+  },
+  "red boater": {
+    "slot": "Head",
+    "txt": "txt/red_boater.txt"
+  },
+  "rune heraldic helm (money)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(money).txt"
+  },
+  "graceful hood (shayzien)#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood_(shayzien)#worn.txt"
+  },
+  "3rd age range coif": {
+    "slot": "Head",
+    "txt": "txt/3rd_age_range_coif.txt"
+  },
+  "echo virtus mask": {
+    "slot": "Head",
+    "txt": "txt/echo_virtus_mask.txt"
+  },
+  "decorative helm (white)": {
+    "slot": "Head",
+    "txt": "txt/decorative_helm_(white).txt"
+  },
+  "red slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/red_slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "chompy bird hat (woodsman)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(woodsman).txt"
+  },
+  "hunter%27s honour": {
+    "slot": "Head",
+    "txt": "txt/hunter%27s_honour.txt"
+  },
+  "torag%27s helm#75": {
+    "slot": "Head",
+    "txt": "txt/torag%27s_helm#75.txt"
+  },
+  "halloween wig#style 5": {
+    "slot": "Head",
+    "txt": "txt/halloween_wig#style_5.txt"
+  },
+  "ironman helm": {
+    "slot": "Head",
+    "txt": "txt/ironman_helm.txt"
+  },
+  "elemental tiara": {
+    "slot": "Head",
+    "txt": "txt/elemental_tiara.txt"
+  },
+  "white pumpkin#disgusted": {
+    "slot": "Head",
+    "txt": "txt/white_pumpkin#disgusted.txt"
+  },
+  "lunar helm": {
+    "slot": "Head",
+    "txt": "txt/lunar_helm.txt"
+  },
+  "snake mask": {
+    "slot": "Head",
+    "txt": "txt/snake_mask.txt"
+  },
+  "spookier hood": {
+    "slot": "Head",
+    "txt": "txt/spookier_hood.txt"
+  },
+  "shaman mask": {
+    "slot": "Head",
+    "txt": "txt/shaman_mask.txt"
+  },
+  "beige pumpkin#angry": {
+    "slot": "Head",
+    "txt": "txt/beige_pumpkin#angry.txt"
+  },
+  "torag%27s helm#100": {
+    "slot": "Head",
+    "txt": "txt/torag%27s_helm#100.txt"
+  },
+  "eclipse moon helm#broken": {
+    "slot": "Head",
+    "txt": "txt/eclipse_moon_helm#broken.txt"
+  },
+  "law tiara": {
+    "slot": "Head",
+    "txt": "txt/law_tiara.txt"
+  },
+  "void melee helm (or)#locked": {
+    "slot": "Head",
+    "txt": "txt/void_melee_helm_(or)#locked.txt"
+  },
+  "green halloween mask": {
+    "slot": "Head",
+    "txt": "txt/green_halloween_mask.txt"
+  },
+  "hood of darkness": {
+    "slot": "Head",
+    "txt": "txt/hood_of_darkness.txt"
+  },
+  "one barrel": {
+    "slot": "Head",
+    "txt": "txt/one_barrel.txt"
+  },
+  "green headband": {
+    "slot": "Head",
+    "txt": "txt/green_headband.txt"
+  },
+  "trailblazer hood (t1)": {
+    "slot": "Head",
+    "txt": "txt/trailblazer_hood_(t1).txt"
+  },
+  "pirate bandana (brown)": {
+    "slot": "Head",
+    "txt": "txt/pirate_bandana_(brown).txt"
+  },
+  "flower crown#transgender": {
+    "slot": "Head",
+    "txt": "txt/flower_crown#transgender.txt"
+  },
+  "adamant heraldic helm (dragon)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(dragon).txt"
+  },
+  "hornwood helm": {
+    "slot": "Head",
+    "txt": "txt/hornwood_helm.txt"
+  },
+  "guthix halo#locked": {
+    "slot": "Head",
+    "txt": "txt/guthix_halo#locked.txt"
+  },
+  "big pirate hat": {
+    "slot": "Head",
+    "txt": "txt/big_pirate_hat.txt"
+  },
+  "moonclan helm": {
+    "slot": "Head",
+    "txt": "txt/moonclan_helm.txt"
+  },
+  "bandana eyepatch (red)": {
+    "slot": "Head",
+    "txt": "txt/bandana_eyepatch_(red).txt"
+  },
+  "old demon mask": {
+    "slot": "Head",
+    "txt": "txt/old_demon_mask.txt"
+  },
+  "verac%27s helm#100": {
+    "slot": "Head",
+    "txt": "txt/verac%27s_helm#100.txt"
+  },
+  "torva full helm#restored": {
+    "slot": "Head",
+    "txt": "txt/torva_full_helm#restored.txt"
+  },
+  "white full helm": {
+    "slot": "Head",
+    "txt": "txt/white_full_helm.txt"
+  },
+  "obsidian helmet": {
+    "slot": "Head",
+    "txt": "txt/obsidian_helmet.txt"
+  },
+  "mummy%27s head": {
+    "slot": "Head",
+    "txt": "txt/mummy%27s_head.txt"
+  },
+  "adamant heraldic helm (dorgeshuun)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(dorgeshuun).txt"
+  },
+  "festive games crown": {
+    "slot": "Head",
+    "txt": "txt/festive_games_crown.txt"
+  },
+  "larupia hat": {
+    "slot": "Head",
+    "txt": "txt/larupia_hat.txt"
+  },
+  "graceful hood (adventurer)#worn": {
+    "slot": "Head",
+    "txt": "txt/graceful_hood_(adventurer)#worn.txt"
+  },
+  "tribal mask (disease)": {
+    "slot": "Head",
+    "txt": "txt/tribal_mask_(disease).txt"
+  },
+  "white headband": {
+    "slot": "Head",
+    "txt": "txt/white_headband.txt"
+  },
+  "chompy bird hat (marksman)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(marksman).txt"
+  },
+  "dog disguise": {
+    "slot": "Head",
+    "txt": "txt/dog_disguise.txt"
+  },
+  "catalytic tiara": {
+    "slot": "Head",
+    "txt": "txt/catalytic_tiara.txt"
+  },
+  "coif": {
+    "slot": "Head",
+    "txt": "txt/coif.txt"
+  },
+  "wrath tiara": {
+    "slot": "Head",
+    "txt": "txt/wrath_tiara.txt"
+  },
+  "void ranger helm (or)#normal": {
+    "slot": "Head",
+    "txt": "txt/void_ranger_helm_(or)#normal.txt"
+  },
+  "rune heraldic helm (horse)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(horse).txt"
+  },
+  "chaos tiara": {
+    "slot": "Head",
+    "txt": "txt/chaos_tiara.txt"
+  },
+  "iron full helm (g)": {
+    "slot": "Head",
+    "txt": "txt/iron_full_helm_(g).txt"
+  },
+  "afro": {
+    "slot": "Head",
+    "txt": "txt/afro.txt"
+  },
+  "powder grey pumpkin#silly": {
+    "slot": "Head",
+    "txt": "txt/powder_grey_pumpkin#silly.txt"
+  },
+  "iron full helm": {
+    "slot": "Head",
+    "txt": "txt/iron_full_helm.txt"
+  },
+  "gnome child mask": {
+    "slot": "Head",
+    "txt": "txt/gnome_child_mask.txt"
+  },
+  "snow imp costume head#during event": {
+    "slot": "Head",
+    "txt": "txt/snow_imp_costume_head#during_event.txt"
+  },
+  "echo ahrim%27s hood#50": {
+    "slot": "Head",
+    "txt": "txt/echo_ahrim%27s_hood#50.txt"
+  },
+  "runner hat#normal": {
+    "slot": "Head",
+    "txt": "txt/runner_hat#normal.txt"
+  },
+  "void melee helm#broken": {
+    "slot": "Head",
+    "txt": "txt/void_melee_helm#broken.txt"
+  },
+  "adamant heraldic helm (ham)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(ham).txt"
+  },
+  "shattered hood (t3)": {
+    "slot": "Head",
+    "txt": "txt/shattered_hood_(t3).txt"
+  },
+  "white pumpkin#sad": {
+    "slot": "Head",
+    "txt": "txt/white_pumpkin#sad.txt"
+  },
+  "black mask (i)#(3)": {
+    "slot": "Head",
+    "txt": "txt/black_mask_(i)#(3).txt"
+  },
+  "halloween wig#style 2": {
+    "slot": "Head",
+    "txt": "txt/halloween_wig#style_2.txt"
+  },
+  "ahrim%27s hood#25": {
+    "slot": "Head",
+    "txt": "txt/ahrim%27s_hood#25.txt"
+  },
+  "bounty hunter hat (tier 3)": {
+    "slot": "Head",
+    "txt": "txt/bounty_hunter_hat_(tier_3).txt"
+  },
+  "black boater": {
+    "slot": "Head",
+    "txt": "txt/black_boater.txt"
+  },
+  "powder grey pumpkin#happy": {
+    "slot": "Head",
+    "txt": "txt/powder_grey_pumpkin#happy.txt"
+  },
+  "iron dragon mask": {
+    "slot": "Head",
+    "txt": "txt/iron_dragon_mask.txt"
+  },
+  "rune heraldic helm (dorgeshuun)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(dorgeshuun).txt"
+  },
+  "bearhead": {
+    "slot": "Head",
+    "txt": "txt/bearhead.txt"
+  },
+  "rune heraldic helm (kandarin)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(kandarin).txt"
+  },
+  "red tricorn hat": {
+    "slot": "Head",
+    "txt": "txt/red_tricorn_hat.txt"
+  },
+  "rune full helm (t)": {
+    "slot": "Head",
+    "txt": "txt/rune_full_helm_(t).txt"
+  },
+  "red cavalier": {
+    "slot": "Head",
+    "txt": "txt/red_cavalier.txt"
+  },
+  "black demon mask": {
+    "slot": "Head",
+    "txt": "txt/black_demon_mask.txt"
+  },
+  "fire tiara": {
+    "slot": "Head",
+    "txt": "txt/fire_tiara.txt"
+  },
+  "echo ahrim%27s hood#undamaged": {
+    "slot": "Head",
+    "txt": "txt/echo_ahrim%27s_hood#undamaged.txt"
+  },
+  "mithril dragon mask": {
+    "slot": "Head",
+    "txt": "txt/mithril_dragon_mask.txt"
+  },
+  "mining helmet#unlit": {
+    "slot": "Head",
+    "txt": "txt/mining_helmet#unlit.txt"
+  },
+  "initiate sallet": {
+    "slot": "Head",
+    "txt": "txt/initiate_sallet.txt"
+  },
+  "adamant heraldic helm (horse)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(horse).txt"
+  },
+  "helm of raedwald": {
+    "slot": "Head",
+    "txt": "txt/helm_of_raedwald.txt"
+  },
+  "crystal helm (iorwerth)#active": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(iorwerth)#active.txt"
+  },
+  "red partyhat": {
+    "slot": "Head",
+    "txt": "txt/red_partyhat.txt"
+  },
+  "menaphite red hat": {
+    "slot": "Head",
+    "txt": "txt/menaphite_red_hat.txt"
+  },
+  "hydra slayer helmet (i)#emir's arena": {
+    "slot": "Head",
+    "txt": "txt/hydra_slayer_helmet_(i)#emir's_arena.txt"
+  },
+  "crystal helm (ithell)#inactive": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(ithell)#inactive.txt"
+  },
+  "black wizard hat (t)": {
+    "slot": "Head",
+    "txt": "txt/black_wizard_hat_(t).txt"
+  },
+  "slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/slayer_helmet_(i)#soul_wars.txt"
+  },
+  "villager hat (brown)": {
+    "slot": "Head",
+    "txt": "txt/villager_hat_(brown).txt"
+  },
+  "chompy bird hat (forester)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(forester).txt"
+  },
+  "black mask (i)#(1)": {
+    "slot": "Head",
+    "txt": "txt/black_mask_(i)#(1).txt"
+  },
+  "guild hunter headwear": {
+    "slot": "Head",
+    "txt": "txt/guild_hunter_headwear.txt"
+  },
+  "black mask#(9)": {
+    "slot": "Head",
+    "txt": "txt/black_mask#(9).txt"
+  },
+  "twisted hat (t1)": {
+    "slot": "Head",
+    "txt": "txt/twisted_hat_(t1).txt"
+  },
+  "fremennik helm": {
+    "slot": "Head",
+    "txt": "txt/fremennik_helm.txt"
+  },
+  "black santa hat": {
+    "slot": "Head",
+    "txt": "txt/black_santa_hat.txt"
+  },
+  "air tiara": {
+    "slot": "Head",
+    "txt": "txt/air_tiara.txt"
+  },
+  "araxyte slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/araxyte_slayer_helmet_(i)#soul_wars.txt"
+  },
+  "granite helm": {
+    "slot": "Head",
+    "txt": "txt/granite_helm.txt"
+  },
+  "decorative armour (magic hat)#locked": {
+    "slot": "Head",
+    "txt": "txt/decorative_armour_(magic_hat)#locked.txt"
+  },
+  "virtus mask": {
+    "slot": "Head",
+    "txt": "txt/virtus_mask.txt"
+  },
+  "crystal helm (trahaearn)#inactive": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm_(trahaearn)#inactive.txt"
+  },
+  "skeleton mask": {
+    "slot": "Head",
+    "txt": "txt/skeleton_mask.txt"
+  },
+  "rune heraldic helm (skull)": {
+    "slot": "Head",
+    "txt": "txt/rune_heraldic_helm_(skull).txt"
+  },
+  "adamant heraldic helm (guthix)": {
+    "slot": "Head",
+    "txt": "txt/adamant_heraldic_helm_(guthix).txt"
+  },
+  "camel mask": {
+    "slot": "Head",
+    "txt": "txt/camel_mask.txt"
+  },
+  "icthlarin%27s hood (tier 5)": {
+    "slot": "Head",
+    "txt": "txt/icthlarin%27s_hood_(tier_5).txt"
+  },
+  "spider hat#verzik": {
+    "slot": "Head",
+    "txt": "txt/spider_hat#verzik.txt"
+  },
+  "a powdered wig": {
+    "slot": "Head",
+    "txt": "txt/a_powdered_wig.txt"
+  },
+  "shayzien helm (5)": {
+    "slot": "Head",
+    "txt": "txt/shayzien_helm_(5).txt"
+  },
+  "forestry hat": {
+    "slot": "Head",
+    "txt": "txt/forestry_hat.txt"
+  },
+  "red pumpkin#depressed": {
+    "slot": "Head",
+    "txt": "txt/red_pumpkin#depressed.txt"
+  },
+  "guthan%27s helm#undamaged": {
+    "slot": "Head",
+    "txt": "txt/guthan%27s_helm#undamaged.txt"
+  },
+  "twisted slayer helmet (i)#nightmare zone": {
+    "slot": "Head",
+    "txt": "txt/twisted_slayer_helmet_(i)#nightmare_zone.txt"
+  },
+  "cooking hood": {
+    "slot": "Head",
+    "txt": "txt/cooking_hood.txt"
+  },
+  "crystal helm#active": {
+    "slot": "Head",
+    "txt": "txt/crystal_helm#active.txt"
+  },
+  "bedsheet#ectoplasm": {
+    "slot": "Head",
+    "txt": "txt/bedsheet#ectoplasm.txt"
+  },
+  "yellow pumpkin#angry": {
+    "slot": "Head",
+    "txt": "txt/yellow_pumpkin#angry.txt"
+  },
+  "green slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/green_slayer_helmet_(i)#soul_wars.txt"
+  },
+  "black cavalier": {
+    "slot": "Head",
+    "txt": "txt/black_cavalier.txt"
+  },
+  "zombie mask": {
+    "slot": "Head",
+    "txt": "txt/zombie_mask.txt"
+  },
+  "ancient halo#locked": {
+    "slot": "Head",
+    "txt": "txt/ancient_halo#locked.txt"
+  },
+  "hydra slayer helmet": {
+    "slot": "Head",
+    "txt": "txt/hydra_slayer_helmet.txt"
+  },
+  "vampyric slayer helmet (i)#soul wars": {
+    "slot": "Head",
+    "txt": "txt/vampyric_slayer_helmet_(i)#soul_wars.txt"
+  },
+  "chef%27s hat": {
+    "slot": "Head",
+    "txt": "txt/chef%27s_hat.txt"
+  },
+  "black mask#(6)": {
+    "slot": "Head",
+    "txt": "txt/black_mask#(6).txt"
+  },
+  "infinity hat": {
+    "slot": "Head",
+    "txt": "txt/infinity_hat.txt"
+  },
+  "black mask#(1)": {
+    "slot": "Head",
+    "txt": "txt/black_mask#(1).txt"
+  },
+  "pirate hat %26 patch": {
+    "slot": "Head",
+    "txt": "txt/pirate_hat_%26_patch.txt"
+  },
+  "deep sea helmet": {
+    "slot": "Head",
+    "txt": "txt/deep_sea_helmet.txt"
+  },
+  "chompy bird hat (expert ogre dragon archer)": {
+    "slot": "Head",
+    "txt": "txt/chompy_bird_hat_(expert_ogre_dragon_archer).txt"
+  },
+  "nutcracker hat#festive": {
+    "slot": "Head",
+    "txt": "txt/nutcracker_hat#festive.txt"
+  },
+  "doctor%27s hat": {
+    "slot": "Head",
+    "txt": "txt/doctor%27s_hat.txt"
+  },
+  "farmer%27s strawhat#female": {
+    "slot": "Head",
+    "txt": "txt/farmer%27s_strawhat#female.txt"
+  },
+  "piscarilius hood": {
+    "slot": "Head",
+    "txt": "txt/piscarilius_hood.txt"
+  },
+  "blue boater": {
+    "slot": "Head",
+    "txt": "txt/blue_boater.txt"
+  },
+  "zamorak max hood": {
+    "slot": "Head",
+    "txt": "txt/zamorak_max_hood.txt"
+  }
+}

@@ -1,0 +1,7 @@
+[Page: Death's Office]
+
+Death's Office, also known asDeath's Domain, is a small office in whichDeathresides. The entrance to Death's Office can be found near any majorrespawnpoint, indicated by a tombstone iconon the minimap:
+In Death's office, players can collect items that they did not collect from theirgravewithin 15 minutes ofdying. Items worth less than100,000are free to reclaim, but items worth more come with a 5% reclamation fee. As with graves,ironmen(with the exception of ultimate ironmen) are given a 50% discount, giving them a 2.5% reclamation fee. Note that it is substantially cheaper to reclaim items from a grave, which uses atiered systemdepending on the item's value, capping at 1% in the worst case scenario. Items may be collected at Death's office for the player's convenience before the 15 minute timer has run out, though the higher fee will be charged.
+Players may deposit unwanted items into theDeath's cofferfor 105% of the item'sGrand Exchangeprice (item has to be worth more than 10,000 coins to be acceptable), which will be used to pay for item reclamation fees as well as area instances. Items offered herecannotbe withdrawn and the value cannot be used for any other purpose.
+Beware that no more than 120 items or item stacks can be held in Death's Office Item Retrieval at any given time, causing items from an expired gravestone to be deleted when the limit is reached.
+Death can be talked to in order to cosmetically enhance the player'sgravestoneto a statue of an angel, costing200,000.

@@ -1,0 +1,1 @@
+Thecrate ringis an item that can be obtained from participating in anyEaster event, and was first obtained from the2022 Easter event. When equipped, the player's model transforms into a crate. While this effect is active, the player cannot move, or the player's model will return to normal.

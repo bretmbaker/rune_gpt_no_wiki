@@ -1,0 +1,37 @@
+Name: Baby sea kraken
+Combat Level: 60
+Size: 1x1
+Info:
+- Description: ? (edit)
+
+Slayer Info:
+
+Immunities:
+- Poison: ? (edit)
+- Venom: ? (edit)
+- Monster ID: beta14258,beta14259
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 50
+Attack: None
+Strength: None
+Defence: 75
+Magic: 60
+Ranged: None
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

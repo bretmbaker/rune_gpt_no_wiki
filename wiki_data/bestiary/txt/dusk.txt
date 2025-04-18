@@ -1,0 +1,55 @@
+Name: Dusk
+Combat Level: 248
+Size: 4x4
+Info:
+- Description: The Guardian of Dusk, he's alive!
+
+Slayer Info:
+- Required Level: 75
+- Slayer XP: 1,350 xp
+- Category: Bosses, Gargoyles
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 7851,7854,7855,7882,7883,7886
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guide is available for Dusk:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 450
+Attack: 200
+Strength: 140
+Defence: 100
+Magic: 140
+Ranged: 140
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

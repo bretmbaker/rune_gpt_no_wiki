@@ -1,0 +1,51 @@
+[Weapon: Rogue Top]
+
+
+Therogue topis part of therogue equipmentset, and provides +10 bonuses to allDefencetypes. The top cannot be crafted, and are untradeable.
+There is a 5/8 chance of obtaining arogue's equipment cratewhen a player successfully cracks the safe at the end of theRogues' Denmaze.
+
+
+[Infobox]
+Released: 22 June2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Black banded leather armour, a rogue's dream!
+General Store Value: 625 coins
+High alch: 375 coins
+Low alch: 250 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +10
+- Slash: +10
+- Crush: +10
+- Magic: +10
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Rogue's equipment crate | N/A | 1 | Once | 

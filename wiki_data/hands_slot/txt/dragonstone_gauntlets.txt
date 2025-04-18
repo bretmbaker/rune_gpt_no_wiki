@@ -1,0 +1,54 @@
+[Weapon: Dragonstone Gauntlets]
+
+
+Thedragonstone gauntletscan be found as a rare reward upon opening theElven Crystal ChestwithinPrifddinas. They have similar stats torune gloves, except with negative magic and ranged attack and a half as much strength bonus. Unlikerune gloves, they require 40Defenceto equip.
+This item can be stored in thearmour caseof acostume room, as part of theDragonstone armourset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 25 July2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A stylish pair of rune gauntlets inlaid with dragonstones.
+General Store Value: 12,500 coins
+High alch: 7,500 coins
+Low alch: 5,000 coins
+Weight: 0.226 kg
+Grand Exchange Value: 467,362 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 32
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +8
+- Slash: +8
+- Crush: +8
+- Magic: -4
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +8
+- Crush: +8
+- Magic: -4
+- Ranged: +4
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Elven Crystal Chest | N/A | 1 | 1/2,500 | 

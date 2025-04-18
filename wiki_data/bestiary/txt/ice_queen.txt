@@ -1,0 +1,41 @@
+Name: Ice Queen
+Combat Level: 111
+Size: 1x1
+Info:
+- Description: A cold hearted[sic] lady.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4922
+- Link: MOID
+
+Location:
+- Area: Ice Queen's Lair
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 104
+Attack: 95
+Strength: 94
+Defence: 95
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

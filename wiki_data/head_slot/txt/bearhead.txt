@@ -1,0 +1,59 @@
+[Weapon: Bearhead]
+
+
+ABearheadis a piece of low level headgear that is obtained after killingThe Kendalduring theMountain Daughterquest.
+This piece of headgear has surprisingly high defensive bonuses given that it has no requirements to equip. It is popular amongstone-defence puresdue to its defensive bonuses being comparable to ablack full helmand amongAbyssrunecraftersdue to its low weight. ItsMagic defenceis competitive with many other helmets with higher requirements.
+
+
+[Infobox]
+Released: 7 March2005(Update)
+Members: Yes
+Quest item: Mountain Daughter
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Quite ferocious looking.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +12
+- Slash: +14
+- Crush: +10
+- Magic: +7
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Kendal | 70; 210 | 1 | Always | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyss/Strategies(Defence)
+4 | Pay-to-play Prayer training(High Magic defence)
+4 | Pay-to-play Prayer training(Dinh's bulwark)
+4 | TzHaar Fight Cave/Strategies(Pure)

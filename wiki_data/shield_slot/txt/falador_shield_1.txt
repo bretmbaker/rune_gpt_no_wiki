@@ -1,0 +1,47 @@
+[Weapon: Falador Shield 1]
+
+
+TheFalador shield 1is a reward from completing theeasy Falador Diarytasks given to you bySir Rebralin theWhite Knights' Castlecourtyard and can be retrieved from him for free if lost. Its defensive bonuses are equivalent to anIron kiteshield, except it has an addedPrayerbonus and higherRangedattack bonus.
+A number of other benefitsare always active upon claiming rewards from the easy tier of the Falador diary.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Recharge-prayer, Check, Drop
+Worn options: Recharge Prayer, Check
+Examine: A shield from Falador.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 5.443 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -8
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +10
+- Crush: +9
+- Magic: -1
+- Ranged: +9
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Shield slot

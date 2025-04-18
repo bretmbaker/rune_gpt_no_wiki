@@ -1,0 +1,2 @@
+Item: General Wartface (historical)
+Summary: General Wartface is an unused historical variant of General Wartface that appeared during Goblin Diplomacy. Despite the historical variant being unused since the graphics were updated in 2006, the NPC model and data remains in the game cache. The old variant retains the old graphical style.

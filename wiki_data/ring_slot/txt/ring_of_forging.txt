@@ -1,0 +1,56 @@
+[Weapon: Ring Of Forging]
+
+
+Aring of forgingcan be made by castingLvl-3 Enchanton aruby ring, or by paying 250coinswith a ruby ring toMurky Mattin the south-east quadrant of theGrand Exchange. If a playersmeltsiron orewhile wearing the ring, it gives a 100% success rate of creating aniron bar.
+A newly-enchanted ring has 140 charges. Each time the player smelts an iron ore while wearing the ring, one charge is consumed; after all charges are consumed, the ring crumbles to dust. If the player auto-smelts more iron ores than the number of remaining charges, the smelting will stop once the ring crumbles. The number of charges is specific to the player, not the ring, so swapping, dropping, or alching rings before 140 charges are used willnotreset the number of smelts the player has left before a ring breaks. Players can right-click a ring of forging to either "check" how many charges remain in it or "break" it and reset the next one they use to its maximum charges.
+
+
+[Infobox]
+Released: 20 April2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Break, Drop
+Worn options: Check
+Examine: An enchanted ring.
+General Store Value: 2,025 coins
+High alch: 1,215 coins
+Low alch: 810 coins
+Weight: 0.006 kg
+Grand Exchange Value: 1,075 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 57,626
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Magpie impling jar | N/A | 3(noted) | 1/21 | 
+Magpie impling | 65; 75 | 3(noted) | 1/21 | 

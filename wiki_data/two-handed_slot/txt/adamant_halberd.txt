@@ -1,0 +1,55 @@
+[Weapon: Adamant Halberd]
+
+
+Adamant halberdis ahalberdmade fromadamantite, requiring level 30Attackand 15Strengthto wield. As with all halberds, the adamant halberd has one extra square ofattack rangewhile in combat, making it possible tosafespotmonsters. Halberdscannotbe made via theSmithingskill.
+
+
+[Infobox]
+Released: 20 September2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: An adamant halberd.
+General Store Value: 6,400 coins
+High alch: 3,840 coins
+Low alch: 2,560 coins
+Weight: 3.628 kg
+Grand Exchange Value: 12,206 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 145
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +28
+- Slash: +41
+- Crush: +0
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: -1
+- Slash: +3
+- Crush: +4
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +42
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Jab | Stab | Controlled | 7 ticks (4.2s) | 2 tiles |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Aggressive |  | +3 Strength
+ | Fend | Stab | Defensive |  | +3 Defence

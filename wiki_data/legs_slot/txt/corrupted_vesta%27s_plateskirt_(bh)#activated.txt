@@ -1,0 +1,45 @@
+[Weapon: Corrupted Vesta%27S Plateskirt (Bh)#Activated]
+
+
+Corrupted vesta's plateskirt (bh)is a piece of armour requiring 20Defenceto wear, and is obtained by convertingVesta's plateskirt (bh)via aCorrupted Warrior. When worn alongsideCorrupted vesta's chainbody (bh), the accuracy of meleespecial attacksis increased by 15%.
+When in inactive form, it must be charged with 1,500,000 coins before it can be used by the player. In addition, it can only be used withinDaimon's Crater,Castle Wars,Clan Wars, andSoul Wars; attempting to attack anything outside the listed areas will result in the player being interrupted from doing so.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Uncharge, Drop
+Examine: A powerful plateskirt.
+General Store Value: 500,000 coins
+Alchemy: Not alchemisable
+Weight: 8.164 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +10
+- Slash: +10
+- Crush: +3
+- Magic: -24
+- Ranged: -12
+
+Defence Bonuses:
+- Stab: +14
+- Slash: +11
+- Crush: +16
+- Magic: -9
+- Ranged: +15
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

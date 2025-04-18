@@ -1,0 +1,70 @@
+[Weapon: Ring Of Dueling#(8)]
+
+
+Thering of duelingis a teleportation ring that may be made by castingLvl-2 Enchanton anemerald ring, granting 37Magicexperience. A full ring of dueling will provide 8 teleports before it crumbles away into nothing. Due to the low cost of the ring, many players use it to bank quickly at theCastle Warschest. Furthermore, theFerox Enclaveteleport allows a player to use thePool of Refreshmentwhilst gaining full health, prayer and run energy, although the Ferox Enclave teleport places the player slightly farther away from a bank chest.
+Each charge costs88.13coinsif all 8 charges are used,7.86if using High Level Alchemy (as described below), or44.29if usingLow Level Alchemy. Alternatively,Explorer's ringcan be used 30 times per day for a cost of27.86. This is viable if fewer than 210 charges are used on average each day, though it gives no Magic experience.
+
+
+[Infobox]
+Released: 20 April2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Rub, Drop
+Worn options: Emir's Arena, Castle Wars, Ferox Enclave, Fortis Colosseum
+Examine: An enchanted ring.
+General Store Value: 1,275 coins
+High alch: 765 coins
+Low alch: 510 coins
+Weight: 0.006 kg
+Grand Exchange Value: Not sold
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: -
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Mummy (Ancient Pyramid) | 103 | 1 | 10/513 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyss/Strategies(Graceful)
+1 | Abyss/Strategies(Defence)
+1 | Barrows/Strategies(Ranged (Ahrim))
+2 | Barrows/Strategies(Tank & Lower level)
+4 | Green dragon/Strategies(Melee)
+3 | Green dragon/Strategies(Ranged)
+4 | Krystilia/Strategies(Ranged)
+4 | Revenants/Strategies(Magic)
+4 | Revenants/Strategies(Ranged)
+5 | Revenants/Strategies(Melee)
+3 | Slayer training(Ranged (Wilderness))

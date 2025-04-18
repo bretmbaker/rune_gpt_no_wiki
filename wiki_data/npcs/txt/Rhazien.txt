@@ -1,0 +1,2 @@
+Item: Rhazien
+Summary: Rhazien is a farmer on the southern part of Etceteria. He will look after the bush patch for the player, for a small fee. He will not look after Poison ivy bushes though, because they cannot be diseased.

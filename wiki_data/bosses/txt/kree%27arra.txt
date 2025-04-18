@@ -1,0 +1,91 @@
+Name: Kree'arra
+Combat Level: 580
+Size: 5x5
+Info:
+- Description: Graceful avatar of Armadyl.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 357 xp
+- Category: Aviansie, Bosses
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3162
+- Link: MOID
+
+Location:
+- Area: God Wars Dungeon (Armadyl boss room)
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for Kree'arra:
+
+Notable Drops:
+- Armadyl helmet (1/381[d 1])
+- Armadyl chestplate (1/381[d 1])
+- Armadyl chainskirt (1/381[d 1])
+- Armadyl hilt (1/508)
+- Godsword shard 1 (1/762[d 2])
+- Godsword shard 2 (1/762[d 2])
+- Godsword shard 3 (1/762[d 2])
+- Crystal key (1/127)
+- Yew seed (1/127)
+- Loop half of key (1/94.93)
+- Tooth half of key (1/99.58)
+- Uncut sapphire (1/156.31)
+- Uncut emerald (1/312.62)
+- Rune sword (1/406.4)
+- Uncut ruby (1/625.23)
+- Nature rune (1/677.33)
+- Rune 2h sword (1/677.33)
+- Rune battleaxe (1/677.33)
+- Law rune (1/1,016)
+- Death rune (1/1,016)
+- Steel arrow (1/1,016)
+- Rune arrow (1/1,016)
+- Adamant javelin (1/1,016)
+- Rune sq shield (1/1,016)
+- Dragonstone (1/1,016)
+- Silver ore (1/1,016)
+- Chaos talisman (1/1,667.28)
+- Rune kiteshield (1/2,032)
+- Dragon med helm (1/2,032)
+- Rune spear (1/2,110.31)
+- Uncut diamond (1/2,500.92)
+- Shield left half (1/4,220.62)
+- Rune javelin (1/5,001.85)
+- Dragon spear (1/5,627.5)
+- Brimstone key (1/50[d 1])
+- Clue scroll (elite) (1/250[d 2])
+- Long bone (1/400)
+- Pet kree'arra (1/5,000)
+- Curved bone (1/5,012.5)
+
+Combat Achievements:
+- Airborne Showdown: Finish off Kree'arra whilst all of his bodyguards are dead. (Hard (3 pts))
+- Kree'arra Adept: Kill Kree'arra 50 times. (Hard (3 pts))
+- Kree'arra Veteran: Kill Kree'arra 100 times. (Elite (4 pts))
+- Swoop No More: Kill Kree'arra in a private instance without taking any melee damage from the boss or his bodyguards. (Master (5 pts))
+- Collateral Damage: Kill Kree'arra in a private instance without ever attacking him directly. (Master (5 pts))
+- Feather Hunter: Kill Kree'arra 30 times in a private instance without leaving the room. (Grandmaster (6 pts))
+- The Worst Ranged Weapon: Kill Kree'arra by only dealing damage to him with a salamander. (Grandmaster (6 pts))
+
+[Combat stats]
+Hitpoints: 255
+Attack: 300
+Strength: 200
+Defence: 260
+Magic: 200
+Ranged: 380
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

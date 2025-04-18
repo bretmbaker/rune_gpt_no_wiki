@@ -1,0 +1,84 @@
+[Weapon: Sapphire Ring]
+
+
+Thesapphire ringis made by using agold baron afurnacewhile having asapphireand aring mouldin one's inventory. Making it requires aCraftinglevel of 20, and gives 40experience.
+Grum's Gold ExchangeinPort Sarimbuys at better price thanHigh Alchemy, depending on his current stock. If he has no sapphire rings for sale, he buys the first for 630 coins.
+
+
+[Infobox]
+Released: 8 May2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A valuable ring.
+General Store Value: 900 coins
+High alch: 540 coins
+Low alch: 360 coins
+Weight: 0.006 kg
+Grand Exchange Value: 511 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 927,279
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Angry barbarian spirit | 166 | 1 | 2/128 | 
+Berserk barbarian spirit | 166 | 1 | 2/128 | 
+Bird nest (ring) | N/A | 1 | 40/100 | 
+Bronze Chest (black) | N/A | 1 | 3/98.64;3/95.56 | 
+Bronze Chest (brown) | N/A | 1 | 1/98.59;1/95.51 | 
+Bronze Chest (crimson) | N/A | 1 | 2/98.62;2/95.53 | 
+Bronze Chest (purple) | N/A | 1 | 4/98.67;4/95.59 | 
+Bronze Chest (red) | N/A | 1 | 2/98.62;2/95.53 | 
+Casket (Reward pool) | N/A | 20–28(noted) | 1/230 | 
+Casket (Reward pool) | N/A | 10–14(noted) | 9/230 | 
+Chest (stealing valuables) | 50 | 1 | 2/6,250 | 
+Crawling Hand | 7; 8; 11; 12 | 1 | 2/128 | 
+Crushing hand | 45 | 1 | 3 × 2/128 | 
+Enraged barbarian spirit | 166 | 1 | 2/128 | 
+Giant skeleton (Tarn's Lair) | 100 | 1 | 2/128 | 
+Jewellery case (stealing valuables) | 50 | 1 | 2/6,250 | 
+Mummy (Ancient Pyramid) | 103 | 1 | 10/513 | 
+Sarcophagus (Ancient Pyramid) | N/A | 1 | Rare | 
+Skeleton (Tarn's Lair)High level | 81; 87 | 1 | 2/128 | 
+Skeleton (mage) | 94 | 1 | 2/128 | 
+Skeleton brute | 132 | 1 | 2/128 | 
+Skeleton heavy | 132 | 1 | 2/128 | 
+Skeleton hero | 149 | 1 | 2/128 | 
+Skeleton thug | 132 | 1 | 2/128 | 
+Skeleton warlord | 132 | 1 | 2/128 | 
+Small chest | N/A | 1 | 6/150 | 
+Small chest | N/A | 1 | 5/150 | 
+Small chest | N/A | 1 | 3/150 | 
+Small chest | N/A | 1 | 4/150 | 
+Small chest | N/A | 1 | 2/150 | 
+Wardrobe (stealing valuables) | 50 | 1 | 2/6,250 | 

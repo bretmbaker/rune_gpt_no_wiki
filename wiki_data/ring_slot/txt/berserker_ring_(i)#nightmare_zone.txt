@@ -1,0 +1,164 @@
+[Weapon: Berserker Ring (I)#Nightmare Zone]
+
+
+Theberserker ring (i)is an upgraded version of the regularberserker ring. It isimbuedusing 650,000Nightmare Zonereward points or 325,000 with thehard tierofCombat Achievements, 260Soul WarsZeal Tokens, or ascroll of imbuingpurchased for 200Emir's Arenareward points. Its stats are double those of the berserker ring.
+If not protected,dyingto another player will cause the imbued ring to lose its imbued status, but the player will be reimbursed theNightmare Zone points,Zeal TokensorScroll of imbuingto re-imbue it via the aforementioned methods. Dying to a monster will not remove its imbued effect.
+
+
+[Infobox]
+Released: 26 September2013(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Uncharge, Drop
+Examine: A ring reputed to bring out a berserk fury in its wearer.
+General Store Value: 10,000 coins
+High alch: 6,000 coins
+Low alch: 4,000 coins
+Weight: 0.004 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +8
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +8
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+2 | Abyssal Sire/Strategies(Phase 1 Melee)
+2 | Adamant dragon/Strategies(Melee)
+2 | Alchemical Hydra/Strategies(Melee)
+2 | Amoxliatl/Strategies(Melee)
+3 | Ancient Wyvern/Strategies(Prayer)
+2 | Ancient Wyvern/Strategies(Melee)
+2 | Araxxor/Strategies(Melee)
+2 | Aviansie/Strategies(Ranged)
+2 | Barbarian Assault/Strategies(Melee (high level))
+1 | Barbarian Assault/Strategies(Melee (mid level))
+1 | Barrows/Strategies(Tank & Lower level)
+2 | Basilisk Knight/Strategies(Melee)
+2 | Calvar'ion/Strategies(Melee)
+2 | Cerberus/Strategies(Melee)
+3 | Chambers of Xeric/Challenge Mode(Melee)
+3 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+3 | Chambers of Xeric/Strategies(Melee)
+2 | Chaos Elemental/Strategies(Melee)
+2 | Chompington(Melee)
+2 | Corporeal Beast/Strategies(Dolo)
+2 | Corporeal Beast/Strategies(Solo melee)
+3 | Corporeal Beast/Strategies(Fewer stat drains)
+2 | Corporeal Beast/Strategies(Solo melee)
+2 | Corporeal Beast/Strategies(Melee masses)
+2 | Corporeal Beast/Strategies(Team melee)
+5 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+2 | Dark beast/Strategies(Melee)
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+3 | Down Do Specs(Melee)
+2 | Drake/Strategies(Melee)
+3 | Duke Sucellus/Strategies(Melee)
+3 | Fortis Colosseum/Strategies(High efficiency)
+3 | Fortis Colosseum/Strategies(Ranged)
+3 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Budget)
+3 | Fortis Colosseum/Strategies(Melee)
+2 | Galvek Speed-Trialist(Melee)
+3 | General Graardor/Strategies(Solo (Melee))
+4 | General Graardor/Strategies(Advanced Tank)
+2 | General Graardor/Strategies(Melee Attacker)
+1 | Giant Mole/Strategies(Melee & Prayer Budget)
+3 | Giant Mole/Strategies(Dharok's)
+2 | Giant Mole/Strategies(Melee)
+2 | Glough Speed-Trialist(Melee)
+2 | Green dragon/Strategies(Melee)
+2 | Grotesque Guardians/Strategies(Melee)
+2 | Hespori/Strategies(Best-in-slot)
+1 | Hespori/Strategies(Entry level)
+4 | K'ril Tsutsaroth/Strategies(Melee Tank)
+4 | K'ril Tsutsaroth/Strategies(Solo Melee)
+3 | K'ril Tsutsaroth/Strategies(Melee)
+3 | Kalphite Queen/Strategies(Pre-diary Method)
+2 | Kalphite Queen/Strategies(High DPS (Phase One))
+3 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+2 | Kalphite Queen/Strategies(Verac the Defiled's)
+1 | Kalphite Queen/Strategies(Flinching)
+4 | King Black Dragon/Strategies(Melee BIS smuggle)
+4 | King Black Dragon/Strategies(4-item melee)
+2 | Krystilia/Strategies(Melee)
+2 | Lizardman shaman/Strategies(Melee)
+2 | Metal dragons/Strategies(Melee)
+2 | Mithril dragon/Strategies(Melee)
+4 | Mithril dragon/Strategies(Melee tank)
+2 | Moons of Peril/Strategies(Moons of Peril Armour)
+3 | Nex/Strategies(Hybrid)
+2 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+2 | Nightmare Zone/Strategies(Melee)
+2 | Nightmare Zone/Strategies(Melee (Guthan's))
+2 | Nightmare Zone/Strategies(Melee (Dharok's))
+2 | Nightmare Zone/Strategies(Melee (Prayer))
+2 | The Nightmare/Strategies(Melee)
+3 | Phantom Muspah/Strategies(Melee)
+2 | Phosani's Nightmare/Strategies(Melee)
+2 | Revenants/Strategies(Melee)
+2 | Royal Titans/Strategies(Best-in-slot)
+1 | Royal Titans/Strategies(Mid-game)
+2 | Royal Titans/Strategies(Minimal gear switching)
+2 | Rune dragon/Strategies(Melee)
+2 | Sarachnis/Strategies(Melee)
+4 | Sarachnis/Strategies(Melee tank)
+1 | Scurrius/Strategies(Melee (mid level))
+3 | Scurrius/Strategies(Melee (high level))
+2 | Skeletal Wyvern/Strategies(Melee)
+3 | Skotizo/Strategies(Melee)
+2 | Slayer task/Fossil Island wyverns(Melee)
+3 | Slayer task/Fossil Island wyverns(Prayer)
+2 | Slayer task/Gargoyles(Melee)
+2 | Slayer task/Jellies(Melee)
+2 | Slayer task/Nechryael(Melee)
+2 | Slayer task/Trolls(Melee (Mountain trolls))
+2 | Slayer task/Trolls(Melee (Ice trolls))
+2 | Slayer task/Waterfiends(Melee)
+2 | Slayer task/Wyrms(Melee)
+2 | Slayer training(Melee)
+2 | Spindel/Strategies(Melee)
+2 | The Hueycoatl/Strategies(Melee)
+3 | Theatre of Blood/Hard Mode(Melee)
+1 | Theatre of Blood/Strategies(Entry mode)
+3 | Theatre of Blood/Strategies(Learner)
+3 | Theatre of Blood/Strategies(Melee)
+3 | Thermonuclear smoke devil/Strategies(Melee)
+2 | Tombs of Amascut/Strategies(Melee switch)
+2 | Tormented Demon/Strategies(Melee switch)
+3 | TzHaar Fight Cave/Strategies(Melee)
+2 | TzHaar Fight Cave/Strategies(Ranged (Atlatl))
+2 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+2 | Ultimate Ironman Guide/Equipment
+3 | Vardorvis/Strategies(Melee)
+2 | Venenatis/Strategies(Melee)
+2 | Vet'ion/Strategies(Melee)
+2 | Vorkath/Strategies(Melee)
+3 | Vyrewatch Sentinel/Strategies(DPS)
+2 | Vyrewatch Sentinel/Strategies(AFK Prayer)

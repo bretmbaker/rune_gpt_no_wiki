@@ -1,0 +1,54 @@
+[Weapon: Decorative Sword (White)]
+
+
+Thedecorative sword (white)can be bought in theCastle Warsarea south of theObservatoryfor 50Castle wars ticketsfromLanthus. The sword offers the same stats as amithril longsword, and requires level 20Attackto wield. Also, it has similar shape and colour palette to theblurite sword. However, the blurite sword is considerably weaker.
+This item can be stored in thearmour caseof acostume room.
+
+
+[Infobox]
+Released: 7 March2005(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: A very decorative sword.
+General Store Value: 1,300 coins
+High alch: 780 coins
+Low alch: 520 coins
+Weight: 1.587 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +15
+- Slash: +20
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +3
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +22
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence

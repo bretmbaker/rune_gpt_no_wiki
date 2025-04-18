@@ -1,0 +1,109 @@
+[Spell: Magic_Dart]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+Magic Dart
+
+
+
+
+
+
+
+Released | 26 January2005(Update)
+
+Members | Yes
+
+Level | 5055
+
+Spellbook | Standard
+
+Type | Combat
+
+Experience | 30
+
+Base max hit | •10% of level + 10Slayer's staff (e) & on task:•16.6% of level + 13
+
+Runes | 14
+
+Casting speed | 5 ticks
+
+Description | A magic dart of slaying
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Magic Dart(also referred to asSlayer Dart) requires 50Magicand 55Slayerto cast. The spellrequiresaslayer's staff,slayer's staff (e),staff of the dead,toxic staff of the dead,staff of lightorstaff of balanceto be wielded in order to cast it. All these staves canautocastthe spell.
+
+If cast using an enchanted slayer's staff, the projectile becomes a white colour instead of green. Magic dart is the only option for players who wish to slayTurothorKurasksusingMagic.
+
+Maximum hit[edit|edit source]
+
+The maximum hit of Magic Dart is⌊MagicLevel×110⌋+10. For example, at 60 Magic the max hit would be 16. The spell hits a maximum of 19 at 90+ Magic, or 20 ifboostedabove 99.
+
+If theSlayer's staff (e)is used whileon task, its max hit is even higher; its new formula is⌊MagicLevel×16⌋+13. Each cast consumes one charge from the slayer's staff (e) if the spell hits. Additional maximum hit values for the Slayer's staff (e) can be foundhere.
+
+Calculator[edit|edit source]
+
+Please input the data and submit the form.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+14 | 173
+
+When cast with theSlayer's staff (e)against an assigned Slayer monster, the cost of a charge of theSlayer's enchantmentadds about1.03to a total of174.03.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+8 January2015(update) | Slayer Dart is now listed in the magic skill guide with the correct slayer requirement.
+
+Trivia[edit|edit source]
+
+Magic Dart is currently the only combat spell in the standard spellbook that does not require any elemental runes.Magic Dart is one of the few magic attacks and the only spell whose max hit increases with the player's Magic level. The others are the spells used bypowered staves(such as thetrident of the seas), and thesalamanders' magic attacks.Although an enchanted slayer's staff turns the projectile white, splashed spells still retain their green colour.
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

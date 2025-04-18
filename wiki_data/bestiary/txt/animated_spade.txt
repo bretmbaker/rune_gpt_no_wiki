@@ -1,0 +1,39 @@
+Name: Animated spade
+Combat Level: 50
+Size: 1x1
+Info:
+- Description: How does it move of its own accord?
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 6470
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 40
+Attack: 40
+Strength: 55
+Defence: 40
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

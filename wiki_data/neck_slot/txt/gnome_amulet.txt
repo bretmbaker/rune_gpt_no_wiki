@@ -1,0 +1,51 @@
+[Weapon: Gnome Amulet]
+
+
+Thegnome amuletis awarded to players byKing Bolrenafter completion of theTree Gnome Villagequest. Should the player happen to lose the amulet, another can be obtained for free fromKing Bolren. It is made from the same material as theorbs of protectionthat are retrieved during the quest.
+It functions as a melee-onlyamulet of defence, having +13 in allmeleedefences but nomagicandrangeddefence. For melee-only situations, this amulet is recommended over theamulet of defence.
+
+
+[Infobox]
+Released: 23 July2002(Update)
+Members: Yes
+Quest item: Tree Gnome Village
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: It's an amulet of protection given to me by the gnomes.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.01 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +13
+- Slash: +13
+- Crush: +13
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Gout tuber/Strategies(Tank)

@@ -1,0 +1,56 @@
+Name: Lizardman
+Combat Level: 53
+Size: 1x1
+Info:
+- Description: Normal: From a race created during the darker days of Kourend.Battlefront: Scaly.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 60 xp
+- Category: Lizardmen
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 6914,6915
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 60
+Attack: 43
+Strength: 43
+Defence: 43
+Magic: 1
+Ranged: 43
+
+[Aggressive stats]
+Attack bonus: 22
+Strength bonus: 20
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 22
+Ranged strength bonus: 20
+
+[Melee defence]
+Stab: -20
+Slash: 25
+Crush: 0
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: -10
+Standard: 0
+Heavy: 0

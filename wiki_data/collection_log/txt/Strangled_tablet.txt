@@ -1,0 +1,4 @@
+Item: Strangled tablet
+Summary: The strangled tablet is an item dropped by Vardorvis. It is used on the ring of shadows to unlock a teleport to the temple entrance in the Stranglewood.
+Sources:
+- Vardorvis (Level 572; 784; 1136, Quantity: 1, Rarity: 1/25.5)

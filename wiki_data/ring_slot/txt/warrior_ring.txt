@@ -1,0 +1,71 @@
+[Weapon: Warrior Ring]
+
+
+Thewarrior ringis one of the fourFremennik ringsand is dropped byDagannoth Rex. The Fremennik rings are among the few rings that provide combat stat bonuses.
+It can beimbuedusing 650,000Nightmare Zonereward points or 325,000 with thehard tierofCombat Achievements, 260Soul WarsZeal Tokens, or aScroll of Imbuing, purchased for 200Emir's Arenareward points, which doubles its bonuses.
+
+
+[Infobox]
+Released: 7 November2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A legendary ring once worn by Fremennik warriors.
+General Store Value: 10,000 coins
+High alch: 6,000 coins
+Low alch: 4,000 coins
+Weight: 0.004 kg
+Grand Exchange Value: 69,044 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 2,206
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +4
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +4
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Dagannoth Rex | 303 | 1 | 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Budget Cutter
+3 | Duke Sucellus/Strategies(Melee)
+3 | Giant Mole/Strategies(Melee & Prayer Budget)
+5 | Giant Mole/Strategies(Dharok's)
+5 | Grotesque Guardians/Strategies(Melee)
+4 | Kree'arra/Strategies(Ranged Tank)
+5 | Moons of Peril/Strategies(Moons of Peril Armour)
+4 | Nightmare Zone/Strategies(Melee)
+4 | Nightmare Zone/Strategies(Melee (Dharok's))
+5 | Nightmare Zone/Strategies(Melee (Prayer))
+3 | Revenants/Strategies(Melee)
+4 | Sarachnis/Strategies(Melee)
+5 | Slayer task/Jellies(Melee)

@@ -1,0 +1,185 @@
+[Shop: Wizards%27_Guild]
+
+Wizards' Guild
+
+
+
+
+
+Released | 23 October2002(Update)
+
+Also called | Magic Guild
+
+Members | Yes
+
+Location | Yanille
+
+Leagueregion | Kandarin✓
+
+Requirements | 66
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | guild
+
+
+
+Location onWorld Map
+
+Port Khazard
+
+↑
+
+Yanille | ← | Wizards' Guild | → | Tai Bwo Wannai
+
+↓
+
+Gu'Tanoth
+
+TheWizards' Guild, located inYanille, contains a number of useful resources for those interested inMagic.You must have level 66 Magic to enter. Boosts, such as aWizard's mind bombat level 63, can be used to enter. Entering the Wizards' Guild is a task in theHard Ardougne Diary.
+
+Transportation[edit|edit source]
+
+Besides walking, there are several fast-transport means to the area near Yanille:
+
+Watchtower Teleportplaces you in the Watchtower just outside the city walls, or just north of the pet shop if you've completed the HardArdougne Diary.Teleport to House(if yourplayer-owned houseis in Yanille).Aredirectedhouse tabletto Yanille.Fairy ringcodeCIQplaces you a bit north of the city's western gate.Aring of duelingcan teleport you toCastle Wars, which is just west of Yanille.Minigame teleportto theNightmare Zone.Ardougne Cloakwhich teleports you to theArdougne Monasteryjust north of Yanille
+
+Features[edit|edit source]
+
+Ground floorFirst floor[edit|edit source]
+
+Zavistic Rarve- The guild grand secretary. He is involved in a number of quests such asThe Hand in the SandandZogre Flesh Eaters. If you cannot get in to talk to him, you can ring the bell just outside the door to call him. He wears special robes that make him stand out.Wizard Distentor- Will teleport you to therune essencemine. He is the closest one to abankwhen compared to other NPCs capable of teleporting you to the mine. He wears lighter blue robes than other wizards, helping him stand out.Professor Imblewyn- A gnome professor studying magic. He is featured in theGnome Restaurantmini-game.2 attackablewizards.Three portals at the top floor that can teleport you to theWizards' Tower,Dark Wizards' Tower, andSorcerer's Towerrespectively:Wizards' Tower PortalDark Wizards' Tower PortalSorcerer's Tower Portal
+
+First floorSecond floor[edit|edit source]
+
+The1stfloor[UK]2ndfloor[US]includes two shops and three attackablewizards.
+
+Wizard Sininasells a variety of mystic equipment. He also sells theMagic capefor 99,000 coins to players with level 99 Magic.
+
+Item | Numberin stock | Restocktime | Pricesold at | Pricebought at | GEprice
+
+ | Mystic hat | 1000 | 1m  (100t) | 15,000 | 9,000 | 16,663
+
+ | Mystic robe top | 1000 | 1m  (100t) | 120,000 | 72,000 | 70,859
+
+ | Mystic robe bottom | 1000 | 1m  (100t) | 80,000 | 48,000 | 47,046
+
+ | Mystic gloves | 1000 | 1m  (100t) | 10,000 | 6,000 | 5,308
+
+ | Mystic boots | 1000 | 1m  (100t) | 10,000 | 6,000 | 5,654
+
+Wizard Akuthasells allrunesexceptcosmic runes,astral runes,combination runesand wrath runes.
+
+The player must completeThe Hand in the Sandto access the store.
+
+Item | Numberin stock | Restocktime | Pricesold at | Pricebought at | GEprice
+
+ | Air rune | 5000 | 6s (10t) | 4 | 2 | 5
+
+ | Water rune | 5000 | 6s (10t) | 4 | 2 | 5
+
+ | Earth rune | 5000 | 6s (10t) | 4 | 2 | 5
+
+ | Fire rune | 5000 | 6s (10t) | 4 | 2 | 5
+
+ | Mind rune | 5000 | 6s (10t) | 3 | 1 | 3
+
+ | Body rune | 5000 | 6s (10t) | 3 | 1 | 5
+
+ | Chaos rune | 250 | 6s (10t) | 90 | 54 | 104
+
+ | Nature rune | 250 | 18s (30t) | 180 | 108 | 115
+
+ | Death rune | 250 | 9s (15t) | 180 | 108 | 161
+
+ | Law rune | 250 | 18s (30t) | 240 | 144 | 132
+
+ | Blood rune | 250 | 18s (30t) | 400 | 240 | 320
+
+ | Soul rune | 250 | 6s (10t) | 300 | 180 | 190
+
+ | Fire rune pack | 80 | 6s (10t) | 430 | 258 | Not sold
+
+ | Water rune pack | 80 | 6s (10t) | 430 | 258 | Not sold
+
+ | Air rune pack | 80 | 6s (10t) | 430 | 258 | Not sold
+
+ | Earth rune pack | 80 | 6s (10t) | 430 | 258 | Not sold
+
+ | Mind rune pack | 40 | 6s (10t) | 330 | 198 | Not sold
+
+ | Chaos rune pack | 35 | 6s (10t) | 9,950 | 5,970 | Not sold
+
+ | Battlestaff | 5 | 54s (90t) | 7,000 | 4,200 | 8,189
+
+ | Staff of fire | 2 | 10m  (1,000t) | 1,500 | 900 | 1,248
+
+ | Staff of water | 2 | 10m  (1,000t) | 1,500 | 900 | 1,543
+
+ | Staff of air | 2 | 10m  (1,000t) | 1,500 | 900 | 1,990
+
+ | Staff of earth | 2 | 10m  (1,000t) | 1,500 | 900 | 743
+
+Second floorThird floor[edit|edit source]
+
+The2ndfloor[UK]3rdfloor[US]contains three magical portals.
+
+Theeast portalteleports to theWizards' Tower(south ofDraynor Village).Thesouth portalteleports to theDark Wizards' Tower(west ofFalador).Thewest portalteleports toThormac'sSorcerer's Tower(south ofSeers' Village).
+
+The portals are one-way teleportation devices. There are no portals at the destinations to return players to the Wizards' Guild.
+
+3 attackableWizardscan also be found here.
+
+Basement[edit|edit source]
+
+8 level 24Zombiesin a locked cage. It may be a useful training spot, but you will have to usetelekinetic grabto pick up anything that they drop.Wizard Frumscone- The creator of the "magic zombies." He gives you permission to kill the zombies, and is also involved in theSwan Songquest.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+18 February2025(update) | The portals on the2ndfloor[UK]3rdfloor[US]of the Wizards' Guild are now more descriptive about their purpose and have had their non-functional options removed.
+
+v•t•eWizards' Guild
+
+Inhabitants | Professor ImblewynWizard AkuthaWizard DistentorWizard FrumsconeWizard SininaZavistic RarveMonstersWizardZombie |  | Professor ImblewynWizard AkuthaWizard DistentorWizard FrumsconeWizard SininaZavistic Rarve | Monsters | WizardZombie
+
+ | Professor ImblewynWizard AkuthaWizard DistentorWizard FrumsconeWizard SininaZavistic Rarve
+
+Monsters | WizardZombie
+
+Shops | Magic Guild Store (Mystic Robes)Magic Guild Store (Runes and Staves)
+
+Features | Dark Wizards' Tower PortalSorcerer's Tower PortalWizards' Tower Portal
+
+Related | Mystic hatMystic robe topMystic robe bottomMystic glovesMystic boots
+
+v•t•eGuilds
+
+Free-to-play | Champions'CookingCraftingMining
+
+Members | FarmingFishingHeroes'HunterLegends'Myths'RangingWarriors'Wizards'Woodcutting
+
+v•t•eYanille
+
+Inhabitants | AleckBartenderBertColonel RadickDominic OnionFrenitaGuard CaptainLeonSelenaSithik IntsSoldierTrampWizards' GuildProfessor ImblewynWizard AkuthaWizard DistentorWizard FrumsconeWizard SininaZavistic RarveWatchtowerTower guardWatchmanWatchtower WizardWizardYanille Agility dungeonSigbert the AdventurerSalarin the twisted |  | AleckBartenderBertColonel RadickDominic OnionFrenitaGuard CaptainLeonSelenaSithik IntsSoldierTramp | Wizards' Guild | Professor ImblewynWizard AkuthaWizard DistentorWizard FrumsconeWizard SininaZavistic Rarve | Watchtower | Tower guardWatchmanWatchtower WizardWizard | Yanille Agility dungeon | Sigbert the AdventurerSalarin the twisted
+
+ | AleckBartenderBertColonel RadickDominic OnionFrenitaGuard CaptainLeonSelenaSithik IntsSoldierTramp
+
+Wizards' Guild | Professor ImblewynWizard AkuthaWizard DistentorWizard FrumsconeWizard SininaZavistic Rarve
+
+Watchtower | Tower guardWatchmanWatchtower WizardWizard
+
+Yanille Agility dungeon | Sigbert the AdventurerSalarin the twisted
+
+Shops | Aleck's Hunter Emporium.Frenita's Cookery Shop.Leon's Prototype Crossbow.Magic Guild Store (Mystic Robes)Magic Guild Store (Runes and Staves)
+
+Features | Dragon InnNightmare ZoneHouse portalSand pitWatchtowerWizards' GuildYanille Agility dungeonYanille bank

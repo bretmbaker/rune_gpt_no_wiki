@@ -1,0 +1,60 @@
+[Weapon: Bronze Thrownaxe]
+
+
+Thebronze thrownaxeis aRangedthrowing weapon. There are no requirements to wield a bronze throwing axe. They can be obtained either by buying from theTribal Weapons storeat theRanging Guildor trading with another player. The bronze throwing axe can be wielded with ashieldorprayer bookfor protection.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A finely balanced throwing axe.
+General Store Value: 3 coins
+High alch: 1 coin
+Low alch: 1 coin
+Weight: 0 kg
+Grand Exchange Value: 16 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 301
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +4
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +5
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 5 ticks (3.0s) | 4 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 4 ticks (2.4s) | 4 tiles |  | None
+ | Longrange | Light | Longrange | 5 ticks (3.0s) | 6 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Zombie (Tarn's Lair)Medium level | 61–80 | 1 | 3/128 | 

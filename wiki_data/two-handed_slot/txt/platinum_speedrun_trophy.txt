@@ -1,0 +1,54 @@
+[Weapon: Platinum Speedrun Trophy]
+
+
+Theplatinum speedrun trophyis an item that can be claimed fromElizaby beating the platinum speedrun time for all availablequestsin theQuest Speedrunninggame mode. When equipped, the trophy can be right-clicked to perform the Trophy Emote.
+Should a new quest be released for speedrunning, the trophy will be unequipped and the player cannot equip it until the new quest is completed. If the player's inventory is full, the trophy will be banked instead. If the player's inventory and bank are full, the trophy will be destroyed, with the chatbox message appearing upon logging in: "Some new quests have been made available on Speedrunning Worlds. As such, the Speedrun Trophy you had equipped has been destroyed. You can obtain another from Eliza in Varrock Square."
+
+
+[Infobox]
+Released: 12 October2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Worn options: Trophy Emote
+Destroy: You can obtain another from Eliza in Varrock Square.
+Examine: A platinum trophy to show your speedrunning prowess.
+General Store Value: 50 coins
+Alchemy: Not alchemisable
+Weight: 1.5 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -50
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

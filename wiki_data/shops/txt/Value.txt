@@ -1,0 +1,21 @@
+[Shop: Value]
+
+EveryiteminOld School RuneScapehas a staticvalueincoinspredetermined byJagex. Value is used to determine how much an item is worth toNon-player charactersand to the game. Value is used in the following features in the game:
+
+Actions that Turn Items to Coins[edit|edit source]
+
+Spells[edit|edit source]
+
+High Level Alchemy- Givescoinsequal to⌊0.6×Value⌋of the itemHigh Level Alchemywas cast on.Low Level Alchemy- Givescoinsequal to⌊0.4×Value⌋of the itemLow Level Alchemywas cast on.
+
+Store Prices[edit|edit source]
+
+General stores- These stores buy items starting atLow Level Alchemyamount (⌊0.4×Value⌋), with some notable exceptions, and then depreciates the amount ofcoinsgiven with every subsequent purchase.Martin Thwait's Lost and Found- This store buys items starting atHigh Level Alchemyamount (⌊0.6×Value⌋) and then depreciates the amount ofcoinsgiven with every subsequent purchase.Bandit Duty Free- This store buys items starting atHigh Level Alchemyamount (⌊0.6×Value⌋) and then depreciates the amount ofcoinsgiven with every subsequent purchase.West Ardougne General Store- This store buys items starting at⌊0.55×Value⌋and then depreciates the amount ofcoinsgiven with every subsequent purchase.Jiminua's Jungle Store- This store buys items starting atLow Level Alchemyamount, or⌊0.55×Value⌋whileKaramja Gloves 3or4are worn, and then depreciates the amount ofcoinsgiven with every subsequent purchase.Obli's General Store- This store buys items starting atLow Level Alchemyamount, orHigh Level Alchemyamount (⌊0.6×Value⌋) whileKaramja Gloves 1or higher are worn, and then depreciates the amount ofcoinsgiven with every subsequent purchase.Specialty stores- Every specialty store has their own starting price to offer for items they stock. Prices are based on value and are typically around High Alchemy value.Overstocked stores- A store will offer less money to buy items, the higher the current stock of that item in the store is. Whenever a store's stock is high enough that the price of an item has depreciated down to a value of⌊0.1×Value⌋, the item's price will not depreciate any further. This means items will always be bought by stores that accept the item for at least a tenth of the item's value, rounded down.
+
+Miscellaneous[edit|edit source]
+
+Items Kept on DeathValue- Nearly alluntradeable itemsuse their value as their Items Kept on Death Value. However, there are some exceptions to this rule. One example isVesta's blighted longsword, which has an Items Kept on Death value of 50,000,000 coins (the amount used to make the sword useable) instead of 800,000 coins.
+
+Valuecan also be interpreted as the summation of the High and Low Alchemy coin return of any particular item (0.6 + 0.4 = 1.0), although due to flooring this may be slightly lower than the real value.
+
+ | This article is astub.A stub is an article which does not cover all information available about the topic. You can help byexpandingit.

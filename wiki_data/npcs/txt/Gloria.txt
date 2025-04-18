@@ -1,0 +1,2 @@
+Item: Gloria
+Summary: Gloria is a non-player character that can be found in the Fortis Colosseum. She will inform the player about glory and direct them to the colosseum scoreboard for further details.

@@ -1,0 +1,54 @@
+[Weapon: Shade Robe Top]
+
+
+Shade robe topis a part ofShade robesand is dropped byshades. It provides 2 higherPrayerbonus than apriest gown, but 1 less than amonk's robe top.
+This item can be stored in thefancy dress boxof acostume room, as part of theShade Robesset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 29 March2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: I feel closer to the gods when I am wearing this.
+General Store Value: 40 coins
+High alch: 24 coins
+Low alch: 16 coins
+Weight: 0.907 kg
+Grand Exchange Value: 747 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 151
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Shade(m) | 140; 159 | 1 | 32/128 | 

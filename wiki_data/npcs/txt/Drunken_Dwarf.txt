@@ -1,0 +1,2 @@
+Item: Drunken Dwarf
+Summary: The drunken dwarf is a random event who occasionally appears and talks to players. If the player responds, the dwarf will give them a kebab and a beer. Prior to the random event update, he would throw rocks and damage the player if the player didn't respond.

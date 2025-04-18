@@ -1,0 +1,41 @@
+Name: White Knight
+Combat Level: 36
+Size: 1x1
+Info:
+- Description: The knight seems to be watching something.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4114
+- Link: MOID
+
+Location:
+- Area: East of Heroes' Guild
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 52
+Attack: 27
+Strength: 29
+Defence: 21
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

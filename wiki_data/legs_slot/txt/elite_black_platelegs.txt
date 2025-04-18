@@ -1,0 +1,50 @@
+[Weapon: Elite Black Platelegs]
+
+
+TheElite black platelegsare a piece ofelite black armourobtained duringWhile Guthix Sleeps. It is dropped byElite Black Knightswithin theBlack Knight Catacombs. During the quest, they are a guaranteed drop and can be used with the full set to enter theBlack Knights' Fortress.
+They have the same stats asmithril platelegs(with the prayer bonus of aproselyte cuisse).
+
+
+[Infobox]
+Released: 10 July2024(Update)
+Members: Yes
+Quest item: While Guthix Sleeps
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: These look pretty heavy and very elite.
+General Store Value: 1,500 coins
+Alchemy: Not alchemisable
+Weight: 9.071 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +24
+- Slash: +22
+- Crush: +20
+- Magic: -4
+- Ranged: +22
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +6
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Elite Black Knight | 138 | 1 | Varies | 

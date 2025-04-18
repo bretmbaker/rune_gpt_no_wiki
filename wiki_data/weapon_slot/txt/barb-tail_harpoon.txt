@@ -1,0 +1,67 @@
+[Weapon: Barb-Tail Harpoon]
+
+
+Abarb-tail harpoonis aweaponobtained after successfully trapping abarb-tailed kebbit, which requires 33Hunterto catch. It also can be used as aharpooninFishing. Its ability to be wielded makes it a more convenient option for fishers as it saves oneinventoryspace. It can be stored in atackle box.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A mighty Hunter weapon. One previous owner.
+General Store Value: 36 coins
+High alch: 21 coins
+Low alch: 14 coins
+Weight: 1.36 kg
+Grand Exchange Value: 414 coins
+Grand Exchange Daily Buy Limit: 40
+Grand Exchange Daily Trades Volume: 292
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +9
+- Slash: +4
+- Crush: -4
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Barb-tailed kebbit | 33 | 1 | Always | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Tempoross/Strategies(Solo Cooking (5 Rounds))
+3 | Tempoross/Strategies(Standard)

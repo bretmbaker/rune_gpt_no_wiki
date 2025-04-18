@@ -1,0 +1,87 @@
+[Weapon: Blue Moon Spear]
+
+
+Theblue moon spearis a non-degradable two-handedbladed staffthat requires level 70Attackand 75Magicto equip, which is obtained as a possible reward from theLunar ChestinNeypotzli. It canautocastelemental spells from thestandard spellbook, as well as combat spells from theArceuus spellbookandAncient Magicks. Despite the name, the blue moon spear is abladed staffand isnotconsidered acorpbane weapon.
+The blue moon spear has a special attack,Break Shackles, costing 50% special attack energy and requiring the full blue moon armour set to use.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A magical staff of ancient origin...
+General Store Value: 100,000 coins
+High alch: 60,000 coins
+Low alch: 40,000 coins
+Weight: 3 kg
+Grand Exchange Value: 715,394 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 772
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +70
+- Slash: +62
+- Crush: +62
+- Magic: +30
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +15
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +71
+- Ranged Strength: +0
+- Magic Damage: +5%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Jab | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Swipe | Slash | Aggressive |  | +3 Strength
+ | Fend | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Special Attack]
+A player performing the blue moon spear's special attack,Break Shackles.
+The blue moon spear has a special attack,Break Shackles, costing 50% special attack energy and requiring the full blue moon armour set to use.
+Break Shacklesremoves all active binding effects on a target and has a 1% increase in accuracy and damage for everytickof binding removed.
+When the special attack is used while casting movement impairing attack spells, the next activation of theFrostweavereffect will also trigger the special allowing for a 3-hit combo that starts with the spell cast and ends with the melee hit from theFrostweavereffect.
+While the special attack uses the Fend animation it actually grantsStrengthexperience. When automatically performed, this attack can hit targets across diagonal spaces and over small fences or walls.
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Lunar Chest | N/A | 1 | 1/224 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Dust devil/Strategies(Bursting/Barraging)
+4 | Greater Nechryael/Strategies(Bursting/Barraging)
+4 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+4 | Maniacal monkey/Strategies(Magic - Ice Burst)
+4 | Slayer task/Abyssal demons(Magic)
+4 | Slayer task/Nechryael(Magic)
+3 | Slayer training(Magic (Barrage))
+1 | Smoke devil/Strategies
+4 | The Bane of Demons(Magic)
+4 | Tormented Demon/Strategies(Magic switch)
+3 | Ultimate Ironman Guide/Equipment
+3 | Ultimate Ironman Guide/Slayer

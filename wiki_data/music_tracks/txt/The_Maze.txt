@@ -1,0 +1,85 @@
+[Music Track: The_Maze]
+
+The Maze(#477)
+
+
+
+
+
+
+
+Released | 18 June2007(Update)
+
+Members | No
+
+Location | Melzar's Maze
+
+Unlock hint | This track unlocks during the Dragon Slayer I quest.
+
+Quest | Dragon Slayer I
+
+Instruments | Tubular Bells, Tremolo Strings, Timpani, Choir Aahs, French Horn, Reverse Cymbal, Guitar Fret Noise, Percussion
+
+Duration | 03:35
+
+Composer | Adam Bond
+
+
+
+Map
+
+
+
+The Mazeis amusictrack that is unlocked insideMelzar's Mazeor in theKaramjan Temple.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+2020 | The hint has been changed from 'This track unlocks during the Dragon Slayer quest.' to 'This track unlocks during the Dragon Slayer I quest.'.
+
+1 March2018(update) | Added unlock hint for this track: 'This track unlocks during the Dragon Slayer quest.'
+
+4 January2018(update) | The track was renamed from 'Melzar's Maze' to 'The Maze' and set to play in the Karamjan Temple.
+
+18 June2007(update) | Added to game as "Melzar's Maze" and set to play inside Melzar's Maze, replacing Emperor.
+
+Trivia[edit|edit source]
+
+Until anupdateon28 April2021, while most music tracks are unlocked by simply walking into a specific area, this track manually played upon opening the maze door. It was coded to stop playing and be replaced byEmperorwhen the player left the maze. However, this resulted in a bug whereby teleporting out of the maze would cause Emperor to play at the teleport destination instead of the default track.
+
+v•t•eMusic
+
+Game-related | Music PlayerMusic capeOlaf the Bard
+
+Lists | Music tracks(F2P)Boss musicJinglesRelease datesUnlisted musicUnlock map(Classic•F2P)Sound IDs
+
+Official Soundtracks | RuneScape: Original Soundtrack ClassicsRuneScape: The Orchestral CollectionRuneScape: Song of the ElvesRuneScape: Theatre of BloodRuneScape: DarkmeyerRuneScape: Kebos LowlandsRuneScape: Old School Combat ClassicsOld School RuneScape: Between Two WorldsRuneScape: Battleaxes and BalladsRuneScape: Old School Runebreaks
+
+Musical instruments | BellsChurch organCowbellsCrystal chimeEnchanted lyreOrganPenguin bongosSlayer bellSnake charmWindchimes
+
+Items with sound | BullroarerCommorb(v2)Rubber chickenYo-yo
+
+Emotes with sound | BeckonSkill CapeAir GuitarUri transformRelic unlockTrick
+
+v•t•eDragon Slayer I
+
+NPCs | GuildmasterOziachDuke HoracioNedKlarenseOracleWormbrainCabin boy JenkinsElvargCrandor WizardsMelzarLozarThalzarMelzar's MazeGhostLesser demonSkeletonZombieZombie rat |  | GuildmasterOziachDuke HoracioNedKlarenseOracleWormbrainCabin boy JenkinsElvarg | Crandor Wizards | MelzarLozarThalzar | Melzar's Maze | GhostLesser demonSkeletonZombieZombie rat
+
+ | GuildmasterOziachDuke HoracioNedKlarenseOracleWormbrainCabin boy JenkinsElvarg
+
+Crandor Wizards | MelzarLozarThalzar
+
+Melzar's Maze | GhostLesser demonSkeletonZombieZombie rat
+
+Items | Map part (Melzar)Map part (Thalzar)Map part (Lozar)Crandor mapAnti-dragon shieldElvarg's headKeysMazeRedOrangeYellowBlueMagentaGreen |  | Map part (Melzar)Map part (Thalzar)Map part (Lozar)Crandor mapAnti-dragon shieldElvarg's head | Keys | MazeRedOrangeYellowBlueMagentaGreen
+
+ | Map part (Melzar)Map part (Thalzar)Map part (Lozar)Crandor mapAnti-dragon shieldElvarg's head
+
+Keys | MazeRedOrangeYellowBlueMagentaGreen
+
+Locations | Champions' GuildMelzar's MazeCrandorCrandor and Karamja Dungeon
+
+Music | Attack 2The MazeDangerous RoadEye of the StormThe Shadow
+
+Related | Quick guide(speedrunning)TranscriptLady Lumbridge

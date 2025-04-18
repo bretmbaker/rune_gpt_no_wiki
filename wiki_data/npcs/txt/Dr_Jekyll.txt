@@ -1,0 +1,2 @@
+Item: Dr Jekyll
+Summary: Dr Jekyll, previously Jekyll and Hyde, is a random event NPC that appears and urgently asks the player for help making a potion. If talked to, he requests a cleaned herb of the player. If the player has a herb in their inventory, he will take it and give them a potion, but if the player has no herbs he will give the player a Strength potion(2) before disappearing. If the player has multiple herbs, Dr Jekyll will request the highest level herb.[1]

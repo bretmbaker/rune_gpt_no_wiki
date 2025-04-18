@@ -1,0 +1,147 @@
+[Spell: Low_Level_Alchemy]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+Low Level Alchemy
+
+
+
+
+
+
+
+Released | 24 May2001(Update)
+
+Members | No
+
+Level | 21
+
+Spellbook | Standard
+
+Type | Utility
+
+Experience | 31
+
+Runes | 31
+
+Casting speed | 3 ticks (5 ticks in the Alchemist's Playground)
+
+Description | Converts an item into gold
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Low Level Alchemy(also known aslow alchorLA) is autility spellavailable in the standard spellbook. It requires level 21Magicto cast, and grants 31 Magicexperienceper cast.
+
+Casting Low Level Alchemy on an item in the player's inventory will convert that item into a number ofcoinsequal to 40% of the item'svalue(not the item'sGrand Exchangeprice).
+
+Players with level 55 Magic are generally recommended to useHigh Level Alchemyinstead, as it provides more coins and experience per cast than Low Level Alchemy. However, there are situations where Low Level Alchemy can be more effective (see below).
+
+While in theAlchemist's PlaygroundofMage Training Arena, Low Level Alchemy requires 5 game ticks to cast, rather than the usual three.
+
+Casting Low Level Alchemy at theFountain of Runeis a requirement for theeasy Wilderness Diary.
+
+Cost[edit|edit source]
+
+TheExplorer's ring 1can be used to cast Low Level Alchemy up to 30 times per day without requiring any runes; however, no experience is granted.
+
+It is possible to cast this spell at the Fountain of Rune, requiring no runes, resulting in greater profit, however no experience is granted. Like most activities in theWilderness, this is attempted at one's own risk.
+
+Input | Cost
+
+31 | 130
+
+Combo runes
+
+13 | 196
+
+13 | 277
+
+13 | 415
+
+Main-hands
+
+1Alt | 115
+
+30.93 | 121
+
+Main and off-hands
+
+1 | 115
+
+0.93 | 107
+
+Comparison with High Level Alchemy[edit|edit source]
+
+Available at level 55 Magic, High Level Alchemy has a similar rune cost to Low Level Alchemy but provides 50% more coins and over twice as much Magic experience per cast. However, High Level Alchemy requires five game ticks to cast (up to 1,200 casts per hour) compared to Low Level Alchemy's three game ticks (up to 2,000 casts per hour).
+
+Players wishing to train Magic via alchemy should use High Level Alchemy once they have access to it, since the increased experience per cast outweighs the slower casting speed. Similarly, players who just want to convert some of their items into gold (such as excessRune armourdrops frommonsters) should use High Level Alchemy due to its increased coin yield per item.
+
+Players wishing to quickly convert a large amount of items into coins may want to consider using Low Level Alchemy, as it can convert more items into gold per hour than High Level Alchemy, although the gold obtained per item is lower. However, Low Level Alchemy also uses moreNature runesper hour than High Level Alchemy, so players should consider the cost of Nature runes when deciding which spell to use.
+
+Animation override[edit|edit source]
+
+Ananimation overrideis available for Low Level Alchemy, unlockable via theTrailblazer reloaded alchemy scroll. Players can apply and revert the animation override at any time via the "Animation" menu option on the spell's icon.
+
+Alchemy-restricted zones[edit|edit source]
+
+Changes[edit|edit source]
+
+Date | Changes
+
+4 January2018(update) | An optional extra warning can be enabled for alching untradeable items. Right-click the alchemy spells in the spellbook if you wish to enable this.
+
+21 April2016(update) | It is now possible to use the alchemy spells whilst in most instances.
+
+23 April2015(update|poll) | Warnings when trying to use alchemy spells on valuable items will now appear based on the Grand Exchange value of items rather than the alchemy value.
+
+5 March2015(update|poll) | You can now cast Low Level Alchemy 30 times per day (no rune cost, no experience) with theExplorer's ring 1.
+
+16 May2013(update) | The alchemy spells will no longer try to run on sliding puzzle pieces.
+
+11 April2013(update) | For the benefit of players with certain medical conditions, we have toned down the flashing effects in the Killerwatts' realm and for alchemy animations.
+
+11 April2013(update|poll) | If you cast a second alchemy spell before your last one finishes, it's now queued up.
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

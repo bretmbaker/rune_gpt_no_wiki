@@ -1,0 +1,68 @@
+[Weapon: Red Chinchompa]
+
+
+Red chinchompasare one-handed multi-target stackableRanged weaponsrequiring level 55Rangedto wield. Red chinchompas can be obtained bybox trappingcarnivorous chinchompasin theFeldip Hunter area. This requires 63Hunterand completion of theEagles' Peakquest, and will give the player 265 Hunter experience per catch. They can also be caught in theRed chinchompa hunting groundafter completing the hardWestern Provinces Diary. They can be teleported to by using thefairy ringcodeAKSnear theFeldip Hillshunter area.
+After completing theSong of the Elvesquest, it is also possible to catch red chinchompas at theGwenith Hunter areanorth-east ofPrifddinas.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Release
+Examine: Even more volatile than its vegetarian counterpart.
+General Store Value: 160 coins
+High alch: 96 coins
+Low alch: 64 coins
+Weight: 0 kg
+Grand Exchange Value: 1,645 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 3,777,881
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +70
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +15
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Short fuse | Heavy | Short fuse | 4 ticks (2.4s) | 9 tiles |  | +3 Ranged
+ | Medium fuse | Heavy | Medium fuse | 3 ticks (1.8s) | 9 tiles |  | None
+ | Long fuse | Heavy | Long fuse | 4 ticks (2.4s) | 10 tiles |  | None
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Carnivorous chinchompa | 63 | 1 | Always | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Kree'arra/Strategies(Chinchompas)
+2 | Maniacal monkey/Strategies(Ranged)
+2 | Skeleton (Ape Atoll)(Ranged)

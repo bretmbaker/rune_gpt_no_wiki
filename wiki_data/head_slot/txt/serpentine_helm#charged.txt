@@ -1,0 +1,131 @@
+[Weapon: Serpentine Helm#Charged]
+
+
+Theserpentine helmis a degradable helmet made at level 52Craftingby using a chisel on aserpentine visage, giving the player 120 Crafting experience. The helmet requires 75Defenceto wear. Its defensive bonuses are comparable to those of theBarrows helmets, without theprayer bonusthatVerac's helmoffers. It has the third higheststrength bonusof all helmets, although its high cost of use makes other helmets more convenient for general training.
+If a player dies with the helmet inPvPand it is not protected, any scales that were used to charge it will appear on the floor along with the uncharged helmet.
+
+
+[Infobox]
+Released: 8 January2015(Update)
+Also called: Serp, Serp helm
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Dismantle, Drop
+Worn options: None(?)
+Destroy: N/A
+Examine: Needs to be charged with Zulrah's scales.
+General Store Value: 110,000 coins
+High alch: 66,000 coins
+Low alch: 44,000 coins
+Weight: 0.9 kg
+Grand Exchange Value: 5,070,360 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 1,724
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -5
+- Ranged: -5
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Adamant dragon/Strategies(Melee)
+4 | Adamant dragon/Strategies(Magic)
+3 | Ancient Wyvern/Strategies(Prayer)
+4 | Ancient Wyvern/Strategies(Melee)
+2 | Araxxor/Strategies(Melee)
+3 | Basilisk Knight/Strategies(Melee)
+2 | Calvar'ion/Strategies(Melee)
+3 | Chambers of Xeric/Challenge Mode(Melee)
+3 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+3 | Chambers of Xeric/Strategies(Melee)
+3 | Chompington(Melee)
+3 | Corporeal Beast/Strategies(Solo melee)
+3 | Corporeal Beast/Strategies(Fewer stat drains)
+3 | Corporeal Beast/Strategies(Solo melee)
+2 | Corporeal Beast/Strategies(Melee masses)
+2 | Corporeal Beast/Strategies(Team melee)
+2 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+3 | Dagannoth Kings/Strategies(Magic (Rex only))
+3 | Dark beast/Strategies(Melee)
+3 | Demonic gorilla/Strategies(upgrades and downgrades)
+3 | Down Do Specs(Melee)
+1 | Duke Sucellus/Strategies(Melee)
+3 | Fortis Colosseum/Strategies(Ranged)
+3 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Budget)
+2 | Fortis Colosseum/Strategies(Melee)
+3 | General Graardor/Strategies(Solo (Melee))
+4 | General Graardor/Strategies(Advanced Tank)
+3 | General Graardor/Strategies(Melee Attacker)
+4 | Giant Mole/Strategies(Melee)
+1 | Gout tuber/Strategies(Tank)
+2 | Hallowed Sepulchre/Strategies(Agility)
+1 | Hunter training(Staff of the dead)
+1 | Hunter training(Dinh's bulwark)
+3 | K'ril Tsutsaroth/Strategies(Melee Tank)
+3 | K'ril Tsutsaroth/Strategies(Solo Melee)
+3 | K'ril Tsutsaroth/Strategies(Melee)
+4 | Kalphite Queen/Strategies(High DPS (Phase One))
+2 | King Black Dragon/Strategies(Melee BIS smuggle)
+4 | Mithril dragon/Strategies(Melee)
+2 | Moons of Peril/Strategies(Moons of Peril Armour)
+3 | Nex/Strategies(Hybrid)
+4 | Nightmare Zone/Strategies(Melee (Dharok's))
+4 | The Nightmare/Strategies(Melee)
+1 | Pay-to-play Prayer training(High Magic defence)
+1 | Pay-to-play Prayer training(Dinh's bulwark)
+3 | Phantom Muspah/Strategies(Melee)
+4 | Phosani's Nightmare/Strategies(Melee)
+1 | Revenants/Strategies(Melee)
+4 | Royal Titans/Strategies(Best-in-slot)
+4 | Rune dragon/Strategies(Melee)
+4 | Sarachnis/Strategies(Melee)
+3 | Scurrius/Strategies(Melee (high level))
+3 | Skeletal Wyvern/Strategies(Melee)
+3 | Skotizo/Strategies(Melee)
+4 | Slayer task/Fossil Island wyverns(Melee)
+3 | Slayer task/Fossil Island wyverns(Prayer)
+4 | Slayer task/Gargoyles(Melee)
+4 | Slayer task/Jellies(Melee)
+1 | Sulliuscep/Strategies
+2 | Sulliuscep/Strategies
+3 | The Hueycoatl/Strategies(Melee)
+2 | Theatre of Blood/Hard Mode(Melee)
+2 | Theatre of Blood/Strategies(Melee)
+3 | Tombs of Amascut/Strategies(Melee switch)
+2 | Tormented Demon/Strategies(Melee switch)
+3 | TzHaar Fight Cave/Strategies(Melee)
+3 | TzHaar-Ket-Rak's Speed-Trialist(Melee Attacker)
+3 | Ultimate Ironman Guide/Equipment
+3 | Vardorvis/Strategies(Melee)
+2 | Vet'ion/Strategies(Melee)
+2 | Vorkath/Strategies(Melee)
+4 | Vorkath/Strategies(Ranged (crossbow))
+3 | Zulrah/Strategies(Ranged)
+3 | Zulrah/Strategies(Magic)

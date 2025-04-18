@@ -1,0 +1,2 @@
+Item: Coal (Blast Furnace)
+Summary: Coal is an entity seen at the Blast Furnace. It appears on the conveyor belt when a player deposits some Coal, before being dropped into the furnace.

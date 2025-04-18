@@ -1,0 +1,2 @@
+Item: Master Farmer
+Summary: Master Farmers are adept farmers that can be pickpocketed to receive a variety of seeds. Level 38 Thieving is required to pickpocket them. Successful pickpockets can result in most types of seeds, excluding tree seeds and fruit tree seeds. 43 Thieving experience is granted upon successfully pickpocketing a Master Farmer. Failing to pickpocket a Master Farmer results in being stunned for five seconds and taking three hitpoints of damage. If the player's inventory is full, they will be unable to pickpocket them.

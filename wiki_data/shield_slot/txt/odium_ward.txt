@@ -1,0 +1,88 @@
+[Weapon: Odium Ward]
+
+
+Anodium wardis aRangedshield requiring 60Defenceto wield. It provides the third best Ranged Attack and Ranged Strength bonus in theshield slot, succeeded by thedragonfire wardand thetwisted buckler. It is created at theVolcanic Forgein theWildernesswith anodium shard 1,odium shard 2, andodium shard 3, dropped by theChaos Fanatic,Crazy archaeologist, andScorpia, respectively.
+Theward upgrade kit, purchased fromJustine's stuff for the Last Shopper Standing, cosmetically enhances the odium ward, creating anodium ward (or). This only alters its appearance and makes it untradeable. This can be reverted but the kitwill notbe returned.
+
+
+[Infobox]
+Released: 13 March2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: An ancient, evil shield forged by Volcanic heat.
+General Store Value: 45,000 coins
+High alch: 27,000 coins
+Low alch: 18,000 coins
+Weight: 3.628 kg
+Grand Exchange Value: 3,979,934 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 642
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -12
+- Slash: -12
+- Crush: -12
+- Magic: -8
+- Ranged: +12
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +24
+- Ranged: +52
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +4
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Alchemical Hydra/Strategies(Ranged)
+3 | Artio/Strategies(Ranged)
+3 | Aviansie/Strategies(Ranged)
+3 | Brutal black dragon/Strategies(Ranged)
+3 | Callisto/Strategies(Ranged)
+3 | Chambers of Xeric/Strategies(Ranged)
+3 | Commander Zilyana/Strategies(Ranged)
+3 | Corporeal Beast/Strategies(Ranged masses)
+2 | Dagannoth Kings/Strategies(Range)
+4 | Demonic gorilla/Strategies(upgrades and downgrades)
+3 | Drake/Strategies(Ranged)
+3 | General Graardor/Strategies(Solo (Ranged 6:0))
+3 | General Graardor/Strategies(Ranged Attacker)
+3 | Grotesque Guardians/Strategies(Ranged switches)
+3 | Kalphite Queen/Strategies(High DPS (Phase Two))
+5 | Kree'arra/Strategies(Ranged Tank)
+3 | The Leviathan/Strategies(Ranged)
+3 | Maniacal monkey/Strategies(Ranged)
+3 | The Mimic/Strategies(Ranged)
+3 | Nex/Strategies(Ranged)
+3 | Nightmare Zone/Strategies(Ranged)
+4 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+3 | Phantom Muspah/Strategies(Ranged)
+3 | Scurrius/Strategies(Range (high level))
+3 | Skeletal Wyvern/Strategies(Ranged (Void))
+3 | Skeletal Wyvern/Strategies(Ranged)
+5 | Skeleton (Ape Atoll)(Ranged)
+3 | Skotizo/Strategies(Ranged)
+3 | Slayer task/Wyrms(Ranged)
+2 | Spindel/Strategies(Ranged)
+3 | Theatre of Blood/Strategies(Range)
+3 | Tombs of Amascut/Strategies(Ranged switch)
+3 | Tormented Demon/Strategies(Ranged switch)
+3 | TzHaar Fight Cave/Strategies(Ranged)
+2 | Venenatis/Strategies(Ranged)

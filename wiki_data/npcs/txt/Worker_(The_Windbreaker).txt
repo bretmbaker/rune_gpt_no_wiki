@@ -1,0 +1,2 @@
+Item: Worker (The Windbreaker)
+Summary: A Dwarven worker can be found in The Windbreaker, in Quetzacalli Gorge. He is there on a break from dealing with The Hueycoatl, and will tell players to go help out when talked to. Players who have already been in an encounter with the Hueycoatl will say they have already helped out, even if they just hopped in and out of an encounter immediately.

@@ -1,0 +1,41 @@
+Name: Jal-Zek
+Combat Level: 490
+Size: 4x4
+Info:
+- Description: Goodness, gracious, great balls of fire!
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 220 xp
+- Category: TzHaar
+
+Immunities:
+- Poison: Not immune
+- Venom: Immune
+- Burn: Immune to normal burns
+- Monster ID: 7699,7703
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 220
+Attack: 370
+Strength: 510
+Defence: 260
+Magic: 300
+Ranged: 510
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

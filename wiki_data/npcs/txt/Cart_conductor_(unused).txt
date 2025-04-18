@@ -1,0 +1,2 @@
+Item: Cart conductor (unused)
+Summary: Cart conductor is an unused variant of a cart conductor. The unused cart conductor looks identical to the White Wolf Mountain version, but does not have any interaction options. The examine text of the unused variant matches the original examine text of the White Wolf Mountain version upon its release in 2005, but the examine for the used version was later updated to change "minecarts" into two words.

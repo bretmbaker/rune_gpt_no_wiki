@@ -1,0 +1,3594 @@
+[Aberrant Spectre]
+Difficulty: Noxious Foe
+Boss: Kill an Aberrant Spectre.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Barrows]
+Difficulty: Barrows Novice
+Boss: Open the Barrows chest 10 times.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Barrows]
+Difficulty: Defence? What Defence?
+Boss: Kill any Barrows Brother using only magical damage.
+Description: Restriction
+Notes: Easy (1 pt)
+
+[Black Dragon]
+Difficulty: Big, Black and Fiery
+Boss: Kill a Black Dragon.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Bloodveld]
+Difficulty: The Demonic Punching Bag
+Boss: Kill a Bloodveld.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Bryophyta]
+Difficulty: A Slow Death
+Boss: Kill Bryophyta with either poison or venom being the final source of damage.
+Description: Restriction
+Notes: Easy (1 pt)
+
+[Bryophyta]
+Difficulty: Preparation Is Key
+Boss: Kill Bryophyta without suffering any poison damage.
+Description: Perfection
+Notes: Easy (1 pt)
+
+[Bryophyta]
+Difficulty: Protection from Moss
+Boss: Kill Bryophyta with the Protect from Magic prayer active.
+Description: Mechanical
+Notes: Easy (1 pt)
+
+[Bryophyta]
+Difficulty: Fighting as Intended II
+Boss: Kill Bryophyta on a free to play world.
+Description: Restriction
+Notes: Easy (1 pt)
+
+[Bryophyta]
+Difficulty: Bryophyta Novice
+Boss: Kill Bryophyta once.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Deranged Archaeologist]
+Difficulty: Deranged Archaeologist Novice
+Boss: Kill the Deranged Archaeologist 10 times.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Fire Giant]
+Difficulty: The Walking Volcano
+Boss: Kill a Fire Giant.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Giant Mole]
+Difficulty: Giant Mole Novice
+Boss: Kill the Giant Mole 10 times.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Greater Demon]
+Difficulty: Not So Great After All
+Boss: Finish off a Greater Demon with a demonbane weapon.
+Description: Restriction
+Notes: Easy (1 pt)
+
+[Greater Demon]
+Difficulty: A Greater Foe
+Boss: Kill a Greater Demon.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Hellhound]
+Difficulty: A Demon's Best Friend
+Boss: Kill a Hellhound.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[King Black Dragon]
+Difficulty: King Black Dragon Novice
+Boss: Kill the King Black Dragon 10 times.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Lizardman Shaman]
+Difficulty: A Scaley Encounter
+Boss: Kill a Lizardman Shaman.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Lizardman Shaman]
+Difficulty: Shayzien Protector
+Boss: Kill a Lizardman Shaman in Molch which has not dealt damage to anyone. (excluding its Spawns)
+Description: Perfection
+Notes: Easy (1 pt)
+
+[N/A]
+Difficulty: Into the Den of Giants
+Boss: Kill a Hill Giant, Moss Giant and Fire Giant in the Giant Cave within the Shayzien region.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Obor]
+Difficulty: Fighting as Intended
+Boss: Kill Obor on a free to play world.
+Description: Restriction
+Notes: Easy (1 pt)
+
+[Obor]
+Difficulty: Obor Novice
+Boss: Kill Obor once.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Obor]
+Difficulty: Sleeping Giant
+Boss: Kill Obor whilst he is immobilized.
+Description: Mechanical
+Notes: Easy (1 pt)
+
+[Royal Titans]
+Difficulty: One by one
+Boss: Kill one Titan at a time, without attacking the other.
+Description: Restriction
+Notes: Easy (1 pt)
+
+[Royal Titans]
+Difficulty: Let them fight
+Boss: Kill the Royal Titans while having the Royal Titans kill a total of 10 elementals.
+Description: Restriction
+Notes: Easy (1 pt)
+
+[Royal Titans]
+Difficulty: Elemental Company
+Boss: Kill the Royal Titans without attacking any elementals.
+Description: Restriction
+Notes: Easy (1 pt)
+
+[Sarachnis]
+Difficulty: Sarachnis Novice
+Boss: Kill Sarachnis 10 times.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Scurrius]
+Difficulty: Sit Rat
+Boss: Finish off Scurrius with a ratbane weapon in a private instance.
+Description: Restriction
+Notes: Easy (1 pt)
+
+[Scurrius]
+Difficulty: Scurrius Novice
+Boss: Kill Scurrius once.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Tempoross]
+Difficulty: Master of Buckets
+Boss: Extinguish at least 5 fires during a single Tempoross fight.
+Description: Mechanical
+Notes: Easy (1 pt)
+
+[Tempoross]
+Difficulty: Fire in the Hole!
+Boss: Attack Tempoross from both sides by loading both cannons on both ships.
+Description: Mechanical
+Notes: Easy (1 pt)
+
+[Tempoross]
+Difficulty: Tempoross Novice
+Boss: Subdue Tempoross 5 times.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Tempoross]
+Difficulty: Calm Before the Storm
+Boss: Repair either a mast or a totem pole.
+Description: Mechanical
+Notes: Easy (1 pt)
+
+[Wintertodt]
+Difficulty: Handyman
+Boss: Repair a brazier which has been destroyed by the Wintertodt.
+Description: Mechanical
+Notes: Easy (1 pt)
+
+[Wintertodt]
+Difficulty: Cosy
+Boss: Subdue the Wintertodt with four pieces of warm equipment equipped.
+Description: Restriction
+Notes: Easy (1 pt)
+
+[Wintertodt]
+Difficulty: Mummy!
+Boss: Heal a pyromancer after they have fallen.
+Description: Mechanical
+Notes: Easy (1 pt)
+
+[Wintertodt]
+Difficulty: Wintertodt Novice
+Boss: Subdue the Wintertodt 5 times.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Wyrm]
+Difficulty: A Slithery Encounter
+Boss: Kill a Wyrm.
+Description: Kill Count
+Notes: Easy (1 pt)
+
+[Amoxliatl]
+Difficulty: Temotli Triumph
+Boss: Kill Amoxliatl using only glacial temotli as a weapon.
+Description: Restriction
+Notes: Medium (2 pts)
+
+[Amoxliatl]
+Difficulty: Amoxliatl Champion
+Boss: Kill Amoxliatl once.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Barrows]
+Difficulty: Barrows Champion
+Boss: Open the Barrows chest 25 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Barrows]
+Difficulty: Pray for Success
+Boss: Kill all six Barrows Brothers and loot the Barrows chest without taking any damage from any of the brothers.
+Description: Perfection
+Notes: Medium (2 pts)
+
+[Barrows]
+Difficulty: Can't Touch Me
+Boss: Kill Dharok, Verac, Torag and Guthan without letting them attack you with melee.
+Description: Mechanical
+Notes: Medium (2 pts)
+
+[Brutal Black Dragon]
+Difficulty: Brutal, Big, Black and Firey
+Boss: Kill a Brutal Black Dragon.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Bryophyta]
+Difficulty: Bryophyta Champion
+Boss: Kill Bryophyta 5 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Bryophyta]
+Difficulty: Quick Cutter
+Boss: Kill all 3 of Bryophyta's growthlings within 3 seconds of the first one dying.
+Description: Mechanical
+Notes: Medium (2 pts)
+
+[Chaos Fanatic]
+Difficulty: Chaos Fanatic Champion
+Boss: Kill the Chaos Fanatic 10 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Chaos Fanatic]
+Difficulty: Sorry, What Was That?
+Boss: Kill the Chaos Fanatic without anyone being hit by his explosion attack.
+Description: Perfection
+Notes: Medium (2 pts)
+
+[Crazy Archaeologist]
+Difficulty: Mage of the Ruins
+Boss: Kill the Crazy Archaeologist with only magical attacks.
+Description: Mechanical
+Notes: Medium (2 pts)
+
+[Crazy Archaeologist]
+Difficulty: I'd Rather Not Learn
+Boss: Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.
+Description: Perfection
+Notes: Medium (2 pts)
+
+[Crazy Archaeologist]
+Difficulty: Crazy Archaeologist Champion
+Boss: Kill the Crazy Archaeologist 10 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Dagannoth Prime]
+Difficulty: Dagannoth Prime Champion
+Boss: Kill Dagannoth Prime 10 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Dagannoth Rex]
+Difficulty: A Frozen King
+Boss: Kill Dagannoth Rex whilst he is immobilized.
+Description: Mechanical
+Notes: Medium (2 pts)
+
+[Dagannoth Rex]
+Difficulty: Dagannoth Rex Champion
+Boss: Kill Dagannoth Rex 10 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Dagannoth Supreme]
+Difficulty: Dagannoth Supreme Champion
+Boss: Kill Dagannoth Supreme 10 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Deranged Archaeologist]
+Difficulty: Mage of the Swamp
+Boss: Kill the Deranged Archaeologist with only magical attacks.
+Description: Mechanical
+Notes: Medium (2 pts)
+
+[Deranged Archaeologist]
+Difficulty: I'd Rather Be Illiterate
+Boss: Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.
+Description: Perfection
+Notes: Medium (2 pts)
+
+[Deranged Archaeologist]
+Difficulty: Deranged Archaeologist Champion
+Boss: Kill the Deranged Archaeologist 25 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Gargoyle]
+Difficulty: A Smashing Time
+Boss: Kill a Gargoyle.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Giant Mole]
+Difficulty: Avoiding Those Little Arms
+Boss: Kill the Giant Mole without her damaging anyone.
+Description: Perfection
+Notes: Medium (2 pts)
+
+[Giant Mole]
+Difficulty: Giant Mole Champion
+Boss: Kill the Giant mole 25 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[King Black Dragon]
+Difficulty: King Black Dragon Champion
+Boss: Kill the King Black Dragon 25 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[King Black Dragon]
+Difficulty: Claw Clipper
+Boss: Kill the King Black Dragon with the Protect from Melee prayer activated.
+Description: Mechanical
+Notes: Medium (2 pts)
+
+[King Black Dragon]
+Difficulty: Hide Penetration
+Boss: Kill the King Black Dragon with a stab weapon.
+Description: Restriction
+Notes: Medium (2 pts)
+
+[King Black Dragon]
+Difficulty: Antifire Protection
+Boss: Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.
+Description: Restriction
+Notes: Medium (2 pts)
+
+[Kurask]
+Difficulty: Master of Broad Weaponry
+Boss: Kill a Kurask.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Moons of Peril]
+Difficulty: Perilous Novice
+Boss: Open the Reward Chest 5 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Moons of Peril]
+Difficulty: Back to Our Roots
+Boss: Defeat all three Moons in one run by only attacking with a Dragon Scimitar.
+Description: Restriction
+Notes: Medium (2 pts)
+
+[Moons of Peril]
+Difficulty: Moons of Peril Speed-Trialist
+Boss: Defeat all three Moons in one run in under 8 minutes.
+Description: Speed
+Notes: Medium (2 pts)
+
+[Moons of Peril]
+Difficulty: Lunar Triplet
+Boss: Open the Reward Chest after defeating all three Moons.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[N/A]
+Difficulty: Sit Back and Relax
+Boss: Deal 100 damage to creatures using undead thralls.
+Description: Mechanical
+Notes: Medium (2 pts)
+
+[Obor]
+Difficulty: Back to the Wall
+Boss: Kill Obor without being pushed back more than one square by his knockback attack.
+Description: Mechanical
+Notes: Medium (2 pts)
+
+[Obor]
+Difficulty: Obor Champion
+Boss: Kill Obor 5 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Obor]
+Difficulty: Squashing the Giant
+Boss: Kill Obor without taking any damage off prayer.
+Description: Perfection
+Notes: Medium (2 pts)
+
+[Royal Titans]
+Difficulty: Royal Titan Champion
+Boss: Kill the Royal Titans 10 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Royal Titans]
+Difficulty: Royal Titan Adept
+Boss: Kill the Royal Titans 25 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Royal Titans]
+Difficulty: It takes too long
+Boss: Kill both Royal Titans while they are charging up their area attack. Both titans must die during the same charging phase.
+Description: Mechanical
+Notes: Medium (2 pts)
+
+[Sarachnis]
+Difficulty: Newspaper Enthusiast
+Boss: Kill Sarachnis with a crush weapon.
+Description: Restriction
+Notes: Medium (2 pts)
+
+[Sarachnis]
+Difficulty: Sarachnis Champion
+Boss: Kill Sarachnis 25 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Scurrius]
+Difficulty: Scurrius Champion
+Boss: Kill Scurrius 10 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Scurrius]
+Difficulty: Perfect Scurrius
+Boss: Kill Scurrius in a private instance without taking damage from the following attacks: Tail Swipe and Falling Bricks. Pray correctly against the following attacks: Flying Fur and Bolts of Electricity.
+Description: Perfection
+Notes: Medium (2 pts)
+
+[Scurrius]
+Difficulty: Efficient Pest Control
+Boss: Kill 6 Giant Rats within Scurrius' lair in 3 seconds.
+Description: Mechanical
+Notes: Medium (2 pts)
+
+[Skeletal Wyvern]
+Difficulty: A Frozen Foe from the Past
+Boss: Kill a Skeletal Wyvern
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Skotizo]
+Difficulty: Demonic Weakening
+Boss: Kill Skotizo with no altars active.
+Description: Mechanical
+Notes: Medium (2 pts)
+
+[Skotizo]
+Difficulty: Demonbane Weaponry
+Boss: Kill Skotizo with a demonbane weapon equipped.
+Description: Restriction
+Notes: Medium (2 pts)
+
+[Skotizo]
+Difficulty: Skotizo Champion
+Boss: Kill Skotizo once.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Tempoross]
+Difficulty: The Lone Angler
+Boss: Subdue Tempoross alone without getting hit by any fires, torrents or waves.
+Description: Perfection
+Notes: Medium (2 pts)
+
+[Tempoross]
+Difficulty: Tempoross Champion
+Boss: Subdue Tempoross 10 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[The Hueycoatl]
+Difficulty: You're a wizard
+Boss: Kill the Hueycoatl using only earth spells.
+Description: Restriction
+Notes: Medium (2 pts)
+
+[The Hueycoatl]
+Difficulty: Hueycoatl Champion
+Boss: Kill the Hueycoatl once.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Wintertodt]
+Difficulty: Can We Fix It?
+Boss: Subdue the Wintertodt without allowing all 4 braziers to be broken at the same time.
+Description: Perfection
+Notes: Medium (2 pts)
+
+[Wintertodt]
+Difficulty: Leaving No One Behind
+Boss: Subdue the Wintertodt without any of the Pyromancers falling.
+Description: Restriction
+Notes: Medium (2 pts)
+
+[Wintertodt]
+Difficulty: Wintertodt Champion
+Boss: Subdue the Wintertodt 10 times.
+Description: Kill Count
+Notes: Medium (2 pts)
+
+[Abyssal Sire]
+Difficulty: Don't Stop Moving
+Boss: Kill the Abyssal Sire without taking damage from any miasma pools.
+Description: Perfection
+Notes: Hard (3 pts)
+
+[Abyssal Sire]
+Difficulty: Abyssal Adept
+Boss: Kill the Abyssal Sire 20 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Abyssal Sire]
+Difficulty: Don't Whip Me
+Boss: Kill the Abyssal Sire without being hit by any external tentacles.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Abyssal Sire]
+Difficulty: They Grow Up Too Fast
+Boss: Kill the Abyssal Sire without letting any Scion mature.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Amoxliatl]
+Difficulty: Amoxliatl Speed-Trialist
+Boss: Kill Amoxliatl in less than 1 minute.
+Description: Speed
+Notes: Hard (3 pts)
+
+[Amoxliatl]
+Difficulty: Amoxliatl Adept
+Boss: Kill Amoxliatl 20 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Amoxliatl]
+Difficulty: Totally Shattered
+Boss: Kill Amoxliatl without any of her unstable ice shattering.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Amoxliatl]
+Difficulty: Kemo Makti
+Boss: Kill Amoxliatl 10 times without leaving her chamber.
+Description: Stamina
+Notes: Hard (3 pts)
+
+[Amoxliatl]
+Difficulty: Nagua Negation
+Boss: Kill Amoxliatl without taking any damage.
+Description: Perfection
+Notes: Hard (3 pts)
+
+[Barrows]
+Difficulty: Faithless Crypt Run
+Boss: Kill all six Barrows Brothers and loot the Barrows chest without ever having more than 0 prayer points.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[Barrows]
+Difficulty: Just Like That
+Boss: Kill Karil using only damage dealt by special attacks.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[Callisto]
+Difficulty: Callisto Adept
+Boss: Kill Callisto 10 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Chaos Elemental]
+Difficulty: Hoarder
+Boss: Kill the Chaos Elemental without it unequipping any of your items.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Chaos Elemental]
+Difficulty: Chaos Elemental Adept
+Boss: Kill the Chaos Elemental 10 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Chaos Elemental]
+Difficulty: The Flincher
+Boss: Kill the Chaos Elemental without taking any damage from its attacks.
+Description: Perfection
+Notes: Hard (3 pts)
+
+[Chaos Fanatic]
+Difficulty: Praying to the Gods
+Boss: Kill the Chaos Fanatic 10 times without drinking any potion which restores prayer or leaving the Wilderness.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[Chaos Fanatic]
+Difficulty: Chaos Fanatic Adept
+Boss: Kill the Chaos Fanatic 25 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Commander Zilyana]
+Difficulty: Commander Zilyana Adept
+Boss: Kill Commander Zilyana 50 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Commander Zilyana]
+Difficulty: Commander Showdown
+Boss: Finish off Commander Zilyana while all of her bodyguards are dead.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Crazy Archaeologist]
+Difficulty: Crazy Archaeologist Adept
+Boss: Kill the Crazy Archaeologist 25 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Dagannoth Prime]
+Difficulty: Dagannoth Prime Adept
+Boss: Kill Dagannoth Prime 25 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Dagannoth Rex]
+Difficulty: Dagannoth Rex Adept
+Boss: Kill Dagannoth Rex 25 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Dagannoth Supreme]
+Difficulty: Dagannoth Supreme Adept
+Boss: Kill Dagannoth Supreme 25 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[General Graardor]
+Difficulty: General Showdown
+Boss: Finish off General Graardor whilst all of his bodyguards are dead.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[General Graardor]
+Difficulty: General Graardor Adept
+Boss: Kill General Graardor 50 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[General Graardor]
+Difficulty: Ourg Freezer
+Boss: Kill General Graardor whilst he is immobilized.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Giant Mole]
+Difficulty: Whack-a-Mole
+Boss: Kill the Giant Mole within 10 seconds of her resurfacing.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Giant Mole]
+Difficulty: Why Are You Running?
+Boss: Kill the Giant Mole without her burrowing more than 2 times.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Grotesque Guardians]
+Difficulty: Prison Break
+Boss: Kill the Grotesque Guardians without taking damage from Dusk's prison attack.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Grotesque Guardians]
+Difficulty: Grotesque Guardians Adept
+Boss: Kill the Grotesque Guardians 25 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Grotesque Guardians]
+Difficulty: Don't Look at the Eclipse
+Boss: Kill the Grotesque Guardians without taking damage from Dusk's blinding attack.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Grotesque Guardians]
+Difficulty: Granite Footwork
+Boss: Kill the Grotesque Guardians without taking damage from Dawn's rockfall attack.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Grotesque Guardians]
+Difficulty: Static Awareness
+Boss: Kill the Grotesque Guardians without being hit by any lightning attacks.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Grotesque Guardians]
+Difficulty: Heal No More
+Boss: Kill the Grotesque Guardians without letting Dawn receive any healing from her orbs.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Hespori]
+Difficulty: Hesporisn't
+Boss: Finish off Hespori with a special attack.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Hespori]
+Difficulty: Weed Whacker
+Boss: Kill all of Hesporis flowers within 5 seconds.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Hespori]
+Difficulty: Hespori Adept
+Boss: Kill Hespori 5 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[K'ril Tsutsaroth]
+Difficulty: K'ril Tsutsaroth Adept
+Boss: Kill K'ril Tsutsaroth 50 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[K'ril Tsutsaroth]
+Difficulty: Yarr No More
+Boss: Receive kill-credit for K'ril Tsutsaroth without him using his special attack.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[K'ril Tsutsaroth]
+Difficulty: Demonic Showdown
+Boss: Finish off K'ril Tsutsaroth whilst all of his bodyguards are dead.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[K'ril Tsutsaroth]
+Difficulty: Demonbane Weaponry II
+Boss: Finish off K'ril Tsutsaroth with a demonbane weapon.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[Kalphite Queen]
+Difficulty: Kalphite Queen Adept
+Boss: Kill the Kalphite Queen 25 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Kalphite Queen]
+Difficulty: Chitin Penetrator
+Boss: Kill the Kalphite Queen while her defence was last lowered by you.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[King Black Dragon]
+Difficulty: Who Is the King Now?
+Boss: Kill The King Black Dragon 10 times in a private instance without leaving the instance.
+Description: Stamina
+Notes: Hard (3 pts)
+
+[Kraken]
+Difficulty: Krakan't Hurt Me
+Boss: Kill the Kraken 25 times in a private instance without leaving the room.
+Description: Stamina
+Notes: Hard (3 pts)
+
+[Kraken]
+Difficulty: Kraken Adept
+Boss: Kill the Kraken 20 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Kraken]
+Difficulty: Unnecessary Optimisation
+Boss: Kill the Kraken after killing all four tentacles.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Kree'arra]
+Difficulty: Airborne Showdown
+Boss: Finish off Kree'arra whilst all of his bodyguards are dead.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Kree'arra]
+Difficulty: Kree'arra Adept
+Boss: Kill Kree'arra 50 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Moons of Peril]
+Difficulty: Fortified
+Boss: Defeat a Moon without consuming any supplies.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[Moons of Peril]
+Difficulty: Perilous Dancer
+Boss: Defeat all the Moons in one run while only taking damage from regular attacks.
+Description: Perfection
+Notes: Hard (3 pts)
+
+[Moons of Peril]
+Difficulty: Fat of the Land
+Boss: Defeat 30 Moons of Peril bosses without leaving the dungeon.
+Description: Stamina
+Notes: Hard (3 pts)
+
+[Moons of Peril]
+Difficulty: Betrayal
+Boss: Defeat a Moon using its associated weapon drop.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[Moons of Peril]
+Difficulty: The Clone Zone
+Boss: Defeat the Eclipse moon by only attacking its clones.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Moons of Peril]
+Difficulty: Moons of Peril Speed-Chaser
+Boss: Defeat all three Moons in one run in under 6 minutes.
+Description: Speed
+Notes: Hard (3 pts)
+
+[Moons of Peril]
+Difficulty: Perilous Champion
+Boss: Open the Reward Chest 25 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Phantom Muspah]
+Difficulty: Phantom Muspah Adept
+Boss: Kill the Phantom Muspah.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Royal Titans]
+Difficulty: I need room
+Boss: Kill the Royal Titans while extinguishing all fires and melting all icicles before they dissipate naturally.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[Royal Titans]
+Difficulty: Royal Titan Speed-Runner
+Boss: Kill the Royal Titans in less than 1:30 minutes.
+Description: Speed
+Notes: Hard (3 pts)
+
+[Royal Titans]
+Difficulty: Perfect Royal Titans
+Boss: Kill the Royal Titans without getting hit by any avoidable damage. This includes: Melee attacks, Explosions from the ice or fire elemental, Icicle or fire spawn damage, and Ice or fire pulse attacks.
+Description: Perfection
+Notes: Hard (3 pts)
+
+[Royal Titans]
+Difficulty: Titan Killer
+Boss: Kill the Royal Titans 15 times without anyone leaving the instance. If a player joins the fight, the current streak will be reset to 0. If a player leaves the fight, the task will be failed and a new instance will need to be created.
+Description: Stamina
+Notes: Hard (3 pts)
+
+[Sarachnis]
+Difficulty: Ready to Pounce
+Boss: Kill Sarachnis without her using her range attack twice in a row.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Sarachnis]
+Difficulty: Inspect Repellent
+Boss: Kill Sarachnis without her dealing damage to anyone.
+Description: Perfection
+Notes: Hard (3 pts)
+
+[Scorpia]
+Difficulty: Scorpia Adept
+Boss: Kill Scorpia 10 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Scorpia]
+Difficulty: Guardians No More
+Boss: Kill Scorpia without killing her guardians.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[Scorpia]
+Difficulty: I Can't Reach That
+Boss: Kill Scorpia without taking any damage from her.
+Description: Perfection
+Notes: Hard (3 pts)
+
+[Skotizo]
+Difficulty: Skotizo Adept
+Boss: Kill Skotizo 5 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Tempoross]
+Difficulty: Why Cook?
+Boss: Subdue Tempoross, getting rewarded with 10 reward permits from a single Tempoross fight.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[Tempoross]
+Difficulty: Dress Like You Mean It
+Boss: Subdue Tempoross while wearing any variation of the angler outfit.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[The Hueycoatl]
+Difficulty: Pillar Lover
+Boss: Kill the Hueycoatl whilst it is vulnerable.
+Description: Mechanical
+Notes: Hard (3 pts)
+
+[The Hueycoatl]
+Difficulty: I'm your son
+Boss: Kill the Hueycoatl whilst wearing two pieces of Hueycoatl armour.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[The Hueycoatl]
+Difficulty: Hueycoatl Adept
+Boss: Kill the Hueycoatl 10 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[The Nightmare]
+Difficulty: Nightmare Adept
+Boss: Kill The Nightmare once.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: Theatre of Blood: SM Adept
+Boss: Complete the Theatre of Blood: Entry Mode 1 time.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Tombs of Amascut: Entry Mode]
+Difficulty: Novice Tomb Explorer
+Boss: Complete the Tombs of Amascut in Entry mode (or above) once.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Tombs of Amascut: Entry Mode]
+Difficulty: Movin' on up
+Boss: Complete a Tombs of Amascut raid at level 50 or above.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[Tombs of Amascut: Entry Mode]
+Difficulty: Confident Raider
+Boss: Complete a Tombs of Amascut raid at level 100 or above.
+Description: Restriction
+Notes: Hard (3 pts)
+
+[Tombs of Amascut: Entry Mode]
+Difficulty: Novice Tomb Looter
+Boss: Complete the Tombs of Amascut in Entry mode (or above) 25 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Venenatis]
+Difficulty: Venenatis Adept
+Boss: Kill Venenatis 10 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Vet'ion]
+Difficulty: Vet'ion Adept
+Boss: Kill Vet'ion 10 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Wintertodt]
+Difficulty: Why Fletch?
+Boss: Subdue the Wintertodt after earning 3000 or more points.
+Description: Stamina
+Notes: Hard (3 pts)
+
+[Zulrah]
+Difficulty: Zulrah Adept
+Boss: Kill Zulrah 25 times.
+Description: Kill Count
+Notes: Hard (3 pts)
+
+[Abyssal Sire]
+Difficulty: Demonic Rebound
+Boss: Use the Vengeance spell to reflect the damage from the Abyssal Sire's explosion back to him.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Abyssal Sire]
+Difficulty: Perfect Sire
+Boss: Kill the Abyssal Sire without taking damage from the external tentacles, miasma pools, explosion or damage from the Abyssal Sire without praying the appropriate protection prayer.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Abyssal Sire]
+Difficulty: Abyssal Veteran
+Boss: Kill the Abyssal Sire 50 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Abyssal Sire]
+Difficulty: Respiratory Runner
+Boss: Kill the Abyssal Sire after only stunning him once.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Alchemical Hydra]
+Difficulty: Alchemical Veteran
+Boss: Kill the Alchemical Hydra 75 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Amoxliatl]
+Difficulty: Without Ralos' Light
+Boss: Kill Amoxliatl without losing any prayer points.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Amoxliatl]
+Difficulty: Amoxliatl Speed-Chaser
+Boss: Kill Amoxliatl in less than 30 seconds.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Araxxor]
+Difficulty: Relaxxor
+Boss: Kill Araxxor after destroying six eggs.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Araxxor]
+Difficulty: Araxxor Veteran
+Boss: Kill Araxxor 25 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Araxxor]
+Difficulty: Araxxor Speed-Trialist
+Boss: Kill Araxxor 4 times in 10:00.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Basilisk Knight]
+Difficulty: Reflecting on This Encounter
+Boss: Kill a Basilisk Knight.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Callisto]
+Difficulty: Callisto Veteran
+Boss: Kill Callisto 20 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Cerberus]
+Difficulty: Cerberus Veteran
+Boss: Kill Cerberus 75 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Cerberus]
+Difficulty: Ghost Buster
+Boss: Kill Cerberus after successfully negating 6 or more attacks from Summoned Souls.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Cerberus]
+Difficulty: Anti-Bite Mechanics
+Boss: Kill Cerberus without taking any melee damage.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Cerberus]
+Difficulty: Unrequired Antifire
+Boss: Kill Cerberus without taking damage from any lava pools.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Chambers of Xeric]
+Difficulty: Perfectly Balanced
+Boss: Kill the Vanguards without them resetting their health.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Chambers of Xeric]
+Difficulty: Kill It with Fire
+Boss: Finish off the Ice Demon with a fire spell.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Chambers of Xeric]
+Difficulty: Cryo No More
+Boss: Receive kill-credit for the Ice Demon without taking any damage.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Chambers of Xeric]
+Difficulty: Blizzard Dodger
+Boss: Receive kill-credit for the Ice Demon without activating the Protect from Range prayer.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Chambers of Xeric]
+Difficulty: Mutta-diet
+Boss: Kill the Muttadile without letting her or her baby recover hitpoints from the meat tree.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Chambers of Xeric]
+Difficulty: Undying Raid Team
+Boss: Complete a Chambers of Xeric raid without anyone dying.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Chambers of Xeric]
+Difficulty: Together We'll Fall
+Boss: Kill the Vanguards within 10 seconds of the first one dying.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Chambers of Xeric]
+Difficulty: Shayzien Specialist
+Boss: Receive kill-credit for a Lizardman Shaman without taking damage from any shamans in the room.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Chambers of Xeric]
+Difficulty: Chambers of Xeric Veteran
+Boss: Complete the Chambers of Xeric 25 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Chambers of Xeric]
+Difficulty: Dancing with Statues
+Boss: Receive kill-credit for a Stone Guardian without taking damage from falling rocks.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Chambers of Xeric]
+Difficulty: Redemption Enthusiast
+Boss: Kill the Abyssal Portal without forcing Vespula to land.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Chambers of Xeric: Challenge Mode]
+Difficulty: Dust Seeker
+Boss: Complete a Chambers of Xeric Challenge mode raid in the target time.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Chaos Elemental]
+Difficulty: Chaos Elemental Veteran
+Boss: Kill the Chaos Elemental 25 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Commander Zilyana]
+Difficulty: Commander Zilyana Veteran
+Boss: Kill Commander Zilyana 100 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Commander Zilyana]
+Difficulty: Reminisce
+Boss: Kill Commander Zilyana in a private instance with melee only.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Corporeal Beast]
+Difficulty: Finding the Weak Spot
+Boss: Finish off the Corporeal Beast with a Crystal Halberd special attack.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Corporeal Beast]
+Difficulty: Corporeal Beast Veteran
+Boss: Kill the Corporeal Beast 25 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Corporeal Beast]
+Difficulty: Chicken Killer
+Boss: Kill the Corporeal Beast solo.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Corporeal Beast]
+Difficulty: Hot on Your Feet
+Boss: Kill the Corporeal Beast without anyone killing the dark core or taking damage from the dark core.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Corrupted Hunllef]
+Difficulty: Corrupted Gauntlet Veteran
+Boss: Complete the Corrupted Gauntlet 5 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Corrupted Hunllef]
+Difficulty: 3, 2, 1 - Mage
+Boss: Kill the Corrupted Hunllef without taking damage off prayer.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Crystalline Hunllef]
+Difficulty: Gauntlet Veteran
+Boss: Complete the Gauntlet 5 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Crystalline Hunllef]
+Difficulty: Egniol Diet
+Boss: Kill the Crystalline Hunllef without making an egniol potion within the Gauntlet.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Crystalline Hunllef]
+Difficulty: Wolf Puncher
+Boss: Kill the Crystalline Hunllef without making more than one attuned weapon.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Crystalline Hunllef]
+Difficulty: Crystalline Warrior
+Boss: Kill the Crystalline Hunllef with a full set of perfected armour equipped.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Crystalline Hunllef]
+Difficulty: 3, 2, 1 - Range
+Boss: Kill the Crystalline Hunllef without taking damage off prayer.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Dagannoth Prime]
+Difficulty: Death to the Seer King
+Boss: Kill Dagannoth Prime whilst under attack by Dagannoth Supreme and Dagannoth Rex.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Dagannoth Prime]
+Difficulty: From One King to Another
+Boss: Kill Prime using a Rune Thrownaxe special attack, bounced off Dagannoth Rex.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Dagannoth Rex]
+Difficulty: Death to the Warrior King
+Boss: Kill Dagannoth Rex whilst under attack by Dagannoth Supreme and Dagannoth Prime.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Dagannoth Rex]
+Difficulty: Toppling the Diarchy
+Boss: Kill Dagannoth Rex and one other Dagannoth king at the exact same time.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Dagannoth Supreme]
+Difficulty: Rapid Succession
+Boss: Kill all three Dagannoth Kings within 9 seconds of the first one.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Dagannoth Supreme]
+Difficulty: Death to the Archer King
+Boss: Kill Dagannoth Supreme whilst under attack by Dagannoth Prime and Dagannoth Rex.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Demonic Gorilla]
+Difficulty: If Gorillas Could Fly
+Boss: Kill a Demonic Gorilla.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Demonic Gorilla]
+Difficulty: Hitting Them Where It Hurts
+Boss: Finish off a Demonic Gorilla with a demonbane weapon.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Duke Sucellus]
+Difficulty: Duke Sucellus Speed-Trialist
+Boss: Kill Duke Sucellus in less than 1:45 minutes without a slayer task.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Duke Sucellus]
+Difficulty: Duke Sucellus Adept
+Boss: Kill Duke Sucellus once.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Fortis Colosseum]
+Difficulty: Furball
+Boss: Complete Wave 4 without taking avoidable damage from a Manticore.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Fortis Colosseum]
+Difficulty: Denied
+Boss: Complete Wave 7 without the Minotaur ever healing other enemies.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Fortis Colosseum]
+Difficulty: I was here first!
+Boss: Kill a Jaguar Warrior using a Claw-type weapon special attack.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Fragment of Seren]
+Difficulty: Fragment of Seren Speed-Trialist
+Boss: Kill The Fragment of Seren in less than 4 minutes.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Galvek]
+Difficulty: Galvek Speed-Trialist
+Boss: Kill Galvek in less than 3 minutes.
+Description: Speed
+Notes: Elite (4 pts)
+
+[General Graardor]
+Difficulty: Ourg Freezer II
+Boss: Kill General Graardor without him attacking any players.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[General Graardor]
+Difficulty: General Graardor Veteran
+Boss: Kill General Graardor 100 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Giant Mole]
+Difficulty: Hard Hitter
+Boss: Kill the Giant Mole with 4 or fewer instances of damage.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Glough]
+Difficulty: Glough Speed-Trialist
+Boss: Kill Glough in less than 2 minutes and 30 seconds.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Grotesque Guardians]
+Difficulty: Done before Dusk
+Boss: Kill the Grotesque Guardians before Dusk uses his prison attack for a second time.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Grotesque Guardians]
+Difficulty: From Dusk...
+Boss: Kill the Grotesque Guardians 10 times without leaving the instance.
+Description: Stamina
+Notes: Elite (4 pts)
+
+[Grotesque Guardians]
+Difficulty: Perfect Grotesque Guardians
+Boss: Kill the Grotesque Guardians whilst completing the "Don't look at the eclipse", "Prison Break", "Granite Footwork", "Heal no more", "Static Awareness" and "Done before dusk" tasks.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Grotesque Guardians]
+Difficulty: Grotesque Guardians Speed-Trialist
+Boss: Kill the Grotesque Guardians in less than 2 minutes.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Grotesque Guardians]
+Difficulty: Grotesque Guardians Veteran
+Boss: Kill the Grotesque Guardians 50 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Hespori]
+Difficulty: Hespori Speed-Trialist
+Boss: Kill the Hespori in less than 48 seconds.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Hespori]
+Difficulty: Plant-Based Diet
+Boss: Kill Hespori without losing any prayer points.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[K'ril Tsutsaroth]
+Difficulty: K'ril Tsutsaroth Veteran
+Boss: Kill K'ril Tsutsaroth 100 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[K'ril Tsutsaroth]
+Difficulty: The Bane of Demons
+Boss: Defeat K'ril Tsutsaroth in a private instance using only demonbane spells.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[K'ril Tsutsaroth]
+Difficulty: Demonic Defence
+Boss: Kill K'ril Tsutsaroth in a private instance without taking any of his melee hits.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Kalphite Queen]
+Difficulty: Insect Deflection
+Boss: Kill the Kalphite Queen by using the Vengeance spell as the finishing blow.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Kalphite Queen]
+Difficulty: Prayer Smasher
+Boss: Kill the Kalphite Queen using only the Verac's Flail as a weapon.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Kalphite Queen]
+Difficulty: Kalphite Queen Veteran
+Boss: Kill the Kalphite Queen 50 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Kraken]
+Difficulty: Ten-tacles
+Boss: Kill the Kraken 50 times in a private instance without leaving the room.
+Description: Stamina
+Notes: Elite (4 pts)
+
+[Kree'arra]
+Difficulty: Kree'arra Veteran
+Boss: Kill Kree'arra 100 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Leviathan]
+Difficulty: Leviathan Adept
+Boss: Kill the Leviathan once.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Leviathan]
+Difficulty: Leviathan Speed-Trialist
+Boss: Kill the Leviathan in less than 1:50 without a slayer task.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Moons of Peril]
+Difficulty: High Hitter
+Boss: Defeat a Moon before they start their second special attack.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Nex]
+Difficulty: Nex Survivors
+Boss: Kill Nex without anyone dying.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Nex]
+Difficulty: Nex Veteran
+Boss: Kill Nex once.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Phantom Muspah]
+Difficulty: Phantom Muspah Veteran
+Boss: Kill the Phantom Muspah 25 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Phantom Muspah]
+Difficulty: Can't Escape
+Boss: Kill the Phantom Muspah without running.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Phantom Muspah]
+Difficulty: Versatile Drainer
+Boss: Drain the Phantom Muspah's Prayer with three different sources in one kill.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Phantom Muspah]
+Difficulty: Phantom Muspah Speed-Trialist
+Boss: Kill the Phantom Muspah in less than 3 minutes without a slayer task.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Phosani's Nightmare]
+Difficulty: Phosani's Veteran
+Boss: Kill Phosani's Nightmare once.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Royal Titans]
+Difficulty: No time to pray
+Boss: Kill the Royal Titans without losing any prayer points.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Scorpia]
+Difficulty: Scorpia Veteran
+Boss: Kill Scorpia 25 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Skotizo]
+Difficulty: Demon Evasion
+Boss: Kill Skotizo without taking any damage.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Skotizo]
+Difficulty: Up for the Challenge
+Boss: Kill Skotizo without equipping a demonbane weapon.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[The Hueycoatl]
+Difficulty: Hueycoatl Veteran
+Boss: Kill the Hueycoatl 25 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[The Hueycoatl]
+Difficulty: Hueycoatl Speed-Trialist
+Boss: Kill the Hueycoatl in 2:30
+Description: Speed
+Notes: Elite (4 pts)
+
+[The Hueycoatl]
+Difficulty: Perfect Hueycoatl
+Boss: Kill the Hueycoatl perfectly 5 times without leaving. To get a perfect kill, you must not take any avoidable damage from the Hueycoatl's lightning attack, tail slam attack or off-prayer projectile attacks.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[The Mimic]
+Difficulty: Mimic Veteran
+Boss: Kill the Mimic once.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[The Nightmare]
+Difficulty: Nightmare Veteran
+Boss: Kill The Nightmare 25 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[The Nightmare]
+Difficulty: Nightmare (Solo) Speed-Trialist
+Boss: Defeat the Nightmare (Solo) in less than 23 minutes.
+Description: Speed
+Notes: Elite (4 pts)
+
+[The Nightmare]
+Difficulty: Sleep Tight
+Boss: Kill the Nightmare solo.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[The Nightmare]
+Difficulty: Nightmare (5-Scale) Speed-Trialist
+Boss: Defeat the Nightmare (5-scale) in less than 5 minutes.
+Description: Speed
+Notes: Elite (4 pts)
+
+[The Nightmare]
+Difficulty: Explosion!
+Boss: Kill two Husks at the same time.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Theatre of Blood]
+Difficulty: Theatre of Blood Veteran
+Boss: Complete the Theatre of Blood 25 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: Nylocas, On the Rocks
+Boss: In the Theatre of Blood: Entry Mode, freeze any 4 Nylocas with a single Ice Barrage spell.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: Appropriate Tools
+Boss: Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode with everyone having a salve amulet equipped.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: Pass It On
+Boss: In the Theatre of Blood: Entry Mode, successfully pass on the green ball to a team mate.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: Attack, Step, Wait
+Boss: Survive Verzik Vitur's second phase in the Theatre of Blood: Entry Mode without anyone getting bounced by Verzik.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: They Won't Expect This
+Boss: In the Theatre of Blood: Entry Mode, enter the Pestilent Bloat room from the opposite side.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: Chally Time
+Boss: Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode by using a crystal halberd special attack as your final attack.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: No-Pillar
+Boss: Survive Verzik Vitur's pillar phase in the Theatre of Blood: Entry Mode without losing a single pillar.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: Anticoagulants
+Boss: Defeat the Maiden of Sugadinti in the Theatre of Blood: Entry Mode without letting any bloodspawn live for longer than 10 seconds.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: Don't Look at Me!
+Boss: Kill Xarpus in the Theatre of Blood: Entry Mode without him reflecting any damage to anyone.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: Just To Be Safe
+Boss: Defeat Sotetseg in the Theatre of Blood: Entry Mode after having split the big ball with your entire team. This must be done with a group size of at least 2.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Thermonuclear Smoke Devil]
+Difficulty: Spec'd Out
+Boss: Kill the Thermonuclear Smoke Devil using only special attacks.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Thermonuclear Smoke Devil]
+Difficulty: Thermonuclear Veteran
+Boss: Kill the Thermonuclear Smoke Devil 20 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Thermonuclear Smoke Devil]
+Difficulty: Hazard Prevention
+Boss: Kill the Thermonuclear Smoke Devil without it hitting anyone.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Tombs of Amascut]
+Difficulty: Dropped the ball
+Boss: Defeat Akkha without dropping any materialising orbs and without dying yourself.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Tombs of Amascut]
+Difficulty: Tomb Explorer
+Boss: Complete the Tombs of Amascut once.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Tombs of Amascut]
+Difficulty: Down Do Specs
+Boss: Defeat the Wardens after staggering the boss a maximum of twice during phase two, without dying yourself.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Tombs of Amascut]
+Difficulty: Perfect Crondis
+Boss: Complete the Crondis room without letting a crocodile get to the tree, without anyone losing water from their container and in under one minute.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Tombs of Amascut]
+Difficulty: Hardcore Tombs
+Boss: Complete the Tombs of Amascut solo without dying.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Tombs of Amascut]
+Difficulty: Hardcore Raiders
+Boss: Complete the Tombs of Amascut in a group of two or more without anyone dying.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Tombs of Amascut]
+Difficulty: No skipping allowed
+Boss: Defeat Ba-Ba after only attacking the non-weakened boulders in the rolling boulder phase, without dying yourself. The Boulderdash invocation must be activated.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Tombs of Amascut]
+Difficulty: Perfect Apmeken
+Boss: Complete the Apmeken room in a group of two or more, without anyone allowing any dangers to trigger, standing in venom or being hit by a volatile baboon. You must complete this room in less than three minutes.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Tombs of Amascut]
+Difficulty: Perfect Het
+Boss: Complete the Het room without taking any damage from the light beam and orbs. You must destroy the core after one exposure.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Tombs of Amascut]
+Difficulty: Helpful spirit who?
+Boss: Complete the Tombs of Amascut without using any supplies from the Helpful Spirit and without anyone dying. Honey locusts are included in this restriction.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Tombs of Amascut]
+Difficulty: I'm in a rush
+Boss: Defeat Ba-Ba after destroying four or fewer rolling boulders in total without dying yourself.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Tombs of Amascut: Entry Mode]
+Difficulty: Novice Tomb Raider
+Boss: Complete the Tombs of Amascut in Entry mode (or above) 50 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Expert Tomb Explorer
+Boss: Complete the Tombs of Amascut (Expert mode) once.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Tormented Demon]
+Difficulty: Two Times the Torment
+Boss: Kill two Tormented Demons within 2 seconds.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Tormented Demon]
+Difficulty: Through Fire and Flames
+Boss: Kill a Tormented Demon whilst their shield is inactive.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Tormented Demon]
+Difficulty: Unending Torment
+Boss: Kill a Tormented Demon.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Tormented Demon]
+Difficulty: Rapid Reload
+Boss: Hit three Tormented Demons within 3 seconds using a ballista or a crossbow.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[TzHaar-Ket-Rak's Challenges]
+Difficulty: Facing Jad Head-on III
+Boss: Complete TzHaar-Ket-Rak's second challenge with only melee.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[TzHaar-Ket-Rak's Challenges]
+Difficulty: TzHaar-Ket-Rak's Speed-Trialist
+Boss: Complete TzHaar-Ket-Rak's first challenge in less than 45 seconds.
+Description: Speed
+Notes: Elite (4 pts)
+
+[TzHaar-Ket-Rak's Challenges]
+Difficulty: The II Jad Challenge
+Boss: Complete TzHaar-Ket-Rak's second challenge.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[TzKal-Zuk]
+Difficulty: Half-Way There
+Boss: Kill a Jal-Zek within the Inferno.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[TzTok-Jad]
+Difficulty: A Near Miss!
+Boss: Complete the Fight Caves after surviving a hit from TzTok-Jad without praying.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[TzTok-Jad]
+Difficulty: Fight Caves Veteran
+Boss: Complete the Fight Caves once.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[TzTok-Jad]
+Difficulty: Facing Jad Head-on
+Boss: Complete the Fight Caves with only melee.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Vardorvis]
+Difficulty: Vardorvis Speed-Trialist
+Boss: Kill Vardorvis in less than 1:15 minutes without a slayer task.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Vardorvis]
+Difficulty: Vardorvis Adept
+Boss: Kill Vardorvis once.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Venenatis]
+Difficulty: Venenatis Veteran
+Boss: Kill Venenatis 20 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Vet'ion]
+Difficulty: Vet'eran
+Boss: Kill Vet'ion 20 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Vorkath]
+Difficulty: Vorkath Veteran
+Boss: Kill Vorkath 50 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Vorkath]
+Difficulty: Zombie Destroyer
+Boss: Kill Vorkath's zombified spawn without using crumble undead.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Vorkath]
+Difficulty: Stick 'em With the Pointy End
+Boss: Kill Vorkath using melee weapons only.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Whisperer]
+Difficulty: Whisperer Speed-Trialist
+Boss: Kill the Whisperer in less than 3:00 without a slayer task.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Whisperer]
+Difficulty: Whisperer Adept
+Boss: Kill the Whisperer once.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Whisperer]
+Difficulty: Tentacular
+Boss: Kill the Whisperer whilst only being on the Arceuus spellbook.
+Description: Restriction
+Notes: Elite (4 pts)
+
+[Zalcano]
+Difficulty: Team Player
+Boss: Receive imbued tephra from a golem.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Zalcano]
+Difficulty: Zalcano Veteran
+Boss: Kill Zalcano 25 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Zalcano]
+Difficulty: Perfect Zalcano
+Boss: Kill Zalcano 5 times in a row without leaving or getting hit by the following: Falling rocks, rock explosions, Zalcano powering up, or standing in a red symbol.
+Description: Perfection
+Notes: Elite (4 pts)
+
+[Zalcano]
+Difficulty: The Spurned Hero
+Boss: Kill Zalcano as the player who has dealt the most damage to her.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Zulrah]
+Difficulty: Snake Rebound
+Boss: Kill Zulrah by using the Vengeance spell as the finishing blow.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Zulrah]
+Difficulty: Snake. Snake!? Snaaaaaake!
+Boss: Kill 3 Snakelings simultaneously.
+Description: Mechanical
+Notes: Elite (4 pts)
+
+[Zulrah]
+Difficulty: Zulrah Veteran
+Boss: Kill Zulrah 75 times.
+Description: Kill Count
+Notes: Elite (4 pts)
+
+[Zulrah]
+Difficulty: Zulrah Speed-Trialist
+Boss: Kill Zulrah in less than 1 minute 20 seconds, without a slayer task.
+Description: Speed
+Notes: Elite (4 pts)
+
+[Alchemical Hydra]
+Difficulty: Alcleanical Hydra
+Boss: Kill the Alchemical Hydra without taking any damage.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Alchemical Hydra]
+Difficulty: Unrequired Antipoisons
+Boss: Kill the Alchemical Hydra without being hit by the acid pool attack.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Alchemical Hydra]
+Difficulty: Don't Flame Me
+Boss: Kill the Alchemical Hydra without being hit by the flame wall attack.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Alchemical Hydra]
+Difficulty: Lightning Lure
+Boss: Kill the Alchemical Hydra without being hit by the lightning attack.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Alchemical Hydra]
+Difficulty: Mixing Correctly
+Boss: Kill the Alchemical Hydra without empowering it.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Alchemical Hydra]
+Difficulty: The Flame Skipper
+Boss: Kill the Alchemical Hydra without letting it spawn a flame wall attack.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Alchemical Hydra]
+Difficulty: Working Overtime
+Boss: Kill the Alchemical Hydra 15 times without leaving the room.
+Description: Stamina
+Notes: Master (5 pts)
+
+[Alchemical Hydra]
+Difficulty: Alchemical Speed-Chaser
+Boss: Kill the Alchemical Hydra in less than 1 minute 45 seconds.
+Description: Speed
+Notes: Master (5 pts)
+
+[Alchemical Hydra]
+Difficulty: Alchemical Master
+Boss: Kill the Alchemical Hydra 150 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Araxxor]
+Difficulty: Araxyte Betrayal
+Boss: Have an Araxyte kill three other Araxytes.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Araxxor]
+Difficulty: Let it seep in
+Boss: Kill Araxxor without ever having venom or poison immunity.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Araxxor]
+Difficulty: Araxxor Speed-Chaser
+Boss: Kill Araxxor 5 times in 10:00.
+Description: Speed
+Notes: Master (5 pts)
+
+[Araxxor]
+Difficulty: Arachnid Lover
+Boss: Kill Araxxor 10 times without leaving.
+Description: Stamina
+Notes: Master (5 pts)
+
+[Araxxor]
+Difficulty: Araxxor Master
+Boss: Kill Araxxor 75 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Araxxor]
+Difficulty: Perfect Araxxor
+Boss: Kill Araxxor perfectly, without taking damage from Araxxor's Mage & Range attacks, melee attack off prayer, araxyte minions damage, or damage from acid pools.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Cerberus]
+Difficulty: Arooo No More
+Boss: Kill Cerberus without any of the Summoned Souls being spawned.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Cerberus]
+Difficulty: Cerberus Master
+Boss: Kill Cerberus 150 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Putting It Olm on the Line
+Boss: Complete a Chambers of Xeric solo raid with more than 40,000 points.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Undying Raider
+Boss: Complete a Chambers of Xeric solo raid without dying.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Blind Spot
+Boss: Kill Tekton without taking any damage.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Stop Drop and Roll
+Boss: Kill Vasa Nistirio before he performs his teleport attack for the second time.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Chambers of Xeric (5-Scale) Speed-Chaser
+Boss: Complete a Chambers of Xeric (5-scale) in less than 15 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Chambers of Xeric (Solo) Speed-Chaser
+Boss: Complete a Chambers of Xeric (Solo) in less than 21 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Chambers of Xeric (Trio) Speed-Chaser
+Boss: Complete a Chambers of Xeric (Trio) in less than 16 minutes and 30 seconds.
+Description: Speed
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Anvil No More
+Boss: Kill Tekton before he returns to his anvil for a second time after the fight begins.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Chambers of Xeric Master
+Boss: Complete the Chambers of Xeric 75 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Perfect Olm (Trio)
+Boss: Kill the Great Olm in a trio raid without any team member taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Playing with Lasers
+Boss: Clear theCrystal Crabsroom without wasting an orb after the first crystal has been activated.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: Perfect Olm (Solo)
+Boss: Kill the Great Olm in a solo raid without taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: No Time for Death
+Boss: Clear the Tightrope room without Killing any Deathly Mages or Deathly Rangers.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Chambers of Xeric]
+Difficulty: A Not So Special Lizard
+Boss: Kill the Great Olm in a solo raid without letting him use any of the following special attacks in his second to last phase: Crystal Burst, Lightning Walls, Teleportation Portals or left-hand autohealing.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Chambers of Xeric: Challenge Mode]
+Difficulty: Immortal Raid Team
+Boss: Complete a Chambers of Xeric: Challenge mode raid without anyone dying.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Chambers of Xeric: Challenge Mode]
+Difficulty: Immortal Raider
+Boss: Complete a Chambers of Xeric Challenge mode (Solo) raid without dying.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Chambers of Xeric: Challenge Mode]
+Difficulty: Chambers of Xeric: CM (Solo) Speed-Chaser
+Boss: Complete a Chambers of Xeric: Challenge Mode (Solo) in less than 45 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Chambers of Xeric: Challenge Mode]
+Difficulty: Chambers of Xeric: CM (5-Scale) Speed-Chaser
+Boss: Complete a Chambers of Xeric: Challenge Mode (5-scale) in less than 30 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Chambers of Xeric: Challenge Mode]
+Difficulty: Chambers of Xeric: CM Master
+Boss: Complete the Chambers of Xeric: Challenge Mode 10 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Chambers of Xeric: Challenge Mode]
+Difficulty: Chambers of Xeric: CM (Trio) Speed-Chaser
+Boss: Complete a Chambers of Xeric: Challenge Mode (Trio) in less than 35 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Commander Zilyana]
+Difficulty: Moving Collateral
+Boss: Kill Commander Zilyana in a private instance without attacking her directly.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Corporeal Beast]
+Difficulty: Corporeal Beast Master
+Boss: Kill the Corporeal Beast 50 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Corrupted Hunllef]
+Difficulty: Corrupted Gauntlet Master
+Boss: Complete the Corrupted Gauntlet 10 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Corrupted Hunllef]
+Difficulty: Perfect Corrupted Hunllef
+Boss: Kill the Corrupted Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Corrupted Hunllef with the wrong weapon.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Corrupted Hunllef]
+Difficulty: Corrupted Warrior
+Boss: Kill the Corrupted Hunllef with a full set of perfected corrupted armour equipped.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Corrupted Hunllef]
+Difficulty: Corrupted Gauntlet Speed-Chaser
+Boss: Complete a Corrupted Gauntlet in less than 7 minutes and 30 seconds.
+Description: Speed
+Notes: Master (5 pts)
+
+[Corrupted Hunllef]
+Difficulty: Defence Doesn't Matter II
+Boss: Kill the Corrupted Hunllef without making any armour within the Corrupted Gauntlet.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Crystalline Hunllef]
+Difficulty: Gauntlet Speed-Chaser
+Boss: Complete the Gauntlet in less than 5 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Crystalline Hunllef]
+Difficulty: Perfect Crystalline Hunllef
+Boss: Kill the Crystalline Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Crystalline Hunllef with the wrong weapon.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Crystalline Hunllef]
+Difficulty: Defence Doesn't Matter
+Boss: Kill the Crystalline Hunllef without making any armour within the Gauntlet.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Crystalline Hunllef]
+Difficulty: Gauntlet Master
+Boss: Complete the Gauntlet 20 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Duke Sucellus]
+Difficulty: Duke Sucellus Speed-Chaser
+Boss: Kill Duke Sucellus in less than 1:35 minutes without a slayer task.
+Description: Speed
+Notes: Master (5 pts)
+
+[Duke Sucellus]
+Difficulty: Perfect Duke Sucellus
+Boss: Kill Duke Sucellus without taking any avoidable damage 5 times without leaving.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Duke Sucellus]
+Difficulty: Duke Sucellus Master
+Boss: Kill Duke Sucellus 50 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Duke Sucellus]
+Difficulty: Cold Feet
+Boss: Kill Duke Sucellus without taking any avoidable damage, whilst also never running.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Fortis Colosseum]
+Difficulty: Showboating
+Boss: Defeat Sol Heredit after usingFortis Saluteto the north, east, south and west of the arena while he is below 10% hitpoints.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Fortis Colosseum]
+Difficulty: I Brought Mine Too
+Boss: Defeat Sol Heredit using only a Spear, Hasta or Halberd.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Fortis Colosseum]
+Difficulty: Colosseum Speed-Chaser
+Boss: Complete the Colosseum with a total time of 28:00 or less.
+Description: Speed
+Notes: Master (5 pts)
+
+[Fortis Colosseum]
+Difficulty: One-off
+Boss: Complete Wave 11 with either 'Red Flag', 'Dynamic Duo', or 'Doom II' active.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Fortis Colosseum]
+Difficulty: Sportsmanship
+Boss: Defeat Sol Heredit once.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Grotesque Guardians]
+Difficulty: Grotesque Guardians Speed-Chaser
+Boss: Kill the Grotesque Guardians in less than 1:40 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Grotesque Guardians]
+Difficulty: ... 'til Dawn
+Boss: Kill the Grotesque Guardians 20 times without leaving the instance.
+Description: Stamina
+Notes: Master (5 pts)
+
+[Grotesque Guardians]
+Difficulty: Perfect Grotesque Guardians II
+Boss: Kill the Grotesque Guardians 5 times in a row without leaving the instance, whilst completing the Perfect Grotesque Guardians task every time.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Hespori]
+Difficulty: Hespori Speed-Chaser
+Boss: Kill the Hespori in less than 36 seconds.
+Description: Speed
+Notes: Master (5 pts)
+
+[Kraken]
+Difficulty: One Hundred Tentacles
+Boss: Kill the Kraken 100 times in a private instance without leaving the room.
+Description: Stamina
+Notes: Master (5 pts)
+
+[Kree'arra]
+Difficulty: Collateral Damage
+Boss: Kill Kree'arra in a private instance without ever attacking him directly.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Kree'arra]
+Difficulty: Swoop No More
+Boss: Kill Kree'arra in a private instance without taking any melee damage from the boss or his bodyguards.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Leviathan]
+Difficulty: Serpentine Solo
+Boss: Kill the Leviathan without stunning the boss more than once.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Leviathan]
+Difficulty: Leviathan Master
+Boss: Kill the Leviathan 50 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Leviathan]
+Difficulty: Leviathan Speed-Chaser
+Boss: Kill the Leviathan in less than 1:25 without a slayer task.
+Description: Speed
+Notes: Master (5 pts)
+
+[Leviathan]
+Difficulty: Perfect Leviathan
+Boss: Kill the Leviathan perfectly 5 times without leaving.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Nex]
+Difficulty: Shadows Move...
+Boss: Kill Nex without anyone being hit by the Shadow Smash attack.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Nex]
+Difficulty: There is no escape!
+Boss: Kill Nex without anyone being hit by the Smoke Dash special attack.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Nex]
+Difficulty: A siphon will solve this
+Boss: Kill Nex without letting her heal from her Blood Siphon special attack.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Nex]
+Difficulty: Nex Trio
+Boss: Kill Nex with three or less players at the start of the fight.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Nex]
+Difficulty: Nex Master
+Boss: Kill Nex 25 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Nex]
+Difficulty: Contain this!
+Boss: Kill Nex without anyone taking damage from any Ice special attack.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Phantom Muspah]
+Difficulty: Essence Farmer
+Boss: Kill the Phantom Muspah 10 times in one trip.
+Description: Stamina
+Notes: Master (5 pts)
+
+[Phantom Muspah]
+Difficulty: Phantom Muspah Master
+Boss: Kill the Phantom Muspah 50 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Phantom Muspah]
+Difficulty: Phantom Muspah Speed-Chaser
+Boss: Kill the Phantom Muspah in less than 2 minutes without a slayer task.
+Description: Speed
+Notes: Master (5 pts)
+
+[Phantom Muspah]
+Difficulty: Space is Tight
+Boss: Kill the Phantom Muspah whilst it is surrounded by spikes.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Phantom Muspah]
+Difficulty: Walk Straight Pray True
+Boss: Kill the Phantom Muspah without taking any avoidable damage.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Phantom Muspah]
+Difficulty: More than just a ranged weapon
+Boss: Kill the Phantom Muspah by only dealing damage to it with a salamander.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Phosani's Nightmare]
+Difficulty: Phosani's Speedchaser
+Boss: Defeat Phosani's Nightmare within 9 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Phosani's Nightmare]
+Difficulty: Phosani's Master
+Boss: Kill Phosani's Nightmare 5 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Phosani's Nightmare]
+Difficulty: Crush Hour
+Boss: Kill Phosani's Nightmare while killing every parasite and husk in one hit.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Phosani's Nightmare]
+Difficulty: Dreamland Express
+Boss: Kill Phosani's Nightmare without a sleepwalker reaching her during her desperation phase.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Phosani's Nightmare]
+Difficulty: I Would Simply React
+Boss: Kill Phosani's Nightmare without allowing your prayer to be disabled.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Skotizo]
+Difficulty: Precise Positioning
+Boss: Kill Skotizo with the final source of damage being a Chinchompa explosion.
+Description: Restriction
+Notes: Master (5 pts)
+
+[The Hueycoatl]
+Difficulty: Is it a bird?
+Boss: Kill the Hueycoatl using only dragonbane weaponry.
+Description: Restriction
+Notes: Master (5 pts)
+
+[The Hueycoatl]
+Difficulty: Hueycoatl Speed-Chaser
+Boss: Kill the Hueycoatl in 2:30 with five or fewer players.
+Description: Speed
+Notes: Master (5 pts)
+
+[The Nightmare]
+Difficulty: Nightmare (Solo) Speed-Chaser
+Boss: Defeat the Nightmare (Solo) in less than 19 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[The Nightmare]
+Difficulty: Nightmare (5-Scale) Speed-Chaser
+Boss: Defeat the Nightmare (5-scale) in less than 4 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[The Nightmare]
+Difficulty: Perfect Nightmare
+Boss: Kill the Nightmare without any player taking damage from the following attacks: Nightmare rifts, an un-cured parasite explosion, Corpse flowers or the Nightmare's Surge. Also, no player can take damage off prayer or have their attacks slowed by the Nightmare spores.
+Description: Perfection
+Notes: Master (5 pts)
+
+[The Nightmare]
+Difficulty: Nightmare Master
+Boss: Kill The Nightmare 50 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Perfect Bloat
+Boss: Kill the Pestilent Bloat without anyone in the team taking damage from the following sources: Pestilent flies, Falling body parts or The Pestilent Bloats stomp attack.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Perfect Xarpus
+Boss: Kill Xarpus without anyone in the team taking any damage from Xarpus' attacks and without letting an exhumed heal Xarpus more than twice.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Two-Down
+Boss: Kill the Pestilent Bloat before he shuts down for the third time.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Theatre (4-Scale) Speed-Chaser
+Boss: Complete the Theatre of Blood (4-scale) in less than 17 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: A Timely Snack
+Boss: Kill Sotetseg after surviving at least 3 ball attacks without sharing the damage and without anyone dying throughout the fight.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Perfect Nylocas
+Boss: Kill the Nylocas Vasilias without anyone in the team attacking any Nylocas with the wrong attack style, without letting a pillar collapse and without getting hit by any of the Nylocas Vasilias attacks whilst off prayer.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Back in My Day...
+Boss: Complete the Theatre of Blood without any member of the team equipping a Scythe of Vitur.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Theatre (5-Scale) Speed-Chaser
+Boss: Complete the Theatre of Blood (5-scale) in less than 16 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Can You Dance?
+Boss: Kill Xarpus without anyone in the team using a ranged or magic weapon.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Can't Drain This
+Boss: Kill The Maiden of Sugadinti without anyone in the team losing any prayer points.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Theatre (Trio) Speed-Chaser
+Boss: Complete the Theatre of Blood (Trio) in less than 20 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Perfect Verzik
+Boss: Defeat Verzik Vitur without anyone in the team taking damage from Verzik Vitur's attacks other than her spider form's correctly prayed against regular magical and ranged attacks.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Pop It
+Boss: Kill Verzik without any Nylocas being frozen and without anyone taking damage from the Nylocas.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Perfect Sotetseg
+Boss: Kill Sotetseg without anyone in the team stepping on the wrong tile in the maze, without getting hit by the tornado and without taking any damage from Sotetseg's attacks whilst off prayer.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Theatre of Blood Master
+Boss: Complete the Theatre of Blood 75 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Theatre of Blood]
+Difficulty: Perfect Maiden
+Boss: Kill The Maiden of Sugadinti without anyone in the team taking damage from the following sources: Blood Spawn projectiles and Blood Spawn trails. Also, without taking damage off prayer and without letting any of the Nylocas Matomenos heal The Maiden.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Theatre of Blood: Entry Mode]
+Difficulty: Theatre of Blood: SM Speed-Chaser
+Boss: Complete the Theatre of Blood: Entry Mode in less than 17 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Hard Mode? Completed It
+Boss: Complete the Theatre of Blood: Hard Mode within the challenge time.
+Description: Speed
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: Tomb Looter
+Boss: Complete the Tombs of Amascut 25 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: Tomb Raider
+Boss: Complete the Tombs of Amascut 50 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: Perfect Kephri
+Boss: Defeat Kephri in a group of two or more, without anyone taking any damage from the following: egg explosions, Kephri's attacks, Exploding Scarabs, Bodyguards, dung attacks. No eggs may hatch throughout the fight.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: Perfect Zebak
+Boss: Defeat Zebak without anyone taking any damage from: poison, Zebak's basic attacks off-prayer, blood spawns and waves. You also must not push more than two jugs on the roar attack during the fight (you may destroy stationary ones). You must have all Zebak invocations activated.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: Tombs Speed Runner
+Boss: Complete the Tombs of Amascut (normal) within 18 mins at any group size.
+Description: Speed
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: Chompington
+Boss: Defeat Zebak using only melee attacks and without dying yourself.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: Perfect Wardens
+Boss: Defeat The Wardens in a group of two or more, without anyone taking avoidable damage from the following: Warden attacks, obelisk attacks, lightning attacks in phase three, skull attack in phase three, Demi god attacks in phase three. You must have all Wardens invocations activated.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: You are not prepared
+Boss: Complete a full Tombs of Amascut raid only using supplies given inside the tomb and without anyone dying.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: Perfect Akkha
+Boss: Complete Akkha in a group of two or more, without anyone taking any damage from the following: Akkha's attacks off-prayer, Akkha's special attacks (orbs, memory, detonate), exploding shadow timers, orbs in the enrage phase or attacking Akkha with the wrong style. You must have all Akkha invocations activated.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: Perfect Scabaras
+Boss: Complete the Scabaras room in less than a minute without anyone taking any damage from puzzles.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: Perfect Ba-Ba
+Boss: Defeat Ba-Ba in a group of two or more, without anyone taking any damage from the following: Ba-Ba's Attacks off-prayer, Ba-Ba's slam, rolling boulders, rubble attack or falling rocks. No sarcophagi may be opened. You must have all Ba-Ba invocations activated.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Tombs of Amascut]
+Difficulty: Better get movin'
+Boss: Defeat Elidinis' Warden in phase three of the Wardens fight with 'Aerial Assault', 'Stay vigilant' and 'Insanity' invocations activated and without dying yourself.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: But... Damage
+Boss: Complete the Tombs of Amascut without anyone in your party wearing or holding any equipment at tier 75 or above.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Rockin' around the croc
+Boss: Defeat Zebak with all Zebak invocations activated and the path levelled up to at least four, without dying yourself.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Something of an expert myself
+Boss: Complete the Tombs of Amascut raid at level 350 or above without anyone dying.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Ba-Bananza
+Boss: Defeat Ba-Ba with all Ba-Ba invocations activated and the path levelled up to at least four, without dying yourself.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Warden't you believe it
+Boss: Defeat the Wardens with all Wardens invocations activated, at expert level and without dying yourself.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Doesn't bug me
+Boss: Defeat Kephri with all Kephri invocations activated and the path levelled up to at least four, without dying yourself.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Resourceful Raider
+Boss: Complete the Tombs of Amascut with the "On a diet" and "Dehydration" invocations activated and without anyone dying.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Expert Tomb Looter
+Boss: Complete the Tombs of Amascut (Expert mode) 25 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Fancy feet
+Boss: Complete phase three of The Wardens in a group of two or more, using only melee attacks and without dying yourself. The 'Insanity' invocation must be activated.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: All out of medics
+Boss: Defeat Kephri without letting her heal above 25% after the first down. The 'Medic' invocation must be activated. You must do this without dying yourself.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Tormented Demon]
+Difficulty: Three Times the Thrashing
+Boss: Kill three Tormented Demons within 3 seconds.
+Description: Restriction
+Notes: Master (5 pts)
+
+[TzHaar-Ket-Rak's Challenges]
+Difficulty: The IV Jad Challenge
+Boss: Complete TzHaar-Ket-Rak's fourth challenge.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[TzHaar-Ket-Rak's Challenges]
+Difficulty: Supplies? Who Needs 'em?
+Boss: Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory.
+Description: Perfection
+Notes: Master (5 pts)
+
+[TzHaar-Ket-Rak's Challenges]
+Difficulty: Multi-Style Specialist
+Boss: Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[TzHaar-Ket-Rak's Challenges]
+Difficulty: TzHaar-Ket-Rak's Speed-Chaser
+Boss: Complete TzHaar-Ket-Rak's third challenge in less than 3 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[TzHaar-Ket-Rak's Challenges]
+Difficulty: Facing Jad Head-on IV
+Boss: Complete TzHaar-Ket-Rak's fourth challenge with only melee.
+Description: Restriction
+Notes: Master (5 pts)
+
+[TzKal-Zuk]
+Difficulty: Nibblers, Begone!
+Boss: Kill Tzkal-Zuk without letting a pillar fall before wave 67.
+Description: Perfection
+Notes: Master (5 pts)
+
+[TzTok-Jad]
+Difficulty: Fight Caves Master
+Boss: Complete the Fight Caves 5 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[TzTok-Jad]
+Difficulty: Fight Caves Speed-Chaser
+Boss: Complete the Fight Caves in less than 30 minutes.
+Description: Speed
+Notes: Master (5 pts)
+
+[TzTok-Jad]
+Difficulty: Denying the Healers
+Boss: Complete the Fight caves without letting any of the Yt-MejKot heal.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[TzTok-Jad]
+Difficulty: You Didn't Say Anything About a Bat
+Boss: Complete the Fight Caves without being attacked by a Tz-Kih.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Vardorvis]
+Difficulty: Budget Cutter
+Boss: Kill Vardorvis with gear worth 2m or less in total.
+Description: Restriction
+Notes: Master (5 pts)
+
+[Vardorvis]
+Difficulty: Vardorvis Speed-Chaser
+Boss: Kill Vardorvis in less than 1:05 without a slayer task.
+Description: Speed
+Notes: Master (5 pts)
+
+[Vardorvis]
+Difficulty: Vardorvis Master
+Boss: Kill Vardorvis 50 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Vardorvis]
+Difficulty: Perfect Vardorvis
+Boss: Kill Vardorvis perfectly 5 times without leaving.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Vorkath]
+Difficulty: Vorkath Speed-Chaser
+Boss: Kill Vorkath in less than 1 minute and 15 seconds.
+Description: Speed
+Notes: Master (5 pts)
+
+[Vorkath]
+Difficulty: Dodging the Dragon
+Boss: Kill Vorkath 5 times without taking any damage from his special attacks and without leaving his area.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Vorkath]
+Difficulty: Vorkath Master
+Boss: Kill Vorkath 100 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Vorkath]
+Difficulty: Extended Encounter
+Boss: Kill Vorkath 10 times without leaving his area.
+Description: Stamina
+Notes: Master (5 pts)
+
+[Vorkath]
+Difficulty: The Walk
+Boss: Hit Vorkath 12 times during the acid special without getting hit by his rapid fire or the acid pools.
+Description: Mechanical
+Notes: Master (5 pts)
+
+[Whisperer]
+Difficulty: Whisperer Master
+Boss: Kill the Whisperer 50 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Whisperer]
+Difficulty: Perfect Whisperer
+Boss: Kill the Whisperer without taking avoidable damage 5 times without leaving.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Whisperer]
+Difficulty: Whisperer Speed-Chaser
+Boss: Kill the Whisperer in less than 2:25 without a slayer task.
+Description: Speed
+Notes: Master (5 pts)
+
+[Zulrah]
+Difficulty: Zulrah Master
+Boss: Kill Zulrah 150 times.
+Description: Kill Count
+Notes: Master (5 pts)
+
+[Zulrah]
+Difficulty: Zulrah Speed-Chaser
+Boss: Kill Zulrah in less than 1 minute, without a slayer task.
+Description: Speed
+Notes: Master (5 pts)
+
+[Zulrah]
+Difficulty: Perfect Zulrah
+Boss: Kill Zulrah whilst taking no damage from the following: Snakelings, Venom Clouds, Zulrah's Green or Crimson phase.
+Description: Perfection
+Notes: Master (5 pts)
+
+[Alchemical Hydra]
+Difficulty: Alchemical Speed-Runner
+Boss: Kill the Alchemical Hydra in less than 1 minute 20 seconds.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Alchemical Hydra]
+Difficulty: No Pressure
+Boss: Kill the Alchemical Hydra using only Dharok's Greataxe as a weapon whilst having no more than 10 Hitpoints throughout the entire fight.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Araxxor]
+Difficulty: Perfect Araxxor 2
+Boss: Kill Araxxor perfectly, without hitting it during the enrage phase.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Araxxor]
+Difficulty: Swimming in Venom
+Boss: Kill Araxxor without the boss ever moving.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Araxxor]
+Difficulty: Araxxor Speed-Runner
+Boss: Kill Araxxor 6 times in 10:00.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Chambers of Xeric]
+Difficulty: Chambers of Xeric (5-Scale) Speed-Runner
+Boss: Complete a Chambers of Xeric (5-scale) in less than 12 minutes and 30 seconds.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Chambers of Xeric]
+Difficulty: Chambers of Xeric Grandmaster
+Boss: Complete the Chambers of Xeric 150 times.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Chambers of Xeric]
+Difficulty: Chambers of Xeric (Solo) Speed-Runner
+Boss: Complete a Chambers of Xeric (Solo) in less than 17 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Chambers of Xeric]
+Difficulty: Chambers of Xeric (Trio) Speed-Runner
+Boss: Complete a Chambers of Xeric (Trio) in less than 14 minutes and 30 seconds.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Chambers of Xeric: Challenge Mode]
+Difficulty: Chambers of Xeric: CM (Trio) Speed-Runner
+Boss: Complete a Chambers of Xeric: Challenge Mode (Trio) in less than 27 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Chambers of Xeric: Challenge Mode]
+Difficulty: Chambers of Xeric: CM (Solo) Speed-Runner
+Boss: Complete a Chambers of Xeric: Challenge Mode (Solo) in less than 38 minutes and 30 seconds.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Chambers of Xeric: Challenge Mode]
+Difficulty: Chambers of Xeric: CM (5-Scale) Speed-Runner
+Boss: Complete a Chambers of Xeric: Challenge Mode (5-scale) in less than 25 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Chambers of Xeric: Challenge Mode]
+Difficulty: Chambers of Xeric: CM Grandmaster
+Boss: Complete the Chambers of Xeric: Challenge Mode 25 times.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Commander Zilyana]
+Difficulty: Peach Conjurer
+Boss: Kill Commander Zilyana 50 times in a privately rented instance without leaving the room.
+Description: Stamina
+Notes: Grandmaster (6 pts)
+
+[Commander Zilyana]
+Difficulty: Animal Whisperer
+Boss: Kill Commander Zilyana in a private instance without taking any damage from the boss or bodyguards.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Corrupted Hunllef]
+Difficulty: Egniol Diet II
+Boss: Kill the Corrupted Hunllef without making an egniol potion within the Corrupted Gauntlet.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Corrupted Hunllef]
+Difficulty: Corrupted Gauntlet Speed-Runner
+Boss: Complete a Corrupted Gauntlet in less than 6 minutes and 30 seconds.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Corrupted Hunllef]
+Difficulty: Corrupted Gauntlet Grandmaster
+Boss: Complete the Corrupted Gauntlet 50 times.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Corrupted Hunllef]
+Difficulty: Wolf Puncher II
+Boss: Kill the Corrupted Hunllef without making more than one attuned weapon.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Crystalline Hunllef]
+Difficulty: Gauntlet Speed-Runner
+Boss: Complete the Gauntlet in less than 4 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Duke Sucellus]
+Difficulty: Duke Sucellus Speed-Runner
+Boss: Kill Duke Sucellus in less than 1:25 minutes without a slayer task.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Duke Sucellus]
+Difficulty: Mirror Image
+Boss: Kill Duke Sucellus whilst only attacking the boss on the same tick Duke attacks you.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Duke Sucellus]
+Difficulty: Duke Sucellus Sleeper
+Boss: Kill Awakened Duke Sucellus.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Fortis Colosseum]
+Difficulty: Reinforcements
+Boss: Defeat Sol Heredit with "Bees II", "Quartet" and "Solarflare II" modifiers active.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Fortis Colosseum]
+Difficulty: Perfect Footwork
+Boss: Defeat Sol Heredit without taking any damage from his Spear, Shield, Grapple or Triple Attack.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Fortis Colosseum]
+Difficulty: Slow Dancing in the Sand
+Boss: Defeat Sol Heredit without running during the fight with him.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Fortis Colosseum]
+Difficulty: Colosseum Grand Champion
+Boss: Defeat Sol Heredit 10 times.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Fortis Colosseum]
+Difficulty: Colosseum Speed-Runner
+Boss: Complete the Colosseum with a total time of 24:00 or less.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[General Graardor]
+Difficulty: Defence Matters
+Boss: Kill General Graardor 2 times consecutively in a private instance without taking any damage from his bodyguards.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[General Graardor]
+Difficulty: Keep Away
+Boss: Kill General Graardor in a private instance without taking any damage from the boss or bodyguards.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[General Graardor]
+Difficulty: Ourg Killer
+Boss: Kill General Graardor 15 times in a private instance without leaving the room.
+Description: Stamina
+Notes: Grandmaster (6 pts)
+
+[Grotesque Guardians]
+Difficulty: Grotesque Guardians Speed-Runner
+Boss: Kill the Grotesque Guardians in less than 1:20 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[K'ril Tsutsaroth]
+Difficulty: Ash Collector
+Boss: Kill K'ril Tsutsaroth 20 times in a private instance without leaving the room.
+Description: Stamina
+Notes: Grandmaster (6 pts)
+
+[K'ril Tsutsaroth]
+Difficulty: Demon Whisperer
+Boss: Kill K'ril Tsutsaroth in a private instance without ever being hit by his bodyguards.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Kree'arra]
+Difficulty: The Worst Ranged Weapon
+Boss: Kill Kree'arra by only dealing damage to him with a salamander.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Kree'arra]
+Difficulty: Feather Hunter
+Boss: Kill Kree'arra 30 times in a private instance without leaving the room.
+Description: Stamina
+Notes: Grandmaster (6 pts)
+
+[Leviathan]
+Difficulty: Leviathan Sleeper
+Boss: Kill the Awakened Leviathan.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Leviathan]
+Difficulty: Leviathan Speed-Runner
+Boss: Kill the Leviathan in less than 1:10 without a slayer task.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Leviathan]
+Difficulty: Unconventional
+Boss: Kill the Leviathan using only Mithril ammunition whilst having no more than 25 Hitpoints throughout the entire fight.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Nex]
+Difficulty: Nex Duo
+Boss: Kill Nex with two or less players at the start of the fight.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Nex]
+Difficulty: Perfect Nex
+Boss: Kill Nex whilst completing the requirements for "There is no escape", "Shadows move", "A siphon will solve this", and "Contain this!"
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Nex]
+Difficulty: I should see a doctor
+Boss: Kill Nex whilst a player is coughing.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Phantom Muspah]
+Difficulty: Phantom Muspah Manipulator
+Boss: Kill the Phantom Muspah whilst completing Walk Straight Pray True, Space is Tight & Can't Escape.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Phantom Muspah]
+Difficulty: Phantom Muspah Speed-Runner
+Boss: Kill the Phantom Muspah in less than 1 minute and 30 seconds without a slayer task.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Phosani's Nightmare]
+Difficulty: Can't Wake Up
+Boss: Kill Phosani's Nightmare 5 times in a row without leaving Phosani's Dream.
+Description: Stamina
+Notes: Grandmaster (6 pts)
+
+[Phosani's Nightmare]
+Difficulty: Perfect Phosani's Nightmare
+Boss: Kill Phosani's Nightmare while only taking damage from husks, power blasts and weakened Parasites. Also, without having your attacks slowed by the Nightmare Spores or letting a Sleepwalker reach Phosani's Nightmare.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Phosani's Nightmare]
+Difficulty: Phosani's Grandmaster
+Boss: Kill Phosani's Nightmare 25 times.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Phosani's Nightmare]
+Difficulty: Phosani's Speedrunner
+Boss: Defeat Phosani's Nightmare within 7:30 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[The Hueycoatl]
+Difficulty: Hueycoatl Speed-Runner
+Boss: Kill the Hueycoatl in 2:30 with three or fewer players.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[The Nightmare]
+Difficulty: A Long Trip
+Boss: Kill the Nightmare without any player losing any prayer points.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[The Nightmare]
+Difficulty: Nightmare (Solo) Speed-Runner
+Boss: Defeat the Nightmare (Solo) in less than 16 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[The Nightmare]
+Difficulty: Nightmare (5-Scale) Speed-Runner
+Boss: Defeat the Nightmare (5-scale) in less than 3:30 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[The Nightmare]
+Difficulty: Terrible Parent
+Boss: Kill the Nightmare solo without the Parasites healing the boss for more than 100 health.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood]
+Difficulty: Theatre of Blood Grandmaster
+Boss: Complete the Theatre of Blood 150 times.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood]
+Difficulty: Theatre (Duo) Speed-Runner
+Boss: Complete the Theatre of Blood (Duo) in less than 26 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood]
+Difficulty: Theatre (Trio) Speed-Runner
+Boss: Complete the Theatre of Blood (Trio) in less than 17 minutes and 30 seconds.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood]
+Difficulty: Theatre (5-Scale) Speed-Runner
+Boss: Complete the Theatre of Blood (5-scale) in less than 14 minutes and 15 seconds.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood]
+Difficulty: Morytania Only
+Boss: Complete the Theatre of Blood without any member of the team equipping a non-barrows weapon (except Dawnbringer).
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood]
+Difficulty: Theatre (4-Scale) Speed-Runner
+Boss: Complete the Theatre of Blood (4-scale) in less than 15 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood]
+Difficulty: Perfect Theatre
+Boss: Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: "Perfect Maiden", "Perfect Bloat", "Perfect Nylocas", "Perfect Sotetseg", "Perfect Xarpus" and "Perfect Verzik".
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Pack Like a Yak
+Boss: Complete the Theatre of Blood: Hard Mode within the challenge time, with no deaths and without anyone buying anything from a supply chest.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Personal Space
+Boss: Defeat the Pestilent Bloat in the Theatre of Blood: Hard Mode with at least 3 people in the room, without anyone in your team standing on top of each other.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Harder Mode II
+Boss: Defeat Xarpus in the Theatre of Blood: Hard Mode after letting the exhumeds heal him to full health and without anyone in the team taking any damage.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Theatre: HM (Trio) Speed-Runner
+Boss: Complete the Theatre of Blood: Hard Mode (Trio) with an overall time of less than 23 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Harder Mode III
+Boss: Defeat Verzik Vitur in the Theatre of Blood: Hard Mode without anyone attacking her with a melee weapon during her third phase.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Stop Right There!
+Boss: Defeat the Maiden of Sugadinti in the Theatre of Blood: Hard Mode without letting blood spawns create more than 15 blood trails.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Theatre: HM (5-Scale) Speed-Runner
+Boss: Complete the Theatre of Blood: Hard Mode (5-scale) with an overall time of less than 19 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Nylo Sniper
+Boss: Defeat Verzik Vitur's in the Theatre of Blood: Hard Mode without anyone in your team causing a Nylocas to explode by getting too close.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Team Work Makes the Dream Work
+Boss: When Verzik Vitur in the Theatre of Blood: Hard Mode uses her yellow power blast attack while the tornadoes are active, have everyone get through the attack without taking damage. This cannot be completed with one player alive
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Theatre of Blood: HM Grandmaster
+Boss: Complete the Theatre of Blood: Hard Mode 50 times.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Theatre: HM (4-Scale) Speed-Runner
+Boss: Complete the Theatre of Blood: Hard Mode (4-scale) with an overall time of less than 21 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Harder Mode I
+Boss: Defeat Sotetseg in the Theatre of Blood: Hard Mode without anyone sharing the ball with anyone, without anyone dying, and without anyone taking damage from any of its other attacks or stepping on the wrong tile in the maze.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Theatre of Blood: Hard Mode]
+Difficulty: Royal Affairs
+Boss: In the Theatre of Blood: Hard Mode, complete the Nylocas room without ever letting the Nylocas Prinkipas change styles.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Akkhan't Do it
+Boss: Defeat Akkha with all Akkha invocations activated and the path levelled up to at least four, without dying yourself.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Perfection of Apmeken
+Boss: Complete 'Perfect Apmeken' and 'Perfect Ba-Ba' in a single run of the Tombs of Amascut.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Maybe I'm the boss.
+Boss: Complete a Tombs of Amascut raid with every single boss invocation activated and without anyone dying.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: All Praise Zebak
+Boss: Defeat Zebak without losing a single prayer point. You must also meet the conditions of the 'Rockin' Around The Croc' achievement.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Amascut's Remnant
+Boss: Complete the Tombs of Amascut at raid level 500 or above without anyone dying.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Insanity
+Boss: Complete 'Perfect Wardens' at expert or above.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Perfection of Het
+Boss: Complete 'Perfect Het' and 'Perfect Akkha' in a single run of the Tombs of Amascut.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Perfection of Crondis
+Boss: Complete 'Perfect Crondis' and 'Perfect Zebak' in a single run of the Tombs of Amascut.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Perfection of Scabaras
+Boss: Complete 'Perfect Scabaras' and 'Perfect Kephri' in a single run of Tombs of Amascut.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Tombs Speed Runner III
+Boss: Complete the Tombs of Amascut (expert) within 18 mins in a group of 8.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Expert Tomb Raider
+Boss: Complete the Tombs of Amascut (Expert mode) 50 times.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Tombs of Amascut: Expert Mode]
+Difficulty: Tombs Speed Runner II
+Boss: Complete the Tombs of Amascut (expert) within 20 mins at any group size.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[TzHaar-Ket-Rak's Challenges]
+Difficulty: It Wasn't a Fluke
+Boss: Complete TzHaar-Ket-Rak's fifth and sixth challenges back to back without failing.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[TzHaar-Ket-Rak's Challenges]
+Difficulty: The VI Jad Challenge
+Boss: Complete TzHaar-Ket-Rak's sixth challenge.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[TzHaar-Ket-Rak's Challenges]
+Difficulty: TzHaar-Ket-Rak's Speed-Runner
+Boss: Complete TzHaar-Ket-Rak's fifth challenge in less than 5 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[TzKal-Zuk]
+Difficulty: Jad? What Are You Doing Here?
+Boss: Kill Tzkal-Zuk without killing the JalTok-Jad which spawns during wave 69.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[TzKal-Zuk]
+Difficulty: Wasn't Even Close
+Boss: Kill Tzkal-Zuk without letting your hitpoints fall below 50 during any wave in the Inferno.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[TzKal-Zuk]
+Difficulty: Playing with Jads
+Boss: Complete wave 68 of the Inferno within 30 seconds of the first JalTok-Jad dying.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[TzKal-Zuk]
+Difficulty: Budget Setup
+Boss: Kill Tzkal-Zuk without equipping a Twisted Bow within the Inferno.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[TzKal-Zuk]
+Difficulty: The Floor Is Lava
+Boss: Kill Tzkal-Zuk without letting Jal-ImKot dig during any wave in the Inferno.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[TzKal-Zuk]
+Difficulty: Facing Jad Head-on II
+Boss: Kill Tzkal-Zuk without equipping any range or mage weapons before wave 69.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[TzKal-Zuk]
+Difficulty: Nibbler Chaser
+Boss: Kill Tzkal-Zuk without using any magic spells during any wave in the Inferno.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[TzKal-Zuk]
+Difficulty: Inferno Speed-Runner
+Boss: Complete the Inferno in less than 65 minutes.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[TzKal-Zuk]
+Difficulty: Inferno Grandmaster
+Boss: Complete the Inferno 5 times.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[TzKal-Zuk]
+Difficulty: No Luck Required
+Boss: Kill Tzkal-Zuk without being attacked by TzKal-Zuk and without taking damage from a JalTok-Jad.
+Description: Perfection
+Notes: Grandmaster (6 pts)
+
+[TzTok-Jad]
+Difficulty: Denying the Healers II
+Boss: Complete the Fight Caves without TzTok-Jad being healed by a Yt-HurKot.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[TzTok-Jad]
+Difficulty: Fight Caves Speed-Runner
+Boss: Complete the Fight Caves in less than 26 minutes and 30 seconds.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[TzTok-Jad]
+Difficulty: No Time for a Drink
+Boss: Complete the Fight Caves without losing any prayer points.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Vardorvis]
+Difficulty: Vardorvis Speed-Runner
+Boss: Kill Vardorvis in less than 0:55 without a slayer task.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Vardorvis]
+Difficulty: Vardorvis Sleeper
+Boss: Kill Awakened Vardorvis.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Vardorvis]
+Difficulty: Axe Enthusiast
+Boss: Kill Vardorvis after surviving for 3 minutes of Vardorvis' max speed, and never leaving the centre 25 tiles.
+Description: Mechanical
+Notes: Grandmaster (6 pts)
+
+[Vorkath]
+Difficulty: Faithless Encounter
+Boss: Kill Vorkath without losing any prayer points.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Vorkath]
+Difficulty: Vorkath Speed-Runner
+Boss: Kill Vorkath in less than 54 seconds.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Vorkath]
+Difficulty: The Fremennik Way
+Boss: Kill Vorkath with only your fists.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Whisperer]
+Difficulty: Whisperer Speed-Runner
+Boss: Kill the Whisperer in less than 2:05 without a slayer task.
+Description: Speed
+Notes: Grandmaster (6 pts)
+
+[Whisperer]
+Difficulty: Dark Memories
+Boss: Kill the Whisperer whilst spending less than 6 seconds in the pre-enrage shadow realm.
+Description: Restriction
+Notes: Grandmaster (6 pts)
+
+[Whisperer]
+Difficulty: Whispered
+Boss: Kill the Awakened Whisperer.
+Description: Kill Count
+Notes: Grandmaster (6 pts)
+
+[Zulrah]
+Difficulty: Zulrah Speed-Runner
+Boss: Kill Zulrah in less than 54 seconds, without a slayer task.
+Description: Speed
+Notes: Grandmaster (6 pts)
+

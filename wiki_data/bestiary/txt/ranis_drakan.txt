@@ -1,0 +1,40 @@
+Name: Ranis Drakan
+Combat Level: 233
+Size: 1x1
+Info:
+- Description: He looks haughty and arrogant.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 400 xp
+- Category: Vampyres
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 8242,8243,8244,8245,8246,8247
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 400
+Attack: 120
+Strength: 120
+Defence: 120
+Magic: 120
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

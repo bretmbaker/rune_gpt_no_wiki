@@ -1,0 +1,4 @@
+Item: Seercull
+Summary: The seercull is a Fremennik bow that requires a Ranged level of 50 to wield, and fires arrows up to Amethyst. Compared to a magic shortbow, it has a slower rate of fire and a different special attack which is more effective against mages. In addition, its normal and rapid fire attacks have one more range than that of a shortbow, and its long range attack is equivalent to that of a composite bow. It is a comparable weapon to the Magic comp bow.
+Sources:
+- Dagannoth Supreme (Level 303, Quantity: 1, Rarity: 1/128)

@@ -1,0 +1,45 @@
+[Weapon: Dragon Defender (T)#Locked]
+
+
+Thedragon defender (t)is adragon defenderwith adragon defender ornament kitattached to it. The attached ornament kit gives no additional bonuses, and is only used to add aesthetics to the defender.
+The trimmed defender can be dismantled anytime, returning the defender and the tradeable ornament kit.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Dismantle
+Examine: A defensive weapon trimmed with gold.
+General Store Value: 68,007 coins
+Alchemy: Not alchemisable
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +25
+- Slash: +24
+- Crush: +23
+- Magic: -3
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +25
+- Slash: +24
+- Crush: +23
+- Magic: -3
+- Ranged: -2
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

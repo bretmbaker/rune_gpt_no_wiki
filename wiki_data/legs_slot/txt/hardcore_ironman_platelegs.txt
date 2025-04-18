@@ -1,0 +1,45 @@
+[Weapon: Hardcore Ironman Platelegs]
+
+
+Hardcore ironman platelegsare obtainable only by players who chose to be a Hardcore ironman inIronman Mode. They can be obtained by speaking toAdamafter leavingTutorial Island, after choosing to be a Hardcore ironman.
+
+
+[Infobox]
+Released: 10 November2016(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can obtain another pair of platelegs from the Iron Man tutor in Lumbridge.
+Examine: Take it off and what are you?
+General Store Value: 0 coins
+Alchemy: Not alchemisable
+Weight: 4.535 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -21
+- Ranged: -11
+
+Defence Bonuses:
+- Stab: +11
+- Slash: +10
+- Crush: +10
+- Magic: -4
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

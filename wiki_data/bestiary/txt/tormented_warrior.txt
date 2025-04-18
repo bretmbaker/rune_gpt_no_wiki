@@ -1,0 +1,39 @@
+Name: Tormented Warrior
+Combat Level: 90
+Size: 1x1
+Info:
+- Description: A Kharazi warrior, tormented by evil spirits.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3959
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 90
+Attack: 76
+Strength: 76
+Defence: 76
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

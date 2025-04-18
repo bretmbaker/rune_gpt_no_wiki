@@ -1,0 +1,2 @@
+Item: Floating Column
+Summary: Floating Columns are objects that rise from the water during the fight with The Whisperer. Players must enter the Shadow Realm and stand behind them to dodge her scream attack.

@@ -1,0 +1,2 @@
+Item: Fishing spot (karambwanji)
+Summary: Fishing spots can be found in Karamja. These spots are used to fish raw karambwanji which are used as bait in order to fish raw karambwans and can also be used to make karambwanji paste. If the player has a full inventory and at least one slot containing karambwanji, they will no longer catch shrimp and only catch karambwanji.

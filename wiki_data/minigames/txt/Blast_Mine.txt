@@ -1,0 +1,88 @@
+[Minigame: Blast_mine]
+
+ | This article has astrategy guide.All information on mechanics and strategy will be on this page.
+
+Blast mine
+
+
+
+
+
+Released | 7 January2016(Update)
+
+Type | Activity
+
+Members | Yes
+
+Location | Lovakengj
+
+Leagueregion | Kourend✓
+
+Reward currency | None
+
+
+
+Map
+
+
+
+Theblast mineis an activity which grantsMiningandFiremakingexperience.
+
+Blast mining requires level 43 Mining to participate, as well as achisel,tinderbox, anddynamite. Dynamite can be made by combiningvolcanic sulphur,juniper charcoal,saltpetre, and apot, then adding aball of woolto the resultingdynamite pot. Alternatively, dynamite can be obtained fromThirusnearby.
+
+Players use dynamite to blast chunks of valuableoresfrom within hard rock, which must then be washed before the chunks disintegrate.
+
+There are bank chests in the area which players can use to retrieve dynamite as needed and to deposit collected ores.
+
+Transportation[edit|edit source]
+
+The blast mine is located in the northern section ofLovakengjand may be accessed via a number of ways:
+
+Run north from the Xeric's Inferno option on theXeric's talisman.Run north from thejewellery of jubilationteleport on theKharedst's memoirsorbook of the dead.Run north from Lovakengj station on theLovakengj Minecart Network.
+
+Money making[edit|edit source]
+
+The followingmoney making guideis available for the blast mine:
+
+Method | Hourly profit | Skills
+
+Blast mining | 377,376 | 43(75+ recommended)
+
+Gameplay[edit|edit source]
+
+Players must first excavate hard rock using achisel, then use a pot ofdynamiteon the resulting cavity. Then, they must light the dynamite with atinderboxand run at least two squares away from it, or take about 15 damage.
+
+Once the dynamite explodes, players should collect theblasted orefrom the ground and deposit it into anore sacknear a workingoperator. Players have three minutes to deposit the blasted ore before it disintegrates, so it is important to be quick. When there are at least 900 of any single type of ore in the sack, it will become full and the player will need to collect it before being able to excavate any more; the nearby operator will notify them of this. Players can talk to the brown-haired operator on the east side of the machine to collect the ore they mined in noted form, along withMiningexperience according to the ores obtained.
+
+Excavating the hard rock earns 20Miningexperience, and lighting the dynamite earns 50Firemakingexperience. Additional Mining experience is awarded along with the cleaned ores.
+
+The blast mine is unique in that it enables players to obtain ores as if their Mining level were 10 levels higher; temporary boosts work, and must be active before the blasted ore spawns. For example, a player with 75 Mining can obtainrunite orehere. The experience gained per hour varies depending on Mining level and overall efficiency. Additionally, players who have completed theelite Kourend & Kebos Diaryhave a 10% increased chance to obtain higher-tier ores.
+
+Ore | Base experience
+
+Coal | 33
+
+Gold ore | 66
+
+Mithril ore | 120
+
+Adamantite ore | 190
+
+Runite ore | 260
+
+Assuming 330 dynamite used per hour, at level 70, players can expect approximately 55,000 Mining experience and 310,000 coins per hour. This scales up to 88,000 and 800,000 respectively at level 99, with the profit increasing significantly at level 75 with runite ore becoming available. In addition, Firemaking experience is gained at 16,500 per hour, which does not scale.
+
+Including the excavation, each dynamite is worth approximately 198 experience at 75 Mining and 264 experience at 99.
+
+Unlike level boosts, theprospector kitaffects the experience received while collecting the washed ore. It is not required to wear it while blasting ore and depositing blasted ore to obtain the bonus experience.
+
+Strategy[edit|edit source]
+
+To do blast mining efficiently, it is important to:
+
+Minimise the time wasted waiting fordynamiteto explode.Minimise the time spent running to and from the deposit sack.Minimise the amount of damage taken.
+
+These are much easier if a consistent strategy is used. There are many patterns that may be used, with some variation keeping the above points in mind.
+
+Only achiselandtinderboxare required for the activity. A pickaxe is not used, though the special attack of adragon pickaxeor higher as well ascelestial ringslightly increase experience and profit.[1]Graceful outfitis highly recommended, and some run energy restoration (such asstamina potions) is useful for some patterns as they slowly drain run energy.
+

@@ -1,0 +1,58 @@
+[Weapon: Merfolk Trident]
+
+
+Amerfolk tridentcan be bought fromMairin's Marketin theunderwaterarea ofFossil Islandfor 400mermaid tears.
+It is one of the few weapons that allow the player to swim while wielding it. Its main purpose is aiding withdrift net fishing, where it gives an increased chance to scare offfish shoalsinto the net. It shares this effect with thetrident of the seas.[1]The trident has no attack level requirements and is a 2-handed weapon.
+
+
+[Infobox]
+Released: 7 September2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Check, Channel, Drop
+Worn options: Check, Channel
+Examine: An iron tipped trident.
+General Store Value: 400 coins
+High alch: 240 coins
+Low alch: 160 coins
+Weight: 0.907 kg
+Grand Exchange Value: 2,269,584 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 38
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +8
+- Slash: +8
+- Crush: +8
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Lunge | Stab | Controlled | 5 ticks (3.0s) | 1 tile |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Controlled |  | +1 Attack, Strength, Defence
+ | Pound | Crush | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Stab | Defensive |  | +3 Defence

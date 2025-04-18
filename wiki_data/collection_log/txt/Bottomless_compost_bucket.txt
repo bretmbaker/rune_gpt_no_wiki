@@ -1,0 +1,4 @@
+Item: Bottomless compost bucket
+Summary: A bottomless compost bucket is a drop from the Hespori, which can be filled with compost, supercompost, or ultracompost. Tool Leprechauns will store one of them in its own slot.
+Sources:
+- Hespori (Level 284, Quantity: 1, Rarity: 1/35)

@@ -1,0 +1,74 @@
+ | This quest has an in-depth guide . It contains a more detailed description of dialogue, cutscenes, and storyline.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Grish in Jiggig , just south of Castle Wars . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | Run for your lives...the zombie ogres are here for your flesh! An ogre ceremonial dance area, used to communicate with ancient ogrish ancestors, has been overrun with diseased undead ogres.
+How could something like this have happened? And what sort of rewards could an enterprising adventurer gain from exploring the tombs of such a place?
+
+Requirements | Completion of the following quests: Big Chompy Bird Hunting Jungle Potion Druidic Ritual You must be able to defeat a level 111 enemy. 4 Smithing ( boostable ) 8 Herblore ( boostable ) 30 Ranged ( not boostable )
+
+Items required | 5 free inventory spaces are needed to receive items near the start of the quest A comp ogre bow (not needed if using Crumble Undead in final battle) or : Wolf bones Achey logs (obtainable during quest) Knife (obtainable during quest) Axe of your Woodcutting level Bow string Brutal arrows (not needed if using Crumble Undead in final battle) or : Achey logs Knife (obtainable during quest) Nails (the best you can fletch into brutal arrows) Hammer Feathers (4 per 1 brutal arrow)
+
+Recommended | 45 Combat level 43 Prayer for protection prayers 10+ Strength (otherwise it is very difficult to open the chest below the stairs in the north-west corner. Strength boosts are useful here) 30 Fletching ( boostable ) (is needed if you want to create your own Comp ogre bow and 33 Fletching is needed to fletch Brutal arrows .) Strength potion if your strength is low. Opening the ogre tomb seems to require strength and lowers your level each time you fail. Vial of water , Rogue's purse and Snake weed if you choose to learn the technique that allows you to mix Relicym's balm (pretty much necessary if < 89 combat, unless you have sanfew serum). A Sanfew serum would be helpful to prevent disease and restore stats. Relicym's balm is a cheap alternative to the Sanfew serum Ava's accumulator to conserve arrows To save the super restore obtained during the quest to combat disease, combat , ranged , or magic potions can be used after normal restore potions . A ring of dueling to teleport to Castle Wars and Ferox Enclave to restore your stats and cure disease with the pools. A Yanille Teleport
+
+Enemies to defeat | Slash Bash (level 111) Zombie (level 39)
+
+League notes | Kandarin ✓ — location requirement Unlocking Morytania ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Starting off [ edit | edit source ]
+
+The cave [ edit | edit source ]
+
+Note: You may now (or already have been) become diseased if under 89 combat and a Zogre or Skogre attacks you (level 44). Carry Super restore potions at all times. The disease lowers a random skill 10 levels every minute or so!
+
+Yanille [ edit | edit source ]
+
+Incriminating Sithik [ edit | edit source ]
+
+The Bartender will sign the portrait as an affidavit.
+
+Zavistic Rarve will give you a Strange potion .
+
+Relocating the ceremonial grounds [ edit | edit source ]
+
+Making an ogre composite bow (optional) [ edit | edit source ]
+
+Making Relicym's balm (optional) [ edit | edit source ]
+
+Making brutal arrows (optional) [ edit | edit source ]
+
+Note: If you have access to the Grand Exchange, you can just buy the arrows and skip this section.
+
+Fighting Slash Bash [ edit | edit source ]
+
+Note: Slash Bash uses Ranged and Melee , easiest method is to use Ranged from a safespot with Protect from Missiles prayer turned on. Alternatively, one may use the spell Crumble Undead if they prefer to use magic.
+
+Rewards [ edit | edit source ]
+
+1 Quest point 3 ourg bones 2 zogre bones 2,000 Fletching experience 2,000 Ranged experience 2,000 Herblore experience Ability to make Relicym's balm Ability to fletch comp ogre bows and brutal arrows Ability to wear inoculation bracelets Give a 2-, 3-, or 4-dose Relicym's balm to Uglug to gain access to ~ Uglug's stuffsies ~
+
+v • t • e Zogre Flesh Eaters
+
+NPCs | Grish Zavistic Rarve Sithik Ints Bartender Brentle Vahn Slash Bash Zombie Ogre guard Zogre Skogre Uglug Nar
+
+Items | Ruined backpack Dragon inn tankard Torn page Black prism Strange potion Cup of tea Unstrung comp bow Comp ogre bow Ogre arrow shaft Flighted ogre arrow Ogre gate key Ogre artefact Ogre coffin key Unfinished potion (Rogue's Purse) Relicym's Balm Books Portraiture Necromancy H.A.M. Sithik Portraits Good Bad Signed |  | Ruined backpack Dragon inn tankard Torn page Black prism Strange potion Cup of tea Unstrung comp bow Comp ogre bow Ogre arrow shaft Flighted ogre arrow Ogre gate key Ogre artefact Ogre coffin key Unfinished potion (Rogue's Purse) Relicym's Balm | Books | Portraiture Necromancy H.A.M. | Sithik Portraits | Good Bad Signed
+
+ | Ruined backpack Dragon inn tankard Torn page Black prism Strange potion Cup of tea Unstrung comp bow Comp ogre bow Ogre arrow shaft Flighted ogre arrow Ogre gate key Ogre artefact Ogre coffin key Unfinished potion (Rogue's Purse) Relicym's Balm
+
+Books | Portraiture Necromancy H.A.M.
+
+Sithik Portraits | Good Bad Signed
+
+Locations | Jiggig Yanille
+
+Scenery | Cupboard Drawers Ogre Coffin Stand Wardrobe
+
+Related | Quick guide Transcript Disease

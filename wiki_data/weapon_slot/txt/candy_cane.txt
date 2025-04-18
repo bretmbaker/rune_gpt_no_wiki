@@ -1,0 +1,53 @@
+[Weapon: Candy Cane]
+
+
+Thecandy caneis afun weaponfirst obtained as a reward from the2018 Christmas event. It is classified as afun weaponin legacy duels within theEmir's Arenabecause it gives the player negative bonuses.
+The idle animation when wielding the candy cane is shared with only thehunting knife,killer's knife, andprop sword.
+
+
+[Infobox]
+Released: 13 December2018(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: Minty and refreshing, but not very effective as a weapon.
+General Store Value: 0 coins
+Alchemy: Not alchemisable
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -100
+- Slash: -100
+- Crush: -50
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: -10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

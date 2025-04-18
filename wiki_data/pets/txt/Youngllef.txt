@@ -1,0 +1,113 @@
+[Pet: Youngllef]
+
+TheYoungllefis a pet received from thereward chestin theGauntlet. It is a smaller version of theCrystalline Hunllef. Upon completion of theCorrupted Gauntlet, players unlock the right click "Metamorphosis"option to change between the regular Youngllef and the corrupted Youngllef variant. The pet will always be received in the regular form, even if it is obtained from the Corrupted Gauntlet.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. The pet cannot be picked up and instead must be reclaimed from Probita for a reclaim token.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Reward Chest (The Gauntlet) | N/A | 1 | 1/2,000 | 
+
+Reward Chest (The Gauntlet)(Corrupted) | N/A | 1 | 1/800 | 
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Trivia[edit|edit source]
+
+The Youngllef's examine text references 'hunllef', the Welsh word for nightmare.
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan
+
+v•t•eThe Gauntlet
+
+Crystalline enemies | RatSpiderBatUnicornScorpionWolfBearDragonDark BeastHunllef
+
+Corrupted enemies | RatSpiderBatUnicornScorpionWolfBearDragonDark BeastHunllef
+
+Crystal items | ToolsSceptreAxePickaxeHarpoonEscape crystalTeleport crystalPestle and mortarResourcesPaddlefish(Raw) (Burnt)Crystal paddlefishPhren barkLinum tirinumCrystal oreGrym leafVialWater-filled vialGrym potion (unf)Crystal shardsWeapon frameCrystal dustEgniol potionAdd-onsSpikeBowstringOrbWeaponsBasicHalberdBowStaffAttunedHalberdBowStaffPerfectedHalberdBowStaffArmourBasicHelmBodyLegsAttunedHelmBodyLegsPerfectedHelmBodyLegs | Tools | SceptreAxePickaxeHarpoonEscape crystalTeleport crystalPestle and mortar | Resources | Paddlefish(Raw) (Burnt)Crystal paddlefishPhren barkLinum tirinumCrystal oreGrym leafVialWater-filled vialGrym potion (unf)Crystal shardsWeapon frameCrystal dustEgniol potion | Add-ons | SpikeBowstringOrb | Weapons | BasicHalberdBowStaffAttunedHalberdBowStaffPerfectedHalberdBowStaff | Basic | HalberdBowStaff | Attuned | HalberdBowStaff | Perfected | HalberdBowStaff | Armour | BasicHelmBodyLegsAttunedHelmBodyLegsPerfectedHelmBodyLegs | Basic | HelmBodyLegs | Attuned | HelmBodyLegs | Perfected | HelmBodyLegs
+
+Tools | SceptreAxePickaxeHarpoonEscape crystalTeleport crystalPestle and mortar
+
+Resources | Paddlefish(Raw) (Burnt)Crystal paddlefishPhren barkLinum tirinumCrystal oreGrym leafVialWater-filled vialGrym potion (unf)Crystal shardsWeapon frameCrystal dustEgniol potion
+
+Add-ons | SpikeBowstringOrb
+
+Weapons | BasicHalberdBowStaffAttunedHalberdBowStaffPerfectedHalberdBowStaff | Basic | HalberdBowStaff | Attuned | HalberdBowStaff | Perfected | HalberdBowStaff
+
+Basic | HalberdBowStaff
+
+Attuned | HalberdBowStaff
+
+Perfected | HalberdBowStaff
+
+Armour | BasicHelmBodyLegsAttunedHelmBodyLegsPerfectedHelmBodyLegs | Basic | HelmBodyLegs | Attuned | HelmBodyLegs | Perfected | HelmBodyLegs
+
+Basic | HelmBodyLegs
+
+Attuned | HelmBodyLegs
+
+Perfected | HelmBodyLegs
+
+Corrupted items | ToolsSceptreAxePickaxeHarpoonEscape crystalTeleport crystalResourcesCorrupted paddlefishPhren barkLinum tirinumCorrupted oreGrym leafVialGrym potion (unf)Corrupted shardsWeapon frameCorrupted dustAdd-onsSpikeBowstringOrbWeaponsBasicHalberdBowStaffAttunedHalberdBowStaffPerfectedHalberdBowStaffArmourBasicHelmBodyLegsAttunedHelmBodyLegsPerfectedHelmBodyLegs | Tools | SceptreAxePickaxeHarpoonEscape crystalTeleport crystal | Resources | Corrupted paddlefishPhren barkLinum tirinumCorrupted oreGrym leafVialGrym potion (unf)Corrupted shardsWeapon frameCorrupted dust | Add-ons | SpikeBowstringOrb | Weapons | BasicHalberdBowStaffAttunedHalberdBowStaffPerfectedHalberdBowStaff | Basic | HalberdBowStaff | Attuned | HalberdBowStaff | Perfected | HalberdBowStaff | Armour | BasicHelmBodyLegsAttunedHelmBodyLegsPerfectedHelmBodyLegs | Basic | HelmBodyLegs | Attuned | HelmBodyLegs | Perfected | HelmBodyLegs
+
+Tools | SceptreAxePickaxeHarpoonEscape crystalTeleport crystal
+
+Resources | Corrupted paddlefishPhren barkLinum tirinumCorrupted oreGrym leafVialGrym potion (unf)Corrupted shardsWeapon frameCorrupted dust
+
+Add-ons | SpikeBowstringOrb
+
+Weapons | BasicHalberdBowStaffAttunedHalberdBowStaffPerfectedHalberdBowStaff | Basic | HalberdBowStaff | Attuned | HalberdBowStaff | Perfected | HalberdBowStaff
+
+Basic | HalberdBowStaff
+
+Attuned | HalberdBowStaff
+
+Perfected | HalberdBowStaff
+
+Armour | BasicHelmBodyLegsAttunedHelmBodyLegsPerfectedHelmBodyLegs | Basic | HelmBodyLegs | Attuned | HelmBodyLegs | Perfected | HelmBodyLegs
+
+Basic | HelmBodyLegs
+
+Attuned | HelmBodyLegs
+
+Perfected | HelmBodyLegs
+
+Rewards | Crystal armour seedCrystal weapon seed(enhanced)Blade of Saeldor(corrupted)Bow of Faerdhinen(corrupted)YoungllefGauntlet cape
+
+Scenery | ScoreboardTool Storage(corrupted)Fishing Spot(corrupted)Range(corrupted)Singing Bowl(corrupted)Water Pump(corrupted)Phren Roots(corrupted)Linum Tirinum(corrupted)Crystal Deposit(corrupted)Grym Root(corrupted)Teleport Platform(corrupted)Illuminated Symbol(corrupted)Barrier(corrupted)
+
+Other | BrynCrystal Singing RecipesEgniol PotionsThe Gauntlet (music track)

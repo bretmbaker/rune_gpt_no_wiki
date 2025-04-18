@@ -1,0 +1,249 @@
+[Shop: Axe]
+
+Axe
+
+
+
+
+
+
+
+Primarytype | Slash
+
+Secondarytype | Crush
+
+
+
+Attack speed
+
+
+
+5 ticks (3.0 seconds)
+
+
+
+Axesare aweaponand a tool necessary forWoodcutting. It is classified as ameleeweapon, available in all varieties of metal, although its power and speed are less favourable than most others. Alternatively, they can be used to slash webs.
+
+Higher-level axes have a greater chance of obtaining logs from atreeand thus are generally faster to woodcut with. However, certain low-level trees become attainable at maximum speed at higher woodcutting levels, even with lower-level axes.
+
+Combat styles[edit|edit source]
+
+Combat style | Attack type | Weapon style | Experience | Level boost
+
+ | Chop | Slash | Accurate |  | +3 Attack
+
+ | Hack | Slash | Aggressive |  | +3 Strength
+
+ | Smash | Crush | Aggressive |  | +3 Strength
+
+ | Block | Slash | Defensive |  | +3 Defence
+
+Uses[edit|edit source]
+
+Achievement Diary[edit|edit source]
+
+Varrock Diary (Easy): Chop down a dying tree in theLumber Yard.
+
+Forestry[edit|edit source]
+
+Felling axesused withForester's rationsin their inventory or inside theirForestry kitoffer 10% more Woodcuttingexperiencethan regularaxeswhile also having a 20% chance to not obtain a log.
+
+Quests[edit|edit source]
+
+Grim Tales: 1 × any axe to chop down the beanstalkAnimal Magnetism: 1 ×mithril axeneeded to obtain theblessed axeLost City: 1 × any axe to chop a tree whereShamusis hidingLegends' Quest: 1 × any axe to chop trees whilst navigating through theKharazi Jungleand cutting/shaping the adultyommi treeinto ayommi totemOlaf's Quest: 1 × any axe to chop down thewindswept treeto obtain dry woodA Kingdom Divided: 1 × any axe to chop down vines whilst inside theForthos RuinsLunar Diplomacy: 1 × any axe to chop downdream treeswhilst in theDream WorldSins of the Father: 1 × any axe to chop down trees atCanifisto fix the broken bridge and to cut down theBlisterwood treeSong of the Elves: 1 × any axe to chop down thedead treeto freeLord Piquan Crwys
+
+Standard axes[edit|edit source]
+
+Item |  |  | Shop price | GEprice | Weight
+
+ | Bronze axe | 1 | 1 | 16[a][b] | 83 | 1.360 kg
+
+ | Iron axe | 1 | 1 | 56[a][b] | 100 | 1.360 kg
+
+ | Steel axe | 6 | 5 | 200[a][b] | 71 | 1.360 kg
+
+ | Black axe | 11 | 10 | Not sold | 867 | 1.360 kg
+
+ | Mithril axe | 21 | 20 | 1,664[b] | 113 | 1.133 kg
+
+ | Adamant axe | 31 | 30 | 4,096[b] | 434 | 1.587 kg
+
+ | Rune axe | 41 | 40 | 40,960[b] | 7,072 | 1.360 kg
+
+ | Dragon axe | 61 | 60 | Not sold | 50,468 | 1.360 kg
+
+ | Crystal axe[c] | 71 | 70 | Not sold | Untradeable | 0.907 kg
+
+Bonuses[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze axe | -2 | 4 | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 5 | 0% | 0 | 0 | 1.36 | 
+
+ | Iron axe | -2 | 5 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 7 | 0% | 0 | 0 | 1.36 | 
+
+ | Steel axe | -2 | 8 | 6 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 9 | 0% | 0 | 0 | 1.36 | 
+
+ | Black axe | -2 | 10 | 8 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 12 | 0% | 0 | 0 | 1.36 | 
+
+ | Mithril axe | -2 | 12 | 10 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 13 | 0% | 0 | 0 | 1.133 | 
+
+ | Adamant axe | -2 | 17 | 15 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 19 | 0% | 0 | 0 | 1.587 | 
+
+ | Rune axe | -2 | 26 | 24 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 29 | 0% | 0 | 0 | 1.36 | 
+
+ | Dragon axe | -2 | 38 | 32 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 42 | 0% | 0 | 0 | 1.36 | 
+
+ | Crystal axe | -2 | 38 | 32 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 42 | 0% | 0 | 0 | 0.907 | 
+
+Felling axes[edit|edit source]
+
+Item |  |  | GEprice | Weight
+
+ | Bronze felling axe | 1 | 1 | 1,118 | 1.814 kg
+
+ | Iron felling axe | 1 | 1 | 1,479 | 1.814 kg
+
+ | Steel felling axe | 6 | 5 | 1,480 | 1.814 kg
+
+ | Black felling axe | 11 | 10 | 10,064 | 1.814 kg
+
+ | Mithril felling axe | 21 | 20 | 24,480 | 1.814 kg
+
+ | Adamant felling axe | 31 | 30 | 126,821 | 1.814 kg
+
+ | Rune felling axe | 41 | 40 | 1,811,782 | 1.814 kg
+
+ | Dragon felling axe | 61 | 60 | 1,809,181 | 1.814 kg
+
+ | Crystal felling axe[a] | 71 | 70 | Untradeable | 1.36 kg
+
+Bonuses[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze felling axe | -3 | 6 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 8 | 0% | 0 | 0 | 1.814 | 
+
+ | Iron felling axe | -3 | 8 | 4 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 11 | 0% | 0 | 0 | 1.814 | 
+
+ | Black felling axe | -2 | 10 | 8 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 12 | 0% | 0 | 0 | 1.814 | 
+
+ | Steel felling axe | -3 | 12 | 9 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 14 | 0% | 0 | 0 | 1.814 | 
+
+ | Mithril felling axe | -3 | 19 | 16 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 20 | 0% | 0 | 0 | 1.814 | 
+
+ | Adamant felling axe | -3 | 27 | 24 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 30 | 0% | 0 | 0 | 1.814 | 
+
+ | Rune felling axe | -3 | 41 | 38 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 46 | 0% | 0 | 0 | 1.814 | 
+
+ | Dragon felling axe | -3 | 60 | 51 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 67 | 0% | 0 | 0 | 1.814 | 
+
+ | Crystal felling axe | -3 | 60 | 51 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 67 | 0% | 0 | 0 | 1.36 | 
+
+Other axes[edit|edit source]
+
+Item |  |  | Shop price | GEprice | Weight
+
+ | Blessed axe | 21 | 20 | Not sold | Untradeable | 1.162 kg
+
+ | Gilded axe | 41 | 40 | Not sold | 6,098,974 | 1.360 kg
+
+ | Infernal axe[1] | 61 | 60 | Not sold | Untradeable | 1.814 kg
+
+ | 3rd age axe | 61 | 65 | Not sold | 2,147,483,646 | 1.360 kg
+
+ | 3rd age felling axe | 61 | 65 | Not sold | 2,147,474,607 | 1.814 kg
+
+Bonuses[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Blessed axe | -2 | 12 | 10 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 13 | 0% | 0 | 2 | 1.162 | 
+
+ | Gilded axe | -2 | 26 | 24 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 29 | 0% | 0 | 0 | 1.36 | 
+
+ | Infernal axe | -2 | 38 | 32 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 42 | 0% | 0 | 0 | 1.814 | 
+
+ | 3rd age axe | -2 | 38 | 32 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 42 | 0% | 0 | 0 | 1.36 | 
+
+ | 3rd age felling axe | -3 | 60 | 51 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 67 | 0% | 0 | 0 | 1.814 | 
+
+Relative Chance for Standard Axes[edit|edit source]
+
+The table below compares the standard axes' chance to obtain a log, relatively speaking, and be read by going across first and then down.
+
+For example: the chance to obtain a log using an adamant axe (across) is 150% that of a steel axe (down), or 50% higher.
+
+ | Bronze Axe | Iron Axe | Steel Axe | Black Axe | Mithril Axe | Adamant Axe | Rune Axe | Dragon Axe | Crystal Axe
+
+Bronze Axe | -- | 150% | 200% | 225% | 250% | 300% | 350% | 385% | 402.5%
+
+Iron Axe | -- | 133.3% | 150% | 166.7% | 200% | 233.3% | 256.7% | 268.3%
+
+Steel Axe | -- | 112.5% | 125% | 150% | 175% | 192.5% | 201.3%
+
+Black Axe | -- | 111.1% | 133.3% | 155.6% | 171.1% | 178.9%
+
+Mithril Axe | -- | 120% | 140% | 154% | 161%
+
+Adamant Axe | -- | 116.7% | 128.3% | 134.2%
+
+Rune Axe | -- | 110% | 115%
+
+Dragon Axe | -- | 104.5%
+
+Trivia[edit|edit source]
+
+Broken axes, before being removed after an update, were able to be wielded. But once unequipped, they could no longer be equipped by the player. They possessed the same bonuses as their unbroken counterparts.
+
+v•t•eAxes
+
+Standard | BronzeIronSteelBlackMithrilAdamantRuneDragon(or)
+
+Other | BlessedGilded3rd ageInfernal(or)CrystalTrailblazer
+
+Felling axes | BronzeIronSteelBlackMithrilAdamantRuneDragon3rd ageCrystal
+
+Axe head(discontinued) | HandleBronzeIronSteelBlackMithrilAdamantRuneDragon
+
+Broken(discontinued) | BronzeIronSteelBlackMithrilAdamantRuneDragon
+
+v•t•eWeapons
+
+Melee | StabPickaxeHarpoonDaggerSwordHastaSpearPartisanSlashSickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberdCrushBannerBlackjackCanePolestaffMaceMaulWarhammer | Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan | Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd | Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Stab | PickaxeHarpoonDaggerSwordHastaSpearPartisan
+
+Slash | SickleMacheteAxeClawsCutlassScimitarScytheLongswordBattleaxeWhipTwo-handed swordHalberd
+
+Crush | BannerBlackjackCanePolestaffMaceMaulWarhammer
+
+Magic | StaffBattlestaffCrozierMystic staffPowered staffBladed staffWand
+
+Ranged | ShortbowLongbowComposite bowCrossbowBallistaThrownDartThrowing knifeThrowing axeChinchompa |  | ShortbowLongbowComposite bowCrossbowBallista | Thrown | DartThrowing knifeThrowing axeChinchompa
+
+ | ShortbowLongbowComposite bowCrossbowBallista
+
+Thrown | DartThrowing knifeThrowing axeChinchompa
+
+Other | DefenderSalamanderShieldFun weapons
+
+v•t•eTools
+
+General | AxeChiselHammer(Imcando•Imcando off-hand)KnifeMachete(Opal) (Jade) (Red topaz)Pestle and mortar(The Gauntlet)PickaxeSaw(Crystal) (Amy's) (Amy's off-hand)ShearsTinderbox
+
+Fishing | Barbarian rod(Pearl)Big fishing netFishing rod(Pearl)Fly fishing rod(Pearl)Harpoon(Barb-tail)Karambwan vesselLobster potOily fishing rod(Pearl)Small fishing net
+
+Crafting | Ammo mould(Double)Amulet mouldBolt mouldBracelet mouldCostume needleGlassblowing pipeHoly mouldNecklace mouldNeedle(Costume)Ring mouldSickle mouldTiara mouldUnholy mould
+
+Farming | Gardening trowelRakeSecateurs(Magic)Seed dibberSpade
+
+Hunter | Bird snareBox trapButterfly net(Magic)TorchMagic boxNoose wandRabbit snareTeasing stick
+
+Orikalkumtools | Axe(Infernal) (Crystal)Harpoon(Infernal) (Crystal)Pickaxe(Infernal) (Crystal)

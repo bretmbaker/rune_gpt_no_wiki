@@ -1,0 +1,1 @@
+Apower boxis an item used in theDorgesh-Kaan agility courseto repair the power station and complete a lap. If a player attempts to use the grapple route on the course while holding this item, they will fall and the item will become broken and useless. Selecting the Destroy option for a broken Power box immediately removes it from the game without a warning.

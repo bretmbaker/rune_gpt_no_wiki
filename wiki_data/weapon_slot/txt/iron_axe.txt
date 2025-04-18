@@ -1,0 +1,78 @@
+[Weapon: Iron Axe]
+
+
+Theiron axeis the second weakestaxeinOld School RuneScape, being slightly better than thebronze axe. It can be used incombator inWoodcuttingto cuttrees. An iron axe has the same level requirements as a bronze axe, making it the better choice for new players.
+The success rate for chopping a log is approximately 150% that of theBronze axe.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A woodcutter's axe.
+General Store Value: 56 coins
+High alch: 33 coins
+Low alch: 22 coins
+Weight: 1.36 kg
+Respawn time: 500 ticks (300 seconds)
+Grand Exchange Value: 100 coins
+Grand Exchange Daily Buy Limit: 40
+Grand Exchange Daily Trades Volume: 3,883
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -2
+- Slash: +5
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +7
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Hack | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Adventurer JonGetting started Woodcutting | N/A | 1 | Always | N/A
+Barbarian (Barbarian Camp)High level | 15 | 1 | 6/128 | 
+BarbarianHigh level | 15; 17 | 1 | 6/128 | 
+Guard (H.A.M. Storerooms) | 20 | 1 | 9/500 | 
+Gunthor the brave | 29 | 1 | 6/128 | 
+H.A.M. Guard | 12; 18; 22 | 1 | 3/110 | 
+H.A.M. Member | 15 | 1 | 3/100 | 
+Ogre Coffin | 20 | 1 | 3/100 | 
+Scavenger beast |  | 1 | 2 × 1/18 | 
+Skeletal miner | 42 | 1 | 2/128 | 
+Skeleton (Catacombs of Kourend) | 22 | 1 | 2/128 | 
+Skeleton (Tarn's Lair)Medium level | 40; 63; 72; 77 | 1 | 3/128 | 
+SkeletonArmed | 25; 45 | 1 | 2/128 | 
+Swamp Crab | 55 | 1 | 5/128 | 
+Zombie (Entrana Dungeon) | 25 | 1 | 1/128 | 
+ZombieLevel 13 | 13 | 1 | 1/128 | 

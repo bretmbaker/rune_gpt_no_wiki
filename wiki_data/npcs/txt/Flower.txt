@@ -1,0 +1,2 @@
+Item: Flower
+Summary: Flowers are plants that surround the Hespori patch in the west-wing of the Farming Guild. During the fight the flowers will open up three times: at the beginning of the fight, after the Hespori reaches 66% of its health, and once again when it reaches 33% of its health. They have 10 hitpoints each and always die in one hit. The Hespori cannot be attacked while any of them are active, all of them must be subdued before the Hespori can be harmed.

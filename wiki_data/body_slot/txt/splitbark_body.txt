@@ -1,0 +1,54 @@
+[Weapon: Splitbark Body]
+
+
+Thesplitbark bodyis a piece ofsplitbark armourworn in thebody slot. 40Magicand 40Defenceare required to wear it. A splitbark body can be created by using aneedleandthreadon four pieces offine clothand fourbark, requiring 62 Crafting. Alternatively, it can be made without the Crafting requirement by giving fourbark, fourfine cloth, and 37,000 coins toWizard Jalarastat theWizards' Tower. An alternative to this is theLunar torsowhich has slightly lower defence stats.
+It can be stored in amagic wardrobein a player-owned house.
+
+
+[Infobox]
+Released: 18 October2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Provides good protection.
+General Store Value: 45,000 coins
+High alch: 27,000 coins
+Low alch: 18,000 coins
+Weight: 4.535 kg
+Grand Exchange Value: 29,865 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 1,280
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +10
+- Ranged: -10
+
+Defence Bonuses:
+- Stab: +36
+- Slash: +26
+- Crush: +42
+- Magic: +15
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chaos Fanatic | 202 | 1 | 5/128 | 

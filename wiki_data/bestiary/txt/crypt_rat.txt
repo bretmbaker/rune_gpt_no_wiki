@@ -1,0 +1,43 @@
+Name: Crypt rat
+Combat Level: 43
+Size: 1x1
+Info:
+- Description: A nasty little rodent.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 35 xp
+- Category: Rats
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 1679
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Rat bone (1/4[d 1][1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 35
+Attack: 70
+Strength: 20
+Defence: 20
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

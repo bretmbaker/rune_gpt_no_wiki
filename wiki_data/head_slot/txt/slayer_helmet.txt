@@ -1,0 +1,68 @@
+[Weapon: Slayer Helmet]
+
+
+ASlayer helmetis a piece of headgear made by combining anose peg,facemask,earmuffs,spiny helmet,enchanted gem, and ablack masktogether.Reinforced gogglesare additionally required only if the questA Porcine of Interestis completed. The helmet can be created by players with level 55Crafting(boostswork) and who have unlocked the "Malevolent masquerade" ability for 400Slayer reward points. It requires 10Defenceto equip. Despite the helmet requiring anose peg, which requires 60Slayerto equip, the Slayer helmet requires no particular Slayer level to wear.
+The helmet has the same defensive bonuses as arune full helm. Additionally, while worn, the helmet provides the special effects of all of the Slayer equipment from which it was made. It will prevent infection fromNex's virus attack, and can be used aswarm clothingforWintertodt.
+
+
+[Infobox]
+Released: 6 January2014(Update)
+Also called: Slayer helm
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check, Disassemble, Drop
+Worn options: Check, Partner, Log
+Examine: You don't want to wear it inside-out.
+General Store Value: 40,000 coins
+High alch: 24,000 coins
+Low alch: 16,000 coins
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +30
+- Slash: +32
+- Crush: +27
+- Magic: -1
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Amoxliatl/Strategies(Melee)
+1 | Ancient Wyvern/Strategies(Prayer)
+1 | Ancient Wyvern/Strategies(Melee)
+1 | Basilisk Knight/Strategies(Melee)
+1 | Drake/Strategies(Melee)
+3 | Grotesque Guardians/Strategies(Melee)
+1 | King Black Dragon/Strategies(Melee BIS smuggle)
+1 | King Black Dragon/Strategies(4-item melee)
+1 | Lava dragon/Strategies(Melee)
+1 | Lizardman shaman/Strategies(Melee)
+1 | Metal dragons/Strategies(Melee)
+1 | Skeletal Wyvern/Strategies(Melee)
+1 | Skotizo/Strategies(Melee)
+1 | Slayer task/Fossil Island wyverns(Melee)
+1 | Slayer task/Fossil Island wyverns(Prayer)
+1 | Vyrewatch Sentinel/Strategies(DPS)

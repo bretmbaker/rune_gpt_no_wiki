@@ -1,0 +1,46 @@
+[Weapon: Bronze Gloves]
+
+
+Bronze glovesare specialglovesthat can be bought from theCulinaromancer's Chestafter completion of oneRecipe for Disastersubquest.
+Bronze gloves, like most other untradeable items, are kept on death in the Wilderness if they are among your protected items.
+
+
+[Infobox]
+Released: 15 March2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A pair of gloves.
+General Store Value: 100 coins
+High alch: 60 coins
+Low alch: 40 coins
+Weight: 0.226 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: +1
+- Ranged: +2
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: +1
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

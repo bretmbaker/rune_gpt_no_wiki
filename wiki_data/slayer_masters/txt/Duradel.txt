@@ -1,0 +1,180 @@
+[Slayer Master: Duradel]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+Duradel
+
+
+
+
+
+
+
+Released | 26 January2005(Update)
+
+Members | Yes
+
+Race | Human
+
+Location | Shilo Village
+
+Leagueregion | Karamja✓
+
+Shop | Slayer Equipment,Slayer Rewards
+
+Gender | Male
+
+Options | Talk-to, Assignment, Trade, Rewards
+
+Examine | He looks dangerous!
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+NPC ID | 13622
+
+Link | MOID
+
+
+
+Duradelis the highest levelSlayer master. He's located inShilo Village, which requires the completion of theShilo Villagequest to be accessed. He can be reached by climbing the ladder in the fishing shop located just south of the river. To receiveSlayer tasksfrom Duradel, acombat levelof 100 and aSlayerlevel of 50 is required, or any combat level if the player has achieved 99 Slayer and shows him theSlayer cape. Being assigned a Slayer task from him is a hard task in theKaramja Diary. Duradel appears to be wieldingrune claws.
+
+Players who have achieved 99 Slayer can purchase aSlayer capefrom him for 99,000 coins.
+
+Getting there[edit|edit source]
+
+The quickest method to obtain an assignment from Duradel is to use theLunar spell,NPC Contact, requiring the completion of theLunar Diplomacyquest to cast the spell.Using the "Slayer Master" option on theKaramja gloves 4to teleport directly next to Duradel.Using theKaramja gloves 3will teleport you beside the ladder inside theGem mineunder Shilo Village. Go up the ladder, then cross the bridge to the south and head east.Fairy ringcodeCKRto teleport west of Shilo Village then heading south towards theKharazi Jungleand then east and up to reach the village. Then head a bit north.Using thecart systemto travel fromBrimhavenfor 200coinsonce you finish the Shilo Village quest, then run east.
+
+Slayer points[edit|edit source]
+
+Players can receiveSlayer reward pointsfor completingSlayer tasks—this is based on how many tasks players have accomplished in a row. Completion of a task assigned by Duradel will grant you:
+
+Task interval | Points given
+
+Every task | 15
+
+Every 10th | 75
+
+Every 50th | 225
+
+Every 100th | 375
+
+Every 250th | 525
+
+Every 1,000th | 750
+
+Tasks[edit|edit source]
+
+Monster | Amount | Extended amt. | Unlock requirement | Alternative(s) | Weight
+
+Aberrant spectres | 130-200 | 200-250 | 60,65, completion ofPriest in Peril | Deviant spectre | 7
+
+Abyssal demons | 130-200 | 200-250 | 85,85, completion ofPriest in PerilorFairytale II - Cure a Queen[1] | Abyssal Sire,Reanimated abyssal | 12
+
+Adamant dragons | 4-9 | 20-30 | Completion ofDragon Slayer II | None | 2
+
+Ankou | 50-80 | 91-150 | 40 | Dark Ankou | 5
+
+Araxytes | 60-80 | 200-250 | 92, Completion ofPriest in Peril | Araxxor | 10
+
+Aviansie | 120-200 | 200-250 | Unlocked theWatch the birdieability via spending 80Slayer reward points | Kree'arra,Flight Kilisa,Flockleader Geerin,Wingman Skree,Reanimated aviansie | 8
+
+Basilisks | 130-200 | 200-250 | 40, unlocked theBasilockedability via spending 80Slayer reward points | Basilisk Knight | 7
+
+Black demons | 130-200 | 200-250 | 80 | Demonic gorillas,Balfrug Kreeyath,Porazdir,Skotizo | 8
+
+Black dragons | 10-20 | 40-60 | 80, partial completion ofDragon Slayer I | Baby black dragons,King Black Dragon,brutal black dragons(77) | 9
+
+Bloodveld | 130-200 | 200-250 | 50,50, completion ofPriest in Peril | Mutated Bloodveld,Reanimated Bloodveld | 8
+
+Blue dragons | 110-170 | N/A | 65, partial completion ofDragon Slayer I | Baby blue dragons,brutal blue dragons,Vorkath | 4
+
+Boss[n 1] | 3-35[n 2] | N/A | Unlocked theLike a bossability via spending 200Slayer reward points, as well as various requirements for specific bosses | None | 12
+
+Cave horrors | 130-200 | 200-250 | 58,85, completion ofCabin Fever | None | 4
+
+Cave kraken | 100-120 | 150-200 | 87,80,50 | Kraken | 9
+
+Dagannoth | 130-200 | N/A | 75, completion ofHorror from the Deep | Dagannoth spawn,Dagannoth fledgeling,Dagannoth Kings,Reanimated dagannoth | 9
+
+Dark beasts | 10-20 | 110-135 | 90,90, startedMourning's End Part II | None | 11
+
+Drakes | 50-110 | N/A | 84 | None | 8
+
+Dust devils | 130-200 | 200-250 | 65,70, partial completion ofDesert Treasure I | None | 5
+
+Elves | 110-170 | N/A | 70, partial completion ofRegicide | Elf warrior,mourner(Mourner Headquarters),Guard (Prifddinas),Reanimated elf,Iorwerth Warrior | 4
+
+Fire giants | 130-200 | N/A | 65 | Branda the Fire Queen (Royal Titans) | 7
+
+Fossil Island Wyverns | 20-50 | 55-75 | 66,60, completion ofBone Voyage, completion ofElemental Workshop I[2] | Spitting,talonedandlong-tailed wyvern(66),Ancient Wyvern(82) | 7
+
+Gargoyles | 130-200 | 200-250 | 75,80, completion ofPriest in Peril | Grotesque Guardians | 8
+
+Greater demons | 130-200 | 200-250 | 75 | K'ril Tsutsaroth,Tstanon Karlak,Skotizo,Tormented Demon | 9
+
+Hellhounds | 130-200 | N/A | 75 | Cerberus(91),Skeleton Hellhound,Greater Skeleton Hellhound,Reanimated hellhound | 10
+
+Iron dragons | 40-60 | 60-100 | 80, partial completion ofDragon Slayer I | None | 5
+
+Kalphite | 130-200 | N/A | 15 | Kalphite worker,Kalphite soldier,Kalphite guardian,Kalphite Queen,Reanimated kalphite | 9
+
+Kurask | 130-200 | N/A | 70,65 | None | 4
+
+Lizardmen | 130-210 | N/A | Unlocked theReptile got rippedability via spending 75Slayer reward points | Lizardman brute,Lizardman shaman | 10
+
+Mithril dragons | 5-10 | 25-35 | Unlocked theI hope you mith meability via spending 80Slayer reward points, partial completion of theBarbarian Trainingminiquest | None | 9
+
+Mutated Zygomites | 20-30 | N/A | 57,60, completion ofLost City | Ancient Zygomite | 2
+
+Nechryael | 130-200 | 200-250 | 80,85, completion ofPriest in Peril | Greater Nechryael | 9
+
+Red dragons | 30-65 | N/A | 68, partial completion ofDragon Slayer I, unlocked theSeeing redability via spending 50Slayer reward points | Baby red dragons,brutal red dragons | 8
+
+Rune dragons | 3-8 | 30-60 | Completion ofDragon Slayer II | None | 2
+
+Skeletal Wyverns | 20-40 | 50-70 | 72,70, completion ofElemental Workshop I | None | 7
+
+Smoke devils | 130-200 | N/A | 93,85 | Thermonuclear smoke devil | 9
+
+Spiritual creatures | 130-200 | 181-250 | 63,60, completion ofDeath Plateau, level 60 inor | Spiritual ranger(63),warrior(68),mage(83) | 7
+
+Steel dragons | 10-20 | 40-60 | 85, partial completion ofDragon Slayer I | None | 7
+
+Suqah | 60-90 | 186-250 | 85, partial completion ofLunar Diplomacy | None | 8
+
+Trolls | 130-200 | N/A | 60 | Mountain troll,ice troll,Troll general,Reanimated troll,Dad,Ice Troll King,Arrg | 6
+
+TzHaar | 130-199 | N/A | Unlocked theHot stuffability via spending 100Slayer reward points | TzTok-Jad,[n 3]TzKal-Zuk[n 4] | 10
+
+Vampyres | 100-210 | 200-250 | Unlocked theActual Vampyre Slayerability via spending 80Slayer reward points | Feral Vampyre,Vampyre Juvinate,Vyrewatch,Vyrewatch Sentinel | 8
+
+Warped creatures | 130-200 | N/A | Unlocked theWarped Realityability via spending 60Slayer reward points | Warped Terrorbird,Warped Tortoise | 8
+
+Waterfiends | 130-200 | N/A | 75, progressed the Firemaking tasks of theBarbarian Trainingminiquestup to craftingPyre ships. | None | 2
+
+Wyrms | 100-160 | N/A | 62 | Wyrmling | 8
+
+Totaltask weight | 321
+
+Stock[edit|edit source]
+
+Note: If a player has multiple99s, they will receive the trimmed variant of the cape instead.
+
+Item | Pricesold at
+
+ | Slayer cape | 99,000
+
+ | Slayer cape(t) | 99,000
+
+Dialogue[edit|edit source]
+
+This article on an NPC has an associated dialogue page.Click herefor a transcript of possible conversations with this NPC.Click herefor a list of other transcripts that this NPC speaks in.
+

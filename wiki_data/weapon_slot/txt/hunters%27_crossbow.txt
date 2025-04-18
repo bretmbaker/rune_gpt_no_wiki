@@ -1,0 +1,56 @@
+[Weapon: Hunters%27 Crossbow]
+
+
+Thehunters' crossbowis acrossbowthat requires 50Rangedto wield. It possesses a firing speed of 4, equivalent to that of ashortbow. It can only usekebbit boltsandlong kebbit boltsas ammunition. Players with at least 74Fletchingcan upgrade the hunters' crossbow into thehunters' sunlight crossbowby using asunlight antelope antleron it while having achiselin their inventory.
+The hunters' crossbow can be bought fromLeonfor 1,300 coins at theLeon's Prototype Crossbowshop inYanille. Itcannotbe crafted by players.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A weapon made of bone and wood.
+General Store Value: 1,300 coins
+High alch: 780 coins
+Low alch: 520 coins
+Weight: 5 kg
+Grand Exchange Value: 2,740 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 353
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +55
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Heavy | Accurate | 4 ticks (2.4s) | 8 tiles |  | +3 Ranged
+ | Rapid | Heavy | Rapid | 3 ticks (1.8s) | 8 tiles |  | None
+ | Longrange | Heavy | Longrange | 4 ticks (2.4s) | 10 tiles |  | +3 Defence

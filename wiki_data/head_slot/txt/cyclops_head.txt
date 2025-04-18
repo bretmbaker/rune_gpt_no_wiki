@@ -1,0 +1,54 @@
+[Weapon: Cyclops Head]
+
+
+Acyclops headis a piece ofheadgearobtained as a reward fromhardTreasure Trails. It has nocombatbonuses, and is used only for aesthetics.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: You'd expect this to interfere with your 3D vision.
+General Store Value: 5,000 coins
+High alch: 3,000 coins
+Low alch: 2,000 coins
+Weight: 0.2 kg
+Grand Exchange Value: 5,086 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 67
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

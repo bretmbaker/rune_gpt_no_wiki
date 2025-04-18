@@ -1,0 +1,51 @@
+[Weapon: Khazard Helmet]
+
+
+AKhazard helmetis aquest itemin theFight Arenaquest. It is a dark colouredmedium helmetthat is part of theKhazard armour set. It has stats similar to aniron med helm, except unlike mostmedium helmets, it does not have a penalty toMagic, making it a viable choice for mages and rangers.
+In the Fight Arena quest, a Khazard helmet andKhazard armourcan only be found by searching thechestin a building north of theFight Arena. They both must be worn to enter the Khazard prisons. Unequipping either the helmet or armour inside the jail causes the guards to kick the player out.
+
+
+[Infobox]
+Released: 23 July2002(Update)
+Members: Yes
+Quest item: Fight Arena
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A helmet, as worn by the minions of General Khazard.
+General Store Value: 30 coins
+High alch: 18 coins
+Low alch: 12 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +4
+- Slash: +5
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Fight Arena) | N/A | 1 | Always | 

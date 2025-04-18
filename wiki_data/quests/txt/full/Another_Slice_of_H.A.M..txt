@@ -1,0 +1,148 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Another Slice of H.A.M. (#124)
+
+
+
+
+
+Released | 24 April 2007 ( Update )
+
+Members | Yes
+
+Quest series | Dorgeshuun , #3
+
+Lead developer(s) | John A
+
+
+
+Another Slice of H.A.M. is the third quest in the Dorgeshuun quest series . It involves another plot orchestrated by Sigmund to destroy the Dorgeshuun , this time involving the dwarves .
+
+Details [ edit | edit source ]
+
+Start point | Go to Ur-tag 's house in Dorgesh-Kaan . (Can be reached either via Kazgar from the Lumbridge cellar or via Dartog from the water mill by telling either NPC to take the player to the mines. Afterwards, go south past the sword icon and enter the door.) Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | The dwarves are building a new underground rail link between their city of Keldagrim and the cave goblins' Dorgesh-Kaan, but work is being held up by the discovery of ancient goblin artefacts, and they need the help of a qualified archaeologist. Helping them out should be simple enough - unless you stumble upon another H.A.M. plot against the city.
+
+Requirements | 15 Attack ( not boostable ) 25 Prayer ( not boostable ) Completion of the following quests: Death to the Dorgeshuun The Lost Tribe Goblin Diplomacy Rune Mysteries The Giant Dwarf The Dig Site The ability to defeat a level 64 (using any combat style) and two level 30 enemies using either Ranged or Magic .
+
+Items required | A light source A tinderbox Magic or Ranged gear for enemy fight (cannot use Melee on them)
+
+Recommended | 35 Combat level Fast teleports to Lumbridge Swamp ( Ring of the elements to water altar , amulet of glory to Draynor Village , Lumbridge teleport , or Home Teleport ) Food Stamina potions At least eight empty inventory spaces at the start of the quest
+
+Enemies to defeat | H.A.M. Archer (level 30) H.A.M. Mage (level 30) Sigmund (level 64)
+
+League notes | Asgarnia ✓ — location requirement Fremennik ✓ — location requirement
+
+Walkthrough [ edit | edit source ]
+
+Excavation [ edit | edit source ]
+
+Speak to Ur-tag (upstairs) or Ambassador Alvijar . They can be found in the northern part of the city, up the stairs, then east to house with quest start icon. They will explain they are making a train route between Keldagrim and Dorgesh-Kaan . Go to the Station south-west of the city (without going down the first staircase, see middle image above) until you find a transportation sign (on your minimap). Go through the doorway, and you will end up in a train station.
+
+Walk south on the tracks and talk to Tegdak ; he will give you a trowel and a specimen brush . Dig up the artefacts hidden on the unfinished railway tracks by using the trowel on them (they look similar to the other rocks on that surface but they are bigger than others so it's quite easy to recognise). Clean all six artefacts by using an artefact on the specimen table - you will then end up with an armour shard , an axe head , a helmet fragment , an ancient mace (shows as a "mace" for now), a shield fragment , and a sword fragment . After cleaning them, talk to Tegdak.
+
+To the village [ edit | edit source ]
+
+Items needed: Ranged or magic weapons and armour, a light source
+
+Before continuing, it's recommended that you bank and equip gear to fight with ranged or magic now (knives and darts will not work unless you can use long range). You won't get a chance to bank before the upcoming fight.
+
+NOTE: In this section, Zanik will follow you just as she did in the past. You must dismiss your follower before taking her with you. Additionally, if you teleport yourself you will leave Zanik behind. If you lose her, return to the station tunnel to ask her to follow you again.
+
+Now, take Zanik with you, and go north. Exit the station and visit the goblin scribe west of Ur-tag's house, where you started the quest.
+
+Talk to him about the symbols that are covering the mace that you found. The scribe will not be able to tell you anything about the symbols, but he suggests that you go talk to the goblin generals in Goblin Village .
+
+Go down the stairs in the house just west of the scribe and talk to Oldak . He will teleport you to the Goblin Village and give you a sphere to teleport back to the city.
+Once you're in the village, talk to one of the generals and a cutscene will begin. In the end, you discover that Zanik is likely the goblins' prophesied 'Chosen Commander'. The mace is also found to have the power of the goblin 'Big High War God', Bandos .
+
+The H.A.M-bush [ edit | edit source ]
+
+ | This fight takes place in an instance . On death , all unprotected items will be moved to a grave outside the instance. Any items left on the ground will be lost.
+
+At the end of the cutscene, two H.A.M. Members show up and start attacking the goblins with Ranged and Magic . Head south, taking the path around the back (west side) of the buildings, but stay out of the attack range. When you get to the tower, climb up the ladder and kill the H.A.M. Mage and H.A.M. Archer with either Magic or Ranged. A bronze crossbow and 50 bronze bolts spawn upstairs next to the ladder if you need a weapon. They do not respawn if you run out of ammo. However, you can respawn the bolts by closing and reopening the quest's instance. This can be done in a relatively quick fashion by walking a few tiles south of the ladder and then back north. This will reset both of the enemies as well, so if you think you'll need more than 50 bolts, collect extra bolts before you start trying to kill them. You will likely take hits climbing up and down the ladder even if you're only grabbing the bolts.
+
+You can simply fight the two foes, or you can also take cover behind the box so you won't take damage. When you're prepared, come out from behind the crates and attack the H.A.M. If things get too hot, or you need a break, click " hide behind crate " again in order to stop the damage. The mage and ranger will hit at the same time, and never miss, so using protection prayers can only reduce damage. It is possible to avoid all damage by hiding behind crates, click one enemy, and then immediately after hide behind crates. Using a crossbow on rapid-fire allows the player to fire a bolt and hide behind the crates before the enemy's projectile hits. In order to use darts, the player must use the Long Range combat style.
+
+When you have done this, there will be another short cutscene where Zanik is kidnapped by Sigmund . The goblin generals will tell you they are sending two sergeants to help you and that you should meet them at Lumbridge Swamp . They will also give you the ancient mace .
+
+Getting past the guards [ edit | edit source ]
+
+ | This fight takes place in an instance . On death , all unprotected items will be moved to a grave outside the instance. Any items left on the ground will be lost.
+
+Sigmund plans to kill her on the train tracks between Keldagrim and Dorgesh-Kaan , making it look like an accident so that war will break out between the dwarves and the goblins. You cannot enter through the Dorgesh-Kaan entrance this time (it will say the staircase is closed), so you must go to the Lumbridge swamp cave entrance and meet the goblin warriors who will be helping you.
+
+Now, go to the Lumbridge Swamp , and talk to the goblin sergeants, Sergeant Slimetoes and Sergeant Mossfists . They should be near the entrance to the Lumbridge Swamp Caves (make sure you have your light source for this part).
+
+Another Sigmund showdown [ edit | edit source ]
+
+ | This fight takes place in an instance . On death , all unprotected items will be moved to a grave outside the instance. Any items left on the ground will be lost.
+
+Note: If you use the mace's special attack too quickly after the fight starts there is a possibility that it will not work and the prayer-draining effect will not appear.
+
+ | Grand Opening
+
+The music which plays during the grand opening of the train line.
+
+
+
+A cutscene will play, and you will immediately have to fight Sigmund (level 64). Attack him using any weapon, and he will turn on the Protection prayer corresponding to that attack, thus making him invulnerable. Use the ancient mace 's special attack to remove his ability to use protection prayers for the rest of the fight, and finish him off using whichever method you prefer.
+
+Note that this fight is not optional; if you attempt to untie Zanik whilst the fight is still in progress, you will be hit for around 10 Hitpoints of damage.
+
+The end [ edit | edit source ]
+
+Once Sigmund has been defeated, he will teleport away. Untie Zanik and get ready to watch the final cutscene about the grand opening of the Dorgesh-Kaan–Keldagrim train system .
+
+Congratulations, quest complete!
+
+Rewards [ edit | edit source ]
+
+1 Quest point 3,000 Mining experience 3,000 Prayer experience The ancient mace The ability to buy Goblin Village teleport spheres Free access to the Dorgesh-Kaan–Keldagrim train system
+
+Required for completing [ edit | edit source ]
+
+Completion of Another Slice of H.A.M. is required for the following:
+
+Lumbridge & Draynor Diary hard task: Take the train from Dorgesh-Kaan to Keldagrim. Land of the Goblins
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+17 January 2019 ( update ) | Mobile A flash effect in a cutscene has been fixed on mobile.
+
+Trivia [ edit | edit source ]
+
+Sigmund ties Zanik to a railway track. This is a classic scenario from old films and cartoons, such as Charlie Chaplin films from the 1920s (hence the music in this scene: Slice of Silent Movie ). The quest page had a different spoiler message on the first day of release. Instead of the usual message, it said, " Stop! H.A.M. time! No spoilers for you, this day ." This refers to the song " U Can't Touch This " by MC Hammer . The original sequel to this quest, Land of the Goblins , exists in the archive and was added to the live game in February 2022.
+
+v • t • e Another Slice of H.A.M.
+
+NPCs | Dwarves Ambassador Alvijar Builder Ticket dwarf Crowd of dwarves Goblins Grubfoot General Bentnoze General Wartface Sergeant Mossfists Sergeant Slimetoes Goblin crowd Cave goblins Oldak Tegdak Ticket goblin Zanik Cave gobins Council members H.A.M. Cultists Sigmund H.A.M. Archer H.A.M. Mage Guard | Dwarves | Ambassador Alvijar Builder Ticket dwarf Crowd of dwarves | Goblins | Grubfoot General Bentnoze General Wartface Sergeant Mossfists Sergeant Slimetoes Goblin crowd | Cave goblins | Oldak Tegdak Ticket goblin Zanik Cave gobins Council members | H.A.M. Cultists | Sigmund H.A.M. Archer H.A.M. Mage Guard
+
+Dwarves | Ambassador Alvijar Builder Ticket dwarf Crowd of dwarves
+
+Goblins | Grubfoot General Bentnoze General Wartface Sergeant Mossfists Sergeant Slimetoes Goblin crowd
+
+Cave goblins | Oldak Tegdak Ticket goblin Zanik Cave gobins Council members
+
+H.A.M. Cultists | Sigmund H.A.M. Archer H.A.M. Mage Guard
+
+Items | Ancient mace Mace Armour shard Axe head Artefact Fragments Helmet Shield Sword |  | Ancient mace Mace Armour shard Axe head Artefact | Fragments | Helmet Shield Sword
+
+ | Ancient mace Mace Armour shard Axe head Artefact
+
+Fragments | Helmet Shield Sword
+
+Music | Ham and Seek Ham Attack Slice of Silent Movie Slice of Station
+
+Related | Quick guide Transcript Dorgesh-Kaan–Keldagrim train system Dorgesh-kaan sphere

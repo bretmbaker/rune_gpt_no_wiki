@@ -1,0 +1,46 @@
+[Weapon: Mystic Robe Top (Or)]
+
+
+Themystic robe top (or)is amystic robe topwith ashattered relics mystic ornament kitadded onto it. The kit gives no additional bonuses, and is only used to add aesthetics to the robe top.
+The ornament kit is only compatible with the standard blue mystic robe top; other variants of the mystic robe topcannotbe used.
+
+
+[Infobox]
+Released: 16 March2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle, Drop
+Examine: The upper half of a magical robe plucked from the shattered abyss.
+General Store Value: 120,000 coins
+High alch: 72,000 coins
+Low alch: 48,000 coins
+Weight: 2.721 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +20
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +20
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

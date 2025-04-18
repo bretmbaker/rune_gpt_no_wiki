@@ -1,0 +1,1 @@
+Prayer mixis abarbarian potionthat restores a player'sprayer pointsby 7-31 and heals 6Hitpoints. If aholy wrenchis carried, it will restore 8-33 prayer points. It is made by addingcaviarto aprayer potion(2), requiring level 42Herbloreand giving 29experience. This mix can only be created after completing theHerblorepart ofBarbarian trainingwithOtto Godblessed.

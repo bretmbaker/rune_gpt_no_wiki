@@ -1,0 +1,86 @@
+[Weapon: Adamant Med Helm]
+
+
+Theadamant med helmis amedium helmetmade ofadamantite. This helm requires 30Defenceto wear. It provides more protection than itsmithrilcounterpart. It can be made at level 73Smithingusing anadamantite bar, granting 62.5experience.
+Though the helmet provides a smaller Defence bonus than that of anadamant full helm, it has a lower penalty toMagicandRangedattack. This means it is potentially more useful than the full helm to players who are training the Magic skill.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A medium sized helmet.
+General Store Value: 1,920 coins
+High alch: 1,152 coins
+Low alch: 768 coins
+Weight: 2.267 kg
+Grand Exchange Value: 834 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 4,366
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +14
+- Slash: +15
+- Crush: +13
+- Magic: -1
+- Ranged: +14
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+ArrgNormal | 113 | 1 | 1/128 | 
+Berry | 71 | 1 | 1/128 | 
+Black Chest (black) | N/A | 1 | 2/141.11;2/133.27 | 
+Black Chest (brown) | N/A | 1 | 2/141.02;2/133.19 | 
+Black Chest (crimson) | N/A | 1 | 2/141.07;2/133.23 | 
+Black Chest (purple) | N/A | 1 | 2/141.15;2/133.31 | 
+Black Chest (red) | N/A | 1 | 2/140.98;2/131.15 | 
+Brutal green dragon | 227 | 1 | 3/128 | 
+Catablepon(m) | 49; 64; 68 | 1 | 1/101 | 
+Dark warriorHigh level | 145 | 1 | 3/128 | 
+Fever spider | 49 | 1 | 2/36 | 
+Flaming pyrelord | 97 | 1 | 1/128 | 
+Former Vampyre | N/A | 1(noted) | 3/256 | 
+Harpie Bug Swarm | 46 | 1 | 1/128 | 
+Ice troll maleVariant 2 | 82 | 1 | 1/128 | 
+Ice troll runtVariant 2 | 74 | 1 | 1/128 | 
+Infernal pyrelord | 134 | 1 | 1/128 | 
+Kalphite Soldier | 85 | 1 | 1/128 | 
+Mountain troll | 69; 71 | 1 | 1/128 | 
+Pyrefiend | 43; 48 | 1 | 1/128 | 
+Pyrelord | 60 | 1 | 1/128 | 
+Temple Spider | 75 | 1 | 4/100 | 
+Thrower Troll | 67 | 1 | 1/128 | 
+Troll spectator | 71 | 1 | 1/128 | 
+Twig | 71 | 1 | 1/128 | 
+Vampyre Juvinate | N/A | 1(noted) | 3/256 | 
+Wall beast | 49 | 1 | 1/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Free-to-play Ironman guide(Meleegear)
+4 | Free-to-play Ranged training(Rangedgear)

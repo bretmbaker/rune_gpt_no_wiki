@@ -1,0 +1,144 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Horror from the Deep (#63)
+
+
+
+
+
+Released | 17 November 2004 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | James B
+
+
+
+Horror from the Deep is an intermediate quest revolving around the mysterious disappearance of Jossik , keeper of the Lighthouse near the Fremennik Province . As the title suggests, the investigations lead to the discovery of very dangerous creatures living beneath the lighthouse.
+
+Details [ edit | edit source ]
+
+Start point | Speak with Larrissa , who is outside the Lighthouse , north of Barbarian Outpost . Show on map
+
+Official difficulty | Intermediate
+
+Official length | Short
+
+Description | The lighthouse protecting Kandarin's north-western coastline has mysteriously stopped operating, and contact with the lighthouse keeper Jossik has been lost.
+The Council would greatly appreciate it if somebody could discover for them what has happened to this most vital landscape feature.
+
+Requirements | 35 Agility ( boostable ) ( not required to start ) Completion of Alfred Grimhand's Barcrawl
+
+Items required | Fire rune Air rune Water rune Earth rune Any sword or longsword that you are willing to lose (except rusty sword and prop sword ) Any arrow (except ogre arrows and training arrows ) Molten glass Tinderbox Hammer 60 steel nails 2 regular planks (can be obtained from Barbarian Outpost ) Swamp tar Means to deal melee and ranged damage Means to deal damage with air , water , earth and fire spells
+
+Recommended | 40 Prayer for Protect from Missiles against the Dagannoth Mother 's ranged attacks 50 Combat level Armour and some food Level 13+ Magic, in order to cast required spells to defeat the creature. Fast travel to the Lighthouse ( Fairy Rings to A L P or walk from the Barbarian Outpost using a Games Necklace or grouping teleport to the Barbarian Assault )
+
+Enemies to defeat | Dagannoth (level 100) (can be completely safespotted) Dagannoth Mother (level 100) (with use of a safespot and Protect from Missiles , all damage can be negated)
+
+League notes | Unlocking Fremennik ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+A damsel in distress [ edit | edit source ]
+
+Items required: 60 steel nails , a hammer , 2 planks .
+
+Start by speaking to Larrissa outside of the lighthouse , north of Barbarian Outpost . A fairy ring is located right next to the lighthouse (fairy ring code A L P ). Her boyfriend, the lighthouse keeper, has disappeared and left the lighthouse locked whilst the lights are out. She is worried about him and explains that she has been cut off from the mainland Fremennik Province by a storm that destroyed the bridge to the east. She asks you to find her cousin, who has a spare key to the lighthouse, and to repair the bridge so she can tell her family what is going on. Agree to help her and ask what she wants.
+
+Larrissa explains that her cousin, Gunnjorn , left their home in Rellekka to pursue his interest in practising Agility . Head to the Barbarian Outpost , for example using a Games necklace or the Grouping interface. Alternatively, go down south of her jumping across the basalt platforms and into the Barbarian Outpost. If planning on using the basalt rocks, bring food as it has a high failure rate even with decent agility.
+
+Talk to Gunnjorn at the Barbarian Outpost Agility course past the pipe and tell him Larrissa is in trouble and needs her spare key back. He gives you the lighthouse key . You can get your two planks here, which respawn on the north-east end of the Barbarian Outpost along the fence.
+
+Use both planks on the broken bridge some distance to the east of Larrissa (you will cross another bridge to get there). For each side of the broken bridge (east and west) you will need to use a plank (only regular planks work) and 30 steel nails with a hammer in your inventory. Note that you can cross the bridge before fixing it by jumping over the gap. Depending on the player's agility, they may take slight damage from the leap. After the bridge has been repaired (despite it not looking any different) the walkway can be used to cross it without failure. Check your quest log to make sure it says that you've fixed the bridge.
+
+Voices in the night [ edit | edit source ]
+
+Items required: A tinderbox , molten glass , swamp tar .
+
+Return to Larrissa. She asks you to go inside the lighthouse and find out what happened to Jossik . Enter the building; you will appear in an instance with Larrissa inside. The furniture is smashed and there are blood splatters and claw marks on the floor and walls. She asks you to repair the light mechanism to prevent any shipwrecks. She does not know how to, but says Jossik probably had some manuals lying around. Go up one floor. You may wish to search the bookcase and take all the books to find out what is going on.
+
+The journal of Jossik chronicles how he became lighthouse keeper when his uncle Silas mysteriously disappeared and that he began hearing strange voices. It also mentions the local Fremennik's superstition that there are sea monsters beneath the lighthouse and the strange metal door his uncle had installed in the basement. After meeting Larrissa, Jossik found Silas's 'bizarre' diary and put it in the bookcase as well. The voices and sounds he had heard became more disturbing over time and he eventually decided to give Larrissa a spare key. The diary ends with Jossik's decision to investigate strange noises from the basement. The uncle's diary reveals some passages about creatures called dagannoth and joining them and the ocean. In particular, it mentions the metal door several times as being 'the key'. In between the incoherent ramblings, it says that the key to the door is given by colours: white, blue, brown and red are the elemental runes . Similarly, yellow and green are weapons: the sword of the warrior and the arrow of the huntsman, respectively. The door is meant to bind the dagannoth to the lighthouse and Silas ends with the suggestion that either of them can become the other.
+
+The lighthouse manual describes how to maintain the Lightomatic Deluxe 500. There is a troubleshooting FAQ section at the end of the book. If there is no light, you should use a tinderbox to light the Light Source Module producing the flame. If that does not work, the fuel may be the problem, in which case the book recommends official Lightomatic Non Renewing Light Source Fuel, though swamp tar can work. If the light is on but barely visible, you may need to remove the dark shipping wrapping from the Light Amplyfying Lens System (LALS) or use the official LALS Maintenance Pack to fix any cracks, though some molten glass will also work.
+
+Go up to the top floor and use some molten glass and some swamp tar in either order on the lighting mechanism in order to fix it. Then, light the tar with a tinderbox . The Lightomatic will be fixed. Return to Larrissa, who requests that you do everything to find Jossik.
+
+The door is the key [ edit | edit source ]
+
+Items required: One of each elemental rune , 1 arrow , 1 sword .
+
+Go down the iron ladder into the basement to find the door mentioned in Jossik's journal. You appear in a kind of sea cavern, with further passage blocked by the metal door . It has a monstrous face in its centre surrounded by six icons: the four runes, a sword and an arrow.
+
+Use all of your basic elemental runes on the door ( fire , water , earth , and air ). If you have many runes of a type the door will only use one rune, not the entire stack. Similarly, add your sword (any type, but you will not get it back) and arrow (any type except ogre and training , but you will not get it back). Bolts will not work. This unlocks the door.
+
+A fight is imminent; if you need to bank, use your games necklace / Grouping teleport to go back to Barbarian Assault , or use the fairy ring back to Zanaris to bank. Get good armour ( rune or better for melee) or magic armour ( Mystic robes or better); bring many mind , chaos , death , or blood runes and enough runes to cast several of each elemental spell (wind, water, earth, and fire); get a good weapon for melee and some ranged equipment .
+
+Horrors from the deep [ edit | edit source ]
+
+Items required: Combat equipment.
+
+Go through the eastern part of the door and down the ladder. You are in a spacious cavern with Jossik , injured, sitting by the ladder. Talk to him and be prepared to fight a dagannoth .
+
+Jossik says his leg is broken and 'those creatures' can come back any moment. He explains he was attacked by mysterious monsters whilst investigating what had happened to his uncle Silas, when suddenly he was attacked by very strong monsters who trapped him there. You suggest going back to inform Larrissa that he is safe, at which point a level 100 dagannoth emerges from the sea and attacks!
+
+The dagannoth only attacks with melee, so Protect from Melee is recommended, otherwise it is possible to safespot from behind the rocks in the room, alternatively, you can initiate the chat sequence with Jossik while standing in front of the stalagmite on his left (DO NOT MOVE) the Dagannoth will not attack. It can be killed by all forms of combat .
+
+After defeating it, Jossik says that was not the creature that had attacked him but one of its offspring. A cutscene follows in which a larger dagannoth appears from the waters, revealing itself to be the much stronger dagannoth mother . She attacks with both ranged and melee, and changes colour every 18 seconds through a fixed cycle. Her six colours correspond to the four elemental spell types, ranged, and melee. For as long as she remains that colour, she can only be damaged through use of that particular attack style.
+
+If you cannot see the colour changes clearly, look at the chat box. Using the wrong attack does no damage to her. She detects Prayers and will automatically use the opposite attack type. By default, she will use ranged at a distance and melee up close. Her melee attacks are stronger.
+
+She has higher defensive melee stats, so it is easier to ignore her melee form and either only use Magic , or switch between that and Ranged . Any type of staff can help switch between the correct spell types.
+
+By using a stalagmite, such as the one in the south-east corner of the room, the dagannoth mother cannot reach you to melee you, allowing you to use Protect from Missiles to avoid all damage and to focus on changing between the correct elemental spell and ranged to attack her. It is also possible to flinch with a melee weapon.
+
+Alternatively, climb the ladder until she changes to the right colour, or to heal between her attacks.
+
+Note: If there are any dropped items at the time of the dagannoth mother's death, you will not be able to get them back. You are still able to loot your items if you died within the boss room, but only before the dagannoth mother is killed.
+
+You'll get a rusty casket after you defeat the dagannoth mother and automatically finish the quest. If your inventory is full when killing the dagannoth mother , you will not receive the casket. Instead, go and talk to Jossik upstairs, who will say he picked up the casket after you left it on the ground.
+
+Congratulations, quest complete!
+
+When closing the reward scroll interface, you tell Jossik to get out of the cave. He agrees you must go quickly for the mother's children are coming. He also tells you to follow him upstairs to open the familiar-looking casket.
+
+Rewards [ edit | edit source ]
+
+2 Quest points 4,662.5 Magic experience 4,662.5 Strength experience 4,662.5 Ranged experience A damaged book of your choice which, when complete, will become: a Holy book ( Saradomin ), an Unholy book ( Zamorak ), or a Book of balance ( Guthix ). Further damaged books can be purchased from Jossik for 5,000 coins each, even if you have not filled your other book(s). Access to the Lighthouse general store and the Dagannoth caves underneath.
+
+Unlocks:
+
+Dagannoth mother accessible in the Nightmare Zone .
+
+Required for completing [ edit | edit source ]
+
+Completion of Horror from the Deep is required for the following:
+
+Recipe for Disaster - Defeating the Culinaromancer Rag and Bone Man II ( The Fremennik Trials can be completed as an alternative prerequisite)
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest. Click here for a transcript of the quest's journal entry.
+
+Trivia [ edit | edit source ]
+
+While in instanced versions of the lighthouse, you no longer see the fairy ring outside which was added later. The location, characters, books, diaries, monsters, are paying an obvious tribute to the works of Howard Philips Lovecraft. Despite being somewhat repaired during the quest, the broken bridge's examine will still refer to jumping off it rather than crossing it on the walkway.
+
+v • t • e Horror from the Deep
+
+NPCs | Larrissa Gunnjorn Jossik Silas Enemies Dagannoth Dagannoth mother |  | Larrissa Gunnjorn Jossik Silas | Enemies | Dagannoth Dagannoth mother
+
+ | Larrissa Gunnjorn Jossik Silas
+
+Enemies | Dagannoth Dagannoth mother
+
+Items | Lighthouse key Manual Diary Journal Rusty casket
+
+Rewards | Holy book ( or )( damaged ) Unholy book ( or )( damaged ) Book of balance ( or )( damaged ) Book of war ( or )( damaged ) Book of law ( or )( damaged ) Book of darkness ( or )( damaged )
+
+Locations | Lighthouse
+
+Music | Out of the Deep Lighthouse
+
+Related | Quick guide God book Lightomatic Transcript

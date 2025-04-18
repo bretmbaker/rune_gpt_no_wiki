@@ -1,0 +1,60 @@
+[Weapon: Rangers%27 Tights]
+
+
+TheRangers' tightsare a rare reward obtained fromeliteTreasure Trails. It is part of theranger kit, and requires 40Rangedto wear. It has higher offensive stats than that ofred d'hide chaps, but lacks any defensive bonuses.
+This item can be stored in thetreasure chestof acostume room, as part of theranger kitset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Lightweight legwear ideal for rangers.
+General Store Value: 20,000 coins
+High alch: 12,000 coins
+Low alch: 8,000 coins
+Weight: 5.443 kg
+Grand Exchange Value: 194,131 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 237
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +15
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (elite) | N/A | 1 | 1/1,275 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Corporeal Beast/Strategies(Ranged masses)
+3 | TzHaar Fight Cave/Strategies(Pure)

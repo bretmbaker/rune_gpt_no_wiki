@@ -1,0 +1,47 @@
+[Weapon: Ghommal%27S Avernic Defender 5#Normal]
+
+
+Ghommal's Avernic defender 5is anAvernic defenderwithGhommal's hilt 5attached to it. The defender retains the benefits given by the hilt and the bonuses given by the Avernic defender.
+The defender can be dismantled anytime, returning the defender and the hilt.
+
+
+[Infobox]
+Released: 30 November2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destinations, Dismantle, Drop
+Worn options: Trollheim, Mor Ul Rek
+Examine: A defensive weapon with sublime ornamentation.
+General Store Value: 2,500,000 coins
+High alch: 1,500,000 coins
+Low alch: 1,000,000 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +30
+- Slash: +29
+- Crush: +28
+- Magic: -5
+- Ranged: -4
+
+Defence Bonuses:
+- Stab: +30
+- Slash: +29
+- Crush: +28
+- Magic: -5
+- Ranged: -4
+
+Other Bonuses:
+- Strength: +8
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

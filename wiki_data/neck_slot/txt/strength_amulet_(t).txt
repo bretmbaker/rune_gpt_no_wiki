@@ -1,0 +1,54 @@
+[Weapon: Strength Amulet (T)]
+
+
+Theamulet of strength (t)(ortrimmed amulet of strength) is a cosmetic variant of theamulet of strengththat can be obtained from completingmediumTreasure Trails.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 5 December2006(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: An enchanted ruby amulet.
+General Store Value: 2,025 coins
+High alch: 1,215 coins
+Low alch: 810 coins
+Weight: 0.01 kg
+Grand Exchange Value: 44,991 coins
+Grand Exchange Daily Buy Limit: 5
+Grand Exchange Daily Trades Volume: 1,551
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +10
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (medium) | N/A | 1 | 10/3,410 | 

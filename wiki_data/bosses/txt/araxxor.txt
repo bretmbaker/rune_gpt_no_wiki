@@ -1,0 +1,139 @@
+Name: Araxxor
+Combat Level: 890
+Size: 7x7
+Info:
+- Description: A seriously scary spider.
+
+Slayer Info:
+- Required Level: 92
+- Slayer XP: 1,708 xp
+- Category: Araxytes, Bosses, Spiders
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Thralls: Not immune
+- Monster ID: 13668
+- Link: MOID
+
+Location:
+- Area: Morytania Spider Cave
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for Araxxor:
+
+Notable Drops:
+- Noxious pommel (1/200[d 1])
+- Noxious point (1/200[d 1])
+- Noxious blade (1/200[d 1])
+- Araxyte fang (1/600)
+- Araxyte venom sack (~1/16)
+- Super combat potion(1) (~1/16)
+- Prayer potion(4) (~1/8)
+- Shark (~1/16)
+- Wild pie (~1/16)
+- Rune 2h sword (~1/115)
+- Dragon platelegs (~1/115)
+- Mud rune (~1/115)
+- Blood rune (~1/115)
+- Ranarr seed (~1/115)
+- Snapdragon seed (~1/115)
+- Magic seed (~1/115)
+- Ranarr seed (~1/958.3)
+- Snapdragon seed (~1/1,026.8)
+- Torstol seed (~1/1,306.8)
+- Watermelon seed (~1/1,369)
+- Willow seed (~1/1,437.5)
+- Mahogany seed (~1/1,597.2)
+- Maple seed (~1/1,597.2)
+- Teak seed (~1/1,597.2)
+- Yew seed (~1/1,597.2)
+- Papaya tree seed (~1/2,053.6)
+- Magic seed (~1/2,613.6)
+- Palm tree seed (~1/2,875)
+- Spirit seed (~1/3,593.8)
+- Dragonfruit tree seed (~1/4,791.7)
+- Celastrus seed (~1/7,187.5)
+- Redwood tree seed (~1/7,187.5)
+- Raw shark (~1/115)
+- Raw monkfish (~1/115)
+- Pure essence (~1/115)
+- Bark (~1/115)
+- Araxyte head (1/250)
+- Jar of venom (1/1,500)
+- Nothing (1/633.83; Never[d 1])
+- Coins (1/700.95)
+- Loop half of key (1/730.29; 1/724.85[d 2])
+- Tooth half of key (1/730.29; 1/724.85[d 2])
+- Uncut sapphire (1/2,944; 1/1,495[d 2])
+- Runite bar (1/2,944)
+- Nature rune (1/4,906.67)
+- Rune 2h sword (1/4,906.67)
+- Rune battleaxe (1/4,906.67)
+- Uncut emerald (1/5,888; 1/2,990[d 2])
+- Law rune (1/7,360)
+- Death rune (1/7,360)
+- Steel arrow (1/7,360)
+- Rune arrow (1/7,360)
+- Adamant javelin (1/7,360)
+- Rune sq shield (1/7,360)
+- Dragonstone (1/7,360)
+- Silver ore (1/7,360)
+- Uncut ruby (1/11,776; 1/5,980[d 2])
+- Rune kiteshield (1/14,720)
+- Dragon med helm (1/14,720)
+- Rune spear (1/15,539.46; 1/1,803.02[d 2])
+- Shield left half (1/31,078.93; 1/3,606.03[d 2])
+- Nature talisman (1/31,402.67; 1/15,946.67[d 2])
+- Dragon spear (1/41,438.57; 1/4,808.04[d 2])
+- Uncut diamond (1/47,104; 1/23,920[d 2])
+- Rune javelin (1/94,208; 1/47,840[d 2])
+- Brimstone key (1/40[d 2])
+- Clue scroll (elite) (1/50[d 4][d 3])
+- Nid (1/3,000; 1/1,500[d 5])
+
+Combat Achievements:
+- Araxxor Veteran: Kill Araxxor 25 times. (Elite (4 pts))
+- Araxxor Speed-Trialist: Kill Araxxor 4 times in 10:00. (Elite (4 pts))
+- Relaxxor: Kill Araxxor after destroying six eggs. (Elite (4 pts))
+- Araxyte Betrayal: Have an Araxyte kill three other Araxytes. (Master (5 pts))
+- Perfect Araxxor: Kill Araxxor perfectly, without taking damage from Araxxor's Mage & Range attacks, melee attack off prayer, araxyte minions damage, or damage from acid pools. (Master (5 pts))
+- Let it seep in: Kill Araxxor without ever having venom or poison immunity. (Master (5 pts))
+- Arachnid Lover: Kill Araxxor 10 times without leaving. (Master (5 pts))
+- Araxxor Speed-Chaser: Kill Araxxor 5 times in 10:00. (Master (5 pts))
+- Araxxor Master: Kill Araxxor 75 times. (Master (5 pts))
+- Araxxor Speed-Runner: Kill Araxxor 6 times in 10:00. (Grandmaster (6 pts))
+- Perfect Araxxor 2: Kill Araxxor perfectly, without hitting it during the enrage phase. (Grandmaster (6 pts))
+- Swimming in Venom: Kill Araxxor without the boss ever moving. (Grandmaster (6 pts))
+
+[Combat stats]
+Hitpoints: 1020
+Attack: 320
+Strength: 320
+Defence: 135
+Magic: 190
+Ranged: 210
+
+[Aggressive stats]
+Attack bonus: 218
+Strength bonus: 10
+Magic attack bonus: 260
+Magic strength bonus: 5
+Ranged attack bonus: 283
+Ranged strength bonus: 35
+
+[Melee defence]
+Stab: 160
+Slash: 75
+Crush: 15
+
+[Magic defence]
+Magic: 237
+Elemental weakness: 50% weakness
+
+[Ranged defence]
+Light: 218
+Standard: 218
+Heavy: 218

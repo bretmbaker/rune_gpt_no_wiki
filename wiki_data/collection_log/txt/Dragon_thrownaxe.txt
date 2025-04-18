@@ -1,0 +1,10 @@
+Item: Dragon thrownaxe
+Summary: The dragon thrownaxe, like all throwing axes, is a members-only Ranged throwing weapon and is the most powerful type of throwing axe. It is obtained as a drop from wyrms, drakes, hydras and the Alchemical Hydra.
+Sources:
+- Alchemical Hydra (Level 426, Quantity: 500–1,000, Rarity: 1/2,000)
+- Colossal Hydra (Level 309, Quantity: 200–400, Rarity: 1/2,000)
+- Drake (Level 192, Quantity: 100–200, Rarity: 1/10,000; 1/2,000)
+- Guardian Drake (Level 386, Quantity: 100–200, Rarity: 1/2,000)
+- Hydra (Level 194, Quantity: 200–400, Rarity: 1/10,000; 1/2,000)
+- Shadow Wyrm (Level 267, Quantity: 75–150, Rarity: 1/2,000)
+- Wyrm (Level 99, Quantity: 75–150, Rarity: 1/10,000; 1/2,000)

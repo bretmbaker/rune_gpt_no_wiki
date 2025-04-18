@@ -1,0 +1,70 @@
+[Weapon: Ancient Ceremonial Boots]
+
+
+Theancient ceremonial bootsare an item dropped by all NPCs in theAncient Prison, excludingNex. Part of theancient ceremonial robesset, the boots have no requirements to wear. In addition, as aZarosian item, it will also grantgod protectiontowards Zarosian NPCs in theGod Wars Dungeon.
+Unlike the version of the robes set inRuneScape, wearing themwill notallow players to bypass the Zarosiankill countto reach Nex's chamber, as theecumenical keyalready exists to do so.
+
+
+[Infobox]
+Released: 5 January2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Some ceremonial boots dedicated to an ancient god.
+General Store Value: 40,000 coins
+High alch: 24,000 coins
+Low alch: 16,000 coins
+Weight: 0.3 kg
+Grand Exchange Value: 22,794 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 273
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Feet slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Blood Reaver | 161; 174 | 1 | 1/640 | 
+Cruor | 285 | 1 | 1/1,000 | 
+Fumus | 285 | 1 | 1/1,000 | 
+Glacies | 285 | 1 | 1/1,000 | 
+Spiritual mageZaros | 182 | 1 | 1/640 | 
+Spiritual rangerZaros | 158 | 1 | 1/640 | 
+Spiritual warriorZaros | 158 | 1 | 1/640 | 
+Umbra | 285 | 1 | 1/1,000 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Dust devil/Strategies(Bursting/Barraging)
+5 | Greater Nechryael/Strategies(Bursting/Barraging)
+4 | Slayer task/Abyssal demons(Magic)
+4 | Slayer task/Jellies(Magic)
+5 | Slayer task/Nechryael(Magic)

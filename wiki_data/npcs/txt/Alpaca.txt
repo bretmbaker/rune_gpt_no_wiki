@@ -1,0 +1,2 @@
+Item: Alpaca
+Summary: Alpacas are animals at Ortus Farm that can be sheared to receive wool, provided the player has shears in their inventory.

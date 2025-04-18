@@ -1,0 +1,46 @@
+[Weapon: Black Gloves]
+
+
+Black glovesare specialglovesthat can be bought from theCulinaromancer's chestafter completion of fourRecipe for Disastersubquests.
+As with all Culinaromancer's gloves, this piece of armourcannotbe made using theSmithingskill.
+
+
+[Infobox]
+Released: 15 March2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A pair of nice gloves.
+General Store Value: 1,000 coins
+High alch: 600 coins
+Low alch: 400 coins
+Weight: 0.226 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +5
+- Slash: +5
+- Crush: +5
+- Magic: +3
+- Ranged: +5
+
+Defence Bonuses:
+- Stab: +5
+- Slash: +5
+- Crush: +5
+- Magic: +3
+- Ranged: +5
+
+Other Bonuses:
+- Strength: +5
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

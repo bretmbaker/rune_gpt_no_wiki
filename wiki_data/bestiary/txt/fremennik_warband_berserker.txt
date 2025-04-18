@@ -1,0 +1,38 @@
+Name: Fremennik warband berserker
+Combat Level: 103
+Size: 1x1
+Info:
+- Description: A warrior from a faraway land, come to test their skills.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Monster ID: 12816
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 48
+Attack: 110
+Strength: 110
+Defence: 80
+Magic: 110
+Ranged: 110
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,4 @@
+Item: Eternal crystal
+Summary: The eternal crystal is an add-on dropped by Cerberus. When used with a pair of infinity boots, eternal boots will be created. This process cannot be reversed, and requires level 60 in Runecraft and Magic (boosts cannot be used), granting 200 experience in both skills.
+Sources:
+- Cerberus (Level 318, Quantity: 1, Rarity: 1/512)

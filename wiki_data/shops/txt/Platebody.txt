@@ -1,0 +1,149 @@
+[Shop: Platebody]
+
+Platebody
+
+
+
+
+
+
+
+Slot | Body slot
+
+Type | Melee
+
+
+
+Aplatebodyis a type ofarmourworn mainly bywarriors. Amongmeleeattack types, platebody provides good defence against the slash attack type but is more vulnerable to the crush attack type.
+
+Most platebodies give players penalties towardsmagicandrangedattacks and penalties towardsmagicdefence. However, platebodies have very good defence against ranged as well as melee attacks.
+
+Platebodies are made with theSmithingskill or purchased atplatebody shops, which is identified by theicon on the map. Most platebodies will interfere withAva's accumulatorandAva's attractor.
+
+Standard platebodies[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Bronze platebody | 0 | 0 | 0 | -30 | -15 | 15 | 14 | 9 | -6 | 14 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Iron platebody | 0 | 0 | 0 | -30 | -15 | 21 | 20 | 12 | -6 | 20 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Steel platebody | 0 | 0 | 0 | -30 | -15 | 32 | 31 | 24 | -6 | 31 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Black platebody | 0 | 0 | 0 | -30 | -15 | 41 | 40 | 30 | -6 | 40 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | White platebody | 0 | 0 | 0 | -30 | -15 | 41 | 40 | 30 | -6 | 40 | 0 | 0% | 0 | 1 | 9.979 | 
+
+ | Mithril platebody | 0 | 0 | 0 | -30 | -15 | 46 | 44 | 38 | -6 | 44 | 0 | 0% | 0 | 0 | 8.618 | 
+
+ | Adamant platebody | 0 | 0 | 0 | -30 | -15 | 65 | 63 | 55 | -6 | 63 | 0 | 0% | 0 | 0 | 11.339 | 
+
+ | Rune platebody | 0 | 0 | 0 | -30 | -15 | 82 | 80 | 72 | -6 | 80 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Dragon platebody | 0 | 0 | 0 | -30 | -15 | 109 | 107 | 97 | -6 | 106 | 0 | 0% | 0 | 0 | 11.339 | 
+
+Shayzien platebodies[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Shayzien platebody (1) | 0 | 0 | 0 | -5 | 0 | 16 | 20 | 22 | -2 | 16 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Shayzien platebody (2) | 0 | 0 | 0 | -7 | 0 | 20 | 25 | 30 | -3 | 20 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Shayzien platebody (3) | 0 | 0 | 0 | -8 | 0 | 25 | 32 | 35 | -3 | 22 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Shayzien platebody (4) | 0 | 0 | 0 | -9 | 0 | 28 | 35 | 37 | -4 | 25 | 0 | 0% | 0 | 0 | 9.979 | 
+
+Decorative platebodies[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Decorative armour (red platebody) | 0 | 0 | 0 | -30 | -15 | 32 | 31 | 24 | -6 | 31 | 0 | 0% | 0 | 0 | 8.618 | 
+
+ | Decorative armour (white platebody) | 0 | 0 | 0 | -30 | -15 | 46 | 44 | 38 | -6 | 44 | 0 | 0% | 0 | 0 | 8.618 | 
+
+ | Decorative armour (gold platebody) | 0 | 0 | 0 | -30 | -15 | 65 | 63 | 55 | -6 | 63 | 0 | 0% | 0 | 0 | 8.618 | 
+
+Special platebodies[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Eggshell platebody | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0 | 0 | 1 | 
+
+ | Khazard armour | 0 | 0 | 0 | 0 | 0 | 9 | 11 | 10 | 0 | 0 | 0 | 0% | 0 | 0 | 0.566 | 
+
+ | Carnillean armour | 0 | 0 | 0 | 0 | 0 | 20 | 14 | 8 | 0 | 0 | 0 | 0% | 0 | 0 | 9.071 | 
+
+ | Initiate hauberk | 0 | 0 | 0 | -30 | -15 | 46 | 44 | 38 | -6 | 44 | 0 | 0% | 0 | 6 | 8.618 | 
+
+ | Proselyte hauberk | 0 | 0 | 0 | -30 | -15 | 65 | 63 | 55 | -6 | 63 | 0 | 0% | 0 | 8 | 8.618 | 
+
+ | Obsidian platebody | 0 | 0 | 0 | 0 | 0 | 55 | 78 | 56 | -15 | 60 | 3 | 0% | 0 | 0 | 9.979 | 
+
+ | Rock-shell plate | 0 | 0 | 0 | -30 | -10 | 82 | 80 | 72 | -6 | 80 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Granite body | 0 | 0 | 0 | -22 | -5 | 87 | 84 | 79 | -6 | 97 | 0 | 0% | 0 | 0 | 22.679 | 
+
+ | Fighter torso | 0 | 0 | 0 | -40 | 0 | 62 | 85 | 62 | -10 | 67 | 4 | 0% | 0 | 0 | 4 | 
+
+ | Bandos chestplate | 0 | 0 | 0 | -15 | -10 | 98 | 93 | 105 | -6 | 133 | 4 | 0% | 0 | 1 | 12 | 
+
+ | 3rd age platebody | 0 | 0 | 0 | -20 | 0 | 96 | 108 | 113 | -4 | 97 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Torva platebody | 0 | 0 | 0 | -18 | -14 | 117 | 111 | 117 | -11 | 142 | 6 | 0% | 0 | 1 | 9.979 | 
+
+ | Dharok's platebody | 0 | 0 | 0 | -30 | -10 | 122 | 120 | 107 | -6 | 132 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Guthan's platebody | 0 | 0 | 0 | -30 | -10 | 122 | 120 | 107 | -6 | 132 | 0 | 0% | 0 | 0 | 9.979 | 
+
+ | Torag's platebody | 0 | 0 | 0 | -30 | -10 | 122 | 120 | 107 | -6 | 132 | 0 | 0% | 0 | 0 | 9.979 | 
+
+v•t•ePlatebodies
+
+Standard | BronzeIronSteelBlackWhiteMithrilAdamantRuneDragon
+
+Treasure Trails | 3rd ageTrimmedBronzeIronSteelBlackMithrilAdamantRuneGold-trimmedBronzeIronSteelBlackMithrilAdamantRuneGildedDragonGodGuthixSaradominZamorakArmadylAncientBandosHeraldicBlackH1H2H3H4H5AdamantH1H2H3H4H5RuneH1H2H3H4H5 |  | 3rd age | Trimmed | BronzeIronSteelBlackMithrilAdamantRune | Gold-trimmed | BronzeIronSteelBlackMithrilAdamantRuneGildedDragon | God | GuthixSaradominZamorakArmadylAncientBandos | Heraldic | BlackH1H2H3H4H5AdamantH1H2H3H4H5RuneH1H2H3H4H5 | Black | H1H2H3H4H5 | Adamant | H1H2H3H4H5 | Rune | H1H2H3H4H5
+
+ | 3rd age
+
+Trimmed | BronzeIronSteelBlackMithrilAdamantRune
+
+Gold-trimmed | BronzeIronSteelBlackMithrilAdamantRuneGildedDragon
+
+God | GuthixSaradominZamorakArmadylAncientBandos
+
+Heraldic | BlackH1H2H3H4H5AdamantH1H2H3H4H5RuneH1H2H3H4H5 | Black | H1H2H3H4H5 | Adamant | H1H2H3H4H5 | Rune | H1H2H3H4H5
+
+Black | H1H2H3H4H5
+
+Adamant | H1H2H3H4H5
+
+Rune | H1H2H3H4H5
+
+Shayzien armour | Tier 1Tier 2Tier 3Tier 4Tier 5
+
+Other | BandosBlood moonCarnilleanCorruptedDragonstoneInquisitor'sJusticiarKhazardObsidianStatius'sSunfire fanaticTorvaBarrowsDharok'sGuthan'sTorag'sCastle WarsRedWhiteGoldIronmanSoloIronmanHardcore ironmanUltimate ironmanGroupIIIIIIVVHardcore GroupIIIIIIVVTemple KnightInitiateProselyte |  | BandosBlood moonCarnilleanCorruptedDragonstoneInquisitor'sJusticiarKhazardObsidianStatius'sSunfire fanaticTorva | Barrows | Dharok'sGuthan'sTorag's | Castle Wars | RedWhiteGold | Ironman | SoloIronmanHardcore ironmanUltimate ironmanGroupIIIIIIVVHardcore GroupIIIIIIVV | Solo | IronmanHardcore ironmanUltimate ironman | Group | IIIIIIVV | Hardcore Group | IIIIIIVV | Temple Knight | InitiateProselyte
+
+ | BandosBlood moonCarnilleanCorruptedDragonstoneInquisitor'sJusticiarKhazardObsidianStatius'sSunfire fanaticTorva
+
+Barrows | Dharok'sGuthan'sTorag's
+
+Castle Wars | RedWhiteGold
+
+Ironman | SoloIronmanHardcore ironmanUltimate ironmanGroupIIIIIIVVHardcore GroupIIIIIIVV | Solo | IronmanHardcore ironmanUltimate ironman | Group | IIIIIIVV | Hardcore Group | IIIIIIVV
+
+Solo | IronmanHardcore ironmanUltimate ironman
+
+Group | IIIIIIVV
+
+Hardcore Group | IIIIIIVV
+
+Temple Knight | InitiateProselyte

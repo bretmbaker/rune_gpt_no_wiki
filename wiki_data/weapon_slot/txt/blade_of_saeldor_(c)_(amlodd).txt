@@ -1,0 +1,104 @@
+[Weapon: Blade Of Saeldor (C) (Amlodd)]
+
+
+TheAmlodd blade of saeldor (c)is a cosmetic variant of theblade of Saeldor (c)made by using thecrystal of Amloddon any variant of the blade.
+The blade's colours, based on that of theAmlodd Clan, may be changed to other colours of theElven Clansby buying crystals fromLliann's WaresinPrifddinas, which cost 500,000 coins each.
+
+
+[Infobox]
+Released: 30 June2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Uncharge, Drop
+Examine: A magical elven sword, corrupted through the addition of too many shards.
+General Store Value: 5,000,000 coins
+High alch: 3,000,000 coins
+Low alch: 2,000,000 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +55
+- Slash: +94
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +89
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+4 | Alchemical Hydra/Strategies(Melee)
+1 | Barbarian Assault/Strategies(Melee (high level))
+5 | Basilisk Knight/Strategies(Melee)
+4 | Chompington(Melee)
+2 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+5 | Dark beast/Strategies(Melee)
+3 | Demonic gorilla/Strategies(upgrades and downgrades)
+4 | Drake/Strategies(Melee)
+5 | Duke Sucellus/Strategies(Melee)
+2 | Fortis Colosseum/Strategies(Ranged)
+2 | Fortis Colosseum/Strategies(Mage)
+2 | General Graardor/Strategies(Solo (Melee))
+2 | General Graardor/Strategies(Advanced Tank)
+3 | General Graardor/Strategies(Melee Attacker)
+4 | Giant Mole/Strategies(Melee)
+2 | Grotesque Guardians/Strategies(Melee)
+3 | Hespori/Strategies(Best-in-slot)
+3 | Moons of Peril/Strategies(Eclipse Moon)
+3 | Moons of Peril/Strategies(Blood Moon)
+2 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+2 | Nightmare Zone/Strategies(Melee (Prayer))
+4 | Phantom Muspah/Strategies(Melee)
+3 | Revenants/Strategies(Melee)
+4 | Royal Titans/Strategies(Best-in-slot)
+3 | Scurrius/Strategies(Melee (high level))
+2 | Skeletal Wyvern/Strategies(Melee)
+5 | Skotizo/Strategies(Melee)
+1 | Slayer task/Jellies(Melee)
+2 | Slayer task/Trolls(Melee (Mountain trolls))
+3 | Slayer task/Trolls(Melee (Ice trolls))
+3 | Theatre of Blood/Hard Mode(Melee)
+3 | Theatre of Blood/Strategies(Melee)
+1 | Theatre of Blood/Strategies(Learner)
+5 | Theatre of Blood/Strategies(Sotetseg (100 defence))
+4 | Theatre of Blood/Strategies(Melee Nylocas Vasilias)
+2 | Theatre of Blood/Strategies(Bloat)
+3 | Theatre of Blood/Strategies(Verzik)
+5 | Theatre of Blood/Strategies(Xarpus (0 defence))
+5 | Theatre of Blood/Strategies(Maiden (0 defence))
+4 | Thermonuclear smoke devil/Strategies(Melee)
+3 | Tombs of Amascut/Strategies(Melee switch)
+2 | Tombs of Amascut/Strategies(Core (Phase 2))
+2 | TzHaar Fight Cave/Strategies(Melee)
+2 | Ultimate Ironman Guide/Equipment
+3 | Vardorvis/Strategies(Melee)

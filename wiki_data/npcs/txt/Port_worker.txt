@@ -1,0 +1,2 @@
+Item: Port worker
+Summary: Port workers are NPC located throughout Port Piscarilius.

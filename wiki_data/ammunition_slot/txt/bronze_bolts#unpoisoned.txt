@@ -1,0 +1,84 @@
+[Weapon: Bronze Bolts#Unpoisoned]
+
+
+Bronze boltsare the weakestbolts, and may be shot from anycrossbow.
+Bronze bolts are crossbow bolts made out ofbronze. To make them, a player must smithunfinished bronze bolts. This requires aSmithinglevel of 3, and for eachbronze barthat player smiths they will get 10 unfinished bronze bolts and 12 Smithingexperience. Then a player must attach flights to the bolts. Attaching flights to each bolt requires aFletchinglevel of 9 and 1feather, granting 0.5 Fletching experience per bolt. They may also be stolen from the crossbow stall inKeldagrim. As with mostbolts, they can bepoisoned, however this will prevent the addition ofbolt tips.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Bronze crossbow bolts.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0 kg
+Respawn time: 100 ticks (60 seconds)
+Grand Exchange Value: 4 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 613,543
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +10
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Afflicted | 30; 32; 34; 37 | 2–12 | 22/128 | 
+Al Kharid warrior(m) | 9 | 2–12 | 22/128 | 
+Anja(m) | 2 | 2–12 | 22/128 | 
+Black GuardLevel 25(m) | 25 | 2–12 | 7/128 | 
+Breoca | 5 | 2–12 | 22/128 | 
+Ceolburg | 4 | 2–12 | 22/128 | 
+Chest (Maze) | N/A | 10 | 1/10 | 
+Crossbow stall | 49 | 3 | 23/40 | 
+Cuffs(m) | 3 | 2–12 | 22/128 | 
+Drunken man(m) | 3 | 2–12 | 22/128 | 
+DwarfLevel 20 | 20 | 2–12 | 7/128 | 
+DwarfRegular(m) | 7; 10; 11 | 2–12 | 7/128 | 
+Goblin guard | 42 | 8 | 3/128 | 
+GoblinDrop table 1 | 2 | 8 | 3/128 | 
+Hengel(m) | 2 | 2–12 | 22/128 | 
+Hygd | 4 | 2–12 | 22/128 | 
+Imp | 2; 7 | 1 | 8/128 | 
+Jeff(m) | 2 | 2–12 | 22/128 | 
+Man(m) | 2 | 2–12 | 22/128 | 
+Mugger(m) | 6 | 2–12 | 27/128 | 
+Narf(m) | 2 | 2–12 | 22/128 | 
+Ocga | 5 | 2–12 | 22/128 | 
+Penda | 5 | 2–12 | 22/128 | 
+RogueLevel 15 | 15 | 2–12 | 22/128 | 
+Rusty(m) | 2 | 2–12 | 22/128 | 
+Thief (Varlamore) | 16 | 2–12 | 22/128 | 
+Thief(m) | 14; 16; 21 | 2–12 | 22/128 | 
+Woman(m) | 2 | 2–12 | 22/128 | 
+Zombie pirate (Braindeath Island) | 57 | 2–12 | 3/128 | 
+Zombie swab | 55 | 2–12 | 3/128 | 

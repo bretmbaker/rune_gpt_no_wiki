@@ -1,0 +1,45 @@
+[Weapon: Crate Ring]
+
+
+Thecrate ringis an item that can be obtained from participating in anyEaster event, and was first obtained from the2022 Easter event. When equipped, the player's model transforms into a crate. While this effect is active, the player cannot move, or the player's model will return to normal.
+While in crate form, if another player right clicks on the player disguised as a crate, the normal options will appear (i.e. "Walk here Username", "Follow Username", etc.) Upon equipping the ring, the player will receive the messageYou hide inside the crate. Sneaky!
+
+
+[Infobox]
+Released: 13 April2022(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Options: Wear, Destroy
+Destroy: You can get another one from Diango.
+Examine: This would be pretty good for a sneaking mission.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 0.5 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Ring slot

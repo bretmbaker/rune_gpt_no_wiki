@@ -1,0 +1,1 @@
+Stamina mixis abarbarian potionthat restores 20% of a player'srun energy, reduces the rate at which it depletes by 70% for 2 minutes, and heals 6Hitpoints. It is made by addingcaviarto astamina potion(2), requiring level 86Herbloreand giving 60experience. This mix can only be created after completing theHerblorepart ofBarbarian trainingwithOtto Godblessed.

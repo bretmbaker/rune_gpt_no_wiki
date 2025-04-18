@@ -1,0 +1,54 @@
+[Weapon: Saradomin Full Helm]
+
+
+TheSaradomin full helmis a decoratedrune full helmthat is affiliated with the godSaradomin. Sharing the same stats as the rune full helm with a +1prayer bonus, the Saradomin full helm also looks visually similar. Its appearance differs in that the helm features an ornamental white trim around the symbol of Saradomin. The full helm requires 40Defenceto wear andcannotbe made using theSmithingskill. Players can obtain a Saradomin full helm as a reward from completinghardTreasure Trails.
+Wearing any piece of this armour set will causefollowers of Saradominto become unaggressive upon entering theGod Wars Dungeon.
+
+
+[Infobox]
+Released: 5 May2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Rune full helmet in the colours of Saradomin.
+General Store Value: 35,200 coins
+High alch: 21,120 coins
+Low alch: 14,080 coins
+Weight: 2.721 kg
+Grand Exchange Value: 79,779 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 152
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -6
+- Ranged: -3
+
+Defence Bonuses:
+- Stab: +30
+- Slash: +32
+- Crush: +27
+- Magic: -1
+- Ranged: +30
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

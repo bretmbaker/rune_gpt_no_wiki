@@ -1,0 +1,71 @@
+[Weapon: Scorching Bow]
+
+
+Thescorching bowis ademonbane weaponrequiring level 77Rangedto wield. It is made by using atormented synapseon amagic longbow (u). This requires level 74Fletching(boostable) and having readDuradel's notesafter completion ofWhile Guthix Sleeps.
+The bow, able to fire arrows up todragon arrows, has a 30% accuracy and damage bonus againstdemonic creatures. Similarly to thedragon hunter crossbow, the damage bonus is applied additively with the 15% damage boost from aslayer helmet (i)orblack mask (i), resulting in a total damage boost of 45%.
+
+
+[Infobox]
+Released: 10 July2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Revert, Drop
+Examine: The ashen wood is warm to the touch.
+General Store Value: 800,000 coins
+High alch: 480,000 coins
+Low alch: 320,000 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +124
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +40
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 5 ticks (3.0s) | 10 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 4 ticks (2.4s) | 10 tiles |  | None
+ | Longrange | Standard | Longrange | 5 ticks (3.0s) | 10 tiles |  | +3 Defence
+
+
+[Special Attack]
+A player performing the scorching bow's special attack,Scorching shackles.
+The scorching bow has aspecial attack,Scorching shackles, which drains 25% of the player's special attack energy.
+Scorching shacklesincreases accuracy by 30%, bindingdemonsfor 20 ticks (12 seconds) and dealing 1burndamage in the process. It deals an additional 1 burn damage every 4 ticks (2.4 seconds), for a total of 5 burn damage.
+Against non-demonic creatures, attempting to use the special attack results in the messageScorching shackles won't work against a non-demon enemy.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyssal Sire/Strategies(Phase 1 Ranged)
+1 | Abyssal Sire/Strategies(Phase 2 Ranged)
+2 | Cerberus/Strategies(Ranged)
+1 | Demonic gorilla/Strategies(upgrades and downgrades)
+1 | K'ril Tsutsaroth/Strategies(Ranged)
+2 | Skotizo/Strategies(Ranged)
+1 | Tormented Demon/Strategies(Ranged switch)

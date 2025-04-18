@@ -1,0 +1,46 @@
+[Weapon: Void Ranger Helm (Or)#Locked]
+
+
+TheVoid ranger helm (or)is aVoid ranger helmwith aShattered relics void ornament kitadded onto it. The kit gives no additional bonuses, and is only used to add aesthetics to the helm.
+Whilst in its ornamented state, the helm can be reverted anytime, returning the Void ranger helm and kit.
+
+
+[Infobox]
+Released: 16 March2022(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle, Drop
+Examine: A ranger helm plucked from the shattered abyss.
+General Store Value: 9,851 coins
+High alch: 5,910 coins
+Low alch: 3,940 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +6
+- Crush: +6
+- Magic: +6
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

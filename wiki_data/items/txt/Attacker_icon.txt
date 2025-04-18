@@ -1,0 +1,1 @@
+Attacker iconis an item worn in the jaw slot, a back-endWorn Equipmentslot system where facial hair is placedwhile playingBarbarian Assault. It shows that the player is an attacker indicated by the red circle around them with the attacker symbol. When a game of Barbarian Assault finishes, the icon is removed.

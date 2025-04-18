@@ -1,0 +1,4 @@
+Item: Sirenic tablet
+Summary: The sirenic tablet is an item dropped by the Whisperer. It is used on the ring of shadows to unlock a teleport to the palace of the Lassar Undercity.
+Sources:
+- The Whisperer (Level 587; 791; 1146, Quantity: 1, Rarity: 1/26.2)

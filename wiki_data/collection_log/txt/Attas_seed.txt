@@ -1,0 +1,4 @@
+Item: Attas seed
+Summary: Attas seeds are a type of anima seed requiring level 76 Farming (boostable) to plant. They are obtained exclusively from the Hespori, and can only be planted in the anima patch within the intermediate tier of the Farming Guild. Planting an attas seed gives 100 Farming experience.
+Sources:
+- Hespori (Level 284, Quantity: 1–2, Rarity: 1/3)

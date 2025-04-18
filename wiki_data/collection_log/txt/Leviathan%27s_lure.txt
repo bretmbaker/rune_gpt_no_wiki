@@ -1,0 +1,4 @@
+Item: Leviathan's lure
+Summary: The Leviathan's lure is an item dropped by The Leviathan. It is one of four components used to create the soulreaper axe, alongside the executioner's axe head, eye of the duke, and siren's staff.
+Sources:
+- The Leviathan (Level 593; 798; 1157, Quantity: 1, Rarity: 1/768)

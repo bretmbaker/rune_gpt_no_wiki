@@ -1,0 +1,2 @@
+Item: Tool Leprechaun
+Summary: Tool Leprechauns are non-player characters found near Farming patches around Gielinor. They provide two basic functions: store Farming tools and exchange harvested items into banknotes.

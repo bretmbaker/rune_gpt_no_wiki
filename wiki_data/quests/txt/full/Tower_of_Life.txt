@@ -1,0 +1,182 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Tower of Life (#120)
+
+
+
+
+
+Released | 19 February 2007 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Tim C
+
+
+
+Tower of Life is a quest in which a group of alchemists attempt to create a living being. It features some difficult choices about the future of this creature.
+
+Details [ edit | edit source ]
+
+Start point | Talk to Effigy at the Tower of Life just east of the Ardougne Monastery . Show on map
+
+Official difficulty | Novice
+
+Official length | Medium
+
+Description | The construction of a mysterious tower is almost complete, but the builders working on it have gone on strike. Losing patience, the alchemists that hired them are looking for anybody to help them. When the world of magic and the world of logic combine you can expect dangerous results, but a true adventurer would cherish such things... wouldn't they?
+
+Requirements | 10 Construction ( not boostable ) ( required to start )
+
+Items required | Hammer (or Imcando hammer ) Saw (or crystal saw ) Beer (must be a regular beer - other beers do not work.)
+
+Recommended | At least 11 free inventory spaces and 4 more if not wearing the builder's costume One raw chicken and raw swordfish for a Medium Ardougne Diary task after the quest Fairy Ring teleport DJP right next to quest start south of East Ardougne Ardougne cloak for teleports back to effigy
+
+Enemies to defeat | None
+
+League notes | Kandarin ✓ — location requirement
+
+Walkthrough [ edit | edit source ]
+
+Obtaining the builder's costume [ edit | edit source ]
+
+Begin the quest by heading to the Tower of Life south of East Ardougne , just south-west of the Necromancer Tower (south-west of fairy ring D J P , or Ardougne cloak teleport to the monastery and go east).
+
+Talk to Effigy . He will tell you speak to Bonafido if you want to help.
+
+Talk to Bonafido. He can be found lying around the boxes just north of the entrance to the Tower of Life - if you can convince him you're a builder by getting the outfit, he will let you into the tower. You need a hard hat, some scruffy trousers, a good top, and some hard boots. Talk to the other builders to get them. Talk to 'Black-eye' to get a hard hat , and answer his three questions. Here are the questions and answers:
+
+Talk to 'Gummy' and ask for trousers. He says he lost a pair around the tower - just search the plants south-east of the tower to find the Builder's trousers . Talk to 'The Guns' , who wants a beer . Go and buy a beer for 2 coins at The Flying Horse pub in north-west East Ardougne or the pub at the Fight Arena or Yanille and return, give him the beer, and he will give you his shirt . Finally, talk to 'No fingers' and pickpocket him when he refuses to give you the boots . Once you've acquired all the items, you must answer some questions from Bonafido for him to grant you entry to the tower. The answers are:
+
+After answering these questions, you are allowed to enter the tower. Please note that you need to wear the outfit if you want to enter the tower at any time during the quest, although it is not needed after.
+
+Fixing up the tower [ edit | edit source ]
+
+All the required items are on the ground floor [ UK ] 1 st floor [ US ] in crates. Search these as required. Each crate gives the same item; search again to get more or if you get nothing the first time. A pressure machine, a pipe system, and a strange cage at the top need to be finished. A hammer and a saw (or crystal saw ) are needed to fix these machines.
+
+Item | Machine | Amount
+
+ | Valve wheel | Pressure | 4
+
+ | Metal sheet | Pressure | 3
+
+ | Coloured ball | Pressure | 4
+
+ | Pipe | Pipe | 4
+
+ | Pipe ring | Pipe | 5
+
+ | Rivets | Pipe | 6
+
+ | Metal bar | Cage | 5
+
+ | Binding fluid | Cage | 4
+
+Items needed:
+
+4 Coloured balls 3 Metal sheets 4 Valve wheels
+
+On the 1 st floor [ UK ] 2 nd floor [ US ] , once the pressure machine is built, follow these instructions to fix the pressure machine:
+
+Wheels labelled from the leftmost (1) to the rightmost (4)
+
+Turn wheel 1 to the left until the ball plugs the hole. Turn wheel 1 to the right until the pipe fills. Pull the left lever . Turn wheel 2 to the left until the ball plugs the hole. Turn wheel 2 to the right until the pipe fills. Turn wheel 3 to the right until the water starts dripping. Turn wheel 3 left once to plug the hole. Turn wheel 3 to the right until the pipe fills. Pull the right lever . Turn wheel 4 to the right until the water starts dripping. Turn wheel 4 left once to plug the hole. Turn wheel 4 to the right until the pipe fills.
+
+You will receive a message saying the machine is working.
+
+Items needed:
+
+4 Pipes 5 Pipe rings 6 Rivets (These stack)
+
+On the 2 nd floor [ UK ] 3 rd floor [ US ] , you will need to solve a rather simple puzzle similar to a jigsaw (solution on the right). As soon as you put a pipe in the correct location, it will lock in place. You only have to rotate the largest piece; the rest are the correct orientation when you start.
+
+Items needed:
+
+5 Metal bars 4 Bottles of binding fluid
+
+Clicking the horizontal or vertical button will make a bar appear. It can increase in size by using the + sign. The bars start off at size one once selected. Click "place bar" and it will go in. If it disappears, redo the steps with the next size up.
+
+It is helpful to remember each "square" of the cage is composed of 2-length pipes. So a missing pipe spanning 1½ squares would need a pipe of length 3.
+
+Quick guide:
+
+When each side is finished, turn the cage with the right arrow.
+
+Side One
+
+Horizontal: Size 2 Horizontal: Size 3 Vertical: Size 2
+
+This side of the cage is now complete
+
+Side Two
+
+Horizontal: Size 2 Vertical: Size 4 Vertical: Size 2
+
+This side of the cage is now complete
+
+Side Three
+
+Horizontal: Size 4 Vertical: Size 2 Vertical: Size 3
+
+This side of the cage is now complete.
+
+Side Four
+
+Horizontal: Size 2 Horizontal: Size 2 Vertical: Size 2
+
+The cage should now be complete!
+
+The Alchemists' Secret [ edit | edit source ]
+
+Once all three machines are properly fixed, go outside and talk to Effigy . He will be delighted that you've finished and asks you to join him at the top of the tower with the other alchemists.
+
+Go back up to the top of the tower to start a long cutscene where the Homunculus is brought to life. Go back to the base of the tower and talk to Effigy - then, return back to the top of the tower to confront the Homunculus.
+
+You now need to push the Homunculus's mind towards magic or logic. All multiple-choice answers are either magical, logical or neither. You need to push the bar at the top of the screen either to fully magical or fully logical; once done, the Homunculus will be okay. It does not matter if you push the Homunculus's mind towards magic or logic - the outcome will be the same.
+
+There are 14 questions. Choosing a magical answer moves the arrow to the left, a logical answer moves the arrow to the right, and a neither answer does not move the arrow. If you don't move the arrow all the way to one end, then the questions repeat. Likewise, you could finish before all the questions are asked.
+
+How can I make fire appear at my fingertips? Logic - Get some logs and a tinderbox. Magic - With the aid of 5 fire runes. Neither - That's impossible! No one can do that! How do dragons breathe fire? Neither - Not too sure, I've never seen it happen. Magic - With the help of the magical dragonstones! Logic - By ignition of gas in their belly as they exhale. What do people do, day-in, day-out? Magic - Runecraft, enchant jewellery, perform alchemy. Neither - Eat, sleep, nothing that exciting. Logic - Fletching, Crafting, Smithing. What could I do with unwanted bones? Logic - Bury them. Neither - I'd like to think you wouldn't be carrying bones around. Magic - Turn them into bananas or peaches! What's the best way to travel? Neither - I'm not really much of a traveller, sorry. Logic - Run, run as fast as you can. Magic - Depends where you are headed, but teleport spells are a safe bet. I hear people whisper of potions... Magic - Yes, you can make magic potions to boost your skills. Logic - People mix together ingredients in vials. The nutrients will help you. Neither - Yes, liquid-filled vials. Big deal. How are runes created? Magic - By harnessing the power of the gods! Neither - Never seen one personally. Logic - Take some essence to an altar and use a talisman. Can people move things with the power of the mind? Neither - Perhaps. I've never seen it myself, though. Magic - Yep, you can use the Telekinetic Grab spell. Logic - Sure. Use your brain to tell someone to move it! How can I possibly exist? Magic - Through the power of alchemy. Neither - It's beyond me! Logic - It's a simple case of combining materials. Explain those flashing sparks that scared the alchemists. Magic - You have special powers - no surprise seeing how you were created. Logic - Coincidence - there is a lot of loose metal around. Neither - Yeah, they were cool! Nice one. I want to learn more - what should I study? Logic - Try some Mining followed by Smithing. Magic - How about Magic and Runecrafting? Neither - That's up to you; depends on what you find interesting. If I reach out far enough I can grab the sun. Neither - Don't be silly! You'd get burnt! Magic - Can't see why not, anything is possible. Logic - Well the sun is not actually there, it's where it used to be! Am I a creature of magic or a creature of logic? Logic - Everything has a reason, even if you don't know what it is. Neither - Probably a bit of both. Magic - Your very existence speaks of mystical forces. Which do you believe in? Magic - Magic. Neither - I'm too laid back to really care, mate. Logic - Logic.
+
+Once more, return to the ground floor [ UK ] 1 st floor [ US ] , talk to Effigy and the Homunculus will appear and scare off the alchemists. The Homunculus will speak with you again and tell you to meet him in the basement of the tower.
+You will be granted access to the dungeon . Go into the dungeon and talk to the Homunculus north of where you enter the dungeon once more to complete the quest.
+
+Rewards [ edit | edit source ]
+
+2 Quest points 1,000 Construction experience 500 Crafting experience 500 Thieving experience Access to Creature Creation Builder's costume
+
+Required for completing [ edit | edit source ]
+
+Completion of Tower of Life is required for the following:
+
+Medium Ardougne Diary task - kill a swordchick (requires 1 raw swordfish and 1 raw chicken)
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Music [ edit | edit source ]
+
+Creature Cruelty Magic Magic Magic Work Work Work Mutant Medley
+
+Trivia [ edit | edit source ]
+
+The music tracks made for this quest were the last to be released in RuneScape prior to the March 2007 audio rework . The original versions of these tracks were in the game for only two weeks (19 February-6 March 2007) before they were replaced. When you are talking to 'The Guns' about his beer , you misspell "beer" as "bear". If the player has completed the Making History quest before they have begun Tower of Life, then a short, yet humorous, verbal exchange occurs between Effigy and the player. Bonafido states - "Hahaha, don't be a plonka!" which is a variation of the term plonker . This is a British and Australian derogatory slang for a very stupid person, made popular in the British TV sitcom " Only Fools and Horses " (1981-1996, 2001-2003) in which the main character Derek "Del Boy" Trotter often referred to his daft brother Rodney as "a right plonker". The Homunculus of alchemy were created by combining parts of different animals to create a hybrid . Upon examining some floating vials, the player receives the message "Oh, oh, oh, it's magic!", a reference to the song Magic by Pilot . The player makes several references to begging during this quest, such as when talking with 'Gummy' , the player says "Ah, come on. You know you want to give me free stuff .", and when talking to 'Currency' the Alchemist, the player says "Hi Currency. Got any spare cash? " After the long cutscene with the Homunculus brought to life and after talking with Effigy, the player quotes their own mother saying experience teaches fools , which is an old Latin phrase - experientia docet stultos . Examining the barricade on the top floor of the tower gives the message "Thou shalt not pass!", a reference to a famous line spoken by Gandalf in The Lord of the Rings . After the quest, the room north of Homunculus in the basement has an interactive light floor which turns blue when you walk on it. This may be a reference to the disco dance floor in Saturday Night Fever or the music video Billie Jean . In the 3rd Chaos Elemental letter ( 15th Postbag from the Hedge ), the elemental hints at this quest by stating: "In the basement of the tower of life you'll find the homunculus; he's crossing a lobster with a jubbly! A spider with a sardine! A newt with a rooster!" The satchels , a post-quest reward, were created by Jagex to test out a new kind of scripting, where what is being stored is in the players' database instead of the main game.
+
+v • t • e Tower of Life
+
+NPCs | Effigy 'Currency' The Alchemist 'Transmute' The Alchemist Bonafido 'Gummy' 'The Guns' 'Black-eye' 'No fingers' Homunculus
+
+Items | Valve wheel Metal sheet Coloured ball Pipe Pipe ring Rivets Metal bar Binding fluid Triangle sandwich Builder's costume Hard hat Builder's trousers Builder's shirt Builder's boots |  | Valve wheel Metal sheet Coloured ball Pipe Pipe ring Rivets Metal bar Binding fluid Triangle sandwich | Builder's costume | Hard hat Builder's trousers Builder's shirt Builder's boots
+
+ | Valve wheel Metal sheet Coloured ball Pipe Pipe ring Rivets Metal bar Binding fluid Triangle sandwich
+
+Builder's costume | Hard hat Builder's trousers Builder's shirt Builder's boots
+
+Locations and scenery | Tower of Life Huge vat Pressure machine Pipe machine Cage Plant
+
+Music | Creature Cruelty Magic Magic Magic Work Work Work Mutant Medley
+
+Related | Quick guide Transcript Creature Creation

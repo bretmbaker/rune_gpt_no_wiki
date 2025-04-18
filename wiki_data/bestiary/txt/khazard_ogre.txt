@@ -1,0 +1,43 @@
+Name: Khazard Ogre
+Combat Level: 63
+Size: 2x2
+Info:
+- Description: Khazard's strongest ogre warrior.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 1225
+- Link: MOID
+
+Location:
+- Area: Fight Arena (during quest)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Long bone (1/400)
+- Curved bone (1/5,012.5)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 60
+Attack: 54
+Strength: 53
+Defence: 53
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

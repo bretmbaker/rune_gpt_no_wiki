@@ -1,0 +1,117 @@
+Name: Twig
+Combat Level: 71
+Size: 2x2
+Info:
+- Description: He's guarding the cells.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 90 xp
+- Category: Trolls
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4131
+- Link: MOID
+
+Location:
+- Area: Troll Stronghold (Lower level)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Adamant med helm (1/128)
+- Adamant warhammer (1/128)
+- Mithril sq shield (1/128)
+- Earth rune (1/128)
+- Earth rune (1/128)
+- Grimy guam leaf (1/34.1)
+- Grimy marrentill (1/45.5)
+- Grimy tarromin (1/60.7)
+- Grimy harralander (1/78)
+- Grimy ranarr weed (1/99.3)
+- Grimy irit leaf (1/136.5)
+- Grimy avantoe (1/182)
+- Grimy kwuarm (1/218.5)
+- Grimy cadantine (1/273.1)
+- Grimy lantadyme (1/364.1)
+- Grimy dwarf weed (1/364.1)
+- Limpwurt seed (1/51.5)
+- Strawberry seed (1/53.9)
+- Marrentill seed (1/56.5)
+- Jangerberry seed (1/76.7)
+- Tarromin seed (1/83.1)
+- Wildblood seed (1/85.1)
+- Watermelon seed (1/112.1)
+- Harralander seed (1/126.1)
+- Snape grass seed (1/176.5)
+- Ranarr seed (1/181)
+- Whiteberry seed (1/207.7)
+- Mushroom spore (1/243.5)
+- Toadflax seed (1/261.5)
+- Belladonna seed (1/392.2)
+- Irit seed (1/392.2)
+- Poison ivy seed (1/543.1)
+- Avantoe seed (1/588.4)
+- Cactus seed (1/588.4)
+- Kwuarm seed (1/784.5)
+- Potato cactus seed (1/882.5)
+- Snapdragon seed (1/1,412)
+- Cadantine seed (1/1,765.1)
+- Lantadyme seed (1/2,353.4)
+- Dwarf weed seed (1/3,530.1)
+- Torstol seed (1/7,060.2)
+- Coins (1/128)
+- Nothing (1/51.29; Never[d 1])
+- Uncut sapphire (1/102.4; 1/52[d 2])
+- Uncut emerald (1/204.8; 1/104[d 2])
+- Uncut ruby (1/409.6; 1/208[d 2])
+- Uncut diamond (1/1,638.4; 1/832[d 2])
+- Chaos talisman (1/1,092.27; 1/554.67[d 2])
+- Loop half of key (1/3,276.8; 1/1,664[d 2])
+- Tooth half of key (1/3,276.8; 1/1,664[d 2])
+- Rune javelin (1/3,276.8; 1/1,664[d 2])
+- Rune spear (1/52,428.8; 1/3,120[d 2][d 3])
+- Shield left half (1/104,857.6; 1/6,240[d 2][d 3])
+- Dragon spear (1/139,810.13; 1/8,320[d 2][d 3])
+- Troll bone (1/4[d 1])
+- Ensouled troll head (1/45)
+- Brimstone key (1/268[d 2])
+- Long bone (1/400)
+- Curved bone (1/5,012.5)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 90
+Attack: 40
+Strength: 90
+Defence: 25
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+Attack bonus: 20
+Strength bonus: 20
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 0
+Crush: 10
+
+[Magic defence]
+Magic: 200
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 200
+Standard: 200
+Heavy: 200

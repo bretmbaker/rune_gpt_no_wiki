@@ -1,0 +1,53 @@
+[Weapon: Rune Platebody (H1)]
+
+
+Arune platebody (h1)is an item obtained fromhardTreasure Trails. All of the rune heraldic platebodies have the same stat bonuses as therune platebody. As with all Treasure Trails andrune armour, this cannot be made with theSmithingskill. It requires 40Defenceto equip, as well as completion ofDragon Slayer I.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Provides excellent protection with a heraldic design.
+General Store Value: 65,000 coins
+High alch: 39,000 coins
+Low alch: 26,000 coins
+Weight: 9.979 kg
+Grand Exchange Value: 63,391 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 25
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -30
+- Ranged: -15
+
+Defence Bonuses:
+- Stab: +82
+- Slash: +80
+- Crush: +72
+- Magic: -6
+- Ranged: +80
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/8,125 | 

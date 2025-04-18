@@ -1,0 +1,49 @@
+[Weapon: Bronze Brutal]
+
+
+Bronze brutal arrowsare used to killZogressouth ofCastle WarsorChompy birds. They are made by usingflighted ogre arrowsonbronze nails. This requires level 7Fletchingand gives 1.4 Fletchingexperienceper arrow. Bronze brutal arrows can only be used with aComp ogre bow.
+Partial completion ofZogre Flesh Eatersis required to make brutal arrows.
+
+
+[Infobox]
+Released: 17 May2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Blunt bronze arrow... ouch.
+General Store Value: 5 coins
+High alch: 3 coins
+Low alch: 2 coins
+Weight: 0 kg
+Grand Exchange Value: 161 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 983
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +11
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown

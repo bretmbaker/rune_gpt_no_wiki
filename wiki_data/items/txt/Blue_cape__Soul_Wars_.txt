@@ -1,0 +1,1 @@
+Ablue capeis a cosmetic cape worn by players during a game ofSoul Wars, as well as the minigame's tutorial. The cape, alongside ablue icon, are automatically equipped by players in the blue team upon the start of a game, and cannot be unequipped. When a game of Soul Wars ends or the player leaves the tutorial, both the cape and icon are removed from the player.

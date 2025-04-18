@@ -1,0 +1,45 @@
+[Weapon: Klank%27S Gauntlets]
+
+
+Klank's gauntletsare a pair of gauntlets obtained during theUnderground Passquestto prevent thehalf-soullessfrom biting the player when searching their cages for Iban's dove. If lost, they can be recovered during and after the quest fromKlankfor5,000coins. Klank's gauntlets have the same stats assteel gauntlets.
+
+
+[Infobox]
+Released: 3 March2003(Update)
+Members: Yes
+Quest item: Underground Pass
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Strong dwarvish gloves.
+General Store Value: 6 coins
+High alch: 3 coins
+Low alch: 2 coins
+Weight: 0.226 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +8
+- Slash: +9
+- Crush: +7
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

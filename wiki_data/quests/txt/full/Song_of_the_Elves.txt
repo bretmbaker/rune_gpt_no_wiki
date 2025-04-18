@@ -1,0 +1,417 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Song of the Elves (#143)
+
+
+
+
+
+Released | 25 July 2019 ( Update )
+
+Also called | SotE
+
+Members | Yes
+
+Quest series | Elf , #8
+
+Lead developer(s) | Development and testing : Mod Ed, Mod Curse, Mod Lenny, Mod Tide Art and graphics : Mod Gee, Mod Ghost, Mod West, Mod Ry Audio : Mod Ian, Mod Slippers, Mod Surma
+
+
+
+Song of the Elves is the final quest in the Elf quest series . The quest was announced at RuneFest 2018 and was released on 25 July 2019 . Completion of the quest unlocks access to the elven city of Prifddinas .
+
+The quest follows up on the events of Mourning's End Part II . With the Temple of Light now sealed for another thousand years, the player joins the rebel elves in exposing the hoax of the plague and starting a revolution against Lord Iorwerth and King Lathas .
+
+Details [ edit | edit source ]
+
+Start point | Talk to Edmond , who can be found at his home in East Ardougne, north of the Flying Horse Inn . Show on map
+
+Official difficulty | Grandmaster
+
+Official length | Very Long
+
+Description | Our story begins with you, the hero, answering the call to adventure when Edmond, a resident of Ardougne, asks for your aid. By rescuing his daughter Elena from Plague City, the quarantined West Ardougne, you begin to unravel the mystery surrounding the disease. With her help, you discover the plague is a hoax - a plot by King Lathas to section off the West Ardougne. By confronting him, you find out this was done to protect the rest of Gielinor from the threat in the elven lands. The king sends you on a mission to travel through the Underground Pass and help his ally, Lord Iorwerth, in eradicating his brother King Tyras who threatens to revive the mysterious Dark Lord. After an arduous journey through the pass, you meet with Iorwerth and his forces to end Tyras' evil once and for all. Upon your return to Lathas you are intercepted by Arianwyn, a rebel elf who opposes Lord Iorwerth. He informs you of Lathas and Iorwerth's deception. They manipulated you into removing their final opposition and were now free to bring the Dark Lord back to Gielinor for their own intentions. You work with the elven rebellion to discover the purpose of the plague was to disguise the digsite of the long lost Temple of Light. An ancient place that is key to bringing back the Dark Lord. To make amends for your past mistakes and put a halt in King Lathas' and Lord Iorwerth's plans, you solve the intricate light puzzle designed to protect the Death Altar within the temple. After sealing off the temple and preventing the return of the Dark Lord, it's now time to turn your attention to King Lathas and Lord Iorwerth to end their schemes once and for all in Song of the Elves.
+
+Requirements | Completion of the following quests: Mourning's End Part II Mourning's End Part I Big Chompy Bird Hunting Sheep Herder Roving Elves Waterfall Quest Regicide Underground Pass Biohazard Plague City Making History Priest in Peril The Restless Ghost Druidic Ritual 70 Agility ( not boostable ) ( required to start ) 70 Construction ( not boostable ) ( required to start ) 70 Farming ( not boostable ) ( required to start ) 70 Herblore ( not boostable ) ( required to start ) 70 Hunter ( not boostable ) ( required to start ) 70 Mining ( not boostable ) ( required to start ) 70 Smithing ( not boostable ) ( required to start ) 70 Woodcutting ( not boostable ) ( required to start )
+
+Items required | Steel full helm Steel platebody Steel platelegs Red dye Purple dye Mourner gear including gas mask ( plague jacket and trousers do not work) Silk Runite bar Limestone brick x 8 Tinderbox Rope Nature rune Flowers from mithril seeds or adamant seeds , or an irit leaf Adamant chainbody (consumed during the quest) Wine of zamorak OR Zamorak brew(4) Cabbage (obtainable during the quest) Black knife OR black dagger Cadantine seed Seed dibber (or partial completion of the Farming portion of the Barbarian Training miniquest ) Vial of water Pestle and mortar Hammer Saw Pickaxe Axe Spade
+
+Recommended | 95 Combat level 80+ Magic for the Fragment of Seren . 40 Prayer to be able to use Protect from Missiles at boss fight. Completion of Desert Treasure I for Ancient Magicks . High healing food, such as monkfish or sharks . West Ardougne Teleport Games necklace for teleportation to Baxtorian Falls . Weight-reducing clothing and energy restoration items such as stamina potion . Charged teleport crystals to skip large amounts of walking. 3x Iorwerth camp teleport or equivalent method. Zul-Andra teleport
+
+Enemies to defeat | 21 Mourners (level 24, 51 and 106) Paladin (level 49 and 118) Knight of Ardougne (level 27 and 53) Several Iorwerth Archers and Warriors (level 90 and 108) Arianwyn (level 212) Essyllt (level 236) Fragment of Seren (level 494)
+
+League notes | Unlocking Tirannwn ✓ will auto-complete the quest
+
+The escape of Elena [ edit | edit source ]
+
+To begin the quest talk to Edmond , who can be found in the garden at his home in East Ardougne north of the Flying Horse Inn . (You can pick up a cabbage and spade in Edmond's garden if needed). He will tell you that Elena has been going around telling people that the plague isn't real, and has been taken by the Knights of Ardougne who claimed she was inciting rebellion against the king. Agree to help, and seek out King Lathas upstairs in his castle just south.
+
+Speak to King Lathas while not wearing Mourner gear. He will tell you that Elena was imprisoned due to spreading news that the plague is fake and as he has explained before, the façade is a necessary evil and he simply can't risk Elena exposing the truth and risking everything, including the looming threat that is the Dark Lord , and thus must keep her imprisoned.
+
+Return to Edmond. The player tells him about everything they've done since the events of the Plague City quest, summing up the entire questline. He will then tell you that Elena is imprisoned in the city prison beneath the castle, and asks you to go undercover as a Knight of Ardougne and find a way to free her.
+
+You will need a steel full helm , steel platebody , steel platelegs , red dye , purple dye and one piece of silk . Use the red dye on the steel full helm to obtain an Ardougne knight helm , and then talk to his wife, Alrena . You will receive a tabard from her; use it on the steel platebody to obtain an Ardougne knight platebody . Equip your helm, platebody and steel platelegs. Pures who do not have 5 Defence and are unable to equip steel platelegs must talk to Edmond to polish the steel platelegs into Ardougne knight platelegs .
+
+Talk to Edmond again. He will tell you to go to the prison, which is located beneath the castle.
+
+Go to the basement of the Ardougne Castle . Here, a guard will stop you. You will tell him your name is Tim, Sue, or Sam, and be allowed to continue. Talk to Elena in the prison; she will tell you she wants to escape through a grate into the Ardougne Sewers , and needs you to fetch her some sulphuric acid to dissolve the grate, which you can find in a cabinet in her home. Go to her house, which is found east of Edmond's house directly next to the log balance. Search the cabinet and select the thick clear liquid , and you'll receive a vial of clear liquid .
+
+After you bring the sulphuric acid to Elena, go back and talk to Edmond while she escapes. He will tell you she already came by and is hiding to avoid being recaptured, but tells you that she is hiding in the Rehnison household in West Ardougne . The Rehnisons' house is located directly west of the Mourner's Headquarters . Talk to Ted Rehnison , or his wife Martha , who will tell you the resistance is waiting in the basement below. Search the eastern bed and climb down.
+
+Elena will tell you about the Ardougne Resistance, which she founded after discovering the plague is a hoax in order to overthrow King Lathas, and you will tell her about what you've been up to while infiltrating the mourners. Councillor Halgrive will then speak to you. He will tell you that although the council serves the king and can't overrule his decisions, they can step in as interim ruler should the king be deemed unfit to rule. Councillor Halgrive tells you of his plan to have you (disguised as a Knight of Ardougne) upset the people of Ardougne in order to make it appear as if you're doing so under the king's orders.
+
+Causing an insurrection [ edit | edit source ]
+
+You will need to go around West and East Ardougne doing certain actions to rile up the population. Each action will convert members to the Ardougne Resistance. Keep in mind you do not have to talk to every person on this list; you just need to convert a total of 80 members.
+
+In West Ardougne , dress up as a mourner and do the following to make the population angry:
+
+In East Ardougne , dress up as an Ardougne Knight and do the following:
+
+After you have recruited 80 new members, bank to prepare yourself for the first fight of the quest.
+
+ | This fight takes place in an instance . On death , all unprotected items will be moved to a grave outside the instance. Any items left on the ground will be lost.
+
+Once ready for the fight, return to the Rehnison Household in West Ardougne. Enter the basement under the bed and talk to Elena to begin the battle of West Ardougne.
+
+The fight has three parts. Each part has a kill counter in the chatbox and resistance fighters will help you in combat. Protect from Melee will protect you from all damage, but high-levelled players will find that decent armour will protect them from most damage. Alternatively, Guthan the Infested's equipment can be used, needing no food or prayer to complete. Mages can also use the cornering trick to stack the mobs and burst or barrage them for faster kills. Furthermore, despite some of the mourners wielding crystal halberds, they have an attack range of 1, so they can be safely trapped on corners and safespotted.
+
+In the first part, you have to kill 10 Mourners :
+
+Level 24 (3) Level 51 (5) Level 106 (2)
+
+In the second part, head downstairs via the trapdoor and kill 11 Mourners:
+
+Level 24 (3) Level 51 (4) Level 106 (4)
+
+Note: if you leave the battle having reached the second part, when you return you will be downstairs and not have to kill the initial 10 Mourners.
+
+After the second part, the fight pauses and you can bank and resupply if necessary. Talk to Elena or Councillor Halgrive to commence the battle of East Ardougne. Some of the NPCs are on the 1 st floor [ UK ] 2 nd floor [ US ] .
+
+Knight of Ardougne (level 27) (5) Paladin (level 49) (6) Knight of Ardougne (level 53) (2) Paladin (level 121) (2)
+
+After you've killed all the guards of King Lathas , you will see a cut-scene, where the resistance fighters bring King Lathas out, who they find hidden in a wardrobe. Players can speak to the king and ask him the reasons for his actions over the course of the quest series. In the end, he is sentenced to death by the citizens of Ardougne. After the execution, Hooded Figures will knock you out and take you to the Iorwerth Camp .
+
+The resistance fight the knights and paladins of East Ardougne. Lathas is captured by the resistance. Lathas is sentenced to death.
+
+Arianwyn's plan [ edit | edit source ]
+
+A long cutscene will play, where you and Elena are brought before Lord Iorwerth . Before you both are about to be taken prisoner, Arianwyn and the elf resistance will appear to rescue you. Lord Iorwerth will reveal that he lied to King Lathas in order to access West Ardougne and reach the Temple of Light to summon Seren . Arianwyn refutes this, believing Seren to be dead; Lord Iorwerth thought the same, until he managed to break one of the seals in the Grand Library , where he discovered a part of Seren remains trapped within the Temple. He will let the rebels go, believing they could be of use in their plans while they are none the wiser.
+
+Returning to Lletya , Arianwyn calls a meeting, and asks you to notify Ysgawyn and Elena. You must talk to Ysgawyn first before Elena will appear. Ysgawyn can be found on the upper platform of Lletya; speak to him first. After you have done this Elena can be found in the south-west corner by the pond. After talking to Elena, return to Arianwyn and talk to him to begin the meeting.
+
+The meeting will tell of the history of the elves from the end of the God Wars to the ongoing civil war, where the city of Prifddinas was reverted to a crystal seed, and the Grand Library along with it, which Lord Iorwerth claimed he accessed. It is decided that the player and Arianwyn will investigate the Waterfall Dungeon to see whether King Baxtorian left anything behind that would explain more about the fragment of Seren.
+
+Be sure to speak to Arianwyn after the meeting, or he will not appear at Baxtorian Falls .
+
+Visiting Baxtorian Falls [ edit | edit source ]
+
+Travel to the Waterfall Dungeon (requires a rope ). Go to the eastern room with the skeletons and skeleton mages and search the northern stacked crate for a key , and then go to the western room with fire giants and past the two single doors. Talk to Arianwyn , and he will hand you a book, Ode to eternity , with a riddle, that requires you to use items on the pillars around the tomb.
+
+Warning: If you place the items on the incorrect pillars, you will have to buy/collect the items again, and each time you enter the room, the order of numbers will change! If you leave the room before finishing the puzzle, you may be able to continue it or replace the item on the pillar you did incorrectly.
+
+Each of the six items has a number as follows:
+
+Nature rune Flowers from mithril seeds or adamant seeds , or an irit leaf Black knife or black dagger Wine of Zamorak or Zamorak brew(4) Adamant chainbody Cabbage
+
+The layout is random, and you will need to inspect the pillars to figure out the order. Make sure to read the book before placing any items .
+
+The south-west pillar will say which number it is. Place the item corresponding to this number on the south-west pillar. The west pillar will say it is not opposite of a number. Place the item corresponding to this number on the south-east pillar. The north-west pillar will say the number it is next to. This number corresponds to the item to place on the west pillar. The north-east pillar will say the number it is opposite to. This number corresponds to the item to place on the north-west pillar. The east pillar will say what number it is not next to. This number corresponds to the item to place on the east pillar. The south-east pillar will say what number isn't going on the pillar. This number corresponds to the item to place on the north-east pillar.
+
+After placing all of the items in the right locations, the statue of Baxtorian will spring to life, as Baxtorian himself. Arianwyn will teleport Baxtorian back to Lletya . Bank to gather items for the next section and then teleport back to Lletya yourself.
+
+Preparing to enter Prifddinas [ edit | edit source ]
+
+Back in Lletya , talk to Baxtorian and Arianwyn . Baxtorian says there may be a way to enter the Grand Library of Prifddinas , to learn more about what Lord Iorwerth was planning, via the use of a specially made potion and bypassing the city walls, which have been enchanted so that only Iorwerth elves and their allies can enter; Baxtorian believes Lord Amlodd , an expert in magic, would be able to break the spell.
+
+You will be asked to create the potion. Talk to Elena next to the pond, and plant a cadantine seed in the nearby farming patch, which is specially treated to yield elder cadantine . Elena will ask you to check if Arianwyn and Baxtorian have anything for you to do while you wait for the seed to grow.
+
+Since much of the rest of the quest takes place in the elven lands with their many traps, it is recommended to have an anti-poison potion available, since tripwires if failed will poison the player.
+
+Talk to Baxtorian and ask how to find Lord Amlodd and Lady Trahaearn . Ask how to find both elves before proceeding to save yourself time; the order in which the two are found does not matter. Lady Trahaearn gave the clue "I will journey south from the well" to Baxtorian before she left. Lord Amlodd gave Baxtorian a special crystal seed for safekeeping, which he gives to you.
+
+Talk to Eluned (found in south-west Lletya , north of the patch where you planted the cadantine ) to ask her to enchant the crystal seed before proceeding with the quest.
+
+Note: If you choose to search for Lady Trahaearn before Lord Amlodd, you will not need to bring a teleport crystal with you, since Lord Amlodd will automatically teleport you back to Lletya after speaking to him.
+
+Finding Lady Trahaearn [ edit | edit source ]
+
+Travel west of Lletya and pass through the trees north of the dire wolves . Then run across the clearing, step over the tripwire, and head west through the 3 dense forests. Travel north through the leaf trap, and finally east to reach the cave entrance to the Underground Pass . Inside, walk south of the Well of Voyage to inspect the blocked crevice. Afterwards, use your pickaxe on the blocked crevice to clear it and go inside. Upon entering, you'll find an Elderly Elf wearing a damaged exoskeleton. Use a runite bar and hammer on her to fix the exoskeleton. She will then be revealed to be Lady Trahaearn, and will teleport back to Lletya.
+
+Now, you should rub the crystal seed you received from Baxtorian and had enchanted by Eluned to find Lord Amlodd. However, if you chose to look for Lord Amlodd first, then return to Lletya, either on foot or with a teleport crystal (if you brought one), to make the potion.
+
+Finding Lord Amlodd [ edit | edit source ]
+
+After rubbing the crystal seed (make sure you had it enchanted first), you will be teleported to the Enchanted Valley where you find a Mysterious Figure , who will ask for your opinion on the state of the valley. Choose any of the available options and the Mysterious Figure will reveal that he is Lord Amlodd. He will then teleport you back to Lletya.
+
+Making the potion [ edit | edit source ]
+
+Once Lord Amlodd and Lady Trahaearn have been found, talk to Elena again and get the elder cadantine . Talk to Arianwyn to get the old crystal , and use it with a pestle and mortar to make crystal dust . Use the elder cadantine on a vial of water , and then use the crystal dust with the unfinished potion to make the inversion potion .
+
+Talk to Arianwyn and give him the potion, and a meeting will begin in which it is decided who enters the Grand Library. Ysgawyn will disagree, while everyone else believes you are up to the task. Talk to Lord Amlodd (located north from Arianwyn) once more to teleport to the Grand Library .
+
+The Grand Library of Prifddinas [ edit | edit source ]
+
+(Before you enter the library, take note that any unlocked memories can teleport you to other unlocked seal locations if you ask it where else you can be teleported to. You must have already heard the memory in order to teleport to it, simply solving the light puzzle doesn't enable the teleport. This can help with saving some run energy as you travel around the library.)
+
+Talk to Lord Ieuan Amlodd to be transported into the Grand Library . If you log out inside, you will be kicked out but your progress will be saved.
+
+As this seal was already unlocked by Lord Iorwerth , one must simply walk to the Seal of the Forgotten in the centre and click on it. Walk to the seal indicated on the map to the right, and then touch the Seal of the Forgotten.
+
+A memory of Seren will then reveal that her dark guilt is sealed away in the Temple of Light , but that an orb of light at the shrine at Gorlah exists to unlock this dark part of her.
+
+The Memory of Seren will reveal that when she first encountered the elves on their homeworld of Tarddiad , the mystic elf Ceidwad documented Seren 's teachings in a book called the Cerddi .
+
+The Memory of Seren will reveal that while elves lived relatively long, they did not live long enough, and so Seren watched her friends die, which was a painful process for her.
+
+The Memory of Seren will reveal that Seren shared a piece of her essence with the elves, lengthening their lifespans to thousands of years. This gift was given in the form of a song, called the song of creation.
+
+The Memory of Seren will reveal that although the elves had increased longevity, they ended up being bound to her. If the elves strayed too far from Seren , they would suffer pain and even death.
+
+The Memory of Seren will reveal that she met a divine being that spoke of a different perfect world filled with power. As Seren wanted to save the elves, she sought this power. The elves had to accompany her or else they would die. She convinced the elves to go on this mission.
+
+The Memory of Seren will reveal that in this new world, they made a crystal city, but the curse remained.
+
+The Memory of Seren will reveal that millennia later, Seren found a source of deathly energy deep within the mountains.
+
+The Memory of Seren reveals that she created a dark fragment of herself to try and counter the curse. Unfortunately, it did not work and the dark fragment tried to kill Seren . Seren locked the dark fragment away in the Temple of Light .
+
+Finding Lord Crwys and Lady Hefin [ edit | edit source ]
+
+Return to Arianwyn in Lletya , who will call everyone to a meeting to hear your discoveries in the Grand Library . Everyone will be shocked by the revelations, except for Ysgawyn , who accuses you of lying and demands you to be taken away in chains. However, Baxtorian believes you and lets you continue reporting your discoveries. With Arianwyn still in shock, he will ask Baxtorian to temporarily lead. Ysgawyn will search for the orb of light on Gorlah . In the meanwhile, you will be told to search for Lord Crwys and Lady Hefin . As before, ask Baxtorian for the clue on how to find each of them.
+
+Finding Lady Hefin [ edit | edit source ]
+
+Lady Hefin gave Baxtorian the clue "I will walk across the water to the south" before her departure. Leave the village through the trees west, and then run south past where the magic trees are located; continue further south and jump across a trail of stepping stones over the tar lake until you reach a small island with an NPC and tent. Talk to the Elf Hermit , who is actually Lady Hefin. After a short conversation, Lady Hefin teleports away.
+
+Finding Lord Crwys [ edit | edit source ]
+
+Lord Crwys gave Baxtorian the clue "The trees of my home will call to me" before his departure. He will be found south of the Iorwerth Camp (refer to image above), on the western side of Isafdar . Make your way to the Elf Camp - using an Iorwerth camp teleport scroll is recommended. Note that the Iorwerth elves will attack you on sight. Cross the log balance and head southwest. You will pass a stick trap to enter the clearing, and then chop the dead tree north-west of the lake (or west of the trap) to free him. Note: You will not be able to cut the tree if you do not ask Baxtorian where to find him.
+
+Now, return back to Lletya and speak to Baxtorian, and after a short cut scene and dialogue, the other NPC's will leave. Note: You will not be able to enter the cave in the next part if you do not talk to Baxtorian.
+
+Recovering the orb [ edit | edit source ]
+
+ | This fight takes place in an instance . On death , all unprotected items will be moved to a grave outside the instance. Any items left on the ground will be lost.
+
+Head to the Iorwerth Camp . Be wary of the elves at the camp, as they'll attack you on sight, and enter the cave at the north end of the camp. Once inside, after a short dialogue, kill the Iorwerth Warrior and Archer . If possible, trap the warrior behind the archer; if that is not possible, then use Protect from Melee and kill the warrior first before focusing on the ranger.
+
+After killing the elves, claim the orb of light from the chest and return back to Lletya ; then, speak with Baxtorian .
+
+Tracking down Ysgawyn [ edit | edit source ]
+
+Note: It is recommended to charge your teleport crystals now if you're running low, since the area becomes instanced later on and you cannot do this until much later.
+
+Baxtorian asks you in private to find Ysgawyn , who has been acting suspiciously. He tells you Elena , who is by the pond and patch where you planted the cadantine seed earlier, was the last person who saw him, and advises you to speak to her. During the conversation, select the second option, and she will tell you that she doesn't know where he went, but tells you that might be possible to search for tracks by the entrance to Lletya . It's strongly recommended to bring some food and Anti-poison for the next part as you will be avoiding the traps through the forest.
+
+Head west out the village entrance, through the "pass tree" and inspect the mossy rock or mushroom (be careful of level-88 dire wolves ). This will start the tracking sequence, similar to hunting kebbits .
+
+Continue following the tracks and inspect the rocks just before the trip wire for the second set of tracks. Hop over the trip wire and inspect the southern inspect rock option for the third set of tracks leading across the leaves trap. Head south and inspect the elven lamp for the fourth set of tracks. Follow the tracks south-west and inspect the mushrooms north of the large rock. Follow the path and inspect the small rock north-east of where the tracks end for the fifth final set of tracks leading over the trip wire, where you will see Iestin and Ysgawyn. Click on either NPC to continue the dialogue. ( Note: If you do not have an inventory of very good food, such as sharks or higher, return back to a bank , as you will need it, and some prayer potions if low level.)
+
+You will witness a conversation with Ysgawyn, and accuse him of being a traitor. However, he will angrily tell you that he is speaking to his informant within the Iorwerth clan , Iestin Edern , who provided Ysgawyn with the information about the orb of light , among other things. This was kept a secret from the other elves by Iestin's request, who feared that the other rebels may not be trusting of him; you will have two options to select before continuing the dialogue, before you are teleported into a cutscene, which will continue below.
+
+Iestin will then inform both of you that earlier in the day, Lord Iorwerth has discovered Lletya via a traitor among the rebel elves, and told him how to find the village, and that Essyllt is preparing their forces as they speak.
+
+The attack on Lletya [ edit | edit source ]
+
+ | This fight takes place in an instance with a deathbank . On death , you can pay Rebel Scout 80,000 to retrieve lost items. Any unsafe death will delete all items left inside the deathbank. Any items left on the ground will be lost.
+
+Lord Iorwerth has invaded the town of Lletya and is wreaking havoc. After a brief cutscene with Ysgawyn , Iestin and Elena , you are tasked with saving two children from one of the burning buildings. Head south into the building and search the various objects on the ground floor [ UK ] 1 st floor [ US ] and 1 st floor [ UK ] 2 nd floor [ US ] (locations vary from player to player) to find the two missing children (tables, sacks, benches, cooking pots etc.). The large flames will restrict locations you are not supposed to go through. Note: There is an escape barricade located west of the instance if you wish to restock food, as you will not be able to do this before the boss fight with Level-212 Arianwyn.
+
+After saving the kids, a cut-scene will follow where Lord Iorwerth reveals that Arianwyn was the traitor, who turned once he discovered they truly wish to return Seren , and forces Baxtorian to hand over the Orb of Light in order to save one of the children. Enraged, Ysgawyn attacks Essyllt, who kills him instantly. After a short dialogue and cut-scene, you will now have to fight Arianwyn in order to go after the orb once again.
+
+The moment you enter the instance , use Protect from Missiles prayer. Hit-and-run tactics work best with attacking Arianwyn with melee gear . Observe the colour of his arrows. His arrows consistently hit in the 30s.
+
+Arianwyn cycles through three ranged attacks:
+
+A green arrow is a regular attack which can be negated with Protect from Missiles. The orange arrow is a high damage explosive attack, but it is slow moving and can be avoided by moving one step away. The purple arrow disables active prayers.
+
+After the battle, you will watch another cut-scene in which the surviving elves hold a funeral for Ysgawyn, and decide on what to do next. Islwyn will then ask Baxtorian about what Lord Iorwerth tried telling the rebel elves, and reveals the truth - when Baxtorian discovered where his wife was, he sent what little remained of his army to rescue her, knowing it was a trap but sending them to their deaths anyway due to his desperation to see his wife once more. Enraged, Islwyn leaves for the Underground Pass , intending to fight the Iorwerth on his own.
+
+During the conversation, Baxtorian will reveal the two clues when you select the options for the last two elders - Lady Ithell and Lady Meilyr - and gives you a clue scroll ; head to the bank to restock on the items required for the next part.
+
+Finding Lady Ithell and Lady Meilyr [ edit | edit source ]
+
+Lady Ithell [ edit | edit source ]
+
+Ask how to find Lady Ithell . She gave the clue "I'll put my soul into my greatest work" before her death. You must walk around Lletya and locate the five symbols on the walls of the buildings. The symbols are white and glowing, and easy to spot. They are located both upstairs and downstairs:
+
+The first symbol is up the northern ladder directly above where the group meetings have been taking place. Enter the room with the prayer altar . The symbol is on the wall as you enter the room on the left of the doorway. Leaving that symbol, head north around the upper level to the ladder in the room (upper level of the general store). The second symbol is on the northern wall between two chairs. Head down the ladder behind you into the general store . The third symbol is on the wall to the eastern side of the shop, south of the table and south-west of the exit. Leave the general store and head south through the ruined town to the archery shop. The fourth symbol is on the wall in the corner north of the table. The final fifth symbol is inside the bank in the east tucked away just to the right behind the bank deposit box.
+
+Once all the symbols have been touched, you will gain some of Lady Ithell's knowledge, and you must build a statue on the statue space in the centre of the village (next to the water icon on the map) with a saw , hammer and eight limestone bricks (Flamtaer bag does not work). Upon building the statue and a short dialogue, Kelyn will gaze at the statue and gain all of Lady Ithell's knowledge, now becoming Lady Kelyn Ithell, before teleporting away. Return back to Baxtorian and ask for clues to Lady Meilyr in order to continue with the quest (if not already done).
+
+Lady Meilyr [ edit | edit source ]
+
+Make sure you have enough inventory space to unequip all of your equipment before continuing. Ask how to find Lady Meilyr . She gave the clue "Follow the scrolls to find me" before her departure. Baxtorian will hand the player a clue scroll with a coordinate clue. It points to a location south-east of the Tyras Camp , near a yew tree ; the quickest way is to teleport to Catherby and use the trader crewmember on the pier to head to the Tyras Camp Port for 800–3,200 coins (depending on Ring of charos and Cabin Fever ). Once there, head through the camp and head north through the dense forest, then east and south through the next set of dense forest south of the grizzly bear/cub, and hop over either trip wire trap and south to the dig spot (4 tiles south of the triple mushroom cluster).
+
+Note: if you have never done treasure trails before, you may fail to dig up the next clue scroll even if you are standing on the correct spot. If this happens try asking the Observatory professor about treasure trails to obtain a sextant , watch and chart . Destroy the Clue scroll that you have, get a new one from Baxtorian and try again.
+
+The next clue step requires travelling to Zul-Andra . A Zul-Andra teleport will take you right there; another quick way to get there is using the fairy ring B J S , although you will need 76 Agility to use the stepping stone shortcut (can be boosted with summer pies ). Otherwise, you may move onward to Port Tyras , go through the camp and head south from the docks, or use a trader crewmember to charter a ship to the Tyras Camp Port for 800–3,200 coins (depending on Ring of charos and Cabin Fever ) and head south from there. Once there, venture to the south-east. On the east side of the northernmost hut, dig two steps north of the inconspicuous hole, or the STASH unit if players have built it, for the third clue scroll.
+
+The third step is: " DEAD ROASTING UPSHIFTS ", which is an anagram for " PRIFDDINAS SOUTH GATES ". To progress, dig next to the southern city gate of Prifddinas ; players can quickly reach it via an Iorwerth camp teleport then going east through dense forests then north towards the southern gate. Dig one square north of the north-eastern elven lamp for the last clue scroll.
+
+The final step requires you to spin outside the entrance to the Underground Pass in eastern Isafdar with nothing equipped. Head south across the bridge and follow the route, after which, you head north across the northern leaves trap and then further east towards the cave entrance. Once players spin, Lady Ffion Meilyr will appear for a short dialogue before departing. Use your teleport crystal to head to Lletya to bank/restock.
+
+Sealing the Underground Pass [ edit | edit source ]
+
+ | This fight takes place in an instance with a deathbank . On death , you can pay Rebel Scout 80,000 to retrieve lost items. Any unsafe death will delete all items left inside the deathbank. Any items left on the ground will be lost.
+
+Head for the dwarven camp in the Underground Pass. It can be reached easily by taking The Abyss to the Death Altar, exiting the altar and taking the tunnel on the western wall outside the altar (although your prayer points will be drained) or walking from Lletya . Take care that if you die fighting Essyllt you cannot re-enter from the Death Altar. You will be stopped by the game informing you that your items are being held by an allied elf. To traverse from the elven village, head north to the Underground Pass . Pass through the well, and make your way to the bottom level. You can reach the bottom level by either failing a bridge jump or reaching the 'Descend Cave' location south on the perimeter.
+
+You will reach the dwarven camp. Speak with Baxtorian (middle), then Elena (east). She will give you seven explosive potions (they're stackable, so you will only need one free inventory space for these). Place them inside the holes north/outside of the camp's perimeter; then, speak to Baxtorian once again. He will tell you that Lord Iorwerth wishes to meet with him, and asks that you join him. The meeting will result in Arianwyn disagreeing with Lord Iorwerth's plan to free Seren regardless if she becomes evil or not, but choosing to remain with him anyway. The attack will then begin when you select 'I'm ready' option.
+
+Defend the camp for four minutes from several Elf Archers and Warriors, who will also try to destroy the gate defences. Failing will reset the attempt. The elf warriors will infinitely re-spawn. Even while under attack, enemies will not remain aggressive towards you, so you will have to keep attacking different enemies and draw their attention away from the barrier. It doesn't matter if any of them are killed, but the barricade has to hold for four (4) minutes in multi-combat .
+
+Since it isn't needed to actually hit the enemies to change their attention away from the barrier to the player, any weapon will do. Newly spawned enemies always attack the barrier first, so it may be useful to use a low-damage weapon. Fast-hitting weapons also are preferable, for example darts , knives or the goblin paint cannon .
+
+After keeping the barrier intact, the elven warriors come storming through the defences anyway and Elena is injured by Essyllt , whom you must kill. Should you die, or leave the battle, you will not have to defend the barrier again.
+
+Essyllt is level 236 and primarily attacks with melee . He also has two special attacks that he can use at random:
+
+Essyllt may shove you backwards with his spear, stunning you briefly, and then launch a ranged attack that can deal significant damage; this can be completely blocked by switching to Protect from Missiles . Essyllt throws a potion at you that drains all your combat stats by 5. This attack cannot be negated with protection prayers , but the stat drain can be offset by drinking a dose of Super restore . You can also ignore the stat drain if you have high enough combat stats, since the drains don't stack past 5, so your stats will only be drained to max-5.
+
+Note: After the battle with Essyllt, if your prayer runs out during the following cutscene you will be removed from the cutscene and placed outside of the battle. You can go down the tunnel to the bottom level of the Underground Pass to immediately resume the cutscene.
+
+After you defeat him, Lord Iorwerth manages to pass through the crevice into the Temple of Light ; Arianwyn and Baxtorian follow after him. After you check that Elena is alright, you follow as well. Lord Iorwerth will then free the Fragment of Seren , despite Arianwyn's protests. Arianwyn filled with newfound doubt and skepticism shoots Lord Iorwerth wounding him. The Fragment will then drag the player to her realm, believing the player is a servant of Seren sent to dispose of her once and for all.
+
+The elves find the Fragment of Seren, sealed. Lord Iorwerth frees the Fragment of Seren . The Fragment of Seren, enraged.
+
+Facing the Dark Lord [ edit | edit source ]
+
+ | This fight takes place in an instance with a deathbank . On death , you can pay Rebel Scout 80,000 to retrieve lost items. Any unsafe death will delete all items left inside the deathbank. Any items left on the ground will be lost.
+
+Note: It may be wise to use your emergency teleport here and bank before attempting this fight.
+
+The final part of the quest is to defeat the Fragment of Seren .
+
+She is weak to magic attacks. No forms of recoil work. Thralls cannot be summoned.
+
+Her basic attacks are ranged and melee . If the player stands next to her, she uses melee, if they stand away from her, she uses ranged. Prayers reduce the damage she causes, but do not fully block it. Players should use Protect from Missiles and not stand next to her as her melee attacks are much more rapid and can deal loads of damage in very little time compared to ranged.
+
+During the encounter she will cycle between multiple special attacks in this order. Each special attack is separated by about 15 seconds (usually enough time for her to do 3 normal attacks). She always announces a special attack by saying some text. Note that there is no limit to the number of times she can cycle through her special attacks in any given phase.
+
+The first special attack teleports the player next to her. This will then be followed by a melee attack, so walk away quickly to avoid damage. The second special attack consists of spawning of multiple copies of her, attacking the correct one (the lighter coloured shadow) will despawn the false ones and cause the Fragment of Seren to reappear. The third special attack consists of multiple beams of red crystals, which will surround the Fragment of Seren and heal her until they are destroyed (4-8 per heal per beam). Any attack will destroy them, so using a fast attack speed weapon such as darts or toxic blowpipe will deal with them quickly, but overall they do not heal much damage so slower weapons will work as well. Chinchompas are an effective option as the medium-fuse combat style has a 3 tick attack speed, and an attack range of 9 tiles, which prevents the player from accidently running into Seren's melee range when attacking the beams. The beams despawn before the Fragment initiates the final special attack. Using Blood spells on the beams will heal around 5-6 health per attack, despite them having only 1 health. The final special attack is the most dangerous; she will teleport the player close to her and charge up an unblockable attack that's based on the player's hitpoints, dealing all the way up to the player's maximum hitpoints minus 1 , regardless of current hp. After clearing her third special, players should eat up close to their max hp, and then once she teleports the player eat to or above their max hp in order to survive this attack.
+
+After the fourth attack, the cycle will continue with the first attack again.
+
+As the fight progresses the Fragment's special attacks will increase in power. Only the first attack is unaffected by this.
+
+1st phase (between 1,000 and 666 hitpoints)
+
+The second special attack creates 1 right and 1 false clone. The third special attack summons 2 healing beams. The final special attack deals max hitpoints - 5 .
+
+2nd phase (between 666 and 333 hitpoints)
+
+The second special attack creates 1 right and 2 false clones. The third special attack summons 3 healing beams. The final special attack deals max hitpoints - 3 .
+
+3rd phase (between 333 and 1 hitpoints)
+
+The second special attack creates 1 right and 3 false clones. The third special attack summons 4 healing beams. The final special attack deals max hitpoints - 1 .
+
+Recommended strategy [ edit | edit source ]
+
+Mage robes (i.e. Mystics , Ahrim's set , ancestral robes , void knight equipment ) Trident of the swamp (at least 300 charges) or a weapon that can autocast Ancient Magicks (i.e. ancient staff , master wand etc.) if using blood spells . Note: All damage towards her is capped at 24. Ranged weapon with a quick attack ( Darts , Toxic blowpipe , or Magic shortbow ) for pillars only. This stops additional healing. Preferably use Chinchompas on the Medium Fuse attack style, as this method will keep you out of the Fragment's melee range while maintaining the same attack speed as darts or throwing knives on accurate/long range. Items with magic bonus (i.e. seers ring , occult necklace , imbued god capes , barrows gloves , book of darkness , tome of fire etc.) Depending on your levels and strategy, it may be necessary to also incorporate some prayer bonus. Consider bringing e.g. amulet of fury , book of darkness , Dagon'hai robes , Elite Void Knight equipment or the ring of the gods (i) . If an elysian spirit shield is accessible, it can reduce the amount of damage you take during the one shot special attack.
+
+Depending on strategy, a player may wish to bring a weapon switch (e.g. Toxic Blowpipe ), an emergency teleport, a rune pouch and/or stacks of runes .
+The rest of the inventory should be filled with Super restores and Saradomin brews in a ratio of 1:3.
+
+Drink a dose of Saradomin brew and super restore before entering the boss fight. Once in the boss fight, activate Protect from Missiles and Mystic Might or Augury (for extra magic attack). If your prayer bonus and level are high, you may also use Rapid Heal and perhaps steel skin too. Prioritise dealing damage, UNTIL the Fragment summons the pillars. Once you have destroyed all the pillars (or they despawn), immediately drink Saradomin brew until your health is at or above your Hitpoints level. (If using ranged + blood spells, one good tactic is to sip brew doses inbetween your attacks on the different healers, since a potion does not slow your attacks down, and the decreased stats do not affect your abilities; see 6.). The Fragment of Seren will now launch a projectile at you that deals up to max health minus 1. This projectile cannot be avoided. Once the damage is dealt, drink Saradomin brews until your health is at a reasonable level, then drink two doses of your super restore potion. This makes sure your Magic level stays high, so your magic attacks have a higher level of success. If you rely on blood spells remember that drinking Saradomin brew may disable your ability to cast them and your autocast is cancelled when you attack, which can lead to dangerous situations. It may be a good idea to set the autocast to a lower spell such as Blood Rush and rely mostly on manual casting, or to ensure that your magic level is sufficiently high before resuming attacks on the Fragment. (Properly drinking three successive brew sips followed by one super restore dose, with auto-retaliate off, will (almost always) keep your high-level spell selected on the autocast menu). (Keep auto-retaliate OFF during the fight if you are using brews. Wandering into melee range when your autocast gets deselected due to brews can result in large melee damage).
+
+Repeat steps 3-5 ; however, be wary you may need to drink Saradomin brew/super restore potion during other phases of the fight.
+
+Another good way to beat the Fragment is to use Blood spells to keep your Hitpoints up. Using this method requires less Saradomin brews, and is easier for people who struggle with the brew/restore ratio. Remember that it may not be necessary to heal to your max Hitpoints after the unavoidable special attack, as blood spells can heal the remainder.
+
+If you die during this part, you can pay 80,000 coins to collect your items from the rebel scout at the southern wall on the upper floor of the Underground Pass . Do not click the crevice and re-enter the Fragment's lair until you have collected all your items from the rebel scout. If you die before collecting your items, all your items will be permanently lost.
+
+To return to the rebel scout and retrieve your items, you can either:
+
+Teleport using the teleport crystal to Lletya and walk back through the Underground Pass . Bring a crystal trinket and use a Slayer ring teleport to dark beasts . Enter the Temple of Light ; head up the stairs in front of you, on the next floor climb the Stairs to the south-west. Next, climb down the two sets of stairs to the north. After climbing down and passing through the light door, there should be a tunnel , "Enter Tunnel" on the northern wall. This entrance can only be accessed after you've encountered the boss. Note: If you need to retrieve your things from the rebel scout , you must return to the final room with the altar and crawl through the tunnel. It will then return you to the Underground Pass directly next to the rebel scout. Go through the Abyss to the Death Altar , exit the altar and go through the tunnel in the same room. Warning: Highly discouraged, because one death to PK'ers will mean losing all your stored items. Also watch out as your prayer will be drained to 0 upon entering the Abyss.
+
+Eating belladonna or cave nightshade , drinking a dose of Zamorak brew , or dropping a vial of nitroglycerin to activate a phoenix necklace right before the Fragment attacks with her final special attack will nullify all of her damage for a few ticks. To trigger the phoenix necklace you have to use food; while frozen by the Fragment of Seren you can't lower your hp using a dwarven rock cake , or Locator orb from Dragon Slayer II for example. Blood spells may heal too much for the phoenix necklace to activate.
+
+More information on this strategy can be found here .
+
+Before the special attack, make sure your hitpoints are at maximum (or higher) and activate the Redemption prayer. Drink super restores immediately and re-activate Protect from Missiles and start casting blood spells. Do not attempt this unless you are confident with the technique of Prayer flicking .
+
+Prifddinas restored [ edit | edit source ]
+
+After the fight, a short cutscene will be shown where Lord Iorwerth is horrified with the Fragment's defeat. He states that even though it was angry, hurt and confused, it was also innocent. The wounds Iorwerth sustained prove to be fatal, but he states that he hopes they're happy for what they've done to Seren before dying.
+
+Following the defeat of Lord Iorwerth and the Dark Lord, the player is brought to the gates of Prifddinas .
+Outside the newly regrown crystal city, Arianwyn will meet with the player. The player thanks Arianwyn for stopping Iorwerth, but Arianwyn claims that he had to, and decides to leave the elven lands for good. Ridden with guilt for causing the destruction of Lletya , he decides to travel the world to reflect his own actions, and hopefully redeem himself in the process. He bids farewell to the player as they make their way to the gates, where Baxtorian welcomes them and Elena as the first humans to visit the elven city.
+
+The Fragment of Seren, defeated. Arianwyn, ridden with guilt, leaves. The gates of Prifddinas are opened.
+
+Rewards [ edit | edit source ]
+
+4 Quest points 40,000 Agility experience 40,000 Construction experience 40,000 Farming experience 40,000 Herblore experience 40,000 Hunter experience 40,000 Mining experience 40,000 Smithing experience 40,000 Woodcutting experience Access to Prifddinas Ability to fight Zalcano Access to The Gauntlet Access to Trahaearn Mine Access to Iorwerth Dungeon Ability to change respawn point to Prifddinas Ability to move Player-owned house to Prifddinas Ability to teleport to Prifddinas with a teleport crystal Access to a new spirit tree destination in Prifddinas Ability to make divine potions Ability to make crystal tools, armour and weaponry
+
+Unlocks:
+
+Arianwyn (as Elven Traitor ) and Essyllt accessible in the Nightmare Zone .
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Music unlocked [ edit | edit source ]
+
+Name | Unlock details | Music track
+
+Stand Up and Be Counted | Unlocked during the battle of West Ardougne | 
+
+Song of the Elves | Unlocked in the warped Grand Library | 
+
+The Fires of Lletya | Unlocked during the Iorwerth attack on Lletya | 
+
+No Pasaran | Unlocked during the defence of the dwarven camp in the Underground Pass | 
+
+The Fragment | Unlocked during the fight with the Fragment of Seren | 
+
+Changes [ edit | edit source ]
+
+Date | Changes
+
+30 November 2022 ( update | poll ) | The following skill experience rewards have increased: Agility from 20,000 to 40,000. Construction from 20,000 to 40,000. Farming from 20,000 to 40,000. Herblore from 20,000 to 40,000. Hunter from 20,000 to 40,000. Mining from 20,000 to 40,000. Smithing from 20,000 to 40,000. Woodcutting from 20,000 to 40,000.
+
+Trivia [ edit | edit source ]
+
+Song of the Elves is the first quest released in Old School to complete a quest line from the original game. The quest itself derives a number of elements from its equivalent RuneScape questline, primarily Plague's End , though there are some notable differences in the story: Arianwyn never betrays the player; instead, he stays loyal to the rebel elves and helps defeat the Dark Lord. He is also revealed to be the current Lord Cadarn, giving his name a more proper meaning. The Dark Lord is the result of Seren using one of her avatars as a vessel for the part of herself obsessed with death. She banished it before shattering herself in order to protect her elves from being corrupted by it. Seren made the elves aware of The Dark Lord's existence, rather than it being forbidden knowledge Lord Iorwerth discovers in the Grand Library. Lord Iorwerth is killed by the Dark Lord. The West Ardougne Revolution and the overthrowing of King Lathas is much different. Instead of the whole city going on fire, it is only a single attack on the Mourner HQ. The group the player works with is different, consisting of Elena, Ted and Martha Rehnison, Jethick, Nurse Sarah, Carla, and Koftik. In addition, you do not fight the Knights of Ardougne nor Heroes ; rather, they join you against the overthrowing of the King, while the Paladins and Warrior Women fight against you. In the end, you fight Sir Hugo, who guards the King.
+
+ | Scape Crystal
+
+Song that plays on the updates login screen.
+
+
+
+You were given the choice to either send King Lathas in exile or execute him (though in the case of the former he is killed by the Dark Lord anyway). Essyllt could be spared during the attack on Mourner HQ, potentially making him the third known Iorwerth survivor, along with Morvran and Iesten. He is also cowardly, begging for mercy upon being defeated, a stark contrast to his Old School variant who is more aggressive. The player also has significantly more interactions with him in RuneScape . Lletya's location is not revealed, sparing it from an attack by the Iorwerth elves. Competition finalists for the login screen that were voted on by the community. Another quest in RuneScape , Within the Light , came chronologically in between Mourning's End Part II and Plague's End, and is omitted completely from Old School RuneScape . In addition, Baxtorian's A piece of official artwork of the quest, showing the player in the Grand Library. involvement in Song of the Elves is derived from the sequel to Plague's End, The Light Within (he is completely absent from Plague's End).
+
+The Seal of the Forgotten is dedicated to the former 9th Elven Clan , the Cywir , who chose to remain on the Elven homeworld of Tarddiad. The symbol used for the Cywir Clan is erroneous as the Cywir Clan has no confirmed colour or symbol. The symbol used is derived from an item called Seal of the Cywir , which is named because they are dropped by the Seren faction general and clan leader of the Cywir Clan, Helwyr . The other factions led by other generals have the exact same symbol, which is a motif taken from the Heart of Gielinor , albeit in different colours corresponding to their respective faction. Purple for Zaros , red for Zamorak , green for Sliske and the cyan colour representing Seren rather than the Cywir Clan itself. When you speak to Alrena with silk and purple dye already in your inventory, she comments about how lucky it is that the player already has the necessary items. When the player speaks with the Knight of Ardougne, they remark on how they are constantly attacked and pickpocketed, the latter referring to how players use them for Thieving training. If the player attempts to tax the Bank of Ardougne by talking to any banker, they reply that in return the player would have to be taxed for their bank usage as well. The player immediately rejects this idea and responds with "On second thought... forget I said anything." The same joke is made when attempting to collect taxes from bankers on behalf of King Gjuki Sorvott IV during The Fremennik Isles . If the player has an Elf Slayer task, none of the enemies that you need to kill for this quest count towards it. When you speak to Elena about growing the elder cadantine, she asks you to fetch a cadantine seed and a seed dibber while she prepares the patch in the meantime. If you already have these items in your inventory and state you already have them, she replies with "Well it also happens that I've actually already prepared the patch". Which could be a joke to players reading ahead on a guide to know which items they'd have to bring. Upon examining one of the dead elves, the text will read "At least they didn't take an arrow to the knee.", which is a reference to a quote from the game The Elder Scrolls V: Skyrim . Dialogue with Lord Iorwerth throughout the quest makes reference to the Star Wars films , most notably Attack of the Clones , with Lord Iorwerth quoting Sith lords. Examples include "they may still be of use to us," (which Darth Vader says in A New Hope), and "brave of you [to come here Arianwyn], but foolish," (which Count Dooku says to both Anakin Skywalker and Mace Windu in Attack of the Clones). Responses by characters also match dialogue from the Star Wars prequel, such as when Islwyn says they won't barter, and when Iorwerth tells Arianwyn that he once thought as he did. A week before the release of the quest, it was added to the Quest List interface with the text in grey ( Song of the Elves ). When the quest was clicked on, the usual interface opened but with the description:
+
+“ | COMING SOON to Old School RuneScape ... I can start this quest after the next update by talking to Edmond at his home, north of the Flying Horse Inn in East Ardougne . | ”
+
+If you talk to Elena before the attack on the Underground Pass, she will tell the player not to die and will say they care for each other. The track that plays during the attack on the Underground Pass is called " No Pasaran ," Spanish for "They will not pass," a saying used by the Republican faction of the Spanish Civil War in their fight against the Nationalists, which in subsequent years became a common slogan of anti-fascist resistance . When setting fire to the grain above Ardougne, your character says "You set fire to the grain", likely a reference to the Adele song stating "I set fire to the rain". The player is asked their name multiple times during the quest, to which their response depends on the player's selected pronouns , with "Tim?" if he/him, "Sue?" if she/her, or "Sam?" if they/them. This is a possible reference to Tim the Enchanter from Monty Python and the Holy Grail , who answers King Arthur in a similar manner.
+
+v • t • e Song of the Elves
+
+NPCs | Edmond Alrena Elena Ted Rehnison Martha Rehnison Councillor Halgrive Carla Jethick Kilron Omart Nurse Sarah Priest (West Ardougne) Town Crier Doctor Orbon Priest (East Ardougne) Resistance Fighter Gnome Executioner Arianwyn Rebel Archer Ysgawyn Eluned Ilfeen Islwyn Elven Scout Memory of Seren Iestin Edern Rebel Scout Rebel Warrior Mawrth Eoin Iona General Hining Tyras guard Niloof Klank Kamen Thorgel Hidden clan leaders Lord Baxtorian Cadarn Lord Ieuan Amlodd Lady Tangwen Trahaearn Lord Piquan Crwys Lady Kelyn Ithell Lady Carys Hefin Lady Ffion Meilyr Enemies King Lathas Mourner Knight of Ardougne Paladin Hooded Figure Lord Iorwerth Essyllt Morvran Iorwerth Warrior Iorwerth Archer Fragment of Seren Business owners Chadwell Aemad Kortan Probita Estate agent Zenesha Spice seller Silk merchant Silver merchant Fur trader Gem merchant Baker Richard Bartender |  | Edmond Alrena Elena Ted Rehnison Martha Rehnison Councillor Halgrive Carla Jethick Kilron Omart Nurse Sarah Priest (West Ardougne) Town Crier Doctor Orbon Priest (East Ardougne) Resistance Fighter Gnome Executioner Arianwyn Rebel Archer Ysgawyn Eluned Ilfeen Islwyn Elven Scout Memory of Seren Iestin Edern Rebel Scout Rebel Warrior Mawrth Eoin Iona General Hining Tyras guard Niloof Klank Kamen Thorgel | Hidden clan leaders | Lord Baxtorian Cadarn Lord Ieuan Amlodd Lady Tangwen Trahaearn Lord Piquan Crwys Lady Kelyn Ithell Lady Carys Hefin Lady Ffion Meilyr | Enemies | King Lathas Mourner Knight of Ardougne Paladin Hooded Figure Lord Iorwerth Essyllt Morvran Iorwerth Warrior Iorwerth Archer Fragment of Seren | Business owners | Chadwell Aemad Kortan Probita Estate agent Zenesha Spice seller Silk merchant Silver merchant Fur trader Gem merchant Baker Richard Bartender
+
+ | Edmond Alrena Elena Ted Rehnison Martha Rehnison Councillor Halgrive Carla Jethick Kilron Omart Nurse Sarah Priest (West Ardougne) Town Crier Doctor Orbon Priest (East Ardougne) Resistance Fighter Gnome Executioner Arianwyn Rebel Archer Ysgawyn Eluned Ilfeen Islwyn Elven Scout Memory of Seren Iestin Edern Rebel Scout Rebel Warrior Mawrth Eoin Iona General Hining Tyras guard Niloof Klank Kamen Thorgel
+
+Hidden clan leaders | Lord Baxtorian Cadarn Lord Ieuan Amlodd Lady Tangwen Trahaearn Lord Piquan Crwys Lady Kelyn Ithell Lady Carys Hefin Lady Ffion Meilyr
+
+Enemies | King Lathas Mourner Knight of Ardougne Paladin Hooded Figure Lord Iorwerth Essyllt Morvran Iorwerth Warrior Iorwerth Archer Fragment of Seren
+
+Business owners | Chadwell Aemad Kortan Probita Estate agent Zenesha Spice seller Silk merchant Silver merchant Fur trader Gem merchant Baker Richard Bartender
+
+Items | Ardougne knight helm Ardougne knight platebody Ardougne knight tabard Ardougne knight platelegs Clear liquid Blue liquid Green powder Red powder Ode to eternity Crystal seed Crystal Elder cadantine Elder cadantine potion (unf) Crystal dust Inversion potion Orb of light Explosive potion Light puzzle Colour wheel Hand mirror Red crystal Fractured crystal Green crystal Cyan crystal Yellow crystal Blue crystal Magenta crystal Unobtainable Black crystal Green crystal |  | Ardougne knight helm Ardougne knight platebody Ardougne knight tabard Ardougne knight platelegs Clear liquid Blue liquid Green powder Red powder Ode to eternity Crystal seed Crystal Elder cadantine Elder cadantine potion (unf) Crystal dust Inversion potion Orb of light Explosive potion | Light puzzle | Colour wheel Hand mirror Red crystal Fractured crystal Green crystal Cyan crystal Yellow crystal Blue crystal Magenta crystal | Unobtainable | Black crystal Green crystal
+
+ | Ardougne knight helm Ardougne knight platebody Ardougne knight tabard Ardougne knight platelegs Clear liquid Blue liquid Green powder Red powder Ode to eternity Crystal seed Crystal Elder cadantine Elder cadantine potion (unf) Crystal dust Inversion potion Orb of light Explosive potion
+
+Light puzzle | Colour wheel Hand mirror Red crystal Fractured crystal Green crystal Cyan crystal Yellow crystal Blue crystal Magenta crystal
+
+Unobtainable | Black crystal Green crystal
+
+Music | The Fires of Lletya The Fragment No Pasaran Song of the Elves Stand Up and Be Counted
+
+Related | Quick guide Transcript Soundtrack Ceidwad The Rehnison household Statue Space Fragment of Seren (Defeated)

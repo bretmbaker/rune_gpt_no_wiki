@@ -1,0 +1,61 @@
+[Shop: Clothes]
+
+Clothesare garments that players can wear and are classified as a subset ofequipment. Most clothes are worn for aesthetic reasons only, although some items that may be considered clothes do offer defensive and other bonuses (see below).
+
+Players must define a default outfit for their character after creating theiraccounts, ensuring that avatars never appear naked or in their underwear. Players can change their default outfit at any stage of the game by visitingThessalia's Fine ClothesinVarrock. After completingThe Fremennik Trials,memberscan change their shoes by visitingYrsa's shoe storeinRellekka. Players can also change their clothing, wrist accessories, and shoes for free using a wardrobe in thebedroomof aplayer-owned house. Players can obtain other clothing in the form of items that they can equip. These may replace the default outfit, or may be worn over the top. For example, a player's bare legs are visible when wearing shorts, even if the default outfit includes long trousers. However, astripy pirate shirtis a sleeveless garment that allows the sleeves of the default top to show.
+
+Mostnon-player characters(NPCs) also wear clothes. AllhumanNPCs do, but some other species may not, such as thepenguins:PingandPongwear no clothing at all, whilstKGP Agentsonly wear a necktie. Most NPCs never change their clothes, with exceptions includingMolly,Sigmund, andZanik.
+
+Clothes versus armour[edit|edit source]
+
+Some players may considerarmourto be a subset of clothes, whilst others may contend that clothes and armour are two distinct groups.
+
+If clothes and armour are separate classifications, then it may be sensible to define armour as garments that offer aDefencebonus, whereas clothes could be defined as any garment that provides no Defence bonus.
+
+This distinction would classify different parts of an outfit into separate categories. For example, aHam shirtwould be classified as armour, whereas aHam logowould be classified as clothing.
+
+Clothing as a requirement[edit|edit source]
+
+Certain clothes are required to enter specific places. For example, players must wear achef's hatto enter theCooks' Guildand abrown apronto enter theCrafting Guild.
+
+Somequestsrequire the player to wear particular clothes, often as a disguise. For instance, players must wearH.A.M. robesduring parts ofDeath to the Dorgeshuun, and they must wear adesert disguise(made of aKharidian headpieceand afake beard) duringThe Feud.
+
+Players may also need to provide clothing as a disguise fornon-player charactersin quests. For example, inDeath to the Dorgeshuun, players must provide H.A.M. robes forZanik, and inPrince Ali Rescue, they must provide apink skirtforPrince Ali.
+
+Clothes and outfits obtained in minigames[edit|edit source]
+
+Novelty clothes may be given as rewards fromrandom events(such asmime clothing), from holiday events (such asbunny ears), orminigamessuch asFishing Trawlerwith theAngler's outfit. These items are often non-tradeable, especially those from recent holiday events. In addition, players can change the appearance of many of these novelty clothes; players can purchase and usedark dyeto customise theirgraceful outfitto be a recoloured black and red variant.
+
+Manyskills, activities, and minigames are easier to train whilst wearingskilling equipmenteither individually or as a set. Many cosmetic-only outfit sets are rewards from minigames and other activities as described below:
+
+Outfit | Obtained from
+
+Alchemist's outfit[1] | Mastering Mixology
+
+Clue hunter outfit | Crack the Clue!
+
+Trailblazer outfit | Leagues
+
+Naval clothing | Trouble Brewing
+
+Bomber jacket costume | Enlightened Journey
+
+Significance[edit|edit source]
+
+Players[edit|edit source]
+
+Clanmembers may prefer all to wear the same clothes or at least one common item of clothing.Team capesare particularly popular, as they make any other player wearing the same type of team cape appear as a blue marker on theminimap. This can be useful for keeping track of allies inplayer killingminigames, as well as providing a clan with a kind of uniform.
+
+Clothes are also symbolic in riots. Players may wear apink skirtto show support for rioters, ablue skirtto show support forJagex, or a green or blackskirtto show neutrality. Players wear these regardless of theirgender.
+
+It is also worth noting the difference in how clothes appear on male versus female players and NPCs. On female characters, clothes typically reveal more of the player's body compared to male characters. This is likely intentional, reflecting how female fashion tends to be more revealing than male fashion in the real world.
+
+NPCs[edit|edit source]
+
+H.A.M.members wear distinctive clothes to show their allegiance to the organisation. Other NPCs wear clothes to signify their status; for example,monarchsare typically depicted wearing crowns. Whilst entering theGod Wars Dungeon, certain NPCs may or may not attack the player if wearinggod-related protectionrelated to any of the three gods.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+20 March2014(update|poll) | 6 new male torsos, arms and legs, 6 new female torsos and arms and 7 new female legs have been added toThessaliain the Varrock Clothes Shop and the account creation menu.

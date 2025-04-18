@@ -1,0 +1,119 @@
+[Shop: Fishing_Guild]
+
+Fishing Guild
+
+
+
+
+
+Released | 17 June2002(Update)
+
+Members | Yes
+
+Location | West ofHemenster,Kandarin
+
+Leagueregion | Kandarin✓
+
+Requirements | 68
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | guild
+
+
+
+Location onWorld Map
+
+Coal Trucks
+
+↑
+
+Tree Gnome Stronghold | ← | Fishing Guild | → | Hemenster
+
+↓
+
+Chaos Druid Tower
+
+TheFishing Guildis amembers-onlyguildlocated in a fenced area north ofEast Ardougne; west ofHemenster, which was released on17 June2002. To enter, players must have aFishinglevel of 68; boosts fromfishing potions,fish piesand theDragon harpoonspecial attack (all provide +3 Fishing boost),admiral pies(+5 Fishing boost), or brownspicy stews(-5 to +5 range of Fishing boost) can be used to boost one's level in order to enter the guild, making the lowest level to possibly enter 63.
+
+Historically, aside fromCatherby, the Fishing Guild has been one of the most popular places to fish because of the nearbybank.
+
+Outside of the guild is theMaster Fisher. Players can talk to him to receive advice on training Fishing, or to purchase aFishing capefor 99,000 coins.
+
+While inside the guild, players will receive an invisible +7 level boost to their Fishing. This boost will stack with any existing boosts the player already has, such as the visible +3 boost from using thedragon harpoon'sspecial attack, though visible boosts are capped to level 99.[1]However, the invisible boostwill notallow a player to perform actions above their base level.
+
+Travel[edit|edit source]
+
+The fishing guild is located south-west ofSeers' Villageand north ofArdougne. There are several transportation options
+
+Using aSkills necklaceto teleport directly outside the front door.Teleporting toCamelotand running west through Seers' Village and then south-west throughHemenster.Teleporting to Ardougne and running north (requiresPlague City).Using thelunarspellFishing Guild Teleport.Using aCombat braceletto teleport to theRanging Guildand run west.Kandarin headgear 3/4teleport toSherlockand running west.Using theArdougne cloak 2/3/4, teleport to the farming patch north of Ardougne and head west.Using theFishing capeto teleport directly to the guild, just outside the house with the cooking range.
+
+Features[edit|edit source]
+
+Entrance hall[edit|edit source]
+
+Here is arange, which players can use tocookfood. It is fairly close to a bank, but there is an everlasting fire directly next to the bank in theRogues' Den. Alobster pot,harpoon,smallandbig fishing netspawn here. There is also a ladder here, but there's nothing important up the ladder.
+
+Bank[edit|edit source]
+
+Players can access theirbankhere. It is connected to the fishing store. Notably, this is the closest bank to shark and lobster fishing spots. The bank is also a location used inTreasure Trails. Blowing a raspberry whilst completing ahard clue scrollcauses adouble agentto appear. This near immediate access to a bank makes the Fishing Guild brilliant for profit and experience alike.
+
+Fishing store[edit|edit source]
+
+There is a Fishing Guild Shop run by a man namedRoachey. He has a supply of fishing bait (3 coins each) and feathers (2 coins each).
+
+He will buy and sell player-stocked raw or cooked cod, mackerel, bass, tuna, lobster and swordfish.
+
+Docks[edit|edit source]
+
+There are about 11cage, harpoon fishing spots(lobstersandtuna/swordfish) spots, and about 9big net, harpoon fishing spots(bass,mackerel,cod,casket, plussharks) spots scattered around two docks. The northern dock is closest to the bank, whilst the southern dock is closest to the cooking range. There is also amanwalking around on the northern dock. The northern dock usually has more cage/harpoon spots than the southern dock, whilst the southern dock usually has more net/harpoon spots, though there is a chance of the spots going on the opposite dock.
+
+The guild is ideal for players fishing sharks, lobsters, tuna, and swordfish. The proximity of a bank and a range allows almost non-stop fishing, making it a great place to train.
+
+Minnow platform[edit|edit source]
+
+In the northern platform, players can speak toKylie Minnow, who will take players to a platform containingminnow. To access this platform, players require level 82 in Fishing, completion of theFishing Contestquest, and have anangler's outfitworn while speaking to her.
+
+The platform contains four minnow spots, where they move 1 tile in a clockwise direction every fifteen seconds, meaning players must pay more attention to fishing minnow compared to other fishing methods. In addition, there is a chance a flying fish will eat some of the player's minnow, forcing players to move to another minnow fishing spot. Flying fish will only appear when the spot is first clicked. Therefore, when any player is already receiving minnows from a fishing spot there is no risk of a flying fish appearing for anyone on that spot until it moves.
+
+The platform is not considered within the guild and thus does not benefit from the guild's invisible level boost.
+
+For every forty minnow caught, Kylie will exchange them for oneraw shark.
+
+Music[edit|edit source]
+
+The following music will be unlocked when you enter the Fishing Guild.
+
+Name | Unlock details | Music track
+
+Mellow | Unlocked inside the Fishing Guild | 
+
+Changes[edit|edit source]
+
+Date | Changes
+
+6 July2017(update|poll) | A +7 invisible Fishing boost has been added when inside the guild.A minnow fishing platform has been added, accessed viaKylie Minnow.
+
+References[edit|edit source]
+
+v•t•eFishing Guild
+
+Inhabitants | BankerKylie MinnowMaster fisherRoachey
+
+Shops | Fishing Guild Shop.
+
+Related | Fishing capeFishing hoodMinnow
+
+v•t•eGuilds
+
+Free-to-play | Champions'CookingCraftingMining
+
+Members | FarmingFishingHeroes'HunterLegends'Myths'RangingWarriors'Wizards'Woodcutting

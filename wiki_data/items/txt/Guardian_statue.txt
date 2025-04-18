@@ -1,0 +1,1 @@
+Theguardian statuewas an item used in the Telekinetic Grab mazes of theMage Training Arena. Unlike other items, castingTelekinetic Grabon the guardian statue did not pick it up to the inventory; instead, it moved the item as far as it could towards the player before it hits an obstacle. The spell needed to be cast on the statue to solve the mazes.

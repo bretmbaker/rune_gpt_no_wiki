@@ -1,0 +1,63 @@
+[Weapon: Willow Longbow]
+
+
+Thewillow longbowis alongbowmade fromwillow logs. It requires 20Rangedto equip and can fire arrows up tomithril. It has a longerattack rangethan itsshortbowcounterpart, but has a slowerattack speed. It can be purchased fromLowe's Archery EmporiuminVarrock.
+Willow longbows can be created at level 40Fletchingby using aknifeon willow logs to create awillow longbow (u), granting 41.5 experience, and then using abowstringon the unstrung bow, granting another 41.5 experience.
+
+
+[Infobox]
+Released: 25 March2002(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A nice sturdy bow made out of willow.
+General Store Value: 320 coins
+High alch: 192 coins
+Low alch: 128 coins
+Weight: 1.814 kg
+Grand Exchange Value: 143 coins
+Grand Exchange Daily Buy Limit: 18,000
+Grand Exchange Daily Trades Volume: 269,503
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +20
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 6 ticks (3.6s) | 10 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 5 ticks (3.0s) | 10 tiles |  | None
+ | Longrange | Standard | Longrange | 6 ticks (3.6s) | 10 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Archer (Burthorpe) | 42 | 1 | 4/128 | 
+Reward casket (easy) | N/A | 1 | 99/3,960 | 
+Zamorak ranger | 81; 82 | 1 | 1/50 | 

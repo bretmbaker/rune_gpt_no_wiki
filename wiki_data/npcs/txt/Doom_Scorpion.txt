@@ -1,0 +1,2 @@
+Item: Doom Scorpion
+Summary: Doom Scorpions were NPCs that could appear in the Fortis Colosseum when the "The Doom Scorpion" handicap is active. Unable to be attacked or prevented from moving, two stacks of doom are applied if it hits the player, with a hitsplat  showing the current amount of stacks. If the player reached 20 stacks, they would be instantly killed, and the stacks applied from the scorpion would also stack with those from the "Doom" handicap. The amount of stacks the scorpion would apply increased to 4 and 8 respectively with its upgraded variants.

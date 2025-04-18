@@ -1,0 +1,790 @@
+[Minigame: Crafting]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+ | This article has skill training guides:Members/Ironman/Free-to-playSkill training guidesdocument optimal XP/hour methods to train a skill, as well as alternate passive or less expensive methods.
+
+Crafting
+
+
+
+
+
+
+
+Released | 8 May2001(Update)
+
+Also called | Craft
+
+Members | No
+
+Type | Production
+
+
+
+Statistics
+
+
+
+Players with99 | 209,174as of 1 April 2025 -update
+
+Players with200M XP | 495as of 3 April 2025 -update
+
+
+
+Craftingis askillthat allows players to create items such asjewellery, pottery, andarmourfor use or for trade.
+
+TheCrafting Guildis located north-west ofRimmingtonand can be entered at level 40 Crafting while wearing abrown apron.
+
+ | Crafting level up - normal
+
+The music that plays when levelling up.
+
+
+
+ | Crafting level up - with unlocks
+
+The music that plays when levelling up and unlocking new content.
+
+
+
+Spinning[edit|edit source]
+
+Spinning is the process of turning raw materials such aswoolintoballs of wool, orflaxintobow strings, by using aspinning wheel. A popular and convenient spinning wheel is located below thebankinLumbridge Castle.
+
+Level | Item | Materials | Experience | Members
+
+1 |  | Ball of wool | Wool | 2.5 | 0
+
+10 |  | Bow string | Flax | 15 | 1
+
+10 |  | Crossbow string | SineworRoots | 15 | 1
+
+19 |  | Magic string | Magic roots | 30 | 1
+
+30 |  | Rope | Hair | 25 | 1
+
+Weaving[edit|edit source]
+
+Weaving is a similar process to spinning, taking various raw materials and making a finished, usable product. Instead of aspinning wheel, weaving uses aloomto process the materials.
+
+Level | Item | Materials | Experience | Members
+
+10 |  | Strip of cloth | Ball of woolx4 | 12 | 1
+
+21 |  | Empty sack | Jute fibrex4 | 38 | 1
+
+26 |  | Drift net | Jute fibrex2 | 55 | 1
+
+36 |  | Basket | Willow branchx6 | 56 | 1
+
+Pottery[edit|edit source]
+
+Pottery is the art of turningsoft clayinto various objects using apotter's wheel, followed by using the shaped clay with apottery oven. Soft clay is obtained byminingclay, then using it with an object containingwater, such as abucket of wateror ajug of water.
+
+Level | Item | Shaping | Firing | Total XP | Members
+
+Material | XP | Material | XP
+
+1 |  | Pot | Soft clay | 6.3 | Unfired pot | 6.3 | 12.6 | 0
+
+3 |  | Empty cup | Soft clay | 8.5 | Unfired cup[1] | 8.5 | 17 | 1
+
+7 |  | Pie dish | Soft clay | 15 | Unfired pie dish | 10 | 25 | 0
+
+8 |  | Bowl | Soft clay | 18 | Unfired bowl | 15 | 33 | 0
+
+19 |  | Empty plant pot | Soft clay | 20 | Unfired plant pot | 17.5 | 37.5 | 1
+
+25 |  | Pot lid[2] | Soft clay | 20 | Unfired pot lid | 20 | 40 | 1
+
+Armour[edit|edit source]
+
+Leather[edit|edit source]
+
+To begin leather crafting, players need aneedleandthread, normally purchased from theAl KharidorRimmingtonCrafting shops, and somecowhidetanned intoleather. In afree-to-playworld, this means visiting the tanner in Al Kharid until players are able to enter the guild. Tanning costs 1coinper ordinary leather, 3 coins forhard leather, and 20 coins fordragonhide. There is also a more expensive tannery available toMembersinCanifis.
+
+The cattle field east ofLumbridgeis a convenient spot for leather crafters and is easy to get to, but it is normally largely populated. Another convenient location to obtain cowhide in a free-to-play world is to the west of theCrafting Guild, where there are many morecowstogether in a smaller place, allowing faster kills. For Members, there is a field of cows north ofArdougneand west of theLegends' Guild, which is fairly close to abankand very rarely occupied by players.
+
+Note:1 spool ofthreadcan make up to 5 pieces ofleather armour.
+
+Level | Item | Materials | Experience | Members
+
+1 |  | Leather gloves | Leather | 13.8 | 0
+
+7 |  | Leather boots | Leather | 16.3 | 0
+
+9 |  | Leather cowl | Leather | 18.5 | 0
+
+11 |  | Leather vambraces | Leather | 22 | 0
+
+14 |  | Leather body | Leather | 25 | 0
+
+18 |  | Leather chaps | Leather | 27 | 0
+
+28 |  | Hardleather body | Hard leather | 35 | 0
+
+32 |  | Spiky vambraces[1] | LeatherorDragon leatherKebbit claws | 5.5 | 1
+
+38 |  | Coif | Leather | 37 | 1
+
+41 |  | Hard leather shield | Hard leatherx2Oak shieldBronze nailsx15Hammer | 70 | 1
+
+41 |  | Studded body | Leather bodySteel studs | 40 | 1
+
+44 |  | Studded chaps | Leather chapsSteel studs | 42 | 1
+
+Dragonhides[edit|edit source]
+
+ThisMembers-only part of the Craftingskillis extremely similar to normal leather crafting, except that:
+
+20are paid to tan one piece of hide.Only vambraces, chaps, shields, and bodies can be made.High Level Alchemyis better cast on dragonhide bodies or vambraces rather than chaps, for their difference in coins received.Killing dragons for their hides is slow but profitable. Buying dragonhides is faster, though price is far higher than the high-alchemy value.Players may attachkebbit clawsto any vambraces to makespiked vambraces, giving them a +2Strengthbonus and granting 6 Craftingexperience.
+
+Level | Item | Materials | Experience | Members
+
+57 |  | Green d'hide vambraces | Green dragon leather | 62 | 1
+
+60 |  | Green d'hide chaps | Green dragon leatherx2 | 124 | 1
+
+62 |  | Green d'hide shield | Green dragon leatherx2Maple shieldSteel nailsx15Hammer | 124 | 1
+
+63 |  | Green d'hide body | Green dragon leatherx3 | 186 | 1
+
+66 |  | Blue d'hide vambraces | Blue dragon leather | 70 | 1
+
+68 |  | Blue d'hide chaps | Blue dragon leatherx2 | 140 | 1
+
+69 |  | Blue d'hide shield | Blue dragon leatherx2Yew shieldMithril nailsx15Hammer | 140 | 1
+
+71 |  | Blue d'hide body | Blue dragon leatherx3 | 210 | 1
+
+73 |  | Red d'hide vambraces | Red dragon leather | 78 | 1
+
+75 |  | Red d'hide chaps | Red dragon leatherx2 | 156 | 1
+
+76 |  | Red d'hide shield | Red dragon leatherx2Magic shieldAdamant nailsx15Hammer | 156 | 1
+
+77 |  | Red d'hide body | Red dragon leatherx3 | 234 | 1
+
+79 |  | Black d'hide vambraces | Black dragon leather | 86 | 1
+
+82 |  | Black d'hide chaps | Black dragon leatherx2 | 172 | 1
+
+83 |  | Black d'hide shield | Black dragon leatherx2Redwood shieldRune nailsx15Hammer | 172 | 1
+
+84 |  | Black d'hide body | Black dragon leatherx3 | 258 | 1
+
+Snakeskin[edit|edit source]
+
+Snakeskinsare made by tanningSnake hides, which can be found by killingbush snakes(onMos Le'Harmless),Hoop Snakes(in theTar Swamp), or onKaramja(during theTai Bwo Wannai Cleanupactivity) orswamp snakes(during theTemple Trekkingactivity). They can be tanned for15each, and then crafted using aneedleandthread.
+
+Level | Item | Materials | Experience | Experience/snakeskin | Members
+
+35 |  | Broodoo shield | Snakeskinx2Tribal maskNailsx8 | 100 | 50 | 1
+
+45 |  | Snakeskin boots | Snakeskinx6 | 30 | 5 | 1
+
+47 |  | Snakeskin vambraces | Snakeskinx8 | 35 | 4.375 | 1
+
+48 |  | Snakeskin bandana | Snakeskinx5 | 45 | 9 | 1
+
+51 |  | Snakeskin chaps | Snakeskinx12 | 50 | 4.167 | 1
+
+53 |  | Snakeskin body | Snakeskinx15 | 55 | 3.667 | 1
+
+56 |  | Snakeskin shield | Snakeskinx2Willow shieldIron nailsx15 | 100 | 50 | 1
+
+Yak hide[edit|edit source]
+
+After startingThe Fremennik Islesquest, players can killyaksto obtainyak-hidesand make them intoFremennik armourpieces. The yak hides need to becuredfor5to become craftable. It is not advised to make bodies forexperiencebecause it costs an extra hide for the same return.
+
+Level | Item | Materials | Experience | Members
+
+43 |  | Yak-hide armour (legs) | Cured yak-hide | 32 | 1
+
+46 |  | Yak-hide armour (top) | Cured yak-hidex2 | 32 | 1
+
+Snelms[edit|edit source]
+
+In the Mort Myre swamp, there aresnailsthat drop shells when killed. Using achiselwith these shells will create snelms. Snelms come in two varieties: pointed and rounded.
+
+Level | Item | Materials | Experience | Members
+
+15 |  | Pointed blood'n'tar snelm |  | Blamish red shell (pointed) | 32.5 | 1
+
+15 |  | Blood'n'tar snelm |  | Blamish red shell (round) | 32.5 | 1
+
+15 |  | Broken bark snelm |  | Blamish bark shell | 32.5 | 1
+
+15 |  | Pointed bruise blue snelm |  | Blamish blue shell (pointed) | 32.5 | 1
+
+15 |  | Bruise blue snelm |  | Blamish blue shell (round) | 32.5 | 1
+
+15 |  | Pointed myre snelm |  | Blamish myre shell (pointed) | 32.5 | 1
+
+15 |  | Myre snelm |  | Blamish myre shell (round) | 32.5 | 1
+
+15 |  | Pointed ochre snelm |  | Blamish ochre shell (pointed) | 32.5 | 1
+
+15 |  | Ochre snelm |  | Blamish ochre shell (round) | 32.5 | 1
+
+Crab armour[edit|edit source]
+
+After beginning the portion ofRecipe for Disasterquestto freePirate Pete, players can craft crab armour. The materials are dropped by the giantcrabsencountered during the quest. They can be crafted using achisel.
+
+Level | Item | Materials | Experience | Members
+
+15 |  | Crab helmet | Fresh crab shell | 32.5 | 1
+
+15 |  | Crab claw | Fresh crab claw | 32.5 | 1
+
+Xerician robes[edit|edit source]
+
+Xerician robesis a set of magic robes obtainable by craftingXerician fabric, which can be obtained as a drop fromLizardmenor loot fromStone chests.
+
+Level | Item | Materials | Experience | Members
+
+14 |  | Xerician hat | Xerician fabricx3 | 66 | 1
+
+17 |  | Xerician robe | Xerician fabricx4 | 88 | 1
+
+22 |  | Xerician top | Xerician fabricx5 | 110 | 1
+
+Splitbark armour[edit|edit source]
+
+Splitbark armouris a set of magic armour obtainable by craftingbarkandfine cloth. Player can obtain bark from chopping ahollow treeand fine cloth from theShades of Mort'ton minigame.
+
+Level | Item | Materials | Experience | Members
+
+60 |  | Splitbark gauntlets | BarkFine cloth | 62 | 1
+
+60 |  | Splitbark boots | BarkFine cloth | 62 | 1
+
+61 |  | Splitbark helm | Barkx2Fine clothx2 | 124 | 1
+
+62 |  | Splitbark legs | Barkx3Fine clothx3 | 186 | 1
+
+62 |  | Splitbark body | Barkx4Fine clothx4 | 248 | 1
+
+Mixed hide armour[edit|edit source]
+
+Mixed hide armouris a set ofranged armourobtainable by crafting with various furs. The furs can be attained throughHunteror purchased from a shop.
+
+Level | Item | Materials | Experience | Members
+
+68 |  | Mixed hide cape | Mixed hide baseJaguar fur | 62 | 1
+
+69 |  | Mixed hide boots | Mixed hide baseSunlight antelope fur | 75 | 1
+
+71 |  | Mixed hide legs | Mixed hide baseFox furx3 | 210 | 1
+
+72 |  | Mixed hide top | Mixed hide baseSunlight antelope furx2 | 150 | 1
+
+Hueycoatl Hide Armour[edit|edit source]
+
+Hueycoatl Hide Armouris a set of ranged armour obtainable by crafting each piece withHueycoatl hidewhich can be obtained as a drop fromThe HueycoatlbossinVarlamore.
+
+Level | Item | Materials | Experience | Members
+
+86 |  | Hueycoatl hide vambraces | Hueycoatl hidex1 | 95 | 1
+
+86 |  | Hueycoatl hide coif | Hueycoatl hidex2 | 190 | 1
+
+87 |  | Hueycoatl hide chaps | Hueycoatl hidex2 | 190 | 1
+
+88 |  | Hueycoatl hide body | Hueycoatl hidex3 | 285 | 1
+
+Glass[edit|edit source]
+
+Glass making will require the following items:
+
+Aglassblowing pipe. They can be obtained from various places, includingrespawnpoints onEntranaand inHemensteror the stores inDorgesh-Kaanand thePiscatoris Fishing Colony.Buckets of sand. There aresand pitsinYanille,Rellekka, Dorgesh-Kaan,Zanaris,Prifddinas, and Entrana. Use an emptybucketwith a sandpit to get a bucket of sand. IfThe Hand in the Sandquesthas been completed,Bertcan be asked to deliver 84 buckets of sand to thebankonce per day free of charge. He must be asked each time either by talking to him in person or via theNPC Contactspell, however he will deliver the sand to your bank automatically each day with the completion of theelite Ardougne Diary. Finally, you can get buckets of sand from theSandstormwhich resides west of thequarryin thedesert. Here, you can putsandstonefrom the nearby quarry into the grinder to get sand, which can be retrieved fromDrewnearby who you must first give emptybucketsto, from which you can then get buckets of sand for 50 gold/bucket.Soda ashis made by burningseaweed,swamp weedorgiant seaweed(which will give 6 soda ash) on arangeorfire(with no experience in any skill). There are a number of seaweed spawning on Entrana, near theRock Crabsin Rellekka, and onKaramja. Seaweed can also befishedusing abig fishing net. There are two quick spawns inside the Piscatoris Fishing Colony. Additionally, seaweed and soda ash can be bought fromTrader Stan's Trading Postfor 5coinseach. Giant seaweed can be harvested from aseaweed patchat 21 Farming after planting aseaweed spore.
+
+With all of the ingredients in theinventory, use a bucket of sand and soda ash in a furnace to createmolten glass.
+
+Use the glassblowing pipe with the molten glass to blow various items.
+
+Level | Item | Materials | Experience | Members
+
+1 |  | Beer glass | Molten glass | 17.5 | 1
+
+4 |  | Empty candle lantern | Molten glass | 19 | 1
+
+12 |  | Empty oil lamp | Molten glass | 25 | 1
+
+26 |  | Oil lantern | Empty oil lampOil lantern frame | 50 | 1
+
+33 |  | Vial | Molten glass | 35 | 1
+
+42 |  | Fishbowl | Molten glass | 42.5 | 1
+
+46 |  | Unpowered orb | Molten glass | 52.5 | 1
+
+49 |  | Lantern lens | Molten glass | 55 | 1
+
+87 |  | Empty light orb | Molten glass | 70 | 1
+
+87 |  | Light orb | Empty light orbCave goblin wire | 104 | 1
+
+Locations[edit|edit source]
+
+Entranais a good place to blow glass, as it has respawns forglassblowing pipesandseaweedand has asand pit, arangeand afurnace.
+
+Dorgesh-Kaanalso has a sandpit next to a furnace.Molanisks, which can be found just south of the city, dropswamp weed, a suitable substitute for seaweed. There is also a range just to the east of the furnace, making Dorgesh-Kaan an effective place to blow glass. For further Crafting experience one can add acave goblin wireto alight orb. Cave goblin wire can be stolen from a machine next to the furnace in Dorgesh-Kaan (level 44Thievingrequired and 22 Thievingexperiencegained). Adding the wire gives 104 Crafting experience (level 87 Crafting required).
+
+For those who already have their raw materials in thebank,Neitiznothas both a clay oven (for burning seaweed) and a clay forge for glassmaking within one click of abank chest. Note that Neitiznot is only accessible to those who have completedThe Fremennik Trials. Other suitable locations to glassblow includeFaladorandAl Kharidboth of which have banks, ranges and furnaces in close proximity to each other.
+
+Stills and oil lamps[edit|edit source]
+
+In order to fill oil lamps withlamp oil, use a piece ofswamp taron alamp oil stillwith an empty oil lamp in theinventory. There are 2 stills inGielinor: the scientists house inRimmingtonand the lamp stall inDorgesh-Kaan.
+
+Jewellery[edit|edit source]
+
+Gems[edit|edit source]
+
+Gemscan be cut with achisel. Cutting semipreciousgems(opal,jadeandred topaz) will sometimes fail and the player will receive acrushed geminstead.Uncut sapphireor rarer gems cannot fail to be cut and will always result in a cut gem.
+
+Level | Item | Materials | Experience | Crush Experience | Members
+
+1 |  | Opal | Uncut opal | 15 | 3.8 | 1
+
+13 |  | Jade | Uncut jade | 20 | 5 | 1
+
+16 |  | Red topaz | Uncut red topaz | 25 | 6.3 | 1
+
+20 |  | Sapphire | Uncut sapphire | 50 | N/A | 0
+
+27 |  | Emerald | Uncut emerald | 67.5 | N/A | 0
+
+34 |  | Ruby | Uncut ruby | 85 | N/A | 0
+
+43 |  | Diamond | Uncut diamond | 107.5 | N/A | 0
+
+55 |  | Dragonstone | Uncut dragonstone | 137.5 | N/A | 1
+
+67 |  | Onyx | Uncut onyx | 167.5 | N/A | 1
+
+89 |  | Zenyte | Uncut zenyte | 50 | N/A | 1
+
+Silver jewellery[edit|edit source]
+
+Craftingsilver jewelleryis done by using cut semipreciousgems, themouldof the jewellery item, and asilver barinto afurnace.
+
+Level | Item | Materials | Experience | Members | GE Price | GP/XP | Profit (HA) | Profit (HA)/XP
+
+Buy | Sell | Diff
+
+1 |  | Opal ring | OpalSilver bar | 10 | 1 | 337 | 898 | 561 | 56.10 | 376 | 37.60
+
+16 |  | Opal necklace | OpalSilver bar | 35 | 1 | 337 | 961 | 624 | 17.83 | 376 | 10.74
+
+22 |  | Opal bracelet | OpalSilver bar | 45 | 1 | 337 | 728 | 391 | 8.69 | 436 | 9.69
+
+27 |  | Opal amulet (u) | OpalSilver bar | 55 | 1 | 337 | 542 | 205 | 3.73 | 286 | 5.20
+
+13 |  | Jade ring | JadeSilver bar | 32 | 1 | 331 | 736 | 405 | 12.66 | 511 | 15.97
+
+25 |  | Jade necklace | JadeSilver bar | 54 | 1 | 331 | 796 | 465 | 8.61 | 511 | 9.46
+
+29 |  | Jade bracelet | JadeSilver bar | 60 | 1 | 331 | 646 | 315 | 5.25 | 526 | 8.77
+
+34 |  | Jade amulet (u) | JadeSilver bar | 70 | 1 | 331 | 832 | 501 | 7.16 | 376 | 5.37
+
+16 |  | Topaz ring | Red topazSilver bar | 35 | 1 | 1,818 | 2,465 | 647 | 18.49 | 601 | 17.17
+
+32 |  | Topaz necklace | Red topazSilver bar | 70 | 1 | 1,818 | 1,325 | −493 | -7.04 | 601 | 8.59
+
+38 |  | Topaz bracelet | Red topazSilver bar | 75 | 1 | 1,818 | 2,312 | 494 | 6.59 | 646 | 8.61
+
+45 |  | Topaz amulet (u) | Red topazSilver bar | 80 | 1 | 1,818 | 2,631 | 813 | 10.16 | 511 | 6.39
+
+Gold jewellery[edit|edit source]
+
+Craftinggold jewelleryis done by using cutgems, themouldof the jewellery item, and agold barinto afurnace.
+
+Level | Item | Materials | Experience | Members | GE Price | GP/XP | Profit (HA) | Profit (HA)/XP
+
+Buy | Sell | Diff
+
+5 |  | Gold ring | Gold bar | 15 | 0 | 100 | 154 | 54 | 3.60 | −5 | -0.33
+
+6 |  | Gold necklace | Gold bar | 20 | 0 | 100 | 180 | 80 | 4.00 | 55 | 2.75
+
+7 |  | Gold bracelet | Gold bar | 25 | 1 | 100 | 258 | 158 | 6.32 | 115 | 4.60
+
+8 |  | Gold amulet (u) | Gold bar | 30 | 0 | 100 | 160 | 60 | 2.00 | −5 | -0.17
+
+20 |  | Sapphire ring | SapphireGold bar | 40 | 0 | 335 | 511 | 176 | 4.40 | 90 | 2.25
+
+22 |  | Sapphire necklace | SapphireGold bar | 55 | 0 | 335 | 520 | 185 | 3.36 | 180 | 3.27
+
+23 |  | Sapphire bracelet | SapphireGold bar | 60 | 1 | 335 | 561 | 226 | 3.77 | 240 | 4.00
+
+24 |  | Sapphire amulet (u) | SapphireGold bar | 65 | 0 | 335 | 461 | 126 | 1.94 | 90 | 1.38
+
+27 |  | Emerald ring | EmeraldGold bar | 55 | 0 | 455 | 657 | 202 | 3.67 | 195 | 3.55
+
+29 |  | Emerald necklace | EmeraldGold bar | 60 | 0 | 455 | 697 | 242 | 4.03 | 285 | 4.75
+
+30 |  | Emerald bracelet | EmeraldGold bar | 65 | 1 | 455 | 764 | 309 | 4.75 | 345 | 5.31
+
+31 |  | Emerald amulet (u) | EmeraldGold bar | 70 | 0 | 455 | 680 | 225 | 3.21 | 195 | 2.79
+
+34 |  | Ruby ring | RubyGold bar | 70 | 0 | 804 | 1,060 | 256 | 3.66 | 296 | 4.23
+
+40 |  | Ruby necklace | RubyGold bar | 75 | 0 | 804 | 1,126 | 322 | 4.29 | 386 | 5.15
+
+42 |  | Ruby bracelet | RubyGold bar | 80 | 1 | 804 | 1,165 | 361 | 4.51 | 476 | 5.95
+
+42 |  | Gold tiara | Gold bar | 35 | 1 | 100 | 38 | −62 | -1.77 | −155 | -4.43
+
+50 |  | Ruby amulet (u) | RubyGold bar | 85 | 0 | 804 | 1,081 | 277 | 3.26 | 296 | 3.48
+
+43 |  | Diamond ring | DiamondGold bar | 85 | 0 | 1,659 | 1,896 | 237 | 2.79 | 341 | 4.01
+
+56 |  | Diamond necklace | DiamondGold bar | 90 | 0 | 1,659 | 1,999 | 340 | 3.78 | 431 | 4.79
+
+58 |  | Diamond bracelet | DiamondGold bar | 95 | 1 | 1,659 | 1,969 | 310 | 3.26 | 521 | 5.48
+
+70 |  | Diamond amulet (u) | DiamondGold bar | 100 | 0 | 1,659 | 1,893 | 234 | 2.34 | 341 | 3.41
+
+55 |  | Dragonstone ring | DragonstoneGold bar | 100 | 1 | 11,461 | 11,476 | 15 | 0.15 | −1,001 | -10.01
+
+72 |  | Dragon necklace | DragonstoneGold bar | 105 | 1 | 11,461 | 11,970 | 509 | 4.85 | −551 | -5.25
+
+74 |  | Dragonstone bracelet | DragonstoneGold bar | 110 | 1 | 11,461 | 11,685 | 224 | 2.04 | −101 | -0.92
+
+80 |  | Dragonstone amulet (u) | DragonstoneGold bar | 150 | 1 | 11,461 | 11,381 | −80 | -0.53 | −1,001 | -6.67
+
+75 |  | Slayer ring[1] | Enchanted gemGold bar | 15 | 1 | - | - | - | - | - | -
+
+75 |  | Slayer ring (eternal)[1] | Eternal gemGold bar | 15 | 1 | - | - | - | - | - | -
+
+67 |  | Onyx ring | OnyxGold bar | 115 | 1 | 2,468,020 | 2,101,271 | −366,749 | −3,189.12 | −2,347,535 | −20,413.35
+
+82 |  | Onyx necklace | OnyxGold bar | 120 | 1 | 2,468,020 | 2,427,210 | −40,810 | -340.08 | −2,347,535 | −19,562.79
+
+84 |  | Onyx bracelet | OnyxGold bar | 125 | 1 | 2,468,020 | 2,538,359 | 70,339 | 562.71 | −2,347,535 | −18,780.28
+
+90 |  | Onyx amulet (u) | OnyxGold bar | 165 | 1 | 2,468,020 | 2,306,622 | −161,398 | -978.17 | −2,347,535 | −14,227.48
+
+89 |  | Zenyte ring | ZenyteGold bar | 150 | 1 | 15,462,987 | 21,439,390 | 5,976,403 | 39,842.69 | −15,342,502 | −102,283.35
+
+92 |  | Zenyte necklace | ZenyteGold bar | 165 | 1 | 15,462,987 | 22,334,148 | 6,871,161 | 41,643.40 | −15,341,902 | −92,981.22
+
+95 |  | Zenyte bracelet | ZenyteGold bar | 180 | 1 | 15,462,987 | 21,202,837 | 5,739,850 | 31,888.06 | −15,342,502 | −85,236.12
+
+98 |  | Zenyte amulet (u) | ZenyteGold bar | 200 | 1 | 15,462,987 | 14,601,928 | −861,059 | −4,305.29 | −15,418,102 | −77,090.51
+
+Weaponry[edit|edit source]
+
+Battlestaves and silver bolts[edit|edit source]
+
+Crafting weaponry is done by combiningbattlestaveswith charged orbs or by creatingSilver bolts (unf)in a furnace with abolt mould.
+
+Level | Item | Materials | Experience | Members
+
+18 |  | Silver sickle | Silver bar | 50 | 1
+
+21 |  | Silver bolts (unf) | Silver bar | 50 | 1
+
+54 |  | Water battlestaff | BattlestaffWater orb | 100 | 1
+
+58 |  | Earth battlestaff | BattlestaffEarth orb | 112.5 | 1
+
+62 |  | Fire battlestaff | BattlestaffFire orb | 125 | 1
+
+66 |  | Air battlestaff | BattlestaffAir orb | 137.5 | 1
+
+Amethyst[edit|edit source]
+
+Level | Item | Materials | Experience | Members
+
+83 |  | Amethyst bolt tips | Amethyst | 60 | 1
+
+85 |  | Amethyst arrowtips | Amethyst | 60 | 1
+
+87 |  | Amethyst javelin heads | Amethyst | 60 | 1
+
+89 |  | Amethyst dart tip | Amethyst | 60 | 1
+
+Silver[edit|edit source]
+
+Asilver barand the appropriatemouldis required to craft one of these items:
+
+Level | Item | Materials | Experience | Members
+
+16 |  | Unstrung symbol | Silver bar | 50 | 0
+
+17 |  | Unstrung emblem | Silver bar | 50 | 1
+
+23 |  | Tiara | Silver bar | 52.5 | 0
+
+Birdhouses[edit|edit source]
+
+Aclockworkand the appropriatelogswith achiselandhammerare required to craft these items:
+
+Level | Item | Materials | Experience
+
+5 |  | Bird house | LogsClockwork | 15
+
+15 |  | Oak bird house | Oak logsClockwork | 20
+
+25 |  | Willow bird house | Willow logsClockwork | 25
+
+35 |  | Teak bird house | Teak logsClockwork | 30
+
+45 |  | Maple bird house | Maple logsClockwork | 35
+
+50 |  | Mahogany bird house | Mahogany logsClockwork | 40
+
+60 |  | Yew bird house | Yew logsClockwork | 45
+
+75 |  | Magic bird house | Magic logsClockwork | 50
+
+90 |  | Redwood bird house | Redwood logsClockwork | 55
+
+Crystal singing[edit|edit source]
+
+Item | Skills | Crafting XP | Smithing XP | Materials
+
+ | Celestial signet | 7070 | 5,000 | 5,000 | 100 ×Crystal shard1000 ×Stardust1 ×Celestial ring1 ×Elven signet
+
+ | Crystal helm | 7070 | 2,500 | 2,500 | 50 ×Crystal shard1 ×Crystal armour seed
+
+ | Crystal legs | 7272 | 5,000 | 5,000 | 100 ×Crystal shard2 ×Crystal armour seed
+
+ | Crystal body | 7474 | 7,500 | 7,500 | 150 ×Crystal shard3 ×Crystal armour seed
+
+ | Crystal axe | 7676 | 6,000 | 6,000 | 120 ×Crystal shard1 ×Crystal tool seed1 ×Dragon axe
+
+ | Crystal felling axe | 7676 | 6,000 | 6,000 | 120 ×Crystal shard1 ×Crystal tool seed1 ×Dragon felling axe
+
+ | Crystal harpoon | 7676 | 6,000 | 6,000 | 120 ×Crystal shard1 ×Crystal tool seed1 ×Dragon harpoon
+
+ | Crystal pickaxe | 7676 | 6,000 | 6,000 | 120 ×Crystal shard1 ×Crystal tool seed1 ×Dragon pickaxe
+
+ | Crystal bow | 7878 | 2,000 | 2,000 | 40 ×Crystal shard1 ×Crystal weapon seed
+
+ | Crystal halberd | 7878 | 2,000 | 2,000 | 40 ×Crystal shard1 ×Crystal weapon seed
+
+ | Crystal shield | 7878 | 2,000 | 2,000 | 40 ×Crystal shard1 ×Crystal weapon seed
+
+ | Enhanced crystal key | 8080 | 500 | 500 | 10 ×Crystal shard1 ×Crystal key
+
+ | Eternal teleport crystal | 8080 | 5,000 | 5,000 | 100 ×Crystal shard1 ×Enhanced crystal teleport seed
+
+ | Blade of saeldor | 8282 | 5,000 | 5,000 | 100 ×Crystal shard1 ×Enhanced crystal weapon seed
+
+ | Bow of faerdhinen | 8282 | 5,000 | 5,000 | 100 ×Crystal shard1 ×Enhanced crystal weapon seed
+
+ | Blade of saeldor (c) | 8282 | N/A | N/A | 1,000 ×Crystal shard1 ×Blade of saeldor (inactive)
+
+ | Bow of faerdhinen (c) | 8282 | N/A | N/A | 2,000 ×Crystal shard1 ×Bow of faerdhinen (inactive)
+
+Temporary boosts[edit|edit source]
+
+Boost | Levelincrease | Visibility | Other info
+
+ | Crafting cape | 1 | Visible | The Crafting cape provides unlimited teleports to theCrafting Guild.
+
+ | Poison chalice | 0-1 | Visible | Has a variety of beneficial and harmful effects. Seepoison chalicefor details.
+
+ | Mushroom pie | 4 | Visible | Hitpoints8 per bite.
+
+ | Spicy stew(orange spice) | ±0-5 | Visible | Hitpoints11Depending on type of stew, any skill exceptHitpointscan be boosted or reduced by 0 to 5 levels randomly.
+
+Quests[edit|edit source]
+
+Quests requiring Crafting[edit|edit source]
+
+Quest | levelrequirement | Other skill requirements
+
+The Giant Dwarf | 12 | 16,33,14
+
+The Great Brain Robbery | 16 | 30,50
+
+Animal Magnetism | 19 | 18,30,35
+
+Tears of Guthix | 20 | 49,20
+
+Shades of Mort'ton | 20 | 15,5
+
+Shilo Village | 20 | 32,4
+
+Elemental Workshop I | 20 | 20,20
+
+The Golem | 20 | 25
+
+Creature of Fenkenstrain | 20 | 25
+
+In Aid of the Myreque | 25 | 15,7
+
+One Small Favour | 25 | 36,18,30
+
+Cold War | 30 | 10,30,34
+
+Getting Ahead | 30 | 26
+
+The Slug Menace | 30 | 30,30,30
+
+Shadow of the Storm | 30 | -
+
+Lost City | 31 | 36
+
+Darkness of Hallowvale | 32 | 5,20,22,33,40
+
+Haunted Mine | 35 | 15
+
+Enlightened Journey | 36 | 20,20,30
+
+A Kingdom Divided | 38 | 54,52,52,50,42,35
+
+Family Crest | 40 | 59,40,40
+
+The Fremennik Trials | 40 | 25,40if crafting your own lyre
+
+Swan Song | 40 | 100,66,62,62,45,42
+
+Rum Deal | 42 | 50,40,47,42
+
+Cabin Fever | 45 | 42,50,40
+
+The Fremennik Isles | 46 | 20,40,56
+
+A Taste of Hope | 48 | 45,40,40,38
+
+The Hand in the Sand | 49 | 17
+
+Enakhra's Lament | 50 | 45,43,39,45
+
+Legends' Quest | 50 | 56,50,45,52,42,50,50,50,50
+
+Beneath Cursed Sands | 55 | 62,55
+
+Sins of the Father | 56 | 62,60,52,50,50,49
+
+Lunar Diplomacy | 61 | 65,40,49,5,60,55
+
+Dragon Slayer II | 62 | 75,70,68,60,60,50,50
+
+The Fremennik Exiles | 65 | 60,60,60,55
+
+Monkey Madness II | 70 | 69,60,55,55
+
+Quests rewarding Crafting experience[edit|edit source]
+
+Quest | Experiencereward | levelrequirement | Other requirements
+
+Sheep Shearer | 150 | - | -
+
+Goblin Diplomacy | 200 | - | -
+
+Tower of Life | 500 | - | 10
+
+In Search of the Myreque | 600 | - | 25
+
+Misthalin Mystery | 600 | - | -
+
+Dwarf Cannon | 750 | - | -
+
+Animal Magnetism | 1,000 | 19 | 18,30,35
+
+The Golem | 1,000 | 20 | 25
+
+Making History | 1,000 | - | -
+
+Tears of Guthix | 1,000 | 20 | 49,20
+
+Recipe for Disaster(Goblin generals subquest) | 1,000 | - | -
+
+Recipe for Disaster(Pirate Pete subquest) | 1,000 | - | 31
+
+Murder Mystery | 1,406 | - | -
+
+Recipe for Disaster(Skrach Uglogwee subquest) | 1,500 | - | 41,20
+
+Cold War | 2,000 | 30 | 10,30,34
+
+Enlightened Journey | 2,000 | 36 | 20,20,30
+
+In Aid of the Myreque | 2,000 | 25 | 15,7
+
+Shades of Mort'ton | 2,000 | 20 | 15,5
+
+Observatory Quest | 2,250 | - | -
+
+The Giant Dwarf | 2,500 | 12 | 16,33,14
+
+The Fremennik Trials | 2,812 | 40 | 25,40if crafting your own lyre
+
+The Great Brain Robbery | 3,000 | 16 | 30,50
+
+Nature Spirit | 3,000 | 18 | -
+
+The Slug Menace | 3,500 | 30 | 30,30,30
+
+Shilo Village | 3,875 | 20 | 32,4
+
+Getting Ahead | 4,000 | 30 | 26
+
+Elemental Workshop I | 5,000 | 20 | 20,20
+
+Death on the Isle | 5,000 | - | 32,34
+
+The Fremennik Isles | 5,000 | 46 | 20,40,56
+
+Cabin Fever | 7,000 | 45 | 42,50,40
+
+Enakhra's Lament | 7,000 | 50 | 45,43,39,45
+
+Elemental Workshop II | 7,500 | 20 | 20,30
+
+The Hand in the Sand | 9,000 | 49 | 17
+
+The Fremennik Exiles | 50,000 | 65 | 60,60,60,55
+
+Total | 100,143 | 
+
+Skill choice[edit|edit source]
+
+Upon completing any of the following quests, players may choose to allocate experience to Crafting. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.
+
+Quest | Experiencereward | Skills available | Skill requirements
+
+X Marks the Spot | 300 | Any | None
+
+Client of Kourend | 500 twice | Any | None
+
+Fairytale II - Cure a Queen | 2,500 | Any skill above 30 | 49,57
+
+A Tail of Two Cats | 2,500 twice | Any skill above 30 | None
+
+The Great Brain Robbery | 5,000 | Any skill above 30 | 16,30,50
+
+King's Ransom | 5,000 | Any skill above 50 | 65
+
+Darkness of Hallowvale | 2,000 three times | Any skill above 30 | 5,20,22,32,33,40
+
+A Taste of Hope | 2,500 three times | Any skill above 35 | 48,40,40,45,38
+
+A Kingdom Divided | 10,000 twice | Any skill above 40 | 54,52,52,50,42,38,35
+
+In Search of Knowledge(miniquest) | 10,000 | Any skill above 40 | None
+
+Curse of the Empty Lord(miniquest) | 10,000 | Any skill above 50 | Some players will need31
+
+One Small Favour | 10,000 twice | Any skill above 30 | 36,25,18,30
+
+Recipe for Disaster(The final battle) | 20,000 | Any skill above 50 | 175,70,48,50,53,53,25,59,40,50,40,40,10,10,36
+
+Legends' Quest | 30,000 four times |  | 107,50,50,45,56,52,42,50,50,50,50
+
+Sins of the Father | 15,000 six times | Any skill above 60 | 62,60,56,52,50,50,49
+
+Total | 322,300 | 
+
+Level up messages[edit|edit source]
+
+This article on a skill has an associated transcript page for level up messages.Click herefor the transcript.
+

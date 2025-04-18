@@ -1,0 +1,7 @@
+[Page: Bucket of water]
+
+Infobox:
+Bucket of waterReleased4 January2001(Update)MembersNoQuest itemNoPropertiesTradeableYesEquipableNoStackableNoNoteableYesOptionsEmpty, DropExamineIt's a bucket of water.ValuesValue6 coinsHigh alch3 coinsLow alch2 coinsWeight3 kgRespawn time100 ticks (60 seconds)Grand ExchangeExchange36coins (info)Buy limit13,000Daily volume144,269View real-time pricesLoading...Advanced dataItem ID1929LinkMOID
+
+Description:
+Abucket of wateris made by using abucketon awatersource such as afountain, asinkor a well. A bucket is the only vessel that can be filled from awell.

@@ -1,0 +1,38 @@
+{
+  "Chaeldar": {
+    "html": "slayer_masters/html/Chaeldar.html",
+    "txt": "slayer_masters/txt/Chaeldar.txt"
+  },
+  "Duradel": {
+    "html": "slayer_masters/html/Duradel.html",
+    "txt": "slayer_masters/txt/Duradel.txt"
+  },
+  "Konar_quo_Maten": {
+    "html": "slayer_masters/html/Konar_quo_Maten.html",
+    "txt": "slayer_masters/txt/Konar_quo_Maten.txt"
+  },
+  "Krystilia": {
+    "html": "slayer_masters/html/Krystilia.html",
+    "txt": "slayer_masters/txt/Krystilia.txt"
+  },
+  "Mazchna": {
+    "html": "slayer_masters/html/Mazchna.html",
+    "txt": "slayer_masters/txt/Mazchna.txt"
+  },
+  "Nieve": {
+    "html": "slayer_masters/html/Nieve.html",
+    "txt": "slayer_masters/txt/Nieve.txt"
+  },
+  "Spria": {
+    "html": "slayer_masters/html/Spria.html",
+    "txt": "slayer_masters/txt/Spria.txt"
+  },
+  "Turael": {
+    "html": "slayer_masters/html/Turael.html",
+    "txt": "slayer_masters/txt/Turael.txt"
+  },
+  "Vannaka": {
+    "html": "slayer_masters/html/Vannaka.html",
+    "txt": "slayer_masters/txt/Vannaka.txt"
+  }
+}

@@ -1,0 +1,70 @@
+[Weapon: Guthan%27S Platebody#75]
+
+
+Guthan's platebodyismelee armourworn in thebody slotthat is part ofGuthan the Infested's setofbarrows equipment. To wear Guthan's platebody, a player must have 70Defence.
+If Guthan's platebody is wielded together with all other pieces of Guthan's armour set, then successful melee attacks have a 25% chance of restoring health to the user equal to the damage dealt to the target. This set has the potential to be extremely useful in a variety ofcombatsituations, due to its healing reducing the need to bringfood. While the set has strong combat stats, its durability can be conserved through only equipping it when a player needs to heal, and carrying alternative non-degradable armour and weaponry.
+
+
+[Infobox]
+Released: 9 May2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Check, Drop
+Worn options: Check
+Destroy: If you drop this item it will break. Are you sure you want to drop it?
+Examine: Guthan the Infested's platebody armour.
+General Store Value: 280,000 coins
+High alch: 168,000 coins
+Low alch: 112,000 coins
+Weight: 9.979 kg
+Grand Exchange Value: 292,622 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 321
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -30
+- Ranged: -10
+
+Defence Bonuses:
+- Stab: +122
+- Slash: +120
+- Crush: +107
+- Magic: -6
+- Ranged: +132
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Chest (Barrows) | N/A | 1 | 7 × 1/2,448 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Basilisk Knight/Strategies(Melee)
+5 | General Graardor/Strategies(Solo (Melee))
+4 | General Graardor/Strategies(Advanced Tank)
+2 | Gout tuber/Strategies(Tank)
+2 | K'ril Tsutsaroth/Strategies(Melee Tank)
+3 | K'ril Tsutsaroth/Strategies(Melee)
+4 | Moons of Peril/Strategies(Moons of Peril Armour)
+1 | Nightmare Zone/Strategies(Melee (Guthan's))
+5 | Skeletal Wyvern/Strategies(Melee)
+3 | TzHaar Fight Cave/Strategies(Melee)

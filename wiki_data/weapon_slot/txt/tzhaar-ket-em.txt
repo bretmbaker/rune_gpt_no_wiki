@@ -1,0 +1,56 @@
+[Weapon: Tzhaar-Ket-Em]
+
+
+TheTzhaar-ket-em(also known as theobsidian mace) is a one-handed weapon comparable to amace, although unlike most maces it is slightly slower, does not give aprayerbonus, and usesbluntattack options rather thanspikedas it lacks spikes. AnAttacklevel of 60 is required to wield it. It is slightly stronger and more accurate than thedragon mace, but has a slower attack speed and lacks anyspecial attack.
+When aBerserker necklaceis equipped, this weapon gains a 20% damage boost. It is also affected by theObsidian armour(helmet,platebodyandplatelegs) which will increase the melee attack and melee strength by 10%. The damage bonusdoesstack with the Berserker necklace.
+
+
+[Infobox]
+Released: 19 September2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A mace of obsidian.
+General Store Value: 30,000 coins
+High alch: 18,000 coins
+Low alch: 12,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 250,132 coins
+Grand Exchange Daily Buy Limit: 70
+Grand Exchange Daily Trades Volume: 37
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: -4
+- Crush: +62
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +56
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

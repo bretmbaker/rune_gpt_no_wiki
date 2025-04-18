@@ -1,0 +1,56 @@
+Name: Guard
+Combat Level: 21
+Size: 1x1
+Info:
+- Description: I wonder if he gets stuck behind fences.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 11092,11094,11096,11098,11100,11102,11104,11106
+- Link: MOID
+
+Location:
+- Area: Shayzien Prison
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Blood rune (1/128)
+- Chaos rune (1/128)
+- Nature rune (1/128)
+- Steel arrow (1/128)
+- Potato seed (1/19)
+- Onion seed (1/25)
+- Cabbage seed (1/38)
+- Tomato seed (1/77)
+- Sweetcorn seed (1/155)
+- Strawberry seed (1/311)
+- Watermelon seed (1/651)
+- Snape grass seed (1/896)
+- Grain (1/128)
+- Iron ore (1/128)
+- Clue scroll (medium) (1/128[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 22
+Attack: 19
+Strength: 18
+Defence: 14
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,155 @@
+[Shop: Gnome_spice]
+
+Gnome spice
+
+
+
+
+
+
+
+Released | 12 December2002(Update)
+
+Members | Yes
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Drop
+
+Examine | It's Aluft Gianne's secret mix of spices.
+
+
+
+Values
+
+
+
+Value | 2 coins
+
+High alch | 1 coin
+
+Low alch | 0 coins
+
+Weight | 0.15 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 144coins (info)
+
+Buy limit | 13,000
+
+Daily volume | 316
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 2169
+
+Link | MOID
+
+
+
+Gnome Spiceis an ingredient used to makespicy sauceand certaingnome foods. It can be bought fromGrand Tree Groceries, run byHudoin theGrand Tree. It will never run out while making Gnome foods.
+
+To createspicy sauce, gnome spice is used withchopped garlic. This uses up the gnome spice.
+
+It can be added to thenestatop Aldarin Mill for an iron pickaxe (you must relog with the spices inside the nest).
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Spicy maggots |  | None | None | 1 ×Gnome spice1 ×Fishing bait
+
+ | Spicy sauce |  | 9 | 25 | 1 ×Chopped garlic1 ×Gnome spice
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Grand Tree Groceries | Grand Tree | 10 | 1m | 2 | 1 | 1.0% |  | 
+
+The Spice Is Right. | Sophanem | 10 | 3m | 3 | 0 | 1.0% |  | 
+
+Changes[edit|edit source]
+
+Gallery (historical)[edit|edit source]
+
+ | 
+
+ | 
+
+RuneScape 2Beta | 29 March 2004 –present
+
+v•t•eGnome cooking
+
+ | Cocktail guideGianne's cook book
+
+Cocktails | Fruit blast(mixed)Dirty blastPineapple punch(mixed)Wizard blizzard(mixed)Short green guy(mixed)Drunk dragon(1•2•3)Chocolate saturday(1•2•3)Blurberry special(mixed)Odd cocktail(removed)Pre-madeFruit blastPineapple punchWizard blizzardShort green guyDrunk dragonChocolate saturdayBlurberry special |  | Fruit blast(mixed)Dirty blastPineapple punch(mixed)Wizard blizzard(mixed)Short green guy(mixed)Drunk dragon(1•2•3)Chocolate saturday(1•2•3)Blurberry special(mixed)Odd cocktail(removed) | Pre-made | Fruit blastPineapple punchWizard blizzardShort green guyDrunk dragonChocolate saturdayBlurberry special
+
+ | Fruit blast(mixed)Dirty blastPineapple punch(mixed)Wizard blizzard(mixed)Short green guy(mixed)Drunk dragon(1•2•3)Chocolate saturday(1•2•3)Blurberry special(mixed)Odd cocktail(removed)
+
+Pre-made | Fruit blastPineapple punchWizard blizzardShort green guyDrunk dragonChocolate saturdayBlurberry special
+
+Crunchies | Toad(Half made•Unfinished)Spicy(Half made•Unfinished)Worm(Half made•Unfinished)Chocolate chip(Half made•Unfinished)RawHalf bakedBurntPre-madeToadSpicyWormChocolate chip |  | Toad(Half made•Unfinished)Spicy(Half made•Unfinished)Worm(Half made•Unfinished)Chocolate chip(Half made•Unfinished)RawHalf bakedBurnt | Pre-made | ToadSpicyWormChocolate chip
+
+ | Toad(Half made•Unfinished)Spicy(Half made•Unfinished)Worm(Half made•Unfinished)Chocolate chip(Half made•Unfinished)RawHalf bakedBurnt
+
+Pre-made | ToadSpicyWormChocolate chip
+
+Battas | Fruit(Half made•Unfinished)Toad(Half made)Worm(Half made•Unfinished)Vegetable(Half made•Unfinished)Cheese & tomato(Half made•Unfinished)RawHalf bakedBurntPre-madeFruitToadWormVegetableCheese & tomato |  | Fruit(Half made•Unfinished)Toad(Half made)Worm(Half made•Unfinished)Vegetable(Half made•Unfinished)Cheese & tomato(Half made•Unfinished)RawHalf bakedBurnt | Pre-made | FruitToadWormVegetableCheese & tomato
+
+ | Fruit(Half made•Unfinished)Toad(Half made)Worm(Half made•Unfinished)Vegetable(Half made•Unfinished)Cheese & tomato(Half made•Unfinished)RawHalf bakedBurnt
+
+Pre-made | FruitToadWormVegetableCheese & tomato
+
+Bowls | Worm hole(Half made•Unfinished)Veg ball(Half made•Unfinished)Tangled toad's legs(Half made)Chocolate bomb(Half made•Unfinished)RawHalf bakedBurntPre-madeWorm holeVeg ballTangled toad's legsChocolate bomb |  | Worm hole(Half made•Unfinished)Veg ball(Half made•Unfinished)Tangled toad's legs(Half made)Chocolate bomb(Half made•Unfinished)RawHalf bakedBurnt | Pre-made | Worm holeVeg ballTangled toad's legsChocolate bomb
+
+ | Worm hole(Half made•Unfinished)Veg ball(Half made•Unfinished)Tangled toad's legs(Half made)Chocolate bomb(Half made•Unfinished)RawHalf bakedBurnt
+
+Pre-made | Worm holeVeg ballTangled toad's legsChocolate bomb
+
+Ingredients | SuppliesCocktail shakerCocktail glassBatta tinCrunchy trayGnomebowl mouldAlcoholVodkaWhiskyGinBrandyFruitsLemon(Chunks•Slices)Orange(Chunks•Slices)Pineapple(Chunks•Rings)Lime(Chunks•Slices)OtherDwellberriesEqua leavesPot of creamToad's legsKing wormGnome spiceGianne dough | Supplies | Cocktail shakerCocktail glassBatta tinCrunchy trayGnomebowl mould | Alcohol | VodkaWhiskyGinBrandy | Fruits | Lemon(Chunks•Slices)Orange(Chunks•Slices)Pineapple(Chunks•Rings)Lime(Chunks•Slices) | Other | DwellberriesEqua leavesPot of creamToad's legsKing wormGnome spiceGianne dough
+
+Supplies | Cocktail shakerCocktail glassBatta tinCrunchy trayGnomebowl mould
+
+Alcohol | VodkaWhiskyGinBrandy
+
+Fruits | Lemon(Chunks•Slices)Orange(Chunks•Slices)Pineapple(Chunks•Rings)Lime(Chunks•Slices)
+
+Other | DwellberriesEqua leavesPot of creamToad's legsKing wormGnome spiceGianne dough
+
+v•t•eSpices
+
+Evil Dave's Spices of DOOM | Red spiceOrange spiceBrown spiceYellow spice
+
+Other | Gnome spiceSpice

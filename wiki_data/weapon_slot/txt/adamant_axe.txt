@@ -1,0 +1,98 @@
+[Weapon: Adamant Axe]
+
+
+Anadamant axeis a one-handedaxerequiring 30Attackto wield and 31Woodcuttingto use to cuttrees. Making one requires 1adamant barand 71Smithing, yielding 62.5 Smithingexperience. As with all axes, it can be used to cut trees even when in the player's inventory.
+The success rate for getting a set of logs is approximately 300% that of abronze axeand 20% better than amithril axe.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A powerful axe.
+General Store Value: 1,280 coins
+High alch: 768 coins
+Low alch: 512 coins
+Weight: 1.587 kg
+Grand Exchange Value: 434 coins
+Grand Exchange Daily Buy Limit: 40
+Grand Exchange Daily Trades Volume: 9,144
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -2
+- Slash: +17
+- Crush: +15
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +19
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Hack | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Black Chest (black) | N/A | 1 | 6/141.11 | 
+Black Chest (brown) | N/A | 1 | 6/141.02 | 
+Black Chest (crimson) | N/A | 1 | 6/141.07 | 
+Black Chest (purple) | N/A | 1 | 6/141.15 | 
+Black Chest (red) | N/A | 1 | 6/140.98 | 
+Chilled jelly | 112 | 1 | 3/128 | 
+Choke devil | 264 | 1 | 3 × 3/128 | 
+Dagannoth Rex | 303 | 1 | 7/128 | 
+Dust devilRegular | 93; 110 | 1 | 3/128 | 
+Dust devilWilderness Slayer Cave | 93 | 1 | 3/126 | 
+Fever spider | 49 | 1 | 2/36 | 
+Former Vampyre | N/A | 1(noted) | 10/256 | 
+Greater demonWilderness Slayer Cave | 104 | 1 | 3/41 | 
+Ice troll femaleVariant 1 | 82 | 1 | 5/128 | 
+Ice troll grunt | 100 | 1 | 5/128 | 
+Ice troll maleVariant 1 | 82 | 1 | 5/128 | 
+Ice troll runtVariant 1 | 74 | 1 | 5/128 | 
+Ice troll | 120; 121; 123; 124 | 1 | 2/128 | 
+Iron dragon | 189; 215 | 1 | 3/128 | 
+JellyWilderness Slayer Cave | 78 | 1 | 3/64 | 
+Kraka | 91 | 1 | 2/128 | 
+Mutated Tortoise | 247 | 1 | 3 × 2/64 | 
+Pee Hat | 91 | 1 | 2/128 | 
+Reward casket (medium) | N/A | 1 | 10/341 | 
+Rock (Troll) | 111 | 1 | 2/128 | 
+Shadow Wyrm | 267 | 1 | 3 × 2/76 | 
+Skeleton (Lucien's camp) | 132 | 1 | 2/120 | N/A
+Skeleton (Shayzien Crypts) | 132 | 1 | 2/120 | 
+Stick | 104 | 1 | 2/128 | 
+Tree spirit | 14–159 | 1 | 8/128 | 
+Troll general | 113 | 1 | 2/128 | 
+Vampyre Juvinate | N/A | 1(noted) | 10/256 | 
+Vitreous warped Jelly | 241 | 1 | 3 × 3/128 | 
+Warped Jelly | 112 | 1 | 3/128 | 
+Warped Tortoise | 121 | 1 | 2/64 | 
+Wyrm | 99 | 1 | 2/76 | 
+Zombie (Shayzien Crypts) | 132 | 1 | 2/120 | 

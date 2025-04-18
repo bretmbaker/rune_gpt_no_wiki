@@ -1,0 +1,410 @@
+[Minigame: Nightmare_Zone]
+
+ | This is a safe  activity in aninstanced area.If youdiehere, you will not lose any of your items, including those stored inside anItem Retrieval Service(deathbank).However, any items you drop manually on the ground will be lost.Warning:It is still dangerous forHardcore group ironplayers.
+
+ | This article has astrategy guide.All information on mechanics and strategy will be on this page.
+
+Nightmare Zone
+
+
+
+
+
+Released | 5 September2013(Update)
+
+Also called | NMZ
+
+Type | Minigame
+
+Members | Yes
+
+Location | Yanille
+
+Leagueregion | N/A
+
+Participants | 1-5
+
+Skills | Combat
+
+Reward currency | Nightmare Zone Points
+
+Tutorial | No
+
+Music | No
+
+
+
+Map
+
+
+
+TheNightmare Zoneis acombat-basedminigamelocated north-west ofYanillebank. Players enter a "dream" to take on bosses they have previously defeated during completedquests. It is run byDominic Onion, a mage fromLunar Isle. The dreams that make up this minigame take place in aninstanceof theKing Black Dragon Lair.
+
+History[edit|edit source]
+
+Dominicdid not plan on calling his business the Nightmare Zone; it was what the local folk have been calling it. The plan came to him in a vivid dream when he was younger where he saw himself running a successful business from a great structure. He told his father about it, who laughed and said he should be abankerlike his ancestors. He refused and wanted to find out what that dream meant, so he studied to find out more aboutMagic, particularly oneiromancy and dream interpretation. Once he had learned enough, he leftLunar Isleattempting to find the location where he built the huge tower. Since he had not found it or gathered enough money for its construction, he decided to set up a small business north ofYanilleselling dreams to people.
+
+Getting there[edit|edit source]
+
+Using theGrouping teleportto Nightmare Zone. (Only usable when the requirements for Nightmare Zone are met)CastingWatchtower Teleportor using aWatchtower teleporttablet and running east. Both require completion ofWatchtowerquest to use.CastingTeleport to Houseor using aTeleport to housetablet if yourplayer-owned houseis in Yanille, or using ascroll of redirectionon aTeleport to housetablet to make aYanille teleport.Usingfairy ringcodeCLSand walking north-west or codeCIQand walking through Yanille.Using aring of duelingto teleport toCastle Wars, then walking to Yanille.Using theSpirit treeto teleport toTree Gnome Villageand walking from there.Using theArdougne cloak 1to teleport to theArdougne Monasteryand walking south.Using theGrouping teleportto Fishing Trawler and walking south-west.
+
+Requirements[edit|edit source]
+
+To begin the minigame, at leastfiveof the following quests must be completed:
+
+The Ascent of Arceuus[n 1] | Contact! | The Corsair Curse
+
+The Depths of Despair[n 1] | Desert Treasure I[n 2] | Dragon Slayer I
+
+Dream Mentor | Fairytale I - Growing Pains | Family Crest
+
+Fight Arena[n 1] | The Fremennik Isles | Getting Ahead
+
+The Grand Tree | The Great Brain Robbery | Grim Tales
+
+Haunted Mine | Holy Grail | Horror from the Deep
+
+In Search of the Myreque | Legends' Quest | Lost City[n 1][n 2]
+
+Lunar Diplomacy | Monkey Madness I | Mountain Daughter[n 1]
+
+My Arm's Big Adventure | One Small Favour | Recipe for Disaster
+
+Roving Elves | Shadow of the Storm | Shilo Village
+
+Song of the Elves | Tale of the Righteous | Tree Gnome Village[n 1][n 2]
+
+Troll Romance | Troll Stronghold | Vampyre Slayer[n 1][n 2]
+
+What Lies Below[n 1][n 2] | Witch's House[n 2] | 
+
+Playing[edit|edit source]
+
+Games are paid for bycoinsdeposited intoDominic's coffer. They can only be deposited into and withdrawn from the coffer in multiples of 1000, up to a maximum of262,143,000coins.
+
+Once a game mode is chosen, the player will agree to pay any applicable fees andDominicwill prepare thedream potionon a plinth in the centre of the lobby. Upon drinking the potion, an optional boss customization menu will appear, and after accepting the options the fee is deducted from the coffer and the player enters the Nightmare Zone arena. A dream can be cancelled prior to drinking the dream potion by speaking with Dominic which will not deduct money from the coffer.
+
+The arena can be safely exited at any time by drinking one of thewake potionson the north or south sides of the arena. Another player's dream can be spectated by drinking the redspectator potionoutside the lobby area and entering the name of the player.
+
+Quest items previously required to kill bosses are not needed, except forice gloves. For example, theBlack Knight Titanwill die withoutExcalibur, and items such as themagic secateursare provided forTanglefoot, arune pickaxeforSlagilith, theanti-dragon shieldforElvarg, andrunesforChronozonor theDagannoth mother. All items provided this way have(nz)at the end of their names, indicating that they will disappear when leaving the Nightmare Zone.Magicexperiencefrom casting spells by using(nz)runes is heavily reduced, but does not apply to experience gained from damage dealt. Players cannot cast most non-combat spells in the arena, the exceptions beingBones to PeachesandBones to Bananas.
+
+Abonecrushercan be used here as all bosses drop their bone-variation of drops,Tanglefootdropsleaves,KarameldropsChoc-ice,DaddropsBig Bones, etc.Long bonesandcurved bonescan also drop from monsters that normally drop them.
+
+Warning:ForHardcore Group Ironmandeaths arenotsafe  in Nightmare Zone. To avoid losing a life, exit the arena by drinking one of the dream potions on the north or south side of the arena.
+
+Note:Logging out while inside the arena ends the dream, returning the player to the Nightmare Zone lobby.
+
+Game modes[edit|edit source]
+
+There are 3 modes in Nightmare Zone: practice, endurance, and rumble. Each mode has a 'Normal' and 'Hard' difficulty.
+
+In thenormaldifficulty, allquest bosseshave the same stats they have in their respectivequests, as well as some of the mechanics.In theharddifficulty, the bosses have increasedHitpoints,Attack,Strength,Magic, andRangedlevels where applicable. TheirDefenceand defensive bonuses remain unchanged, although there are a couple exceptions. Some bosses in the hard difficulty can only attack with Melee or lose some special fight mechanics, such asIce Troll KingandJungle Demon. Some bosses gain extra mechanics, such asThe Untouchable, which reflects 20% of any damage dealt.
+
+The cost of each mode varies depending on type and difficulty:
+
+Mode | Normal | Hard
+
+Practice | Free | Free
+
+Endurance | 1,000 | 5,000
+
+Rumble | 2,000 | 6,000
+
+Custom rumble | 22,000 | 26,000
+
+Custom rumble withmaximumquest points | 12,000 | 16,000
+
+Practice[edit|edit source]
+
+In practice mode, a previously defeated boss can be selected to fight 1-on-1 until either the boss or player dies. Players do not gain any experience or Nightmare Zone points from defeating the boss, and the kill does not count for a Slayer assignment. Dropswillbe awarded upon defeat of the boss however, such asdragon bonesfrom Elvarg.
+
+Endurance[edit|edit source]
+
+Endurance mode is a 1-on-1 fight with every unlocked boss in waves until either the player dies or defeats all unlocked bosses, earning points for each boss defeated (see 'Points Awarded' in thebossestable below).
+
+Beating every boss in normal endurance mode awards a total of 216,634 points and in hard endurance mode a total of 794,770.
+
+Rumble[edit|edit source]
+
+Rumble mode allows a single player or group of up to 5 players to fight multiple bosses at the same time in a random order with duplicates. A solo player will only ever encounter a maximum of 4 bosses at once. Adding more players to the party increases the maximum bosses in the arena at one time. Killing a boss rewards points and causes another boss to spawn afterwards endlessly until the player dies or leaves.
+
+A standard rumble uses all unlocked bosses. For a higher cost players can select a customisable rumble, which upon starting gives the option to toggle any unlocked boss on or off. However, disabling bosses reduces the number of points rewarded for each kill. There is an additional mechanic to this where a large 83.33% point penalty is applied to all kills if the Dream Mentor bosses are enabled but the Desert Treasure I bosses are disabled. To avoid this make sure to only enable the Dream Mentor bosses in tandem with Desert Treasure I's ones or to disable them completely.[1][2]
+
+If starting a rumble with a group, all players involved must have the required amount of coins in the coffer. Only bosses that all players involved have unlocked are accessible. Partying with another player who has completed more or fewer quests than you does not affect points gained.
+
+To start a rumble, a player must first speak toDominic, and if grouping up, invite other participating players within the enclosure. Leaving the enclosure automatically removes that player from the group. Once the hosting player drinks theDream potion, players in the group will be prompted to either join the shared dream or leave the group.
+
+The maximum number of points that can be gained in one hard rumble is 1,048,575 (220−1) points.
+
+Players can be in the Nightmare Zone for 6 hours before being6 hour logged.
+
+Power-ups[edit|edit source]
+
+In Rumble mode, there are power-ups that spawn in the arena randomly and giving the player that activates it a temporary advantage. Power-ups disappear after 1 minute if they are not activated.
+
+Recurrent damageadds an additional hit which deals 3/4 of the initial damage. For example, hitting a 35 will deal an extra 26 damage. The extra damage does not give experience. This power-up is red in colour and lasts 45 seconds.Zapperdamages nearby monsters over time, and the attacks have a max hit of 8. The zapper does not damage bosses immune to normal attacks (such as theDagannoth MotherandTanglefoot). The zapper can only kill Count Draynor if a player has hit him at least once (the hit does not have to do damage). This power-up is purple in colour and lasts 1 minute.Power surgefills the player's special attack bar and regenerates it by 20% per tick. This power-up is yellow in colour and lasts 45 seconds.Ultimate forceinstantly kills all the bosses present in the arena. These kills do not award any points. This power-up is white in colour.These kills will, however, count towards aSlayer task(if applicable) and grantSlayerexperienceas long as the player dealt at least 1 damage to the assigned monster.Additionally, any bosses killed with Ultimate Force will not drop their 100% drop unless the player has dealt at least 1 damage to them.
+
+Strategies[edit|edit source]
+
+Slayer training[edit|edit source]
+
+Some monsters within the Nightmare Zone provide Slayer experience when killed on task. While this offers a lot slower experience thantraining Slayer normally, it can be a decent low-effort option for some players.
+
+In order to start an instance, five bosses must be selected. To maximise Slayer experience per hour, it is recommended to use other bosses that are easy and quick to kill such asCount Draynor,Trapped Soul,Sand Snake, andKing Roald. The use of all power-ups is recommended, including Ultimate Force if at least one point of damage has been dealt to the Slayer task monster.
+
+Slayer task | Monster | XP gained (hard mode) | Quest
+
+Birds | Evil Chicken | 120 (240) | Recipe for Disaster - Sir Amik Varze
+
+Birds | Giant Roc | 250 (255) | My Arm's Big Adventure
+
+Black Demon | Black demon | 157 (255) | The Grand Tree
+
+Dagannoths | Dagannoth Mother | 126 (252) | Horror from the Deep
+
+Green Dragon | Elvarg | 80 (246) | Dragon Slayer I
+
+Ice Warrior | Kamil | 146 (312) | Desert Treasure I
+
+Lizardman | Corrupt Lizardman | 50 (150) | Tale of the Righteous
+
+Scabarite | Giant Scarab | 137 (280.5) | Contact!
+
+Troll | Dad | 126 (264) | Troll Stronghold
+
+Troll | Arrg | 150.5 (299.6) | Troll Romance
+
+Troll | Ice Troll King | 161 (287) | The Fremennik Isles
+
+Vampyre | Count Draynor | 35 (210) | Vampyre Slayer
+
+Vampyre | Dessous | 220 (299.6) | Desert Treasure I
+
+Bosses[edit|edit source]
+
+All monsters that can be encountered within the Nightmare Zone are listed in the table below. The morequeststhe player has completed, the more monsters the player has access to. Many bosses provide increased experience per damage dealt, such as Dad, Moss Guardian, Arrg, and the Ice Troll King.
+
+Point values increase based on the number of bosses included. The point values shown below are themaximum pointsthat can be given, which assumes all quests have been completed and all bosses are enabled.
+
+In a team, points are split between those who attacked the monster. The person who did the most damage will take a larger percentage of the maximum points from that monster. In Rumble mode, the only bosses that appear are those that all participating players have access to.
+
+Headless Beast,Kamil,Elven Traitor,Essyllt, andThe Inadequacyare all immune to movement inhibitors fromice spells,bind,snare, andentangle.
+
+Name | Combat level (hard) | Size of Monster | Hitpoints (hard) | Defence level (hard) | Attack style | Points gained (normal) | Points gained (hard) | Notes and precautions | Quest | Drops
+
+Trapped Soul | 30 (101) | 1x1 | 30 (100) | 20 | Melee | 183 | 2,301 |  | The Ascent of Arceuus | 
+
+Count Draynor | 34 (177) | 1x1 | 35 (210) | 30 | Melee | 224 | 7,135 | Ahammerandstakeare not required.Has increased hitpoint regeneration. Kills count towardsvampyreSlayer tasks. | Vampyre Slayer | 
+
+Corsair Traitor | 35 (103) | 1x1 | 55 (160) | 30 (80) | Magic | 244 | 2,301 | Casts weaken, loweringDefenceby 5, or 15 in hard, per cast. | The Corsair Curse | Bones
+
+Sand Snake | 36 (154) | 3x3 | 60 (180) | 20 | Melee | 244 | 5,294 |  | The Depths of Despair | 
+
+Corrupt Lizardman | 46 (152) | 1x1 | 50 (150) | 38 | Melee, Ranged | 427 | 5,294 | Can poison, poison damage goes throughabsorptionpoints | Tale of the Righteous | 
+
+King Roald | 47 (188) | 1x1 | 75 (150) | 30 | Melee | 448 | 8,056 | Shouts various humorous phrases. | What Lies Below | Bones
+
+Witch's experiment | 19, 30, 42, 53 (47, 77, 90, 103) | 1x1 | 21, 31, 41, 51 (63, 93, 102, 113) | 19, 29, 39, 49 | Melee | 570 | 2,301 | First form weakens Melee stats by 5%. Four forms must be defeated. A small amount of damage is dealt through protection prayers by the Skavid form. | Witch's House | Wolf bones
+
+The Kendal | 70 (210) | 2x2 | 50 (150) | 60 | Melee | 998 | 10,127 |  | Mountain Daughter | Bones
+
+Me | 79 (201) | 1x1 | 45 (135) | 74 | Melee | 1,263 | 9,207 | Shouts humorous one-sided dialogue. | Lunar Diplomacy | Bones
+
+Headless Beast | 82 (233) | 3x3 | 100 (320) | 42 | Melee | 1,365 | 12,429 | Occasionally stomps when in Melee range, dropping a ball of rock from the ceiling dealing high damage. | Getting Ahead | 
+
+Elvarg | 83 (214) | 4x4 | 80 (240) | 70 | Melee, Dragonfire | 1,385 | 10,357 | Ananti-dragon shieldis provided in the arena.Dragonfireprotection is required. Without it, significant damage and high stat drain includingPrayerinstantly. Still drains Prayer every hit. Kills count towardsgreen dragonSlayer tasks. | Dragon Slayer I | Dragon bones
+
+Moss Guardian | 84 (182) | 2x2 | 120 (240) | 60 | Melee attack that sometimes hits with Magic instead | 1,426 | 7,595 | Attacks with either Melee or Magic melee, with the latter hitting through protection prayers.Protect from Meleerecommended. | Roving Elves | Big bones
+
+Slagilith | 92 (202) | 2x2 | 60 (150) | 75 | Melee | 1,711 | 9,207 | Damage from non-pickaxe weapons is reduced by 66% (Experience is awarded for pre-reduction damage). Lowcrushdefence; arune pickaxeis provided in the arena. | One Small Favour | 
+
+Nazastarool | 91, 68, 93 (176, 153, 181) | 2x2 | 100, 75, 110 (154, 180, 176) | 80, 58, 80 | Melee | 1,752 | 7,365 | Has three forms. | Shilo Village | 
+
+Treus Dayth | 95 (194) | 1x1 | 100 (240) | 100 | Melee | 1,834 | 8,516 | Does not have any difficult mechanics other than disappearing after being in combat for a short while. Will fly away as a ghost and reappear a short ways away before walking back towards you. Will not be killed by Ultimate force if retreating. | Haunted Mine | 
+
+Skeleton Hellhound | 97 (198) | 2x2 | 55 (132) | 100 | Melee | 1,915 | 8,976 |  | In Search of the Myreque | Big bones
+
+Dagannoth mother | 100 (201) | 3x3 | 120 (240) | 81 | Melee, Ranged | 2,038 | 9,207 | Takes damage based on colour: white requiresair spells, blue requireswater spells, orange requiresMelee, brown requiresearth spells, red requiresfire spells, and green requiresRanged. | Horror from the Deep | Bones
+
+Agrith-Naar | 100 (196) | 3x3 | 95 (209) | 82 | Melee, Magic | 2,038 | 8,746 | UsesMagicand teleports the player to it when out ofMeleerange.Silverlightis not required. | Shadow of the Storm | Vile ashes
+
+Tree spirit | 101 (199) | 1x1 | 85 (187) | 80 | Melee | 2,078 | 8,976 | Not considered undead.[3]Gets free pathing when player attacks and it cannot reach the player. | Lost City | 
+
+Dad | 101 (201) | 3x3 | 120 (240) | 50 | Melee | 2,078 | 9,207 | Knocks the player back several spaces and stuns. High Magic and Ranged defence. Kills count towardstrollSlayer tasks. Standing next to a wall is helpful. or if using Ranged/magic use the other npcs as a barrier between you & the giant log wielding Trolly. | Troll Stronghold | Big bones
+
+Tanglefoot | 111 (199) | 1x1 | 102 (204) | 91 | Melee | 2,506 | 8,976 | Magic secateursrequired to deal damage, provided in the arena. You will always hit and deal your max hit when using Magic secateurs. (Dealing max hit every attack no longer appears to be true) | Fairytale I - Growing Pains | Leaves
+
+Khazard warlord | 112 (192) | 1x1 | 169 (256) | 80 | Melee | 2,547 | 8,286 |  | Tree Gnome Village | Bones
+
+Arrg | 171 (210) | 2x2 | 150 (255) | 40 | Normal: RangedHard: Melee, Ranged | 2,588 | 10,127 | Attacks with Ranged only in normal, both Ranged and Melee in hard. Kills count towards troll Slayer tasks. | Troll Romance | Big bones
+
+Black Knight Titan | 120 (210) | 1x1 | 141 (255) | 91 | Melee | 2,934 | 10,127 | Excaliburis not required. Extremely high Magic and Ranged defence. | Holy Grail | Big bones
+
+Ice Troll King | 122 (213) | 2x2 | 150 (255) | 80 | Normal: Melee, Ranged, MagicHard: Melee | 3,016 | 10,357 | In normal: Attacks withRangedwhen out ofMeleerange. Attacks with bothMagicandMeleewhen in Melee range.UsingProtect from Missilescauses him to instantlyIce Barrage. His Ice Barrage interrupts attacks and freezes.UsingProtect from Meleecauses him to knock you back several squares and start ranging you.In hard: Melee only with no other mechanics.Extremely high Magic and Ranged defence. | The Fremennik Isles | 
+
+Bouncer | 137 (244) | 2x2 | 116 (232) | 120 | Melee | 3,811 | 13,580 | Doesn't count towardshellhoundSlayer tasks. | Fight Arena | Vile ashes
+
+Glod | 138 (276) | 4x4 | 160 (255) | 110 | Melee | 3,872 | 17,493 | Occasionally makes the player either run away or run forward and attack him. DisablesPrayerand lowersPrayer pointsby a significant amount. | Grim Tales | Big bones
+
+Evil Chicken | 159 (286) | 1x1 | 120 (240) | 126 | Magic | 5,135 | 18,644 | Low damage, but quickMagicattacks. | Recipe for Disaster - Sir Amik Varze | Bones
+
+Agrith-Na-Na | 146 (235) | 3x3 | 200 (255) | 82 | Melee, Magic | 4,341 | 12,659 | Teleports the player to it when out ofMeleerange. | Recipe for Disaster - Final battle | Banana
+
+Flambeed | 149 (238) | 5x5 | 210 (255) | 75 | Melee, Magic in Melee range only | 4,524 | 12,889 | Usewater spellsotherwiseice glovesmust be worn to attack or your weapon will be unequipped. Deals high damage. | Recipe for Disaster - Final battle | Cake
+
+Karamel | 136 (186) | 1x1 | 240 (255) | 100 | Magic | 3,750 | 7,825 | Drains stats frequently,overloadsare recommended. DrainsPrayerpoints by 3 until 3 or less points are left. Freezes interrupts auto-retaliate and movement orders, but does not stop the player from moving. While in Melee range, once all the player's stats reach less than 3, the freeze will do 3 damage until the player is less than 2 Hitpoints.Protect from Magicstops it from attacking. Teleports near the player. | Recipe for Disaster - Final battle | Choc-ice
+
+Dessourt | 121 (217) | 1x1 | 140 (255) | 99 | Magic, Ranged | 2,975 | 10,818 | Attacks withMagicandRangedsimultaneously up to 10Hitpoints.Protect from MagicorMissileshalves damage received. | Recipe for Disaster - Final battle | Chocolate dust
+
+Gelatinnoth Mother | 130 (201) | 3x3 | 240 (240) | 81 | Ranged, Magic | 3,444 | 9,207 | Takes damage based on colour: white requiresair spells, blue requireswater spells, orange requiresMelee, brown requiresearth spells, red requiresfire spells, and green requiresRanged. In hard mode, dealing high damage causes it to change colour early. | Recipe for Disaster - Final battle | Bones
+
+Culinaromancer | 75 (209) | 1x1 | 140 (255) | 10 | Magic | 1,141 | 9,897 | Magicattacks hit high;Protect from Magicrecommended. | Recipe for Disaster - Final battle | Cake
+
+Chronozon | 170 (297) | 3x3 | 60 (120) | 173 | Melee | 5,890 | 20,255 | All fourblast spellsmustdeal damage before he can be killed.Runesare provided in the arena. | Family Crest | Vile ashes
+
+Black demon | 172 (292) | 3x3 | 165 (255) | 152 | Melee | 6,012 | 19,564 | Kills count towards black demon Slayer tasks. | The Grand Tree | Malicious ashes
+
+Giant Roc | 172 (257) | 5x5 | 200 (255) | 100 | Ranged | 6,012 | 15,191 | Knocks the player several squares back andstunsthem. Ranged attack throwing a rock that deals high damage, usingProtect from Missilescauses Giant Roc to not use this attack; otherwise run away to avoid it | My Arm's Big Adventure | Big bones
+
+Dessous | 139 (217) | 1x1 | 200 (255) | 99 | Magic, Ranged | 3,933 | 10,818 | Attacks withMagicandRangedsimultaneously. Low Magic and stab defence. | Desert Treasure I | Vampyre dust
+
+Damis | 103, 174 (200, 272) | 1x1 | 90, 200 (198, 255) | 90, 160 | Melee | 6,155 | 16,802 | After the first form is defeated, he becomes stronger and drainsPrayerat a high rate.Absorptionpotions are recommended. | Desert Treasure I | Bones
+
+Fareed | 227 (299) | 1x1 | 130 (255) | 135 | Melee, Magic in Melee range only | 5,665 | 20,485 | Usewater spellsotherwiseice glovesmust be worn to attack or your weapon will be unequipped. Deals high damage. | Desert Treasure I | Ashes
+
+Kamil | 154 (273) | 1x1 | 130 (255) | 135 | Magic | 4,830 | 17,032 | Freezes frequently, stopping movement and interrupting auto-retaliate. Does not drain stats. Hits throughProtect from Magic, but it forces him into Melee range. Standing in the square next to him causes freeze to never deal damage. | Desert Treasure I | Chocolate cake
+
+Nezikchened | 187 (295) | 3x3 | 150 (150) | 167 | Magic | 7,112 | 20,025 | Stops attacking in Melee range. Can be used to trap other bosses. | Legends' Quest | Ashes
+
+Barrelchest | 210 (380) | 3x3 | 134 (255) | 140 | Melee | 7,357 | 33,145 | Deals high damage, drainsPrayerandDefence, turns offprotection prayersbefore every attack. | The Great Brain Robbery | 
+
+Giant scarab | 191 (316) | 3x3 | 130 (255) | 169 | Melee, Ranged | 7,418 | 22,787 | Ranged attack looks likeEarth Blast. Does not summon reinforcements like duringContact! | Contact! | 
+
+Jungle Demon | 195 (327) | 3x3 | 170 (255) | 170 | Normal: Melee, MagicHard: Melee | 7,744 | 24,398 | Deals highMagicandMeleedamage in Melee range in normal mode. In hard mode, only uses Melee attacks. No help from the 10th Squad like duringMonkey Madness I. | Monkey Madness I | Malicious ashes
+
+Elven traitor | 182 (368) | 1x1 | 300 (300) | 102 | Ranged | 6,746 | 31,073 | Green arrow deals high damage, purple arrow disablesPrayer, orange arrow is slow and dodgeable, but hits very high damage through Prayer. | Song of the Elves | 
+
+Essyllt | 236 (395) | 1x1 | 320 (320) | 104 | Melee, Magic, Ranged | 22,662 | 71,814 | Can attack from huge range, occasionally stuns the player and quickly throws a knife dealing up to 43+ damage, which can be blocked withProtect from Missilesif the player is fast enough. He also occasionally throws a vial with blue liquid that drains all the player's combat stats below 5 of their non-boosted level. | Song of the Elves | 
+
+The Untouchable | 274 (440) | 2x2 | 90 (180) | 434 | Melee | 15,285 | 44,423 | In hard mode: Reflects the floor of 20% of all damage dealt, a minimum of 1 | Dream Mentor | 
+
+The Everlasting | 223 (365) | 3x3 | 230 (255) | 120 | Melee | 10,129 | 30,613 | Has very highMagicDefence;staborRangedattacks will deal better damage. Will be ignored by Zapper power-up | Dream Mentor | 
+
+The Inadequacy | 343 (600) | 5x5 | 180 (255) | 240 | Melee, Ranged | 23,967 | 82,863 | UsesMeleeattacks only when within Melee range; otherwise, it will only usesRangedattacks. Does not summondoubtslike duringDream Mentor.Protection prayersare effective. | Dream Mentor | 
+
+Rewards[edit|edit source]
+
+Players can purchase various rewards and imbues from a chest nearDominic Onion. These can only be purchased using the reward points obtained inside the minigame. Players can have up to 2,147,483,647 points at once.
+
+Resources[edit|edit source]
+
+Resources include certainHerbloreingredients, elementalrunes, and items that are only obtainable via the minigame, such asherb boxesandscrolls of redirection. Players can only buy up to 15 herb boxes per day.
+
+Ironmencan only buy scrolls of redirection from this tab.
+
+Item | Pricesold at | GE price | GP per point
+
+ | Flax | 75 | 2 | 0.03
+
+ | Bucket of sand | 200 | 21 | 0.11
+
+ | Seaweed | 200 | 12 | 0.06
+
+ | Compost potion(4) | 5000 | 1 | 0.00
+
+ | Air rune | 25 | 5 | 0.20
+
+ | Water rune | 25 | 5 | 0.20
+
+ | Earth rune | 25 | 5 | 0.20
+
+ | Fire rune | 25 | 5 | 0.20
+
+ | Rune essence | 60 | 12 | 0.20
+
+ | Pure essence | 70 | 1 | 0.01
+
+ | Herb box | 9500 | 12,201.56[a] | 1.28
+
+ | Vial of water | 145 | 4 | 0.03
+
+ | Scroll of redirection | 775 | N/A | N/A
+
+Upgrades[edit|edit source]
+
+Points earned in Nightmare Zone can be spent in the reward shop toimbuecertain items. Imbuing an item provides extra bonuses and appends an (i) to the item name. Imbued items can be uncharged, which removes their bonuses and refunds 100% of the reward points it would cost to imbue the base item. Completing theHard Combat Achievementstier reduces the cost of imbuing all items by 50%.
+Note that after claiming the rewards for the Hard Combat Achievements, the refunded points will be calculated over the current cost of imbuing an item, even if an item was imbued before completing the Hard Combat Achievements.
+
+In order to get the "free" NMZ points, it is critical that you uncharge all imbued itemsbeforegoing toGhommalto claim the rewards (you can however cross the point threshold for Hard Combat Achievements before). Once you claim the rewards, the 50% cost reduction is applied and then you should reimbue all the items.
+Uncharging all items returns 7,825,000 points of which 3,912,500 (utilizing the reduced cost perk of the Hard Combat Achievements) must be spent to reimbue all items. This nets you 3,912,500 points, or 50% of the original points spent. Spending these points on Herb boxes would yield 411 boxes for a value of5,014,842.19.
+
+As the number of refunded points is based on your current Combat Achievements rewards, this process can be repeated if your number of Combat Achievement points drops out of the Hard rewards due to new Easy, Medium, or Hard Combat Achievement tasks being released. Even in this case the number of points refunded doesn't decrease until again claiming the Hard Combat Achievement rewards from Ghommal.
+
+Benefits[edit|edit source]
+
+Benefits include certain potions that can only be used within the minigame. The potions are sold by the dose and are automatically stored in the nearby barrels, with each barrel being able to hold up to 255 doses of each potion. Players can freely withdraw the desired number of doses of each potion before entering a dream,empty vialsare not required. Upon death in a dream, any unused potions are not lost.
+
+All Nightmare Zone potions (excludingoverloads, due to the damage dealt) can be drunk extremely quickly and do not delay any hits. Likecombo foods, 28 doses ofabsorption potioncan be drunk at the speed of cleaning an inventory ofherbs, by clicking on them one by one. This can also be done with food/other potions with Nightmare Zone potions, without delaying any hits.
+
+Item | Points per dose | Effective cost[a]
+
+ | Super ranging (1) | 250 | 321.09
+
+ | Super magic potion (1) | 250 | 321.09
+
+ | Overload (1) | 1,500 | 1,926.56
+
+ | Absorption (1) | 1,000 | 1,284.38
+
+Development history[edit|edit source]
+
+The overall concept for the Nightmare Zone, derived fromRuneScape'sDominion Towerminigame, was first mentioned on 19 April 2013 in theDeveloper's Blogfor the game'sthird content poll, in a section detailing the development of future content and asking players to come up with some designs, keeping in mind the limitations of the team's development tools. One example the team gave was written as such:
+
+“ | An aged guardian stands by a lever near the Yanille bank. When you talk to her, she lists the boss monsters of various quests that you have completed. You select which one you'd like to fight again. Once you're ready, you pull the lever. You are teleported into a cave that looks exactly like the KBD lair, but instead of the KBD you meet the monster you wished to fight. It's a private cave, so you'd have the monster all to yourself. If you win, you get rewarded with yellow tokens. The aged guardian exchanges these for degradable yellow armour that absorbs monster damage but not PVP damage. | ”
+
+ | — Mod Ash & Mod Nexus, Content Developers
+
+The concept, well received by players, was later expanded inanother Developer's Blogon 13 May 2013. The blog outlined a provisional list of quests with bosses that the player would be able to re-fight, alongside Endurance and Rumble modes. The rewards mentioned in this blog offered only consumable resources (ex. flax, essence, and herblore ingredients).
+
+First poll[edit|edit source]
+
+An updated blogwas released on 5 June 2013, which added fees for entering a dream, a hard mode for both Endurance and Rumble modes, in addition to offering more rewards alongside the aforementioned consumable resources:
+
+Sets of degradeable tier 50 and 65 melee, ranged, or magic equipment. Charged with reward points, they would have had a random chance to restore health during combat.Teleport scrolls torunic altarsTeleport scrolls toplayer-owned house portals
+
+The minigame was put to a poll the next day inOld School feature poll 5 – Dom Onion Cave, and more..., passing with 77.4% of voters supporting the minigame's development, though all the offered rewards failed to pass. The poll also let players vote on the location and name of the minigame. The location with the most votes was Yanille (30.5%), while the name with the most votes was Nightmare Zone (25.2%).
+
+The other locations, in order of popularity, were:
+
+Edgeville (24.8%)Varrock (15.75%)Seers' Village (11.8%)Falador (11.2%)East Ardougne (5.9%)
+
+The other names, in order of popularity, were:
+
+Dom Onion's Cave (21.6%)DreamArena (21.2%)Dominic's Den (17.1%)Domain of Morpheus (14.8%)
+
+Rewards poll[edit|edit source]
+
+With the Nightmare Zone's release on 5 September 2013, the reward shop only offered resources and potions used inside the minigame. After player feedback, more rewards were offered in aDeveloper's Blogon 13 September 2013, and were polled five days later inOld School feature poll 10: New Rewards.
+
+The first set of rewards included using reward points to imbue certain rings and equipment:
+
+Imbued Fremennik rings would have their stats doubled.Imbued diamond rings would have a +5 Stab bonus, with +4 in all other Attack bonusesImbued dragonstone rings would have +5 Attack and Defence bonusesImbued onyx rings would have +6 Attack and Defence bonusesImbued black masks would have their negative Attack bonuses removed, and would give a +15% accuracy in Ranged and Magic, and a +15% damage bonus in Ranged, alongside the mask's original bonuses.
+
+All imbues, excluding the jewelled rings, passed the poll. The imbued black mask would later receive a +15%magic damagebonus inanother poll, while imbuing crystal equipment was removed with the release ofSong of the Elves, where their stats no longer degrade at all.
+
+The second set of rewards included tradeable ingredients to create higher level potions.
+
+Super anti-fire- Requiring level 89 Herblore to make (and level 93 to create thebarbarian mixversion), the potion would provide complete immunity to regular dragonfire (and reduced effects for the King Black Dragon's dragonfire attacks) for an unspecified amount of time.Energy renewal- Requiring level 92 Herblore to make (and level 96 to create the barbarian mix version), the potion would fully restorerun energy, and keep it at 100% for 30 seconds.Super prayer- Requiring level 94 Herblore to make (and level 98 to create the barbarian mix version), the potion would restore 4 more prayer points per dose than a normalprayer potion, with the added benefit of being able to restore above the player's maximum Prayer points.
+
+All three failed the poll; thesuper antifire potionwould later be released as part ofDragon Slayer II, and thestamina potioncould be considered as a reworked energy renewal potion.
+
+Thequest point capewas offered to be trimmable upon completion of an Endurance dream alongside a small stat increase.
+
+Completing a normal Endurance dream would trim the cape blue, increasing the Defence bonuses from +9 to +11 and giving it a +2 Prayer bonus.Completing a hard Endurance dream would trim the cape red, giving it +1 in all Attack bonuses, in addition to the blue-trimmed cape's bonus increases. This would give the red-trimmed cape identical bonuses to afire cape(excluding its +4 Strength bonus).
+
+Both cape trims failed the poll. The quest point cape would later become trimmable on 5 March 2015, upon the completion of allAchievement Diaries.
+
+Other rewards offered include:
+
+Herb boxes, which would provide ten rolls on theherb drop table. Though it passed a poll, the daily buy limit of 15 was not mentioned and was likely implemented as a balancing change.Scroll of redirection, which was offered once before as tradeable teleport scrolls toplayer-owned house portalsand failed. The reworked scroll was made untradeable and would have to be used onteleport to house tabletsinstead, rather than being directly usable on its own.Cow mask, originally made as part of theDuke of Bridgelumrandom event, was offered as a cosmetic reward. Though it failed the poll, it was later given for free as part ofbirthday eventsalongside the fullcow outfit.Additional resource rewards were offered to be purchasable, though only the vial of water passed the poll.Goat horn dustLimpwurt rootMort myre fungus(upon completion ofNature Spirit)Swamp tarUnicorn horn dustVial of waterWine of Zamorak
+

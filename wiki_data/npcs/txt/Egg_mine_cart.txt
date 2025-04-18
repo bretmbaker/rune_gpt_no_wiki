@@ -1,0 +1,2 @@
+Item: Egg mine cart
+Summary: Egg mine carts are NPCs found in the easter workshop during the 2024 Easter event. According to the Easter Bunny, they have become independent and move as they see fit. They will block the player's way, crashing into them and temporarily stunning them. Additionally, there is a chance that this collision will break an Easter egg, causing the player to lose it.

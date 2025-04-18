@@ -1,0 +1,80 @@
+[Weapon: Sunfire Fanatic Cuirass]
+
+
+Thesunfire fanatic cuirassis an item that requires level 60Prayerand 40Defenceto equip, obtained as a possible reward from participating in theFortis Colosseum.
+Part of thesunfire fanatic armourset, it provides thebest in slotprayer bonus for the body slot, and also has identical defence bonuses to therune platebody.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A cuirass forged from sunfire.
+General Store Value: 500,000 coins
+High alch: 300,000 coins
+Low alch: 200,000 coins
+Weight: 8.618 kg
+Grand Exchange Value: 3,789,011 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 473
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -30
+- Ranged: -15
+
+Defence Bonuses:
+- Stab: +82
+- Slash: +80
+- Crush: +72
+- Magic: -6
+- Ranged: +80
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +10
+
+Slot: Body slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Rewards Chest (Fortis Colosseum)Wave 8 | N/A | 1 | 315/114,240 | 
+Rewards Chest (Fortis Colosseum)Wave 9 | N/A | 1 | 75/21,600 | 
+Rewards Chest (Fortis Colosseum)Wave 10 | N/A | 1 | 75/16,000 | 
+Rewards Chest (Fortis Colosseum)Wave 11 | N/A | 1 | 15/2,080 | 
+Rewards Chest (Fortis Colosseum)Wave 12 | N/A | 1 | 75/4,800 | 
+Rewards Chest (Fortis Colosseum)Wave 4 | N/A | 1 | 70/43,400 | 
+Rewards Chest (Fortis Colosseum)Wave 5 | N/A | 1 | 35/19,250 | 
+Rewards Chest (Fortis Colosseum)Wave 6 | N/A | 1 | 35/16,800 | 
+Rewards Chest (Fortis Colosseum)Wave 7 | N/A | 1 | 105/45,920 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Ancient Wyvern/Strategies(Prayer)
+2 | Dark beast/Strategies(Melee)
+3 | Dust devil/Strategies(Bursting/Barraging)
+4 | Metal dragons/Strategies(Melee)
+1 | Nightmare Zone/Strategies(Melee (Prayer))
+3 | Slayer task/Abyssal demons(Magic)
+1 | Slayer task/Fossil Island wyverns(Prayer)
+3 | Slayer task/Gargoyles(Melee)
+1 | Slayer task/Trolls(Melee (Mountain trolls))
+1 | Ultimate Ironman Guide/Equipment
+3 | Volcanic Mine(Solo)
+2 | Volcanic Mine(Group)
+1 | Vyrewatch Sentinel/Strategies(AFK Prayer)
+1 | Why Fletch?(Redemption strategy at Wintertodt)

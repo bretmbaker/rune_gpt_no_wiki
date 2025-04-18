@@ -1,0 +1,127 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Family Crest (#24)
+
+
+
+
+
+Released | 9 April 2002 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Lead developer(s) | Paul Gower
+
+
+
+Family Crest is a quest in which the player must retrieve three family crest pieces from the Fitzharmon brothers and return the crest to their father.
+
+Details [ edit | edit source ]
+
+Start point | Talk to Dimintheis in south-east Varrock . Show on map
+
+Official difficulty | Experienced
+
+Official length | Medium
+
+Description | There is a man in Varrock who needs a bit of help. He is of noble heritage, but without his family's crest, he can't prove it. Unfortunately, his three sons took the crest with them when they left, scattering all across RuneScape .
+
+Requirements | 40 Mining ( boostable ) ( not required to start ) 40 Smithing ( boostable ) ( not required to start ) 59 Magic ( boostable ) ( not required to start ) 40 Crafting ( boostable ) ( not required to start ) The ability to defeat a level 170 demon (can be safespotted )
+
+Items required | Shrimps Salmon Tuna Bass Swordfish Pickaxe - adamant or rune (41+ Mining) highly recommended 2 cut rubies Ring Mould Necklace Mould Any poison cure like Antipoison (you will lose this item) Means to cast all 4 Blast spells
+
+Recommended | 55 Combat level An extra antipoison potion for yourself (for the poison spiders in Edgeville Dungeon ) Varrock , Catherby , Falador , and Ardougne Teleports (teleporting to Ardougne requires completion of Plague City ) Amulet of Glory to fast travel to Edgeville and Al-Kharid ( Ring of Dueling can also be used for Al-Kharid, and Soul Wars minigame teleport for Edgeville)
+
+Enemies to defeat | Chronozon (level 170) (can be safespotted)
+
+Ironman concerns | Warning: The player visits the Wilderness section of Edgeville Dungeon For a swordfish purchasable from The Shrimp and Parrot : 50 Fishing ( boostable ) 45 Cooking ( boostable ) For a bass (a raw bass can be obtained from a Reward pool ) : 46 Fishing ( boostable ) 43 Cooking ( boostable )
+
+League notes | Unlocking Fremennik ✓ will auto-complete the quest The quest is otherwise not completable, as it requires visits to Asgarnia ✓ , Kandarin ✓ , Desert ✓ and Wilderness ✓ .
+
+Walkthrough [ edit | edit source ]
+
+The crest [ edit | edit source ]
+
+To begin, talk with Dimintheis , who lives in the fenced off area of Varrock in the south-eastern area next to the eastern clothing shop . He'll tell you about how without his family's crest, he can't prove his heritage and take back his estate. His sons took the crest when they left, and he doesn't know where they all are, though last he heard, Caleb was working as a chef in Catherby .
+
+Caleb [ edit | edit source ]
+
+Head to Catherby . Near the middle of town (south of the Farming shop ), usually inside the building with the sink, though he wanders outside sometimes, is Caleb . Talk to him, and he'll say his brothers and he accidentally broke the crest into three parts and each of them ended up with a piece. Luckily, he still has his piece, though he's not going to just hand it over to any passing stranger. He has an important event coming up, and he needs some fish for a special salad. Get them for him, and he'll give you the piece of the crest. What you need is shrimp , salmon , tuna , bass , and swordfish all cooked. All but the salmon can be fished right there in Catherby. The salmon can be caught in a lake just a little north of the bank in the nearby town of Seers' Village . Once you have all of that, give it to him and he'll give you the piece as promised, along with a little bit of info. He'll say that Avan is somewhere in the desert (i.e. in Al Kharid ).
+
+Avan [ edit | edit source ]
+
+When you talk to the gem trader in Al Kharid , he will remember the person you're looking for, direct you north towards the gold rocks in a pit in the desert. Head there and talk to the man wandering around just at the entrance to the pit with a yellow cape on. This is, indeed, Avan , as he'll tell you when you ask him. He's not giving up his piece of the crest though unless you can help him win the affection of a certain lady by getting him a ring and necklace made out of perfect gold. Unfortunately, the stuff there in the desert isn't nearly good enough. He'll tell you a dwarf named Boot might know something about where to find the gold.
+
+Note: It is possible to mine and smith perfect jewellery without speaking to Boot; however, the player must speak to Boot to be able to give the jewellery to Avan.
+
+Make your way to Falador (alternatively, use a combat bracelet to teleport to the Edgeville Monastery , or a skills necklace to the Mining Guild ) and go into Dwarven Mines . Once inside, go south-west (from the northern entrance) — see the map to the right. Boot should be wandering around down there, in the second alcove. Talk to him and ask him about perfect gold. He'll come up with a likely location. It's a small dungeon just between Ardougne and Witchaven . You've already been there if you've done the Slug Menace quest.
+
+Teleport or run to Ardougne. Run east of Ardougne, just outside of the wall next to Witchaven. Make sure to get your pickaxe , food and some gear, as there are a bunch of level 28 hobgoblins , level 53 ogres , and level 122 hellhounds that you'll have to either fight or avoid. It is possible to mine the 'perfect' gold ores without combat; however, you will probably be attacked. Protect from Melee will negate all damage, as the monsters only use melee.
+
+Inside the cave, to the east will be a small caged area with several hellhounds inside, along with the gold rocks you need to mine. To the north and south are two rooms with levers in and outside of them. You'll have to do a little bit of a lever puzzle here to open the gate to the hellhounds. (If you have to return later on, you will not need to go through these steps to unlock the door again.)
+
+Go to the northern wall and pull the lever up. Head into the southern room and pull the lever up. Go back to the northern wall and pull the lever down. Go inside the northern room and pull the lever up. Leave the room and pull the lever on the northern wall up. Go back to the southern room and pull the lever down. The hellhound room should now be unlocked. Mine at least two 'perfect' gold ore and get out. Level 122 Hellhound near first rock on the right can be safespotted by hugging wall on your way in then attacking from behind stalagmite, then just mine that rock twice (If boosting and using this method, bring multiple boosts as the ore can take a while to respawn).
+
+Now, get your rubies , your ring mould , and your necklace mould and go to any furnace that's handy (perhaps using an amulet of glory to get to the one in Al Kharid ). Smelt the ore into 'perfect' gold bars and then, ensuring you have selected "Make 1" (as you may end up making all of your gold bars into a ring or necklace, which would require you to return to mine more ore), use the resulting 'perfect' bars on the furnace again, selecting the usual ruby ring and ruby necklace options to make the 'perfect' ring and 'perfect' necklace (if you just make gold jewellery, they will not be 'perfect'). Once you have the items, head back to Al Kharid and give them to Avan. As a reward, he'll give you the second piece of the crest and will tell you how to find Johnathon.
+
+Johnathon [ edit | edit source ]
+
+The last brother is holed up on the 1 st floor [ UK ] 2 nd floor [ US ] of the Jolly Boar Inn north-east of Varrock near the edge of the Wilderness . Bring your antipoison potion , and head up to the 1 st floor [ UK ] 2 nd floor [ US ] where he is huddled in a room. Talk to him; he'll tell you he got bitten by a poisonous spider . Give him the antipoison (he'll take the entire potion, not one dose) and he'll be very grateful and be able to relay to you what happened. Apparently, he got cocky and decided he wanted to try to kill a powerful demon named Chronozon . The demon sent him away and in the process stole the last piece of the crest. If you want it back, you'll have to finish what Johnathon started.
+
+Chronozon can be found near the poison spiders, near the Earth obelisk in the Edgeville Dungeon .
+
+You'll need to bring food, armour, an antipoison potion for the poison spiders, and enough runes to cast each elemental blast spell at least once. It will probably take more than one casting, especially if you're lower level, because if the spell just "splashes" on Chronozon, it doesn't count. You have to actually hit Chronozon with a Wind Blast , Water Blast , Earth Blast , and Fire Blast . When you hit him with all of those spells, it will weaken him and make him a little easier. Afterwards, he may be killed with any combat class .
+
+If you don't get all of the spells to successfully hit, though, he won't die. Also if you take too long to kill him his weakness will wear off and you'll have to weaken him again. Also, if you you are using a combination defence/autocast, he will regenerate, even if all four spells hit. Use the spellbook and cast them just one at a time. When you finally do kill him, grab the crest piece and head out of there. It is also wise to take a one-click teleport, such as the Varrock teletab , to teleport out of the dungeon immediately following Chronozon's defeat.
+
+The crest reassembled [ edit | edit source ]
+
+Now that you have all three crest pieces, put them together to make the Family Crest and then make your way back to Varrock . Give the crest to Dimintheis who will be very, very pleased to have it back.
+
+Congratulations, quest complete!
+
+After completing the quest, it is recommended to talk to Dimintheis to start the Family Pest miniquest. When you go to one of the brothers to imbue the gauntlets, you'll have the chat option that completes 1/4th of the miniquest.
+
+Rewards [ edit | edit source ]
+
+1 Quest point Steel gauntlets The steel gauntlets offer useful perks. Each brother will imbue them with a special ability. They will initially do this for free. Be careful choosing, though, since you can only have one effect, and it will cost you 25,000 coins to change them. Dimintheis will provide you with a "magically" found pair should you lose them.
+
+Cooking gauntlets ( Caleb ): Reduces the chance of burning certain fish significantly: ( lobsters , swordfish , monkfish , sharks and anglerfish .) Goldsmith gauntlets ( Avan ): Increases the Smithing experience from smelting gold by 150%, for a total of 250% - from 22.5 to 56.2. Chaos gauntlets ( Johnathon ): Increases the damage done by bolt ( chaos rune ) spells by 3. Stacks multiplicatively with the Tome of Fire and Slayer helmet (i) , the former having a moderate upkeep cost, for a maximum hit of 25, which is by far the highest damage per second for a beginner. After the Family Pest miniquest, you can own unlimited copies of all three gauntlets for a one-off payment of 500,000 coins.
+
+Unlocks:
+
+Chronozon accessible in the Nightmare Zone .
+
+Required for completing [ edit | edit source ]
+
+Completion of Family Crest is required for the following:
+
+Family Pest Defender of Varrock Legends' Quest Elite Kandarin Diary
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+v • t • e Family Crest
+
+NPCs | Gem trader Boot Fitzharmon family Dimintheis Caleb Avan Johnathon Enemies Chronozon |  | Gem trader Boot | Fitzharmon family | Dimintheis Caleb Avan Johnathon | Enemies | Chronozon
+
+ | Gem trader Boot
+
+Fitzharmon family | Dimintheis Caleb Avan Johnathon
+
+Enemies | Chronozon
+
+Items | Crest and parts Crest part Family crest 'perfect' jewellery Gold ore Gold bar Ring Necklace | Crest and parts | Crest part Family crest | 'perfect' jewellery | Gold ore Gold bar Ring Necklace
+
+Crest and parts | Crest part Family crest
+
+'perfect' jewellery | Gold ore Gold bar Ring Necklace
+
+Rewards | Steel gauntlets Chaos gauntlets Cooking gauntlets Goldsmith gauntlets
+
+Locations | Witchaven Dungeon Jolly Boar Inn Edgeville Dungeon
+
+Related | Quick guide Transcript Family Pest

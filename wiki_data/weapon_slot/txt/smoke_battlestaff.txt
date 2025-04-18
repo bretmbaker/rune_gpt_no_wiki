@@ -1,0 +1,76 @@
+[Weapon: Smoke Battlestaff]
+
+
+Asmoke battlestaffis a smokeelemental staffwhich provides unlimited amounts ofairandfirerunes as well as theautocastoption when equipped. It requires 30Attackand 30Magicto wield.
+Themystic smoke staffis an even stronger alternative, providing better melee and magic stat bonuses. It is obtained by taking the smoke battlestaff and40,000toThormac. (Reduced to30,000or20,000with completion of thehardandelite Kandarin diariesrespectively.)
+
+
+[Infobox]
+Released: 10 April2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: It gives a 10% accuracy and damage bonus for spells on the standard spellbook.
+General Store Value: 15,500 coins
+High alch: 9,300 coins
+Low alch: 6,200 coins
+Weight: 2.267 kg
+Grand Exchange Value: 1,905,255 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 589
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +7
+- Slash: -1
+- Crush: +28
+- Magic: +12
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +12
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +35
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Bash | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pound | Crush | Aggressive |  | +3 Strength
+ | Focus | Crush | Defensive |  | +3 Defence
+ | Spell | Magic | Defensive Autocast | 5 ticks (3.0s) | 10 tiles |  | None
+ | Spell | Magic | Autocast |  | None
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Thermonuclear smoke devil | 301 | 1 | 1/512 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Adamant dragon/Strategies(Magic)
+5 | Barrows/Strategies(Magic equipment)
+2 | Barrows/Strategies(Tank & Lower level)
+3 | Giant Mole/Strategies(Magic)
+4 | Krystilia/Strategies(Magic)
+4 | Mithril dragon/Strategies(Magic)
+3 | Nightmare Zone/Strategies(Magic)
+3 | Slayer task/Trolls(Magic (Ice trolls))
+3 | Zulrah/Strategies(Magic)

@@ -1,0 +1,559 @@
+[Skill: Fishing]
+
+ | This article has a calculatorhere.Calculatorsdetermine experience and costs based on real-time prices from theGrand Exchange Market Watch.
+
+ | This article has skill training guides:Members/Ironman/Free-to-playSkill training guidesdocument optimal XP/hour methods to train a skill, as well as alternate passive or less expensive methods.
+
+Fishing
+
+
+
+
+
+
+
+Released | 11 June2001(Update)
+
+Also called | Fish
+
+Members | No
+
+Type | Gathering
+
+
+
+Statistics
+
+
+
+Players with99 | 164,113as of 1 April 2025 -update
+
+Players with200M XP | 346as of 3 April 2025 -update
+
+
+
+Fishingis askillwhich involves catchingfishfrom selectedspotsaroundGielinor. Higher Fishing levels enable different mechanisms of Fishing, the ability to catch a larger selection of fish and increases a player's catch rate. Caught fish may be cooked through theCookingskill to createfoodwhich may be used later to regainhitpointsduringcombat. Alternatively, many players sell their excess stock of catches forgold.
+
+ | Fishing level up - normal
+
+The music that plays when levelling up.
+
+
+
+ | Fishing level up - with unlocks
+
+The music that plays when levelling up and unlocking new content.
+
+
+
+Fish[edit|edit source]
+
+When caught, mostfishwill be raw and cannot be eaten until they arecooked. The name and colour indicates this. For example, whenshrimpsare first caught they are named "raw shrimps", but once cooked the name changes to "shrimps".
+
+Clue in a bottle[edit|edit source]
+
+While fishing, players may also occasionally receiveclue bottlesthat contains aclue scrollof the following difficulties:beginner,easy,medium,hard, andelite.Master clue scrollscannot be obtained from clue bottles.
+
+Fishing methods[edit|edit source]
+
+Equipment[edit|edit source]
+
+Players need the right kind of equipment to catch thefishthey want. Basic Fishing equipment can be purchased infishing shops. Players can buy fishing equipment from the fishing store inPort Sarimand from the fishing store inCatherby. More advanced fishing methods may need to be found or crafted.
+
+Equipment | Secondary Item | Fishing Spot | Associated Fish | Level | Members | Other Requirements
+
+ | Small fishing net | None | Net/ Bait[s 1] |  | Raw shrimps | 1 | 0 | None
+
+Net |  | Raw karambwanji | 5 | 1
+
+Net |  | Raw anchovies | 15 | 0 | None
+
+Net |  | Raw guppy | 7 | 0 | Below Ice Mountain
+
+Net |  | Raw cavefish | 20 | 0 | Below Ice Mountain
+
+Net |  | Raw tetra | 33 | 0 | Below Ice Mountain
+
+Net/ Bait |  | Frog spawn | 33 | 1
+
+Harpoon /Net |  | Raw monkfish | 62 | 1 | Swan Song
+
+Net |  | Minnow | 82 | 1 | ShowKylie Minnowthe fullangler's outfit.
+
+ | Big fishing net | None | Net/ Harpoon |  | Raw mackerel | 16 | 1 | None
+
+ | Raw cod | 23
+
+ | Raw bass | 46
+
+ | Raw catfish | 46 | 1 | Below Ice Mountain
+
+ | Drift net | None | Drift net anchors |  | Fish shoal | 47 | 1 | 44seedrift net fishing.
+
+ | Fishing rod |  | Fishing bait | Net /Bait |  | Raw sardine | 5 | 0 | None
+
+ | Raw herring | 10 | 0
+
+Lure /Bait |  | Raw pike | 25 | 0
+
+Net /BaitorBait[s 2] |  | Raw slimy eel | 28 | 1
+
+ | Raw cave eel | 38
+
+ | Sandworms | Bait |  | Raw anglerfish | 82 | 1
+
+ | Fishing bait | Bait |  | Sacred eel | 87 | 1 | Partial completion ofRegicide.
+
+ | Fly fishing rod |  | Feather | Lure/ Bait |  | Raw trout | 20 | 0 | None
+
+ | Raw salmon | 30
+
+ | Stripy feather | Lure/ Bait |  | Raw rainbow fish | 38 | 1
+
+ | Oily fishing rod |  | Fishing bait | Bait |  | Raw lava eel | 53 | 1 | None
+
+ | Infernal eel | 80 | Access to the inner city ofMor Ul Rek.
+
+ | Barbarian rod |  | Feather | Rod |  | Leaping trout | 48 | 1 | 15,15,Barbarian Training
+
+ | Leaping salmon | 58 | 30,30,Barbarian Training
+
+ | Leaping sturgeon | 70 | 45,45,Barbarian Training
+
+ | Harpoon | None | Cage /HarpoonorHarpoon/ Net[s 3] |  | Raw tuna | 35 | 0 | Optional:55,35,Barbarian Trainingto catch without a harpoon.
+
+ | Raw swordfish | 50 | Optional:70,50,Barbarian Trainingto catch without a harpoon.
+
+Net /Harpoon |  | Raw shark | 76 | 1 | Optional:96,70,Barbarian Trainingto catch without a harpoon.
+
+ | Lobster pot | None | Cage/ Harpoon |  | Raw lobster | 40 | 0 | None
+
+ | Dark fishing bait | Cage |  | Raw dark crab | 85 | 1
+
+ | Cormorant's glove |  | King wormorFish chunks | Fishing spot(Aerial Fishing) |  | Bluegill | 43 | 1 | 35
+
+ | Common tench | 56 | 51
+
+ | Mottled eel | 73 | 68
+
+ | Greater siren | 91 | 87
+
+ | Karambwan vessel |  | Raw karambwanji | Fish(Karambwan) |  | Raw karambwan | 65 | 1 | Completion ofTai Bwo Wannai Trio.
+
+Fishing shops[edit|edit source]
+
+Locations offishing shopswhere players can buy supplies are:
+
+Gerrant's Fishy BusinessinPort Sarim
+
+Harry's Fishing ShopinCatherbyFishing Guild Shopin theFishing GuildLovecraft's TackleinWitchavenFernahei's Fishing HutinShilo VillageFremennik FishmongerinRellekkaEtceteria FishinEtceteriaIsland FishmongerinMiscellaniaFlosi's FishmongersinJatizsoTynan's Fishing SuppliesinPort PiscariliusIshmael's Fish He Sellsin theRuins of Unkah
+
+Nets[edit|edit source]
+
+The first few fish players can catch require nets. Players can usesmall fishing netsandbig fishing nets. The big nets only allow players to catch different types of fish and sometimes items, such ascaskets. When a player has found afishing spot, they can then use their net if the option "net fishing spot" is available. "Net fishing spot" can be found in:Draynor Village,Lumbridge Swamp,Musa Point, the coastline nearRimmington, theWilderness Bandit Camp,Al Kharid, andCorsair Cove. A "cast fishing spot" is available at the park inCivitas illa Fortis. House keys, gems,key halves, and clue bottles, can be obtained from this spot.
+
+Equipment | Level | Members
+
+ | Small fishing net | 1 | 0
+
+ | Big fishing net | 16 | 1
+
+Fishing rods and bait[edit|edit source]
+
+Fishing rodsare required for mid level Fishing in both rivers and seas. Along with a Fishing rod, players also needbait. Bait can be bought in stores (3coinseach at thePort Sarimfishing shop), but is also dropped by somemonstersandrandom events. When a player has found afishing spot, they can then use their fishing rod if the option "bait fishing spot" is available. For everyfishyou catch, you lose one piece of bait.
+
+Theoily fishing rodis amembersonly item required to catchinfernal eelswhen used withice glovesand to catchlava eelsfor theHeroes' Quest. The pearl variants such as thePearl fishing rodare cosmetic and not improvements over the basic fishing rod, although they can be equipped which frees up a single inventory slot.
+
+Equipment | Level | Members
+
+ | Fishing rod | 5 | 0
+
+ | Pearl fishing rod | 5 | 1
+
+ | Oily fishing rod | 5 | 1
+
+ | Oily pearl fishing rod | 5 | 1
+
+Fly fishing rods and feathers[edit|edit source]
+
+Fly fishing rodsare also required for mid level Fishing. These rods can only be used in rivers. Along with a fly fishing rod, players also needfeathers. They can be bought from theShilo VillageandPort Sarimfishing shop, but are also dropped bychickens. When a player has found afishing spot, they can then use their fly fishing rod if the option "lure fishing spot" is available.
+
+Stripy feathers(introduced with theHunterskill) can be used for fly fishing, as well. Those feathers work the same as normal feathers, but players will only be able to fishrainbow fish, rather than the usualtroutandsalmon. ThePearl fly fishing rodis cosmetic and not an improvement over the basic fly fishing rod, although it can be equipped which frees up a single inventory slot.
+
+Equipment | Level | Members
+
+ | Fly fishing rod | 20 | 0
+
+ | Pearl fly fishing rod | 20 | 1
+
+Harpoon[edit|edit source]
+
+Harpoonsare required for mid and high levelfish. Harpoons can only be used in the seas. When a player has found afishing spot, they can then use their harpoon if the option "harpoon fishing spot" is available.Swordfishandtunaare caught in cage/harpoon fishing spots, whilesharksare caught in net/harpoon spots.
+
+There are five types of harpoons - the regular harpoon, thebarb-tail harpoon, thedragon harpoon, theinfernal harpoon, and thecrystal harpoon. The dragon harpoon and infernal harpoon both have a 20% faster catch rate than the regular harpoon, and the crystal harpoon has a 35% faster catch rate. The barb-tail harpoon, dragon harpoon, infernal harpoon, and crystal harpoon can all be wielded. Many players prefer these harpoons as it saves aninventoryspace.
+
+After being taught byOtto Godblessed, a player can catch fish that are harpoonable with just their hands. The Fishing level requirement is 20 levels higher and it also requires aStrengthlevel equal to the Fishing level needed to catch the fish normally, but a small amount of strength experience is gained and the player doesn't need a harpoon equipped or in their inventory.
+
+Equipment | Level | Members
+
+ | Harpoon | 35 | 0
+
+ | Barb-tail harpoon | 33 | 1
+
+ | Dragon harpoon | 61 | 1
+
+ | Infernal harpoon | 75 | 1
+
+ | Crystal harpoon | 71 | 1
+
+Lobster Pots[edit|edit source]
+
+Lobstersare caught in the sea by usinglobster pots. When a player has found afishing spot, they can then use their lobster pot if the option "cage fishing spot" is available. This is also true forDark Crabs, with the only difference beingDark Fishing Baitmust also be in a player's inventory.
+
+Equipment | Level | Members
+
+ | Lobster pot | 40 | 0
+
+Cormorant's glove[edit|edit source]
+
+Aerial fishingis a ranged fishing technique at the centre ofLake Molchrequiring 35Hunterand 43Fishing. Players are given aCormorant's glovefor free by talking toAlry the Angler. While equipped theCormoranteatsKing wormsorFish chunks(taken from inventory similar to bait)to fly over the lake's surface, collect and return various unique aquatic creatures to the player. Catches includeBluegill,Common tench,Molted eelandGreater sirenbased on the Fishing and Hunter levels of the player.  A knife can be used on these catches to give Cooking experience and receive fish chunks which makes the process sustainable.
+
+Additional rewards include theMolch pearlcurrency which can be used to purchase thePearl fishing rod,Pearl fly fishing rod,Pearl barbarian rodandFish sack. These are equipable versions of common fishing equipment for additional inventory capacity. Although pearls can also purchase parts of theAngler's outfit, it's a much slower method than the recommendedFishing trawlerminigame.
+
+Equipment | Level | Members
+
+ | Cormorant's glove | 4335 | 1
+
+Drift Nets[edit|edit source]
+
+Drift net fishingis a special fishing method that requires 44Hunterand 47Fishingaccessible after completingBone Voyage. Unlike fishing from a spot on the surface, this occurs in theUnderwaterarea ofFossil Islandwherefish shoalsare chased intoDrift netsset by the player beforehand. Collecting fish shoals from the nets can reward various fish depending on your Fishing level includingtuna,lobster,swordfish,sharksand at higher levels is one of the few methods to catchsea turtlesandmanta rays.
+
+Equipment | Level | Members
+
+ | Drift net | 4744 | 1
+
+Karambwan vessels[edit|edit source]
+
+Karambwan vesselscan be obtained fromLubufusouth ofBrimhavenonce a player has started theTai Bwo Wannai Trioquestand they can be bought fromTiadeche's Karambwan StallinTai Bwo Wannaionce they have completed the quest. Karambwan vessels are loaded withkarambwanji, which are caught from the lake that is near Lubufu.Karambwanare caught at the north-east shore north of theShip Yard.
+
+Equipment | Level | Members
+
+ | Raw karambwanji | 5 | 1
+
+ | Karambwan vessel | 65 | 1
+
+Barbarian Fishing[edit|edit source]
+
+Memberswith at least level 48 in Fishing can speak withOtto Godblessedin hishomenearBaxtorian Fallsto learn specialbarbarian methodsof fishing, Bare Handed Fishing and Heavy Rod Fishing.
+
+Starting at level 55, the player can learn how to fishtuna,harpoonfish,swordfish, andsharkswithout aharpoon. Using this method requires a higher Fishing level as well as a Strength level equivalent to the Fishing level needed to catch the fish normally. However, it provides small amounts of Strength experience. At level 55, players can expect rates of 10,000 Fishing experience per hour, steadily increasing to 13,000 experience per hour at level 69. At level 70, catching both tuna and swordfish nets roughly 24,000 Fishing experience per hour.
+
+Fish | Level | Experience
+
+ |  |  |  | 
+
+ | Raw harpoonfish | 55 | 35 | 8.5 | 10 | 18.5
+
+ | Raw tuna | 55 | 35 | 80 | 8 | 88
+
+ | Raw swordfish | 70 | 50 | 100 | 10 | 110
+
+ | Raw shark | 96 | 76 | 110 | 11 | 121
+
+Starting at level 48, the player can learn how to do heavy rod fishing; this method requires abarbarian rod(found under Otto's bed) and any type of bait (except forstripy/coloured feathers), as well as aknifeto gut the fish. In order to catch the special fish in Otto's lake or atMount Quidamortem, aStrengthandAgilitylevel is needed in addition to the fishing requirement. Theleaping fishobtained can be used with a knife to obtainroeandcaviarfor use in theHerbloreskill, and catching them gives small amounts ofexperiencein Strength and Agility. ThePearl barbarian rodis cosmetic and not an improvement over the basic Barbarian rod, although it can be equipped which frees up a single inventory slot.
+
+Equipment | Level | Members
+
+ | Barbarian rod | 48 | 1
+
+ | Pearl barbarian rod | 48 | 1
+
+Other Equipment[edit|edit source]
+
+Rada's blessing[edit|edit source]
+
+Rada's blessing will give you an extra chance at catching a fish, with no additional experienced granted, starting at 2% for theRada's blessing 1to 8% with theRada's blessing 4.
+
+Equipment | Effect
+
+ | Rada's blessing 1 | Gives a 2% chance at catching an extra fish
+
+ | Rada's blessing 2 | Gives a 4% chance at catching an extra fish
+
+ | Rada's blessing 3 | Gives a 6% chance at catching an extra fish
+
+ | Rada's blessing 4 | Gives an 8% chance at catching an extra fish
+
+Spirit Flakes[edit|edit source]
+
+Spirit flakes give a 50% chance of yielding double catch everywhere excludingTemporossand theRuins of Camdozaal, at the cost of one flake per fish caught (no additional XP is given). This stacks with Rada's blessing.
+
+Equipment | Effect
+
+ | Spirit flakes | 50% chance to double the number of fish caught.
+
+Utility Equipment[edit|edit source]
+
+Equipment | Effect
+
+ | Tiny net | Used to obtain aPet fishfromHarry's Fishing ShopinCatherby
+
+ | Skills necklace | Wearing a skills necklace with at least one charge whilebig netfishing will slightly increase the chance of finding acasket
+
+ | Ice gloves | Allows fishing forinfernal eelsinMor Ul Rek
+
+ | Tackle box | Stores most common fishing supplies and equipment in a single slot
+
+ | Fish barrel | Able to store a combined total of 28 raw fish of many types, effectively doubling inventory capacity
+
+ | Fish sack barrel | Able to store a combined total of 28 raw fish of many types,equipable in cape slot
+
+Underwater Equipment[edit|edit source]
+
+This equipment strongly recommended for accessing theDrift net fishingminigame in theUnderwatersection ofFossil Island
+
+Equipment | Effect
+
+ | Fishbowl helmet | Allows breathing underwater
+
+ | Diving apparatus
+
+ | Flippers | Allow sprinting underwater, improves catch rate whileDrift net fishing
+
+Angler's Outfit[edit|edit source]
+
+Obtained through theFishing trawlerminigame andAerial fishing, pieces of theAngler's outfitgrant a bonus to Fishing XP gained, increasing to 2.5% with the full outfit.
+
+Fishing spots[edit|edit source]
+
+Players may fish at various fishing spots located aroundGielinor, while fishing, the location of afishing spotmay move from one spot to another within the same area, requiring the player to move to continue. The only exceptions to this are select fishing spots located within the wilderness, a single fly fishing spot just south-east of Prifddinas, and Karambwan fishing spots.
+
+Net and bait fishing spots[edit|edit source]
+
+Draynor Village- To the south-west of Draynor Village'sbankare somefishing spots. Here, players cannetandbaitfish. It is a great place to start fishing as there is a bank nearby. However, there are two level 7Dark wizardsthat can be a problem for players under level 15.Mudskipper Point- South ofPort Sarimare two to three fishing spots dotting the western shore of the peninsula, located behind the church and nearThurgo's shack. However, the nearest banks are either Draynor Village orPest Control.Brimhaven- To the south of Brimhaven are some fishing spots. However, these spots are far away from a bank, so if a player wants to deposit their fish, it is recommended to fish at Draynor Village.Corsair Cove- To the south-west of the cove, south of theCorsair Cove Dungeonentrance.Lumbridge Swamp- At the east side of the swamp is theFishing tutor, giving a free small net to players that have lost theirs, and some low-level fishing spots.Al Kharid- There are someshrimpfishing spots south of the Al Kharid bank, approximately as far as the fishing spots in Draynor Village are from the bank. However, thescorpionscan be a problem for people with low levels.Catherby- Along the south-eastern shore. Close to a bank.Entrana- Players cannot bring anyarmourorweaponson Entrana.Isafdar- Could be useful for emergencyfoodsupplies.Piscatoris Fishing Colony- North-west of theGrand Tree, or by using thefairy ringcodeAKQ. Players can use a small net to catchmonkfish, which are exclusive to this area. Piscatoris is only accessible after the completion of theSwan Songquest.Karamjalake - Shrimp andkarambwanji. South ofTai Bwo Wannai.Wilderness Bandit Camp- There is one spot in the level 24Wilderness. There is no bank, andaggressivelevel 22 and 130(members' worlds)Banditsare nearby.Port Piscarilius- Along the north-eastern shore. Very close to a bank.
+
+Lure and bait fishing spots[edit|edit source]
+
+Barbarian Village- On the eastern side of the village is theRiver Lum. In the river are somefishing spotswhere players canlureandbaitfish. Players can bank inSoul Warsbank by using the portal south ofEdgeville.Lumbridge- In the centre of Lumbridge is the River Lum. In the river are some spots where players can lure and bait fish. This used to be an unpopular fishing spot, until the addition ofLumbridge Castle's bank.BetweenSeers' VillageandSinclair MansionEntrana- Players cannot bring anyarmourorweaponson Entrana.Tree Gnome StrongholdShilo Village- Completion of theShilo Villagequestis required for entry into the village. These locations are quite close to a bank.Observatory- Not too far north ofCastle Wars.Hosidius- Along the river north-west of Hosidius, and just to the east of the city kitchen task, where there is a bank chest.Water Ravine Dungeon- Unpopular spot due to distance from bank, need forAncestral keyandRobes of elidinisto access, and partial completion ofSpirits of the Elidquest.North ofWest Ardougne, nearRasolo.Note:Troutandsalmoncan be sold to Rasolo for 2 and 5coinsrespectively.
+
+Big net fishing spots[edit|edit source]
+
+Catherby- Along the south-eastern shore. Close to abank.Fishing Guild- Requires 68 Fishing. Very close to a bank.RellekkaBurgh de RottLand's EndApe Atoll
+
+Harpoon & Lobster Pot fishing spots[edit|edit source]
+
+Karamja- BehindLuthas'bananaplantation on the northern part of the island is a small dock that hasfishing spotswhere players canharpoon,cage, ornetfish. Unfortunately, abankis very far away, and players have to pay 30coinsto go to the island and 30 coins to leave the island, but there is abank deposit boxon the dock inPort Sarim. This place is rarely used by members, as better areas are available.Corsair Cove Resource Area- North of theMyths' Guild. Requires completion ofDragon Slayer Ito access.Wilderness- At level 35 to 38 in the Wilderness are some harpoon and cage fishing spots in the waters at the eastern edge.Raw Dark Crabscan be fished off the north-eastern coast, south of the fence containing themembers-onlydeep wilderness. However, players risk being attacked by other players here, and a bank is very far away.Resource Area- Thismembers-onlylocation containsDark Crabfishing spots where a player can fish as long as they please as they can note their resources, viaPilesfor 50 coins per item noted. The fastest way to the location is theEdgeville Teleport Lever. Note that a player must spend anywhere from 7,500 coins to 3,750 coins without completion of theWilderness Diaryto gain entry to the area. Note that fishing here may place players in potentially dangerousPvPscenarios.Catherby- Along the south-eastern shore. Close to a bank.Rellekka- Very useful if fighting in the area due to the lack of bank.Fishing Guild- Requires 68 Fishing. Very close to a bank.Piscatoris Fishing Colony- Here players can net and harpoon fish after the completion of theSwan Songquest.Burgh de Rott-Sharksonly.Iorwerth Camp- Sharks only, good area if you are fighting, otherwise, it is far from a bank.Jatizso-Lobster,swordfish, sharks and close to bank. Requires completion ofThe Fremennik Trials.
+
+Other fishing spots[edit|edit source]
+
+These generally are one specific place for one specific type of fishing.
+
+Lumbridge Swamp Caves,Dorgesh-Kaan South Dungeon,Mort Myre Swamp, and south of Mort Myre -Baitfishing forslimy eelsandcave eels.Lumbridge Swamp Caves, and Dorgesh-Kaan South Dungeon -Netfishing forfrog spawn.Taverley Dungeon- Bait fishing using special equipment forlava eels. Only available after startingHeroes' Quest.Piscatoris Fishing Colony- Here, players can net fish formonkfishafter the completion of theSwan Songquest. The bank is very close. Also has harpoon fishing fortunaandswordfish.North of the eastKaramjaisland -Karambwanfishing.Port Khazard-Trawlerfishing.ScapeRune- Here, players can net fish cooked fish and uncook them in the uncooking pot. This is part of theEvil Bobrandom event.Zul-Andra- Bait fishing forsacred eels. Requires starting theRegicidequest.Mor Ul Rek- Bait fishing using an oily fishing rod and bait while wearing ice gloves are required to catchinfernal eel. Can only be caught once a player has proven themselves worthy enough to enter the city by showing a TzHaar guard guarding the entrance a fire capeLake Molch-Aerial fishingusing a Cormorant to catch fish from fishing pools that move every 7–12 seconds.Fishing Guildplatform -Minnowscan be caught in Kylie Minnow's fishing platform with a small net. They can be exchanged for noted raw sharks.Port Piscarilius-Anglerfishcan be caught along the north-western shore; this location is very close to a bank.
+
+Static Fishing Spots[edit|edit source]
+
+Due to engine features some locations end up with fishing spots that cannot move or move at reduced rates compared to other locations. This can be desirable for AFK / minimal effort fishing.
+
+Cage / Harpoon(Raw lobster,Raw tuna,Raw swordfish)Isle of Souls: North-East side of the island. Use fairy ring BJPFour static fishing spots that do not move.Harpoon / Net(Raw shark,Raw bass, ect)Isle of Souls: South-East side of the island.Five potential fishing locations but 4 fishing spots are fighting over them. Each spot moves approximately 75% less often than other locations. Use Soul wars bank.Fishing spot (karambwan)South ofMusa Point, Use fairy ring DKPMost well known static fishing location.
+
+Fishing Trawler[edit|edit source]
+
+Fishing Trawleris a Fishingminigamefound atPort Khazard. Level 15 Fishing is required to receivefishat the end of the trip. World 370 is theOld School RuneScapedesignated Fishing Trawler world. It can be overwhelming for a single player, so it is recommended to participate in a group.
+
+Players boardMurphy's trawler boat and work as a team to protect the boat from hazards and prevent it from sinking for five minutes as they sail across the oceans. Holes in the ship, flooding, sea monsters, and broken netting are all hazards players must overcome to keep afloat. Failing these tasks may shipwreck players and force them to swim back to shore.
+
+If the trawler net is not ripped at the end of the trip, players may receivefishbased on their Fishing level. This is one of the few methods in which you can catchsea turtlesandmanta rays. There is a 1/12 chance to receive a piece of theAngler's outfitafter a successful trip. This outfit increases Fishing experience gain and allows access to special fishing areas.
+
+ItemXP BonusAngler hat0.4%Angler top0.8%Angler waders0.6%Angler boots0.2%Sub-total2%Set bonus0.5%Full set2.5% | Item | XP Bonus |  | Angler hat | 0.4% |  | Angler top | 0.8% |  | Angler waders | 0.6% |  | Angler boots | 0.2% | Sub-total | 2% | Set bonus | 0.5% | Full set | 2.5%
+
+Item | XP Bonus
+
+ | Angler hat | 0.4%
+
+ | Angler top | 0.8%
+
+ | Angler waders | 0.6%
+
+ | Angler boots | 0.2%
+
+Sub-total | 2%
+
+Set bonus | 0.5%
+
+Full set | 2.5%
+
+Tempoross[edit|edit source]
+
+Temporossis a Fishing-based skilling boss found at theRuins of Unkah. Players need at least level 35 Fishing to participate. World 341, 422, 463, and 531 are theOld School RuneScapedesignated Tempoross worlds.
+
+Players board the boat on the dock and sail toTempoross Coveto help theSpirit Anglerssubdue Tempoross. As a skilling boss, players use Fishing to catchharpoonfishas ammunition, firing them out of cannons to weaken Tempoross while avoiding various special attacks. When Tempoross is weak enough it'll submerge and can be damaged directly by harpooning the pools near him. Players must be careful not to let Tempoross get too enraged as it'll wash them off the island.
+
+Defeating Tempoross will grant Fishing experience and reward permits based on participation. These permits allow you to fish at thereward poolfor a chance at many unique or high-quality fishing items in addition tofishbased on your Fishing level. This is one of the few methods to gathersea turtlesandmanta rays. Other rewards include the covetedfish barrel, thetackle box, or the components to upgrade theAngler's outfitinto theSpirit angler's outfit.
+
+ItemXP BonusSpirit angler headband0.4%Spirit angler top0.8%Spirit angler waders0.6%Spirit angler boots0.2%Sub-total2%Set bonus0.5%Full set2.5% | Item | XP Bonus |  | Spirit angler headband | 0.4% |  | Spirit angler top | 0.8% |  | Spirit angler waders | 0.6% |  | Spirit angler boots | 0.2% | Sub-total | 2% | Set bonus | 0.5% | Full set | 2.5%
+
+Item | XP Bonus
+
+ | Spirit angler headband | 0.4%
+
+ | Spirit angler top | 0.8%
+
+ | Spirit angler waders | 0.6%
+
+ | Spirit angler boots | 0.2%
+
+Sub-total | 2%
+
+Set bonus | 0.5%
+
+Full set | 2.5%
+
+Fishing pets[edit|edit source]
+
+TheHeronis a members-only skillingpetthat can be obtained while trainingFishing. The chances of getting it are dependent on the player's Fishing level, and the time it takes to gather a resource.Atiny tempormay be obtained by fishing it from thereward pooloutside theRuins of Unkahafter defeating theTempoross.
+
+Temporary boosts[edit|edit source]
+
+Boost | Levelincrease | Visibility | Other info
+
+ | Fishing cape | 1 | Visible | Provides unlimited teleports to theFishing GuildandOtto's Grotto.
+
+ | Dragon harpoon | 3 | Visible | Special attack, consumes 100% of the player's special attack energy. Requires 60Attackto wield.
+
+ | Infernal harpoon | 3 | Visible | Special attack, consumes 100% of the player's special attack energy. Requires 60 Attack to wield.Requires 75Fishingand 85Cookingto create.
+
+ | Crystal harpoon | 3 | Visible | Special attack, consumes 100% of the player's special attack energy. Requires 70 Attack and 50Agilityto wield.
+
+ | Fishing potion | 3 | Visible | N/A
+
+ | Fishing mix | 3 | Visible | Hitpoints6 per dose.RequiresBarbarian training.
+
+ | Fish pie | 3 | Visible | Hitpoints6 per bite.
+
+ | Admiral pie | 5 | Visible | Hitpoints8 per bite.
+
+ | Spicy stew(brown spice) | ±0-5 | Visible | Hitpoints11Depending on type of stew, any skill exceptHitpointscan be boosted or reduced by 0 to 5 levels randomly.
+
+ | Fishing Guild | 7 | Invisible | The boost takes effect while player is within the Fishing Guild.Stacks with visible boosts. Does not allow you to catch fish you would otherwise not be able to catch (e.g. 69 Fishing does not allow you to catchsharks).
+
+Quests[edit|edit source]
+
+Quests requiring Fishing[edit|edit source]
+
+Quest | Fishingrequirement | Other skill requirements
+
+Tai Bwo Wannai Trio | 5 | 15,30,65if catching your own Karambwan
+
+Fishing Contest | 10 | -
+
+Perilous Moons | 20 | 10,20,20,48
+
+Land of the Goblins | 40 | 38,45,48
+
+Rum Deal | 50 | 42,40,47,42
+
+Heroes' Quest | 53 | 53,25,50
+
+The Fremennik Exiles | 60 | 65,60,60,55
+
+Swan Song | 62 | 66,62,45,42,40
+
+Quests rewarding Fishing experience[edit|edit source]
+
+Quest | Experiencereward | Fishingrequirement | Other requirements
+
+Recipe for Disaster(Freeing Pirate Pete) | 1,000 | - | 31
+
+Fishing Contest | 2,437 | 10 | -
+
+Heroes' Quest | 2,725 | 53 | 55,53,25,50
+
+The Fremennik Trials | 2,812.4 | - | 25,40,40if crafting your own lyre
+
+Perilous Moons | 5,000 | 20 | 10,20,20,48
+
+Tai Bwo Wannai Trio | 5,000 | 5 | 15,30,65if catching your own Karambwan
+
+Rum Deal | 7,000 | 50 | 42,40,47,42
+
+Sea Slug | 7,175 | - | 30
+
+Land of the Goblins | 8,000 | 40 | 38,45,48
+
+Swan Song | 50,000 | 62 | 100,66,62,45,42,40
+
+Total | 91,149.4 | 
+
+Skill choice[edit|edit source]
+
+Upon completing any of the following quests, players may choose to allocate experience to Fishing. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.
+
+Quest | Experiencereward | Skills available | Skill requirements
+
+X Marks the Spot | 300 | Any | None
+
+Client of Kourend | 500 twice | Any | None
+
+Fairytale II - Cure a Queen | 2,500 | Any skill above 30 | 49,57
+
+A Tail of Two Cats | 2,500 twice | Any skill above 30 | None
+
+The Great Brain Robbery | 5,000 | Any skill above 30 | 16,30,50
+
+King's Ransom | 5,000 | Any skill above 50 | 65
+
+Darkness of Hallowvale | 2,000 three times | Any skill above 30 | 5,20,22,32,33,40
+
+A Taste of Hope | 2,500 three times | Any skill above 35 | 48,40,40,45,38
+
+A Kingdom Divided | 10,000 twice | Any skill above 40 | 54,52,52,50,42,38,35
+
+In Search of Knowledge(miniquest) | 10,000 | Any skill above 40 | None
+
+Curse of the Empty Lord(miniquest) | 10,000 | Any skill above 50 | Some players will need31
+
+One Small Favour | 10,000 twice | Any skill above 30 | 36,25,18,30
+
+Recipe for Disaster(The final battle) | 20,000 | Any skill above 50 | 175,70,48,50,53,53,25,59,40,50,40,40,10,10,36
+
+Sins of the Father | 15,000 six times | Any skill above 60 | 62,60,56,52,50,50,49
+
+Total | 202,300 | 
+
+Level up messages[edit|edit source]
+
+This article on a skill has an associated transcript page for level up messages.Click herefor the transcript.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+11 November2020(update) | Players can no longer be dragged randomly if they spam click a Fishing spot before it moves.
+
+14 October2020(update) | The in-game skill guide has been reorganised; the "Catches" tab was split apart to specific types of fishing, ex. "Big Net", "Rod", "Aerial", etc.
+
+19 March2015(update) | You can now catch fish with a full inventory if one inventory space would become available from the bait consumed.
+
+11 September2014(update) | You no longer encounter the river troll, big fish, and whirlpool random events while fishing.
+
+See also[edit|edit source]
+
+Fishing/Experience table, a list of all Fishing experience sourcesFishing/Level up table, a list of all requirements and unlockables within the Fishing skill
+
+v•t•eSkills
+
+Combat | AttackStrengthDefenceRangedPrayerMagicHitpoints
+
+Gathering | FarmingFishingHunterMiningWoodcutting
+
+Production | CookingCraftingFletchingHerbloreRunecraftSmithing
+
+Utility | AgilityConstructionFiremakingSlayerThieving
+
+Proposed skills | In developmentSailingPreviously proposedArtisanSailing (2015)WardingTamingShamanism | In development | Sailing | Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+In development | Sailing
+
+Previously proposed | ArtisanSailing (2015)WardingTamingShamanism
+
+Related | ExperienceSkill mastery200 million experienceSummoning

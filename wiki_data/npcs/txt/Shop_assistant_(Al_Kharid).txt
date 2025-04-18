@@ -1,0 +1,2 @@
+Item: Shop assistant (Al Kharid)
+Summary: The Shop assistant helps the Shop keeper run the Al Kharid General Store.

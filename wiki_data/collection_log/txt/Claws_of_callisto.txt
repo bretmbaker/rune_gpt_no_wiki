@@ -1,0 +1,5 @@
+Item: Claws of callisto
+Summary: The claws of Callisto are an item dropped by Callisto. They are used to upgrade Viggora's chainmace into an ursine chainmace. This process requires level 85 Smithing; players without the required level to combine the items may ask Andros Mai in Ferox Enclave to do so instead, for a fee of 500,000 coins. The uncharged weapon may be dismantled to separate the chainmace and claws.
+Sources:
+- Artio (Level 320, Quantity: 1, Rarity: 1/618)
+- Callisto (Level 470, Quantity: 1, Rarity: 1/196)

@@ -1,0 +1,84 @@
+[Minigame: Zeal_Tokens]
+
+Zeal Tokens
+
+
+
+Released | 6 January2021(Update)
+
+Also called | Zeal
+
+Members | Yes
+
+
+
+Zeal Tokensare the reward currency from playingSoul Wars. Players on the losing team can get up to 40 zeal, players on the winning team can get up to 60 zeal. In the case of a draw players can get up to 50 zeal. The points can be exchanged atNomadfor various rewards.
+
+Players are awarded zeal points for following tasks:
+
+Killing players - the amount of Zeal given is dependent on how strong the opponent is, and killing the same player multiple times will have lower Zeal returns over time.Buryingbones- players can bury bones until their Avatar has 100% damage reduction.Sacrificingsoul fragments- players can sacrifice soul fragments until the opposing team's Avatar has 0% damage reduction.Dealing damage to the opposing team's Avatar.Capturing graveyards or theSoul Obelisk.
+
+Rewards[edit|edit source]
+
+Item | Pricesold at | Pricebought at | GEprice
+
+ | Soul cape | 2500 | N/A | Not sold
+
+ | Ectoplasmator | 250 | N/A | Not sold
+
+ | Spoils of war | 30 | N/A | Not sold
+
+ | Blighted entangle sack (x70) | 10 | N/A | 58
+
+ | Blighted teleport sack (x50) | 10 | N/A | 83
+
+ | Blighted vengeance sack (x50) | 10 | N/A | 215
+
+ | Blighted ancient ice sack (x30) | 10 | N/A | 716
+
+ | Blighted manta ray (x15) | 10 | N/A | 762
+
+ | Blighted anglerfish (x15) | 10 | N/A | 460
+
+ | Blighted karambwan (x15) | 10 | N/A | 178
+
+ | Blighted super restore(4) (x4) | 10 | N/A | 5,093
+
+Upgrades[edit|edit source]
+
+A player can imbue certain items with Zeal Tokens. Imbuing an item provides bonuses and appends an (i) to the item name.
+
+Imbues from theNightmare Zoneare also available here. However, players who imbued their items at the Nightmare Zone cannot un-imbue their items for Zeal Tokens. For the purposes of imbuing, each Zeal Token is equivalent to 2500 Nightmare Zone points. The cost of imbuing is halved after completion of theHard Combat Achievements.
+
+Imbuing an item provides extra bonuses and appends an(i)suffix to the item's name. Imbued items can be un-imbued, which removes the bonuses from the item and refunds 100% of the reward points used to imbue it.
+
+Imbuing all available items would require a total of 3,950 reward points.
+
+Item | Imbued Bonuses | Tokens required
+
+ | Black mask(imbued)[c 1] | 15% bonus to Magic accuracy and damage on slayer tasks.15% bonus to Ranged accuracy and strength on slayer tasks.+0 Magic and Ranged attack bonuses instead of negative bonuses. | 500
+
+ | Slayer helmet(imbued) | 15% bonus to Magic accuracy and damage on slayer tasks.15% bonus to Ranged accuracy and strength on slayer tasks.+3 instead of -6 Magic attack bonus.+3 instead of -2 Ranged attack bonus.+10 instead of -1 Magic defence bonus. | 500
+
+ | Salve amulet(imbued)[c 2] | 15% bonus to Magic accuracy and damage against undead monsters.16.66% bonus to Ranged accuracy and strength against undead monsters. | 320
+
+ | Salve amulet (e)(imbued)[c 2] | 20% bonus to Magic accuracy and damage against undead monsters.20% bonus to Ranged accuracy and strength against undead monsters. | 320
+
+ | Ring of the gods(imbued) | +4 Prayer bonus and gives the effect of theHoly wrenchwhen equipped. | 260[c 3]
+
+ | Ring of suffering(imbued) | Doubles equipment bonuses. | 300
+
+ | Berserker ring(imbued) | Doubles equipment bonuses. | 260
+
+ | Warrior ring(imbued) | Doubles equipment bonuses. | 260
+
+ | Archers ring(imbued) | Doubles equipment bonuses. | 260
+
+ | Seers ring(imbued) | Doubles equipment bonuses. | 260
+
+ | Tyrannical ring(imbued) | Doubles equipment bonuses. | 260
+
+ | Treasonous ring(imbued) | Doubles equipment bonuses. | 260
+
+ | Granite ring(imbued) | Doubles equipment bonuses. | 200
+

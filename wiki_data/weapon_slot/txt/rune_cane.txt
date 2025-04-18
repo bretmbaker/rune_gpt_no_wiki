@@ -1,0 +1,62 @@
+[Weapon: Rune Cane]
+
+
+Therune caneis obtained as a reward fromhardTreasure Trails. As with standardrune equipment, level 40Attackis needed to equip this item. It is not used often as aweaponas it has the same stats as arune macewith a 1-tickslowerattack speed.
+Rune canescannotbe made by players. This cane is topped with a cutdragonstonegem.
+
+
+[Infobox]
+Released: 12 June2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A dragonstone topped cane.
+General Store Value: 14,400 coins
+High alch: 8,640 coins
+Low alch: 5,760 coins
+Weight: 1.814 kg
+Grand Exchange Value: 8,091 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 44
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +20
+- Slash: -2
+- Crush: +39
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +36
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +4
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (hard) | N/A | 1 | 1/1,625 | 

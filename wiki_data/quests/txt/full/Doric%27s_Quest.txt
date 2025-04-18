@@ -1,0 +1,99 @@
+ | This quest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Doric's Quest (#11)
+
+
+
+
+
+Released | 6 April 2001 ( Update )
+
+Members | No
+
+Quest series | None
+
+Lead developer(s) | Rob Law
+
+
+
+Doric's Quest is a quest involving Doric the dwarf, who is happy to let the player use his anvils but first requests an errand.
+
+Details [ edit | edit source ]
+
+Start point | Speak to Doric in the small house north of Falador , just outside the east gate of Taverley . Show on map
+
+Official difficulty | Novice
+
+Official length | Very Short
+
+Description | Doric the dwarf is happy to let you use his anvils but first he would like you to run an errand for him.
+
+Requirements | None
+
+Items required | 6 clay (not soft clay ) 4 copper ores 2 iron ores
+
+Recommended | Pickaxe and 15 Mining ( boostable ) if you wish to mine the ores yourself ( bronze pickaxe obtained during the quest)
+
+Enemies to defeat | None
+
+Ironman concerns | 15 Mining ( boostable ) , OR The ability to kill monsters such as Flesh Crawlers , Mind / Body Golems , or other monsters for their iron ore drops.
+
+League notes | Asgarnia ✓ — location requirement Unlocking Desert ✓ will auto-complete the quest Unlocking Fremennik ✓ will auto-complete the quest
+
+Walkthrough [ edit | edit source ]
+
+Getting started [ edit | edit source ]
+
+Doric can be found in a small building on the crossroads north of Falador , east of the Taverley gate, and south of the Goblin Village .
+
+Ask Doric if you could use his whetstone or anvil . Doric will tell you he needs some materials in order to manufacture some pickaxes . He will hand you a bronze pickaxe . He wants you to get him:
+
+6 clay 4 copper ores 2 iron ores
+
+( These cannot be noted )
+
+These materials must be turned in all at once (12 inventory slots) .
+
+Obtaining the materials [ edit | edit source ]
+
+(Skip this part if you already have all of the required materials)
+
+Where you obtain the ores does not matter, and can for example be obtained from other players or by mining the ores yourself (15 Mining is required for iron ore ).
+
+The Dwarven Mine is located near Doric's house, so you can head there. To get there, go east from Doric's house and then north to find a path onto Ice Mountain . On the mountain, walk south and look for a ladder surrounded by buildings and dwarves . Climb down the ladder to enter the Dwarven Mine. The iron , copper , and tin rocks are located due south of the entrance. Clay rocks are located a little further south.
+
+Dwarves located outside the Dwarven Mine , east of Doric's house, sometimes drop iron ore . This may help Ironmen trying to complete this quest before level 15 Mining . Members can buy the copper ores and iron ores at the store in Blast Furnace . Ironmen can also complete the quest before reaching level 15 Mining by pickpocketing H.A.M members as they have an uncommon chance to give Iron ore . Also you can kill for example Sand or Rock Crabs which drop both copper and iron.
+
+Alternatively, instead of mining in the Dwarven Mine, you can use the Rimmington mine south of Falador, which contains all the required ores right next to each other.
+
+Finishing up [ edit | edit source ]
+
+When you have all the ores needed, return to Doric to finish the quest. He will appreciate your help, reward you, and allow you to use his anvils whenever you'd like.
+
+Rewards [ edit | edit source ]
+
+1 Quest point 1,300 Mining experience 180 coins The ability to use Doric 's anvils Bronze pickaxe given at the start of the quest
+
+Required for completing [ edit | edit source ]
+
+Completion of Doric's Quest is required for the following:
+
+Devious Minds Falador Diary (Easy)
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+Trivia [ edit | edit source ]
+
+If you were to do the quest with 1 Mining , the 1,300 Mining experience reward from the quest is enough to get you straight to 10 Mining. Beginning the quest with the required materials already in hand brings up dialogue about what a coincidence that is. Player: You know, it's funny you should require those exact things! Doric: What do you mean? Player: I can usually fit 28 things in my backpack and in a world full of quite literally limitless possibilities, a complete coincidence has occurred! Doric: I don't quite understand what you're saying? Player: Well, out of pure coincidence, despite definitely not knowing what you were about to request, I just so happened to have carried those exact items! (If the player is holding exactly 6 clay, 4 copper ore, and 2 iron ore) . Player: In fact, in the exact quantities too! Doric: Oh my, that is a coincidence! Pass them here, please. I can spare you some coins for your trouble, and please use my anvils any time you want.
+
+v • t • e Doric's Quest
+
+NPCs | Doric
+
+Items | Clay Copper ore Iron ore
+
+Locations | Doric's hut
+
+Related | Quick guide Transcript

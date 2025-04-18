@@ -1,0 +1,109 @@
+ | This miniquest has a quick guide . It briefly summarises the steps needed to complete the quest.
+
+Mage Arena I
+
+
+
+
+
+Released | 22 September 2003 ( Update )
+
+Members | Yes
+
+Quest series | None
+
+Developer(s) | Unknown ( edit )
+
+
+
+Mage Arena I is a miniquest in which the player tests their mettle with a shapeshifting wizard. Players with level 60 Magic may begin the miniquest by speaking to Kolodion in the Mage Arena .
+
+Details [ edit | edit source ]
+
+Start point | Speak to Kolodion at the Mage Arena bank located in level 53 Wilderness . Show on map
+
+Official difficulty | Experienced
+
+Official length | Short
+
+Description | Unknown edit
+
+Requirements | 60 Magic ( not boostable ) ( required to start )
+
+Items required | Runes or a powered staff to fight Kolodion Something to cut webs ( knife , slash weapon or any Wilderness sword )
+
+Recommended | 55 Combat level Prayer Potions Food
+
+Enemies to defeat | Kolodion in the form of a Black Demon (level 112)
+
+Ironman concerns | Warning: This quest requires travel to the deep, level 56 Wilderness . Caution must be taken not only getting to the arena but also during the miniquest . Player-killers are able to attack you while you are doing the minigame fight.
+
+League notes | Wilderness ✓ - location requirement
+
+Walkthrough [ edit | edit source ]
+
+Getting there [ edit | edit source ]
+
+Head out into level 56 Wilderness to start, but watch out for player-killers. The arena has a bank, so there is no need to bring any equipment besides a knife , sword , or other slashing weapon. The quickest way to get there is by use of the lever in the ruins of Edgeville or in the small building near the gate to West Ardougne . Pulling either of these levers will teleport you to the Deserted Keep , a small island surrounded by lava in level 54 Wilderness. From there, run north, slash the web with your knife , sword , or other slashing weapon, and then proceed west a short distance to the northern entrance of the Mage Arena .
+
+North-west of the actual Mage Arena is a little broken down house. Use a knife or a weapon which has the ' slash ' attack style to cut down the webs in the house. Once the two webs have been cut, pull the lever on the wall of the house to be teleported into a small cave. While you are in this first room, you are completely safe from PKers . In here is a rune store , a bank , and Kolodion , the non-player character who must be talked to in order to start the Mage Arena miniquest. Kolodion will also be fought during the miniquest, so just talk to him to begin. After a long dialogue, you will fight him.
+
+Battling Kolodion [ edit | edit source ]
+
+Kolodion changes form as the fight progresses. At the start, he appears in the form you see him when you speak to him. He can only be damaged using Magic . After defeating this form, he transforms into an ogre -type creature. Despite being in Melee range, this form and all forms afterwards are magic-based, so the Protect from Magic prayer will make you invulnerable to all of his attacks. The next form is a giant frost spider , then a ghost , then finally a level 112 black demon .
+
+For all of these battles, it is recommended to use the strongest spell you have the level for. As each form changes, the Hitpoints of the form increases. With the Protect from Magic Prayer or decent food , the battles are fairly easy to win. At level 70+ Magic, only around 100 casts of blast or wave spells are needed to defeat all five of Kolodion's forms. Iban Blast is also a viable option as its power allows for Kolodion's defeat in as few as 50 casts, even at level 60 Magic wearing only Mystic robes .
+
+You can exit the fight at any time by running out of the arena and pulling the lever to the north. Kolodion will be in the form you left off at when you return.
+
+You may also use a powered staff for this fight, avoiding the need to bring runes with you.
+
+Reward [ edit | edit source ]
+
+Once Kolodion is defeated, the mini quest ends and players will be teleported out of the arena, and Kolodion will congratulate them on a fight well fought. He will then ask players to choose their God . To do this, head into the nearby 'Sparkling pool' and you will come out near a staff merchant. Head past him into the room with the three god statues. Now, choose your god and pray at the relevant statue. Players will then receive one of the god capes , determined by which god is prayed to. After receiving the cape, head back south and speak to the chamber guardian to receive one of the god staves which will be the matching partner to the cape.
+
+Note: Players can receive multiple god capes of the same or different variant, either now or later, by praying again at the relevant statue.
+
+To unlock the god spells and use them outside of the arena, they must be cast 100 times inside the arena ( You can enter the arena using the lever on the north side of the arena ).  The best method would be to only bring 100 casts of the spell you want to unlock, together with some prayer potions for Protect from Magic or cheap food like wines . As for equipment, bring the god staff of the spell of your choosing, wear either cheap/replaceable prayer items to pray Protect from Magic longer, or black d'hide armour to have cheap high magic defence, should you choose to tank them with food, rather than praying. You do not need to deal damage with the spell, only cast it 100 times, so the d'hide armour is a very cheap high-defence choice. Check your items lost on death screen to make sure you aren't bringing more than necessary.
+
+Note: PK Skull Prevention is useful here as Player Killers are able to dress up as a Saradomin mages and hop worlds in order to skull-trick players into losing all of their items. Also note, due to having to cast the spells manually, hiding the attack option won't prevent getting tricked. To avoid getting skull-tricked, you can wield the Void Knight Mace , Staff of the Dead or Staff of Light to auto-cast their respective spells.
+
+To obtain other god staves to cast other god spells outside the arena, talk to the Chamber guardian (who will charge 80,000 coins per staff) and then cast the other spell 100 times in the arena.
+
+God staves cannot be wielded with the cape of another god; for example, the Saradomin cape may not be worn while wielding a Guthix staff . The capes are required to cast the Charge spell at level 80+ Magic, and can be changed by praying at the desired god's statue.
+
+Spell | Blood runes | Air runes | Fire runes
+
+Saradomin Strike | 200 | 400 | 200
+
+Claws of Guthix | 200 | 400 | 100
+
+Flames of Zamorak | 200 | 100 | 400
+
+Total | 600 | 900 | 700
+
+Required for completing [ edit | edit source ]
+
+Completion of Mage Arena I is required for the following:
+
+Mage Arena II Wilderness Hard Diary
+
+Transcript [ edit | edit source ]
+
+This article on a quest has an associated dialogue page. Click here for a transcript of possible conversations encountered throughout the quest.
+
+v • t • e Mage Arena I
+
+NPCs | Kolodion Chamber guardian Battle mage
+
+God staves | Guthix Saradomin Zamorak
+
+God capes | Guthix ( max ) Saradomin ( max ) Zamorak ( max )
+
+God spells | Claws of Guthix Saradomin Strike Flames of Zamorak Charge
+
+v • t • e Miniquests
+
+ | Alfred Grimhand's Barcrawl Architectural Alliance (removed) Barbarian Training Bear Your Soul Curse of the Empty Lord Daddy's Home The Enchanted Key Enter the Abyss Family Pest The Frozen Door The General's Shadow His Faithful Servants Hopespear's Will In Search of Knowledge Into the Tombs Lair of Tarn Razorlor Mage Arena I Mage Arena II Skippy and the Mogres
+
+Unofficial miniquests | Tutorial Island Natural history quiz Restoring the Sacred Bone Burner Knight Waves Training Grounds Rogue Trader Obtaining the ancient key

@@ -1,0 +1,63 @@
+[Weapon: Graceful Boots#Worn]
+
+
+Graceful bootsare a part of thegraceful outfit, costing 40marks of gracefromGracein theRogues' Den. When worn, they reduceweightby 4 kg and increase therun energyrestoration rate by 3%; this is increased to 30% when the full outfit is worn.
+Although theboots of lightnessare easily obtained and reduce weight by 4.5 kg (compared to 4 kg of the Graceful boots), the Graceful boots are needed for the full outfit's effect, which increases the run energy restore rate by 30%. With this in mind, it is most practical to buy the bootslastif buying pieces of the Graceful clothing set one-by-one.
+
+
+[Infobox]
+Released: 5 December2013(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: For your graceful feet.
+General Store Value: 40 coins
+High alch: 24 coins
+Low alch: 16 coins
+Weight: 0.4 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyss/Strategies(Graceful)
+1 | Abyss/Strategies(Defence)
+1 | Blast mine/Strategies
+1 | Chompy bird hunting/Strategy
+2 | Chompy bird hunting/Strategy
+1 | Fishing Trawler/Strategies
+3 | Guardians of the Rift/Strategies(Runecrafting)
+1 | Hallowed Sepulchre/Strategies(Agility)
+1 | Sorceress's Garden
+2 | Sulliuscep/Strategies
+1 | Volcanic Mine(Solo)
+1 | Wintertodt/Strategies(Solo)
+2 | Zalcano/Strategies(Mining)

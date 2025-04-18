@@ -1,0 +1,47 @@
+[Weapon: Ornate Top]
+
+
+Theornate topis obtained from completing a clue during theCrack the Clue IIevent. It is part of theornate armourset, and is obtainable only once if you already have it in your inventory or bank. If you happen to accidentally destroy it, you will need to discover it again. Its bonuses are equal to those of aniron chainbody.
+In order to (re)obtain the top, the player must perform theShrugandCheeremotesin succession east of theBlack Knights' Fortress.
+
+
+[Infobox]
+Released: 21 February2019(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You will have to discover it again.
+Examine: An ornate armoured top.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 11.339 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -15
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +10
+- Slash: +15
+- Crush: +19
+- Magic: -3
+- Ranged: +12
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

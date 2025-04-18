@@ -1,0 +1,2 @@
+Item: Lurgon
+Summary: Lurgon is the market overseer in Dorgesh-Kaan who runs Dorgesh-Kaan General Supplies. He informs the player about the Dorgesh-Kaan market trading minigame. Lurgon will estimate the price of food used on him that the gourmets will pay. He also mentions which council member will grant the player permission to participate in the trading.

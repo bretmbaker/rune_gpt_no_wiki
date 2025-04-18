@@ -1,0 +1,55 @@
+[Weapon: Steel Bolts#Unpoisoned]
+
+
+Steel boltsare the fourth available bolt, just afteriron boltsand beforemithril bolts. Steel bolts may be shot from a steel crossbow or better. As with mostbolts, they can bepoisoned, however this will prevent the addition ofbolt tips.
+Steel bolts may be smithed by first makingsteel bolts(unf). This requires aSmithinglevel of 33 and asteel bar. Each bar will make 10 unfinished steel bolts and grant 37.5 Smithingexperience. Attaching feathers to each bolt requires a Fletching level of 46, and will grant 3.5 Fletching experience per bolt. At 48Fletching,red topaz bolt tipscan be attached to createred topaz bolts.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Steel crossbow bolts.
+General Store Value: 8 coins
+High alch: 4 coins
+Low alch: 3 coins
+Weight: 0 kg
+Grand Exchange Value: 62 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 149,135
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +64
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Sorebones | 57 | 2–12 | 3/128 | 
+Zombie pirate (Harmony Island) | 57 | 2–12 | 3/128 | 

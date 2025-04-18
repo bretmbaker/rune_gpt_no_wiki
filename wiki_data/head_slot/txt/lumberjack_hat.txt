@@ -1,0 +1,51 @@
+[Weapon: Lumberjack Hat]
+
+
+Thelumberjack hatis a part of thelumberjack clothingset that can be purchased from theForestry Shopfor 1,200anima-infused bark, 200 notedyew logs, and 100 notedmagic logs. These logs can be bought on theGrand Exchangefor158,800. It is also dropped byundead lumberjacksin theTemple Trekkingminigame. It increases experience by 0.4% whenWoodcutting. This is increased to +2.5% when wearing the whole set. It is the only piece of the lumberjack outfit that counts aswarm clothingwhen fighting theWintertodt.[1]
+It can be stored in theForestry kitwith aClothes pouch.
+
+
+[Infobox]
+Released: 13 March2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: You'll certainly be alright wearing this.
+General Store Value: 50 coins
+High alch: 30 coins
+Low alch: 20 coins
+Weight: 0.453 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Undead Lumberjack | 30–70 | 1 | 1/4 | 

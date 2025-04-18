@@ -1,0 +1,5 @@
+Item: Eldritch orb
+Summary: The eldritch orb is an item obtained as a rare drop from The Nightmare. It can be used on a nightmare staff to upgrade it to the eldritch nightmare staff.
+Sources:
+- The Nightmare (Level 814, Quantity: 1, Rarity: 1/960–1/548.7)
+- Phosani's Nightmare (Level 1024, Quantity: 1, Rarity: 1/1,600)

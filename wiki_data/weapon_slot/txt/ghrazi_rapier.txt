@@ -1,0 +1,126 @@
+[Weapon: Ghrazi Rapier]
+
+
+TheGhrazi rapieris a one-handedstab weaponobtainable as a rare drop from theTheatre of Blood. It requires level 80Attackto wield. It provides the highest strength and stab bonus out of any weapon for itsattack speed. This makes the rapier tied with theBlade of saeldorand theInquisitor's macefor themeleeweapon with the highest damage output for general use, although it is outperformed by theOsmumten's fangagainst high defence monsters andScythe of vituragainst large monsters.
+The rapier can be combined with aholy ornament kitto make aSaradomin-themedholy Ghrazi rapier. This cosmetic upgrade won't change the stats in any way, but it will make the rapier count as a Saradomin item in theGod Wars Dungeon.
+
+
+[Infobox]
+Released: 7 June2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A razor sharp rapier, smeared with vampyric blood.
+General Store Value: 5,000,000 coins
+High alch: 3,000,000 coins
+Low alch: 2,000,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 33,500,992 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 972
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +94
+- Slash: +55
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +89
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Monumental chestHard Mode | N/A | 1 | 2/138.6 | 
+Monumental chestNormal Mode | N/A | 1 | 2/172.9 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+3 | Adamant dragon/Strategies(Melee)
+2 | Alchemical Hydra/Strategies(Melee)
+3 | Ancient Wyvern/Strategies(Prayer)
+3 | Ancient Wyvern/Strategies(Melee)
+3 | Barbarian Assault/Strategies(Melee (high level))
+5 | Basilisk Knight/Strategies(Melee)
+5 | Cerberus/Strategies(Melee)
+2 | Chambers of Xeric/Challenge Mode/Strategies(Melee)
+4 | Chambers of Xeric/Challenge Mode/Strategies(Tekton)
+1 | Chambers of Xeric/Challenge Mode/Strategies(crystals)
+1 | Chambers of Xeric/Strategies(Crystals)
+3 | Chambers of Xeric/Strategies(Range Vanguard)
+3 | Chambers of Xeric/Strategies(Great Olm)
+2 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+4 | Dark beast/Strategies(Melee)
+3 | Demonic gorilla/Strategies(upgrades and downgrades)
+3 | Drake/Strategies(Melee)
+2 | Galvek Speed-Trialist(Melee)
+2 | General Graardor/Strategies(Solo (Melee))
+2 | General Graardor/Strategies(Advanced Tank)
+3 | General Graardor/Strategies(Melee Attacker)
+2 | Giant Mole/Strategies(Melee)
+2 | Glough Speed-Trialist(Melee)
+2 | Grotesque Guardians/Strategies(Melee)
+4 | K'ril Tsutsaroth/Strategies(Melee Tank)
+4 | K'ril Tsutsaroth/Strategies(Solo Melee)
+4 | K'ril Tsutsaroth/Strategies(Melee)
+3 | King Black Dragon/Strategies(Melee BIS smuggle)
+2 | King Black Dragon/Strategies(4-item melee)
+1 | Lizardman shaman/Strategies(Melee)
+3 | Metal dragons/Strategies(Melee)
+2 | Mithril dragon/Strategies(Melee)
+2 | Mithril dragon/Strategies(Melee tank)
+3 | Moons of Peril/Strategies(Blood Moon)
+2 | Moons of Peril/Strategies(Eclipse Moon)
+2 | Nightmare Zone/Strategies(Melee (Absorption, AFK))
+2 | Nightmare Zone/Strategies(Melee (Prayer))
+3 | Revenants/Strategies(Melee)
+4 | Royal Titans/Strategies(Best-in-slot)
+3 | Rune dragon/Strategies(Melee)
+3 | Scurrius/Strategies(Melee (high level))
+5 | Skotizo/Strategies(Melee)
+3 | Slayer task/Fossil Island wyverns(Melee)
+3 | Slayer task/Fossil Island wyverns(Prayer)
+1 | Slayer task/Jellies(Melee)
+1 | Slayer task/Suqah(Melee (South))
+2 | Slayer task/Trolls(Melee (Mountain trolls))
+1 | Slayer task/Trolls(Melee (Ice trolls))
+2 | Slayer task/Wyrms(Melee)
+2 | Slayer training(Melee)
+2 | Tombs of Amascut/Strategies(Melee switch)
+2 | Tombs of Amascut/Strategies(Core (Phase 2))
+2 | Tombs of Amascut/Strategies(Akkha)
+4 | Tombs of Amascut/Strategies(Kephri)
+4 | Tombs of Amascut/Strategies(Ba-Ba)
+2 | TzHaar Fight Cave/Strategies(Melee)
+2 | Ultimate Ironman Guide/Equipment
+3 | Vorkath/Strategies(Melee)

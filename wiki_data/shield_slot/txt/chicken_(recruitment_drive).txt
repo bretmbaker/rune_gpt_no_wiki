@@ -1,0 +1,46 @@
+[Weapon: Chicken (Recruitment Drive)]
+
+
+Thechickenis found duringSir Spishyus's trial inRecruitment Drive. It is found on the east side of theprecarious bridge.
+The chicken cannot be left with thegrainalone on one side of the bridge, or else the chicken will eat the grain, while it also cannot be left alone with thefox, or else it will be eaten. If either of these two events occur, the player will fail and is returned toFalador.
+
+
+[Infobox]
+Released: 27 June2005(Update)
+Members: Yes
+Quest item: Recruitment Drive
+Tradeable: No
+Bankable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: He'd be easier to carry if I cooked and ate him first...
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 5 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

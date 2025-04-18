@@ -1,0 +1,55 @@
+[Weapon: Fancy Boots]
+
+
+Fancy bootsare a pair of low level boots with stats identical tobronze boots(except weighing significantly less),fighting bootsandfancier boots. They are obtained from theCradle of Lifeon the fourth level of theStronghold of Securitydungeon provided the player's account has two-factor authentication enabled. They are used by new orfree-to-playplayers, as the centre of each level rewards a combined total of10,000coinsalong with the choice between fancy boots, fighting boots or fancier boots (at the fourth and final level).
+Upon death below the 20 level of theWilderness, the boots are sent to the gravestone. Otherwise they are deleted. When lost, they can be reclaimed for free from theCradle of Life. Multiple pairs can be claimed and owned at the same time.
+
+
+[Infobox]
+Released: 4 July2006(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: Very nice boots from the Stronghold of Security.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.01 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +2
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Fighting as Intended II
+2 | Fighting as Intended II
+4 | Free-to-play Ironman guide(Meleegear)
+4 | Free-to-play melee training(Meleegear)
+4 | TzHaar Fight Cave/Strategies(Pure)

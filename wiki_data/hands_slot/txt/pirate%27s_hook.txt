@@ -1,0 +1,49 @@
+[Weapon: Pirate%27S Hook]
+
+
+ThePirate's hookis a reward that can be obtained from theBrimhaven Agility Arena. It is purchased fromPirate Jackie the Fruitfor 800Brimhaven vouchers.
+Without the completion of theelite Karamja diary, it takes a minimum of 800 minutes (or 13 hours 20 minutes) to earn enough tickets for this item, assuming no dispensers are missed. Players with the diary completed have a 10% chance to gain double tickets which lowers the time to 728 minutes (12 hours 7 minutes).
+
+
+[Infobox]
+Released: 27 July2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: You should see the shark...
+General Store Value: 89 coins
+High alch: 53 coins
+Low alch: 35 coins
+Weight: 0.3 kg
+Grand Exchange Value: 3,101,220 coins
+Grand Exchange Daily Buy Limit: 4
+Grand Exchange Daily Trades Volume: 38
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +5
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

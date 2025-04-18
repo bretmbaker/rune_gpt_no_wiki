@@ -1,0 +1,4 @@
+Item: Ahrim's staff
+Summary: Ahrim's staff is a one-handed magic weapon that is part of Ahrim the Blighted's set. To wield Ahrim's staff, the player must have 70 Magic and 70 Attack. It increases Magic damage by 5%.
+Sources:
+- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

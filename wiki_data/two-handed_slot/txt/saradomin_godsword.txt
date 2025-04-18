@@ -1,0 +1,116 @@
+[Weapon: Saradomin Godsword]
+
+
+TheSaradomin godswordis one of the five variants of thegodswordthat was fought over during theGod Wars. Requiring 75Attackto wield, it is created by adding theSaradomin hiltto a completedgodsword blade. If not purchasing it from another player, the hilt must be obtained by defeatingCommander Zilyanain theGod Wars Dungeon.
+Players can attach aSaradomin godsword ornament kit, obtained frommaster clue scrolls, to the godsword. Doing so willcosmeticallyenhance the godsword, creating aSaradomin godsword (or); this only alters its appearance, and gives no stat enhancements. The godsword will become untradeable, but it can be dismantled, returning both the godsword and the kit.
+
+
+[Infobox]
+Released: 17 October2013(Update)
+Also called: SGS
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Dismantle, Drop
+Examine: A gracious, heavy sword.
+General Store Value: 1,250,000 coins
+High alch: 750,000 coins
+Low alch: 500,000 coins
+Weight: 10 kg
+Grand Exchange Value: 33,698,509 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 801
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +132
+- Crush: +80
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +132
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +8
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performs the Saradomin godsword's special attack,Healing Blade.
+The Saradomin godsword has aspecial attackcalledHealing Blade, which consumes 50% of the player's special attack energy. When used, the player's max hit is increased by 10%, their accuracy is doubled, andHitpointsandPrayer Pointsare restored equal to 50% and 25% of the damage dealt respectively, rounded up in even intervals. This effect only occurs on a successful hit, and any hit below 22 damage will always heal the player for 10 Hitpoints and restore 5 Prayer points.Healing Bladerolls against the opponent's slash defence roll.
+The Prayer andLife leechfromHealing Blade iscalculated from the potential damage of a swing before some types of damage immunities are applied. This can allow it to restore health and prayer even if a monster appears to take zero damage. For example,kuraskscan only be harmed by leaf-bladed weaponry,broad bolts, or theMagic Dartspell, but ifHealing Bladewould have otherwise hit a 40 before immunity, the restoration effect still takes place and heals the player for 20 hitpoints and restores 10 prayer points.
+This mechanic also applies if the target has less total health than the potential damage of a swing. If a target with only 2 hitpoints remaining is struck with aHealing Bladethat would have dealt 60 damage, the player will still be healed for the full amount of 30 hitpoints and have 15 prayer points restored.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Alchemical Hydra/Strategies(Melee)
+3 | Amoxliatl/Strategies(Melee)
+5 | Araxxor/Strategies(Melee)
+3 | Cerberus/Strategies(Ranged)
+5 | Cerberus/Strategies(Melee)
+4 | Chompington(Melee)
+1 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+1 | Dark beast/Strategies(Melee)
+2 | Demonic gorilla/Strategies(upgrades and downgrades)
+5 | Drake/Strategies(Melee)
+4 | Duke Sucellus/Strategies(Melee)
+3 | Dust devil/Strategies(Bursting/Barraging)
+1 | Fortis Colosseum/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Budget)
+1 | Fortis Colosseum/Strategies(Melee)
+2 | General Graardor/Strategies(Solo (Melee))
+1 | General Graardor/Strategies(Advanced Tank)
+5 | General Graardor/Strategies(Melee Attacker)
+5 | Greater Nechryael/Strategies(Bursting/Barraging)
+4 | Grotesque Guardians/Strategies(Melee)
+2 | K'ril Tsutsaroth/Strategies(Melee Tank)
+1 | K'ril Tsutsaroth/Strategies(Solo Melee)
+1 | Kalphite Queen/Strategies(Max Mage (0 switches))
+1 | Lizardman shaman/Strategies(Melee)
+1 | Mithril dragon/Strategies(Melee tank)
+3 | Nightmare Zone/Strategies(Magic)
+2 | Nightmare Zone/Strategies(Melee (Prayer))
+1 | The Nightmare/Strategies(Melee)
+1 | Slayer task/Gargoyles(Melee)
+3 | Slayer task/Jellies(Magic)
+1 | Slayer task/Jellies(Melee)
+5 | Slayer task/Nechryael(Magic)
+1 | Slayer task/Suqah(Melee (South))
+3 | Slayer task/Waterfiends(Melee)
+5 | Slayer task/Wyrms(Melee)
+3 | Slayer training(Melee)
+3 | Smoke devil/Strategies
+1 | Sulliuscep/Strategies
+1 | Sulliuscep/Strategies
+5 | Thermonuclear smoke devil/Strategies(Melee)
+4 | Tormented Demon/Strategies(Melee switch)
+3 | TzHaar Fight Cave/Strategies(Melee)
+4 | TzHaar Fight Cave/Strategies(Ranged (Atlatl))
+1 | Ultimate Ironman Guide/Equipment
+3 | Ultimate Ironman Guide/Slayer
+4 | Vardorvis/Strategies(Melee)

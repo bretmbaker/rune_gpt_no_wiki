@@ -1,0 +1,49 @@
+[Weapon: Grey Gloves]
+
+
+Grey glovescan be purchased inCanifisfromBarkerat his store,Barker's Haberdashery. The gloves come in five different colours: grey, red, yellow, teal, and purple. These gloves are often worn to match certain armour sets, such asgold-trimmedandgod armoursets.
+Their defence bonus is equal to that of leather gloves.
+
+
+[Infobox]
+Released: 29 June2004(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: These will keep my hands warm!
+General Store Value: 500 coins
+High alch: 300 coins
+Low alch: 200 coins
+Weight: 0.453 kg
+Grand Exchange Value: 1,523 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 193
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot

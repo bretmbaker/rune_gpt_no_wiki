@@ -1,0 +1,192 @@
+[Page: Fishing_Trawler]
+
+| This is a non-combat activity.Players should not expect to take damage or risk death from this activity.However, anydeathis still considereddangerousfor the purposes ofhardcore statusanditem retrieval services.
+
+| This article has astrategy guide.All information on mechanics and strategy will be on this page.
+
+Fishing Trawler
+
+Released | 28 July2003(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Port Khazard
+
+Leagueregion | Kandarin✓
+
+Participants | 1+
+
+Skills | Fishing
+
+Requirements | None15Fishingto catch fish
+
+Reward currency | None
+
+Tutorial | None
+
+Music | Trawler Minor,Trawler
+
+Map
+
+Fishing Trawleris aFishingminigamerun byMurphyinPort Khazard. It can be played at any level, but 15 Fishing is required to receive rewards (fish or experience). To play, board Murphy's trawling boat and work to prevent it from sinking for 5 minutes as it trawls the sea.
+
+It can be played solo or in small groups for higher non-unique rewards (and therefore higher Fishing experience), but it is slightly faster and much more relaxed to obtain theangler's outfitworking with others, especially on the official Fishing Trawler worlds.
+
+Starting a Fishing Trawler expedition is aneasy Ardougne Diarytask. Catching amanta ray(requiring 81 Fishing) and then cooking it in Port Khazard (requiring 91Cooking) is anelite Ardougne Diarytask.
+
+Camera sway can be disabled by using the button in the top-right corner of the screen.
+
+Getting there[edit|edit source]
+
+TheGroupingteleport to Fishing Trawler, requiring 15FishingTheKhazard Teleporton theLunar spellbookortabletTheCharter shipdestination ofPort KhazardTheArdougne cloakteleport to theArdougne Monastery, then run south-eastFairy ringcodeDJP, then run southTheWatchtowerorArdougneteleport ortablet
+
+Official worlds[edit|edit source]
+
+The following officialworldsare assigned to Fishing Trawler:
+
+World | Location | Members | Activity
+
+315 | United States (west) | 1 | Fishing Trawler
+
+370 | United States (east) | 1 | Fishing Trawler
+
+Playing[edit|edit source]
+
+Board the large ship directly north ofMurphyand wait for the vessel to set sail. If a voyage is already in progress, simply wait on the ship for up to 6 minutes before a new one begins. The time remaining will be regularly announced by Murphy.
+
+During the trip, there are several activities that players can do to help defend and repair Murphy's ship.
+
+Leaks on the sides of the boat can be repaired usingswamp paste. If the leaks are not patched quickly enough, the ship will fill with water, which must be bailed back into the sea with abailing bucket's "bail-with" and "empty" click options.The fishing net in the stern occasionally gets torn and must be repaired withrope. While the net is torn, it will not catch any fish, so it is advisable to fix a ripped net as quickly as possible. Either of the two net halves can be clicked to fix the entire net.Anenormous tentaclefrom akrakenwill attack the ship's net and railings, slowing down the rate at which fish are caught. Fighting off the tentacle requires anaxe(blessed axedoes not work), and repairing damage to the ship's railings requires ahammer. The chance to successfully chop at the kraken's tentacle depends on the axe being used and the player'sWoodcuttinglevel.[1][2]
+
+The amount of leaks, torn nets, and kraken encounters scales with the number of players on the trawler. In larger groups, 300swamp paste, somerope, and at least onebailing bucketare recommended. All required items are available in theKhazard General Store. There are also boxes containing bailing buckets,hammers, andbronze axeson the top deck of the ship.
+
+As soon as anyone boards the ship, players will have 1 minute to collect their rewards and return to the ship before the next voyage departs. In total, a round takes roughly 6.5 minutes (5 minutes of trawling, 1 minute of docking, and 15 seconds of cutscene at both the start and end of the trawl).
+
+Losing[edit|edit source]
+
+The only way to lose is if the water level gets too high before the time is up. The boat will sink, and players must climb onto a barrel to return to shore north ofPort Khazardnear fairy ringDJP. Logging out during a trawl will also return players to this location.
+
+Swimming to shore in this fashion will deal 1 damage to the player.
+
+Contribution[edit|edit source]
+
+The contribution meter increases up to a maximum of 255 points. Having a full contribution meter at the end of the minigame yields 50% more fish and a greater chance at theheronpet. The contribution meter must be at or above 50 points when the game ends to earn a portion of the catch, which includes a chance at a piece of theangler's outfit. Actions also grant small amounts of experience in their corresponding skills.
+
+The contribution meter will change color from red to yellow at 50 points. The meter does not deplete; therefore, players are able to stop contributing after 50 points.
+
+Action | Points | Skill | XP
+
+Bailing water | 2 | N/A | N/A
+
+Filling a leak with swamp paste | 5 |  | 5[a 1]
+
+Repairing the net with a rope | 7 |  | 5
+
+Attacking the kraken (per successful chop) | 10 |  | 5
+
+Fixing a broken rail caused by the kraken | 10 |  | 5[a 1]
+
+Rewards[edit|edit source]
+
+Upon successfully returning to thePort Khazarddock, players who contributed at least 50 points can inspect thetrawler netfor their reward ofFishingexperience, saltwaterfish, and potentially pieces of theangler's outfit.Boostscannotbe used to obtain higher-tier fish, anddrainscannot be used to obtain lower-tier fish.
+
+The rewards collection interface allows automatic banking, dropping, or picking up rewards. There is also abank chestjust west of the trawler net. Closing the rewards interface with items left to collect will cause them to drop on the ground.
+
+Rewards are preserved across hopping worlds or logging out, but boarding a new expeditionwill destroyany uncollected rewards. A warning dialogue appears if attempting to board the ship with rewards left to claim.
+
+Players are rewarded a number of fish equal to the boat's total catch (based on how many players participated, how long the nets were damaged, and how long the ship was slowed down by a kraken) divided by the number of players present at the beginning of the minigame. The type of fish caught is dependent on the player's Fishing level, as shown below. Fishing experience is granted based on the type of fish received, as shown further below.
+
+Completing theelite Ardougne Diaryyields 50% more fish, and a full contribution meter also yields an additional 50% more fish. When playing in large groups, expect 13-15 fish per trip with a full contribution meter (worth15,773.64 coinsat level 99 Fishing which is145,602.86 coins/hour). When playing solo, expect 20-22 fish per trip (worth23,660.46 coinsat level 99 Fishing which is202,803.98 coins/hour).
+
+| Item | Quantity | Rarity | Price | High Alch
+
+| Raw shrimps | Varies | Varies | 96 | 3
+
+| Raw sardine | Varies | Varies | 64 | 6
+
+| Raw anchovies | Varies | Varies | 31 | 9
+
+| Oyster | Varies | Varies | 81 | 120
+
+| Raw tuna | Varies | Varies | 56 | 24
+
+| Raw lobster | Varies | Varies | 70 | 42
+
+| Raw swordfish | Varies | Varies | 88 | 48
+
+| Raw shark | Varies | Varies | 689 | 102
+
+| Raw sea turtle | Varies | Varies | 713 | 120
+
+| Raw manta ray | Varies | Varies | 1,250 | 120
+
+Players may also receive "junk" items in their trawler nets, all being equally likely. Independent of Fishing level, between 0 and 2 junk are caught every time, where the chance for 1 is about 37% and the chance for 2 is about 16%.
+
+| Item | Quantity | Rarity | Price | High Alch
+
+| Broken arrow | Varies | Varies | Not sold | 0
+
+| Broken glass | Varies | Varies | Not sold | 0
+
+| Broken staff | Varies | Varies | Not sold | 0
+
+| Buttons | Varies | Varies | Not sold | 0
+
+| Damaged armour | Varies | Varies | Not sold | 0
+
+| Old boot | Varies | Varies | Not sold | 0
+
+| Pot | Varies | Varies | 38 | 1
+
+| Rusty sword | Varies | Varies | Not sold | 0
+
+Uniques[edit|edit source]
+
+There is a 1/12 chance[3]that players will receive a piece of theangler's outfitthey do not already own. When equipped, pieces of the outfit grant a smallexperiencebonus whileFishing. If the player's inventory is full and they attempt to pick up an outfit piece, the outfit piece will drop on the ground. The chance for a piece does not scale with the contribution meter beyond the initial threshold of 50 points. Players can receive two full sets, but the first set must be fully completed before obtaining pieces of the second set.
+
+| Item | Quantity | Rarity | Price | High Alch
+
+| Angler hat | 1 | 1/12[d 1] | Not sold | 60
+
+| Angler top | 1 | 1/12[d 1] | Not sold | 60
+
+| Angler waders | 1 | 1/12[d 1] | Not sold | 60
+
+| Angler boots | 1 | 1/12[d 1] | Not sold | 60
+
+| Heron | 1 | 1/5,000[d 2] | Not sold | N/A
+
+Experience[edit|edit source]
+
+Upon inspecting the trawler net, players are awarded experience for each fish caught during the game.
+
+Total experience per hour is quite low. When playing in large groups, expect 14-19 fish per trip with a full contribution meter (around 1,000 xp at level 99 Fishing which is 9,000 xp/hour). When playing solo, expect 20-22 fish per trip (around 1,500 xp at level 99 Fishing which is 13,000 xp/hour).
+
+Catch | Level | XP
+
+| Angler's outfit piece | 15 | 0
+
+| Junk items | 15 | 0.5
+
+| Raw shrimps | 15 | 0.7
+
+| Raw anchovies | 15 | 0.7
+
+| Raw sardine | 15 | 0.7
+
+| Oyster | 16 | 51
+
+| Raw tuna | 35 | 48
+
+| Raw lobster | 40 | 54
+
+| Raw swordfish | 50 | 60
+
+| Raw shark | 76 | 66
+
+| Raw sea turtle | 79 | 57
+
+| Raw manta ray | 81 | 69
+

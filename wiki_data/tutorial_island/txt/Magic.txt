@@ -1,0 +1,32 @@
+[Page: Magic]
+
+Magicis one of the most importantskillsinOld School RuneScapeand is one of the threecombat classes. It is used incombatviacombat spells, fast transport around the world viateleportation spells, and allowscrafteditemsto be enchanted and convert items intocoinsthroughutility spells. While it is possible to play the game without being skilled in Magic, it is a considerable advantage to be able to use manyspells, especially High Level Alchemy and teleports.
+Magic is also important in order to defend well against Magic attacks. UnlikeMeleeandRanged defence, a player'sMagic defenceis actually determined by both Magic (70%) andDefence(30%) levels, as well as Magic defence bonus.
+Magic is used almost exclusively through casting spells onmonsters, another player, on one's self (reflexively), or on anitem.
+Magic spells are divided into three distinct types: Combat, Teleport, and Utility spells.
+Combat spells are primarily used by players, mostly in battle, for their offensive capabilities. Combat spells can be separated into three sub-types:
+Teleport spells instantly transport players to a predetermined location. Asteleportationsave lots of time when travelling around the world, they are widely used among all players.
+Some spells may teleport players to the dangerousWilderness, where they are warned before the spell is actually cast, though this can be toggled by right-clicking the spell icon.
+Utility spells are primarily used by players outside of combat inskillingactivities, such as enchanting jewellery, bakingpies, or reanimatingensouled heads.
+TheLunar spellbook, accessible bymembers, focuses heavily on utility spells.
+There are four different spellbooks used to cast magic spells from. A player may only cast spells from their current spellbook, and if they wish to use spells from another spellbook, they must change to that spellbook through various means.
+To cast aspell, a player must choose the desired spell from their spellbook. To access the activated spellbook, click on the spellbook icon in the game'sinterface.
+Free-to-playplayers only have access to thestandard spellbook, while the other three spellbooks are only available formembersafter unlocking them through various content.
+As with otherskills, some spells require higher skill levels to cast.
+The standard spellbook is available to all players. There is no prerequisite to using the standard spellbook, although some spells are only available on members' worlds and others require completion of certainquestsor tasks.
+The Arceuus spellbook is available to all players by talking toTyssat theDark Altarin northernArceuus. Like thestandard spellbook, it has a variety of teleport and utility spells at its disposal, with a focus on necromancy. A larger set of combat and utility spells are only accessible to players who have completed the questA Kingdom Divided.
+Ancient Magicks are available to players upon completion of the questDesert Treasure I. Unlike the other spellbooks, the Ancient Magicks is significantly combat-oriented, including some of the most powerful combat spells in the game.
+The Lunar spellbook is available to players upon completion of the questLunar Diplomacy. The spellbook is primarily oriented towards utility spells and combat-support spells, although some of them are only accessible to players who have completed the questDream Mentorand completion of theHard Fremennik Diary.
+All spells (with the exception of theHome Teleports) require the use ofrunesas a consumed resource. Runes are stackable, commonly traded items which are obtained by various methods, such as by crafting them via theRunecraftskill or obtained as drops from monsters.
+The requirement for certainrunesin a spell can be removed if the player wields anelemental staffor chargedtomecorresponding to an elemental rune. As an example, wielding astaff of fireor chargedtome of fireallows a player to castHigh Level Alchemyusing only onenature rune.
+Magic weapons attack from a distance and come in two primary types, weapons that canautocastspells andpowered staves. Magic weapons that can autocast spells includestaves,wandsandbladed staves. They can be used as melee weapons, however their primary function is for casting spells, taking place ofelementalrunes,auto cast, and access to specific spells likeMagic Dart. Powered staves instead have a built-in magic spell that can be used regardless of the spellbook the player is using. Most magic weapons also boost Magic attack andMagic defence.
+In the list below are all thefree-to-playstaves, which all can be obtained atZaff's store inVarrock.
+Most mages wearrobes, although some light armour is available that is made from special material and does not hinder the wearer's ability to perform magical attacks. For the different sets of armour and detailed information on each piece, see thearmour guide.
+A player can have a Magic attack bonus ofup to 172, and a Magic defence bonusup to 253. The lowest Magic attack bonus is -105, which will help preventspellsfrom hitting an opponent while training (i.e.splashing).
+A monster's defence level has no effect on the accuracy of incoming magical attacks. Instead, a monster's magical defence roll is calculated solely from their magic level and Magic defence bonus. This differs from range and melee, as they use the defence level and respective defence bonus.[1]
+Additionally, certain monsters are weak to a certain type of elemental spell from thestandard spellbook. For every point of elemental weakness a monster has, the player gains a +1% accuracy and damage bonus for that elemental type.
+There are several activities and locations in the game that are directly related to the Magic skill.
+All values given below by formulae are rounded down.
+RequiresBarbarian training.
+RequiresBarbarian training.
+Upon completing any of the following quests, players may choose to allocate experience to Magic. These rewards usually come in the form of items, such as lamps or books, and are independent of any experience rewards directly received for completing the quest.

@@ -1,0 +1,46 @@
+[Weapon: Ghostly Hood]
+
+
+Theghostly hoodis a piece ofmembers onlyarmourworn in the headwear slot. Players can obtain one after speaking toDhalakduring theCurse of the Empty Lordminiquest. The hood has been claimed to serve Dhalak "well over the centuries".
+There are no requirements to wear and, when worn with the other pieces, the player appears 'ghostlike' (i.e. transparent). After initially obtaining the piece, the player can talk to any of the ghosts to get more pieces. A lost hood can be purchased fromPerdufor 15,000 coins.
+
+
+[Infobox]
+Released: 26 July2005(Update)
+Members: Yes
+Quest item: Ghostly Robes (miniquest)
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: A ghostly hood, fit for a ghostly head.
+General Store Value: 30 coins
+High alch: 18 coins
+Low alch: 12 coins
+Weight: 0.001 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +3
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

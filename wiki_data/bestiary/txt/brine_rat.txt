@@ -1,0 +1,48 @@
+Name: Brine rat
+Combat Level: 70
+Size: 1x1
+Info:
+- Description: Eww, a bald rat!
+
+Slayer Info:
+- Required Level: 47
+- Slayer XP: 50 xp
+- Category: Brine Rats, Rats
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4501
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guide is available for brine rats:
+
+Notable Drops:
+- Brine sabre (1/512[1])
+- Raw shark (1/128)
+- Coins (21/128)
+- Clue scroll (medium) (1/128[d 1][2])
+- Brimstone key (1/224[d 2])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 50
+Attack: 70
+Strength: 79
+Defence: 40
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

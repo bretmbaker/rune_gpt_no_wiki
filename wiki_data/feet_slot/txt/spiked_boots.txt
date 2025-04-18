@@ -1,0 +1,49 @@
+[Weapon: Spiked Boots]
+
+
+Spiked bootsarebootsthat can be obtained by bringingDunstan(theBurthorpeblacksmith) aniron barand a pair ofclimbing boots. Dunstan will only help after a player completes a required portion of theDeath Plateauquest.
+These boots are used duringDesert Treasure Iwhile trying to obtain theIce diamondon theIce Pathsegment. The spiked boots are unequipable, except during portions of Desert Treasure I. They are not needed after the quest.
+
+
+[Infobox]
+Released: 9 August2004(Update)
+Members: Yes
+Quest item: Desert Treasure I
+Tradeable: Yes
+Equipable: Yes (only at the ice patch during Desert Treasure I)
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Climbing boots with spikes.
+General Store Value: 30 coins
+High alch: 18 coins
+Low alch: 12 coins
+Weight: 0.34 kg
+Grand Exchange Value: 3,983 coins
+Grand Exchange Daily Buy Limit: 15
+Grand Exchange Daily Trades Volume: 349
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +2
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Feet slot

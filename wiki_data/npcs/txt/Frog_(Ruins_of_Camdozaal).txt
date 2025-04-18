@@ -1,0 +1,2 @@
+Item: Frog (Ruins of Camdozaal)
+Summary: Frogs are non-interactive NPCs that can be found wandering within the Ruins of Camdozaal and Cam Torum.

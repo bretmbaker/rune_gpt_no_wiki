@@ -1,0 +1,55 @@
+[Weapon: Marrentill Tar]
+
+
+Marrentill taris an item used as food, or "ammunition", fororange salamanderswhen used as a weapon. It is also optionally used as bait for huntingorange salamandersto increase the catch rate by 3%.
+Marrentill tar can be made at level 31Herbloreby using 15swamp taron amarrentill, whilst having apestle and mortarin the inventory. This process yields 15 marrentill tar, and grants 42.5 Herblore experience.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A thick, foul-smelling, tar-like substance with an orange tinge.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0 kg
+Grand Exchange Value: 1coin
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 1,197,626
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +22
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Locust rider | 68; 98; 106 | 80 | 1/128 | 
+Scarab Mage | 66; 93; 119 | 80 | 1/128 | 

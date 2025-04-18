@@ -1,0 +1,65 @@
+[Weapon: 3Rd Age Vambraces]
+
+
+The3rd age vambracesare a part of the3rd age range set. Requiring level 65Rangedand 45Defenceto wear, they offer similar bonuses toblessed vambraceswith an additional +1 tomagic defenceinstead of a +1prayer bonuslike blessed.
+The 3rd age range vambraces are a possible reward fromhard,eliteandmastertierTreasure Trailsand can't be made through any skills.
+
+
+[Infobox]
+Released: 5 December2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Fabulously ancient range protection crafted from white dragonhide.
+General Store Value: 50,500 coins
+High alch: 30,300 coins
+Low alch: 20,200 coins
+Weight: 1 kg
+Grand Exchange Value: 27,465,959 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 16
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +11
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +5
+- Crush: +7
+- Magic: +9
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Mimic | N/A | 1 | 1/5,244;1/5,750 | 
+Reward casket (elite) | N/A | 1 | 1/249,262.5 | 
+Reward casket (hard) | N/A | 1 | 1/211,250 | 
+Reward casket (master) | N/A | 1 | 1/313,168 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Ancient Wyvern/Strategies(Ranged)
+3 | Chompy bird hunting/Strategy
+2 | Nightmare Zone/Strategies(Ranged)
+3 | Slayer task/Fossil Island wyverns(Ranged)

@@ -1,0 +1,96 @@
+[Minigame: Rat_Pits]
+
+Rat Pits
+
+
+
+
+
+Released | 28 November2005(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | VarrockArdougneKeldagrimPort Sarim
+
+Leagueregion | N/A
+
+Participants | 2
+
+Reward currency | None
+
+Tutorial | Yes
+
+Music | Bubble and Squeak,Catch Me If You Can,Rat a Tat Tat,Sarim's Vermin
+
+
+
+TheRat Pitsare aminigamethat involvespet catsfighting againstratsin several underground gambling rings. There are a total of four pits throughoutGielinor, located inVarrock,Ardougne,Keldagrim, andPort Sarim. Access to the Rat Pits requires partial completion ofRatcatchers, and the pits are unlocked one at a time throughout thequest.Ironmencannot take part in this minigame.
+
+Pits[edit|edit source]
+
+There are 4 pits around Gielinor, each requiring a specific type of cat to take part. Players unlock each pit after helping the owner of the pit during theRatcatchersquest.
+
+Location | Cat type | NPC | Map
+
+Ardougne(Entrance) | Kitten | Jimmy Dazzler | 
+
+Varrock(Entrance) | Cat | Hooknosed Jack | 
+
+Keldagrim(Entrance) | Overgrown cat | Smokin' Joe | 
+
+Port Sarim(Entrance) | Wily cat | The Face | 
+
+Official world[edit|edit source]
+
+The following officialworldis assigned to the Rat Pits:
+
+World | Location | Members | Activity
+
+377 | United States (east) | 1 | Mort'ton temple, Rat Pits
+
+How to play[edit|edit source]
+
+Note:Rat Pits is one of the least popular minigames, and is generally considered dead content. Playing a game will likely require bringing along another player, as there is rarely anyone else in the Rat Pits.
+
+What to bring[edit|edit source]
+
+Acat(see table above for the type you need for the pit you wish to visit)Acatspeak amuletif the player has not completed Dragon Slayer II (allows use of strategy in the fight — your cat will fight to the death without it)
+
+Rules[edit|edit source]
+
+The first pit inArdougnewill only allowkittens. Second, inVarrockone will only allowcats. Third, inKeldagrimwill only allowovergrown cats. The last pit inPort Sarimwill only allowwily cats. All pits prohibitlazy cats, and these cats will need to be trained into to a wily cat to be used; this can be accomplished by speaking toFelkrashin thePort SarimRat Pits while accompanied by a lazy cat.
+
+To begin, players place bets. The minimum bet allowed is100 coins, and the maximum is20,000 coins. Both players must place the same bet before the minigame will begin. If a player has acatspeak amulet, they can tell the cat which strategy to use:
+
+Dialogue option | Outcome
+
+None (nocatspeak amulet) | The cat's stats are unchanged. In addition, the cat will fight until it dies, in which case the player would lose both the fight and the cat.
+
+Just be careful in there cat. | The cat'sDefenceandHitpointsare greatly increased, butAttackandStrengthare greatly reduced. In addition, the cat will leave the fight (and lose) when its health drops too low.
+
+Stay in for as long as you can. | The cat'sDefenceandHitpointsare increased, butAttackandStrengthare reduced. In addition, the cat will leave the fight (and lose) when its health drops too low.
+
+No guts, no glory! | The cat'sAttackandStrengthare increased, butDefenceandHitpointsare reduced. In addition, the cat will fight until it dies, in which case the player would lose both the fight and the cat.
+
+Go berserk! | The cat'sAttackandStrengthare greatly increased, butDefenceandHitpointsare greatly reduced. In addition, the cat will fight until it dies, in which case the player would lose both the fight and the cat.
+
+Once players place bets and choose strategies, the cats will attackrats. The number of rats that need to be killed before a cat wins depends on the type of cat. If a cat runs away or dies, the owner of the cat will lose the bet,and the cat will perish, after which a new cat must be acquired. If both cats tire out at the same amount of kills, the minigame declares the match a draw and both cats and bets return to their owners.
+
+Rewards[edit|edit source]
+
+ | Victory
+
+The jingle that plays when winning a fight in the pits.
+
+
+
+ | Loss
+
+The jingle that plays when losing a fight in the pits.
+
+
+
+The game rewardscoinsfor the winner of the bet. TheArdougneandVarrockpits advance acat's growth by approximately fifteen minutes if the cat wins, and half that amount if it loses.
+

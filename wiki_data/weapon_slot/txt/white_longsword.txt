@@ -1,0 +1,57 @@
+[Weapon: White Longsword]
+
+
+Thewhite longswordis aWhite Knightweaponthat requires 10Attackand the completion of theWanted!questto wield. It has the same bonuses as ablack longsword, with an added +1prayer bonus.
+Players can purchase it fromSir Vyvinafter achieving therankof Noble (500black knightkills). It can also be bought on the Grand Exchange or obtained through trading other players.
+
+
+[Infobox]
+Released: 17 October2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A razor sharp longsword.
+General Store Value: 960 coins
+High alch: 576 coins
+Low alch: 384 coins
+Weight: 1.814 kg
+Grand Exchange Value: 1,578 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 22
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +13
+- Slash: +18
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +3
+- Crush: +2
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +16
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence

@@ -1,0 +1,70 @@
+Name: Otherworldly being
+Combat Level: 64
+Size: 1x1
+Info:
+- Description: Is he invisible or just a set of floating clothing?
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 66 xp
+- Category: Otherworldly Beings
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 2843
+- Link: MOID
+
+Location:
+- Area: Zanaris
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Blood rune (1/128)
+- Grimy guam leaf (1/51.2)
+- Grimy marrentill (1/68.3)
+- Grimy tarromin (1/91)
+- Grimy harralander (1/117)
+- Grimy ranarr weed (1/148.9)
+- Grimy irit leaf (1/204.8)
+- Grimy avantoe (1/273.1)
+- Grimy kwuarm (1/327.7)
+- Grimy cadantine (1/409.6)
+- Grimy lantadyme (1/546.1)
+- Grimy dwarf weed (1/546.1)
+- Mithril mace (1/128)
+- Mackerel (1/128)
+- Nothing (1/85.49; Never[d 1])
+- Uncut sapphire (1/170.67; 1/86.67[d 2])
+- Uncut emerald (1/341.33; 1/173.33[d 2])
+- Uncut ruby (1/682.67; 1/346.67[d 2])
+- Uncut diamond (1/2,730.67; 1/1,386.67[d 2])
+- Nature talisman (1/1,820.44; 1/924.44[d 2])
+- Loop half of key (1/5,461.33; 1/2,773.33[d 2])
+- Tooth half of key (1/5,461.33; 1/2,773.33[d 2])
+- Rune javelin (1/5,461.33; 1/2,773.33[d 2])
+- Rune spear (1/87,381.33; 1/5,200[d 2][d 3])
+- Shield left half (1/174,762.67; 1/10,400[d 2][d 3])
+- Dragon spear (1/233,016.89; 1/13,866.67[d 2][d 3])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 66
+Attack: 56
+Strength: 56
+Defence: 46
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

@@ -1,0 +1,4 @@
+Item: Magic fang
+Summary: The magic fang is obtained from killing Zulrah. With level 59 Crafting, it can be used with a chisel and either a staff of the dead or an uncharged trident of the seas to create the toxic staff of the dead or trident of the swamp, respectively.
+Sources:
+- Zulrah (Level 725, Quantity: 1, Rarity: 2 × 1/1,024)

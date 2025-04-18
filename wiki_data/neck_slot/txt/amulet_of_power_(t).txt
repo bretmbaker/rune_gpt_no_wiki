@@ -1,0 +1,54 @@
+[Weapon: Amulet Of Power (T)]
+
+
+TheAmulet of power (t)is a cosmetic variant of theamulet of powerthat can be obtained as a rare reward fromeasyTreasure Trails.
+This item can be stored in thetreasure chestof acostume room.
+
+
+[Infobox]
+Released: 11 April2019(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: An enchanted diamond amulet that looks good.
+General Store Value: 4,025 coins
+High alch: 2,415 coins
+Low alch: 1,610 coins
+Weight: 0.01 kg
+Grand Exchange Value: 556,833 coins
+Grand Exchange Daily Buy Limit: 5
+Grand Exchange Daily Trades Volume: 171
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +6
+- Slash: +6
+- Crush: +6
+- Magic: +6
+- Ranged: +6
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +6
+- Crush: +6
+- Magic: +6
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Reward casket (easy) | N/A | 1 | 1/1,404 | 

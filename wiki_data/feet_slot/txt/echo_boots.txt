@@ -1,0 +1,107 @@
+[Weapon: Echo Boots]
+
+
+Echo bootsare an enhanced pair ofguardian bootswhich require level 75Defenceto wear. They are made by combining the boots with anecho crystal, a rare drop from participating in theFortis Colosseum. Compared to its predecessor, it gives an additional +2prayer bonusand a passive effect in which the boots deal 1 recoil damage to targets attacking the player, in a 3x3 square around the player. This effectively restricts recoiled targets to those in melee range.
+Each echo crystal will add 6,000 charges to the recoil effect (costing530.33per charge), up to a maximum of 60,000. The recoil effect can be toggled via the boot's "Toggle-activity" option, allowing players to disable it as to not waste it during casual training, and instead use it in activities where the effect may prove more useful. The "Revert" option reverts the echo boots back into guardian boots, though thiswill notreturn any echo crystals, regardless of whether or not any recoil charges were used. Players can configure the charges while the boots are in their bank by right-clicking on Configure-Charges, as long as players have the required materials.
+
+
+[Infobox]
+Released: 20 March2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Check, Toggle-activity, Revert
+Worn options: Check, Toggle-activity
+Examine: Thick, stony boots. There's a giant crystal in the middle of them.
+General Store Value: 450,000 coins
+High alch: 270,000 coins
+Low alch: 180,000 coins
+Weight: 7 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -3
+- Ranged: -1
+
+Defence Bonuses:
+- Stab: +32
+- Slash: +32
+- Crush: +32
+- Magic: -3
+- Ranged: +24
+
+Other Bonuses:
+- Strength: +3
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +4
+
+Slot: Feet slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Abyssal Sire/Strategies(Phase 2 Other Melee Weapons)
+2 | Abyssal Sire/Strategies(Phase 2 Magic)
+3 | Abyssal Sire/Strategies(Phase 2 Melee - DPS)
+2 | Alchemical Hydra/Strategies(Melee)
+3 | Amoxliatl/Strategies(Melee)
+1 | Ancient Wyvern/Strategies(Melee)
+3 | Araxxor/Strategies(Melee)
+1 | Barbarian Assault/Strategies(Ranged (high level))
+2 | Barbarian Assault/Strategies(Magic)
+1 | Barbarian Assault/Strategies(Melee (high level))
+2 | Cerberus/Strategies(Melee)
+2 | Corporeal Beast/Strategies(Dolo)
+2 | Corporeal Beast/Strategies(Solo melee)
+2 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+1 | Dagannoth Kings/Strategies(Magic (Rex only))
+2 | Dark beast/Strategies(Melee)
+2 | Duke Sucellus/Strategies(Melee)
+2 | Dust devil/Strategies(Bursting/Barraging)
+3 | Fortis Colosseum/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(Budget)
+1 | General Graardor/Strategies(Advanced Tank)
+3 | General Graardor/Strategies(Solo (Ranged 7:0))
+3 | Glough Speed-Trialist(Melee)
+4 | Greater Nechryael/Strategies(Bursting/Barraging)
+3 | Grotesque Guardians/Strategies(Melee)
+1 | Inferno/Strategies(Learners)
+3 | Inferno/Strategies(On task)
+1 | K'ril Tsutsaroth/Strategies(Melee Tank)
+2 | K'ril Tsutsaroth/Strategies(Solo Melee)
+2 | K'ril Tsutsaroth/Strategies(Ranged)
+2 | Kalphite Queen/Strategies(High DPS (Phase One))
+2 | Maniacal monkey/Strategies(Magic - Ice Burst)
+2 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+1 | Mithril dragon/Strategies(Melee tank)
+1 | Moons of Peril/Strategies(Moons of Peril Armour)
+3 | The Nightmare/Strategies(Melee)
+2 | Phantom Muspah/Strategies(Melee)
+3 | Phosani's Nightmare/Strategies(Melee)
+3 | Sarachnis/Strategies(Melee)
+1 | Sarachnis/Strategies(Melee tank)
+1 | Slayer task/Fossil Island wyverns(Melee)
+3 | Slayer task/Nechryael(Melee)
+4 | Slayer task/Nechryael(Magic)
+3 | Slayer task/Trolls(Melee (Mountain trolls))
+3 | Slayer task/Trolls(Melee (Ice trolls))
+3 | Slayer task/Waterfiends(Melee)
+3 | Slayer training(Melee)
+2 | Tombs of Amascut/Strategies(Melee switch)
+3 | Tormented Demon/Strategies(Melee switch)
+2 | TzHaar Fight Cave/Strategies(Melee)
+2 | TzHaar Fight Cave/Strategies(Magic)
+2 | TzHaar Fight Cave/Strategies(Ranged (Atlatl))
+1 | Ultimate Ironman Guide/Equipment
+1 | Vardorvis/Strategies(Melee)
+3 | Vorkath/Strategies(Melee)
+3 | Vyrewatch Sentinel/Strategies(AFK Prayer)

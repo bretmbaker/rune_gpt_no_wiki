@@ -1,0 +1,46 @@
+[Minigame: Infinity_robes]
+
+Infinity robesare a set ofmagic armourthat are rewards from theMage Training Arenaminigame. Each piece of the robes can be obtained from theRewards Guardianon the top floor of the arena in exchange forPizazz points. Infinity robes require 25Defenceand 50Magicto wear. The hat, top and bottom gives a 1%Magic damagebonus for a total of 3%.
+
+To buy full infinity robes with Pizazz points requires 1,495 Telekinetic, 1,695 Alchemist, 14,700 Enchantment and 1,495 Graveyard points. It can be stored in amagic wardrobein a player-owned house.
+
+It is possible to change the colour of the infinity robes. To recolour a piece, the player must have alightordark infinity colour kit, and then use an infinity hat, top or bottom on the kit. Infinity gloves and boots cannot be recoloured.
+
+Components[edit|edit source]
+
+Item | GEPrice
+
+ | Infinity hat | 1,637,566
+
+ | Infinity top | 1,130,850
+
+ | Infinity bottoms | 1,181,870
+
+ | Infinity gloves | 554,612
+
+ | Infinity boots | 340,571
+
+Total | 4,845,469
+
+Bonuses[edit|edit source]
+
+Item | Attack Bonuses | Defence Bonuses | Other
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ | Infinity hat | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 0 | 6 | 0 | 0 | 1% | 0 | 0 | 0.453 | 
+
+ | Infinity top | 0 | 0 | 0 | 22 | 0 | 0 | 0 | 0 | 22 | 0 | 0 | 1% | 0 | 0 | 2.267 | 
+
+ | Infinity bottoms | 0 | 0 | 0 | 17 | 0 | 0 | 0 | 0 | 17 | 0 | 0 | 1% | 0 | 0 | 1.814 | 
+
+ | Infinity gloves | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0% | 0 | 0 | 0.453 | 
+
+ | Infinity boots | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0% | 0 | 0 | 0.453 | 
+
+Totals | 0 | 0 | 0 | 55 | 0 | 0 | 0 | 0 | 55 | 0 | 0 | 3% | 0 | 0 | 5.44 | N/A
+
+Gallery[edit|edit source]
+
+Infinity robes on body type A.Infinity robes on body type B.Light infinity robes on body type A.Light infinity robes on body type B.Dark infinity robes on body type A.Dark infinity robes on body type B.
+

@@ -1,0 +1,45 @@
+[Weapon: Morrigan%27S Leather Chaps (Bh)#Activated]
+
+
+Morrigan's leather chaps (bh)is a piece of armour requiring 78Defenceto wear, and is purchased from theBounty Hunter Storefor 500 points. When worn alongsideMorrigan's coif (bh)andleather body (bh), the accuracy of rangedspecial attacksare increased by 15%. It can be converted into itscorrupted variantby speaking to aCorrupted Warrior.
+As with allAncient Warriors' equipmentfrom Bounty Hunter, it is initially purchased in inactive form and must be charged with 5,000,000 coins before it can be used by the player. In addition, it can only be used withinDaimon's Crater,Castle Wars,Clan Wars, andSoul Wars; attempting to attack anything outside the listed areas will result in the player being interrupted from doing so.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Uncharge, Drop
+Examine: A powerful pair of leather chaps.
+General Store Value: 500,000 coins
+Alchemy: Not alchemisable
+Weight: 5.443 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +23
+
+Defence Bonuses:
+- Stab: +18
+- Slash: +15
+- Crush: +20
+- Magic: +46
+- Ranged: +22
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +6
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

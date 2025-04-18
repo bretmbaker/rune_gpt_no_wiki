@@ -1,0 +1,76 @@
+[Weapon: Rune Dart#(Unp)]
+
+
+Rune dartsareRangedthrowing weapons that are only available tomembers. Rune darts require level 40 Ranged to wield. They can be obtained by either using theSmithingandFletchingskills or trading with another player. Rune darts can bepoisonedand can be wielded with a shield orgod bookfor protection.
+To create rune darts the player must have completed theTourist Trapquest and have at least level 89 Smithing and level 81 Fletching. Players can smithrune barsintorune dart tips. Each rune bar creates 10 rune dart tips and gives the player 75 Smithing experience.Feathersthen must be added to create the rune darts. 18.8 Fletching experience is rewarded per rune dart.
+
+
+[Infobox]
+Released: 14 April2003(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A deadly throwing dart with a rune tip.
+General Store Value: 350 coins
+High alch: 210 coins
+Low alch: 140 coins
+Weight: 0 kg
+Grand Exchange Value: 156 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 3,507,286
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +26
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 3 ticks (1.8s) | 3 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 2 ticks (1.2s) | 3 tiles |  | None
+ | Longrange | Light | Longrange | 3 ticks (1.8s) | 5 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Brutal black dragon | 318 | 20 | 5/128 | 
+Chaos Elemental | 305 | 100 | 5/128 | 
+Commander Zilyana | 596 | 35–40 | 8/127 | 
+Crystal impling jar | N/A | 50–100 | 1/18 | 
+Crystal impling | 80; 90 | 50–100 | 1/18 | 
+Lava dragon | 252 | 12 | 6/128 | 
+Ninja impling jar | N/A | 70 | 1/19 | 
+Ninja impling | 74; 84 | 70 | 1/19 | 
+Red dragon | 152 | 8 | 3/128 | &
+Venenatis | 464 | 150 | 3/126 | 
+Vet'ion | 454 | 150 | 3/126 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Skotizo/Strategies(Ranged)

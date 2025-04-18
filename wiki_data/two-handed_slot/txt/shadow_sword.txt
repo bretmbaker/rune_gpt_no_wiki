@@ -1,0 +1,55 @@
+[Weapon: Shadow Sword]
+
+
+Theshadow swordis a two-handed sword obtained as a reward fromThe General's Shadowmini-quest. The sword matches theghostly robesset, though it cannot be stored alongside the robes in thecostume roomof aplayer-owned house.
+The shadow sword has the same stats as ablack 2h sword, with additionalMagicattack and defence bonuses, as well as a faster attack speed (an interval of 3.6 seconds as opposed to 4.2).
+
+
+[Infobox]
+Released: 12 February2007(Update)
+Members: Yes
+Quest item: The General's Shadow
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destroy
+Destroy: You can get another one by visiting the cave near the Fishing guild. A friendly ghost will replace it for you.
+Examine: A shadow sword.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 3.628 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -4
+- Slash: +27
+- Crush: +21
+- Magic: +4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +4
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +26
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence

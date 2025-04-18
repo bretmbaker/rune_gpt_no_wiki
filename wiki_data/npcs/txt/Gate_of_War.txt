@@ -1,0 +1,2 @@
+Item: Gate of War
+Summary: Gates of War are barriers in the Vault of War, the first level of the Stronghold of Security. They will ask players questions about account security before allowing them to pass, unless the Gift of Peace has been claimed. Passage through a door from a room filled with monsters is always immediate, however, allowing one to escape combat if needed.

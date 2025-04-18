@@ -1,0 +1,46 @@
+[Weapon: Witch Hat]
+
+
+Thewitch hatis a cosmetic reward from the2022 Halloween event. It is part of thewitch costumeset, and can be obtained as a reward from the Halloween events that occur once per year. Notably, wearing the hat will change the player's nose to that of a stereotypical witch.
+If destroyed, a replacement can be obtained fromDiangoinDraynor Villageor from thetoy boxof acostume room, as part of the2022: Witch Costumeset.Ultimate Ironmenwill be unable to retrieve individual pieces until the full set is stored.
+
+
+[Infobox]
+Released: 26 October2022(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Destroy
+Destroy: You can get a replacement from Diango.
+Examine: A spooky hat complete with an even spookier nose.
+General Store Value: 0 coins
+Alchemy: Not alchemisable
+Weight: 0.028 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

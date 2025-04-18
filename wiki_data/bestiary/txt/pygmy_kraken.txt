@@ -1,0 +1,37 @@
+Name: Pygmy kraken
+Combat Level: 34
+Size: 1x1
+Info:
+- Description: ? (edit)
+
+Slayer Info:
+
+Immunities:
+- Poison: ? (edit)
+- Venom: ? (edit)
+- Monster ID: beta14262,beta14263
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 30
+Attack: None
+Strength: None
+Defence: 30
+Magic: 40
+Ranged: None
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

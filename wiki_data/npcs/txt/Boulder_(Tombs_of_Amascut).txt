@@ -1,0 +1,2 @@
+Item: Boulder (Tombs of Amascut)
+Summary: Boulders are NPCs that spawn during the fight with Ba-Ba in the Tombs of Amascut. When encountered, they will all have the same health, which scales depending on team size and path level, but one will be cracked. Players will always hit their Ranged max hit on the cracked version.

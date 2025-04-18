@@ -1,0 +1,149 @@
+[Minigame: JalTok-Jad]
+
+JalTok-Jad
+
+
+
+
+
+
+
+Released | 1 June2017(Update)
+
+Members | Yes
+
+Combat level | 900
+
+Size | 5x5
+
+Examine | Large, destructive, enthralling.
+
+
+
+Combat info
+
+
+
+XP bonus | +0%
+
+Max hit | 113
+
+Aggressive | Yes
+
+Poisonous | No
+
+Attack style | Ranged,Magic,Stab
+
+Attack speed | 8 ticks (4.8 seconds)
+
+
+
+Slayer info
+
+
+
+Slayer level | None
+
+Slayer XP | 350xp
+
+Category | TzHaar
+
+Assigned by | 
+
+
+
+Combat stats
+
+
+
+ |  |  |  |  | 
+
+350 | 750 | 1020 | 480 | 510 | 1020
+
+
+
+Aggressive stats
+
+
+
+ |  |  |  |  | 
+
++0 | +0 | +100 | +75 | +80 | +0
+
+
+
+Melee defence
+
+
+
+ |  | 
+
++0 | +0 | +0
+
+
+
+Magic defence
+
+
+
+ | 
+
++0 | No elemental weakness
+
+
+
+Ranged defence
+
+
+
+ |  | 
+
++0 | +0 | +0
+
+
+
+Immunities
+
+
+
+Poison | Not immune
+
+Venom | Immune
+
+Burn | Immune to normal burns
+
+
+
+Open in DPS calculator
+
+Advanced data
+
+
+
+Monster ID | 7700,7704,10623
+
+Link | MOID
+
+
+
+JalTok-Jadis one of the monsters which can be found in theInferno. It is a stronger version ofTzTok-Jad, and similarly attacks in all three forms of combat where the player must use the appropriate protection prayers before the attack hits. Its attacks have the potential to kill players in a single hit if their health is not boosted viasaradomin breworanglerfish.
+
+In the Inferno, five JalTok-Jads will appear around the end of the waves:
+
+A lone Jad on wave 67, which will summon 5Yt-HurKotupon reaching half health.Three Jads on wave 68. The first Jad will engage normally, while the other two will have a slight delay before engaging the player so that all three can be flicked at once. Each Jad will summon 3 Yt-HurKot upon reaching half health, and their attack speed is a tick slower.A lone Jad on wave 69. This Jad will appear whenTzKal-Zukreaches 480 or less hitpoints and will initially attempt to target theAncestral Glyphupon spawning. Aggression can be changed by attacking it, and it summons 3 Yt-HurKot upon reaching half health, who always spawn north of it.
+
+JalTok-Jads are fought inTzHaar-Ket-Rak's Challenges, where the player can fight up to six at once, starting from one. The player first fights one JalTok-Jad, then two, up to six. In order to encounter more than two, the player must have completed the Inferno previously. Players who complete the challenge are rewarded with the ability to change apetTzRek-JadintoJalRek-Jad.
+
+A stronger versionUnbound JalTok-Jadcould be fought in a League-only Challenge duringTrailblazer Reloaded Leagueand theRaging Echoes League.
+
+Trivia[edit|edit source]
+
+Rather than having unique healers of their own, the healers for JalTok-Jad areYt-HurKots, who also serve as TzTok-Jad's healers.Inbeta worlds, players could opt to fight six JalTok-Jads by entering theJad-fest portalwest of theClan Warsbank chest, which had not yet been moved to theFerox Enclave. During this challenge, their attack speed is increased to 8 and 4–5 healers will spawn for each of them. This challenge has occasionally been available during beta testing of new items, but has been removed from beta worlds at some point. This challenge later turned into theTzHaar-Ket-Rak's Challenges.
+
+v•t•eInferno
+
+Monsters | Jal-NibJal-MejRahJal-AkJal-AkRek-MejJal-AkRek-XilJal-AkRek-KetJal-ImKotJal-XilJal-ZekJalTok-JadYt-HurKotTzKal-ZukJal-MejJak
+
+Rewards | Infernal capeJal-nib-rekTokkul
+
+Related | Inferno (music track)Ancestral GlyphRocky support

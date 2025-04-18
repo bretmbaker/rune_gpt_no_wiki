@@ -1,0 +1,2 @@
+Item: Gnome baller
+Summary: Gnome Ballers are gnomes found in the Tree Gnome Stronghold Gnome Ball pitch. While competing in Gnome Ball, the gnome ballers may try to tackle and take possession of the ball. The gnome ballers have a Tackle option which, when successful, knocks them to the ground and recovers possession of the ball.

@@ -1,0 +1,50 @@
+[Weapon: Skills Necklace#(3)]
+
+
+Askills necklaceis adragonstone necklacethat has been enchanted with theLvl-5 Enchantspell.
+A skills necklace can be recharged at thetotem polein theLegends' Guild, at theFountain of Uhldin theMyths' Guild, or by castingRecharge Dragonstone, giving it four charges. Players who have completedLegends' Questcan also recharge it at theFountain of Rune, giving it six charges.
+
+
+[Infobox]
+Released: 30 April2007(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Rub, Drop
+Worn options: Rub
+Examine: You will need to recharge the necklace at the Legends Guild.
+General Store Value: 20,200 coins
+High alch: 12,120 coins
+Low alch: 8,080 coins
+Weight: 0.01 kg
+Grand Exchange Value: 12,249 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 46,043
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

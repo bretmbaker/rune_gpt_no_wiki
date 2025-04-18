@@ -1,0 +1,61 @@
+[Weapon: Cape Of Legends]
+
+
+Thecape of legendsis acapethat can be bought for675 coinsfromSiegfried Erkleon the western portion of the2ndfloor[UK]3rdfloor[US]of theLegends' Guildupon completion of theLegends' Quest. They can also purchase it fromPerdufor1,900 coinsshould they lose it after purchasing it at least once.
+Like theobsidian cape, it has balanced defence bonuses, but has 2 less in each. It is therefore sometimes seen as a status symbol, as a series of challengingquestsmust be completed to equip it, although it is far cheaper than the obsidian cape. As a result, it is a popular choice whenPKingor taking part in dangerous activities.
+
+
+[Infobox]
+Released: 20 August2003(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Drop
+Examine: The cape worn by members of the Legends Guild.
+General Store Value: 450 coins
+High alch: 270 coins
+Low alch: 180 coins
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +7
+- Slash: +7
+- Crush: +7
+- Magic: +7
+- Ranged: +7
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Abyss/Strategies(Defence)
+4 | Barbarian Assault/Strategies(Melee (mid level))
+5 | Krystilia/Strategies(Magic)
+3 | Pay-to-play Prayer training(High Magic defence)
+3 | Pay-to-play Prayer training(Dinh's bulwark)
+4 | Revenants/Strategies(Melee)
+4 | Scurrius/Strategies(Magic (mid level))
+3 | Scurrius/Strategies(Melee (mid level))
+5 | Scurrius/Strategies(Range (mid level))
+5 | Spindel/Strategies(Melee)
+5 | Venenatis/Strategies(Melee)

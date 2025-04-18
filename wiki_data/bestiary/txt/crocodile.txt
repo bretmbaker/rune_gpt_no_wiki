@@ -1,0 +1,42 @@
+Name: Crocodile
+Combat Level: 63
+Size: 2x2
+Info:
+- Description: Never smile at a...
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 62 xp
+- Category: Crocodiles
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 4184,11581,11582
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 62
+Attack: 53
+Strength: 54
+Defence: 54
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

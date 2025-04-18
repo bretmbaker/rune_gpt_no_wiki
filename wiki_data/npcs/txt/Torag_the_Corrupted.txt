@@ -1,0 +1,2 @@
+Item: Torag the Corrupted
+Summary: Torag the Corrupted is the second youngest Barrows brother. Torag's crypt is located to the south-west of the Barrows area. He uses melee equipment, which makes him vulnerable to Magic attacks. Torag's set effect is Corruption, which gives him a 25% chance per successful hit to lower the player's energy by 20% of the current amount; having 50% energy would result in 10% energy being drained, leaving the player with 40% energy.

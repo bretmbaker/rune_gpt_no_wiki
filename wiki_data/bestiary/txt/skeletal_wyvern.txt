@@ -1,0 +1,103 @@
+Name: Skeletal Wyvern
+Combat Level: 140
+Size: 3x3
+Info:
+- Description: A very dangerous pile of animated wyvern bones.
+
+Slayer Info:
+- Required Level: 72
+- Slayer XP: 210 xp
+- Category: Skeletal Wyverns
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 468
+- Link: MOID
+
+Location:
+
+Money Making:
+- The following money making guide is available for Skeletal Wyvern:
+
+Notable Drops:
+- Granite legs (1/512[2])
+- Dragon platelegs (1/512)
+- Dragon plateskirt (1/512)
+- Soul rune (1/128)
+- Grimy guam leaf (1/73.1)
+- Grimy marrentill (1/97.5)
+- Grimy tarromin (1/130)
+- Grimy harralander (1/167.2)
+- Grimy ranarr weed (1/212.8)
+- Grimy irit leaf (1/292.6)
+- Grimy avantoe (1/390.1)
+- Grimy kwuarm (1/468.1)
+- Grimy cadantine (1/585.1)
+- Grimy lantadyme (1/780.2)
+- Grimy dwarf weed (1/780.2)
+- Nothing (1/235.16; Never[d 1])
+- Coins (1/260.06)
+- Loop half of key (1/270.95; 1/268.93[d 2])
+- Tooth half of key (1/270.95; 1/268.93[d 2])
+- Uncut sapphire (1/1,092.27; 1/554.67[d 2])
+- Runite bar (1/1,092.27)
+- Nature rune (1/1,820.44)
+- Rune 2h sword (1/1,820.44)
+- Rune battleaxe (1/1,820.44)
+- Uncut emerald (1/2,184.53; 1/1,109.33[d 2])
+- Law rune (1/2,730.67)
+- Death rune (1/2,730.67)
+- Steel arrow (1/2,730.67)
+- Rune arrow (1/2,730.67)
+- Adamant javelin (1/2,730.67)
+- Rune sq shield (1/2,730.67)
+- Dragonstone (1/2,730.67)
+- Silver ore (1/2,730.67)
+- Uncut ruby (1/4,369.07; 1/2,218.67[d 2])
+- Rune kiteshield (1/5,461.33)
+- Dragon med helm (1/5,461.33)
+- Rune spear (1/5,765.37; 1/668.94[d 2])
+- Shield left half (1/11,530.73; 1/1,337.89[d 2])
+- Chaos talisman (1/11,650.84; 1/5,916.44[d 2])
+- Dragon spear (1/15,374.31; 1/1,783.85[d 2])
+- Uncut diamond (1/17,476.27; 1/8,874.67[d 2])
+- Rune javelin (1/34,952.53; 1/17,749.33[d 2])
+- Brimstone key (1/73[d 1])
+- Clue scroll (elite) (1/350[d 2][2])
+- Draconic visage (1/10,000[2])
+
+Combat Achievements:
+- A Frozen Foe from the Past: Kill a Skeletal Wyvern (Medium (2 pts))
+
+[Combat stats]
+Hitpoints: 200
+Attack: 125
+Strength: 116
+Defence: 120
+Magic: 125
+Ranged: 120
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 140
+Slash: 90
+Crush: 90
+
+[Magic defence]
+Magic: 80
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 140
+Standard: 140
+Heavy: 140

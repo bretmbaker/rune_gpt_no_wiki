@@ -1,0 +1,4 @@
+Item: Noxious pommel
+Summary: The noxious pommel is a rare drop from Araxxor. It can be combined with the noxious point and noxious blade to create the noxious halberd.
+Sources:
+- Araxxor (Level 890, Quantity: 1, Rarity: 1/200)

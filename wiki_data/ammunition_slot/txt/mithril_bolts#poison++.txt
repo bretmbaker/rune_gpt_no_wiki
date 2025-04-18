@@ -1,0 +1,73 @@
+[Weapon: Mithril Bolts#Poison++]
+
+
+Mithril boltsare a ranged projectile which are fired from amithril crossbowor higher. Level 36Rangedis required to equip them. As with mostbolts, they can bepoisoned, however this will prevent the addition ofbolt tips.
+To create mithril bolts, a player must first smithunfinished mithril boltsby using amithril baron ananvilwhile carrying ahammer. This requires aSmithinglevel of 53, and for each mithril bar that player smiths, they will get 10 unfinished mithril bolts and 50 Smithingexperience. Then, a player must attachfeathersto the bolts. Attaching feathers to each bolt requires aFletchinglevel of 54 and 1 feather, granting 5 Fletching experience per bolt.
+
+
+[Infobox]
+Released: 31 July2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: Mithril crossbow bolts.
+General Store Value: 20 coins
+High alch: 12 coins
+Low alch: 8 coins
+Weight: 0 kg
+Grand Exchange Value: 32 coins
+Grand Exchange Daily Buy Limit: 7,000
+Grand Exchange Daily Trades Volume: 1,031,996
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +82
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Unknown
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Ambassador Ferrnook | N/A | 16–35 | 69/1,760 | &
+Ambassador Gimblewap | N/A | 16–35 | 69/1,760 | 
+Ambassador Spanfipple | N/A | 16–35 | 69/1,760 | &
+Bronze dragon | 131; 143 | 2–12 | 6/128 | 
+Captain Bleemadge | N/A | 16–35 | 69/1,760 | &
+Captain Dalbur | N/A | 16–35 | 69/1,760 | &
+Captain Klemfoodle | N/A | 16–35 | 69/1,760 | &
+Chaos druid | 13 | 2–12 | 4/128;5/128 | 
+Coffin (Hallowed Sepulchre)Low | 66 | 50–150 | 1/10 | 
+Crossbow stall | 49 | 3 | 3/80 | 
+Elder Chaos druid | 129 | 8–28 | 6/129;7/129 | 
+Forgotten Soul | 20 | 12–24 | 2/128 | 
+G.L.O. Caranock | N/A | 16–35 | 69/1,760 | &
+Garkor | N/A | 16–35 | 69/1,760 | 
+Gnormadium Avlafrim | N/A | 16–35 | 69/1,760 | 
+Hallowed sack | N/A | 50–150 | 5 × 1/10 | 
+Hazelmere | N/A | 16–35 | 69/1,760 | 
+King Bolren | N/A | 16–35 | 69/1,760 | 
+Lieutenant Schepbur | N/A | 16–35 | 69/1,760 | 
+Sarachnis | 318 | 175–225 | 2/100 | 

@@ -1,0 +1,41 @@
+Name: Foreman
+Combat Level: 23
+Size: 1x1
+Info:
+- Description: The boss!
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 1429
+- Link: MOID
+
+Location:
+- Area: Ship Yard (Karamja)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 20
+Attack: 20
+Strength: 20
+Defence: 20
+Magic: 0
+Ranged: 0
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

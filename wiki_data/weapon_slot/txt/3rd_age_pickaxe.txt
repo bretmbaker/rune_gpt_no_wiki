@@ -1,0 +1,63 @@
+[Weapon: 3Rd Age Pickaxe]
+
+
+The3rd age pickaxeis a piece of3rd age equipment. It requires 65Attackto wield and 61Miningto use and shares the same mining speed andspecial attackas adragon pickaxe.
+It is a possible reward frommasterTreasure Trailsand cannot be made through any skills.
+
+
+[Infobox]
+Released: 6 July2016(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A beautifully crafted pickaxe, shaped by ancient smiths.
+General Store Value: 97,950 coins
+High alch: 58,770 coins
+Low alch: 39,180 coins
+Weight: 2.4 kg
+Grand Exchange Value: 2,147,483,647 coins
+Grand Exchange Daily Buy Limit: 40
+Grand Exchange Daily Trades Volume: 0
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +38
+- Slash: -2
+- Crush: +32
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +42
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Spike | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Impale | Stab | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+The Mimic | N/A | 1 | 1/5,244;1/5,750 | 
+Reward casket (master) | N/A | 1 | 1/313,168 | 

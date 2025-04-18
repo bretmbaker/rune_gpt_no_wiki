@@ -1,0 +1,80 @@
+[Minigame: TzHaar-Ket-Rak%27s_Challenges]
+
+ | This is a safe  activity.If youdiehere, you will not lose any of your items, including those stored inside anItem Retrieval Service(deathbank).Warning:It is still dangerous forHardcore group ironplayers.
+
+TzHaar-Ket-Rak's Challenges
+
+
+
+
+
+Released | 3 March2021(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Mor Ul Rek
+
+Leagueregion | Karamja✓
+
+Participants | 1
+
+Skills | Combat
+
+Reward currency | Tokkul
+
+Tutorial | No
+
+Music | Inferno
+
+
+
+Map
+
+
+
+TzHaar-Ket-Rak's Challengesis a solo combat minigame in the inner area ofMor Ul Rek, located within theKaramjavolcano. Offspring ofTzTok-Jad,JalTok-Jadshave been increasing in numbers, andTzHaar-Ket-Rak, aTzHaarwarrior, is tasked with reducing their numbers. He can give out challenges to players to deal with the JalTok-Jad.
+
+The minigame was introduced alongside theCombat Achievements developer blogon 23 November 2020 andsubsequently polledwith 87% of the votes in favour of its addition.
+
+Gameplay[edit|edit source]
+
+Players can accept TzHaar-Ket-Rak's challenge to face an increasing number ofJalTok-Jadsper challenge. The first challenge has players fight one, which then unlocks the next challenge, until players face six simultaneously. The first two challenges are available for anyone who is able to enter the inner area ofMor Ul Rek; the next challenges require players to have completed theInfernoat least once. There is also a final challenge where players face an unlimited numbers of JalTok-Jads, in which when one of them dies, another spawns in place of it, until the player is defeated.
+
+Completing a challenge will rewardTokKul, with the player's best completion times tracked on ascoreboardnearby. Players who complete all six challenges will unlock the "Metamorphosis" option for thepetTzRek-Jad, turning it intoJalRek-Jad.
+
+In theTrailblazer Reloaded LeagueandRaging Echoes League, TzHaar-Ket-Rak offered the Leagues-only Challenge, which involves facing 6Unbound JalTok-Jads. The full overview of the challenge can be foundhere.
+
+Combat Achievements[edit|edit source]
+
+There are 11Combat Achievementtasks (totalling 55 points) available for TzHaar-Ket-Rak's Challenges.
+
+Name | Description | Type | Tier | Comp%
+
+Facing Jad Head-on III | Complete TzHaar-Ket-Rak's second challenge with only melee. | Restriction | Elite (4 pts) | 5.6%
+
+The II Jad Challenge | Complete TzHaar-Ket-Rak's second challenge. | Kill Count | Elite (4 pts) | 10%
+
+TzHaar-Ket-Rak's Speed-Trialist | Complete TzHaar-Ket-Rak's first challenge in less than 45 seconds. | Speed | Elite (4 pts) | 4.6%
+
+TzHaar-Ket-Rak's Speed-Chaser | Complete TzHaar-Ket-Rak's third challenge in less than 3 minutes. | Speed | Master (5 pts) | 2.8%
+
+Facing Jad Head-on IV | Complete TzHaar-Ket-Rak's fourth challenge with only melee. | Restriction | Master (5 pts) | 2.5%
+
+The IV Jad Challenge | Complete TzHaar-Ket-Rak's fourth challenge. | Kill Count | Master (5 pts) | 4.2%
+
+Supplies? Who Needs 'em? | Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory. | Perfection | Master (5 pts) | 2.9%
+
+Multi-Style Specialist | Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad. | Mechanical | Master (5 pts) | 3.3%
+
+TzHaar-Ket-Rak's Speed-Runner | Complete TzHaar-Ket-Rak's fifth challenge in less than 5 minutes. | Speed | Grandmaster (6 pts) | 1.5%
+
+The VI Jad Challenge | Complete TzHaar-Ket-Rak's sixth challenge. | Kill Count | Grandmaster (6 pts) | 2.1%
+
+It Wasn't a Fluke | Complete TzHaar-Ket-Rak's fifth and sixth challenges back to back without failing. | Perfection | Grandmaster (6 pts) | 1.5%
+
+Developers[edit|edit source]
+
+Main developer(s):Mod EdQuality Assurance:Mod CurseArt:Mod GeeandMod Ry
+

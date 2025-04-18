@@ -1,0 +1,128 @@
+[Minigame: Tithe_Farm]
+
+ | This is a non-combat activity.Players should not expect to take damage or risk death from this activity.However, anydeathis still considereddangerousfor the purposes ofhardcore statusanditem retrieval services.
+
+ | This article has astrategy guide.All information on mechanics and strategy will be on this page.
+
+Tithe Farm
+
+
+
+
+
+Released | 7 January2016(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Hosidius
+
+Leagueregion | Kourend✓
+
+Participants | 1
+
+Skills | Farming
+
+Reward currency | Points
+
+Tutorial | No
+
+Music | No
+
+
+
+Map
+
+
+
+TheTithe Farmis aFarmingbasedminigamethat is located inHosidius. The minigame revolves around intensively planting special seeds into farming patches, tending them until harvest, and depositing the produce into sacks in order to earn points. Players can speak toFarmer Gricollerfor information on how to play.
+
+If the player leaves the farm through the door, the game and score will be completelyreset(though any earned points and experience will be kept). This includes removing seeds and collected fruits in the player's inventory. If the player logs out during a session, their score will remain and they'll keep all remaining seeds and collected fruits, but any planted crops will belost.
+
+Requirements[edit|edit source]
+
+In order to play, players must have a minimum of 34 Farming in order to pick up the Golovanova seeds (lowest available) from the table. When trying to enter without seeds, Farmer Gricoller will stop you.
+
+The following items are required:
+
+AspadeAseed dibber(or completedBare-handed planting)One or morewatering cans. It is recommended to have 6 to 8 to avoid needing to refill water containers during a planting cycle while also minimising weight. AGricoller's cancan be bought and used instead once points are obtained.Weight-reducing itemssuch asfull gracefulare not required but highly recommended to offset the weight of farming equipment.
+
+The following seeds are available by searching the table. The game plays out identically regardless of the chosen seeds, however higher tier seeds yield more farming experience; as such, it is recommended to take the highest seed you can plant. Only one type of seed can be taken. Boostscanbe used. However, it's important to note that this boosted level is only necessary for the planting phase. Once the seeds are planted, maintaining the boosted level is not required. Players can water and harvest the plants without any boosted Farming level.
+
+Golovanova seeds(34)Bologano seeds(54)Logavano seeds(74)
+
+Getting there[edit|edit source]
+
+Use theGroupingminigame teleport to Tithe Farm, which requires having entered Tithe Farm once beforeUse theLovakengj Minecart Networkto Hosidius South to travel directly south of the Tithe FarmUse thefairy ringAKR,to teleport to theHosidius Vineryand go southUse aHosidius teleportor exit aplayer-owned housein Hosidius and go eastUse aXeric's talismanto teleport toXeric's Gladeand go south-eastReminisce using theKharedst's memoirsorbook of the deadto Hosidius and go south-eastUse aSkills necklaceto teleport to theWoodcutting Guildand go eastUse aKourend Castle Teleportand go south-east
+
+Gameplay[edit|edit source]
+
+Once the player has chosen seeds appropriate to their Farming level, they may enter the farm. Players may choose up to 10,000 of one type of seed. Seeds can be planted in any empty patches. The plants grow very quickly and must be watered beforeeverystage of growth (3 waterings total) to keep them alive.
+
+The plants take 3 minutes to grow fully; they require water once before minutes 1, 2, and 3, otherwise they will wilt and die. Players can double the growth rate by usingGricoller's fertiliser(slower than some methods,seeStrategysection), which is provided when players enter the minigame area.
+
+After the plants have fully grown, the fruit can be harvested and deposited into any of several sacks around the farm for a reward of Farming experience and possibly also points. For every 3 plants a player deposits, they will earn 1 point and for every 100 plants deposited, they will earn an additional 2 points.
+
+Strategy[edit|edit source]
+
+Rewards[edit|edit source]
+
+Players are rewarded with farming experience and points (1 point per 3 fruit) to spend inFarmer Gricoller's Rewards. To earn points, players must deposit harvested fruits in sacks. The amount of experience and points awarded depends on how many plants are deposited. As many as 10,000 fruits can be harvested and deposited in a single instance. If the player deposits fruits while having enough to surpass 100 fruits in the sack, only enough fruits will be deposited to reach 100, and the sack will empty again. Double experience is awarded for the 75th to 100th fruit added to the sack; players receive bonus experience of 250 times the harvest experience rate when depositing the 75th fruit (1,500, 3,500, or 5,750 experience for Golovanova, Bologano, and Logavano respectively) and a bonus 2 points are awarded when the player adds the 100th fruit to the sack.
+
+Players can only have a maximum of 1,000 points at one time, any fruit added to the sacks will still provide farming experience but no points.Players should avoid depositing more than 2,832 fruits to avoid losing points.
+
+To get all possible collectible items (outfitandfarming tools), you would need1,150 points, which comes out to be ~3257 fruits to harvest (3,300 to be safe due to the point system calculations). Since each harvest takes 3 minutes (from planting to harvesting), if you're planting and harvesting 16 fruits at a time (4 full patches), this will take 48,852 seconds or ~13.6 - 14 hours of farming. It would be faster when doing the methods involving a 5th patch. It becomes much more convenient once you get theGricoller's canfor 200 points, which is roughly 567 fruits deposited. Keep in mind to aim for depositing in 100s when possible for maximum exp/point gain.
+
+Type | Points | Golovanova | Bologano | Logavano
+
+XP | XP with | XP | XP with | XP | XP with
+
+Harvest[d 1] |  | 6 | 6.15 | 14 | 14.35 | 23 | 23.58
+
+First 74 Fruit[d 1] |  | 60 | 61.5 | 140 | 143.5 | 230 | 235.75
+
+Next 26 Fruit[d 1] |  | 120 | 123 | 280 | 287 | 460 | 471.5
+
+75-Fruit Bonus[d 2] |  | 1,500 | 1,500 | 3,500 | 3,500 | 5,750 | 5,750
+
+Full Sack (100 Fruits) | 35 | 9,660 | 9,864 | 22,540 | 23,016 | 37,030 | 37,812
+
+2800 Fruit Deposited[d 3] | 980 | 270,480 | 276,192 | 631,120 | 644,448 | 1,036,840 | 1,058,736
+
+10000 Fruit Deposited | 3,500 | 966,000 | 986,400 | 2,254,000 | 2,301,600 | 3,703,000 | 3,781,200
+
+Reward shop[edit|edit source]
+
+Multiple pieces of clothing can be purchased. Obtaining the fullFarmer's outfitrequires a total of 400 Points, with a total of 1150 Points required for all untradeable rewards and unlocks.
+
+Rewards | Pointsrequired | Notes
+
+ | Farmer's strawhat | 75 | A piece of thefarmer's outfit. Appearance differs between body types.[a 1]
+
+ | Farmer's jacket/shirt | 150 | A piece of thefarmer's outfit. Jacket is obtained if body type A, shirt if body type B.[a 1]
+
+ | Farmer's boro trousers | 125 | A piece of thefarmer's outfit. Appearance differs between body types.[a 1]
+
+ | Farmer's boots | 50 | A piece of thefarmer's outfit. Appearance slightly differs between body types.[a 1]
+
+ | Compost | 1 | Reduces chance of crops becoming diseased while growing throughout the plant cycle and increasing the minimum and maximum number of crops received upon harvest. The supercompost version is more potent.
+
+ | Supercompost | 5
+
+ | Grape seed | 2 | A tradeable seed that can be planted in theVineryto harvestgrapes.
+
+20 | Bologa's blessing(20 stack) | 1 | Converts 1grapesinto 1Zamorak's grapesper scroll when harvesting them from theVinery. Purchasing this requires level 50 Prayer and a one-time payment toBologafor 75,000 coins while wearing an itemaffiliated with Zamorak.1 point grants 20 blessings.
+
+ | Herb box | 30 | A box that contains an assortment of ten randomgrimy herbs.
+
+ | Seed pack | 30 | A pack containing an assortment of random seeds, equivalent to a tier 3 Farming contract seed pack.
+
+ | Seed box | 250 | Stores any amount of six types of seeds.
+
+ | Herb sack | 250 | Stores 30 of each type of grimy herb. Requires 58 Herblore to buy and use.
+
+ | Gricoller's can | 200 | Acts as awatering canbut holds 1,000 doses of water. This effectively lasts 333 plants within tithe farm before it needs refilling. Filled by using it on a water source.
+
+ | Auto-weed | 50 | When enabled, weeds no longer grow in your Farming patches. This doesn't remove weeds that have already grown there, but it stops them from growing back.Once purchased, the ability can be turned on and off freely.Note: This doesn't affect farming patches involved inManaging Miscellania.
+

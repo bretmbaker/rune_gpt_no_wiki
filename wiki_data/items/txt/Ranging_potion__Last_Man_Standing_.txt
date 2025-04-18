@@ -1,0 +1,1 @@
+Aranging potionis apotionfound in theLast Man Standingminigame. A  dose of ranging potion provides atemporary skill boosttoRangedequal to 4 + 10% of the player's current Ranged level, rounded down. Unlike normalranging potions, these lack an "Empty" option.

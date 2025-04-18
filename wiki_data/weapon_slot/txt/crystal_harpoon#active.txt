@@ -1,0 +1,68 @@
+[Weapon: Crystal Harpoon#Active]
+
+
+Thecrystal harpoonis an untradeableharpooncreated viacrystal singingafter finishingSong of the Elves. It requires 71Fishing, 70Attack, and 50Agilityto wield and degrades during use like othercrystal equipment. It can be stored in atackle box.
+While fishing, the charged harpoon provides a 35% increased catch rate over the regular harpoon(a 12.5% increase compared thedragon harpoon), the highest for all harpoons. This effect only works on fish that utilise the harpoon (sharks etc). Whilst fightingTempoross, an additional effect transforms 1/3 of caught fish intoCrystallised harpoonfish, which grant 20% more fishing experience when used as ammunition.
+
+
+[Infobox]
+Released: 25 July2019(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Check, Revert, Drop
+Worn options: Check
+Examine: A very powerful harpoon.
+General Store Value: 520,000 coins
+High alch: 312,000 coins
+Low alch: 208,000 coins
+Weight: 0.907 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +38
+- Slash: +32
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +42
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Stab | Stab | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Lunge | Stab | Aggressive |  | +3 Strength
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Block | Stab | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performs the crystal harpoon's special attack,Fishstabber.
+The crystal harpoon has the samespecial attackas adragon harpoon,Fishstabber, that provides a visible +3boosttoFishing, consuming 100% special attack energy. It cannot be used without the level 70Attackand 50Agilityrequirement to wield the harpoon.
+Also note that any levels boosted above 99 with the special attack will be treated as 99. Therefore, you will start to receive diminishing returns with the special attack at level 97 and 98, with there being no value in activating the special attack at level 99.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Tempoross/Strategies(Standard)
+1 | Tempoross/Strategies(Solo No Cooking)
+1 | Tempoross/Strategies(Solo Cooking + Firefighting (Max Permits))

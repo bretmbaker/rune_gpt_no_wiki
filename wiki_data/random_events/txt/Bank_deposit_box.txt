@@ -1,0 +1,11 @@
+[Page: Bank Deposit Box]
+
+Abank deposit boxallows players to deposit items directly into thebankfrom their inventory without having to open the bank interface. Unlikebankers,bank booths, orbank chests, deposit boxes are one-click and do not require entering abank PIN, allowing for faster depositing times whenskilling,resourcegathering, orworld hopping; however, they cannot be used to withdraw items or check the contents of a player's bank account. Bank deposit boxes can be found in most bank buildings and in a few other areas.
+To use the deposit box, players simply click the box to open up the bank deposit box window, which shows the items in the player's inventory. They can then deposit items by clicking on them, or deposit more than one by right-clicking the item. They can also deposit their entireinventory,worn equipment, or the contents of theirlooting bag(if they have one) by using the buttons at the bottom of the window.
+Players can also quickly deposit items into the deposit box simply by using the item directly on it. If the player has more than one of the item in their inventory, the player will be prompted to select or enter the number of items they want to deposit, otherwise the single item will be deposited immediately.
+Quantity options have been added to the deposit box on mobile.
+Deposit boxes have been added to the following locations:
+Using ESC to close interfaces now functions with the rune pouch and bank deposit box interfaces.
+There is now a bank deposit box in theCrafting Guild, which can be used if you have completed theFalador Hard Diary.
+Deposit-all buttons for your inventory, worn items and looting bag have been added to bank deposit boxes.
+The bank deposit box interface.

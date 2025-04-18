@@ -1,0 +1,303 @@
+Treasure Trails
+Treasure Trails is a Distraction and Diversion which involves solving clue scrolls , rarely dropped items dropped by the majority of monsters in RuneScape . Clue scrolls contain clues and riddles for the player to solve to eventually find a reward casket , which could contain unique rewards. A clue scroll can be obtained randomly from killing monsters, playing minigames, looting implings , fishing , woodcutting , or mining .
+There are six different levels of clue scrolls, with the higher level ones being more difficult to complete. Players can own up to one clue scroll of each level at a time. If a player receives a clue scroll drop while already possessing a clue scroll of that tier, the message You have a sneaking suspicion that you would have received a [tier] clue scroll. appears in their chat box. If a player receives two clue scrolls of the same tier as a drop while killing multiple monsters, they can only pick up one; attempting to pick up the second one results in the message You already have a clue scroll of this tier.
+While treasure trails as an activity is available to free-to-play players, only the lowest level of clues (beginner) can be found and completed in free-to-play worlds. The other five levels are all exclusive to members' worlds.
+It should be noted that if a player dies in the Wilderness with a clue scroll (or reward casket ) in level 20 or higher Wilderness and it is not one of the top 3 kept items (or top 4 with Protect Item prayer) or is not protected by a clue box (in which case the player will lose the box but keep the scroll), the clue scroll will disappear, regardless of whether it's a PvP death or not. In lower Wilderness however (level 20 or lower), in PvP death, an unprotected clue scroll will stay on the ground for up to one hour. Players may find it beneficial to carry a Wilderness sword (to cut webs), Royal Seed Pod / Teleport Crystal and/or an Explorer's ring , as clue scrolls are always kept above these items; these however will be lost upon death and duplicates are easily obtainable.
+If players die to a monster outside of the Wilderness they will always keep their clue scroll, whether protected or not, as it is an untradeable item.
+Treasure Trails will require players to travel all across Gielinor in order to complete them, so meeting the minimum requirements and having plenty of teleportation on hand will help make them easier to clear.
+Contents
+1 Difficulty levels
+2 Solving the Treasure Trails
+3 Antagonists
+4 STASH units
+5 Rewards 5.1 Universal rewards 5.2 Beginner rewards 5.3 Easy rewards 5.4 Medium rewards 5.5 Hard rewards 5.6 Elite rewards 5.7 Master rewards 5.8 Average rewards value 5.9 Milestone rewards
+5.1 Universal rewards
+5.2 Beginner rewards
+5.3 Easy rewards
+5.4 Medium rewards
+5.5 Hard rewards
+5.6 Elite rewards
+5.7 Master rewards
+5.8 Average rewards value
+5.9 Milestone rewards
+6 Ranks
+7 Changes
+8 References
+Difficulty levels [ edit | edit source ]
+Clue scrolls have six types of difficulty levels, these are: beginner, easy, medium, hard, elite, and master. More difficult trails provide more valuable rewards.
+Only one clue scroll of the same difficulty may be in a player's possession at a time—whether in the player's inventory or in the bank—however it is possible to possess multiple scrolls of different difficulties each. If one of your clue scrolls is still on the ground, it is possible to receive additional scrolls of the same difficulty as drops; if this happens, it is possible to complete both scrolls by leaving one on the ground and switching off between steps. If the player possesses a scroll in the bank or inventory and is rolled as a drop, a message in-game will appear stating You have a sneaking suspicion that you would have received a/an [difficulty] clue scroll.
+Some clues will require access to areas which may require quests, will require items that need a certain skill requirement in order to wear, wield or access, or will give a skill challenge that requires a certain level in that skill. The table below links to pages with all requirements. Temporary skill boosts can be used for most non-combat skill challenges.
+Solving the Treasure Trails [ edit | edit source ]
+See the table below for links to the pages with solutions for each clue.
+Antagonists [ edit | edit source ]
+In hard and higher-levelled Treasure Trails, some steps will require the player to fight a random enemy based on the Treasure Trail's tier when the correct spot is dug at, as indicated with the list below:
+STASH units [ edit | edit source ]
+STASH units (short for "Store Things And Stuff Here"), also known as hidey holes, are storage units for emote clue items, saving bank space and bank trips, especially for players who complete many Treasure Trails.
+There are 107 STASH units in total found throughout RuneScape . These locations are initially labelled as inconspicuous bushes/crates/holes/rocks, and, once built, become usable STASH units. Players can check which units they've already built/filled by visiting Watson and reading the noticeboard within his house , or by building a S.t.a.s.h chart in a player-owned house .
+A Hammer & Saw are required in order to build a STASH unit.
+Depending on the scenery the emote clue is located in, STASH may differ in appearance to appear as inconspicuous as possible. For a list of the locations of all STASH units as well as its building materials, visit this page .
+Rewards [ edit | edit source ]
+There are a total of 638 unique rewards from all tiers of clue scrolls. The tier of items and their average value tends to increase with higher tiers of clue scrolls, with exceptions for sought-after items in lower tiers such as the medium tier reward of ranger boots . All tiers except for beginner can reward items from the universal drop table. Starting with the hard tier, rewards may also include items from the mega rare tables, such as gilded equipment or 3rd age equipment .
+Universal rewards [ edit | edit source ]
+Universal rewards are only available from easy Treasure Trails and above.
+Beginner rewards [ edit | edit source ]
+As well as unique Treasure Trails rewards, players may also receive a variety of items. A more detailed overview of all possible rewards can be found at reward casket (beginner) .
+Easy rewards [ edit | edit source ]
+As well as the unique Treasure Trails rewards, players may also receive a variety of items such as black armour , black weapons , willow shortbows , coifs , leather armour , yew shortbows , salmon , trout and steel pickaxes .
+Medium rewards [ edit | edit source ]
+As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (medium) .
+Hard rewards [ edit | edit source ]
+As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (hard) .
+Elite rewards [ edit | edit source ]
+As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (elite) .
+Master rewards [ edit | edit source ]
+As well as the unique Treasure Trails rewards shown below, players may also receive a variety of other items. A more detailed overview of all possible rewards can be found at reward casket (master) .
+Average rewards value [ edit | edit source ]
+Opening a Reward casket generates a certain number of rolls on the relevant loot tables. The table below shows the expected gold values per loot roll, and the expected gold values per completed clue taking into account the average number of generated rolls.
+Milestone rewards [ edit | edit source ]
+There are milestone rewards for each tier of clue scrolls. Each can be obtained by completing a specific amount of clue scrolls of that tier:
+Beginner: Explore — 600 scrolls
+Easy: Large spade — 500
+Medium: Clueless scroll — 400
+Hard: Uri transform — 300
+Elite: Heavy casket — 200
+Master: Scroll sack — 100
+If any of the items are lost, they can be re-obtained by completing another clue scroll of its tier.
+Ranks [ edit | edit source ]
+A player may check the amount of Treasure Trails they have completed by clicking on the Treasure Trail Statistics or by checking the adventure log in their player-owned house . These interfaces also show the player's Treasure Trails rank.
+Changes [ edit | edit source ]
+The amount of time that a clue scroll remains on the ground after being dropped by the player has been increased from two minutes to one hour.
+Players are now informed if they would have received a clue scroll drop but did not because they already have it.
+Two new elite Treasure Trail steps were added.
+A treasure trails expansion introduces beginner clues, music track clues, the Mimic boss, and new clues and rewards across all clue tiers. Additionally, reward caskets were made stackable and inventory icons for clue tiers have been made distinct.
+A treasure trails expansion introduces master clues (including Falo the Bard, Hot/cold clues, master puzzle boxes, and lightbox puzzles). Cipher clues are introduced to medium and hard clues. New rewards are added to all tiers.
+Increased the zone check for an emote clue at the Observatory.
+All clue scrolls now have a right-click 'Check steps' option that will allow you to see exactly how many steps you have completed so far.
+You will now be able to have up to one clue scroll of each tier and will be able to complete clue scrolls of different tiers simultaneously.
+You can no longer receive a clue scroll if Priestess Zul-Gwenwynig is protecting one for you.
+Lumberyard teleport scrolls are now available as clue scroll rewards.
+Clue scrolls and caskets can no longer be picked up on F2P worlds.
+You can no longer receive a clue scroll drop if you have a skill challenge scroll. Appended text on various clue scrolls to make them a little clearer. Fixed a few clue scroll typos.
+Elite clue drops have been added as a drop from high level monsters.
+Patchy is now able to combine some clue scroll rewards.
+The toybox in your player-owned house was updated to store new rewards
+Some clue scroll rewards have been renamed to be more easily searchable
+When you complete a clue scroll the game will now tell you how many of each tier of clue you've completed. This is also shown at the observatory.
+Clue scrolls are now universally dropped in addition to other drops rather than instead of them.
+References [ edit | edit source ]
+^ Jagex. Mod Ash's Twitter account . 9 May 2019.  Archived from the original on 15 July 2019. Mod Ash: "They only give F2P items."
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Beginner
+Easy
+Medium
+Hard
+Elite
+Master
+Explore
+Large spade
+Clueless scroll
+Uri transform
+Heavy casket
+Scroll sack
+All clue scrolls
+Beginner clue scrolls
+Easy clue scrolls
+Medium clue scrolls
+Hard clue scrolls
+Elite clue scrolls
+Master clue scrolls
+Anagrams
+Challenge scrolls
+Ciphers
+Coordinates
+Cryptics
+Emote clues
+Hot/Cold
+Light boxes
+Maps
+Puzzle boxes
+Arthur the Clue Hunter
+Cecilia
+Charlie the Tramp
+Falo the Bard
+Jorral
+Reldo
+Sherlock
+Strange casket
+Uri
+Watson
+Ancient Wizard
+Armadylean guard
+Bandosian guard
+Brassican Mage
+Double agent
+The Mimic
+Third Age Mage
+Third Age Ranger
+Third Age Warrior
+Saradomin wizard
+Zamorak wizard
+Emote items
+Rewards
+STASH
+Noticeboard (Watson's house)
+S.t.a.s.h chart
+World map
+Barbarian Assault
+Fortis Colosseum
+Inferno
+Mage Arena
+Nightmare Zone
+Pest Control
+Tackle organised crime
+Temple Trekking
+TzHaar Fight Cave
+TzHaar-Ket-Rak's Challenges
+Bounty Hunter
+Castle Wars
+Clan Wars
+Emir's Arena
+Soul Wars
+TzHaar Fight Pit
+Last Man Standing
+Brimhaven Agility Arena
+Fishing Trawler
+Forestry
+Giants' Foundry
+Gnome Ball
+Gnome Restaurant
+Guardians of the Rift
+Hallowed Sepulchre
+Impetuous Impulses
+Mage Training Arena
+Mahogany Homes
+Mastering Mixology
+Pyramid Plunder
+Ranging Guild
+Rogues' Den
+Sorceress's Garden
+Stealing artefacts
+The Mess
+Tithe Farm
+Trouble Brewing
+Volcanic Mine
+Shades of Mort'ton
+Tai Bwo Wannai Cleanup
+The Gauntlet
+Warriors' Guild
+Burthorpe Games Room ( Games Zone )
+Rat Pits
+Tears of Guthix
+Chambers of Xeric
+Theatre of Blood
+Tombs of Amascut
+Champions' Challenge
+Shooting Stars
+Treasure Trails
+Blast mine
+Camdozaal Vault
+Chompy bird hunting
+Creature Creation
+Dorgesh-Kaan market trading
+Keldagrim tasks
+Managing Miscellania
+Shayzien Combat Ring
+Stealing valuables
+Underwater Agility and Thieving
+Wise Old Man tasks
+Activities
+Distractions and Diversions
+Treasure Trails
+Free-to-play minigames
+Navigation menu
+Personal tools
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Namespaces
+Article
+Discussion
+Views
+Read
+Edit
+Edit source
+History
+Refresh
+Discord
+Discord
+Navigation
+Main page
+About us
+Random page
+Contact us
+Donate
+Recent changes
+13m ago - MeneerPjoeterBliep
+13m ago - Hewatt
+28m ago - Hewatt
+54m ago - WMC
+Guides
+Recent updates
+List of quests
+Achievement diaries
+Combat achievements
+Skill training
+Money making
+Calculators
+DPS calculator
+New player guide
+User-created guides
+Community
+User help
+Active discussions
+OSRS Wiki Clan
+Policies
+More RuneScape
+RuneScape Wiki
+RSC Wiki
+Dragonwilds Wiki
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+New files
+Browse properties
+This page was last modified on 2 April 2025, at 19:23.
+Content on this site is licensed under CC BY-NC-SA 3.0 ; additional terms apply . RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.
+Privacy policy
+About the Old School RuneScape Wiki
+Disclaimers
+Terms of Use
+Contact Weird Gloop
+Mobile view

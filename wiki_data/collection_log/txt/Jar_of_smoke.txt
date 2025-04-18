@@ -1,0 +1,4 @@
+Item: Jar of smoke
+Summary: The jar of smoke is a rare drop from the thermonuclear smoke devil.
+Sources:
+- Thermonuclear smoke devil (Level 301, Quantity: 1, Rarity: 1/2,000)

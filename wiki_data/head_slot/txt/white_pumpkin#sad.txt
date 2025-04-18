@@ -1,0 +1,49 @@
+[Weapon: White Pumpkin#Sad]
+
+
+Thewhite pumpkinis anevent itemunlocked by completing the2024 Halloween event, after which it can be obtained fromDiangoor retrieved from atoy boxbuilt in thecostume room.
+The pumpkin is one of 63 variants of thecarved pumpkin head, spanning seven colours and nine carvings each. The colour and carvings can be changed at any time by right-clicking the "Colour" or "Carve" options on the pumpkin head. When switching the colour and carvings, the item is renamed to reflect the chosen options.
+
+
+[Infobox]
+Released: 16 October2024(Update)
+Members: No
+Quest item: No
+Tradeable: No
+Bankable: Yes
+Equipable: No
+Stackable: No
+Noteable: No
+Options: Wear, Colour, Carve, Destroy
+Worn options: Colour, Carve
+Destroy: You can get a replacement from Diango.
+Examine: That pumpkin is not happy about things.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.5 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

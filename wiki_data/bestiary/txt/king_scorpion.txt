@@ -1,0 +1,47 @@
+Name: King Scorpion
+Combat Level: 32
+Size: 2x2
+Info:
+- Description: Wow! Scorpions shouldn't grow that big.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 30 xp
+- Category: Scorpions
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3027
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Looting bag(m) (1/4[d 1])
+- Ensouled scorpion head(m) (1/25)
+- Clue scroll (beginner) (1/100)
+- Larran's key(m) (1/791)
+- Slayer's enchantment(m) (1/296)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 30
+Attack: 30
+Strength: 29
+Defence: 23
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

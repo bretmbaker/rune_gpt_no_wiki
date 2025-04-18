@@ -1,0 +1,50 @@
+[Weapon: Strung Rabbit Foot]
+
+
+Astrung rabbit footis made by using aball of woolwith arabbit foot, which requires level 37Craftingand gives 4 experience; players must have level 24Hunterto wear the strung rabbit foot. Rabbit feet can be obtained bysnaring rabbits. Players must have completed theEagles' Peakquestto be able to snare rabbits.
+If worn whilst woodcutting,bird nestdrops are slightly less likely to contain seeds, and slightly more likely to containbird's eggsorrings[1](changing the rate from 3/100 to 3/95[2]). If worn whilst lootingbird houses, bird nest drops are slightly less likely to be empty nests, and slightly more likely to contain eggs or rings.[3]Generally, this means the strung rabbit foot is always beneficial to wear whilst looting birdhouses and woodcutting, since the egg nest gives you another nest at the Woodcutting Guild.
+
+
+[Infobox]
+Released: 28 November2006(Update)
+Also called: Rabbit-foot necklace, Lucky necklace, Lucky rabbit's foot
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Not so lucky for the rabbit.
+General Store Value: 30 coins
+High alch: 18 coins
+Low alch: 12 coins
+Weight: 0.03 kg
+Grand Exchange Value: 3,439 coins
+Grand Exchange Daily Buy Limit: 150
+Grand Exchange Daily Trades Volume: 116
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot

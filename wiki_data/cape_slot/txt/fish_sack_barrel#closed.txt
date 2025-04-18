@@ -1,0 +1,46 @@
+[Weapon: Fish Sack Barrel#Closed]
+
+
+Thefish sack barrelis made by using afish sackon afish barrel. It is an equipable version of the fish barrel, and has the same functions; players can right-click to open the box to have raw fish that the player picks up or fishes be automatically placed inside the barrel, provided there is space for it.
+Rather than a right-click "Check" option that the fish barrel has, the fish sack barrel has a right-click "Configure" option that prompts the player to either check the barrel's contents or to dismantle the item, which splits the item back into a fish sack and fish barrel. This item is lost on death during PvP.
+
+
+[Infobox]
+Released: 24 March2021(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Options: Fill, Wear, Configure, Open, Destroy
+Worn options: Check, Open, Empty
+Destroy: You may win another barrel from Tempoross and buy another fish sack from Alry at Molch lake.
+Examine: There's something fishy about this...
+General Store Value: 1,000 coins
+Alchemy: Not alchemisable
+Weight: 2.267 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +1
+- Magic: +0
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

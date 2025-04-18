@@ -1,0 +1,39 @@
+Name: Kasonde the Craven
+Combat Level: 221
+Size: 1x1
+Info:
+- Description: A vengeful spirit corrupted by dark magic.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Freeze: 100% resistance
+- Monster ID: 12331,12332
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 200
+Attack: 200
+Strength: 200
+Defence: 120
+Magic: 120
+Ranged: 200
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

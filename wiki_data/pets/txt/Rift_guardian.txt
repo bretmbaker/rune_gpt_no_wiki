@@ -1,0 +1,153 @@
+[Pet: Rift_guardian]
+
+Therift guardianis a members-only skillingpetthat can be obtained while trainingRunecraft. The chances of getting it are dependent on the player's Runecraft level, the rune the player is crafting, and the number of essence used. Upon using theGuardian's eyeon it, which is purchased from theGuardians of the Riftreward shop for 3,000abyssal pearls, players can use it to change it into theGreatish guardian.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+When runecrafting usingdark essence fragments, the pet is given after they are removed and the runes are given back.[1]This means if there is not already some of the runes to be crafted in the inventory, and the rest of the inventory is full, and a pet is already following the player, the Rift Guardian willnotbe given; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Colours[edit|edit source]
+
+The colour of the pet received is dependent on the altar at which the player's runes were crafted. Players can change its colour by crafting a rune at the desiredrunic altarwhile it is following the player. Thus, various colours will require different Runecraft levels. When runecrafting at theOurania Altarthe Rift Guardian will turn a random colour, but not necessarily that of one of the runes crafted. The player does not need to have the Runecraft level necessary to make a given rune in order to have their Rift Guardian become that rune's colour at the Ourania Altar. Furthermore, it is not possible for the Rift Guardian to change to its Wrath form via the Ourania Altar.
+
+Should players wish to keep their Rift Guardian the same colour, they may do so via the right-click "Locking" option while it is following the player.
+
+Altar | Image | Altar | Image | Altar | Image | Altar | Image
+
+Air Altar |  | Mind Altar |  | Water Altar |  | Earth Altar | 
+
+Fire Altar |  | Body Altar |  | Cosmic Altar |  | Chaos Altar | 
+
+Astral Altar |  | Nature Altar |  | Law Altar |  | Death Altar | 
+
+Blood AltarBlood Altar (Kourend) |  | Soul Altar |  | Wrath Altar |  | Guardian's eye | 
+
+Drop rates[edit|edit source]
+
+Shown below are the base chances of receiving a rift guardian.[2]Thepet chanceisrolled per essence crafted, not per rune crafted.
+
+A player's actual chances of receiving it is1 inB- (Lvl* 25), whereBis the base chance andLvlis the player's Runecraft level.
+
+The fastest method on average (excluding the use ofrunners) to receive the rift guardian is by craftingmind runes, using theMind Altar Teleport. However,lava runesare recommended, as they are only slightly slower for receiving the pet, but they are significantly better forexperience.
+
+Crafting on runic altars during theGuardians of the Riftminigamewillnotgive players the pet.[3]
+
+To find the pet chance for a method at a given level, refer to theskill pet chance calculator.
+
+Rune | Base chance
+
+Blood runes (Arceuus) | 804,984
+
+Soul runes | 782,999
+
+Ourania Altar | 1,487,213[4]
+
+Everything else | 1,795,758
+
+Through a simulation, the following pet chances were calculated:
+
+Method | Lvl Begin | Lvl End | Essence Crafted | Pet Chance
+
+Lava runes (Fire Altar) | 23 | 77 | 139,933 | 7.50%
+
+Blood runes (Arceuus) | 77 | 90 | 158,475 | 17.91%
+
+Soul runes | 90 | 99 | 253,524 | 27.73%
+
+Lava runes (Fire Altar) | 23 | 99 | 1,240,776 | 49.93%
+
+Mind runes | 89 | 99 | 1,489,480 | 56.42%
+
+Conversion[edit|edit source]
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+References[edit|edit source]
+
+v•t•eGuardians of the Rift
+
+NPCs | ApprenticesCordeliaFelixTamaraRune guardiansThe Great GuardianElementalWeakMediumStrongOverchargedCatalyticWeakMediumStrongOverchargedPortal GuardiansAirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBloodRemainsGuardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remainsAbyssal creaturesAbyssal leechAbyssal guardianAbyssal walker | Apprentices | CordeliaFelixTamara | Rune guardians | The Great GuardianElementalWeakMediumStrongOverchargedCatalyticWeakMediumStrongOverchargedPortal GuardiansAirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBloodRemainsGuardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remains |  | The Great Guardian | Elemental | WeakMediumStrongOvercharged | Catalytic | WeakMediumStrongOvercharged | Portal Guardians | AirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBlood | Remains | Guardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remains | Abyssal creatures | Abyssal leechAbyssal guardianAbyssal walker
+
+Apprentices | CordeliaFelixTamara
+
+Rune guardians | The Great GuardianElementalWeakMediumStrongOverchargedCatalyticWeakMediumStrongOverchargedPortal GuardiansAirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBloodRemainsGuardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remains |  | The Great Guardian | Elemental | WeakMediumStrongOvercharged | Catalytic | WeakMediumStrongOvercharged | Portal Guardians | AirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBlood | Remains | Guardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remains
+
+ | The Great Guardian
+
+Elemental | WeakMediumStrongOvercharged
+
+Catalytic | WeakMediumStrongOvercharged
+
+Portal Guardians | AirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBlood
+
+Remains | Guardian partsGuardian remainsLarge guardian remainsFallen guardianHuge guardian remains
+
+Abyssal creatures | Abyssal leechAbyssal guardianAbyssal walker
+
+Gameplay | Guardian fragmentsGuardian essenceGuardian stonesElementalCatalyticPolyelementalCellsUnchargedWeakMediumStrongOverchargedPortal talismansAirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBloodBarriersWeak BarrierMedium BarrierStrong BarrierOvercharged BarrierSceneryCell tile (broken)Inactive cell tile |  | Guardian fragmentsGuardian essence | Guardian stones | ElementalCatalyticPolyelemental | Cells | UnchargedWeakMediumStrongOvercharged | Portal talismans | AirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBlood | Barriers | Weak BarrierMedium BarrierStrong BarrierOvercharged Barrier | Scenery | Cell tile (broken)Inactive cell tile
+
+ | Guardian fragmentsGuardian essence
+
+Guardian stones | ElementalCatalyticPolyelemental
+
+Cells | UnchargedWeakMediumStrongOvercharged
+
+Portal talismans | AirMindWaterEarthFireBodyCosmicChaosNatureLawDeathBlood
+
+Barriers | Weak BarrierMedium BarrierStrong BarrierOvercharged Barrier
+
+Scenery | Cell tile (broken)Inactive cell tile
+
+Rewards | Rewards GuardianAtlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protectorAbyssal dyesRedGreenBlueIntricate pouchIntricate pouchTarnished locketAmulet of the eyeLost bagTemple SuppliesRing of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardianRaiments of the EyeHat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots | Rewards Guardian | Atlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protectorAbyssal dyesRedGreenBlueIntricate pouchIntricate pouchTarnished locketAmulet of the eyeLost bag |  | Atlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protector | Abyssal dyes | RedGreenBlue | Intricate pouch | Intricate pouchTarnished locketAmulet of the eyeLost bag | Temple Supplies | Ring of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardianRaiments of the EyeHat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots |  | Ring of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardian | Raiments of the Eye | Hat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots
+
+Rewards Guardian | Atlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protectorAbyssal dyesRedGreenBlueIntricate pouchIntricate pouchTarnished locketAmulet of the eyeLost bag |  | Atlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protector | Abyssal dyes | RedGreenBlue | Intricate pouch | Intricate pouchTarnished locketAmulet of the eyeLost bag
+
+ | Atlax's diaryAbyssal pearlsAbyssal lanternAbyssal needleColossal pouchElemental talisman(tiara)Catalytic talisman(tiara)Abyssal protector
+
+Abyssal dyes | RedGreenBlue
+
+Intricate pouch | Intricate pouchTarnished locketAmulet of the eyeLost bag
+
+Temple Supplies | Ring of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardianRaiments of the EyeHat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots |  | Ring of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardian | Raiments of the Eye | Hat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots
+
+ | Ring of the elementsBlood talisman(tiara)Guardian's eyeGreatish guardian
+
+Raiments of the Eye | Hat(red)(blue)(green)Top(red)(blue)(green)Robe(red)(blue)(green)Boots
+
+Scenery | Abyssal RiftBarrierDeposit PoolRubble
+
+Music | Temple of the EyeThe Guardians PrepareGuardians of the Rift
+
+Related | StrategiesTemple of the Eye (location)Temple of the Eye (quest)
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan

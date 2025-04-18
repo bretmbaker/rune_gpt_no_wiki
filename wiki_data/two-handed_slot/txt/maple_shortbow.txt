@@ -1,0 +1,64 @@
+[Weapon: Maple Shortbow]
+
+
+Amaple shortbowis a two-handedRanged weaponthat can be created with theFletchingskill at level 50 by using abow stringon amaple shortbow (u), granting 50experience. ARangedlevel of 30 is required to wield it. The bow can use arrows up toadamant. However, this bow isn't powerful enough for the use of broad arrows.
+It is notable for being the best bow thatfree-to-playplayers can use.
+
+
+[Infobox]
+Released: 25 March2002(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A shortbow made out of Maple, still effective.
+General Store Value: 400 coins
+High alch: 240 coins
+Low alch: 160 coins
+Weight: 1.36 kg
+Grand Exchange Value: 199 coins
+Grand Exchange Daily Buy Limit: 18,000
+Grand Exchange Daily Trades Volume: 185,982
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +29
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Standard | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Ranged
+ | Rapid | Standard | Rapid | 3 ticks (1.8s) | 7 tiles |  | None
+ | Longrange | Standard | Longrange | 4 ticks (2.4s) | 9 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Archer (Burthorpe) | 42 | 1 | 1/128 | 
+Maniacal Monkey Archer | 132 | 1 | 1/20 | 
+Maniacal monkey | 140 | 1 | 1/20 | 
+Reward Chest (The Gauntlet) | N/A | 8–11(noted) | 1/27 | 

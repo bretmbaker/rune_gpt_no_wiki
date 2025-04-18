@@ -1,0 +1,4 @@
+Item: Mud battlestaff
+Summary: A mud battlestaff is a mud elemental staff which provides unlimited amounts of water and earth runes as well as the autocast option when equipped. It requires 30 Attack and 30 Magic to wield.
+Sources:
+- Dagannoth Prime (Level 303, Quantity: 1, Rarity: 1/128)

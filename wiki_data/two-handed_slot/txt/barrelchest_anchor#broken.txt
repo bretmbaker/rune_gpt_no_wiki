@@ -1,0 +1,69 @@
+[Weapon: Barrelchest Anchor#Broken]
+
+
+Thebarrelchest anchoris aquest itemacquired inThe Great Brain Robbery. 60Attackand 40Strengthare required to wield it. It is obtained after killingBarrelchest.
+Players receive this item in a broken state and must paySmithon the docks ofMos Le'Harmlessa fee of230,000coinsto repair the anchor (Book o' piracyis needed to properly speak with Smith). If the anchor is lost, players can retrieve another damaged anchor fromBrother Tranquilityor purchase a repaired one fromPerdufor290,000coins. Similar to theBearhead, players donotneed to completeThe Great Brain Robberyin order to use or reclaim the Barrelchest anchor.
+
+
+[Infobox]
+Released: 6 March2007(Update)
+Members: Yes
+Quest item: The Great Brain Robbery
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Destroy
+Destroy: If you drop the Anchor it will be destroyed, and you will need to get a new one from Brother Tranquility, then pay Smith to re-forge it.
+Examine: This is likely to put my back out...
+General Store Value: 230,000 coins
+High alch: 138,000 coins
+Low alch: 92,000 coins
+Weight: 30 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -2
+- Slash: +10
+- Crush: +92
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +100
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Pound | Crush | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Pummel | Crush | Aggressive |  | +3 Strength
+ | Spike | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Crush | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player using the barrelchest anchor's special attack,Sunder.
+The barrelchest anchor has aspecial attack,Sunder, which doubles the player's accuracy, increases max damage by 10%, and drains the opponent's combat stats equivalent by 10% of the damage dealt in the following order:Defence,Attack,Ranged, thenMagic.[1]This consumes 50% of the player's special attack energy.
+The stat drain total is based on 10% of the base damage roll, and will not take into account any modifiers applied at a later point in the calculation.[2]
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Down Do Specs(Melee)
+3 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+4 | Kalphite Queen/Strategies(Flinching)
+5 | Moons of Peril/Strategies(Eclipse Clone phase)

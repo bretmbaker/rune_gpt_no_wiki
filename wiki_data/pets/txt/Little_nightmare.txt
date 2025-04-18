@@ -1,0 +1,89 @@
+[Pet: Little_nightmare]
+
+TheLittle Nightmareis apetthat can be obtained by defeatingThe NightmareorPhosani's Nightmare. It is a much smaller version of her. The pet has a 1/800 drop rate in the original encounter, increasing by said amount for every additional player in the room when the fight started; 1/1600 in a duo, 1/2400 in a trio, 1/3200 in a 4-man and 1/4000 in a 5 or higher man encounter. At Phosani's Nightmare, the pet has a flat 1/1400 drop rate.
+
+The little nightmare is able tometamorphoseinto a little parasite. For Little nightmare to be able to do so, players must use theParasitic Eggon her, a drop acquired from Phosani's Nightmare.
+
+When a player receives the pet, it will automatically try to appear as their follower. At the same time, a message in thechatboxwill stateYou have a funny feeling like you're being followed.However, if a player receives a pet while having a follower out (for example, acat), it will be placed into theirinventory. When this occurs, the message in the chatbox will instead stateYou feel something weird sneaking into your backpack.
+
+If a player's inventory is fullandthey have a follower already, theywill notreceive the pet; it must instead be claimed fromProbitainEast Ardougnefor a reclaim token, which costs 1,000,000coins.
+
+Ondeath, if a player loses their pet (as a follower or in your inventory) it will wander around the area for 30 seconds before despawning. Even if the player returns in time, the pet cannot be picked up, and can be reclaimed from Probita for a reclaim token.
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+The Nightmare | 814 | 1 | 1/800–1/4,000 | 
+
+Phosani's Nightmare | 1024 | 1 | 1/1,400 | 
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Changes[edit|edit source]
+
+Date | Changes
+
+7 July2021(update) | A typo in the NPC name for the Little Parasite was corrected; previously it was named "Little Parasaite".The Little Parasite now uses its proper chathead model when spoken to, rather than using the Little Nightmare's chathead.
+
+11 November2020(update|poll) | The pet drop rate has been changed to scale with group size. Previously, it was always 1/4,000 (or 1/3,800 for the MVP).
+
+Trivia[edit|edit source]
+
+The player asks if the male equivalent of a nightmare (asmareis the common name of a female horse) would be a nighthorse, although the common name for a male horse is astallion.Little nightmare had a festive override wearing ared partyhatduring the2020,2021,2022,2023, and2024Christmas events. The Little Parasite only had a festive override for the 2022 Christmas event.
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan
+
+v•t•eThe Nightmare
+
+Monsters | The NightmareHuskParasiteSleepwalkerPhosani's NightmarePhosani's NightmareHuskParasiteSleepwalker |  | The NightmareHuskParasiteSleepwalker | Phosani's Nightmare | Phosani's NightmareHuskParasiteSleepwalker
+
+ | The NightmareHuskParasiteSleepwalker
+
+Phosani's Nightmare | Phosani's NightmareHuskParasiteSleepwalker
+
+Signature drops | Nightmare staffStandardEldritchHarmonisedVolatileOrbsEldritchHarmonisedVolatileInquisitor's equipmentMaceGreat helmHauberkPlateskirtPetLittle nightmareParasitic eggMiscellaneousJar of dreamsSlepey tablet | Nightmare staff | StandardEldritchHarmonisedVolatile | Orbs | EldritchHarmonisedVolatile | Inquisitor's equipment | MaceGreat helmHauberkPlateskirt | Pet | Little nightmareParasitic egg | Miscellaneous | Jar of dreamsSlepey tablet
+
+Nightmare staff | StandardEldritchHarmonisedVolatile
+
+Orbs | EldritchHarmonisedVolatile
+
+Inquisitor's equipment | MaceGreat helmHauberkPlateskirt
+
+Pet | Little nightmareParasitic egg
+
+Miscellaneous | Jar of dreamsSlepey tablet
+
+Scenery | Scoreboard(Phosani's)Pool of Nightmares(Historical)Totem(Phosani's)Nightmare BerriesNightmare BlossomSpore
+
+Music | The Bane of AshihamaThe Everlasting Slumber
+
+Other | ShuraSister SengaSiren's tomeSisterhood Sanctuary

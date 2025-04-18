@@ -1,0 +1,95 @@
+[Weapon: Elysian Spirit Shield]
+
+
+Theelysian spirit shieldrequires 75Defenceand 75Prayerto wield.
+It is made by attaching anelysian sigil, a rare drop from theCorporeal Beast, to ablessed spirit shieldusing ahammerat ananvil; this process requires 90Prayerand 85Smithing. Players without the required skill levels to create the shield may askAbbot Langleyin theEdgeville Monasteryto combine the sigil and the blessed spirit shield, for a fee of 1,500,000 coins.
+
+
+[Infobox]
+Released: 16 October2014(Update)
+Also called: Ely
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: An ethereal shield with an elysian sigil attached to it.
+General Store Value: 2,000,000 coins
+High alch: 1,200,000 coins
+Low alch: 800,000 coins
+Weight: 2 kg
+Grand Exchange Value: 817,586,680 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 157
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +63
+- Slash: +65
+- Crush: +75
+- Magic: +2
+- Ranged: +57
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Shield slot
+
+
+[Passive Effect]
+The shield's passive effect.
+The elysian spirit shield has a 70% chance of reducing the damage the player receives by 25%. On average, this results in a 17.5% overall damage reduction. The passive effect stacks with theJusticiar armourset effect.
+The passive effect does not work against all sources of damage: certain monster special attacks (such asdragonfire) as well as non-combat damage (such aspoison) are unaffected.
+Opponents' healing effects such as theenchanted onyx bolteffect orGuthan's setare not reduced and will heal the full amount, even if the passive effect takes place. Recoil damage, such asVengeance, is applied after the damage reduction.
+If damage would have been taken when the effect activates, a minimum of 1 is reduced, even if the original hit would have been 1. This makes the shield especially useful against monsters such as theKrakenas itstentaclesonly have a maximum hit of 2 yet hit often.[1]
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Chambers of Xeric/Challenge Mode(Magic)
+5 | Chompington(Melee)
+4 | Corporeal Beast/Strategies(Solo melee)
+1 | Dagannoth Kings/Strategies(Range)
+2 | Dagannoth Kings/Strategies(Magic (Rex only))
+1 | Fortis Colosseum/Strategies(Ranged)
+1 | Fortis Colosseum/Strategies(Mage)
+1 | Fortis Colosseum/Strategies(Melee)
+1 | General Graardor/Strategies(Solo (Melee))
+1 | General Graardor/Strategies(Advanced Tank)
+5 | General Graardor/Strategies(Melee Attacker)
+1 | General Graardor/Strategies(Ranged Tank)
+1 | Gout tuber/Strategies(Tank)
+1 | Hunter training(Staff of the dead)
+1 | Inferno/Strategies(Learners)
+2 | Inferno/Strategies(On task)
+1 | K'ril Tsutsaroth/Strategies(Melee Tank)
+2 | K'ril Tsutsaroth/Strategies(Solo Melee)
+5 | K'ril Tsutsaroth/Strategies(Melee)
+1 | Kalphite Queen/Strategies(Max Mage (0 switches))
+4 | Kraken/Strategies(Magic)
+1 | Kree'arra/Strategies(Chinchompas)
+1 | Kree'arra/Strategies(Ranged Tank)
+1 | Mithril dragon/Strategies(Melee tank)
+2 | Nex/Strategies(Ranged)
+3 | Nex/Strategies(Hybrid)
+1 | Pay-to-play Prayer training(High Magic defence)
+1 | Revenants/Strategies(Melee)
+3 | Slayer task/Waterfiends(Melee)
+1 | Sulliuscep/Strategies
+1 | Sulliuscep/Strategies
+2 | Volcanic Mine(Solo)
+2 | Volcanic Mine(Group)

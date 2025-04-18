@@ -1,0 +1,39 @@
+Name: Soldier (tier 3)
+Combat Level: 58
+Size: 1x1
+Info:
+- Description: Ascending the ranks.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Monster ID: 6909,6908
+- Link: MOID
+
+Location:
+- Area: Combat Ring in the Shayzien Encampment
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 55
+Attack: 50
+Strength: 50
+Defence: 50
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

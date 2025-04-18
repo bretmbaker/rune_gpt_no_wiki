@@ -1,0 +1,67 @@
+[Weapon: Toktz-Xil-Ul]
+
+
+Toktz-xil-ulare obsidian throwing rings that require level 60Ranged. They are quite powerful, having stats equivalent to amagic shortbowin conjunction withrune arrows, making them one of the more powerful thrown weapons. Because of this, and the fact that they can be equipped with ashield, they are seen inPvPscenarios quite often even after the introduction ofdragon knives. However, they are significantly more expensive than rune arrows, making them less practical for general use.
+25 of these are required to build anobsidian fenceat level 83Constructionin theSuperior Gardenof aplayer-owned house.
+This weapon has an attack range of 7 on rapid, +2 range on long range.
+
+
+[Infobox]
+Released: 19 September2005(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: Yes
+Noteable: No
+Options: Wield, Drop
+Examine: A razor sharp ring of obsidian.
+General Store Value: 250 coins
+High alch: 150 coins
+Low alch: 100 coins
+Weight: 0 kg
+Grand Exchange Value: 2,498 coins
+Grand Exchange Daily Buy Limit: 11,000
+Grand Exchange Daily Trades Volume: 2,517
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +69
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +49
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Light | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Ranged
+ | Rapid | Light | Rapid | 3 ticks (1.8s) | 7 tiles |  | None
+ | Longrange | Light | Longrange | 4 ticks (2.4s) | 9 tiles |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+TzHaar-Xil | 133 | 10–29 | 4/2,048 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Basilisk Knight/Strategies(Ranged)

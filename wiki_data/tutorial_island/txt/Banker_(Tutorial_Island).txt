@@ -1,0 +1,6 @@
+[Page: Banker (Tutorial Island)]
+
+Thesebankersrun theTutorial Islandbranch of theBankofGielinor.
+
+Unlike the rest of Gielinor's bankers, attempting to talk to them will open the bank interface instead.
+

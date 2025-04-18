@@ -1,0 +1,49 @@
+[Weapon: Polar Camo Legs]
+
+
+Polar camo legsare amembers-onlypiece ofPolar camouflage gear. To make a pair, a player will need to bring twopolar kebbit furand 20coinsto theFancy Clothes StoreinVarrock, toPellemin theHunter Guild, or toPrifddinas' Seamstress.
+When worn, it reducesweightby 2 kg. Additionally, though theexamineclaims so, it does not affect the trapping ofhunter creatures.
+
+
+[Infobox]
+Released: 21 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: These should make me harder to spot in polar areas.
+General Store Value: 20 coins
+High alch: 12 coins
+Low alch: 8 coins
+Weight: 0.226 kg
+Grand Exchange Value: 12,418 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 142
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: -7
+
+Defence Bonuses:
+- Stab: +11
+- Slash: +10
+- Crush: +10
+- Magic: +0
+- Ranged: +10
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Legs slot

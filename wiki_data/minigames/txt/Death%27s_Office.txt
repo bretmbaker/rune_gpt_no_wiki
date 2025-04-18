@@ -1,0 +1,45 @@
+[Minigame: Death%27s_Office]
+
+Death's Office
+
+
+
+
+
+Released | 25 June2020(Update)
+
+Members | No
+
+Location | None
+
+Leagueregion | N/A
+
+Music | Rest in Peace
+
+
+
+Map
+
+
+
+Death's Office, also known asDeath's Domain, is a small office in whichDeathresides. The entrance to Death's Office can be found near any majorrespawnpoint, indicated by a tombstone iconon the minimap:
+
+Lumbridge- graveyard by the churchFalador-White Knights' Castle CryptSeers' Village- graveyard by the churchEdgeville-mausoleumFerox EnclaveKourend CastlePrifddinas-Hefin district, north of the bank (directly north of the central tower).Civitas illa Fortis- west of theSunrise Palace
+
+In Death's office, players can collect items that they did not collect from theirgravewithin 15 minutes ofdying. Items worth less than100,000are free to reclaim, but items worth more come with a 5% reclamation fee. As with graves,ironmen(with the exception of ultimate ironmen) are given a 50% discount, giving them a 2.5% reclamation fee. Note that it is substantially cheaper to reclaim items from a grave, which uses atiered systemdepending on the item's value, capping at 1% in the worst case scenario. Items may be collected at Death's office for the player's convenience before the 15 minute timer has run out, though the higher fee will be charged.
+
+Players may deposit unwanted items into theDeath's cofferfor 105% of the item'sGrand Exchangeprice (item has to be worth more than 10,000 coins to be acceptable), which will be used to pay for item reclamation fees as well as area instances. Items offered herecannotbe withdrawn and the value cannot be used for any other purpose.
+
+Beware that no more than 120 items or item stacks can be held in Death's Office Item Retrieval at any given time, causing items from an expired gravestone to be deleted when the limit is reached.
+
+Death can be talked to in order to cosmetically enhance the player'sgravestoneto a statue of an angel, costing200,000.
+
+Trivia[edit|edit source]
+
+Mithril seedsandadamant seedscannot be used in Death's Office. Attempting to do so results in the messageYou can't plant your flowers here.appearing in chat. Previously it saidPretty flowers won't cheer this place up.instead.Viewing "Items Kept on Death" whilst in the Death's Office will show an additional message about the office being a safe area (despite its' appearances) and Death considering dying there silly.TheSiren's tome, an item which passed a poll but was scrapped afterward, can be seen behindDeath's desk.
+
+v•t•eRealms
+
+Realms and dimensions | Abyssal SpaceBritainCosmic entity's planeDream WorldDeath's OfficeGielinorKillerwatt planeRealm of the Fisher KingRabbit RealmScapeRuneShadow RealmThordur's BlackholeLand of SnowZanaris
+
+Homeworlds | Enchanted ValleyFreneskaeGorak PlaneInfernal DimensionsPuro-PuroTarddiadVampyriumYu'biusk

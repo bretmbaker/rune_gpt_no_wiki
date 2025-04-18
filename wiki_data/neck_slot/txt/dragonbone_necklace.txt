@@ -1,0 +1,95 @@
+[Weapon: Dragonbone Necklace]
+
+
+Thedragonbone necklaceis a necklace that is dropped exclusively byVorkath. Wearing the necklace requires level 70 inPrayer, and currently offers the highestPrayer bonusof any piece of equipment available inOld School RuneScape.
+When worn, it will restore Prayer points as bones are buried (even if buried via thebonecrusher). This effectdoes notstack with theCatacombs of KourendPrayer restoration effect, and does not grant Prayer points for scatteringdemonic ashes.
+
+
+[Infobox]
+Released: 4 January2018(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: A necklace made out of dragon bones.
+General Store Value: 80,000 coins
+High alch: 48,000 coins
+Low alch: 32,000 coins
+Weight: 0.005 kg
+Grand Exchange Value: 95,629 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 593
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +10
+- Slash: +10
+- Crush: +10
+- Magic: +10
+- Ranged: +10
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +2
+- Crush: +2
+- Magic: +2
+- Ranged: +2
+
+Other Bonuses:
+- Strength: +2
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +12
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+VorkathPost-quest | 732 | 1 | 1/1,000 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Alchemical Hydra/Strategies(Ranged)
+2 | Barrows/Strategies(Magic equipment)
+2 | Basilisk Knight/Strategies(Ranged/Prayer)
+2 | Basilisk Knight/Strategies(Ranged)
+3 | Commander Zilyana/Strategies(Ranged)
+4 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+4 | Dagannoth Kings/Strategies(Magic (Rex only))
+2 | Deranged archaeologist/Strategies(Magic)
+2 | Dust devil/Strategies(Bursting/Barraging)
+2 | Greater Nechryael/Strategies(Bursting/Barraging)
+2 | Kalphite Queen/Strategies(Mid-game Players (Phase One))
+2 | Kalphite Queen/Strategies(Mid-game Players (Phase Two))
+3 | Kree'arra/Strategies(Chinchompas)
+3 | Kree'arra/Strategies(Ranged Tank)
+2 | The Leviathan/Strategies(Ranged)
+3 | Lizardman shaman/Strategies(Ranged)
+3 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+2 | Maniacal monkey/Strategies(Ranged)
+3 | Maniacal monkey/Strategies(Magic - Ice Burst)
+5 | Nightmare Zone/Strategies(Melee (Prayer))
+3 | Royal Titans/Strategies(Mid-game)
+2 | Slayer task/Abyssal demons(Ranged)
+2 | Slayer task/Abyssal demons(Magic)
+2 | Slayer task/Jellies(Ranged)
+2 | Slayer task/Nechryael(Magic)
+2 | Slayer training(Ranged)
+3 | Smoke devil/Strategies
+2 | Sulliuscep/Strategies
+2 | Sulliuscep/Strategies
+2 | TzHaar Fight Cave/Strategies(Ranged)
+2 | TzHaar Fight Cave/Strategies(Magic)
+2 | TzHaar Fight Cave/Strategies(Ranged (Atlatl))
+1 | Volcanic Mine(Solo)
+1 | Volcanic Mine(Group)
+4 | Vyrewatch Sentinel/Strategies(AFK Prayer)
+1 | Why Fletch?(Redemption strategy at Wintertodt)
+1 | Zalcano/Strategies(Mining)

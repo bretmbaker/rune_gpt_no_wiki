@@ -1,0 +1,45 @@
+[Weapon: Amy%27S Saw (Off-Hand)]
+
+
+Amy's saw (off-hand)is a variant ofAmy's sawthat can be equipped in theshield slot. The saw loses its combat bonuses, but otherwise functions identically to the normal variant.
+The saw can be swapped back into its normal variant by using the "Swap" option.
+
+
+[Infobox]
+Released: 14 August2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Swap, Drop
+Examine: She saw scope for improvement.
+General Store Value: 280 coins
+Alchemy: Not alchemisable
+Weight: 0.8 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Shield slot

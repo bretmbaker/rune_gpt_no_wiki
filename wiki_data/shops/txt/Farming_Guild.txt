@@ -1,0 +1,191 @@
+[Shop: Farming_Guild]
+
+Farming Guild
+
+
+
+
+
+Released | 10 January2019(Update)
+
+Members | Yes
+
+Location | Kebos Lowlands
+
+Leagueregion | Kourend✓
+
+Requirements | 45(beginner),65(intermediate),85(advanced)
+
+
+
+Map
+
+
+
+Advanced data
+
+
+
+Type | guild
+
+
+
+TheFarming Guildis amembers-only guild located within theKebos Lowlandsjust north of theKebos Swamp. The guild is a large greenhouse separated into three tiers, with each tier requiring an increasingFarminglevel to enter (boostsmay be used for all tiers). To enter the guild, a minimum Farming level of 45 is required. This will take you into the central area of the guild. The beginner section of the guild (the eastern wing) is also already accessible from level 45 onwards, but the intermediate and advanced tier requires level 65 and 85 Farming to enter respectively.
+
+The guild was founded byJane, the guildmaster, along with other fellowHosidiusfarmers after theShayzien Armycleared out thelizardmenin the surrounding area.[1]Despite the risks of the lizardmen just acrossRiver Molch, the discoveries made here, along with the heat coming fromMount Karuulmjust north-east, allows the guild to grow flora that would never survive inGreat Kourend's climate,[2]such as theHesporiand thecelastrus tree.
+
+Getting there[edit|edit source]
+
+Using askills necklaceto teleport to the guild. Players with at least 45Farmingwill be teleported inside the guild rather than outside.Note: If teleporting inside the guild, players must leave and re-enter the guild to satisfy the requirements of the mediumKourend & Kebos DiaryUsing theFarming capeto teleport to the guild.Using theLovakengj Minecart Networkto the Farming Guild station, and run east. Using the minigame teleport toTithe Farmputs you very close to a minecart.CastingBattlefront Teleportor using themagic tabletequivalent, then run west to the guild.Travelling toMount Karuulmviafairy ring(codeCIR), and running south-west.Players with 85 Farming can plant aspirit treein the advanced tier of the guild. If players with less than 85 have a fully grown spirit tree planted, they must boost their level to 85 in order to teleport via spirit tree.UsingRada's blessing 3orRada's blessing 4, obtained from completing the hard and eliteKourend & Kebos Diaryrespectively, to teleport toMount Karuulmand walk south-west to the guild.
+
+Features[edit|edit source]
+
+Farming contracts[edit|edit source]
+
+Because the guild needs to rotate the crops they're growing to stop the soil from tiring due to a lack of nutrients,Guildmaster Janecan assignfarming contractsthat require the player to grow certain crops within the Farming Guild. Players who complete them are awarded withseed packs, which contain an assortment of seeds and can includeHespori,celastrus, andredwood seeds.
+
+There are three tiers of contracts available, with each tier being restricted based on their Farming level and their level of access within the Farming Guild. Boosts may be used to accept a farming contract you are below the level requirement for.
+
+Beginner tier[edit|edit source]
+
+The beginner tier comprises the guild's main area and east wing, requiring 45 Farming to enter.
+
+Four volumes ofGielinor's Flora, a series of books which go into detail about the various flora ofGielinor, can be found in this area.Volume onecan be found in thecratenear the flower patch, whilevolumes two,three, andfourcan be found by searching theshelvesin the central area.
+
+By the entrance to the guild, Jane, the guildmaster, provides background on the guild and assigns farming contracts.
+
+Three shops are available in the central area:Allanna's Farming Shop(which sellsempty plant potsalongsidefilled ones),Amelia's Seed Shop, and theGarden Centreshop. Aspadeandbucketspawn can also be found here.
+
+The guild'sbankchest can be found here, as well as theseed vault, where players can store most types of seeds and saplings used inFarming.
+
+The following patches can be found within the east wing of the guild:
+
+Cactus patchTwo allotment patchesFlower patchBush patch
+
+Alanwill look after the cactus, allotment, and bush patches, provided he is given the appropriate protection payment for the player's crops. There is also a singleTool Leprechaun.
+
+Abig compost bincan be found here, which is able to make and store 30buckets' worth ofcompost, twice as much as a normalcompost bin. Converting this bin from normal compost tosupercompostrequires only one dose ofcompost potion, but converting it toultracompostrequires twice the normal amount ofvolcanic ash(50 instead of 25). This bin can be filled while simultaneously harvesting a nearby allotment. Stand close to the bin and next to the allotment, harvest a single crop, then click the allotment and use the crop already in your inventory on the bin in the same game tick.
+
+AMaster Farmercan be found here for players topickpocket.
+
+Lastly, aruby harvestbutterfly can be caught here.
+
+Intermediate tier[edit|edit source]
+
+The intermediate tier comprises the guild's west wing, requiring 65 Farming to enter.
+
+A boost can be used to enter. Once inside, dropping to below 65 will not result in your expulsion.
+
+The following patches can be found within the west wing of the guild:
+
+Herb patchTree patchHespori patch (inside the cave)Anima patch
+
+Rosielooks after the tree patch, provided she is given the appropriate protection payment for the player's tree. There is also a singleTool Leprechaun.
+
+Two more volumes ofGielinor's Floracan be found here.volume fivecan be found in thecratenear the tree patch, andvolume sixcan be found in thecratenear the anima patch.
+
+AMaster Farmercan be found here for players topickpocket.
+
+Lastly, twosnowy knightbutterflies can be caught within the west wing.
+
+The Hespori patch, accessible via thecave entrance, is a patch where players with 65 Farming can plantHespori seeds. These are randomly obtained when harvesting plants throughout Gielinor or rewarded from farming contracts. The Hespori plant cannot become diseased, and therefore does not need to be watered, composted, or protected by a farmer.
+
+Once the patch has fully grown, which is indicated by the flower behind the cave sprouting open or by going into the cave and checking, theHesporican be fought as a solodemi-boss. Killing the Hespori boss grants Farming experience and seeds, including the uniquewhite lilyandanima seeds. It can also drop thebottomless compost bucket, which can hold up to 10,000 compost of any kind and doubles any compost added to it. In addition, defeating the Hespori has a chance to give theTanglerootpet.
+
+TheHesporifight is instanced but has an item reclaim service; see the boss page for more information.
+
+The anima patch is a patch where players with 76 Farming can plantanima seeds, which can only be obtained as drops from the Hespori. Players can speak toFelfiz Yaryusto ask about their effects.
+
+Unlike other seeds, these plants are active as soon as they are planted, and slowly wither and die through their various growth stages. The plants will last approximately 3.5 days, and require planting again to restore their benefits. An in-game message will state when the plants die, and they can also be checked via theGeomancyLunar spell.
+
+Planting a seed in the anima patch here has worldwide effects on all farming patches throughoutGielinor. There are three types of anima seeds:
+
+Attas seed: Grows an Attas plant, which increases the yield of farming patches.Iasor seed: Grows an Iasor plant, which decreases the chance of farming patches from becomingdiseased.Kronos seed: Grows a Kronos plant, which provides a chance for farming patches to skip a growth stage, effectively making them grow faster.
+
+Advanced tier[edit|edit source]
+
+The advanced tier comprises the guild's north wing, requiring 85 Farming to enter. A secondbankcan be found here, close to a fountain and theTool Leprechaun.
+
+A boost can be used to enter. Once inside, dropping to below 85 will not result in your expulsion. However, logging out while in the advanced tier will cause the player to be moved to the central area.
+
+The farmers here will look over all patches in this area, with a singleTool Leprechaunpresent.
+
+The following patches can be found within the north wing of the guild:
+
+Fruit tree patch:Nikkieis the farmer who looks after this patch.Spirit tree patch:Latlink Fastbellis the farmer who looks after this patch.If the player uses a boost to enter the advanced tier without 85 Farming, they can plant aSpirit treein the patch here and use it to re-enter the advanced tier, but must boost once again in order to do so.Celastrus patch: A unique patch where players can plant acelastrus sapling;Tayloris the farmer who looks after this patch.Once fully grown into acelastrus tree, it can be harvested forcelastrus barkthat can be crafted intobattlestaveswith level 40Fletching. Planting acelastrus treeand fletching abattlestaffout of its bark is an elite task in theKourend & Kebos Diary.Redwood patch: A unique patch where players can plant aredwood saplingwith level 90 Farming;Alexandrais the farmer who looks after this patch. Players cannot remove the tree on their own; they must payAlexandra2,000 coins to do so.Once fully grown into aredwood tree, it can be climbed on and chopped akin to those in theWoodcutting Guild, with abank deposit boxvery close to the ladder. The tree differs from the two found in the Woodcutting Guild - the tree has four choppable areas (one per side) on its single level rather than eight.
+
+Thelast volumeofGielinor's Floracan be found in thecratenear the celastrus patch.
+
+AMaster Farmercan be found here for players topickpocket. Ablack warlockbutterfly spawns on the western tile touching the north side of the Fruit tree patch. Asleeping catcan be found in the gazebo in the north-east corner.
+
+Music unlocked[edit|edit source]
+
+Name | Unlock details | Music track
+
+Creeping Vines | Unlocked in the Hespori cave | 
+
+A Farmer's Grind | Unlocked in the intermediate tier | 
+
+Getting Down to Business | Unlocked east of the guild | 
+
+Grow Grow Grow | Unlocked in the advanced tier | 
+
+Hoe Down | Unlocked upon entering the Farming Guild | 
+
+Newbie Farming | Unlocked south of the guild | 
+
+A Thorn in My Side | Unlocked during the fight with the Hespori | 
+
+Changes[edit|edit source]
+
+Date | Changes
+
+10 January2024(update|poll) | AsKourend Favourhas been removed, accessing the guild no longer requires it.
+
+28 March2019(update|poll) | Theseed vaultwas added west of the bank chest.
+
+28 February2019(update|poll) | A plant has been added behind the Hespori cave entrance to indicate whether the Hespori can be harvested or not.
+
+24 January2019(update) | Doors within the Farming Guild were further tweaked, allowing interaction with things in different tiers of the guild without being stopped at the door.
+
+17 January2019(update) | To prevent bottlenecks, doors within the Farming Guild were changed to now remain open with invisible barriers instead.
+
+11 January2019(update) | Due to player complaints over misclicking, the poll booth was moved two tiles west, while the bank chest and bank deposit box switched places.
+
+References[edit|edit source]
+
+v•t•eFarming Guild
+
+Gielinor's Flora | FlowersBushesHopsAllotmentsHerbsTreesFruit
+
+Shops | Amelia's Seed ShopGarden CentreAllanna's Farming Shop
+
+Main lobby & east wing | Guildmaster JaneAmeliaAllannaAlanGarden supplierTool LeprechaunSergeantRangerSoldierFerain
+
+West wing | ArnoFelfiz YaryusRosieHesporiFlower
+
+North wing | AlexandraBankerLatlink FastbellNikkieTaylorCat
+
+Other | Seed packFarming contractSeed vault
+
+Music | Creeping VinesA Farmer's GrindGetting Down to BusinessGrow Grow GrowHoe DownNewbie FarmingA Thorn in My Side
+
+v•t•eLocations in theKebos Lowlands
+
+North | BattlefrontFarming GuildKaruulm Slayer DungeonKebos SwampLizardman TempleMolchMount KaruulmRiver MolchXeric's Shrine
+
+South | Chambers of XericLacerta FallsLizardman SettlementLizardman CavesLake MolchMount QuidamortemQuidamortem Cave
+
+v•t•eGuilds
+
+Free-to-play | Champions'CookingCraftingMining
+
+Members | FarmingFishingHeroes'HunterLegends'Myths'RangingWarriors'Wizards'Woodcutting
+
+v•t•eFarms
+
+Personal | Alice's farm (Port Phasmatys)Fisher farmFred's farm (Lumbridge)Gordon and Mary's farmGroats farm (Lumbridge)Cow fieldKeith's farmMiller farm (Lumbridge)Sarah's farm (Falador)
+
+No owner | Ardougne farmBunbridge farmDraynor farmEntrana homesteadHarmony Island farmHosidius farmLumbridge pastureOrtus FarmOuter Fortis fieldsSouth Varrock farm
+
+Other | Farming GuildLuthus' plantationMoonrise Brewery and WineryTithe FarmVinery

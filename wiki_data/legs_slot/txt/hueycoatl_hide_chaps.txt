@@ -1,0 +1,57 @@
+[Weapon: Hueycoatl Hide Chaps]
+
+
+TheHueycoatl hide chapsare a piece of theHueycoatl hide armourset from theHueycoatlboss. Equipping the legs requires 70Ranged.
+The chaps are an upgrade overblessed dragonhide armour, with improvedPrayer bonusesandMagic defence.
+
+
+[Infobox]
+Released: 25 September2024(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: Made from real Huey hide!
+General Store Value: 6,220 coins
+High alch: 3,732 coins
+Low alch: 2,488 coins
+Weight: 5.443 kg
+Grand Exchange Value: 702,885 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 541
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -10
+- Ranged: +17
+
+Defence Bonuses:
+- Stab: +31
+- Slash: +25
+- Crush: +33
+- Magic: +30
+- Ranged: +31
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +2
+
+Slot: Legs slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Alchemical Hydra/Strategies(Ranged)
+1 | Basilisk Knight/Strategies(Ranged/Prayer)
+3 | Basilisk Knight/Strategies(Ranged)
+2 | Slayer task/Gargoyles(Ranged)

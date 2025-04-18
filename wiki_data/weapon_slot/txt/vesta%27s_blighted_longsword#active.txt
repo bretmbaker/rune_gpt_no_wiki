@@ -1,0 +1,59 @@
+[Weapon: Vesta%27S Blighted Longsword#Active]
+
+
+Vesta's blighted longswordis an untradeable sword that can be purchased atJustine's stuff for the Last Shopper Standingfor 300Last Man Standingpoints. It requires 75Attackboth to wield it and to purchase it from the reward shop.[1]
+The sword is inactive upon purchase, and must be activated by using50,000,000coins on it. Once activated, it becomes equipable, sharing the same stats andspecial attackas itsother variants. However, the blighted longsword can only be used on aBounty Hunterworld while in theWildernessor insideDaimon's Crater.[2]This restriction applies to bothPvMandPvPcombat activities.
+
+
+[Infobox]
+Released: 23 April2020(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: Blighted so it can fight only in the Wilderness and Bounty Hunter on Bounty Hunter worlds.
+General Store Value: 800,000 coins
+Alchemy: Not alchemisable
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +106
+- Slash: +121
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +1
+- Slash: +4
+- Crush: +3
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +118
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 5 ticks (3.0s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing Vesta's blighted longsword's special attack.
+Vesta's blighted longsword has aspecial attack,Feint, that consumes 25% of the player'sspecial attack energyand deals between 20% and 120% of the user's max hit.
+The accuracy of this special attack is rolled against 25% of the opponent'sdefence.

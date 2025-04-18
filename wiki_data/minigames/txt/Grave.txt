@@ -1,0 +1,80 @@
+[Minigame: Grave]
+
+Grave
+
+
+
+
+
+
+
+Released | 25 June2020(Update)
+
+Members | No
+
+Quest | No
+
+Location | Appears upon a player's death
+
+Leagueregion | N/A
+
+Options | Check, Loot
+
+Examine | Someone's been dead round here. Tut tut.
+
+
+
+Advanced data
+
+
+
+NPC ID | 9856
+
+Link | MOID
+
+
+
+Gravesare objects that appear upon a player'sdeathcontaining items that were neitherkept on death, sent toDeath's Office, nor deleted. This mechanic is enabled after the first time visitingDeathin Death's Office, which typically happens the first time a player dies. Graves appear either at the spot the player died or outside theinstance; a grave will not appear if the content has anItem Retrieval Service(e.gZulrah).
+
+Graves are indicated on theminimapwith a gravestone icon, and can be found on anyworld, regardless of where the death initially occurred. They can be accessed from a distance of up to 7 tiles away, provided the player has line-of-sight.
+
+Players have 15 minutes afterrespawningto return to their grave and collect any items inside. The 15-minute timer does not count down when a player is logged out,idlefor more than 10 seconds, or has the grave interface open. It will still count down if certain interfaces such as the bank window are open. Players can speak toDeathto collect items from him rather than from the grave, though this service can be more expensive.
+
+The angel aesthetic for the gravestone can be bought at Death's Office for200,000. This change is purely cosmetic and gives no additional benefits. If you change your gravestone back to the basic gravestone you will have to pay the200,000fee again if want to change your gravestone to the angel aesthetic once more.
+
+Item Recovery Fees[edit|edit source]
+
+From agravestone[edit|edit source]
+
+Mostitemsworthless than100,000can be reclaimed for free, but items worth more have a fee depending on the item's value:
+
+No fee for items worth less than 100k1,000for each reclaimed item between 100k and 1m10,000for each reclaimed item between 1m and 10m100,000for each reclaimed item equal to or above 10mThe total combined fees are capped at500,000Ironmenget a 50% discount when reclaiming items from their grave.
+
+Players have 15 minutes afterrespawningto return to their grave and collect any items inside. The 15-minute timer does not count down when a player is logged out,idlefor more than 10 seconds, or has the grave interface open.
+
+FromDeath's Office[edit|edit source]
+
+After 15 minutes have passed, items are sent toDeath's Officewhere the reclamation fee is 5% for items worth100,000or more. These items will be stored indefinitely.Ironmenget a 50% discount when reclaiming items either from their grave or Death's Office; putting the reclamation fee at 2.5%. Players can opt to have death collect these items immediately without waiting.
+
+From anItem Retrieval Service[edit|edit source]
+
+Varies widely, see theItem Retrieval Servicepage.
+
+Gravestone Storage[edit|edit source]
+
+When storing items, a gravestone functions similarly to a bank with 120 slots. Dying with an already existing grave causes all newly dropped items to be deposited into that initial grave at its original location. The 15-minute timer is then refreshed. For example, if you die in theVarrock Sewers, respawn, and die again with more gear elsewhere, your newly lost items will be in theVarrock Sewersat your existing grave.Entranais an exception; dying with a grave on the island will move it to the spot the player died.
+
+Item Limitations[edit|edit source]
+
+Graves have some limitations on how many unstackable items they may hold. For unstackable items likelogs, a grave will hold up to 56 of each type of log, before sending additionally lost items toDeath's Office. No such limit exists forstackable items.
+
+Certain unstackable items cannot be stockpiled in this way to prevent abuse. On death, if any of the following item types were already in a gravestone, they will be immediately sent to Death's Office in order to make space for whatever items the player has just died with. This means only one inventory of these items can be stored in a grave at a time and only if they dropped from the most recent death.
+
+These include:
+
+Unpowered orbPure essenceBonesOresFood(raw and cooked)Planks
+
+If a graveonlycontains these types of items, and dying sends nothing new to the grave, then the grave disappears since all its contents were sent to Death's Office. Therefore it is recommended to keep at least one other item (not in this list) in the grave when using it to stockpile these supplies, to guarantee it doesn't disappear on death.
+
+Players can also choose to toggle the "Food/Potions can form supply piles on death"settingin order to drop supplies to the ground on death rather than sending them to the grave. However, while in theWilderness, food, potions, andphoenix necklacescannot be sent to a grave or dropped and are instead deleted.
+

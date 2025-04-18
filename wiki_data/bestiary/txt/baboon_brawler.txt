@@ -1,0 +1,53 @@
+Name: Baboon Brawler
+Combat Level: 56
+Size: 1x1
+Info:
+- Description: An undead baboon brawler.
+
+Slayer Info:
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Thralls: Not immune
+- Monster ID: 11709
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 25
+Attack: 40
+Strength: 40
+Defence: 12
+Magic: 40
+Ranged: 40
+
+[Aggressive stats]
+Attack bonus: 20
+Strength bonus: 0
+Magic attack bonus: 20
+Magic strength bonus: 0
+Ranged attack bonus: 20
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 900
+Slash: 900
+Crush: 900
+
+[Magic defence]
+Magic: -60
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 900
+Standard: 900
+Heavy: 900

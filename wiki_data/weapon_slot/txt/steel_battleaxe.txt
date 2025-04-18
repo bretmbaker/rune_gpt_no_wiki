@@ -1,0 +1,88 @@
+[Weapon: Steel Battleaxe]
+
+
+Thesteel battleaxeis abattleaxestronger than theiron battleaxe. The steel battleaxe requires 5Attackto wield.
+Players can make a steel battleaxe with theSmithingskill at level 40 using 3steel bars, giving the player 112.5experience. 
+Players can purchase this battleaxe fromBrian's Battleaxe BazaarinPort SarimorBob's Brilliant AxesinLumbridge.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A vicious looking axe.
+General Store Value: 650 coins
+High alch: 390 coins
+Low alch: 260 coins
+Weight: 2.721 kg
+Grand Exchange Value: 201 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 8,911
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: -2
+- Slash: +16
+- Crush: +11
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: -1
+
+Other Bonuses:
+- Strength: +20
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Hack | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Abyssal demonStandard | 124 | 1 | 3/128 | 
+Abyssal demonWilderness Slayer Cave | 124 | 1 | 3/68 | 
+Basilisk | 61 | 1 | 3/128 | 
+Black demonRegular | 172; 178; 184 | 1 | 3/128 | 
+Blue dragon | 111 | 1 | 3/128 | &
+Cyclops (Catacombs of Kourend) | 56; 76 | 1 | 2/100 | 
+Cyclops (God Wars Dungeon) | 81 | 1 | 2/100 | 
+CyclopsWarriors' Guild Rooftop | 56; 76 | 1 | 2/100 | 
+GorakFull | 145; 149 | 1 | 1/128 | 
+Greater abyssal demon | 342 | 1 | 3/128 | 
+Greater demonRegular | 92; 100; 101; 113 | 1 | 3/128 | 
+Green dragonRegular | 79 | 1 | 3/128 | &
+JellyRegular | 78 | 1 | 11/128 | 
+Kalphite Guardian | 141 | 1 | 3/128 | 
+Magic axe | 42 | 1 | 10/500 | 
+Monstrous basilisk | 135 | 1 | 3 × 3/128 | 
+Reward casket (beginner) | N/A | 1 | 11/492 | 
+Steel Chest (black) | N/A | 1 | 5/134.46;5/129.29 | 
+Steel Chest (brown) | N/A | 1 | 5/134.39;5/129.22 | 
+Steel Chest (crimson) | N/A | 1 | 5/134.43;5/129.25 | 
+Steel Chest (purple) | N/A | 1 | 5/134.5;5/129.33 | 
+Steel Chest (red) | N/A | 1 | 5/134.35;5/129.19 | 
+Terror dogLevel 100 | 100 | 1 | 3/128 | 
+Terror dogLevel 110 | 110 | 1 | 3/128 | 
+Tyras guard | 110 | 1 | 3/128 | 
+Vitreous Jelly | 206 | 1 | 3 × 11/128 | 

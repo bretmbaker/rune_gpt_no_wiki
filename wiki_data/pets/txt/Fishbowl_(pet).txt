@@ -1,0 +1,71 @@
+[Pet: Fishbowl_(pet)]
+
+Apet fishmay be obtained fromHarry's Fishing ShopinCatherby, by using atiny netto fish in one of aquarium fishing spots inside the shop. For a player to be able to fish in the aquarium it is necessary for them to have afishbowlcontainingwaterandseaweedin their inventory. Catching a pet fish gives 1Fishingexperience.
+
+Pet fish eatfish food. A box of fish food can be found on the1stfloor[UK]2ndfloor[US]ofDraynor Manor. Players can also make fish food by addingground guamandground seaweedto anempty fish food box.
+
+There are three different types of pet fish. It is possible to own multiple types of pet fish at the same time and to have more than one fish of the same colour. The type of fish received is dependent on the player'sFishinglevel. At level 99, players have a 40% chance of catching a bluefish, 40% chance of catching a greenfish, and a 20% chance of receiving a spinefish.[1]Players must have at least level 70 Fishing to be able to obtain the orange (spinefish) variant.
+
+Pet fish can be stored in aplayer-owned housemenagerie. When dropping it in any other way, a message will pop up saying "If you drop your fishbowl it will break!", after which the player can choose to "Drop it regardless" or to "Keep hold".
+
+A player talking with their fish.A player playing with their fish.
+
+Fishing info[edit|edit source]
+
+Fishbowl
+
+Level required | 10
+
+Fishing XP | 1xp
+
+Bait | Fishbowl (seaweed)
+
+Fishing spot | Aquarium
+
+Required tool | Tiny net
+
+Fishing chance[edit|edit source]
+
+Dialogue[edit|edit source]
+
+This article has an associated transcript page.Click herefor the transcript.
+
+Trivia[edit|edit source]
+
+"Just keep swimming...swimming...swimming" is a reference to Dory fromFinding Nemo.Using any item on the fishbowl will yield the message "Your fish looks at you strangely. You get the feeling this will not work." Interestingly, using the fishbowl on any other item instead returns "Nothing interesting happens."Fish can be put in themenagerieof aplayer-owned house. However, you will only be able to interact by talking to it.
+
+References[edit|edit source]
+
+v•t•ePet fish
+
+Fishbowls | BluefishGreenfishSpinefishEmpty fishbowlWaterSeaweed
+
+Related | Tiny netGround guamSeaweedGround seaweedAn empty boxGuam in a boxSeaweed in a boxFish foodHarryHarry's Fishing Shop
+
+v•t•ePets
+
+Boss pets | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorkiDagannoth KingsDagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.God Wars DungeonGeneral Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.The Forgotten FourBaronButchLil'viathanWispRaidsOlmletLil' ZikTumeken's GuardianSlayerAbyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle HydraWilderness bossesCallisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.MinigamesAbyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef |  | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki | Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr. | God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr. | The Forgotten Four | BaronButchLil'viathanWisp | Raids | OlmletLil' ZikTumeken's Guardian | Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra | Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr. | Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+ | Baby molePrince Black DragonBranDark coreHuberteKalphite princessLittle NightmareMoxiMuphinScurrySkotosSmolcanoSrarachaSnakelingPhoenixTiny TemporVorki
+
+Dagannoth Kings | Dagannoth Prime Jr.Dagannoth Rex Jr.Dagannoth Supreme Jr.
+
+God Wars Dungeon | General Graardor Jr.K'ril Tsutsaroth Jr.Kree'arra Jr.NexlingZilyana Jr.
+
+The Forgotten Four | BaronButchLil'viathanWisp
+
+Raids | OlmletLil' ZikTumeken's Guardian
+
+Slayer | Abyssal orphanHellpuppyKrakenNoonSmoke DevilNidIkkle Hydra
+
+Wilderness bosses | Callisto cubChaos Elemental Jr.Scorpia's offspringVenenatis spiderlingVet'ion Jr.
+
+Minigames | Abyssal protectorJal-Nib-RekLil' CreatorPenance PetSmol HereditTzRek-JadYoungllef
+
+Skilling pets | Baby chinchompaBeaverFoxPheasantGiant squirrelHeronRift guardianRock GolemRockyTanglerootQuetzin
+
+Cats | KittenAdultOvergrownWilyLazyHellcatToy
+
+Other pets | BloodhoundChompy chickFishHerbiRock
+
+NPC followers | NieveGnome childDr BanikanElias WhiteKnight of VarlamoreSilifPrince Itzla Arkan

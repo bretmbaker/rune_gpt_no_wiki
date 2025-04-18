@@ -1,0 +1,104 @@
+Name: Kurask
+Combat Level: 106
+Size: 3x3
+Info:
+- Description: Large, heavy, with sharp things attached to its head.
+
+Slayer Info:
+- Required Level: 70
+- Slayer XP: 97 xp
+- Category: Kurask
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Immune
+- Thralls: Not immune
+- Monster ID: 410
+- Link: MOID
+
+Location:
+- Area: Fremennik Slayer Dungeon AJR
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Leaf-bladed sword (1/384[1])
+- Mystic robe top (light) (1/512[1])
+- Leaf-bladed battleaxe (1/1,026[2])
+- Grimy guam leaf (1/27.6)
+- Grimy marrentill (1/36.7)
+- Grimy tarromin (1/49)
+- Grimy harralander (1/63)
+- Grimy ranarr weed (1/80.2)
+- Grimy irit leaf (1/110.2)
+- Grimy avantoe (1/147)
+- Grimy kwuarm (1/176.4)
+- Grimy cadantine (1/220.4)
+- Grimy lantadyme (1/293.9)
+- Grimy dwarf weed (1/293.9)
+- Toadflax seed (1/41.5)
+- Irit seed (1/61)
+- Belladonna seed (1/62.9)
+- Poison ivy seed (1/88.7)
+- Avantoe seed (1/88.7)
+- Cactus seed (1/92.9)
+- Potato cactus seed (1/130.1)
+- Kwuarm seed (1/130.1)
+- Snapdragon seed (1/195.1)
+- Cadantine seed (1/278.7)
+- Lantadyme seed (1/390.2)
+- Snape grass seed (1/487.7)
+- Dwarf weed seed (1/650.3)
+- Torstol seed (1/975.5)
+- Nothing (1/41.41; Never[d 1])
+- Uncut sapphire (1/82.67; 1/41.98[d 2])
+- Uncut emerald (1/165.33; 1/83.96[d 2])
+- Uncut ruby (1/330.67; 1/167.92[d 2])
+- Uncut diamond (1/1,322.67; 1/671.67[d 2])
+- Chaos talisman (1/881.78; 1/447.78[d 2][d 3])
+- Nature talisman (1/881.78; 1/447.78[d 2][d 3])
+- Loop half of key (1/2,645.33; 1/1,343.33[d 2])
+- Tooth half of key (1/2,645.33; 1/1,343.33[d 2])
+- Rune javelin (1/2,645.33; 1/1,343.33[d 2])
+- Rune spear (1/42,325.33; 1/2,518.75[d 2][d 4])
+- Shield left half (1/84,650.67; 1/5,037.5[d 2][d 4])
+- Dragon spear (1/112,867.56; 1/6,716.67[d 2][d 4])
+- Crystal shard (1/24[d 1])
+- Brimstone key (1/79[d 2])
+- Clue scroll (hard) (1/128[d 3][3])
+- Kurask head (1/3,000[1])
+
+Combat Achievements:
+- Master of Broad Weaponry: Kill a Kurask. (Medium (2 pts))
+
+[Combat stats]
+Hitpoints: 97
+Attack: 67
+Strength: 105
+Defence: 105
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: 0
+Strength bonus: 0
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 0
+Slash: 20
+Crush: 20
+
+[Magic defence]
+Magic: 0
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 0
+Standard: 0
+Heavy: 0

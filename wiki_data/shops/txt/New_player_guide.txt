@@ -1,0 +1,481 @@
+[Shop: New_player_guide]
+
+Thenew player guideis intended to help both new and returning players. The guide covers a wide range of topics including;skills,money making, and some early-game content inOld School RuneScape.
+
+Important:
+
+All new accounts will start onTutorial Island.RuneScapelogin credentials will work onOld School RuneScape, however previous account progress is not carried over.Account progression is not shared betweenOld School RuneScapeandRuneScape.Membership statusis shared betweenOld School RuneScapeandRuneScape.Account progression is not tied to a specific world/server.Players can playOld School RuneScapeonPCorphone, and account progression is shared as long as the same login details are entered.A specific account can only be logged into one location at a time, whether PC and phone, orOld School RuneScapeandRuneScape. In order to play the other game or at a different location, the first needs to be logged out.Separate accounts, on the other hand,canlog into multiple locations or games at the same time, even on the same computer.
+
+I'm inLumbridge− what now?[edit|edit source]
+
+This section is for players who are not interested in information about the game client, interfaces and mechanics, but instead want to know where to start after just completing theTutorial Island.
+
+If you have not yet leftTutorial Islandand would like some tips about that, as well as information on how to become anIronman, check out theTutorial Island sectionbelow.
+
+Adventure Paths[edit|edit source]
+
+If you have told theGielinor Guide, the first Non-Player Character (NPC) you talked to after creating your account, that you are new to the game, you should be greeted byAdventurer Jonin Lumbridge, just north of the castle gates. He will introduce you to theAdventure Pathssystem, which rewards you for obtaining several early milestone levels incombatand gatheringskills. He can also give you aCombat path starter kit, full of several useful items for training combat. Following these Adventure Paths gives some clear early goals, and helps you to get going.
+
+Steam Achievements[edit|edit source]
+
+Players playing on theSteam Clientwill be able to completeseveral achievements, which serve as a good guide in getting to know the game. Check out the different achievements available and see which ones you can unlock. Not on the Steam client? No worries! These tasks are a great way to discover new things to do in the game.
+
+Quests[edit|edit source]
+
+One aspect of the game that is sure to act as a goal for experienced and inexperienced players alike, isquesting. There are over twenty quests available for free-to-play players, andmany morefor members. Free-to-play players can check out theFree-to-play optimal quest guidefor a quick way to complete all quests. Members can check out theoptimal quest guidefor a list of quests that is made to be one of the most efficient ways to level up your account. Feel like exploring? Simply look for a quest start icon on theworld mapand talk to the NPC there. You can find a guide for any quest by simply using theWiki lookupbutton below theminimapand then clicking the quest name in yourQuest List, or by typing the quest name in the search bar.
+
+Skills[edit|edit source]
+
+Fresh off Tutorial Island, your player character has not unlocked their full potential yet. However, you can change that bytrainingone of 15free-to-playskills, or 8members-only skills. The more you train, the better you will become at that skill, unlocking many new abilities in each skill. If you ever have some spare time on your hands, training one skill or another is always something you can do with very little planning.
+
+Other activities[edit|edit source]
+
+Other than those activities, there are many things to do around RuneScape. Simply walk around, and go looking for things to do. RuneScape is an open world, and everybody has their own playstyle. Some people like to dress up androle play, other people like to get their stats as high as possible, and yet other people like to compete inminigamesandplayer-versus-player battlesto see who is best. The ultimate goal is to do what feels best. Still need inspiration though? Check out theUnofficial activitiessection down below for some more inspiration!
+
+How do I install OSRS?[edit|edit source]
+
+Old School RuneScapeis available on several platforms for both PC and mobile.
+
+Windows & Mac -OSRS for PCAndroid -Google Play StoreiOS -App StoreLinux - see theLinux game installation guideSteam -Steam store
+
+Servers[edit|edit source]
+
+Old School RuneScapehas over a hundred game servers across the world. These are referred to as "worlds" in-game.All worlds are exactly the sameexcept for some minor variances:
+
+Physical hosting location - Servers are hosted all over the world as to offer every player a server they can connect to without high latency.Silver stars indicate worlds that are for free-to-play players and content, members content cannot be used in these worlds.Gold stars indicate members worlds. Players require membership to play on these servers.Red stars indicatedangerousworlds in which players can attack each other anywhere.Black stars indicate servers dedicated toDeadman Mode, an entirely separate game mode.Green stars indicate servers dedicated toOld School RuneScape Leagues, an entirely separate game mode./Blue stars and "β" indicate servers that are "Unrestricted". These worlds are commonly used by the developers to "Beta test" new features by giving players max stats and the ability to use any item in the game.Cyan stars indicate servers dedicated toQuest Speedrunning, an entirely separate game mode.Level requirement - Some servers have atotal levelrequirement to play on.
+
+Progress is synchronised across worlds (except for Unrestricted, Deadman Mode, League, and Quest Speedrunning worlds), so there is no need to worry about picking a specific server to play on, as is the case with some other MMOs. Logging out of one world and into another, you will find yourself exactly where you left off.
+
+Tutorial Island[edit|edit source]
+
+The first thing players must do on Tutorial Island is customise their character. Don't stress about getting the perfect outfit—it's not permanent! You'll have plenty of chances to give your character amakeoverlater.
+
+After selecting your appearance, players must talk to theGielinor Guide. If you want to qualify for theAdventure Pathssystem, you must tell him either that you are completely new, or that you have not played for a long time. Experienced players will not have access to this system. Once you've done that, you need tocomplete the tutorialwhich explains basic game concepts and user interfaces. Once you complete the tutorial, players will be teleported toLumbridgewhere your adventure begins.
+
+Ironman mode and other restrictions[edit|edit source]
+
+During Tutorial Island, players will speak toPaulwho allows players to impose sets ofrestrictionson an account, this is known asIronman mode. Players can speak toAdam, inLumbridge, to revert to a normal account or downgrade ultimate/hardcore to regular ironman, this process has a 7 day delay.
+
+Ironman accounts are restricted from trading with other players.Ultimate ironman accounts cannot trade nor usebanksto store items.Hardcore ironman are regular ironman accounts with only 1 life. Dying will revert their account back to a regular ironman.Group ironman accounts can only trade with their group, which is between two to five players in total. Groups can be started as hardcore and revert to a normal group ironman group when all lives are lost. Any ironman account can be converted into an unranked group ironman at theironman tutorin Lumbridge.
+
+Trade restrictions[edit|edit source]
+
+New accounts are subject to trade restrictions of commonly botted items on theGrand Exchange. This restriction will be removed once the account surpasses 20 hours of game time, a skill total of 100, and 10 or more quest points have been gained. Players will still be able to use the Grand Exchange as normal but they will not be able to sell any items that are restricted.
+
+A quick way to reach the quest point requirements in order to trade is to complete theSheep Shearer,Cook's Assistant, andRomeo & Julietquests.
+
+This section will cover subjects including the player'saccountandofficial rules.
+
+Membership[edit|edit source]
+
+Players with active Membership have access to a wider variety of content, including 8 additional skills, a larger game world, and over 100 quests.
+
+Players without membership still have plenty of early-game content to experience; membership only becomes fully advantageous at mid-game. This guide assumes that the player's account is free-to-play and that they arenota subscriber.
+
+Account security[edit|edit source]
+
+Account security is of the utmost importance, and accountphishingand theft is often attempted due to the black market value of stolen accounts. Common tactics include in-game website spamming, fake streams, fake social media accounts, fake websites, and advertisements that steal login information- all usually under the guise of in-game benefits.Jagexonlyadvertises in-game special events on theofficial website. It's important to read up on account security and what you can do to protect yourself. You can read Jagex's official article on account securityhere.
+
+Jagex Account[edit|edit source]
+
+TheJagex Accountsystem is the easiest and most secure way to log in, combining all your accounts into one for quick access and added protection. It includes two-factor authentication via email or an authenticator app to keep your account safe. To manage your security settings, visit theAccount Management page.
+
+Important:Make sure to store your backup codes securely! If you lose access to your two-step authentication method, you won’t be able to recover your account.
+
+If you're using an older account with traditional login, it is highly recommended to upgrade to a Jagex account for improved security and convenience. Any imported characters that were using the RuneScape Authenticator will now use the Jagex account security settings, automatically disabling the legacy authenticator.
+
+RuneScape Authenticator[edit|edit source]
+
+The RuneScape Authenticator has been replaced byJagex accountsand is only available on accounts that have not yet been imported to aJagex account.
+
+TheRuneScapeAuthenticatoris an additional layer of protection players can utilise on their accounts. It is compatible withGoogle Authenticator. To set up theRuneScapeAuthenticator, a player must visit theAuthenticator landing page.Jagexgenerates a random 80-bit secret key unique to each user and presents it as aQR codeand as a 16-characterBase32string. Many mobile devices can read the barcode directly through their camera, which is equivalent to entering the Base32 string manually. The implementation generates a 6-digit code every 30 seconds.
+
+Once set up, players are prompted to enter the 6-digit time-based code whenever they log in to the game using an untrusted computer. Players can choose to trust the computers on which they playOld School RuneScapefor up to 30 days or choose to enter a code every time they wish to play.
+
+Bank PIN[edit|edit source]
+
+TheBank PINis the last line of defence between would-be hackers and your in-game items. It can be set up by talking to anyBankerand by following the instructions provided.
+
+Scams and luring[edit|edit source]
+
+Scamsand lures are fraudulent in-game methods where players attempt to mislead you into giving them your wealth.
+
+Game rules[edit|edit source]
+
+All players must follow the rules of the game. Certain things are not allowed, and can result in your account being muted, suspended, or permanently banned from play:
+
+Seriously offensive languageScammingBreaking real-world lawsExploiting a bug(bug abuse)Staff impersonationEncouraging rule breaking (all rules included)Macroingor use of botsOffensive account nameAdvertising websitesBuying or selling anaccountAsking for or providing contact informationSolicitationPlayer-run Games of ChanceDisruptive behaviourReal-life threats
+
+Jagex and player moderators[edit|edit source]
+
+Jagex Moderators(or "Jmods") are employees ofJagex Ltdand are denoted in-game by a gold chat crown ().Player Moderators(or "Pmods") are players chosen specifically by Jagex staff due to their commitment to the in-game community, and they are denoted in-game by a silver chat crown () which should not be confused for theIronmansymbols (). These moderators have special privileges, and can mute rule-breakers.
+
+Options[edit|edit source]
+
+There are many settings within the game which are worth looking into and changing where preferable before getting too deep into your adventure. Some settings of note include:
+
+Chat InterfacefiltersPublic chathas several options to filter out messages, this is particularly useful in theGrand Exchangeor other highly populated areas.Private chatwhen set to "show friends" instead of "show all" there is hidden functionality that also makes youappearoffline to people you don't have on your friend's list. This will heighten your privacy.OptionssettingsControlshas several extremely useful settings that can be changed to better suit your gameplay.Accept Aidwhen enabled, allows other players to use certain items and certain spells on you outside of combat. This includes both helpful and potentially dangerous spells, players should watch out for spells that can send you deep into theWilderness(such asTele Group Ice Plateau). While all "Teleport Other" spells cast on you will prompt you asking whether you wish to be teleported or not, this prompt can bemistakenfor aTrade with another player.
+
+Graphic settings[edit|edit source]
+
+Old School RuneScapehas two graphical modes in the PC version of the game -fixedandresizable. On mobile, there is only one, and it cannot be customised.
+
+Fixed mode is a single 765x503 window that can not be skewed in any direction. It is a fixed size, and can look small on pixel-dense monitors. Resizable mode can be expanded to any size.
+
+This section covers mechanics and other information relating to the game itself. From here on out, the guide will assume the player has completed Tutorial Island, and has a basic understanding of the mechanics and interfaces ofOld School RuneScape.
+
+World map[edit|edit source]
+
+The world map is a realtime-interactable tool full of information to help the player navigate the game world. To open the world map, simply click or right-click the globe icon by the minimap. A left click will open the World map in a small window, and a right click will offer an option to open the map in fullscreen mode, which gives considerably more viewing space.
+
+Energy and weight[edit|edit source]
+
+All players have a finite amount ofenergythat can be used to run. The more weight the character has, the faster energy will depletewhen running. To see the current weight of the inventory and worn items, click theEquipment Statsbutton inside theWorn Equipment. It is more energy efficient to spend energy running when the inventory is most empty - for example, running backtoa resource area after banking rather than running back to bank.
+
+Skills[edit|edit source]
+
+Free-to-play players have access to 15 skills, split up into three categories: combat, gathering, and artisanal. For more information on each skill see their respective article.
+
+Combat skills
+
+ | Attack | Allows players to wield strongermelee weaponsand determines how accurate the player is inMelee.
+
+ | Strength | Determines how high of a number you hit in melee combat if you successfully hit.
+
+ | Defence | Allows players to wear strongerarmourand decrease chance of being hit (does not reduce damage dealt, which is a common misconception).
+
+ | Ranged | Ranged encompasses all archery weapons that attack from a distance. Ranged levels determine both the chance to hitandthe maximum damage a hit can do.
+
+ | Magic | Determines both the chance to hit with magical attacks, as well as the chance to dodge them yourself. Higher levels give access to morespells.
+
+ | Hitpoints | Allows players to sustain more damage.
+
+ | Prayer | Determines whatprayersyou can use, as well as how many prayer points you have. The more points you have, the longer prayers can be enabled.
+
+Gathering skills
+
+ | Mining | Used to gather ores from rocks. A higher Mining level allows use of betterpickaxes.
+
+ | Fishing | Allows players to catchfishatfishing spots.
+
+ | Woodcutting | Allows players to cut down trees to obtainlogs. A higher Woodcutting level allows use of betteraxes.
+
+Artisan skills
+
+ | Runecraft | Allows players to makerunesusingrune essence. Completion ofRune Mysteriesis highly recommended.
+
+ | Crafting | Allows players to createitems, fromjewellerytoranged armour.
+
+ | Smithing | Allows players to smeltoresintobarsand smithbarsintoarmourandweapons.
+
+ | Cooking | Allows players to cookfoodthat can be eaten to heal players'Hitpoints.
+
+ | Firemaking | Allows players to makefireswhich can be used forCookingas an alternative toranges.
+
+Combat training[edit|edit source]
+
+Below is a brief explanation of the threeCombat stylesthat can be used.
+
+InMeleecombat, the maximum damage is determined byStrength, along with the strength bonuses provided by equipment. Accuracy is determined byAttackand the attack bonuses provided by weapons and other equipment.ForRangedcombat, both theRangedlevel and the type of ammunition determine the maximum damage. The accuracy is determined by the weapon used.Magic-baseddamage is typically based on the selectedMagiccombat spell, not by Magic level. Magical accuracy is affected by both the equipment bonuses and by the Magic level.
+
+Combat experience[edit|edit source]
+
+Players gain combat skillexperiencewhen dealing damage. The normal value is 4 XP per damage in thecombat styleused, which is dependent on the type of weapon you're using and what combat style you've selected for it. However, certain high defence monsters have higher experience for hitpoint damage ratio.[1]The normal value for hitpoint experience gained is 1.33 XP per 1 damage done.
+
+Magicspells grant baseexperiencefor each spell cast plus any experience gained from damage dealt, as indicated above. This base XP is granted regardless of whether the spell does damage or splashes on the target.
+
+Defensivemode inmagicandrangeare another exception. If a player uses magic on defensive mode, the normal value is 1 experience to magic XP and 1 experience to defence XP per damage done, plus base casting experience. For ranging with long range, the normal value is 2 ranged XP and 2 defence XP per damage done. If a player is using a melee weapon, such as anAbyssal WhiporRune Spearthat shares experience withattack,strength, anddefence, then the normal value is 1.33 experience (4 divided by 3) per damage done to attack, strength, and defence.
+
+Equipment stats[edit|edit source]
+
+Equipped gear have bonuses that impact combat. Equipment is immune to stat-draining effects. Higher-level players have access to better armour with higher bonuses.
+
+Accuracy bonusesimprove the chance of landing a hit with the specified attack type.Strength bonusesexist for all three schools, a higher strength bonus increase the max hit.Defence bonusesincrease the chance to block a specific attack type.Prayer bonusslows the decay rate of prayer points when prayers are used.
+
+Death[edit|edit source]
+
+Deathoccurs when aplayer'sHitpointsreach zero. If this happens, a message in theChat Interfacewill appear:Oh dear, you are dead!Players who die in an unsafe location are respawned at therespawn pointthat they had set prior to dying, losing all butthree of the most valuable itemsas well as any untradeable items that they were carrying at the time of death. Item value is determined first by effectiveGrand Exchangevalue, and then byalchemyvalueif the item lacks an effective Grand Exchange value.
+
+Items not kept on death will usually be moved to the player'sgravestone, which appears where the player died. Players have to pay a fee to retrieve items from their gravestone, though some low-valued items can be retrieved for free. If the player's death occurred in aninstance, theWilderness, or aPvP world, then different rules apply.
+
+Lumbridge onwards[edit|edit source]
+
+Immediately after completingTutorial island, the player will spawn byLumbridge Castlewith an inventory of basic supplies. It is recommended that the player goes into the castle, up the staircase to the top floor, and deposits everything into theirbank. The player's bank is also pre-stocked with 25 gp, which, for example, can be invested in anIron axeforWoodcutting.
+
+Note: Whilst at a bank, players can select the "withdraw as note" option and all withdrawn items will withdraw asbank notes. Once noted, they can be easily traded to other players, sold to shops, and carried weightlessly. However, you cannot use or equip items withdrawn as notes. To unnote items, simply put them back in a bankoruse them on a banker.
+
+Once everything has been deposited, there are several ways to start playing:
+
+The player can train combat. There are many cows, chickens, goblins inLumbridge. A monster'saggressivenessis dependent oncombat level.The player can train non-combat skills.The player can start nearbyquestssuch asX Marks the SpotorCook's Assistant. Some quests have requirements that must be met before they can be started.
+
+Tutor items[edit|edit source]
+
+TutorsaroundLumbridgewill provide various items to help the player start their adventure. They will provide the following items listed below assuming the player does not have any of them in theirinventoryorbank, as they will not be able to claim more if they have any in their possession. These items can help kick-start combat and some skills. Players may repeatedly use and then re-acquire runes or arrows from the tutors to avoid having to trade for, or buy them from shops.
+
+Tutor | Free Items
+
+Melee combat tutor | Training swordandTraining shield
+
+Ranged combat tutor | Training bowandTraining arrows
+
+Magic combat tutor | Mind runex30,Air runex30
+
+Fishing tutor | Small fishing net
+
+Woodsman tutor | Bronze axeandTinderbox
+
+Mining tutor | Bronze pickaxe
+
+Master smithing tutor | Hammer
+
+If new players tell theGielinor Guideon Tutorial Island that they are new to the game, theAdventure Pathsfeature will be enabled. Speak to theAdventurer JonNPC to receive aCombat path starter kitand begin paths. Adventure Paths are like the unofficial activities below, except they are designed by Jagex and have a reward system in place for completion.
+
+Adventure Paths task new players with leveling up various skills. Most skills have a milestone at level 5, level 10, and level 20. Each milestone offers a reward specific to that skill. For example, players reaching the level 10 milestone in Attack are rewarded with aBlack Longsword.
+
+Skills | Reward Milestones
+
+Attack | 5, 10, and 20
+
+Strength | 5, 10, and 20
+
+Defence | 5, 10, and 20
+
+Ranged | 5, 10, and 20
+
+Magic | 5, 10, and 20
+
+Fishing | 5
+
+Woodcutting | 5
+
+Mining | 5
+
+Players can also check the in-gameActivity Adviserfor a personalised list of recommended activities based on the player's skill levels, quest progress, and recent activity. It will also suggest content the player is close to unlocking, but doesn't quite have the requirements for. The Activity Adviser can be accessed at any time by clicking on the orange orb marked with a scroll just below the minimap.
+
+This section contains a variety of activities covering a wide range of skills, both for levelling up and making money. None of them are required - they are merely examples of things that many new players choose to do. Their design is arbitrary in nature - there's no wrong way to playOld School RuneScape!
+
+Beginner[edit|edit source]
+
+Beginner-level activities are all mainly around Lumbridge. They require few steps, very little travel, and are not click or skill-intensive.
+
+Click a table row to "check" it off. Items are inno particular order.
+
+Activities | Rewards | Link
+
+Tangible | Skill Exp
+
+CompleteCook's Assistant |  |  | Quest
+
+CompleteX Marks the Spot |  |  | Quest
+
+CompleteImp Catcher |  |  | Quest
+
+Cut trees inLumbridge |  |  | Section
+
+Killchickensin Lumbridge | / |  | Section
+
+Fish and cookShrimpsinLumbridge Swamp |  |  | Section
+
+Killcowsin Lumbridge |  |  | Section
+
+Tancowhides |  |  | Section
+
+Fly fishing |  |  | Section
+
+Mine and smith ores |  |  | Section
+
+Purchase theChroniclefromDiango |  |  | Section
+
+Cut trees in Lumbridge[edit|edit source]
+
+Why:WoodcuttingandFiremakingare essential for quests, so it's important to train them.What you'll need: Anaxeand atinderbox.Considerations: You can begin cuttingoak treesat level 15. Always use the best axe you can for your level. Even if yourattacklevel isn't high enough to wield it, you can use higher tieredaxesbased on yourWoodcuttinglevel.
+
+Trees are abundant aroundLumbridge. Chop down normal trees, and burn their logs. As levels progress, trees are chopped faster. At level 15Woodcuttingit's recommended to switch tooak trees, as they give more experience.
+
+Kill chickens[edit|edit source]
+
+Why:Chickensare an excellent source for early combat experience.What you'll need: Combat equipment, atinderbox, and anaxe.Considerations: Chickens can be crowded - remember to check the other chicken farm if the first is full.
+
+There are two chicken locations in Lumbridge. The first is north of theLumbridge General Store. The second is on the eastern side of the river, north of the goblin ruins. Travel to one of these chicken farms and begin killing chickens. Bury their bones, save their feathers for futuretroutfishing, and cook the raw chicken on a fire. Chickens don't do damage, so it's completely OK to drop most of the cooked chicken instead of using it for food. Also remember to switch attack types occasionally to train Attack, Strength, and Defence evenly.
+
+Tip: Save the feathers forFishing.
+
+Fish and cook Shrimps in Lumbridge Swamp[edit|edit source]
+
+Why:Lumbridge Swampis the nearest fishing spot that allows the player to begin trainingFishing.What you'll need: Several logs, aSmall fishing net, atinderbox.
+
+Tip: For faster experience and levels, skip banking and drop the shrimps. A higher level can always be used to get better fish likeRaw troutandRaw salmon.
+
+Navigate southward fromLumbridge Castlethrough the cemetery. Along the shoreline, you will find theFishing tutoras well as several fishing spots.
+
+Click the "net" option on the fishing spot to begin fishing. Once a full inventory is acquired, light a fire using your logs and tinderbox, and cook everything before the fire burns out. Drop all the burnt shrimps, and fish more to fill in the empty space. Repeat until full, and then go north to the Lumbridge Castle bank to deposit them. This will not only stockpile food for future training, but it will provide fast and easy cooking and fishing levels for better food sources, which will in turn provide more efficient combat training.
+
+Kill cows in Lumbridge[edit|edit source]
+
+Why: Cows are a good source of combat experience at low levels, they also provide bones, raw beef, and cowhidesWhat you'll need: A good weapon and armour, anaxe, atinderbox, and 5-10 in each combat skill.Considerations: Cows can be crowded, however there's often an abundance of abandoned items on the ground, these can be "looted" in addition to your own cow kills.
+
+Travel to the cow pen north of Lumbridge Castle, or the cow pen north of the gates to Al Kharid (advisable). Kill cows, cook and eat their beef (using logs and tinderbox for a fire) if hurt, bury their bones, and collect their cowhides. When a full inventory of cowhides is gathered, walk to the nearest bank or directly to the tanner in Al Kharid. Bring coins if tanning!
+
+Tan cowhides[edit|edit source]
+
+Why: It teaches multi-step processing and can provide the player with a set of ranged armour.What you'll need: Some money, needle and some thread from the Al Kharid crafting shop (north of the general store), and plenty ofcowhides.Considerations: ACraftinglevel of 18 is required to makeLeather chaps.
+
+Use theTannernext to the Al Kharid furnace to turn cowhides into regular leather. These can either be sold on the Grand Exchange or used to gain crafting experience. To use them yourself, buy a couple needles and ~50 thread fromDommik's Crafting Store.. Then, take out a full inventory of leather with these items present, and use the needle on a piece of leather. Craft the best item your level allows. Eventually, you'll be able to make all five pieces of a leather armour set at level 18 Crafting. Keep and wear one piece from each slot, and sell the rest.
+
+Fly fishing[edit|edit source]
+
+Why: Fly fishing is a popular method ofFishing.What you'll need: Manyfeathersand aFly fishing rod. Anaxeandtinderbox(if cooking).Considerations: Instead of buying the feathers in Port Sarim, you can kill chickens for them.
+
+Acquire feathers and a fly fishing rod. If needed, both can be bought at Port Sarim's fishing shop, west of Lumbridge. Then, navigate to the eastern side of the river across from the Lumbridge furnace. Click on the fishing spots along the river to begin fishing. At level 30 Fishing you'll start to catchsalmonas well astrout.
+
+Mine and smith ores[edit|edit source]
+
+Why: Mining and Smithing are useful skills to train.What you'll need: The bestpickaxeyou can use, ahammer. All players start with abronze pickaxe.Considerations: Anvils and furnaces are often far away from mining sites, mining and smithing in separate runs is recommended.
+
+To start, head toLumbridge mine, mine 14tinand 14copper ore. After this you can either bank or head straight to the furnace to smelt intobronze barsand then bank. Using run energy when your inventory is empty is recommended.
+
+Tip: Use the freeLumbridge Home Teleportspell to quickly bring ore to the furnace.
+
+After creating enough bars, you can head to an anvil and smith those into items to gain additional Smithing experience.
+
+Purchase the Chronicle from Diango[edit|edit source]
+
+Why: TheChronicleis an equipable book with the ability to teleport the player south of Varrock, which is an absolutely essential location for all players.What you'll need:300for the Chronicle and150for eachTeleport cardcharge.Disadvantages: The Chronicle teleports just outside theChampions' Guild- beware of the Dark wizards to the east by the stone circle just south of the Varrock gates.
+
+Travel toDraynor Villageand locateDiangoin the market. Buy the Chronicle and Teleport cards, and use the cards on the Chronicle to add them. You can also buy agoblin paint cannonwhich can be a good alternative weapon at low levels. Right click on the Chronicle while in the inventory (or shield slot when equipped) to teleport below Varrock.
+
+Intermediate[edit|edit source]
+
+Intermediate-level activities are not confined to Lumbridge. They may require you to travel or require some monetary wealth, and higher account skill levels are needed when compared to beginner activities.
+
+Click a table row to "check" it off. Items are inno particular order.
+
+Activities | Rewards | Link
+
+Tangible | Skill Exp
+
+Complete theStronghold of Security | /10,000 |  | Section
+
+Purchase Wizard gear and use it inVarrock |  |  | Section
+
+Kill theLesser demonin theWizards' Tower |  |  | Section
+
+Mineiron ore |  |  | MMG
+
+Train onAl Kharid warriors |  |  | Section
+
+Complete the Stronghold of Security in Barbarian Village[edit|edit source]
+
+Why: Completing theStronghold of Securitygives10,000as well as a set offightingorfancy bootsfor free.What you'll need: Armour, food, and aDefencelevel high enough to survive running past aggressive level 80 monsters. Around 15 Defence, an inventory ofTroutand a full setiron equipmentshould suffice.
+
+The stronghold requires external security features such as theRuneScape Authenticatorto be enabled. See the fullStronghold of Securitytask list prior to attempting.
+
+Purchase Wizard gear in Varrock[edit|edit source]
+
+Why: Magical armour and an elemental staff are essential for using magic in combat.What you'll need: About4,400for a staff, hat, robe, and runes.
+
+Navigate toVarrock Squareand enterZaff's Superior Staffs!on the north-west corner of the square. Zaff sells elemental staves. It's recommended to get astaff of air, as it provides unlimited Air runes which are used in every elemental attack, as well as many utility spells, astaff of fireis also useful foralchemy spells. Once a staff has been bought, navigate south to the clothing shop. Buy ablue wizard robeandhat. A blue skirt is optional and completely cosmetic, providing no bonuses. Once that's complete, navigate south-east toAubury's Rune Shop, south of the eastern bank. Buymind rune packsandfire rune packs. Buying about 1-2k of each rune is more than enough.
+
+Kill the Lesser demon in the Wizards' Tower[edit|edit source]
+
+Why: Completely safe, good experience per kill, and good drop potential.What you'll need: Level 33MagicforTelekinetic Grab,staff of airas well aslaw,fireandmind runes.Disadvantages: TheLesser demoncan be a crowded area, and there's a risk of competition.
+
+The upper floor of theWizards' Towerhas a caged Lesser demon that can be safely killed using Magic. Lesser demons have a chance to drop aRune med helm, which sells for10,694.
+
+Train on Al Kharid warriors[edit|edit source]
+
+Why:Al Kharid warriorsare good to train on and are close to both a bank and fishing spot.What you'll need: At least level 15 in each of the three melee combat skills, as well as armour, a weapon, and food.Considerations: Warriors can be crowded due to their convenient location.
+
+Al Kharid warriors can be found inthe palacein the centre ofAl Kharid. There are several rooms with Al Kharid warriors.
+
+Advanced[edit|edit source]
+
+Advanced-level activites will have you playing mid-level content. They will require mid level skills and a fundamental grasp ofOld School RuneScape's systems.
+
+Click a table row to "check" it off. Items are inno particular order.
+
+Activities | Output | Link
+
+Tangible | Skill Exp
+
+Cuttingyew trees |  |  | Section
+
+Mine in theMining Guild |  |  | Section
+
+KillHill GiantsinEdgeville Dungeon |  |  | Section
+
+CompleteDragon Slayer I |  |  | Quest
+
+Cutting yew trees[edit|edit source]
+
+Why:Yew treesare the highest level tree for non-members and theirlogsretain decent value at284each. They're also safe, usually close to banks, plentiful, and require very little attention.What you'll need: Level 60+Woodcuttingand arune axe.Considerations: Yew trees are often crowded with competing woodcutters.
+
+There are plenty Yew trees acrossGielinor. Locations include: south ofEdgevillebank, south ofFalador, east of theGrand Exchange, west ofRimmington, and west ofLumbridge Castle. Travel to any of these locations and begin chopping Yew trees. If the spot is far from a bank, it can be beneficial to bring teleportation runes, bank, and then run back.
+
+Mine in the Mining Guild[edit|edit source]
+
+Why: TheMining Guildoffersiron,coal,mithril, andadamantite rocksWhat you'll need: Level 60+Miningand arune pickaxe.Considerations: Can often be crowded.
+
+The Mining Guild offers the most abundant mine accessible to free-to-play players.
+
+Kill Hill Giants in Edgeville Dungeon[edit|edit source]
+
+Why:Hill Giantscan be killed by any means and can also be safespotted. Theirbig bonesare worth508.What you'll need: If using melee, at least a full set ofmithril equipmentand sufficientfood. If usingMagicorRanged, any level will do, but a higher level is preferable.Considerations: Hill giants are crowded. Switch worlds to find an uncrowded spot.
+
+First, acquire aBrass keyfrom theGrand Exchangeor navigate through theEdgeville Dungeon. If buying the key from the Grand Exchange, go to the small shed north of the river crossing betweenVarrockandBarbarian Village. This is the entrance to theEdgeville Dungeon. Open the door with the key and climb down the ladder. There, you'll find a cavern filled with giants. There are various safespots along the side of the cavern, behind rock formations and obstacles. Kill hill giants and take their bones. These can either be buried for experience, or bank to later sell on the GE.
+
+Random events[edit|edit source]
+
+Random eventscan be an excellent source of money and rewards for new players, but they're exactly that - random. They cannot be spawned or triggered, the rate at which they occur is very sporadic, and the value of their rewards can vary greatly. It's recommended that new players learn a basic overview of the possible random events so that if onedoeshappen, they understand how to complete it and get the reward.
+
+Using the Grand Exchange[edit|edit source]
+
+TheGrand Exchange(commonly referred to as the GE), located on the north-west end ofVarrock, is somewhere you might frequently find yourself (if youaren'tplaying onIronman Mode). You can buy or sell anything you wish, providing the item is tradeable. The exchange features a "Buy/Sell offer" system which automates the trading process. Players cannot view current available offers and must fill offers through trial and error (or patience). There is a "Guide Price" for every item you can trade on the exchange which will give a rough idea of what the item is worth at the moment. However, the market can shift over or under the guide price and it may take days or weeks for the guide price to "catch up" to what players areactuallybuying and selling the item for.
+
+When placing a buy offer for an item, you can generally expect 1 of 2 different outcomes:
+
+You will instantly fill a sell offer, receiving the difference of gold between the offers back in the change slot.You will wait until either you take the offer down and put it back up for more gold, or until the offer is filled with a sell offer.
+
+And vice versa, when placing a sell offer, you will have one of these 2 outcomes:
+
+You will instantly fill a buy offer and receive more GP (an amount equal to the value of the other person'sbuyoffer).You will wait until either you take the item down and put it back up for less gold, or until the offer is filled with a buy offer.
+
+Player versus player[edit|edit source]
+
+Player versus playeror PvP is a very popular way to playOld School RuneScape, but before it is attempted one should understand the basics and read up on the subject. It is also recommended to practise in safe death activites before attempting risk fights. There are four ways to engage in combat with another player in free-to-play worlds:
+
+Method | Safe death | More information
+
+Emir's Arena | Yes | Located north-east ofAl Kharid. Duels are agreed to by both players.
+
+Clan Wars | Yes | More "free" than one-on-one Duel Arena
+
+Castle Wars | Yes | A PvPminigameaccessible through a portal in the Clan Wars area.
+
+Wilderness | No | Can be accessed on any world. Although, wilderness PK worlds are the best spot to find players.
+
+World 371 | No | World 371 is the only free-to-play "PvP anywhere" world. Combat is map-wide except for safe zones.
+
+Getting "skulled"[edit|edit source]
+
+When two players engage in combat together in the wilderness or on a PvP world, the instigator of the fight will have a skull icon over their head. This serves two purposes:
+
+The icon helps warn other players that this player is "dangerous".It causes all items to be lost when a skulled player dies unless theProtect Itemprayer is active, in which case they will retain 1 item.
+
+Using PvP worlds for non-PvP[edit|edit source]
+
+PvP worlds can also be used to train resource gathering skills or kill monsters in spots that are normally very crowded. However, it's possible to be attacked and killed by another player without notice. Always bring an emergency teleport, some food, and as few valuable items as possible.
+
+Jagex sites and social media accounts[edit|edit source]
+
+It's important to know what is and isn't an officialJagexcommunication. Jagex has a select few communication channels. These include the following:
+
+Official siteshttps://oldschool.runescape.com— the official site forOld School RuneScapehttps://www.runescape.com— the official site forRuneScapehttps://support.runescape.com— the official site forRuneScapesupport, for all game versionshttps://www.jagex.com— the official site for JagexSocial media accountsFacebookOfficialOldSchoolRuneScapeInstagramoldschool.runescapeTwitter@OldSchoolRS@JagexSupportSee also: Alist of Twitter accountsused byJagex moderators.
+
+Remember that Jagex willNEVERcontact you regarding your account via any means except the in-gameMessage Centre, accessible from the "Welcome back!" interface which is visible immediately upon logging in to thegame client. You may also view messages directly from your account settings athttps://www.runescape.com/account_settings. The only exception is for requests submitted via thesupport portal, which will be transmitted via email to the address specified in the ticket.
+
+See also[edit|edit source]
+
+List of questsSteam AchievementsOptimal quest guideAchievement DiaryMoney making guides
+
+References[edit|edit source]

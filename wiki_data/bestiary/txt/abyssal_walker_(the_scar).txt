@@ -1,0 +1,52 @@
+Name: Abyssal walker
+Combat Level: 90
+Size: 1x1
+Info:
+- Description: Apparently walks the Abyss.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Monster ID: 12394
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 120
+Attack: 20
+Strength: 150
+Defence: 20
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+Attack bonus: None
+Strength bonus: 10
+Magic attack bonus: 0
+Magic strength bonus: 0
+Ranged attack bonus: 0
+Ranged strength bonus: 0
+
+[Melee defence]
+Stab: 75
+Slash: 75
+Crush: 10
+
+[Magic defence]
+Magic: 75
+Elemental weakness: No elemental weakness
+
+[Ranged defence]
+Light: 75
+Standard: 75
+Heavy: 75

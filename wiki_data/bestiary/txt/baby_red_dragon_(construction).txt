@@ -1,0 +1,37 @@
+Name: Baby red dragon
+Combat Level: 65
+Size: 2x2
+Info:
+- Description: Young, but still dangerous.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Monster ID: 137
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 65
+Attack: 55
+Strength: 55
+Defence: 55
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

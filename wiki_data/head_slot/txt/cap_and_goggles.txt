@@ -1,0 +1,47 @@
+[Weapon: Cap And Goggles]
+
+
+Cap and gogglesare a combination ofgnome goggles, obtained duringGnome Restaurant, and thebomber capreward from theEnlightened Journeyquest. The items can be combined by talking withAugusteon the island ofEntrana. To separate the combined cap and goggles, right click and choose "split".
+If you die with this item, the goggles will disappear.
+
+
+[Infobox]
+Released: 6 November2006(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Split, Drop
+Destroy: You should split these apart first.
+Examine: For better flying vision.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.001 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Head slot

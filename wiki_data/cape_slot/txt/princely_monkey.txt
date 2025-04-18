@@ -1,0 +1,47 @@
+[Weapon: Princely Monkey]
+
+
+ThePrincely monkeyis an item obtained by selecting the "Transform" option upon right-clicking aMonkey.
+Players must have completed 2,000 laps on theApe Atoll Agility Coursebefore they can transform their monkey into a Princely monkey; laps must be done after completion ofMonkey Madness II, asBobawuwill not track them before the quest's completion.
+
+
+[Infobox]
+Released: 9 July2020(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Transform, Lap-count, Release
+Destroy: The monkey scampers back to the warmth of its crate.
+Examine: A monkey retrieved from the wreckage of Glough's airship laboratory.
+General Store Value: 1 coin
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 0.01 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Cape slot

@@ -1,0 +1,46 @@
+[Weapon: Fighter Torso (Or)#Locked]
+
+
+Thefighter torso (or)is a cosmetic variant of thefighter torsowith aBounty hunter ornament kitadded to it.
+Unlike its base variant, it CANNOT be stored in thestorage spaceof acostume room.
+
+
+[Infobox]
+Released: 24 May2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Dismantle
+Examine: A Penance Fighter torso armour.
+General Store Value: 65,006 coins
+High alch: 39,003 coins
+Low alch: 26,002 coins
+Weight: 4 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -40
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +62
+- Slash: +85
+- Crush: +62
+- Magic: -10
+- Ranged: +67
+
+Other Bonuses:
+- Strength: +4
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Body slot

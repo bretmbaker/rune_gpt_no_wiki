@@ -1,0 +1,2 @@
+Item: Gladiator
+Summary: Two Gladiators can be found fighting on the south side of Prifddinas in front of a small crowd. Each has a combat level of 126, and will respawn shortly after being bested in the ring.

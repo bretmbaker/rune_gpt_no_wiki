@@ -1,0 +1,52 @@
+[Weapon: Crate With Zanik]
+
+
+Thecrate with Zanikis a crate containingZanik, acave goblin. It is obtained during theDeath to the Dorgeshuunquest, when Zanik gets inside a crate to allow the player to sneak her into the cellar under theLumbridgewatermill. Once inside, Zanik gets out of the crate and the item disappears.
+The crate is equipped in the weapon slot. It is two-handed and attacking is not possible with it. If a player holding the crate moves too far away from the watermill, Zanik will get out of the crate, making it impossible to keep this item.
+
+
+[Infobox]
+Released: 21 June2006(Update)
+Members: Yes
+Quest item: Death to the Dorgeshuun
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Drop
+Examine: It's got Zanik in it.
+General Store Value: 1 coin
+Alchemy: Not alchemisable
+Weight: 32 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Punch | Crush | Accurate | N/A | 1 tile |  | +3 Attack
+ | Kick | Crush | Aggressive |  | +3 Strength
+ | Block | Crush | Defensive |  | +3 Defence

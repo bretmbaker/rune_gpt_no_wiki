@@ -1,0 +1,2 @@
+Item: King's Messenger
+Summary: The King's Messenger is a man in service of King Lathas who will deliver the King's message to the player after completion of the Underground Pass quest. He appears randomly near the player to deliver the message, indicating the beginning of the Regicide quest. He can appear anywhere from 4 to 12 minutes after logging in, once the player has completed Underground Pass.[1]

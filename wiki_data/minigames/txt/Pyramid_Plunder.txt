@@ -1,0 +1,201 @@
+[Minigame: Pyramid_Plunder]
+
+ | This is a dangerous activity.Ondeath,Hardcore Ironmenwill  lose their status.Unprotected items will be moved to a grave.
+
+Pyramid Plunder
+
+
+
+
+
+Released | 17 July2006(Update)
+
+Type | Minigame
+
+Members | Yes
+
+Location | Sophanem
+
+Leagueregion | Desert✓
+
+Participants | 1
+
+Skills | Thieving
+
+Reward currency | N/A
+
+Tutorial | No
+
+Music | Tomb Raider
+
+
+
+Map
+
+
+
+Pyramid Plunderis aThievingminigameset in theJalsavrah Pyramidin the city ofSophanem, far in the southernKharidian Desert. Access to the minigame can be found behind one of fouranonymous looking doors, guarded by theGuardian mummy.
+
+Upon starting the minigame, the player has five minutes to plunder the contents of Jalsavrah. The pyramid consists of eight rooms, each requiring progressively higher Thieving levels.
+
+This is the only place where players can obtain thePharaoh's sceptre.
+
+Requirements[edit|edit source]
+
+At least 21Thievingis necessary to start the game. Every ten levels thereafter will grant entrance to the more valuable rooms, up to level 91. Note that these levelscannotbe boosted.Players must have startedIcthlarin's Little Helperfor access toSophanem.
+
+Recommended[edit|edit source]
+
+It is highly recommended to finishContact!to be able to bank in the nearbySophanem Dungeon.With at least 43PrayerforProtect from Melee, damage frommummiesandscarab swarmswill be fully negated.
+
+Official world[edit|edit source]
+
+The followingofficial worldis assigned to Pyramid Plunder:
+
+World | Location | Members | Activity
+
+493 | United States (east) | 1 | Pyramid Plunder
+
+Getting there[edit|edit source]
+
+Jalsavrahis the northern pyramid in the city ofSophanem. You can get there in several ways;
+
+Take Shantay Pass Carpet  (ORbreak aPollnivneach teleport/use the house portal) to Pollnivneach, then run south and ride themagic carpetfromPollnivneachto Sophanem for 400coins, or 200 with theRogue Traderminiquest.Travel tofairy ringcodeAKPand enter the city's eastern gate. This method requires unlocking theNecropolisduringBeneath Cursed Sandsand 62Agility, which can be boosted.Use thePharaoh's sceptreto directly enter the minigame lobby ofJalsavrah. You have to charge the sceptre first by talking to theGuardian mummyinside this room.
+
+Recommended setup[edit|edit source]
+
+
+
+Items[edit|edit source]
+
+Lockpickto open the tomb doors more easily, at the cost of only gaining half the amount of Thieving experience for unlocking the door.In practice, the altered success rate of using a lockpick is not noticeable. Players may choose to forgo using one for the added experience and extra inventory slot.Snake charmat Thieving levels below 51, for higher chances of looting an urn. It is inefficient to use at higher levels.Somesuperantipoisonsorantidotes++.For players who have completedThe Great Brain Robbery, aprayer bookandholy symbolcan save some inventory space at the cost of a few prayer points.One or twoPrayer potions, or other potions that restore Prayer forProtect from Melee.Optionally, astamina potionor two.Unless the player wants to collect the regular artefacts, it is recommended to fill all other inventory slots withfood.
+
+Equipment[edit|edit source]
+
+Pharaoh's sceptrefor the fastest teleport to the start of each game.Should the player have arejuvenation poolor better, it is helpful to bringTeleport to House tabletsin combination with the sceptre.Without the rejuvenation pool, aring of duelingordesert amulet 4also allows the player to continuously restore all stats, while furthermore granting quick access to a bank.Graceful outfitor otherweight-reducing gear, so stamina potions are not necessary.Prayer-boosting equipment, such as theArdougne cloak 1+ or adragonbone necklace.Armourfor melee defence, only if not using Protect from Melee.Chargedserpentine helmfor immunity against poison, as alternative to antidotes or antipoisons. Note that scarab swarms will always consume 10Zulrah's scaleswhen they appear and attack the player, even with Prayer on. This can be avoided if the player escapes the current room before receiving any hitsplats from scarab swarms.Prayer bookandholy symbolfor a free, low level alternative to cure poison.
+
+Guide[edit|edit source]
+
+You can enter theJalsavrah Pyramidvia one of its fouranonymous looking doors. Only a single door leads to theGuardian mummy, while the rest leads to an abandoned room. If you stumble upon the latter, simply leave the pyramid and try another entrance. Leaving will always place you in front of the northern door.
+
+The correct entrance is randomized every 25 minutes by effectively rotating the pyramid. Note that until then, the correct door is the same for all players, which makes it useful to play on the official game world (493) if you lack aPharaoh's sceptre.
+
+When you have found the right door, the odds of successfully entering are dependent on yourThievinglevel. On a failed attempt, you will be stunned and take 1-4 damage. Keep trying to enter until you succeed. Once you are inside the pyramid, you can speak to the Guardian mummy or simply right-click him to start the game. Using thePharaoh's sceptreto Jalsavrah will place you directly next to the mummy.
+
+You will be teleported to the first room, and a timer of five minutes will commence. You have this time to loot as much treasure from the pyramid as you can. When the time runs out or when you manually leave, you will be teleported back outside. Should you get the rare Pharaoh's sceptre during this trip, the Guardian mummy will instantly end your run and also teleport you outside.Be aware that if your inventory is full, the sceptre will be dropped on the ground under you outside the pyramid.
+
+Gameplay[edit|edit source]
+
+In each room, you will first need to disarm a spear trap, which deals 1-4 damage on a failed attempt. It grants 10 Thieving experience when disarmed. You will then encounter several containers, granting you anartefactand experience when opened. Rewards are dependent on the room you are in.
+
+Urns:Every room contains exactly 13 lootable urns (bar the third room, which contains one less). Searching it might cause a snake inside the urn to bite you for 1-4 damage andpoisonyou for the same amount. You may try to search the urn again until you are successful. Alternatively, you can first check an urn for snakes, and then charm them with asnake charmfor higher chances of success. This might save time if your Thieving level is less than 51, but it is often counterproductive at higher levels.
+
+Grand Gold Chest:There is a golden chest in the centre of each room. You will always open it in one click, and may rarely find aPharaoh's sceptreinside one. However, based on yourThievinglevel, there is a chance you set off a trap and take 1-4 damage. This also causes a level 98scarab swarmto appear, which has 25Hitpointsand will rapidly deal up to one damage every 0.6 seconds. Its attacks can poison, and it will only try to attack you. When the swarm appears, you will still get an artefact from the chest, but no Thieving experience.
+
+Sarcophagus:Each room has a sarcophagus, which may also contain a Pharaoh's sceptre, though it takes some time to open one. Instead of Thieving, opening it usesStrengthand always grants Strength experience.[1]Combat with a scarab swarm will not interrupt this action.[2]Occassionally, a level 84mummywill arise from the sarcophagus. The chance for this event is based on the room you are in, occurring more frequently in later rooms. The mummy is only aggressive to you, hitting up to 6 damage.Tomb doors:Each room has four locked tomb doors, one of which will lead to the next room, while three of them are fake. Players can fail in opening the doors, although no consequences will occur if they fail. Having alockpickwill increase your chances of opening the doors, though it will half the experience gained from doing so. The correct doors in each room are the same for every player. However, the doors in each room change whenever a new player starts a round by entering room 1 (a player entering the lobby or a subsequent room has no effect upon the correct door). It is possible for the doors to change so that a previously opened incorrect door is now correct - upon trying this door again players can simply pass through it.Since a hidden update, if the player has attempted three doors and all were incorrect, the fourth door will always let the player through. This is the case even if a new player joined and the door has changed - in this case, both the fourth door and the new correct door will take the player to the next room. However, the fourth door will not work for any subsequent players who joined - therefore players should be aware that doors that others disappear through are not necessarily correct.
+
+You can leave the game earlier via an exit door or any teleport.
+
+Experience[edit|edit source]
+
+This minigame provides relatively high experience rates, especially beyond 71Thieving. Players gain access to more valuable rooms every ten Thieving levels past level 21.
+
+Room | Lvl Req | Urn[n 1] | Chest[n 2] | Door[n 3] | Sarcophagus[n 4]
+
+1 | 21+ | 60 | 40 | 40 | 20
+
+2 | 31+ | 90 | 60 | 60 | 30
+
+3 | 41+ | 150 | 100 | 100 | 50
+
+4 | 51+ | 215 | 140 | 140 | 70
+
+5 | 61+ | 300 | 200 | 200 | 100
+
+6 | 71+ | 450 | 300 | 300 | 150
+
+7 | 81+ | 675 | 450 | 450 | 225
+
+8 | 91+ | 825 | 550 | N/A | 275
+
+Experience rates and strategy[edit|edit source]
+
+In the most optimal scenario, up to 120,000Thievingexperience can be gained per hour at level 71, and upwards of 275,000 experience at level 91, accounting for failed searches and the occasional resupply. Rates are also dependent on the player's equipment, e.g. aPharaoh's sceptrewill nullify the time spent entering the pyramid.
+
+Generally, for the highest experience rates, you'll only want to loot the following;
+
+Thegolden chestsin room 4 and beyond. With low Thieving, it is advisable to also search chests in earlier rooms.Allurnsin your second to last and last possible room. You should save at least 90 seconds for the last room.
+
+Optionally, for thePharaoh sceptre, you can search the sarcophagi in rooms 4 onward. These have higher sceptre rates than the sarcophagi in previous rooms. However, sarcophagi grant no Thieving experience and take some time to open.
+
+Chests and sarcophagi should always be searched last, just before leaving the room, as it might cost time or resources to defend against possible enemies.
+
+Rewards[edit|edit source]
+
+Players will find artefacts within the urns, chests, and sarcophagi. Artefacts in later rooms are generally more valuable. They can be used to charge thePharaoh's sceptre. They can also be sold toSimon Templetonat theAgility Pyramidjust northeast fromSophanem, though this is not recommended, as selling them on theGrand Exchangegrants about the same returns and is faster. Theivory combis even worth a lot more on the Grand Exchange.
+
+Artefact | Rooms | Sold for | GEprice | Difference
+
+ | Ivory comb | 1–2 | 50 | 1,071 | −1,021
+
+ | Pottery scarab | All | 75 | 88 | −13
+
+ | Pottery statuette | All | 100 | 96 | 4
+
+ | Stone seal | All | 150 | 144 | 6
+
+ | Stone scarab | All | 175 | 168 | 7
+
+ | Stone statuette | All | 200 | 194 | 6
+
+ | Gold seal | 3–8 | 750 | 749 | 1
+
+ | Golden scarab | 4–8 | 1,000 | 1,000 | 0
+
+ | Golden statuette | 7–8 | 1,250 | 1,255 | −5
+
+Sceptre[edit|edit source]
+
+Players may rarely find aPharaoh's sceptreinstead of an artefact inside agolden chestorsarcophagus. Should this happen, the player will immediately be teleported outside of the northern entrance of the pyramid, as theGuardian mummywill be angry that the player has found his master's sceptre.Should their inventory be full, the sceptre will be dropped on the ground under the player outside the pyramid.
+
+The Pharaoh's sceptre will appear more frequently in chests or sarcophagi in later rooms. The sceptre’s drop rates are shown below for each room.
+
+Room | Lvl Req | Sarcophagus | Chest
+
+1 | 21+ | 1/4,200 | 1/4,200
+
+2 | 31+ | 1/2,800 | 1/2,800
+
+3 | 41+ | 1/1,600 | 1/1,600
+
+4 | 51+ | 1/950 | 1/950
+
+5 | 61+ | 1/800 | 1/800
+
+6 | 71+ | 1/750 | 1/750
+
+7 | 81+ | 1/650 | 1/650
+
+8 | 91+ | 1/650 | 1/650
+
+If the player searches all golden chests as far as their level allows, the cumulative rates for obtaining aPharaoh's sceptreper run are as below. Note that due to the lengthy animation for opening the sarcophagus, it is generally considered a more effective use of time to ignore the sarcophagus entirely until reaching room 4 due to the relatively low odds of rolling a sceptre during the first three rooms.
+
+Level | Cumulative Rate | Cumulative Rate(Skipping Room 1-3 
+Sarcophagi) | Chest-only Cumulative Rate
+
+21-30 | 1/2,100 | 1/4,200 | 1/4,200
+
+31-40 | ~1/840 | ~1/1,680 | ~1/1,680
+
+41-50 | ~1/410 | ~1/820 | ~1/820
+
+51-60 | ~1/220 | ~1/301 | ~1/440
+
+61-70 | ~1/142 | ~1/172 | ~1/284
+
+71-80 | ~1/103 | ~1/118 | ~1/206
+
+81-90 | ~1/78.5 | ~1/87 | ~1/157
+
+91+ | ~1/63.5 | ~1/69 | ~1/126
+

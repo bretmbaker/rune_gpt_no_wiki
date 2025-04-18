@@ -1,0 +1,359 @@
+[Shop: Cabbage]
+
+Cabbage
+
+
+
+
+
+
+
+Released | 4 January2001(Update)
+
+Members | No
+
+Quest item | No
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | No
+
+Stackable | No
+
+Noteable | Yes
+
+Edible | Yes
+
+Options | Eat, Drop
+
+Examine | Yuck I don't like cabbage.
+
+
+
+Values
+
+
+
+Value | 1 coin
+
+High alch | 0 coins
+
+Low alch | 0 coins
+
+Weight | 0.453 kg
+
+Respawn time | 100 ticks (60 seconds)
+
+
+
+Grand Exchange
+
+
+
+Exchange | 118coins (info)
+
+Buy limit | 6,000
+
+Daily volume | 142,463
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 1965
+
+Link | MOID
+
+
+
+Acabbageis afooditem that can be picked from fields aroundGielinoror grown through theFarmingskillat level 7 withcabbage seeds. They heal 1hitpointwhen eaten. When picking cabbages from fields,membersmay randomly receive 1 cabbage seed.
+
+When eaten, the messageYou eat the cabbage. Yuck!is displayed. When eaten while below full health, the messageIt heals some health anyway.is shown as well.
+
+They are used in the following recipes:
+
+Vegetable batta(Gnome cooking)Garden pie(temporarily boostsFarming level by 3)
+
+Cabbages are purchasable from various stores for1coineach.Hudoat theGrand Treehas a stock of 10;Cobado's Groceriesa stock of 10;Miscellanian Food Shopa stock of 5; andWydininPort Sarima stock of 3, to name a few. ThecookatBlue Moon Innsells unlimited cabbages through his chat dialogue.
+
+Members can store up to 10 cabbages in anempty sack, creating asack of cabbages. Sacks of cabbages are needed to protect growingtomatoes(x2),Krandorian hops(x3), andredberry bushes(x4). Adding cabbages to acompost binmakes regularcompost.
+
+Despite looking similar to regular cabbages,Draynor Manor cabbagesare not the same item and often cannot be used in place of cabbages. TheDraynor Manorvariant plays a role in theBlack Knights' Fortressquest.
+
+If cabbages are brought toLunderwinat theZanarismarketplace, they can be sold for100 coinseach (they must be unnoted). As part of a security measure,sacks of cabbagescannot be taken to the marketplace.
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Cabbages(10) |  | None | None | 1 ×Empty sack10 ×Cabbage
+
+ | Half made batta (vegetable) |  | 28 | 40 | 1 ×Half baked batta2 ×Tomato1 ×Cheese1 ×Dwellberries1 ×Onion1 ×Cabbage
+
+ | Raw garden pie |  | 34 | 0 | 1 ×Cabbage1 ×Part garden pie (onion)
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Afflicted | 30; 32; 34; 37 | 1 | 1/128 | 
+
+Al Kharid warrior | 9 | 1 | 1/128 | 
+
+Anja | 2 | 1 | 1/128 | 
+
+Boxes (witch's house) | N/A | 1 | 1/6.67 | 
+
+Brassican Mage | 140 | 10–19 | 5/50 | 
+
+Breoca | 5 | 1 | 1/128 | 
+
+Cabbage (scenery) | N/A | 1 | 243/250 | 
+
+Cabbages (plant) | 7 | 1 | Always | 
+
+Ceolburg | 4 | 1 | 1/128 | 
+
+Chest (moon key) | N/A | 28 | 1/107 | 
+
+Cuffs | 3 | 1 | 1/128 | 
+
+Drunken man | 3 | 1 | 1/128 | 
+
+FarmerFree-to-play | 7 | 1 | 1/128 | 
+
+Hengel | 2 | 1 | 1/128 | 
+
+Hygd | 4 | 1 | 1/128 | 
+
+Imp | 2; 7 | 1 | 2/128 | 
+
+Jeff | 2 | 1 | 1/128 | 
+
+Man | 2 | 1 | 1/128 | 
+
+Monumental chestNormal Mode | N/A | 1 | Always | 
+
+Monumental chestHard Mode | N/A | 1 | Always | 
+
+Mugger | 6 | 1 | 1/128 | 
+
+Mutated Tortoise | 247 | 20–40(noted) | 3 × 6/64 | 
+
+Mystery boxMembers | N/A | 1 | 1/15 | 
+
+Mystery boxFree-to-play | N/A | 1 | 1/6 | N/A
+
+Mystery boxEntrana | N/A | 1 | 1/15 | 
+
+Narf | 2 | 1 | 1/128 | 
+
+Ocga | 5 | 1 | 1/128 | 
+
+Outlaw | 32 | 1 | 6/128 | 
+
+Penda | 5 | 1 | 1/128 | 
+
+Reward casket (beginner) | N/A | 5–9(noted) | 1/24 | 
+
+Reward casket (master) | N/A | 3 | 1/13,616 | 
+
+RogueLevel 15 | 15 | 1 | 1/128 | 
+
+Rusty | 2 | 1 | 1/128 | 
+
+Sourhog | 37 | 1 | 5/110 | &
+
+Spoils of war | N/A | 1 | 1/150 | 
+
+Thief (Varlamore) | 16 | 1 | 1/128 | 
+
+Thief | 14; 16; 21 | 1 | 1/128 | 
+
+TortoiseNo riders | 79 | 20–59(noted) | 20/128 | 
+
+TortoiseWith riders | 92 | 20–59(noted) | 20/128 | 
+
+Veg stall | 2 | 1 | 1/5 | 
+
+Warped Tortoise | 121 | 20–40(noted) | 6/64 | 
+
+Woman | 2 | 1 | 1/128 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Agelus' Farm Shop | Ortus Farm | 0 | 1m | 1 | 0 | 1.0% |  | 
+
+Alice's Farming shop. | Farm west ofPort Phasmatys | 0 | 1m | 1 | 0 | 1.0% |  | 
+
+Cobado's Groceries | Civitas illa Fortis | 10 | 1m | 1 | 0 | 1.0% |  | 
+
+Cook (Blue Moon Inn) | Blue Moon Inn | ∞ | N/A | 1 | N/A | 0.0% |  | 
+
+Faustus' Fruit and Veg | Aldarin | 10 | 1m | 1 | 0 | 1.0% |  | 
+
+Food Store | Port Sarim | 3 | 1m | 1 | 0 | 1.0% |  | 
+
+Grand Tree Groceries | Grand Tree | 10 | 1m | 1 | 0 | 1.0% |  | 
+
+Greengrocer of Miscellania | Miscellania | 10 | 1m | 1 | 0 | 2.0% |  | 
+
+Island Greengrocer | Etceteria | 10 | 1m | 1 | 0 | 2.0% |  | 
+
+Kenelme's Wares | Port Piscarilius | 3 | 1m | 1 | 0 | 1.0% |  | 
+
+Lunderwin | Zanarismarket | N/A | N/A | N/A | 100 | 0.0% |  | 
+
+Miscellanian Food Shop | Miscellania and Etceteria Dungeon | 5 | 1m | 1 | 0 | 2.0% |  | 
+
+Prifddinas Foodstuffs | Prifddinas | 10 | 1m | 1 | 0 | 1.0% |  | 
+
+Richard's Farming shop. | North ofEast Ardougne | 0 | 1m | 1 | 0 | 1.0% |  | 
+
+Sarah's Farming shop. | South Falador Farm | 0 | 1m | 1 | 0 | 1.0% |  | 
+
+Sigmund the Merchant (shop) | Rellekka | 10 | 2m | 1 | 0 | 3.0% |  | 
+
+Vanessa's Farming shop. | Catherby | 0 | 1m | 1 | 0 | 1.0% |  | 
+
+Item spawns[edit|edit source]
+
+Location | Members | Spawns | Map | Leagueregion
+
+Al Kharid Palace- western room |  | 1 | Show map | Desert✓
+
+Lumbridge Castlecellar |  | 1 | Show map | Misthalin✓
+
+Kebos Lowlands-Battlefront |  | 1 | Show map | Kourend✓
+
+Salvager Overlook- East Tower (ground floor[UK]1stfloor[US]) |  | 1 | Show map | Varlamore✓
+
+Fields[edit|edit source]
+
+Cabbage picked up in a field will respawn after 40 to 80 ticks (24 to 48 seconds) depending on world population.
+
+Location | Members | Spawns | Map | Leagueregion
+
+Taverley |  | 9 | Show map | Asgarnia✓
+
+North-westEast Ardougne |  | 5 | Show map | Kandarin✓
+
+Hosidius |  | 55 | Show map | Kourend✓
+
+Rellekka |  | 7 | Show map | Fremennik✓
+
+South of theFarming Guild |  | 12 | Show map | Kourend✓
+
+Feldip Hills |  | 4 | Show map | Kandarin✓
+
+Falador farm |  | 83 | Show map | Asgarnia✓
+
+Prifddinas(Crwys district) |  | 16 | Show map | Tirannwn✓
+
+Fisher Realm(Post quest) |  | 31 | Show map | Karamja✓
+
+Harmony Island |  | 32 | Show map | Morytania✓
+
+Citharede Abbey |  | 6 | Show map | Desert✓
+
+EasternFeldip Hills(Rantz's hunting grounds) |  | 1 | Show map | Kandarin✓
+
+Sinclair Mansion |  | 4 | Show map | Kandarin✓
+
+North-west ofCorsair Cove Dungeonentrance |  | 5 | Show map | Kandarin✓
+
+Edgeville Monastery |  | 12 | Show map | Asgarnia✓
+
+Fisher Realm(DuringHoly Grail) |  | 7 | Show map | Karamja✓
+
+VarrockSouth Entrance |  | 6 | Show map | Misthalin✓
+
+Miscellania |  | 91 | Show map | Fremennik✓
+
+Rimmington |  | 15 | Show map | Asgarnia✓
+
+SouthAldarin |  | 8 | Show map | Varlamore✓
+
+NorthAldarin |  | 15 | Show map | Varlamore✓
+
+Changes[edit|edit source]
+
+Date | Changes
+
+11 July2005(update) | The item was graphically updated with the release ofFarming.
+
+18 April2005(update) | The item was graphically updated.
+
+Gallery (historical)[edit|edit source]
+
+ |  |  | 
+
+ |  |  | 
+
+RuneScape 2Beta | March/April 2004 –18 April 2005 | 18 April 2005 -11 July 2005 | 11 July 2005 -present
+
+Trivia[edit|edit source]
+
+When you try to exchange cabbages into noted cabbages at theFaladorfarming patches, thetool leprechauncomplains about cabbages and says to take them away.It is possible to obtain three cabbages as amaster clue scrollreward.[1]If a player receives 0 points in theTheatre of Blood, they will only receive a cabbage as a reward from the chest inVerzik Vitur's treasure vault, along with amessagethat reads,We are most displeased with your performance. Are you even trying?When you pick all of the cabbages in the northAldarinpatch, acabbage farmerspawns.
+
+References[edit|edit source]
+
+v•t•eFarmingproduce
+
+Allotments | PotatoOnionCabbageTomatoSweetcornStrawberryWatermelonSnape grass
+
+Flowers | MarigoldsRosemaryNasturtiumsWoad leafLimpwurt rootWhite lily
+
+Herbs | Guam leafMarrentillTarrominHarralanderGoutweedRanarr weedToadflaxIritAvantoeKwuarmSnapdragonCadantineLantadymeDwarf weedTorstol
+
+Hops | BarleyHammerstoneAsgarnianJute fibreYanillianKrandorianWildblood
+
+Bushes | RedberriesCadava berriesDwellberriesJangerberriesWhite berriesPoison ivy berries
+
+Trees | Willow branchLeavesAnyOakWillowMapleYewMagicRootsOakWillowMapleYewMagic |  | Willow branch | Leaves | AnyOakWillowMapleYewMagic | Roots | OakWillowMapleYewMagic
+
+ | Willow branch
+
+Leaves | AnyOakWillowMapleYewMagic
+
+Roots | OakWillowMapleYewMagic
+
+Fruit trees | AppleBananaOrangeCurry leafPineapplePapayaCoconutDragonfruit
+
+Special produce | Giant seaweedGrapesZamorak's grapesMushroomCactus spineCave nightshadePotato cactusCalquat fruitWhite tree fruitCelastrus barkWeeds
+
+Tithe Farm | GolovanovaBologanoLogavano
+
+Baskets | EmptyApplesBananasOrangesTomatoesStrawberries
+
+Sacks | EmptyPotatoesOnionsCabbages
+
+v•t•ePies
+
+Finished | RedberryMeatMudAppleGardenFishBotanicalMushroomAdmiralDragonfruitWildSummer
+
+Raw/uncooked | RedberryMeatMudAppleGardenFishBotanicalMushroomAdmiralDragonfruitWildSummer
+
+Part | Pie shellMud (compost)Mud (water)Garden (tomato)Garden (onion)Fish (trout)Fish (cod)Admiral (salmon)Admiral (tuna)Wild (raw bear meat)Wild (raw chompy)Summer (strawberry)Summer (watermelon)
+
+Ingredients | Pastry doughRedberriesCooked meatCompostClayCooking appleTomatoOnionCabbageTroutCodPotatoGolovanova fruit topSulliuscep capSalmonTunaDragonfruitRaw bear meatRaw chompyRaw rabbitStrawberryWatermelon
+
+Related | Pie recipe bookPie dishPumpkin pie(unobtainable)WaterRangeBake Pie(Lunar spell)

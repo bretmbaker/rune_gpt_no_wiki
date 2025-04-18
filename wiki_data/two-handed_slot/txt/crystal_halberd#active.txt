@@ -1,0 +1,69 @@
+[Weapon: Crystal Halberd#Active]
+
+
+Thecrystal halberdis adegradabletwo-handedweaponmade from acrystal weapon seed. It requires completion of theHard Western Provinces Diaryto wield, as well as 70Attack, 35Strengthand 50Agility. A new crystal halberd starts with 2,500 charges.
+In order to obtain a crystal halberd, one must talk toIslwynwho will offer to sell a crystal halberd for 750,000 coins. Alternatively, one can take acrystal weapon seedtoIlfeento be recharged into a crystal halberd with 2500 charges starting at a price of 750,000 coins, lowering by 150,000 each time afterwards eventually reaching a recharge price of 150,000 coins.
+
+
+[Infobox]
+Released: 25 July2019(Update)
+Also called: Chally
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wield, Check, Revert, Drop
+Worn options: Check
+Examine: A nice sturdy pike.
+General Store Value: 300,000 coins
+Alchemy: Not alchemisable
+Weight: 1.814 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +85
+- Slash: +110
+- Crush: +5
+- Magic: -4
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: -1
+- Slash: +4
+- Crush: +5
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +118
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Jab | Stab | Controlled | 7 ticks (4.2s) | 2 tiles |  | +1 Attack, Strength, Defence
+ | Swipe | Slash | Aggressive |  | +3 Strength
+ | Fend | Stab | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player performing the crystal halberd's special attack,Sweep.
+A player performing the crystal halberd's special attack in PvP.
+The crystal halberd shares the samespecial attackas thedragon halberd, consuming 30% of the player's special attack energy. In addition to a 10% damage boost, if used against "large" monsters (anything that is larger than 1x1, such asGeneral Graardor), the special attack will deal an additional second hit onto them, although with 25% reduced accuracy. It can also hit up to 10 NPCs in amulti-combat areain a 3x1 area centred on the main target (unless it used on an NPC larger than 1x1, in which case it will hit the target twice and ignore the rest of the NPCs). InPvP, it can only hit up to three players.
+The crystal halberd's special attack's accuracy rolls against the opponent's slash defence.[1]When using gear with the highest strength bonus and aSlayer helmetorblack maskon task, the highest possible hit with the special attack is 78–78 (total of 156) on large monsters. While this is higher than whatdragon clawsanddragon daggercan achieve, the much slower attack speed of the halberd is a major downside, so the claws and dagger generally lead to faster damage output in combat.
+The crystal halberd's special attack can still be particularly useful in certain situations. Anywhere that players have a forced amount of downtime (time where it is impossible to continue attacking), a crystal halberd special attack can be substituted for extra damage without incurring the 7-tick penalty. This is a common tactic against thePestilent Bloat; due to his long period of time where you have to run away, players typically use a crystal halberd special attack as their last damaging attack before running away to increase their potential damage cap. In a similar manner, it is often used when the opponent is on low health and the special attack is likely to finish them faster than using standard weapons (a strategy known as "last-hitting").
+Although halberds are the only weapon category alongsidespearsto ignore the damage reduction on theCorporeal Beast, the crystal halberd has limited use on it; as the special attack rolls against the opponent's slash defence, which is particularly high on the Corporeal Beast, it is very inaccurate against it (typically to the point wheredragon clawsare more effective despite the damage reduction) unless its Defence level is severely reduced.
+The special attack's ability to hit up to ten enemies can prove useful as well; when on aSlayertask where stacking enemies up in one pile to cast multi-combat spells is efficient, such assmoke devils, the crystal halberd can deal a large amount of additional damage, often twice that of anIce Barrage. It is often used for this purpose in efficientBarbarian Assaultteams by the attacker.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+4 | Moons of Peril/Strategies(Eclipse Clone phase)

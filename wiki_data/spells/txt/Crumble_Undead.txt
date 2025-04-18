@@ -1,0 +1,141 @@
+[Spell: Crumble_Undead]
+
+Crumble Undead
+
+
+
+
+
+
+
+Released | 24 May2001(Update)
+
+Members | No
+
+Level | 39
+
+Spellbook | Standard
+
+Type | Combat
+
+Experience | 24.5
+
+Base max hit | 15
+
+Runes | 221
+
+Casting speed | 5 ticks
+
+Description | Hits skeletons, ghosts, shades & zombies hard
+
+
+
+Animation
+
+
+
+Sound effect
+
+
+
+Crumble Undeadis astandard spellrequiring 39Magicto cast and costs 2air runes, 2earth runesand 1chaos rune. This spell can only be cast onundeadenemies, such asskeletons,zombies,ghostsandshades; trying to cast it a non-undead NPC yields the chatbox message:This spell only affects skeletons, zombies, ghosts and shades.
+
+Crumble undead canonlybeautocastby askull sceptre (i),slayer's staff,slayer's staff (e),staff of the dead,toxic staff of the dead,staff of light,staff of balance, orvoid knight mace. In particular,skull sceptre (i)is the onlyfree-to-playweapon that canautocastthis spell.
+
+Despite requiring chaos runes,chaos gauntletswill not have any effect on this spell as they only increase the max hit ofbolt spells.
+
+Autocasting Crumble Undead costs fewer runes thanEarth Bolt(unless astaff of earthor adust battlestaffare equipped) and hits as hard asBlast spells(at level 53 or higher Magic.)
+
+It is highly recommended againstVorkath, as the spell instantly kills theZombified Spawnit summons during the fight.
+
+It is also a cheap and convenient method for killing thetree spiritin theLost Cityquest from asafespot, as both the tree spirit and the zombies that need to be killed during the quest are susceptible to Crumble Undead.
+
+Damage[edit|edit source]
+
+Crumble undead has a max hit of 15, 18 when paired with thesalve amulet (ei).
+
+Calculator[edit|edit source]
+
+Please input the data and submit the form.
+
+Cost[edit|edit source]
+
+Input | Cost
+
+221 | 124
+
+Combo runes
+
+12 | 122
+
+212 | 332
+
+212 | 168
+
+212 | 222
+
+212 | 360
+
+Main-hands
+
+21Alt | 114
+
+21Alt | 114
+
+1 | 104
+
+1.711.710.86Alt | 107
+
+1.71.70.85 | 106
+
+Main and off-hands
+
+21 | 114
+
+1Alt | 104
+
+1.710.86Alt | 98
+
+1.70.85 | 97
+
+Changes[edit|edit source]
+
+Date | Changes
+
+6 December2004(update) | "the crumble undead spell was a bit underpowered before; we have now increased the amount of damage it does."
+
+v•t•eStandard spellbook
+
+Combat | Strike spellsWindWaterEarthFireBolt spellsWindWaterEarthFireBlast spellsWindWaterEarthFireWave spellsWindWaterEarthFireSurge spellsWindWaterEarthFireGod spellsSaradomin StrikeClaws of GuthixFlames of ZamorakChargeCurse spellsConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele BlockOtherCrumble UndeadIban BlastMagic Dart | Strike spells | WindWaterEarthFire | Bolt spells | WindWaterEarthFire | Blast spells | WindWaterEarthFire | Wave spells | WindWaterEarthFire | Surge spells | WindWaterEarthFire | God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge | Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block | Other | Crumble UndeadIban BlastMagic Dart
+
+Strike spells | WindWaterEarthFire
+
+Bolt spells | WindWaterEarthFire
+
+Blast spells | WindWaterEarthFire
+
+Wave spells | WindWaterEarthFire
+
+Surge spells | WindWaterEarthFire
+
+God spells | Saradomin StrikeClaws of GuthixFlames of ZamorakCharge
+
+Curse spells | ConfuseWeakenCurseBindSnareVulnerabilityEnfeebleEntangleStunTele Block
+
+Other | Crumble UndeadIban BlastMagic Dart
+
+Teleport | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTargetTeleotherLumbridgeFaladorCamelot |  | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget | Teleother | LumbridgeFaladorCamelot
+
+ | Lumbridge HomeVarrockLumbridgeFaladorHouseCamelotKourend CastleArdougneCivitas illa FortisWatchtowerTrollheimApe AtollTarget
+
+Teleother | LumbridgeFaladorCamelot
+
+Utility | Jewellery EnchantmentsSapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyteCharge Orb spellsWaterEarthFireAirEnchant Crossbow BoltOpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyxOtherBones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches | Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte | Charge Orb spells | WaterEarthFireAir | Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx | Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches
+
+Jewellery Enchantments | Sapphire/OpalEmerald/JadeRuby/TopazDiamondDragonstoneOnyxZenyte
+
+Charge Orb spells | WaterEarthFireAir
+
+Enchant Crossbow Bolt | OpalSapphireJadePearlEmeraldRed TopazRubyDiamondDragonstoneOnyx
+
+Other | Bones to BananasLow Level AlchemyTelekinetic GrabSuperheat ItemHigh Level AlchemyBones to Peaches

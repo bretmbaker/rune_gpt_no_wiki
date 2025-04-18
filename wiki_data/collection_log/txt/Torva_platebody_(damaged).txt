@@ -1,0 +1,4 @@
+Item: Torva platebody
+Summary: The Torva platebody  is part of the Torva armour set, requiring 80 Defence to wear. The platebody boasts the highest strength bonus of any body slot equipment, being 2 higher than the Bandos chestplate, Inquisitor's hauberk, fighter torso, and blood moon chestplate. As a Zarosian-aligned item, Torva armour will give Zarosian protection within the God Wars Dungeon.
+Sources:
+- Nex (Level 1001, Quantity: 1, Rarity: 1/258)

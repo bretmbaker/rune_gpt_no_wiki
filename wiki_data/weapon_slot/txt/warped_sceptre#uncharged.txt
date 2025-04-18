@@ -1,0 +1,84 @@
+[Weapon: Warped Sceptre#Uncharged]
+
+
+Thewarped sceptreis apowered staffrequiring 62Magicto wield, available as a drop fromwarped terrorbirdsorwarped tortoiseswith level 56Slayer. Like most powered staves, it is only tradeable when it is fully uncharged.
+Its cast speed gives it an improved damage output compared to theIban's staff(at 81 or higher Magic), but less than thetrident of the seas. This is particularly useful for midgameironmen playerswho are unable to killCave krakens.
+
+
+[Infobox]
+Released: 13 September2023(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Charge, Drop
+Worn options: Check
+Examine: A magical warped weapon.
+General Store Value: 150,000 coins
+High alch: 90,000 coins
+Low alch: 60,000 coins
+Weight: 1.814 kg
+Grand Exchange Value: 91,846 coins
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: 92
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +12
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +2
+- Slash: +3
+- Crush: +1
+- Magic: +12
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Accurate | Magic | Accurate | 4 ticks (2.4s) | 7 tiles |  | +3 Magic
+ | Accurate | Magic | Accurate | 7 tiles |  | +3 Magic
+ | Longrange | Magic | Longrange | 9 tiles |  | +1 Magic, +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Mutated Terrorbird | 178 | 1 | 1/320 | 
+Mutated Tortoise | 247 | 1 | 1/320 | 
+Warped Terrorbird | 96; 138 | 1 | 1/320 | 
+Warped Tortoise | 121 | 1 | 1/320 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Artio/Strategies(Magic)
+5 | Barbarian Assault/Strategies(Magic)
+5 | Callisto/Strategies(Magic)
+4 | Chambers of Xeric/Strategies(Magic)
+5 | Crazy archaeologist/Strategies(Magic)
+5 | Dagannoth Kings/Strategies(Tribrid (All Kings))
+4 | Dagannoth Kings/Strategies(Magic (Rex only))
+4 | Deranged archaeologist/Strategies(Magic)
+5 | Kraken/Strategies(Magic)
+3 | Revenants/Strategies(Magic)
+3 | Scurrius/Strategies(Magic (mid level))
+5 | Tombs of Amascut/Strategies(Magic switch)
+4 | Ultimate Ironman Guide/Equipment
+5 | The Whisperer/Strategies(Magic)
+5 | Zulrah/Strategies(Magic)

@@ -1,0 +1,77 @@
+[Weapon: Amulet Of The Damned#Full]
+
+
+Theamulet of the damnedis an amulet that provides extra buffs toBarrows equipment. It can be obtained from silver and gold shade chests found in theShade Catacombs. The amulet has the same bonuses as anamulet of glory.
+LikeBarrows equipment, it can only be traded when it hasn't been used. It will degrade at the same rate as any other barrows armour, but once it fully degrades, it will turn to dust. It becomes untradeable once it degrades. Players with multiple amulets can combine charges.
+
+
+[Infobox]
+Released: 6 November2014(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Worn options: None(?)
+Destroy: None
+Examine: Heirloom of an ancient family of Morytania.
+General Store Value: 58,001 coins
+High alch: 34,800 coins
+Low alch: 23,200 coins
+Weight: 0.1 kg
+Grand Exchange Value: 33,843 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 1,895
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +10
+- Slash: +10
+- Crush: +10
+- Magic: +10
+- Ranged: +10
+
+Defence Bonuses:
+- Stab: +3
+- Slash: +3
+- Crush: +3
+- Magic: +3
+- Ranged: +3
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +3
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Gold Chest (black) | N/A | 1 | 6/144.18;6/142.44 | 
+Gold Chest (brown) | N/A | 1 | 6/143.99;6/142.26 | 
+Gold Chest (crimson) | N/A | 1 | 6/144.08;6/142.35 | 
+Gold Chest (purple) | N/A | 1 | 6/144.28;6/142.54 | 
+Gold Chest (red) | N/A | 1 | 6/143.91;6/142.17 | 
+Silver Chest (black) | N/A | 1 | 10/152.6;10/148.88 | 
+Silver Chest (brown) | N/A | 1 | 10/152.46;10/148.74 | 
+Silver Chest (crimson) | N/A | 1 | 10/152.53;10/148.81 | 
+Silver Chest (purple) | N/A | 1 | 10/152.67;10/148.95 | 
+Silver Chest (red) | N/A | 1 | 10/152.39;10/148.68 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Barrows/Strategies(Magic equipment)
+5 | Chompington(Melee)
+3 | Dagannoth Kings/Strategies(Magic (Rex only))
+5 | Down Do Specs(Melee)
+4 | General Graardor/Strategies(Advanced Tank)
+5 | General Graardor/Strategies(Melee Attacker)
+4 | Kalphite Queen/Strategies(Verac the Defiled's)
+3 | Phantom Muspah/Strategies(Magic & Ranged)

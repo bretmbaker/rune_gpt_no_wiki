@@ -1,0 +1,93 @@
+Name: Elder Chaos druid
+Combat Level: 129
+Size: 1x1
+Info:
+- Description: An elder, more dangerous kind of druid.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 150 xp
+- Category: Chaos Druids
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 6607
+- Link: MOID
+
+Location:
+- Area: Chaos Temple (Wilderness)
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Elder chaos hood (1/1,419)
+- Elder chaos robe (1/1,419)
+- Elder chaos top (1/1,419)
+- Nature rune (1/129)
+- Grimy guam leaf (1/9.4)
+- Grimy marrentill (1/12.5)
+- Grimy tarromin (1/16.7)
+- Grimy harralander (1/21.4)
+- Grimy ranarr weed (1/27.3)
+- Grimy irit leaf (1/37.5)
+- Grimy avantoe (1/50)
+- Grimy kwuarm (1/60)
+- Grimy cadantine (1/75.1)
+- Grimy lantadyme (1/100.1)
+- Grimy dwarf weed (1/100.1)
+- Snape grass (1/129)
+- Unholy mould (1/129[d 1])
+- Nothing (1/189.56; Never[d 1])
+- Coins (1/786.29)
+- Loop half of key (1/780.48; 1/741.22[d 2])
+- Tooth half of key (1/780.48; 1/741.22[d 2])
+- Uncut sapphire (1/446.27; 1/226.62[d 2])
+- Runite bar (1/3,302.4)
+- Nature rune (1/5,504)
+- Rune 2h sword (1/5,504)
+- Rune battleaxe (1/5,504)
+- Uncut emerald (1/892.54; 1/453.24[d 2])
+- Law rune (1/8,256)
+- Death rune (1/8,256)
+- Steel arrow (1/8,256)
+- Rune arrow (1/8,256)
+- Adamant javelin (1/8,256)
+- Rune sq shield (1/8,256)
+- Dragonstone (1/8,256)
+- Silver ore (1/8,256)
+- Uncut ruby (1/1,785.08; 1/906.49[d 2])
+- Rune kiteshield (1/16,512)
+- Dragon med helm (1/16,512)
+- Rune spear (1/16,352.31; 1/1,791.99[d 2][d 3])
+- Shield left half (1/32,704.62; 1/3,583.97[d 2][d 3])
+- Nature talisman (1/4,760.22; 1/2,417.3[d 2])
+- Dragon spear (1/43,606.16; 1/4,778.63[d 2][d 3])
+- Uncut diamond (1/7,140.32; 1/3,625.95[d 2])
+- Rune javelin (1/14,280.65; 1/7,251.89[d 2])
+- Ensouled chaos druid head (1/20)
+- Looting bag (1/3)
+- Clue scroll (hard) (1/128; 1/64[d 2][d 1])
+- Larran's key (1/90)
+- Slayer's enchantment (1/200)
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 150
+Attack: 98
+Strength: 98
+Defence: 65
+Magic: 110
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

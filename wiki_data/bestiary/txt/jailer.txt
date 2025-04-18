@@ -1,0 +1,41 @@
+Name: Jailer
+Combat Level: 47
+Size: 1x1
+Info:
+- Description: Guards prisoners for the black knights.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 300
+- Link: MOID
+
+Location:
+- Area: Taverley Dungeon
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 47
+Attack: 40
+Strength: 40
+Defence: 40
+Magic: 1
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

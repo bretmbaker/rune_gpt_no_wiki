@@ -1,0 +1,47 @@
+Name: Balfrug Kreeyath
+Combat Level: 151
+Size: 3x3
+Info:
+- Description: Despoiler of Ullek.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 161 xp
+- Category: Black Demons
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3132
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Godsword shard 1 (1/1,524[1])
+- Godsword shard 2 (1/1,524[1])
+- Godsword shard 3 (1/1,524[1])
+- Frozen key piece (zamorak) (1/20[d 1])
+- Clue scroll (hard) (1/128[d 2][3])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 161
+Attack: 115
+Strength: 60
+Defence: 153
+Magic: 150
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

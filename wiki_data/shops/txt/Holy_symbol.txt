@@ -1,0 +1,261 @@
+[Shop: Holy_symbol]
+
+Holy symbol
+
+
+
+
+
+
+
+Released | 12 July2001(Update)
+
+Members | No
+
+Quest item | Animal Magnetism,The Great Brain Robbery
+
+
+
+Properties
+
+
+
+Tradeable | Yes
+
+Equipable | Yes
+
+Stackable | No
+
+Noteable | Yes
+
+Options | Wear, Drop
+
+Examine | A blessed holy symbol of Saradomin.
+
+
+
+Values
+
+
+
+Value | 300 coins
+
+High alch | 180 coins
+
+Low alch | 120 coins
+
+Weight | 0.007 kg
+
+
+
+Grand Exchange
+
+
+
+Exchange | 628coins (info)
+
+Buy limit | 125
+
+Daily volume | 5,672
+
+
+
+View real-time prices
+
+
+
+Loading...
+
+
+
+Advanced data
+
+
+
+Item ID | 1718
+
+Link | MOID
+
+
+
+Aholy symbolis an amulet donning the symbol ofSaradomin. They are made by having anunblessed symbolblessed byBrother Jeredin theEdgeville Monastery, or by blessing it via using aholy bookorbook of balanceon anunblessed symbolat 50Prayer, requiring a few prayer points. As Brother Jered is located on the upper floor of the monastery, blessing the symbol effectively requires a minimum of level 31 Prayer due to the entry requirement.
+
+It has the third highest prayer bonus for an amulet in game (after godstolesand thedragonbone necklace). It is cheap, easy to obtain, and is commonly used in conjunction withProselyte armourand other high prayer granting armour when using protect prayers as a form of defence while training.
+
+Wearing a holy symbol will decrease the chance ofvampyreshealing when attacked (this healing is similar toBanshees).
+
+Wearing a holy symbol allows players to use aprayer bookto cure poison.
+
+Combat stats[edit|edit source]
+
+Attack bonuses |  | 
+
+
+
+ |  |  |  | 
+
++0 | +0 | +0 | +0 | +0
+
+
+
+Defence bonuses
+
+
+
+ |  |  |  | 
+
++2 | +2 | +2 | +2 | +2
+
+
+
+Other bonuses | Slot
+
+
+
+ |  |  |  | 
+
++0 | +0 | +0% | +8 | List
+
+
+
+Creation[edit|edit source]
+
+Products[edit|edit source]
+
+Item | Members | Skills | XP | Materials
+
+ | Blessed axe |  | None | None | 1 ×Mithril axe1 ×Holy symbol
+
+Item sources[edit|edit source]
+
+Source | Level | Quantity | Rarity | Leagueregion
+
+Christmas cracker | N/A | 1 | Always | N/A
+
+Coffin (Hallowed Sepulchre)Low | 66 | 1 | 1/10 | 
+
+Hallowed sack | N/A | 1 | 5 × 1/10 | 
+
+Shop locations[edit|edit source]
+
+Seller | Location | Numberin stock | Restocktime | Pricesold at | Pricebought at | ChangePer | Members | Leagueregion
+
+Davon's Amulet Store. | Brimhaven | 0 | 2m | 360 | 270 | 2.0% |  | 
+
+Davon's Amulet Store.(Karamja gloves) | Brimhaven | 0 | 2m | 330 | 300 | 2.0% |  | 
+
+Used in recommended equipment[edit|edit source]
+
+Rank | Method
+
+5 | Barrows/Strategies(Ranged (Ahrim))
+
+5 | Barrows/Strategies(Tank & Lower level)
+
+3 | Basilisk Knight/Strategies(Ranged/Prayer)
+
+5 | Commander Zilyana/Strategies(Ranged)
+
+4 | Dust devil/Strategies(Bursting/Barraging)
+
+5 | Free-to-play Ironman guide(Magicgear)
+
+1 | Free-to-play Ironman guide(Prayermelee gear)
+
+4 | Free-to-play Ironman guide(Rangedgear)
+
+5 | Free-to-play Ironman guide(Meleegear)
+
+4 | Free-to-play Magic training(Magicgear)
+
+3 | Free-to-play Ranged training(Rangedgear)
+
+4 | Free-to-play melee training(Meleegear)
+
+4 | Greater Nechryael/Strategies(Bursting/Barraging)
+
+2 | Hallowed Sepulchre/Strategies(Agility)
+
+5 | Maniacal monkey/Strategies(Magic - Ice Barrage)
+
+4 | Maniacal monkey/Strategies(Ranged)
+
+5 | Maniacal monkey/Strategies(Magic - Ice Burst)
+
+4 | Slayer task/Nechryael(Magic)
+
+1 | Sulliuscep/Strategies
+
+1 | Sulliuscep/Strategies
+
+2 | TzHaar Fight Cave/Strategies(Early-game iron)
+
+3 | Volcanic Mine(Solo)
+
+3 | Volcanic Mine(Group)
+
+3 | Why Fletch?(Redemption strategy at Wintertodt)
+
+3 | Zalcano/Strategies(Mining)
+
+Changes[edit|edit source]
+
+Date | Changes
+
+26 – 31 January 2005 | The shadow on the item was removed.
+
+Gallery (historical)[edit|edit source]
+
+ | 
+
+ | 
+
+29 March 2004 ⁠–26-31 January 2005 | 26-31 January 2005 –present
+
+v•t•ePrayer items
+
+Weapons | One-handedMacesCanesWhite weaponryArmadyl crossbow(+1)Zaryte crossbow(+1)Blessed axe(+2)Keris(+2)Zamorakian hasta(+2)Viggora's chainmace(+2)Ursine chainmace(+2)Inquisitor's mace(+2)Lunar staff(+3)Keris partisan(breaching)(corruption)(sun)(+3)Rolling pin(+4)Wolfbane(+5)Silver sickle (b)(+5)Emerald sickle (b)(enchanted)(+5)Ruby sickle (b)(enchanted)(+5)Blisterwood sickle(+5)Ivandis flail(+5)Blisterwood flail(+5)Void knight mace(+6)Crozier(+6)3rd age druidic staff(+6)Two-handedWhite weaponry(+1)Tumeken's shadow(+1)Saradomin sword(blessed)(+2)Zamorakian spear(+2)Toktz-mej-tal(+5)Verac's flail(+6)Godswords(+8) | One-handed | MacesCanesWhite weaponryArmadyl crossbow(+1)Zaryte crossbow(+1)Blessed axe(+2)Keris(+2)Zamorakian hasta(+2)Viggora's chainmace(+2)Ursine chainmace(+2)Inquisitor's mace(+2)Lunar staff(+3)Keris partisan(breaching)(corruption)(sun)(+3)Rolling pin(+4)Wolfbane(+5)Silver sickle (b)(+5)Emerald sickle (b)(enchanted)(+5)Ruby sickle (b)(enchanted)(+5)Blisterwood sickle(+5)Ivandis flail(+5)Blisterwood flail(+5)Void knight mace(+6)Crozier(+6)3rd age druidic staff(+6) | Two-handed | White weaponry(+1)Tumeken's shadow(+1)Saradomin sword(blessed)(+2)Zamorakian spear(+2)Toktz-mej-tal(+5)Verac's flail(+6)Godswords(+8)
+
+One-handed | MacesCanesWhite weaponryArmadyl crossbow(+1)Zaryte crossbow(+1)Blessed axe(+2)Keris(+2)Zamorakian hasta(+2)Viggora's chainmace(+2)Ursine chainmace(+2)Inquisitor's mace(+2)Lunar staff(+3)Keris partisan(breaching)(corruption)(sun)(+3)Rolling pin(+4)Wolfbane(+5)Silver sickle (b)(+5)Emerald sickle (b)(enchanted)(+5)Ruby sickle (b)(enchanted)(+5)Blisterwood sickle(+5)Ivandis flail(+5)Blisterwood flail(+5)Void knight mace(+6)Crozier(+6)3rd age druidic staff(+6)
+
+Two-handed | White weaponry(+1)Tumeken's shadow(+1)Saradomin sword(blessed)(+2)Zamorakian spear(+2)Toktz-mej-tal(+5)Verac's flail(+6)Godswords(+8)
+
+Headgear | White med helm(+1)White full helm(+1)Rune god helms(+1)Torva full helm(+1)Blessed coifs(+1)Armadyl helmet(+1)Inquisitor's great helm(+1)Zealot's helm(+1)Virtus mask(+1)Dagon'hai hat(+2)Crystal helm(+2)Justiciar faceguard(+2)Ancient ceremonial mask(+2)Hueycoatl hide coif(+2)Halos(+3)Helmet of the moon(+3)Verac's helm(+3)Initiate sallet(+3)Helm of neitiznot(+3)Neitiznot faceguard(+3)Proselyte sallet(+4)Elite black full helm(+4)Vestment mitres(+5)Sunfire fanatic helm(+6)HalosGuthix(+3)Saradomin(+3)Zamorak(+3)Armadyl(+3)Bandos(+3)Ancient(+3)Seren(+3)Brassica(+3) |  | White med helm(+1)White full helm(+1)Rune god helms(+1)Torva full helm(+1)Blessed coifs(+1)Armadyl helmet(+1)Inquisitor's great helm(+1)Zealot's helm(+1)Virtus mask(+1)Dagon'hai hat(+2)Crystal helm(+2)Justiciar faceguard(+2)Ancient ceremonial mask(+2)Hueycoatl hide coif(+2)Halos(+3)Helmet of the moon(+3)Verac's helm(+3)Initiate sallet(+3)Helm of neitiznot(+3)Neitiznot faceguard(+3)Proselyte sallet(+4)Elite black full helm(+4)Vestment mitres(+5)Sunfire fanatic helm(+6) | Halos | Guthix(+3)Saradomin(+3)Zamorak(+3)Armadyl(+3)Bandos(+3)Ancient(+3)Seren(+3)Brassica(+3)
+
+ | White med helm(+1)White full helm(+1)Rune god helms(+1)Torva full helm(+1)Blessed coifs(+1)Armadyl helmet(+1)Inquisitor's great helm(+1)Zealot's helm(+1)Virtus mask(+1)Dagon'hai hat(+2)Crystal helm(+2)Justiciar faceguard(+2)Ancient ceremonial mask(+2)Hueycoatl hide coif(+2)Halos(+3)Helmet of the moon(+3)Verac's helm(+3)Initiate sallet(+3)Helm of neitiznot(+3)Neitiznot faceguard(+3)Proselyte sallet(+4)Elite black full helm(+4)Vestment mitres(+5)Sunfire fanatic helm(+6)
+
+Halos | Guthix(+3)Saradomin(+3)Zamorak(+3)Armadyl(+3)Bandos(+3)Ancient(+3)Seren(+3)Brassica(+3)
+
+Bodies | White chainbody(+1)White platebody(+1)Rune god platebodies(+1)Bandos chestplate(+1)Torva platebody(+1)Blessed d'hide(+1)Armadyl chestplate(+1)Inquisitor's hauberk(+2)Dagon'hai robe(+2)Virtus robe top(+2)Crystal body(+3)Priest gown(+3)Zamorak monk(+3)Elite void robe(+3)Hueycoatl hide body(+3)Druid's robe(+4)Justiciar chestguard(+4)Shade robe(+5)Verac's brassard(+5)Monk's robe(t)(g)(+6)Ancient ceremonial robe(+6)Initiate hauberk(+6)Vestments(+6)Zealot's robe(+7)Proselyte hauberk(+8)Elite black platebody(+8)3rd age druidic robe(+8)Sunfire fanatic cuirass(+10)
+
+Legwear | White platelegs(sk)(+1)Rune god platelegs(sk)(+1)Bandos tassets(+1)Torva platelegs(+1)Blessed chaps(+1)Armadyl chainskirt(+1)Virtus robe bottom(+1)Inquisitor's plateskirt(+2)Dagon'hai robe(+2)Crystal legs(+2)Hueycoatl hide chaps(+2)Priest gown(+3)Zamorak monk(+3)Elite void robe(+3)Druid's robe(+4)Justiciar legguards(+4)Shade robe(+4)Verac's plateskirt(+4)Monk's robe(t)(g)(+5)Ancient ceremonial robe(+5)Initiate cuisse(+5)Vestments(+5)Zealot's robe(+6)Proselyte cuisse(sk)(+6)Elite black platelegs(+6)3rd age druidic robe(+6)Sunfire fanatic chausses(+8)
+
+Gloves | Ancient ceremonial(+1)White(+1)Blessed bracers(+1)Hueycoatl hide vambraces(+1)Zaryte vambraces(+1)Tormented bracelet(or)(+2)Holy wraps(+3)
+
+Boots | Ancient ceremonial(+1)Aranea(+1)Bandos(+1)Blessed d'hide(+1)White(+1)Zealot's(+1)Guardian(+2)Holy sandals(+3)Echo(+4)Devout(+5)
+
+Capes | Mythical cape(max)(+1)Ardougne cloak 1(+2)Fire cape(max)(+2)Infernal cape(max)(+2)Vestment cloak(+3)3rd age druidic cloak(+3)Skillcape (trimmed)(+4)Quest cape (trimmed)(+4)Achievement diary cape(+4)Max cape(+4)Ardougne cloak 2(+4)Ardougne cloak 3(+5)3rd age cloak(+5)Ardougne cloak 4(max)(+6)Soul cape(+8)
+
+Amulets | Witchwood icon(+1)Beads of the dead(+1)Amulet of power(t)(+1)Amulet of torture(or)(+2)Necklace of anguish(or)(+2)Occult necklace(or)(+2)Amulet of glory(t)(+3)Amulet of eternal glory(+3)Amulet of the damned(+3)Amulet of avarice(+3)Berserker necklace(or)(+3)Salve amulet(e)(i)(ei)(+3)Amulet of fury(or)(+5)Amulet of blood fury(+5)Holy symbol(+8)Unholy symbol(+8)Vestment stole(+10)Dragonbone necklace(+12)Bonecrusher necklace(+12)
+
+Rings | Explorer's rings(+1)Ring of suffering(+2)Ring of shadows(+2)Ring of the gods(+4)Ring of suffering (i)(+4)Ring of the gods (i)(+8)
+
+Blessings | Peaceful(+1)Holy(+1)Unholy(+1)Honourable(+1)War(+1)Ancient(+1)Rada's 2and3(+1)Rada's 4(+2)
+
+Shields | Falador shield 1(+1)White sq shield(+1)White kiteshield(+1)Rune god(+1)Blessed d'hide(+1)Kharedst's memoirs(+1)Spirit shield(+1)Elidinis' ward(+1)Falador shield 2(+3)Book of the dead(+3)Blessed spirit shield(+3)Arcane spirit shield(+3)Elysian spirit shield(+3)Spectral spirit shield(+3)Falador shield 3(+4)Elidinis' ward (f)(+4)God book(+5)Broodoo shield(+5)Falador shield 4(+5)God booksHoly(or)(+5)Unholy(or)(+5)Balance(or)(+5)War(or)(+5)Law(or)(+5)Darkness(or)(+5) |  | Falador shield 1(+1)White sq shield(+1)White kiteshield(+1)Rune god(+1)Blessed d'hide(+1)Kharedst's memoirs(+1)Spirit shield(+1)Elidinis' ward(+1)Falador shield 2(+3)Book of the dead(+3)Blessed spirit shield(+3)Arcane spirit shield(+3)Elysian spirit shield(+3)Spectral spirit shield(+3)Falador shield 3(+4)Elidinis' ward (f)(+4)God book(+5)Broodoo shield(+5)Falador shield 4(+5) | God books | Holy(or)(+5)Unholy(or)(+5)Balance(or)(+5)War(or)(+5)Law(or)(+5)Darkness(or)(+5)
+
+ | Falador shield 1(+1)White sq shield(+1)White kiteshield(+1)Rune god(+1)Blessed d'hide(+1)Kharedst's memoirs(+1)Spirit shield(+1)Elidinis' ward(+1)Falador shield 2(+3)Book of the dead(+3)Blessed spirit shield(+3)Arcane spirit shield(+3)Elysian spirit shield(+3)Spectral spirit shield(+3)Falador shield 3(+4)Elidinis' ward (f)(+4)God book(+5)Broodoo shield(+5)Falador shield 4(+5)
+
+God books | Holy(or)(+5)Unholy(or)(+5)Balance(or)(+5)War(or)(+5)Law(or)(+5)Darkness(or)(+5)
+
+v•t•eSilver
+
+Crafted | Silver oreSilver barSilver dustHoly symbol(unstrung)Silver sickleUnholy symbol(unstrung)ConductorTiaraUnenchanted jewelleryOpal amuletOpal braceletOpal necklaceOpal ringJade amuletJade braceletJade necklaceJade ringTopaz amuletTopaz braceletTopaz necklaceTopaz ringEnchanted jewelleryAmulet of bountyExpeditious braceletDodgy necklaceRing of pursuitAmulet of chemistryFlamtaer braceletNecklace of passageRing of returningBurning amuletBracelet of slaughterNecklace of faithEfaritay's aid | Unenchanted jewellery | Opal amuletOpal braceletOpal necklaceOpal ringJade amuletJade braceletJade necklaceJade ringTopaz amuletTopaz braceletTopaz necklaceTopaz ring | Enchanted jewellery | Amulet of bountyExpeditious braceletDodgy necklaceRing of pursuitAmulet of chemistryFlamtaer braceletNecklace of passageRing of returningBurning amuletBracelet of slaughterNecklace of faithEfaritay's aid
+
+Unenchanted jewellery | Opal amuletOpal braceletOpal necklaceOpal ringJade amuletJade braceletJade necklaceJade ringTopaz amuletTopaz braceletTopaz necklaceTopaz ring
+
+Enchanted jewellery | Amulet of bountyExpeditious braceletDodgy necklaceRing of pursuitAmulet of chemistryFlamtaer braceletNecklace of passageRing of returningBurning amuletBracelet of slaughterNecklace of faithEfaritay's aid
+
+Silver weaponry | Blessed axeSilver bolts(unf)Silver sickle(blessed)Emerald sickle (b)(enchanted)Rod of ivandisSilverlightDarklightArclightWolfbaneIvandis flailRuby sickle (b)(enchanted)Blisterwood sickleBlisterwood flail
+
+Quest | Blessed axeDemonic sigilConductorRod of ivandisSilver sickle (b)Emerald sickle (b)Enchanted emerald sickle (b)SilverlightDarklightWolfbaneIvandis flailRuby sickle (b)(enchanted)Blisterwood sickleBlisterwood flail

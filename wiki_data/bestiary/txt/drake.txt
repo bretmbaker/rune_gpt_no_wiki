@@ -1,0 +1,97 @@
+Name: Drake
+Combat Level: 192
+Size: 5x5
+Info:
+- Description: A dragon-like creature with no wings.
+
+Slayer Info:
+- Required Level: 84
+- Slayer XP: 256.2 xp
+- Category: Drakes
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 8612,8613
+- Link: MOID
+
+Location:
+
+Money Making:
+
+Notable Drops:
+- Drake's tooth (1/2,560; 1/512[d 1][1])
+- Drake's claw (1/2,560; 1/512[d 1][1])
+- Dragon thrownaxe (1/10,000; 1/2,000[d 2][1])
+- Dragon knife (1/10,000; 1/2,000[d 2][1])
+- Black d'hide vambraces (1/85)
+- Mystic earth staff (1/85)
+- Dragon mace (1/85)
+- Grimy guam leaf (1/68)
+- Grimy marrentill (1/90.7)
+- Grimy tarromin (1/120.9)
+- Grimy harralander (1/155.4)
+- Grimy ranarr weed (1/197.8)
+- Grimy irit leaf (1/272)
+- Grimy avantoe (1/362.7)
+- Grimy kwuarm (1/435.2)
+- Grimy cadantine (1/544)
+- Grimy lantadyme (1/725.3)
+- Grimy dwarf weed (1/725.3)
+- Grimy avantoe (1/90.7)
+- Grimy kwuarm (1/90.7)
+- Grimy ranarr weed (1/113.3)
+- Grimy snapdragon (1/113.3)
+- Grimy cadantine (1/113.3)
+- Grimy dwarf weed (1/113.3)
+- Grimy lantadyme (1/151.1)
+- Grimy torstol (1/151.1)
+- Toadflax seed (1/426.8)
+- Irit seed (1/626.9)
+- Belladonna seed (1/647.1)
+- Poison ivy seed (1/911.8)
+- Avantoe seed (1/911.8)
+- Cactus seed (1/955.2)
+- Potato cactus seed (1/1,337.3)
+- Kwuarm seed (1/1,337.3)
+- Snapdragon seed (1/2,006)
+- Cadantine seed (1/2,865.7)
+- Lantadyme seed (1/4,012)
+- Snape grass seed (1/5,015)
+- Dwarf weed seed (1/6,686.7)
+- Torstol seed (1/10,030)
+- Coins (1/85)
+- Nothing (1/170.31; Never[d 1])
+- Uncut sapphire (1/340; 1/172.66[d 2])
+- Uncut emerald (1/680; 1/345.31[d 2])
+- Uncut ruby (1/1,360; 1/690.62[d 2])
+- Uncut diamond (1/5,440; 1/2,762.5[d 2])
+- Nature talisman (1/3,626.67; 1/1,841.67[d 2])
+- Loop half of key (1/10,880; 1/5,525[d 2])
+- Tooth half of key (1/10,880; 1/5,525[d 2])
+- Rune javelin (1/10,880; 1/5,525[d 2])
+- Rune spear (1/174,080; 1/10,359.38[d 2][d 3])
+- Shield left half (1/348,160; 1/20,718.75[d 2][d 3])
+- Dragon spear (1/464,213.33; 1/27,625[d 2][d 3])
+- Brimstone key (1/65[d 1])
+- Clue scroll (hard) (1/128[d 2][1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 250
+Attack: 140
+Strength: 118
+Defence: 120
+Magic: 112
+Ranged: 140
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

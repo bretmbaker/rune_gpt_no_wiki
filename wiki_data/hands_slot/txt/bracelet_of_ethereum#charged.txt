@@ -1,0 +1,74 @@
+[Weapon: Bracelet Of Ethereum#Charged]
+
+
+Thebracelet of ethereumis a unique drop fromrevenantsin theRevenant Caves. Players can charge the bracelet withrevenant ethers, and can hold up to 16,000 ether. Players can configure the charges while the bracelet is in their bank by right-clicking on Configure-Charges, as long as players have the required materials. When charged, the bracelet becomes untradeable and damage from revenants is reduced by 75%, with 1 charge being consumed per attack. Revenants are also made tolerant when a charged bracelet is worn.
+It isalwayslost on death, and any ether stored within it will be dropped as well. Thus, it is recommended not to place too many charges in the bracelet, as player killers will always receive the remaining ether within it as loot upon death.
+
+
+[Infobox]
+Released: 23 November2017(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Toggle-absorption, Dismantle, Drop
+Worn options: Check, Toggle absorption
+Destroy: None
+Examine: The bracelet is dull and powerless.
+General Store Value: 72,000 coins
+High alch: 43,200 coins
+Low alch: 28,800 coins
+Weight: 0.25 kg
+Grand Exchange Value: 42,725 coins
+Grand Exchange Daily Buy Limit: 10,000
+Grand Exchange Daily Trades Volume: 149,094
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Hands slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Revenant cyclops | 82 | 1 | 1/14.13 | 
+Revenant dark beast | 120 | 1 | 1/8.25 | 
+Revenant demon | 98 | 1 | 1/11.67 | 
+Revenant dragon | 135 | 1 | 1/6.63 | 
+Revenant goblin | 15 | 1 | 1/115.19 | 
+Revenant hellhound | 90 | 1 | 1/12.78 | 
+Revenant hobgoblin | 60 | 1 | 1/24.1 | 
+Revenant imp | 7 | 1 | 1/201.67 | 
+Revenant knight | 126 | 1 | 1/7.1 | 
+Revenant maledictus | 397 | 1 | 1/6.63 | 
+Revenant ork | 105 | 1 | 1/9.68 | 
+Revenant pyrefiend | 52 | 1 | 1/27.27 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Revenants/Strategies(Magic)
+1 | Revenants/Strategies(Ranged)
+1 | Revenants/Strategies(Melee)

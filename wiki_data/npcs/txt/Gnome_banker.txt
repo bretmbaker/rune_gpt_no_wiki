@@ -1,0 +1,2 @@
+Item: Gnome banker
+Summary: Gnome bankers run the Tree Gnome Stronghold branch of the Bank of Gielinor.

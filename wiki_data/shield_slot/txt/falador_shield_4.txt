@@ -1,0 +1,63 @@
+[Weapon: Falador Shield 4]
+
+
+TheFalador shield 4is a reward from completing theelite Falador Diarytasks given to you bySir Rebralin theWhite Knights' Castlecourtyard and can be retrieved from him for free if lost. Its defensive bonuses are equivalent to anAdamant kiteshield, except it has an addedPrayerbonus, a higherRangedattack bonus, and weighs less.
+A number of other benefitsare always active upon claiming rewards from the elite tier of the Falador diary.
+
+
+[Infobox]
+Released: 5 March2015(Update)
+Members: Yes
+Quest item: No
+Tradeable: No
+Equipable: Yes
+Stackable: No
+Noteable: No
+Options: Wear, Recharge-prayer, Check, Drop
+Worn options: Recharge Prayer, Check
+Examine: An elite shield from Falador.
+General Store Value: 0 coins
+High alch: 0 coins
+Low alch: 0 coins
+Weight: 5.443 kg
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: -8
+- Ranged: -2
+
+Defence Bonuses:
+- Stab: +27
+- Slash: +31
+- Crush: +29
+- Magic: -1
+- Ranged: +29
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +5
+
+Slot: Shield slot
+
+
+[Used in Recommended Equipment]
+Rank | Method
+1 | Abyss/Strategies(Graceful)
+1 | Abyss/Strategies(Defence)
+5 | Calvar'ion/Strategies(Melee)
+1 | Ecumenical key/Strategies(Magic)
+5 | Spindel/Strategies(Melee)
+5 | Sulliuscep/Strategies
+5 | Sulliuscep/Strategies
+5 | Venenatis/Strategies(Melee)
+5 | Vet'ion/Strategies(Melee)
+1 | Volcanic Mine(Solo)
+1 | Volcanic Mine(Group)
+2 | Zalcano/Strategies(Mining)

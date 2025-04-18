@@ -1,0 +1,72 @@
+[Weapon: Iron Scimitar]
+
+
+Theiron scimitaris amelee weaponthat can be used incombat. It is stronger than thebronze scimitar. Players can make an iron scimitar with 20Smithingusing 2iron bars, giving 50experience.
+
+
+[Infobox]
+Released: 4 January2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Drop
+Examine: A vicious, curved sword.
+General Store Value: 112 coins
+High alch: 67 coins
+Low alch: 44 coins
+Weight: 1.814 kg
+Respawn time: 500 ticks (300 seconds)
+Grand Exchange Value: 72 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 5,295
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +2
+- Slash: +10
+- Crush: -2
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +1
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +9
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Weapon slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 4 ticks (2.4s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Lunge | Stab | Controlled |  | +1 Attack, Strength, Defence
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+BanditLevel 22 | 22 | 1 | 4/128 | 
+Giant skeleton (Tarn's Lair) | 100 | 1 | 2/128 | 
+Ork | 107 | 1 | 5/128 | 
+Rusty scimitar | N/A | 1 | 57/100 | 
+Scimitar Stall | 65 | 1 | 23/40 | 
+Skeletal miner | 42 | 1 | 1/128 | 
+Skeleton (Catacombs of Kourend) | 22 | 1 | 1/128 | 
+Skeleton (Tarn's Lair)High level | 81; 87 | 1 | 2/128 | 
+Skeleton (mage) | 94 | 1 | 2/128 | 
+SkeletonArmed | 25; 45 | 1 | 1/128 | 
+Spiritual warrior | 115–158 | 1 | 8/127 | 

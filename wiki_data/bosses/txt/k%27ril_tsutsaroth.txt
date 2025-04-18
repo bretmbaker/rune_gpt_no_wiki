@@ -1,0 +1,89 @@
+Name: K'ril Tsutsaroth
+Combat Level: 650
+Size: 5x5
+Info:
+- Description: A servant of the god Zamorak.
+
+Slayer Info:
+- Required Level: None
+- Slayer XP: 350.5 xp
+- Category: Bosses, Greater Demons
+
+Immunities:
+- Poison: Immune
+- Venom: Immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 3129
+- Link: MOID
+
+Location:
+- Area: God Wars Dungeon (Zamorak boss room)
+- Members Only: No
+
+Money Making:
+- The following money making guide is available for K'ril Tsutsaroth:
+
+Notable Drops:
+- Steam battlestaff (1/127[6])
+- Zamorakian spear (1/127[7])
+- Staff of the dead (1/508[8])
+- Zamorak hilt (1/508[8])
+- Godsword shard 1 (1/762[d 1][9])
+- Godsword shard 2 (1/762[d 1][9])
+- Godsword shard 3 (1/762[d 1][9])
+- Loop half of key (1/94.93)
+- Tooth half of key (1/99.58)
+- Uncut sapphire (1/156.31)
+- Uncut emerald (1/312.62)
+- Rune sword (1/406.4)
+- Uncut ruby (1/625.23)
+- Nature rune (1/677.33)
+- Rune 2h sword (1/677.33)
+- Rune battleaxe (1/677.33)
+- Law rune (1/1,016)
+- Death rune (1/1,016)
+- Steel arrow (1/1,016)
+- Rune arrow (1/1,016)
+- Adamant javelin (1/1,016)
+- Rune sq shield (1/1,016)
+- Dragonstone (1/1,016)
+- Silver ore (1/1,016)
+- Chaos talisman (1/1,667.28)
+- Rune kiteshield (1/2,032)
+- Dragon med helm (1/2,032)
+- Rune spear (1/2,110.31)
+- Uncut diamond (1/2,500.92)
+- Shield left half (1/4,220.62)
+- Rune javelin (1/5,001.85)
+- Dragon spear (1/5,627.5)
+- Brimstone key (1/50[d 1])
+- Clue scroll (elite) (1/250[d 2][12])
+- Pet k'ril tsutsaroth (1/5,000[13])
+
+Combat Achievements:
+- Yarr No More: Receive kill-credit for K'ril Tsutsaroth without him using his special attack. (Hard (3 pts))
+- K'ril Tsutsaroth Adept: Kill K'ril Tsutsaroth 50 times. (Hard (3 pts))
+- Demonbane Weaponry II: Finish off K'ril Tsutsaroth with a demonbane weapon. (Hard (3 pts))
+- Demonic Showdown: Finish off K'ril Tsutsaroth whilst all of his bodyguards are dead. (Hard (3 pts))
+- The Bane of Demons: Defeat K'ril Tsutsaroth in a private instance using only demonbane spells. (Elite (4 pts))
+- Demonic Defence: Kill K'ril Tsutsaroth in a private instance without taking any of his melee hits. (Elite (4 pts))
+- K'ril Tsutsaroth Veteran: Kill K'ril Tsutsaroth 100 times. (Elite (4 pts))
+- Demon Whisperer: Kill K'ril Tsutsaroth in a private instance without ever being hit by his bodyguards. (Grandmaster (6 pts))
+- Ash Collector: Kill K'ril Tsutsaroth 20 times in a private instance without leaving the room. (Grandmaster (6 pts))
+
+[Combat stats]
+Hitpoints: 255
+Attack: 340
+Strength: 300
+Defence: 270
+Magic: 200
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

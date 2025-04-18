@@ -1,0 +1,1 @@
+Flaxis a resource that can be picked fromplantsin various locations around Gielinor. Multiple can be collected from the same plant. It is used to makebow stringsat aspinning wheel, requiring 10Crafting, yielding 15 Craftingexperience. Flax can also be spun via theSpin FlaxLunar spell.

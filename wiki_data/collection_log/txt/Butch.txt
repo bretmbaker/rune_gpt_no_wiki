@@ -1,0 +1,4 @@
+Item: Butch
+Summary: 
+Sources:
+- Vardorvis (Level 572; 784; 1136, Quantity: 1, Rarity: 1/3,000)

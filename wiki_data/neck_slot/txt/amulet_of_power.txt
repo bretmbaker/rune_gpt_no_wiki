@@ -1,0 +1,146 @@
+[Weapon: Amulet Of Power]
+
+
+Anamulet of poweroffers a good balance of attack and defence bonuses for all classes ofcombat. It is created by castingLvl-4 Enchanton adiamond amulet, and has no requirements to be worn.
+This item is a less expensive option for players who do not wish to buy anamulet of glory. It lacks the glory's teleportation capabilities and has weakerattackandPrayer bonuses, but has the samestrengthbonus as well as higherdefence bonuses.
+
+
+[Infobox]
+Released: 24 May2001(Update)
+Members: No
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Drop
+Examine: An enchanted diamond amulet of power.
+General Store Value: 3,525 coins
+High alch: 2,115 coins
+Low alch: 1,410 coins
+Weight: 0.01 kg
+Grand Exchange Value: 2,107 coins
+Grand Exchange Daily Buy Limit: 125
+Grand Exchange Daily Trades Volume: 80,451
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +6
+- Slash: +6
+- Crush: +6
+- Magic: +6
+- Ranged: +6
+
+Defence Bonuses:
+- Stab: +6
+- Slash: +6
+- Crush: +6
+- Magic: +6
+- Ranged: +6
+
+Other Bonuses:
+- Strength: +6
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +1
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Crazy archaeologist | 204 | 1 | 7/128 | 
+Crystal impling jar | N/A | 5–7(noted) | 1/18 | 
+Crystal impling | 80; 90 | 5–7(noted) | 1/18 | 
+King Black Dragon | 276 | 1 | 7/128 | 
+Magpie impling jar | N/A | 3(noted) | 1/21 | 
+Magpie impling | 65; 75 | 3(noted) | 1/21 | 
+Reward casket (medium) | N/A | 1 | 90/3,410 | 
+Silver Chest (black) | N/A | 1 | 2/152.6;2/148.88 | 
+Silver Chest (brown) | N/A | 1 | 2/152.46;2/148.74 | 
+Silver Chest (crimson) | N/A | 1 | 2/152.53;2/148.81 | 
+Silver Chest (purple) | N/A | 1 | 2/152.67;2/148.95 | 
+Silver Chest (red) | N/A | 1 | 2/152.39;2/148.68 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+5 | Ancient Wyvern/Strategies(Prayer)
+4 | Ancient Wyvern/Strategies(Ranged)
+5 | Ancient Wyvern/Strategies(Melee)
+3 | Artio/Strategies(Magic)
+4 | Artio/Strategies(Ranged)
+2 | Aviansie/Strategies(Ranged - Low Risk)
+4 | Aviansie/Strategies(Ranged)
+4 | Barbarian Assault/Strategies(Magic)
+3 | Barbarian Assault/Strategies(Ranged (mid level))
+4 | Barbarian Assault/Strategies(Melee (mid level))
+4 | Barrows/Strategies(Ranged (Ahrim))
+4 | Barrows/Strategies(Tank & Lower level)
+5 | Basilisk Knight/Strategies(Ranged)
+3 | Budget Cutter
+3 | Callisto/Strategies(Magic)
+4 | Callisto/Strategies(Ranged)
+5 | Calvar'ion/Strategies(Melee)
+4 | Cerberus/Strategies(Ranged)
+5 | Chaos Elemental/Strategies(Melee)
+4 | Chaos Fanatic/Strategies(Ranged)
+4 | Chompy bird hunting/Strategy
+4 | Corporeal Beast/Strategies(Ranged masses)
+5 | Corporeal Beast/Strategies(Solo melee)
+5 | Crazy archaeologist/Strategies(Magic)
+2 | Fighting as Intended II
+1 | Fighting as Intended II
+2 | Free-to-play Ironman guide(Magicgear)
+2 | Free-to-play Ironman guide(Prayermelee gear)
+1 | Free-to-play Ironman guide(Rangedgear)
+1 | Free-to-play Ironman guide(Meleegear)
+2 | Free-to-play Magic training(Magicgear)
+1 | Free-to-play Ranged training(Rangedgear)
+1 | Free-to-play melee training(Meleegear)
+4 | Gout tuber/Strategies(Tank)
+5 | King Black Dragon/Strategies(Melee BIS smuggle)
+4 | King Black Dragon/Strategies(Ranged BIS smuggle)
+5 | King Black Dragon/Strategies(4-item melee)
+4 | Kraken/Strategies(Magic)
+5 | The Leviathan/Strategies(Ranged)
+5 | Lizardman shaman/Strategies(Melee)
+5 | Metal dragons/Strategies(Melee)
+5 | Metal dragons/Strategies(Magic)
+4 | Metal dragons/Strategies(Ranged)
+5 | The Mimic/Strategies(Magic)
+5 | Moons of Peril/Strategies(Moons of Peril Armour)
+5 | Nightmare Zone/Strategies(Magic)
+4 | Nightmare Zone/Strategies(Ranged)
+4 | Nightmare Zone/Strategies(Ranged (Absorption, AFK))
+4 | Phantom Muspah/Strategies(Ranged)
+5 | Phantom Muspah/Strategies(Magic & Ranged)
+5 | Revenants/Strategies(Magic)
+4 | Revenants/Strategies(Ranged)
+4 | Revenants/Strategies(Melee)
+5 | Sarachnis/Strategies(Melee tank)
+4 | Scorpia/Strategies(Magic)
+4 | Scurrius/Strategies(Magic (mid level))
+4 | Scurrius/Strategies(Melee (mid level))
+3 | Scurrius/Strategies(Range (mid level))
+5 | Skeletal Wyvern/Strategies(Ranged (Void))
+4 | Skeletal Wyvern/Strategies(Ranged)
+5 | Skotizo/Strategies(Melee)
+4 | Skotizo/Strategies(Ranged)
+5 | Slayer task/Fossil Island wyverns(Melee)
+5 | Slayer task/Fossil Island wyverns(Prayer)
+4 | Slayer task/Fossil Island wyverns(Ranged)
+4 | Slayer task/Jellies(Magic)
+5 | Slayer task/Jellies(Ranged)
+4 | Slayer task/Wyrms(Ranged)
+5 | Slayer training(Ranged)
+4 | Spindel/Strategies(Melee)
+5 | The Hueycoatl/Strategies(Melee)
+4 | TzHaar Fight Cave/Strategies(Early-game iron)
+3 | Ultimate Ironman Guide/Equipment
+4 | Venenatis/Strategies(Melee)
+5 | Vet'ion/Strategies(Melee)
+5 | Vorkath/Strategies(Ranged (crossbow))
+5 | Zulrah/Strategies(Magic)

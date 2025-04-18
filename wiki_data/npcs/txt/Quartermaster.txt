@@ -1,0 +1,2 @@
+Item: Quartermaster
+Summary: The quartermaster is a non-player character found in the Tyras Camp. At his store, he sells and buys every kind of metal halberd, with the exception of the white halberd, which can be purchased from the White Knight Armoury instead. Notably, dragon halberds only become available after completing Regicide.

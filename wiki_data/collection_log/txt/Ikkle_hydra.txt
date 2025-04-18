@@ -1,0 +1,4 @@
+Item: Ikkle hydra
+Summary: 
+Sources:
+- Alchemical Hydra (Level 426, Quantity: 1, Rarity: 1/3,000)

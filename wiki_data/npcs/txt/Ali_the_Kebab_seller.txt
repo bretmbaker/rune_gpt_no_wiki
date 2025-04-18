@@ -1,0 +1,2 @@
+Item: Ali the Kebab seller
+Summary: Ali the Kebab seller is a man who runs his kebab business in the town centre of Pollnivneach. He sells kebabs for three coins each, super kebabs for five coins each, and gives red hot sauce for free if the player asks for it, if the player doesn't have it in their bank or inventory. The drop trick will only work to get more than one bottle by using Telekinetic Grab on the dropped item.

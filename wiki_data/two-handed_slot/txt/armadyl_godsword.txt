@@ -1,0 +1,70 @@
+[Weapon: Armadyl Godsword]
+
+
+TheArmadyl godswordis one of the five variants of theGodswordthat was fought over during theGod Wars. It is created by using anArmadyl hilt, obtained fromKree'arra, on a completedgodsword blade. As with all godsword variants, it requires level 75Attackto wield.
+Players can attach anArmadyl godsword ornament kit, obtained frommaster clue scrolls, to cosmetically enhance the godsword, creating anArmadyl godsword (or). This only alters its appearance, and gives no stat enhancements. Doing so also makes the weapon untradeable. Dismantling the sword will return both the Armadyl godsword and the ornament kit.
+
+
+[Infobox]
+Released: 17 October2013(Update)
+Also called: AGS
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wield, Dismantle, Drop
+Examine: A beautiful, heavy sword.
+General Store Value: 1,250,000 coins
+High alch: 750,000 coins
+Low alch: 500,000 coins
+Weight: 10 kg
+Grand Exchange Value: 10,710,149 coins
+Grand Exchange Daily Buy Limit: 8
+Grand Exchange Daily Trades Volume: 2,057
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +132
+- Crush: +80
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +132
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +8
+
+Slot: Two-handed slot
+
+
+[Combat Styles]
+Combat style | Attack type | Weapon style | Attack speed | Range | Experience | Level boost
+ | Chop | Slash | Accurate | 6 ticks (3.6s) | 1 tile |  | +3 Attack
+ | Slash | Slash | Aggressive |  | +3 Strength
+ | Smash | Crush | Aggressive |  | +3 Strength
+ | Block | Slash | Defensive |  | +3 Defence
+
+
+[Special Attack]
+A player usesThe Judgement, the Armadyl godsword's special attack
+Like all godswords, the Armadyl godsword has aspecial attack,The Judgement. In addition to doubled accuracy, it inflicts damage with a 37.5% higher maximum hit than a normal attack (125% multiplied by the hidden 110% every godsword special possesses, the calculation uses integer values after the multiplication of 1.1 the value gets rounded down and then multiplied by 1.25), consuming 50% of the player's special attack energy.The Judgementrolls against the opponent's slash defence roll.
+The Judgementis capable of dealing a very large amount of damage; under ideal conditions, a player can potentially deal over 70 damage to amonsterwith the special attack, or just over 90 damage when utilising the effects of ablack maskor aCastle wars bracelet. Because of this, the Armadyl godsword is very popular for many combat situations. In PvP scenarios the Armadyl godsword is most commonly used as a "knock-out" weapon, as the special is often capable of finishing an injured player in one large blow. In PvM scenarios its high hits are advantageous when fightingbossmonsters such asGeneral Graardor, especially when several players are competing to deal the most damage in order to secure a drop.
+The special attackanimation's colours can be changed to gold, which costs 75Last Man Standingpoints. Once unlocked, the gold trim can be toggled atJustine's stuff for the Last Shopper Standingwhenever the player desires.
+
+
+[Used in Recommended Equipment]
+Rank | Method
+2 | Down Do Specs(Melee)

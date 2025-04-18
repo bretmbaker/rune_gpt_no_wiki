@@ -1,0 +1,61 @@
+[Weapon: Games Necklace#6]
+
+
+Agames necklaceis asapphire necklacewhich has been enchanted using theLvl-1 Enchantspell. It has 8 charges which can teleport the player toBurthorpe,Barbarian Outpost,Corporeal Beast,Tears of Guthix, and theWintertodt Camp. After all 8 charges are used, the necklace will be destroyed.
+When a games necklace has one charge remaining, it is recommended not to use the last charge, but instead to save it and castHigh Level Alchemyon it, as the necklace's alchemy value is irrespective of its charge.
+
+
+[Infobox]
+Released: 24 November2004(Update)
+Members: Yes
+Quest item: No
+Tradeable: Yes
+Equipable: Yes
+Stackable: No
+Noteable: Yes
+Options: Wear, Rub, Drop
+Worn options: Burthorpe, Barbarian Outpost, Corporeal Beast, Tears of Guthix, Wintertodt Camp
+Examine: An enchanted necklace.
+General Store Value: 1,050 coins
+High alch: 630 coins
+Low alch: 420 coins
+Weight: 0.01 kg
+Grand Exchange Value: Not sold
+Grand Exchange Daily Buy Limit: -
+Grand Exchange Daily Trades Volume: -
+
+
+[Combat Stats]
+
+Attack Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Defence Bonuses:
+- Stab: +0
+- Slash: +0
+- Crush: +0
+- Magic: +0
+- Ranged: +0
+
+Other Bonuses:
+- Strength: +0
+- Ranged Strength: +0
+- Magic Damage: +0%
+- Prayer: +0
+
+Slot: Neck slot
+
+
+[Drop Sources]
+Source | Level | Quantity | Rarity | Leagueregion
+Skeleton (Tarn's Lair)Medium level | 40; 63; 72; 77 | 1 | 2/128 | 
+
+
+[Used in Recommended Equipment]
+Rank | Method
+3 | Krystilia/Strategies(Magic)
+3 | Krystilia/Strategies(Ranged)

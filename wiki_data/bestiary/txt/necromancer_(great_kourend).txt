@@ -1,0 +1,47 @@
+Name: Necromancer
+Combat Level: 68
+Size: 1x1
+Info:
+- Description: A practicer of dark arts.
+
+Slayer Info:
+
+Immunities:
+- Poison: Not immune
+- Venom: Not immune
+- Cannons: Not immune
+- Thralls: Not immune
+- Monster ID: 11088
+- Link: MOID
+
+Location:
+- Area: South West of Shayzien
+- Members Only: No
+
+Money Making:
+
+Notable Drops:
+- Cursed amulet of magic (1/5)
+- Air talisman (1/52)
+- Water talisman (1/52)
+- Earth talisman (1/52)
+- Fire talisman (1/52)
+- Clue scroll (medium) (1/128[d 1])
+
+Combat Achievements:
+
+[Combat stats]
+Hitpoints: 80
+Attack: 56
+Strength: 56
+Defence: 50
+Magic: 60
+Ranged: 1
+
+[Aggressive stats]
+
+[Melee defence]
+
+[Magic defence]
+
+[Ranged defence]

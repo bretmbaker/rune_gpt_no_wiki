@@ -1,0 +1,2 @@
+Item: Cave monk
+Summary: The cave monk is a non-player character outside of Entrana Dungeon. His only purpose is to warn players of the dangers below the island, which include zombies and greater demons, inability to use prayers, and inability to exit through the ladder back to the surface. To exit the dungeon, players must use teleportation or the magic door inside the dungeon which teleports them to high-levelled Wilderness.

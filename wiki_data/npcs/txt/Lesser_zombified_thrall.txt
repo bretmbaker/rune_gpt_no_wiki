@@ -1,0 +1,2 @@
+Item: Lesser zombified thrall
+Summary: Lesser zombified thralls are undead that have been resurrected via the Resurrect Lesser Zombie spell. Besides the required runes, summoning lesser thralls requires two prayer points and having the book of the dead equipped or in the player's inventory.

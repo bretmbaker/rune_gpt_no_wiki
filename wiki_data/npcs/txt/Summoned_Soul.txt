@@ -1,0 +1,2 @@
+Item: Summoned Soul
+Summary: Summoned Souls are summoned from the River of Souls during the fight with Cerberus, indicated by it howling Aaarrrooooooo. The souls' colour and equipped weapon coordinates to their attack style: red/spear is melee, green/bow is range, and blue/staff is magic.
