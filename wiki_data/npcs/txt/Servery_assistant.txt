@@ -1,2 +1,0 @@
-Item: Servery assistant
-Summary: Servery assistants are non-interactive NPCs that serve food to Shayzien soldiers in the mess hall found in Hosidius.

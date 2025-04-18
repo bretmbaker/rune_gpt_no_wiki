@@ -1,4 +1,0 @@
-Item: Burnt page
-Summary: Burnt pages are a possible reward from the Reward Cart upon subduing the Wintertodt, or created at the Book of Eternal Flame with desiccated pages and level 50 Runecraft. They are used to charge the tome of fire, which gives it additional effects.
-Sources:
-- Reward Cart (Level N/A, Quantity: 7–29, Rarity: 4/180)

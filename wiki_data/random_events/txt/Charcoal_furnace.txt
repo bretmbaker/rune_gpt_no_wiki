@@ -1,6 +1,0 @@
-[Page: Charcoal furnace]
-
-Twocharcoal furnacescan be found on the southern coast ofHosidius. Each furnace can hold up to 60juniper logs, which can be lit with atinderboxto producejuniper charcoal. 50 Juniper charcoal is produced per log, for a total of 3,000 if a full 60 logs were added, taking approximately 16 hours. Juniper charcoal is one of the required ingredients for makingdynamite.
-Smoggy, a nearbyLovakengjdwarf, must be paid a fee of 600coinsper furnace to watch over the burning process. He can also provide the player with a spare tinderbox if required.
-The burning process is governed by theFarming timer, specifically the 10 minute growth cycle also used by allotment patches and giant seaweed.[1]Progress in converting the juniper logs to charcoal is incremented by 1% with every tick of the 10 minute growth cycle. As the burners start out at 1% completion when lit, the logs will take 99 cycles in total to become fully charred, or 16 hours and 30 minutes at maximum (depending on when the process is started in the current cycle).
-Abank chestis located just south of the furnaces. Players teleporting with thehouse teleportto theirplayer-owned houseinHosidiusmay find it a convenient option, as it's just south of analtarand relatively close to the teleport location.

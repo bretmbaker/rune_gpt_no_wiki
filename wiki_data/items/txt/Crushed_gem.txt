@@ -1,1 +1,0 @@
-Acrushed gemis produced when a player fails to cut a semi-preciousgems(opal,jadeandred topaz). Players will gain a small amount ofCraftingexperiencewhen a gem is crushed. The chance of obtaining crushed gems decreases with higher Crafting levels.

@@ -1,7 +1,0 @@
-[Page: Small fishing net]
-
-Infobox:
-Small fishing netReleased11 June2001(Update)MembersNoQuest itemNoPropertiesTradeableYesEquipableNoStackableNoOptionsDropExamineUseful for catching small fish.ValuesValue5 coinsHigh alch3 coinsLow alch2 coinsWeight4.535 kgRespawn time100 ticks (60 seconds)Grand ExchangeExchange244coins (info)Buy limit40Daily volume22,289View real-time pricesLoading...Advanced dataItem ID303LinkMOID
-
-Description:
-Asmall fishing netis used to catchfishsuch asshrimps,anchovies,karambwanji,minnows, andmonkfish. Nets can be purchased from variousfishing shopsfor 5coins. It can also be obtained for free from either theFishing tutorsouth ofLumbridgenear the coast east of theswamp, or from theSpirit Anglerat theRuins of Unkah.

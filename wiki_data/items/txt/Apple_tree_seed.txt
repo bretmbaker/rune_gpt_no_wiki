@@ -1,1 +1,0 @@
-Anapple tree seedgrows into anApple treewhich producescooking apples. Players with aFarminglevel of 27 can grow Apple trees in afruit tree patch. This gives 22 experience. An additional 8.5 experience is granted for harvesting, and 1199.5 exp can be gained by checking the health of the trees. An Apple tree will take 16 hours to grow completely.

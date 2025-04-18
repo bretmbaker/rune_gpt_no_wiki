@@ -1,4 +1,0 @@
-Item: Vespine soldier
-Summary: Vespine soldiers are offspring of Vespula. They will only appear if the team allows a lux grub's growth meter to reach zero, at which point it will transform into a vespine soldier, while also healing Vespula and the abyssal portal. Players will need to deal with the vespine soldiers while also working against Vespula if this occurs.
-Sources:
-No sources found

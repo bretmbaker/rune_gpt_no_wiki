@@ -1,1 +1,0 @@
-Extended anti-venom+is a potion that instantly curesvenomandpoison. It provides immunity to poison for 17.7 minutes and venom for approximately 6.3 minutes.

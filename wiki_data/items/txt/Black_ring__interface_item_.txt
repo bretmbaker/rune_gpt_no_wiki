@@ -1,1 +1,0 @@
-TheBlack ringis aninterface item. It can be seen in the interface for crafting jewellery. If the player does not have the correct gem to craft a ring, the black ring appears in its place as a greyed out version.

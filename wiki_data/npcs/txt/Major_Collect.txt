@@ -1,2 +1,0 @@
-Item: Major Collect
-Summary: Major Collect is a non-interactive character seen during the Barbarian Assault tutorial. He represents the Collector role and wears the collector icon around him.

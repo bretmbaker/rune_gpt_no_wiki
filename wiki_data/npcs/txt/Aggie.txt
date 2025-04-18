@@ -1,2 +1,0 @@
-Item: Aggie
-Summary: Aggie is a witch that resides in Draynor Village. She sells dyes if the player provides her with the ingredients. Players can use ingredients directly on Aggie to save going through three parts of dialogue.

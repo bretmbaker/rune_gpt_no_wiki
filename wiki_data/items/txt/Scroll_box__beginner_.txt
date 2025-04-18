@@ -1,1 +1,0 @@
-Abeginner scroll boxis an item obtained only in temporaryLeaguesgame modes. When opened, it gives players abeginner clue scroll. Obtained in place of clue scrolls, scroll boxes are stackable, and multiple can be obtained at once. If a clue scroll is already in the player's inventory or bank, players will receive the message,The clue box refuses to open - you already have a clue.

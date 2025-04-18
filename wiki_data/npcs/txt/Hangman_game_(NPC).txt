@@ -1,2 +1,0 @@
-Item: Hangman game (NPC)
-Summary: Hangman game is an NPC used to show the state of the game when playing Hangman in the games room of a player-owned house.

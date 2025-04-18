@@ -1,1 +1,0 @@
-Ared iconis an item worn by players during a game ofSoul Wars. The icon, alongside ared cape, are automatically equipped by players in the red team upon the start of a game. When a game of Soul Wars ends, both the cape and icon are removed from the player.

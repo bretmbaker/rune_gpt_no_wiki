@@ -1,2 +1,0 @@
-Item: Dockmaster
-Summary: The Dockmaster keeps tracks of operations on the docks in Port Piscarilius. He manages the dock workers.

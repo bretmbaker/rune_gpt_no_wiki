@@ -1,6 +1,0 @@
-Item: Ring of 3rd age
-Summary: The ring of 3rd age can be obtained as a drop from The Mimic. It can change the model of the player to look like various 3rd age equipment.
-Sources:
-- The Mimic (Level 186, Quantity: 1, Rarity: 1/38–1/44)
-- Reward casket (elite) Mimic bonus (Level N/A, Quantity: 1, Rarity: 1/41.8; 1/44)
-- Reward casket (master) Mimic bonus (Level N/A, Quantity: 1, Rarity: 1/38; 1/40)

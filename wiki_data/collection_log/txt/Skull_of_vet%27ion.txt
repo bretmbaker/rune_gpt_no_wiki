@@ -1,5 +1,0 @@
-Item: Skull of vet'ion
-Summary: The skull of Vet'ion is an item dropped by Vet'ion and Calvar'ion. It is used to upgrade Thammaron's sceptre into an accursed sceptre. This process requires level 85 Crafting; players without the required level to combine the items may ask Phabelle Bile in Ferox Enclave to do so instead, for a fee of 500,000 coins. The uncharged weapon may be dismantled to separate the sceptre and skull.
-Sources:
-- Calvar'ion (Level 264, Quantity: 1, Rarity: 1/618)
-- Vet'ion (Level 454, Quantity: 1, Rarity: 1/196)

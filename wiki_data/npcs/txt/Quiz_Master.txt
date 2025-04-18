@@ -1,2 +1,0 @@
-Item: Quiz Master
-Summary: The Quiz Master is part of a random event in which the player is told "It's your lucky day!" and given the option to be teleported to an unknown area to play a game of Odd One Out.

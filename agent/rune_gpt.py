@@ -805,32 +805,30 @@ class RuneGPT:
 def main():
     """Main entry point for RuneGPT."""
     try:
-    parser = argparse.ArgumentParser(description="RuneGPT - OSRS AI Agent")
-    parser.add_argument("--session", type=str, help="Session ID for this agent instance")
-    parser.add_argument("--load", action="store_true", help="Load existing session state")
-    args = parser.parse_args()
+        parser = argparse.ArgumentParser(description="RuneGPT - OSRS AI Agent")
+        parser.add_argument("--session", type=str, help="Session ID for this agent instance")
+        parser.add_argument("--load", action="store_true", help="Load existing session state")
+        args = parser.parse_args()
         
         logger.info("Initializing RuneGPT agent...")
-    
-    # Initialize agent
-    agent = RuneGPT(session_id=args.session, load_memory=args.load)
         
-        logger.info("Starting agent loop...")
-    
-    # Start agent loop
-    try:
-        while True:
-            # Process screen text (simulated for now)
-            screen_text = "You are in Tutorial Island. The Survival Expert is waiting to teach you."
-            agent.process_screen_text(screen_text)
-            time.sleep(1)  # Simulate game tick
-            
-    except KeyboardInterrupt:
-        logger.info("Shutting down RuneGPT agent...")
-        agent.save_state()
+        # Initialize agent
+        agent = RuneGPT(session_id=args.session, load_memory=args.load)
+        
+        try:
+            # Start agent loop
+            while True:
+                # Process screen text (simulated for now)
+                screen_text = "You are in Tutorial Island. The Survival Expert is waiting to teach you."
+                agent.process_screen_text(screen_text)
+                time.sleep(1)  # Simulate game tick
+                
+        except KeyboardInterrupt:
+            print("\nShutting down RuneGPT agent...")
+            agent.save_state()
             
     except Exception as e:
-        logger.error(f"Error in main: {str(e)}", exc_info=True)
+        logger.error(f"Error in main: {e}")
         raise
 
 if __name__ == "__main__":

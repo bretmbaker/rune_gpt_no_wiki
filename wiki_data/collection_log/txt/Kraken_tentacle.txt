@@ -1,5 +1,0 @@
-Item: Kraken tentacle
-Summary: A Kraken tentacle is obtained from killing cave krakens (and their boss version) in the Kraken Cove, located just south-west of the Piscatoris Fishing Colony. The tentacle is used to make abyssal tentacles, enhanced tridents of the seas, and enhanced tridents of the swamps.
-Sources:
-- Cave kraken (Level 127, Quantity: 1, Rarity: 1/1,200)
-- Kraken (Level 291, Quantity: 1, Rarity: 1/400)

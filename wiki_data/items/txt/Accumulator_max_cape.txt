@@ -1,1 +1,0 @@
-Theaccumulator max capeis the result of combiningAva's accumulatorwith amax cape, during which themax hoodrequired to be in the player's inventory will automatically convert to theaccumulator max hood.

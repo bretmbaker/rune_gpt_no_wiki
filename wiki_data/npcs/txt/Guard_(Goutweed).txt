@@ -1,2 +1,0 @@
-Item: Guard (Goutweed)
-Summary: Troll guards patrol the Troll Stronghold storeroom. The player must avoid being seen in order to reach the goutweed. If a guard sees the player, it will throw its club at the intruder with surprising accuracy, knock them unconscious, and deal 0-6 damage. The player will be thrown out of the storeroom, where they can try again. The Protect from Missiles prayer save prevent damage from the club, but will not prevent the player from being thrown out.

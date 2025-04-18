@@ -1,2 +1,0 @@
-Item: Polly
-Summary: Polly is an NPC in the Sailing alpha located in The Pandemonium. Talking to Polly will cause her to say one of a number of phrases.

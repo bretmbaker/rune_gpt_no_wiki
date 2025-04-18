@@ -1,2 +1,0 @@
-Item: Forester (hard)
-Summary: The Forester is one of the mercenaries at Paterdomus who needs escorting to Burgh de Rott in Burgh de Rott Ramble. He can be found on the Morytania side of Paterdomus. He is a hard follower, meaning he has the lowest hitpoints and is vulnerable in combat. Despite his examine text, he can only fight at melee range.

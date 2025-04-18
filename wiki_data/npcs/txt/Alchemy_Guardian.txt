@@ -1,2 +1,0 @@
-Item: Alchemy Guardian
-Summary: The Alchemy Guardian is a golem guardian of the Mage Training Arena. He can be found in the Alchemist's Playground, walking around near the exit portal. The guardian will explain the details concerning its chamber. He announces when items are moved, when item values change, and if there is an item that is free to convert. This speech appears outside of dialogue.

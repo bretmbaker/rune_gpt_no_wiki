@@ -1,2 +1,0 @@
-Item: Wounded soldier
-Summary: Wounded soldiers are found in the infirmary of Shayzien. They previously were part of the Kourend Favour system, where healing a wounded soldier with a Shayzien medpack would award the player 0.2% Shayzien favour.

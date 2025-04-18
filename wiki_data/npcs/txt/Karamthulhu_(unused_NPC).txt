@@ -1,2 +1,0 @@
-Item: Karamthulhu (unused NPC)
-Summary: The karamthulhu is an unreleased NPC that was added to the game with the Rum Deal quest. It is nearly identical to the karamthulhu pet, but lacks any right-click options and has a different examine text. Unlike the pet, this karamthulhu still exists in the game files.

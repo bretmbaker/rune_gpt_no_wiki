@@ -1,2 +1,0 @@
-Item: Eye (Abyssal Nexus)
-Summary: The Eye is located near the entrance of the Abyssal Sire's lair. A player can interact with the eye by using the "Peek" option, a chat message will appear showing the amount of players in the lair.

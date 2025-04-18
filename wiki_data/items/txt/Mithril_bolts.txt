@@ -1,1 +1,0 @@
-Mithril boltsare a ranged projectile which are fired from amithril crossbowor higher. Level 36Rangedis required to equip them. As with mostbolts, they can bepoisoned, however this will prevent the addition ofbolt tips.

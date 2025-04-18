@@ -1,1 +1,0 @@
-Thetreasure stoneis an item used intreasure huntsinsideplayer-owned houses. Its sole purpose is to tell a player how close they are to the hiddenTreasure fairy. The item disappears from the player's inventory when they leave the house.

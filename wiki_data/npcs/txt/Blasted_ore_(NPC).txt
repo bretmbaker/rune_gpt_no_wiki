@@ -1,2 +1,0 @@
-Item: Blasted ore (NPC)
-Summary: Blasted ore are blasted ore from the Blast mine in Lovakengj being cleaned. The ores are transported down the water stream until they are deposited into a sack at the end. The clean ores can then be collected from the Operator.

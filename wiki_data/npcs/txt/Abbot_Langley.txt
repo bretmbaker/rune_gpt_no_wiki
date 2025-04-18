@@ -1,2 +1,0 @@
-Item: Abbot Langley
-Summary: Abbot Langley is the head of the Edgeville Monastery in northern Asgarnia. He prevents players with less than 31 Prayer from entering the guild (this cannot be boosted in any way). He can restore 4 + 12 % of the player's hitpoints if they are injured.

@@ -1,2 +1,0 @@
-Item: Energy Siphon
-Summary: Energy Siphons are objects that appear during the last phase of the Wardens fight in the Tombs of Amascut. Upon reaching 80%, 60%, 40%, and 20% of its health, the Warden will temporarily stop slamming the ground, activating all three protection prayers at once before launching energy siphons onto the arena; if the player is on a tile where the skull would spawn, they will be knocked away but otherwise take no damage.

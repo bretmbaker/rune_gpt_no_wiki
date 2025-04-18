@@ -1,2 +1,0 @@
-Item: Gold ore (Blast Furnace)
-Summary: Gold ore is an entity seen at the Blast Furnace. It appears on the conveyor belt when a player deposits some Gold ore, before being dropped into the furnace.

@@ -1,1 +1,0 @@
-Acup of teais adrinkwhich restores 3Hitpointsand temporarily boostsAttackby 2 + 2% (rounded down), it will also instantly cancel the effect of thegoading potion. Upon drinking a cup of tea, the player will exclaimAaah, nothing like a nice cuppa tea!and anempty cupwill remain in the player's inventory.

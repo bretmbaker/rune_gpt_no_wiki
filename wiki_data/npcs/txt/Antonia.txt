@@ -1,2 +1,0 @@
-Item: Antonia
-Summary: Antonia is a dock worker who can take players back and forth from Sunset Coast to Aldarin for 20 coins. Going through her dialogue with an activated ring of Charos equipped will make the trip there and back free, not through the Travel option.

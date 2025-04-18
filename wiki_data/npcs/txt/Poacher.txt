@@ -1,2 +1,0 @@
-Item: Poacher
-Summary: Poachers can appear as part of the Poachers forestry event. Poachers will drop fox traps which players must disarm in order to prevent the frightened fox from being hurt and trapped by the poachers. Dismantling a trap awards Woodcutting and Hunter experience.

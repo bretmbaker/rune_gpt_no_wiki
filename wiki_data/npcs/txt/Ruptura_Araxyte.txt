@@ -1,2 +1,0 @@
-Item: Ruptura Araxyte
-Summary: Ruptura Araxytes are a type of araxyte who hatch from red eggs during the battle with Araxxor. Though they do not directly attack the player, they will move towards them and explode once they are in melee range, dealing up to 70 damage if the player is under the araxyte. Moving three tiles away from the explosion when it detonates the will avoid the damage. If they are killed normally they will not explode.

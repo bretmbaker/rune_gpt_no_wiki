@@ -1,1 +1,0 @@
-Therogue topis part of therogue equipmentset, and provides +10 bonuses to allDefencetypes. The top cannot be crafted, and are untradeable.

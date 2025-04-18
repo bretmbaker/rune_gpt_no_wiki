@@ -1,2 +1,0 @@
-Item: Forester (McGrubor's Wood)
-Summary: The Forester can be found outside the entrance to McGrubor's Wood. Although he has a Talk-to option, if the player attempts to do so the message is displayed He doesn't seem interested in talking to you. However, he will yell at the player if they attempt to enter the gate to McGrubor's Wood.

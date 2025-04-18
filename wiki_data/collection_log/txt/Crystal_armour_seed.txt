@@ -1,5 +1,0 @@
-Item: Crystal armour seed
-Summary: The crystal armour seed is an elven crystal that can be turned into crystal armour. Completing the Gauntlet will yield a chance of gaining these seeds and combining them with crystal shards can be used to create the armour pieces.
-Sources:
-- Reward Chest (The Gauntlet) (Level N/A, Quantity: 1, Rarity: 1/120)
-- Reward Chest (The Gauntlet) (Corrupted) (Level N/A, Quantity: 1, Rarity: 1/50)

@@ -1,2 +1,0 @@
-Item: Group Storage tutor
-Summary: Maggie, the Group Storage tutor is a Group ironman found on the central island of The Node. She informs the player about the Group Ironman shared storage and also acts as the only banker on The Node. Her bank cannot be accessed after leaving The Node for the first time.

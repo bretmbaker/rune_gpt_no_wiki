@@ -1,2 +1,0 @@
-Item: Grimgnash
-Summary: Grimgnash Skullrot is a griffin featured in Grim Tales. Sylas wants a griffin feather from him, so during the quest the player tells him a bedtime story, in the hopes of taking a feather when he is asleep. If Grimgnash doesn't like the story, he will hit you for 20% of your current hitpoints, rounded up. After this, he falls asleep and doesn't wake up.

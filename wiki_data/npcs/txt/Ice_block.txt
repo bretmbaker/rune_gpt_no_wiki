@@ -1,2 +1,0 @@
-Item: Ice block
-Summary: Two ice blocks are found at the end of the Ice Path during Desert Treasure I. They are not monsters in the conventional sense and they do not attack, but they have 10 hitpoints and smashing them does damage. They contain the troll father and troll mother, who were imprisoned by Kamil and are freed once you smash the blocks.

@@ -1,1 +1,0 @@
-Mud runesarecombination runes. They count as two separaterunes: onewater runeandoneearth rune. Thus, anyspellrequiring one water rune, one earth rune, or both will spend only one mud rune.

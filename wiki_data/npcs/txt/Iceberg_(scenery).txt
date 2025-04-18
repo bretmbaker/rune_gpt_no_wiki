@@ -1,2 +1,0 @@
-Item: Iceberg (scenery)
-Summary: Icebergs are examinable scenery that are NPCs.

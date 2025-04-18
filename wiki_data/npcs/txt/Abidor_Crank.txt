@@ -1,2 +1,0 @@
-Item: Abidor Crank
-Summary: Abidor Crank is a helpful NPC that may be encountered while Temple Trekking. If spoken to, he will raise the player's Hitpoints by 15 (up to 15 levels above base level) and boost their Defence as well. Any rotten food in the player's inventory will also be transformed into stews.

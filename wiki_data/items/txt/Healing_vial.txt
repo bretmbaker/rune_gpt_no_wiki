@@ -1,1 +1,0 @@
-Healing vialsare used inBarbarian Assaultby theHealerto heal teammates. It is made by getting an empty healing vial from theHealer item machineand taking it to theHealer spring. The amount it heals varies by the healer level the player has.

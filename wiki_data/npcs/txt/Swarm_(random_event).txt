@@ -1,2 +1,0 @@
-Item: Swarm (random event)
-Summary: The swarm was a random event that has since been discontinued. It attacked a player, and the player could not attack back, hitting for one or two points of damage. They would continue to attack the player until either the player dies, or if the player moves a short distance away which would cause the swarm to stop attacking.

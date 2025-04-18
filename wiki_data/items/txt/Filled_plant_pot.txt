@@ -1,2 +1,0 @@
-Filled plant potsare used in theFarmingskill to turn tree seeds intoseedlings.
-With the appropriateFarminglevel and agardening trowelin their inventory, a player can create aseedlingby using a tree seed on a filled plant pot. After watering aseedlingwith awatering canorHumidifya few minutes later it will sprout into asaplingand be ready for planting in atree patch.

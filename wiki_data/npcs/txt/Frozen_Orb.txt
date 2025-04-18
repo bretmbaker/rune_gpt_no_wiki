@@ -1,2 +1,0 @@
-Item: Frozen Orb
-Summary: Frozen Orbs are objects that appear during the fight with Akkha in the Tombs of Amascut, where they appear if he unleashes his Trailing Orbs attack, and the player moves whilst in the south-west quadrant. It will damage and temporarily slow players' attack speed by 1 tick if they walk into one.

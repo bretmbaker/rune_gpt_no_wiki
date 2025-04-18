@@ -1,4 +1,0 @@
-Item: Karil's coif
-Summary: Karil's coif is ranged armour worn in the headwear slot that is part of Karil the Tainted's set of barrows equipment. To wear Karil's coif, a player must have 70 Defence and 70 Ranged.
-Sources:
-- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

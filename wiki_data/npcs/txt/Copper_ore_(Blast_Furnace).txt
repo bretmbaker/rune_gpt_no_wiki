@@ -1,2 +1,0 @@
-Item: Copper ore (Blast Furnace)
-Summary: Copper ore is an entity seen at the Blast Furnace. It appears on the conveyor belt when a player deposits some Copper ore, before being dropped into the furnace.

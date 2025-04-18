@@ -1,4 +1,0 @@
-Item: Big harpoonfish
-Summary: A big harpoonfish is an abnormally large harpoonfish that can be received from the reward pool in the Ruins of Unkah. It can be traded for 25 soaked pages by talking to the retired sailor inside the fishing store in the Ruins of Unkah.
-Sources:
-- Reward pool (Level N/A, Quantity: 1, Rarity: 1/1,600)

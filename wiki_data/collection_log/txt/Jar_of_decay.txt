@@ -1,4 +1,0 @@
-Item: Jar of decay
-Summary: The jar of decay is a rare drop from Vorkath who can be found on the island of Ungael.
-Sources:
-- Vorkath Post-quest (Level 732, Quantity: 1, Rarity: 1/3,000)

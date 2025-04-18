@@ -1,2 +1,0 @@
-Item: Orb of Lightning
-Summary: Orbs of Lightning are objects that appear during the fight with Akkha in the Tombs of Amascut, where they appear if he unleashes his Trailing Orbs attack, and the player moves whilst in the south-east quadrant. It will damage and temporarily disable protection prayers if players walk into one.

@@ -1,4 +1,0 @@
-Item: Jar of miasma
-Summary: The jar of miasma is an item that can be obtained from using the unsired, dropped by the Abyssal Sire, on the Font of Consumption. Players have a 13/128 chance of receiving one when doing so. As an unsired is a 1/100 drop, this effectively makes the chances of obtaining a jar 1/984.
-Sources:
-- Unsired (Level N/A, Quantity: 1, Rarity: 13/128)

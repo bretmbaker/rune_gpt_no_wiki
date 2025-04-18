@@ -1,4 +1,0 @@
-Item: Jar of chemicals
-Summary: The jar of chemicals is a rare drop from the Alchemical Hydra that can be found in the Karuulm Slayer Dungeon.
-Sources:
-- Alchemical Hydra (Level 426, Quantity: 1, Rarity: 1/2,000)

@@ -1,1 +1,0 @@
-Sun-shineis a type of liquor which can be purchased atThe Lost PickaxeinCam Torumand theStick Your Ore InninMistrock. Each drink costs 100 coins. It increasesStrengthby 5% + 1 levels, lowersAttackby 4 levels and restores 5Hitpointswhen drank. Drinking the liquor causes the messageYou drink the Sunshine. It's got quite the kick to it!to appear.

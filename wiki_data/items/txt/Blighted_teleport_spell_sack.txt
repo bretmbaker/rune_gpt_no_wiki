@@ -1,1 +1,0 @@
-Ablighted teleport spell sackis an item that allows players to castTele BlockandTeleport to Targetwithout needing therunesfor it. However, it can only be used inside theWildernesswhile on theStandard Spellbookwith the required Magic level of 85 to use this item. It is consumed upon use.

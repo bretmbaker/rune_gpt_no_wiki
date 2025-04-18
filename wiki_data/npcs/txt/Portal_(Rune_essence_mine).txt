@@ -1,2 +1,0 @@
-Item: Portal (Rune essence mine)
-Summary: Portals are found in the Rune essence mine and can be used to exit the area. Travelling through the portal will teleport the player back to the NPC that was used to enter the mine: one of Aubury, Wizard Sedridor, Wizard Distentor, Wizard Cromperty, or Brimstail.

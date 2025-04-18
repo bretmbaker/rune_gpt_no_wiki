@@ -1,4 +1,0 @@
-Item: Fish barrel
-Summary: The fish barrel is an item that can be obtained from the reward pool in the Ruins of Unkah after defeating Tempoross. The barrel is able to store a combined total of 28 raw fish of any type except for harpoonfish, stackable fish, trophy fish, and fish caught in the Chambers of Xeric, Ruins of Camdozaal, or Neypotzli. Players can right-click to open the barrel, which will have raw fish that the player acquires be automatically placed inside the barrel, providing there is space for it. Players can check the contents of the barrel by selecting the "Check" right-click option, which tells the amount and type of raw fish the player has inside. Note that the "Destroy" right-click option will destroy the barrel itself, not the content inside.
-Sources:
-- Reward pool (Level N/A, Quantity: 1, Rarity: 1/400)

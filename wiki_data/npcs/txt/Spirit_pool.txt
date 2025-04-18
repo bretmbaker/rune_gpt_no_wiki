@@ -1,2 +1,0 @@
-Item: Spirit pool
-Summary: Spirit pools are fishing spots surrounding Tempoross. During the first phase of the encounter, the pools are inactive. It is made active by draining Tempoross' energy to 0%.

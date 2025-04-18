@@ -1,4 +1,0 @@
-Item: Mole skin
-Summary: Mole skins are dropped by the Giant Mole that lurks below Falador park. Like the mole claw, mole skins can be traded to Wyson the gardener for bird nests. Unlike nests received through Woodcutting, Bird house trapping or Managing Miscellania, these nests never contain bird's eggs but often contain allotment and herb seeds.
-Sources:
-- Giant Mole (Level 230, Quantity: 1–3, Rarity: Always)

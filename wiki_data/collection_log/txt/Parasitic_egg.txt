@@ -1,4 +1,0 @@
-Item: Parasitic egg
-Summary: The parasitic egg is a reward from defeating Phosani's Nightmare. Players may use the egg on the little nightmare to allow it to metamorphose into a parasite version of the pet.
-Sources:
-- Phosani's Nightmare (Level 1024, Quantity: 1, Rarity: 1/200)

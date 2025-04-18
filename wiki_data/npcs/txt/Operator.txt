@@ -1,2 +1,0 @@
-Item: Operator
-Summary: Operators are workers who operate the ore cleaning machine in the blast mine. Players should deposit blasted ore in the ore sacks near the blonde-haired operators, while collecting the cleaned ores from the brown-haired operator.

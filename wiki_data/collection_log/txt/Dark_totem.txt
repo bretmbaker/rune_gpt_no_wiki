@@ -1,4 +1,0 @@
-Item: Dark totem
-Summary: The dark totem is an item that can be created by combining the dark totem base, dark totem middle, and dark totem top. The totem pieces are dropped in that order and duplicates drop after all three are obtained. It is used on the altar in the centre of the Catacombs of Kourend to access the lower level of the catacombs to fight Skotizo. The totem is consumed when using it on the altar regardless of the outcome of the fight.
-Sources:
-- Skotizo (Level 321, Quantity: 1, Rarity: 1/128)

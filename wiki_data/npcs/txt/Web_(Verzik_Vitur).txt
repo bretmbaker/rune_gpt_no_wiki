@@ -1,2 +1,0 @@
-Item: Web (Verzik Vitur)
-Summary: A web is an attackable NPC thrown by Verzik Vitur that bind players who are stuck on them.

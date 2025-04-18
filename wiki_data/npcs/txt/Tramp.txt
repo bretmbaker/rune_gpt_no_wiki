@@ -1,2 +1,0 @@
-Item: Tramp
-Summary: The tramp is a poor, penniless human who can be found in south-east Varrock. Upon speaking to him, he will ask the player for money, giving the player options to donate money to him (one coin) or to refuse, resulting in the tramp shouting phrases such as "I hate [player name]!" and "Don't ask [player name] for anything - he's/she's/they're stingy!" This also happens when you don't have any money and explain this to him.

@@ -1,4 +1,0 @@
-Item: Jar of darkness
-Summary: The jar of darkness is a rare drop from Skotizo.
-Sources:
-- Skotizo (Level 321, Quantity: 1, Rarity: 1/200)

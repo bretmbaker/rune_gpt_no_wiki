@@ -1,2 +1,0 @@
-Item: Dryad
-Summary: The Dryad can appear as part of an Enchantment Ritual Forestry event. Despite her appearing with a health bar at 0, this bar actually represents the progress of the ritual. Players must help her complete an eight-step ritual by standing on the appropriate ritual circle.

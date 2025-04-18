@@ -1,2 +1,0 @@
-Item: Buinn
-Summary: Buinn is an unused non-player character released with the Warriors' Guild. Presumably, he is the dwarf who operates the Catapult in the Catapult room. However, Buinn does not appear ingame and is replaced by an identical object simply named "Catapult" instead.

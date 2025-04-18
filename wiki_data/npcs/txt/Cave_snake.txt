@@ -1,2 +1,0 @@
-Item: Cave snake
-Summary: Cave snakes are found in resource rooms within the Chambers of Xeric. They can appear in fishing spots and attack the player and anyone adjacent to it.

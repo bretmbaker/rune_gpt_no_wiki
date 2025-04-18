@@ -1,1 +1,0 @@
-Aplankis a commonConstructionitem and is used in severalquests. Made from normallogs, it is the lowest-level type ofplank. Each plank used while training Construction yields 29experience. They are also used to repairfishing cranes, which yieldsCraftingandConstructionexperienceequal to 4 times the player's current level.

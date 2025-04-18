@@ -1,2 +1,0 @@
-Item: Ice troll (Desert Treasure I)
-Summary: The ice troll is an unattackable NPC encountered during Desert Treasure I. It is located behind the ice gate, in dangerous territory. Although the very dangerous ice trolls there cannot attack you when talking to him, your stats and run energy will be drained and you lose a hitpoint every ten seconds. Therefore, talking to him can be annoying because the conversation is constantly interrupted by the hits. During (and after) Desert Treasure I, the troll warns the player about the stat drain and the ice trolls.

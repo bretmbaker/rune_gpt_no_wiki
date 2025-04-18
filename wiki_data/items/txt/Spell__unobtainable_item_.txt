@@ -1,1 +1,0 @@
-Spellsare a series of unobtainable items that exist in the game cache. Presumably, they are used in theSpellbookinterface. While originally a Spell item existed for every magic spell, since 2014 this has not been necessary.

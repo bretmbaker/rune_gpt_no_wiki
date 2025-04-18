@@ -1,2 +1,0 @@
-Item: Thistle (Trollheim)
-Summary: Thistles are plants that can be found at the top of Trollheim. They can be picked by the player to provide a Troll thistle, which is an item required during Eadgar's Ruse. After the thistle has been picked, it will respawn in a different location.

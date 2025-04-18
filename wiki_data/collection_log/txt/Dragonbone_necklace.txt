@@ -1,4 +1,0 @@
-Item: Dragonbone necklace
-Summary: The dragonbone necklace  is a necklace that is dropped exclusively by Vorkath. Wearing the necklace requires level 70 in Prayer, and currently offers the highest Prayer bonus of any piece of equipment available in Old School RuneScape.
-Sources:
-- Vorkath Post-quest (Level 732, Quantity: 1, Rarity: 1/1,000)

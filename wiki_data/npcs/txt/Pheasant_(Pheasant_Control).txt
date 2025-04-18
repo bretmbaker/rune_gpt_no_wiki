@@ -1,2 +1,0 @@
-Item: Pheasant (Pheasant Control)
-Summary: A Pheasant spawns on top of a pheasant nest as part of the Pheasant Control Forestry event. Eligible players should not steal eggs from these nests as the pheasant will stun the player, not allowing them to retrieve eggs for 5 ticks (or 3 seconds) whilst also stealing back the player's egg. A random pheasant will fly away during the event, leaving behind an empty nest for players to steal eggs. The pheasant will respawn in its original nest after 20 ticks (or 12 seconds).

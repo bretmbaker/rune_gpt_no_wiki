@@ -1,2 +1,0 @@
-Item: Colosseum Announcer
-Summary: The Colosseum Announcer is an NPC seen briefly during the Meat and Greet quest, providing commentary while the player fights a minotaur in order to promote Emelio's kebabs at the Fortis Colosseum.

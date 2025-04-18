@@ -1,5 +1,0 @@
-Item: Jar of dreams
-Summary: The jar of dreams is a rare drop from The Nightmare found in the Sisterhood Sanctuary.
-Sources:
-- The Nightmare (Level 814, Quantity: 1, Rarity: 1/1,900; 1/2,000)
-- Phosani's Nightmare (Level 1024, Quantity: 1, Rarity: 1/4,000)

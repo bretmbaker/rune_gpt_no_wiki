@@ -1,2 +1,0 @@
-Item: Undead tree
-Summary: Undead trees are located in the front yard of Draynor Manor and in the Haunted Woods. Unlike the dead trees surrounding them, they attack players walking past them for 0 to 3 melee damage. Undead trees maintain aggressiveness regardless of a player's combat level, and follow standard rules for tolerance. They can be spotted by their yellow examine option, identifying them as an NPC, and are also slightly smaller in size.

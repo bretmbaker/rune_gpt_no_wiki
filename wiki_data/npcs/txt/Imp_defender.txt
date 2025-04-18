@@ -1,2 +1,0 @@
-Item: Imp defender
-Summary: Imp defenders are only found in Puro-Puro and their function is to attempt to release one of the player's jarred implings whenever they're near them. If successful, the impling respawns and the player's jar is also knocked a few steps away. The defenders' success rate relies on the player's Thieving level, however, carrying imp repellent will also lessen their chances of releasing an impling. They cannot free crystal implings.

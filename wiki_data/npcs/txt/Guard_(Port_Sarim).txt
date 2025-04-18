@@ -1,2 +1,0 @@
-Item: Guard (Port Sarim)
-Summary: A guard can be found atop Port Sarim jail, wielding a bow. Unlike most other guards, he is not attackable, and can be talked to for information about the jail.

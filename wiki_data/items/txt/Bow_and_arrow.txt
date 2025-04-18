@@ -1,1 +1,0 @@
-TheBow and arrowis anunobtainable itemthat would have been added alongsideConstruction. Presumably, it would have been used for theArchery targetin theGames room. Its player model and examine description are conflicting, as while the player view model and the name features an actual  bow and arrow, the examine and the inventory appearance describe an arrow only.

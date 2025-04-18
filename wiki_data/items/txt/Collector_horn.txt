@@ -1,1 +1,0 @@
-Acollector hornis used inBarbarian Assaultto tell the attacker what style to use. It is received when starting Barbarian Assault and becoming a collector.

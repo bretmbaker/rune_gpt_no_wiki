@@ -1,8 +1,0 @@
-[Page: Pinball]
-
-Pinballis arandom eventwhere the player is transported byFlippato a strange room with fivepillars, each with oneruneon top, and twotrolls,Tiltand Flippa, wielding large clubs.
-The goal of the game is to tag each pillar that has glowing rings around it. This scores the player one point. After the player has scored ten points, they are free to leave through the exit. If a pillar that doesn't have the glowing rings around it is tagged, the score is reset to zero, and the player has to try again. The five pillars contain five spinning tops withfire,water,earth,air, andnature runesrespectively.
-Following an update on8 November 2018, players may now leave the random event at any time by clicking the exit. Prior to this change if the player tried to leave before reaching ten points, they would beteleportedin front of Tilt and Flippa, who knocked the player back onto the pillars and reset the score.
-Drop rates estimated based on 5,494 samples from theDrop Rate Project, unless otherwise cited.
-The average  Pinball event reward is worth2,252.8.
-The random event can now be left early by using the door. The camera also no longer sways.

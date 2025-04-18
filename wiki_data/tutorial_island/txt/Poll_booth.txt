@@ -1,9 +1,0 @@
-[Page: Poll booth]
-
-Apoll boothis a piece of interactive scenery found in various locations aroundGielinor, usually nearbanks. By interacting with it, you gain access to an interface allowing you to vote inpolls.
-Each poll will usually run for a duration of one week. To participate, you'll need to be a member with a total skill level of at least 300 and a minimum total play-time of 25 hours inOld School RuneScape. Each poll can contain multiple questions which detail potential changes or content in-game. A question requires a 70%supermajorityofYesvotes to pass, excludingSkip questionvotes.
-While a poll is running the flag on every poll booth will be raised, except for the poll booth onMount Karuulmwhere the eyes of the skull light up instead.
-The poll booth inside theWarrior's Guild[sic]has been removed.
-The poll booth within theMotherlode Minehas been removed.
-The poll booth history display has been rewritten to accommodate more polls without crashing. This feature will be made accessible once further testing has taken place on the live game worlds.
-The poll booths in Seers Village and in Ardougne south bank have been returned.

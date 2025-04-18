@@ -1,1 +1,0 @@
-Aring of recoilis created by usingLvl-1 Enchanton asapphire ring. When worn, 10% + 1 of the damage received by the player (rounded down) is dealt to the attacker - the attacking entity must cause damage before the recoil effect takes place. This effect applies to both players andNPCs. The ring of recoil is capable of dealing up to 40hitpointsof damage before shattering.

@@ -1,4 +1,0 @@
-Item: Vorkath's head
-Summary: Vorkath's head is an item dropped by Vorkath. The head has various uses, such as being used to upgrade Ava's accumulator, as a cosmetic upgrade to the Slayer helmet, or sacrificed for Prayer experience. For any given kill, the drop rate of the head is 1/50, with the exception of the 50th kill, when the drop is guaranteed.
-Sources:
-- Vorkath Post-quest (Level 732, Quantity: 1, Rarity: 1/50)

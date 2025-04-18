@@ -1,2 +1,0 @@
-Item: Wingstone
-Summary: Wingstone is a gnome traveller wandering the desert between Nardah and the Agility Pyramid. Players who have to deliver food to him during the Gnome Restaurant minigame may find it difficult to immediately locate him due to his large wander radius.

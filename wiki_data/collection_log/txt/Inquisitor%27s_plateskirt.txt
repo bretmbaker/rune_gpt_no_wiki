@@ -1,5 +1,0 @@
-Item: Inquisitor's plateskirt
-Summary: The Inquisitor's plateskirt is a drop from The Nightmare, requiring 70 Strength and 30 Defence to equip, and is part of the Inquisitor's armour set.
-Sources:
-- The Nightmare (Level 814, Quantity: 1, Rarity: 1/420–1/240.1)
-- Phosani's Nightmare (Level 1024, Quantity: 1, Rarity: 1/700)

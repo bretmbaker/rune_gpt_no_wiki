@@ -1,2 +1,0 @@
-Item: Snow (Wintertodt)
-Summary: Several tiles in the Wintertodt prison feature invisible Snow. Although it cannot be seen by players, right-clicking on the tiles will reveal the snow's location.

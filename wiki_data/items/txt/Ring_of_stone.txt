@@ -1,1 +1,0 @@
-Thering of stoneis an enchantedonyx ring. It can change the avatar of the player to look like that of a stone or emptyMiningrock. If the player moves while under the effect, the effect will end. If another player mouses over or right-clicks on the player-turned-rock, the normal options will appear ("Walk here (Player name)," "Follow (Player name)," etc.).

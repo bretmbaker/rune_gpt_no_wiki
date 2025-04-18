@@ -1,1 +1,0 @@
-Assembler max hoodis a hood created by usingAva's assembleron amax cape. When theassembler max capeis created, themax hoodthat is required to be in the player's inventory during the cape's creation is automatically converted to the assembler max hood.

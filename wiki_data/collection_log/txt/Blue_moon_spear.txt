@@ -1,4 +1,0 @@
-Item: Blue moon spear
-Summary: The blue moon spear is a non-degradable two-handed bladed staff that requires level 70 Attack and 75 Magic to equip, which is obtained as a possible reward from the Lunar Chest in Neypotzli. It can autocast elemental spells from the standard spellbook, as well as combat spells from the Arceuus spellbook and Ancient Magicks. Despite the name, the blue moon spear is a bladed staff and is not considered a corpbane weapon.
-Sources:
-- Lunar Chest (Level N/A, Quantity: 1, Rarity: 1/224)

@@ -1,1 +1,0 @@
-TheGold leafis anunobtainable itemthat appears in the game's code but does not spawn anywhere. Despite not having an option to equip it, the gold leaf has a model for use while equipped.

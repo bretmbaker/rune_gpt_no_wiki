@@ -1,2 +1,0 @@
-Item: Tiles
-Summary: Tiles is a banknote exchange merchant located next to the Bandit Bargains store in the Bandit Camp. Players can show him bank notes and he will offer to exchange them for their equivalent items for a fee of five coins per item.

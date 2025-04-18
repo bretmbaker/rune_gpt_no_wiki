@@ -1,4 +1,0 @@
-Item: Alchemical hydra heads
-Summary: Alchemical hydra heads are a rare drop from the Alchemical Hydra. It can be stuffed at the taxidermist in Canifis by using the item on her and paying 50,000 coins, returning stuffed hydra heads. When players take it to the her, she will tell players "This hydra looks like it might fall to pieces soon. I'll have to be careful to preserve it properly."
-Sources:
-- Alchemical Hydra (Level 426, Quantity: 1, Rarity: 1/256)

@@ -1,3 +1,0 @@
-Item: Elven Scout
-Summary: Elven Scouts are characters that appear in the place of Eluned and Ilfeen during Song of the Elves. During the quest they provide the services that Eluned, Islwyn and Ilfeen normally provides, as they are occupied with the fight against Lord Iorwerth.
-After completion of the quest they redirect players to Prifddinas if they want to make use of the services again. To enchant Teleport crystals during Song of The Elves, Eluned and Ilfeen can be found in south-western Lleyta.

@@ -1,2 +1,0 @@
-Item: Jury
-Summary: The Jury can be seen in the Seers' Village Courthouse during King's Ransom. Anna Sinclair is accused of the murder of Lord Sinclair. During the trial, the player must convince the jury of Anna's innocence. If evidence is successfully rebutted, the jury will remark out loud that the defence's argument is logical, before being admonished by the Judge.

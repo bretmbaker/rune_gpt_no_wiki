@@ -1,2 +1,0 @@
-Item: Miner (Jatizso)
-Summary: Miners are non-interactive characters that are found mining in the Jatizso mine or wandering around Jatizso. They are very pessimistic and cynical people, having lived in Jatizso for most of their life. Occasionally in the mines, they are attacked by nearby ice trolls, which kill them in one hit as they only have 1 hitpoint. The miners will constantly swing their pickaxe when standing still, but they will never successfully get an ore.

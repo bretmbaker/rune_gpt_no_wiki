@@ -1,2 +1,0 @@
-Item: Crab (Beach)
-Summary: Crabs are non-interactive creatures found on the beaches of Gielinor. Unlike their giant relatives, they are not attackable and serve no practical purpose, acting as a scenery element to make the environment more immersive.

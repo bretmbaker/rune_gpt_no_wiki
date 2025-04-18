@@ -1,2 +1,0 @@
-Item: Guard (Fortis Colosseum)
-Summary: Guards can be found under the Fortis Colosseum, who block the player's path to the back area.

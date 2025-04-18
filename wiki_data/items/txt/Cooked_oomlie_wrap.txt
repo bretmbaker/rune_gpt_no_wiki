@@ -1,1 +1,0 @@
-Cooked oomlie wrapis a food made from cooking awrapped oomlie. It heals 14Hitpointswhen eaten, and gives the message "You eat the oomlie meat; it tastes very gamy."

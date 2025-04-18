@@ -1,1 +1,0 @@
-Collector iconis an item worn in the jaw slot, a back-endWorn Equipmentslot system where facial hair is placedwhile playingBarbarian Assault. It shows that the player is a collector indicated by the yellow circle around them with the collector symbol. When a game of Barbarian Assault finishes, the icon is removed.

@@ -1,2 +1,0 @@
-Item: Silver ore (Blast Furnace)
-Summary: Silver ore is an entity seen at the Blast Furnace. It appears on the conveyor belt when a player deposits some Silver ore, before being dropped into the furnace.

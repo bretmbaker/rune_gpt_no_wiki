@@ -1,4 +1,0 @@
-Item: Ice element staff crown
-Summary: The ice element staff crown is a possible reward from looting Eldric the Ice King of the Royal Titans. It is used alongside a battlestaff and the fire element staff crown, which can be obtained from looting Branda the Fire Queen, to create the twinflame staff.
-Sources:
-- Eldric the Ice King (Level 350, Quantity: 1, Rarity: 1/75)

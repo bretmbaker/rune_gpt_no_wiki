@@ -1,1 +1,0 @@
-Glarial's amuletis used during theWaterfall Questto grant access to theWaterfall Dungeon.  Attempting to enter the dungeon during the quest without the amulet results in the player taking damage, being swept away to downstream from the door. After the quest, the amulet is not needed to enter the dungeon.

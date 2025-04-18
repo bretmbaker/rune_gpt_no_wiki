@@ -1,6 +1,0 @@
-[Minigame: Sanity]
-
-Sanityis a game mechanic occurring at theShadow Realmfrom theLassar Undercity. The sanity will lower as long as the player prolongs in the Shadow Realm or by getting hit from theLost SoulandThe Whispererattacks, indicated by ahitsplat(). When the sanity meter depletes to 0, the player will receive the messageThe darkness of the Shadow Realm begins to consume your mind!and will begin to take damage every 2 ticks; this starts at 5 damage, and doubles afterwards; 10 damage at 4 ticks, 20 at 6, 40 at 8, 80 at 10. The sixth occurrence of damage will instantly kill the player, as it would deal 160 damage.
-
-The sanity loss can either be prevented by standing next to theshadow blockeror mitigated by using therevitalising idol. During theThe Whispererbattle, sanity is restored when outside the Shadow Realm (in normal mode), killing the cyanLost Soulsduring her souls mechanic and successfully stopping her shadow seeds mechanic.
-

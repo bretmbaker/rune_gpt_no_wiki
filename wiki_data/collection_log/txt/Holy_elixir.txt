@@ -1,4 +1,0 @@
-Item: Holy elixir
-Summary: The holy elixir is an item that players can use to bless a spirit shield, making it a blessed spirit shield, requiring level 85 Prayer. It is a rare drop from the Corporeal Beast.
-Sources:
-- Corporeal Beast (Level 785, Quantity: 1, Rarity: 3/512)

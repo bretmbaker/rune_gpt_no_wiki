@@ -1,1 +1,0 @@
-Astrawberryis afooditem that can be grown through theFarmingskillat level 31 withstrawberry seeds. They heal 1-6hitpoints, calculated by 1 + 6% of maximum Hitpoints.

@@ -1,2 +1,0 @@
-Item: Skullball Trainer
-Summary: The Skullball Trainer is a Werewolf found at the Werewolf Agility Course. He will tell players how to start playing Skullball, and once the game has begun, he will tell them how many goals they have left to make.

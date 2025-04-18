@@ -1,2 +1,0 @@
-Item: Guard (Ratcatchers)
-Summary: A number of guards patrol the Ratcatchers Mansion during the Ratcatchers quest. They need to be evaded while you catch rats for Jimmy Dazzler. The guards can't be interacted with in any way, but if they spot you, they will erase some of your progress. The guards must be in the player's line of sight while the player is within their range in order to catch the player. The guard's vision is 6 tiles in any direction.

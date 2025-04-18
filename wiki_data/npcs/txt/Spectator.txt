@@ -1,2 +1,0 @@
-Item: Spectator
-Summary: Spectators are non-interactable vampyres attending an auction of human blood tithes at a plaza just outside Castle Drakan in Darkmeyer.

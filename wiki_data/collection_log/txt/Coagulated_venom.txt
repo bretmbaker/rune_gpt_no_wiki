@@ -1,4 +1,0 @@
-Item: Coagulated venom
-Summary: Coagulated venom is a tertiary drop from Araxxor that can be used on Nid to allow it to metamorphose into Rax. The drop is guaranteed if Araxxor is killed under 1:15. Once used on Nid, it cannot be obtained again. Nid must be following the player, you cannot use this while Nid is in your inventory, or in the player's pet menagerie in their player-owned house.
-Sources:
-- Araxxor (Level 890, Quantity: 1, Rarity: Always)

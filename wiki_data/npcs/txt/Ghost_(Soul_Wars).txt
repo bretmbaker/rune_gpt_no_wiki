@@ -1,2 +1,0 @@
-Item: Ghost (Soul Wars)
-Summary: Players are turned into a ghost when they die in battle during a Soul Wars game. After ~10 seconds, the player will revert to their usual self.

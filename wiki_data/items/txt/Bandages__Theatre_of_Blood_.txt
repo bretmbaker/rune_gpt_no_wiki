@@ -1,1 +1,0 @@
-Bandagesare a consumable item obtainable during theTheatre of Bloodentry mode. They restore 20 hitpoints, 29prayer points, and 20% run energy when consumed. They also cure poison, boost the player's combat stats, and provide the effect of astamina potion.

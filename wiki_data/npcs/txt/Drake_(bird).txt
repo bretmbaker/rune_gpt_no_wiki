@@ -1,2 +1,0 @@
-Item: Drake (bird)
-Summary: A drake is a male duck that lives near bodies of water. These non-interactive ducks can only be examined. They flee when the player approaches them.

@@ -1,2 +1,0 @@
-Item: Suspect
-Summary: Suspects appear during the evil twin random event.

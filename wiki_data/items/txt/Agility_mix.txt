@@ -1,1 +1,0 @@
-Agility mixis abarbarian potionthatboostsa player'sAgilitylevel by 3 and heals 6Hitpoints. It is made by addingcaviarto anagility potion(2), requiring level 37Herbloreand giving 27experience. This mix can only be created after completing theHerblorepart ofBarbarian trainingwithOtto Godblessed.

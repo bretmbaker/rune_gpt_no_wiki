@@ -1,2 +1,0 @@
-Item: Banker
-Summary: A banker works in a bank where players can safely store coins and items. Players can use coins on bankers to receive platinum tokens at a static rate of 1,000 coins per token. The bankers can also sell up to 360 bank spaces to the player in sets of 40 at a time, each set increasing in price as the player buys more spaces.

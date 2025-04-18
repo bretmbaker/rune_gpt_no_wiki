@@ -1,2 +1,0 @@
-Item: Dig Site workman
-Summary: The Dig Site workman is a non-interactive NPC who can be found at the northern end of the Digsite. He is the wheelbarrow loader for the workman, who will then carry the full wheelbarrow to the Varrock Museum. Unlike the Digsite workman, he cannot be pickpocketed.

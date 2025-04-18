@@ -1,1 +1,0 @@
-Ginis analcoholicdrink used in makinggnome cocktails. It heals 5hitpoints, increases a player'sStrengthby 5% + 1, and decreasesAttackby 2% + 3 when drunk.

@@ -1,4 +1,0 @@
-Item: Jar of stone
-Summary: The jar of stone is a rare drop from the Grotesque Guardians that can be found on the Slayer Tower's rooftop.
-Sources:
-- Grotesque Guardians (Level , Quantity: 1, Rarity: 1/5,000)

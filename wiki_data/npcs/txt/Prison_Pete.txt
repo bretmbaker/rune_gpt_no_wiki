@@ -1,2 +1,0 @@
-Item: Prison Pete
-Summary: Prison Pete is the main NPC in the Prison random event in ScapeRune. To escape, players must locate balloon animals that resemble the one shown to them when they pull the lever on the wall. The player receives a prison key in their inventory after popping a balloon animal. The player must give him three correct keys in a row to leave the cell and escape to freedom. Logging out resets the random event's progress.

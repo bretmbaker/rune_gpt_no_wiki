@@ -1,4 +1,0 @@
-Item: Blue moon helm
-Summary: The blue moon hood is an item that requires level 75 Magic and 50 Defence to equip, which is obtained as a possible reward from the Lunar Chest in Neypotzli.
-Sources:
-- Lunar Chest (Level N/A, Quantity: 1, Rarity: 1/224)

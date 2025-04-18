@@ -1,1 +1,0 @@
-Sliding piecesare the individual pieces that can be seen in aPuzzle box. The pieces themselves are actually items, although they can only be seen in the puzzle box interface and can never be obtained by players.

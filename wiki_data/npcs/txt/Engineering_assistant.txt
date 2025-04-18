@@ -1,2 +1,0 @@
-Item: Engineering assistant
-Summary: Engineering assistants are non-player characters found in and around the surface entrance of the Dwarven Mine on Ice Mountain. They wander the area with boxes of tools and engineering supplies, and unlike most of the mine's workers, cannot be attacked or spoken to. There are two of them, each with a different examine text.

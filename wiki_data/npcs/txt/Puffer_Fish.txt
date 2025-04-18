@@ -1,2 +1,0 @@
-Item: Puffer Fish
-Summary: Puffer Fish are fish that are found underwater on Fossil Island. They can be caught and held in a player's inventory as the Pufferfish item. They reduce a player's weight by 0.5kg when held, and can be used used via a "Puff" option to restore 15% oxygen to stay underwater for longer.

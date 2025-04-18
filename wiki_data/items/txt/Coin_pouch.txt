@@ -1,1 +1,0 @@
-Acoin pouchis an item obtained frompickpocketingcertainNPCs, which contains a number ofcoinsdepending on the NPC it was obtained from. To obtain the coins from them, players can simply click their stack of coin pouches to open them all at once, or they can right-click them to open one at a time. They cannot be traded or banked.

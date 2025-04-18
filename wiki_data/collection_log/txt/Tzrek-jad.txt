@@ -1,4 +1,0 @@
-Item: Tzrek-jad
-Summary: 
-Sources:
-- TzTok-Jad (Level 702, Quantity: 1, Rarity: 1/200; 1/100)

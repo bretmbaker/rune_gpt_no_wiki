@@ -1,1 +1,0 @@
-Smoker canisterswere a stackable item used inWoodcutting. When in the inventory or stored in aForestry kit, there was a chance of aBeehive Forestry eventappearing. The chance of this occurring scaled based on the number of players present; when a canister is consumed, a game message in the chatbox statedNoticing a beehive, you quickly use your Smoker to pacify its inhabitants.

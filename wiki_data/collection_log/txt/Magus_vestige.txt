@@ -1,4 +1,0 @@
-Item: Magus vestige
-Summary: The magus vestige is an item dropped by Duke Sucellus.
-Sources:
-- Duke Sucellus (Level 538; 758; 1099, Quantity: 1, Rarity: 1/720)

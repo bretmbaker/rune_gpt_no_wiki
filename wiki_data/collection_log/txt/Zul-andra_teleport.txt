@@ -1,4 +1,0 @@
-Item: Zul-andra teleport
-Summary: Zul-andra teleport scrolls are consumable teleport scrolls that teleport the player to Zul-Andra. They can be obtained from defeating Zulrah.
-Sources:
-- Zulrah (Level 725, Quantity: 4, Rarity: 2 × 15/248)

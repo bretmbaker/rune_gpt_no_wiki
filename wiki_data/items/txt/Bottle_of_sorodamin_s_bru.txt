@@ -1,1 +1,0 @@
-Bottle of sorodamin's bruis an item in theSailing alpha. It is acquired by prying open aSealed crate. Drinking the Bottle of sorodamin's bru deals 5 damage to the player.

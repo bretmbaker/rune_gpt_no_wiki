@@ -1,5 +1,0 @@
-Item: Bran
-Summary: 
-Sources:
-- Branda the Fire Queen (Level 350, Quantity: 1, Rarity: 1/3,000; 1/1,500)
-- Eldric the Ice King (Level 350, Quantity: 1, Rarity: 1/3,000; 1/1,500)

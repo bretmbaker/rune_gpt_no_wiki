@@ -1,2 +1,0 @@
-Item: Sam
-Summary: Sam is a customer at the Arceuus Library. He seeks certain texts within the library, and will ask the player to retrieve them. He will give players a book of arcane knowledge once a text is turned in.

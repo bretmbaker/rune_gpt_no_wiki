@@ -1,8 +1,0 @@
-[Page: Unarmed]
-
-Unarmedis a style ofcombatin which a player is fighting with noweaponsequipped. As a result, the player has no attack bonuses, besides those that may come from other items that may be equipped, such as anamulet.
-Inmeleecombat, unarmed fighting is possible through the unarmed fighting styles listed below. Mostcombat spellscan be cast without weapon equipped, makingMagica strong option for encounters where no weapons are used.Rangedcombat is not possible without weapon, as every ranged projectile either needs to be equipped in the weapon slot, or launched from a ranged weapon.
-Players engaged in unarmed melee combat normally do so because they do not have the funds for a significant weapon, or are simply trying out fighting barehanded.
-Unarmed has anattack speedof 4 game ticks (one hit every 2.4 seconds), the same attacking speed as ascimitar.
-Players not engaged in combat are often unarmed to minimise their excess weight, thus enabling them to run for longer periods of time.
-Unarmed may also be used to describe a player who has no weapons wielded or in theirinventory. This context is most often used when a player may not be carrying a weapon as a requisite to travelling to a certainlocation. For example, "a player travelling toEntranamust be unarmed." The same applies to enteringGlarial's Tomb. In addition, two players may consent to fight unarmed in theEmir's Arena. If a player has amembers objectwielded on a free-to-play world, the weapon's stats will not be applied, and the player will fight unarmed, appearing to punch or kick with the weapon equipped (this also applies to ranged weapons and tridents).

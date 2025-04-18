@@ -1,1 +1,0 @@
-Mint cakeis afooditem that, when eaten, will restore a player's runenergyby 50%. Mint cakes restore more energy per consumption than any other item using only one click. When eaten, it gives the messageMmm ... minty. You feel energized!.

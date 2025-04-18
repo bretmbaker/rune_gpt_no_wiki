@@ -1,4 +1,0 @@
-Item: Hydra's claw
-Summary: The hydra's claw is an item dropped by the Alchemical Hydra. It can be combined with the Zamorakian hasta to create the dragon hunter lance.
-Sources:
-- Alchemical Hydra (Level 426, Quantity: 1, Rarity: 1/1,001)

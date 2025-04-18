@@ -1,2 +1,0 @@
-Item: Piles
-Summary: Piles is a banknote exchange merchant located inside the Resource Area, and will note items obtained within the Resource Area for a fee of 50 coins per item.

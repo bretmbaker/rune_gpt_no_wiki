@@ -1,6 +1,0 @@
-Item: Unsired
-Summary: An unsired is an untradeable item dropped by the Abyssal Sire. They are to be placed at the Font of Consumption, which consumes the unsired, but gives the player a reward in the process.
-Sources:
--  (Level Bludgeon claw, Quantity: 1, Rarity: 62/128[1])
--  (Level Bludgeon spine, Quantity: 1, Rarity: 62/128[1])
--  (Level Bludgeon axon, Quantity: 1, Rarity: 62/128[1])

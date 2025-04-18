@@ -1,4 +1,0 @@
-Item: Bellator vestige
-Summary: The bellator vestige is an item dropped by The Whisperer.
-Sources:
-- The Whisperer (Level 587; 791; 1146, Quantity: 1, Rarity: 1/512)

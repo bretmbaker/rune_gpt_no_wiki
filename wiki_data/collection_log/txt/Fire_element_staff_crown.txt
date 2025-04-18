@@ -1,4 +1,0 @@
-Item: Fire element staff crown
-Summary: The fire element staff crown is a possible reward from looting Branda the Fire Queen of the Royal Titans. It is used alongside a battlestaff and the ice element staff crown, which can be obtained from looting Eldric the Ice King, to create the twinflame staff.
-Sources:
-- Branda the Fire Queen (Level 350, Quantity: 1, Rarity: 1/75)

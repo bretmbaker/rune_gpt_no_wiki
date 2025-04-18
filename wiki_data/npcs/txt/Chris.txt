@@ -1,2 +1,0 @@
-Item: Chris
-Summary: Chris is an NPC found in the bank area of the Emir's Arena, who offers the same services as Perdu. He also owns an anvil in the bank area, but attempting to interact with it results in Chris telling you to get your hands off.

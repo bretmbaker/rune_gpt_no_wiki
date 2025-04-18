@@ -1,5 +1,0 @@
-Item: Nightmare staff
-Summary: The Nightmare staff is a staff that can be received as a drop from The Nightmare. Requiring level 72 Magic and 50 Hitpoints to wield, it can autocast offensive standard spells as well as Ancient Magicks.
-Sources:
-- The Nightmare (Level 814, Quantity: 1, Rarity: 1/300–1/171.5)
-- Phosani's Nightmare (Level 1024, Quantity: 1, Rarity: 1/533)

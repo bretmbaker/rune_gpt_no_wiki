@@ -1,4 +1,0 @@
-Item: Dharok's greataxe
-Summary: Dharok's greataxe is a two-handed melee weapon that is part of the Dharok the Wretched's set of barrows equipment. To wield the Dharok's greataxe, a player requires 70 Attack and 70 Strength. It cannot be used for Woodcutting, unlike other axes.
-Sources:
-- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

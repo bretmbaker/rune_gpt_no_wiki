@@ -1,2 +1,0 @@
-Item: Dock worker
-Summary: Dock workers repair fishing cranes on the docks in Port Piscarilius.

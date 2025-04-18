@@ -1,2 +1,0 @@
-Item: Farmer (Miscellania)
-Summary: The Farmer is a subject of Miscellania who can be found cutting the wheat field. He cannot normally be talked to, but will yell at the player if they attempt to pick any of the wheat.

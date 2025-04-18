@@ -1,4 +1,0 @@
-Item: Granite dust
-Summary: Granite dust is dropped by the Grotesque Guardians that can be found on the Slayer Tower's rooftop.
-Sources:
-- Grotesque Guardians (Level , Quantity: 50–100, Rarity: Always)

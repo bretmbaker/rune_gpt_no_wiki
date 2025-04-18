@@ -1,2 +1,0 @@
-Item: Helpline Assistant
-Summary: The Helpline Assistant is one of the non-player characters contacted with the Lunar spell NPC Contact using the 'Random' selection.

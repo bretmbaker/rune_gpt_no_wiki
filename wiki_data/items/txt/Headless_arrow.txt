@@ -1,1 +1,0 @@
-Aheadless arrowis used inFletchingto makearrows. Attaching 15feathersto 15arrow shafts, requiring 1 Fletching, yielding 15 Fletchingexperienceand 15 headless arrows. 15arrowtipscan be attached to headless arrows to make arrows.

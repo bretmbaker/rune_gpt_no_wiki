@@ -1,2 +1,0 @@
-Item: Pay-dirt (NPC)
-Summary: Pay-dirt is pay-dirt from the Motherlode Mine being cleaned. The ores are transported down the water stream until they are deposited into a sack at the end and can then be collected. The ore moves down the water channel if at least one water wheel strut is operational, and otherwise remains in place. As long as pay-dirt is still in the channel, more pay-dirt cannot be added.

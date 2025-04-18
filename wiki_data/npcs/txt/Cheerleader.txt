@@ -1,2 +1,0 @@
-Item: Cheerleader
-Summary: Cheerleaders are NPCs next to the Gnome Ball minigame. Although they have a talk to option, they are in a sealed area which is not accessible and therefore cannot be talked to. However, they do not have any dialogue, so if the player were to somehow reach them they would only receive the message "Nothing interesting happens."[1] Their only purpose is to tell players when they have scored a goal (they will shout Goal! and dance around) in the minigame. When players have won they will do a similar dance and shout "You Win!".

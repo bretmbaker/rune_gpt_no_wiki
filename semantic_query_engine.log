@@ -745,3 +745,64 @@ AttributeError: 'TutorialProgressEngine' object has no attribute 'start_tutorial
 2025-04-18 22:22:02,520 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-04-18 22:22:02,521 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
 2025-04-18 22:22:05,700 - semantic_query_engine - INFO - Loaded vector index successfully
+2025-04-18 22:56:57,114 - agent.personality_config - ERROR - Error loading config for GielinorNomad: Expecting value: line 1 column 1 (char 0)
+2025-04-18 22:56:57,116 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: quests
+2025-04-18 22:56:57,123 - agent.semantic_query_engine - INFO - Loaded 23 entries for category: skills
+2025-04-18 22:56:57,194 - agent.semantic_query_engine - INFO - Loaded 76 entries for category: items
+2025-04-18 22:56:57,200 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: npcs
+2025-04-18 22:56:57,200 - agent.semantic_query_engine - WARNING - Category directory not found: locations
+2025-04-18 22:56:57,206 - agent.semantic_query_engine - ERROR - Error loading data for category minigames: 'charmap' codec can't decode byte 0x90 in position 319: character maps to <undefined>
+2025-04-18 22:56:57,209 - agent.semantic_query_engine - ERROR - Error loading data for category achievement_diaries: 'list' object has no attribute 'items'
+2025-04-18 22:56:57,211 - agent.semantic_query_engine - ERROR - Error loading data for category combat_achievements: 'list' object has no attribute 'items'
+2025-04-18 22:56:57,212 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: training_guides
+2025-04-18 22:56:57,413 - agent.semantic_query_engine - INFO - Loaded 1129 entries for category: bestiary
+2025-04-18 22:56:57,413 - agent.semantic_query_engine - WARNING - Category directory not found: equipment
+2025-04-18 22:56:57,413 - agent.semantic_query_engine - WARNING - Category directory not found: transportation
+2025-04-18 22:56:57,413 - agent.semantic_query_engine - INFO - Initialized semantic query engine
+2025-04-18 22:56:57,414 - agent.chat_mode - INFO - Initialized chat mode for GielinorNomad
+2025-04-18 23:00:58,102 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: quests
+2025-04-18 23:00:58,108 - agent.semantic_query_engine - INFO - Loaded 23 entries for category: skills
+2025-04-18 23:00:58,173 - agent.semantic_query_engine - INFO - Loaded 76 entries for category: items
+2025-04-18 23:00:58,178 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: npcs
+2025-04-18 23:00:58,179 - agent.semantic_query_engine - WARNING - Category directory not found: locations
+2025-04-18 23:00:58,184 - agent.semantic_query_engine - ERROR - Error loading data for category minigames: 'charmap' codec can't decode byte 0x90 in position 319: character maps to <undefined>
+2025-04-18 23:00:58,186 - agent.semantic_query_engine - ERROR - Error loading data for category achievement_diaries: 'list' object has no attribute 'items'
+2025-04-18 23:00:58,187 - agent.semantic_query_engine - ERROR - Error loading data for category combat_achievements: 'list' object has no attribute 'items'
+2025-04-18 23:00:58,188 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: training_guides
+2025-04-18 23:00:58,385 - agent.semantic_query_engine - INFO - Loaded 1129 entries for category: bestiary
+2025-04-18 23:00:58,386 - agent.semantic_query_engine - INFO - Loaded 2 entries for category: equipment
+2025-04-18 23:00:58,387 - agent.semantic_query_engine - INFO - Loaded 2 entries for category: transportation
+2025-04-18 23:00:58,387 - agent.semantic_query_engine - INFO - Initialized semantic query engine
+2025-04-18 23:00:58,387 - agent.chat_mode - INFO - Initialized chat mode for GielinorNomad
+2025-04-18 23:04:04,349 - __main__ - INFO - Starting chat mode with character: YourCharacterName
+2025-04-18 23:05:12,429 - __main__ - INFO - Starting chat mode with character: GielinorNomad
+2025-04-18 23:06:04,528 - __main__ - INFO - Starting chat mode with character: GielinorNomad
+2025-04-18 23:06:04,530 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: quests
+2025-04-18 23:06:04,537 - agent.semantic_query_engine - INFO - Loaded 23 entries for category: skills
+2025-04-18 23:06:04,612 - agent.semantic_query_engine - INFO - Loaded 76 entries for category: items
+2025-04-18 23:06:04,617 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: npcs
+2025-04-18 23:06:04,617 - agent.semantic_query_engine - WARNING - Category directory not found: locations
+2025-04-18 23:06:04,622 - agent.semantic_query_engine - ERROR - Error loading data for category minigames: 'charmap' codec can't decode byte 0x90 in position 319: character maps to <undefined>
+2025-04-18 23:06:04,624 - agent.semantic_query_engine - ERROR - Error loading data for category achievement_diaries: 'list' object has no attribute 'items'
+2025-04-18 23:06:04,625 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: combat_achievements
+2025-04-18 23:06:04,626 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: training_guides
+2025-04-18 23:06:04,818 - agent.semantic_query_engine - INFO - Loaded 1129 entries for category: bestiary
+2025-04-18 23:06:04,819 - agent.semantic_query_engine - INFO - Loaded 2 entries for category: equipment
+2025-04-18 23:06:04,820 - agent.semantic_query_engine - INFO - Loaded 2 entries for category: transportation
+2025-04-18 23:06:04,821 - agent.semantic_query_engine - INFO - Initialized semantic query engine
+2025-04-18 23:06:04,821 - agent.chat_mode - INFO - Initialized chat mode for GielinorNomad
+2025-04-18 23:08:32,348 - __main__ - INFO - Starting chat mode with character: GielinorNomad
+2025-04-18 23:08:32,350 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: quests
+2025-04-18 23:08:32,351 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: skills
+2025-04-18 23:08:32,414 - agent.semantic_query_engine - INFO - Loaded 76 entries for category: items
+2025-04-18 23:08:32,421 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: npcs
+2025-04-18 23:08:32,421 - agent.semantic_query_engine - WARNING - Category directory not found: locations
+2025-04-18 23:08:32,428 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: minigames
+2025-04-18 23:08:32,430 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: achievement_diaries
+2025-04-18 23:08:32,431 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: combat_achievements
+2025-04-18 23:08:32,432 - agent.semantic_query_engine - INFO - Loaded 0 entries for category: training_guides
+2025-04-18 23:08:32,625 - agent.semantic_query_engine - INFO - Loaded 1129 entries for category: bestiary
+2025-04-18 23:08:32,626 - agent.semantic_query_engine - INFO - Loaded 2 entries for category: equipment
+2025-04-18 23:08:32,627 - agent.semantic_query_engine - INFO - Loaded 2 entries for category: transportation
+2025-04-18 23:08:32,627 - agent.semantic_query_engine - INFO - Initialized semantic query engine
+2025-04-18 23:08:32,627 - agent.chat_mode - INFO - Initialized chat mode for GielinorNomad

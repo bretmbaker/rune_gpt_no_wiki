@@ -1,4 +1,0 @@
-Item: Jar of souls
-Summary: The jar of souls is a rare drop from Cerberus. Using one on Adam will initiate a dialogue in which he will claim that he's been looking for souls, and reaches in the jar to take one.
-Sources:
-- Cerberus (Level 318, Quantity: 1, Rarity: 1/2,000)

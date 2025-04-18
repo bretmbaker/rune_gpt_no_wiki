@@ -1,1 +1,0 @@
-AXeric's aidis a potion that restores the player'sHitpointsandDefence, while draining the player'sStrength,Attack,Magic, andRanged. It can be made with 65Herbloreby using abuchu leafwith awater-filled gourd vialwhile havingendarkened juicein the inventory.

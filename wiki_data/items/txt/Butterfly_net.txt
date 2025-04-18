@@ -1,1 +1,0 @@
-Abutterfly netis an item used in theHunterskill. It is wielded to captureimplings, andbutterflies or mothsthroughoutGielinorandPuro-Puro, and bats in theChambers of Xeric. Catching an impling without animpling jarwill automatically loot it, and catching a butterfly or moth without abutterfly jarwill automatically release it. A jar is required to keep them for later use.

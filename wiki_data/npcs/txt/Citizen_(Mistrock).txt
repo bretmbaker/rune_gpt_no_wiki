@@ -1,2 +1,0 @@
-Item: Citizen (Mistrock)
-Summary: Citizens are common residents of Mistrock. Talking to a citizen will provide the player a short and stern dialogue.

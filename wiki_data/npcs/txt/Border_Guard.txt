@@ -1,2 +1,0 @@
-Item: Border Guard
-Summary: Border Guards patrol the border gate between eastern Lumbridge and north-western Al Kharid, charging an entry fee of 10gp provided the player has not completed Prince Ali Rescue. Once the quest has been completed, the right click option "pay-toll-10gp" is still effective, and will not charge the fee.

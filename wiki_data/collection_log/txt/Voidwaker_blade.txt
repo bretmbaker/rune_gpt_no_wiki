@@ -1,5 +1,0 @@
-Item: Voidwaker blade
-Summary: The Voidwaker blade is one of three pieces of the Voidwaker dropped by Vet'ion and Calvar'ion. The blade, alongside the Voidwaker hilt and Voidwaker gem, must be brought to Madam Sikaro in the Ferox Enclave Dungeon, who combines the three parts for a fee of 500,000 coins.
-Sources:
-- Calvar'ion (Level 264, Quantity: 1, Rarity: 1/912)
-- Vet'ion (Level 454, Quantity: 1, Rarity: 1/360)

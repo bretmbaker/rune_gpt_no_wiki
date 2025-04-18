@@ -1,1 +1,0 @@
-Asuper restoreis a potion found in theLast Man Standingminigamethat restores all playerstatsthat have been lowered, includingPrayer, but not includingHitpoints.

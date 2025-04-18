@@ -1,8 +1,0 @@
-[Page: Freaky Forester]
-
-TheFreaky Foresteris arandom eventin which players are teleported to a small clearing in a forest and asked to kill apheasantwith a certain number of tails. After successfully completing this random event by deliveringanypheasant carcass to the Freaky Forester, players are rewarded with a piece of theLederhosenset, or alampif they already own the set, and the player is taken back to the player's former location before the event (whenever possible). The event can be left at any time by using the portal, this however grants no rewards if the event is not completed.
-Dealing damage to pheasants grants noexperience. Attempting to attack another pheasant with one in the inventory results in the messageYou already have a pheasant carcass. You don't need to kill another.If the player kills two pheasants (so there are two carcasses on the ground) and picks one up, attempting to pick up the second one results in the messageYou already have a pheasant carcass in your inventory, you don't need to kill another.
-An experiencelampis now rewarded upon the event completion in place of 500coinswhen a player already has the fulllederhosen outfit.
-All pheasants now drop the same item, so any pheasant can be killed instead of just the one requested by the Freaky Forester. Formerly, upon failure to deliver the correctraw pheasantno reward be given and the player would be teleported off to a random spot on the map rather than returned back to their origin.[1]
-The random event can now be left early by using the portal. The pheasants can also be attacked even if attack options are set to hidden.
-A warning screen is now removed correctly when you complete the Freaky Forester event.

@@ -1,4 +1,0 @@
-Item: Gauntlet cape
-Summary: The gauntlet cape is a cosmetic cape that is obtained after completing the Corrupted Gauntlet, after which it will automatically appear inside the players' inventory. If a player has one in their bank or cape rack, they will not receive another. The cape is lost upon death if not protected.
-Sources:
-- Reward Chest (The Gauntlet) (Corrupted) (Level N/A, Quantity: 1, Rarity: Always)

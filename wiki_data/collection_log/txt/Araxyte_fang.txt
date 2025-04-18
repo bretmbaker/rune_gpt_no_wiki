@@ -1,4 +1,0 @@
-Item: Araxyte fang
-Summary: The araxyte fang is an untradeable add-on dropped by Araxxor. With a Crafting level of 86, it can be used to upgrade the amulet of torture into the amulet of rancour, giving 500 Crafting experience.
-Sources:
-- Araxxor (Level 890, Quantity: 1, Rarity: 1/600)

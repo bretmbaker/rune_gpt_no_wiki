@@ -1,1 +1,0 @@
-Wizard blizzardis a drink that can be made at level 18Cooking, granting 110 Cookingexperience. When consumed, the Wizard blizzard heals 5hitpointsand boostsStrengthby 6% + 1 levels, but reducesAttackby 2% - 3 levels.

@@ -1,4 +1,0 @@
-Item: Bandos hilt
-Summary: The Bandos hilt is dropped by General Graardor, in the God Wars Dungeon. When attached to a completed Godsword blade, it creates the Bandos godsword.
-Sources:
-- General Graardor (Level 624, Quantity: 1, Rarity: 1/508)

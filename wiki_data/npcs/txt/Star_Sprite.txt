@@ -1,2 +1,0 @@
-Item: Star Sprite
-Summary: Star Sprites are unused NPCs who were intended to appear after a Crashed Star has been completely mined to the core. However, due to feedback from players stating that the design "didn't fit appearing throughout Gielinor in Old School", crashed stars disintegrate to dust instead after being completely mined.

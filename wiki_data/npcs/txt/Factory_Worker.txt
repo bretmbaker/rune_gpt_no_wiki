@@ -1,2 +1,0 @@
-Item: Factory Worker
-Summary: Factory Workers are dwarves that work in the Blast Furnace factory found in eastern Keldagrim. Using the bars smelted in the blast furnace, factory workers use machinery to make them into useful items.

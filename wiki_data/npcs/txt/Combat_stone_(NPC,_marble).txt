@@ -1,2 +1,0 @@
-Item: Combat stone (NPC, marble)
-Summary: Combat stone is an NPC used to display the state of a marble attack stone in the stone space of the games room in a player-owned house. Attack stones cannot be attacked with ranged or magic, only with melee. There are a number of different states for a combat stone, with each representing a different combination of damage from stab, slash, and crush-based attacks.

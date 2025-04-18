@@ -1,2 +1,0 @@
-Item: Agitated bees
-Summary: Agitated bees are NPCs that appear when a player chooses the "Release-bees" option on a beehive within a player-owned house.

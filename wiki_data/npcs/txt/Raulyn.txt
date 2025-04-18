@@ -1,3 +1,0 @@
-Item: Raulyn
-Summary: Raulyn is a ghost located at the centre of the Slayer Tower's basement. He was a servant to Viggora, who built the tower long ago.
-If players attempt to attack the monsters in this area, he will stop them from doing so, claiming the basement is only for those who have an active Slayer task.

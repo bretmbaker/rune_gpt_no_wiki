@@ -1,4 +1,0 @@
-Item: Torag's platebody
-Summary: Torag's platebody is melee armour worn in the body slot that is part of Torag the Corrupted's set of barrows equipment. To wear Torag's platebody, a player must have 70 Defence.
-Sources:
-- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

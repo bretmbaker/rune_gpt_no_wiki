@@ -1,1 +1,0 @@
-Anorangeis a fruit that can be grown as part of theFarmingskill. Oranges are used in severalgnome cookingrecipes, and can be used with aknifeto createorange slicesororange chunks. You can give abasket of orangesto a farmer as payment to protect amaple tree (farming). It heals 2 hitpoints regardless of the state the orange is in (whole, sliced or chunks).

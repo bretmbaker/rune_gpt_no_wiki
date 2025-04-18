@@ -1,1 +1,0 @@
-Thedouble ammo mouldis an item that makescannonballstwice as fast compared to a regularammo mould, making 8 every 8 ticks (4.8 seconds) rather than 4 (using twosteel barsevery interval).

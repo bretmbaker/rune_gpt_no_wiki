@@ -1,2 +1,0 @@
-Item: Rick
-Summary: Rick is a servant that players with at least level 20 Construction can hire to do various services in their player-owned house. Rick has the lowest wage at 500 coins. Players must pay him the wage every eight uses of his services. Rick has inventory space for 6 items and a trip time of 60 seconds.

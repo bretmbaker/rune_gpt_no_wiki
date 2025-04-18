@@ -1,4 +1,0 @@
-Item: Tome of water
-Summary: The tome of water is a book held in place of a shield that is a possible reward from Tempoross. The tome of water requires level 50 in Magic to wield.
-Sources:
-- Reward pool (Level N/A, Quantity: 1, Rarity: 1/1,600)

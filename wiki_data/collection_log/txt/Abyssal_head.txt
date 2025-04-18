@@ -1,7 +1,0 @@
-Item: Abyssal head
-Summary: An abyssal head is a rare drop from abyssal demons, requiring 85 Slayer to kill. Players may also obtain an abyssal head by placing an unsired at the Font of Consumption; this has a 5/64 chance, and as an unsired is a 1/100 drop, this effectively makes it a 1/1,280 drop per Abyssal Sire kill.
-Sources:
-- Abyssal demon Wilderness Slayer Cave (Level 124, Quantity: 1, Rarity: 1/6,000)
-- Abyssal demon Standard (Level 124, Quantity: 1, Rarity: 1/6,000)
-- Greater abyssal demon (Level 342, Quantity: 1, Rarity: 1/6,000)
-- Unsired (Level N/A, Quantity: 1, Rarity: 10/128)

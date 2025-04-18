@@ -1,2 +1,0 @@
-Item: Workman
-Summary: The workman is a non-player character found in the upper room of the Falador furnace building. He will hold a short conversation with the player if spoken to and is followed around by his apprentice.

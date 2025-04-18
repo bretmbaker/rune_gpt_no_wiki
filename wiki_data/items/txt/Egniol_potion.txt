@@ -1,1 +1,0 @@
-Egniol potionsare a type of potion that can be made whilst in theGauntlet. It restores prayer, 40% run energy, and acts as astamina potion.

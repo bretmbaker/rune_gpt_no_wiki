@@ -1,4 +1,0 @@
-Item: Trident of the seas
-Summary: The trident of the seas is a powered staff requiring 75 Magic to wield, available as a task-only drop from cave krakens (or the kraken boss) with level 87 Slayer; normal cave krakens can drop an uncharged trident, whereas the kraken boss can drop a fully charged one. Similar to Barrows equipment, the trident is only tradeable when either uncharged or fully charged.
-Sources:
-- Cave kraken (Level 127, Quantity: 1, Rarity: 1/200)

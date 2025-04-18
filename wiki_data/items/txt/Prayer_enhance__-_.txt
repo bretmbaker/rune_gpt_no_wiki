@@ -1,1 +1,0 @@
-Aprayer enhance (-)is a potion that restores the player's prayer points over the course of 275 or 290 seconds, appearing to vary per player; those who get a game message in the chatbox that the potion is about to expire has the effect last for a total of 290 seconds. However, those that do not have the effect last for a total of 275 seconds.

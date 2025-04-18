@@ -1,2 +1,0 @@
-Item: Shipwright Silas
-Summary: Shipwright Silas is the shipwright located at Aldarin. Shipwrights are NPCs found at large ports. They offer several boat-related services, such as allowing players to purchase new boats, customize owned boats, and to retrieve boats that have capsized or are at another port.

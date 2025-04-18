@@ -1,1 +1,0 @@
-Uncooked pizzarequires 35Cookingto make and is obtained by using apizza basewithtomatoandcheese. It can be cooked on a range (but not a fire) into aplain pizza, which gives 143Cookingexperience. Some toppings can then be added, see thepizzapage for more details. It is possible to fail the cooking, which will result in aburnt pizza.

@@ -1,4 +1,0 @@
-Item: Key master teleport
-Summary: Key master teleport scrolls are consumable teleport scrolls that teleport the player directly next to the Key Master in Cerberus' Lair. They can be obtained from defeating Cerberus.
-Sources:
-- Cerberus (Level 318, Quantity: 3, Rarity: 2/128)

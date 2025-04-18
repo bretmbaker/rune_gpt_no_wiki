@@ -1,4 +1,0 @@
-Item: Pet dagannoth prime
-Summary: 
-Sources:
-- Dagannoth Prime (Level 303, Quantity: 1, Rarity: 1/5,000)

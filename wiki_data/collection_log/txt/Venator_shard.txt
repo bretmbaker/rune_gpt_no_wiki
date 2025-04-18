@@ -1,5 +1,0 @@
-Item: Venator shard
-Summary: The Venator shard is a drop received from defeating the Phantom Muspah. Five shards are combined to create the Venator bow.
-Sources:
-- Frozen cache (Level N/A, Quantity: 1, Rarity: 1/500)
-- Phantom Muspah (Level 741, Quantity: 1, Rarity: 1/100)

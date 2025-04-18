@@ -1,2 +1,0 @@
-Item: Gnome winger
-Summary: Gnome wingers are found in the Gnome Ball pitch. They are on the same team as the player, and passing the Gnomeball to them will let them pass it back to you after a few seconds. This could be used to pass some Gnome ballers who will normally try to take possession of the ball.

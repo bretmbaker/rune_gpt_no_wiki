@@ -1,1 +1,0 @@
-Anoverload (+)is a potion that boosts all the player's combat stats by 6 + 16%, while damaging them for 50hitpoints. This damage is applied in hits of 10 over a few ticks. The stat boost is re-applied every 15 seconds for five minutes until the effects wear off, at which point the player is healed back 50 hitpoints.

@@ -1,2 +1,0 @@
-Item: Bees!
-Summary: Bees! are non-interactive insects that are present sometimes during the Beekeeper random event. If you fail the event, a cutscene plays in which the bees escape from their hive and start attacking you, and the bee keeper teleports you back to your previous location with no rewards or losses.

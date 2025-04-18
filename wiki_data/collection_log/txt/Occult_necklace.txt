@@ -1,6 +1,0 @@
-Item: Occult necklace
-Summary: The occult necklace is a magical amulet that requires 70 Magic to wear. It is dropped by the smoke devil and its boss variant. Wearing it increases the player's Magic damage by 5%, and is the only amulet to give such a bonus. This 5% bonus will also stack with existing boosts, such as the staff of the dead and the imbued slayer helmet. For this reason, as well as a significant magic accuracy bonus, it is commonly considered the best neck slot item for magic combat in terms of damage output.
-Sources:
-- Nuclear smoke devil (Level 280, Quantity: 1, Rarity: 3 × 1/512)
-- Smoke devil (Level 160, Quantity: 1, Rarity: 1/512)
-- Thermonuclear smoke devil (Level 301, Quantity: 1, Rarity: 1/350)

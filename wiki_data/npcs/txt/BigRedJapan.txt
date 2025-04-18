@@ -1,2 +1,0 @@
-Item: BigRedJapan
-Summary: BigRedJapan is a non-interactive, non-player character found at the end of most Rooftop Agility Courses (all except the Falador, Draynor, and Pollnivneach courses). He is modelled after the player who designed the rooftop courses.

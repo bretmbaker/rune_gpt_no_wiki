@@ -1,2 +1,0 @@
-Item: Tea Seller
-Summary: The tea seller runs a tea stall in Varrock south-east of the east bank. Stealing from his stall will make him yell "You're the one who keeps stealing from me! Guards, Guards!", although no-one will ever come to him. If players touch the tea sitting on the table in front of him, he will yell, "Hey! Put that back! Those are for display only!" Furthermore, using Telekinetic Grab on the cup will prevent the spell and result in him saying the same thing.

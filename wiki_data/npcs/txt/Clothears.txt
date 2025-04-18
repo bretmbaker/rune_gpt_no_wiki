@@ -1,2 +1,0 @@
-Item: Clothears
-Summary: Clothears is a goblin fishing in his sleep in the River Dougne. If a player attempts to talk to him, they get the message "The little goblin appears to be fast asleep, and yet still fishing... I think I'd rather not wake him."

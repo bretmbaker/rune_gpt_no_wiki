@@ -1,4 +1,0 @@
-Item: Pet dark core
-Summary: 
-Sources:
-- Corporeal Beast (Level 785, Quantity: 1, Rarity: 1/5,000)

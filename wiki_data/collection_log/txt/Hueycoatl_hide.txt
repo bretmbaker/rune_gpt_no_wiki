@@ -1,4 +1,0 @@
-Item: Hueycoatl hide
-Summary: Hueycoatl hide is a reward dropped by the Hueycoatl. Unlike other hides, it does not need to be tanned and can be directly crafted into Hueycoatl hide armour.
-Sources:
-- The Hueycoatl (Level 642, Quantity: 2–3, Rarity: 1/34.5)

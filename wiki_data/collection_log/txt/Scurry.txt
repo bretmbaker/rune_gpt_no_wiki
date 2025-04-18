@@ -1,4 +1,0 @@
-Item: Scurry
-Summary: 
-Sources:
-- Scurrius MVP (Level 200; 250, Quantity: 1, Rarity: 1/3,000)

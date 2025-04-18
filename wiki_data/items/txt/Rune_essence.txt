@@ -1,1 +1,0 @@
-Rune essenceis a raw material used in theRunecraftskill that can be crafted into low-levelrunes, namelyair,mind,water,earth,fire, andbody runes. Unlike runes, rune essence does not stack. Players needpure essenceto craft any other type of rune, which can only be mined in members worlds.

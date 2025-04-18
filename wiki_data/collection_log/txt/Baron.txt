@@ -1,4 +1,0 @@
-Item: Baron
-Summary: 
-Sources:
-- Duke Sucellus (Level 538; 758; 1099, Quantity: 1, Rarity: 1/2,500)

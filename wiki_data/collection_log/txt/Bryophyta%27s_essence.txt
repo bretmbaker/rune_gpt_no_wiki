@@ -1,5 +1,0 @@
-Item: Bryophyta's essence
-Summary: Bryophyta's essence is an item dropped by Bryophyta, which is used with a battlestaff with 62 Crafting to create Bryophyta's staff.
-Sources:
-- Bryophyta Members (Level 128, Quantity: 1, Rarity: 1/118)
-- Bryophyta F2P (Level 128, Quantity: 1, Rarity: 1/118)

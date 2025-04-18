@@ -1,2 +1,0 @@
-Item: Silk merchant
-Summary: The Silk merchant is a non-player character in East Ardougne and Great Kourend that buys silk. Selling silk to the East Ardougne Silk merchant for 60 coins is a requirement for the Easy Ardougne Diary. Silk cannot be sold to him by players who recently stole from his stall. The silk merchant will remember thieves for 10 minutes since last stealing from the silk stall. Logging out will reset the duration, and the player will have to wait 10 minutes after logging back in.

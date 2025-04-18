@@ -1,7 +1,0 @@
-[Page: Bronze bar]
-
-Infobox:
-Bronze barReleased4 January2001(Update)MembersNoQuest itemNoPropertiesTradeableYesEquipableNoStackableNoNoteableYesOptionsDropExamineIt's a bar of bronze.ValuesValue8 coinsHigh alch4 coinsLow alch3 coinsWeight1.814 kgRespawn time100 ticks (60 seconds)Grand ExchangeExchange136coins (info)Buy limit10,000Daily volume1,230,765View real-time pricesLoading...Advanced dataItem ID2349LinkMOID
-
-Description:
-Abronze baris a bar of refinedbronze. It can be created through theSmithingskill at level 1 by using acopper oreand atin oreon afurnace, granting 6.2 Smithingexperience. A bronze bar can be smithed on ananvilthrough the Smithing skill to createbronze weaponsandarmour. A list of bronze items that can be smithed from bronze bars and the Smithing levels required can be foundhere. When smithed, each bar gives 12.5 experience, with a maximum of 62.5 experience given for thebronze platebody.

@@ -1,7 +1,0 @@
-Item: Saradomin sword
-Summary: The Saradomin sword is the personal weapon of Commander Zilyana, the Saradominist general within the God Wars Dungeon. It can be obtained as a rare drop from Commander Zilyana, or as a very rare drop from her bodyguards. It is a two-handed sword which requires 70 Attack to wield.
-Sources:
-- Bree (Level 146, Quantity: 1, Rarity: 3/16,129)
-- Commander Zilyana (Level 596, Quantity: 1, Rarity: 1/127)
-- Growler (Level 139, Quantity: 1, Rarity: 3/16,129)
-- Starlight (Level 149, Quantity: 1, Rarity: 3/16,129)

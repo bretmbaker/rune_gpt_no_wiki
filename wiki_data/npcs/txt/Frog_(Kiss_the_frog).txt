@@ -1,2 +1,0 @@
-Item: Frog (Kiss the frog)
-Summary: Frogs come into contact with players through the occurence of the Kiss the frog random event. When spoken to, they simply make a Ribbit sound in contrast to the Frog prince and princess. This NPC only appears when the random event takes place and not outside of it.

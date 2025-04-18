@@ -1,5 +1,0 @@
-Item: Pendant of ates
-Summary: The pendant of ates is an amulet that can be charged using frozen tears to provide teleports to four locations around Varlamore. The pendant is an untradeable rare drop from killing Frost Naguas or Amoxliatl.
-Sources:
-- Amoxliatl (Level 263, Quantity: 1, Rarity: 1/25)
-- Frost Nagua (Level 104, Quantity: 1, Rarity: 1/100)

@@ -1,2 +1,0 @@
-Item: Guardian thrall (Trailblazer Reloaded League)
-Summary: The guardian thrall is an NPC that is summoned via the guardian horn, which is available for players who have unlocked the Guardian relic. When summoned, she will run to attack the same target that the player is attacking with a style that the NPC has the lowest defence bonus for.

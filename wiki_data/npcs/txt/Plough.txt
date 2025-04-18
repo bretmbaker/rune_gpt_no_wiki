@@ -1,2 +1,0 @@
-Item: Plough
-Summary: Ploughs were found in the south-east of Hosidius, north-west of the Tithe farm, south-west of the Vinery. Players can push them back and forth to till the soil which earns Hosidius favour. A plough can only be used by one player at a time. Ploughs that are in-use by players cannot be used by another until a period of time of inactivity has elapsed.

@@ -1,4 +1,0 @@
-Item: Eclipse moon chestplate
-Summary: The eclipse moon chestplate is an item that requires level 75 Ranged and 50 Defence to equip, which is obtained as a possible reward from the Lunar Chest in Neypotzli.
-Sources:
-- Lunar Chest (Level N/A, Quantity: 1, Rarity: 1/224)

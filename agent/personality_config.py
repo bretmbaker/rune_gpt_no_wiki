@@ -4,7 +4,7 @@ Handles loading and parsing of personality config files
 """
 
 import os
-import yaml
+import json
 import logging
 from typing import Dict, List, Optional, Any
 from dataclasses import dataclass
@@ -13,8 +13,20 @@ from pathlib import Path
 logger = logging.getLogger(__name__)
 
 @dataclass
+class PersonalityTraits:
+    """Represents personality traits that influence agent behavior"""
+    tone: str
+    motivation: str
+    philosophy: str
+    risk_tolerance: float
+    efficiency_focus: float
+    social_preference: float
+    exploration_drive: float
+    goal_orientation: float
+
+@dataclass
 class PersonalityConfig:
-    """Represents a parsed personality configuration"""
+    """Configuration for a RuneGPT agent's personality"""
     name: str
     mode: str
     style: List[str]
@@ -29,7 +41,7 @@ class PersonalityConfig:
     use_guides: bool
 
 class PersonalityConfigManager:
-    """Manages loading and parsing of personality configurations"""
+    """Manages personality configurations for RuneGPT agents"""
     
     SUPPORTED_STYLES = {
         "explorer", "sweaty_pvmer", "casual_skiller", "lore_seeker", 
@@ -82,17 +94,17 @@ class PersonalityConfigManager:
             character_name: Name of the character to load config for
             
         Returns:
-            PersonalityConfig object
+            PersonalityConfig object for the character
         """
-        config_file = self.config_dir / f"{character_name}.txt"
+        config_path = self.config_dir / f"{character_name}.txt"
         
-        if not config_file.exists():
+        if not config_path.exists():
             logger.warning(f"No config file found for {character_name}, using default")
             return self.default_config
         
         try:
-            with open(config_file, 'r') as f:
-                config_data = yaml.safe_load(f)
+            with open(config_path, "r") as f:
+                config_data = json.load(f)
             
             # Validate and parse config
             return self._parse_config(config_data)
@@ -202,7 +214,7 @@ class PersonalityConfigManager:
             True if successful, False otherwise
         """
         try:
-            config_file = self.config_dir / f"{character_name}.txt"
+            config_path = self.config_dir / f"{character_name}.txt"
             
             # Convert config to dictionary
             config_data = {
@@ -221,11 +233,68 @@ class PersonalityConfigManager:
             }
             
             # Save to file
-            with open(config_file, 'w') as f:
-                yaml.dump(config_data, f, default_flow_style=False)
+            with open(config_path, "w") as f:
+                json.dump(config_data, f, indent=2)
             
             return True
             
         except Exception as e:
             logger.error(f"Error saving config for {character_name}: {e}")
-            return False 
+            return False
+    
+    def list_configs(self) -> List[str]:
+        """
+        List available personality configurations.
+        
+        Returns:
+            List of character names with configs
+        """
+        configs = []
+        for filename in os.listdir(self.config_dir):
+            if filename.endswith(".txt"):
+                configs.append(filename[:-4])  # Remove .txt extension
+        return configs
+    
+    def create_config(self, name: str, mode: str, style: List[str],
+                     playtime_hours: int, bond_priority: bool,
+                     personality: List[Dict[str, str]], goals: List[str],
+                     restrictions: List[str], quest_strategy: str,
+                     pvm_style: str, risk_tolerance: str,
+                     use_guides: bool) -> PersonalityConfig:
+        """
+        Create a new personality configuration.
+        
+        Args:
+            name: Character name
+            mode: Game mode (regular, ironman, etc.)
+            style: List of playstyle descriptors
+            playtime_hours: Hours played per day
+            bond_priority: Whether bond maintenance is a priority
+            personality: List of personality trait dictionaries
+            goals: List of long-term goals
+            restrictions: List of self-imposed restrictions
+            quest_strategy: Approach to questing
+            pvm_style: Combat approach
+            risk_tolerance: Risk tolerance level
+            use_guides: Whether to use guides
+            
+        Returns:
+            New PersonalityConfig object
+        """
+        config = PersonalityConfig(
+            name=name,
+            mode=mode,
+            style=style,
+            playtime_hours_per_day=playtime_hours,
+            bond_priority=bond_priority,
+            personality=personality,
+            long_term_goals=goals,
+            restrictions=restrictions,
+            quest_strategy=quest_strategy,
+            pvm_style=pvm_style,
+            risk_tolerance=risk_tolerance,
+            use_guides=use_guides
+        )
+        
+        self.save_config(config, name)
+        return config 

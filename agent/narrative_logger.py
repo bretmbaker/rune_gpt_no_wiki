@@ -5,6 +5,7 @@ import random
 import json
 from typing import Dict, List, Optional, Any, Union
 from dataclasses import dataclass, asdict
+from agent.personality_config import PersonalityTraits
 
 @dataclass
 class NarrativeEntry:

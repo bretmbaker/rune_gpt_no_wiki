@@ -1,7 +1,0 @@
-Item: Zamorakian spear
-Summary: The Zamorakian spear is obtained from the God Wars Dungeon as a drop from K'ril Tsutsaroth and his bodyguards, requiring an Attack level of 70 to wield. Like other spears, it is a two-handed weapon. Unlike other spears, it cannot be poisoned, and has its highest bonus in stab, while other spears have the same bonus on all melee attack styles. The Zamorakian spear offers the third highest stab bonus of all weapons at +85, shared with the Zamorakian hasta, dragon hunter lance, and crystal halberd. It is only outmatched by the Ghrazi rapier with a stab bonus of +94 and the Osmumten's Fang with a stab bonus of +105.
-Sources:
-- Balfrug Kreeyath (Level 151, Quantity: 1, Rarity: 3/16,129)
-- K'ril Tsutsaroth (Level 650, Quantity: 1, Rarity: 1/127)
-- Tstanon Karlak (Level 145, Quantity: 1, Rarity: 3/16,129)
-- Zakl'n Gritch (Level 142, Quantity: 1, Rarity: 3/16,129)

@@ -1,7 +1,0 @@
-[Page: Bronze arrow]
-
-Infobox:
-UnpoisonedPoisonPoison+Poison++Bronze arrowReleased4 January2001(Update)MembersNoQuest itemNoPropertiesTradeableYesEquipableYesStackableYesNoteableNoOptionsWield, DropExamineArrows with bronze heads.ValuesValue1 coinHigh alch0 coinsLow alch0 coinsWeight0 kgRespawn time100 ticks (60 seconds)Grand ExchangeExchange3coins (info)Buy limit7,000Daily volume2,874,101View real-time pricesLoading...Advanced dataItem ID882LinkMOID
-
-Description:
-Thebronze arrowis anarrowmade ofbronze. These arrows are the weakest type of arrows inOld School RuneScape. Anybowis capable of shooting bronze arrows. As with mostarrows, they can bepoisoned.

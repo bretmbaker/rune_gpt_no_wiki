@@ -1,4 +1,0 @@
-Item: Pet dagannoth rex
-Summary: 
-Sources:
-- Dagannoth Rex (Level 303, Quantity: 1, Rarity: 1/5,000)

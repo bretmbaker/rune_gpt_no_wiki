@@ -1,1 +1,0 @@
-Ateam-12 capeis awilderness capepurchased fromIanfor50coins. When other players have the same team cape equipped, they appear as blue dots on theminimapinstead of white and theleft-click"Attack" option is moved toright-click. If other players are wearing different team capes, the "Attack" option is alwaysleft-clickregardless of combat levels.

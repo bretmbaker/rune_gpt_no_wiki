@@ -1,2 +1,0 @@
-Item: Dusty Aliv
-Summary: Dusty Aliv is a non-player character located in the task-only area of the Smoke Dungeon. If players attempt to attack the dust devils while not on a slayer task for them, they will stop the player from attacking them.

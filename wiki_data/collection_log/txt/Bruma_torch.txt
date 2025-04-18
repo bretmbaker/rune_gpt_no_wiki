@@ -1,4 +1,0 @@
-Item: Bruma torch
-Summary: The bruma torch  is a possible reward from the Reward Cart upon subduing the Wintertodt. This item can be stored in the magic wardrobe of a costume room.
-Sources:
-- Reward Cart (Level N/A, Quantity: 1, Rarity: 1/150)

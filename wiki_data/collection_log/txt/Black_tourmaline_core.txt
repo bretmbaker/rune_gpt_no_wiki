@@ -1,4 +1,0 @@
-Item: Black tourmaline core
-Summary: The black tourmaline core is an item dropped by the Grotesque Guardians that can be found on the Slayer Tower's rooftop. It can be used to upgrade the Bandos boots to create guardian boots, after which the core is used up. This process is irreversible.
-Sources:
-- Grotesque Guardians (Level , Quantity: 1, Rarity: 2 × 1/1,000)

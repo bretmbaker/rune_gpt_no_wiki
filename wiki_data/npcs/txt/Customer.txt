@@ -1,2 +1,0 @@
-Item: Customer
-Summary: The customer is a woman currently visiting the dwarven capital city of Keldagrim in pursuit of knowledge. This has brought her to the city's library, where she hopes to learn about the dwarves' ways which she finds very interesting. She is the only human NPC in all of Keldagrim, and when spoken to is surprised to see another human.

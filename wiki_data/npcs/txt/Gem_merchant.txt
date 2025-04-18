@@ -1,2 +1,0 @@
-Item: Gem merchant
-Summary: The gem merchant runs the Ardougne Gem Stall. in East Ardougne. He sells sapphires, emeralds, rubies, and diamonds.

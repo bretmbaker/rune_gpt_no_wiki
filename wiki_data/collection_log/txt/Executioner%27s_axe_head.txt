@@ -1,4 +1,0 @@
-Item: Executioner's axe head
-Summary: The executioner's axe head is an item dropped by Vardorvis. It is one of four components used to create the soulreaper axe, alongside the eye of the duke, siren's staff, and Leviathan's lure.
-Sources:
-- Vardorvis (Level 572; 784; 1136, Quantity: 1, Rarity: 1/1,088)

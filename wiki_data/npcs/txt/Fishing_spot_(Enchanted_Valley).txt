@@ -1,2 +1,0 @@
-Item: Fishing spot (Enchanted Valley)
-Summary: Fishing spots can be found in the Enchanted Valley. Nothing can be fished from these spots, however attempting to fish in them using a fishing tool (small fishing net) will cause a River troll to spawn.

@@ -1,5 +1,0 @@
-Item: Voidwaker gem
-Summary: The Voidwaker gem is one of three pieces of the Voidwaker dropped by Venenatis and Spindel. The gem, alongside the Voidwaker hilt and Voidwaker blade, must be brought to Madam Sikaro in the Ferox Enclave Dungeon, who combines the three parts for a fee of 500,000 coins.
-Sources:
-- Spindel (Level 302, Quantity: 1, Rarity: 1/912)
-- Venenatis (Level 464, Quantity: 1, Rarity: 1/360)

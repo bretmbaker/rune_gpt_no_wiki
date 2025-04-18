@@ -1,1 +1,0 @@
-APrayer potionwas apotionfound in theLast Man Standingminigame. A dose of Prayer potion restoresPrayerpoints equal to 7 + 25% of the player's current Prayer level, rounded down. It provides less Prayer point restoration than asuper restorepotion by 1 point per dose. Unlike normalprayer potions, these lacked an "Empty" option.

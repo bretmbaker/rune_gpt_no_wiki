@@ -1,2 +1,0 @@
-Item: Oli
-Summary: Oli is a street urchin in Civitas illa Fortis, south-east of the western bank. He can tell the player which houses are currently unoccupied as part of the stealing valuables activity at the cost of 15 valuables. This cost is waived for those with Gladiator rank at the Fortis Colosseum.

@@ -1,4 +1,0 @@
-Item: Tanzanite fang
-Summary: The tanzanite fang is obtained from killing Zulrah. It can be used with a chisel to create the toxic blowpipe (empty), requiring level 78 Fletching and granting 120 Fletching experience.
-Sources:
-- Zulrah (Level 725, Quantity: 1, Rarity: 2 × 1/1,024)

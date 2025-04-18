@@ -1,2 +1,0 @@
-Item: Spirit Angler (Reward pool)
-Summary: The Spirit Angler is a fisherman found in the Ruins of Unkah, sitting next to the Tempoross reward pool. He explains the reward pool mechanics and provides a free small fishing net to players who don't currently have one in their inventory. When attempting to fish from the reward pool without a fishing net, he will direct the player to speak with him to get a free net.

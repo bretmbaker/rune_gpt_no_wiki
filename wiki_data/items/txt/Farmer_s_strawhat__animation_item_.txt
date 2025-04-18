@@ -1,1 +1,0 @@
-TheFarmer's strawhat (animation item)is an animation item that is temporarily equipped by the player when travelling through aFairy ringwhile wearing aFarmer's strawhat. It is impossible for the game to render textures as transparent; therefore, this non-textured strawhat is equipped during the animation. Aside from this, the item is unobtainable.

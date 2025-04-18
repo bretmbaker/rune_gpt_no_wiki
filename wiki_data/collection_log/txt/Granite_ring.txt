@@ -1,4 +1,0 @@
-Item: Granite ring
-Summary: The granite ring is a defensive ring dropped by the Grotesque Guardians that can be found on the Slayer Tower's rooftop. Level 50 Defence and Strength are required to wear it.
-Sources:
-- Grotesque Guardians (Level , Quantity: 1, Rarity: 2 × 1/500)

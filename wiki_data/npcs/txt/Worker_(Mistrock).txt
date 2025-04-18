@@ -1,2 +1,0 @@
-Item: Worker (Mistrock)
-Summary: Workers can be found around Mistrock mine. Talking to a worker will provide the player with a short and stern dialogue.

@@ -1,2 +1,0 @@
-Item: Ref
-Summary: Two Refs stand at the Shot Put activity in the Warriors' Guild. One Ref stands on the north wall of the room and the other stands along the south wall. They tell the player the basics of the activity, and can give a player the tokens they have earned from playing.

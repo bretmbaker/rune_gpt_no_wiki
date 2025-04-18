@@ -1,2 +1,0 @@
-Item: Skully
-Summary: Skully is a refugee found in the Ferox Enclave. He can be seen beside the Wilderness Loot Chest. Players may speak to him to activate the loot keys behaviour when defeating players in the Wilderness, for 1,000,000 coins. The effect can be toggled by using the "Settings" option on him.

@@ -1,2 +1,0 @@
-Item: Entling
-Summary: Entlings appear during the Friendly Ent Forestry event. They must be pruned based on the overhead chat directions they give the player, awarding Woodcutting and Fletching experience as well as anima-infused bark. Upon pruning an incorrect part of the ent, the player will be briefly stunned.

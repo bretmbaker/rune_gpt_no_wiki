@@ -7,40 +7,57 @@ Main entry point for running RuneGPT with session management and proper Tutorial
 import os
 import sys
 import argparse
+import logging
 from agent.rune_gpt import RuneGPT
+from agent.chat_mode import ChatMode
 import time
 
 def main():
-    """Main entry point for RuneGPT."""
-    parser = argparse.ArgumentParser(description="RuneGPT - OSRS AI Agent")
-    parser.add_argument("--session", type=str, help="Session ID for this agent instance")
-    parser.add_argument("--load", action="store_true", help="Load existing session state")
-    parser.add_argument("--conversation", action="store_true", help="Start in conversation mode")
+    # Set up logging
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    )
+    logger = logging.getLogger(__name__)
+
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(description='Run RuneGPT')
+    parser.add_argument('--session-id', type=str, help='Session ID to load')
+    parser.add_argument('--load-state', action='store_true', help='Load existing session state')
+    parser.add_argument('--chat', action='store_true', help='Start in chat mode')
+    parser.add_argument('--character', type=str, default='GielinorNomad', help='Character name for chat mode')
     args = parser.parse_args()
-    
-    # Ensure state directory exists
-    os.makedirs("state", exist_ok=True)
-    
-    if args.conversation:
-        # Start conversation CLI
-        from agent.conversation_cli import ConversationCLI
-        cli = ConversationCLI()
-        cli.run()
-    else:
-        # Start agent
-        agent = RuneGPT(session_id=args.session, load_memory=args.load)
+
+    if args.chat:
+        # Initialize chat mode
+        logger.info(f"Starting chat mode with character: {args.character}")
+        chat = ChatMode(args.character)
         
-        try:
-            # Start agent loop
-            while True:
-                # Process screen text (simulated for now)
-                screen_text = "You are in Tutorial Island. The Survival Expert is waiting to teach you."
-                agent.process_screen_text(screen_text)
-                time.sleep(1)  # Simulate game tick
+        print(f"\nWelcome to RuneGPT Chat Mode!")
+        print(f"You are chatting with {args.character}")
+        print("Type 'exit' to end the conversation\n")
+        
+        while True:
+            user_input = input("You: ")
+            if user_input.lower() == 'exit':
+                break
                 
-        except KeyboardInterrupt:
-            print("\nShutting down RuneGPT agent...")
-            agent.save_state()
+            response = chat.process_input(user_input)
+            print(f"\n{args.character}: {response.text}")
+            if response.emotion != "neutral":
+                print(f"[Emotion: {response.emotion}]")
+    else:
+        # Initialize RuneGPT agent
+        logger.info("Initializing RuneGPT agent")
+        agent = RuneGPT()
+        
+        if args.load_state and args.session_id:
+            logger.info(f"Loading session state: {args.session_id}")
+            agent.load_state(args.session_id)
+        
+        # Start the agent
+        logger.info("Starting RuneGPT agent")
+        agent.run()
 
 if __name__ == "__main__":
     main() 

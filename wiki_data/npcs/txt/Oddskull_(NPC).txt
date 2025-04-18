@@ -1,2 +1,0 @@
-Item: Oddskull (NPC)
-Summary: Oddskull appears in the oddskull game mode of Clan Wars. In the game mode, the teams earn points by one player picking up the skull and equipping the Oddskull. The team with a player wielding the skull gains 3 points every 2.4 seconds, but that player cannot attack others. When the player wielding the skull is killed, it drops back on the ground and another player may pick it up.

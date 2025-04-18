@@ -1,1 +1,0 @@
-Petal circletswere a stackable item used inWoodcutting. When in the inventory or stored in aForestry kit, there was a chance of anEnchantment RitualForestry eventappearing. The chance of this occurring scaled based on the number of players present; when a circlet is consumed, a game message in the chatbox statedA dryad appears, you offer it a Petal circlet.

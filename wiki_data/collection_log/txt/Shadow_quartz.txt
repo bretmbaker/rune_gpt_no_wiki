@@ -1,4 +1,0 @@
-Item: Shadow quartz
-Summary: The shadow quartz is a gem dropped by the Whisperer. It is used on an ancient sceptre to create the shadow ancient sceptre; this process can be reversed. It can also be used to open a chest in the Ancient Vault.
-Sources:
-- The Whisperer (Level 587; 791; 1146, Quantity: 1, Rarity: 1/209.3)

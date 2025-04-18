@@ -1,4 +1,0 @@
-Item: Arcane sigil
-Summary: The arcane sigil is an item obtained as a rare drop from the Corporeal Beast. It can be attached to a blessed spirit shield to create an arcane spirit shield, as well as an Elidinis' ward to create Elidinis' ward (f).
-Sources:
-- Corporeal Beast (Level 785, Quantity: 1, Rarity: 1/1,365)

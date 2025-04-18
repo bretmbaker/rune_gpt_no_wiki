@@ -1,4 +1,0 @@
-Item: Serpentine visage
-Summary: The serpentine visage is obtained from killing Zulrah. With level 52 Crafting, it can be used with a chisel to create the serpentine helm, granting 120 Crafting experience.
-Sources:
-- Zulrah (Level 725, Quantity: 1, Rarity: 2 × 1/1,024)

@@ -1,6 +1,0 @@
-[Page: Music Player]
-
-TheMusic Playertab displays whatmusictheme is playing at the moment. The music is unlocked as you play the game and explore new places and contents.
-Players can click on the "Rand" button at the top of the screen to shuffle between music the player has unlocked. Players can also click ongreentitles to choose which track to listen to. Titles inredhave not been unlocked, and thus cannot be played. There are a total of 795 music tracks.
-The "LOOP" option has been replaced with a "Rand" option, which plays a random music track that the player has unlocked. The LOOP option has been moved to the Audio settings.
-The Music Loop button now remembers its setting over logout.

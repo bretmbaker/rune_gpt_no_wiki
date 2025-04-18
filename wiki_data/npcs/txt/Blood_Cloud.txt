@@ -1,2 +1,0 @@
-Item: Blood Cloud
-Summary: Blood Clouds  are NPCs that spawn during the fight with Zebak, if players have enabled the "Not Just a Head" invocation. Though they damage themselves by 2 for every tile they move, they will damage players and heal themselves if adjacent to them; thus, players should keep their distance from the blood clouds until they damage themselves enough to dissipate.

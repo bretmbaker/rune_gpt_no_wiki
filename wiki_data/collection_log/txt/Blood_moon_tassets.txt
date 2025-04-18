@@ -1,4 +1,0 @@
-Item: Blood moon tassets
-Summary: The blood moon tassets are an item that requires level 75 Strength and 50 Defence to equip, which is obtained as a possible reward from the Lunar Chest in Neypotzli. With an identical strength bonus to the Bandos tassets and having +36 more magic defence bonus, it can be considered as a cheaper, easier to acquire alternative.
-Sources:
-- Lunar Chest (Level N/A, Quantity: 1, Rarity: 1/224)

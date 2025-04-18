@@ -1,1 +1,0 @@
-Abeacon ringis aringused in theWhat Lies BelowQuest. It is obtained fromZaffand is used to summon him during the quest. After the quest, the ring can no longer summon Zaff and theOperateoption becomes unuseable; attempting the option results in the messageZaff has removed the summon charges from the ring. It will not summon him again.

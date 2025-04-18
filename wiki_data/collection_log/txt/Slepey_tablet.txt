@@ -1,4 +1,0 @@
-Item: Slepey tablet
-Summary: The Slepey tablet is a reward from defeating Phosani's Nightmare. Players may use the tablet on Drakan's medallion to be given the ability to teleport to Slepe, which takes players to the entrance of the Sisterhood Sanctuary.
-Sources:
-- Phosani's Nightmare (Level 1024, Quantity: 1, Rarity: 1/100)

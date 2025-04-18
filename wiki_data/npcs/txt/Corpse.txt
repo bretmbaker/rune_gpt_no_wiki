@@ -1,2 +1,0 @@
-Item: Corpse
-Summary: Corpses can be found in the second and fourth floors of the Abandoned Mine. Some will animate into a Skeletal miner when you walk near them.

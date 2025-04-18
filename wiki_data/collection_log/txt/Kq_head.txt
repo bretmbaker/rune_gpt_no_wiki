@@ -1,4 +1,0 @@
-Item: Kq head
-Summary: The Kq head is a rare drop from the Kalphite Queen. It can be stuffed at the Taxidermist in Canifis by using the item on her and paying 50,000 coins, returning a stuffed kq head. When players take it to the her, she will tell players "That must be the biggest kalphite I've ever seen! Preserving insects is always tricky. I'll have to be careful..."
-Sources:
-- Kalphite Queen (Level 333, Quantity: 1, Rarity: 1/128)

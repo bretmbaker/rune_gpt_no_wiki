@@ -1,2 +1,0 @@
-Item: Dwarven Miner
-Summary: Dwarven Miners are dwarves that arrive in Keldagrim using the Keldagrim minecart system. They carry 20-40 of the ores stocked by Ordan on their back, which they bring to the Blast Furnace minigame every 44 ticks.

@@ -1,1 +1,0 @@
-Lobsteris a type offishthat restores 12Hitpointswhen eaten. It can be obtained by cookingraw lobsteron afireorcooking range, requiring level 40Cookingand granting 120experiencewhen successful. When cooking there is a chance to fail, resulting in aburnt lobster. Theburn ratedecreases as the player's Cooking level increases, and it will stop burning entirely at Cooking level 74.

@@ -1,2 +1,0 @@
-Item: Grave
-Summary: Graves are objects that appear upon a player's death containing items that were neither kept on death, sent to Death's Office, nor deleted. This mechanic is enabled after the first time visiting Death in Death's Office, which typically happens the first time a player dies. Graves appear either at the spot the player died or outside the instance; a grave will not appear if the content has an Item Retrieval Service (e.g Zulrah).

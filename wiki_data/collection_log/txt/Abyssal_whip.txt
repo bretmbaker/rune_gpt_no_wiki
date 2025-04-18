@@ -1,7 +1,0 @@
-Item: Abyssal whip
-Summary: The abyssal whip is a one-handed Melee weapon which requires an Attack level of 70 to wield. The whip is among the most powerful and popular non-degradable melee weapons and is capable of attacking at the same speed of daggers and scimitars at 2.4 seconds per hit. As it performs great against monsters that are weak to slash attacks and is relatively affordable, it is one of the most widely used melee weapons in the game and is a popular choice used to train the Slayer skill at higher combat levels before more powerful weapons become accessible.
-Sources:
-- Abyssal demon Wilderness Slayer Cave (Level 124, Quantity: 1, Rarity: 1/512)
-- Abyssal demon Standard (Level 124, Quantity: 1, Rarity: 1/512)
-- Greater abyssal demon (Level 342, Quantity: 1, Rarity: 1/512)
-- Unsired (Level N/A, Quantity: 1, Rarity: 12/128)

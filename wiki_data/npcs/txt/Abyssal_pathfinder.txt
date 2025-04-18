@@ -1,2 +1,0 @@
-Item: Abyssal pathfinder
-Summary: The abyssal pathfinder is a glowing orb that spawns when The Leviathan is under 20% health in both modes. The pathfinder has a 5x5 area in the normal encounter, and a 7x7 area in the awakened encounter. Players should stand within its range to prevent the Leviathan's attacks from causing chip damage. Standing in its area also provides the player's attacks with perfect accuracy and a minimum hit of 20% of their maximum.[1]

@@ -1,2 +1,0 @@
-Item: Mine supervisor
-Summary: Mine supervisors are non-interactive NPCs that manage the lovakite mine in Lovakengj. There are five mine supervisors in total.

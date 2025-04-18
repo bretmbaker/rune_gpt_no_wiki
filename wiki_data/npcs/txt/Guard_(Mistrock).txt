@@ -1,2 +1,0 @@
-Item: Guard (Mistrock)
-Summary: Guards can be found patrolling around Mistrock. Unlike many other guards, they cannot be pickpocketed or attacked.

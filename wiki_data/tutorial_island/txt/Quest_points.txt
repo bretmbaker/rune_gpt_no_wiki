@@ -1,8 +1,0 @@
-[Page: Quest points]
-
-Quest points, often abbreviated asQP, are part of the rewardplayersget after they completequests. They are considered a completion measure of quests inRuneScape.
-The amount of points awarded depends on the quest, ranging from 1 to 6 points. A special case isRecipe for Disaster, since it is split up into 10 sub-quests, each awarding a QP.
-A full list of quests, sortable by name, amount of QP, official length and membership requirement can be found on theQuests/List.
-PurelyFree-to-playplayers can get up to 44 quest points, the current maximum amount forMembersis 321. To earn the right to wear theQuest point cape, players must complete every quest.
-Miniquests do not award quest points. However, six miniquests are prerequisites to acquiring the Quest point cape as they must be completed before all QP may be earned. The six miniquests are:
-Some activities require a player to have at least a certain amount of quest points:

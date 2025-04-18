@@ -1,1 +1,0 @@
-Bandit's brewis a type ofalethat restores 1Hitpointandtemporarily boostsThievingandAttackby 1, whiledrainingStrengthandDefenceby⌊Level×6100⌋+3(see table below)

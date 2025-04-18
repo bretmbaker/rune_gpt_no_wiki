@@ -1,2 +1,0 @@
-Item: Pizazz Hat
-Summary: Pizazz Hat is a non-player character used to render the chathead of the progress hat from the Mage Training Arena in the chatbox. Although it cannot be seen directly in-game, it has the appearance of a headless Maze Guardian.

@@ -1,1 +1,0 @@
-AnEnergy potionrestores 10% of the player's runenergy.

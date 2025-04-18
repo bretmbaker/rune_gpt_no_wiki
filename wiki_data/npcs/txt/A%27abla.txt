@@ -1,2 +1,0 @@
-Item: A'abla
-Summary: A'abla is a nurse, alongside Sabreen, in the Emir's Arena hospital. She heals the player for 20% of their total Hitpoints plus 2, but does not cure poison.

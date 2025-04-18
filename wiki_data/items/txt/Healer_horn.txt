@@ -1,1 +1,0 @@
-Ahealer hornis used inBarbarian AssaultMinigame to call to the defender what bait to use. The options are:tofu,worms, andcrackers. It is received when starting a game, and will be given to the healers of the team.

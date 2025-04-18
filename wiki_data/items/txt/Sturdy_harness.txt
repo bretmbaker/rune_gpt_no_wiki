@@ -1,1 +1,0 @@
-Thesturdy harnessis an item used to combine thelog basketandForestry kitinto theForestry basket, combining the functionality of both items. This process can be reversed by right clicking the Forestry basket, heading into the configure options, and then choosing the dismantle option.

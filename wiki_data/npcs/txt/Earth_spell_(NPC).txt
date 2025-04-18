@@ -1,2 +1,0 @@
-Item: Earth spell (NPC)
-Summary: Earth spells are projectiles fired by Surok Magis during the fight against him during While Guthix Sleeps. When he shouts Witness true sorcery!, he will fire an elemental spell towards the player, after which they must cast an elemental spell of the opposing element - in this case air - to dispel the attack. Otherwise, the player will be hit for 45+ damage through Protect from Magic.

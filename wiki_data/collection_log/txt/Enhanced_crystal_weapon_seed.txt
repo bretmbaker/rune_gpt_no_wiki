@@ -1,5 +1,0 @@
-Item: Enhanced crystal weapon seed
-Summary: The enhanced crystal weapon seed is an enhanced version of the crystal weapon seed that can be obtained as a rare drop from the Gauntlet. It can be sung into either the Blade of Saeldor or Bow of Faerdhinen.
-Sources:
-- Reward Chest (The Gauntlet) (Level N/A, Quantity: 1, Rarity: 1/2,000)
-- Reward Chest (The Gauntlet) (Corrupted) (Level N/A, Quantity: 1, Rarity: 1/400)

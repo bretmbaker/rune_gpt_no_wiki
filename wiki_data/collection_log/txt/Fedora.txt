@@ -1,4 +1,0 @@
-Item: Fedora
-Summary: A fedora is a rare drop from the crazy archaeologist, it being the hat he wears. It is purely cosmetic and has no bonuses. The fedora can be stored in a costume room's armour case.
-Sources:
-- Crazy archaeologist (Level 204, Quantity: 1, Rarity: 1/128)

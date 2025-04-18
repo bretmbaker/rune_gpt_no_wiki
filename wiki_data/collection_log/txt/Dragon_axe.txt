@@ -1,8 +1,0 @@
-Item: Dragon axe
-Summary: The dragon axe is the second strongest and fastest axe in the game after its direct upgrade, the crystal axe, and is tied with the 3rd age axe. It is 10% more efficient at chopping logs than the rune axe.[1]
-Sources:
-- Dagannoth Prime (Level 303, Quantity: 1, Rarity: 1/128)
-- Dagannoth Rex (Level 303, Quantity: 1, Rarity: 1/128)
-- Dagannoth Supreme (Level 303, Quantity: 1, Rarity: 1/128)
-- Extra supply crate (Level N/A, Quantity: 1, Rarity: 1/10,000)
-- Reward Cart (Level N/A, Quantity: 1, Rarity: 1/10,000)

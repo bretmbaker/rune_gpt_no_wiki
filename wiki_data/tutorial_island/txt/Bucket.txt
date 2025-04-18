@@ -1,7 +1,0 @@
-[Page: Bucket]
-
-Infobox:
-BucketReleased4 January2001(Update)MembersNoQuest itemNoPropertiesTradeableYesEquipableNoStackableNoNoteableYesOptionsDropExamineIt's a wooden bucket.ValuesValue2 coinsHigh alch1 coinLow alch0 coinsWeight1 kgRespawn time100 ticks (60 seconds)Grand ExchangeExchange7coins (info)Buy limit13,000Daily volume7,846,778View real-time pricesLoading...Advanced dataItem ID1925LinkMOID
-
-Description:
-Abucketis one of the most common items available inRuneScape. They can be purchased cheaply from mostgeneral storesand can also be found in many locations throughout the game. Buckets are commonly used forskillssuch asCrafting,CookingandFarming.

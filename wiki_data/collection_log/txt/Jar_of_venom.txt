@@ -1,4 +1,0 @@
-Item: Jar of venom
-Summary: The jar of venom is a rare untradeable drop from Araxxor that can be used on a boss lair display in a player's Achievement Gallery to have a display of Araxxor.
-Sources:
-- Araxxor (Level 890, Quantity: 1, Rarity: 1/1,500)

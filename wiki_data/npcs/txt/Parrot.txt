@@ -1,2 +1,0 @@
-Item: Parrot
-Summary: Parrots can be found inside the Trouble Brewing minigame. One can be found in each of the two team's bases, and share their colour with their team (red or blue). Every once in a while, they order players to do whichever activity in the minigame they think needs doing the most. They can also be asked what activity needs to be done the most at any time by talking to them.

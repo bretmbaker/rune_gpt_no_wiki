@@ -1,2 +1,0 @@
-Item: Door Guard
-Summary: Door Guards are NPCs who guard the doors to the Fight Arena and prevent players from entering after completion of the Fight Arena quest.

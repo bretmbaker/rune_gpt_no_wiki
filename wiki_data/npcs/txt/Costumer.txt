@@ -1,2 +1,0 @@
-Item: Costumer
-Summary: The Costumer is an NPC the player encounters during the Death on the Isle. She assists the player with the murder investigation by answering a few questions.

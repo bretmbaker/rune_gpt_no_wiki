@@ -1,1 +1,0 @@
-Acogis an item used inDorgesh-Kaanagility course to repair the power station and complete the lap. If a player uses the crossbow grapple route of the course while carrying a cog, they will fall and the cog will break.

@@ -1,4 +1,0 @@
-Item: Archers ring
-Summary: The archers ring is one of the Fremennik rings and is dropped by the Dagannoth Supreme in the Waterbirth Island Dungeon. The Fremennik rings are some of the very few rings in RuneScape to give stat bonuses.
-Sources:
-- Dagannoth Supreme (Level 303, Quantity: 1, Rarity: 1/128)

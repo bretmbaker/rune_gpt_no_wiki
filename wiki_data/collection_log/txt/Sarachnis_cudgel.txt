@@ -1,4 +1,0 @@
-Item: Sarachnis cudgel
-Summary: Sarachnis cudgel is a one-handed crush weapon dropped by Sarachnis, requiring level 65 Attack to equip. The weapon appears to be made from several of Sarachnis' legs bound together by her webs.
-Sources:
-- Sarachnis (Level 318, Quantity: 1, Rarity: 1/384)

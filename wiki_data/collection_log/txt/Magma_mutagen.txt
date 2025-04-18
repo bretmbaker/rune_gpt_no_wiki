@@ -1,4 +1,0 @@
-Item: Magma mutagen
-Summary: A magma mutagen is an untradeable item dropped by Zulrah. It allows a player to cosmetically recolour their serpentine helm to a magma helm. The mutagen is consumed upon use.
-Sources:
-- Zulrah (Level 725, Quantity: 1, Rarity: 2 × 1/13,106)

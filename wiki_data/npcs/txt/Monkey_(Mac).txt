@@ -1,2 +1,0 @@
-Item: Monkey (Mac)
-Summary: Monkey is a level 1 unattackable NPC which will appear to teleport you back to the start of the trek to Mac's Island, should you fail to have the stats required to reach Mac's Island after getting past the first obstacle. Upon it appearing, your chat box will say Suddenly, a monkey appears from nowhere and knocks you unconscious. with your character saying What the... above their head.

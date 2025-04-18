@@ -1,2 +1,0 @@
-Item: Villager
-Summary: Villagers are generic inhabitants of Pollnivneach. During The Feud quest, they are used to teach the player different methods of thieving.

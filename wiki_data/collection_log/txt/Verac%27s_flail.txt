@@ -1,4 +1,0 @@
-Item: Verac's flail
-Summary: Verac's flail is a two-handed flail that is part of Verac the Defiled's set of barrows equipment. To wield Verac's flail, a player must have 70 Attack. The flail shares many similarities to a mace, notably its attack styles and stat distribution, though it attacks one tick slower.
-Sources:
-- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

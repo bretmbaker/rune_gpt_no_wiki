@@ -1,1 +1,0 @@
-Themarionette handleis an animation item that is temporarily equipped while using any of themarionetteactions. This item is never actually in the player's inventory and is only used for the animation.

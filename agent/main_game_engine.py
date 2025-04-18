@@ -63,9 +63,9 @@ class GameState:
     membership_days_remaining: Optional[int]
     last_bond_purchase: Optional[Dict]
     last_ge_transaction: Optional[Dict]
+    active_grinds: List[str]  # Track ongoing drop grinds
     last_membership_check: Optional[float] = None
     is_member: bool = False
-    active_grinds: List[str]  # Track ongoing drop grinds
 
 class MainGameEngine:
     """Manages full-game logic once tutorial is complete"""

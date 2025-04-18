@@ -1,7 +1,0 @@
-Item: Armadyl chestplate
-Summary: The Armadyl chestplate is an item that can be obtained from Kree'arra and his bodyguards in the God Wars Dungeon. Along with the Armadyl helmet and chainskirt, it is part of the Armadyl armour set, and requires 70 Defence and Ranged to wear.
-Sources:
-- Flight Kilisa (Level 159, Quantity: 1, Rarity: 1/16,129)
-- Flockleader Geerin (Level 149, Quantity: 1, Rarity: 1/16,129)
-- Kree'arra (Level 580, Quantity: 1, Rarity: 1/381)
-- Wingman Skree (Level 143, Quantity: 1, Rarity: 1/16,129)

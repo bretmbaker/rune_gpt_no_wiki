@@ -1,1 +1,0 @@
-Potatoesis asackcontaining between one and tenpotatoes. Using thefilloption will put up to ten potatoes in the sack and using a potato on it will only add that potato to the sack.Shift-clickingwill remove as many potatoes from as the sack into the inventory as possible.

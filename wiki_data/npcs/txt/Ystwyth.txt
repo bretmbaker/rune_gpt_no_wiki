@@ -1,2 +1,0 @@
-Item: Ystwyth
-Summary: Ystwyth is one of the many citizens of Prifddinas. She can be found roaming west of the northern bank, and informs players of how many laps of the Prifddinas Agility Course they have completed and the fastest time they've completed it, as well as the total amount of laps completed and fastest completion time by a player.

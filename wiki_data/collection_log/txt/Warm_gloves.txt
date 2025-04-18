@@ -1,4 +1,0 @@
-Item: Warm gloves
-Summary: Warm gloves are obtained as a reward from the Reward Cart by contributing in the subduing of the Wintertodt.
-Sources:
-- Reward Cart (Level N/A, Quantity: 1, Rarity: 1/150)

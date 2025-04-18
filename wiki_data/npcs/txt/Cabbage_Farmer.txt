@@ -1,2 +1,0 @@
-Item: Cabbage Farmer
-Summary: A Cabbage Farmer is an NPC who spawns when the cabbage patch in northern Aldarin is picked empty.

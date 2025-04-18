@@ -1,5 +1,0 @@
-Item: Fire cape
-Summary: The fire cape is a melee cape obtained as a reward for completing the TzHaar Fight Cave. It is the second best melee cape in the game, outclassed only by the infernal cape.
-In order to obtain the fire cape, players must survive all waves of TzHaar Fight Caves and defeat TzTok-Jad. Note that the cape will not be awarded should both the player and TzTok-Jad die simultaneously, even though the boss log will count the kill. The player must be taken out of the cave by the game recognising TzTok-Jad's death; if they are removed from the cave due to dying, the game considers the player to have failed the challenge.
-Sources:
-No sources found

@@ -1,2 +1,0 @@
-Item: Maz
-Summary: Maz is a squirrel found roaming around Fossil Island. If players use an acorn on her, she will follow them until they log out or leave the island. Using a dark acorn or calcified acorn on her will result in her saying *chitter*, but won't follow the player. She will take regular acorns from the player's inventory when used on her, but not the dark and calcified variants.

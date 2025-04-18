@@ -1,1 +1,0 @@
-Moon-liteis an alcoholic drink sold at various pubs throughoutVarlamore. When drunk, the ale heals 5Hitpoints,temporarily increasesthe player'sStrengthlevel by 5% + 1, and temporarily decreases the player'sAttacklevel by 5% + 1.

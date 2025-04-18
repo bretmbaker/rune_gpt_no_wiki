@@ -1,2 +1,0 @@
-Item: Mischievous ghost
-Summary: A Mischievous ghost appears during the Haunted Mine quest after the Zealot's key is used on the valve by the elevator. Players must use the elevator before the ghost reaches the valve, or they will have to turn the valve again. If the ghost turns the valve, a chatbox message saying "You hear the sound of a valve being turned." appears.

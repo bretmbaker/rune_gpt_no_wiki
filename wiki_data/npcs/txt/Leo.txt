@@ -1,2 +1,0 @@
-Item: Leo
-Summary: Leo is the gravedigger seen during the Gravedigger random event. He asks players to check the contents of 5 coffins and place them in their appropriate graves according to their headstones.

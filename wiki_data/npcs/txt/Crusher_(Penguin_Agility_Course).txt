@@ -1,2 +1,0 @@
-Item: Crusher (Penguin Agility Course)
-Summary: The crusher is the first Agility obstacle found within the Penguin Agility Course. An Agility level of 30 is required to pass the obstacle. Failure to pass will cause the player to receive damage and be pushed a tile over.

@@ -1,4 +1,0 @@
-Item: Nihil horn
-Summary: The nihil horn is an item dropped by Nex. It is used to upgrade an Armadyl crossbow to a Zaryte crossbow, alongside 250 nihil shards.
-Sources:
-- Nex (Level 1001, Quantity: 1, Rarity: 1/258)

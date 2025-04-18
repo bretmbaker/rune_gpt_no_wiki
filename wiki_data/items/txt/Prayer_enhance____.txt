@@ -1,1 +1,0 @@
-Aprayer enhance (+)is a potion that restores the player's prayer points over the course of 4 minutes and 50 seconds. At level 99Prayer, one prayer point is restored every 6game ticks.

@@ -1,2 +1,0 @@
-Item: Torrcs
-Summary: Torrcs is an adventurer on the 1st floor[UK]2nd floor[US] of the Varrock Museum. He'll talk with the player about questing, history, and the contents of display cases. The dialogue changes based on which quests the player has completed, as well as how many Kudos they have earned.

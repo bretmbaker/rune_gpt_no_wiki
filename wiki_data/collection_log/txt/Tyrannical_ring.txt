@@ -1,5 +1,0 @@
-Item: Tyrannical ring
-Summary: The tyrannical ring is a ring dropped by Callisto and Artio. Callisto can be found in Callisto's Den and Artio can be found in the Hunter's End.
-Sources:
-- Artio (Level 320, Quantity: 1, Rarity: 1/716)
-- Callisto (Level 470, Quantity: 1, Rarity: 1/512)

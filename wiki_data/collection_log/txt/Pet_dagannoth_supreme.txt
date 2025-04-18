@@ -1,4 +1,0 @@
-Item: Pet dagannoth supreme
-Summary: 
-Sources:
-- Dagannoth Supreme (Level 303, Quantity: 1, Rarity: 1/5,000)

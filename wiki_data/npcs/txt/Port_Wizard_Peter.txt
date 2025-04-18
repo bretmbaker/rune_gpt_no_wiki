@@ -1,2 +1,0 @@
-Item: Port Wizard Peter
-Summary: Port Wizard Peter is one of the port wizards who can retrieve boats for players. He or one of his fellow port wizards appear when a player requests a shipwright move their boat from another port or retrieve a capsized boat.

@@ -1,2 +1,0 @@
-Item: Fish shoal
-Summary: The fish shoal is a Hunter creature that players can capture during the Drift net fishing skilling method, requiring level 44 Hunter and 47 Fishing, and granting Hunter and Fishing experience.

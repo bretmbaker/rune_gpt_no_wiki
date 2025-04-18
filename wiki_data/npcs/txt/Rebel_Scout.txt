@@ -1,3 +1,0 @@
-Item: Rebel Scout
-Summary: Rebel scouts are characters that appear outside instanced combat areas during Song of the Elves.
-Should the player die in the battle encounters in either Lletya or the Underground Pass during the quest, players can retrieve their items from them for a fee of 80,000 coins.

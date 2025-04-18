@@ -1,4 +1,0 @@
-[Page: Tin ore]
-
-Tin orecan be mined at level 1Miningproviding 17.5 Mining experience. After miningtin rocks, it will take 2.4 seconds until it reappears. Tin ore is used withcopper oreto smeltbronze bars. Smelting a bronze bar gives 6.2Smithingexperience.
-Varrock armour mining benefits now apply when mining tin.

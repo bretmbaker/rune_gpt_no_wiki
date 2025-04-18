@@ -1,4 +1,0 @@
-Item: Jar of sand
-Summary: The jar of sand is a rare drop from the Kalphite Queen.
-Sources:
-- Kalphite Queen (Level 333, Quantity: 1, Rarity: 1/2,000)

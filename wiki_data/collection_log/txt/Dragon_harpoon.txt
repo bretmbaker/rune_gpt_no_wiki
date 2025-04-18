@@ -1,6 +1,0 @@
-Item: Dragon harpoon
-Summary: The dragon harpoon is a wieldable harpoon that requires 61 Fishing to use and 60 Attack to wield. The harpoon gives the player a 20% increased catch rate compared to the regular harpoon. Its combat stats are comparable to the dragon dagger, but it is 1 tick slower. It can be stored in a tackle box.
-Sources:
-- Reward pool (Level N/A, Quantity: 1, Rarity: 1/8,000)
-- Shadow Wyrm (Level 267, Quantity: 1, Rarity: 1/2,000)
-- Wyrm (Level 99, Quantity: 1, Rarity: 1/10,000; 1/2,000)

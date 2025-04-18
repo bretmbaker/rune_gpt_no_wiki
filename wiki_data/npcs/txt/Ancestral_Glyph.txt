@@ -1,2 +1,0 @@
-Item: Ancestral Glyph
-Summary: The Ancestral Glyph is an object found in the Inferno. For most of the waves, it is dormant on the northern wall, imprisoning TzKal-Zuk. On the final wave, he breaks free and the glyph starts floating on the lava between him and the arena the player is on, moving on the east-west axis from one end to the other repeatedly.

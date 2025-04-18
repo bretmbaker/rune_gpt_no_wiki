@@ -1,4 +1,0 @@
-Item: Ice quartz
-Summary: The ice quartz is a gem dropped by Duke Sucellus. It is used on an ancient sceptre to create the ice ancient sceptre; this process can be reversed. It can also be used to open a chest in the Ancient Vault.
-Sources:
-- Duke Sucellus (Level 538; 758; 1099, Quantity: 1, Rarity: 1/206.6)

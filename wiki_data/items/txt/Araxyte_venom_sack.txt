@@ -1,1 +1,0 @@
-Araxyte venom sacksare items dropped byaraxytesthat serve as both a consumable and as asecondary ingredientused to createextended anti-venom+potions. Each sack can upgrade one dose ofanti-venom+into a dose ofextended anti-venom+, with this process requiring level 94Herblore.

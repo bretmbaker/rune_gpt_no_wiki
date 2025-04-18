@@ -1,2 +1,0 @@
-Item: Bee keeper
-Summary: The bee keeper is involved in the Beekeeper random event. He teleports the player to the beehives, and asks them to help repair a beehive for him. He wears the Beekeeper's outfit, and may offer a piece of the outfit as a reward from the event.

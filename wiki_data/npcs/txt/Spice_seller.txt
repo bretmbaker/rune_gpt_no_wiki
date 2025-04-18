@@ -1,2 +1,0 @@
-Item: Spice seller
-Summary: The spice seller runs the spice stall in the south-west corner of the Ardougne Marketplace in East Ardougne. He guards his spice stall while continually circling it in the south-west corner of the market square, near the fur stall and the silk stall. If he sees a player trying to steal from his stall, he'll stop them. He cannot be talked to or traded with for six minutes after a player has stolen from the spice stall.

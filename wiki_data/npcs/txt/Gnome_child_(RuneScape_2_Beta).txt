@@ -1,2 +1,0 @@
-Item: Gnome child (RuneScape 2 Beta)
-Summary: The Gnome child was an unused non-player character present in the RuneScape 2 beta. In RuneScape Classic, there were four variants of gnome child, with the fourth being an unattackable NPC. This version was initially ported over to the RuneScape 2 beta, though it lacked any options and reused the appearance of regular gnomes. Ultimately, the NPC was deleted before the end of the beta.

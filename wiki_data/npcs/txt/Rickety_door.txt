@@ -1,2 +1,0 @@
-Item: Rickety door
-Summary: Rickety doors are barriers in the Catacomb of Famine, the second level of the Stronghold of Security. They will ask players questions about account security before allowing them to pass, unless the Grain of Plenty has been claimed. Passage through a door from a room filled with monsters is always immediate, however, allowing one to escape combat if needed.

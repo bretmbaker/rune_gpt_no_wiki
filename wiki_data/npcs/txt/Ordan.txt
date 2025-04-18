@@ -1,2 +1,0 @@
-Item: Ordan
-Summary: Ordan runs the Ore seller. and can be found downstairs in the Blast Furnace factory on the eastern side of Keldagrim. This shop stocks ore used for Smithing, and has static prices regardless of stock for all account types, including overstocked ores.

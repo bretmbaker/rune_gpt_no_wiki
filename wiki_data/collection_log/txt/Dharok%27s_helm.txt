@@ -1,4 +1,0 @@
-Item: Dharok's helm
-Summary: Dharok's helm is melee armour worn in the headwear slot that is part of Dharok the Wretched's set of barrows equipment. To wear Dharok's helm, a player must have 70 Defence.
-Sources:
-- Chest (Barrows) (Level N/A, Quantity: 1, Rarity: 7 × 1/2,448)

@@ -1,4 +1,0 @@
-Item: Granite gloves
-Summary: Granite gloves are a pair of melee-oriented gloves dropped by the Grotesque Guardians, requiring level 50 Defence and Strength to equip.
-Sources:
-- Grotesque Guardians (Level , Quantity: 1, Rarity: 2 × 1/500)

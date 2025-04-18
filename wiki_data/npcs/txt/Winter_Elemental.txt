@@ -1,2 +1,0 @@
-Item: Winter Elemental
-Summary: Winter elementals are found in the winter garden of the Sorceress's Garden. They guard the herb garden and winter sq'irk Sq'irk tree that the player attempts to steal from. If they spot the player or the player successfully steals from the garden, they teleport the player outside to the central garden.

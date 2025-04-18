@@ -1,2 +1,0 @@
-Item: Factory Manager
-Summary: The Factory Manager owns the large factory in eastern Keldagrim that houses the Blast Furnace.

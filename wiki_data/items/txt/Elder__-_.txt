@@ -1,1 +1,0 @@
-Anelder (-)is a combat potion that boosts the player'sAttack,Strength, andDefencelevels by 4 + 10% of their base level.

@@ -1,2 +1,0 @@
-Item: Butler
-Summary: The Butler is a servant that players with at least level 40 Construction can hire to do various services in their player-owned house. The butler has the second highest wage at 5,000 coins. Players must pay him the wage every eight uses of his services. The butler has inventory space for 20 items and a trip time of 12 seconds.
