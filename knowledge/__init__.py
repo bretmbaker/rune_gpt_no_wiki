@@ -1,3 +1,0 @@
-"""
-RuneGPT Knowledge Package
-""" 
