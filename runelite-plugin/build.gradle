@@ -1,0 +1,36 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.runegpt'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    maven {
+        url = 'https://repo.runelite.net'
+    }
+}
+
+dependencies {
+    compileOnly 'net.runelite:client:1.10.8'
+    implementation 'org.slf4j:slf4j-api:1.7.36'
+    implementation 'com.google.code.gson:gson:2.10.1'
+    implementation 'org.java-websocket:Java-WebSocket:1.5.3'
+}
+
+application {
+    mainClass = 'com.runegpt.RuneGPTPlugin'
+}
+
+jar {
+    manifest {
+        attributes(
+            'Main-Class': 'com.runegpt.RuneGPTPlugin'
+        )
+    }
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+} 

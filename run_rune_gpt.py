@@ -26,6 +26,7 @@ def main():
     parser.add_argument('--load-state', action='store_true', help='Load existing session state')
     parser.add_argument('--chat', action='store_true', help='Start in chat mode')
     parser.add_argument('--character', type=str, default='GielinorNomad', help='Character name for chat mode')
+    parser.add_argument('--mode', type=str, default='play', choices=['play', 'sandbox'], help="Agent mode: 'play' or 'sandbox'")
     args = parser.parse_args()
 
     if args.chat:
@@ -47,17 +48,22 @@ def main():
             if response.emotion != "neutral":
                 print(f"[Emotion: {response.emotion}]")
     else:
+        # Determine mode
+        mode = ChatMode.SANDBOX if args.mode == "sandbox" else ChatMode.PLAY
+
         # Initialize RuneGPT agent
-        logger.info("Initializing RuneGPT agent")
-        agent = RuneGPT()
-        
-        if args.load_state and args.session_id:
-            logger.info(f"Loading session state: {args.session_id}")
-            agent.load_state(args.session_id)
-        
+        logger.info(f"Initializing RuneGPT agent in {args.mode.upper()} mode")
+        agent = RuneGPT(
+            session_id=args.session_id,
+            load_existing=args.load_state,
+            chat=args.chat,
+            character=args.character,
+            mode=mode
+        )
+
         # Start the agent
         logger.info("Starting RuneGPT agent")
         agent.run()
 
 if __name__ == "__main__":
-    main() 
+    main()

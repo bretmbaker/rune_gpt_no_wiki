@@ -1,0 +1,8 @@
+{
+  "Talk to Survival Expert": {
+    "context": "Tutorial Island - survival_expert_intro",
+    "successes": 10,
+    "failures": 0,
+    "success_rate": 1.0
+  }
+}

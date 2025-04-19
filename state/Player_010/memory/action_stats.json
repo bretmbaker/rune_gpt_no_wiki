@@ -1,0 +1,192 @@
+{
+  "Use Tinderbox on Logs": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997477.6633747
+    }
+  ],
+  "Talk to Survival Expert": [
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997478.1692448
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997485.2600772
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997485.7665393
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997486.2771056
+    }
+  ],
+  "Chop Tree": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997478.675137
+    }
+  ],
+  "Light Fire": [
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997479.1811368
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997486.7862687
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997487.2918835
+    }
+  ],
+  "Open Inventory": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997479.686397
+    }
+  ],
+  "Move North": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997480.1915095
+    }
+  ],
+  "Move South": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997480.698211
+    }
+  ],
+  "Move East": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997481.203723
+    }
+  ],
+  "Move West": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997481.709529
+    }
+  ],
+  "Click on Tree": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997482.2159598
+    }
+  ],
+  "Click on Fishing Spot": [
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997482.7227232
+    }
+  ],
+  "Click on Gate": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997483.2303586
+    }
+  ],
+  "Click on Door": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997483.7389727
+    }
+  ],
+  "Click on NPC": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997484.24637
+    }
+  ],
+  "Click on Object": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997484.7527359
+    }
+  ]
+}

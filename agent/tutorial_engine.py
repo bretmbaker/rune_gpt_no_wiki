@@ -276,39 +276,55 @@ class TutorialProgressEngine:
         return tutorial_data
     
     def process_screen_text(self, text: str) -> Dict[str, Any]:
-        """Process screen text to determine tutorial state."""
-        # Load tutorial data
-        tutorial_data = self._load_tutorial_data()
-        
-        # Check for tutorial completion
-        if "Congratulations! You have completed the tutorial!" in text:
-            self.tutorial_complete = True
+        """Process screen text and determine next action"""
+        if not self.current_step:
             return {
-                "complete": True,
-                "message": "Tutorial completed!",
-                "next_location": "Lumbridge"
+                "action_required": False,
+                "action_type": None,
+                "next_objective": None
             }
-        
-        # Check current step
-        current_step = None
-        for step_name, step_data in tutorial_data.items():
-            if step_data["metadata"].get("npc") in text:
-                current_step = step_name
-                break
-        
-        if current_step:
+
+        # Get current objective
+        current_objective = self.get_current_objective()
+        if not current_objective:
             return {
-                "complete": False,
-                "current_step": current_step,
-                "objective": tutorial_data[current_step]["metadata"].get("objective", ""),
-                "npc": tutorial_data[current_step]["metadata"].get("npc", ""),
-                "location": tutorial_data[current_step]["metadata"].get("location", ""),
-                "type": tutorial_data[current_step]["type"]
+                "action_required": False,
+                "action_type": None,
+                "next_objective": None
             }
-        
+
+        # Check if current objective is mentioned in text
+        if current_objective.lower() in text.lower():
+            # Mark objective as complete and advance
+            self.current_objective_index += 1
+            
+            # Check if step is complete
+            if self.current_objective_index >= len(self.current_step.objectives):
+                self.completed_steps.add(self.current_step.name)
+                if self.current_step.next_step:
+                    self.set_current_step(self.current_step.next_step)
+                return {
+                    "action_required": True,
+                    "action_type": "complete_step",
+                    "next_objective": f"Complete {self.current_step.name}",
+                    "step_complete": True
+                }
+            
+            # Get next objective
+            next_objective = self.get_current_objective()
+            return {
+                "action_required": True,
+                "action_type": "continue_step",
+                "next_objective": next_objective,
+                "step_complete": False
+            }
+
+        # If objective not found, suggest current objective
         return {
-            "complete": False,
-            "message": "No tutorial step detected"
+            "action_required": True,
+            "action_type": "suggest_objective",
+            "next_objective": current_objective,
+            "step_complete": False
         }
     
     def advance_objective(self, action: str) -> bool:

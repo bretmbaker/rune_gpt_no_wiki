@@ -1,0 +1,86 @@
+{
+  "Chop Tree": [
+    {
+      "success": false,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997403.916187
+    }
+  ],
+  "Talk to Survival Expert": [
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997404.4193525
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997404.9231555
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997405.4290435
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997405.933531
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997406.437
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997406.942233
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997407.447415
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997407.9523284
+    },
+    {
+      "success": true,
+      "context": {
+        "step": "survival_expert_intro",
+        "screen_text": "You are in Tutorial Island - survival_expert_intro. What would you like to do?"
+      },
+      "timestamp": 1744997408.4567423
+    }
+  ]
+}

@@ -1,0 +1,1327 @@
+2025-04-19 02:08:08,121 - __main__ - INFO - Initializing RuneGPT agent in SANDBOX mode
+2025-04-19 02:10:38,551 - INFO - Initializing RuneGPT agent in SANDBOX mode
+2025-04-19 02:10:45,131 - INFO - Initializing RuneGPT agent in PLAY mode
+2025-04-19 02:16:46,500 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:16:46,501 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:16:46,511 - INFO - Attempting action: continue_step | Objective: Click on NPC
+2025-04-19 02:16:46,511 - ERROR - Error in sandbox loop: 'dict' object has no attribute 'type'
+2025-04-19 02:16:46,512 - INFO - Sandbox loop ended
+2025-04-19 02:17:01,833 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:17:01,834 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:17:01,846 - INFO - Attempting action: continue_step | Objective: Click on Fishing Spot
+2025-04-19 02:17:01,847 - ERROR - Error in sandbox loop: 'dict' object has no attribute 'type'
+2025-04-19 02:17:01,847 - INFO - Sandbox loop ended
+2025-04-19 02:17:34,685 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:17:34,686 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:17:34,694 - INFO - Starting sandbox loop
+2025-04-19 02:17:34,695 - INFO - Attempting action: continue_step | Objective: Move South
+2025-04-19 02:17:36,705 - INFO - Attempting action: continue_step | Objective: Open Inventory
+2025-04-19 02:17:38,717 - INFO - Attempting action: continue_step | Objective: Click on NPC
+2025-04-19 02:17:40,727 - INFO - Attempting action: continue_step | Objective: Move East
+2025-04-19 02:17:42,743 - INFO - Attempting action: continue_step | Objective: Chop Tree
+2025-04-19 02:17:44,753 - INFO - Attempting action: continue_step | Objective: Click on Fishing Spot
+2025-04-19 02:17:46,764 - INFO - Attempting action: continue_step | Objective: Click on Gate
+2025-04-19 02:17:48,780 - INFO - Attempting action: continue_step | Objective: Click on Door
+2025-04-19 02:17:50,792 - INFO - Attempting action: continue_step | Objective: Click on NPC
+2025-04-19 02:17:52,811 - INFO - Attempting action: continue_step | Objective: Move East
+2025-04-19 02:17:54,829 - INFO - Attempting action: continue_step | Objective: Use Tinderbox on Logs
+2025-04-19 02:17:56,848 - INFO - Attempting action: continue_step | Objective: Click on NPC
+2025-04-19 02:17:58,859 - INFO - Attempting action: continue_step | Objective: Move West
+2025-04-19 02:18:00,870 - INFO - Attempting action: continue_step | Objective: Click on NPC
+2025-04-19 02:18:02,884 - INFO - Attempting action: continue_step | Objective: Move South
+2025-04-19 02:18:04,901 - INFO - Attempting action: continue_step | Objective: Click on Gate
+2025-04-19 02:18:06,920 - INFO - Attempting action: continue_step | Objective: Move West
+2025-04-19 02:18:07,793 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:18:07,794 - INFO - Sandbox loop ended
+2025-04-19 02:22:44,989 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:22:44,990 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:22:45,000 - INFO - Starting sandbox loop with memory-based learning
+2025-04-19 02:22:45,000 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:23:23,512 - INFO - Initializing RuneGPT agent in PLAY mode
+2025-04-19 02:23:32,896 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:23:32,896 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:24:34,728 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:24:34,729 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:24:34,739 - INFO - Created new action memory file for Player_005
+2025-04-19 02:24:34,739 - INFO - Starting sandbox loop with memory-based learning for Player_005
+2025-04-19 02:24:34,740 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:24:34,740 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:24:34,740 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:24:36,741 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:24:36,741 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:24:38,742 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:24:38,742 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:24:40,743 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:24:40,743 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:24:42,744 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:24:42,744 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:24:44,745 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:24:44,745 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:24:46,746 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:24:46,746 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:24:48,747 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:24:48,747 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:24:50,748 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:24:50,748 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:24:51,328 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:24:51,329 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:24:51,329 - INFO - Final action statistics:
+2025-04-19 02:25:29,317 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:25:29,318 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:25:29,327 - INFO - Created new action memory file for Player_006
+2025-04-19 02:25:29,327 - INFO - Starting sandbox loop with memory-based learning for Player_006
+2025-04-19 02:25:29,327 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:25:29,328 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:25:29,328 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:25:31,328 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:25:31,329 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:25:33,329 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:25:33,330 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:25:35,331 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:25:35,331 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:25:37,332 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:25:37,332 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:25:39,333 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:25:39,333 - INFO - Chosen action: Click on Tree (confidence: 0.00)
+2025-04-19 02:25:41,334 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:25:41,334 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:25:41,745 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:25:41,745 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:25:41,745 - INFO - Final action statistics:
+2025-04-19 02:26:11,780 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:26:11,781 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:26:11,791 - INFO - Created new action memory file for Player_007
+2025-04-19 02:26:11,791 - INFO - Starting sandbox loop with memory-based learning for Player_007
+2025-04-19 02:26:11,791 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:26:11,792 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:26:11,792 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:26:11,798 - INFO - Action stats: {'context': 'Tutorial Island - survival_expert_intro', 'successes': 1, 'failures': 0, 'success_rate': 1.0}
+2025-04-19 02:26:11,798 - INFO - Tutorial progress increased: 1
+2025-04-19 02:26:13,809 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:26:13,809 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.20)
+2025-04-19 02:26:13,814 - INFO - Action stats: {'context': 'Tutorial Island - survival_expert_intro', 'successes': 2, 'failures': 0, 'success_rate': 1.0}
+2025-04-19 02:26:13,814 - INFO - Tutorial progress increased: 2
+2025-04-19 02:26:15,824 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:26:15,825 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.20)
+2025-04-19 02:26:15,831 - INFO - Action stats: {'context': 'Tutorial Island - survival_expert_intro', 'successes': 3, 'failures': 0, 'success_rate': 1.0}
+2025-04-19 02:26:15,832 - INFO - Tutorial progress increased: 3
+2025-04-19 02:26:17,845 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:26:17,846 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.20)
+2025-04-19 02:26:17,852 - INFO - Action stats: {'context': 'Tutorial Island - survival_expert_intro', 'successes': 4, 'failures': 0, 'success_rate': 1.0}
+2025-04-19 02:26:17,852 - INFO - Tutorial progress increased: 4
+2025-04-19 02:26:19,862 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:26:19,863 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.20)
+2025-04-19 02:26:19,868 - INFO - Action stats: {'context': 'Tutorial Island - survival_expert_intro', 'successes': 5, 'failures': 0, 'success_rate': 1.0}
+2025-04-19 02:26:19,868 - INFO - Tutorial progress increased: 5
+2025-04-19 02:26:21,879 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:26:21,879 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.20)
+2025-04-19 02:26:21,884 - INFO - Action stats: {'context': 'Tutorial Island - survival_expert_intro', 'successes': 6, 'failures': 0, 'success_rate': 1.0}
+2025-04-19 02:26:21,885 - INFO - Tutorial progress increased: 6
+2025-04-19 02:26:23,899 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:26:23,899 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.20)
+2025-04-19 02:26:23,904 - INFO - Action stats: {'context': 'Tutorial Island - survival_expert_intro', 'successes': 7, 'failures': 0, 'success_rate': 1.0}
+2025-04-19 02:26:23,905 - INFO - Tutorial progress increased: 7
+2025-04-19 02:26:25,919 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:26:25,919 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.20)
+2025-04-19 02:26:25,924 - INFO - Action stats: {'context': 'Tutorial Island - survival_expert_intro', 'successes': 8, 'failures': 0, 'success_rate': 1.0}
+2025-04-19 02:26:25,924 - INFO - Tutorial progress increased: 8
+2025-04-19 02:26:27,938 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:26:27,938 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.20)
+2025-04-19 02:26:27,943 - INFO - Action stats: {'context': 'Tutorial Island - survival_expert_intro', 'successes': 9, 'failures': 0, 'success_rate': 1.0}
+2025-04-19 02:26:27,943 - INFO - Tutorial progress increased: 9
+2025-04-19 02:26:29,957 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:26:29,958 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.20)
+2025-04-19 02:26:29,964 - INFO - Action stats: {'context': 'Tutorial Island - survival_expert_intro', 'successes': 10, 'failures': 0, 'success_rate': 1.0}
+2025-04-19 02:26:29,964 - INFO - Tutorial progress increased: 10
+2025-04-19 02:26:30,655 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:26:30,656 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:26:30,656 - INFO - Final action statistics:
+2025-04-19 02:26:30,656 - INFO -   Talk to Survival Expert: 100.0% success rate (10/10 attempts)
+2025-04-19 02:28:47,740 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:28:47,741 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:28:47,751 - INFO - Created new action memory file for Player_008
+2025-04-19 02:28:47,751 - INFO - Starting sandbox loop with memory-based learning for Player_008
+2025-04-19 02:28:47,751 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:28:47,751 - ERROR - Error in sandbox loop: ActionMemory.get_best_action() takes 3 positional arguments but 4 were given
+2025-04-19 02:28:47,752 - ERROR - ActionMemory.get_best_action() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "C:\Users\Bret\Desktop\Rune_GPT\rune_gpt_project_no_wiki\sandbox_loop.py", line 73, in main
+    chosen_action, confidence = action_memory.get_best_action(
+                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        TUTORIAL_ACTIONS,
+        ^^^^^^^^^^^^^^^^^
+        screen_text,
+        ^^^^^^^^^^^^
+        current_step
+        ^^^^^^^^^^^^
+    )
+    ^
+TypeError: ActionMemory.get_best_action() takes 3 positional arguments but 4 were given
+2025-04-19 02:28:47,753 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:28:47,753 - INFO - Final action statistics:
+2025-04-19 02:30:03,906 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:30:03,908 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:30:03,915 - INFO - Created new action memory file for Player_009
+2025-04-19 02:30:03,915 - INFO - Starting sandbox loop with memory-based learning for Player_009
+2025-04-19 02:30:03,915 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:30:03,915 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:30:03,916 - INFO - Chosen action: Chop Tree (confidence: 0.10)
+2025-04-19 02:30:04,418 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:30:04,419 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.00)
+2025-04-19 02:30:04,922 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:30:04,922 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.00)
+2025-04-19 02:30:05,428 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:30:05,428 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.00)
+2025-04-19 02:30:05,932 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:30:05,933 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.00)
+2025-04-19 02:30:06,436 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:30:06,436 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.00)
+2025-04-19 02:30:06,941 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:30:06,941 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.00)
+2025-04-19 02:30:07,446 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:30:07,446 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.00)
+2025-04-19 02:30:07,951 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:30:07,951 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.00)
+2025-04-19 02:30:08,455 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:30:08,456 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.00)
+2025-04-19 02:30:08,829 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:30:08,829 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:30:08,830 - INFO - Final action statistics:
+2025-04-19 02:30:08,830 - INFO - Chop Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997403.916187}]
+2025-04-19 02:30:08,830 - INFO - Talk to Survival Expert: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997404.4193525}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997404.9231555}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997405.4290435}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997405.933531}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997406.437}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997406.942233}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997407.447415}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997407.9523284}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997408.4567423}]
+2025-04-19 02:31:17,652 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:31:17,653 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:31:17,662 - INFO - Created new action memory file for Player_010
+2025-04-19 02:31:17,662 - INFO - Starting sandbox loop with memory-based learning for Player_010
+2025-04-19 02:31:17,663 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:31:17,663 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:17,663 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 0.10)
+2025-04-19 02:31:18,168 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:18,168 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.00)
+2025-04-19 02:31:18,674 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:18,674 - INFO - Chosen action: Chop Tree (confidence: 1.00)
+2025-04-19 02:31:19,180 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:19,180 - INFO - Chosen action: Light Fire (confidence: 1.00)
+2025-04-19 02:31:19,685 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:19,686 - INFO - Chosen action: Open Inventory (confidence: 1.00)
+2025-04-19 02:31:20,190 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:20,191 - INFO - Chosen action: Move North (confidence: 1.00)
+2025-04-19 02:31:20,697 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:20,698 - INFO - Chosen action: Move South (confidence: 1.00)
+2025-04-19 02:31:21,202 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:21,203 - INFO - Chosen action: Move East (confidence: 1.00)
+2025-04-19 02:31:21,708 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:21,709 - INFO - Chosen action: Move West (confidence: 1.00)
+2025-04-19 02:31:22,214 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:22,215 - INFO - Chosen action: Click on Tree (confidence: 1.00)
+2025-04-19 02:31:22,721 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:22,722 - INFO - Chosen action: Click on Fishing Spot (confidence: 1.00)
+2025-04-19 02:31:23,229 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:23,230 - INFO - Chosen action: Click on Gate (confidence: 1.00)
+2025-04-19 02:31:23,737 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:23,738 - INFO - Chosen action: Click on Door (confidence: 1.00)
+2025-04-19 02:31:24,245 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:24,245 - INFO - Chosen action: Click on NPC (confidence: 1.00)
+2025-04-19 02:31:24,751 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:24,752 - INFO - Chosen action: Click on Object (confidence: 1.00)
+2025-04-19 02:31:25,259 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:25,259 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:31:25,765 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:25,766 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:31:26,276 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:26,276 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:31:26,785 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:26,786 - INFO - Chosen action: Light Fire (confidence: 0.00)
+2025-04-19 02:31:27,291 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:27,291 - INFO - Chosen action: Light Fire (confidence: 0.00)
+2025-04-19 02:31:27,478 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:31:27,478 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:31:27,478 - INFO - Final action statistics:
+2025-04-19 02:31:27,479 - INFO - Use Tinderbox on Logs: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997477.6633747}]
+2025-04-19 02:31:27,479 - INFO - Talk to Survival Expert: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997478.1692448}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997485.2600772}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997485.7665393}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997486.2771056}]
+2025-04-19 02:31:27,479 - INFO - Chop Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997478.675137}]
+2025-04-19 02:31:27,479 - INFO - Light Fire: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997479.1811368}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997486.7862687}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997487.2918835}]
+2025-04-19 02:31:27,479 - INFO - Open Inventory: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997479.686397}]
+2025-04-19 02:31:27,479 - INFO - Move North: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997480.1915095}]
+2025-04-19 02:31:27,480 - INFO - Move South: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997480.698211}]
+2025-04-19 02:31:27,480 - INFO - Move East: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997481.203723}]
+2025-04-19 02:31:27,480 - INFO - Move West: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997481.709529}]
+2025-04-19 02:31:27,480 - INFO - Click on Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997482.2159598}]
+2025-04-19 02:31:27,480 - INFO - Click on Fishing Spot: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997482.7227232}]
+2025-04-19 02:31:27,480 - INFO - Click on Gate: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997483.2303586}]
+2025-04-19 02:31:27,480 - INFO - Click on Door: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997483.7389727}]
+2025-04-19 02:31:27,480 - INFO - Click on NPC: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997484.24637}]
+2025-04-19 02:31:27,481 - INFO - Click on Object: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997484.7527359}]
+2025-04-19 02:31:47,506 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:31:47,507 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:31:47,516 - INFO - Created new action memory file for Player_011
+2025-04-19 02:31:47,516 - INFO - Starting sandbox loop with memory-based learning for Player_011
+2025-04-19 02:31:47,516 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:31:47,517 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:47,517 - INFO - Chosen action: Click on Door (confidence: 0.10)
+2025-04-19 02:31:47,519 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:48,020 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:48,020 - INFO - Chosen action: Talk to Survival Expert (confidence: 1.00)
+2025-04-19 02:31:48,023 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:48,524 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:48,524 - INFO - Chosen action: Chop Tree (confidence: 1.00)
+2025-04-19 02:31:48,528 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:49,028 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:49,029 - INFO - Chosen action: Light Fire (confidence: 1.00)
+2025-04-19 02:31:49,032 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:49,532 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:49,533 - INFO - Chosen action: Open Inventory (confidence: 1.00)
+2025-04-19 02:31:49,536 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:50,037 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:50,037 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 1.00)
+2025-04-19 02:31:50,040 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:50,541 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:50,541 - INFO - Chosen action: Move North (confidence: 1.00)
+2025-04-19 02:31:50,544 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:51,045 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:51,046 - INFO - Chosen action: Move South (confidence: 1.00)
+2025-04-19 02:31:51,050 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:51,551 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:51,552 - INFO - Chosen action: Move East (confidence: 1.00)
+2025-04-19 02:31:51,555 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:52,056 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:52,056 - INFO - Chosen action: Move West (confidence: 1.00)
+2025-04-19 02:31:52,061 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:52,562 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:52,563 - INFO - Chosen action: Click on Tree (confidence: 1.00)
+2025-04-19 02:31:52,566 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:53,067 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:53,068 - INFO - Chosen action: Click on Fishing Spot (confidence: 1.00)
+2025-04-19 02:31:53,073 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:53,573 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:53,577 - INFO - Chosen action: Click on Gate (confidence: 1.00)
+2025-04-19 02:31:53,580 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:54,081 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:54,082 - INFO - Chosen action: Click on NPC (confidence: 1.00)
+2025-04-19 02:31:54,087 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:54,588 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:54,588 - INFO - Chosen action: Click on Object (confidence: 1.00)
+2025-04-19 02:31:54,593 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:31:55,094 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:55,095 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:31:55,099 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:55,600 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:55,601 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:31:55,604 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:56,105 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:56,106 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:31:56,110 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:56,610 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:56,611 - INFO - Chosen action: Light Fire (confidence: 0.00)
+2025-04-19 02:31:56,614 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:57,115 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:57,116 - INFO - Chosen action: Light Fire (confidence: 0.00)
+2025-04-19 02:31:57,120 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:57,621 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:57,622 - INFO - Chosen action: Light Fire (confidence: 0.00)
+2025-04-19 02:31:57,627 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:58,128 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:58,128 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.00)
+2025-04-19 02:31:58,134 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:58,635 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:58,635 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.00)
+2025-04-19 02:31:58,641 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:59,142 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:59,142 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.00)
+2025-04-19 02:31:59,149 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:31:59,650 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:31:59,650 - INFO - Chosen action: Chop Tree (confidence: 0.00)
+2025-04-19 02:31:59,656 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:00,157 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:00,157 - INFO - Chosen action: Open Inventory (confidence: 0.00)
+2025-04-19 02:32:00,163 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:00,664 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:00,664 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 0.00)
+2025-04-19 02:32:00,671 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:01,172 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:01,172 - INFO - Chosen action: Move North (confidence: 0.00)
+2025-04-19 02:32:01,179 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:01,680 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:01,681 - INFO - Chosen action: Move South (confidence: 0.00)
+2025-04-19 02:32:01,685 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:02,185 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:02,186 - INFO - Chosen action: Move East (confidence: 0.00)
+2025-04-19 02:32:02,192 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:02,693 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:02,694 - INFO - Chosen action: Move West (confidence: 0.00)
+2025-04-19 02:32:02,698 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:03,198 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:03,199 - INFO - Chosen action: Click on Tree (confidence: 0.00)
+2025-04-19 02:32:03,204 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:03,704 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:03,705 - INFO - Chosen action: Click on Gate (confidence: 0.00)
+2025-04-19 02:32:03,709 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:04,210 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:04,210 - INFO - Chosen action: Click on Door (confidence: 0.00)
+2025-04-19 02:32:04,215 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:04,716 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:04,717 - INFO - Chosen action: Click on NPC (confidence: 0.00)
+2025-04-19 02:32:04,721 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:05,222 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:05,223 - INFO - Chosen action: Click on Object (confidence: 0.00)
+2025-04-19 02:32:05,226 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:05,727 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:05,728 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:05,736 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:06,236 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:06,237 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:06,243 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:06,744 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:06,744 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:06,750 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:07,251 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:07,251 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:07,256 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:07,756 - INFO - Forcing different action: Click on NPC
+2025-04-19 02:32:07,757 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:07,758 - INFO - Chosen action: Click on NPC (confidence: 0.50)
+2025-04-19 02:32:07,762 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:08,262 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:08,263 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:08,270 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:08,771 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:08,771 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:08,776 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:09,277 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:09,278 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:09,283 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:09,784 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:09,784 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:09,789 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:10,289 - INFO - Forcing different action: Click on Object
+2025-04-19 02:32:10,290 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:10,290 - INFO - Chosen action: Click on Object (confidence: 0.50)
+2025-04-19 02:32:10,295 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:10,796 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:10,796 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:10,802 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:11,303 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:11,303 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:11,310 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:11,811 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:11,812 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:11,818 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:12,318 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:12,319 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:12,324 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:12,825 - INFO - Forcing different action: Move East
+2025-04-19 02:32:12,825 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:12,825 - INFO - Chosen action: Move East (confidence: 0.50)
+2025-04-19 02:32:12,830 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:32:13,331 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:13,331 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:13,335 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:13,836 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:32:13,837 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:32:13,844 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:32:13,945 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:32:13,945 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:32:13,945 - INFO - Final action statistics:
+2025-04-19 02:32:13,946 - INFO - Click on Door: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997507.5175998}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997524.2109582}]
+2025-04-19 02:32:13,946 - INFO - Talk to Survival Expert: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997528.2638454}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997528.7721004}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997529.278563}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997529.7851555}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997530.7967515}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997531.3040245}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997531.8126628}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997532.3197145}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997533.331745}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997533.83735}]
+2025-04-19 02:32:13,946 - INFO - Chop Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997508.5247552}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997519.6508849}]
+2025-04-19 02:32:13,946 - INFO - Light Fire: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997509.0292988}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997516.6115754}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997517.1167543}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997517.6226778}]
+2025-04-19 02:32:13,946 - INFO - Open Inventory: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997509.5333583}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997520.1580505}]
+2025-04-19 02:32:13,947 - INFO - Use Tinderbox on Logs: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997510.0382228}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997520.6653843}]
+2025-04-19 02:32:13,947 - INFO - Move North: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997510.5421827}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997521.1732}]
+2025-04-19 02:32:13,947 - INFO - Move South: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997511.0468092}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997521.6813905}]
+2025-04-19 02:32:13,948 - INFO - Move East: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997511.5527408}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997522.186853}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997532.8262339}]
+2025-04-19 02:32:13,948 - INFO - Move West: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997512.0568094}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997522.6947355}]
+2025-04-19 02:32:13,948 - INFO - Click on Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997512.5637162}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997523.1997113}]
+2025-04-19 02:32:13,948 - INFO - Click on Fishing Spot: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997513.0688236}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997518.1290953}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997518.636166}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997519.1429474}]
+2025-04-19 02:32:13,949 - INFO - Click on Gate: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997513.5775785}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997523.705691}]
+2025-04-19 02:32:13,949 - INFO - Click on NPC: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997514.0824013}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997524.717371}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997527.7583106}]
+2025-04-19 02:32:13,949 - INFO - Click on Object: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997514.588778}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997525.2232265}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997530.2905018}]
+2025-04-19 02:33:18,716 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:33:18,717 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:33:18,728 - INFO - Created new action memory file for Player_012
+2025-04-19 02:33:18,728 - INFO - Starting sandbox loop with memory-based learning for Player_012
+2025-04-19 02:33:18,728 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:33:18,729 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:18,729 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:33:18,731 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:19,232 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:19,232 - INFO - Chosen action: Chop Tree (confidence: 0.50)
+2025-04-19 02:33:19,235 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:19,736 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:19,736 - INFO - Chosen action: Light Fire (confidence: 0.50)
+2025-04-19 02:33:19,739 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:20,240 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:20,240 - INFO - Chosen action: Open Inventory (confidence: 0.50)
+2025-04-19 02:33:20,243 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:20,744 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:20,744 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 0.50)
+2025-04-19 02:33:20,747 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:21,248 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:21,248 - INFO - Chosen action: Move North (confidence: 0.50)
+2025-04-19 02:33:21,251 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:21,751 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:21,752 - INFO - Chosen action: Move South (confidence: 0.50)
+2025-04-19 02:33:21,755 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:22,256 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:22,257 - INFO - Chosen action: Move East (confidence: 0.50)
+2025-04-19 02:33:22,262 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:22,763 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:22,763 - INFO - Chosen action: Move West (confidence: 0.50)
+2025-04-19 02:33:22,767 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:23,268 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:23,269 - INFO - Chosen action: Click on Tree (confidence: 0.50)
+2025-04-19 02:33:23,272 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:23,772 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:23,773 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.50)
+2025-04-19 02:33:23,777 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:24,278 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:24,278 - INFO - Chosen action: Click on Gate (confidence: 0.50)
+2025-04-19 02:33:24,282 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:24,782 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:24,783 - INFO - Chosen action: Click on Door (confidence: 0.50)
+2025-04-19 02:33:24,786 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:25,287 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:25,287 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 0.30)
+2025-04-19 02:33:25,291 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:25,791 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:25,792 - INFO - Chosen action: Click on NPC (confidence: 0.50)
+2025-04-19 02:33:25,797 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:26,298 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:26,298 - INFO - Chosen action: Click on Object (confidence: 0.50)
+2025-04-19 02:33:26,302 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:26,803 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:26,804 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:26,807 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:27,308 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:27,308 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:27,311 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:27,812 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:27,813 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:27,816 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:28,317 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:28,317 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:28,320 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:28,821 - INFO - Forcing different action: Chop Tree
+2025-04-19 02:33:28,821 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:28,821 - INFO - Chosen action: Chop Tree (confidence: 0.50)
+2025-04-19 02:33:28,825 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:29,326 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:29,326 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:29,330 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:29,831 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:29,832 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:29,838 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:30,338 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:30,339 - INFO - Chosen action: Click on NPC (confidence: 0.30)
+2025-04-19 02:33:30,343 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:30,844 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:30,845 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:30,849 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:31,350 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:31,351 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:31,354 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:31,855 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:31,856 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:31,861 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:32,362 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:32,362 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:32,366 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:32,867 - INFO - Forcing different action: Move North
+2025-04-19 02:33:32,868 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:32,868 - INFO - Chosen action: Move North (confidence: 0.50)
+2025-04-19 02:33:32,872 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:33,373 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:33,373 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:33,377 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:33,878 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:33,878 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:33,882 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:34,382 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:34,383 - INFO - Chosen action: Click on NPC (confidence: 0.30)
+2025-04-19 02:33:34,388 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:34,888 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:34,889 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:34,895 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:35,396 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:35,396 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:35,402 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:35,903 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:35,904 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:35,907 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:36,408 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:36,408 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:36,415 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:36,916 - INFO - Forcing different action: Click on Tree
+2025-04-19 02:33:36,916 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:36,916 - INFO - Chosen action: Click on Tree (confidence: 0.50)
+2025-04-19 02:33:36,920 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:33:37,421 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:33:37,421 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.00)
+2025-04-19 02:33:37,426 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:33:37,765 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:33:37,766 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:33:37,766 - INFO - Final action statistics:
+2025-04-19 02:33:37,766 - INFO - Talk to Survival Expert: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997611.3513424}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997611.85637}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997612.3629143}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997613.3740084}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997613.8789961}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997614.8899255}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997615.3970401}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997615.9043653}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997616.4090679}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997617.4221313}]
+2025-04-19 02:33:37,767 - INFO - Chop Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997599.2328897}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997608.8222394}]
+2025-04-19 02:33:37,767 - INFO - Light Fire: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997599.7371707}]
+2025-04-19 02:33:37,767 - INFO - Open Inventory: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997600.2409}]
+2025-04-19 02:33:37,767 - INFO - Use Tinderbox on Logs: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997600.7448428}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997605.2879624}]
+2025-04-19 02:33:37,768 - INFO - Move North: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997601.2488527}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997612.8690956}]
+2025-04-19 02:33:37,768 - INFO - Move South: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997601.7528574}]
+2025-04-19 02:33:37,768 - INFO - Move East: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997602.257754}]
+2025-04-19 02:33:37,768 - INFO - Move West: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997602.7642074}]
+2025-04-19 02:33:37,768 - INFO - Click on Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997603.2692957}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997616.9169168}]
+2025-04-19 02:33:37,768 - INFO - Click on Fishing Spot: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997603.773647}]
+2025-04-19 02:33:37,768 - INFO - Click on Gate: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997604.2786927}]
+2025-04-19 02:33:37,768 - INFO - Click on Door: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997604.7832975}]
+2025-04-19 02:33:37,768 - INFO - Click on NPC: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997605.7928584}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997610.3394186}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997614.3837519}]
+2025-04-19 02:33:37,769 - INFO - Click on Object: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997606.2987466}]
+2025-04-19 02:34:26,298 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:34:26,299 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:34:26,308 - INFO - Created new action memory file for Player_013
+2025-04-19 02:34:26,308 - INFO - Starting sandbox loop with memory-based learning for Player_013
+2025-04-19 02:34:26,308 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:34:26,309 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:26,309 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:26,311 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:26,811 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:26,812 - INFO - Chosen action: Chop Tree (confidence: 0.90)
+2025-04-19 02:34:26,815 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:27,316 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:27,316 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:34:27,320 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:27,820 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:27,820 - INFO - Chosen action: Open Inventory (confidence: 0.90)
+2025-04-19 02:34:27,824 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:28,325 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:28,325 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 0.90)
+2025-04-19 02:34:28,329 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:28,830 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:28,831 - INFO - Chosen action: Move North (confidence: 0.90)
+2025-04-19 02:34:28,833 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:29,334 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:29,334 - INFO - Chosen action: Move South (confidence: 0.90)
+2025-04-19 02:34:29,338 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:29,838 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:29,839 - INFO - Chosen action: Move East (confidence: 0.90)
+2025-04-19 02:34:29,841 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:30,342 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:30,343 - INFO - Chosen action: Move West (confidence: 0.90)
+2025-04-19 02:34:30,347 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:30,848 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:30,848 - INFO - Chosen action: Click on Tree (confidence: 0.90)
+2025-04-19 02:34:30,855 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:31,355 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:31,356 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.90)
+2025-04-19 02:34:31,360 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:31,861 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:31,861 - INFO - Chosen action: Click on Gate (confidence: 0.90)
+2025-04-19 02:34:31,867 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:32,368 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:32,368 - INFO - Chosen action: Click on Door (confidence: 0.90)
+2025-04-19 02:34:32,374 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:32,874 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:32,875 - INFO - Chosen action: Click on NPC (confidence: 0.90)
+2025-04-19 02:34:32,879 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:33,379 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:33,380 - INFO - Chosen action: Click on Object (confidence: 0.90)
+2025-04-19 02:34:33,383 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:33,884 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:33,884 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:33,888 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:34,388 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:34,389 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:34,395 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:34,896 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:34,897 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:34,900 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:35,401 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:35,402 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:35,408 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:35,909 - INFO - Forcing different action: Click on Gate
+2025-04-19 02:34:35,910 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:35,910 - INFO - Chosen action: Click on Gate (confidence: 0.50)
+2025-04-19 02:34:35,915 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:36,416 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:36,416 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:36,421 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:36,922 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:36,922 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:36,928 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:37,428 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:37,429 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:37,432 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:37,934 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:37,934 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:37,941 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:38,442 - INFO - Forcing different action: Use Tinderbox on Logs
+2025-04-19 02:34:38,442 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:38,443 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 0.50)
+2025-04-19 02:34:38,449 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:38,950 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:38,951 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:38,955 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:39,456 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:39,456 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:39,460 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:39,960 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:39,961 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:39,964 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:40,465 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:40,465 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:40,472 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:40,973 - INFO - Forcing different action: Click on NPC
+2025-04-19 02:34:40,974 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:40,974 - INFO - Chosen action: Click on NPC (confidence: 0.50)
+2025-04-19 02:34:40,979 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:41,480 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:41,480 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:41,487 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:41,988 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:41,988 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:41,992 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:42,493 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:42,494 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:42,498 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:42,998 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:42,999 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:43,003 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:43,503 - INFO - Forcing different action: Click on Object
+2025-04-19 02:34:43,504 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:43,504 - INFO - Chosen action: Click on Object (confidence: 0.50)
+2025-04-19 02:34:43,510 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:44,011 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:44,011 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:44,016 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:44,517 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:44,518 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:44,521 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:45,022 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:45,023 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:45,029 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:45,530 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:45,531 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:45,535 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:46,035 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:46,036 - INFO - Chosen action: Click on Door (confidence: 0.30)
+2025-04-19 02:34:46,040 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:34:46,541 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:46,541 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:46,548 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:47,048 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:47,049 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:47,053 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:47,554 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:47,554 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:47,558 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:48,059 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:34:48,059 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:34:48,063 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:34:48,126 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:34:48,127 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:34:48,127 - INFO - Final action statistics:
+2025-04-19 02:34:48,127 - INFO - Talk to Survival Expert: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997682.4942157}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997682.9995923}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997684.0116806}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997684.5184689}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997685.02341}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997685.5316794}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997686.5417235}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997687.049865}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997687.555003}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997688.060219}]
+2025-04-19 02:34:48,128 - INFO - Chop Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997666.8124533}]
+2025-04-19 02:34:48,128 - INFO - Light Fire: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997667.3168125}]
+2025-04-19 02:34:48,128 - INFO - Open Inventory: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997667.8210094}]
+2025-04-19 02:34:48,128 - INFO - Use Tinderbox on Logs: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997668.3261902}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997678.4432268}]
+2025-04-19 02:34:48,128 - INFO - Move North: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997668.831403}]
+2025-04-19 02:34:48,129 - INFO - Move South: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997669.3350575}]
+2025-04-19 02:34:48,129 - INFO - Move East: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997669.8392525}]
+2025-04-19 02:34:48,129 - INFO - Move West: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997670.343575}]
+2025-04-19 02:34:48,129 - INFO - Click on Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997670.8492005}]
+2025-04-19 02:34:48,129 - INFO - Click on Fishing Spot: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997671.3570256}]
+2025-04-19 02:34:48,129 - INFO - Click on Gate: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997671.8620617}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997675.9106717}]
+2025-04-19 02:34:48,129 - INFO - Click on Door: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997672.3688653}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997686.0367754}]
+2025-04-19 02:34:48,130 - INFO - Click on NPC: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997672.8759706}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997680.974821}]
+2025-04-19 02:34:48,130 - INFO - Click on Object: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997673.3807452}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997683.504764}]
+2025-04-19 02:35:19,032 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:35:19,033 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:35:19,042 - INFO - Created new action memory file for Player_014
+2025-04-19 02:35:19,042 - INFO - Starting sandbox loop with memory-based learning for Player_014
+2025-04-19 02:35:19,042 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:35:19,042 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:19,042 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.30)
+2025-04-19 02:35:19,045 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:19,545 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:19,546 - INFO - Chosen action: Click on Gate (confidence: 0.30)
+2025-04-19 02:35:19,549 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:20,050 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:20,050 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.90)
+2025-04-19 02:35:20,055 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:20,555 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:20,556 - INFO - Chosen action: Move North (confidence: 0.30)
+2025-04-19 02:35:20,559 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:21,060 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:21,060 - INFO - Chosen action: Click on Door (confidence: 0.30)
+2025-04-19 02:35:21,065 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:21,566 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:21,567 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.90)
+2025-04-19 02:35:21,570 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:22,071 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:22,071 - INFO - Chosen action: Chop Tree (confidence: 0.30)
+2025-04-19 02:35:22,074 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:22,575 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:22,576 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.90)
+2025-04-19 02:35:22,581 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:23,081 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:23,082 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.90)
+2025-04-19 02:35:23,086 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:23,587 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:23,587 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:35:23,591 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:24,091 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:24,091 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:35:24,095 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:24,595 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:24,596 - INFO - Chosen action: Chop Tree (confidence: 0.30)
+2025-04-19 02:35:24,599 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:25,099 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:25,100 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:35:25,103 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:25,496 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:35:25,497 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:35:25,506 - INFO - Created new action memory file for Player_015
+2025-04-19 02:35:25,506 - INFO - Starting sandbox loop with memory-based learning for Player_015
+2025-04-19 02:35:25,507 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:35:25,507 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:25,507 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:25,509 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:25,604 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:25,604 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:35:25,610 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:26,010 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:26,010 - INFO - Chosen action: Light Fire (confidence: 0.30)
+2025-04-19 02:35:26,013 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:26,110 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:26,111 - INFO - Chosen action: Move North (confidence: 0.30)
+2025-04-19 02:35:26,114 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:26,513 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:26,514 - INFO - Chosen action: Click on Object (confidence: 0.30)
+2025-04-19 02:35:26,517 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:26,615 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:26,616 - INFO - Chosen action: Open Inventory (confidence: 0.90)
+2025-04-19 02:35:26,619 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:27,017 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:27,018 - INFO - Chosen action: Move South (confidence: 0.30)
+2025-04-19 02:35:27,023 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:27,119 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:27,120 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 0.90)
+2025-04-19 02:35:27,124 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:27,524 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:27,524 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:35:27,527 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:27,624 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:27,625 - INFO - Chosen action: Move South (confidence: 0.90)
+2025-04-19 02:35:27,628 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:28,028 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:28,028 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:35:28,032 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:28,129 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:28,130 - INFO - Chosen action: Move East (confidence: 0.90)
+2025-04-19 02:35:28,136 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:28,533 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:28,533 - INFO - Chosen action: Click on Object (confidence: 0.30)
+2025-04-19 02:35:28,537 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:28,637 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:28,637 - INFO - Chosen action: Move West (confidence: 0.90)
+2025-04-19 02:35:28,642 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:29,038 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:29,039 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:35:29,043 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:29,143 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:29,144 - INFO - Chosen action: Click on NPC (confidence: 0.30)
+2025-04-19 02:35:29,148 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:29,543 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:29,544 - INFO - Chosen action: Chop Tree (confidence: 0.90)
+2025-04-19 02:35:29,547 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:29,649 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:29,649 - INFO - Chosen action: Click on Tree (confidence: 0.90)
+2025-04-19 02:35:29,653 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:30,048 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:30,048 - INFO - Chosen action: Open Inventory (confidence: 0.90)
+2025-04-19 02:35:30,052 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:30,153 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:30,154 - INFO - Chosen action: Click on Object (confidence: 0.90)
+2025-04-19 02:35:30,158 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:30,553 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:30,554 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 0.90)
+2025-04-19 02:35:30,557 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:30,658 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:30,659 - INFO - Chosen action: Move North (confidence: 0.30)
+2025-04-19 02:35:30,665 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:31,057 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:31,058 - INFO - Chosen action: Move North (confidence: 0.90)
+2025-04-19 02:35:31,061 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:31,166 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:31,166 - INFO - Chosen action: Chop Tree (confidence: 0.30)
+2025-04-19 02:35:31,170 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:31,562 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:31,562 - INFO - Chosen action: Move North (confidence: 0.30)
+2025-04-19 02:35:31,566 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:31,671 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:31,671 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:35:31,676 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:32,067 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:32,067 - INFO - Chosen action: Move South (confidence: 0.30)
+2025-04-19 02:35:32,072 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:32,176 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:32,177 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.90)
+2025-04-19 02:35:32,181 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:32,573 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:32,574 - INFO - Chosen action: Click on Tree (confidence: 0.30)
+2025-04-19 02:35:32,579 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:32,682 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:32,682 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:32,688 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:33,080 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:33,081 - INFO - Chosen action: Move East (confidence: 0.90)
+2025-04-19 02:35:33,085 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:33,189 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:33,190 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:33,197 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:33,586 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:33,587 - INFO - Chosen action: Move West (confidence: 0.90)
+2025-04-19 02:35:33,591 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:33,698 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:33,699 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:33,702 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:34,091 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:34,092 - INFO - Chosen action: Click on Gate (confidence: 0.30)
+2025-04-19 02:35:34,097 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:34,203 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:34,204 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:34,208 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:34,598 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:34,599 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.90)
+2025-04-19 02:35:34,603 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:34,708 - INFO - Forcing different action: Use Tinderbox on Logs
+2025-04-19 02:35:34,709 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:34,709 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 0.50)
+2025-04-19 02:35:34,713 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:35,104 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:35,104 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.90)
+2025-04-19 02:35:35,109 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:35,214 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:35,215 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:35,222 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:35,609 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:35,610 - INFO - Chosen action: Move North (confidence: 0.30)
+2025-04-19 02:35:35,614 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:35,722 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:35,723 - INFO - Chosen action: Chop Tree (confidence: 0.30)
+2025-04-19 02:35:35,727 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:36,115 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:36,115 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.90)
+2025-04-19 02:35:36,122 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:36,228 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:36,229 - INFO - Chosen action: Move East (confidence: 0.30)
+2025-04-19 02:35:36,236 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:36,623 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:36,623 - INFO - Chosen action: Click on NPC (confidence: 0.30)
+2025-04-19 02:35:36,630 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:36,736 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:36,737 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:36,741 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:37,130 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:37,138 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.90)
+2025-04-19 02:35:37,145 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:37,242 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:37,243 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:37,247 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:37,646 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:37,646 - INFO - Chosen action: Click on Door (confidence: 0.90)
+2025-04-19 02:35:37,650 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:37,747 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:37,748 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:37,755 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:38,151 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:38,151 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:35:38,158 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:38,256 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:38,256 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:38,260 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:38,659 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:38,660 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.90)
+2025-04-19 02:35:38,664 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:38,761 - INFO - Forcing different action: Move North
+2025-04-19 02:35:38,762 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:38,762 - INFO - Chosen action: Move North (confidence: 0.50)
+2025-04-19 02:35:38,767 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:39,165 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:39,166 - INFO - Chosen action: Move South (confidence: 0.30)
+2025-04-19 02:35:39,173 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:39,268 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:39,269 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:39,277 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:39,673 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:39,674 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:39,679 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:39,777 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:39,778 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:39,782 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:40,180 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:40,180 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:40,186 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:40,283 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:40,283 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:40,288 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:40,686 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:40,687 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:40,691 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:40,789 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:40,789 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:40,793 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:41,191 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:41,192 - INFO - Chosen action: Move South (confidence: 0.30)
+2025-04-19 02:35:41,196 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:41,294 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:41,294 - INFO - Chosen action: Open Inventory (confidence: 0.30)
+2025-04-19 02:35:41,299 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:41,697 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:41,697 - INFO - Chosen action: Move North (confidence: 0.30)
+2025-04-19 02:35:41,701 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:41,799 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:41,800 - INFO - Chosen action: Click on Tree (confidence: 0.30)
+2025-04-19 02:35:41,804 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:42,202 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:42,203 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:42,207 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:42,305 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:42,305 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:42,313 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:42,708 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:42,708 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:42,713 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:42,813 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:42,814 - INFO - Chosen action: Click on Tree (confidence: 0.30)
+2025-04-19 02:35:42,818 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:43,213 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:43,214 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:43,218 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:43,319 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:43,320 - INFO - Chosen action: Click on NPC (confidence: 0.30)
+2025-04-19 02:35:43,324 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:43,719 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:43,719 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:43,725 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:43,825 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:43,825 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:43,832 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:44,226 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:44,226 - INFO - Chosen action: Click on Door (confidence: 0.30)
+2025-04-19 02:35:44,230 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:44,333 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:44,334 - INFO - Chosen action: Click on Fishing Spot (confidence: 0.30)
+2025-04-19 02:35:44,341 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:44,731 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:44,732 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 0.30)
+2025-04-19 02:35:44,739 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:44,842 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:44,842 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:44,847 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:45,240 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:45,240 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:45,247 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:45,348 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:45,348 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:45,353 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:45,748 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:45,748 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:45,753 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:45,854 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:45,854 - INFO - Chosen action: Light Fire (confidence: 0.30)
+2025-04-19 02:35:45,859 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:46,253 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:46,254 - INFO - Chosen action: Use Tinderbox on Logs (confidence: 0.30)
+2025-04-19 02:35:46,258 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:46,360 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:46,360 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:46,368 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:46,759 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:46,760 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:46,764 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:46,869 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:46,869 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:46,874 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:47,265 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:47,265 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:47,273 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:47,375 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:47,375 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:47,380 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:47,774 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:47,774 - INFO - Chosen action: Move South (confidence: 0.30)
+2025-04-19 02:35:47,779 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:47,881 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:47,881 - INFO - Chosen action: Click on NPC (confidence: 0.30)
+2025-04-19 02:35:47,886 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:48,280 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:48,281 - INFO - Chosen action: Click on Object (confidence: 0.30)
+2025-04-19 02:35:48,286 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:48,387 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:48,387 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:48,392 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:48,787 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:48,788 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:48,794 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:48,893 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:48,893 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:48,898 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:49,295 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:49,295 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:49,300 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:49,398 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:49,399 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:49,404 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:49,801 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:49,801 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:49,807 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:49,904 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:49,905 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:49,910 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:50,308 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:50,308 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:50,313 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:50,411 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:50,411 - INFO - Chosen action: Click on Gate (confidence: 0.30)
+2025-04-19 02:35:50,420 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:50,814 - INFO - Forcing different action: Click on Object
+2025-04-19 02:35:50,814 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:50,814 - INFO - Chosen action: Click on Object (confidence: 0.50)
+2025-04-19 02:35:50,819 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:50,921 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:50,921 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:50,926 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:51,320 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:51,321 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:51,327 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:51,426 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:51,427 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:51,432 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:51,827 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:51,828 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:51,832 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:51,933 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:51,933 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:51,938 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:52,333 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:52,334 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:52,338 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:52,439 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:52,439 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:52,444 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:52,839 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:52,840 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:52,845 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:52,945 - INFO - Forcing different action: Click on NPC
+2025-04-19 02:35:52,945 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:52,946 - INFO - Chosen action: Click on NPC (confidence: 0.50)
+2025-04-19 02:35:52,951 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:53,346 - INFO - Forcing different action: Light Fire
+2025-04-19 02:35:53,347 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:53,347 - INFO - Chosen action: Light Fire (confidence: 0.50)
+2025-04-19 02:35:53,352 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:53,452 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:53,453 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:53,459 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:53,852 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:53,853 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:53,861 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:53,959 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:53,960 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:53,968 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:54,361 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:54,362 - INFO - Chosen action: Chop Tree (confidence: 0.30)
+2025-04-19 02:35:54,366 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:54,469 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:54,469 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:54,479 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:54,867 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:54,867 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:54,872 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:54,980 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:54,981 - INFO - Chosen action: Light Fire (confidence: 0.30)
+2025-04-19 02:35:54,988 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:55,373 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:55,373 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:55,381 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:55,489 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:55,490 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:55,499 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:55,883 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:55,883 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:55,888 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:55,999 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:56,000 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:56,006 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:56,389 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:56,390 - INFO - Chosen action: Click on Tree (confidence: 0.30)
+2025-04-19 02:35:56,394 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:56,507 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:56,507 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:56,515 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:56,895 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:56,896 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:56,904 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:57,016 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:57,016 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:57,021 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:57,405 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:57,406 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:57,410 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:57,522 - INFO - Forcing different action: Chop Tree
+2025-04-19 02:35:57,522 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:57,522 - INFO - Chosen action: Chop Tree (confidence: 0.50)
+2025-04-19 02:35:57,527 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:57,911 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:57,911 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:57,916 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:58,028 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:58,028 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:58,033 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:58,416 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:58,416 - INFO - Chosen action: Move West (confidence: 0.30)
+2025-04-19 02:35:58,421 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:58,533 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:58,534 - INFO - Chosen action: Click on Object (confidence: 0.30)
+2025-04-19 02:35:58,542 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:58,922 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:58,923 - INFO - Chosen action: Open Inventory (confidence: 0.30)
+2025-04-19 02:35:58,927 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:35:59,043 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:59,043 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:59,048 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:59,158 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:35:59,158 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:35:59,158 - INFO - Final action statistics:
+2025-04-19 02:35:59,158 - INFO - Click on Fishing Spot: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997719.0431805}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997721.567568}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997722.576467}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997723.0827415}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997732.177884}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997744.3345807}]
+2025-04-19 02:35:59,158 - INFO - Click on Gate: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997719.5467763}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997750.412154}]
+2025-04-19 02:35:59,159 - INFO - Talk to Survival Expert: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997752.439647}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997753.4536984}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997753.9605315}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997754.4700637}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997755.4905298}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997756.0006492}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997756.5080316}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997757.0172892}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997758.0286689}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997759.0440753}]
+2025-04-19 02:35:59,159 - INFO - Move North: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997720.556574}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997726.1116025}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997730.6594868}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997738.763282}]
+2025-04-19 02:35:59,159 - INFO - Click on Door: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997721.0608177}]
+2025-04-19 02:35:59,159 - INFO - Chop Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997722.0720956}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997724.5966802}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997731.1671994}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997735.7235858}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997757.523022}]
+2025-04-19 02:35:59,159 - INFO - Light Fire: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997723.5877743}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997724.0922782}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997725.100326}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997725.6046677}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997731.6724253}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997745.854887}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997754.981457}]
+2025-04-19 02:35:59,159 - INFO - Open Inventory: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997726.616251}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997741.2951922}]
+2025-04-19 02:35:59,160 - INFO - Use Tinderbox on Logs: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997727.1206794}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997734.709828}]
+2025-04-19 02:35:59,160 - INFO - Move South: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997727.6254656}]
+2025-04-19 02:35:59,160 - INFO - Move East: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997728.130371}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997736.2296054}]
+2025-04-19 02:35:59,160 - INFO - Move West: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997728.6378834}]
+2025-04-19 02:35:59,160 - INFO - Click on NPC: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997729.144516}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997743.3205655}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997747.8817954}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997752.9462209}]
+2025-04-19 02:35:59,160 - INFO - Click on Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997729.6500332}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997741.8003936}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997742.8147125}]
+2025-04-19 02:35:59,160 - INFO - Click on Object: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997730.1547625}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997758.5345194}]
+2025-04-19 02:35:59,428 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:59,428 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:59,436 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:35:59,937 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:35:59,938 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:35:59,942 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:00,443 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:00,443 - INFO - Chosen action: Chop Tree (confidence: 0.30)
+2025-04-19 02:36:00,448 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:36:00,949 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:00,950 - INFO - Chosen action: Click on Door (confidence: 0.30)
+2025-04-19 02:36:00,957 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:36:01,457 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:01,458 - INFO - Chosen action: Move South (confidence: 0.30)
+2025-04-19 02:36:01,463 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:36:01,964 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:01,964 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:01,969 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:02,470 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:02,471 - INFO - Chosen action: Light Fire (confidence: 0.30)
+2025-04-19 02:36:02,479 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:02,980 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:02,980 - INFO - Chosen action: Light Fire (confidence: 0.30)
+2025-04-19 02:36:02,985 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:03,338 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:36:03,339 - INFO - Starting tutorial step: survival_expert_intro
+2025-04-19 02:36:03,348 - INFO - Created new action memory file for Player_016
+2025-04-19 02:36:03,348 - INFO - Starting sandbox loop with memory-based learning for Player_016
+2025-04-19 02:36:03,348 - INFO - Tutorial progress: Step survival_expert_intro | Score: 1
+2025-04-19 02:36:03,349 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:03,349 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:03,351 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:03,486 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:03,486 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:03,493 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:03,852 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:03,852 - INFO - Chosen action: Chop Tree (confidence: 0.90)
+2025-04-19 02:36:03,857 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:36:03,994 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:03,995 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:04,001 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:04,357 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:04,358 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:36:04,362 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:04,502 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:04,503 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:04,509 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:04,862 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:04,863 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:36:04,866 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:05,009 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:05,010 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:05,015 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:05,367 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:05,368 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:36:05,371 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:05,516 - INFO - Forcing different action: Move South
+2025-04-19 02:36:05,516 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:05,516 - INFO - Chosen action: Move South (confidence: 0.50)
+2025-04-19 02:36:05,521 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:36:05,872 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:05,872 - INFO - Chosen action: Click on Door (confidence: 0.30)
+2025-04-19 02:36:05,875 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:36:06,022 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:06,022 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:06,027 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:06,376 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:06,376 - INFO - Chosen action: Light Fire (confidence: 0.90)
+2025-04-19 02:36:06,380 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:06,528 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:06,528 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:06,534 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:06,881 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:06,882 - INFO - Chosen action: Open Inventory (confidence: 0.90)
+2025-04-19 02:36:06,887 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:36:07,035 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:07,035 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:07,041 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:07,240 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:36:07,241 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:36:07,542 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:07,542 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:07,548 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:08,048 - INFO - Forcing different action: Move East
+2025-04-19 02:36:08,049 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:08,049 - INFO - Chosen action: Move East (confidence: 0.50)
+2025-04-19 02:36:08,058 - INFO - Action outcome: [FAILURE]
+2025-04-19 02:36:08,559 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:08,560 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:08,568 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:09,070 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:09,070 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:09,079 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:09,580 - INFO - Context: Tutorial Island - survival_expert_intro
+2025-04-19 02:36:09,581 - INFO - Chosen action: Talk to Survival Expert (confidence: 0.50)
+2025-04-19 02:36:09,585 - INFO - Action outcome: [SUCCESS]
+2025-04-19 02:36:09,756 - INFO - Sandbox loop interrupted by user
+2025-04-19 02:36:09,756 - INFO - Sandbox loop ended. Final tutorial progress score: 1
+2025-04-19 02:36:09,756 - INFO - Final action statistics:
+2025-04-19 02:36:09,757 - INFO - Talk to Survival Expert: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997763.9954226}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997764.5035293}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997765.0107763}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997766.0229676}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997766.529152}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997767.036067}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997767.5427973}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997768.5605395}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997769.0710132}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997769.581361}]
+2025-04-19 02:36:09,757 - INFO - Light Fire: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997726.0107665}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997727.5249672}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997728.0293531}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997729.0395555}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997738.1523123}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997753.3478606}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997762.4714093}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997762.9810116}]
+2025-04-19 02:36:09,757 - INFO - Click on Object: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997726.5147474}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997728.5342379}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997748.2815032}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997750.814955}]
+2025-04-19 02:36:09,758 - INFO - Move South: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997727.0186052}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997732.0681543}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997739.166428}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997741.192406}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997747.774717}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997761.458746}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997765.5172918}]
+2025-04-19 02:36:09,758 - INFO - Chop Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997729.544555}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997754.3626337}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997760.4442346}]
+2025-04-19 02:36:09,758 - INFO - Open Inventory: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997730.0492382}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997758.9234183}]
+2025-04-19 02:36:09,758 - INFO - Use Tinderbox on Logs: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997730.5543685}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997744.732411}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997746.254519}]
+2025-04-19 02:36:09,758 - INFO - Move North: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997731.0587502}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997731.563371}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997735.6105173}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997741.6981575}]
+2025-04-19 02:36:09,758 - INFO - Click on Tree: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997732.574754}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997756.3903286}]
+2025-04-19 02:36:09,759 - INFO - Move East: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997733.081448}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997768.0499725}]
+2025-04-19 02:36:09,759 - INFO - Move West: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997733.5879214}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997758.4171019}]
+2025-04-19 02:36:09,759 - INFO - Click on Gate: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997734.093452}]
+2025-04-19 02:36:09,759 - INFO - Click on Fishing Spot: [{'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997734.5995946}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997735.1051033}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997736.116338}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997737.138606}, {'success': True, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997738.6604383}]
+2025-04-19 02:36:09,759 - INFO - Click on NPC: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997736.6240675}]
+2025-04-19 02:36:09,759 - INFO - Click on Door: [{'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997737.6468084}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997744.226974}, {'success': False, 'context': {'step': 'survival_expert_intro', 'screen_text': 'You are in Tutorial Island - survival_expert_intro. What would you like to do?'}, 'timestamp': 1744997760.9501908}]
