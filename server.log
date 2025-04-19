@@ -1,0 +1,10 @@
+2025-04-19 11:09:52,571 - RuneGPTServer - INFO - Starting RuneGPT WebSocket server on 0.0.0.0:8765
+2025-04-19 11:09:52,574 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-04-19 11:09:52,574 - RuneGPTServer - INFO - Server is running
+2025-04-19 11:09:58,025 - websockets.server - INFO - server closing
+2025-04-19 11:09:58,026 - websockets.server - INFO - server closed
+2025-04-19 11:10:16,265 - RuneGPTServer - INFO - Starting RuneGPT WebSocket server on 0.0.0.0:8765
+2025-04-19 11:10:16,267 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-04-19 11:10:16,268 - RuneGPTServer - INFO - Server is running
+2025-04-19 11:10:24,908 - websockets.server - INFO - server closing
+2025-04-19 11:10:24,908 - websockets.server - INFO - server closed
